@@ -496,53 +496,53 @@ Ripple использует минимальный баланс<sup id="fnref:12
 
 Также должна существовать медленная константа давящая на увеличение резервного коэффициента каждый раз, когда загрузка сети ниже 50%, до тех пор, пока сеть не достигнет максимального резервного коэффициента. Максимальный резервный коэффициент определяет минимальную необходимую долю для заспамливания сети короткими импульсами.
 
-Any user with fewer than TOTAL\_TOKENS / (2 \* RESERVE\_RATIO) will be unable to produce enough transactions to fill even a single block. With a reserve ratio of 200, this means any user with less than 0.25% of the currency cannot create enough transactions to delay anyone's service.
+Любой пользователь с количеством токенов, которое меньше чем ВСЕГО_ТОКЕНОВ / (2 * РЕЗЕРВНЫЙ_КОЭФФИЦИЕНТ) не сможет произвести достаточно количество транзакций для наполнения даже одного блока. С резервным коэффициентов 200 это означает, что любой пользователь с балансом менее 0.25% валюты не сможет создать достаточное количество транзакций, чтобы остановить обслуживание других.
 
-### Effectiveness Relative to Fees
+### Эффективность по Отношению к Комиссиям
 
-To compare the effectiveness of rate limiting to fees we must consider how the two systems react to intentional network flooding by an attacker. Under Bitcoin an attacker with $10,000 dollars could disrupt service for an entire day by filling every single block. The same attacker would be unable to disrupt service for even a single block under the dynamic fractional reserve rate limiting approach.
+Для сравнения эффективности ограничения лимитов с трансакционными комиссиями, мы должны проанализировать реагирование обоих систем на умышленную попытку атакующим заспамить сеть. В Биткоине атакующий с 500 тыс. рублями сможет уничтожить сервис на целый день заполняя каждый отдельный блок. Тот же самый атакующий не сможет остановить функционирование сети даже на один блок при подходе с динамичными частичным резервированием на базе ограничения лимитов.
 
-If we go to a more extreme case and assume the attacker holds 1% of all coins then we presume an attacker with $60 million dollars. Such an attacker could deny the Bitcoin blockchain service for 16 years unless the miners increased fees or capacity. Even if fees were raised to $15 per transaction, the attacker could still keep the network flooded for 16 days.
+Если мы рассмотрим более экстремальный случай и предположим, что атакующий контролирует 1% всех монет, тогда мы даем атакующему около 3.5 млрд. рублей. Такой атакующий может остановить обслуживание блокчейна Биткоина на 16 лет до тех пор пока майнеры не увеличат транзакционные комиссии или пропускную способность. Даже если транзакционные комиссии будут повышены до 1000 рублей за транзакцию, атакующий все равно сможет уничтожать сеть на протяжении 16 суток.
 
-Under the rate limiting approach, someone who holds 1% of all coins with an intent to flood the network would achieve their goal for less than 30 seconds.
+При подходе ограничения лимитов атакующий который контролирует 1% всех монет сможет достигнуть своей гнусной цели всего на 30 секунд.
 
-### Renting vs. Buying vs. Time Sharing
+### Аренда против Покупки против Совместного Использования
 
-When someone owns a house they expect the right to use the house for free. If a group of people buy a house together then each can expect the right to use the house proportional to their percentage ownership in the house. A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
+Когда кто-то владеет домом он ожидает, что у него есть право использовать дом бесплатно. Если группа людей купит дом совместно, тогда каждый ожидает, что у него есть право использовать дом пропорционально доле собственности в доме. Блокчейн основанный на комиссиях это все равно, что арендовать дом у своих пользователей, в то время как ограничение лимитов это совместное использование по времени.
 
-If a house is owned by multiple people then those individuals must decide how they wish to timeshare the house. Someone who owns 50% of the house but only uses it one weekend per year might expect to be paid by the individuals who take their unused time. This is the mindset of a fee based system.
+Если дом находится в собственности у нескольких людей, эти персоны должны решить как они хотят его совместно использовать. Кто-то, кто владеет 50% дома, но использует его только одну неделю в год, может ожидать оплаты от тех персон, которые используют его в это время. Это менталитет системы основанной на транзакционных комиссиях.
 
-On the other hand, someone who owns 50% of the house is speculating that demand for the house will increase in the future and they will be able to sell their stake for more. Any owner who owns more of a house than they use becomes a real estate speculator. With this mindset rather than collecting rent, they collect appreciation.
+С другой стороны, кто-то владеющий 50% дома может предполагать, что спрос на дом вырастет в будущем, и он сможет продать его долю дороже. Любой собственник, который владеет бОльшим количеством дома, чем его использует, становится спекулянтом по недвижимости. С таким менталитетом вместо того, чтобы получать оплату, такой человек получает уважение.
 
-The value of a share is derived from how much time it can potentially grant its owner. Owning 1% of a house and getting it 1 weekend per year is the lowest value of a share. However, if half of the shareholders never use their weekend, then the value per timeshare rises to 2 weekends per year. If those inactive users instead opt to rent their unused time, then it falls back to 1 weekend per year. If those unused timeshares were sold to people who would use them then the value of a timeshare would fall by 50%. Unless the rent collected is greater than the fall in share value the timeshare owners are making an economic miscalculation.
+Ценность доли происходит от количества времени, которое доля может потенциально дать своему собственнику. Владение 1% дома и возможность использовать его 1 неделю это минимальная цена доли. Однако, если половина акционеров никогда не используют их время, тогда ценность за минимальную цену увеличится до 2 недель в год. Если эти неактивные пользователи вместо этого захотят сдавать в аренду их неиспользуемое время, тогда ценность опять вернется на прежнюю отметку. Если все неиспользованные время-доли были бы проданы людям, которые бы пользовались ими, тогда ценность времядоли упала бы на 50%. До тех пор пока собранная арендная плата выше падения время-доли в цене - собственники делают экономический просчет.
 
-Using this rationale we can assume that a system based on fees will either be more expensive for its users or be less profitable for its collective owners. An individual small owner may profit by renting out his small time slice, but only at the expense of all other timeshare owners. In effect, the cost of the falling timeshare value is shared among all owners whereas the profits are centralized in the single owner who decided to rent his share.
+Используя эту логику мы можем предположить, что система основанная на комиссиях будет либо более дорогой для своих пользователей или будет менее прибыльна для их коллективных собственников. Индивидуальный малый собственник может получить выгоду через сдачу своего маленького кусочка в аренду, но только за счет всех других времядольщиков. Таким образом, стоимость падающей время-доли разделяется между собственниками, в то же время прибыли централизованы у одного собственника, который решил сдать свою долю в аренду.
 
-We can conclude from this that a blockchain is best served by not using usage fees at all. If a usage fee were to be charged as an alternative to rate limiting, then it should be the equivalent of buying enough timeshares and committing to hold them long enough to gain the right use it once.
+Из вышесказанного мы можем сделать вывод, что для блокчейна лучше вообще не использовать транзакционные комиссии. Если бы комиссии за использование взимались как альтернатива к ограничению лимитов, это было бы аналогично покупке достаточного количества время-долей и обещанию держать их, чтобы получить право использовать эту время-долю всего один раз.
 
-Stated another way, a transaction fee should be equal to the minimum account balance necessary to transact once per week and it should be refunded at the end of the week. Assume the minimum account balance is $1 and allows someone to transact once per week. If someone with a $1 balance that wishes to perform 5 transactions at once they will have to increase their balance to $5 for a week either before or after their transactions.
+Говоря другими словами, транзакционные комиссии должны равняться минимальному балансу аккаунта необходимого для обеспечения транзакций раз в неделю и такой аккаунт должен пополняться каждый раз в конце недели. Давайте предположим, что минимальный размер баланса 100 рублей позволяет кому-либо делать транзакции один раз в неделю. Если кто-то с балансом 100 рублей желает делать 5 транзакций в неделю, тогда ему надо будет увеличить баланс до 500 рублей.
 
-In theory a market could form where users can borrow the stake required. In practice it is more efficient for users to simply buy and sell the timeshares necessary to meet their desired usage rate. In other words, the cost of negotiating micro-loans is greater than the cost of maintaining a balance suitable for your maximum weekly usage.
+В теории рынок может формироваться в направлении займов необходимой время-доли. На практике пользователям намного эффективнее просто покупать и продавать их время-доли необходимые для удовлетворения их потребностей по использованию. Другими словами, стоимость согласования микрозайма выше, чем стоимость поддержания баланса необходимого для комфортного еженедельного использования.
 
-Decentralized rate limiting of transactions can enable new types of decentralized applications that were not viable when every use of the application required a micropayment. This new model gives application developers the ability to decide if and when to charge their users for transactions.
+Децентрализованное ограничение лимитов транзакций может сделать возможным новые типы децентрализованных приложений, которые были невозможны, когда каждое использование приложения требовало микроплатеж. Эта новая модель дает разработчику приложений возможность решать когда и за что взимать плату с пользователей за транзакции.
 
-# Performance and Scalability
+# Производительность и Масштабируемость
 
-The Steem network is built upon Graphene, the same technology that powers BitShares. Graphene has been publicly demonstrated sustaining over 1000 transactions per second on a distributed test network. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
+Сеть Стим построена на Graphene, на основе той же самой технологии, на которой построен BitShares. Graphene публично продемонстрировал способность обрабатывать больше 1000 транзакций в секунду в распределенной тестовой сети. Graphene может легко масштабироваться до 10 тыс. транзакций в секунду с относительно простыми улучшениями коммуникационного протокола и банального апгрейда серверного оборудования нод.
 
-## Reddit Scale
+## Масштаб Реддита
 
-Steem is capable of handling a larger userbase than Reddit. In 2015 Reddit's 8.7 million users generated an average of 23 comments per second<sup id="fnref:13"><a href="#fn:13" class="footnote-ref">13</a></sup> , with an average of 83 comments per year per user. There were 73 million top-level posts, for an average of 2 new posts per second. There were about 7 billion up votes creating an average voting rate of 220 votes per second. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
+Стим способен обслуживать пользовательскую базу аналогичную Reddit. В 2015 году 8.7 миллионов пользователей создавали в среднем 23 комментария в секунду<sup id="fnref:13"><a href="#fn:13" class="footnote-ref">13</a></sup>, со средним показателем 83 комментария в секунду. Было создано 73 миллиона постов верхнего уровня, со средним показателем 2 поста в секунду. There were about 7 billion up votes creating an average voting rate of 220 votes per second. В общей сложности, если бы Reddit работал бы на блокчейне, то он бы требовал в среднем 250 транзакций в секунду.
 
-To achieve this industry-leading performance, Steem has borrowed lessons learned from the LMAX Exchange<sup id="fnref:14"><a href="#fn:14" class="footnote-ref">14</a></sup>, which is able to process 6 million transactions per second. Among these lessons are the following key points:
+Для того, чтобы достигнуть такой производительности (лидирующей в блокчейн отрасли) Стим позаимствовал уроки полученные от архитектуры LMAX Exchange<sup id="fnref:14"><a href="#fn:14" class="footnote-ref">14</a></sup>, которая способна обрабатывать 6 миллионов транзакций в секунду. Ключевые пункты полученные из этих уроков:
 
-1. Keep everything in memory.
-2. Keep the core business logic in a single thread.
-3. Keep cryptographic operations (hashes and signatures) out of the core business logic.
-4. Divide validation into state-dependent and state-independent checks.
-5. Use an object oriented data model.
+1. Держи все в оперативной памяти.
+2. Держи ключевую бизнес логику в одном потоке.
+3. Держи криптографические операции (хеши и подписи) вне бизнес логики.
+4. Разделяй валидацию на проверки зависимые от состояния и независимые от состояния.
+5. Используй объектно-ориентированную модель данных.
 
-By following these simple rules, Steem is able to process 10,000 transactions per second without any significant effort devoted to optimization.
+Следуя этим простым правилам, Стим способен обрабатывать 10 тыс. транзакций в секунду без каких либо существенных усилий по оптимизации.
 
 Keeping everything in memory is increasingly viable given the recent introduction of Optanetechnology from Intel <sup id="fnref:15"><a href="#fn:15" class="footnote-ref">15</a></sup>. It should be possible for commodity hardware to handle all of the business logic associated with Steem in a single thread with all posts kept in memory for rapid indexing. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optanetechnology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
 
