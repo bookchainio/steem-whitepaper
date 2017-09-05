@@ -638,37 +638,37 @@ Ripple использует минимальный баланс<sup id="fnref:12
 
 ## Ценность в Ссылках
 
-Интернет бы потерял большую часть своей ценности если бы все ссылки были бы удалены из контента. Взаимосвязи между страницами позволяют Гуглу идентифицировать лучший рецепт яблочного пирога среди 16 миллионов результатов. Without the links the only information Google would have is word frequency.
+Интернет бы потерял большую часть своей ценности если бы все ссылки были бы удалены из контента. Взаимосвязи между страницами позволяют Гуглу идентифицировать лучший рецепт яблочного пирога среди 16 миллионов результатов. Без ссылок, единственную информацию, которую Гугл бы имел - это частота слов.
 
-Links can take many forms and have adapted over time. Every time a user votes on content in a social network they add a link between themselves and the content. This in turn links the consumer to the producer through the content. The more links a network has the more valuable the information becomes. It is the relative and intentional connectedness of information that gives it value.
+Ссылки могут принимать многие формы и адаптироваться со временем. Каждый раз когда пользователь лайкает кусочек контента в социальной сети, то он добавляет ссылку между ним и контентом. В свою очередь это связывает потребителя и производителя через контент. Чем больше ссылок в такой сети, тем более ценной информация становится. Это относительное и намеренное соединение информации обеспечивает ей ценность.
 
-A social network can maximize the value extracted from a set of content by maximizing the quantity and quality of links. Curating content is expensive and time consuming while being near impossible for computers to perform in the absence of links. Steem rewards users who are among the first to find and link to new content.
+Социальная сеть может максимизировать ценность извлеченную из набора контента максимизируя количество и качество ссылок. Курирование контента дорогое удовольствие, которое требует временных затрат. В тоже время эта задача практически нерешаема для компьютеров при отсутствии ссылок. Стим вознаграждает пользователей, которые первыми находят хороший контент.
 
-By incentivising curation the Steem network is able to use automated algorithms to extract the most valuable information from a massive amount of content.
+Через стимуляцию курирования сеть Стим способна использовать автоматизированные алгоритмы для того, чтобы выделить ценную информацию из огромного количества контента.
 
-## Solving the Cryptocurrency Onboarding Problem
+## Решение Проблемы Приземления Криптовалютных Пользователей
 
-It isn't easy to get into cryptocurrency<sup id="fnref:24"><a href="#fn:24" class="footnote-ref">24</a></sup> . Someone who discovers Bitcoin and wants to try it out quickly learns that they will need to sign up with an exchange and fund their account with a credit card or wire transfer. What would Facebook's adoption rate have been like if you had to fork over money and a two forms of ID?
+Нелегко "войти" в криптовалюту<sup id="fnref:24"><a href="#fn:24" class="footnote-ref">24</a></sup>. Кто-то, кто обнаружил Биткоин и хочет попробовать его, быстро понимает, что ему надо зарегистрироваться на бирже и пополнить счет кредитной картой или через банковский перевод. Какой бы была скорость адаптации Фейсбука если нужно было сделать такие действия, с деньгами и двумя формами идентификации личности?
 
-Steem solves this problem by giving everyone a way to get paid for doing simple, but valuable, tasks. This will help to widely distribute STEEM tokens. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless.)
+Стим решает проблему давая каждому способ заработать за то, чтобы делать простые, но ценные задачи. Это поможет распределить Стим токены очень широко. Это полезно, потому-что криптовалюты тоже имеют сетевой эффект (большее количество пользователей делают валюту еще более ценной). В качестве экстремального примера подумайте, а что если бы Сатоши взял бы 100% биткоинов себе. Такой Биткоин ничего не стоил бы.
 
-## Solving the Cryptocurrency Liquidation Problem
+## Решение Проблемы Ликвидации Криптовалюты
 
-A currency that is difficult to use or impossible to sell has little value. Someone who comes across $1.00 worth of Bitcoin will discover that it costs more than $1.00 to sell that Bitcoin. They have to create an account with an exchange, perform KYC validation, and pay fees. Small amounts of cryptocurrency are like small change that people are unwilling to bend over to pick up.
+Валюта, которую сложно использовать или невозможно продать - имеет малую ценность. Тот, кто обладает 100 рублями ценности в биткоинах, обнаружит, что для того, чтобы продать их нужно больше чем 100 рублей. Нужно открыть счет на бирже, пройти KYC валидацию, заплатить комиссии. Маленькое количество криптовалюты - это как мелкая сдача, которую люди не особо желают, так же как не желают нагнуться, чтобы поднять упавшую монетку.
 
-Merchants give users a way to quickly convert their cryptocurrency into tangible goods and services. Merchants need a currency pegged to their unit of account, normally dollars. Accepting a volatile currency introduces significant accounting overhead.
+Торговцы дают пользователям способ быстро конвертировать их криптовалюту в ощутимые товары и услуги. Торговцам нужна валюта привязанная к их учетной единице, обычно американскому доллару. Прием волатильность валюты обычно создает существенный головняк в учете.
 
-Merchants will accept any currency if it increases their sales. Having a large user base with a stable currency such as SMD lowers the barrier to entry for merchants. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
+Торговцы будут принимать любую валюту, если она повышает их продажи. Наличие большой пользовательской базы со стабильной валютой, такой как стим-бакс снижает барьеры на вход для торговцев. Наличие торговцев улучшает систему, создавая возможность выходить из системы без необходимости, что-то обменивать.
 
-Another way that people can liquidate the small amounts of cryptocurrency they receive from participating on the Steem platform is through tipping others. This is like leaving the small change as a tip for your waiter. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
+Другой способ которым люди могут ликвидировать небольшое количество криптовалюты, которое они получают от участие в Стим платформе - это оставлять на чай другим. Это как оставлять мелкую сдачу официанту. Когда достаточно большое количество людей оставляет небольшие чаевые, то они могут собираться в значимые количества. Ты и официант приобретаете от чаевых.
 
-## Censorship
+## Цензура
 
-Steem is a decentralized network that is operated by miners in jurisdictions around the world. All user actions are publicly recorded on the blockchain, and can be publicly verified. This means that there is no single entity that can censor content that is valued by STEEM holders.
+Стим это децентрализованная сеть, которая обслуживается делегатами в разных юрисдикциях по всему миру. Все пользовательские действие публично записаны на блокчейне и могут быть публично верифицированы. Это означает, что не существует ни одной сущности которая может цензурировать контент, который ценен для пользователей держателей стимов.
 
-Individual websites such as steemit.com may censor content on their particular site, but content published on the blockchain is inherently broadcast traffic and mirrors all around the world may continue to make it available.
+Отдельные вебсайты такие как steemit.com могут цензурировать контент на их конкретном сайте, но контент опубликованный на блокчейне это широковещательный трафик, а зеркала по всему миру могут продолжать делать его ценным.
 
-Freedom of speech is the foundation of all other liberties and any infringement upon freedom of speech undermines the only peaceful means of reaching consensus: discussion. Without free discussion voters cannot be fully informed, and uninformed voters are a greater threat to society than losing the right to vote. Censorship is a means of stealing votes through limiting public discourse. Steem is committed to enabling free speech and building a free society.
+Свобода слова это основание для всяких свобод, а любые нарушения принципа свободы слова подрывают единственный миролюбивый способ достижения согласия: дискуссия. Without free discussion voters cannot be fully informed, and uninformed voters are a greater threat to society than losing the right to vote. Censorship is a means of stealing votes through limiting public discourse. Steem is committed to enabling free speech and building a free society.
 
 ## Solving Organic Discovery via Search Engine Optimization
 
