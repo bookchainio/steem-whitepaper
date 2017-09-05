@@ -145,25 +145,25 @@ Steem Dollars are referred to with the symbol SMD, an acronym for Steem Dollars.
 
 На каждый 1 стим-бакс, Стим создает 19 стимов конвертированных в стим-мощь. Это означает, что максимально возможный коэффициент долг / собственность, в условиях стабильных рынков, составит 1:19 или в районе 5%. Если стим резко потеряет в цене 50%, тогда соотношение вырастет до 10%. 88% падение цены стима может привести к соотношению 40%. Предполагается, что стоимость стима в конце концов стабилизируется, а отношение долга к собственному капиталу естественным образом вернется к целевым 5%.
 
-The idea behind having a conservative 5% debt to ownership ratio is that even if all debt were converted and sold there should be ample buyers and the effective dilution of the token holders remains relatively small.
+Идея поддерживать консервативные 5% в том, что даже если все долги конвертированы и проданы на рынке, то должно быть достаточное количество покупателей, при этом относительное размытие собственников должно оставаться относительно низким.
 
-A rapid change in the value of STEEM can dramatically change the debt-to-ownership ratio. The percentage floors used to compute STEEM creation are based on the supply including the STEEM value of all outstanding SMD and SP (as determined by the current rate / feed).
+Быстрое изменение цены стима может драматическим образом изменять коэффициент долга по отношению к собственному капиталу. Процентные пороги используемые для вычисления количества создаваемых стимов основаны на общем количестве токенов, включая стоимость стимов и стимбаксов (по оценке текущего ценового фида).
 
-### Interest
+### Процентная ставка
 
-SMD pays holders interest. The interest rate is set by the same people who publish the price feed so that it can adapt to changing market conditions. All debt carries risk to the lender. Someone who holds SMD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SMD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
+Стим-баксы платят держателям процентный доход. Процентная ставка устанавливается теми же самыми людьми, которые публикуют ценовые фиды таким образом, чтобы можно было адаптироваться к изменяющимся рыночным условиям. Долги всегда означают риски для заемщика. Если кто-то держит стим-баксы не погашая их, он очевидным способом кредитует сообщество стоимостью этих долларов. Такие люди верят, что в определенный момент времени в будущем будет кто-то, кто купит стим-баксы у них за американский доллар, или спекулянты и инвесторы захотят купить стимы, в которые всегда можно конвертировать стим-баксы.
 
-STEEM and SP holders gain leverage when members of the community are willing to hold SMD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
+Держатели стимов и стим-мощи получают финансовый левередж, когда члены сообщества имеют желание держать стим-баксы. Этот левередж усиляет результаты роста и вносит свой вклад в развитие Стима. Держатели стимов страдают от постоянного размывания если цена падает. Криптовалютные проекты показали, что доходы от роста пользовательской базы, которые желают доверять сети свой капитал, добавляют гораздо больше ценности сети, чем любое размытие, которое может случиться во время разворота цены в обратном направлении.
 
-### Setting Price Feeds
+### Установка ценовых фидов
 
-Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity<sup id="fnref:4"><a href="#fn:4" class="footnote-ref">4</a></sup> which states that it is impossible to have all three of the following at the same time:
+Проницательные читатели поймут, что актив, платящий процент с ограниченным предложением, может торговаться выше или ниже, чем стоимость обеспечивающего актива, в зависимости от возможностей зарабатывать процент по такому же активу. При высокой процентной ставке, выплачиваемой по активу, привязанному к американскому доллару, много людей будут желать купить ограниченный объем стим-баксов до тех пор пока он больше не будет стоить 1 американский доллар. В любой экономической системе существует принцип известный как Невозможная Троица<sup id="fnref:4"><a href="#fn:4" class="footnote-ref">4</a></sup>, который постулирует, что система не может иметь сразу три свойства в один момент времени:
 
-1. A stable exchange rate
-2. Free capital movement
-3. An independent monetary policy
+1. Стабильная обменная ставка
+2. Свободное движение капитала
+3. Независимая денежная политика
 
-If Steem feed producers aim to have an independent monetary policy allowing it to create and destroy Steem Dollars while simultaneously having full control over the interest rate then they will encounter problems. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
+Если производители ценовых фидов Стима будут иметь независимую денежную политику позволяющую создавать или уничтожать стим-баксы, в то же время сохраняя полный контроль над процентной ставкой, тогда у них возникнут проблемы. Невозможная Троица говорит, что стимбаксы либо нуждаются в ограничении движения капитала, либо должны иметь нестабильный обменный курс по отношению к доллару, либо иметь ограниченный контроль над процентной ставкой.
 
 The primary concern of Steem feed producers is to maintain a stable one-to-one conversion between SMD and the U.S. Dollar (USD). Any time SMD is consistently trading above $1.00 USD interest payments must be stopped. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SMD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
 
