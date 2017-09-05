@@ -259,7 +259,7 @@ One of the primary goals of Steem's reward system is to produce the best discuss
 
 The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content. Steem weighs payouts proportional to \\(n^{2}\\) the amount of Steem Power voting for a post. In other words, post x would receive a payout proportional to:
 
-  \\(votes[x]^{2} / sum(votes[0...n]^{2})\\)
+    \\(votes[x]^{2} / sum(votes[0...n]^{2})\\)
                     
 
 Zipf's Law[^7] is one of those empirical rules that characterize a surprising range of real-world phenomena remarkably well. It says that if we order some large collection by size or popularity, the second element in the collection will be about half the measure of the first one, the third one will be about one-third the measure of the first one, and so on. In general, the \\(k^{th}\\)-ranked item will measure about 1/k of the first one.
