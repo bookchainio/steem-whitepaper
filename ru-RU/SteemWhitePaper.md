@@ -494,7 +494,7 @@ Ripple использует минимальный баланс<sup id="fnref:12
 
 В то время как снижения резервного коэффициента должны быть быстрыми и нелинейными для контр-ответов, повышения резервного коэффициента должно быть медленными и линейными. Если сеть будет подстраиваться в обоих направлениях за 30 секунд, тогда атакующий сможет расшатывать сеть. Поток транзакций должен быть скорректирован за 30 секунд, с тем чтобы быть восстановленным на уровень до атаки за целый час. При такой модели атакующий сможет заспамить сеть на 30 секунд в час или менее 1% от всего времени.
 
-There must be a slow constant upward pressure on the reserve ratio any time network usage is below 50% until the network hits the maximum reserve ratio. The maximum reserve ratio determines the minimum required stake to flood the network in short bursts.
+Также должна существовать медленная константа давящая на увеличение резервного коэффициента каждый раз, когда загрузка сети ниже 50%, до тех пор, пока сеть не достигнет максимального резервного коэффициента. Максимальный резервный коэффициент определяет минимальную необходимую долю для заспамливания сети короткими импульсами.
 
 Any user with fewer than TOTAL\_TOKENS / (2 \* RESERVE\_RATIO) will be unable to produce enough transactions to fill even a single block. With a reserve ratio of 200, this means any user with less than 0.25% of the currency cannot create enough transactions to delay anyone's service.
 
