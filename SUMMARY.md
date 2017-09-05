@@ -1,4 +1,4 @@
 # Summary
 
-* [What is XYZ?](first-question.md)
-* [How can I do X?](second-question.md)
+* [English](SteemWhitePaper.md)
+* [Russian](ru-RU/SteemWhitePaper.md)
