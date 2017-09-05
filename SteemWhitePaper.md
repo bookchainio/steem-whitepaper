@@ -237,7 +237,7 @@ The goal of building a community currency is to get more "crabs in the bucket". 
 
 A major part of minimizing abuse is the rate-limiting of voting. Individual users can only read and evaluate so many work items per day. Any attempt to vote more frequently than this is a sign of automation and potential abuse. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
 
-<img src="img_voting_rate_limiting" alt="image" width="415" />
+![](\img_voting_rate_limiting.png)
 
 The charts above shows how a user's voting power decreases every time they vote and then regenerates as time passes without voting. These charts use nominal time unit and could be made to scale to any targeted voting rate. Note that voting power rapidly drops off during periods of continuous voting, and then slowly recovers.
 
@@ -245,7 +245,7 @@ Voting power is multiplied by a user's vesting tokens to determine how much shar
 
 ### Delayed Payouts
 
-<span>r</span><span>0.5</span> <img src="img_change_voting_period_eg" alt="image" style="width:50.0%" />
+![](\img_change_voting_period_eg.png)
 
 To further prevent abuse, all payouts are delayed a stake-weighted average of 24 hours from the time each vote was cast. This ensures that large stakeholders cannot snipe payouts by voting at the last second before other voters (aka crabs) have a chance to negate the potential abuse. Once a payout is made to the user all votes are reset to 0. If votes come in after the payout then the process begins again.
 
@@ -253,7 +253,7 @@ This chart shows how the voting period expiration changes in response to new pos
 
 ### Payout Distribution
 
-<span>r</span><span>0.5</span> <img src="img_the_new_marketplace" alt="image" style="width:50.0%" />
+![](\img_the_new_marketplace.png)
 
 One of the primary goals of Steem's reward system is to produce the best discussions on the internet. Each and every year 10% of the market capitalization of Steem is distributed to users submitting, voting on, and discussing content. At the size of Bitcoin this could be as much as $1.75 million dollars per day being given to top contributors.
 
