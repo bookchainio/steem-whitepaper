@@ -1,6 +1,14 @@
 {
     "plugins": [
         "theme-official",
-        "mathjax"
-    ]
+        "mathjax",
+        "etoc"
+    ],
+    "pluginsConfig": {
+      "etoc": {
+        "mindepth": 3,
+        "maxdepth": 9,
+        "notoc": true
+      }
+    }
 }
