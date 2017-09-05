@@ -668,31 +668,31 @@ Ripple использует минимальный баланс<sup id="fnref:12
 
 Отдельные вебсайты такие как steemit.com могут цензурировать контент на их конкретном сайте, но контент опубликованный на блокчейне это широковещательный трафик, а зеркала по всему миру могут продолжать делать его ценным.
 
-Свобода слова это основание для всяких свобод, а любые нарушения принципа свободы слова подрывают единственный миролюбивый способ достижения согласия: дискуссия. Without free discussion voters cannot be fully informed, and uninformed voters are a greater threat to society than losing the right to vote. Censorship is a means of stealing votes through limiting public discourse. Steem is committed to enabling free speech and building a free society.
+Свобода слова это основание для всяких свобод, а любые нарушения принципа свободы слова подрывают единственный миролюбивый способ достижения согласия: дискуссия. Без свободной дискуссии голосующие не могут быть полностью проинформированы, а не информированные голосующие это более серьезная угроза для общества, чем потеря права голосования. Цензурирование - это способ воровства голосов через ограничение публичного обсуждения. Стим предан тому, чтобы обеспечивать свободу слова в процессе строительства свободного сообщества.
 
-## Solving Organic Discovery via Search Engine Optimization
+## Решение Проблемы Органического Поиска через Поисковую Оптимизацию
 
-Most cryptocurrencies generate little value for those who are not actively using the network. Steem, by contrast, generates content and encourages users to share it. This content gets indexed by search engines and ultimately will bring value to a large number of passive users. This search traffic creates organic advertising for the Steem network and grows the network effect.
+Большинство криптовалют генерируют мало ценности для тех, кто использует сеть неактивно. Стим, наоборот, генерирует контент и поощряет пользователей делиться им. Этот контент индексируется поисковыми движками и приносит ценность большому количеству пассивных пользователей. Этот поисковой трафик создает органическую рекламу сети Стим и добавляет сетевых эффектов.
 
-## Shifting Toward Blockchain-based Attribution
+## Математический Нотариат
 
-The internet represents the easiest medium for distributing information in the world. With that said, it can be a frightening place for content creators who would like to own their content and have it shared with proper attribution. On current social media platforms, attribution is something that can be lost overnight - a posted video or image can be replicated and re-shared without consent or regard for the creator.
+Интернет представляет самый простой инструмент для обмена и распространения информации в мире. Грустно осознавать, что к несчастью создателей контента в Интернете достаточно сложно обеспечить их права. На существующих социально-медийных платформах, авторство это что-то, что может быть потеряно за ночь - видео или картинка может быть продублирована без разрешения автора или должного ему уважения. Аккаунт может быть заблокирован без объяснения причин.
 
-Under blockchain-based social media, a creator or author would always be able to point to a public record and timestamp showing proof of their content origination. In a circumstance where a creator would like to address those who have re-shared without permission or attribution, blockchain-based records provide public proof that the content was posted by a particular user at a particular time. In the future, blockchain-based attribution could come to be recognized by governments for its authenticity and could hold weight in court, which would give content creators greater powers to control their work.
+В социальных медиа основанных на блокчейне создатель или автор мог бы всегда иметь возможность указать на публичную запись или временной штамп, предоставив доказательства происхождения контента. В ситуации когда автор хотел бы доказать факт его авторства в случае несанкционированного копирования его контента, блокчейн мог бы являться источником такого доказательства. В будущем авторство подтверждаемое блокчейном могло бы распознаваться правительствами и может иметь вес в суде, что даст авторам контента инструмент для соблюдения их авторских прав.
 
-While a timestamping service can be built on almost any blockchain, and several efforts exist to build this kind of service on the Bitcoin network, Steem has a useful advantage in this realm because content publishers are "first class citizens" - the Steem blockchain is built from the ground up around the use case of content publication, which allows content creators to have the blockchain to validate their content at a certain point in time simply by writing their post using the same authoring tools used by other Steem users.
+В то время как временные штампы могут быть реализован на любом блокчейне, и уже существует несколько разных проектов по реализации подобных сервисов на базе сети Биткоин, Стим имеет серьезное преимущество в этом королевстве, потому-что авторы контента - это граждане первого сорта. Блокчейн Стима был создан с нуля вокруг юзкейса публикации контента. А это позволяет создателям контента получать сервис по математическому нотариату просто написав пост или оставив комментарий.
 
-## Replacing Advertising with Blockchain-based Content Rewards
+## Замена Рекламы на Вознаграждения
 
-Under most content monetization models, content creators leverage advertising in one form or another. Many creators recognize how advertising may diminish their work's value to the consumer, yet creators very often must seek returns on their time by monetizing. Advertising represents a double-edged sword: With ads, a creator can make money most easily. Without ads, monetization is difficult but the content is richer.
+В случае с большинством моделей монетизации контента, создатели контента используют рекламу в той или иной форме. Многие создатели осознают каким образом реклама уничтожает ценность их работы для потребителей, но они вынуждены искать способ окупить свои временные затраты. Реклама представляет собой палку о двух концах. С рекламой создатель имеет возможность заработать достаточно легко. Без рекламы монетизация проблематична, но контент богаче.
 
-Creators posting to social media outlets that are connected to Steem may monetize merely by having their work recognized (or "liked") by the Steem community. Blockchain-based payouts are completely digital and have no middle-man. Therefore monetization by blockchain-based content rewards should be faster and much lower barrier to use than monetization by advertisements.
+Создатели, которые постят в социальных медиа и подключены к Стиму, могут монетизироваться просто, если их работа распознается и оценивается положительно сообществом Стим. Выплаты, основанные на блокчейне, полностью цифровые и не имеют посредников. Таким образом монетизация через вознаграждения блокчейном должна быть быстрее с менее низким порогом входа чем через рекламу.
 
-# Conclusion
+# Заключение
 
-Steem is an experiment designed to address challenges in the cryptocurrency and social media industries by combining the best aspects from both. Steem presents earning opportunities to content creators and internet readers in ways that have not existed within the social media industry. Within Steem, individuals earn real rewards online that are directly correlated to their contributions. Those rewards will have dollar value due to the market price discovery and liquidity of Steem, and the people who hold Steem will have more exclusive earning powers than those who do not.
+Стим - это эксперимент разработанный для решения вызовов в индустриях криптовалют и социальных медиа, объединяющий лучшие аспекты обоих. Стим представляет возможность для заработка создателям контента и читателям способами, которые не существовали до этого в индустрии социальных медиа. Со Стимом, люди онлайн зарабатывают настоящие награды, которые напрямую коррелируют с их контрибьюцией. Эти вознаграждения будут иметь ценность американских долларов из-за исследований рыночной цены и ликвидности. А те люди, которые долгосрочно держат стим будут иметь эксклюзивную мощь, отличную от тех кто не держит.
 
-# References
+# Ссылки
 
 [^1]:    
     Reddit's Cryptocurrency, Forbes, Erika Morphy, October 2014, <http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/#4e07b05332b9>&#160;[&#8617;](#fnref:1){.footnote-backref}
