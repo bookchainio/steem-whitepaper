@@ -68,29 +68,29 @@
 
 Можно легко потерять более 3% по причине ценовых колебаний купив биткоины (или любую другую криптовалюту) и продав их на 10 дней позже. Обычно только комиссионые бирж составляют более чем 0.4% при покупке и продажи биткоинов в тот же день. Таким образом процент инфляции не значителен в период когда среднестатистический индивид держит стим.
 
-The majority of inflation is actually an accounting artifact rather than true reallocation of wealth. 90% of non-SMD inflation is distributed back to existing holders of STEEM proportional to the STEEM value of their SP balance, making in ation more of a "split". Only about 10% of non-SMD inflation redistributes ownership in the network.
+Большая часть инфляции - это по факту учетный артефакт, а не действительное перераспределение богатства. 90% инфляции не связанной со стимбаксами распределяется обратно держателям стимов пропорционально оценке их стим-мощи. Таким образом инфляцию можно рассматривать как отчисление 10% процентов инфляции не связанной со стимбаксами тем, кто контрибьютит в развитие сообщества.
 
-## Steem Power (SP)
+## Стим-мощь (SP)
 
-Start up companies require long-term capital commitment. Those who invest their money in a startup expect to wait years before they can sell their shares and realize their profits. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
+Стартапы требуют долгосрочный коммитмент капитала. Обычно инвесторы стартапов планируют ждать года перед тем, как продать свои акции и зафиксировать прибыль. Без долгосрочных гарантий стартап, пытающийся закрыть очередной раунд инвестиции через продажу дополнительных акций, будет конкурировать с существующими акционерами, которые могут искать способы фиксации прибыли. Смышленые инвестора хотят чтобы их капитал способствовал росту компании, но рост не может происходить, если новый капитал выдается тем, кто ищет способы выйти.
 
-There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
+В долгосрочных гарантиях кроется существенная ценность, потому-что они дают возможность сообществам планировать наперед. Долгосрочные гарантии акционеров также способствуют обеспечению долгосрочного роста, а не созданию краткосрочных пузырей.
 
-In the cryptocurrency space, speculators jump from cryptocurrency to cryptocurrency based mostly on which one is expected to have short-term growth. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
+В криптовалютном сообществе спекулянты прыгают с одной криптовалюты на другую, основываясь в основном на ожиданиях роста в краткосрочном периоде. Стим хочет построить сообщество, которое принадлежит и полностью контролируется людьми, которые ориентируются на долгосрочную перспективу.
 
-Because Steem wants to encourage long-term growth, it is hardwired to allocate 9 STEEM to Steem Power (SP) stakeholders for every 1 STEEM it creates to fund growth through contribution incentives. Over time this drives the ratio of the total STEEM value of Steem Power balances to the total of STEEM balances toward 9:1 . (It seems likely that the ratio will be somewhat greater than 9:1 due to continued net Powering Up of the newly printed STEEM.) It also means that long-term holders are almost completely protected from the dilution used to fund growth.
+Стим стремится поощрять долгосрочный рост, поэтому запрограммировано направлять 9 стимов держателям стим-мощи на каждый 1 стим, создаваемый для обеспечения роста путем стимуляции контрибьюции. Со временем это приведет к тому, что отношение всех балансов стим-мощи к общему количеству стим балансов будет равно 9:1. (Вероятно, это соотношение будет немного больше чем 9:1 из-за продолжающегося роста стим-мощи от вновь напечатанных стимов.) Это также означает, что долгосрочные держатели практически полностью защищены от размытия используемого для того, чтобы профинансировать рост.
 
-SP can only be converted back to STEEM over 2 years via 104 equal weekly payments. '1 SP' can be viewed as a share in a pool of STEEM. The network automatically adds STEEM to the pool every block. At any time users can convert their STEEM into SP at the same ratio as STEEM in the vesting pool to total SP. Converting STEEM to SP does not dilute existing holders of SP. Likewise, every time SP is converted back to STEEM it is done at the current ratio. Individuals are guaranteed to have more STEEM in the future than they have when they rst convert from STEEM to SP.
+Стим-мощь может быть конвертирована назад в стимы в течение 2 лет по 104 равных недельных выплаты. 1 стим-мощь может быть рассмотрена как акция в пуле стимов. Сеть автоматически добавляет стим в этот пул каждый блок. В любой момент пользователи могут конвертировать стимы в стим-мощь по тому же курсу, что и количество стимов в инвестиционном пуле по отношению к общему количеству стим-мощи. Конвертация стимов в стим-мощь не размывает текущих держателей стим-мощи. К счастью, стим-мощь конвертируется обратно по текущему курсу. Индивиды гарантированно получают больше стимов в будущем, чем первоначально конвертировано в стим-мощь.
 
-SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
+Баланс стим-мощи неперемещаем и неделим за исключением автоматических периодических запросов на конвертацию. Это означает, что стим-мощью нельзя легко торговать на криптовалютных биржах.
 
-SP is a requirement for voting for or against content. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
+Стим-мощь требуется для голосования в поддержку или против контента. Это означает, что стим-мощь - это токен доступа, который дает своим держателям эксклюзивные права внутри платформы Стим.
 
-Transferring from STEEM to SP is referred to as powering up while transferring from SP to Steem is referred to as "powering down". For example, one can power down their STEEM over a period of two years, yet one can power up their STEEM instantly.
+Конвертация из стимов в стим-мощь называется усилением, а перевод из стим-мощи в стимы называется "ослаблением". Кто угодно может ослаблять свои стимы в течение двух лет, и кто угодно может моментально их усилить.
 
-## Steem Dollars (SMD)
+## Стимбаксы (SMD)
 
-Stability is an important feature of successful global economies. Without stability, individuals across the world could not have low cognitive costs while engaging in commerce and savings. Because stability is an important feature of successful economies, Steem Dollars were designed as an attempt to bring stability to the world of cryptocurrency and to the individuals who use the Steem network.
+Стабильность - это важное свойство успешных глобальных экономик. Без стабильности люди во всем мире не могут нести низкие когнитивные затраты в процессе коммерческой деятельности или накопления капитала. Вследствие того, что стабильность - это важное свойство успешных экономик, был разработан стим-бакс, как попытка принести стабильность в мир криптовалют, и людям, которые пользуются сетью Стим.
 
 Steem Dollars are created by a mechanism similar to convertible notes, which are often used to fund startups. In the startup world, convertible notes are short-term debt instruments that can be converted to ownership at a rate determined in the future, typically during a future funding round. A blockchain based token can be viewed as ownership in the community whereas a convertible note can be viewed as a debt denominated in any other commodity or currency. The terms of the convertible note allow the holder to convert to the backing token with a minimum notice at the fair market price of the token. Creating token-convertible-dollars enables blockchains to grow their network effect while maximizing the return for token holders.
 
