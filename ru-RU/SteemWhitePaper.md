@@ -217,47 +217,47 @@ If SMD trades for less than $1.00 USD and the debt-to-ownership ratio is over 10
 
 Не зависимо от того, сколько денег имеет любой индивид, всегда будут другие индивиды со схожим состоянием. Даже самые богатые редко располагают большим количеством средств, чем следующая пара чуть менее богатых совместно. Более того, те у кого есть крупные инвестиции в сообщество, всегда рискуют потерять больше всего, пытаясь обыграть систему голосования в свою пользу. Это как если бы генеральный директор решил бы остановить выплату зарплат для того, чтобы положить ее себе в карман. В таком случае любой человек решил бы работать на другую компанию. Таким образом все бы стали работать на другую компанию, а такая компания перестала бы чего-либо стоить, оставляя такого CEO банкротом, а не состоятельным человеком.
 
-К счастью, любая работа, которая получает большую концентрацию голосов, также становится и самой популярной. Through the addition of *negative-voting* it is possible for many smaller stakeholders to nullify the voting power of collusive groups or defecting large stakeholders. Furthermore, large-stakeholders have more to lose if the currency falls in value due to abuse than they might gain by voting for themselves. In fact, honest large stakeholders are likely to be more effective by policing abuse and using negative voting than they would be by voting for smaller contributions.
+К счастью, любая работа, которая получает большую концентрацию голосов, также становится и самой популярной. Так как всегда есть возможность *голосовать негативно*, большое количество малых акционеров смогут обнулить голосующую силу сговорившейся группы или крупных акционеров, которые действуют исключительно в свою пользу. Более того, крупные акционеры больше теряют если валюта падает в цене по причине злоупотреблений, чем приобретают от голосования за самих себя. По факту честные крупные акционеры скорее всего будут более эффективны в противодействии злоупотреблениям, и будут чаще использовать отрицательные голоса, чем малые акционеры.
 
-The use of *negative-voting* to keep people from abusing the system leverages the *crab mentality* that many people have when it is perceived that one individual is profiting at the expense of everyone else. While crab mentality normally refers to short-sighted people keeping good people down, it is also what allows good people to keep bad people down. The only "problem" with crab mentality is when people *wrongly believe* someone is profiting at everyone else's expense.
+Использование *негативных голосов* для того, чтобы сдержать людей от злоупотреблений, компенсирует *"ментальность краба"* которой многие люди страдают, когда воспринимается, что один индивид получает доходы за счет всех других. В то время как ментальность краба обычно касается недальновидных людей, которые принижают хороших людей, это также то, что позволяет хорошим людям противодействовать плохим. Единственная "проблема" с ментальностью краба - это когда люди *ошибочно полагают*, что кто-то получает прибыль за счет всех других.
 
-> #### The Story of the Crab Bucket<sup id="fnref:6"><a href="#fn:6" class="footnote-ref">6</a></sup>
+> #### История о Корзинке с Крабами<sup id="fnref:6"><a href="#fn:6" class="footnote-ref">6</a></sup>
 > 
-> A man was walking along the beach and saw another man fishing in the surf with a bait bucket beside him. As he drew closer, he saw that the bait bucket had no lid and had live crabs inside.
+> Человек прогуливался вдоль пляжа и увидел другого человека который рыбачил. Рядом с рыбаком находилась корзинка с крабами для приманки. Как только он подошел поближе, он увидел, что на корзинке нету крышки, а внутри находятся живые крабы.
 > 
-> "Why don't you cover your bait bucket so the crabs won't escape?", he said.
+> "Почему ты не закрываешь свою корзину крышкой, чтобы крабы не убежали?", - сказал он.
 > 
-> "You don't understand.", the man replied, "If there is one crab in the bucket it would surely crawl out very quickly. However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
+> "Ты не понимаешь.", - ответил человек. "Если бы в корзине был один краб, то он мог бы вскарабкаться достаточно быстро. Тем не менее, когда в корзине много крабов, если кто-то пытается вскарабкаться, то другие его держат, чтобы он разделил такую же судьбу как и все другие оставшиеся."
 > 
-> So it is with people. If one tries to do something different, get better grades, improve herself, escape her environment, or dream big dreams, other people will try to drag her back down to share their fate.
+> Так же и с людьми. Если один человек пытается что-то делать по-другому, получить лучшие оценки, улучшить себя, выскочить из окружения, или мечтать большие мечты, другие люди будут стараться держать его, чтоб он разделил их судьбу.
 
-Eliminating "abuse" is not possible and shouldn't be the goal. Even those who are attempting to "abuse" the system are still doing work. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn't so rampant that it undermines the incentive to do real work in support of the community and its currency.
+Полностью устранить злоупотребления невозможно, да и не должно являться целью. Даже те, кто будет пытаться злоупотребить системой все равно продолжают делать работу. Любая компенсация за их успешные попытки злоупотребить или сговориться, как минимум не менее ценно для целей дистрибуции валюты, точно также как у Биткоина существует майнинг через пулы и одиночный майнинг. Все что необходимо - это убедиться, что злоупотребления не настолько угрожающие, чтобы подрывать стимулы делать реальную работы в поддержку сообщества и ее валюты.
 
-The goal of building a community currency is to get more "crabs in the bucket". Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs suf cient power to prevent others from escaping.
+Цель создания валюты сообщества в получении большего количества крабов в корзине. Пытаться принимать экстремальные меры, чтобы устранить злоупотребления, это как пытаться накрыть корзинку крышкой, чтобы предотвратить побег нескольких крабов в ущерб простоте добавления новых крабов в корзину. Достаточно просто сделать стены скользкими и дать другим крабам достаточно власти, чтобы они предотвращали побеги других крабов.
 
-### Rate Limited Voting
+### Голосование Ограниченное Лимитом
 
-A major part of minimizing abuse is the rate-limiting of voting. Individual users can only read and evaluate so many work items per day. Any attempt to vote more frequently than this is a sign of automation and potential abuse. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
+Главный компонент минимизации злоупотреблений - это ограничение возможности голосовать. Индивид может прочитать и оценить ограниченное количество информации в день. Любые попытки голосовать чаще - это признак автоматизации и потенциального злоупотребления. При помощи установления лимитов на голосование, акционеры, которые голосуют чаще, с каждым новым голосом уменьшают свой вес, в отличие от акционеров которые голосуют реже. Попытки разделить токены на несколько счетов также разделяет и влияние, что в итоге не приводит ни к увеличению влияния, ни обходу лимитов.
 
 ![](\img_voting_rate_limiting.png)
 
-The charts above shows how a user's voting power decreases every time they vote and then regenerates as time passes without voting. These charts use nominal time unit and could be made to scale to any targeted voting rate. Note that voting power rapidly drops off during periods of continuous voting, and then slowly recovers.
+Приведенные графики отражают каким образом сила голоса пользователя уменьшается каждый раз, когда он голосует, и как она регенерируется со временем при отсутствии голосов. Этот график отражает номинальный временной юнит и может быть масштабирован для любого темпа голосования. Имейте ввиду, что сила голосования быстро падает в периоды продолжающего голосования, а потом медленно восстанавливается.
 
-Voting power is multiplied by a user's vesting tokens to determine how much share in the reward pool should be allocated to a given work item.
+Сила голосования умножается на количество стим-мощи для определения доли в пуле вознаграждений направляемой на конкретный пост или комментарий.
 
-### Delayed Payouts
+### Отложенные Выплаты
 
 ![](\img_change_voting_period_eg.png)
 
-To further prevent abuse, all payouts are delayed a stake-weighted average of 24 hours from the time each vote was cast. This ensures that large stakeholders cannot snipe payouts by voting at the last second before other voters (aka crabs) have a chance to negate the potential abuse. Once a payout is made to the user all votes are reset to 0. If votes come in after the payout then the process begins again.
+Чтобы предотвратить большее количество злоупотреблений, все выплаты отложены на 24-часовую, взвешенную на стим-мощь, среднюю, прошедшую с момента каждого голосования. Это обеспечивает защиту от кражи наград крупными акционерами голосующими на последней секунде до того, как другие голосующие (как крабы) смогут противодействовать потенциальному злоупотреблению. Когда выплата совершена все голоса сбрасываются на 0. Если голоса поступают после выплаты, процесс начинается заново.
 
-This chart shows how the voting period expiration changes in response to new positive and negative votes being applied. New votes extend the payout period in proportion to how large they are relative to all votes that have gone before. Around time 40 a large number of new votes were added which extended the voting period by 12 hours, subsequent smaller votes had far less impact on the voting period.
+Этот график отражает каким образом период истечения голосования изменяется в ответ на поступающие позитивные или негативные голоса. Новые голоса расширяют период выплат пропорционально их размеру относительно уже поступивших голосов. При наступлении времени 40 большая часть новых голосов была добавлена, что увеличило период голосования на 12 часов. Последующее меньшее количество голосов оказало меньше влияния на период голосования.
 
-### Payout Distribution
+### Распределение Выплат
 
 ![](\img_the_new_marketplace.png)
 
-One of the primary goals of Steem's reward system is to produce the best discussions on the internet. Each and every year 10% of the market capitalization of Steem is distributed to users submitting, voting on, and discussing content. At the size of Bitcoin this could be as much as $1.75 million dollars per day being given to top contributors.
+Одна из ключевых целей системы вознаграждения Стим - это производство лучших дискуссий и контента в Интернете. Каждый год 10% рыночной капитализации Стима распределяется пользователям, которые публикую статьи, участвуют в дискуссиях и курируют статьи других. При условии капитализации Стима на уровне текущей капитализации Биткоина выплаты вознаграждения лучшим контрибьюторам составят 100 млн. рублей каждый день.
 
 The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content. Steem weighs payouts proportional to \\(n^{2}\\) the amount of Steem Power voting for a post. In other words, post x would receive a payout proportional to:
 
