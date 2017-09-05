@@ -311,38 +311,38 @@ If SMD trades for less than $1.00 USD and the debt-to-ownership ratio is over 10
 
 Сложность доказательства работой удваивается каждый раз когда очередь майнеров вырастает на 4. Так как один майнер выбирается из очереди каждый раунд, а каждый раунд занимает 21 \* 3 = 63 секунды, сложность автоматически уменьшается вдвое, если не найдено ни одного доказательства в течение 21 \* 3 \* 4 = 252 секунд.
 
-### Mining Rewards require Steem Power
+### Вознаграждения Майнеров Требуют Стим-мощь
 
-After the first month, Steem miners are paid in Steem Power (SP). SP is liquidated through the two-year process of "powering down". This means that miners must wait for a long time, likely many months, before sufficient mining rewards have been powered down to allow them to recover the cost of electricity and computational resources. The powering down process discourages creation of mining pools because the pool operator would have to spread payouts over years.
+После первого месяца майнеры в Стиме вознаграждаются в стим-мощи. Стим-мощь можно вывести через двухлетний процесс, который называется ослаблением. Это означает, что майнеры должны ожидать достаточно долго, вероятно многие месяцы, перед тем как достаточное количество наград будет ослаблено для того, чтобы можно было компенсировать затраты на электроэнергию и вычислительные ресурсы. Процесс ослабления отбивает охоту создавать майнинг пулы, так как операторам пулов нужно будет рассредоточить выплаты на многие года.
 
-The effect of paying mining rewards in SP is to prevent miners from using today's price to determine the pro tability of mining. Few people will agree on what the future price will be. This means mining difficulty will be driven by those who place the highest estimate on future value. Miners without a long-term interest in the platform will be discouraged from competing. Ultimately this means that the proceeds of mining are less likely to be dumped on the market because they will accrue to long-term believers in the platform.
+Оплата вознаграждений за майнинг в стим-мощи используется для того, чтоб майнеры не могли использовать сегодняшнюю цену для определения прибыльности майнинга. Мало кто согласится относительно того, какая цена в будущем будет. Это означает то, что сложность майнинга будет обеспечиваться теми, у кого самая высокая оценка будущей стоимости. У майнеров без долгосрочного интереса в платформе будет отбита охота от соревнования. В итоге это означает что событие по сбросу намайненного на рынок маловероятно, потому-что намайненые награды могут быть приобретены только долгосрочными верующими в платформу.
 
-### Mining Algorithm
+### Алгоритм майнинга
 
-The mining algorithm adopted by Steem requires the miner to have access to the private key of the account that will receive the rewards. This requirement has several important consequences. First it encourages optimization of elliptic curve signature verification algorithms needed by Steem. Second it makes it challenging to set up mining pools because the pool operator would have to share control over the reward with all of the "anonymous" miners. Third, it makes it difficult to use botnets because the botnet operator would have to distribute their private key to all compromised machines.
+Алгоритм майнинга используемый в Стиме требует того, чтобы у майнера был доступ к приватному ключу счета, который будет получать награды. Это требование имеет несколько важных последствий. Во-первых, он поощряет оптимизацию алгоритма по верификации цифровой подписи на основании эллиптических кривых. Во-вторых, он делает сложным создание майнинг пулов, потому-что оператор пула должен будет разделить награду со всеми анонимными майнерами. В-третьих, он делает бессмысленным использование ботнетов, потому что оператор ботнета должен будет распределить свой приватный ключ по всем скомпрометированным машинам.
 
-The following pseudocode describes how the proof-of-work hash value is calculated:
+Следующий псевдокод описывает каким образом вычисляется хеш-значение доказательства работой:
 
     Let H    = Head Block ID
     Let H2   = SHA256(H + NONCE)
-    Let PRI  = Producer Private Key
-    Let PUB  = Producer Public Key
+    Let PRI  = Приватный ключ производителя
+    Let PUB  = Публичный ключ производителя
     Let S    = SIGN(PRI, SHA256(H))
     Let K    = RECOVER_PUBLIC_KEY(H2, S)
     Let POW  = SHA256(K)
     
 
-### Botnet Resistant
+### Защита от Ботнетов
 
-Many proof of work coins end up being mined by botnets. A botnet is a collection of thousands or millions of machines that have been compromised by hackers. These hackers steal the computational and electrical resources of compromised machines to mine cryptocurrency tokens.
+Многие системы основанные на Proof-of-Work заканчивают на том, что майнятся ботнетами. Ботнет - это коллекция тысяч или миллионов машин, которые были скомпрометированы хакерами. Эти хакеры воруют вычислительные и энергетические ресурсы скомпрометированных машин для майнинга криптовалютных токенов.
 
-Steem has many properties that prevent these computational thieves from profiting. Botnet operators are profit seeking enterprises and typically sell their stolen resources to the highest bidder. This means that those who utilize a botnet pay for the computational power in the same way that someone who uses Amazon EC2 does. The vesting requirement of Steem means that the capital spent on buying the resources of the botnet will be tied up for a long period of time during which the operator is exposed to price volatility.
+Стим обладает многими свойствами для предотвращения доходности вычислительным ворам. Операторы ботнетов получают выгоду в поисках авантюр и обычно продают украденные ресурсы тому, кто больше заплатит. Это означает, что те кто использует ботнет платит за вычислительные ресурсы таким же образом как и те, кто используют Amazon EC2. Инвестиционное требование Стима означает то, что капитал потраченный на покупку ресурсов ботнета будет заблокирован на длительный промежуток времени во время которого оператор ботнета обречен на волатильность цены.
 
-Another way that botnet operators are prevented from profiting is the requirement to distribute the private key to all compromised machines. If even one compromised computer is discovered, the operator could lose their coins.
+Другой способ, которым осуществляется защита от получения прибыли операторами ботнетов, - это требование в распределении приватных ключей на все скомпрометированные машины. Даже если приватный ключ будет обнаружен всего на одной скомпрометированной машине, оператор может потерять свои монеты.
 
-The last mitigation is the dependency on latency. Most botnets are comprised of computers with poor internet connections, these slow Internet connections will dramatically reduce the effectiveness of the computational resource.
+Последняя мера - это зависимость от сетевой задержки. Большинство ботнетов работают за счет скомпрометированных компьютеров с плохим качеством интернет подключения. Плохой интернет сильно ухудшает эффективность вычислительных ресурсов.
 
-It should be more profitable and less risky for botnet operators to use their resources for other activities than mining STEEM.
+Для операторов ботнетов должно быть более прибыльно и менее рискованно использовать свои ресурсы на отличные от майнинга стимов виды деятельности.
 
 ### Mining Pool Resistant
 
@@ -350,30 +350,30 @@ Miners have a total of 3 seconds to receive a block, solve the proof of work, an
 
 Because of the constantly changing head block and network latency, forwarding a template for mining a specific block to participants of a mining pool adds additional network latency and reduces efficiency of pooled mining significantly.
 
-# Eliminating Transaction Fees
+# Устранение Трансакционных Комиссий
 
-Steem goes to great lengths to reward people for contributing to the network. It would be counterproductive to turn around and charge people every time they attempt to interact with the community.
+Стим идет далеко для того чтобы вознаграждать людей за контрибьюцию в сеть. Требовать оплаты от людей каждый раз когда люди хотят взаимодействовать с сообществом - это контрпродуктивно.
 
-Blockchain technology currently depends upon transaction fees to prevent spam. These fees suffer all of the known problems with microtransactions and prevent blockchains from being used for low-value transactions. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
+Блокчейн технология в данный момент зависит от трансакционных комиссий для того, чтобы защищать сеть от спама. Эти сборы страдают всеми известными проблемами микротранзакций, и не дают блокчейнам быть использованными для транзакций с низкой ценностью. Истинно децентрализованные приложения должны предлагать пользователям чувство бесплатности транзакций, если они хотят конкурировать с их централизованными альтернативами. Эта бумага описывает подход используемый в Стим для устранения необходимости в трансакционных комиссиях, таким образом делая возможным широкий спектр невозможных в прошлом децентрализованных приложений.
 
-## The Problem With Fees
+## Проблема с Комиссиями
 
-Blockchains are decentralized networks where all transactions are broadcast to all peers. Every so often a block is produced that includes some or all of the pending transactions. All blockchains must find a solution to prevent malicious users from consuming all of the available network capacity with worthless transactions. These worthless transactions can prevent other valuable transactions from being processed and ultimately destroy the network.
+Блокчейны - это децентрализованные сети, в которых все транзакции транслируются всем пирам (от англ. peer - равноценный агент в сети). Каждый раз когда блок произведен, он включает несколько или все ожидающие транзакции. Все блокчейны должны найти решение для предотвращения потребления всей доступной вместимости сети бессмысленными транзакциями злонамеренных пользователей. Эти бессмысленные транзакции могут помешать другим ценным транзакциям быть обработанными, и таким образом уничтожат сеть.
 
-The solution adopted by most blockchains thus far is to charge a minimum transaction fee. A fee worth just a few cents is enough to make attacking the network expensive and unprofitable. While this approach solves the spam problem, it introduces new problems. Imagine solving the email spam problem by introducing a small fee on every email; people wouldn't use email.
+Решение, используемое большинством блокчейнов до сих пор - это взимание минимальных трансакционных комиссий. Комиссии которая стоит несколько центов достаточно для того, чтобы сделать атаку на сеть дорогой и неприбыльной. Такой подход решая проблему со спамом сети, создавая новые проблемы. Представьте себе решение проблемы со спамом емэйлов, введением комиссии за каждый отправленный емэйл. Люди бы не стали пользоваться электронной почтой.
 
-### Micropayments Don't Work
+### Микроплатежи Не Работают
 
-The fundamental problem with charging transaction fees is that micropayments don't work, especially for low-value user actions. When a fee is charged on every transaction, it limits the types of transactions that a decentralized network can process. Regardless of how rational the argument for the necessity of fees, users still hate the experience of being nickeled and dimed for everything that they do.
+Фундаментальная проблема с взиманием трансакционных комиссий - это то, что микроплатежи не работают, особенно для действий пользователей с низкой стоимостью. Когда комиссия взимается за каждую транзакцию, то она ограничивает типы транзакций, которые может обработать децентрализованная сеть. Вне зависимости от того, каким рациональным бы не был аргумент о необходимости комиссий, пользователи всеравно нелюбят отдавать по рублю за каждый свой шаг.
 
-Imagine if the websites we use every day charged us a fee every time we modify our accounts by changing the password. Users expect certain things to be free. Requiring users to make a decision on whether or not an action is worth a small fee creates anxiety that causes users to leave.
+Представьте себе вебсайт, который бы выставлял нам транзакционные комиссии каждый раз, когда мы изменяем пароль. Пользователи ожидают, что некоторые вещи должны быть бесплатными. Требование пользователей делать решение относительно того стоит ли то или иное решение конкретного действия, приводит к беспокойству пользователя и в конце концов его уходу.
 
-> A transaction can't be worth so much as to require a decision but worth so little that that decision is automatic. There is a certain amount of anxiety involved in any decision to buy, no matter how small, and it derives not from the interface used or the time required, but from the very act of deciding.  
-> Micropayments, like all payments, require a comparison: "Is this much of X worth that much of Y?" There is a minimum mental transaction cost created by this fact that cannot be optimized away, because the only transaction a user will be willing to approve with no thought will be one that costs them nothing, which is no transaction at all.
+> Транзакция не может стоить настолько дорого, чтобы требовать решения, но должна стоить настолько мало, чтобы решение было автоматическим. Любое решение по покупке - это беспокойство, и не важно насколько это решение мало. Это вытекает не от того насколько хорош интерфейс или как мало времени необходимо, но от самого факта принятия решения.  
+> Микроплатежи, как все платежи, требуют сравнения: "Стоит ли такое-то количество X такого-то количества Y?". Существует понятие минимальных ментальных транзакционных издержек, создаваемых фактом который не может быть оптимизирован, потому-что единственная транзакция которую пользователь будет желать подтвердить не думая, это та транзакция, которая не стоит ему ничего, т.е. как будто ее нет вообще.
 > 
 > *- Clay Shirky<sup id="fnref:8"><a href="#fn:8" class="footnote-ref">8</a></sup>*
 
-In the world of financial payments, small fees are acceptable because the value of the transaction is extremely high relative to the fee charged, and the buyer has already made a decision to buy. The world of potential blockchain applications is far greater than just financial payments and includes many necessary transactions for which fees are simply unacceptable to users.
+В мире финансовых платежей, малые комиссии приемлемы, потому что ценность транзакций экстремально высокая относительно взимаемой комиссии, а покупатель уже сделал решение о покупке. Мир потенциальных блокчейн приложений намного шире элементарных финансовых платежей, и включает многие необходимые транзакции за которые комиссии просто не приемлемы для людей.
 
 Systems like BitShares, Nxt, Ripple, Counter Party and Stellar all allow users to place limit orders on the blockchain and all of them charge users a small fee to perform this action. Later if the user wishes to cancel their order, another fee is charged. Systems like Ethereum take micropayments to a whole new level: charging per calculation. All of these systems struggle to attract new mainstream users for the same reasons that a decentralized search engine would struggle to attract users from Google if it charged a small fee for every search. It doesn't matter how good the service is, people expect certain things to be free. This is true even if a user ends up paying more overall under a different fee structure.
 
