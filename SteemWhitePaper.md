@@ -259,12 +259,12 @@ One of the primary goals of Steem's reward system is to produce the best discuss
 
 The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content. Steem weighs payouts proportional to \\(n^{2}\\) the amount of Steem Power voting for a post. In other words, post x would receive a payout proportional to:
 
-      votes[x$]^{2}$ / sum(votes[0...n]$^{2}$)
+    \\(votes[x$]^{2}$ / sum(votes[0...n]$^{2}$)\\)
                     
 
 Zipf's Law[^7] is one of those empirical rules that characterize a surprising range of real-world phenomena remarkably well. It says that if we order some large collection by size or popularity, the second element in the collection will be about half the measure of the first one, the third one will be about one-third the measure of the first one, and so on. In general, the \\(k^{th}\\)-ranked item will measure about 1/k of the first one.
 
-Taking popularity as a rough measure of value, then the value of each individual item is given by Zipf's Law. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log( n ).
+Taking popularity as a rough measure of value, then the value of each individual item is given by Zipf's Law. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
 
 The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
 
@@ -323,12 +323,12 @@ The mining algorithm adopted by Steem requires the miner to have access to the p
 The following pseudocode describes how the proof-of-work hash value is calculated:
 
     Let H    = Head Block ID
-    Let H2    = SHA256(H+NONCE)
-    Let PRI    = Producer Private Key
-    Let PUB    = Producer Public Key
-    Let S    = SIGN(PRI, SHA256( H ) )
-    Let K    = RECOVER_PUBLIC_KEY( H2, S )
-    Let POW    = SHA256( K )
+    Let H2   = SHA256(H + NONCE)
+    Let PRI  = Producer Private Key
+    Let PUB  = Producer Public Key
+    Let S    = SIGN(PRI, SHA256(H))
+    Let K    = RECOVER_PUBLIC_KEY(H2, S)
+    Let POW  = SHA256(K)
                     
 
 ### Botnet Resistant
@@ -410,7 +410,7 @@ In our estimate it should be sufficient to measure the average weekly bandwidth 
 
 Let B equal a user's average bandwidth at time T. Let W equal the number of seconds per week, and let N equal the size of the new transaction that occurred S seconds after T. Given this information the blockchain can calculate the new average bandwidth for a user as:
 
-    Bnew = MIN(0,B * (W-S) / W) + N * S / W
+    Bnew = MIN(0,B * (W - S) / W) + N * S / W
     Tnew = T + S
                     
 
@@ -422,7 +422,7 @@ Each user is entitled to an average weekly bandwidth of:
     Let C = the maximum block size capacity set by witnesses
     Let L = the total blocks per week
     Let M = C * L * R
-    Allocation= M * U / S
+    Allocation = M * U / S
                     
 
 A user would be entitled to an average bandwidth of M \* U / S. Any time a transaction would cause the user's average to go above this threshold they would be unable to transact until enough time passes to lower the average.
@@ -435,7 +435,7 @@ The minimum reserve ratio is 1, and the maximum reserve ratio should be calculat
 
 To understand how this algorithm would work on Bitcoin it is necessary to estimate a reasonable value for the reserve ratio, R, based on actual usage. Based upon the total supply of 15M BTC and a daily transaction volume of 400K BTC[^10], we can derive a minimum reserve ratio of 38 for Bitcoin. Using the equations we can calculate the weekly bandwidth (in bytes) allowed per BTC to be:
 
-    Let C = 1MB = 1024*1024
+    Let C = 1MB = 1024 * 1024
     Let L = 1008 (blocks per week)
     Let R = 38
     Let S = 14000000 BTC (supply minus Satoshi's unmoving coins)
@@ -495,7 +495,7 @@ While reductions in the reserve ratio must be quick and non-linear to counter ab
 
 There must be a slow constant upward pressure on the reserve ratio any time network usage is below 50% until the network hits the maximum reserve ratio. The maximum reserve ratio determines the minimum required stake to flood the network in short bursts.
 
-Any user with fewer than TOTAL\_TOKENS / (2\*RESERVE\_RATIO) will be unable to produce enough transactions to fill even a single block. With a reserve ratio of 200, this means any user with less than 0.25% of the currency cannot create enough transactions to delay anyone's service.
+Any user with fewer than TOTAL\_TOKENS / (2 \* RESERVE\_RATIO) will be unable to produce enough transactions to fill even a single block. With a reserve ratio of 200, this means any user with less than 0.25% of the currency cannot create enough transactions to delay anyone's service.
 
 ### Effectiveness Relative to Fees
 
