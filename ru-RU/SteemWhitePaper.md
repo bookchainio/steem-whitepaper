@@ -171,15 +171,15 @@ Steem Dollars are referred to with the symbol SMD, an acronym for Steem Dollars.
 
 If SMD trades for less than $1.00 USD and the debt-to-ownership ratio is over 10% then the feeds should be adjusted upward give more STEEM per SMD. This will increase demand for SMD while also reducing the debt-to-ownership ratio and returning SMD to parity with USD.
 
-Assuming the value of STEEM is growing faster than Steem is creating new SMD, the debt-to-ownership ratio should remain under the target ratio and the interest offered benefits everyone. If the value of the network is at or falling, then any interest offered will only make the debt-to-ownership ratio worse.
+Предполагая, что ценность стимов растет быстрее, чем Стим создает новые стим-баксы коэффициент долг/собственность должен оставаться в целевом диапазоне. При таком подходе от предлагаемого процента выиграют все. Если ценность сети остается на месте или падает, в таком случае предлагаемая процентная ставка сделает коэффициент долг/собственность хуже.
 
-In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
+В результате производители фидов являются доверенными лицами с обязанностью устанавливать монетарную политику в целях поддерживания стабильной привязки к американскому доллару. Злоупотребление этой властью может навредить стоимости стимов и стим-мощи, поэтому имеет смысл мудро голосовать за делегатов в которых есть уверенность, что они будут производить корректные фиды и устанавливать адекватные процентные ставки в соответствии с правилами определенными выше.
 
-If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SMD.
+Если коэффициент долг/собственность становится опасно высоким, а участники рынка решают избегать запросов на конверсию, то ценовые фиды должны быть скорректированы, чтобы увеличить конверсионный курс стим/стим-бакс.
 
-Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SMD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions. The blockchain is paying liquidity providers for their service in absorbing short-term demands.
+Изменения в политике процентных ставок и/или любых премий/дисконтов на конверсионный курс стим/стимбакс должен быть медленным и измеримым ответом на долгосрочные средние отклонения, нежели попыткой ответа на краткосрочные рыночные условия. Блокчейн платит провайдерам ликвидности за их услуги компенсируя краткосрочные потребности.
 
-It is our belief that these rules will give market participants confidence that they are unlikely lose money by holding SMD purchased at a price of $1.00. We fully expect there to be a narrow trading range between $0.99 and $1.01 for SMD under most market conditions.
+Мы верим, что эти правила дадут участникам рынка уверенность, что потеря денег держателями стим-баксов маловероятна при условии покупки по курсу $1.00. Мы ожидаем, что будет соблюдаться узкий торговый коридор на стимбакс в диапазоне от $0.99 до $1.01 при большинстве рыночных условий.
 
 ## Subjective Contributions
 
