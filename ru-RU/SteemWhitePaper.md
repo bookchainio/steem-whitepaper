@@ -259,37 +259,37 @@ If SMD trades for less than $1.00 USD and the debt-to-ownership ratio is over 10
 
 Одна из ключевых целей системы вознаграждения Стим - это производство лучших дискуссий и контента в Интернете. Каждый год 10% рыночной капитализации Стима распределяется пользователям, которые публикую статьи, участвуют в дискуссиях и курируют статьи других. При условии капитализации Стима на уровне текущей капитализации Биткоина выплаты вознаграждения лучшим контрибьюторам составят 100 млн. рублей каждый день.
 
-The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content. Steem weighs payouts proportional to \\(n^{2}\\) the amount of Steem Power voting for a post. In other words, post x would receive a payout proportional to:
+В реальности дистрибуция будет зависеть от паттернов голосования пользователей, но мы подозреваем, что большинство вознаграждений будет распределено в пользу самого популярного контента. Стим взвешивает выплаты пропорционально \\(n^{2}\\) количеству стим-мощи голосующего за пост. Другими словами, пост x получит награду пропорционально:
 
 \\(votes[x]^{2} / sum(votes[0...n]^{2})\\)
 
-Zipf's Law<sup id="fnref:7"><a href="#fn:7" class="footnote-ref">7</a></sup> is one of those empirical rules that characterize a surprising range of real-world phenomena remarkably well. It says that if we order some large collection by size or popularity, the second element in the collection will be about half the measure of the first one, the third one will be about one-third the measure of the first one, and so on. In general, the \\(k^{th}\\)-ranked item will measure about 1/k of the first one.
+Закон Зипфа<sup id="fnref:7"><a href="#fn:7" class="footnote-ref">7</a></sup> одно из таких эмпирических правил, которое характеризует удивительный диапазон применений этого феномена в реальном мире достаточно хорошо. Этот закон говорит о том, что если мы упорядочим какую-нибудь коллекцию по размеру или популярности, второй элемент в этой коллекции будет приблизительно в два раза меньше от измерения первого элемента, третий элемент в коллекции будет 1/3 от измерения первого элемента и так далее. В общем случае k ранжированный элемент будет измеряться как 1/k от первого элемента.
 
-Taking popularity as a rough measure of value, then the value of each individual item is given by Zipf's Law. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
+Если мы возьмем популярность как грубое измерение ценности, то в таком случае ценность каждого отдельного элемента определяется Законом Зипфа. То есть если у нас один миллион элементов, тогда топ 100 самых популярных контрибьютят треть от общей ценности, следующие 10000 элементов вторую треть, и оставшиеся 989900 оставшуюся треть. Ценность коллекции из n элементов пропорциональна log(n).
 
-The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
+Результат такого голосования и распределения выплат - это предложение больших наград за хороший контент, в то же время вознаграждая малых игроков в длинном хвосте контрибьюции.
 
-The economic effect of this is similar to a lottery where people over-estimate their probability of getting votes and thus do more work than the expected value of their reward and thereby maximize the total amount of work performed in service of the community. The fact that everyone "wins something" plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
+Экономический эффект этого подобен лотереи, в которой люди переоценивают их вероятность получить голоса, таким образом делая больше работы чем ценность ожидаемого вознаграждения, тем самым максимизируя общее количество работы произведенной в сообществе. Тот факт, что каждый выигрывает "что-нибудь", играет похожую психологию, которые используют казино, чтоб удерживать людей в игре. Другими словами, меньшие вознаграждения помогают усиливать идею, что возможно зарабатывать большие награды.
 
-#### Rewarding Parent Posts
+#### Вознаграждение Родительских Постов
 
-Good discussion requires back and forth posting. When you reply to someone else, they get 50% of any payout you receive in that thread. This rule applies up to 6 levels deep. Starting a big discussion greatly rewards the parent poster.
+Хорошая дискуссия требует очень активного постинга. Когда ты отвечаешь кому-нибудь, то он получает 50% любой выплаты, которую ты получишь в этой ветке. Это правило применяется в плоть до 6 уровней вложенности. Начало большой дискуссии хорошо вознаграждается.
 
-Failure to properly nest your posts in the discussion is a good way to get down voted.
+Ошибка в корректности наследования постов во время дискуссии - это отличный способ быть заминусованым.
 
-This incentive structure motivates people to contribute in a way that motivates others to get involved. It encourages people to ask good questions so that others can provide valuable answers.
+Предлагаемая структура стимулов мотивирует людей контрибьютить таким образом, чтобы другие тоже вовлекались. Это поощряет людей задавать хорошие вопросы таким образом, чтобы другие люди находили ценные ответы.
 
-### Payouts
+### Выплаты
 
-When a post receives a payout it takes the form of 50% SMD and 50% SP. The Steem Power give the user increased voting and transaction power while the SMD gives the user an immediate benefit in a stable currency. As we've already discussed at length, both SP and SMD are designed to encourage long-term holding rather than short-term selling.
+Посты получают выплаты в следующей форме: 50% в стим-баксах и 50% в стим-мощи. Стим-мощь дает пользователю голоса и пропускную способность, в то время как стим-баксы дают пользователю моментальную выгоду в стабильной валюте. Мы уже обсудили, что и стим-мощь и стим-бакс спроектированы для поощрения долгосрочных инвестиций, а не краткосрочной продажи.
 
-# Consensus Algorithm
+# Консенсус Алгоритм
 
-Consensus is the process by which a community comes to a universally recognized, unambiguous agreement on piece of information. There are many algorithms society has developed for reaching consensus about who owns what. Every government on earth is a primitive consensus algorithm whereby the population agrees to abide by a certain set of rules enshrined in a constitution. Governments establish courts, judges, and juries to interpret the subjective facts and render a final decision. Most of the time people abide by the decision even if it was wrong.
+Консенсус Алгоритм - это процесс, при помощи которого сообщество приходит к всеобщему недвусмысленному согласию относительно какой-либо части информации. В обществе существует много алгоритмов для достижения согласия относительно того, что кому принадлежит. Каждое правительство на Земле - это примитивный консенсус алгоритм, посредством которого население соглашается подчиняться определенному набору правил, который бережно зафиксирован в конституции. Правительства устанавливают суды, судей и присяжных для интерпретации субъективных фактов и постановления финальных решений. В большинстве случаев люди подчиняются решению даже если оно было неверным.
 
-The algorithms used by cryptocurrencies provide a better way to reach consensus. Cryptographically signed testimony from individuals is recorded in a public ledger that establishes the absolute global order of events. A deterministic computer algorithm can then process this ledger to derive a universally accepted conclusion. So long as the members of a community agree on the processing algorithm, the result of the algorithm is authoritative.
+Алгоритмы используемые в криптовалютах обеспечивают лучший способ достигнуть согласия. Криптографически подписанные доказательства поступают от индивидов и записываются в публичную книгу (публичный реестр, блокчейн), которая устанавливает абсолютный глобальный реестр событий. Детерминистический компьютерный алгоритм затем может обрабатывать эту книгу для того, чтобы вычислить универсально принимаемое заключение. До тех пор пока члены сообщества соглашаются с этим алгоритмом, результат работы этого алгоритма авторитетен.
 
-The primary consideration is determining what testimony is allowed to enter the public record. Systems should be designed to minimize the potential for censorship. Censorship on the public ledger is similar to preventing someone from voting in an election. In both cases an individual is prevented from impacting the global consensus.
+Ключевая проблема - это определение того, какое доказательство дозволено для записи в публичную книгу. Systems should be designed to minimize the potential for censorship. Censorship on the public ledger is similar to preventing someone from voting in an election. In both cases an individual is prevented from impacting the global consensus.
 
 ## Consensus in Steem
 
