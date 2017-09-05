@@ -344,9 +344,9 @@
 
 Для операторов ботнетов должно быть более прибыльно и менее рискованно использовать свои ресурсы на отличные от майнинга стимов виды деятельности.
 
-### Mining Pool Resistant
+### Защита от Майнинг Пулов
 
-Miners have a total of 3 seconds to receive a block, solve the proof of work, and get the transaction to the next block producer. Much of this time will consist of network latency which means that it is critical for miners to be well connected to the network to make the most effective use of their computational resources.
+Майнеры имеют в общей сложности 3 секунды, чтобы получить блок, выполнить доказательство работы и отправить его следующему блок продюсеру. Большая часть этого времени будет состоять из задержек в сети, что означает, что майнерам будет важно иметь хорошее подключение к сети, чтобы максимально эффективно использовать свои вычислительные ресурсы.
 
 Because of the constantly changing head block and network latency, forwarding a template for mining a specific block to participants of a mining pool adds additional network latency and reduces efficiency of pooled mining significantly.
 
@@ -468,7 +468,7 @@ Because of the constantly changing head block and network latency, forwarding a 
 
 Для того, чтобы обеспечивать комфортный пользовательский опыт с минимальным количеством подвисших аккаунтов, все новые аккаунты должны создаваться с балансом в 10 раз превышающим минимально требуемый для еженедельных транзакций. Таким образом даже если спрос возрастет в 10 раз, счет все равно будет действующим.
 
-Any initial account balance would have to come from the user creating the account and not from token creation due to the potential for sybil attacks.
+Любой первоначальный баланс счета должен исходить от пользователя, создавшего аккаунт, а не из создания токенов из-за возможности атаки Сибиллы.
 
 ### Оправдание Минимальных Балансов
 
