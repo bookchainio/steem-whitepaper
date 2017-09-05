@@ -375,94 +375,94 @@ Because of the constantly changing head block and network latency, forwarding a 
 
 В мире финансовых платежей, малые комиссии приемлемы, потому что ценность транзакций экстремально высокая относительно взимаемой комиссии, а покупатель уже сделал решение о покупке. Мир потенциальных блокчейн приложений намного шире элементарных финансовых платежей, и включает многие необходимые транзакции за которые комиссии просто не приемлемы для людей.
 
-Systems like BitShares, Nxt, Ripple, Counter Party and Stellar all allow users to place limit orders on the blockchain and all of them charge users a small fee to perform this action. Later if the user wishes to cancel their order, another fee is charged. Systems like Ethereum take micropayments to a whole new level: charging per calculation. All of these systems struggle to attract new mainstream users for the same reasons that a decentralized search engine would struggle to attract users from Google if it charged a small fee for every search. It doesn't matter how good the service is, people expect certain things to be free. This is true even if a user ends up paying more overall under a different fee structure.
+Такие системы как BitShares, Nxt, Ripple, Counter Party и Stellar позволяют пользователям размещать лимит ордера на блокчейне, и все они взимают небольшую комиссию с пользователей для того, чтобы осуществить это действие. Позднее, если пользователь желает отменить ордер, удерживается другая комиссия. Такие системы как Ethereum выводят микроплатежи на совершенно новый уровень, взимая плату за вычисление. Все эти системы борются за привлечение новых мейнстримных пользователей таким же способом, как если бы децентрализованный поисковик пытался бы конкурировать с Google за новых мейнстримных пользователей и при этом удерживал бы небольшую комиссию за каждый поисковой запрос. Не важно, на сколько хорош сервис, люди ожидают, что конкретные вещи будут бесплатными. Это правдиво даже если в итоге пользователь в итоге платит больше при измененной структуре комиссий.
 
-### Fees are a Barrier to Entry
+### Комиссии как Барьер для Входа
 
-Any fee creates a barrier to entry for new users. Before someone can experiment with Ethereum they must acquire some ETH tokens. Anyone wanting to build a decentralized application on Ethereum must pass on the cost to their customers. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
+Любые комиссии создают барьер для входа новых пользователей. Перед тем как кто-либо может поэкспериментировать с Ethereum, он должен приобрести несколько токенов эфира. Если кто-то хочет разработать децентрализованное приложение на Ethereum, то он должен переложить эти затраты на своих покупателей. Покупка криптовалюты не легкая задача и редко имеет смысл на сумму менее $10. Это означает, что новые пользователи, которые хотят попробовать новое децентрализованное приложение должны быть убеждены принять решение на $10.
 
-### Changing Fees
+### Взимание Комиссий
 
-Over time a network must adjust fees. This can happen either due to an increase in the value of the token or due to a surge in capacity. Users like predictable fees and guaranteed service. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
+Со временем сеть должна подстраивать комиссии. Это может произойти либо в случае роста цены на токен, или в случает роста пропускной способности. Пользователи любят предсказуемые комиссии и гарантированные услуги. Подстраивать комиссионные вознаграждения динамически возможно, но в результате от этого страдает пользовательский опыт.
 
-### Sybil Attacks
+### Атаки Сибиллы
 
-Centralized websites prevent spam through rate limiting and some form of ID verification. Even something as simple as reCAPTCHA <sup id="fnref:9"><a href="#fn:9" class="footnote-ref">9</a></sup> is sufficient to limit the creation of fake accounts. If someone abuses their account then centralized websites are free to block the account.
+Централизованные сайты предотвращают спам при помощи ограничения количества запросов и некоторых форм идентификации. Даже такой простой способ как reCAPTCHA <sup id="fnref:9"><a href="#fn:9" class="footnote-ref">9</a></sup>достаточен для ограничения создания фейковых аккаунтов. Если кто-то злоупотребляет их аккаунтами, тогда централизованные сайты могут заблокировать аккаунт.
 
-In a decentralized system there is no direct way to ban users nor centralized provider able to host a reCAPTCHA and enforce rate limiting of accounts. In fact, the inability to censor users is one of the main selling points of blockchain technology.
+В децентрализованной системе не существует прямого способа забанить пользователя, так же как и нет способа у централизованного провайдера децентрализованных услуг использовать reCAPTCHA и накладывать лимиты на аккаунты. По факту невозможность цензурировать пользователей - это одно из самых продаваемых свойств блокчейн технологии.
 
-### Full Reserve vs Fractional Reserve
+### Полное Резервирование против Частичного Резервирования
 
-Let's view a blockchain like an Internet Service Provider (ISP) co-op which owns all of the cables in the town and has a maximum amount of bandwidth that it can provide at any time. People living in the town can buy shares in the ISP and in exchange they are entitled to utilize a portion of the available bandwidth.
+Давайте рассмотрим блокчейн как ISP (от англ. Internet Service Provider или поставщик услуг интернета) работающий как кооператив, который владеет всеми кабелями в городе, и имеет максимальную пропускную способность, которую он может обеспечить в любое время. Люди живущие в городе могут купить акции этого ISP в обмен на право использовать часть доступного пропускного канала.
 
-The ISP has two choices, run a "full reserve" or "fractional reserve" system. Under a full reserve system each user is only allowed a fraction of the maximum bandwidth proportional to her shares. Because not everyone uses the Internet at the same time, the town's network would be significantly underutilized.
+У ISP есть две опции: использовать систему с полным резервированием или с частичным резервированием. При использовании системы с полным резервированием каждый пользователь может использовать какую-то часть максимального пропускного канала пропорционально его акциям. Так как никто не пользуется Интернетом в одно и то же время, городская сеть будет сильно недоиспользована.
 
-Under a fractional reserve system the individual users could utilize more bandwidth than they are entitled to at any given point in time so long as not everyone uses the Internet at the same time. The problem with operating a fractional reserve is that congestion occurs anytime too many people wish to use the network at the same time. The ISP needs a way to prioritize bandwidth during congested periods. In the most extreme case, a fully congested network must revert to a full reserve system. The challenge is setting the proper fractional reserve ratio.
+При частичном резервировании отдельные пользователи могут использовать больше пропускной способности в любой момент времени, до тех пор пока абсолютно все пользователи не станут использовать Интернет в одно и то же время. Проблема с обслуживанием частичного резервирования в том, что затор будет происходить каждый раз, когда слишком много людей будет хотеть использовать сеть в одно и то же время. ISP нужен способ приоритизировать пропускную способность в периоды пиковых нагрузок. В самом экстремальном случае, сильно нагруженная система должна превратиться в систему с полным резервированием. Челендж в установке корректного коэффициента частичного резервирования.
 
-## Bandwidth Instead of Micropayment Channels
+## Пропускная Способность Вместо Микроплатежей
 
-The solution to the problems with micropayments is in implementing *dynamic fractional reserves*. Under this model the blockchain will automatically adjust the reserve ratio for the network during times of congestion. The blockchain will set a target utilization that leaves enough headroom for short term surges in demand. Any time the surges are sustained the blockchain reduces the maximum bandwidth-per-share. When a surge is over and there is surplus capacity the blockchain can slowly increase the bandwidth-per-share.
+Решение проблемы с микроплатежами в применении *динамичных частичных резервов*. При этой модели блокчейн будет автоматически подстраивать коэффициент резервирования для сети во время пиковых нагрузок. Блокчейн будет устанавливать уровень целевого использования при котором остается достаточный просвет для краткосрочных всплесков спроса. Каждый раз когда происходят всплески активности, блокчейн снижает максимальную пропускную способность на одну акцию. Когда всплеск окончен, и появляется избыточная пропускная способность, блокчейн может медленно повышать пропускную способность на акцию.
 
-Bandwidth used by an individual user should be measured over a suitably long period of time to allow that user to time-shift their usage. Users tend to login, do many things at once, then logout. This means that their bandwidth over a short period of time may appear much higher than if viewed over a longer period of time. If the time window is stretched too far then the reserve ratio will not adjust fast enough to respond to short-term surges, if the window is too short then clustering usage will have too big of an impact on normal users.
+Пропускная способность, используемая для индивидуальных пользователей, должна быть измерена на достаточно долгом промежутке времени для того, чтобы адекватно подстраивать свое использование. Люди привыкли заходить в систему, делать сразу много разных дел, а затем выходить. Это означает, что их пропускная способность на достаточном коротком промежутке времени может показаться намного выше, чем во время длительного периода. Если временное окно растянуто слишком далеко, резервный коэффициент не подстроится достаточно быстро для ответа на краткосрочные всплески. Если временно окно слишком короткое, тогда групповое использование будет иметь слишком большое влияние на нормальных пользователей.
 
-In our estimate it should be sufficient to measure the average weekly bandwidth usage of users. Every time a user signs a transaction, that transaction is factored into their own individual moving average. Any time a user's moving average exceeds the current network limit their transaction is delayed until their average falls below the limit.
+По нашим оценкам должно быть достаточно измерять средне недельное использование. Каждый раз когда пользователь подписывает транзакцию, эта транзакция учитывается в их собственной индивидуальной скользящей средней. Каждый раз когда скользящая средняя превышает текущие сетевые лимиты - транзакции откладываются, до тех пор пока их средняя не упадет до установленных лимитов.
 
-### Example Implementation
+### Пример Реализации
 
-Let B equal a user's average bandwidth at time T. Let W equal the number of seconds per week, and let N equal the size of the new transaction that occurred S seconds after T. Given this information the blockchain can calculate the new average bandwidth for a user as:
+Допустим B равняется средней пропускной способности пользователям за время T. Допустим W равняется числу секунд за неделю, и допустим N равняется размеру транзакции, которая случилась через S секунд после T. На основании этой информации блокчейн может вычислить новую среднюю пропускную способность для пользователям как:
 
     Bnew = MIN(0,B * (W - S) / W) + N * S / W
     Tnew = T + S
     
 
-Each user is entitled to an average weekly bandwidth of:
+Каждому пользователю устанавливается следующая средняя пропускная способность:
 
-    Let U = the user's SP
-    Let S = the total number of SP
-    Let R = the current reserve ratio between 1 and Rmax
-    Let C = the maximum block size capacity set by witnesses
-    Let L = the total blocks per week
+    Let U = стим-мощь пользователям
+    Let S = общее количество стим-мощи
+    Let R = текущий резервный коэффициент между 1 и Rmax
+    Let C = максимальный размер блока устанавливаемый делегатами
+    Let L = общее количество блоков в неделю
     Let M = C * L * R
-    Allocation = M * U / S
+    Распределение = M * U / S
     
 
-A user would be entitled to an average bandwidth of M \* U / S. Any time a transaction would cause the user's average to go above this threshold they would be unable to transact until enough time passes to lower the average.
+Пользователю будет установлена средняя пропускная способность M \* U / S. Каждый раз когда транзакция будет приводить к увеличению установленного лимита выше этого значения, этот пользователь не будет иметь возможности осуществлять транзакции до тех пор, пока не пройдет достаточно времени для снижения его средней.
 
-The network can increase the reserve ratio, anytime blocks are less than half the target capacity and decrease it anytime they are more than half. The algorithm used to adjust R is designed to react quickly to decrease the reserve ratio when there is a surge in demand, while acting slowly to increase the reserve ratio in period of low demand.
+Сеть может увеличивать резервный коэффициент в любое время, когда блоки более чем в два раза меньше чем целевая пропускная способность, и уменьшать его когда этот показатель больше половины. Алгоритм используемый для корректировки R, разработан реагировать быстро для снижения коэффициента резервирования во время всплесков спроса. При этом этот алгоритм действует медленно при повышении резервного коэффициента в периоды низкого спроса.
 
-The minimum reserve ratio is 1, and the maximum reserve ratio should be calculated to prevent small stakeholders from consuming all of the available bandwidth. If no one is using the available bandwidth then the reserve ratio can grow until a user with just 1 satoshi of the currency is able to transact every single block.
+Минимальный резервный коэффициент 1, а максимальный резервный коэффициент должен быть вычислен для предотвращения малых акционеров от потребления всей доступной пропускной способности. Если никто не использует доступную пропускную способность, тогда резервный коэффициент может расти до тех пор пока пользователь с 1 сатоши стим-мощи не сможет делать транзакции в каждом блоке.
 
-### Case Study: Bitcoin
+### Изучаем на примере Биткоина
 
-To understand how this algorithm would work on Bitcoin it is necessary to estimate a reasonable value for the reserve ratio, R, based on actual usage. Based upon the total supply of 15M BTC and a daily transaction volume of 400K BTC<sup id="fnref:10"><a href="#fn:10" class="footnote-ref">10</a></sup>, we can derive a minimum reserve ratio of 38 for Bitcoin. Using the equations we can calculate the weekly bandwidth (in bytes) allowed per BTC to be:
+Для понимания того, как предлагаемый алгоритм работал бы в Биткоине необходимо оценить разумное значение для резервного коэффициента R на основе текущего использования. Основываясь на текущем количестве биткоинов в 15 миллионов и ежедневном объеме транзакций в размере 400 тысяч биткоинов<sup id="fnref:10"><a href="#fn:10" class="footnote-ref">10</a></sup> мы может получить минимальный резервный коэффициент: 38 для Биткоина. Используя формулы мы может вычислить недельную пропускную способность (в байтах), которая будет доступна на 1 биткоин:
 
     Let C = 1MB = 1024 * 1024
-    Let L = 1008 (blocks per week)
+    Let L = 1008 (блоков в неделю)
     Let R = 38
-    Let S = 14000000 BTC (supply minus Satoshi's unmoving coins)
+    Let S = 14000000 BTC (количество биткоинов минус не двигающиеся)
     Let U = 1 BTC
-    CLR/S = 2869 bytes per week, or about 5 transactions/week per BTC
+    CLR/S = 2869 байтов в неделю, или около 5 транзакций в неделю на 1 биткоин
     
 
-Since R = 38 is a lower bound on the reserve ratio, CLR/S is a lower bound on the permitted bandwidth. This simple case study suggests a user will require at most 0.20 BTC (over $80 as of this writing) to transact once per week. However, this is a loose upper bound derived from the assumption that all BTC are equally mobile. This is not the case - users with dozens or hundreds of bitcoins do not necessarily transact dozens or hundreds of times a week! The "leftover" transactions that those users "should" have made will increase the reserve ratio, allowing their unused bandwidth to be "recycled" for smaller users.
+Так как R = 38 - это нижняя граница на резервный коэффициент и CLR/S - это нижняя граница на разрешенную пропускную способность. Самый простой случай предполагает, что пользователям необходимо иметь максимум 0.2 биткоина (или около 5000 руб.) для того, чтобы делать транзакции раз в неделю. Тем не менее эта свободная верхняя граница получена из предположения что все биткоины равно перемещаемы. Это не так - пользователи с большим количеством биткоинов не обязательно делают транзакции десятки или сотни раз в неделю! Оставшиеся транзакции, которые эти пользователи могли бы сделать, увеличат резервный коэффициент, а это позволяет использовать свободную пропускной способность для малых пользователей.
 
-All of the above estimates are conservative upper bounds assuming coins and usage are distributed in a relatively flat manner. The reality is that heavy users, such as exchanges, have a much higher coin-to-usage ratio than lighter users, which in turn means that actual minimum balance requirements are far lower.
+Вышеприведенные оценки очень консервативны, и предполагают что доли и их использование распределены достаточно равномерно. В реальности тяжелые пользователи, такие как биржи, имеют гораздо высокий показатель доля/использование чем легкие пользователи, а это в результате приводит к тому, что требования по минимальному балансу гораздо ниже.
 
-#### Impact of Capacity
+#### Влияние на Пропускную Способность
 
-Blockchain capacity isn't necessarily capped. It is well within the technological capability of internet infrastructure to increase the Bitcoin block size to 10MB which in turn will reduce the minimum required balance by a factor of 10. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second. This changes our conservative upper bound to 0.0006 BTC or about $0.25, meaning that an account holding $0.25 would be able to transact at least once per week on average (and likely many more times because we're dealing with a fairly loose upper bound).
+Пропускная способность блокчейна не обязательно ограничена. Технологическая способность существующей интернет инфраструктуры вполне позволяет увеличить размер блока Биткоина до 10 мегабайт, что в свою очередь снизит минимальные требования к балансу в 10 раз. В то время как Биткоин на данный момент поддерживает 3 транзакции в секунду, альтернативные имплементации способны на более чем 1000 транзакций в секунду. Это уменьшает нашу консервативную верхнюю границу до 0.0006 биткоина или приблизительно 15 рублей. Это означает, что аккаунт, владеющий 15 рублями сможет делать транзакции в среднем как минимум один раз в неделю. А в реальности гораздо чаще, так как мы имеем дело с достаточно консервативной оценкой.
 
-#### Maximum Number of Unique Users
+#### Максимальное Количество Пользователей
 
-We can use similar math to calculate the maximum number of unique users that the network can allow to transact once per week as: B\*W/T. T represents the average transaction size. This means Bitcoin could support about 2 million users transacting once per week assuming each user had an equal balance.
+Мы можем использовать похожую математику для вычисления максимального количества уникальных пользователей, которым сеть может позволить делать транзакцию один раз в неделю: B\*W/T. T отражает средний размер транзакции. Это означает что Биткоин мог бы поддерживать около 2 миллионов пользователей, которые делают транзакции один раз в неделю предполагая, что каждый пользователь имеет одинаковый баланс.
 
-#### Comparison to Fees
+#### Сравнение с Комиссиями
 
-If we assume a user with $25 dollars worth of BTC transacts once per week and pays a $0.04 cent fee each time then they would pay over $2.00 in fees per year. A user would have to earn a 8% rate of return on their $25 dollars just to break even with paying fees. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
+Если мы предположим что пользователь со счетом 1500 рублей в биткоинах делает транзакции раз в неделю и платит 3 рубля комиссионных каждый раз когда он делает транзакции, получится что такое пользователь платит трансакционных комиссий на сумму 150 рублей в год. Пользователь должен обеспечивать 8% возврат на его 1500 рублей для того, чтобы окупить только трансакционные издержки. Пользователь в любом случае собирается держать свои деньги на блокчейне, так что пользователь с 1500 рублями в биткоинах сэкономит 150 рублей используя подход ограничения лимитов вместо комиссионных. С 15000 рублями люди могут делать транзакции каждый день и экономить около 1200 рублей в год.
 
-### Account Creation
+### Создание Аккаунтов
 
-Steem's account-based system with publicly known balances simplifies the implementation of the bandwidth-based rate limiting algorithm. Any account with a balance below the minimum required to transact once per week would be unable to transact. This implies that all new accounts should be funded with at least this minimum balance. It also implies that users wishing to transact in smaller amounts can, so long as they hold a larger balance and reuse the account.
+Система аккаунтов в Стиме с публично известными балансами, упрощает реализацию алгоритма основанного на ограничении лимитов пропускной способности. Любой аккаунт, с балансом ниже минимально требуемого для обеспечения транзакций раз в неделю, не сможет делать транзакции. Это подразумевает, что все новые аккаунты должны быть пополнены минимальным количеством средств. Это также подразумевает, что пользователи, которые желают делать транзакции в меньших количествах, смогут это делать свободно пока у них большой баланс.
 
 It is possible for a low-balance account created during a time of low usage to become inaccessible if the network usage picks up. The funds could be recovered at any time by transferring a larger balance into the account.
 
