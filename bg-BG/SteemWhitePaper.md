@@ -2,7 +2,7 @@
 
 Steem е база данни, която подкрепя изграждането на общност и подпомага социалното взаимодействие като награждава участниците с крипто валута. Steem съчетава концепции от социални медии но с извлечени поуки от изграждането на криптокомпоненти и техните общности. Важен ключ към вдъхновяването на участието във всяка общност, валута или свободна пазарна икономика е справедлива счетоводна система, която последователно отразява и възнаграждава приноса на всеки човек. Steem е първата крипто общност която опитва точно и прозрачно да възнагради неограничен брой Лица, които правят *субективен принос* в дадена общност.
 
-# Table of Contents
+# Таблица на съдържанието
 
 <!-- toc -->
 
@@ -201,19 +201,19 @@ SMD плаща лихва на притежателите. Лихвеният п
 
 Следващата стъпка е да възнаградим всеки, който прави нещо дори отдалечено позитивно с *нещо*. Това се постига чрез класиране на цялата работа и разпределение пропорционално на нейната стойност. Колкото по-конкурентен става пазарът, толкова по-трудно (по-високо качество или количество) става да печелите една и също заплащане.
 
-### Voting on Distribution of Currency
+### Гласуване относно разпределянето на валута
 
-Assume there is a fixed amount of money to distribute, and that those who have a long-term vested interest in the future value and utility of the currency are the ones who must decide how to allocate it. Every vesting user casts their votes on who did the best work and at the end of the day the available money for that day is divided proportional to the votes such that everyone with even one net positive vote gets something.
+Да приемем, че има определена сума пари, която да се разпределя, и че онези, които имат дългосрочен интерес към бъдещата стойност и полезността на валутата, са тези, които трябва да решат как да я разпределят. Всеки притежател на права гласува за това кой е направил най-добрата работа и в края на деня наличните пари за този ден са разделени пропорционално на гласовете, така че всеки, който има дори един нетен положителен вот, получава нещо.
 
-The naive voting process creates a Prisoner's Dilemma whereby each individual voter has incentive to vote for themselves at the expense of the larger community goal. If every voter defects by voting for themselves then no currency will end up distributed and the currency as a whole will fail to gain network effect. On the other hand, if only one voter defects then that voter would win undeserved profits while having minimal effect on the overall value of the currency.
+Процесът на наивно гласуване създава дилемата на затворника, при която всеки отделен избирател има стимул да гласува за себе си за сметка на по-голямата общностна цел. Ако всеки гласоподавател дефект, гласувайки за себе си, тогава няма да се разпространява валута и валутата като цяло няма да получи мрежов ефект. От друга страна, ако само един гласоподавател дефект, тогава този избирател ще спечели незаслужена печалба, като същевременно има минимален ефект върху общата стойност на валутата.
 
-In order to realign incentives and discourage individuals from simply voting for themselves, money must be distributed in a nonlinear manner. For example a quadratic function in votes, i.e., someone with twice the votes of someone else should receive four times the payout and someone with three times the votes should receive nine times the payout. In other words, the reward is proportional to \\(votes^{2}\\) rather than *votes*. This mirrors the value of network effect which grows with \\(n^{2}\\) the number of participants, according to Metcalfe's Law<sup id="fnref:5"><a href="#fn:5" class="footnote-ref">5</a></sup>.
+За да се реорганизират стимулите и да се обезсърчат хората просто да гласуват за себе си, парите трябва да се разпределят по нелинеен начин. Например квадратната функция на гласовете, т.е. някой с два пъти гласа на някой друг, трябва да получи четирикратното изплащане и някой с три пъти повече от гласовете да получи девет пъти повече от изплащането. С други думи, наградата е пропорционална на гласовете 2, отколкото на *гласовете*. Това отразява стойността на мрежовия ефект, който нараства с \\(n^{2}\\) броя на участниците, съгласно Закона на Metcalfe<sup id="fnref:5"><a href="#fn:5" class="footnote-ref">5</a></sup>.
 
-Assuming all users have equal stake, someone who only receives their own vote will receive much less than someone who receives votes from 100 different users. This encourages users to *cooperate* to vote for the same things to maximize the payout. This system also creates financial incentive to *collude* where everyone votes on one thing and then divides the reward equally among themselves.
+Ако приемем, че всички потребители имат еднакъв залог, някой, който получава само собствения си глас, ще получи много по-малко от някой, който получава гласове от 100 различни потребители. Това насърчава потребителите да *си сътрудничат*, за да гласуват за едни и същи неща, за да увеличат максимално изплащането. Тази система също така създава финансови стимули да *се договарят*, когато всеки гласува за едно нещо и след това разделя възнаграждението еднакво помежду си.
 
-#### Voting Collusion
+#### Съглашателство при гласуването
 
-While cooperation to distribute funds to the best work is the desired goal, *collusion* that undermines this objective should be minimized. There are two kinds of *collusion*, the most straightforward is when one user simply buys a larger stake than others, and the other involves coordinating a large number of smaller stakeholders to work together. Larger stakeholders can have the voting influence of 100 or even 1000 smaller stakeholders which means they have even greater incentive to defect by voting for themselves than they had under a linear distribution.
+Докато сътрудничеството за разпределяне на средства за най-добра работа е желаната цел, *тайно* споразумение, което подкопава тази цел, трябва да бъде сведено до минимум. Съществуват два вида *тайни* споразумения, най-ясни са случаите, когато един потребител просто купува по-голям дял от други, а другият включва координиране на голям брой по-малки заинтересовани страни, за да работят заедно. Larger stakeholders can have the voting influence of 100 or even 1000 smaller stakeholders which means they have even greater incentive to defect by voting for themselves than they had under a linear distribution.
 
 Regardless of how much money any one individual has, there are always many other individuals with similar wealth. Even the wealthiest individual rarely has much more than the next couple wealthiest combined. Furthermore, those who have a large investment in a community also have the most to lose by attempting to game the voting system for themselves. It would be like the CEO of a company deciding to stop paying salaries so he could pocket all of the profits. Everyone would leave to work for other companies and the company would become worthless, leaving the CEO bankrupt rather than wealthy.
 
