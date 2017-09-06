@@ -46,23 +46,23 @@ Omdat de vrije markt een bewezen systeem is, is het verleidelijk om te proberen 
 
 Steem is ontworpen om effectieve microbetalingen voor alle soorten bijdragen in staat te stellen door het veranderen van de economische vergelijking. Lezers hoeven niet langer meer te beslissen of zij wel of niet iemand willen betalen uit hun eigen zak, in plaats daarvan kunnen ze inhoud omhoog of omlaag stemmen en Steem zal hun stemmen gebruiken om individuele beloningen te bepalen. Dit betekent dat mensen een gebruikelijke en bekende interface krijgen en niet langer de cognitieve, financiële en alternatieve kosten dragen die geassocieerd worden met traditionele microbetaling en fooi platformen.
 
-Stemmen inbreng van leden van de gemeenschap is van cruciaal belang voor Steem om nauwkeurige betalingen toe te wijzen aan medewerkers. Stemmen kan daarom worden gezien als een cruciale bijdrage en waardig voor beloningen op zichzelf. Some platforms, such as Slashdot, use meta-moderation <sup id="fnref:3"><a href="#fn:3" class="footnote-ref">3</a></sup> as a way to rank and reward honest moderators. Steem chooses to reward those who contribute the most to the total promotion of a piece of content and rewards the voters proportional to the ultimate reward paid to the content creator.
+Stemmen inbreng van leden van de gemeenschap is van cruciaal belang voor Steem om nauwkeurige betalingen toe te wijzen aan medewerkers. Stemmen kan daarom worden gezien als een cruciale bijdrage en waardig voor beloningen op zichzelf. Sommige platformen, zoals Slashdot, gebruiken meta-moderatie <sup id="fnref:3"><a href="#fn:3" class="footnote-ref">3</a></sup> als een manier voor rangorde en het belonen van eerlijke moderators. Steem kiest er voor degenen te belonen die het meest bijdragen aan de totale promotie van een stuk inhoud en beloond de kiezers proportioneel aan de ultieme beloning betaald aan de maker van de inhoud.
 
-There are other forms of contribution that Steem recognizes and rewards using objective metrics. Among these are: transaction validation, proof of work mining, liquidity rewards, and reporting of misbehaving block producers.
+Er zijn andere vormen van bijdrage die Steem herkent en beloont op basis van objectieve metriek. Onder deze zijn: transactie validatie, proof of work mining, liquiditeit beloningen en het aangeven van misdragende blok producenten.
 
-# Ways to Contribute
+# Manieren Om Bij Te Dragen
 
-This section outlines the ideas behind Steem and its rewards for people who provide meaningful and measurable contributions to the Steem community.
+In dit gedeelte worden de ideeën achter Steem en de beloningen voor mensen die zorgen voor zinvolle en meetbare bijdrage van de Steem gemeenschap beschreven.
 
-## Capital Contributions
+## Bijdragen In Kapitaal
 
-There are two items a community can offer to attract capital: debt and ownership. Those who buy ownership profit when the community grows but lose if the community shrinks. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
+Er zijn twee items dat een gemeenschap kan aanbieden voor het aantrekken van kapitaal: schuld en eigendom. Degenen die eigendom kopen genereren winst wanneer de gemeenschap groeit, maar verliezen wanneer de gemeenschap krimpt. Degenen die schuld kopen word een zekere mate van belang verzekerd maar kunnen niet deelnemen aan een winst gerealiseerd door de groei van de gemeenschap. Beide soorten bijdragen van kapitaal zijn waardevol voor de groei van de gemeenschap en de waarde van zijn munt. Daarnaast zijn er twee manieren hoe eigendom kan worden gehouden: liquiditeit en vestiging. Vestigingseigendom maakt een verbintenis op lange termijn en kan niet worden verkocht voor een minimale periode.
 
-The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SMD).
+Het Steem netwerk noemt deze verschillende activaklassen Steem (STEEM), Steem Power (SP) en Steem Dollars (SMD).
 
 ## Steem (STEEM)
 
-Steem is the fundamental unit of account on the Steem blockchain. All other tokens derive their value from the value of STEEM. Generally speaking STEEM should be held for short periods of time when liquidity is needed. Someone looking to enter or exit the Steem platform will have to buy or sell STEEM. Once STEEM has been purchased it should be converted into SP or SMD to mitigate the impact of dilution over the long-term.
+Steem is de fundamentele rekeneenheid op de Steem blockchain. Alle andere tokens ontlenen hun waarde aan de waarde van STEEM. In het algemeen zou STEEM moeten worden gehouden voor korte perioden wanneer liquiditeit nodig is. Iemand die het Steem platform tracht toe te treden of te verlaten zal STEEM moeten kopen of verkopen. Zodra STEEM gekocht is zou het moeten omgezet worden in SP of SMD om het effect van verwatering op lange termijn te beperken.
 
 STEEM is constantly increasing in supply by 100% per year due to non-SMD incentives. Someone who holds STEEM without converting it to SP is diluted by approximately 0.19% per day. While the rate may appear high, for transactions that take less than 10 days, it is still cheaper than credit card processing fees. Furthermore, the daily token creation is insignificant next to the daily volatility.
 
