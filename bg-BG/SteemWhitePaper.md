@@ -243,45 +243,45 @@ SMD плаща лихва на притежателите. Лихвеният п
 
 Графиките по-горе показват как правото на глас на потребителите намалява всеки път, когато гласуват, а след това се регенерира с преминаването на времето без гласуване. Тези графи използват номинална единица време и могат да бъдат направени така, че да се мащабират до всеки целеви процент на гласуване. Обърнете внимание, че молбата за гласуване бързо пада по време на периоди на непрекъснато гласуване и след това бавно се възстановява.
 
-Voting power is multiplied by a user's vesting tokens to determine how much share in the reward pool should be allocated to a given work item.
+Силата на гласуването се умножава от правата на потребителя, за да се определи какъв дял от общата сума на наградите трябва да се разпредели за дадена работна единица.
 
-### Delayed Payouts
+### Забавени плащания
 
 ![](\img_change_voting_period_eg.png)
 
-To further prevent abuse, all payouts are delayed a stake-weighted average of 24 hours from the time each vote was cast. This ensures that large stakeholders cannot snipe payouts by voting at the last second before other voters (aka crabs) have a chance to negate the potential abuse. Once a payout is made to the user all votes are reset to 0. If votes come in after the payout then the process begins again.
+За по-нататъшно предотвратяване на злоупотреби всички изплащания се забавят със средно от 24 часа от момента на гласуването. Това гарантира, че големите заинтересовани страни не могат да увеличат изплащанията си, като гласуват в последната секунда преди другите избиратели (известни още като раци) да имат възможност да отхвърлят потенциалната злоупотреба. След като бъде направено изплащането на потребителя, всички гласове се нулират на 0. Ако гласове влязат след изплащането, процесът започва отново.
 
-This chart shows how the voting period expiration changes in response to new positive and negative votes being applied. New votes extend the payout period in proportion to how large they are relative to all votes that have gone before. Around time 40 a large number of new votes were added which extended the voting period by 12 hours, subsequent smaller votes had far less impact on the voting period.
+Тази графика показва как изтичането на периода на гласуване се променя в отговор на новите положителни и отрицателни гласове, които се прилагат. Новите гласове удължават срока за изплащане пропорционално на това колко големи са те спрямо всички гласове, които са изминали преди това. Около време 40 бяха добавени голям брой нови гласове, които удължиха периода на гласуване с 12 часа, последвалите по-малки гласове оказваха далеч по-малко влияние върху периода на гласуване.
 
-### Payout Distribution
+### Разпределение на изплащанията
 
 ![](\img_the_new_marketplace.png)
 
-One of the primary goals of Steem's reward system is to produce the best discussions on the internet. Each and every year 10% of the market capitalization of Steem is distributed to users submitting, voting on, and discussing content. At the size of Bitcoin this could be as much as $1.75 million dollars per day being given to top contributors.
+Една от основните цели на системата за награди на Steem е да произвежда най-добрите дискусии в интернет. Всяка година 10% от пазарната капитализация на Steem се разпределя на потребителите, които представят, гласуват и обсъждат съдържанието. В размера на Bitcoin това може да бъде толкова, колкото $ 1.75 милиона долара на ден се дава на най-добрите сътрудници.
 
-The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content. Steem weighs payouts proportional to \\(n^{2}\\) the amount of Steem Power voting for a post. In other words, post x would receive a payout proportional to:
+Действителното разпределение ще зависи от моделите на гласуване на потребителите, но подозираме, че най-голямата част от наградите ще бъдат разпределени за най-популярното съдържание. Steem сила на изплащания пропорционално на \\(n^{2}\\) сумата на Steem Power при гласуване за публикация. С други думи, публикация x ще получи изплащане пропорционално на:
 
 \\(votes[x]^{2} / sum(votes[0...n]^{2})\\)
 
-Zipf's Law<sup id="fnref:7"><a href="#fn:7" class="footnote-ref">7</a></sup> is one of those empirical rules that characterize a surprising range of real-world phenomena remarkably well. It says that if we order some large collection by size or popularity, the second element in the collection will be about half the measure of the first one, the third one will be about one-third the measure of the first one, and so on. In general, the \\(k^{th}\\)-ranked item will measure about 1/k of the first one.
+Законът на Зипф<sup id="fnref:7"><a href="#fn:7" class="footnote-ref">7</a></sup> е едно от емпиричните правила, които характеризират забележително добре изненадващата гама от реални 7 явления. Тя казва, че ако поръчаме някаква голяма колекция по размер или популярност, вторият елемент в колекцията ще бъде около половината от мярката на първата, третата ще е около една трета от мярката на първата, и т. н. Като цяло, к-то класирана позиция ще бъде около 1/k от първата.
 
-Taking popularity as a rough measure of value, then the value of each individual item is given by Zipf's Law. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
+Взимайки популярноста като груба мярка за стойност, означава че тогава стойността на всеки отделен елемент ще бъде дадена от Закона на Зипф. Това означава, че ако имаме един милион артикули, тогава най-популярните 100 ще дадат една трета от общата стойност, следващите 10 000 друга трета, а останалите 989 900 - третата. Стойността на събирането на n елементите е пропорционална на log(n).
 
-The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
+Въздействието на това разпределение на гласовете и изплащанията е да предлагат големи приходи за добро съдържание, като същевременно възнаграждават по-малките играчи за техния дълъг принос.
 
-The economic effect of this is similar to a lottery where people over-estimate their probability of getting votes and thus do more work than the expected value of their reward and thereby maximize the total amount of work performed in service of the community. The fact that everyone "wins something" plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
+Икономическият ефект от това е подобен на лотарията, при която хората надценяват вероятността си да гласуват и по този начин правят повече работа, отколкото очакваната стойност на възнаграждението си и така увеличават общата сума на работата, извършена в услуга на общността. Фактът, че всеки "печели нещо" играе върху същата психология, която казината използва, за да предпази хората от хазарт. С други думи, малка награда помага да се укрепи идеята, че е възможно да се печелят по-големи награди.
 
-#### Rewarding Parent Posts
+#### Награждаване на родителските публикации
 
-Good discussion requires back and forth posting. When you reply to someone else, they get 50% of any payout you receive in that thread. This rule applies up to 6 levels deep. Starting a big discussion greatly rewards the parent poster.
+Добрата дискусия изисква обмен и отговор. Когато отговаряте на някой друг, вие получавате 50% от всички плащания, които получите в тази нишка. Това правило се прилага до 6 нива. Започването на голяма дискусия значително възнаграждава родителския артикул.
 
-Failure to properly nest your posts in the discussion is a good way to get down voted.
+Неспазването на правилното гнездо на публикациите ви в дискусията е добър начин да откажете гласуван надолу.
 
-This incentive structure motivates people to contribute in a way that motivates others to get involved. It encourages people to ask good questions so that others can provide valuable answers.
+Тази стимулираща структура мотивира хората да допринасят по начин, който мотивира другите да се включат. Той насърчава хората да задават добри въпроси, така че другите да могат да дадат ценни отговори.
 
-### Payouts
+### Плащания
 
-When a post receives a payout it takes the form of 50% SMD and 50% SP. The Steem Power give the user increased voting and transaction power while the SMD gives the user an immediate benefit in a stable currency. As we've already discussed at length, both SP and SMD are designed to encourage long-term holding rather than short-term selling.
+Когато дадена позиция получи изплащане, то е под формата на 50% SMD и 50% SP. Steem Power дава на потребителя по-голяма възможност за гласуване и транзакция, докато SMD дава на потребителя непосредствена полза в стабилна валута. Както вече обсъждахме накратко, SP и SMD са предназначени да насърчават дългосрочно държане, а не краткосрочни продажби.
 
 # Consensus Algorithm
 
