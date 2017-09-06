@@ -283,11 +283,11 @@ SMD плаща лихва на притежателите. Лихвеният п
 
 Когато дадена позиция получи изплащане, то е под формата на 50% SMD и 50% SP. Steem Power дава на потребителя по-голяма възможност за гласуване и транзакция, докато SMD дава на потребителя непосредствена полза в стабилна валута. Както вече обсъждахме накратко, SP и SMD са предназначени да насърчават дългосрочно държане, а не краткосрочни продажби.
 
-# Consensus Algorithm
+# Алгоритъм на консенсуса
 
-Consensus is the process by which a community comes to a universally recognized, unambiguous agreement on piece of information. There are many algorithms society has developed for reaching consensus about who owns what. Every government on earth is a primitive consensus algorithm whereby the population agrees to abide by a certain set of rules enshrined in a constitution. Governments establish courts, judges, and juries to interpret the subjective facts and render a final decision. Most of the time people abide by the decision even if it was wrong.
+Консенсусът е процесът, с който една общност стига до всеобщо признато, недвусмислено споразумение за част от информацията. Има много алгоритми, които обществото е разработило, за да постигне консенсус за това кой притежава това, което. Всяко правителство на земята е примитивен консенсусен алгоритъм, чрез който населението се съгласява да спазва определен набор от правила, залегнали в конституцията. Правителствата учредяват съдилища, съдии и съдебни заседатели, за да тълкуват субективните факти и да вземат окончателно решение. През повечето време хората се придържат към решението, дори и да е грешно.
 
-The algorithms used by cryptocurrencies provide a better way to reach consensus. Cryptographically signed testimony from individuals is recorded in a public ledger that establishes the absolute global order of events. A deterministic computer algorithm can then process this ledger to derive a universally accepted conclusion. So long as the members of a community agree on the processing algorithm, the result of the algorithm is authoritative.
+Алгоритмите, използвани от cryptocurrencies предоставят по-добър начин за постигане на консенсус. Криптографски подписано свидетелство от отделни лица се записва в публична счетоводна книга, която установява абсолютния световен ред на събитията. A deterministic computer algorithm can then process this ledger to derive a universally accepted conclusion. So long as the members of a community agree on the processing algorithm, the result of the algorithm is authoritative.
 
 The primary consideration is determining what testimony is allowed to enter the public record. Systems should be designed to minimize the potential for censorship. Censorship on the public ledger is similar to preventing someone from voting in an election. In both cases an individual is prevented from impacting the global consensus.
 
