@@ -287,41 +287,41 @@ SMD плаща лихва на притежателите. Лихвеният п
 
 Консенсусът е процесът, с който една общност стига до всеобщо признато, недвусмислено споразумение за част от информацията. Има много алгоритми, които обществото е разработило, за да постигне консенсус за това кой притежава това, което. Всяко правителство на земята е примитивен консенсусен алгоритъм, чрез който населението се съгласява да спазва определен набор от правила, залегнали в конституцията. Правителствата учредяват съдилища, съдии и съдебни заседатели, за да тълкуват субективните факти и да вземат окончателно решение. През повечето време хората се придържат към решението, дори и да е грешно.
 
-Алгоритмите, използвани от cryptocurrencies предоставят по-добър начин за постигане на консенсус. Криптографски подписано свидетелство от отделни лица се записва в публична счетоводна книга, която установява абсолютния световен ред на събитията. A deterministic computer algorithm can then process this ledger to derive a universally accepted conclusion. So long as the members of a community agree on the processing algorithm, the result of the algorithm is authoritative.
+Алгоритмите, използвани от cryptocurrencies предоставят по-добър начин за постигане на консенсус. Криптографски подписано свидетелство от отделни лица се записва в публична счетоводна книга, която установява абсолютния световен ред на събитията. Детерминистичният алгоритъм може да обработва тази книга, за да извлече общоприето заключение. Докато членовете на дадена общност се договорят за алгоритъма за обработка, резултатът от алгоритъма е авторитетен.
 
-The primary consideration is determining what testimony is allowed to enter the public record. Systems should be designed to minimize the potential for censorship. Censorship on the public ledger is similar to preventing someone from voting in an election. In both cases an individual is prevented from impacting the global consensus.
+Основното съображение е да се определи какво свидетелство може да влезе в обществения архив. Системите трябва да бъдат проектирани така, че да се сведе до минимум възможността за цензура. Цензурата в публичната счетоводна книга е подобна на предотвратяването на гласуването на изборите. И в двата случая едно лице е възпрепятствано да повлияе на глобалния консенсус.
 
-## Consensus in Steem
+## Консенсус в Steem
 
-Conceptually, the consensus algorithm adopted by Steem is similar to the consensus algorithm adopted by companies throughout the world. People with a vested interest in the future value of Steem vote to select individuals responsible for including testimony in the public record. Voting is weighted proportional to each individual's vested interest.
+Концептуално, консенсусният алгоритъм, приет от Steem, е подобен на консенсусния алгоритъм, възприет от компаниите по целия свят. Хора, които имат собствен интерес към бъдещата стойност на Steem, гласуват, за да изберат лицата, отговорни за включването на показанията в обществения архив. Гласуването е претеглено пропорционално на интереса на всеки отделен човек.
 
-In the world of cryptocurrencies, the public record is commonly referred to as a *blockchain*. A *block* is a group of signed transactions.
+В света на криптовалутите общественият архив често се нарича *блокверига*. *Блокът* представлява група от подписани транзакции.
 
-With Steem, block production is done in rounds. Each round 21 witnesses are selected to create and sign blocks of transactions. Nineteen (19) of these witnesses are selected by approval voting, one is selected by a computational proof-of-work, and one is timeshared by every witness that didn't make it into the top 19 proportional to their total votes. The 21 active witnesses are shuffled every round to prevent any one witness from constantly ignoring blocks produced by the same witness placed before.
+С Steem, блокирането на производството се извършва в кръгове. На всеки кръг се избират 21 свидетели, които създават и подписват блокове за транзакции. Деветнадесет (19) от тези свидетели се избират с гласуване по одобрение, един се избира с компютърно доказателство за работа и един е временно споделен от всеки свидетел, който не го превръща в първите 19 пропорционални на общия брой гласове. 21-те активни свидетели са разместени на всеки кръг, за да предотвратят всеки свидетел от непрекъснато игнориране на блокове, произведени от същия свидетел, поставен преди.
 
-This process is designed to provide the best reliability while ensuring that everyone has the potential to participate in block production regardless of whether they are popular enough to get voted to the top. People have three options to overcome censorship by the top 19 elected witnesses: patiently wait in line with everyone else not in the top 19, purchase enough computational power to solve a proof of work faster than others, or purchase more SP to improve voting power. Generally speaking, applying censorship is a good way for elected witnesses to lose their job and therefore, it is unlikely to be a real problem on the Steem network.
+Този процес има за цел да осигури най-добрата надеждност, като същевременно гарантира, че всеки има потенциал да участва в блоковото производство, независимо дали е достатъчно популярен, за да бъде гласуван на върха. Хората имат три възможности да преодолеят цензурата от 19-те избрани свидетели: търпеливо чакайте в съответствие с всички останали, които не са в топ 19, закупуват достатъчно изчислителна мощ, за да решат доказателство за работа по-бързо от други или да купят повече SP, за да подобрят правомощията за гласуване. Като цяло, прилагането на цензура е добър начин за избрани свидетелида загубят работата си и следователно е малко вероятно да бъде истински проблем за мрежата на Steem.
 
-Because the active witnesses are known in advance, Steem is able to schedule witnesses to produce blocks every 3 seconds. Witnesses synchronize their block production via the NTP protocol. A variation of this algorithm has been in use by the BitShares network for over a year where it has been proven to be reliable.
+Тъй като активните свидетели са предварително известни, Steem е в състояние да насрочи свидетели да произвеждат блокове на всеки 3 секунди. Свидетелите синхронизират производството си чрез протокола NTP. Вариант на този алгоритъм се използва от мрежата BitShares за повече от година, и е доказано, че е надежден.
 
-## Mining in Steem
+## Минно дело в Steem
 
-Traditional proof of work blockchains combine block production with the solving of a proof of work. Because the process of solving a proof of work takes an unpredictable amount of time, the result is unpredictable block production times. Steem aims to have consistent and reliable block production every 3 seconds with almost no potential for forks.
+Традиционните доказателства за работните блокверигата съчетават блоковото производство с решаването на доказателство за работа. Тъй като процесът на решаване на доказателство за работа отнема непредсказуемо количество време, резултатът е непредвидимо време за производство на блокове. Steem се стреми да има последователно и надеждно производство на блокове на всеки 3 секунди с почти никакъв потенциал за вилици.
 
-To achieve this Steem separates block production from solving of proof of work. When a miner solves a proof of work for Steem, they broadcast a transaction containing the work. The next scheduled witness includes the transaction into the blockchain. When the transaction is included the miner is added to the queue of miners scheduled to produce blocks. Each round one miner is popped from the queue and included in the active set of witnesses. The miner gets paid when they produce a block at the time they are scheduled.
+За да постигне това, Steem разделя блоковото производство от решаването на доказателство за работа. Когато миньор решава доказателство за работа за Steem, той излъчва транзакция, съдържаща произведението. Следващият насрочен свидетел включва сделката в блокверигата. Когато сделката е включена, миньорът се добавя към опашката на миньорите, планирани да произвеждат блокове. Всеки кръг един миньор изскоча от опашката и е включен в активния набор от свидетели. Миньорът получава заплащане, когато произведе блок в момента, в който е планирано.
 
-The difficulty of the proof of work doubles every time the queue length grows by 4. Because one miner is popped from the queue every round, and each round takes 21 \* 3 = 63 seconds, the difficulty automatically halves if no proof of work is found in no more than 21 \* 3 \* 4 = 252 seconds.
+Трудността на доказателството за работа се удвоява всеки път, когато дължината на опашката нараства с 4. Тъй като един миньор изскоча от опашката на всеки кръг и всеки кръг отнема 21 * 3 = 63 секунди, трудността автоматично се намалява на половина, ако не се установи доказателство за работа за не повече от 21 * 3 * 4 = 252 секунди.
 
-### Mining Rewards require Steem Power
+### Минните награди изискват Steem захранване (сила)
 
-After the first month, Steem miners are paid in Steem Power (SP). SP is liquidated through the two-year process of "powering down". This means that miners must wait for a long time, likely many months, before sufficient mining rewards have been powered down to allow them to recover the cost of electricity and computational resources. The powering down process discourages creation of mining pools because the pool operator would have to spread payouts over years.
+След първия месец Steem миньорите се заплащат в Steem Power (SP). SP е ликвидиран през двугодишния процес на "захранване надолу". Това означава, че миньорите трябва да чакат дълго време, вероятно много месеци, преди достатъчно парични възнаграждения да бъдат изключени, за да им позволят да възстановят разходите за електроенергия и изчислителни ресурси. Процесът на заглушаване обезсърчава създаването на минни басейни, защото операторът на пула ще трябва да разпределя изплащанията през годините.
 
-The effect of paying mining rewards in SP is to prevent miners from using today's price to determine the pro tability of mining. Few people will agree on what the future price will be. This means mining difficulty will be driven by those who place the highest estimate on future value. Miners without a long-term interest in the platform will be discouraged from competing. Ultimately this means that the proceeds of mining are less likely to be dumped on the market because they will accrue to long-term believers in the platform.
+Ефектът от заплащането на минни награди в SP е за да се предотврати използването по днешните цени на миньорите, за да се определи рентабилността на минното дело. Малко хора ще се споразумеят за бъдещата цена. Това означава, че трудностите при добива ще бъдат обусловени от тези, които определят най-високата оценка за бъдещата стойност. Миньорите, които нямат дългосрочен интерес към платформата, ще бъдат обезкуражени от конкуренцията. В крайна сметка това означава, че приходите от добива на минерални суровини са по-малко вероятно да бъдат изхвърлени на пазара, защото те ще се натрупат в дългосрочен план от вярващи в платформата.
 
-### Mining Algorithm
+### Минният алгоритъм
 
-The mining algorithm adopted by Steem requires the miner to have access to the private key of the account that will receive the rewards. This requirement has several important consequences. First it encourages optimization of elliptic curve signature verification algorithms needed by Steem. Second it makes it challenging to set up mining pools because the pool operator would have to share control over the reward with all of the "anonymous" miners. Third, it makes it difficult to use botnets because the botnet operator would have to distribute their private key to all compromised machines.
+Придобитият от Steem алгоритъм за минното дело изисква миньорът да има достъп до частния ключ на сметката, който ще получи наградата. Това изискване има няколко важни последствия. Първо, той насърчава оптимизирането на алгоритмите за верификация на елиптичните криви, необходими на Steem. На второ място, това е предизвикателство за създаване на минни басейни, защото операторът на басейн трябва да споделя контрол над наградата с всички "анонимни" миньори. Трето, това затруднява използването на ботнет, защото операторът на ботнет ще трябва да разпространява своя частен ключ за всички компрометирани машини.
 
-The following pseudocode describes how the proof-of-work hash value is calculated:
+Следният псевдокод описва как се изчислява стойността на хеш доказателство за работа:
 
     Let H    = Head Block ID
     Let H2   = SHA256(H + NONCE)
@@ -332,35 +332,35 @@ The following pseudocode describes how the proof-of-work hash value is calculate
     Let POW  = SHA256(K)
     
 
-### Botnet Resistant
+### Устойчивост на ботнет
 
-Many proof of work coins end up being mined by botnets. A botnet is a collection of thousands or millions of machines that have been compromised by hackers. These hackers steal the computational and electrical resources of compromised machines to mine cryptocurrency tokens.
+Много доказателства за монети в крайна сметка се добиват от ботнетите. Ботнет е колекция от хиляди или милиони машини, които са били компрометирани от хакери. Тези хакери открадват изчислителните и електрически ресурси на компрометираните машини, за да мотивират символите за крипто на валута.
 
-Steem has many properties that prevent these computational thieves from profiting. Botnet operators are profit seeking enterprises and typically sell their stolen resources to the highest bidder. This means that those who utilize a botnet pay for the computational power in the same way that someone who uses Amazon EC2 does. The vesting requirement of Steem means that the capital spent on buying the resources of the botnet will be tied up for a long period of time during which the operator is exposed to price volatility.
+Steem има много свойства, които пречат на тези изчислителни крадци да печелят. Ботнет операторите са предприятия, които търсят печалба и обикновено продават откраднатите си ресурси на най-високо плащащият. Това означава, че онези, които използват ботнет, плащат за изчислителната мощ по същия начин, както някой, който използва Amazon EC2. Изискването за придобиване на права на Steem означава, че капиталът, похарчен за закупуването на ресурсите на ботнета, ще бъде обвързан за дълъг период от време, през който операторът ще е изложен на нестабилноста на цените.
 
-Another way that botnet operators are prevented from profiting is the requirement to distribute the private key to all compromised machines. If even one compromised computer is discovered, the operator could lose their coins.
+Друг начин, по който ботнет операторите са възпрепятствани да спечелят, е изискването за разпространение на частния ключ на всички компрометирани машини. Ако се открие дори компрометиран компютър, операторът може да загуби монетите си.
 
-The last mitigation is the dependency on latency. Most botnets are comprised of computers with poor internet connections, these slow Internet connections will dramatically reduce the effectiveness of the computational resource.
+Последното смекчаване е зависимостта от латентността. Повечето ботнети се състоят от компютри с лоши интернет връзки, тези бавни интернет връзки значително ще намалят ефективността на изчислителния ресурс.
 
-It should be more profitable and less risky for botnet operators to use their resources for other activities than mining STEEM.
+Трябва да е по-изгодно и по-малко рисковано за ботнет операторите да използват ресурсите си за други дейности, различни от минното дело STEEM.
 
-### Mining Pool Resistant
+### Минно устойчив басейн
 
-Miners have a total of 3 seconds to receive a block, solve the proof of work, and get the transaction to the next block producer. Much of this time will consist of network latency which means that it is critical for miners to be well connected to the network to make the most effective use of their computational resources.
+Миньорите имат общо 3 секунди, за да получат блок, да разрешат доказателството за работа и да получат сделката за следващия производител на блокове. Голяма част от това време ще се състои от латентност в мрежата, което означава, че е изключително важно миньорите да бъдат добре свързани с мрежата, за да се възползват най-ефективно от техните изчислителни ресурси.
 
-Because of the constantly changing head block and network latency, forwarding a template for mining a specific block to participants of a mining pool adds additional network latency and reduces efficiency of pooled mining significantly.
+Поради непрекъснато променящия се блок на главата и латентността на мрежата препращането на шаблон за добив на конкретен блок към участниците в минния басейн допълнително увеличава латентността на мрежата и значително намалява ефикасността на обединената минна дейност.
 
-# Eliminating Transaction Fees
+# Премахване на таксите за транзакции
 
-Steem goes to great lengths to reward people for contributing to the network. It would be counterproductive to turn around and charge people every time they attempt to interact with the community.
+Steem се опитва с пълна сила да възнагради хората, че са допринесли за мрежата. Би било контрапродуктивно да се обърне и да таксува хората всеки път, когато се опитват да взаимодействат с общността.
 
-Blockchain technology currently depends upon transaction fees to prevent spam. These fees suffer all of the known problems with microtransactions and prevent blockchains from being used for low-value transactions. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
+Технологията Blockchain в момента зависи от таксите за транзакции, за да се предотврати спам. Тези такси претърпят всички известни проблеми с микротрансферите и предотвратяват използването на блокове за транзакции с ниска стойност. Наистина децентрализираните заявления трябва да предлагат на потребителите появата на безплатни транзакции, ако желаят да се конкурират с техните централизирани алтернативи. Този документ очертава подхода, използван от Steem, за да се елиминира необходимостта от такси и по този начин да се даде възможност за широка гама от децентрализирани приложения, които преди това не са могли да бъдат усъществени.
 
-## The Problem With Fees
+## Проблемът с таксите
 
-Blockchains are decentralized networks where all transactions are broadcast to all peers. Every so often a block is produced that includes some or all of the pending transactions. All blockchains must find a solution to prevent malicious users from consuming all of the available network capacity with worthless transactions. These worthless transactions can prevent other valuable transactions from being processed and ultimately destroy the network.
+Блокверигите са децентрализирани мрежи, където всички транзакции се предават на всички двойки. Всеки толкова често се създава блок, който включва някои или всички текущи транзакции. Всички блокове трябва да намерят решение, което да предотврати злонамерените потребители да консумират целия наличен мрежов капацитет с безполезни транзакции. Тези безполезни транзакции могат да попречат на обработването на други ценни транзакции и в крайна сметка да унищожат мрежата.
 
-The solution adopted by most blockchains thus far is to charge a minimum transaction fee. A fee worth just a few cents is enough to make attacking the network expensive and unprofitable. While this approach solves the spam problem, it introduces new problems. Imagine solving the email spam problem by introducing a small fee on every email; people wouldn't use email.
+Решението, възприето от повечето блокове досега, е да се начисли минимална такса за транзакция. Такса, струваща само няколко цента, е достатъчна, за да атакува мрежата скъпо и нерентабилно. Докато този подход разрешава проблема със спама, той въвежда нови проблеми. Imagine solving the email spam problem by introducing a small fee on every email; people wouldn't use email.
 
 ### Micropayments Don't Work
 
