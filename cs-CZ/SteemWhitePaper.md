@@ -92,72 +92,72 @@ Konverze ze STEEM na SP se označuje jako Powering up (přidávání síly) zat�
 
 Stabilita je důležitý rys úspěšných globálních ekonomik. Bez stability by jednotlivci po celém světě neměli nízké kognitivní náklady při své účasti na obchodě a spoření. Protože stabilita je důležitý rys úspěšných ekonomik, Steem Dollars byly zkonstruovány jako pokus vnést stabilitu na světa kryptoměn a jednotlivců používajícím síť Steem.
 
-Steem dolary jsou tvořeny podobným způsobem jako dlužní úpisy typu convertible notes, které se často používají na financování začínajících firem (start up). Ve světe startupů jsou convertible notes instrumenty krátkodobého dluhu, které mohou být přeměněny na vlastnictví v poměru určeném v budoucnosti, typicky během budoucího kola financování. Token založený na blockchainu můžeme považovat za vlastnictví v komunitě, zatímco na dluhopis convertible note můžeme pohlížet jako na dluh denominovaný v jiné komoditě nebo měně. Podmínky dluhopisu convertible note umožňují konverzi do podkladového aktiva z minimální výpovědní dobou a za spravedlivou tržní cenu tohoto aktiva. Creating token-convertible-dollars enables blockchains to grow their network effect while maximizing the return for token holders.
+Steem dolary jsou tvořeny podobným způsobem jako dlužní úpisy typu convertible notes, které se často používají na financování začínajících firem (start up). Ve světe startupů jsou convertible notes instrumenty krátkodobého dluhu, které mohou být přeměněny na vlastnictví v poměru určeném v budoucnosti, typicky během budoucího kola financování. Token založený na blockchainu můžeme považovat za vlastnictví v komunitě, zatímco na dluhopis convertible note můžeme pohlížet jako na dluh denominovaný v jiné komoditě nebo měně. Podmínky dluhopisu convertible note umožňují konverzi do podkladového aktiva z minimální výpovědní dobou a za spravedlivou tržní cenu tohoto aktiva. Vytvoření dolarů konvertovatelných do základní jednotky blockchainu (tokenu STEEM) umožňuje růst síťového efektu blockchainu, zatímco maximalizuje výnos pro držitele tokenu.
 
-Steem Dollars are referred to with the symbol SMD, an acronym for Steem Dollars. Creating SMD requires a combination of a reliable price feed, rules to prevent abuse, and liquidity. Providing a reliable price feed involves three factors: minimizing the impact of an incorrect feed, maximizing the cost of producing an incorrect feed, and minimizing the importance of timing.
+Steem dolary jsou označovány symbolem SMD akronymem pro Steem Dollars. Tvorba Steem dolarů vyžaduje kombinaci spolehlivého zdroje cenových dat, pravidel pro prevenci zneužití a likvidity. Poskytování spolehlivého zdroje cenových dat zahrnuje tři faktory: mimimalizaci vlivu chybného zdroje dat, maximalizaci ceny produkce chybného zdroje a minimalizaci důležitosti načasování.
 
-### Minimizing Fraudulent Feeds
+### Minimalizace podvodných zdrojů cen
 
-SP holders elect individuals to publish price feeds. These elected individuals are presumably trusted by those who have a vested interest in the quality of the feed. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
+Držitelé SP volí jednotlivce, kteří publikují ceny. Tito zvolení jedinci pravděpodobně mají důvěru těch, kdo mají zájem na kvalitě tohoto zdroje. Tím, že platí zvoleným jedincům, Steem vytváří tržní konkurenci pro získání práva na tvorbu cenových dat. Čím více jsou producenti dat placeni, tím více mohou ztratit publikováním chybné informace.
 
-Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
+Když máme skupinu zvolených, důvěryhodných poskytovatelů cen, skutečná cena použitá pro konverzi může být odvozena od mediánu všech zdrojů cen. V tomto případě, pokud jakákoliv menšina poskytovatelů produkuje data mimo rozsah, tato data mají minimální dopad na medián, zatímco stále mají schopnost ovlivnit jejich renomé.
 
-Even if all feed producers are honest, it is possible for the majority of feed producers to be impacted by events beyond their control. The Steem network is designed to tolerate short-term corruption of the median price feed while the community actively works to correct the issue. One example of an issue that may take some time to correct is short-term market manipulation. Market manipulation is difficult and expensive to maintain for long periods of time. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
+Dokonce i když jsou všichni poskytovatelé cenových dat čestní je možné, že většina poskytovatelů bude ovlivněna událostmi mimo jejich kontrolu. Síť Steem je postavena tak, aby tolerovala krátkodobé narušení mediánového zdroje cen, zatímco komunita aktivně pracuje na nápravě. Jeden příklad problému, jehož náprava může trvat nějakou dobu, je krátkodobá manipulace trhu. Je těžké a nákladné udržet manipulaci trhu po delší dobu. Jiný příklad by bylo selhání centralizované burzy, nebo narušení dat publikovaných burzou.
 
-Steem factors out short-term price fluctuations by using the median price over a period of one week. The median published feed is sampled every hour on the hour.
+Steem vyřazuje krátkodobé fluktuace ceny tím, že používá mediánovou cenu za období jednoho týdne. Mediánová publikovaná cena je počítána každou hodinu.
 
-As long as the price feed corruption lasts for less than half the moving median time window it will have minimal impact on the conversion price. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
+Pokud narušení zdroje cenových dat trvá méně než polovinu doby pohybujícího se mediánového okna, tak to bude mít na konverzní cenu jen minimální vliv. V případě, že zdroj cen bude chybný, účastníci na síti budou mít příležitost hlasováním vyloučit poskytovatele chybných cen dříve, než chybná data ovlivní skutečnou konverzní cenu. Možná je ještě důležitější, že to dává producentům dat příležitost detekovat a opravit problémy před tím, než začnou ovlivňovat cenu.
 
-With a one week window, community members have three and a half days to respond to any issues that come up.
+S týdenním časovým oknem mají členové komunity tři a půl dne na to reagovat na jakýkoliv problém, který může nastat.
 
-### Mitigating Timing Attacks
+### Zmírnění načasovaných útoků
 
-Market participants have access to information faster than the blockchain's one week moving median conversion price can react. This information could be used to benefit of traders at the expense of the community. If there is a sudden increase in the value of STEEM traders could request conversion of their SMD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
+Účastníci trhu mají rychlejší přístup k informacím, než jak může reagovat blockchainová týdenní mediánová konverzní cena. Tato informace může být použita ku prospěchu obchodníků na úkor komunity. Pokud nastane rychlý vzestup ceny STEEM, obchodníci mohou požadovat konverzi svých SMD za starou, nižší cenu a poté prodat takto obdržený STEEM za novou, vyšší cenu s minimálním rizikem.
 
-Steem levels the playing field by requiring all conversion requests to be delayed for one week. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
+Steem toto urovnává tím, že požaduje, aby všechny požadavky na konverzi byly opožděny o týden. To znamená, že ani obchodník, ani blockchain nemá žádnou informační výhodu týkající se ceny v okamžiku, kdy se konverze provádí.
 
-### Minimizing Abuse of Conversions
+### Minimalizace zneužití konverzí
 
-If people could freely convert in both directions then traders could take advantage of the blockchains conversion rates by trading large volumes without changing the price. Traders who see a massive run up in price would convert to SMD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SMD to STEEM and not the other way around.
+Kdyby lidé mohli volně konvertovat oběma směry, tak by obchodníci mohli využít konverzních sazeb blockchainu a obchodovat velká množství beze změny ceny. Obchodník, který by viděl velký nárůst ceny, by konvertoval na SMD za tuto vysokou cenu (kdy je to nejriskantnější) a po korekci konvertovat zpět. Steem protokol chrání komunitu před tímto druhem zneužití tak, že dovoluje pouze konverzi ze SMD na STEEM a nikoliv zpět opačným směrem.
 
-The blockchain decides how and when to create SMD and who should get it. This keeps the rate of SMD creation stable and removes most avenues of abuse.
+Blockchain rozhoduje jak a kdy vytvořit SMD a kdo je obdrží. To udržuje kurz SMD stabilní a odstraňuje možné metody zneužití.
 
-### Liquidity
+### Likvidita
 
-Just because SMD can be converted to a dollars worth of STEEM at a fair price in a reasonable amount of time doesn't mean it will be viewed as a reliable dollar replacement. These assets require liquidity in a market that enables instantaneous conversion between STEEM and SMD. The measures a blockchain is forced to take to prevent abuse end up lowering the quality of the convertible dollars. To compensate for this loss of quality the blockchain can offer a fixed cost reward to liquidity providers. Whereas the potential losses from manipulation and abuse are unbounded, the cost of encouraging liquidity can be fixed.
+Jen proto, že SMD může konvertován na STEEM v hodnotě 1 dolaru za spravedlivou cenu a v rozumném čase neznamená, že na něj bude pohlíženo jako na spolehlivou náhradu dolaru. Tyto aktiva vyžadují likviditu na trhu, který zajišťuje nepřetržitou konverzi mezi SMD a STEEM. Opatření, která musel blockchain přijmout k prevenci zneužití, způsobila nižší kvalitu konvertibilních dolarů. Jako kompenzaci za tuto ztrátu kvality blockchain nabízí pevně stanovenou odměnu poskytovatelům likvidity. Zatímco potenciální ztráty z manipulace a zneužití jsou neohraničené, cena za povzbuzení likvidity může být pevně daná.
 
-A liquidity provider buys and sells SMD and STEEM. They take on the majority of the short-term price risk and long-term feed risk giving the remaining market participants a high quality, extremely liquid market within which to trade.
+Poskytovatel likvidity kupuje a prodává SMD a STEEM. Bere na sebe většinu rizika krátkodobého pohybu cen i dlouhodobého rizika vyplývajícího z blockchainem publikované ceny a poskytuje ostatním účastníkům trhu vysoce kvalitní, extrémně likvidní trh na němž mohou obchodovat.
 
-Steem has an on-blockchain market between SMD and STEEM. Users can earn rewards by providing liquidity to both sides of this market. The blockchain uses a simple algorithm to rank each user's liquidity provision and consumption.
+Steem má trh mezi SMD a STEEM zabudovaný přímo v blockchainu. Uživatelé mohou vydělat odměny poskytováním likvidity oběma stranám trhu. K určení pořadí každého uživatele při poskytnutí a spotřebě likvidity používá blockchain jednoduchý algoritmus.
 
-A user is considered a liquidity provider if they leave an open order on the books for at least 1 minute and the order is eventually filled. If the order is canceled before being filled then the user is not credited with providing liquidity.
+Uživatel se považuje za poskytovatele likvidity, pokud ponechá na trhu otevřený příkaz alespoň po 1 minutu a příkaz je případně vyplněn. Pokud je příkaz stornován před vyplněním, pak uživatel neobdrží kredit za poskytnutí likvidity.
 
-Users must provide liquidity on both sides of the book to qualify for rewards and they must provide liquidity consistently over time. The scoring algorithm is:
+Aby se uživatelé kvalifikovali pro odměnu, musí poskytovat likviditu na obou stranách trhu důsledně a průběžně. Algoritmus výpočtu je:
 
-      LiquidityPoints = NetBidVolume x NetAskVolume
+      Body za likviditu = objem nabídky x objem poptávky
     
 
-Every hour the account with the most LiquidityPoints receives 1200 STEEM and then has its LiquidityPoints reset to 0. An account that goes a week without earning any LiquidityPoints also has its points reset to 0. This means that whether you provide a large amount of liquidity or a small amount over a long period of time everyone gets a proportional amount of the rewards. If either NetBidVolume or NetAskVolume is negative, then LiquidityPoints is considered to be 0.
+Každou hodinu účet s nejvíce body obdrží 1200 STEEM a poté jsou jeho body resetovány na nulu. Účet, který po celý týden nezíská žádné body, je též resetován na 0. To znamená, že ať už poskytnete velkou částku likvidity nebo malou po dlouhý čas, dostanete poměrnou částku odměny. Pokuď je NetBidVolume nebo NetAskVolume negativní předpokládá se, že body jsou 0.
 
-### Sustainable Debt to Ownership Ratios
+### Udržitelný poměr dluhu k vlastnictví
 
-If a token is viewed as ownership in the whole supply of tokens, then a token-convertible-dollar can be viewed as debt. If the debt to ownership ratio gets too high the entire currency can become unstable. Debt conversions can dramatically increase the token supply, which in turn is sold on the market suppressing the price. Subsequent conversions require the issuance of even more tokens. Left unchecked the system can collapse leaving worthless ownership backing a mountain of debt. The higher the debt to ownership ratio becomes the less willing new investors are to bring capital to the table.
+Pokud na token (STEEM) nahlížíme jako na podíl na vlastnictví v celé zásobě tokenů, tak na dolar konvertibilní za token (STEEM) pohlížíme jako na dluh. Pokud se poměr dluhu k vlastnictví stane příliš vysokým, tak se celá měna stane nestabilní. Konverze dluhu může dramaticky zvýšit zásobu tokenů (STEEM), které jsou obratem prodávány na trhu a stlačují cenu. Následné konverze vyžadují vydání dokonce ještě více tokenů. Pokud by se to nezměnilo, tak systém zkolabuje a za sebou nechá bezcenné vlastnictví podpírající horu dluhů. Čím vyšší je poměr dluhu k vlastnictví, tím noví investoři méně ochotněji vkládají kapitál.
 
-For every SMD Steem creates, $19.00 of STEEM is also created and converted to SP. This means that the highest possible debt-to-ownership in a stable market is 1:19 or about 5%. If Steem falls in value by 50% then the ratio could increase to 10%. An 88% fall in value of STEEM could cause the debt-to-ownership ratio to reach 40%. Assuming the value of STEEM eventually stabilizes, the debt-to-ownership ratio will naturally move back toward 5%.
+Za každý vytvořený SMD Steem vytvoří STEEM v ceně 19 $ a konvertuje jej na SP. To znamená, že nejvyšší možný poměr dluhu k vlastnictví na stabilním trhu je 1:19 tj. asi okolo 5%. Pokud cena STEEM klesne o 50%, pak poměr může vzrůst na 10%. V případě poklesu ceny STEEM o 88% může dojít k růstu poměru až na 40%. Za předpokladu, že dojde k stabilizaci ceny STEEM, poměr vlastnictví k dluhu se přirozeně vrátí zpět k 5%.
 
-The idea behind having a conservative 5% debt to ownership ratio is that even if all debt were converted and sold there should be ample buyers and the effective dilution of the token holders remains relatively small.
+Za myšlenkou udržovat konzervativní poměr dluhu k vlastnictví 5% je to, že i když by se konvertoval a prodal celý dluh, tak by se měl najít dostatek kupců a rozředění vlastictví ostatních držitelů tokenů by zůstalo relativně malé.
 
-A rapid change in the value of STEEM can dramatically change the debt-to-ownership ratio. The percentage floors used to compute STEEM creation are based on the supply including the STEEM value of all outstanding SMD and SP (as determined by the current rate / feed).
+Rychlá změna ceny STEEM může dramaticky změnit poměr dluhu k vlastnictví. Procentuální základ použitý k tvorbě STEEM je založen na celkové zásobě včetně STEEM ceny všech vydaných SMD a SP (dle aktuální publikované sazby).
 
-### Interest
+### Úrok
 
-SMD pays holders interest. The interest rate is set by the same people who publish the price feed so that it can adapt to changing market conditions. All debt carries risk to the lender. Someone who holds SMD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SMD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
+SMD vyplácí úroky. Úroková míra je nastavena těmi samými lidmi kteří publikují ceny, takže se může přizpůsobit tržním podmínkám. Každý dluh sebou nese riziko pro věřitele. Ten kdo drží SMD bez toho, aby si je vyměnil ve skutečnosti půjčuje komunitě hodnotu 1 dolaru. Věří, že někdy v budoucnosti bude někdo ochoten od něho koupit SMD za dolar anebo že budou spekulanti a investoři ochotní koupit STEEM, na který on SMD konvertuje.
 
-STEEM and SP holders gain leverage when members of the community are willing to hold SMD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
+Když jsou členové komunity ochotni držet SMD, držitelé STEEM a SP získají pákový efekt. Tento pákový efekt zvyšuje zisky z růstu, přičemž též k růstu přispívá. V případě pádu cen držitelé STEEM utrpí zvýšeným naředěním. Kryptoměnné projekty ukázaly, že zisky z rozšíření členské základny ochotné důvěřovat síti kapitálem nakonec přidaly síti více hodnoty než jakékoliv naředění, které může nastat v případě poklesu.
 
-### Setting Price Feeds
+### Udržitelnost poměru dluhu k vlastnictví
 
-Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity<sup id="fnref:4"><a href="#fn:4" class="footnote-ref">4</a></sup> which states that it is impossible to have all three of the following at the same time:
+Chytrý čtenář rozpozná, že aktivum omezeného množství které vynáší úrok se může obchodovat výše či níže než podkladové aktivum v závislosti na ostatních příležitostech jak vydělat úrok na tomto aktivu. Když je za aktivum vázané k US dolaru placen vysoký úrok, mnoho lidí bude poptávat omezené množství SMD až přestane být cena rovna 1$. V ekonomice je známý princip zvaný „Nemožná trojice“<sup id="fnref:4"><a href="#fn:4" class="footnote-ref">4</a></sup>, který stanoví, že není možno mít zároveň všechny tři následující vlastnosti ve stejný čas:
 
 1. A stable exchange rate
 2. Free capital movement
