@@ -454,7 +454,7 @@
 
 #### Максимальное Количество Пользователей
 
-We can use similar math to calculate the maximum number of unique users that the network can allow to transact once per week as: B \* W / T. T represents the average transaction size. This means Bitcoin could support about 2 million users transacting once per week assuming each user had an equal balance.
+We can use similar math to calculate the maximum number of unique users that the network can allow to transact once per week as: B\*W/T. T represents the average transaction size. This means Bitcoin could support about 2 million users transacting once per week assuming each user had an equal balance.
 
 #### Сравнение с Комиссиями
 
