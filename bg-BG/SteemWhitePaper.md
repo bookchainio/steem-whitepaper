@@ -500,61 +500,61 @@ Ripple използва минимален баланс<sup id="fnref:12"><a hre
 
 ### Ефективност спрямо таксите
 
-За да сравним ефективността на ограничаването на тарифите с таксите, трябва да обмислим как двете системи реагират на умишлено наводняване на мрежа от нападател. Under Bitcoin an attacker with $10,000 dollars could disrupt service for an entire day by filling every single block. The same attacker would be unable to disrupt service for even a single block under the dynamic fractional reserve rate limiting approach.
+За да сравним ефективността на ограничаването на тарифите с таксите, трябва да обмислим как двете системи реагират на умишлено наводняване на мрежа от нападател. Под Bitcoin нападател с $10 000 може да наруши обслужването за цял ден, като попълни всеки един блок. Същият нападател няма да може да наруши обслужването дори за един блок при подхода за динамичен резервен лимит.
 
-If we go to a more extreme case and assume the attacker holds 1% of all coins then we presume an attacker with $60 million dollars. Such an attacker could deny the Bitcoin blockchain service for 16 years unless the miners increased fees or capacity. Even if fees were raised to $15 per transaction, the attacker could still keep the network flooded for 16 days.
+Ако отидем в един по-екстремен случай и предположим, че нападателят държи 1% от всички монети, тогава предполагаме, че е нападател с $60 милиона долара. Такъв нападател може да отрече услугата за блокиране на Bitcoin в продължение на 16 години, освен ако миньорите не са увеличили таксите или капацитета си. Дори ако таксите бяха повишени до 15 щ. д. на транзакция, нападателят все още можеше да задържи мрежата за 16 дни.
 
-Under the rate limiting approach, someone who holds 1% of all coins with an intent to flood the network would achieve their goal for less than 30 seconds.
+При подхода за ограничаване на лихвения процент някой, който държи 1% от всички монети с намерение да наводни мрежата, би постигнал целта си за по-малко от 30 секунди.
 
-### Renting vs. Buying vs. Time Sharing
+### Наемане срещу купуване срещу споделяне на време
 
-When someone owns a house they expect the right to use the house for free. If a group of people buy a house together then each can expect the right to use the house proportional to their percentage ownership in the house. A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
+Когато някой има къща, той очаква правото да използва къщата безплатно. Ако група хора купуват къща заедно, всеки от тях може да очаква правото да използва къщата пропорционално на процентното им участие в къщата. Такса базирана блок-верига е като наемане на къщата от нейните собственици, докато ограничаването на лихвения процент е като временно ползване на собственост сред собствениците.
 
-If a house is owned by multiple people then those individuals must decide how they wish to timeshare the house. Someone who owns 50% of the house but only uses it one weekend per year might expect to be paid by the individuals who take their unused time. This is the mindset of a fee based system.
+Ако една къща е собственост на множество хора, тогава тези лица трябва да решат как искат да ползват временно къщата. Някой, който притежава 50% от къщата, но я използва само един уикенд на година, може да очаква да бъде платен от лицата, които споделят неизползваното време. Това е мисленето на система, базирана на такси.
 
-On the other hand, someone who owns 50% of the house is speculating that demand for the house will increase in the future and they will be able to sell their stake for more. Any owner who owns more of a house than they use becomes a real estate speculator. With this mindset rather than collecting rent, they collect appreciation.
+От друга страна, някой, който притежава 50% от къщата, спекулира, че търсенето на къщата ще се увеличи в бъдеще и те ще могат да продадат своя дял за повече. Всеки собственик, който притежава повече къща, отколкото използва, се превръща в спекулант на недвижими имоти. С този начин на мислене, вместо да събират наема, те събират възнаграждения.
 
-The value of a share is derived from how much time it can potentially grant its owner. Owning 1% of a house and getting it 1 weekend per year is the lowest value of a share. However, if half of the shareholders never use their weekend, then the value per timeshare rises to 2 weekends per year. If those inactive users instead opt to rent their unused time, then it falls back to 1 weekend per year. If those unused timeshares were sold to people who would use them then the value of a timeshare would fall by 50%. Unless the rent collected is greater than the fall in share value the timeshare owners are making an economic miscalculation.
+Стойността на една акция произтича от колко време може потенциално да предостави на собственика си. Притежаването на 1% от къщата и получаването й за 1 сбота-неделя годишно е най-ниската стойност на една акция. Въпреки това, ако половината от акционерите никога не използват своя уикенд, тогава стойността за временно ползване на собственост се увеличава до 2 уикенда годишно. Ако тези неактивни потребители не дадът под наем времето, то се понижава до 1 уикенд на година. Ако тези неизползвани срочни части са продадени на хора, които биха ги използвали, тогава стойността на временно ползване на собственост ще спадне с 50%. Освен ако събраният наем е по-голям от спада в стойността на акциите, собствениците на временно ползване на собственост правят икономическа грешка.
 
-Using this rationale we can assume that a system based on fees will either be more expensive for its users or be less profitable for its collective owners. An individual small owner may profit by renting out his small time slice, but only at the expense of all other timeshare owners. In effect, the cost of the falling timeshare value is shared among all owners whereas the profits are centralized in the single owner who decided to rent his share.
+Използвайки тази обосновка, можем да приемем, че една система, базирана на такси, ще бъде или по-скъпа за своите потребители, или ще бъде по-малко печеливша за своите колективни собственици. Индивидуалният малък собственик може да се възползва от отдаването под наем на малкия си временен отрязък, но само за сметка на всички останали собственици на временно ползване на собственост. Всъщност цената на падащата стойност на временно ползване на собственост се споделя между всички собственици, докато печалбите са централизирани в единствения собственик, който решава да наеме своя дял.
 
-We can conclude from this that a blockchain is best served by not using usage fees at all. If a usage fee were to be charged as an alternative to rate limiting, then it should be the equivalent of buying enough timeshares and committing to hold them long enough to gain the right use it once.
+Можем да заключим от това, че блокова верига се обслужва най-добре, като изобщо не се използват такси за ползване. Ако таксата за ползване трябва да бъде таксувана като алтернатива на ограничаването на лихвения процент, тогава тя трябва да бъде еквивалентна на закупуването на достатъчно акции и да се ангажираме да ги задържим достатъчно дълго, за да получим правото да ги използваме веднъж.
 
-Stated another way, a transaction fee should be equal to the minimum account balance necessary to transact once per week and it should be refunded at the end of the week. Assume the minimum account balance is $1 and allows someone to transact once per week. If someone with a $1 balance that wishes to perform 5 transactions at once they will have to increase their balance to $5 for a week either before or after their transactions.
+По друг начин, транзакционната такса трябва да бъде равна на минималното салдо по сметката, необходимо за извършване на транзакции веднъж седмично, и то трябва да бъде възстановено в края на седмицата. Да приемем, че минималното салдо в профила е $1 и позволява на някого да извършва транзакции веднъж седмично. Ако някой има баланс от 1 щ. д., който желае да извърши 5 транзакции наведнъж, те ще трябва да увеличат салдото си до $5 за една седмица преди или след сделките си.
 
-In theory a market could form where users can borrow the stake required. In practice it is more efficient for users to simply buy and sell the timeshares necessary to meet their desired usage rate. In other words, the cost of negotiating micro-loans is greater than the cost of maintaining a balance suitable for your maximum weekly usage.
+На теория може да се формира пазар, в който потребителите могат да заемат необходимия залог. На практика е по-ефективно за потребителите просто да купуват и продават временните такси, необходими за постигане на желаната степен на ползване. С други думи, разходите за договаряне на микрокредити са по-големи от разходите за поддържане на баланс, подходящ за максимална седмична употреба.
 
-Decentralized rate limiting of transactions can enable new types of decentralized applications that were not viable when every use of the application required a micropayment. This new model gives application developers the ability to decide if and when to charge their users for transactions.
+Децентрализираното ограничаване на лихвените проценти на транзакциите може да даде възможност за нови видове децентрализирани приложения, които не са жизнеспособни, когато всяко използване на приложението изисква микроплащане. Този нов модел дава на разработчиците на приложения възможността да решат дали и кога да таксуват потребителите си за транзакции.
 
-# Performance and Scalability
+# Ефективност и мащабируемост
 
-The Steem network is built upon Graphene, the same technology that powers BitShares. Graphene has been publicly demonstrated sustaining over 1000 transactions per second on a distributed test network. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
+Мрежата Steem е изградена върху Graphene, същата технология, която управлява BitShares. Графен е демонстриран публично, като поддържа над 1000 транзакции в секунда на разпределена мрежа за тестване. Graphene може лесно да мащабира до 10 000 или повече транзакции в секунда с относително ясни подобрения в капацитета на сървъра и комуникационните протоколи.
 
-## Reddit Scale
+## Reddit мащаб
 
-Steem is capable of handling a larger userbase than Reddit. In 2015 Reddit's 8.7 million users generated an average of 23 comments per second<sup id="fnref:13"><a href="#fn:13" class="footnote-ref">13</a></sup> , with an average of 83 comments per year per user. There were 73 million top-level posts, for an average of 2 new posts per second. There were about 7 billion up votes creating an average voting rate of 220 votes per second. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
+Steem е в състояние да борави с по-голяма потребителска база от Reddit. През 2015 г. 8,7 милиона потребители на Reddit генерираха средно 23 коментара в секунда<sup id="fnref:13"><a href="#fn:13" class="footnote-ref">13</a></sup>, средно със 83 коментара 13 на година за потребител. Имаше 73 милиона постове от най-високо ниво, средно по 2 нови постове в секунда. Имаше около 7 милиарда гласа, които създадоха средно ниво на гласуване от 220 гласа в секунда. Разбира се, ако Reddit работи на блок-верига, това ще изисква средно 250 транзакции в секунда.
 
-To achieve this industry-leading performance, Steem has borrowed lessons learned from the LMAX Exchange<sup id="fnref:14"><a href="#fn:14" class="footnote-ref">14</a></sup>, which is able to process 6 million transactions per second. Among these lessons are the following key points:
+За да постигне тази водеща в бранша производителност, Steem заимства извлечени поуки от LMAX Exchange<sup id="fnref:14"><a href="#fn:14" class="footnote-ref">14</a></sup>, която може да обработва 6 милиона транзакции в секунда. Сред тези 14 урока са следните ключови въпроси:
 
-1. Keep everything in memory.
-2. Keep the core business logic in a single thread.
-3. Keep cryptographic operations (hashes and signatures) out of the core business logic.
-4. Divide validation into state-dependent and state-independent checks.
-5. Use an object oriented data model.
+1. Пазете всичко в паметта.
+2. Поддържайте основната бизнес логика в една тема.
+3. Поддържайте криптографските операции (хешове и подписи) извън основната бизнес логика.
+4. Разделете валидацията в държавно зависими и независими от държавата проверки.
+5. Използвайте обектно ориентиран модел на данни.
 
-By following these simple rules, Steem is able to process 10,000 transactions per second without any significant effort devoted to optimization.
+Следейки се от тези прости правила, Steem може да обработва 10 000 транзакции в секунда без значителни усилия, посветени на оптимизацията.
 
-Keeping everything in memory is increasingly viable given the recent introduction of Optanetechnology from Intel <sup id="fnref:15"><a href="#fn:15" class="footnote-ref">15</a></sup>. It should be possible for commodity hardware to handle all of the business logic associated with Steem in a single thread with all posts kept in memory for rapid indexing. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optanetechnology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
+Поддържането на всичко в паметта става все по-жизнеспособно, като се има предвид неотдавнашното въвеждане на технологията Optane ™ от Intel <sup id="fnref:15"><a href="#fn:15" class="footnote-ref">15</a></sup>. Трябва да е възможно стоковият хардуер да се справи с цялата бизнес логика, свързана със Steem, в една нишка, като всички публикации се съхраняват в паметта за бързо индексиране. Дори Google запазва индекса си на целия интернет в RAM. Използването на блокова технология прави незначително копирането на базата данни на много машини, за да се предотврати загубата на данни. Тъй като технологията Optane ™ поема, RAM ще стане още по-бързо, докато се налага постоянство. С други думи, Steem е проектиран за архитектури на бъдещето и е проектиран да се мащабира.
 
-# Allocation & Supply
+# Разпределение & доставка
 
-The Steem network starts with a currency supply of 0 and allocates STEEM via proof of work at a rate of approximately 40 STEEM per minute to miners, with an additional 40 STEEM per minute being created to seed the content and curation reward pools (for a total of 80 STEEM per minute). Then the network starts rewarding users who convert to SP. At this point, STEEM grows at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
+Мрежата Steem започва с доставка на валута от 0 и разпределя STEEM чрез доказателство за работа с приблизително 40 STEEM на минута за миньорите, като се създават още 40 STEEM за минута, за да се заредят пуловете за награди за съдържание и целеви награди (за общо От 80 STEEM на минута). Тогава мрежата започва да възнаграждава потребителите, които конвертират в SP. В този момент STEEM расте с приблизително 800 STEEM на минута поради комбинираното въздействие на различните привилегии, обобщени по-долу:
 
-**Contribution Rewards:**
+**Награди за приноса:**
 
-- Curation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
-- Content Creation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
-- Block production rewards: 1 STEEM per block or 0.750% per year, whichever is greater
+- Curation rewards: 1 STEEM на блок или 3,875% годишно, което от двете е по-голямо
+- Награди за създаване на съдържание: 1 STEEM на блок или 3,875% годишно, което е по-голямо
+- Блокиране на производствените награди: 1 STEEM на блок или 0,750% годишно, което е по-голямо
 - POW inclusion rewards before block 864,000: 1 STEEM per block (awarded as 21 STEEM per round)
 - POW inclusion rewards after block 864,000: 0.0476 STEEM per block (awarded as 1 STEEM per round) or 0.750% per year, whichever is greater.
 - Liquidity rewards: 1 STEEM per block (awarded as 1200 STEEM per hour) or 0.750% per year, whichever is greater
