@@ -1,7 +1,7 @@
-# Steem Docs
+# Steem White Paper
 
-Welcome to the Steem Docs repository!
-This repository used for translation of Steem documents like Steem White Paper and connected to GitBook, all changes automatically build into: https://www.gitbook.com/book/bookchain/steem-whitepaper
+Welcome to the Steem White Paper repository!
+This repository used for translation of Steem White Paper and connected to GitBook, all changes automatically build into: https://www.gitbook.com/book/bookchain/steem-whitepaper
 
 # Compiling Steem White Paper Guide
 
