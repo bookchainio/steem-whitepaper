@@ -454,6 +454,8 @@ Blockchain capacity isn't necessarily capped. It is well within the technologica
 
 #### Maximum Number of Unique Users
 
+We can use similar math to calculate the maximum number of unique users that the network can allow to transact once per week as: B\*W/T. T represents the average transaction size. This means Bitcoin could support about 2 million users transacting once per week assuming each user had an equal balance.
+
 #### Comparison to Fees
 
 If we assume a user with $25 dollars worth of BTC transacts once per week and pays a $0.04 cent fee each time then they would pay over $2.00 in fees per year. A user would have to earn a 8% rate of return on their $25 dollars just to break even with paying fees. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
