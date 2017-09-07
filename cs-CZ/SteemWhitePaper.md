@@ -52,47 +52,47 @@ Jsou i další formy příspěvků, které Steem uznává a odměňuje s použit
 
 # Způsoby jak přispět
 
-This section outlines the ideas behind Steem and its rewards for people who provide meaningful and measurable contributions to the Steem community.
+Tato sekce nastiňuje ideje za Steemem a odměny pro ty kdo smysluplně a měřitelně přispějí Steem komunitě.
 
-## Capital Contributions
+## Kapitálové příspěvky
 
-There are two items a community can offer to attract capital: debt and ownership. Those who buy ownership profit when the community grows but lose if the community shrinks. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
+Jsou dvě věci, které komunita může nabídnout, aby přilákala kapitál: Dluhopis a vlastnictví. Ti kteří kupují vlastnictví vydělávají, když komunita roste ale ztrácejí, když se komunita zmenšuje. Ti kteří kupují dluh mají zaručenu určitou sumu úroků, ale nepodílejí se na ziscích z růstu komunity. Oba druhy kapitálového příspěvku jsou hodnotné pro růst komunity a hodnotu její měny. Navíc jsou zde dva druhy vlastnického podílu: likvidní a vázaný. Vázené vlastnictví znamená dlouhodobý závazek a nemůže být po určité období prodáno.
 
-The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SMD).
+Síť Steem nazývá tyto různé druhy aktiv Steem (STEEM) Steem Power (SP) a Steem Dollars (SMD).
 
 ## Steem (STEEM)
 
-Steem is the fundamental unit of account on the Steem blockchain. All other tokens derive their value from the value of STEEM. Generally speaking STEEM should be held for short periods of time when liquidity is needed. Someone looking to enter or exit the Steem platform will have to buy or sell STEEM. Once STEEM has been purchased it should be converted into SP or SMD to mitigate the impact of dilution over the long-term.
+Je základní jednotka účtu na Steem blockchainu. Všechny ostatní jednotky odvozují svou hodnotu od hodnoty STEEM. Obecně řečeno STEEM má být držen pouze po krátkou dobu, kdy je potřeba likvidita. Ten kdo si přeje vstoupit nebo odejít z platformy Steem, musí tak učinit koupí nebo prodejem STEEM. Jakmile STEEM nakoupíte, měli byste jej vyměnit za SP nebo SMD, abyste zmírnili dlouhodobý důsledek emise nových jednotek STEEM.
 
-STEEM is constantly increasing in supply by 100% per year due to non-SMD incentives. Someone who holds STEEM without converting it to SP is diluted by approximately 0.19% per day. While the rate may appear high, for transactions that take less than 10 days, it is still cheaper than credit card processing fees. Furthermore, the daily token creation is insignificant next to the daily volatility.
+Zásoba STEEM neustále roste o 100% za rok v důsledku ne-dolarových (SMD) pobídek. Ten kdo drží STEEM bez konverze do SD, ztrácí přibližně 0,19% denně. Zatímco se tato sazba může zdát vysoká, pro transakce které trvají méně než 10 dní je to stále méně než poplatek na kreditní kartě. Navíc denní tvorba nových jednotek je nedůležitá ve srovnání s denní volatilitou.
 
-Someone who buys Bitcoin or any other cryptocurrency and sells it 10 days later could easily lose 3% or more due to price fluctuations. Someone who buys Bitcoin and then sells it the same day will usually pay more than 0.4% in market fees alone. In other words, the inflation rate is effectively insignificant during the period of time the typical individual will hold STEEM.
+Ten kdo koupí Bitcoin nebo jinou kryptoměnu a prodá ji za 10 dní může lehce ztratit 3% i více kvůli pohybu cen. Ten kdo koupí Bitcoin a prodá ho ten samý den obvykle zaplatí více než 0,4% jen na poplatcích trhu. Jinými slovy míra inflace je nepodstatná po dobu, kdy STEEM drží běžný uživatel.
 
-The majority of inflation is actually an accounting artifact rather than true reallocation of wealth. 90% of non-SMD inflation is distributed back to existing holders of STEEM proportional to the STEEM value of their SP balance, making in ation more of a "split". Only about 10% of non-SMD inflation redistributes ownership in the network.
+Většina inflace je ve skutečnosti spíše jen účetní záležitost, než skutečná redistribuce bohatství. 90% ne-SMD inflace je distribuováno zpět existujícím držitelům STEEM v poměru k STEEM hodnotě zůstatku jejich SP účtu. To z inflace činí spíše split. *(výraz akciového trhu-vydání např. 1 další akcie ke stávající všem držitelům a tím snížení její nominální hodnoty na polovinu). Pouze okolo 10% ne-SMD inflace přerozděluje vlastnictví v síti.
 
 ## Steem Power (SP)
 
-Start up companies require long-term capital commitment. Those who invest their money in a startup expect to wait years before they can sell their shares and realize their profits. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
+Začínající společnosti potřebují dlouhodobý kapitál. Ti kdo investují svoje peníze do začínajících firem očekávají, že budou čekat roky, než budou moci prodat svůj podíl a realizovat zisk. Bez dlouhodobého závazku by se začínající společnost hledající další kapitál formou prodeje dodatečných akcií střetla s konkurencí stávajících akcionářů hledajících odchod ze společnosti. Rozumný investor potřebuje, aby jeho kapitálový vklad přispěl růstu společnosti. To se ale nestane, když je nový kapitál dán těm, kdo odcházejí.
 
-There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
+Hodnota dlouhodobého závazku je podstatná, protože umožňuje komunitě dlouhodobé plánování. Dlouhodobý závazek akcionářů je též nutí hlasovat spíše pro dlouhodobý růst, než pro rychlý zisk.
 
-In the cryptocurrency space, speculators jump from cryptocurrency to cryptocurrency based mostly on which one is expected to have short-term growth. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
+V kryptoměnném prostoru spekulanti přeskakují z měny na měnu dle toho, u které se předpokládá krátkodobý růst. Steem chce vybudovat komunitu, která je většinově vlastněna a zcela kontrolována těmi s dlouhodobým závazkem.
 
-Because Steem wants to encourage long-term growth, it is hardwired to allocate 9 STEEM to Steem Power (SP) stakeholders for every 1 STEEM it creates to fund growth through contribution incentives. Over time this drives the ratio of the total STEEM value of Steem Power balances to the total of STEEM balances toward 9:1 . (It seems likely that the ratio will be somewhat greater than 9:1 due to continued net Powering Up of the newly printed STEEM.) It also means that long-term holders are almost completely protected from the dilution used to fund growth.
+Protože Steem chce podpořit dlouhodobý růst, je pevně dána alokace 9 STEEM držitelům STEEM POWER (SP) za každý 1 STEEM, který se vytvoří pro financování růstu prostřednictvím pobídek za příspěvky. Časem toto povede k poměru hodnoty STEEM na účtech SP vzhledem k celkovém zůstatku STEEM směrem k 9:1. (Zdá se pravděpodobné, že tento poměr bude o něco větší než 9:1 vzhledem k nepřetržitému proměňování nově tištěných STEEM na SP.) Znamená to též, že dlouhodobí držitelé jsou skoro úplně chráněni před inflací použitou na financování růstu.
 
-SP can only be converted back to STEEM over 2 years via 104 equal weekly payments. '1 SP' can be viewed as a share in a pool of STEEM. The network automatically adds STEEM to the pool every block. At any time users can convert their STEEM into SP at the same ratio as STEEM in the vesting pool to total SP. Converting STEEM to SP does not dilute existing holders of SP. Likewise, every time SP is converted back to STEEM it is done at the current ratio. Individuals are guaranteed to have more STEEM in the future than they have when they rst convert from STEEM to SP.
+SP může být konvertován zpátky na STEEM za dva roky přes 104 stejných týdenních plateb. Na 1 SP můžeme nahlížet jako na podíl na celkovém množství vázaných STEEM (STEEM pool). Síť přidává k této zásobě nový STEEM automaticky s každým blokem. Uživatelé mohou kdykoliv konvertovat jejich STEEM na SP v stejném poměru, v jakém je již vázaný STEEM ku SP. Konverze STEEM na SP nesnižuje podíl existujících držitelů SP. Stejně tak pokaždé, když je konvertován SP na STEEM, děje se tak v aktuálním poměru. Každému je garantováno, že bude mít více STEEM v budoucnosti než měl, když poprvé konvertoval ze STEEM na SP.
 
-SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
+Zůstatek SP je nepřevoditelný a nedělitelný s výjimkou automatických, opakujících se konverzních požadavků. To znamená, že SP nemůže být jednoduše obchodován na kryptoměnných burzách.
 
-SP is a requirement for voting for or against content. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
+SP je podmínkou pro hlasování pro nebo proti obsahu. To znamená, že SP je přístupový token, který poskytuje svým držitelům exkluzivní práva na platformě Steem.
 
-Transferring from STEEM to SP is referred to as powering up while transferring from SP to Steem is referred to as "powering down". For example, one can power down their STEEM over a period of two years, yet one can power up their STEEM instantly.
+Konverze ze STEEM na SP se označuje jako Powering up (přidávání síly) zatímco konverze z SP na STEEM se označuje jako Powering down (ubírání síly). Konvertovat své SP na STEEM (Power down) můžete během dvou let, ale konvertovat STEEM na SP (Power up) můžete okamžitě.
 
 ## Steem Dollars (SMD)
 
-Stability is an important feature of successful global economies. Without stability, individuals across the world could not have low cognitive costs while engaging in commerce and savings. Because stability is an important feature of successful economies, Steem Dollars were designed as an attempt to bring stability to the world of cryptocurrency and to the individuals who use the Steem network.
+Stabilita je důležitý rys úspěšných globálních ekonomik. Bez stability by jednotlivci po celém světě neměli nízké kognitivní náklady při své účasti na obchodě a spoření. Protože stabilita je důležitý rys úspěšných ekonomik, Steem Dollars byly zkonstruovány jako pokus vnést stabilitu na světa kryptoměn a jednotlivců používajícím síť Steem.
 
-Steem Dollars are created by a mechanism similar to convertible notes, which are often used to fund startups. In the startup world, convertible notes are short-term debt instruments that can be converted to ownership at a rate determined in the future, typically during a future funding round. A blockchain based token can be viewed as ownership in the community whereas a convertible note can be viewed as a debt denominated in any other commodity or currency. The terms of the convertible note allow the holder to convert to the backing token with a minimum notice at the fair market price of the token. Creating token-convertible-dollars enables blockchains to grow their network effect while maximizing the return for token holders.
+Steem dolary jsou tvořeny podobným způsobem jako dlužní úpisy typu convertible notes, které se často používají na financování začínajících firem (start up). Ve světe startupů jsou convertible notes instrumenty krátkodobého dluhu, které mohou být přeměněny na vlastnictví v poměru určeném v budoucnosti, typicky během budoucího kola financování. Token založený na blockchainu můžeme považovat za vlastnictví v komunitě, zatímco na dluhopis convertible note můžeme pohlížet jako na dluh denominovaný v jiné komoditě nebo měně. Podmínky dluhopisu convertible note umožňují konverzi do podkladového aktiva z minimální výpovědní dobou a za spravedlivou tržní cenu tohoto aktiva. Creating token-convertible-dollars enables blockchains to grow their network effect while maximizing the return for token holders.
 
 Steem Dollars are referred to with the symbol SMD, an acronym for Steem Dollars. Creating SMD requires a combination of a reliable price feed, rules to prevent abuse, and liquidity. Providing a reliable price feed involves three factors: minimizing the impact of an incorrect feed, maximizing the cost of producing an incorrect feed, and minimizing the importance of timing.
 
