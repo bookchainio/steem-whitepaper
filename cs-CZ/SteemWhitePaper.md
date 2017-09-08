@@ -295,33 +295,33 @@ První úvaha je rozhodnutí o tom, jaké svědectví je přípustné pro zápis
 
 Koncepčně je algoritmus shody přijatý Steemem podobný algoritmu shody přijatého obchodními společnostmi po celém světě. Lidé se zájmem o budoucí hodnotu Steemu (tj. držitelé SP) hlasují při výběru jednotlivců zodpovědných za vnášení záznamů do veřejného protokolu. Váha hlasu je úměrná SP jednotlivce.
 
-In the world of cryptocurrencies, the public record is commonly referred to as a *blockchain*. A *block* is a group of signed transactions.
+Ve světě kryptoměn je veřejný protokol všeobecně nazýván *blockchain*. *Blok* je skupina podepsaných transakcí.
 
-With Steem, block production is done in rounds. Each round 21 witnesses are selected to create and sign blocks of transactions. Nineteen (19) of these witnesses are selected by approval voting, one is selected by a computational proof-of-work, and one is timeshared by every witness that didn't make it into the top 19 proportional to their total votes. The 21 active witnesses are shuffled every round to prevent any one witness from constantly ignoring blocks produced by the same witness placed before.
+V Steem probíhá produkce bloků v kolech. V každém kole se vybere 21 svědků k vytvoření a podepsání bloku transakcí. 19 z těchto svědků je vybráno hlasováním, 1 je vybrán dle počítačového proof-of-work (důkaz práce) a 1 je vybrán z těch svědků, kteří nejsou v prvních 19 dle počtu hlasů. Těch 21 svědků je v každém kole promícháno, aby se zabránilo tomu, že jeden svědek bude trvale ignorovat bloky vytvořené tím samým svědkem v řadě před ním.
 
-This process is designed to provide the best reliability while ensuring that everyone has the potential to participate in block production regardless of whether they are popular enough to get voted to the top. People have three options to overcome censorship by the top 19 elected witnesses: patiently wait in line with everyone else not in the top 19, purchase enough computational power to solve a proof of work faster than others, or purchase more SP to improve voting power. Generally speaking, applying censorship is a good way for elected witnesses to lose their job and therefore, it is unlikely to be a real problem on the Steem network.
+Tento systém je projektován tak, aby poskytl nejvyšší spolehlivost, zatímco by zajistil, aby každý měl možnost spolupracovat na produkci bloků bez ohledu na to, zda je dost populární na to, aby byl zvolen. Jsou tři možnosti jak překonat cenzorství 19 nejvýše zvolených svědků: trpělivě čekat v řadě s ostatními kteří nejsou v prvních 19, koupit dostatek výpočetního výkonu k vyřešení proof-of-work rychleji než ostatní nebo koupit více SP k vylepšení hlasovací síly. Obecně řečeno censorství je pro zvoleného svědka dobrá cesta ke ztrátě jeho práce a proto je nepravděpodobné, že by se to v síti Steem stalo opravdovým problémem.
 
-Because the active witnesses are known in advance, Steem is able to schedule witnesses to produce blocks every 3 seconds. Witnesses synchronize their block production via the NTP protocol. A variation of this algorithm has been in use by the BitShares network for over a year where it has been proven to be reliable.
+Protože aktivní svědci jsou známi dopředu, Steem je schopný naplánovat práci svědků tak, aby produkovali bloky každé 3 vteřiny. Svědci synchronizují svojí produkci bloků přes NTP protokol. Variace tohoto algoritmu je používána sítí BitShares již přes rok a tam se osvědčila jako spolehlivá.
 
-## Mining in Steem
+## Těžba v Steemu
 
-Traditional proof of work blockchains combine block production with the solving of a proof of work. Because the process of solving a proof of work takes an unpredictable amount of time, the result is unpredictable block production times. Steem aims to have consistent and reliable block production every 3 seconds with almost no potential for forks.
+Tradiční blockchainy založené na důkazu práce kombinují produkci bloků s vyřešením důkazu práce. Protože proces vyřešení důkazu práce zabere nepředvídatelný čas, výsledkem je nepředvídatelný čas produkce bloků. Steem usiluje o konzistentní a spolehlivou produkci bloků každé 3 vteřiny s téměř nulovým potentiálem pro rozvětvení blockchainu.
 
-To achieve this Steem separates block production from solving of proof of work. When a miner solves a proof of work for Steem, they broadcast a transaction containing the work. The next scheduled witness includes the transaction into the blockchain. When the transaction is included the miner is added to the queue of miners scheduled to produce blocks. Each round one miner is popped from the queue and included in the active set of witnesses. The miner gets paid when they produce a block at the time they are scheduled.
+Aby toho dosáhl tak Steem odděluje produkci bloků od vyřešení důkazu práce. Když těžař vyřeší důkaz práce pro Steem, vyšle transakci obsahující tuto práci. Svědek následující v pořadí zařadí transakci do blockchainu. Když je transakce zahrnuta, těžař je zařazen do fronty těžařů naplánovaných na produkci bloku. V každém kole je vybrán jeden těžař z řady čekajících a zařazen do sady aktivních svědků. Těžař je zaplacen, když vyprodukuje blok v čase, na který je naplánován.
 
-The difficulty of the proof of work doubles every time the queue length grows by 4. Because one miner is popped from the queue every round, and each round takes 21 \* 3 = 63 seconds, the difficulty automatically halves if no proof of work is found in no more than 21 \* 3 \* 4 = 252 seconds.
+Obtížnost důkazu práce se zdvojnásobuje pokaždé, když délka fronty vzroste 4x. Protože v každém kole je z řady vybrán jeden těžař a každé kolo trvá 21 \* 3 = 64 vteřin, obtížnost se automaticky sníží pokud není důkaz práce nalezen v méně než 21 \* 3 \* 4 = 252 vteřinách.
 
-### Mining Rewards require Steem Power
+### Pro vytěžení odměny je nutná Steem Power
 
-After the first month, Steem miners are paid in Steem Power (SP). SP is liquidated through the two-year process of "powering down". This means that miners must wait for a long time, likely many months, before sufficient mining rewards have been powered down to allow them to recover the cost of electricity and computational resources. The powering down process discourages creation of mining pools because the pool operator would have to spread payouts over years.
+Po prvním měsíci jsou Steem těžaři placeni v Steem Power (SP). SP lze vyměnit jen v dva roky trvajícím procesu nazvaném “powering down”. To znamená, že těžaři musí čekat dlouhou dobu mnoha měsíců než přes power down obdrží dostatečné odměny za těžbu, aby uhradili cenu elektřiny a počítačového výkonu. Proces powering down odrazuje od tvorby těžebních poolů, protože provozovatel poolu by musel rozprostřít výplaty na celá léta.
 
-The effect of paying mining rewards in SP is to prevent miners from using today's price to determine the pro tability of mining. Few people will agree on what the future price will be. This means mining difficulty will be driven by those who place the highest estimate on future value. Miners without a long-term interest in the platform will be discouraged from competing. Ultimately this means that the proceeds of mining are less likely to be dumped on the market because they will accrue to long-term believers in the platform.
+Výsledkem placení těžebních odměn v SP je zamezení použití dnešních cen na určení výdělečnosti těžby. Jen málo lidí odhadne cenu v budoucnosti. To znamená, že obtížnost těžby bude určena těmi, kdo odhadují budoucí cenu nejvýše. Těžaři bez dlohodobého zájmu v platformě budou odrazováni od konkurence. To znamená, že rychlý prodej výdělků z těžby je méně pravděpodobný, protože výdělky budou přibývat těm, kdo věří v platformu dlouhodobě.
 
-### Mining Algorithm
+### Algoritmus těžby
 
-The mining algorithm adopted by Steem requires the miner to have access to the private key of the account that will receive the rewards. This requirement has several important consequences. First it encourages optimization of elliptic curve signature verification algorithms needed by Steem. Second it makes it challenging to set up mining pools because the pool operator would have to share control over the reward with all of the "anonymous" miners. Third, it makes it difficult to use botnets because the botnet operator would have to distribute their private key to all compromised machines.
+Těžební algoritmus přijatý Steemem vyžaduje, aby těžař měl přístup k soukromému klíči účtu, na který bude dostávat odměny. Tento požadavek má několik důležitých souvislostí. Zaprvé to podporuje optimalizaci eliptické křivky algoritmu ověřování podpisu potřebného v Steemu. Zadruhé to ztěžuje založení těžebních poolů, protože provozovatel poolu by musel sdílet kontrolu nad výdělky se všemi těmi „anonymními“ těžaři. Zatřetí to ztěžuje použití botnetů, protože provozovatel botnetu by musel distribuovat svoje soukromé klíče na všechny infikované počítače.
 
-The following pseudocode describes how the proof-of-work hash value is calculated:
+Tento pseudokód popisuje, jak kalkulována hodnota hashe důkazu práce:
 
     Let H    = Head Block ID
     Let H2   = SHA256(H + NONCE)
@@ -332,35 +332,35 @@ The following pseudocode describes how the proof-of-work hash value is calculate
     Let POW  = SHA256(K)
     
 
-### Botnet Resistant
+### Odolný botnetům
 
-Many proof of work coins end up being mined by botnets. A botnet is a collection of thousands or millions of machines that have been compromised by hackers. These hackers steal the computational and electrical resources of compromised machines to mine cryptocurrency tokens.
+Mnohé kryptoměny založené na důkazu práce skončili jako těžené botnety. Botnet je kolekce tisíců nebo miliónů počítačů infikovaných hackery. Tito hackeři kradou vypočetní zdroje a elektřinu infikovaných počítačů na těžbu kryptoměn.
 
-Steem has many properties that prevent these computational thieves from profiting. Botnet operators are profit seeking enterprises and typically sell their stolen resources to the highest bidder. This means that those who utilize a botnet pay for the computational power in the same way that someone who uses Amazon EC2 does. The vesting requirement of Steem means that the capital spent on buying the resources of the botnet will be tied up for a long period of time during which the operator is exposed to price volatility.
+Steem má mnoho vlastností, které zabraňují těmto zlodějům výpočetní síly vydělávat. Operátoři botnetů jsou podnikatelé hledající výdělek a obvykle prodávají svoje nakradené zdroje nejvyšší nabídce. To znamená, že ti kdo používají botnet platí za výpočetní sílu stejně, jako když někdo používá Amazon EC2. Požadavek na dlouhodobé držení Steemu znamená, že kapitál utracený na nákup zdrojů botnetu bude vázán na dlouhou dobu, během které je operátor vystaven cenové volatilitě.
 
-Another way that botnet operators are prevented from profiting is the requirement to distribute the private key to all compromised machines. If even one compromised computer is discovered, the operator could lose their coins.
+Jiný důvod, který brání operátorů botnetů ve výdělku, je požadavek na distribuci soukromých klíčů všem infikovaným počítačům. Pokud by byl odhalen byť jeden infikovaný počítač, operátor by mohl ztratit všechny svoje kryptomince.
 
-The last mitigation is the dependency on latency. Most botnets are comprised of computers with poor internet connections, these slow Internet connections will dramatically reduce the effectiveness of the computational resource.
+Poslední omezení je závislost na latenci. Mnoho botnetů tvoří infikované počítače se slabým internetovým připojením a tato slabá internetová propojení dramaticky snižují efektivitu vypočetních zdrojů.
 
-It should be more profitable and less risky for botnet operators to use their resources for other activities than mining STEEM.
+Pro operátory botnetů by mělo být výdělečnější a méně rizikové použít své zdroje na jiné aktivity než těžbu Steemu.
 
-### Mining Pool Resistant
+### Odolný těžebním poolům
 
-Miners have a total of 3 seconds to receive a block, solve the proof of work, and get the transaction to the next block producer. Much of this time will consist of network latency which means that it is critical for miners to be well connected to the network to make the most effective use of their computational resources.
+Těžaři mají celkem 3 vteřiny na obdržení bloku, vyřešení důkazu práce a odevzdání transakce výrobci příštího bloku. Většina tohoto času bude tvořena síťovou latencí, což znamená, že pro těžaře je kritické dobré spojení do sítě, aby svoje výpočetní zdroje využili co nejefektivněji.
 
-Because of the constantly changing head block and network latency, forwarding a template for mining a specific block to participants of a mining pool adds additional network latency and reduces efficiency of pooled mining significantly.
+Kvůli neustále se měnícímu přednímu bloku a latenci sítě přidává předávání dat pro těžbu určitého bloku účastníkům poolu další lateci sítě a podstatně redukuje efektivitu těžby v poolu.
 
-# Eliminating Transaction Fees
+# Eliminace transakčních poplatků
 
-Steem goes to great lengths to reward people for contributing to the network. It would be counterproductive to turn around and charge people every time they attempt to interact with the community.
+Steem šel daleko v odměňování lidí za jejich příspěvky síti. Bylo by tedy kontraproduktivní to otočit a zpoplatňovat účastníky za každý kontakt s komunitou.
 
-Blockchain technology currently depends upon transaction fees to prevent spam. These fees suffer all of the known problems with microtransactions and prevent blockchains from being used for low-value transactions. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
+Prevence spamu v současné blockchainové technologii závisí na poplatcích. Tyto poplatky za mikrotransakce trpí všemi známými problémy a zabraňují použití blockchainu pro trasakce s nízkou cenou. Skutečně decentralizované aplikace musí nabídnou uživatelům vznik bezplatných transakcí, pokud si přejí soutěžit s jejich centralizovanými alternativami. Tento manuál popisuje přístup použitý Steemem k eliminaci potřeby poplatků a tím umožnění širokého rozsahu dříve neudržitelných decentralizovaných aplikací.
 
-## The Problem With Fees
+## Problém s poplatky
 
-Blockchains are decentralized networks where all transactions are broadcast to all peers. Every so often a block is produced that includes some or all of the pending transactions. All blockchains must find a solution to prevent malicious users from consuming all of the available network capacity with worthless transactions. These worthless transactions can prevent other valuable transactions from being processed and ultimately destroy the network.
+Blockchainy jsou decentralizované sítě, kde všechny transakce jsou vysílány všem účastníkům. Každou chvíli je vytvořen blok, který zahrnuje nějaké nebo všechny nevyřízené transakce. Všechny blockchainy musí najít preventivní řešení, jak zabránit uživatelům se zlými úmysly spotřebovat celou dostupnou kapacitu sítě bezcennými transakcemi. Tyto bezcenné transakce mohou zabránit ostatním hodnotným transakcím v uskutečnění a tak zcela zničit síť.
 
-The solution adopted by most blockchains thus far is to charge a minimum transaction fee. A fee worth just a few cents is enough to make attacking the network expensive and unprofitable. While this approach solves the spam problem, it introduces new problems. Imagine solving the email spam problem by introducing a small fee on every email; people wouldn't use email.
+Až dosud je řešení přijaté většinou blockchainů účtování minimálního transakčního poplatku. Poplatek v ceně jen několika centů je dost k tomu, aby útok na síť učinil drahým a nevýdělečným. Zatímco tento přístup řeší problém spamu, zavádí nové problémy. Představte si řešení problému emailového spamu zavedením malého poplatku za každý email. Nikdo by email nepoužíval.
 
 ### Micropayments Don't Work
 
