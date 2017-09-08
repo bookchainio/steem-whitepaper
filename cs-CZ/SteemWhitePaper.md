@@ -426,93 +426,93 @@ Každý uživatel má právo na průměrnou týdenní šíři pásma:
     Alokace = M * U / S
     
 
-A user would be entitled to an average bandwidth of M \* U / S. Any time a transaction would cause the user's average to go above this threshold they would be unable to transact until enough time passes to lower the average.
+Uživatel bude mít právo na průměrnou šířku pásma M \* U / S. Kdykoliv by transakce způsobila, že uživatelův průměr vzroste nad tento práh, nebude schopen provést transakci, dokud neuplyne dost času na snížení tohoto průměru.
 
-The network can increase the reserve ratio, anytime blocks are less than half the target capacity and decrease it anytime they are more than half. The algorithm used to adjust R is designed to react quickly to decrease the reserve ratio when there is a surge in demand, while acting slowly to increase the reserve ratio in period of low demand.
+Síť může zvýšit poměr rezervy, kdykoliv bloky využijí méně než polovinu kapacity sítě a snížit, když využijí více než polovinu. Algoritmus použitý k nastavení R je nastaven na rychlou reakci k snížení poměru rezervy, když je špička poptávky, zatímco pomalu zvyšuje poměr rezervy v době malé poptávky.
 
-The minimum reserve ratio is 1, and the maximum reserve ratio should be calculated to prevent small stakeholders from consuming all of the available bandwidth. If no one is using the available bandwidth then the reserve ratio can grow until a user with just 1 satoshi of the currency is able to transact every single block.
+Minimální poměr rezervy je 1 a maximální poměr rezervy by měl být spočten tak, aby zabránil malým podílníkům použít celou dostupnou šíři pásma. Pokud nikdo dostupnou šíři pásma nevyužívá, pak poměr rezervy může růst až dokud uživatel s pouze 1 satoshi měny je schopen provést transakci v každém jednotlivém bloku.
 
-### Case Study: Bitcoin
+### Případová studie: Bitcoin
 
-To understand how this algorithm would work on Bitcoin it is necessary to estimate a reasonable value for the reserve ratio, R, based on actual usage. Based upon the total supply of 15M BTC and a daily transaction volume of 400K BTC<sup id="fnref:10"><a href="#fn:10" class="footnote-ref">10</a></sup>, we can derive a minimum reserve ratio of 38 for Bitcoin. Using the equations we can calculate the weekly bandwidth (in bytes) allowed per BTC to be:
+K porozumění, jak by tento algoritmus pracoval v Bitcoinu, je nezbytné odhadnout rozumnou hodnotu rezervního poměru R, založeného na současném využití. Pokud vezmeme celkovou zásobu 15 miliónů BTC a denní objem transakcí 400 tisíc BTC<sup id="fnref:10"><a href="#fn:10" class="footnote-ref">10</a></sup>, můžeme odvodit minimální poměr rezerv pro Bitcoin 38. Za použití rovnice můžeme kalkulovat týdenní šířku pásma (v bytech) na jeden BTC:
 
     Let C = 1MB = 1024 * 1024
-    Let L = 1008 (blocks per week)
+    Let L = 1008 (bloky za týden)
     Let R = 38
-    Let S = 14000000 BTC (supply minus Satoshi's unmoving coins)
+    Let S = 14000000 BTC (celková zásoba mínus Satoshiho nepohyblivé mince)
     Let U = 1 BTC
-    CLR/S = 2869 bytes per week, or about 5 transactions/week per BTC
+    CLR/S = 2869 bytů za týden nebo okolo 5 transakcí/týden na jeden BTC
     
 
-Since R = 38 is a lower bound on the reserve ratio, CLR/S is a lower bound on the permitted bandwidth. This simple case study suggests a user will require at most 0.20 BTC (over $80 as of this writing) to transact once per week. However, this is a loose upper bound derived from the assumption that all BTC are equally mobile. This is not the case - users with dozens or hundreds of bitcoins do not necessarily transact dozens or hundreds of times a week! The "leftover" transactions that those users "should" have made will increase the reserve ratio, allowing their unused bandwidth to be "recycled" for smaller users.
+Vzhledem k tomu, že R=38 je dolní hranice poměru rezerv, CLR/S je dolní hranice povolené šíře pásma. Tato jednoduchá případová studie tvrdí, že uživatel bude potřebovat přinejmenším 0,20 BTC (přes 80 USD v době psaní) aby provedl 1 transakci za týden. Avšak to je volná horní hranice odvozená od předpokladu, že všechny BTC jsou stejně mobilní. To není tento případ. Uživatel s tucty nebo stovkami BTC neprovádí nezbytně tucty nebo stovky transakcí za týden! Ony „zbylé“ transakce, které uživatel „měl“ udělat zvyšují poměr rezerv a tak umožňují jejich nevyužitou šíři pásma „recyklovat“ malým uživatelům.
 
-All of the above estimates are conservative upper bounds assuming coins and usage are distributed in a relatively flat manner. The reality is that heavy users, such as exchanges, have a much higher coin-to-usage ratio than lighter users, which in turn means that actual minimum balance requirements are far lower.
+Všechny tyto odhady jsou konzervativní horní hranice, který předpokládají, že mince a jejich využití je distribuováno relativně plochým způsobem. Realita je, že intenzivní uživatelé jako burzy mají mnohem vyšší poměr užití na minci než ostatní uživatelé, což zpětně znamená, že skutečný minimální požadovaný zůstatek je mnohem menší.
 
-#### Impact of Capacity
+#### Dopad kapacity
 
-Blockchain capacity isn't necessarily capped. It is well within the technological capability of internet infrastructure to increase the Bitcoin block size to 10MB which in turn will reduce the minimum required balance by a factor of 10. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second. This changes our conservative upper bound to 0.0006 BTC or about $0.25, meaning that an account holding $0.25 would be able to transact at least once per week on average (and likely many more times because we're dealing with a fairly loose upper bound).
+Kapacita blockchainu není nezbytně omezená. Je zcela v technologických možnostech internetové infrastruktury zvýšit velikost Bitcoinového bloku na 10 MB, což na oplátku zredukuje minimální požadovaný zůstatek 10x. Zatímco v současnosti Bitcoin podporuje 3 transakce za vteřinu, alternativní implementace jsou schopny přes 1000 transakcí za vteřinu. To zvyšuje naši konzervativní horní hranici na 0,0006 BTC nebo 0,25 USD, což znamená, že zůstatek 0,25 USD je dostatečný pro jednu transakci týdně (a pravděpodobně více, protože horní hranice je hodně volná).
 
-#### Maximum Number of Unique Users
+#### Maximální počet unikátních uživatelů
 
-We can use similar math to calculate the maximum number of unique users that the network can allow to transact once per week as: B\*W/T. T represents the average transaction size. This means Bitcoin could support about 2 million users transacting once per week assuming each user had an equal balance.
+Můžeme použít podobný vzorec na výpočet maximálního množství unikátních uživatelů, kterým síť může umožnit 1 transakci za týden: B\*W/T. T je průměrná velikost transakce. To znamená, že Bitcoin může podporovat okolo 2 miliónů unikátních uživatelů s jednou transakcí týdně za přepokladu, že mají stejný zůstatek.
 
-#### Comparison to Fees
+#### Srovnání s poplatky
 
-If we assume a user with $25 dollars worth of BTC transacts once per week and pays a $0.04 cent fee each time then they would pay over $2.00 in fees per year. A user would have to earn a 8% rate of return on their $25 dollars just to break even with paying fees. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
+Za předpokladu, že uživatel s 25 USD hodnoty BTC udělá jednu transakci týdně a pokaždé zaplatí 0,04 centu poplatek, tak na poplatcích dá přes 2 USD ročně. Uživatel by na svých 25 USD musel vydělat 8% ročně, jen aby měl na poplatky. Je šance, že uživatelé by svoje peníze drželi na blokchainu stejně, takže uživatel s BTC v ceně 25 dolarů právě ušetřil 2 USD ročně přijetím systému založeného na šířce pásma místo systému poplatků. S pouze 175 USD by mohl provést transakci každý den a ušetřit 14 USD ročně.
 
-### Account Creation
+### Vytvoření účtu
 
-Steem's account-based system with publicly known balances simplifies the implementation of the bandwidth-based rate limiting algorithm. Any account with a balance below the minimum required to transact once per week would be unable to transact. This implies that all new accounts should be funded with at least this minimum balance. It also implies that users wishing to transact in smaller amounts can, so long as they hold a larger balance and reuse the account.
+Systém Steemu založený na účtech s veřejnými zůstatky zjednodušuje zavedení algoritmu omezení šíře pásma. Jakýkoliv účet se zůstatkem pod minimem požadovaným pro jednu transakci týdně by nebyl schopen provést transakci. To předpokládá, že všechny nové účty by měly být profinancovány alespoň minimálním zůstatkem. To zároveň znamená, že uživatelé kteří si přejí provádět malé transakce tak mohou činit, pokud mají větší zůstatek a účet používají opakovaně.
 
-It is possible for a low-balance account created during a time of low usage to become inaccessible if the network usage picks up. The funds could be recovered at any time by transferring a larger balance into the account.
+U účtů s malým zůstatkem založených v době nízkého používání je možné, že se stanou nedostupnými, pokud stoupne využití sítě. Fondy mohou být kdykoliv obnoveny převedením většího zůstatku na tento účet.
 
-In order to maintain a reasonable user experience with a minimum number of hung accounts, all new accounts should start out with a balance 10 times the minimum required to transact weekly. This way even if demand increases by a factor of 10 the account will remain viable.
+Aby se udržela obstojná uživatelská zkušenost s minimem zamrzlých účtů, tak všechny nové účty musí být založeny se zůstatkem 10x větším, než je potřeba pro jednu transakci týdně. Takto, i když poptávka stoupne 10x, účet zůstane funkční.
 
-Any initial account balance would have to come from the user creating the account and not from token creation due to the potential for sybil attacks.
+Jakýkoliv počáteční zůstatek na účtu by měl pocházet od uživatele zakládajícího účet a ne tvorbou tokenů, aby se zabránilo potenciálním spam útokům.
 
-### Justifying Minimum Balances
+### Opodstatněnost minimálních zůstatků
 
-The concept of forcing users to maintain a minimum balance flows naturally from the value of a user<sup id="fnref:11"><a href="#fn:11" class="footnote-ref">11</a></sup> . Anyone running a business knows that every single user has significant value. Businesses spend anywhere from $30 to $200 to acquire a user. Sometimes they pay users directly, other times they pay for advertizing, and still other times entire companies are bought just for their user base. After a company acquires a user they often given them many *free services* just to keep them around long enough to monetize them through some other means.
+Přístup nutící uživatele udržovat minimální zůstatek vyplývá přirozeně z hodnoty uživatele<sup id="fnref:11"><a href="#fn:11" class="footnote-ref">11</a></sup>. Kdokoliv kdo podniká zná, že každý jednotlivý uživatel má podstatnou cenu. Podniky utratí něco mezi 30 až 200 USD za získání uživatele. Někdy platí uživatelům přímo, jindy platí za inzerci a jindy jsou zase nakupovány celé podniky jen pro svoji uživatelskou základnu. Po té co společnost získá uživatele, tak mu často dává řadu *služeb zadarmo*, jen aby si ho udržela dostatečně dlouho, než na něm vydělá jiným způsobem.
 
-Ripple uses a minimum balance<sup id="fnref:12"><a href="#fn:12" class="footnote-ref">12</a></sup> that scales with account resource use and requires that new accounts get funded with at least this minimum balance. Currently this minimum balance is about $0.15 which is greater than the $0.10 we estimated would allow someone to transact freely at least once per week.
+Ripple používá minimální zůstatek<sup id="fnref:12"><a href="#fn:12" class="footnote-ref">12</a></sup>, který roste s využíváním účtu a požaduje, aby byly nové účty zafinancovány alespoň minimálním zůstatkem. V současnosti je tento minimální zůstatek okolo 0,15 USD což je více než náš odhad 0,10 USD, který by umožňoval někomu provést alespoň jednu transakci za týden zdarma.
 
-A blockchain can enforce a minimum value per user through the simple process of requiring a minimum balance. Any business that wishes to bring a new customer to the blockchain can pre-fund that user's account with the minimum balance that would allow them to transact. Requiring a relatively large fee ($1.00) to sign up new users will naturally force anyone offering free accounts to vet the quality and uniqueness of each account before registering them with the blockchain.
+Blockchain může vynutit minimální hodnotu na uživatele jednoduchým procesem požadujícím minimální zůstatek. Jakýkoliv podnik, který si přeje přivést nového uživatele na blockchain, může předplatit tento uživatelský účet minimálním zůstatkem, který mu umožní provádět transakce. Požadavek na relativně vysoký poplatek 1 USD k založení nového uživatele bude přirozeně nutit kohokoliv nabízejícího účty zdarma kontrolovat kvalitu a jedinečnost každého účtu před jeho registrací na blockchainu.
 
-Maintaining a minimum balance is effectively the same as making users pay transaction fees with the interest they could have earned on their balance. The minimum balance is simply the balance required to earn enough interest to pay a fee in a relatively short period of time.
+Vyžadování minimálního zůstatku je ve skutečnosti to samé, jako nutit uživatele platit poplatky z úroků, které mohli vydělat na jejich zůstatku. Minimální zůstatek je jednoduše zůstatek potřebný k získání dostatečného úroku pro platbu poplatku v relativně krátké době.
 
-Fortunately, the minimum balance required can be as low as a dollar and this is something users can understand and appreciate. The opportunity cost of lost interest doesn't incur the cognitive cost of a micro-fee and is far more acceptable to users.
+Naštěstí může být požadovaný zůstatek tak nízký jako 1 dolar a to je něco, co mohou uživatelé pochopit a ocenit. Cena ztraceného úroku nezpůsobuje kognitivní náklady mikropoplatku a je pro uživatele mnohem přijatelnější.
 
-The STEEM used to pre-fund an account is Powered Up in the new account (i.e., converted to Steem Power).
+Steem použitý k přeplacení účtu je v novém účtu převeden na Steem Power.
 
-### Adjusting the Reserve Ratio
+### Úprava poměru rezerv
 
-Rate limiting requires that the network adjust the reserve ratio quickly enough to mitigate the impact of an attacker attempting to ood the network. Let's assume the attacker has a large balance, say 1% of the available tokens. If we also assume that the network targets 50% utilization, then a sustained attack should find this user throttled to 25% of network capacity assuming everyone else is also using 25% of the capacity. Stated another way, the largest single user should never be able to consume more than 50% of the target capacity unless they own more than 50% of the SP.
+Omezování šíře pásma vyžaduje, že síť upravuje poměr rezerv dostatečně rychle, aby zmírnila dopad útoků pokoušejících se zaplavit síť. Předpokládejme, že útočník má velký zůstatek, řekněme 1% dostupných tokenů. Pokud též předpokládáme, že síť cílí na 50% využití, pak nepřetržitý útok by měl tohoto uživatele omezit na 25% kapacity sítě za předpokladu, že kdokoliv další též používá 25% této kapacity. Řečeno jinými slovy, největší jednotlivý uživatel by neměl být nikdy schopen spotřebovat více než 50% cílové kapacity, pokud nevlastní více než 50% Steem power.
 
-Let's use an initial reserve ratio of 200x. Due to fractional reserves, this means someone holding 1% of the tokens has the right to demand transactions totalling 2x the maximum block size. In order to bring the network usage of the attacker down to 25% the reserve ratio would have to fall to 25x. This would cause the minimum balance required to transact once per week to grow by 8x.
+Použijme počáteční poměr rezer 200x. Z důvodu částečných rezerv to znamená, že někdo držící 1% tokenů má právo požadovat transakce dosahující 2 násobku maximální velikosti bloku. Za účelem sražení využití sítě útočníkem na 25% by poměr rezerv musel klesnout na 25x. To by způsobilo růst minimálního požadovaného zůstatku pro 1 transakci týdně 8x.
 
-The blockchain can establish a response rate that says any sustained increase in usage should be brought down to the target capacity in within a short period of time (say 30 seconds). An attacker attempting to spam the network shouldn't be able to disrupt service for normal users for more than a minute.
+Blockchain může nastavit takovou dobu odezvy, že jakýkoliv trvalý růst použití by měl být snížen na cílovou kapacitu během krátké doby (řekněme 30 vteřin). Útočník pokoušející se spamovat síť by neměl být schopen narušit službu pro normální uživatele na více než jednu minutu.
 
-While reductions in the reserve ratio must be quick and non-linear to counter abuse, increases in the reserve ratio should be slow and linear. If the network adjusted in both directions in just 30 seconds then an attacker could pulse the network. A flood of transactions should be corrected in 30 seconds and then take a hour to return to their pre-attack levels. Under this model the attacker could flood the network for 30 seconds per hour or less than 1% of the time.
+Zatímco omezení poměru rezerv musí být rychlé a nelineární jako protiopatření vůči zneužití sítě, růst poměru rezerv by měl být pomalý a lineární. Pokud by byla síť upravena v obou směrech během pouhých 30 vteřin, tak by ji útočník mohl rozkmitat. Příval transakcí může být zkorigován během 30 vteřin a poté trvá návrat na původní hodnoty hodinu. U tohoto modelu může útočník zaplavit síť na 30 vteřin za hodinu čili na méně než 1% času.
 
-There must be a slow constant upward pressure on the reserve ratio any time network usage is below 50% until the network hits the maximum reserve ratio. The maximum reserve ratio determines the minimum required stake to flood the network in short bursts.
+Musí existovat pomalý trvalý tlak na poměr rezer směrem nahoru, kdykoliv je využití sítě pod 50%, až dokud síť nedosáhne maximálního poměru rezer. Maximální poměr rezerv určuje minimální požadovaný podíl pro zaplavení sítě v krátkých návalech.
 
-Any user with fewer than TOTAL\_TOKENS / (2 \* RESERVE\_RATIO) will be unable to produce enough transactions to fill even a single block. With a reserve ratio of 200, this means any user with less than 0.25% of the currency cannot create enough transactions to delay anyone's service.
+Uživatel z méně než CELKEM\_TOKENŮ / (2 \* POMĚR\_REZERV) nebude schopen vytvořit dostatek transakcí k vyplnění dokonce i jediného bloku. S poměrem rezerv 200x to znamená, že jakýkoliv uživatel s méně než 0,25% měny nemůže vytvořit dostatek transakcí ke zpoždění služby pro kohokoliv.
 
-### Effectiveness Relative to Fees
+### Účinnost ve srovnání s poplatky
 
-To compare the effectiveness of rate limiting to fees we must consider how the two systems react to intentional network flooding by an attacker. Under Bitcoin an attacker with $10,000 dollars could disrupt service for an entire day by filling every single block. The same attacker would be unable to disrupt service for even a single block under the dynamic fractional reserve rate limiting approach.
+Abychom srovnali účinnost omezení frekvence vůči poplatkům, tak musíme uvážit, jak tyto dva systémy reagují na úmyslné zaplavení sítě útočníkem. U Bitcoinu útočník s 10 000 USD může rozvrátit službu na celý den tím, že vyplní každý jednotlivý blok. Ten samý útočník v systému dynamických částečných rezerz nebude schopen rozvrátit službu byť na jediný blok.
 
-If we go to a more extreme case and assume the attacker holds 1% of all coins then we presume an attacker with $60 million dollars. Such an attacker could deny the Bitcoin blockchain service for 16 years unless the miners increased fees or capacity. Even if fees were raised to $15 per transaction, the attacker could still keep the network flooded for 16 days.
+Pokud budeme uvažovat o extrémnějším případu a předpokládat, že útočník drží 1% všech tokenů, tak předpokládáme útočníka s 60 milióny USD. Takový útočník může zablokovat službu Bitcoinového blokchainu na 16 let, pokud těžaři nezvýší poplatky nebo kapacitu. Dokonce i když zvýšíme poplatky na 15 USD za transakci, tak útočník stále může zaplavovat síť po 16 dnů.
 
-Under the rate limiting approach, someone who holds 1% of all coins with an intent to flood the network would achieve their goal for less than 30 seconds.
+Pod systémem omezování frekvence ten kdo drží 1% všech tokenů s úmyslem zaplavovat síť, dosáhne svého cíle na méně než 30 vteřin.
 
-### Renting vs. Buying vs. Time Sharing
+### Pronájem vs Nákup vs Sdílení času
 
-When someone owns a house they expect the right to use the house for free. If a group of people buy a house together then each can expect the right to use the house proportional to their percentage ownership in the house. A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
+Když někdo vlastní dům, očekává právo užívat ten dům zdarma. Pokud skupina lidí koupí dům dohromady, pak každý očekává právo užívat dům v poměru k jeho procentuálnímu vlastnictví toho domu. Blokchain založený na poplatcích je jako pronajímat si dům od jeho vlastníků, zatímco omezování frekvence je jako sdílení času mezi vlastníky.
 
-If a house is owned by multiple people then those individuals must decide how they wish to timeshare the house. Someone who owns 50% of the house but only uses it one weekend per year might expect to be paid by the individuals who take their unused time. This is the mindset of a fee based system.
+Pokud je dům vlastněn více lidmi, pak se tito jednotlivci musí rozhodnout, jak si přejí rozdělit užívání domu. Někdo kdo vlastní 50% domu, ale užívá ho jen jeden víkend v roce, může očekávat platby od těch, kdo využijí jím uvolněný čas. To je úvaha systému založeného na poplatcích.
 
-On the other hand, someone who owns 50% of the house is speculating that demand for the house will increase in the future and they will be able to sell their stake for more. Any owner who owns more of a house than they use becomes a real estate speculator. With this mindset rather than collecting rent, they collect appreciation.
+Na druhé straně ten, kdo vlastní 50% domu spekuluje na růst zájmu o využití domu v budoucnu a že bude schopen prodat svůj podíl za víc. Jakýkoliv vlastník, který vlastní větší část domu než užívá, se stává nemovitostním spekulantem. With this mindset rather than collecting rent, they collect appreciation.
 
 The value of a share is derived from how much time it can potentially grant its owner. Owning 1% of a house and getting it 1 weekend per year is the lowest value of a share. However, if half of the shareholders never use their weekend, then the value per timeshare rises to 2 weekends per year. If those inactive users instead opt to rent their unused time, then it falls back to 1 weekend per year. If those unused timeshares were sold to people who would use them then the value of a timeshare would fall by 50%. Unless the rent collected is greater than the fall in share value the timeshare owners are making an economic miscalculation.
 
