@@ -2,11 +2,11 @@
 
 ## An incentivized, blockchain-based social media platform.
 
-#### March 2016
+March 2016
 
 # Translator's notes
 
-#### Placeholder for translator's notes.
+Placeholder for translator's notes.
 
 # Abstract
 
