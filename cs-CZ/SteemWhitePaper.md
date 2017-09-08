@@ -245,55 +245,55 @@ The charts above shows how a user's voting power decreases every time they vote 
 
 Aby se určil podíl na odměnách alokovaných danému příspěvku, tak je hlasovací síla násobena SP uživatele.
 
-### Delayed Payouts
+### Zpožděné výplaty
 
 ![](\img_change_voting_period_eg.png)
 
-To further prevent abuse, all payouts are delayed a stake-weighted average of 24 hours from the time each vote was cast. This ensures that large stakeholders cannot snipe payouts by voting at the last second before other voters (aka crabs) have a chance to negate the potential abuse. Once a payout is made to the user all votes are reset to 0. If votes come in after the payout then the process begins again.
+Pro ještě větší prevenci zneužití všechny výplaty tvoří zpožděný 24 hodinový vážený průměr podílů od doby hlasování. To zajišťuje, že velcí podílníci nemohou sebrat výplaty hlasováním v poslední vteřině předtím, než ostatní hlasující (neboli kraby) mají možnost negovat potenciální zneužití. Jakmile proměhne výplata, tak jsou hlasy resetovány na nulu a proces začne znovu. Čas vypršení hlasovacího období se mění v reakci na nová pozitivní i negativní hlasování.
 
-This chart shows how the voting period expiration changes in response to new positive and negative votes being applied. New votes extend the payout period in proportion to how large they are relative to all votes that have gone before. Around time 40 a large number of new votes were added which extended the voting period by 12 hours, subsequent smaller votes had far less impact on the voting period.
+This chart shows how the voting period expiration changes in response to new positive and negative votes being applied. Nové hlasy prodlužují dobu k výplatě v závislosti na tom, jak jsou silné v porovnání se všemi předešlými hlasy. Around time 40 a large number of new votes were added which extended the voting period by 12 hours, subsequent smaller votes had far less impact on the voting period.
 
-### Payout Distribution
+### Distribuce výplat
 
 ![](\img_the_new_marketplace.png)
 
-One of the primary goals of Steem's reward system is to produce the best discussions on the internet. Each and every year 10% of the market capitalization of Steem is distributed to users submitting, voting on, and discussing content. At the size of Bitcoin this could be as much as $1.75 million dollars per day being given to top contributors.
+Jedním z hlavních cílů systému odměn Steemu je vytvořit nejlepší diskusi na internetu. Každý den je 10% tržní kapitalizace Steemu rozděleno uživatelům tvořícím obsah, o obsahu hlasujícím a diskutujícím. Při velikosti Bitcoinu by to mohlo být až 1,75 miliónu $ za den rozdělených hlavním přispěvatelům.
 
-The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content. Steem weighs payouts proportional to \\(n^{2}\\) the amount of Steem Power voting for a post. In other words, post x would receive a payout proportional to:
+Skutečná distribuce bude záviset na způsobu hlasování uživatelů, ale domníváme se, že podstatná většina odměn bude rozdělena mezi nejpopulárnější obsah. Steem přiřazuje výplaty proporcionálně k \\(n^{2}\\) sumy Steem power hlasující pro příspěvek. Jinými slovy příspěvek x by obdržel výplatu úměrnou:
 
-\\(votes[x]^{2} / sum(votes[0...n]^{2})\\)
+\\(hlasy[x]^{2} / součet(hlasy[0...n]^{2})\\)
 
-Zipf's Law<sup id="fnref:7"><a href="#fn:7" class="footnote-ref">7</a></sup> is one of those empirical rules that characterize a surprising range of real-world phenomena remarkably well. It says that if we order some large collection by size or popularity, the second element in the collection will be about half the measure of the first one, the third one will be about one-third the measure of the first one, and so on. In general, the \\(k^{th}\\)-ranked item will measure about 1/k of the first one.
+Zipfův zákon<sup id="fnref:7"><a href="#fn:7" class="footnote-ref">7</a></sup> je jedno z těch empirických pravidel, které charakterizuje překvapivý rozsah fenoménů reálného světa pozoruhodně dobře. Říká, že pokud seřadíme nějaký velký soubor podle velikosti nebo oblíbenosti, druhý prvek v souboru bude okolo poloviny velikosti prvního, třetí bude okolo třetiny velikosti prvního atd. Obecně prvek na pozici k bude měřit okolo 1/k toho prvního.
 
-Taking popularity as a rough measure of value, then the value of each individual item is given by Zipf's Law. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
+Pokud vezmeme popularitu jako hrubé měřítko ceny, pak hodnota každé jednotlivé položky je daná Zipfovým zákonem. To jest pokud máme milión položek, pak nejpopulárnějších 100 přispěje k celkové hodnotě 1/3, dalších 10 000 další třetinou a zbylých 989 900 poslední třetinou. Hodnota kolekce n položek je úměrná log(n).
 
-The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
+Dopad tohoto hlasování a distribuce výplat je nabídka velkých odměn za dobrý obsah, zatímco jsou stále odměňování menší hráči za jejich dlouhodobé přispívání.
 
-The economic effect of this is similar to a lottery where people over-estimate their probability of getting votes and thus do more work than the expected value of their reward and thereby maximize the total amount of work performed in service of the community. The fact that everyone "wins something" plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
+Ekonomický efekt je podobný loterii, v které lidé přeceňují svojí pravděpodobnost obdržení hlasů a tak udělají více práce, než je očekávaná hodnota jejich odměny a tak maximalizují celkové množství práce při službě komunitě. Skutečnost, že každý „něco vyhraje“ spoléhá na tu samou psychologii, kterou používají kasina aby lidé pokračovali ve hře. Jinými slovy, malé odměny pomáhají utvrdit myšlenku, že je možno získat velkou odměnu.
 
-#### Rewarding Parent Posts
+#### Odměňování výchozího příspěvku
 
-Good discussion requires back and forth posting. When you reply to someone else, they get 50% of any payout you receive in that thread. This rule applies up to 6 levels deep. Starting a big discussion greatly rewards the parent poster.
+Dobrá diskuse vyžaduje odpovědi na příspěvky. Když někomu odpovíte, dostane 50% odměny kterou obdržíte v tomto vláknu. Toto pravidlo se aplikuje až do hloubky 6 úrovně. Nastartování velké diskuse výrazně odměňuje autora mateřského příspěvku.
 
-Failure to properly nest your posts in the discussion is a good way to get down voted.
+Selhání při správném umístění vašeho příspěvku v diskusi je dobrý způsob jak být penalizován (downvoted).
 
-This incentive structure motivates people to contribute in a way that motivates others to get involved. It encourages people to ask good questions so that others can provide valuable answers.
+Tato struktura pobídek motivuje lidi přispívat tak, aby motivovali k příspěvkům ostatní. Povzbuzuje lidi klást dobré otázky tak, že ostatní mohou poskytnout cenné odpovědi.
 
-### Payouts
+### Výplaty
 
-When a post receives a payout it takes the form of 50% SMD and 50% SP. The Steem Power give the user increased voting and transaction power while the SMD gives the user an immediate benefit in a stable currency. As we've already discussed at length, both SP and SMD are designed to encourage long-term holding rather than short-term selling.
+Když příspěvek obdrží výplatu, tak je to ve formě 50% SMD a 50% SP. Steem Power dá uživateli zvýšenou hlasovací a transakční sílu, zatímco Steem Dollar dává uživateli okamžitou výhodu stabilní měny. Jak jsme již podrobně vysvětlili, jak SP tak SMD jsou určeny k povzbuzení dlouhodobé držby spíše než pro okamžitý prodej.
 
-# Consensus Algorithm
+# Algoritmus shody
 
-Consensus is the process by which a community comes to a universally recognized, unambiguous agreement on piece of information. There are many algorithms society has developed for reaching consensus about who owns what. Every government on earth is a primitive consensus algorithm whereby the population agrees to abide by a certain set of rules enshrined in a constitution. Governments establish courts, judges, and juries to interpret the subjective facts and render a final decision. Most of the time people abide by the decision even if it was wrong.
+Shoda je proces, kterým komunita dojde k obecně uznanému jednoznačnému názoru na konkrétní informaci. Je mnoho algoritmů, které si společnost vyvinula pro dosažení shody o tom, co kdo vlastní. Každá vláda na světě je jednoduchý algoritmus shody prostřednictvím kterého se obyvatelstvo podřizuje určité sadě pravidel uchované v ústavě. Vlády ustavují soudy, soudce a poroty k interpretaci subjektivních faktů a vynesení konečného rozhodnutí. Lidé se po většinu času řídí těmito rozhodnutími, i když byly chybné.
 
-The algorithms used by cryptocurrencies provide a better way to reach consensus. Cryptographically signed testimony from individuals is recorded in a public ledger that establishes the absolute global order of events. A deterministic computer algorithm can then process this ledger to derive a universally accepted conclusion. So long as the members of a community agree on the processing algorithm, the result of the algorithm is authoritative.
+Algoritmus používaný kryptoměnami poskytuje lepší cestu k dosažení shody. Kryptograficky podepsané svědectví od jednotlivců je nahráno do veřejného protokolu, který stanoví absolutní celkové pořadí událostí. Deterministický počítačový algoritmus může poté zpracovat tyto záznamy a odvodit obecně přijímaný závěr. Dokud členové komunity souhlasí s algoritmem zpracování, výsledek algoritmu je směrodatný.
 
-The primary consideration is determining what testimony is allowed to enter the public record. Systems should be designed to minimize the potential for censorship. Censorship on the public ledger is similar to preventing someone from voting in an election. In both cases an individual is prevented from impacting the global consensus.
+První úvaha je rozhodnutí o tom, jaké svědectví je přípustné pro zápis do veřejného protokolu. Systém by měl být navržen pro minimalizaci případné censury. Censura ve veřejném protokolu je podobná tomu bránit někomu hlasovat ve volbách. V obou případech je jedinci zabráněno ovlivnit celkový konsenzus.
 
-## Consensus in Steem
+## Shoda v Steemu
 
-Conceptually, the consensus algorithm adopted by Steem is similar to the consensus algorithm adopted by companies throughout the world. People with a vested interest in the future value of Steem vote to select individuals responsible for including testimony in the public record. Voting is weighted proportional to each individual's vested interest.
+Koncepčně je algoritmus shody přijatý Steemem podobný algoritmu shody přijatého obchodními společnostmi po celém světě. Lidé se zájmem o budoucí hodnotu Steemu (tj. držitelé SP) hlasují při výběru jednotlivců zodpovědných za vnášení záznamů do veřejného protokolu. Váha hlasu je úměrná SP jednotlivce.
 
 In the world of cryptocurrencies, the public record is commonly referred to as a *blockchain*. A *block* is a group of signed transactions.
 
