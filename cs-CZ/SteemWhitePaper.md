@@ -407,25 +407,25 @@ Podívejme se na blockchain jako na poskytovatele internetu, který vlastní vš
 
 Poskytovatel má dvě možnosti. Provozovat systém plné rezervy nebo systém částečné rezervy. Podle systému plné rezervy každý uživatel může používat pouze tu část maximální šířky pásma, které odpovídá jeho akciovému podílu. Protože ne každý užívá internet v tu samou dobu, tak městská síť bude citelně nevyužitá.
 
-Podle systému částečných rezerv může každý individuální uživatel využít větší šířku pásma, než na jakou má právo, kdykoliv do té doby, než každý užívá internet v tu samou dobu. The problem with operating a fractional reserve is that congestion occurs anytime too many people wish to use the network at the same time. The ISP needs a way to prioritize bandwidth during congested periods. In the most extreme case, a fully congested network must revert to a full reserve system. The challenge is setting the proper fractional reserve ratio.
+Podle systému částečných rezerv může každý individuální uživatel využít větší šířku pásma, než na jakou má právo, kdykoliv do té doby, než každý užívá internet v tu samou dobu. Problém s provozováním systému částečných rezerv je, že dojde k zahlcení, kdykoliv chce příliš mnoho lidí použít internet ve stejnou dobu. Poskytovatel potřebuje způsob, jak upřednostňovat přístup k šířce pásma během období zahlcení. V nejextrémnějším případě plně zahlcená síť se musí převést na systém plných rezerv. Výzva je stanovit správný poměr částečných rezerv.
 
-## Bandwidth Instead of Micropayment Channels
+## Šíře pásma místo mikroplatebních kanálů
 
-The solution to the problems with micropayments is in implementing *dynamic fractional reserves*. Under this model the blockchain will automatically adjust the reserve ratio for the network during times of congestion. The blockchain will set a target utilization that leaves enough headroom for short term surges in demand. Any time the surges are sustained the blockchain reduces the maximum bandwidth-per-share. When a surge is over and there is surplus capacity the blockchain can slowly increase the bandwidth-per-share.
+Řešením problémů s mikroplatbami je implementace *dynamických částečných rezerv*. Podle tohoto modelu blockchain automaticky upraví poměr rezervy sítě během doby zahlcení. Blockchain nastaví cílové využití, které ponechá dostatek prostoru pro prudký krátkodobý nárůst požadavků. Kdykoliv je nárůst trvalý, blockchain zredukuje maximální šířku pásma na akcii. Když špička pomine a je k dispozici volná kapacita, blockchain může pomalu zvýšit šířku pásma na akcii.
 
-Bandwidth used by an individual user should be measured over a suitably long period of time to allow that user to time-shift their usage. Users tend to login, do many things at once, then logout. This means that their bandwidth over a short period of time may appear much higher than if viewed over a longer period of time. If the time window is stretched too far then the reserve ratio will not adjust fast enough to respond to short-term surges, if the window is too short then clustering usage will have too big of an impact on normal users.
+Šíře pásma používaná jednotlivým uživatelem by měla být měřena po vhodně dlouhou dobu, aby umožnila tomuto uživateli posunout použití v čase. Uživatelé mají tendenci se přihlásit, dělat mnoho věcí najednou a pak se odhlásit. To znamená, že jejich šíře pásma po krátkou dobu se jeví mnohem vyšší, než když je posuzována za delší období. Pokud je časové okno roztaženo příliš daleko, tak se poměr rezervy neupraví dostatečně rychle, aby odpovídal na krátkodobé špičky. Pokud je časové okno příliš krátké, tak sdružené využití bude mít příliš velký dopad na normální uživatele.
 
-In our estimate it should be sufficient to measure the average weekly bandwidth usage of users. Every time a user signs a transaction, that transaction is factored into their own individual moving average. Any time a user's moving average exceeds the current network limit their transaction is delayed until their average falls below the limit.
+Dle našeho předpokladu by mělo být dostačující měřit průměrné týdenní využití šířky pásma uživateli. Pokaždé, když uživatel podepíše transakci, je tato transakce zahrnuta do jeho individuálního klouzavého průměru. Pokaždé, když uživatelův klouzavý průměr přesáhne současný limit sítě, je jeho transakce zpožděna, dokud jeho průměr neklesne pod limit.
 
 ### Vzorové použití
 
-Let B equal a user's average bandwidth at time T. Let W equal the number of seconds per week, and let N equal the size of the new transaction that occurred S seconds after T. Given this information the blockchain can calculate the new average bandwidth for a user as:
+Nechť B je rovno uživatelově průměrné šířce pásma v čase T. Nechť W je rovno počtu vteřin za týden a nechť N je rovno velikosti nové transakce, která se objeví S vteřin po T. S touto informací blockchain může vypočíst novou průměrnou šíři pásma pro uživatele jako:
 
     Bnew = MIN(0,B * (W - S) / W) + N * S / W
     Tnew = T + S
     
 
-Each user is entitled to an average weekly bandwidth of:
+Každý uživatel má právo na průměrnou týdenní šíři pásma:
 
     Let U = počet uživatelových SP
     Let S = celkové množství SP
@@ -436,15 +436,15 @@ Each user is entitled to an average weekly bandwidth of:
     Alokace = M * U / S
     
 
-A user would be entitled to an average bandwidth of M \* U / S. Any time a transaction would cause the user's average to go above this threshold they would be unable to transact until enough time passes to lower the average.
+Uživatel bude mít právo na průměrnou šířku pásma M \* U / S. Kdykoliv by transakce způsobila, že uživatelův průměr vzroste nad tento práh, nebude schopen provést transakci, dokud neuplyne dost času na snížení tohoto průměru.
 
-The network can increase the reserve ratio, anytime blocks are less than half the target capacity and decrease it anytime they are more than half. The algorithm used to adjust R is designed to react quickly to decrease the reserve ratio when there is a surge in demand, while acting slowly to increase the reserve ratio in period of low demand.
+Síť může zvýšit poměr rezervy, kdykoliv bloky využijí méně než polovinu kapacity sítě a snížit, když využijí více než polovinu. Algoritmus použitý k nastavení R je nastaven na rychlou reakci k snížení poměru rezervy, když je špička poptávky, zatímco pomalu zvyšuje poměr rezervy v době malé poptávky.
 
-The minimum reserve ratio is 1, and the maximum reserve ratio should be calculated to prevent small stakeholders from consuming all of the available bandwidth. If no one is using the available bandwidth then the reserve ratio can grow until a user with just 1 satoshi of the currency is able to transact every single block.
+Minimální poměr rezervy je 1 a maximální poměr rezervy by měl být spočten tak, aby zabránil malým podílníkům použít celou dostupnou šíři pásma. Pokud nikdo dostupnou šíři pásma nevyužívá, pak poměr rezervy může růst až dokud uživatel s pouze 1 satoshi měny je schopen provést transakci v každém jednotlivém bloku.
 
 ### Případová studie: Bitcoin
 
-To understand how this algorithm would work on Bitcoin it is necessary to estimate a reasonable value for the reserve ratio, R, based on actual usage. Based upon the total supply of 15M BTC and a daily transaction volume of 400K BTC<sup id="fnref:10"><a href="#fn:10" class="footnote-ref">10</a></sup>, we can derive a minimum reserve ratio of 38 for Bitcoin. Using the equations we can calculate the weekly bandwidth (in bytes) allowed per BTC to be:
+K porozumění, jak by tento algoritmus pracoval v Bitcoinu, je nezbytné odhadnout rozumnou hodnotu rezervního poměru R, založeného na současném využití. Pokud vezmeme celkovou zásobu 15 miliónů BTC a denní objem transakcí 400 tisíc BTC<sup id="fnref:10"><a href="#fn:10" class="footnote-ref">10</a></sup>, můžeme odvodit minimální poměr rezerv pro Bitcoin 38. Za použití rovnice můžeme kalkulovat týdenní šířku pásma (v bytech) na jeden BTC:
 
     Let C = 1MB = 1024 * 1024
     Let L = 1008 (bloky za týden)
@@ -454,97 +454,97 @@ To understand how this algorithm would work on Bitcoin it is necessary to estima
     CLR/S = 2869 bytů za týden nebo okolo 5 transakcí/týden na jeden BTC
     
 
-Since R = 38 is a lower bound on the reserve ratio, CLR/S is a lower bound on the permitted bandwidth. This simple case study suggests a user will require at most 0.20 BTC (over $80 as of this writing) to transact once per week. However, this is a loose upper bound derived from the assumption that all BTC are equally mobile. This is not the case - users with dozens or hundreds of bitcoins do not necessarily transact dozens or hundreds of times a week! The "leftover" transactions that those users "should" have made will increase the reserve ratio, allowing their unused bandwidth to be "recycled" for smaller users.
+Vzhledem k tomu, že R=38 je dolní hranice poměru rezerv, CLR/S je dolní hranice povolené šíře pásma. Tato jednoduchá případová studie tvrdí, že uživatel bude potřebovat přinejmenším 0,20 BTC (přes 80 USD v době psaní) aby provedl 1 transakci za týden. Avšak to je volná horní hranice odvozená od předpokladu, že všechny BTC jsou stejně mobilní. To není tento případ. Uživatel s tucty nebo stovkami BTC neprovádí nezbytně tucty nebo stovky transakcí za týden! Ony „zbylé“ transakce, které uživatel „měl“ udělat zvyšují poměr rezerv a tak umožňují jejich nevyužitou šíři pásma „recyklovat“ malým uživatelům.
 
-All of the above estimates are conservative upper bounds assuming coins and usage are distributed in a relatively flat manner. The reality is that heavy users, such as exchanges, have a much higher coin-to-usage ratio than lighter users, which in turn means that actual minimum balance requirements are far lower.
+Všechny tyto odhady jsou konzervativní horní hranice, který předpokládají, že mince a jejich využití je distribuováno relativně plochým způsobem. Realita je, že intenzivní uživatelé jako burzy mají mnohem vyšší poměr užití na minci než ostatní uživatelé, což zpětně znamená, že skutečný minimální požadovaný zůstatek je mnohem menší.
 
-#### Impact of Capacity
+#### Dopad kapacity
 
-Blockchain capacity isn't necessarily capped. It is well within the technological capability of internet infrastructure to increase the Bitcoin block size to 10MB which in turn will reduce the minimum required balance by a factor of 10. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second. This changes our conservative upper bound to 0.0006 BTC or about $0.25, meaning that an account holding $0.25 would be able to transact at least once per week on average (and likely many more times because we're dealing with a fairly loose upper bound).
+Kapacita blockchainu není nezbytně omezená. Je zcela v technologických možnostech internetové infrastruktury zvýšit velikost Bitcoinového bloku na 10 MB, což na oplátku zredukuje minimální požadovaný zůstatek 10x. Zatímco v současnosti Bitcoin podporuje 3 transakce za vteřinu, alternativní implementace jsou schopny přes 1000 transakcí za vteřinu. To zvyšuje naši konzervativní horní hranici na 0,0006 BTC nebo 0,25 USD, což znamená, že zůstatek 0,25 USD je dostatečný pro jednu transakci týdně (a pravděpodobně více, protože horní hranice je hodně volná).
 
-#### Maximum Number of Unique Users
+#### Maximální počet unikátních uživatelů
 
-We can use similar math to calculate the maximum number of unique users that the network can allow to transact once per week as: B\*W/T. T represents the average transaction size. This means Bitcoin could support about 2 million users transacting once per week assuming each user had an equal balance.
+Můžeme použít podobný vzorec na výpočet maximálního množství unikátních uživatelů, kterým síť může umožnit 1 transakci za týden: B\*W/T. T je průměrná velikost transakce. To znamená, že Bitcoin může podporovat okolo 2 miliónů unikátních uživatelů s jednou transakcí týdně za přepokladu, že mají stejný zůstatek.
 
-#### Comparison to Fees
+#### Srovnání s poplatky
 
-If we assume a user with $25 dollars worth of BTC transacts once per week and pays a $0.04 cent fee each time then they would pay over $2.00 in fees per year. A user would have to earn a 8% rate of return on their $25 dollars just to break even with paying fees. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
+Za předpokladu, že uživatel s 25 USD hodnoty BTC udělá jednu transakci týdně a pokaždé zaplatí 0,04 centu poplatek, tak na poplatcích dá přes 2 USD ročně. Uživatel by na svých 25 USD musel vydělat 8% ročně, jen aby měl na poplatky. Je šance, že uživatelé by svoje peníze drželi na blokchainu stejně, takže uživatel s BTC v ceně 25 dolarů právě ušetřil 2 USD ročně přijetím systému založeného na šířce pásma místo systému poplatků. S pouze 175 USD by mohl provést transakci každý den a ušetřit 14 USD ročně.
 
 ### Vytvoření účtu
 
-Steem's account-based system with publicly known balances simplifies the implementation of the bandwidth-based rate limiting algorithm. Any account with a balance below the minimum required to transact once per week would be unable to transact. This implies that all new accounts should be funded with at least this minimum balance. It also implies that users wishing to transact in smaller amounts can, so long as they hold a larger balance and reuse the account.
+Systém Steemu založený na účtech s veřejnými zůstatky zjednodušuje zavedení algoritmu omezení šíře pásma. Jakýkoliv účet se zůstatkem pod minimem požadovaným pro jednu transakci týdně by nebyl schopen provést transakci. To předpokládá, že všechny nové účty by měly být profinancovány alespoň minimálním zůstatkem. To zároveň znamená, že uživatelé kteří si přejí provádět malé transakce tak mohou činit, pokud mají větší zůstatek a účet používají opakovaně.
 
-It is possible for a low-balance account created during a time of low usage to become inaccessible if the network usage picks up. The funds could be recovered at any time by transferring a larger balance into the account.
+U účtů s malým zůstatkem založených v době nízkého používání je možné, že se stanou nedostupnými, pokud stoupne využití sítě. Fondy mohou být kdykoliv obnoveny převedením většího zůstatku na tento účet.
 
-In order to maintain a reasonable user experience with a minimum number of hung accounts, all new accounts should start out with a balance 10 times the minimum required to transact weekly. This way even if demand increases by a factor of 10 the account will remain viable.
+Aby se udržela obstojná uživatelská zkušenost s minimem zamrzlých účtů, tak všechny nové účty musí být založeny se zůstatkem 10x větším, než je potřeba pro jednu transakci týdně. Takto, i když poptávka stoupne 10x, účet zůstane funkční.
 
-Any initial account balance would have to come from the user creating the account and not from token creation due to the potential for sybil attacks.
+Jakýkoliv počáteční zůstatek na účtu by měl pocházet od uživatele zakládajícího účet a ne tvorbou tokenů, aby se zabránilo potenciálním spam útokům.
 
 ### Opodstatněnost minimálních zůstatků
 
-The concept of forcing users to maintain a minimum balance flows naturally from the value of a user<sup id="fnref:11"><a href="#fn:11" class="footnote-ref">11</a></sup> . Anyone running a business knows that every single user has significant value. Businesses spend anywhere from $30 to $200 to acquire a user. Sometimes they pay users directly, other times they pay for advertizing, and still other times entire companies are bought just for their user base. After a company acquires a user they often given them many *free services* just to keep them around long enough to monetize them through some other means.
+Přístup nutící uživatele udržovat minimální zůstatek vyplývá přirozeně z hodnoty uživatele<sup id="fnref:11"><a href="#fn:11" class="footnote-ref">11</a></sup>. Kdokoliv kdo podniká zná, že každý jednotlivý uživatel má podstatnou cenu. Podniky utratí něco mezi 30 až 200 USD za získání uživatele. Někdy platí uživatelům přímo, jindy platí za inzerci a jindy jsou zase nakupovány celé podniky jen pro svoji uživatelskou základnu. Po té co společnost získá uživatele, tak mu často dává řadu *služeb zadarmo*, jen aby si ho udržela dostatečně dlouho, než na něm vydělá jiným způsobem.
 
-Ripple uses a minimum balance<sup id="fnref:12"><a href="#fn:12" class="footnote-ref">12</a></sup> that scales with account resource use and requires that new accounts get funded with at least this minimum balance. Currently this minimum balance is about $0.15 which is greater than the $0.10 we estimated would allow someone to transact freely at least once per week.
+Ripple používá minimální zůstatek<sup id="fnref:12"><a href="#fn:12" class="footnote-ref">12</a></sup>, který roste s využíváním účtu a požaduje, aby byly nové účty zafinancovány alespoň minimálním zůstatkem. V současnosti je tento minimální zůstatek okolo 0,15 USD což je více než náš odhad 0,10 USD, který by umožňoval někomu provést alespoň jednu transakci za týden zdarma.
 
-A blockchain can enforce a minimum value per user through the simple process of requiring a minimum balance. Any business that wishes to bring a new customer to the blockchain can pre-fund that user's account with the minimum balance that would allow them to transact. Requiring a relatively large fee ($1.00) to sign up new users will naturally force anyone offering free accounts to vet the quality and uniqueness of each account before registering them with the blockchain.
+Blockchain může vynutit minimální hodnotu na uživatele jednoduchým procesem požadujícím minimální zůstatek. Jakýkoliv podnik, který si přeje přivést nového uživatele na blockchain, může předplatit tento uživatelský účet minimálním zůstatkem, který mu umožní provádět transakce. Požadavek na relativně vysoký poplatek 1 USD k založení nového uživatele bude přirozeně nutit kohokoliv nabízejícího účty zdarma kontrolovat kvalitu a jedinečnost každého účtu před jeho registrací na blockchainu.
 
-Maintaining a minimum balance is effectively the same as making users pay transaction fees with the interest they could have earned on their balance. The minimum balance is simply the balance required to earn enough interest to pay a fee in a relatively short period of time.
+Vyžadování minimálního zůstatku je ve skutečnosti to samé, jako nutit uživatele platit poplatky z úroků, které mohli vydělat na jejich zůstatku. Minimální zůstatek je jednoduše zůstatek potřebný k získání dostatečného úroku pro platbu poplatku v relativně krátké době.
 
-Fortunately, the minimum balance required can be as low as a dollar and this is something users can understand and appreciate. The opportunity cost of lost interest doesn't incur the cognitive cost of a micro-fee and is far more acceptable to users.
+Naštěstí může být požadovaný zůstatek tak nízký jako 1 dolar a to je něco, co mohou uživatelé pochopit a ocenit. Cena ztraceného úroku nezpůsobuje kognitivní náklady mikropoplatku a je pro uživatele mnohem přijatelnější.
 
-The STEEM used to pre-fund an account is Powered Up in the new account (i.e., converted to Steem Power).
+Steem použitý k přeplacení účtu je v novém účtu převeden na Steem Power.
 
 ### Úprava poměru rezerv
 
-Rate limiting requires that the network adjust the reserve ratio quickly enough to mitigate the impact of an attacker attempting to ood the network. Let's assume the attacker has a large balance, say 1% of the available tokens. If we also assume that the network targets 50% utilization, then a sustained attack should find this user throttled to 25% of network capacity assuming everyone else is also using 25% of the capacity. Stated another way, the largest single user should never be able to consume more than 50% of the target capacity unless they own more than 50% of the SP.
+Omezování šíře pásma vyžaduje, že síť upravuje poměr rezerv dostatečně rychle, aby zmírnila dopad útoků pokoušejících se zaplavit síť. Předpokládejme, že útočník má velký zůstatek, řekněme 1% dostupných tokenů. Pokud též předpokládáme, že síť cílí na 50% využití, pak nepřetržitý útok by měl tohoto uživatele omezit na 25% kapacity sítě za předpokladu, že kdokoliv další též používá 25% této kapacity. Řečeno jinými slovy, největší jednotlivý uživatel by neměl být nikdy schopen spotřebovat více než 50% cílové kapacity, pokud nevlastní více než 50% Steem power.
 
-Let's use an initial reserve ratio of 200x. Due to fractional reserves, this means someone holding 1% of the tokens has the right to demand transactions totalling 2x the maximum block size. In order to bring the network usage of the attacker down to 25% the reserve ratio would have to fall to 25x. This would cause the minimum balance required to transact once per week to grow by 8x.
+Použijme počáteční poměr rezer 200x. Z důvodu částečných rezerv to znamená, že někdo držící 1% tokenů má právo požadovat transakce dosahující 2 násobku maximální velikosti bloku. Za účelem sražení využití sítě útočníkem na 25% by poměr rezerv musel klesnout na 25x. To by způsobilo růst minimálního požadovaného zůstatku pro 1 transakci týdně 8x.
 
-The blockchain can establish a response rate that says any sustained increase in usage should be brought down to the target capacity in within a short period of time (say 30 seconds). An attacker attempting to spam the network shouldn't be able to disrupt service for normal users for more than a minute.
+Blockchain může nastavit takovou dobu odezvy, že jakýkoliv trvalý růst použití by měl být snížen na cílovou kapacitu během krátké doby (řekněme 30 vteřin). Útočník pokoušející se spamovat síť by neměl být schopen narušit službu pro normální uživatele na více než jednu minutu.
 
-While reductions in the reserve ratio must be quick and non-linear to counter abuse, increases in the reserve ratio should be slow and linear. If the network adjusted in both directions in just 30 seconds then an attacker could pulse the network. A flood of transactions should be corrected in 30 seconds and then take a hour to return to their pre-attack levels. Under this model the attacker could flood the network for 30 seconds per hour or less than 1% of the time.
+Zatímco omezení poměru rezerv musí být rychlé a nelineární jako protiopatření vůči zneužití sítě, růst poměru rezerv by měl být pomalý a lineární. Pokud by byla síť upravena v obou směrech během pouhých 30 vteřin, tak by ji útočník mohl rozkmitat. Příval transakcí může být zkorigován během 30 vteřin a poté trvá návrat na původní hodnoty hodinu. U tohoto modelu může útočník zaplavit síť na 30 vteřin za hodinu čili na méně než 1% času.
 
-There must be a slow constant upward pressure on the reserve ratio any time network usage is below 50% until the network hits the maximum reserve ratio. The maximum reserve ratio determines the minimum required stake to flood the network in short bursts.
+Musí existovat pomalý trvalý tlak na poměr rezer směrem nahoru, kdykoliv je využití sítě pod 50%, až dokud síť nedosáhne maximálního poměru rezer. Maximální poměr rezerv určuje minimální požadovaný podíl pro zaplavení sítě v krátkých návalech.
 
-Any user with fewer than TOTAL\_TOKENS / (2 \* RESERVE\_RATIO) will be unable to produce enough transactions to fill even a single block. With a reserve ratio of 200, this means any user with less than 0.25% of the currency cannot create enough transactions to delay anyone's service.
+Uživatel z méně než CELKEM\_TOKENŮ / (2 \* POMĚR\_REZERV) nebude schopen vytvořit dostatek transakcí k vyplnění dokonce i jediného bloku. S poměrem rezerv 200x to znamená, že jakýkoliv uživatel s méně než 0,25% měny nemůže vytvořit dostatek transakcí ke zpoždění služby pro kohokoliv.
 
 ### Účinnost ve srovnání s poplatky
 
-To compare the effectiveness of rate limiting to fees we must consider how the two systems react to intentional network flooding by an attacker. Under Bitcoin an attacker with $10,000 dollars could disrupt service for an entire day by filling every single block. The same attacker would be unable to disrupt service for even a single block under the dynamic fractional reserve rate limiting approach.
+Abychom srovnali účinnost omezení frekvence vůči poplatkům, tak musíme uvážit, jak tyto dva systémy reagují na úmyslné zaplavení sítě útočníkem. U Bitcoinu útočník s 10 000 USD může rozvrátit službu na celý den tím, že vyplní každý jednotlivý blok. Ten samý útočník v systému dynamických částečných rezerz nebude schopen rozvrátit službu byť na jediný blok.
 
-If we go to a more extreme case and assume the attacker holds 1% of all coins then we presume an attacker with $60 million dollars. Such an attacker could deny the Bitcoin blockchain service for 16 years unless the miners increased fees or capacity. Even if fees were raised to $15 per transaction, the attacker could still keep the network flooded for 16 days.
+Pokud budeme uvažovat o extrémnějším případu a předpokládat, že útočník drží 1% všech tokenů, tak předpokládáme útočníka s 60 milióny USD. Takový útočník může zablokovat službu Bitcoinového blokchainu na 16 let, pokud těžaři nezvýší poplatky nebo kapacitu. Dokonce i když zvýšíme poplatky na 15 USD za transakci, tak útočník stále může zaplavovat síť po 16 dnů.
 
-Under the rate limiting approach, someone who holds 1% of all coins with an intent to flood the network would achieve their goal for less than 30 seconds.
+Pod systémem omezování frekvence ten kdo drží 1% všech tokenů s úmyslem zaplavovat síť, dosáhne svého cíle na méně než 30 vteřin.
 
 ### Pronájem vs Nákup vs Sdílení času
 
-When someone owns a house they expect the right to use the house for free. If a group of people buy a house together then each can expect the right to use the house proportional to their percentage ownership in the house. A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
+Když někdo vlastní dům, očekává právo užívat ten dům zdarma. Pokud skupina lidí koupí dům dohromady, pak každý očekává právo užívat dům v poměru k jeho procentuálnímu vlastnictví toho domu. Blokchain založený na poplatcích je jako pronajímat si dům od jeho vlastníků, zatímco omezování frekvence je jako sdílení času mezi vlastníky.
 
-If a house is owned by multiple people then those individuals must decide how they wish to timeshare the house. Someone who owns 50% of the house but only uses it one weekend per year might expect to be paid by the individuals who take their unused time. This is the mindset of a fee based system.
+Pokud je dům vlastněn více lidmi, pak se tito jednotlivci musí rozhodnout, jak si přejí rozdělit užívání domu. Někdo kdo vlastní 50% domu, ale užívá ho jen jeden víkend v roce, může očekávat platby od těch, kdo využijí jím uvolněný čas. To je úvaha systému založeného na poplatcích.
 
-On the other hand, someone who owns 50% of the house is speculating that demand for the house will increase in the future and they will be able to sell their stake for more. Any owner who owns more of a house than they use becomes a real estate speculator. With this mindset rather than collecting rent, they collect appreciation.
+Na druhé straně ten, kdo vlastní 50% domu spekuluje na růst zájmu o využití domu v budoucnu a že bude schopen prodat svůj podíl za víc. Jakýkoliv vlastník, který vlastní větší část domu než užívá, se stává nemovitostním spekulantem. S tímto přístupem spíše než výběr nájmu očekávají zhodnocení.
 
-The value of a share is derived from how much time it can potentially grant its owner. Owning 1% of a house and getting it 1 weekend per year is the lowest value of a share. However, if half of the shareholders never use their weekend, then the value per timeshare rises to 2 weekends per year. If those inactive users instead opt to rent their unused time, then it falls back to 1 weekend per year. If those unused timeshares were sold to people who would use them then the value of a timeshare would fall by 50%. Unless the rent collected is greater than the fall in share value the timeshare owners are making an economic miscalculation.
+Cena podílu se odvozuje od toho, jak mnoho času může potenciálně poskytnout uživateli. Vlastnit 1% domu a dostat 1 víkend v roce je nejmenší cena podílu. Ovšem pokud polovina podílníků nevyužije svůj víkend, pak hodnota sdíleného času vzroste na 2 víkendy ročně. Pokud se tito neaktivní uživatelé místo toho rozhodnou pronajmout jejich nevyužitý čas, pak spadne zpět na 1 víkend ročně. Pokud by se tato nevyužívaná období prodala lidem, kteří by je využili, pak by hodnota podílu klesla o 50%. Pokud není cena placená za pronájem větší než pokles ceny podílu, pak se majitelé podílu dopouštějí chybné ekonomické kalkulace.
 
-Using this rationale we can assume that a system based on fees will either be more expensive for its users or be less profitable for its collective owners. An individual small owner may profit by renting out his small time slice, but only at the expense of all other timeshare owners. In effect, the cost of the falling timeshare value is shared among all owners whereas the profits are centralized in the single owner who decided to rent his share.
+Dle toho lze logicky předpokládat, že systém založený na poplatcích bude buď nákladnější pro uživatele nebo méně výdělečný pro jejich kolektivní vlastníky. Jednotlivec může vydělat pronájmem jeho malého podílu na čase užívání, ale pouze na úkor ostatních majitelů podílů. Výsledkem je, že klesající cena podílu je sdílena všemi majiteli, zatímco výdělek obdrží jediný uživatel, který se rozhodl svůj podíl pronajmout.
 
-We can conclude from this that a blockchain is best served by not using usage fees at all. If a usage fee were to be charged as an alternative to rate limiting, then it should be the equivalent of buying enough timeshares and committing to hold them long enough to gain the right use it once.
+Z toho můžeme odvodit, že blockchain slouží nejlépe, když vůbec nepoužívá uživatelské poplatky. Pokud by byly účtovány poplatky jako alternativa k omezování frekvence, pak by to měl být ekvivalent nákupu dostatečného podílu sdílení času a závazek držet ho dost dlouho na to, aby bylo jednou získáno právo jeho použití.
 
-Stated another way, a transaction fee should be equal to the minimum account balance necessary to transact once per week and it should be refunded at the end of the week. Assume the minimum account balance is $1 and allows someone to transact once per week. If someone with a $1 balance that wishes to perform 5 transactions at once they will have to increase their balance to $5 for a week either before or after their transactions.
+Jinými slovy, transakční poplatek by měl být roven minimálnímu zůstatku účtu a na konci týdne by měl být refundován. Předpokládejme, že minimální zůstatek účtu je 1 USD a umožňuje provést 1 transakci za týden. Pokud si někdo se zůstatkem 1 USD přeje provést 5 transakcí najednou, tak bude muset zvýšit svůj zůstatek na 5 USD na týden buď před, nebo po svých transakcích.
 
-In theory a market could form where users can borrow the stake required. In practice it is more efficient for users to simply buy and sell the timeshares necessary to meet their desired usage rate. In other words, the cost of negotiating micro-loans is greater than the cost of maintaining a balance suitable for your maximum weekly usage.
+Teoreticky by se mohl vytvořit trh, kde by si uživatelé mohli půjčit požadovaný podíl. Prakticky je však pro uživatele mnohem jednodušší koupit a prodat podíly nezbytné k dosažení jejich požadované uživatelské rychlosti. Jinými slovy cena dohodnutí mikropůjček je větší než cena udržování zůstatku vyhovujícího vašemu maximálnímu týdennímu využití.
 
-Decentralized rate limiting of transactions can enable new types of decentralized applications that were not viable when every use of the application required a micropayment. This new model gives application developers the ability to decide if and when to charge their users for transactions.
+Decentralizované omezování počtu transakcí může umožnit nové typy decentralizovaných aplikací, které nebyly možné, když každé použití aplikace vyžadovalo mikroplatbu. Tento nový model dává vývojářům aplikací schopnost rozhodnout zda a kdy zpoplatnit svým uživatelům transakce.
 
-# Performance and Scalability
+# Výkon a rozšiřitelnost
 
-The Steem network is built upon Graphene, the same technology that powers BitShares. Graphene has been publicly demonstrated sustaining over 1000 transactions per second on a distributed test network. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
+Síť Steem je postavena na Graphene, té samé technologii která pohání BitShares. Graphene veřejně předvedl na testovací síti trvalý výkon přes 1000 transakcí za vteřinu. Graphene je snadno rozšiřitelný na 10 000 i více transakcí za vteřinu relativně přímočarými vylepšeními v serverové kapacitě a komunikačních protokolech.
 
-## Reddit Scale
+## Rozsah Redditu
 
-Steem is capable of handling a larger userbase than Reddit. In 2015 Reddit's 8.7 million users generated an average of 23 comments per second<sup id="fnref:13"><a href="#fn:13" class="footnote-ref">13</a></sup> , with an average of 83 comments per year per user. There were 73 million top-level posts, for an average of 2 new posts per second. There were about 7 billion up votes creating an average voting rate of 220 votes per second. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
+Steem je schopen obsluhovat větší uživatelskou bázi než Reddit. V roce 2015 měl Reddit 8,7 miliónu uživatelů s průměrně 23 komentáři za vteřinu<sup id="fnref:13"><a href="#fn:13" class="footnote-ref">13</a></sup> a průměrně 83 komentáři na uživatele ročně. Bylo tam 73 miliónů příspěvků nejvyšší úrovně s průměrně 2 novými příspěvky za vteřinu. Měl 7 miliard hlasování, což je průměrná frekvence hlasování 220 hlasů za vteřinu. Pokud by tedy Reddit pracoval na blockchainu, tak by potřeboval průměrně 250 transakcí za vteřinu.
 
-To achieve this industry-leading performance, Steem has borrowed lessons learned from the LMAX Exchange<sup id="fnref:14"><a href="#fn:14" class="footnote-ref">14</a></sup>, which is able to process 6 million transactions per second. Among these lessons are the following key points:
+Aby dosáhl této v oboru nejvyšší výkonnosti, Steem se poučil ze zkušeností burzy LMAX<sup id="fnref:14"><a href="#fn:14" class="footnote-ref">14</a></sup>, která je schopna provést 6 miliónů transakcí za vteřinu. Tyto zkušenosti zahrnují tyto následující klíčové body:
 
 1. Udržujte vše v paměti.
 2. Udržujte základní obchodní logiku v jednom vlákně.
@@ -552,15 +552,15 @@ To achieve this industry-leading performance, Steem has borrowed lessons learned
 4. Rozdělte validaci do state-dependent a state-independent kontrol.
 5. Použijte objektově orientovaný datový model.
 
-By following these simple rules, Steem is able to process 10,000 transactions per second without any significant effort devoted to optimization.
+Dodržováním těchto jednoduchých pravidel je Steem schopný zpracovávat 100.000 transakcí za sekundu bez jakéhokoliv významného úsilí věnovaného optimalizaci.
 
-Keeping everything in memory is increasingly viable given the recent introduction of Optanetechnology from Intel <sup id="fnref:15"><a href="#fn:15" class="footnote-ref">15</a></sup>. It should be possible for commodity hardware to handle all of the business logic associated with Steem in a single thread with all posts kept in memory for rapid indexing. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optanetechnology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
+Udržovat vše v paměti je stále více životaschopné, vzhledem k nedávnému uvedení Intel <sup id="fnref:15"><a href="#fn:15" class="footnote-ref">15</a></sup> technologie Optane™. Pro běžné hardware by mělo být možné obsluhovat všechnu obchodní logiku spojenou se Steemem v jednom vlákně se všemi příspěvky drženými pro rychlou indexaci v paměti. Dokonce i Google drží svůj index celého internetu v RAM. Použití blockchainové technologie činí replikaci databáze na mnoho počítačů triviální a brání ztrátě dat. Jakmile technologie Optane™převládne, RAM se stane ještě rychlejší, zatímco získá trvalost záznamu. Jinými slovy Steem je projektován pro architekturu budoucnosti a jako rozšiřitelný.
 
-# Allocation & Supply
+# Alokace & zásoba
 
-The Steem network starts with a currency supply of 0 and allocates STEEM via proof of work at a rate of approximately 40 STEEM per minute to miners, with an additional 40 STEEM per minute being created to seed the content and curation reward pools (for a total of 80 STEEM per minute). Then the network starts rewarding users who convert to SP. At this point, STEEM grows at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
+Síť Steem začne se zásobou měny 0 a alokuje Steem přes důkaz práce s frekvencí přibližně 40 Steem za minutu těžařům, s dalšími 40 Steem za minutu vytvořenými pro fond odměn za tvorbu a správu obsahu (dohromady 80 za minutu). Poté začne síť odměňovat uživatele, kteří konvertovali na SP. Od tohoto bodu Steem roste frekvencí přibližně 800 Steem za minutu v důsledku kombinovaného účinku různých odměn za přínos:
 
-**Contribution Rewards:**
+**Odměny za přínos:**
 
 - Odměna za hlasování: 1 Steem za blok nebo 3.875% za rok, podle toho co je více
 - Odměna za tvorbu obsahu: 1 Steem za blok nebo 3.875% za rok, podle toho co je více
@@ -569,140 +569,140 @@ The Steem network starts with a currency supply of 0 and allocates STEEM via pro
 - Odměna za začlenění POW po bloku 864 000; 0.0476 Steem za blok (1 Steem za kolo) nebo 0,750% za rok, podle toho co je více.
 - Odměna za likviditu: 1 Steem za blok (1200 Steem za hodinu) nebo 0,750% za rok, podle toho co je více
 
-**Power Rewards:**
+**Odměny Steem Power:**
 
 - Odměna za Steem Power: Za každý Steem vytvořený pro výše uvedené odměny je rozděleno 9 Steem mezi držitele Steem Power.
 
-**SMD operations:**
+**SMD operace:**
 
 - Odměny SMD: Procento hodnoty SMD je vytvořeno podle roční úrokové míry nastavené svědky a vyplaceno držitelům SMD
 - Následování kurzu: Suma Steem, za kterou mohou být vyměny všechny existující SMD, se mění v závislosti na změnách kurzu. Tato změna znamená likvidaci („spálení“) Steem, když hodnota Steem (měřena interním kurzem trhu) roste a tvorba Steem, když hodnota Steem (měřena interním kurzem trhu) klesá.
 
-The percentage constraints effectively ensure the incentives for rewards do not become meaninglessly small over time, which is intended to prevent the system from experiencing the "speed bump" in the growth pattern of many other blockchains, where an initial growth spurt fueled by high incentives for early participants is followed by prolonged stagnation as the continually falling incentives drop below the level necessary to induce newcomers to join.
+Toto procentuální omezení účinně zajišťuje, že pobídkové odměny se časem nestanou bezvýznamně nízké, což je zamýšleno jako prevence špičky v růstu mnoha ostatních blockchainů, kdy počáteční rychlý růst živený vysokými pobídkami pro ranné uživatele je následován prodlužovanou stagnací, jak průběžně klesající pobídky klesnou pod úroveň nezbytnou k přesvědčení nových uživatelů ke vstupu.
 
-The overall effect of these percentage constants on allocation and supply is that the (approximately) 800 STEEM per minute rate remains in effect for some time (i.e. units of STEEM), but drops in percentage terms (i.e., 800 STEEM is a smaller and smaller fraction of the total supply as the total supply grows larger and larger). When the various individual components of the 800 STEEM per minute rate reach their respective percentage-based floors, each floor halts the fall in its component of the rate. This in turn means that, over the long term, the nominal rate will rise from 800 STEEM per minute to the (time-varying, supply-dependent) value needed to maintain a constant annualized growth rate of 10% for the Contribution Incentives, and a constant annualized growth rate of 100% for the combined effect of the Contribution Incentives and the Power Incentives. The overall effect is a doubling of the STEEM supply each year (but, as detailed in the next section, if most users Power Up then much of this doubling is effectively a "split" which does not transfer ownership).
+The overall effect of these percentage constants on allocation and supply is that the (approximately) 800 STEEM per minute rate remains in effect for some time (i.e. units of STEEM), but drops in percentage terms (i.e., 800 STEEM is a smaller and smaller fraction of the total supply as the total supply grows larger and larger). Celkový efekt těchto procentuálních konstant na alokaci a zásobu je, že sazba (přibližně) 800 Steem za minutu je v platnosti po nějakou dobu (tj. jednotek Steem), ale klesá v procentuálním měřítku (tj. 800 Steem je menší a menší část celkové zásoby, jak se celková zásoba stává větší a větší). Když rozdílné individuální součásti tvořící sazbu 800 Steem za minutu dosáhnou svých procenty stanovených limitů, každý limit zastaví pokles svého podílu na sazbě. To naopak znamená, že dlouhodobě nominální sazba vzroste z 800 Steem za minutu na hodnotu (v čase různou, na zásobě závislou) potřebnou k udržení tempa konstantního ročního růstu 10% na příspěvkové pobídky a konstantního ročního tempa růstu 100% na kombinovaný účinek příspěvkových pobídek a odměn Power Steem. Celkový výsledek je zdvojnásobení zásoby Steem každý rok (ale jak je popsáno dále, pokud většina uživatelů promění Steem na Steem Power tak většina dvojnásobku je ve skutečnosti „split“ a to nepřevádí vlastnictví).
 
-The overall supply picture is complicated by the effect of SMD operations, which may result in large-scale creation or destruction of STEEM through feed rate following and SMD rewards, as discussed in the SMD section. Other, smaller-scale complicating effects also exist, including unclaimed incentives (e.g. block rewards for missed blocks), noise due to miner luck in proof-of-work production, and the effects of changes in the miner queue length due to a change in the network's total hashpower.
+Celkový pohled na zásobu je komplikován vlivem SMD operací, které mohou vyústit v rozsáhlou tvorbu nebo likvidaci Steem přes udaný interní kurz a SMD odměny, jak bylo uvedeno v SMD sekci. Existují i další komplikace menšího rozsahu, jako nevyzvednuté odměny (např. odměny za promeškanou tvorbu bloku), šum v důsledku štěstí těžařů při produkci POW a následek změn v délce fronty těžařů v důsledku změny celkové výpočetní náročnosti haspower) sítě.
 
-## Impact of Token Creation Rate
+## Dopad sazby tvorby tokenů
 
-At first glance, 100% annual increase in the STEEM supply may appear to be hyper-inflationary and unsustainable. Those who follow the Quantity Theory of Money<sup id="fnref:16"><a href="#fn:16" class="footnote-ref">16</a></sup> may even conclude that the value of STEEM must fall by approximately 5.6% per month. We know from countless real-world examples that the quantity of money does not have a direct and immediate impact on its value, though it certainly plays a role.
+Na první pohled se může zdát 100% roční růst zásoby Steem hyper-inflační a neudržitelný. Ti kdo se řídí Kvantitativní teorií peněz<sup id="fnref:16"><a href="#fn:16" class="footnote-ref">16</a></sup> dokonce mohou dojít k závěru, že Steem musí klesat přibližně o 5,6% měsíčně. Z nespočetných příkladů skutečného světa víme, že množství peněz nemá přímý a okamžitý dopad na jejich hodnotu, ačkoliv to zajisté hraje roli.
 
-Because 90% of all STEEM created is distributed back to holders of SP, the result is similar to having a 2:1 "split" every year rather true inflation. The total rate of expenditures used to reward contributors is about 10% of the market capitalization per year, a rate well below what Bitcoin sustained for the first 7 years after it launched.
+Protože 90% vytvořeného Steem je distribuováno držitelům SP, tak výsledek je podobný jako každoroční split 2:1 spíše než opravdová inflace. Celková sazba výdajů používaných na odměny přispěvatelům je okolo 10% tržní kapitalizace ročně, což je sazba dost pod tou, kterou Bitcoin udržoval po prvních 7 let své existence.
 
-Creating new STEEM to pay an incentive to a particular user or group has a negative effect on every other user's balance in terms of their percentage of the STEEM supply. If exactly 90% of the STEEM supply is held in SP, then the negative effect of Contribution Incentives on SP holders' balances is exactly balanced by the positive effect of Power Incentives; SP holders get more STEEM (in nominal terms) but their percentage of the chain (in terms of fraction of the total supply) is unchanged. If less (more) than 90% of the STEEM supply is held as SP, the two effects still point in opposite directions, but the positive (negative) effect becomes greater and the sum of these two effects will tend to pull the SP balance toward 90%. This "pull" does not mean that the SP value must hold at 90% over the long term, because incentive recipients will (and in some cases must) put their STEEM in SP, which means the "pull" towards 90% is not the only force on the percentage of STEEM supply held as SP.
+Vytvoření nového STEEM k platbě pobídek určité skupině uživatelů má negativní vliv na procentuální podíl ostatních uživatelů na celkové zásobě Steem. Pokud je přesně 90% zásoby STEEM drženo v SP, tak negativní efekt příspěvkových pobídek na držitele SP je přesně vyvážen pozitivním efektem pobídek držitelům SP. Držitelé SP dostanou více STEEM (v nominální hodnotě), ale jejich procentuální podíl v blokchainu (tj. podíl na celkové zásobě) je nezměněn. Pokud je drženo ve formě SP méně (více) STEEM než 90% zásoby STEEM, pak tyto dva vlivy míří v opačném směru, ale pozitivní(negativní) efekt se stává silnějším a součet těchto dvou vlivů má tendeci stáhnout SP zůstatek k 90%. Tento „tah“ neznamené, že hodnota SP se musí držet na 90% dlouhou dobu, protože příjemci pobídek budou (a v některých případech musí) proměňovat svůj STEEM na SP, což znamená, že „tah“ k 90% není jediná síla působící na procento STEEM zásoby držené jako SP.
 
-From August 2008 through January 2009 the U.S. money supply<sup id="fnref:17"><a href="#fn:17" class="footnote-ref">17</a></sup> grew from $871B to $1,737B, a rate of over 100% per year and then continued to grow at about 20% per year for the next 6 years. All told the money supply in the U.S. has grown by 4.59x over less than 7 years. During that same time, the value of the dollar relative to goods and services has fallen less than 10% according to the government's price index <sup id="fnref:18"><a href="#fn:18" class="footnote-ref">18</a></sup> . This real-world example demonstrates that supply is only one component of price.
+Od srpna 2008 do ledna 2009 US peněžní zásoba<sup id="fnref:17"><a href="#fn:17" class="footnote-ref">17</a></sup> vzrostla z $871 na $1,737 miliard, o více než 100% a pak pokračovala v růstu tempem 20% ročně po dalších 6 let. Jinými slovy U.S. peněžní zásoba vzrostla 4,59x v méně než 7 letech. Během té doby hodnota dolaru vzhledem k zboží a službám klesla méně než o 10% dle vládního indexu cen <sup id="fnref:18"><a href="#fn:18" class="footnote-ref">18</a></sup>. Tento příklad z reálného světa ukazuje, že zásoba je jen jednou součástí ceny.
 
-The price of a digital commodity, like STEEM, is driven by both supply and demand. If new STEEM is allocated to those who are holding long-term then the increase in supply is offset by the corresponding demand to hold. The impact of this change in supply is postponed until a future date when the long-term holder decides to sell. The sell pressure is then distributed over 2 years.
+Cena digitální komodity jako STEEM je hnána jak zásobou, tak poptávkou. Pokud je nový STEEM alokován těm, kdo jej drží dlouhodobě, pak nárůst v zásobě je kompenzován odpovídajícím zájmem držet jej. Dopad této změny v zásobě je odložen do budoucna, až se dlouhodobý držitel rozhodne prodat. Prodejní tlak je poté rozložen na dva roky.
 
-When a long-term holder decides to exit, the supply of STEEM on the market will increase and push the price down. This downward pressure is countered when a new long-term holder decides to buy up the STEEM and convert it back into SP. We can therefore conclude that the price will mostly be impacted by a change in demand for holding STEEM long-term.
+Když se dlouhodobý držitel rozhodne vystoupit, zásoba STEEM na trhu vzroste a stlačí cenu dolu. Protiváhou tohoto sestupného tlaku je, když se nový dlouhodobý držitel rozhodne koupit STEEM a konvertovat ho zpět na SP. Z toho můžeme odvodit, že cena bude ovlivňována hlavně změnou v zájmu o dlouhodobé držení STEEM.
 
-Of the 100% annual increase in the virtual STEEM supply, 5% of it is in the form of Steem Dollars (SMD). SMD represents a commitment to create a dollar's worth of STEEM in the future and does not impact the amount of STEEM on the market today. The change in debt-to-ownership ratio may impact the perceived value of STEEM, but it does not map directly into a fall in the value of STEEM. If the value of Steem rises over time, then the amount of STEEM that may be created in the future will be less and the corresponding "inflation" never actually happened.
+Z tohoto 100% ročního vzrůstu virtuální zásoby STEEM je 5% ve formě Steem Dollars (SMD). SMD představuje závazek vytvořit v budoucnosti STEEM v hodnotě dolaru a nemá vliv na dnešní zásobu STEEM na trhu. Změna poměru dluh-vlastnictví může ovlivnit vnímání ceny STEEM, ale není přímo napojena na pokles ceny STEEM. Pokud časem cena STEEM vzroste, pak množství STEEM, které má být v budoucnu vytvořeno bude menší a s tím související „inflace“ nikdy nenastane.
 
-All told the total "spending" Steem does to fund content, curation, mining, and liquidity rewards amounts to just 10% APR or 1.2% per month. The same wealth transfer could be implemented without any change in the STEEM supply by implementing a negative interest rate on liquid STEEM of around 10% per month. Stated another way, it could be implemented by charging a 3% fee (similar to credit cards) on every transfer and having 1% of all STEEM transferred every single day. The Bitcoin network transfers<sup id="fnref:19"><a href="#fn:19" class="footnote-ref">19</a></sup> 400,000 BTC out of 15.5M (or 2.5% daily).
+Celkové „útraty“ Steemu pro financování obsahu, hlasování, těžby a odměny za likviditu dosahují pouze 10% ročně nebo 1,2% za měsíc. Ten samý transfer majetku by mohl být realizován bez jakékoliv změně v zásobě STEEM zavedením negativní úrokové míry na likvidní STEEM okolo 10% měsíčně. Nebo jinak, zavedením 3% poplatků (podobně jako kreditní karty) na každý převod, při převodu 1% všeho STEEM každý den. Bitcoinová síť převede 400 000 BTC denně<sup id="fnref:19"><a href="#fn:19" class="footnote-ref">19</a></sup> z 15,5 miliónu (2,5% denně).
 
-The purpose of liquid STEEM is to facilitate changes in ownership between long-term holders. It is this change in ownership that the network "taxes" to fund growth. This transfer tax can be avoided almost completely by automatically selling STEEM for SMD every week as the network converts SP back to STEEM. The total time spent holding STEEM will be so small that any impact of changing STEEM supply will be insigni cant next to volatility and other market fees.
+Smysl likvidního STEEM je usnadnit změny ve vlastnictví mezi dlouhodobými držiteli. Je to tato změna vlastnictví, kterou síť „daní“ aby financovala růst. Skoro úplně se lze vyhnout této dani za převod tím, že automaticky prodáme STEEM za SMD každý týden, jak síť konvertuje SP zpět na STEEM. Celková doba držení STEEM bude tak krátká, že dopad změny zásoby STEEM bude vedle volatility a ostatních poplatků trhu nevýznamný.
 
 ### Dopad sazby tvorby tokenů větší než devadesát procent
 
-As of May 1, 2016, over 98.49% of all STEEM has been converted to SP. This demonstrates that demand to hold long term dominates. In this environment both liquid STEEM and SP are diluted to fund rewards.
+1 května 2016 bylo přes 98,48% všeho STEEM konvertováno na SP. To demonstruje, že zájem o dlouhodobé držení dominuje. V tomto prostředí jsou jak likvidní STEEM tak SP zředěny pro financování odměn.
 
-For the first 2 years of Bitcoin's life the network sustained an annual inflation rate<sup id="fnref:20"><a href="#fn:20" class="footnote-ref">20</a></sup> of over 100%. For the first 5 years it was over 30%, and for the first 8 years it was over 10%. According to the tool for estimating future inflation included with the Steem source code, Steem by contrast will achieve an instantaneous annual rate of approximately 12% after just 1 year (not including the effects of SMD operations).
+Po první dva roky života Bitcoinu měla síť trvalou roční inflaci<sup id="fnref:20"><a href="#fn:20" class="footnote-ref">20</a></sup> 100%. Za prvních 5 let to bylo přes 30% a za prvních 8 let přes 10%. Dle nástroje pro předběžný odhad budoucí inflace zahrnuté v zdrojovém kódu Steem, dosáhne Steem okamžitou roční inflaci přibližně 12% jen po 1 roce (bez zahrnutí vlivu SMD operací).
 
 ### Účetnictví ve Steemu
 
-The increase in the supply of STEEM is mostly an accounting artifact created by the desire to avoid charging negative interest rates on liquid STEEM. Negative interest rates would complicate the lives of exchanges which would have to adjust user balances to account for the negative rate of return of STEEM held on deposit. Mirroring the blockchain logic exactly would be error prone and complicate integration and adoption. Therefore, STEEM has chosen to never charge someone's account, but instead to increase supply. This achieves a similar economic result without forcing everyone accepting STEEM deposits to implement negative interest rates on their internal ledger.
+Růst zásoby STEEM je v podstatě jen účetní pojem stvořený přáním vyhnout se účtování negativní úrokové míry na likvidní STEEM. Negativní úroková míra by zkomplikovala život burzám, které by musely upravovat zůstatky uživatelů kvůli negativní míře výnosu STEEM drženého v depozitu. Přesné zrcadlení logiky blockchainu by bylo náchylné k chybám a komplikovalo by integraci a adopci. Proto se Steem rozhodl nikdy neúčtovat poplatky žádnému účtu a místo toho zvýšit zásobu. Tím dosáhne podobného ekonomického výsledku, aniž by nutil každého příjemce STEEM depozitů implementovat negativní úrokovou sazbu v jejich vlastním interním systému.
 
-A side effect of increasing the supply is that the network will require ever increasing levels of precision in its accounting. On average the number of bits required to represent a typical account will grow by 1.3 per year. It will only take 10 years before numbers involved no longer fit within the 53 bit precision supported by JavaScript or the 64 bit precision supported by CPUs. Over time the magnitude of the numbers involved grows beyond human scale and comprehension; furthermore, the least significant bits have so little economic value as to render them meaningless.
+Vedlejší důsledek zvyšování zásoby je, že síť bude požadovat stále rostoucí úrovně přesnosti svého účetnictví. Počet bitů nutných k reprezentaci typického účtu bude růst průměrně 1,3 x za rok. Bude trvat jen 10 let než se čísla nevejdou do 53 bitové přesnosti podporované JavaScriptem nebo 64 bitové přesnosti CPU. Časem rozsah těchto čísel roste mimo lidský rozměr a chápání, navíc ty nejméně významné bity mají tak malou ekonomickou hodnotu, že jsou bezvýznamné.
 
-In order to compensate for the ever increasing precision, the STEEM network performs a 10:1 "reverse split" every 32,000,000 blocks (about 3 years). At this point in time all balances of STEEM are divided by 10 and all prices are multiplied by 10. Cryptocurrency exchanges will have to suspend trading around this time and update the account balances and price history to reflect the "reverse split" before resuming trading.
+Aby kompenzovala stále rostoucí přesnost, provede síť Steem „reverzní split“ 10:1 každý 32,000,000 blok (okolo 3 let). V tomto okamžiku jsou všechny zůstatky STEEM vyděleny 10 a všechny ceny vynásobeny 10. Aby zohlednili tento „reverzní split“ budou muset kryptoměnné burzy okolo tohoto času zastavit obchodování a aktualizovat zůstatky účtů a cenovou historii, než obnoví obchodování.
 
-All rounding errors will be in favor of the network. Every balance may lose up to 0.009 STEEM due to rounding, but this amount of STEEM should be economically insignificant. Collectively all holders of SP will lose at most 0.009 STEEM.
+Všechny zaokrouhlovací chyby budou ve prospěch sítě. Každý zůstatek může ztratit kvůli zaokrouhlování až 0,0009 STEEM, ale tato suma STEEM by měla být ekonomicky nevýznamná. Všichni držitelé SP dohromady ztratí nejvíce 0,0009 STEEM.
 
-# The Power of Steem
+# Síla Steemu (SP)
 
-Steem recognizes that the value of all user contributions (posts and votes) is greater than the sum of the parts. A single comment is worth next to nothing, but millions of curated posts is worth many millions (or possibly even billions) of dollars. A single vote provides little curation value, but billions of votes is very effective curation. Content without curation is of limited value. Given all the content of the Internet minus the links between it, Google would struggle to produce useful search results. It is the links between information that give it significant value.
+Steem uznává, že cena všech přispění uživatelů (články a hlasy) je větší, než součet jednotlivých částí. Jednotlivý komentář nemá téměř žádnou cenu, ale milióny ohodnocených článků mají hodnotu mnoha miliónů (nebo možná miliard) dolarů. Jednotlivý hlas má malou vypovídací cenu, ale miliardy hlasů jsou velmi účinné hodnocení. Obsah bez moderování má omezenou cenu. Pokud by obsah Internetu byl bez vzájemných vazeb, Google by měl problém vyprodukovat užitečné výsledky vyhledávání. Jsou to odkazy mezi informacemi, které jim dávají podstatnou hodnotu.
 
-Because everyone benefits, everyone should pay. In other words, no individual user should be expected to pay for anything, but instead should be paid for everything they do that brings value to Steem. All we need to do is ascertain which user contributions bring a social network value and which ones don't.
+Protože každý z toho má užitek, každý by měl platit. Jinými slovy, žádný jednotlivec by za nic neměl platit, ale místo toho by měl být placen za vše, co dělá a co vnáší hodnotu do Steemu. Vše co potřebujeme zjistit je, které uživatelské příspěvky přinášejí hodnotu sociální sítě a které nikoliv.
 
-Collectively Reddit users vote 220 times per second and make 23 posts per second. Reddit is valued between $500 million<sup id="fnref:21"><a href="#fn:21" class="footnote-ref">21</a></sup> and $4 billion<sup id="fnref:22"><a href="#fn:22" class="footnote-ref">22</a></sup> which means that each and every upvote and post is worth between $0.06 and $0.50 assuming the value of Reddit is mostly within the past year's worth of activity. One could argue that most of the value of Reddit is the near-real-time discussions that have occurred within the past week which would dramatically increase the value of new activity. People go where people are today, not where people were last year.
+Uživatelé Redditu dohromady hlasují 220 x za vteřinu a udělají 23 článků za vteřinu. Reddit je ceněn mezi $500 milióny<sup id="fnref:21"><a href="#fn:21" class="footnote-ref">21</a></sup> a $4 miliardami<sup id="fnref:22"><a href="#fn:22" class="footnote-ref">22</a></sup>, což znamená, že každý hlas a příspěvek má cenu mezi $0,06 a $0,50 za předpokladu, že hodnota Redditu je většinou v rámci loňského rozsahu aktivity. Dalo by se argumentovat, že většina z hodnoty Redditu je v důsledku současných diskusí, které se vyskytly během uplynulého týdne, což by dramaticky zvýšilo hodnotu nových aktivit. Lidé jdou tam, kde jsou ostatní lidé dnes, ne kde byly loni.
 
-## No Micropayments, Tips Optional
+## Žádné mikroplatby, volitelně spropitné
 
-Existing attempts at integrating a cryptocurrency into a social media platform have focused on enabling users to pay one another. Many services have attempted to introduce tipping. The theory is that if we make tipping simple enough then more people will do it. Other services attempt to get people to pay to promote or boost their content's ranking. Still others attempt to build small prediction markets on how many tips an article will receive.
+Existující pokusy o integraci kryptoměny do sociálních médií se soustředily na umožnění plateb jednoho uživatele druhému. Mnoho služeb se pokoušelo zavést mikroplatby. Teoreticky pokud učiníme mikroplatby snadnými, tak je bude používat více než dost lidí. Jiné služby se pokusily přinutit lidí platit, aby propagovali svůj obsah nebo podpořili umístění svého článku v žebříčku. Další se pokusili vybudovat malé předpovědní trhy na to, kolik mikroplateb článek obdrží.
 
-All of these approaches boil down to micropayments. They differ only in who is making the payment. They all suffer from insufficient engagement of people making the micropayments. In the search for incentivised content production entrepreneurs have been so focused on who should pay that they missed the obvious reality: everyone benefits from everyone's actions so everyone should pay or no one should pay, depending on how you look at it.
+Všechny tyto přístupy se scvrkly na mikroplatby. Rozdíl byl jen v tom, kdo tu mikroplatbu provádí. Všechny trpěly nedostatečným zaujetím lidí provádějících mikroplatby. Při hledání toho, jak stimulovat produkci obsahu, se podnikatelé tak soustředili na to, kdo má platit, že nepostřehli zřejmou realitu: každý má prospěch z činnosti každého, takže by měl platit každý nebo nikdo, podle toho, jak na to hledíte.
 
-Steem bypasses micropayments completely because when a user upvotes a post it is the community that pays the bill. The same amount of money will be spent whether the user upvotes a post or not and the funds will not come from the voter.
+Steem obchází mikroplatby úplně, protože když uživatel hlasuje pro článek, je to komunita, která platí účet. Ta samá suma bude utracena ať už uživatel hlasuje pro příspěvek nebo ne a prostředky nepocházejí od hlasujícího.
 
-The mental energy associated with making an economic decision becomes a barrier to participation for most people.
+Mentální námaha spojená s ekonomickým rozhodnutím je pro účast většiny lidí překážkou.
 
 > *Každodenně již čelíme mnoha možnostem výběru s ohledem na to, kam se online připojit v této digitální éře informační exploze a každé dodatečné rozhodování, které musíme učinit, přidá nejistotě a obavám, kterým čelíme. Podporovatelé mikroplateb věří, že zjednodušená implementace může minimalizovat rušivost mikroplateb a zlepšit uživatelskou zkušenost, ale jejich argument jen tvoří dvojí standardy pro rozhodovací proces. Transakce nemůže být současně být tak cenná, aby opravňovala rozhodnutí a tak málo cenná, aby rozhodnutí bylo automatické. **Jediné transakce, které uživatel může odsouhlasit bez přemýšlení, jsou takové, které ho nic nestojí.** Takže jakákoliv mikrotransakce s pozitivní hodnotou bude zahrnovat mentální náklady spojené s vyžadovaným rozhodnutím. Kromě toho mentální transakční náklady ve skutečnosti vzrostou pod určitou prahovou hodnotu, což je jev, který uvádí mikroplatby do ještě větší nevýhody. Například je snadné myslet na to, že dnešní výtisk novin stojí $1, ale čtenáři čelí větším obtížím a obavám při rozhodování o ceně jednotlivého článku nebo slova. Takové dilema by se jen násobilo a zhoršovalo, pokud by celý online obsah byl rozdělen na jednotlivé složky a individuálně ceněn mikroplatebním systémem.*
 > 
 > *- Micropayments: A Viable Business Model <sup id="fnref:23"><a href="#fn:23" class="footnote-ref">23</a></sup>*
 
-Under Steem, micropayments are paid to content producer, but those who vote for the content do not pay. Instead, the cost of the reward is paid for via new tokens. Someone can join the system, vote to pay someone, and then exit the system with more money than they started with (assuming the market valuation of the Steem system remained constant). In other words, the micropayment solution provided by Steem provides a user-experience similar to many widely used websites that have user-moderated content.
+Pod Steemem jdou tvůrcům obsahu mikroplatby, ale neplatí to hlasující. Místo toho je cena odměny hrazena přes nové tokeny. Kdokoliv může přistoupit do systému, hlasovat pro platbu někomu a poté opustit systém s více penězi než začal (za předpokladu, že tržní ocenění Steem zůstane stejné). Jinými slovy řešení mikroplateb poskytované Steemem dává uživatelskou zkušenost podobnou mnoha široce používaným webům, které mají uživatelsky moderovaný obsah.
 
-Furthemore, Steem pays people to figure out who should be paid! This kind of thinking is revolutionary.
+Navíc Steem platí lidi za vymyšlení toho, komu zaplatit! Tento způsob myšlení je revoluční.
 
-## Value is in the Links
+## Hodnota je v odkazech
 
-The Internet would lose the vast majority of its value if all links among content were removed. It is the relationship among web pages that allows Google to identify the best apple pie recipe among the 16 million results. Without the links the only information Google would have is word frequency.
+Internet by ztratil velkou většinu své hodnoty, kdyby byly odstraněny všechny odkazy mezi obsahem. Jsou to vztahy mezi webovými stránkami, které umožňují Googlu najít nejlepší recept na jablečný koláč mezi 16 milióny výsledků. Bez odkazů by jediná informace, kterou by měl Google, byla frekvence slova.
 
-Links can take many forms and have adapted over time. Every time a user votes on content in a social network they add a link between themselves and the content. This in turn links the consumer to the producer through the content. The more links a network has the more valuable the information becomes. It is the relative and intentional connectedness of information that gives it value.
+Odkaz může mít mnoho forem a může se časem přizpůsobit. Pokaždé, když uživatel hlasuje pro obsah sociální sítě, přidává spojení mezi sebou a obsahem. To naopak spojuje konzumenta s producentem prostřednictvím obsahu. Čím více spojení má síť, tím se informace stávají cennějšími. Je to relativní a úmyslná propojenost informací, které jim dává hodnotu.
 
-A social network can maximize the value extracted from a set of content by maximizing the quantity and quality of links. Curating content is expensive and time consuming while being near impossible for computers to perform in the absence of links. Steem rewards users who are among the first to find and link to new content.
+Sociální síť může maximalizovat hodnotu získanou z obsahu maximalizací množství a kvality odkazů. Moderovat obsah je nákladné a zabírá čas, zatímco je skoro nemožné provést počítači při nepřítomnosti odkazů. Steem odměňuje uživatele, co jsou mezi prvními, kteří najdou a propojí nový obsah.
 
-By incentivising curation the Steem network is able to use automated algorithms to extract the most valuable information from a massive amount of content.
+Tím, že podněcuje moderátorství, je síť Steem schopná použít automatizovaný algoritmus k získání nejcennější informace z rozsáhlého množství obsahu.
 
-## Solving the Cryptocurrency Onboarding Problem
+## Řešení problému kryptoměn s náborem uživatelů
 
-It isn't easy to get into cryptocurrency<sup id="fnref:24"><a href="#fn:24" class="footnote-ref">24</a></sup> . Someone who discovers Bitcoin and wants to try it out quickly learns that they will need to sign up with an exchange and fund their account with a credit card or wire transfer. What would Facebook's adoption rate have been like if you had to fork over money and a two forms of ID?
+Získat kryptoměnu není jednoduché<sup id="fnref:24"><a href="#fn:24" class="footnote-ref">24</a></sup>. Někdo, kdo objeví Bitcoin a chce ho rychle vyzkoušet zjistí, že se musí zaregistrovat na nějaké burze a účet profinancovat kreditní kartou nebo převodem. Jaká by asi byla míra přijetí Facebooku pokud by jste museli nejdříve dát peníze a dva průkazy totožnosti?
 
-Steem solves this problem by giving everyone a way to get paid for doing simple, but valuable, tasks. This will help to widely distribute STEEM tokens. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless).
+Steem řeší tento problém tím, že každému dá způsob jak být zaplacen za jednoduché, ale cenné úkony. To pomůže k široké distribuci tokenů STEEM. To je nápomocné, protože kryptoměny mají síťový efekt ( tj.více uživatelů je činí užitečnějšími; představte si, že by si Satoshi nechal 100% Bitcoinu pro sebe, Bitcoin by byl bezcenný).
 
-## Solving the Cryptocurrency Liquidation Problem
+## Řešení problémů kryptoměn s použitím
 
-A currency that is difficult to use or impossible to sell has little value. Someone who comes across $1.00 worth of Bitcoin will discover that it costs more than $1.00 to sell that Bitcoin. They have to create an account with an exchange, perform KYC validation, and pay fees. Small amounts of cryptocurrency are like small change that people are unwilling to bend over to pick up.
+Měna, kterou je těžko použít nebo ji není možno prodat, má malou cenu. Někdo, kdo má Bitcoin v ceně má okolo $1 zjistí, že prodat tento Bitcoin je dražší než $1. Musí si založit účet na nějaké burze, prokázat totožnost a zaplatit poplatky. Malé sumy kryptoměn jsou jako drobné, pro které se nejsou lidé ochotni sklonit, aby je zvedli ze země.
 
-Merchants give users a way to quickly convert their cryptocurrency into tangible goods and services. Merchants need a currency pegged to their unit of account, normally dollars. Accepting a volatile currency introduces significant accounting overhead.
+Obchodníci nabízejí cestu jak rychle proměnit kryptoměnu na skutečné zboží a služby. Obchodníci potřebují měnu vázanou na jejich zůčtovací jednotku, obvykle dolar. Přijímat volatilní měnu přináší podstatné účetní vícenáklady.
 
-Merchants will accept any currency if it increases their sales. Having a large user base with a stable currency such as SMD lowers the barrier to entry for merchants. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
+Obchodník přijme jakoukoliv měnu, pokud to zvýší jeho prodej. Velká uživatelská základna se stabilní měnou jako SMD snižuje vstupní náklady obchodníků. Přítomnost obchodníků zlepšuje systém tvorbou možností pro uživatele, jak opustit systém, aniž by se museli zabývat použitím burzy.
 
-Another way that people can liquidate the small amounts of cryptocurrency they receive from participating on the Steem platform is through tipping others. This is like leaving the small change as a tip for your waiter. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
+Jiný způsob, jak mohou lidé likvidovat malé sumy kryptoměny, kterou obdrží účastí na platformě Steem, je dát „zpropitné“ jiným přispěvatelům. Je to stejné, jako nechat drobné číšníkovi. Když to udělá více lidí, dohromady to bude smysluplná suma. Vy i číšník z toho budete mít užitek.
 
-## Censorship
+## Cenzura
 
-Steem is a decentralized network that is operated by miners in jurisdictions around the world. All user actions are publicly recorded on the blockchain, and can be publicly verified. This means that there is no single entity that can censor content that is valued by STEEM holders.
+Steem je decentralizovaná síť provozovaná těžaři v různých jurisdikcích po celém světě. Všechny akce uživatelů jsou veřejně zaznamenané na blokchainu a mohou být veřejně ověřeny. To znamená, že neexistuje jedna entita, která by mohla cenzorovat obsah ceněný držiteli STEEM.
 
-Individual websites such as steemit.com may censor content on their particular site, but content published on the blockchain is inherently broadcast traffic and mirrors all around the world may continue to make it available.
+Jednotlivé webové stránky jako je steemit.com mohou censorovat obsah na své konkrétní straně, ale obsah publikovaný na blockchainu je ve své podstatě vysílaný provoz a zrcadla po celém světě mohou pokračovat ve zpřístupňování.
 
-Freedom of speech is the foundation of all other liberties and any infringement upon freedom of speech undermines the only peaceful means of reaching consensus: discussion. Without free discussion voters cannot be fully informed, and uninformed voters are a greater threat to society than losing the right to vote. Censorship is a means of stealing votes through limiting public discourse. Steem is committed to enabling free speech and building a free society.
+Svoboda projevu je základem všech ostatních svobod a jakékoliv omezování svobody projevu podkopává jediný mírumilovný prostředek dosažení shody: diskuzi. Bez svobodné diskuze nebohou být voliči plně informováni a neinformavaní voliči jsou větší nebezpečí pro společnost než ztráta volebního práva. Cenzura je prostředek krádeže hlasů prostřednictvím omezování veřejné debaty. Steem je oddaný umožňování svobodné diskuze a budování svobodné společnosti.
 
-## Solving Organic Discovery via Search Engine Optimization
+## Vyřešení přirozeného objevování pomocí optimalizace vyhledávačů
 
-Most cryptocurrencies generate little value for those who are not actively using the network. Steem, by contrast, generates content and encourages users to share it. This content gets indexed by search engines and ultimately will bring value to a large number of passive users. This search traffic creates organic advertising for the Steem network and grows the network effect.
+Mnoho kryptoměn produkuje malou hodnotu pro ty, kdo aktivně nepoužívají síť. Naproti tomu Steem vytváří obsah a vybízí uživatele, aby jej sdíleli. Tento obsah je indexovaný vyhledávači a nakonec přináší hodnotu velkému množství pasivních uživatelů. Tento provoz vyhledávačů tvoří přirozenou inzerci pro síť Steem a zvyšuje síťový efekt.
 
-## Shifting Toward Blockchain-based Attribution
+## Směřování k autorství založenému na blockchainu
 
-The internet represents the easiest medium for distributing information in the world. With that said, it can be a frightening place for content creators who would like to own their content and have it shared with proper attribution. On current social media platforms, attribution is something that can be lost overnight - a posted video or image can be replicated and re-shared without consent or regard for the creator.
+Internet představuje nejsnadnější prostředek pro distribuci informací na světě. Takto řečeno to může být strašidelné místo pro tvůrce obsahu, kteří by rádi svůj obsah vlastnili a sdíleli ho s příslušnými právy. Na současných platformách sociálních médií je autorství něco, co může být ztraceno přes noc. Vystavené video nebo obrázek mohou být zkopírovány a opětovně sdíleny bez ohledu na souhlas autora.
 
-Under blockchain-based social media, a creator or author would always be able to point to a public record and timestamp showing proof of their content origination. In a circumstance where a creator would like to address those who have re-shared without permission or attribution, blockchain-based records provide public proof that the content was posted by a particular user at a particular time. In the future, blockchain-based attribution could come to be recognized by governments for its authenticity and could hold weight in court, which would give content creators greater powers to control their work.
+V sociálních médiích založených na blockchainu bude tvůrce nebo autor vždy schopen poukázat na veřejný záznam a časové razítko dokazující vznik jejich obsahu. V situaci kdyby tvůrce chtěl oslovit ty, kdo dílo opětovně sdíleli bez souhlasu nebo přiznání autorství, záznamy založené na blockchainu poskytují veřejný důkaz, že obsah byl zveřejněn určitým uživatelem v určitý čas. V budoucnosti může být autenticita autorství založená na blockchainu uznána vládami a mít váhu před soudem, což by tvůrcům obsahu dalo větší možnosti ke kontrole jejich práce.
 
-While a timestamping service can be built on almost any blockchain, and several efforts exist to build this kind of service on the Bitcoin network, Steem has a useful advantage in this realm because content publishers are "first class citizens" - the Steem blockchain is built from the ground up around the use case of content publication, which allows content creators to have the blockchain to validate their content at a certain point in time simply by writing their post using the same authoring tools used by other Steem users.
+Zatímco časové razítko může být zabudováno do téměř jakéhokoliv blockchainu a existuje několik snah o zavedení této služby do Bitcoinu, Steem má v této oblasti užitečnou výhodu, protože publicisté jsou „občané první třídy“. Steem blockchain je od základu postaven pro použití v oblasti publikace obsahu, což umožňuje, aby tvůrci obsahu měli svůj obsah ověřen blockchainem v určitém čase prostým psaním svých příspěvků za použití těch samých autorských nástrojů jako ostatní uživatelé Steemu.
 
-## Replacing Advertising with Blockchain-based Content Rewards
+## Nahrazení inzerce blockchainovými odměnami za obsah
 
-Under most content monetization models, content creators leverage advertising in one form or another. Many creators recognize how advertising may diminish their work's value to the consumer, yet creators very often must seek returns on their time by monetizing. Advertising represents a double-edged sword: With ads, a creator can make money most easily. Without ads, monetization is difficult but the content is richer.
+Podle mnohých modelů monetizace obsahu používají tvůrci reklamu v různých formách. Mnoho tvůrců chápe, jak může reklama snížit hodnotu jejich práce, avšak tvůrci musí velmi často hledat finanční návratnost svého času. Reklama je dvousečná: s inzeráty může tvůrce vydělat nejsnadněji. Bez inzerátů je monetizace těžší, ale obsah bohatší.
 
-Creators posting to social media outlets that are connected to Steem may monetize merely by having their work recognized (or "liked") by the Steem community. Blockchain-based payouts are completely digital and have no middle-man. Therefore monetization by blockchain-based content rewards should be faster and much lower barrier to use than monetization by advertisements.
+Tvůrci zveřejňující v sociálních médiích propojených na Steem mohou monetizovat jen tím, že je jejich práce uznána („like“) komunitou Steem. Výplaty založené na blokchainu jsou zcela digitální a bez prostředníka. Proto monetizace přes obsah založený na blockchainu by měla být rychlejší a mnohem přístupnější než monetizace přes inzerci.
 
-# Conclusion
+# Závěr
 
-Steem is an experiment designed to address challenges in the cryptocurrency and social media industries by combining the best aspects from both. Steem presents earning opportunities to content creators and internet readers in ways that have not existed within the social media industry. Within Steem, individuals earn real rewards online that are directly correlated to their contributions. Those rewards will have dollar value due to the market price discovery and liquidity of Steem, and the people who hold Steem will have more exclusive earning powers than those who do not.
+Steem je experiment projektovaný tak, aby čelil výzvám v kryptoměně a v oboru sociálních médií kombinováním nejlepších vlastností z obojích. Steem je příležitost výdělku pro tvůrce a internetové čtenáře způsobem, který dosud v sociálních médiích neexistoval. Se Steemem vydělávají jednotlivci online skutečné odměny, které jsou přímo úměrné jejich přispění. Tyto odměny budou mít díky tržnímu určení ceny a likviditě Steemu dolarovou hodnotu a lidé, kteří drží Steem, budou mít více exkluzivní výdělečné síly než ti, kdo Steem nedrží.
 
-# References
+# Odkazy
 
 [^1]:    
     Reddit's Cryptocurrency, Forbes, Erika Morphy, October 2014, <http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/#4e07b05332b9>&#160;[&#8617;](#fnref:1){.footnote-backref}
