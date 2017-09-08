@@ -652,47 +652,47 @@ Získat kryptoměnu není jednoduché<sup id="fnref:24"><a href="#fn:24" class="
 
 Steem řeší tento problém tím, že každému dá způsob jak být zaplacen za jednoduché, ale cenné úkony. To pomůže k široké distribuci tokenů STEEM. To je nápomocné, protože kryptoměny mají síťový efekt ( tj.více uživatelů je činí užitečnějšími; představte si, že by si Satoshi nechal 100% Bitcoinu pro sebe, Bitcoin by byl bezcenný).
 
-## Solving the Cryptocurrency Liquidation Problem
+## Řešení problémů kryptoměn s použitím
 
-A currency that is difficult to use or impossible to sell has little value. Someone who comes across $1.00 worth of Bitcoin will discover that it costs more than $1.00 to sell that Bitcoin. They have to create an account with an exchange, perform KYC validation, and pay fees. Small amounts of cryptocurrency are like small change that people are unwilling to bend over to pick up.
+Měna, kterou je těžko použít nebo ji není možno prodat, má malou cenu. Někdo, kdo má Bitcoin v ceně má okolo $1 zjistí, že prodat tento Bitcoin je dražší než $1. Musí si založit účet na nějaké burze, prokázat totožnost a zaplatit poplatky. Malé sumy kryptoměn jsou jako drobné, pro které se nejsou lidé ochotni sklonit, aby je zvedli ze země.
 
-Merchants give users a way to quickly convert their cryptocurrency into tangible goods and services. Merchants need a currency pegged to their unit of account, normally dollars. Accepting a volatile currency introduces significant accounting overhead.
+Obchodníci nabízejí cestu jak rychle proměnit kryptoměnu na skutečné zboží a služby. Obchodníci potřebují měnu vázanou na jejich zůčtovací jednotku, obvykle dolar. Přijímat volatilní měnu přináší podstatné účetní vícenáklady.
 
-Merchants will accept any currency if it increases their sales. Having a large user base with a stable currency such as SMD lowers the barrier to entry for merchants. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
+Obchodník přijme jakoukoliv měnu, pokud to zvýší jeho prodej. Velká uživatelská základna se stabilní měnou jako SMD snižuje vstupní náklady obchodníků. Přítomnost obchodníků zlepšuje systém tvorbou možností pro uživatele, jak opustit systém, aniž by se museli zabývat použitím burzy.
 
-Another way that people can liquidate the small amounts of cryptocurrency they receive from participating on the Steem platform is through tipping others. This is like leaving the small change as a tip for your waiter. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
+Jiný způsob, jak mohou lidé likvidovat malé sumy kryptoměny, kterou obdrží účastí na platformě Steem, je dát „zpropitné“ jiným přispěvatelům. Je to stejné, jako nechat drobné číšníkovi. Když to udělá více lidí, dohromady to bude smysluplná suma. Vy i číšník z toho budete mít užitek.
 
-## Censorship
+## Cenzura
 
-Steem is a decentralized network that is operated by miners in jurisdictions around the world. All user actions are publicly recorded on the blockchain, and can be publicly verified. This means that there is no single entity that can censor content that is valued by STEEM holders.
+Steem je decentralizovaná síť provozovaná těžaři v různých jurisdikcích po celém světě. Všechny akce uživatelů jsou veřejně zaznamenané na blokchainu a mohou být veřejně ověřeny. To znamená, že neexistuje jedna entita, která by mohla cenzorovat obsah ceněný držiteli STEEM.
 
-Individual websites such as steemit.com may censor content on their particular site, but content published on the blockchain is inherently broadcast traffic and mirrors all around the world may continue to make it available.
+Jednotlivé webové stránky jako je steemit.com mohou censorovat obsah na své konkrétní straně, ale obsah publikovaný na blockchainu je ve své podstatě vysílaný provoz a zrcadla po celém světě mohou pokračovat ve zpřístupňování.
 
-Freedom of speech is the foundation of all other liberties and any infringement upon freedom of speech undermines the only peaceful means of reaching consensus: discussion. Without free discussion voters cannot be fully informed, and uninformed voters are a greater threat to society than losing the right to vote. Censorship is a means of stealing votes through limiting public discourse. Steem is committed to enabling free speech and building a free society.
+Svoboda projevu je základem všech ostatních svobod a jakékoliv omezování svobody projevu podkopává jediný mírumilovný prostředek dosažení shody: diskuzi. Bez svobodné diskuze nebohou být voliči plně informováni a neinformavaní voliči jsou větší nebezpečí pro společnost než ztráta volebního práva. Cenzura je prostředek krádeže hlasů prostřednictvím omezování veřejné debaty. Steem je oddaný umožňování svobodné diskuze a budování svobodné společnosti.
 
-## Solving Organic Discovery via Search Engine Optimization
+## Vyřešení přirozeného objevování pomocí optimalizace vyhledávačů
 
-Most cryptocurrencies generate little value for those who are not actively using the network. Steem, by contrast, generates content and encourages users to share it. This content gets indexed by search engines and ultimately will bring value to a large number of passive users. This search traffic creates organic advertising for the Steem network and grows the network effect.
+Mnoho kryptoměn produkuje malou hodnotu pro ty, kdo aktivně nepoužívají síť. Naproti tomu Steem vytváří obsah a vybízí uživatele, aby jej sdíleli. Tento obsah je indexovaný vyhledávači a nakonec přináší hodnotu velkému množství pasivních uživatelů. Tento provoz vyhledávačů tvoří přirozenou inzerci pro síť Steem a zvyšuje síťový efekt.
 
-## Shifting Toward Blockchain-based Attribution
+## Směřování k autorství založenému na blockchainu
 
-The internet represents the easiest medium for distributing information in the world. With that said, it can be a frightening place for content creators who would like to own their content and have it shared with proper attribution. On current social media platforms, attribution is something that can be lost overnight - a posted video or image can be replicated and re-shared without consent or regard for the creator.
+Internet představuje nejsnadnější prostředek pro distribuci informací na světě. Takto řečeno to může být strašidelné místo pro tvůrce obsahu, kteří by rádi svůj obsah vlastnili a sdíleli ho s příslušnými právy. Na současných platformách sociálních médií je autorství něco, co může být ztraceno přes noc. Vystavené video nebo obrázek mohou být zkopírovány a opětovně sdíleny bez ohledu na souhlas autora.
 
-Under blockchain-based social media, a creator or author would always be able to point to a public record and timestamp showing proof of their content origination. In a circumstance where a creator would like to address those who have re-shared without permission or attribution, blockchain-based records provide public proof that the content was posted by a particular user at a particular time. In the future, blockchain-based attribution could come to be recognized by governments for its authenticity and could hold weight in court, which would give content creators greater powers to control their work.
+V sociálních médiích založených na blockchainu bude tvůrce nebo autor vždy schopen poukázat na veřejný záznam a časové razítko dokazující vznik jejich obsahu. V situaci kdyby tvůrce chtěl oslovit ty, kdo dílo opětovně sdíleli bez souhlasu nebo přiznání autorství, záznamy založené na blockchainu poskytují veřejný důkaz, že obsah byl zveřejněn určitým uživatelem v určitý čas. V budoucnosti může být autenticita autorství založená na blockchainu uznána vládami a mít váhu před soudem, což by tvůrcům obsahu dalo větší možnosti ke kontrole jejich práce.
 
-While a timestamping service can be built on almost any blockchain, and several efforts exist to build this kind of service on the Bitcoin network, Steem has a useful advantage in this realm because content publishers are "first class citizens" - the Steem blockchain is built from the ground up around the use case of content publication, which allows content creators to have the blockchain to validate their content at a certain point in time simply by writing their post using the same authoring tools used by other Steem users.
+Zatímco časové razítko může být zabudováno do téměř jakéhokoliv blockchainu a existuje několik snah o zavedení této služby do Bitcoinu, Steem má v této oblasti užitečnou výhodu, protože publicisté jsou „občané první třídy“. Steem blockchain je od základu postaven pro použití v oblasti publikace obsahu, což umožňuje, aby tvůrci obsahu měli svůj obsah ověřen blockchainem v určitém čase prostým psaním svých příspěvků za použití těch samých autorských nástrojů jako ostatní uživatelé Steemu.
 
-## Replacing Advertising with Blockchain-based Content Rewards
+## Nahrazení inzerce blockchainovými odměnami za obsah
 
-Under most content monetization models, content creators leverage advertising in one form or another. Many creators recognize how advertising may diminish their work's value to the consumer, yet creators very often must seek returns on their time by monetizing. Advertising represents a double-edged sword: With ads, a creator can make money most easily. Without ads, monetization is difficult but the content is richer.
+Podle mnohých modelů monetizace obsahu používají tvůrci reklamu v různých formách. Mnoho tvůrců chápe, jak může reklama snížit hodnotu jejich práce, avšak tvůrci musí velmi často hledat finanční návratnost svého času. Reklama je dvousečná: s inzeráty může tvůrce vydělat nejsnadněji. Bez inzerátů je monetizace těžší, ale obsah bohatší.
 
-Creators posting to social media outlets that are connected to Steem may monetize merely by having their work recognized (or "liked") by the Steem community. Blockchain-based payouts are completely digital and have no middle-man. Therefore monetization by blockchain-based content rewards should be faster and much lower barrier to use than monetization by advertisements.
+Tvůrci zveřejňující v sociálních médiích propojených na Steem mohou monetizovat jen tím, že je jejich práce uznána („like“) komunitou Steem. Výplaty založené na blokchainu jsou zcela digitální a bez prostředníka. Proto monetizace přes obsah založený na blockchainu by měla být rychlejší a mnohem přístupnější než monetizace přes inzerci.
 
-# Conclusion
+# Závěr
 
-Steem is an experiment designed to address challenges in the cryptocurrency and social media industries by combining the best aspects from both. Steem presents earning opportunities to content creators and internet readers in ways that have not existed within the social media industry. Within Steem, individuals earn real rewards online that are directly correlated to their contributions. Those rewards will have dollar value due to the market price discovery and liquidity of Steem, and the people who hold Steem will have more exclusive earning powers than those who do not.
+Steem je experiment projektovaný tak, aby čelil výzvám v kryptoměně a v oboru sociálních médií kombinováním nejlepších vlastností z obojích. Steem je příležitost výdělku pro tvůrce a internetové čtenáře způsobem, který dosud v sociálních médiích neexistoval. Se Steemem vydělávají jednotlivci online skutečné odměny, které jsou přímo úměrné jejich přispění. Tyto odměny budou mít díky tržnímu určení ceny a likviditě Steemu dolarovou hodnotu a lidé, kteří drží Steem, budou mít více exkluzivní výdělečné síly než ti, kdo Steem nedrží.
 
-# References
+# Odkazy
 
 [^1]:    
     Reddit's Cryptocurrency, Forbes, Erika Morphy, October 2014, <http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/#4e07b05332b9>&#160;[&#8617;](#fnref:1){.footnote-backref}
