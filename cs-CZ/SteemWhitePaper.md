@@ -395,35 +395,35 @@ V decentralizovaném systému není přímá cesta, jak zakázat uživatele, ani
 
 Podívejme se na blockchain jako na poskytovatele internetu, který vlastní všechny kabely ve městě a má určité maximální množství šířky pásma, které může poskytnou v jakémkoliv okamžiku. Lidé žijící v městě si mohou koupit akcie této firmy a na oplátku mohou užívat část dostupné šířky pásma.
 
-The ISP has two choices, run a "full reserve" or "fractional reserve" system. Under a full reserve system each user is only allowed a fraction of the maximum bandwidth proportional to her shares. Because not everyone uses the Internet at the same time, the town's network would be significantly underutilized.
+Poskytovatel má dvě možnosti. Provozovat systém plné rezervy nebo systém částečné rezervy. Podle systému plné rezervy každý uživatel může používat pouze tu část maximální šířky pásma, které odpovídá jeho akciovému podílu. Protože ne každý užívá internet v tu samou dobu, tak městská síť bude citelně nevyužitá.
 
-Under a fractional reserve system the individual users could utilize more bandwidth than they are entitled to at any given point in time so long as not everyone uses the Internet at the same time. The problem with operating a fractional reserve is that congestion occurs anytime too many people wish to use the network at the same time. The ISP needs a way to prioritize bandwidth during congested periods. In the most extreme case, a fully congested network must revert to a full reserve system. The challenge is setting the proper fractional reserve ratio.
+Podle systému částečných rezerv může každý individuální uživatel využít větší šířku pásma, než na jakou má právo, kdykoliv do té doby, než každý užívá internet v tu samou dobu. Problém s provozováním systému částečných rezerv je, že dojde k zahlcení, kdykoliv chce příliš mnoho lidí použít internet ve stejnou dobu. Poskytovatel potřebuje způsob, jak upřednostňovat přístup k šířce pásma během období zahlcení. V nejextrémnějším případě plně zahlcená síť se musí převést na systém plných rezerv. Výzva je stanovit správný poměr částečných rezerv.
 
-## Bandwidth Instead of Micropayment Channels
+## Šíře pásma místo mikroplatebních kanálů
 
-The solution to the problems with micropayments is in implementing *dynamic fractional reserves*. Under this model the blockchain will automatically adjust the reserve ratio for the network during times of congestion. The blockchain will set a target utilization that leaves enough headroom for short term surges in demand. Any time the surges are sustained the blockchain reduces the maximum bandwidth-per-share. When a surge is over and there is surplus capacity the blockchain can slowly increase the bandwidth-per-share.
+Řešením problémů s mikroplatbami je implementace *dynamických částečných rezerv*. Podle tohoto modelu blockchain automaticky upraví poměr rezervy sítě během doby zahlcení. Blockchain nastaví cílové využití, které ponechá dostatek prostoru pro prudký krátkodobý nárůst požadavků. Kdykoliv je nárůst trvalý, blockchain zredukuje maximální šířku pásma na akcii. Když špička pomine a je k dispozici volná kapacita, blockchain může pomalu zvýšit šířku pásma na akcii.
 
-Bandwidth used by an individual user should be measured over a suitably long period of time to allow that user to time-shift their usage. Users tend to login, do many things at once, then logout. This means that their bandwidth over a short period of time may appear much higher than if viewed over a longer period of time. If the time window is stretched too far then the reserve ratio will not adjust fast enough to respond to short-term surges, if the window is too short then clustering usage will have too big of an impact on normal users.
+Šíře pásma používaná jednotlivým uživatelem by měla být měřena po vhodně dlouhou dobu, aby umožnila tomuto uživateli posunout použití v čase. Uživatelé mají tendenci se přihlásit, dělat mnoho věcí najednou a pak se odhlásit. To znamená, že jejich šíře pásma po krátkou dobu se jeví mnohem vyšší, než když je posuzována za delší období. Pokud je časové okno roztaženo příliš daleko, tak se poměr rezervy neupraví dostatečně rychle, aby odpovídal na krátkodobé špičky. Pokud je časové okno příliš krátké, tak sdružené využití bude mít příliš velký dopad na normální uživatele.
 
-In our estimate it should be sufficient to measure the average weekly bandwidth usage of users. Every time a user signs a transaction, that transaction is factored into their own individual moving average. Any time a user's moving average exceeds the current network limit their transaction is delayed until their average falls below the limit.
+Dle našeho předpokladu by mělo být dostačující měřit průměrné týdenní využití šířky pásma uživateli. Pokaždé, když uživatel podepíše transakci, je tato transakce zahrnuta do jeho individuálního klouzavého průměru. Pokaždé, když uživatelův klouzavý průměr přesáhne současný limit sítě, je jeho transakce zpožděna, dokud jeho průměr neklesne pod limit.
 
-### Example Implementation
+### Vzorové použití
 
-Let B equal a user's average bandwidth at time T. Let W equal the number of seconds per week, and let N equal the size of the new transaction that occurred S seconds after T. Given this information the blockchain can calculate the new average bandwidth for a user as:
+Nechť B je rovno uživatelově průměrné šířce pásma v čase T. Nechť W je rovno počtu vteřin za týden a nechť N je rovno velikosti nové transakce, která se objeví S vteřin po T. S touto informací blockchain může vypočíst novou průměrnou šíři pásma pro uživatele jako:
 
     Bnew = MIN(0,B * (W - S) / W) + N * S / W
     Tnew = T + S
     
 
-Each user is entitled to an average weekly bandwidth of:
+Každý uživatel má právo na průměrnou týdenní šíři pásma:
 
-    Let U = the user's SP
-    Let S = the total number of SP
-    Let R = the current reserve ratio between 1 and Rmax
-    Let C = the maximum block size capacity set by witnesses
-    Let L = the total blocks per week
+    Let U = počet uživatelových SP
+    Let S = celkové množství SP
+    Let R = současný poměr rezervy mezi 1 a Rmax
+    Let C = maximální velikost bloku nastavená svědky
+    Let L = celkový počet bloků za týden
     Let M = C * L * R
-    Allocation = M * U / S
+    Alokace = M * U / S
     
 
 A user would be entitled to an average bandwidth of M \* U / S. Any time a transaction would cause the user's average to go above this threshold they would be unable to transact until enough time passes to lower the average.
