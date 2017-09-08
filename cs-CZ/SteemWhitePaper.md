@@ -362,38 +362,38 @@ Blockchainy jsou decentralizované sítě, kde všechny transakce jsou vysílán
 
 Až dosud je řešení přijaté většinou blockchainů účtování minimálního transakčního poplatku. Poplatek v ceně jen několika centů je dost k tomu, aby útok na síť učinil drahým a nevýdělečným. Zatímco tento přístup řeší problém spamu, zavádí nové problémy. Představte si řešení problému emailového spamu zavedením malého poplatku za každý email. Nikdo by email nepoužíval.
 
-### Micropayments Don't Work
+### Mikroplatby nefungují
 
-The fundamental problem with charging transaction fees is that micropayments don't work, especially for low-value user actions. When a fee is charged on every transaction, it limits the types of transactions that a decentralized network can process. Regardless of how rational the argument for the necessity of fees, users still hate the experience of being nickeled and dimed for everything that they do.
+Základní problém s účtováním poplatků je, že mikroplatby nefungují a to obzvláště pro málo ceněné uživatelské akce. Když je za každou transakci účtován poplatek, limituje to druhy transakcí, které může decentralizovaná síť vykonávat. Bez ohledu na to, jak racionální je požadavek na nezbytnost poplatků, uživatelé stejně nesnášejí neustálé zpoplatňování za vše, co činí.
 
-Imagine if the websites we use every day charged us a fee every time we modify our accounts by changing the password. Users expect certain things to be free. Requiring users to make a decision on whether or not an action is worth a small fee creates anxiety that causes users to leave.
+Představte si, že by nám webová stránka kterou denně používáme účtovala poplatek pokaždé, když změníme heslo našeho účtu. Uživatelé očekávají, že některé věci jsou bezplatné. Požadovat po uživatelích aby se rozhodli, jestli určitý úkon stojí za malý poplatek, způsobí odpor, který způsobí odchod uživatelů.
 
-> A transaction can't be worth so much as to require a decision but worth so little that that decision is automatic. There is a certain amount of anxiety involved in any decision to buy, no matter how small, and it derives not from the interface used or the time required, but from the very act of deciding.  
-> Micropayments, like all payments, require a comparison: "Is this much of X worth that much of Y?" There is a minimum mental transaction cost created by this fact that cannot be optimized away, because the only transaction a user will be willing to approve with no thought will be one that costs them nothing, which is no transaction at all.
+> Transakce nemůže stát tolik, aby požadovala učinit rozhodnutí, ale tak málo, aby rozhodnutí bylo automatické. Každé rozhodnutí o nákupu je spojeno s určitou dávkou obav bez ohledu na velikost a je odvozeno nikoliv od použitého rozhraní nebo nutného času, ale od samotného aktu rozhodování.  
+> Mikroplatby stejně jako všechny platby vyžadují srovnání: „ Má toto množství X cenu tohoto množství Y?“ Tímto faktem je vytvořen minimální mentální transakční poplatek, který nemůže být optimalizován na nulu. Jediná transakce, kterou je schopen uživatel schválit bez přemýšlení je taková, která ho nic nestojí, což vlastně není transakce.
 > 
 > *- Clay Shirky<sup id="fnref:8"><a href="#fn:8" class="footnote-ref">8</a></sup>*
 
-In the world of financial payments, small fees are acceptable because the value of the transaction is extremely high relative to the fee charged, and the buyer has already made a decision to buy. The world of potential blockchain applications is far greater than just financial payments and includes many necessary transactions for which fees are simply unacceptable to users.
+Ve světě finančních plateb jsou malé poplatky akceptovatelné, protože hodnota transakce je extrémně vysoká ve srovnání s účtovaným poplatkem a kupec již učinil rozhodnutí koupit. Svět potenciálních blockchainových aplikací je mnohem větší než jen finanční platby a zahrnuje mnoho nezbytných transakcí, u kterých jsou poplatky uživatelům prostě nepřijatelné.
 
-Systems like BitShares, Nxt, Ripple, Counter Party and Stellar all allow users to place limit orders on the blockchain and all of them charge users a small fee to perform this action. Later if the user wishes to cancel their order, another fee is charged. Systems like Ethereum take micropayments to a whole new level: charging per calculation. All of these systems struggle to attract new mainstream users for the same reasons that a decentralized search engine would struggle to attract users from Google if it charged a small fee for every search. It doesn't matter how good the service is, people expect certain things to be free. This is true even if a user ends up paying more overall under a different fee structure.
+Systémy jako BitShares, Nxt, Ripple, Counter Party a Stellar dovolují uživatelům zadat limitní objednávky na blockchainu a za to účtují uživatelům malý poplatek. Později, pokud chce uživatel zrušit svůj pokyn, je účtován další poplatek. Systémy jako Ethereum přivedly mikroplatby na zcela novou úroveň: poplatek za kalkulaci. Všechny tyto systémy mají potíže s přilákáním nových mainstreamových uživatelů z toho samého důvodu, který by měla decentralizovaná vyhledávací aplikace při lákání uživatelů Google, pokud by za každé vyhledání účtovala malý poplatek. Nezáleží na tom, jak je služba dobrá, lidé očekávají, že určité věci jsou bezplatné. To je pravda dokonce i když uživatel nakonec zaplatí více jiným způsobem.
 
-### Fees are a Barrier to Entry
+### Poplatky jsou bariéry vstupu
 
-Any fee creates a barrier to entry for new users. Before someone can experiment with Ethereum they must acquire some ETH tokens. Anyone wanting to build a decentralized application on Ethereum must pass on the cost to their customers. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
+Jakékoliv poplatky tvoří zábranu vstupu novým uživatelům. Než někdo může experimentovat s Ethereum, tak si musí pořídit nějaké tokeny ETH. Kdokoliv, kdo si přeje postavit decentralizovanou aplikaci na Ethereum, tak musí přenést tyto náklady na zákazníky. Nákup kryptoměny není jednoduchý úkol a málokdy má smysl pro sumu menší než 10 USD. To znamená, že nový uživatel, který si přeje vyzkoušet novou decentralizovanou aplikaci musí být nejdříve přesvědčen k tomu, aby vydal 10 USD.
 
-### Changing Fees
+### Změna poplatků
 
-Over time a network must adjust fees. This can happen either due to an increase in the value of the token or due to a surge in capacity. Users like predictable fees and guaranteed service. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
+Časem musí síť upravit poplatky. Může to být kvůli růstu ceny tokenu nebo prudkému nárůstu objemu. Uživatelé mají rádi předvídatelné poplatky a garantované služby. Protože není možné dynamicky upravovat poplatky během období vysokého provozu, výsledkem je špatná uživatelská zkušenost.
 
-### Sybil Attacks
+### Spam útoky
 
-Centralized websites prevent spam through rate limiting and some form of ID verification. Even something as simple as reCAPTCHA <sup id="fnref:9"><a href="#fn:9" class="footnote-ref">9</a></sup> is sufficient to limit the creation of fake accounts. If someone abuses their account then centralized websites are free to block the account.
+Centralizovaná webová stránka se brání spamu omezením rychlosti a nějakou formou identifikace. Dokonce i něco tak jednoduchého jako reCAPTCHA<sup id="fnref:9"><a href="#fn:9" class="footnote-ref">9</a></sup> je dostatečné pro omezení tvorby falešných účtů. Pokud někdo svůj účet zneužívá, tak centralizované webové stránky mohou blokovat tento účet.
 
-In a decentralized system there is no direct way to ban users nor centralized provider able to host a reCAPTCHA and enforce rate limiting of accounts. In fact, the inability to censor users is one of the main selling points of blockchain technology.
+V decentralizovaném systému není přímá cesta, jak zakázat uživatele, ani centralizovaný poskytovatel schopný použít reCAPTCHA a vynutit omezení přístupu jednotlivých účtů. Ve skutečnosti neschopnost cenzury uživatelů je hlavní prodejní argument blockchainové technologie.
 
-### Full Reserve vs Fractional Reserve
+### Plná rezerva vs částečná rezerva
 
-Let's view a blockchain like an Internet Service Provider (ISP) co-op which owns all of the cables in the town and has a maximum amount of bandwidth that it can provide at any time. People living in the town can buy shares in the ISP and in exchange they are entitled to utilize a portion of the available bandwidth.
+Podívejme se na blockchain jako na poskytovatele internetu, který vlastní všechny kabely ve městě a má určité maximální množství šířky pásma, které může poskytnou v jakémkoliv okamžiku. Lidé žijící v městě si mohou koupit akcie této firmy a na oplátku mohou užívat část dostupné šířky pásma.
 
 The ISP has two choices, run a "full reserve" or "fractional reserve" system. Under a full reserve system each user is only allowed a fraction of the maximum bandwidth proportional to her shares. Because not everyone uses the Internet at the same time, the town's network would be significantly underutilized.
 
