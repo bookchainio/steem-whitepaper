@@ -110,126 +110,126 @@ Steem dolary jsou označovány symbolem SMD akronymem pro Steem Dollars. Tvorba 
 
 Držitelé SP volí jednotlivce, kteří publikují ceny. Tito zvolení jedinci pravděpodobně mají důvěru těch, kdo mají zájem na kvalitě tohoto zdroje. Tím, že platí zvoleným jedincům, Steem vytváří tržní konkurenci pro získání práva na tvorbu cenových dat. Čím více jsou producenti dat placeni, tím více mohou ztratit publikováním chybné informace.
 
-Když máme skupinu zvolených, důvěryhodných poskytovatelů cen, skutečná cena použitá pro konverzi může být odvozena od mediánu všech zdrojů cen. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
+Když máme skupinu zvolených, důvěryhodných poskytovatelů cen, skutečná cena použitá pro konverzi může být odvozena od mediánu všech zdrojů cen. V tomto případě, pokud jakákoliv menšina poskytovatelů produkuje data mimo rozsah, tato data mají minimální dopad na medián, zatímco stále mají schopnost ovlivnit jejich renomé.
 
-Even if all feed producers are honest, it is possible for the majority of feed producers to be impacted by events beyond their control. The Steem network is designed to tolerate short-term corruption of the median price feed while the community actively works to correct the issue. One example of an issue that may take some time to correct is short-term market manipulation. Market manipulation is difficult and expensive to maintain for long periods of time. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
+Dokonce i když jsou všichni poskytovatelé cenových dat čestní je možné, že většina poskytovatelů bude ovlivněna událostmi mimo jejich kontrolu. Síť Steem je postavena tak, aby tolerovala krátkodobé narušení mediánového zdroje cen, zatímco komunita aktivně pracuje na nápravě. Jeden příklad problému, jehož náprava může trvat nějakou dobu, je krátkodobá manipulace trhu. Je těžké a nákladné udržet manipulaci trhu po delší dobu. Jiný příklad by bylo selhání centralizované burzy, nebo narušení dat publikovaných burzou.
 
-Steem factors out short-term price fluctuations by using the median price over a period of one week. The median published feed is sampled every hour on the hour.
+Steem vyřazuje krátkodobé fluktuace ceny tím, že používá mediánovou cenu za období jednoho týdne. Mediánová publikovaná cena je počítána každou hodinu.
 
-As long as the price feed corruption lasts for less than half the moving median time window it will have minimal impact on the conversion price. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
+Pokud narušení zdroje cenových dat trvá méně než polovinu doby pohybujícího se mediánového okna, tak to bude mít na konverzní cenu jen minimální vliv. V případě, že zdroj cen bude chybný, účastníci na síti budou mít příležitost hlasováním vyloučit poskytovatele chybných cen dříve, než chybná data ovlivní skutečnou konverzní cenu. Možná je ještě důležitější, že to dává producentům dat příležitost detekovat a opravit problémy před tím, než začnou ovlivňovat cenu.
 
-With a one week window, community members have three and a half days to respond to any issues that come up.
+S týdenním časovým oknem mají členové komunity tři a půl dne na to reagovat na jakýkoliv problém, který může nastat.
 
 ### Zmírnění načasovaných útoků
 
-Market participants have access to information faster than the blockchain's one week moving median conversion price can react. This information could be used to benefit of traders at the expense of the community. If there is a sudden increase in the value of STEEM traders could request conversion of their SMD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
+Účastníci trhu mají rychlejší přístup k informacím, než jak může reagovat blockchainová týdenní mediánová konverzní cena. Tato informace může být použita ku prospěchu obchodníků na úkor komunity. Pokud nastane rychlý vzestup ceny STEEM, obchodníci mohou požadovat konverzi svých SMD za starou, nižší cenu a poté prodat takto obdržený STEEM za novou, vyšší cenu s minimálním rizikem.
 
-Steem levels the playing field by requiring all conversion requests to be delayed for one week. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
+Steem toto urovnává tím, že požaduje, aby všechny požadavky na konverzi byly opožděny o týden. To znamená, že ani obchodník, ani blockchain nemá žádnou informační výhodu týkající se ceny v okamžiku, kdy se konverze provádí.
 
 ### Minimalizace zneužití konverzí
 
-If people could freely convert in both directions then traders could take advantage of the blockchains conversion rates by trading large volumes without changing the price. Traders who see a massive run up in price would convert to SMD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SMD to STEEM and not the other way around.
+Kdyby lidé mohli volně konvertovat oběma směry, tak by obchodníci mohli využít konverzních sazeb blockchainu a obchodovat velká množství beze změny ceny. Obchodník, který by viděl velký nárůst ceny, by konvertoval na SMD za tuto vysokou cenu (kdy je to nejriskantnější) a po korekci konvertovat zpět. Steem protokol chrání komunitu před tímto druhem zneužití tak, že dovoluje pouze konverzi ze SMD na STEEM a nikoliv zpět opačným směrem.
 
-The blockchain decides how and when to create SMD and who should get it. This keeps the rate of SMD creation stable and removes most avenues of abuse.
+Blockchain rozhoduje jak a kdy vytvořit SMD a kdo je obdrží. To udržuje kurz SMD stabilní a odstraňuje možné metody zneužití.
 
 ### Likvidita
 
-Just because SMD can be converted to a dollars worth of STEEM at a fair price in a reasonable amount of time doesn't mean it will be viewed as a reliable dollar replacement. These assets require liquidity in a market that enables instantaneous conversion between STEEM and SMD. The measures a blockchain is forced to take to prevent abuse end up lowering the quality of the convertible dollars. To compensate for this loss of quality the blockchain can offer a fixed cost reward to liquidity providers. Whereas the potential losses from manipulation and abuse are unbounded, the cost of encouraging liquidity can be fixed.
+Jen proto, že SMD může konvertován na STEEM v hodnotě 1 dolaru za spravedlivou cenu a v rozumném čase neznamená, že na něj bude pohlíženo jako na spolehlivou náhradu dolaru. Tyto aktiva vyžadují likviditu na trhu, který zajišťuje nepřetržitou konverzi mezi SMD a STEEM. Opatření, která musel blockchain přijmout k prevenci zneužití, způsobila nižší kvalitu konvertibilních dolarů. Jako kompenzaci za tuto ztrátu kvality blockchain nabízí pevně stanovenou odměnu poskytovatelům likvidity. Zatímco potenciální ztráty z manipulace a zneužití jsou neohraničené, cena za povzbuzení likvidity může být pevně daná.
 
-A liquidity provider buys and sells SMD and STEEM. They take on the majority of the short-term price risk and long-term feed risk giving the remaining market participants a high quality, extremely liquid market within which to trade.
+Poskytovatel likvidity kupuje a prodává SMD a STEEM. Bere na sebe většinu rizika krátkodobého pohybu cen i dlouhodobého rizika vyplývajícího z blockchainem publikované ceny a poskytuje ostatním účastníkům trhu vysoce kvalitní, extrémně likvidní trh na němž mohou obchodovat.
 
-Steem has an on-blockchain market between SMD and STEEM. Users can earn rewards by providing liquidity to both sides of this market. The blockchain uses a simple algorithm to rank each user's liquidity provision and consumption.
+Steem má trh mezi SMD a STEEM zabudovaný přímo v blockchainu. Uživatelé mohou vydělat odměny poskytováním likvidity oběma stranám trhu. K určení pořadí každého uživatele při poskytnutí a spotřebě likvidity používá blockchain jednoduchý algoritmus.
 
-A user is considered a liquidity provider if they leave an open order on the books for at least 1 minute and the order is eventually filled. If the order is canceled before being filled then the user is not credited with providing liquidity.
+Uživatel se považuje za poskytovatele likvidity, pokud ponechá na trhu otevřený příkaz alespoň po 1 minutu a příkaz je případně vyplněn. Pokud je příkaz stornován před vyplněním, pak uživatel neobdrží kredit za poskytnutí likvidity.
 
-Users must provide liquidity on both sides of the book to qualify for rewards and they must provide liquidity consistently over time. The scoring algorithm is:
+Aby se uživatelé kvalifikovali pro odměnu, musí poskytovat likviditu na obou stranách trhu důsledně a průběžně. Algoritmus výpočtu je:
 
       Body za likviditu = objem nabídky x objem poptávky
     
 
-Every hour the account with the most LiquidityPoints receives 1200 STEEM and then has its LiquidityPoints reset to 0. An account that goes a week without earning any LiquidityPoints also has its points reset to 0. This means that whether you provide a large amount of liquidity or a small amount over a long period of time everyone gets a proportional amount of the rewards. If either NetBidVolume or NetAskVolume is negative, then LiquidityPoints is considered to be 0.
+Každou hodinu účet s nejvíce body obdrží 1200 STEEM a poté jsou jeho body resetovány na nulu. Účet, který po celý týden nezíská žádné body, je též resetován na 0. To znamená, že ať už poskytnete velkou částku likvidity nebo malou po dlouhý čas, dostanete poměrnou částku odměny. Pokuď je NetBidVolume nebo NetAskVolume negativní předpokládá se, že body jsou 0.
 
 ### Udržitelný poměr dluhu k vlastnictví
 
-If a token is viewed as ownership in the whole supply of tokens, then a token-convertible-dollar can be viewed as debt. If the debt to ownership ratio gets too high the entire currency can become unstable. Debt conversions can dramatically increase the token supply, which in turn is sold on the market suppressing the price. Subsequent conversions require the issuance of even more tokens. Left unchecked the system can collapse leaving worthless ownership backing a mountain of debt. The higher the debt to ownership ratio becomes the less willing new investors are to bring capital to the table.
+Pokud na token (STEEM) nahlížíme jako na podíl na vlastnictví v celé zásobě tokenů, tak na dolar konvertibilní za token (STEEM) pohlížíme jako na dluh. Pokud se poměr dluhu k vlastnictví stane příliš vysokým, tak se celá měna stane nestabilní. Konverze dluhu může dramaticky zvýšit zásobu tokenů (STEEM), které jsou obratem prodávány na trhu a stlačují cenu. Následné konverze vyžadují vydání dokonce ještě více tokenů. Pokud by se to nezměnilo, tak systém zkolabuje a za sebou nechá bezcenné vlastnictví podpírající horu dluhů. Čím vyšší je poměr dluhu k vlastnictví, tím noví investoři méně ochotněji vkládají kapitál.
 
-For every SMD Steem creates, $19.00 of STEEM is also created and converted to SP. This means that the highest possible debt-to-ownership in a stable market is 1:19 or about 5%. If Steem falls in value by 50% then the ratio could increase to 10%. An 88% fall in value of STEEM could cause the debt-to-ownership ratio to reach 40%. Assuming the value of STEEM eventually stabilizes, the debt-to-ownership ratio will naturally move back toward 5%.
+Za každý vytvořený SMD Steem vytvoří STEEM v ceně 19 $ a konvertuje jej na SP. To znamená, že nejvyšší možný poměr dluhu k vlastnictví na stabilním trhu je 1:19 tj. asi okolo 5%. Pokud cena STEEM klesne o 50%, pak poměr může vzrůst na 10%. V případě poklesu ceny STEEM o 88% může dojít k růstu poměru až na 40%. Za předpokladu, že dojde k stabilizaci ceny STEEM, poměr vlastnictví k dluhu se přirozeně vrátí zpět k 5%.
 
-The idea behind having a conservative 5% debt to ownership ratio is that even if all debt were converted and sold there should be ample buyers and the effective dilution of the token holders remains relatively small.
+Za myšlenkou udržovat konzervativní poměr dluhu k vlastnictví 5% je to, že i když by se konvertoval a prodal celý dluh, tak by se měl najít dostatek kupců a rozředění vlastictví ostatních držitelů tokenů by zůstalo relativně malé.
 
-A rapid change in the value of STEEM can dramatically change the debt-to-ownership ratio. The percentage floors used to compute STEEM creation are based on the supply including the STEEM value of all outstanding SMD and SP (as determined by the current rate / feed).
+Rychlá změna ceny STEEM může dramaticky změnit poměr dluhu k vlastnictví. Procentuální základ použitý k tvorbě STEEM je založen na celkové zásobě včetně STEEM ceny všech vydaných SMD a SP (dle aktuální publikované sazby).
 
 ### Úrok
 
-SMD pays holders interest. The interest rate is set by the same people who publish the price feed so that it can adapt to changing market conditions. All debt carries risk to the lender. Someone who holds SMD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SMD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
+SMD vyplácí úroky. Úroková míra je nastavena těmi samými lidmi kteří publikují ceny, takže se může přizpůsobit tržním podmínkám. Každý dluh sebou nese riziko pro věřitele. Ten kdo drží SMD bez toho, aby si je vyměnil ve skutečnosti půjčuje komunitě hodnotu 1 dolaru. Věří, že někdy v budoucnosti bude někdo ochoten od něho koupit SMD za dolar anebo že budou spekulanti a investoři ochotní koupit STEEM, na který on SMD konvertuje.
 
-STEEM and SP holders gain leverage when members of the community are willing to hold SMD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
+Když jsou členové komunity ochotni držet SMD, držitelé STEEM a SP získají pákový efekt. Tento pákový efekt zvyšuje zisky z růstu, přičemž též k růstu přispívá. V případě pádu cen držitelé STEEM utrpí zvýšeným naředěním. Kryptoměnné projekty ukázaly, že zisky z rozšíření členské základny ochotné důvěřovat síti kapitálem nakonec přidaly síti více hodnoty než jakékoliv naředění, které může nastat v případě poklesu.
 
 ### Udržitelnost poměru dluhu k vlastnictví
 
-Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity<sup id="fnref:4"><a href="#fn:4" class="footnote-ref">4</a></sup> which states that it is impossible to have all three of the following at the same time:
+Chytrý čtenář rozpozná, že aktivum omezeného množství které vynáší úrok se může obchodovat výše či níže než podkladové aktivum v závislosti na ostatních příležitostech jak vydělat úrok na tomto aktivu. Když je za aktivum vázané k US dolaru placen vysoký úrok, mnoho lidí bude poptávat omezené množství SMD až přestane být cena rovna 1$. V ekonomice je známý princip zvaný „Nemožná trojice“<sup id="fnref:4"><a href="#fn:4" class="footnote-ref">4</a></sup>, který stanoví, že není možno mít zároveň všechny tři následující vlastnosti ve stejný čas:
 
 1. Stabilní kurz
 2. Volný pohyb kapitálu
 3. Nezávislou monetární politiku
 
-If Steem feed producers aim to have an independent monetary policy allowing it to create and destroy Steem Dollars while simultaneously having full control over the interest rate then they will encounter problems. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
+Pokud by poskytovatelé cen STEEM usilovali o to mít nezávislou monetární politiku umožňující tvořit a likvidovat Steem dolary a zároveň měli plnou kontrolu nad úrokovou mírou, potom by narazili na problémy. Nemožná trojice tvrdí, že Steem dolar potřebuje buď omezit pohyb kapitálu, nebo mít nestabilní kurz k $ nebo mít omezenou kontrolu nad úrokovou mírou.
 
-The primary concern of Steem feed producers is to maintain a stable one-to-one conversion between SMD and the U.S. Dollar (USD). Any time SMD is consistently trading above $1.00 USD interest payments must be stopped. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SMD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
+Primární starostí poskytovatelů cen v Steem je udržovat stabilní kurz 1:1 mezi SMD a USD. Kdykoliv je SMD trvale obchodován nad 1$, musí být zastaveny platby úroků. Na trhu kde při 0% úroku je stále požadována prémie (za prodej SMD) můžeme bezpečně tvrdit, že trh je ochoten poskytnou více úvěru, než kolik je na sebe komunita ochotna vzít. Pokud se tak stane a SMD bude ceněn na více než 1 $ je jen málo toho, co může komunita udělat bez účtování záporného úroku.
 
-If the debt-to-ownership ratio is under 10% and SMD is trading for less than $1.00 then the interest rate should be increased. This will encourage more people to hold their SMD and support the price.
+Pokud je poměr dluhu k vlastnictví pod 10% a SMD se obchoduje za méně než 1$, pak je třeba zvýšit úrokovou míru. To povzbudí více lidí k držbě jejich SMD a podpoří jeho cenu.
 
-If SMD trades for less than $1.00 USD and the debt-to-ownership ratio is over 10% then the feeds should be adjusted upward give more STEEM per SMD. This will increase demand for SMD while also reducing the debt-to-ownership ratio and returning SMD to parity with USD.
+Pokud se SMD obchoduje za méně než 1$ a poměr dluhu k vlastnictví je více než 10% tak se musí ceny upravit tak, aby za SMD bylo dáno více STEEM. To zvýší zájem o SMD a zároveň sníží poměr dluhu k vlastnictví a vrátí SMD na paritu s $.
 
-Assuming the value of STEEM is growing faster than Steem is creating new SMD, the debt-to-ownership ratio should remain under the target ratio and the interest offered benefits everyone. If the value of the network is at or falling, then any interest offered will only make the debt-to-ownership ratio worse.
+Za předpokladu, že hodnota STEEM roste rychleji než Steem vydává nové SMD, poměr dluhu k vlastnictví by měl zůstat pod cílovým poměrem a nabízený úrok by měl prospívat všem. Pokud zůstává cena sítě stejná nebo klesá, pak jakýkoliv nabízený úrok jen zhoršuje poměr dluhu k vlastnictví.
 
-In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
+Platí, že poskytovatelům cen je svěřena zodpovědnost za nastavení monetární politiky tak, aby byla udržena stabilní vazba na USD. Zneužití této moci může způsobit škodu Steemu a tak držitelé SP hlasují pro svědky na které se mohou spolehnout, že nastaví ceny a úrokové míry v souladu s výše popsanými pravidly.
 
-If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SMD.
+Pokud se poměr dluhu k vlastnictví stane nebezpečně vysokým a účastníci trhu se rozhodnou nevyužívat konverzi, pak by měl být nastaven vyšší kurz, v kterém se STEEM mění za SMD.
 
-Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SMD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions. The blockchain is paying liquidity providers for their service in absorbing short-term demands.
+Změny v úrokových mírách a jakékoliv příplatky/srážky v kurzu STEEM/SMD by měla být pomalá a uvážlivá odpověď na dlouhodobé průměrné odchylky spíše než pokusy odpovědět na krátkodobé poměry na trhu. Blockchain platí poskytovatelům likvidity za jejich služby při absorbci krátkodobých požadavků.
 
-It is our belief that these rules will give market participants confidence that they are unlikely lose money by holding SMD purchased at a price of $1.00. We fully expect there to be a narrow trading range between $0.99 and $1.01 for SMD under most market conditions.
+Věříme, že tato pravidla dají účastníkům trhu jistotu, že ztráta prostředků držených v SMD které byly zakoupeny za 1$ je nepravděpodobná. Zcela očekáváme, že za normálních tržních podmínek bude SMD obchodován v úzkém rozmezí 0,99 až 1,01 $.
 
-## Subjective Contributions
+## Subjektivní příspěvky
 
-Subjective Proof of Work presents an alternative approach to distributing a currency that improves upon fully *objective* Proof of Work systems such as mining. The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
+Subjektivní důkaz práce je alternativní přístup k distribuci měny, který vylepšuje plně *objektivní* systém důkazu práce jako je těžba. Použití měny používající *subjektivní* důkaz práce je mnohem širší, než u jakéhokoliv *objektivního* důkazu práce, protože může být použit k vybudování komunity kolem jakéhokoliv konceptu, který má dostatečně definovaný účel. Když jednotlivci přistupují do komunity, kapitálově vstoupí do určité sady názorů a mohou hlasovat, aby posílili komunitní hodnoty a účel.
 
-In effect, the criteria by which work is evaluated is completely subjective and its definition lives outside the source code itself. One community may wish to reward artists, another poets, and another comedians. Other communities may choose to reward charitable causes or help advance political agendas.
+V důsledku toho jsou kritéria, kterými se řídí ohodnocení práce zcela subjektivní a jejich vymezení je mimo vlastní zdrojový kód. Jedna komunita si může přát odměňovat výtvarníky, jiná básníky a další komiky. Jiné komunity mohou odměňovat charitu nebo pomáhat s rozvojem politických programů.
 
-The value each currency achieves depends upon the demand for influence within a particular community and how large the market believes each community can get. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
+Hodnota, které měna dosáhne, záleží na zájmu o dosažení vlivu v určité komunitě a na tom, jak trh posoudí možnou velikost komunity. Na rozdíl od předchozích systémů subjektivní důkaz práce umožňuje komunitě kolektivně financovat vývoj čehokoliv, co shledá cenným a umožňuje monetizaci předtím nemonetizovatelného času.
 
 ### Distribuce měny
 
-There are two ways people can get involved with a crypto-currency community: they can *buy in*, or they can *work in*. In both cases users are adding value to the currency, however, the vast majority of people have more *free time* than they do *spare cash*. Imagine the goal of bootstrapping a currency in a poor community with no actual *cash* but plenty of *time*. If people can earn money by working for one another then they will bootstrap value through mutual exchange facilitated by a fair accounting/currency system.
+Jsou dvě cesty, jak se lidé mohou angažovat v kryptoměnné komunitě: mohou měnu *nakoupit* nebo za ní mohou *pracovat*. V obou případech měně přidávají na ceně, avšak velká většina lidí má více *volného času* než *volných finančních* prostředků. Představte si úkol zavést měnu v chudé komunitě bez *peněz*, ale se spoustou *času*. Pokud si lidé mohou vydělat peníze prací jeden pro druhého, pak hodnotu zvýší vzájemnou výměnou usnadněnou spravedlivým účetním/měnovým systémem.
 
-Distributing a currency to as many people as possible in a manner that is generally perceived as fair is a challenging task. The tasks that can be entirely evaluated by an objective computer algorithm are limited in nature and generally speaking have limited positive external benefits. In the case of Bitcoin-style mining, it can result in the production of specialized hardware and cause people to invest time developing more efficient algorithms. It may even help find prime numbers, but none of these things provide meaningful value to society or the currency holding community at large. More importantly, economies of scale and market forces will end up excluding everyone but experts from participating in this kind of distribution. Ultimately, computation-based mining is just another way of *buying* in because it requires money to pay the electric bill or the development of hardware necessary to do the work.
+Distribuce měny co nejvíce lidem způsobem, který je obecně posuzován jako spravedlivý, je náročný úkol. Úlohy, které mohou být celé posouzeny objektivním počítačovým algoritmem jsou z podstaty omezené a obecně řečeno mají omezené pozitivní externí benefity. V případě těžby jako u Bitcoinu to může vyústit ve výrobu specializovaného hardwaru a také to způsobí, že lidé investují čas do vývoje efektivnějších algoritmů. Může to dokonce pomoci nalézt prvočísla, ale žádná z těchto věcí neposkytuje smysluplnou hodnotu společnosti nebo komunitě držitelů měny. A co je důležitější, tržní síly a úspory z rozsahu produkce vyloučí všechny mimo expertů z účasti na tomto druhu distribuce. Navíc těžba pomocí počítače je jen jiný způsob *nákupu*, protože vyžaduje peníze na platbu za elektřinu nebo vývoj hardware nezbytného na práci.
 
-In order to give everyone an equal opportunity to get involved and earn the currency people must be given an opportunity to work. The challenge is how to judge the relative quality and quantity of work that individuals provide and to do so in a way that efficiently allocates rewards to millions of users. This requires the introduction of a scalable voting process. In particular it requires that authority to allocate funds must be as distributed and decentralized as possible.
+Aby každý měl rovnou šanci zůčastnit se a vydělat měnu, lidé musí dostat příležitost k práci. Výzva je jak posoudit relativní kvalitu a kvantitu práce, kterou jednotlivci poskytují a udělat to způsobem, který efektivně přiděluje odměny milionům uživatelů. To vyžaduje zavedení rozšiřitelného hlasovacího systému. Obzvláště to vyžaduje, aby právo alokace zdrojů bylo co nejvíce distribuované a decentralizované.
 
-The first step in rewarding millions of users is to commit to distributing a fixed amount of currency regardless of how much work is actually done or how users vote. This changes the question from being *"Should we pay?"* to *"Whom should we pay?"* and signals to the market that money is being distributed and is being auctioned off to whoever "bids" the most *work*. This is similar to Bitcoin committing to award 50 BTC to whoever finds the most difficult hashes. Like Bitcoin, all work must be done prior-to payout and nothing should be paid speculatively on the promise to do work in the future.
+První krok k odměňování miliónů uživatelů je zavázat se k distribuci pevné sumy měny bez ohledu na to, jak mnoho práce je vykonáno a jak uživatelé hlasují. To mění otázku z *Máme zaplatit?* na *Komu máme zaplatit?* a trhu to signalizuje, že peníze jsou distribuovány a jsou vydraženy tomu, kdo nabídne nejvíce *práce*. Je to podobné, jako když Bitcoin nabízí 50 BTC tomu, kdo první nalezne nejtěžší hash. Stejně jako u Bitcoinu musí být práce hotová před výplatou a nic není vyplaceno dopředu na základě slibu provedení práce v budoucnu.
 
-The next step is to reward everyone who does anything even remotely positive with *something*. This is accomplished by ranking all work done and distributing proportionally to its value. The more competitive the market becomes, the more difficult (higher quality or quantity) it becomes to earn the same payout.
+Další krok je odměnit každého, který dělá něco pozitivního, byť jen vzdáleně spojeného s *něčím*. Toho se docílí ohodnocením veškeré udělané práce a distribucí v poměru k její hodnotě. Čím konkurenčnější se trh stane, tím těžší (více práce nebo kvalitnější) bude dosáhnout stejné výplaty.
 
 ### Hlasování o rozdělení měny
 
-Assume there is a fixed amount of money to distribute, and that those who have a long-term vested interest in the future value and utility of the currency are the ones who must decide how to allocate it. Every vesting user casts their votes on who did the best work and at the end of the day the available money for that day is divided proportional to the votes such that everyone with even one net positive vote gets something.
+Předpokládejme, že existuje pevná suma peněz k distribuci a že ti kdo mají dlouhodobý zájem na budoucí hodnotě a použitelnosti měny jsou ti kteří mají rozhodnout o jejím přidělení. Každý (steempower) uživatel přiděluje svoje hlasy tomu, kdo udělal nejlepší práci a na konci dne jsou peníze dostupné pro tento den rozděleny v poměru k hlasům tak, že každý s alespoň jedním kladným hlasem něco dostane.
 
-The naive voting process creates a Prisoner's Dilemma whereby each individual voter has incentive to vote for themselves at the expense of the larger community goal. If every voter defects by voting for themselves then no currency will end up distributed and the currency as a whole will fail to gain network effect. On the other hand, if only one voter defects then that voter would win undeserved profits while having minimal effect on the overall value of the currency.
+Tento naivní hlasovací proces vytváří vězeňské dilema, kdy každý jednotlivý hlasující má důvod hlasovat pro sebe na úkor cílů širší komunity. Pokud by každý hlasující „zběhl“ a hlasoval pro sebe, tak by se nedistribuovala žádná měna a měna jako celek by nezískala síťový efekt. Na druhou stranu pokud by to dělal jen jeden hlasující, tak by získal nezasloužený zisk, zatímco by to mělo na celkovou hodnotu měny jen malý vliv.
 
-In order to realign incentives and discourage individuals from simply voting for themselves, money must be distributed in a nonlinear manner. For example a quadratic function in votes, i.e., someone with twice the votes of someone else should receive four times the payout and someone with three times the votes should receive nine times the payout. In other words, the reward is proportional to \\(votes^{2}\\) rather than *votes*. This mirrors the value of network effect which grows with \\(n^{2}\\) the number of participants, according to Metcalfe's Law<sup id="fnref:5"><a href="#fn:5" class="footnote-ref">5</a></sup>.
+Pro reorganizaci pobídek a odrazení jednotlivců od hlasování pro sebe musí být peníze distribuovány nelineárním způsobem. Třeba kvadratická funkce v hlasování jako například někdo s dvojnásobkem hlasů než někdo jiný obdrží čtyřnásobnou výplatu a někdo s trojnásobkem hlasů obdrží devítinásobnou výplatu. Jinými slovy odměna je úměrná hlasům nadruhou a ne *hlasům*. To zrcadlí hodnotu síťového efektu který dle Metcalfova zákona<sup id="fnref:5"><a href="#fn:5" class="footnote-ref">5</a></sup> roste s n na druhou \\(n^{2}\\) (počet účastníků).
 
-Assuming all users have equal stake, someone who only receives their own vote will receive much less than someone who receives votes from 100 different users. This encourages users to *cooperate* to vote for the same things to maximize the payout. This system also creates financial incentive to *collude* where everyone votes on one thing and then divides the reward equally among themselves.
+Za předpokladu, že všichni uživatelé mají stejný podíl, tak ten kdo obdrží jen svoje hlasy získá mnohem méně než ten, kdo obdrží hlasy 100 různých jiných účastníků. To povzbuzuje účastníky pro maximalizaci výplaty ke *spolupráci* na hlasování pro stejné věci. Tento systém také vytváři finanční pobídku k *tajné spolupráci*, kdy všichni hlasují pro jednu věc a pak si mezi sebe rozdělí odměnu rovným dílem.
 
-#### Voting Collusion
+#### Nekalá soutěž při hlasování
 
-While cooperation to distribute funds to the best work is the desired goal, *collusion* that undermines this objective should be minimized. There are two kinds of *collusion*, the most straightforward is when one user simply buys a larger stake than others, and the other involves coordinating a large number of smaller stakeholders to work together. Larger stakeholders can have the voting influence of 100 or even 1000 smaller stakeholders which means they have even greater incentive to defect by voting for themselves than they had under a linear distribution.
+Zatímco spolupráce při distribuci fondů nejlepší odvedené práci je žádoucí cíl, *nekalá soutěž* která podrývá tento cíl musí být minimalizována. Jsou dva druhy *nekalé soutěže*. Ta nejpřímější je, když jeden uživatel prostě koupí větší podíl než ostatní a ta druhá zahrnuje koordinaci spolupráce většího množství menších podílníků. Větší podílníci mohou mít hlasovací sílu sta nebo dokonce tisíce menších podílníků, což znamená, že mají dokonce větší pobídku k „zběhnutí“ hlasováním pro sebe než měli při lineární distribuci.
 
-Regardless of how much money any one individual has, there are always many other individuals with similar wealth. Even the wealthiest individual rarely has much more than the next couple wealthiest combined. Furthermore, those who have a large investment in a community also have the most to lose by attempting to game the voting system for themselves. It would be like the CEO of a company deciding to stop paying salaries so he could pocket all of the profits. Everyone would leave to work for other companies and the company would become worthless, leaving the CEO bankrupt rather than wealthy.
+Bez ohledu na to jak mnoho peněz má jakýkoliv jedinec, je vždy mnoho dalších jedinců s podobným bohatstvím. Dokonce i nejbohatší jednotlivec má málokdy více než další dva nejbohatší dohromady. Navíc ti kdo mají velkou investici v komunitě mohou též nejvíce ztratit pokusem obelstít pro sebe hlasovací systém. Bylo by to, jako kdyby se generální ředitel společnosti rozhodl přestat vyplácet mzdy, aby si mohl přivlastnit všechny zisky. Všichni by odešly pracovat pro ostatní společnosti a podnik by se stal bezcenným. Ředitel by se nestal bohatým, ale zkrachoval by.
 
-Fortunately, any work that is getting a large concentration of votes is also gaining the most scrutiny (publicity). Through the addition of *negative-voting* it is possible for many smaller stakeholders to nullify the voting power of collusive groups or defecting large stakeholders. Furthermore, large-stakeholders have more to lose if the currency falls in value due to abuse than they might gain by voting for themselves. In fact, honest large stakeholders are likely to be more effective by policing abuse and using negative voting than they would be by voting for smaller contributions.
+Naštěstí každá práce která dostává velkou koncentraci hlasů též získává největší (publicitu). Pomocí součtu *negativních* hlasů je pro mnoho menších podílníků možné zrušit hlasovací sílu nekale soutěžících skupin nebo „zběhlých“ velkých podílníků. Dále velcí podílníci mají více co ztratit, pokud jejich měna klesne v ceně pro zneužití, než mohou získat hlasováním pro sebe. Ve skutečnosti čestní velcí podílníci budou pravděpodobně efektivnější při hlídání podvodů a používání negativního hlasování, než by byli při hlasování o menších příspěvcích.
 
-The use of *negative-voting* to keep people from abusing the system leverages the *crab mentality* that many people have when it is perceived that one individual is profiting at the expense of everyone else. While crab mentality normally refers to short-sighted people keeping good people down, it is also what allows good people to keep bad people down. The only "problem" with crab mentality is when people *wrongly believe* someone is profiting at everyone else's expense.
+Použití *negativního* hlasování k odrazení lidí od zneužívání systému násobí *krabí mentalitu* kterou má mnoho lidí když si uvědomí, že jednotlivec profituje na úkor někoho jiného. Zatímco krabí mentalita normálně označuje krátkozraké lidí kteří sráží dobré lidí je to též to, co umožňuje dobrým lidem srazit ty špatné. Jediný problém s krabí mentalitou je, když lidé *chybně věří,* že někdo profituje na úkor někoho jiného.
 
 > #### Příběh vědra plného krabů<sup id="fnref:6"><a href="#fn:6" class="footnote-ref">6</a></sup>
 > 
@@ -241,97 +241,97 @@ The use of *negative-voting* to keep people from abusing the system leverages th
 > 
 > A tak je to i lidmi. Pokud se jeden snaží dělat něco odlišného, mít lepší známky, zlepšit se, uniknout z jejich společnosti, nebo mít velké sny, ostatní lidé se ho pokusí strhnout zpět, aby sdílel jejich osud.
 
-Eliminating "abuse" is not possible and shouldn't be the goal. Even those who are attempting to "abuse" the system are still doing work. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn't so rampant that it undermines the incentive to do real work in support of the community and its currency.
+Eliminace „zneužití“ není možná a neměla by být cílem. Dokonce i ti, kteří se pokoušejí o zneužití systému, stále pracují. Jakákoliv kompenzace, kterou obdrží za jejich úspěšné pokusy zneužití nebo nekalé konkurence je přinejmenším tak cenná pro účely distribuce měny, jako systém použitý tradiční Bitcoinovou těžbou nebo těžbou přes těžařská sdružení. Vše co je potřebné, je zajistit, aby zneužívání nebylo tak rozbujelé, že by by podrylo stimulaci provádět opravdovou práci na podporu komunity a její měny.
 
-The goal of building a community currency is to get more "crabs in the bucket". Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs suf cient power to prevent others from escaping.
+Cílem budování komunitní měny je dostat více „krabů do vědra“. Pokud použijeme extrémní opatření k eliminaci všech zneužití, je to jako používat víko na vědru k zabránění útěku několika málo krabů za cenu toho, že ztížíme přidávání nových krabů. Postačuje mít kluzké stěny a nechat ostatním krabům prostor, aby ostatním zabránili utéct.
 
 ### Omezená frekvence hlasování
 
-A major part of minimizing abuse is the rate-limiting of voting. Individual users can only read and evaluate so many work items per day. Any attempt to vote more frequently than this is a sign of automation and potential abuse. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
+Podstatnou součástí minimalizace zneužití je omezená frekvence hlasování. Jednotlivý uživatel může číst a ocenit pouze určitý počet příspěvků denně. Pokus hlasovat častěji je příznakem automatizace a potencionálního zneužití. Pomocí omezování frekvence hlasování mají podílníci, kteří hlasují častěji menší hodnotu jednotlivého hlasu než ti, kdo hlasují méně častěji. Pokusy rozdělit podíly mezi více účtů též rozdělují vliv a proto neústí v zisk hlasovací síly, ani neobejdou omezení frekvence hlasování.
 
 ![](\img_voting_rate_limiting.png)
 
-The charts above shows how a user's voting power decreases every time they vote and then regenerates as time passes without voting. These charts use nominal time unit and could be made to scale to any targeted voting rate. Note that voting power rapidly drops off during periods of continuous voting, and then slowly recovers.
+The charts above shows how a user's voting power decreases every time they vote and then regenerates as time passes without voting. These charts use nominal time unit and could be made to scale to any targeted voting rate. Hlasovací síla rapidně klesá během období nepřetržitého hlasování a poté se pomalu obnovuje.
 
-Voting power is multiplied by a user's vesting tokens to determine how much share in the reward pool should be allocated to a given work item.
+Aby se určil podíl na odměnách alokovaných danému příspěvku, tak je hlasovací síla násobena SP uživatele.
 
 ### Zpožděné výplaty
 
 ![](\img_change_voting_period_eg.png)
 
-To further prevent abuse, all payouts are delayed a stake-weighted average of 24 hours from the time each vote was cast. This ensures that large stakeholders cannot snipe payouts by voting at the last second before other voters (aka crabs) have a chance to negate the potential abuse. Once a payout is made to the user all votes are reset to 0. If votes come in after the payout then the process begins again.
+Pro ještě větší prevenci zneužití všechny výplaty tvoří zpožděný 24 hodinový vážený průměr podílů od doby hlasování. To zajišťuje, že velcí podílníci nemohou sebrat výplaty hlasováním v poslední vteřině předtím, než ostatní hlasující (neboli kraby) mají možnost negovat potenciální zneužití. Jakmile proměhne výplata, tak jsou hlasy resetovány na nulu a proces začne znovu. Čas vypršení hlasovacího období se mění v reakci na nová pozitivní i negativní hlasování.
 
-This chart shows how the voting period expiration changes in response to new positive and negative votes being applied. New votes extend the payout period in proportion to how large they are relative to all votes that have gone before. Around time 40 a large number of new votes were added which extended the voting period by 12 hours, subsequent smaller votes had far less impact on the voting period.
+This chart shows how the voting period expiration changes in response to new positive and negative votes being applied. Nové hlasy prodlužují dobu k výplatě v závislosti na tom, jak jsou silné v porovnání se všemi předešlými hlasy. Around time 40 a large number of new votes were added which extended the voting period by 12 hours, subsequent smaller votes had far less impact on the voting period.
 
 ### Distribuce výplat
 
 ![](\img_the_new_marketplace.png)
 
-One of the primary goals of Steem's reward system is to produce the best discussions on the internet. Each and every year 10% of the market capitalization of Steem is distributed to users submitting, voting on, and discussing content. At the size of Bitcoin this could be as much as $1.75 million dollars per day being given to top contributors.
+Jedním z hlavních cílů systému odměn Steemu je vytvořit nejlepší diskusi na internetu. Každý den je 10% tržní kapitalizace Steemu rozděleno uživatelům tvořícím obsah, o obsahu hlasujícím a diskutujícím. Při velikosti Bitcoinu by to mohlo být až 1,75 miliónu $ za den rozdělených hlavním přispěvatelům.
 
-The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content. Steem weighs payouts proportional to \\(n^{2}\\) the amount of Steem Power voting for a post. In other words, post x would receive a payout proportional to:
+Skutečná distribuce bude záviset na způsobu hlasování uživatelů, ale domníváme se, že podstatná většina odměn bude rozdělena mezi nejpopulárnější obsah. Steem přiřazuje výplaty proporcionálně k \\(n^{2}\\) sumy Steem power hlasující pro příspěvek. Jinými slovy příspěvek x by obdržel výplatu úměrnou:
 
-\\(votes[x]^{2} / sum(votes[0...n]^{2})\\)
+\\(hlasy[x]^{2} / součet(hlasy[0...n]^{2})\\)
 
-Zipf's Law<sup id="fnref:7"><a href="#fn:7" class="footnote-ref">7</a></sup> is one of those empirical rules that characterize a surprising range of real-world phenomena remarkably well. It says that if we order some large collection by size or popularity, the second element in the collection will be about half the measure of the first one, the third one will be about one-third the measure of the first one, and so on. In general, the \\(k^{th}\\)-ranked item will measure about 1/k of the first one.
+Zipfův zákon<sup id="fnref:7"><a href="#fn:7" class="footnote-ref">7</a></sup> je jedno z těch empirických pravidel, které charakterizuje překvapivý rozsah fenoménů reálného světa pozoruhodně dobře. Říká, že pokud seřadíme nějaký velký soubor podle velikosti nebo oblíbenosti, druhý prvek v souboru bude okolo poloviny velikosti prvního, třetí bude okolo třetiny velikosti prvního atd. Obecně prvek na pozici k bude měřit okolo 1/k toho prvního.
 
-Taking popularity as a rough measure of value, then the value of each individual item is given by Zipf's Law. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
+Pokud vezmeme popularitu jako hrubé měřítko ceny, pak hodnota každé jednotlivé položky je daná Zipfovým zákonem. To jest pokud máme milión položek, pak nejpopulárnějších 100 přispěje k celkové hodnotě 1/3, dalších 10 000 další třetinou a zbylých 989 900 poslední třetinou. Hodnota kolekce n položek je úměrná log(n).
 
-The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
+Dopad tohoto hlasování a distribuce výplat je nabídka velkých odměn za dobrý obsah, zatímco jsou stále odměňování menší hráči za jejich dlouhodobé přispívání.
 
-The economic effect of this is similar to a lottery where people over-estimate their probability of getting votes and thus do more work than the expected value of their reward and thereby maximize the total amount of work performed in service of the community. The fact that everyone "wins something" plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
+Ekonomický efekt je podobný loterii, v které lidé přeceňují svojí pravděpodobnost obdržení hlasů a tak udělají více práce, než je očekávaná hodnota jejich odměny a tak maximalizují celkové množství práce při službě komunitě. Skutečnost, že každý „něco vyhraje“ spoléhá na tu samou psychologii, kterou používají kasina aby lidé pokračovali ve hře. Jinými slovy, malé odměny pomáhají utvrdit myšlenku, že je možno získat velkou odměnu.
 
-#### Rewarding Parent Posts
+#### Odměňování výchozího příspěvku
 
-Good discussion requires back and forth posting. When you reply to someone else, they get 50% of any payout you receive in that thread. This rule applies up to 6 levels deep. Starting a big discussion greatly rewards the parent poster.
+Dobrá diskuse vyžaduje odpovědi na příspěvky. Když někomu odpovíte, dostane 50% odměny kterou obdržíte v tomto vláknu. Toto pravidlo se aplikuje až do hloubky 6 úrovně. Nastartování velké diskuse výrazně odměňuje autora mateřského příspěvku.
 
-Failure to properly nest your posts in the discussion is a good way to get down voted.
+Selhání při správném umístění vašeho příspěvku v diskusi je dobrý způsob jak být penalizován (downvoted).
 
-This incentive structure motivates people to contribute in a way that motivates others to get involved. It encourages people to ask good questions so that others can provide valuable answers.
+Tato struktura pobídek motivuje lidi přispívat tak, aby motivovali k příspěvkům ostatní. Povzbuzuje lidi klást dobré otázky tak, že ostatní mohou poskytnout cenné odpovědi.
 
 ### Výplaty
 
-When a post receives a payout it takes the form of 50% SMD and 50% SP. The Steem Power give the user increased voting and transaction power while the SMD gives the user an immediate benefit in a stable currency. As we've already discussed at length, both SP and SMD are designed to encourage long-term holding rather than short-term selling.
+Když příspěvek obdrží výplatu, tak je to ve formě 50% SMD a 50% SP. Steem Power dá uživateli zvýšenou hlasovací a transakční sílu, zatímco Steem Dollar dává uživateli okamžitou výhodu stabilní měny. Jak jsme již podrobně vysvětlili, jak SP tak SMD jsou určeny k povzbuzení dlouhodobé držby spíše než pro okamžitý prodej.
 
-# Consensus Algorithm
+# Algoritmus shody
 
-Consensus is the process by which a community comes to a universally recognized, unambiguous agreement on piece of information. There are many algorithms society has developed for reaching consensus about who owns what. Every government on earth is a primitive consensus algorithm whereby the population agrees to abide by a certain set of rules enshrined in a constitution. Governments establish courts, judges, and juries to interpret the subjective facts and render a final decision. Most of the time people abide by the decision even if it was wrong.
+Shoda je proces, kterým komunita dojde k obecně uznanému jednoznačnému názoru na konkrétní informaci. Je mnoho algoritmů, které si společnost vyvinula pro dosažení shody o tom, co kdo vlastní. Každá vláda na světě je jednoduchý algoritmus shody prostřednictvím kterého se obyvatelstvo podřizuje určité sadě pravidel uchované v ústavě. Vlády ustavují soudy, soudce a poroty k interpretaci subjektivních faktů a vynesení konečného rozhodnutí. Lidé se po většinu času řídí těmito rozhodnutími, i když byly chybné.
 
-The algorithms used by cryptocurrencies provide a better way to reach consensus. Cryptographically signed testimony from individuals is recorded in a public ledger that establishes the absolute global order of events. A deterministic computer algorithm can then process this ledger to derive a universally accepted conclusion. So long as the members of a community agree on the processing algorithm, the result of the algorithm is authoritative.
+Algoritmus používaný kryptoměnami poskytuje lepší cestu k dosažení shody. Kryptograficky podepsané svědectví od jednotlivců je nahráno do veřejného protokolu, který stanoví absolutní celkové pořadí událostí. Deterministický počítačový algoritmus může poté zpracovat tyto záznamy a odvodit obecně přijímaný závěr. Dokud členové komunity souhlasí s algoritmem zpracování, výsledek algoritmu je směrodatný.
 
-The primary consideration is determining what testimony is allowed to enter the public record. Systems should be designed to minimize the potential for censorship. Censorship on the public ledger is similar to preventing someone from voting in an election. In both cases an individual is prevented from impacting the global consensus.
+První úvaha je rozhodnutí o tom, jaké svědectví je přípustné pro zápis do veřejného protokolu. Systém by měl být navržen pro minimalizaci případné censury. Censura ve veřejném protokolu je podobná tomu bránit někomu hlasovat ve volbách. V obou případech je jedinci zabráněno ovlivnit celkový konsenzus.
 
-## Consensus in Steem
+## Shoda v Steemu
 
-Conceptually, the consensus algorithm adopted by Steem is similar to the consensus algorithm adopted by companies throughout the world. People with a vested interest in the future value of Steem vote to select individuals responsible for including testimony in the public record. Voting is weighted proportional to each individual's vested interest.
+Koncepčně je algoritmus shody přijatý Steemem podobný algoritmu shody přijatého obchodními společnostmi po celém světě. Lidé se zájmem o budoucí hodnotu Steemu (tj. držitelé SP) hlasují při výběru jednotlivců zodpovědných za vnášení záznamů do veřejného protokolu. Váha hlasu je úměrná SP jednotlivce.
 
-In the world of cryptocurrencies, the public record is commonly referred to as a *blockchain*. A *block* is a group of signed transactions.
+Ve světě kryptoměn je veřejný protokol všeobecně nazýván *blockchain*. *Blok* je skupina podepsaných transakcí.
 
-With Steem, block production is done in rounds. Each round 21 witnesses are selected to create and sign blocks of transactions. Nineteen (19) of these witnesses are selected by approval voting, one is selected by a computational proof-of-work, and one is timeshared by every witness that didn't make it into the top 19 proportional to their total votes. The 21 active witnesses are shuffled every round to prevent any one witness from constantly ignoring blocks produced by the same witness placed before.
+V Steem probíhá produkce bloků v kolech. V každém kole se vybere 21 svědků k vytvoření a podepsání bloku transakcí. 19 z těchto svědků je vybráno hlasováním, 1 je vybrán dle počítačového proof-of-work (důkaz práce) a 1 je vybrán z těch svědků, kteří nejsou v prvních 19 dle počtu hlasů. Těch 21 svědků je v každém kole promícháno, aby se zabránilo tomu, že jeden svědek bude trvale ignorovat bloky vytvořené tím samým svědkem v řadě před ním.
 
-This process is designed to provide the best reliability while ensuring that everyone has the potential to participate in block production regardless of whether they are popular enough to get voted to the top. People have three options to overcome censorship by the top 19 elected witnesses: patiently wait in line with everyone else not in the top 19, purchase enough computational power to solve a proof of work faster than others, or purchase more SP to improve voting power. Generally speaking, applying censorship is a good way for elected witnesses to lose their job and therefore, it is unlikely to be a real problem on the Steem network.
+Tento systém je projektován tak, aby poskytl nejvyšší spolehlivost, zatímco by zajistil, aby každý měl možnost spolupracovat na produkci bloků bez ohledu na to, zda je dost populární na to, aby byl zvolen. Jsou tři možnosti jak překonat cenzorství 19 nejvýše zvolených svědků: trpělivě čekat v řadě s ostatními kteří nejsou v prvních 19, koupit dostatek výpočetního výkonu k vyřešení proof-of-work rychleji než ostatní nebo koupit více SP k vylepšení hlasovací síly. Obecně řečeno censorství je pro zvoleného svědka dobrá cesta ke ztrátě jeho práce a proto je nepravděpodobné, že by se to v síti Steem stalo opravdovým problémem.
 
-Because the active witnesses are known in advance, Steem is able to schedule witnesses to produce blocks every 3 seconds. Witnesses synchronize their block production via the NTP protocol. A variation of this algorithm has been in use by the BitShares network for over a year where it has been proven to be reliable.
+Protože aktivní svědci jsou známi dopředu, Steem je schopný naplánovat práci svědků tak, aby produkovali bloky každé 3 vteřiny. Svědci synchronizují svojí produkci bloků přes NTP protokol. Variace tohoto algoritmu je používána sítí BitShares již přes rok a tam se osvědčila jako spolehlivá.
 
-## Mining in Steem
+## Těžba v Steemu
 
-Traditional proof of work blockchains combine block production with the solving of a proof of work. Because the process of solving a proof of work takes an unpredictable amount of time, the result is unpredictable block production times. Steem aims to have consistent and reliable block production every 3 seconds with almost no potential for forks.
+Tradiční blockchainy založené na důkazu práce kombinují produkci bloků s vyřešením důkazu práce. Protože proces vyřešení důkazu práce zabere nepředvídatelný čas, výsledkem je nepředvídatelný čas produkce bloků. Steem usiluje o konzistentní a spolehlivou produkci bloků každé 3 vteřiny s téměř nulovým potentiálem pro rozvětvení blockchainu.
 
-To achieve this Steem separates block production from solving of proof of work. When a miner solves a proof of work for Steem, they broadcast a transaction containing the work. The next scheduled witness includes the transaction into the blockchain. When the transaction is included the miner is added to the queue of miners scheduled to produce blocks. Each round one miner is popped from the queue and included in the active set of witnesses. The miner gets paid when they produce a block at the time they are scheduled.
+Aby toho dosáhl tak Steem odděluje produkci bloků od vyřešení důkazu práce. Když těžař vyřeší důkaz práce pro Steem, vyšle transakci obsahující tuto práci. Svědek následující v pořadí zařadí transakci do blockchainu. Když je transakce zahrnuta, těžař je zařazen do fronty těžařů naplánovaných na produkci bloku. V každém kole je vybrán jeden těžař z řady čekajících a zařazen do sady aktivních svědků. Těžař je zaplacen, když vyprodukuje blok v čase, na který je naplánován.
 
-The difficulty of the proof of work doubles every time the queue length grows by 4. Because one miner is popped from the queue every round, and each round takes 21 \* 3 = 63 seconds, the difficulty automatically halves if no proof of work is found in no more than 21 \* 3 \* 4 = 252 seconds.
+Obtížnost důkazu práce se zdvojnásobuje pokaždé, když délka fronty vzroste 4x. Protože v každém kole je z řady vybrán jeden těžař a každé kolo trvá 21 \* 3 = 64 vteřin, obtížnost se automaticky sníží pokud není důkaz práce nalezen v méně než 21 \* 3 \* 4 = 252 vteřinách.
 
 ### Pro vytěžení odměny je nutná Steem Power
 
-After the first month, Steem miners are paid in Steem Power (SP). SP is liquidated through the two-year process of "powering down". This means that miners must wait for a long time, likely many months, before sufficient mining rewards have been powered down to allow them to recover the cost of electricity and computational resources. The powering down process discourages creation of mining pools because the pool operator would have to spread payouts over years.
+Po prvním měsíci jsou Steem těžaři placeni v Steem Power (SP). SP lze vyměnit jen v dva roky trvajícím procesu nazvaném “powering down”. To znamená, že těžaři musí čekat dlouhou dobu mnoha měsíců než přes power down obdrží dostatečné odměny za těžbu, aby uhradili cenu elektřiny a počítačového výkonu. Proces powering down odrazuje od tvorby těžebních poolů, protože provozovatel poolu by musel rozprostřít výplaty na celá léta.
 
-The effect of paying mining rewards in SP is to prevent miners from using today's price to determine the pro tability of mining. Few people will agree on what the future price will be. This means mining difficulty will be driven by those who place the highest estimate on future value. Miners without a long-term interest in the platform will be discouraged from competing. Ultimately this means that the proceeds of mining are less likely to be dumped on the market because they will accrue to long-term believers in the platform.
+Výsledkem placení těžebních odměn v SP je zamezení použití dnešních cen na určení výdělečnosti těžby. Jen málo lidí odhadne cenu v budoucnosti. To znamená, že obtížnost těžby bude určena těmi, kdo odhadují budoucí cenu nejvýše. Těžaři bez dlohodobého zájmu v platformě budou odrazováni od konkurence. To znamená, že rychlý prodej výdělků z těžby je méně pravděpodobný, protože výdělky budou přibývat těm, kdo věří v platformu dlouhodobě.
 
 ### Algoritmus těžby
 
-The mining algorithm adopted by Steem requires the miner to have access to the private key of the account that will receive the rewards. This requirement has several important consequences. First it encourages optimization of elliptic curve signature verification algorithms needed by Steem. Second it makes it challenging to set up mining pools because the pool operator would have to share control over the reward with all of the "anonymous" miners. Third, it makes it difficult to use botnets because the botnet operator would have to distribute their private key to all compromised machines.
+Těžební algoritmus přijatý Steemem vyžaduje, aby těžař měl přístup k soukromému klíči účtu, na který bude dostávat odměny. Tento požadavek má několik důležitých souvislostí. Zaprvé to podporuje optimalizaci eliptické křivky algoritmu ověřování podpisu potřebného v Steemu. Zadruhé to ztěžuje založení těžebních poolů, protože provozovatel poolu by musel sdílet kontrolu nad výdělky se všemi těmi „anonymními“ těžaři. Zatřetí to ztěžuje použití botnetů, protože provozovatel botnetu by musel distribuovat svoje soukromé klíče na všechny infikované počítače.
 
-The following pseudocode describes how the proof-of-work hash value is calculated:
+Tento pseudokód popisuje, jak kalkulována hodnota hashe důkazu práce:
 
     Let H    = Head Block ID
     Let H2   = SHA256(H + NONCE)
@@ -344,70 +344,70 @@ The following pseudocode describes how the proof-of-work hash value is calculate
 
 ### Odolný botnetům
 
-Many proof of work coins end up being mined by botnets. A botnet is a collection of thousands or millions of machines that have been compromised by hackers. These hackers steal the computational and electrical resources of compromised machines to mine cryptocurrency tokens.
+Mnohé kryptoměny založené na důkazu práce skončili jako těžené botnety. Botnet je kolekce tisíců nebo miliónů počítačů infikovaných hackery. Tito hackeři kradou vypočetní zdroje a elektřinu infikovaných počítačů na těžbu kryptoměn.
 
-Steem has many properties that prevent these computational thieves from profiting. Botnet operators are profit seeking enterprises and typically sell their stolen resources to the highest bidder. This means that those who utilize a botnet pay for the computational power in the same way that someone who uses Amazon EC2 does. The vesting requirement of Steem means that the capital spent on buying the resources of the botnet will be tied up for a long period of time during which the operator is exposed to price volatility.
+Steem má mnoho vlastností, které zabraňují těmto zlodějům výpočetní síly vydělávat. Operátoři botnetů jsou podnikatelé hledající výdělek a obvykle prodávají svoje nakradené zdroje nejvyšší nabídce. To znamená, že ti kdo používají botnet platí za výpočetní sílu stejně, jako když někdo používá Amazon EC2. Požadavek na dlouhodobé držení Steemu znamená, že kapitál utracený na nákup zdrojů botnetu bude vázán na dlouhou dobu, během které je operátor vystaven cenové volatilitě.
 
-Another way that botnet operators are prevented from profiting is the requirement to distribute the private key to all compromised machines. If even one compromised computer is discovered, the operator could lose their coins.
+Jiný důvod, který brání operátorů botnetů ve výdělku, je požadavek na distribuci soukromých klíčů všem infikovaným počítačům. Pokud by byl odhalen byť jeden infikovaný počítač, operátor by mohl ztratit všechny svoje kryptomince.
 
-The last mitigation is the dependency on latency. Most botnets are comprised of computers with poor internet connections, these slow Internet connections will dramatically reduce the effectiveness of the computational resource.
+Poslední omezení je závislost na latenci. Mnoho botnetů tvoří infikované počítače se slabým internetovým připojením a tato slabá internetová propojení dramaticky snižují efektivitu vypočetních zdrojů.
 
-It should be more profitable and less risky for botnet operators to use their resources for other activities than mining STEEM.
+Pro operátory botnetů by mělo být výdělečnější a méně rizikové použít své zdroje na jiné aktivity než těžbu Steemu.
 
 ### Odolný těžebním poolům
 
-Miners have a total of 3 seconds to receive a block, solve the proof of work, and get the transaction to the next block producer. Much of this time will consist of network latency which means that it is critical for miners to be well connected to the network to make the most effective use of their computational resources.
+Těžaři mají celkem 3 vteřiny na obdržení bloku, vyřešení důkazu práce a odevzdání transakce výrobci příštího bloku. Většina tohoto času bude tvořena síťovou latencí, což znamená, že pro těžaře je kritické dobré spojení do sítě, aby svoje výpočetní zdroje využili co nejefektivněji.
 
-Because of the constantly changing head block and network latency, forwarding a template for mining a specific block to participants of a mining pool adds additional network latency and reduces efficiency of pooled mining significantly.
+Kvůli neustále se měnícímu přednímu bloku a latenci sítě přidává předávání dat pro těžbu určitého bloku účastníkům poolu další lateci sítě a podstatně redukuje efektivitu těžby v poolu.
 
-# Eliminating Transaction Fees
+# Eliminace transakčních poplatků
 
-Steem goes to great lengths to reward people for contributing to the network. It would be counterproductive to turn around and charge people every time they attempt to interact with the community.
+Steem šel daleko v odměňování lidí za jejich příspěvky síti. Bylo by tedy kontraproduktivní to otočit a zpoplatňovat účastníky za každý kontakt s komunitou.
 
-Blockchain technology currently depends upon transaction fees to prevent spam. These fees suffer all of the known problems with microtransactions and prevent blockchains from being used for low-value transactions. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
+Prevence spamu v současné blockchainové technologii závisí na poplatcích. Tyto poplatky za mikrotransakce trpí všemi známými problémy a zabraňují použití blockchainu pro trasakce s nízkou cenou. Skutečně decentralizované aplikace musí nabídnou uživatelům vznik bezplatných transakcí, pokud si přejí soutěžit s jejich centralizovanými alternativami. Tento manuál popisuje přístup použitý Steemem k eliminaci potřeby poplatků a tím umožnění širokého rozsahu dříve neudržitelných decentralizovaných aplikací.
 
-## The Problem With Fees
+## Problém s poplatky
 
-Blockchains are decentralized networks where all transactions are broadcast to all peers. Every so often a block is produced that includes some or all of the pending transactions. All blockchains must find a solution to prevent malicious users from consuming all of the available network capacity with worthless transactions. These worthless transactions can prevent other valuable transactions from being processed and ultimately destroy the network.
+Blockchainy jsou decentralizované sítě, kde všechny transakce jsou vysílány všem účastníkům. Každou chvíli je vytvořen blok, který zahrnuje nějaké nebo všechny nevyřízené transakce. Všechny blockchainy musí najít preventivní řešení, jak zabránit uživatelům se zlými úmysly spotřebovat celou dostupnou kapacitu sítě bezcennými transakcemi. Tyto bezcenné transakce mohou zabránit ostatním hodnotným transakcím v uskutečnění a tak zcela zničit síť.
 
-The solution adopted by most blockchains thus far is to charge a minimum transaction fee. A fee worth just a few cents is enough to make attacking the network expensive and unprofitable. While this approach solves the spam problem, it introduces new problems. Imagine solving the email spam problem by introducing a small fee on every email; people wouldn't use email.
+Až dosud je řešení přijaté většinou blockchainů účtování minimálního transakčního poplatku. Poplatek v ceně jen několika centů je dost k tomu, aby útok na síť učinil drahým a nevýdělečným. Zatímco tento přístup řeší problém spamu, zavádí nové problémy. Představte si řešení problému emailového spamu zavedením malého poplatku za každý email. Nikdo by email nepoužíval.
 
 ### Mikroplatby nefungují
 
-The fundamental problem with charging transaction fees is that micropayments don't work, especially for low-value user actions. When a fee is charged on every transaction, it limits the types of transactions that a decentralized network can process. Regardless of how rational the argument for the necessity of fees, users still hate the experience of being nickeled and dimed for everything that they do.
+Základní problém s účtováním poplatků je, že mikroplatby nefungují a to obzvláště pro málo ceněné uživatelské akce. Když je za každou transakci účtován poplatek, limituje to druhy transakcí, které může decentralizovaná síť vykonávat. Bez ohledu na to, jak racionální je požadavek na nezbytnost poplatků, uživatelé stejně nesnášejí neustálé zpoplatňování za vše, co činí.
 
-Imagine if the websites we use every day charged us a fee every time we modify our accounts by changing the password. Users expect certain things to be free. Requiring users to make a decision on whether or not an action is worth a small fee creates anxiety that causes users to leave.
+Představte si, že by nám webová stránka kterou denně používáme účtovala poplatek pokaždé, když změníme heslo našeho účtu. Uživatelé očekávají, že některé věci jsou bezplatné. Požadovat po uživatelích aby se rozhodli, jestli určitý úkon stojí za malý poplatek, způsobí odpor, který způsobí odchod uživatelů.
 
 > Transakce nemůže stát tolik, aby požadovala učinit rozhodnutí, ale tak málo, aby rozhodnutí bylo automatické. Každé rozhodnutí o nákupu je spojeno s určitou dávkou obav bez ohledu na velikost a je odvozeno nikoliv od použitého rozhraní nebo nutného času, ale od samotného aktu rozhodování.  
 > Mikroplatby stejně jako všechny platby vyžadují srovnání: „ Má toto množství X cenu tohoto množství Y?“ Tímto faktem je vytvořen minimální mentální transakční poplatek, který nemůže být optimalizován na nulu. Jediná transakce, kterou je schopen uživatel schválit bez přemýšlení je taková, která ho nic nestojí, což vlastně není transakce.
 > 
 > *- Clay Shirky<sup id="fnref:8"><a href="#fn:8" class="footnote-ref">8</a></sup>*
 
-In the world of financial payments, small fees are acceptable because the value of the transaction is extremely high relative to the fee charged, and the buyer has already made a decision to buy. The world of potential blockchain applications is far greater than just financial payments and includes many necessary transactions for which fees are simply unacceptable to users.
+Ve světě finančních plateb jsou malé poplatky akceptovatelné, protože hodnota transakce je extrémně vysoká ve srovnání s účtovaným poplatkem a kupec již učinil rozhodnutí koupit. Svět potenciálních blockchainových aplikací je mnohem větší než jen finanční platby a zahrnuje mnoho nezbytných transakcí, u kterých jsou poplatky uživatelům prostě nepřijatelné.
 
-Systems like BitShares, Nxt, Ripple, Counter Party and Stellar all allow users to place limit orders on the blockchain and all of them charge users a small fee to perform this action. Later if the user wishes to cancel their order, another fee is charged. Systems like Ethereum take micropayments to a whole new level: charging per calculation. All of these systems struggle to attract new mainstream users for the same reasons that a decentralized search engine would struggle to attract users from Google if it charged a small fee for every search. It doesn't matter how good the service is, people expect certain things to be free. This is true even if a user ends up paying more overall under a different fee structure.
+Systémy jako BitShares, Nxt, Ripple, Counter Party a Stellar dovolují uživatelům zadat limitní objednávky na blockchainu a za to účtují uživatelům malý poplatek. Později, pokud chce uživatel zrušit svůj pokyn, je účtován další poplatek. Systémy jako Ethereum přivedly mikroplatby na zcela novou úroveň: poplatek za kalkulaci. Všechny tyto systémy mají potíže s přilákáním nových mainstreamových uživatelů z toho samého důvodu, který by měla decentralizovaná vyhledávací aplikace při lákání uživatelů Google, pokud by za každé vyhledání účtovala malý poplatek. Nezáleží na tom, jak je služba dobrá, lidé očekávají, že určité věci jsou bezplatné. To je pravda dokonce i když uživatel nakonec zaplatí více jiným způsobem.
 
 ### Poplatky jsou bariéry vstupu
 
-Any fee creates a barrier to entry for new users. Before someone can experiment with Ethereum they must acquire some ETH tokens. Anyone wanting to build a decentralized application on Ethereum must pass on the cost to their customers. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
+Jakékoliv poplatky tvoří zábranu vstupu novým uživatelům. Než někdo může experimentovat s Ethereum, tak si musí pořídit nějaké tokeny ETH. Kdokoliv, kdo si přeje postavit decentralizovanou aplikaci na Ethereum, tak musí přenést tyto náklady na zákazníky. Nákup kryptoměny není jednoduchý úkol a málokdy má smysl pro sumu menší než 10 USD. To znamená, že nový uživatel, který si přeje vyzkoušet novou decentralizovanou aplikaci musí být nejdříve přesvědčen k tomu, aby vydal 10 USD.
 
 ### Změna poplatků
 
-Over time a network must adjust fees. This can happen either due to an increase in the value of the token or due to a surge in capacity. Users like predictable fees and guaranteed service. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
+Časem musí síť upravit poplatky. Může to být kvůli růstu ceny tokenu nebo prudkému nárůstu objemu. Uživatelé mají rádi předvídatelné poplatky a garantované služby. Protože není možné dynamicky upravovat poplatky během období vysokého provozu, výsledkem je špatná uživatelská zkušenost.
 
 ### Spam útoky
 
-Centralized websites prevent spam through rate limiting and some form of ID verification. Even something as simple as reCAPTCHA <sup id="fnref:9"><a href="#fn:9" class="footnote-ref">9</a></sup> is sufficient to limit the creation of fake accounts. If someone abuses their account then centralized websites are free to block the account.
+Centralizovaná webová stránka se brání spamu omezením rychlosti a nějakou formou identifikace. Dokonce i něco tak jednoduchého jako reCAPTCHA<sup id="fnref:9"><a href="#fn:9" class="footnote-ref">9</a></sup> je dostatečné pro omezení tvorby falešných účtů. Pokud někdo svůj účet zneužívá, tak centralizované webové stránky mohou blokovat tento účet.
 
-In a decentralized system there is no direct way to ban users nor centralized provider able to host a reCAPTCHA and enforce rate limiting of accounts. In fact, the inability to censor users is one of the main selling points of blockchain technology.
+V decentralizovaném systému není přímá cesta, jak zakázat uživatele, ani centralizovaný poskytovatel schopný použít reCAPTCHA a vynutit omezení přístupu jednotlivých účtů. Ve skutečnosti neschopnost cenzury uživatelů je hlavní prodejní argument blockchainové technologie.
 
 ### Plná rezerva vs částečná rezerva
 
-Let's view a blockchain like an Internet Service Provider (ISP) co-op which owns all of the cables in the town and has a maximum amount of bandwidth that it can provide at any time. People living in the town can buy shares in the ISP and in exchange they are entitled to utilize a portion of the available bandwidth.
+Podívejme se na blockchain jako na poskytovatele internetu, který vlastní všechny kabely ve městě a má určité maximální množství šířky pásma, které může poskytnou v jakémkoliv okamžiku. Lidé žijící v městě si mohou koupit akcie této firmy a na oplátku mohou užívat část dostupné šířky pásma.
 
-The ISP has two choices, run a "full reserve" or "fractional reserve" system. Under a full reserve system each user is only allowed a fraction of the maximum bandwidth proportional to her shares. Because not everyone uses the Internet at the same time, the town's network would be significantly underutilized.
+Poskytovatel má dvě možnosti. Provozovat systém plné rezervy nebo systém částečné rezervy. Podle systému plné rezervy každý uživatel může používat pouze tu část maximální šířky pásma, které odpovídá jeho akciovému podílu. Protože ne každý užívá internet v tu samou dobu, tak městská síť bude citelně nevyužitá.
 
-Under a fractional reserve system the individual users could utilize more bandwidth than they are entitled to at any given point in time so long as not everyone uses the Internet at the same time. The problem with operating a fractional reserve is that congestion occurs anytime too many people wish to use the network at the same time. The ISP needs a way to prioritize bandwidth during congested periods. In the most extreme case, a fully congested network must revert to a full reserve system. The challenge is setting the proper fractional reserve ratio.
+Podle systému částečných rezerv může každý individuální uživatel využít větší šířku pásma, než na jakou má právo, kdykoliv do té doby, než každý užívá internet v tu samou dobu. The problem with operating a fractional reserve is that congestion occurs anytime too many people wish to use the network at the same time. The ISP needs a way to prioritize bandwidth during congested periods. In the most extreme case, a fully congested network must revert to a full reserve system. The challenge is setting the proper fractional reserve ratio.
 
 ## Bandwidth Instead of Micropayment Channels
 
