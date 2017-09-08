@@ -213,37 +213,37 @@ Za předpokladu, že všichni uživatelé mají stejný podíl, tak ten kdo obdr
 
 #### Nekalá soutěž při hlasování
 
-Zatímco spolupráce při distribuci fondů nejlepší odvedené práci je žádoucí cíl, *nekalá soutěž* která podrývá tento cíl musí být minimalizována. There are two kinds of *collusion*, the most straightforward is when one user simply buys a larger stake than others, and the other involves coordinating a large number of smaller stakeholders to work together. Larger stakeholders can have the voting influence of 100 or even 1000 smaller stakeholders which means they have even greater incentive to defect by voting for themselves than they had under a linear distribution.
+Zatímco spolupráce při distribuci fondů nejlepší odvedené práci je žádoucí cíl, *nekalá soutěž* která podrývá tento cíl musí být minimalizována. Jsou dva druhy *nekalé soutěže*. Ta nejpřímější je, když jeden uživatel prostě koupí větší podíl než ostatní a ta druhá zahrnuje koordinaci spolupráce většího množství menších podílníků. Větší podílníci mohou mít hlasovací sílu sta nebo dokonce tisíce menších podílníků, což znamená, že mají dokonce větší pobídku k „zběhnutí“ hlasováním pro sebe než měli při lineární distribuci.
 
-Regardless of how much money any one individual has, there are always many other individuals with similar wealth. Even the wealthiest individual rarely has much more than the next couple wealthiest combined. Furthermore, those who have a large investment in a community also have the most to lose by attempting to game the voting system for themselves. It would be like the CEO of a company deciding to stop paying salaries so he could pocket all of the profits. Everyone would leave to work for other companies and the company would become worthless, leaving the CEO bankrupt rather than wealthy.
+Bez ohledu na to jak mnoho peněz má jakýkoliv jedinec, je vždy mnoho dalších jedinců s podobným bohatstvím. Dokonce i nejbohatší jednotlivec má málokdy více než další dva nejbohatší dohromady. Navíc ti kdo mají velkou investici v komunitě mohou též nejvíce ztratit pokusem obelstít pro sebe hlasovací systém. Bylo by to, jako kdyby se generální ředitel společnosti rozhodl přestat vyplácet mzdy, aby si mohl přivlastnit všechny zisky. Všichni by odešly pracovat pro ostatní společnosti a podnik by se stal bezcenným. Ředitel by se nestal bohatým, ale zkrachoval by.
 
-Fortunately, any work that is getting a large concentration of votes is also gaining the most scrutiny (publicity). Through the addition of *negative-voting* it is possible for many smaller stakeholders to nullify the voting power of collusive groups or defecting large stakeholders. Furthermore, large-stakeholders have more to lose if the currency falls in value due to abuse than they might gain by voting for themselves. In fact, honest large stakeholders are likely to be more effective by policing abuse and using negative voting than they would be by voting for smaller contributions.
+Naštěstí každá práce která dostává velkou koncentraci hlasů též získává největší (publicitu). Pomocí součtu *negativních* hlasů je pro mnoho menších podílníků možné zrušit hlasovací sílu nekale soutěžících skupin nebo „zběhlých“ velkých podílníků. Dále velcí podílníci mají více co ztratit, pokud jejich měna klesne v ceně pro zneužití, než mohou získat hlasováním pro sebe. Ve skutečnosti čestní velcí podílníci budou pravděpodobně efektivnější při hlídání podvodů a používání negativního hlasování, než by byli při hlasování o menších příspěvcích.
 
-The use of *negative-voting* to keep people from abusing the system leverages the *crab mentality* that many people have when it is perceived that one individual is profiting at the expense of everyone else. While crab mentality normally refers to short-sighted people keeping good people down, it is also what allows good people to keep bad people down. The only "problem" with crab mentality is when people *wrongly believe* someone is profiting at everyone else's expense.
+Použití *negativního* hlasování k odrazení lidí od zneužívání systému násobí *krabí mentalitu* kterou má mnoho lidí když si uvědomí, že jednotlivec profituje na úkor někoho jiného. Zatímco krabí mentalita normálně označuje krátkozraké lidí kteří sráží dobré lidí je to též to, co umožňuje dobrým lidem srazit ty špatné. Jediný problém s krabí mentalitou je, když lidé *chybně věří,* že někdo profituje na úkor někoho jiného.
 
-> #### The Story of the Crab Bucket<sup id="fnref:6"><a href="#fn:6" class="footnote-ref">6</a></sup>
+> #### Příběh vědra plného krabů<sup id="fnref:6"><a href="#fn:6" class="footnote-ref">6</a></sup>
 > 
-> A man was walking along the beach and saw another man fishing in the surf with a bait bucket beside him. As he drew closer, he saw that the bait bucket had no lid and had live crabs inside.
+> Muž kráčel po pláži a viděl jiného muže rybařit v příboji a ten za sebou měl vědro. Jak přišel blíž viděl, že vědro na nástrahu je bez víka a plné krabů.
 > 
-> "Why don't you cover your bait bucket so the crabs won't escape?", he said.
+> Řekl "Proč nazakryješ vědro, aby ti kraby neutekli?“.
 > 
-> "You don't understand.", the man replied, "If there is one crab in the bucket it would surely crawl out very quickly. However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
+> „Ty tomu nerozumíš“ odpověděl muž. „Pokud by ve vědru byl jen jeden krab, hned by utekl. Ale pokud je ve vědru mnoho krabů, tak pokud jeden začne šplhat ven, ostatní ho strhnou zpět, aby sdílel jejich osud“
 > 
-> So it is with people. If one tries to do something different, get better grades, improve herself, escape her environment, or dream big dreams, other people will try to drag her back down to share their fate.
+> A tak je to i lidmi. Pokud se jeden snaží dělat něco odlišného, mít lepší známky, zlepšit se, uniknout z jejich společnosti, nebo mít velké sny, ostatní lidé se ho pokusí strhnout zpět, aby sdílel jejich osud.
 
-Eliminating "abuse" is not possible and shouldn't be the goal. Even those who are attempting to "abuse" the system are still doing work. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn't so rampant that it undermines the incentive to do real work in support of the community and its currency.
+Eliminace „zneužití“ není možná a neměla by být cílem. Dokonce i ti, kteří se pokoušejí o zneužití systému, stále pracují. Jakákoliv kompenzace, kterou obdrží za jejich úspěšné pokusy zneužití nebo nekalé konkurence je přinejmenším tak cenná pro účely distribuce měny, jako systém použitý tradiční Bitcoinovou těžbou nebo těžbou přes těžařská sdružení. Vše co je potřebné, je zajistit, aby zneužívání nebylo tak rozbujelé, že by by podrylo stimulaci provádět opravdovou práci na podporu komunity a její měny.
 
-The goal of building a community currency is to get more "crabs in the bucket". Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs suf cient power to prevent others from escaping.
+Cílem budování komunitní měny je dostat více „krabů do vědra“. Pokud použijeme extrémní opatření k eliminaci všech zneužití, je to jako používat víko na vědru k zabránění útěku několika málo krabů za cenu toho, že ztížíme přidávání nových krabů. Postačuje mít kluzké stěny a nechat ostatním krabům prostor, aby ostatním zabránili utéct.
 
-### Rate Limited Voting
+### Omezená frekvence hlasování
 
-A major part of minimizing abuse is the rate-limiting of voting. Individual users can only read and evaluate so many work items per day. Any attempt to vote more frequently than this is a sign of automation and potential abuse. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
+Podstatnou součástí minimalizace zneužití je omezená frekvence hlasování. Jednotlivý uživatel může číst a ocenit pouze určitý počet příspěvků denně. Pokus hlasovat častěji je příznakem automatizace a potencionálního zneužití. Pomocí omezování frekvence hlasování mají podílníci, kteří hlasují častěji menší hodnotu jednotlivého hlasu než ti, kdo hlasují méně častěji. Pokusy rozdělit podíly mezi více účtů též rozdělují vliv a proto neústí v zisk hlasovací síly, ani neobejdou omezení frekvence hlasování.
 
 ![](\img_voting_rate_limiting.png)
 
-The charts above shows how a user's voting power decreases every time they vote and then regenerates as time passes without voting. These charts use nominal time unit and could be made to scale to any targeted voting rate. Note that voting power rapidly drops off during periods of continuous voting, and then slowly recovers.
+The charts above shows how a user's voting power decreases every time they vote and then regenerates as time passes without voting. These charts use nominal time unit and could be made to scale to any targeted voting rate. Hlasovací síla rapidně klesá během období nepřetržitého hlasování a poté se pomalu obnovuje.
 
-Voting power is multiplied by a user's vesting tokens to determine how much share in the reward pool should be allocated to a given work item.
+Aby se určil podíl na odměnách alokovaných danému příspěvku, tak je hlasovací síla násobena SP uživatele.
 
 ### Delayed Payouts
 
