@@ -386,54 +386,54 @@ Credits here @skapaneas @holidaygreece @skapart ".
 
 Φανταστήτε αν οι ιστοσελίδες που χρησιμοποιούμαι καθημερινά θέτανε μια μικρή χρέωση κάθε φορά που αλλάζαμε τον κωδικό πρόσβασης του λογαριασμού μας. Οι χρήστες αναμένουν ορισμένα πράγματα να είναι δωρεάν. Απαιτώντας απο τους χρήστες να πάρουν την απόφαση για το αν μια πράξη αξίζει την μικρή αυτή χρέωση δημιουργεί ανησυχία η οποία γίνεται αιτία αποχώρησης των χρηστών.
 
-> A transaction can't be worth so much as to require a decision but worth so little that that decision is automatic. There is a certain amount of anxiety involved in any decision to buy, no matter how small, and it derives not from the interface used or the time required, but from the very act of deciding.  
-> Micropayments, like all payments, require a comparison: "Is this much of X worth that much of Y?" There is a minimum mental transaction cost created by this fact that cannot be optimized away, because the only transaction a user will be willing to approve with no thought will be one that costs them nothing, which is no transaction at all.
+> Μια συναλλαγή δεν μπορεί να αξίζει τόσο πολύ ώστε να χρειάζεται μια απόφαση αλλά να αξίζει τόσο λίγο που αυτή η απόφαση είναι αυτόματη. Υπάρχει μια συγκεκριμένη ποσότητα ανυσηχίας εμπλεγμένη σε κάθε απόφαση αγοράς, χωρίς να έχει σημασία πόσο μικρή, και δεν προέρχεται από την διεπαφή που χρησιμοποιείται ή απο τον χρόνο που απαιτείται, αλλά από την πράξη της απόφασης.  
+> Οι μικροπληρωμές, όπως και όλες οι πληρωμές. Απαιτούν την σύγκριση: “Αξίζει αυτή η ποσότητα του Χ όσο αξίζει αυτή η ποσότητα του Ψ;” Υπάρχει ένα ελάχιστο διανοητικό κόστος το οποίο δημιουργείται από το γεγονός αυτό που δεν μπορεί να απομακρυνθεί, διότι η μόνη συναλλαγή που ένας χρήστης δέχεται να κάνει χωρίς να σκεφτεί είναι η πράξη αυτή η οποία του κοστίζει τίποτα, η οποία αυτή συναλλαγή δεν είναι καν συναλλαγή.
 > 
 > *- Clay Shirky<sup id="fnref:8"><a href="#fn:8" class="footnote-ref">8</a></sup>*
 
-In the world of financial payments, small fees are acceptable because the value of the transaction is extremely high relative to the fee charged, and the buyer has already made a decision to buy. The world of potential blockchain applications is far greater than just financial payments and includes many necessary transactions for which fees are simply unacceptable to users.
+Στον κόσμο των οικομικών συναλλαγών, οι μικρές χρεώσεις είναι αποδεκτές διότι η αξία των συναλλαγών είναι τεράστια σε σχέση με την μικρή αυτή χρέωση, και ο αγοραστής έχει είδη πάρει την απόφαση να αγοράσει. Ο κόσμος των ενδεχόμενων εφαρμογών blockchain είναι πολύ μεγαλύτερος από απλά οικονομικές πληρωμές και περιλαμβάνει πολλές απαραίτητες συναλλαγές για τις οποίες οι χρεώσεις είναι απλά απαράδεκτες για τους χρήστες.
 
-Systems like BitShares, Nxt, Ripple, Counter Party and Stellar all allow users to place limit orders on the blockchain and all of them charge users a small fee to perform this action. Later if the user wishes to cancel their order, another fee is charged. Systems like Ethereum take micropayments to a whole new level: charging per calculation. All of these systems struggle to attract new mainstream users for the same reasons that a decentralized search engine would struggle to attract users from Google if it charged a small fee for every search. It doesn't matter how good the service is, people expect certain things to be free. This is true even if a user ends up paying more overall under a different fee structure.
+Συστήματα όπως το BitShares, Nxt, Ripple, Counter Party and Stellar επιτρέπουν στους χρήστες να θέσουν εντολές ορίου στο blockchain και όλες τους χρεώνουν τους χρήστες μια μικρή χρέωση για να εκτελέσουν την πράξη αυτή. Έπειτα εάν ο χρήστης θέλει να ακυρώση την εντολή του, υπάρχει μια επιπλέον χρέωση. Συστήματα όπως το Ethereum πέρνουν μικροπληρωμές σε ένα εντελός νέο επίπεδο: χρέωση ανα υπολογισμό. Όλα αυτά τα συστήματα αγωνίζονται να προσελκύσουν νέους τυπικούς χρήστες για τους ίδιους λόγους που μια αποκεντρωμένη μηχανή αναζήτησης θα δυσκολευόταν να προσελκύσει χρήστες από την Google εάν έβαζε μια μικρή χρέωση για κάθε αναζήτηση. Δεν παίζει ρόλο πόσο καλή η υπηρεσία είναι, οι άνθρωποι αναμένουν ορισμένα πράγματα να είναι δωρεάν. Αυτό είναι αλήθεια ακόμη και αν ένας χρήστης καταλήξει να πληρώσει περισσότερα ολικά κάτω απο μια διαφορετική δομή χρέωσης.
 
-### Fees are a Barrier to Entry
+### Οι Χρεώσεις Αποτελούν Εμπόδιο Εισόδου
 
-Any fee creates a barrier to entry for new users. Before someone can experiment with Ethereum they must acquire some ETH tokens. Anyone wanting to build a decentralized application on Ethereum must pass on the cost to their customers. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
+Οποιαδήποτε χρέωση δημιουργεί εμπόδια για νέους χρήστες. Πριν κάποιος θελήσει να πειραματστεί με Ethereum πρέπει πρώτα να αποκτήσει ETH tokens. Όποιος θέλει να χτίσει μια αποκεντρωμένη εφαρμογή επάνω στο Ethereum πρέπει να δώσει το κόστος στους πελάτες του. Η αγορά ενός κρυπτονομίσματος δεν είναι εύκολο έργο και σπάνια βγάζει νόημα για ποσότητες μικρότερες των $10. Αυτό σημαίνει ότι οι νέοι χρήστες οι οποίοι θέλουν να δοκιμάσουν μια νεα αποκεντρωμένη εφαρμογή πρέπει πρώτα να αποφασίσουν να ξοδέψουν $10.
 
-### Changing Fees
+### Αλλάζοντας Τις Χρεώσεις
 
-Over time a network must adjust fees. This can happen either due to an increase in the value of the token or due to a surge in capacity. Users like predictable fees and guaranteed service. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
+Με την πάροδο του χρόνου ένα δίκτυο πρέπει να προσαρμόζει τις χρεώσεις. Αυτό μπορεί να συμβεί για την αύξηση της αξίας του κέρματος ή για το φούσκωμα της χωρητικότητας. Στους χρήστες αρέσουν οι προβλεπόμενες χρεώσεις και η εξασφαλισμένη εξυπηρέτηση. Ενώ είναι δυνατόν να ρυθμίζονται δυναμικά οι χρεώσεις κατά περιόδους βαριάς χρήσης, το αποτέλεσμα είναι η φτωχή εμπειρία του χρήστη.
 
-### Sybil Attacks
+### Επιθέσεις Sybil
 
-Centralized websites prevent spam through rate limiting and some form of ID verification. Even something as simple as reCAPTCHA <sup id="fnref:9"><a href="#fn:9" class="footnote-ref">9</a></sup> is sufficient to limit the creation of fake accounts. If someone abuses their account then centralized websites are free to block the account.
+Οι κεντρικές ιστοσελίδες αποτρέπουν την κατάχρηση βάζοντας οριακό κόστος και μέσω μιας μορφής επαλήθευσης ταυτότητας. Κάτι όσο απλό όσο το reCAPTCHA <sup id="fnref:9"><a href="#fn:9" class="footnote-ref">9</a></sup> είναι αρκετό για να περιορίσει την δημιουργία ψεύτικων λογαριασμών. Εάν κάποιος κάνει κατάχρηση του λογαριασμού του τότε οι κεντρικές ιστοσελίδες έχουν το δικαίωμα να του εμποδίσουν τον λογαριασμό.
 
-In a decentralized system there is no direct way to ban users nor centralized provider able to host a reCAPTCHA and enforce rate limiting of accounts. In fact, the inability to censor users is one of the main selling points of blockchain technology.
+Σε ένα αποκεντρομένο σύστημα δεν υπάρχει άμεσος τρόπος να εμποδίσουμε χρήστες ούτε κάποιος κεντρικός προμηθευτής ο οποίος έχει την δυνατότητα να φιλοξενήσει το reCAPTCHA και να επιβάλλει οριακό κόστος των λογαριασμών. Στην πραγμοατικότητα, η αδυναμία της λογοκρισίας των χρηστών είναι ένα από τα κύρια πλεωνεκτήματα της τεχνολογίας των blockchains.
 
-### Full Reserve vs Fractional Reserve
+### Πλήρες Απόθεμα Εναντίον Κλασματικό Απόθεμα
 
-Let's view a blockchain like an Internet Service Provider (ISP) co-op which owns all of the cables in the town and has a maximum amount of bandwidth that it can provide at any time. People living in the town can buy shares in the ISP and in exchange they are entitled to utilize a portion of the available bandwidth.
+Ας δούμε ένα blockchain σαν έναν πάροχο Internet ο οποίος κατέχει όλα τα καλώδια στην πόλη και έχει μια μέγιστη ποσότητα εύρους ζώνης που μπορεί να παρέχει κάθε στιγμή. Οι πολίτες μπορούν να αγοράσουν μετοχές του παρόχου αυτού και ως αντάλλαγμα μπορούν να χρησιμοποιήσουν ένα μερίδιο του διαθέσιμου εύρους ζώνης.
 
-The ISP has two choices, run a "full reserve" or "fractional reserve" system. Under a full reserve system each user is only allowed a fraction of the maximum bandwidth proportional to her shares. Because not everyone uses the Internet at the same time, the town's network would be significantly underutilized.
+Ο πάροχος έχει δυο επιλογές, να χρησιμοποιήσει ένα σύστημα “πλήρους αποθέματος” ή ένα σύστημα “κλασματικού αποθέματος”. Υπο ένα σύστημα πλήρους αποθέματος στον κάθε χρήστη επιτρέπεται ένα κομμάτι του μέγιστου εύρος ζώνης αναλογικά με τις μετοχές του. Επειδή δεν χρησιμοποιούν όλοι το Internet την ίδια στιγμή, το διαδίκτυο της πόλης θα ήταν σημαντικά υποχρησιμοποιημένο.
 
-Under a fractional reserve system the individual users could utilize more bandwidth than they are entitled to at any given point in time so long as not everyone uses the Internet at the same time. The problem with operating a fractional reserve is that congestion occurs anytime too many people wish to use the network at the same time. The ISP needs a way to prioritize bandwidth during congested periods. In the most extreme case, a fully congested network must revert to a full reserve system. The challenge is setting the proper fractional reserve ratio.
+Υπο ένα σύστημα κλασματικού αποθέματους ο κάθε χρήστης μπορεί να χρησιμοποιήσει περισσότερο εύρος ζώνης από αυτό που του έχει εξουσιοδοτηθεί οποιαδήποτε στιγμή αρκεί να μην χρησιμοποιούνε το Internet όλοι οι χρήστες την ίδια στιγμή. Το πρόβλημα με την χρήση κλασματικού αποθέματος είναι ότι δημιουργείται συμφόρηση οποιαδήποτε στιγμή πάρα πολλοί άνθρωποι επιθυμούν να χρησιμοποιήσουν το διαδύκτιο. Ο πάροχος έχει ανάγκη ενός τρόπου με τον οποίο θα δίνει προτεραιότητα σε περιόδους συμφόρησης. Στην πιο υπερβολική περίπτωση, το σύστημα κλασματικού αποθέματος πρέπει να γυρίσει σε σύστημα πλήρους αποθέματος. Η πρόκληση είναι η τοποθέτηση κατάλληλης αναλογίας κλασματικού αποθέματος.
 
-## Bandwidth Instead of Micropayment Channels
+## Εύρος Ζώνης Αντί Για Κανάλια Μικροπληρωμών
 
-The solution to the problems with micropayments is in implementing *dynamic fractional reserves*. Under this model the blockchain will automatically adjust the reserve ratio for the network during times of congestion. The blockchain will set a target utilization that leaves enough headroom for short term surges in demand. Any time the surges are sustained the blockchain reduces the maximum bandwidth-per-share. When a surge is over and there is surplus capacity the blockchain can slowly increase the bandwidth-per-share.
+Η λύση στα προβλήματα των μικροπληρωμών είναι η εκτέλεση εφαρμογή *δυναμικών κλασματικών αποθεμάτων*. Κάτω από αυτό το μοντέλο το blockchain θα ρυθμίζει αυτόματα την αναλογία κλασματικού αποθέματος του δικτύου σε περιόδους συμφόρησης. Το blockchain θα θέτει έναν στόχο χρησιμοποίησης το οποίο αφήνει αρκετό χώρο για απαιτούμενα βραχυπρόθεσμα κύματα. Οποιαδήποτε στιγμή τα κύματα συντηρούνται το blockchain μειώνει το μέγιστο εύρος ζώνης για κάθε μετοχή. Όταν ένα κύμα ολοκληρώνεται και υπάρχει πλεονάζουσα παραγωγική ικανότητα το blockchain μπορεί σιγά σιγά να αυξήσει το εύρος ζώνης για κάθε μετοχή.
 
-Bandwidth used by an individual user should be measured over a suitably long period of time to allow that user to time-shift their usage. Users tend to login, do many things at once, then logout. This means that their bandwidth over a short period of time may appear much higher than if viewed over a longer period of time. If the time window is stretched too far then the reserve ratio will not adjust fast enough to respond to short-term surges, if the window is too short then clustering usage will have too big of an impact on normal users.
+Το εύρος ζώνης το οποίο χρησιμοποιείται από έναν χρήστη πρέπει να υπολογίζεται σε μια κατάλληλη μακροχρόνια περίοδο για να επιτρέψει σε αυτόν τον χρήστη να μεταβάλλει χρονικά την χρήση του. Οι χρήστες συνηθίζουν να συνδέονται, να κάνουν πολλά πράγματα ταυτόχρονα και έπειτα να αποσυνδέονται. Αυτό σημαίνει ότι το εύρος ζώνης τους σε μια βραχυχρόνια περίοδο του χρόνου μπορεί να φανεί πολύ υψηλότερη σε σχέση με το πως θα φαινόταν σε μια μεγαλύτερη περίοδο του χρόνου. Εαν το χρονικό περιθώριο τεντωθεί πολύ μακριά τότε η αναλογία των αποθεμάτων δεν θα ρυθμιστεί αρκετά γρήγορα για να αποκριθεί σε κύματα μικρής διαρκείας, αν το χρονικό περιθώριο είναι πολύ μικρό τότε η μαζεμένη χρήση θα έχει πολύ μεγάλο αντίκτυπο στους κανονικούς χρήστες.
 
-In our estimate it should be sufficient to measure the average weekly bandwidth usage of users. Every time a user signs a transaction, that transaction is factored into their own individual moving average. Any time a user's moving average exceeds the current network limit their transaction is delayed until their average falls below the limit.
+Βάση της εκτίμησης μας πρέπει να είναι αρκετό το να μετρήσουμε τη μέση εβδομαδιαία χρήση εύρους ζώνης από τους χρήστες. Κάθε φορά που ένας χρήστης υπογράφει μια συναλλαγή, η συναλλαγή αυτή εκχωρείται στον κινητό του μέσο όρο. Οποιαδήποτε στιγμή ο κινητός μέσος όρος ενός χρήστη ξεπεράσει το τρέχων όριο δικτύου η συναλλαγή του καθυστερείται μέχρι ο κινητός μέσος όρος του να πέσει πιο χαμηλά από το όριο.
 
-### Example Implementation
+### Παράδειγμα Εκτέλεσης
 
-Let B equal a user's average bandwidth at time T. Let W equal the number of seconds per week, and let N equal the size of the new transaction that occurred S seconds after T. Given this information the blockchain can calculate the new average bandwidth for a user as:
+Ας θέσουμε το B ως τον μέσο όρο εύρους ζώνης ενός χρήστη σε έναν χρόνο T. Ας θέσουμε το W ίσο με τον αριθμό των δευτερολέπτων κάθε εβδομάδας, και το N ίσο με το μέγεθος της νέας συναλλαγής που συνέβει S δευτερόλεπτα μετά απο το T. Έχοντας τις πληροφορίες αυτές το blockchain μπορεί να υπολογίσει τον νέο μέσο εύρος ζώνης για έναν χρήστη, δηλαδή:
 
     Bnew = MIN(0,B * (W - S) / W) + N * S / W
     Tnew = T + S
     
 
-Each user is entitled to an average weekly bandwidth of:
+Κάθε χρήστης έχει δικαίωμα σε ένα μέσο εβδομαδιαίο εύρος ζώνης:
 
     Let U = the user's SP
     Let S = the total number of SP
