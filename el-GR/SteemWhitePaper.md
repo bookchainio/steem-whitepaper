@@ -6,53 +6,61 @@
 
 # ΠΡΟΧΕΙΡΟ
 
-Placeholder for translator's notes.
+Μετάφραση από **@skapaneas** **@holidaygreece** **@skapart** (https://steemit.com/introduceyourself/@skapart/i-am-maria-i-was-the-third-party-of-the-steem-whitepaper-translation-team-and-i-am-here-to-claim-my-credits).   
+  
+"I was one of the three members of the Greek translation team and I am so very proud of it!   
+  
+3 weeks 3 people, a lot of fun in between.   
+  
+but it is ready   
+  
+Credits here @skapaneas @holidaygreece @skapart ".
 
-# Abstract
+# Περίληψη
 
-Steem is a blockchain database that supports community building and social interaction with cryptocurrency rewards. Steem combines concepts from social media with lessons learned from building cryptocurrencies and their communities. An important key to inspiring participation in any community, currency or free market economy is a fair accounting system that consistently reflects each person's contribution. Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
+Το Steem είναι μια blockchain βάση δεδομένων που υποστηρίζει την οικοδόμηση κοινοτήτων και την κοινωνική αλληλεπίδραση με κρυπτονομισματικές ανταμοιβές. Το Steem συνδυάζει έννοιες από τα μέσα κοινωνικής δικτύωσης και διδάγματα από την οικοδόμηση κρυπτονομισμάτων και των κοινοτήτων τους. Σημαντικό κλειδί για την έμπνευση συμμετοχής σε οποιαδήποτε κοινότητα, νόμισμα ή ελεύθερη αγορά οικονομίας, είναι ένα δίκαιο λογιστικό σύστημα που συνεχώς αντανακλά την συνεισφορά κάθε ατόμου. Το Steem είναι το πρώτο κρυπτονόμισμα που επιχειρεί να ανταμείψει με ακρίβεια και διαφάνεια ένα απεριόριστο αριθμό ατόμων που πραγματοποιούν *υποκειμενικές εισφορές* στην κοινότητα.
 
-# Table of Contents
+# Πίνακας περιεχομένων
 
 <!-- toc -->
 
-# Introduction
+# Εισαγωγή
 
-Collectively, user-generated content has created billions of dollars worth of value for the shareholders of social media companies, such as Reddit, Facebook, and Twitter. **In 2014, Reddit hypothesized that its platform would be improved if everyone who contributed to reddit.com by posting stories, adding comments or voting were rewarded with a fair share in Reddit, Inc<sup id="fnref:1"><a href="#fn:1" class="footnote-ref">1</a></sup>**. Steem aims to support social media and online communities by returning much of its value to the people who provide valuable contributions by rewarding them with cryptocurrency, and through this process create a currency that is able to reach a broad market, including people who have yet to participate in any cryptocurrency economy.
+Συλλογικά, το περιεχόμενο που έχει δημιουργηθεί από χρήστες έχει δημιουργήσει αξία δισεκατομμυρίων δολαρίων για τους μετόχους εταιριών των μέσων κοινωνικής δικτύωσης όπως. **Το 2014 το Reddit υπέθεσε ότι η πλατφόρμα του θα βελτιώνονταν αν όλοι που συνέβαλαν στο reddit.com με το να αναρτούν ιστορίες, να προσθέτουν σχόλια ή να ψηφίζουν ανταμείβονταν με ένα δίκαιο μερίδιο στο Reddit, Inc<sup id="fnref:1"><a href="#fn:1" class="footnote-ref">1</a></sup>**. Το Steem στοχεύει να υποστηρίξει τα μέσα κοινωνικής δικτύωσης και τις διαδικτυακές κοινότητες με το να επιστρέφει μεγάλο μέρος από την αξία του στους ανθρώπους που παρέχουν πολύτιμες συνεισφορές ανταμείβοντας τους με κρυπτονόμισμα, και μέσα από αυτή την διαδικασία να δημιουργήσει ένα νόμισμα που να μπορεί να φτάσει μία ευρύ αγορά, συμπεριλαμβανομένου ανθρώπους που δεν έχουν ακόμα να συμμετέχει σε οποιαδήποτε κρυπτονομισματική οικονομία.
 
-There are some key principles that have been used to guide the design of Steem. The most important principle is that everyone who contributes to a venture should receive pro-rata ownership, payment or debt from the venture. This principle is the same principle that is applied to all startups as they allocate shares at founding and during subsequent funding rounds.
+Υπάρχουν κάποιες αρχές κλειδιά που έχουν χρησιμοποιηθεί για να καθοδηγήσουν το σχεδιασμό του Steem. Η πιο βασική αρχή είναι ότι όλοι που συνεισφέρουν σε μια επιχείρηση θα πρέπει να λαμβάνουν κοινών εισροών ιδιοκτησία, πληρωμή ή χρέος από την επιχείρηση. Αυτή η αρχή είναι η ίδια αρχή που εφαρμόζετε σε όλες τις νεοσύστατες επιχειρήσεις καθώς αυτά διανέμουν μερίδια κατά την ίδρυση και κατά την διάρκεια ακόλουθων γύρων χρηματοδότησης.
 
-The second principle is that all forms of capital are equally valuable. This means that those who contribute their scarce time and attention toward producing and curating content for others are just as valuable as those who contribute their scarce cash. This is the sweat equity principle<sup id="fnref:2"><a href="#fn:2" class="footnote-ref">2</a></sup> and is a concept that prior cryptocurrencies have often had trouble providing to more than a few dozen individuals.
+Η δεύτερη αρχή είναι ότι όλες οι μορφές κεφαλαίου είναι εξίσου πολύτιμες. Αυτό σημαίνει ότι αυτοί που συνεισφέρουν τον χρόνο τους και προσοχή προς την δημιουργία και σύσταση για άλλους είναι τόσο πολύτιμοι όσο αυτοί που συνεισφέρουν τα χρήματά τους. Αυτή είναι η αρχή δικαιοσύνης<sup id="fnref:2"><a href="#fn:2" class="footnote-ref">2</a></sup>, και είναι ένα σχέδιο που προηγούμενα κρυπτονομίσματα συχνά είχαν πρόβλημα να παρέχουν σε παραπάνω από μερικούς χιλιάδες χρήστες.
 
-The third principle is that the community produces products to serve its members. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
+Η τρίτη αρχή είναι ότι η κοινότητα παράγει προϊόντα προς εξυπηρέτηση των μελών της. Αυτή η αρχή είναι παραδειγματική με πιστωτικές ενώσεις, εταιρίες φαγητών και σχέδια καταμερισμού υγείας, που υπηρετούν τα μέλη της κοινότητας τους παρά να πουλούν τα προϊόντα ή τις υπηρεσίες τους σε ανθρώπους έξω από την κοινότητα.
 
-The Steem community provides the following services to its members:
+Το Steem είναι μια κοινότητα που παρέχει τις εξής παροχές στα μέλη της:
 
-1. A source of curated news and commentary.
-2. A means to get high quality answers to personalized questions.
-3. A stable cryptocurrency pegged to the U.S. dollar.
-4. Free payments.
-5. Jobs providing above services to other members.
+1. Μια πηγή από συνιστώμενα νέα και ρεπορτάζ.
+2. Ένα μέσο για να λάβει υψηλής ποιότητας απαντήσεις σε προσωπικές ερωτήσεις.
+3. Ένα σταθερό κρυπτονόμισμα συνδεδεμένο με το Αμερικανικό δολάριο.
+4. Δωρεάν πληρωμές.
+5. Δουλείες που παρέχουν τις παραπάνω υπηρεσίες στα υπόλοιπα μέλη.
 
-Steem's purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem's incentives may result in better outcomes for most participants.
+Η σκόπιμη ανακατάταξη του Steem από οικονομικά κίνητρα έχει την δυνατότητα να παράγει δικαιότερα και περισσότερα περιεκτικά αποτελέσματα για όλους που εμπλέκονται με τα μέσα κοινωνικής δικτύωσης και τις κρυπτονομισματικές πλατφόρμες που έχουν έρθει πριν από αυτό. Αυτό το έντυπο θα εξερευνήσει τα υπάρχων οικονομικά κίνητρα και θα παρουσιάσει πώς τα κίνητρα του Steem μπορεί να καταλήξουν σε καλύτερα αποτελέσματα για τους περισσότερους μετέχοντες.
 
-## Recognizing Contribution
+## Αναγνωρίζοντας την συνεισφορά
 
-Steem is designed from the ground up to address the major barriers to adoption and monetization of a social media based economy. Our thesis is that the same techniques used to grow major social media platforms can be used to bootstrap a successful cryptocurrency. Economic incentives enabled by cryptocurrency can dramatically facilitate the growth of a new social media platform. It is the synergy between cryptocurrency and social media that we believe may give Steem a powerful advantage in the market.
+Το Steem έχει σχεδιαστεί εξαρχής για να απευθυνθεί στα κύρια εμπόδια της υιοθέτησης και νομισματοποίησης μιας οικονομίας βασισμένη στα μέσα κοινωνικής δικτύωσης. Η θέση μας είναι ότι οι ίδιες τεχνικές που χρησιμοποιήθηκαν για να μεγαλώσουν κύριες πλατφόρμες μέσων κοινωνικής δικτύωσης μπορούν να χρησιμοποιηθούν για να ωθήσουν ένα επιτυχημένο κρυπτονόμισμα. Τα οικονομικά κίνητρα που παρέχονται από το κρυπτονόμισμα μπορούν να διευκολύνουν δραματικά την ανάπτυξη μιας νέας πλατφόρμας κοινωνικής δικτύωσης. Είναι αυτή η συνέργεια μεταξύ κρυπτονομίσματος και κοινωνικών δικτύων που πιστεύουμε ότι μπορεί να δώσει στο Steem ένα δυνατό πλεονέκτημα στην αγορά.
 
-The challenge faced by Steem is deriving an algorithm for scoring individual contributions that most community members consider to be a fair assessment of the subjective value of each contribution. In a perfect world, community members would cooperate to rate each other's contribution and derive a fair compensation. In the real world, algorithms must be designed in such a manner that they are resistant to intentional manipulation for profit. Any widespread abuse of the scoring system could cause community members to lose faith in the perceived fairness of the economic system.
+Η πρόκληση που αντιμετωπίζεται από το Steem είναι να αποκομίσει έναν αλγόριθμο για να μετράει συλλογικές συνεισφορές που τα περισσότερα μέλη της κοινότητας θεωρούν να είναι μια δίκαιη εκτίμηση της υποκειμενικής αξίας από κάθε συνεισφορά. Σε ένα τέλειο κόσμο, τα μέλη της κοινότητας θα συνεργάζονταν για να εκτιμήσουν την συνεισφορά καθενός και να αποκομίσουν μια δίκαιη αποζημίωση. Στον πραγματικό κόσμο, οι αλγόριθμοι πρέπει να σχεδιάζονται με τέτοιο τρόπο ώστε να είναι ανθεκτικοί σε εσκεμμένη χειραγώγηση για κέρδος. Οποιαδήποτε ευρύ κακομεταχείριση του συστήματος τήρησης βαθμολογίας θα μπορούσε να προκαλέσει την έλλειψη πίστης από τα μέλη της κοινότητας στην αντιληπτή δικαιοσύνη του οικονομικού συστήματος.
 
-Existing platforms operate on a one-user, one-vote principle. This creates an environment where rankings can be manipulated by sybil attacks and the service providers must pro-actively identify and block abusers. People already attempt to manipulate the Reddit, Facebook, and Twitter scoring algorithms when the only reward is web traffic or censorship.
+Οι υπάρχων πλατφόρμες λειτουργούν με την αρχή του ενός-χρήστη, μιας-ψήφου. Αυτό δημιουργεί ένα περιβάλλον όπου οι σειρές κατάταξης μπορούν να κακομεταχειριστούν από επιθέσεις Sybil και οι πάροχοι υπηρεσίας πρέπει ενεργά να αναγνωρίσουν και να αναχαιτίσουν τους καταχραστές. Οι άνθρωποι ήδη επιχειρούν να παραποιήσουν το σύστημα βαθμολόγησης του Reddit, Facebook και του Twitter όταν η μόνη ανταμοιβή είναι το web traffic και η λογοκρισία.
 
-The fundamental unit of account on the Steem platform is STEEM, a crypto currency token. Steem operates on the basis of one-STEEM, one-vote. Under this model, individuals who have contributed the most to the platform, as measured by their account balance, have the most influence over how contributions are scored. Furthermore, Steem only allows members to vote with STEEM when it is committed to a multi-year vesting schedule. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
+Η θεμελιώδης μονάδα λογιστικής στην πλατφόρμα του Steem είναι το STEEM, ένα κρυπτονομισματικό σύμβολο. Το Steem λειτουργεί επί την βάση του ένα-STEEM, μια-ψήφος. Κάτω από αυτό το μοντέλο, άτομα που έχουν συνεισφέρει τα περισσότερα σε αυτή την πλατφόρμα, όπως μετράται από το υπόλοιπο του λογαριασμού τους, έχουν την περισσότερη επιρροή στο πως μετρούνται οι συνεισφορές. Επιπλέον, το Steem επιτρέπει μόνο τα μέλη να ψηφίζουν με STEEM όταν έιναι προσηλωμένο σε ένα χρονοδιάγραμμα κατοχύρω. σης. Κάτω από αυτό το μοντέλο, τα μέλη έχουν ένα οικονομικό κίνητρο να ψηφήσουν ένα τρόπο που μεγιστοποιεί την μακροπρόθεσμη αξία των STEEM τους.
 
-Steem is designed around a relatively simple concept: *everyone's meaningful contribution to the community should be recognized for the value it adds.* When people are recognized for their meaningful contributions, they continue contributing and the community grows. Any imbalance in the give and take within a community is unsustainable. Eventually the givers grow tired of supporting the takers and disengage from the community.
+Το Steem είναι σχεδιασμένο γύρω από μια σχετικά απλή έννοια: *η σημαντική συνεισφορά όλων στην κοινότητα θα πρέπει να αναγνωρίζετε για την αξία που προσθέτει.* Όταν οι άνθρωποι αναγνωρίζονται για τις σημαντικές συνεισφορές τους, συνεχίζουν να συνεισφέρουν και η κοινότητα μεγαλώνει. Οποιαδήποτε ανισορροπία στο πάρε δώσε μέσα στην κοινότητα είναι ασυντήρητο. Τελικά οι δότες κουράζονται να υποστηρίζουν τους λήπτες και απεμπλέκονται από την κοινότητα.
 
-The challenge is creating a system capable of identifying what contributions are needed and their relative worth in a way that can scale to an unbounded number of people.
+Η πρόκληση βρίσκεται στο να δημιουργηθεί ένα σύστημα ικανό να αναγνωρίσει ποιες συνεισφορές χρειάζονται και η σχετική τους αξία με ένα τρόπο που μπορεί να κλιμακωθεί σε έναν ακαθόριστο αριθμό ανθρώπων.
 
-A proven system for evaluating and rewarding contributions is the free market. The free market can be viewed as a single community where everyone trades with one another and rewards are allocated by profit and loss. The market system rewards those who provide value to others and punishes those who consume more value than they produce. The free market supports many different currencies and money is simply a commodity that everyone finds easy to exchange.
+Ένα δοκιμασμένο σύστημα για την εκτίμηση και την ανταμοιβή είναι η ελεύθερη αγορά. Η ελεύθερη αγορά μπορεί να προβληθεί σαν μια ενιαία κοινότητα στην οποία ο καθένας ανταλλάσσει με τον άλλον και οι ανταμοιβές διανέμονται με κέρδος και ζημία. Το σύστημα της αγοράς ανταμείβει αυτούς που παρέχουν αξία σε άλλους και τιμωρεί αυτούς που καταναλώνουν περισσότερη αξία από αυτή που παράγουν. Η ελεύθερη αγορά υποστηρίζει πολλά διαφορετικά νομίσματα και τα λεφτά είναι απλά ένα αγαθό το οποίο όλοι βρίσκουν εύκολο να ανταλλάξουν.
 
-Since the free market is a proven system, it is tempting to try to create a free-market system where content consumers directly pay content producers. However, direct payment is inefficient and not really viable for content creation and curation. The value of most content is so low relative to the cognitive, financial, and opportunity costs associated with making a payment that few readers choose to tip. The abundance of free alternatives means that enforcing a 'paywall' will drive readers elsewhere. There have been several attempts to implement per-article micropayments from readers to authors, but none have become widespread.
+Αφού η ελεύθερη αγορά είναι ένα δοκιμασμένο σύστημα, είναι δελεαστική η προσπάθεια δημιουργίας ενός συστήματος ελεύθερης αγοράς όπου οι καταναλωτές περιεχομένου πληρώνουν απευθείας τους δημιουργούς περιεχομένου. Όμως, η απευθείας πληρωμή είναι αναποτελεσματική και όχι πραγματικά εφικτή για παραγωγή περιεχομένου και σύσταση. Η αξία των περισσότερων περιεχομένων σε σχέση με τα γνωστικά, οικονομικά, και κόστη ευκαιρίας που σχετίζονται με την πραγματοποίηση μια πληρωμής στην οποία μερικοί αναγνώστες θα διαλέξουν να αφήσουν φιλοδώρημα. Η αφθονία των δωρεάν εναλλακτικών σημαίνει ότι η επιβολή ενός paywall θα οδηγήσει τους αναγνώστες αλλού. There have been several attempts to implement per-article micropayments from readers to authors, but none have become widespread.
 
 Steem is designed to enable effective micropayments for all kinds of contribution by changing the economic equation. Readers no longer have to decide whether or not they want to pay someone from their own pocket, instead they can vote content up or down and Steem will use their votes to determine individual rewards. This means that people are given a familiar and widely used interface and no longer face the cognitive, nancial, and opportunity costs associated traditional micropayment and tipping platforms.
 
