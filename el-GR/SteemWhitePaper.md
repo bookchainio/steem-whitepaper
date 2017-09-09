@@ -14,7 +14,7 @@
   
 but it is ready   
   
-Credits here @skapaneas @holidaygreece @skapart ".
+Credits here @skapaneas @holidaygreece @skapart".
 
 # Περίληψη
 
