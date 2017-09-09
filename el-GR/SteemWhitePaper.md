@@ -299,47 +299,47 @@ Credits here @skapaneas @holidaygreece @skapart ".
 
 ### Πληρωμές
 
-Όταν μια ανάρτηση λάβει μια πληρωμή θα πάρει την μορφή 50%SMD και 50%SP. Το Steem Power δίνουν στο χρήστη αυξημένη ψήφου και ανταλλαγής δύναμη καθώς το SMD δίνουν στον χρήστη ένα άμεσο όφελος σε ένα σταθερό νόμισμα. As we've already discussed at length, both SP and SMD are designed to encourage long-term holding rather than short-term selling.
+Όταν μια ανάρτηση λάβει μια πληρωμή θα πάρει την μορφή 50%SMD και 50%SP. Το Steem Power δίνουν στο χρήστη αυξημένη ψήφου και ανταλλαγής δύναμη καθώς το SMD δίνουν στον χρήστη ένα άμεσο όφελος σε ένα σταθερό νόμισμα. Όπως έχουμε είδη συζητήσει σε μάκρος, SP και SMD είναι σχεδιασμένα για να ενθαρρύνουν μακροπρόθεσμες κατοχές παρά βραχυπρόθεσμο πούλημα.
 
-# Consensus Algorithm
+# Αλγόριθμος Ομοφωνίας
 
-Consensus is the process by which a community comes to a universally recognized, unambiguous agreement on piece of information. There are many algorithms society has developed for reaching consensus about who owns what. Every government on earth is a primitive consensus algorithm whereby the population agrees to abide by a certain set of rules enshrined in a constitution. Governments establish courts, judges, and juries to interpret the subjective facts and render a final decision. Most of the time people abide by the decision even if it was wrong.
+Η ομοφωνία είναι η διαδικασία κατά την οποία μια κοινότητα έρχεται σε μια παγκόσμια αναγνωρίσιμη, ξεκάθαρη συμφωνία πάνω σε ένα κομμάτι πληροφορίας. Υπάρχουν πολλοί αλγόριθμοι που η κοινωνία έχει αναπτύξει για να φτάσει σε μια ομοφωνία για το ποιός κατέχει τι. Κάθε κυβέρνηση στην Γη έχει ένα πρωτόγονο αλγόριθμο ομοφωνίας όπου ο πληθυσμός συμμορφώνεται από ένα συγκεκριμένο σετ κανόνων που είναι κατοχυρωμένο από ένα σύνταγμα. Οι κυβερνήσεις εγκαθιδρύουν δικαστήρια, δικαστές, και ενόρκους να ερμηνεύσουν τα υποκειμενικά γεγονότα και να προσφέρουν μια τελική απόφαση. Τις περισσότερες φορές οι άνθρωποι συμμορφώνονται με την απόφαση ακόμη και αν είναι λάθος.
 
-The algorithms used by cryptocurrencies provide a better way to reach consensus. Cryptographically signed testimony from individuals is recorded in a public ledger that establishes the absolute global order of events. A deterministic computer algorithm can then process this ledger to derive a universally accepted conclusion. So long as the members of a community agree on the processing algorithm, the result of the algorithm is authoritative.
+Οι αλγόριθμοι που χρησιμοποιούνται από τα κρυπτονομίσματα προβιβάζουν ένα καλύτερο τρόπο για την επίτευξη ομοφωνίας. Κρυπτογραφικά υπογεγραμμένες μαρτυρίες από άτομα είναι καταγραμμένα σε δημόσια λογιστικά βιβλία που εγκαθιδρύουν την απόλυτη τάξη των γεγονότων. Ένας ντετερμινιστικός αλγόριθμος υπολογιστή μπορεί μετά να κατεργαστεί αυτό το λογιστικό βιβλίο για να εξάγει ένα παγκοσμίως αποδεκτό συμπέρασμα. Όσο τα μέλη της κοινότητας συμφωνούν στον αλγόριθμο κατεργασίας, το αποτέλεσμα του αλγόριθμου θα είναι επίσημο.
 
-The primary consideration is determining what testimony is allowed to enter the public record. Systems should be designed to minimize the potential for censorship. Censorship on the public ledger is similar to preventing someone from voting in an election. In both cases an individual is prevented from impacting the global consensus.
+Η κύρια σκέψη είναι η απόφαση ποιας μαρτυρίας επιτρέπετε να εισέλθει στο κοινωνικό αρχείο. Τα συστήματα θα πρέπει να είναι σχεδιασμένα για να ελαχιστοποιούν την πιθανότητα για λογοκρισία. Η λογοκρισία στο κοινωνικό λογιστικό βιβλίο είναι παρόμοια με την προτροπή κάποιου από το να μην ψηφίζει στις εκλογές. Και στις δύο περιπτώσεις το άτομο αποτρέπεται από το να έχει αντίκτυπο στην παγκόσμια ομοφωνία.
 
-## Consensus in Steem
+## Η Κοινή Συναίνεση στο Steem
 
-Conceptually, the consensus algorithm adopted by Steem is similar to the consensus algorithm adopted by companies throughout the world. People with a vested interest in the future value of Steem vote to select individuals responsible for including testimony in the public record. Voting is weighted proportional to each individual's vested interest.
+Εννοιολογικά, ο αλγόριθμος της κοινής συναίνεσης που έχει υιοθετήσει το Steem είναι παρόμιο του αλγορίθμου που έχουν υιοθετήσει πολλές εταιρίες σε όλο τον κόσμο. Άνθρωποι με περιβεβλημένο ενδιαφέρον για την μελλοντική αξία του Steem ψηφίζουν να επιλέξουν άτομα τα οποία είναι υπεύθυνα για την κατάθεση στη δημόσια εγγραφή. Η ψήφος ζυγίζεται αναλογικά με το περιβεβλημένο ενδιαφέρον του καθενός ατόμου.
 
-In the world of cryptocurrencies, the public record is commonly referred to as a *blockchain*. A *block* is a group of signed transactions.
+Στον κόσμο των cryptocurrencies, στη δημόσια εγγραφή συνηθίζεται να αναφερόμαστε ως *blockchain*. Ενα *block (φραγμός)* είναι ένα συγκρότημα από υπογεγραμμένες συναλλαγές.
 
-With Steem, block production is done in rounds. Each round 21 witnesses are selected to create and sign blocks of transactions. Nineteen (19) of these witnesses are selected by approval voting, one is selected by a computational proof-of-work, and one is timeshared by every witness that didn't make it into the top 19 proportional to their total votes. The 21 active witnesses are shuffled every round to prevent any one witness from constantly ignoring blocks produced by the same witness placed before.
+Με το Steem, η παραγωγή φραγμών γίνεται σε γύρους. Κάθε γύρο 21 μάρτυρες επιλέγονται για την δημιουργία και την υπογραφή φραγμών συναλλαγών. Δεκαεννέα (19) απο αυτούς του μάρτυρες επιλέγονται από ψηφοφορία σύμβασης, ένας επιλέγεται μέσω μιας υπολογιστικής απόδειξης εργάσίας, και ένας μοιράζατε από τον κάθε μάρτυρα ο οποίος δεν κατέληξε στους κορυφαίους 19 αναλογικά με τις ψήφους τους. Οι 21 ενεργοί μάρτυρες ανακατεύονται καθε γύρο με σκοπό να αποτρέψει τον μάρτυρα από την συνεχή παραμέληση των φραγμών που παράχθηκαν από τον ίδιο μάρτυρα που τοποθετήθηκε προηγουμένος.
 
-This process is designed to provide the best reliability while ensuring that everyone has the potential to participate in block production regardless of whether they are popular enough to get voted to the top. People have three options to overcome censorship by the top 19 elected witnesses: patiently wait in line with everyone else not in the top 19, purchase enough computational power to solve a proof of work faster than others, or purchase more SP to improve voting power. Generally speaking, applying censorship is a good way for elected witnesses to lose their job and therefore, it is unlikely to be a real problem on the Steem network.
+Αυτή η διαδικασία έχει σχεδιαστεί με στόχο να παρέχει την καλύτερη αξιοπιστία ενώ εξασφαλίζει ότι όλοι έχουν την ικανότητα να πάρουν μέρος στην παραγωγή φραγμών χώρις να πρέπει αυτοί να είναι αρκετά δημοφιλής για να ψηφιστούν εώς την κορυφή. Τα άτομα έχουν τρεις επιλογές για να υπερισχύσουν την λογοκρισία από τους 19 κορυφαίους εκλεγμενους μάρτυρες: η υπομονετική αναμονή στην ουρά μαζί με όλους οι οποίοι δεν βρίσκονται στους κορυφάιους 19, η αγορά αρκετής υπολογιστικής δύναμης για την λύση μιας απόδειξης εργασίας γρηγορότερα από άλλους, ή η αγορά περισσότερου SP (Steem Power) για την βελτίωση της δύναμης ψήφου. Μιλόντας γενικότερα, η εφαρμογή λογοκρισίας είναι ένας καλός τρόπος για τους εκλεγμένους μάρτυρες να χάσουν την δουλεία τους και επομένως, είναι απίθανο να υπάρξει αληθίνο πρόβλημα στον τομαία της λογοκρισίας στο δίκτυο Steem.
 
-Because the active witnesses are known in advance, Steem is able to schedule witnesses to produce blocks every 3 seconds. Witnesses synchronize their block production via the NTP protocol. A variation of this algorithm has been in use by the BitShares network for over a year where it has been proven to be reliable.
+Επειδή η ενεργοί μάρτυρες είναι γνωστοί εκ των προτέρων, το Steem έχει την δυνατότητα να προγραμματήσει τους μάρτυρες να παράγουν φραγμούς κάθε 3 δευτερόλεπτα. Οι μάρτυρες συγχρονίζουν την παραγωγή φραγμών τους μέσω του προτόκολλου NTP. Μια παραλλαγή αυτού του αλγορίθμου χρησιμοποιείται από το δίκτυο BitShares για πάνω από έναν χρόνο όπου και έχει αποδειχθεί αξιόπιστη.
 
-## Mining in Steem
+## Μετάλλευση στο Steem
 
-Traditional proof of work blockchains combine block production with the solving of a proof of work. Because the process of solving a proof of work takes an unpredictable amount of time, the result is unpredictable block production times. Steem aims to have consistent and reliable block production every 3 seconds with almost no potential for forks.
+Παραδοσιακή απόδειξη της εργασίας blockchains συνδιάζουν την παραγωγή φραγμών με την επίλυση μιας απόδειξης εργασίας. Επειδή η διαδικασία της επίλυσης μιας απόδειξης εργασίας διαρκεί ένα απρόβλεπτο χρονικό διάστημα, το αποτέλεσμα είναι απρόβλεπτα χρονικά διαστήματα παραγωγής φραγμών. Το Steem έχει στόχο να κατέχει σταθερές και αξιόπιστες παραγωγές φραγμών κάθε 3 δευτερόλεπτα χωρίς σχεδόν καμία πιθανότητα αποτυχίας.
 
-To achieve this Steem separates block production from solving of proof of work. When a miner solves a proof of work for Steem, they broadcast a transaction containing the work. The next scheduled witness includes the transaction into the blockchain. When the transaction is included the miner is added to the queue of miners scheduled to produce blocks. Each round one miner is popped from the queue and included in the active set of witnesses. The miner gets paid when they produce a block at the time they are scheduled.
+Για να το πετύχει αυτό, το Steem διαχωρίζει την παραγωγή φραγμών από την επίλυση απόδειξης εργασίας. Όταν ένας μεταλλευτής (miner) επιλύει μια απόδειξη εργασίας για το Steem, αναμεταδίδει μια συναλλαγή η οποία περιέχει το έργο. Ο επόμενος προγραμματισμένος μάρτυρας περιλαμβάνει την συναλλαγή εις το blockchain. Όταν γίνει αυτό και έχει περιλαμβάνει την συναλλαγή με επιτυχία ο μεταλλευτής προσθέτεται στην ουρά των μεταλλευτών οι οποίοι είναι προγραμματισμένοι να παράγουν φραγμούς. Κάθε γύρο ένας μεταλλευτής εξάγεται από την ουρά και περιλαμβάνεται στην ενεργή σειρά μαρτύρων. Ο μεταλλευτής πληρώνεται οταν παράγει την έναν φραγμό την στιγμή που έχει προγραμματιστεί.
 
-The difficulty of the proof of work doubles every time the queue length grows by 4. Because one miner is popped from the queue every round, and each round takes 21 \* 3 = 63 seconds, the difficulty automatically halves if no proof of work is found in no more than 21 \* 3 \* 4 = 252 seconds.
+Η δυσκολία της απόδειξης εργασίας διπλασιάζεται κάθε φορά που το μήκος της ουράς μεγαλώνει κατά 4. Επειδή ένας μεταλλευτής εξάγεται από την ουρά κάθε γύρο, και ο κάθε γύρος παίρνει 21 \* 3 = 63 δευτερόλεπτα, η δυσκολία αυτόματα μειώνεται κατά το μισό εάν σε 21 \* 3 \* 4 = 252 δευτερόλεπτα δεν έχει βρεθεί απόδειξη εργασίας.
 
-### Mining Rewards require Steem Power
+### Οι ανταμοιβές μετάλλευσης απαιτούν Steem Power
 
-After the first month, Steem miners are paid in Steem Power (SP). SP is liquidated through the two-year process of "powering down". This means that miners must wait for a long time, likely many months, before sufficient mining rewards have been powered down to allow them to recover the cost of electricity and computational resources. The powering down process discourages creation of mining pools because the pool operator would have to spread payouts over years.
+Μετά από τον πρώτο μήνα, οι μεταλλευτές του Steem πληρώνονται σε Steem Power (SP). Το SP εξοφλείται μέσω της διαδικασίας “powering down” η οποία διαρκεί δύο χρόνια. Αυτό σημαίνει ότι οι μεταλλευτές πρέπει να περιμένουν πολύ καιρό, πιθανότατα πολλούς μήνες, πριν οι ικανές ανταμοιβές μετάλλευσης εχουν γίνει “powered down” για να τους επιτρέψουν να ανακτήσουν το κόστος του ηλεκτρικού ρεύματος και των υπολογιστικών πόρων. The powering down process discourages creation of mining pools because the pool operator would have to spread payouts over years.
 
-The effect of paying mining rewards in SP is to prevent miners from using today's price to determine the pro tability of mining. Few people will agree on what the future price will be. This means mining difficulty will be driven by those who place the highest estimate on future value. Miners without a long-term interest in the platform will be discouraged from competing. Ultimately this means that the proceeds of mining are less likely to be dumped on the market because they will accrue to long-term believers in the platform.
+Το αποτέλεσμα της πληρωμής των ανταμοιβών για την μετάλλευση (mining) γίνεται σε SP με σκοπό την αποτροπή των μεταλλευτών από την χρήση της σημερινής τιμής έτσι ώστε να προβλέψουν κέρδος. Λίγα άτομα θα συμφωνήσουν στο ποιά θα είναι η μελλοντική τιμή. Αυτό σημαίνει ότι η δυσκολία μετάλλευσης θα οδηγείται από αυτούς που τοποθετούν την υψηλότερη εκτίμηση στην μελλοντική αξία. Μεταλλευτές οι οποίοι δεν έχουν μακροχρόνιο ενδιαφέρον στην πλατφόρμα θα αποθαρρυνθούν από τον ανταγωνισμό. Τελικά αυτό σημαίνει ότι τα προϊόντα είσπραξης από την διαδικασία της μετάλλευσης είναι λιγότερο πιθανόν να καταβαλθούν στην αγορά διότι θα αποκομίσουν σε εκείνους που πιστεύουν στην πλατφόρμα μακροπρόθεσμα.
 
-### Mining Algorithm
+### Αλγόριθμος Μετάλλευσης
 
-The mining algorithm adopted by Steem requires the miner to have access to the private key of the account that will receive the rewards. This requirement has several important consequences. First it encourages optimization of elliptic curve signature verification algorithms needed by Steem. Second it makes it challenging to set up mining pools because the pool operator would have to share control over the reward with all of the "anonymous" miners. Third, it makes it difficult to use botnets because the botnet operator would have to distribute their private key to all compromised machines.
+Ο αλγόριθμος μετάλλευσης τον οποίο έχει υιοθετήσει το Steem απαιτεί από τον μεταλλευτή να έχει πρόσβαση στο ιδιωτικό κλειδί του λογαριασμού που θα λάβει τις ανταμοιβές. Αυτή η απαίτηση έχει διάφορες σημαντικές συνέπειες. Πρώτον ενθαρύνει την βελτιστοποίηση των αλγορίθμων επαλήθευσης ελλειπτικης καμπύλης υπογραφής. Δεύτερον ενισχύει την δυσκολία στησίματος «κυψελών» διότι ο χειριστής είναι αναγκασμένος να μοιραστεί τον έλεγχο των ανταμοιβών με όλους τους “ανόνυμους” μεταλλευτές. Τρίτον, ενισχύει την δυσκολία χρήσης “botnets” διότι ο χειριστής botnet αναγκάζεται να διανέμει το ιδιωτικό κλειδί σε όλα τα συμβιβασμένα μηχανήματα.
 
-The following pseudocode describes how the proof-of-work hash value is calculated:
+Ο παρακάτω ψευδοκώδικας περιγράφει πως η αξία της απόδειξη της εργασίας υπολογίζεται:
 
     Let H    = Head Block ID
     Let H2   = SHA256(H + NONCE)
@@ -350,41 +350,41 @@ The following pseudocode describes how the proof-of-work hash value is calculate
     Let POW  = SHA256(K)
     
 
-### Botnet Resistant
+### Αντίσταση σε Botnet
 
-Many proof of work coins end up being mined by botnets. A botnet is a collection of thousands or millions of machines that have been compromised by hackers. These hackers steal the computational and electrical resources of compromised machines to mine cryptocurrency tokens.
+Πολλά νομίσματα απόδειξης εργασίας καταλήγουν να μεταλλεύονται απο botnets. Ένα botnet είναι μια συλλογή χιλιάδων ή εκατομμυρίων μηχανημάτων που έχουν συμβιβαστεί από hackers. Οι hackers αυτοί κλέβουν τους υπολογιστικούς και ηλεκτρικούς πόρους των συμβιβασμένων μηχανημάτων με σκοπό την μετάλλευση κρυπτονομισμάτων.
 
-Steem has many properties that prevent these computational thieves from profiting. Botnet operators are profit seeking enterprises and typically sell their stolen resources to the highest bidder. This means that those who utilize a botnet pay for the computational power in the same way that someone who uses Amazon EC2 does. The vesting requirement of Steem means that the capital spent on buying the resources of the botnet will be tied up for a long period of time during which the operator is exposed to price volatility.
+Το Steem έχει πολλές ιδιότητες οι οποίες αποτρέπουν αυτούς τους υπολογιστικούς κλέφτες από το να βγάλουν κέρδος. Οι χειριστές botnet είναι επιχειρήσεις αναζήτησης κέρδους και συνήθως πουλάνε τους κλεμένους αυτούς πόρους στον μεγαλύτερο πλειοδότη. Αυτό σημαίνει ότι εκείνοι οι οποίοι χρησιμοποιούν botnets πληρώνουν για την υπολογιστική δύναμη με τον ίδιο τρόπο που κάποιος χρησιμοποιεί το Amazon EC2. Η απαίτηση κατοχύρωσης του Steem σημαίνει οτι το κεφάλαιο το οποίο ξοδεύτηκε στην αγορά των πόρων του botnet θα είναι “κλειδωμένο” για μια μακριά περίοδο του χρόνου κατά την οποία ο χειριστής βρίσκεται εκτεθειμένος στην μεταβλητότητα της τιμής.
 
-Another way that botnet operators are prevented from profiting is the requirement to distribute the private key to all compromised machines. If even one compromised computer is discovered, the operator could lose their coins.
+Ένας άλλος τροπος με τον οποίο οι χειριστές botnet αποτρέπονται από την δημιουργία κέρδους είναι η απαίτηση διανομής του ιδιωτικού κλειδιού σε όλα τα συμβιβασμένα μηχανήματα. Εάν ακόμη και ένα από αυτά τα μηχανήματα ανακαλυφθεί, ο χειριστής έχει κίνδυνο να χάσει όλα του τα νομίσματα.
 
-The last mitigation is the dependency on latency. Most botnets are comprised of computers with poor internet connections, these slow Internet connections will dramatically reduce the effectiveness of the computational resource.
+Το τελευταίο μειωνέκτημα είναι η εξάρτηση από την αφάνεια. Τα περισσότερα botnets αποτελούνται από υπολογιστές με φτωχή σύνδεση στο διαδίκτυο, αυτες οι συνδέσεις θα μειώσουν δραματικά την αποτελεσματικότητα του υπολογιστικού πόρου.
 
-It should be more profitable and less risky for botnet operators to use their resources for other activities than mining STEEM.
+Πρέπει να περισσότερο κερδοφόρο και λιγότερο επικύνδινο για τους χειριστές botnet να χρησιμοποιήσουν τους πόρους τους για άλλες δραστηριότητες πέρα της μετάλλευσης STEEM.
 
-### Mining Pool Resistant
+### Ανθεκτικότητα «Κυψελών» Μετάλλευσης
 
-Miners have a total of 3 seconds to receive a block, solve the proof of work, and get the transaction to the next block producer. Much of this time will consist of network latency which means that it is critical for miners to be well connected to the network to make the most effective use of their computational resources.
+Οι μεταλλευτές έχουν 3 δευτερόλεπτα να λάβουν έναν φραγμό, να λύσουν την απόδειξη εργασίας, και να μεταφέρουν την συναλλαγή στον επόμενο παραγωγό φραγμών. Πολύς από αυτόν τον χρόνο θα αποτελείται από την καθυστέρηση του δικτύου πράγμα το οποίο σημαίνει ότι είναι σημαντικό για τους μεταλλευτές να έχουν μια καλή σύνδεση στο δίκτυο έτσι ώστε να έχουν την πιό αποτελεσματική χρήση των υπολογιστικών τους πόρων.
 
-Because of the constantly changing head block and network latency, forwarding a template for mining a specific block to participants of a mining pool adds additional network latency and reduces efficiency of pooled mining significantly.
+Επειδή ο ηγετικός φραγμός και η καθυστέρηση του δικτύου συνεχώς μεταβάλλονται, η προώθηση ενός προτύπου για την μετάλλευση ενός συγκεκριμένου φραγμού στους συμμετέχοντες μιας «κυψέλης» μετάλλευσης προσθέτει επιπλέον δικτυακή καθυστέρηση και μειώνει την αποδοτικότητα της μετάλλευσης «κυψελών» σημαντικά.
 
-# Eliminating Transaction Fees
+# Εξαλείφοντας Τέλη Συναλλαγών
 
-Steem goes to great lengths to reward people for contributing to the network. It would be counterproductive to turn around and charge people every time they attempt to interact with the community.
+Το Steem κάνει μια μεγάλη προσπάθεια στο να ανταμείψει τα άτομα τα οποία συμβάλλουν στο δίκτυο. Θα ήταν ανταπαραγωγικό να γινόταν χρέωση των ατόμων κάθε φορά που αυτοί προσπαθούσαν να έρθουν σε επαφή με την κοινότητα.
 
-Blockchain technology currently depends upon transaction fees to prevent spam. These fees suffer all of the known problems with microtransactions and prevent blockchains from being used for low-value transactions. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
+Η τεχνολογία των blockchains αυτή τη στιγμή βασίζεται στα τέλη συναλλαγών για να αποτρέψει την κατάχρηση. Αυτά τα τέλη είναι θύματα όλων των γνωστών προβλημάτων των μικροσυναλλαγών και αποτρέπουν τα blockchains στο να χρησιμοποιούνται για συναλλαγές μικρών τιμών. Οι αληθινά αποκεντρωμένες εφαρμογές πρέπει να προσφέρουν στους χρήστες την παρουσία δωρεάν συναλλαγών εάν έχουν σκοπό να ανταγωνιστούν τις κεντρικές εναλλαγές. Αυτό το χαρτί γραμμοσκιάζει τον τρόπο με τον οποίο το Steem εξαλείφει την ανάγκη για τέλη συνναλαγών και εκ τούτου καθιστά ικανό ένα ευρύ φάσμα αποκεντρωμένων εφαρμογών οι οποίες προηγουμένος ήταν αστήρικτες.
 
-## The Problem With Fees
+## Το Πρόβλημα με τα Τέλη Συναλλαγών
 
-Blockchains are decentralized networks where all transactions are broadcast to all peers. Every so often a block is produced that includes some or all of the pending transactions. All blockchains must find a solution to prevent malicious users from consuming all of the available network capacity with worthless transactions. These worthless transactions can prevent other valuable transactions from being processed and ultimately destroy the network.
+Τα blockchains είναι αποκεντρωμένα δίκτυα όπου όλες οι συναλλαγές αναμεταδίδονται σε όλους τους ισάξιους. Κάθε τόσο ένας φραγμός ο οποίος περιέχει όλες τις εκκρεμής συναλλαγές παράγεται. Όλα τα blockchains πρέπει να βρούνε κάποιον τρόπο να αποτρέψουν τους χαιρέκακους χρήστες από το να καταναλώσουν όλη την δικτυακή χωρητικότητα με ευτελής συναλλαγές. Αυτές οι ευτελής συναλλαγές μπορούν να αποτρέψουν άλλες πολύτιμες συναλλαγές από το να επεξεργάζονται και τελικά να καταστρέφουν το δίκτυο.
 
-The solution adopted by most blockchains thus far is to charge a minimum transaction fee. A fee worth just a few cents is enough to make attacking the network expensive and unprofitable. While this approach solves the spam problem, it introduces new problems. Imagine solving the email spam problem by introducing a small fee on every email; people wouldn't use email.
+Η λύση η οποία υιοθετείτε από τα περισσότερα blockchains μέχρι τώρα είναι να υπάρχει μια ελάχιστη χρέωση για τις συναλλαγές. Τέλη τα οποία κοστίζουν έστω και μερικά cents είναι αρκετά για να κάνουν την επίθεση στο δίκτυο ακριβή και ασύμφορη. Μολονότι αυτή η προσέγγιση λύνει το πρόβλημα κατάχρησης, εισάγει νέα προβλήματα. Φανταστήτε να λύναμε το πρόβλημα της ανεπiθύμητης αλληλογραφίας email μέσω μιας μικρής χρέωσης για κάθε mail. Οι άνθρωποι δεν πρόκειται να χρησιμοποιούσαν πλέων email.
 
-### Micropayments Don't Work
+### Οι Μικροπληρωμές Δεν Λειτουργούν
 
-The fundamental problem with charging transaction fees is that micropayments don't work, especially for low-value user actions. When a fee is charged on every transaction, it limits the types of transactions that a decentralized network can process. Regardless of how rational the argument for the necessity of fees, users still hate the experience of being nickeled and dimed for everything that they do.
+Το θεμελιώδες πρόβλημα της χρέωσης για τα τέλη συναλλαγής είναι ότι οι μικροπληρωμές δεν λειτουργούν, ειδικά για μικρής αξίας πράξεις χρηστών. Όταν γίνεται μια χρέωση επάνω σε κάθε συναλλαγή, περιορίζει τους τύπους συναλλαγών που ένα αποκεντρωμένο δίκτυο μπορεί να επεξεργαστεί. Ανεξάρτητα απο το πόσο ορθολογιστικό είναι το επιχείρημα της ανάγκης χρεώσεων, οι χρήστες εξακολουθούν να αντιπαθούν την πληρωμή μικρών χρεώσεων για την οποιαδήποτε πράξη τους.
 
-Imagine if the websites we use every day charged us a fee every time we modify our accounts by changing the password. Users expect certain things to be free. Requiring users to make a decision on whether or not an action is worth a small fee creates anxiety that causes users to leave.
+Φανταστήτε αν οι ιστοσελίδες που χρησιμοποιούμαι καθημερινά θέτανε μια μικρή χρέωση κάθε φορά που αλλάζαμε τον κωδικό πρόσβασης του λογαριασμού μας. Οι χρήστες αναμένουν ορισμένα πράγματα να είναι δωρεάν. Απαιτώντας απο τους χρήστες να πάρουν την απόφαση για το αν μια πράξη αξίζει την μικρή αυτή χρέωση δημιουργεί ανησυχία η οποία γίνεται αιτία αποχώρησης των χρηστών.
 
 > A transaction can't be worth so much as to require a decision but worth so little that that decision is automatic. There is a certain amount of anxiety involved in any decision to buy, no matter how small, and it derives not from the interface used or the time required, but from the very act of deciding.  
 > Micropayments, like all payments, require a comparison: "Is this much of X worth that much of Y?" There is a minimum mental transaction cost created by this fact that cannot be optimized away, because the only transaction a user will be willing to approve with no thought will be one that costs them nothing, which is no transaction at all.
