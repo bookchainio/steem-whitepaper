@@ -4,9 +4,9 @@
 
 Marzo 2016
 
-# Translator's notes
+# Notas del traductor
 
-Placeholder for translator's notes.
+Traducido por **@fernando-sanz** (https://steemit.com/steemit/@fernando-sanz/steem-whitepaper-spanish-translation-done).
 
 # Abstract
 
@@ -642,67 +642,67 @@ La energía mental asociada a tomar una desición económica se vuelve una barre
 > 
 > *- Micropagos: Un modelo de negocios viable <sup id="fnref:23"><a href="#fn:23" class="footnote-ref">23</a></sup>*
 
-Bajo Steem, los micropagos son pagados al productor del contenido, pero aquéllos que votan el contenido no pagan. En su lugar, el costo del premio es pagado a través de nuevos *tokens*. Alguien puede ingresar en el sistema, votar para pagarle a alguien, y luego irse del sistema con mas dinero del que tenían cuando comenzaron (asumiendo que la valuación del mercado del sistema de Steem se mantenga constante). In other words, the micropayment solution provided by Steem provides a user-experience similar to many widely used websites that have user-moderated content.
+Bajo Steem, los micropagos son pagados al productor del contenido, pero aquéllos que votan el contenido no pagan. En su lugar, el costo del premio es pagado a través de nuevos *tokens*. Alguien puede ingresar en el sistema, votar para pagarle a alguien, y luego irse del sistema con mas dinero del que tenían cuando comenzaron (asumiendo que la valuación del mercado del sistema de Steem se mantenga constante). En otras palabras, las solución de los micropagos provista por Steem provee una experiencia de usuarios similar a muchos sitios web ampliamente utilizados que tienen contenido moderado.
 
-Furthemore, Steem pays people to figure out who should be paid! This kind of thinking is revolutionary.
+Además, ¡Steem le paga a la gente para determinar a quién se debería pagar!. Este tipo de pensamiento es revolucionario.
 
-## Value is in the Links
+## El valor está en los enlaces
 
-The Internet would lose the vast majority of its value if all links among content were removed. It is the relationship among web pages that allows Google to identify the best apple pie recipe among the 16 million results. Without the links the only information Google would have is word frequency.
+Internet perdería la basta mayoría de su valor si todos los enlaces entre contenidos fuesen removidos. Es esta relación entre páginas web que permite a Google identificar la mejor receta de tarta de manzanas entre 16 millones de resultados. Sin estos enlaces la única información que Google tendría es la frecuencia de palabras.
 
-Links can take many forms and have adapted over time. Every time a user votes on content in a social network they add a link between themselves and the content. This in turn links the consumer to the producer through the content. The more links a network has the more valuable the information becomes. It is the relative and intentional connectedness of information that gives it value.
+Los enlaces pueden tomar varias formas y adaptarse en el tiempo. Cada vez que un usuario vota el contenido en una red social ellos agregan el enlace entre el contenido y ellos mismos. Esto en cambio enlaza al consumidor con el productor a través del contenido. Mientras mas enlaces tenga un red mas valiosa se vuelve la información. Es la conexión intencional y relativa de la información que le da valor.
 
-A social network can maximize the value extracted from a set of content by maximizing the quantity and quality of links. Curating content is expensive and time consuming while being near impossible for computers to perform in the absence of links. Steem rewards users who are among the first to find and link to new content.
+Una red social puede maximizar el valor extraído de un grupo de contenidos al maximizar la calidad y cantidad de enlaces. Curar contenido es caro y consume tiempo mientras es casi imposible para las computadoras realizar ésto ante la ausencia de enlaces. Steem premia a los usuarios que están entre los primeros en encontrar y enlazar nuevo contenido.
 
-By incentivising curation the Steem network is able to use automated algorithms to extract the most valuable information from a massive amount of content.
+Al incentivar el curado, la red Steem puede usar algoritmos automatizados para extraer la información mas valiosa de un monto masivo de contenido.
 
-## Solving the Cryptocurrency Onboarding Problem
+## Resolviendo el problema de abordaje de las criptomonedas
 
-It isn't easy to get into cryptocurrency<sup id="fnref:24"><a href="#fn:24" class="footnote-ref">24</a></sup> . Someone who discovers Bitcoin and wants to try it out quickly learns that they will need to sign up with an exchange and fund their account with a credit card or wire transfer. What would Facebook's adoption rate have been like if you had to fork over money and a two forms of ID?
+No es fácil meterse en las criptomonedas<sup id="fnref:24"><a href="#fn:24" class="footnote-ref">24</a></sup>. Alguien que descubre Bitcoin y quiere probarlo rápidamente se da cuenta de que necesitará registrarse a un *exchange* y cargar su cuenta con una tarjeta de crédito o una transferencia bancaria. ¿Qué sería de la tasa de adopción de Facebook si tuviesemos que bifurcar el dinero y dos formas de identificación?
 
-Steem solves this problem by giving everyone a way to get paid for doing simple, but valuable, tasks. This will help to widely distribute STEEM tokens. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless).
+Steem resuelve este problema dándole a cada uno una forma de recibir pagos por hacer tareas simples pero valiosas. Esto ayudará a distribuír ampliamente los *tokens* STEEM. Esto es muy beneficioso porque las criptomonedas tienen un efecto de red (ej.: mas usuarios lo hacen mas útil; para un ejemplo extremo, consideremos que si Satoshi se hubiese quedado el 100% de Bitcoin para sí, Bitcoin no valdría nada).
 
-## Solving the Cryptocurrency Liquidation Problem
+## Resolviendo el problema de liquidación de las criptomonedas
 
-A currency that is difficult to use or impossible to sell has little value. Someone who comes across $1.00 worth of Bitcoin will discover that it costs more than $1.00 to sell that Bitcoin. They have to create an account with an exchange, perform KYC validation, and pay fees. Small amounts of cryptocurrency are like small change that people are unwilling to bend over to pick up.
+Una moneda que es difícil de usar o imposible de vender tiene poco valor. Alguien que viene con $1,00 en Bitcoin descubrirá que cuesta mas de $1,00 vender ese Bitcoin. Tendrá que crear una cuenta en un *exchange*, llevar a cabo una validación KYC, y pagar comisiones. Pequeños montos de criptomoneda son como el cambio chico que la gente no está dispuesta a agacharse a juntar del piso.
 
-Merchants give users a way to quickly convert their cryptocurrency into tangible goods and services. Merchants need a currency pegged to their unit of account, normally dollars. Accepting a volatile currency introduces significant accounting overhead.
+Los mercaderes dan a los usuarios un camino para convertir rápidamente su criptmoneda en bienes tangibles y servicios. Estos mercaderes necesitan una moneda vinculada a su unidad de cuenta, normalmente dólares. Aceptar una moneda volátil introduce una carga significativa de contabilidad.
 
-Merchants will accept any currency if it increases their sales. Having a large user base with a stable currency such as SMD lowers the barrier to entry for merchants. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
+Los mercaderes aceptarán cualquier moneda si ésta incrementa sus ventas. Tener una gran base de usuarios con una moneda estable tal como SMD baja la barrera de entrada para los mercaderes. La presencia de mercaderes mejora el sistema al crear una salida del sistema para los usuarios sin tener que entrar en problemas de utilizar un *exchange*.
 
-Another way that people can liquidate the small amounts of cryptocurrency they receive from participating on the Steem platform is through tipping others. This is like leaving the small change as a tip for your waiter. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
+Otra forma en que la gente puede liquidar sus pequeños montos de criptomoneda que reciben al participa en la plataforma Steem es a través de dar propina a otros. Esto es como dejar el cambio chico como propina al mesero. Cuando mucha gente deja su pequeña propina ésta se añado a un monto significativo. Usted y el mesero se benefician de la propina.
 
-## Censorship
+## Censura
 
-Steem is a decentralized network that is operated by miners in jurisdictions around the world. All user actions are publicly recorded on the blockchain, and can be publicly verified. This means that there is no single entity that can censor content that is valued by STEEM holders.
+Steem es una red descentralizada que es operada por mineros en jurisdicciones repartidas en el mundo. Todas las acciones de los usuarios son públicamente grabadas en el blockchain, y pueden ser públicamente verificadas. Esto significa que no hay una única entidad que pueda censurar contenido que es valioso para los poseedores de STEEM.
 
-Individual websites such as steemit.com may censor content on their particular site, but content published on the blockchain is inherently broadcast traffic and mirrors all around the world may continue to make it available.
+Los sitios web individuales como *steemit.com* puede censurar contenido en su sitio particular, pero el contenido publicado en el blockchain es inherentemente tráfico emitido y sitios en todo el mundo pueden continuar haciéndolo disponible.
 
-Freedom of speech is the foundation of all other liberties and any infringement upon freedom of speech undermines the only peaceful means of reaching consensus: discussion. Without free discussion voters cannot be fully informed, and uninformed voters are a greater threat to society than losing the right to vote. Censorship is a means of stealing votes through limiting public discourse. Steem is committed to enabling free speech and building a free society.
+La libertad de expresión es la fundación del resto de las libertados e infringir la libertad de expresión socava los únicos medios pacíficos de alcanzar consenso: la discusión. Sin discusión libre los votantes no pueden ser completamente informados y votantes desinformados son una mayor amenaza para la sociedad que perder el derecho a votar. La censura es un medio para robar votos a través de la limitación del discurso público. Steem está comprometido a habilitar la libertad de expresión y construír una sociedad libre.
 
-## Solving Organic Discovery via Search Engine Optimization
+## Resolviendo el descubrimiento orgánico a través de la optmización en motores de búsqueda
 
-Most cryptocurrencies generate little value for those who are not actively using the network. Steem, by contrast, generates content and encourages users to share it. This content gets indexed by search engines and ultimately will bring value to a large number of passive users. This search traffic creates organic advertising for the Steem network and grows the network effect.
+La mayoría de las criptomonedas generan poco valor para aquellos que no usan la red activamente. Steem, por contraste, genera contenido y alienta a los usuarios a compartirlo. Este contenido es indexado por motores de búsqueda y finalmente traerán valor a un gran número de usuarios pasivos. Este tráfico de búsqueda crea publicidad orgánica para la red Steem y hace crecer el efecto de red.
 
-## Shifting Toward Blockchain-based Attribution
+## Viraje hacia la atribución basada en blockchain
 
-The internet represents the easiest medium for distributing information in the world. With that said, it can be a frightening place for content creators who would like to own their content and have it shared with proper attribution. On current social media platforms, attribution is something that can be lost overnight - a posted video or image can be replicated and re-shared without consent or regard for the creator.
+Internet representa el medio mas fácil para distribuír información en el mundo. Dicho ésto, puede ser un lugar aterrador para los creadores de contenido que quieran ser dueños de su contenido y lo tienen compartido con la atribución correspondiente. En las plataformas de *social media* actuales, la atribución es algo que puede perderse de la noche a la mañana - un video posteado o una imagen pueden ser replicados y recompartidos sin consentimiento o reconocimiento al creador.
 
-Under blockchain-based social media, a creator or author would always be able to point to a public record and timestamp showing proof of their content origination. In a circumstance where a creator would like to address those who have re-shared without permission or attribution, blockchain-based records provide public proof that the content was posted by a particular user at a particular time. In the future, blockchain-based attribution could come to be recognized by governments for its authenticity and could hold weight in court, which would give content creators greater powers to control their work.
+Bajo la *social media* basada en blockchain, un creador o autor siempre estaría habilitado para apuntar a un registro público y sello de fecha mostrando una prueba del origen de su contenido. En una circunstancia donde el creador quiera encargarse de quienes hayan compartido el contenido sin permiso o atribución, los registro basados en el blockchain proveen una prueba pública de que el contenido fue posteado por un usuario particular en determinado momento. En el futuro, la atribución basada en blockchain puede ser reconocida por gobiernos por su autenticidad y podría tener peso en la corte, lo cual daría a los creadores de contenido mayores poderes para controlar su trabajo.
 
-While a timestamping service can be built on almost any blockchain, and several efforts exist to build this kind of service on the Bitcoin network, Steem has a useful advantage in this realm because content publishers are "first class citizens" - the Steem blockchain is built from the ground up around the use case of content publication, which allows content creators to have the blockchain to validate their content at a certain point in time simply by writing their post using the same authoring tools used by other Steem users.
+Mientras el servicio de sellado de tiempo puede ser construído en casi cualquier blockchain, y muchos esfuerzos existen para armar este tipo de servicios en la red Bitcoin, Steem tiene una ventaja muy útil en este aspecto porque los publicadores de conteniod son "ciudadanos de primera clase" -- el blockchain de Steem está construído desde cero alrrededor del caso de uso de publicación de contenido, lo que permite a los creadores de contenido tener al blockchain validando su contenido en determinado punto en el tiempo simplemente por escribir un post usando las mismas herramientas de creación que usan otros usuarios de Steem.
 
-## Replacing Advertising with Blockchain-based Content Rewards
+## Reemplazando la publicidad con recompenzas de contenido basado en blockchain
 
-Under most content monetization models, content creators leverage advertising in one form or another. Many creators recognize how advertising may diminish their work's value to the consumer, yet creators very often must seek returns on their time by monetizing. Advertising represents a double-edged sword: With ads, a creator can make money most easily. Without ads, monetization is difficult but the content is richer.
+Bajo la mayoría de modelos de monetización, los creadores de contenido apalancan la publicidad de una forma y otra. Muchos creadores reconocen cuanto la publicidad puede disminuír el valor de su trabajo la consumidor, tambien los creadores muy a menudo deben buscar retornos en su tiempo a través de la monetización. La publicidad representa una espada de doble filo: Con anuncios, un creador puede generar dinero mas fácil. Sin anuncios, la monetización se hace difícil pero el contenido es mas rico.
 
-Creators posting to social media outlets that are connected to Steem may monetize merely by having their work recognized (or "liked") by the Steem community. Blockchain-based payouts are completely digital and have no middle-man. Therefore monetization by blockchain-based content rewards should be faster and much lower barrier to use than monetization by advertisements.
+Los creadores subiendo contenido a depósitos de *social media* que están conectados a Steem pueden monetizar simplemente por tener su trabajo reconocido (o "enlazado") por la comunidad Steem. Los pagos basados en blockchain son completamente digitales y no tienen intermediarios. Por lo tanto la monetización por premios de contenido basados en blockchain deberían ser mas rápidos y con menos barreras para usar que la monetización por publicidad.
 
 # Conclusion
 
-Steem is an experiment designed to address challenges in the cryptocurrency and social media industries by combining the best aspects from both. Steem presents earning opportunities to content creators and internet readers in ways that have not existed within the social media industry. Within Steem, individuals earn real rewards online that are directly correlated to their contributions. Those rewards will have dollar value due to the market price discovery and liquidity of Steem, and the people who hold Steem will have more exclusive earning powers than those who do not.
+Steem es un experimento diseñado para hacer frente a los desafíos en las industrias de *social media* y criptomonedas combinando los mejores aspectos de ambas. Steem presenta oportunidades de ganancias a los creadores de contenido y lectores de internet de formas que aún no existían dentro de la industria de *social media*. Dentro de Steem, los individuos reciben ganancias reales en línea que son directamente correlativas a sus contribuciones. Esos premios tendrán un valor de dólar debido a al mercado de descubrimiento de precios y liquidez de Steem, y la gente que sostenga Steem tendrá mas poderes gananciales exclusivos que aquellos que no.
 
-# References
+# Referencias
 
 [^1]:    
     Reddit's Cryptocurrency, Forbes, Erika Morphy, October 2014, <http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/#4e07b05332b9>&#160;[&#8617;](#fnref:1){.footnote-backref}
