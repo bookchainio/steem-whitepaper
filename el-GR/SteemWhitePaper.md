@@ -173,35 +173,35 @@ Credits here @skapaneas @holidaygreece @skapart ".
 
 Οι κάτοχοι STEEM και SP κερδίζουν πλεονέκτημα όταν τα μέλη της κοινότητας είναι πρόθυμα να κατέχουν SMD. Αυτό το πλεονέκτημα ενισχύει τα κέρδη από την ανάπτυξη καθώς επίσης συνεισφέροντας στην ανάπτυξη. Οι κάτοχοι STEEM υποφέρουν από ανεπτυγμένη αραίωση αν η τιμή πέσει. Τα project κρυπτονομίσματος έχουν δείξει ότι τα κέρδη από την αύξηση της βάσης χρηστών που είναι πρόθυμοι να εμπιστευτούν το δίκτυο με κεφάλαιο προσθέτουν τελικά περισσότερη αξία στο δίκτυο από οποιαδήποτε αραίωση που μπορεί να προκληθεί κατά την διάρκεια μια ύφεσης.
 
-### Setting Price Feeds
+### Θέτοντας τιμές εισροών
 
-Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity<sup id="fnref:4"><a href="#fn:4" class="footnote-ref">4</a></sup> which states that it is impossible to have all three of the following at the same time:
+Όξινοι αναγνώστες θα αναγνωρίσουν ότι ο τόκος που κουβαλάει κεφάλαιο περιορισμένης προμήθειας μπορεί να ανταλλαχθεί υψηλότερα ή χαμηλότερα από του βασικού τόκου ανάλογα με τις άλλες ευκαιρίες να κερδίσει τόκο στο ίδιο κεφάλαιο. Με ένα υψηλό επιτόκιο πληρωμένο με ένα τόκο στενά συνδεδεμένο με το αμερικανικό δολάριο πολλοί άνθρωποι θα ανεβάσουν την περιορισμένη προμήθεια των Steem Dollars μέχρι να μην εκτιμούνται πια στο $1. Στην οικονομία υπάρχει μια αρχή γνωστή και ως η Αδύνατη Τριάδα<sup id="fnref:4"><a href="#fn:4" class="footnote-ref">4</a></sup> που δηλώνει ότι είναι αδύνατο να υπάρχουν τρία από τα ακόλουθα την ίδια στιγμή:
 
-1. A stable exchange rate
-2. Free capital movement
-3. An independent monetary policy
+1. Μια σταθερή αναλογία ανταλλαγής
+2. Δωρεάν κίνηση κεφαλαίου
+3. Μια ανεξάρτητη νομισματική πολιτική
 
-If Steem feed producers aim to have an independent monetary policy allowing it to create and destroy Steem Dollars while simultaneously having full control over the interest rate then they will encounter problems. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
+Αν οι παραγωγοί εισροής του Steem στοχεύουν να έχουν μια ανεξάρτητη νομισματική πολιτική που του επιτρέπει να δημιουργεί και να καταστρέφει Steem Dollars ενώ ταυτόχρονα έχοντας πλήρη έλεγχο πάνω από το επιτόκιο τότε θα αντιμετωπίσουν προβλήματα. Η Αδύνατη Τριάδα λέει ότι τα Steem Dollars είτε θα χρειάζεται να περιορίζουν την κίνηση κεφαλαίου, να έχουν μια μη σταθερή αναλογία ανταλλαγής με το δολάριο να έχουν περιορισμένο έλεγχο πάνω από το επιτόκιο.
 
-The primary concern of Steem feed producers is to maintain a stable one-to-one conversion between SMD and the U.S. Dollar (USD). Any time SMD is consistently trading above $1.00 USD interest payments must be stopped. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SMD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
+Η κύρια ανησυχία των παραγωγών εισροής του Steem είναι να διατηρήσουν μια σταθερή μια προς μια μετατροπή μεταξύ SMD και του αμερικανικού δολαρίου (USD). Οποιαδήποτε στιγμή το SMD συνεχώς ανταλλάζει πάνω από $1.00 USD οι πληρωμές τόκων πρέπει να σταματήσουν. Σε μια αγορά όπου 0% τόκος σε χρέος ακόμα απαιτεί ένα ασφάλιστρο, είναι ασφαλές να πούμε ότι η αγορά είναι πρόθυμη να επεκτείνει περισσότερη πίστωση από το χρέος που η κοινότητα είναι πρόθυμη να αναλάβει. Αν αυτό συμβεί ένα SMD θα εκτιμηθεί περισσότερο από $1.00 και θα υπάρχουν λίγα που θα μπορεί να κάνει η κοινότητα χωρίς να χρεώνει αρνητικό επιτόκιο.
 
-If the debt-to-ownership ratio is under 10% and SMD is trading for less than $1.00 then the interest rate should be increased. This will encourage more people to hold their SMD and support the price.
+Αν η κλίμακα χρέους σε ιδιοκτησία είναι κάτω από 10% και το SMD ανταλλάσετε για λιγότερο από $1.00 τότε το επιτόκιο θα πρέπει να αυξηθεί. Αυτό θα ενθαρρύνει περισσότερους ανθρώπους να κρατήσουν το SMD τους και να υποστηρίξουν την τιμή.
 
-If SMD trades for less than $1.00 USD and the debt-to-ownership ratio is over 10% then the feeds should be adjusted upward give more STEEM per SMD. This will increase demand for SMD while also reducing the debt-to-ownership ratio and returning SMD to parity with USD.
+Αν το SMD ανταλλαχθεί για λιγότερο από $1.00 USD και η αναλογία χρέους σε ιδιοκτησία είναι πάνω από 10% τότε οι εισροές θα πρέπει να προσαρμοστούν προς τα πάνω για να δώσουν περισσότερο STEEM για SMD. Αυτό θα αυξήσει την ζήτηση για SMD καθώς επίσης μειώνοντας την αναλογία χρέους ιδιοκτησίας και επιστρέφοντας το SMD σε ισοτιμία με το USD.
 
-Assuming the value of STEEM is growing faster than Steem is creating new SMD, the debt-to-ownership ratio should remain under the target ratio and the interest offered benefits everyone. If the value of the network is at or falling, then any interest offered will only make the debt-to-ownership ratio worse.
+Υποθέτοντας ότι η αξία του SΤΕΕΜ μεγαλώνει πιο γρήγορα από ότι το Steem δημιουργεί SMD, η αναλογία χρέους σε ιδιοκτησία θα πρέπει να παραμείνει κάτω από την αναλογία στόχου και το επιτόκιο που προσφέρει οφέλη για όλους. Αν η αξία του δικτύου είναι επίπεδη ή πέφτει, θα κάνει μόνο χειρότερη την αναλογία χρέους σε ιδιοκτησία.
 
-In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
+Σε ισχύ, οι παραγωγοί εισροής έχουν ανατεθεί με την υπευθυνότητα να θέσουν μια νομισματική πολιτική για τον σκοπό της συντήρησης ενός σταθερού συνδέσμου στο USD. Κακομεταχείριση αυτής της δύναμης θα μπορούσε να βλάψει την αξία του SΤΕΕΜ έτσι οι κάτοχοι SP θα είναι σοφοί να ψηφίσουν για μάρτυρες που μπορούν να βασιστούν για να ρυθμίσουν την εισροή τιμής και τα επιτόκια σύμφωνα με τους κανόνες που περιγράφονται παραπάνω.
 
-If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SMD.
+Αν η αναλογία χρέους σε ιδιοκτησία γίνει τρομακτικά υψηλή και οι συμμετέχοντες της αγοράς αποφασίσουν να αποφύγουν αιτήματα μετατροπής, τότε η εισροή θα πρέπει να ρυθμιστεί για να αυξήσει το ποσοστό με το οποίο το STEEM πληρώνετε για να μετατραπεί σε SMD.
 
-Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SMD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions. The blockchain is paying liquidity providers for their service in absorbing short-term demands.
+Αλλαγές στην πολιτική του επιτοκίου και/ή οποιαδήποτε ασφάλιστρα/εκπτώσεις πάνω στην STEEM/SMD μετατροπή θα πρέπει να είναι μια αργή και μετρημένη απάντηση στον μακροπρόθεσμο μέσο όρο των αποκλίσεων παρά να προσπαθούν να απαντήσουν στις βραχυπρόθεσμες συνθήκες της αγοράς. Το blockchain πληρώνει τους παρόχους ρευστότητας για την υπηρεσία τους στην απορρόφηση βραχυπρόθεσμων απαιτήσεων.
 
-It is our belief that these rules will give market participants confidence that they are unlikely lose money by holding SMD purchased at a price of $1.00. We fully expect there to be a narrow trading range between $0.99 and $1.01 for SMD under most market conditions.
+Πιστεύουμε ότι αυτοί οι κανόνες θα δώσουν στους συμμετέχοντες τις αγοράς αυτοπεποίθηση και ότι θα είναι απίθανο να χάσουν λεφτά από το να κατέχουν SMD αγορασμένο στην τιμή του $1.00. Περιμένουμε να υπάρχει πλήρως ένα στενό εύρος διαπραγμάτευσης μεταξύ $0.99 και $1.01 για SMD κάτω από τις περισσότερες συνθήκες αγοράς.
 
-## Subjective Contributions
+## Υποκειμενικές συνεισφορές
 
-Subjective Proof of Work presents an alternative approach to distributing a currency that improves upon fully *objective* Proof of Work systems such as mining. The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
+Υποκειμενική απόδειξη εργασίας παρουσιάζει μια διαφορετική προσέγγιση στην διανομή ενός νομίσματος που βελτιώνει πλήρως *τα αντικειμενικά* συστήματα απόδειξης δουλειάς όπως η εξόρυξη. The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
 
 In effect, the criteria by which work is evaluated is completely subjective and its definition lives outside the source code itself. One community may wish to reward artists, another poets, and another comedians. Other communities may choose to reward charitable causes or help advance political agendas.
 
