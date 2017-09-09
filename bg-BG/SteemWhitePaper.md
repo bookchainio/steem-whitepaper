@@ -1,12 +1,16 @@
 # Steem
 
-## An incentivized, blockchain-based social media platform.
+## Поощрената, blockchain базирани социални медии платформа.
 
-March 2016
+Март 2016
 
-# Translator's notes
+# Бележки на преводача
 
-Placeholder for translator's notes.
+Уважаеми приятели, знам, че българите все още не са много, но се надявам, че с по-ясното разбиране на книгата "Бялата книга" ще се присъединят все повече и повече.   
+  
+Ако сте българин с по-добро разбиране на текста, не се колебайте да направите необходимите корекции . Знам, че може да не е перфектен превод, защото познанията ми за крипто не са много големи!   
+  
+Преведено от **@patelincho** (https://steemit.com/steem/@patelincho/6zkwmv-steemit-whitepaper-translated-into-bulgarian-steemit-whitepaper-prevedena-na-blgarski-last-part).
 
 # Резюме
 
