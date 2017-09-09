@@ -1,3 +1,13 @@
+# Steem
+
+## Platforma sociálního média s motivací přispěvatelů.
+
+Březen 2016
+
+# Poznámky překladatele
+
+Přeloženo **@valtr** (https://steemit.com/steem/@valtr/kompletni-preklad-steem-white-paper-ke-stazeni-internationalization-of-steem-complete-czech-translation).
+
 # Abstrakt
 
 Steem je blockchainová databáze, která podporuje budování společenství a sociální interakci prostřednictvím odměny kryptoměnou. Steem kombinuje koncept sociálních médií s ponaučením z vývoje kryptoměn a jejich komunit. Důležitým klíčem inspirujícím účast v jakékoliv komunitě, měně nebo ekonomice volného trhu je spravedlivý účetní systém, který spravedlivě a průhledně odráží přínos každého člověka. Steem je první kryptoměna, která se pokouší přesně a transparentně odměnit neomezený počet osob, které *subjektivně* přispívají k jeho komunitě.
