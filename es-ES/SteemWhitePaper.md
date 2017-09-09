@@ -378,7 +378,7 @@ El problema fundamental de cargar comisiones de transacción reside en que los m
 
 Imagine que los sitios web que usamos a diario cobraran una comisión por cada vez que modificamos nuestras cuentas o cambiamos la contraseña. Los usuarios esperan que ciertas cosas sean gratuitas. Requerir a los usuarios que tomen una decisión sobre que acción merece o no una pequeña comisión crea ansiedad que causa que éstos se retiren.
 
-> > Una transacción no puede valer tanto como para requerir una decisión pero vale tan poco que la decisión es automática. Hay cierto monto de ansiedad involucrado en cualquier desición de compra, no importa cuán poco ni el tamaño, y no deriva de la interfaz utilizada o el tiempo requerido, sino del propio acto de decidir.  
+> Una transacción no puede valer tanto como para requerir una decisión pero vale tan poco que la decisión es automática. Hay cierto monto de ansiedad involucrado en cualquier desición de compra, no importa cuán poco ni el tamaño, y no deriva de la interfaz utilizada o el tiempo requerido, sino del propio acto de decidir.  
 > Los micropagos, como todos los pagos, requieren una comparación: "Vale ésta cantidad de X tanto de Y?". Hay una costo mental de transacción mínimo creado por este hecho que no se puede optimizar, porque la única transacción que un usuario estaría dispuesto a aprobar sin pensarlo es aquella que no tiene costo, que no es una transacción.
 > 
 > *- Clay Shirky<sup id="fnref:8"><a href="#fn:8" class="footnote-ref">8</a></sup>*
