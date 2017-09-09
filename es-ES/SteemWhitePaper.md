@@ -389,37 +389,37 @@ Sistemas como BitShares, Nxt, Ripple, Counterparty y Stellar permiten a los usua
 
 ### Las comisiones son barreas para el acceso
 
-Cualquier comisión crea una barrera de entrada a los nuevos usuarios. Antes que alguien pueda experimentar con Ethereum debe adquirir *tokens* de *ETH*. Cualquiera que desee desarrollar una aplicación descentralizada en Ethereum debe trasladar el costo a sus clientes. Comprar una criptomoneda no es una tarea fácil y raramente tiene sentido por montos menores a $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
+Cualquier comisión crea una barrera de entrada a los nuevos usuarios. Antes que alguien pueda experimentar con Ethereum debe adquirir *tokens* de *ETH*. Cualquiera que desee desarrollar una aplicación descentralizada en Ethereum debe trasladar el costo a sus clientes. Comprar una criptomoneda no es una tarea fácil y raramente tiene sentido por montos menores a $10. Esto quiere decir que los usuarios nuevos queriendo probar una nueva aplicación descentralizada debe primero ser convencido de empezar con $10.
 
-### Changing Fees
+### Cambiando las comisiones
 
-Over time a network must adjust fees. This can happen either due to an increase in the value of the token or due to a surge in capacity. Users like predictable fees and guaranteed service. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
+Con el tiempo una red debe ajustar las comisiones. Esto puede suceder tanto por un incremento en el valor del *token* o al aumento en la capacidad. Los usuarios prefieren comisiones predecibles y servicio garantizado. Aún siendo posible ajustar dinámicamente las comisiones en tiempos de mucho uso, el resultado es una pobre experiencia de usuario.
 
-### Sybil Attacks
+### Ataques de identidad o Ataques Sybil (Sybil attacks)
 
-Centralized websites prevent spam through rate limiting and some form of ID verification. Even something as simple as reCAPTCHA <sup id="fnref:9"><a href="#fn:9" class="footnote-ref">9</a></sup> is sufficient to limit the creation of fake accounts. If someone abuses their account then centralized websites are free to block the account.
+Los sitios web centralizados previenen el spam limitando la frecuencia o alguna forma de verificación de identidad. Incluso algo tan simple como un *CAPTCHA* <sup id="fnref:9"><a href="#fn:9" class="footnote-ref">9</a></sup> es suficiente para limitar la creación de cuentas falsas. Si alguien abusa de su cuenta, los sitios web centralizados tienen la libertad de bloquear la cuenta.
 
-In a decentralized system there is no direct way to ban users nor centralized provider able to host a reCAPTCHA and enforce rate limiting of accounts. In fact, the inability to censor users is one of the main selling points of blockchain technology.
+En un sistema descentralziado no hay forma directa de prohibir usuarios ni un proveedor centralizado que pueda alojar un *CAPTCHA* para imponer un límite de frecuencia de creación de cuentas. De hecho, la falta de habilidad para censurar usuarios es un de los principales puntos atractivos de la tecnología del blockchain.
 
-### Full Reserve vs Fractional Reserve
+### Reserva completa vs. reserva fraccionada
 
-Let's view a blockchain like an Internet Service Provider (ISP) co-op which owns all of the cables in the town and has a maximum amount of bandwidth that it can provide at any time. People living in the town can buy shares in the ISP and in exchange they are entitled to utilize a portion of the available bandwidth.
+Veamos el blockchain como un Proveedor de Servicio de Internet (*ISP*) cooperativo que posee todos los cables en pueblo y tiene un ancho de banda máximo que puede proveer en cualquier momento. La gente viviendo en el pueblo puede comprar acciones en el *ISP* y a cambio obtienen el derecho de utilizar una porción del ancho de banda disponible.
 
-The ISP has two choices, run a "full reserve" or "fractional reserve" system. Under a full reserve system each user is only allowed a fraction of the maximum bandwidth proportional to her shares. Because not everyone uses the Internet at the same time, the town's network would be significantly underutilized.
+El *ISP* tiene dos opciones, correr un sistema de "reserva completa" o uno de "reserva fraccional". Bajo un sistema de reserva completa a cada usuario solo se le permite una fracción del ancho de banda máximo proporcional a sus acciones. Debido a que no todos usan Internet al mismo tiempo, la red del pueblo sería sifnificativamente subutilizada.
 
-Under a fractional reserve system the individual users could utilize more bandwidth than they are entitled to at any given point in time so long as not everyone uses the Internet at the same time. The problem with operating a fractional reserve is that congestion occurs anytime too many people wish to use the network at the same time. The ISP needs a way to prioritize bandwidth during congested periods. In the most extreme case, a fully congested network must revert to a full reserve system. The challenge is setting the proper fractional reserve ratio.
+En un sistema de reserva fraccional los usuarios individuales podrían utilizar mas ancho de banda del que tienen otorgado en cualquier momento mientras no todos usen Internet en ese mismo tiempo. El problema al operar una reserva fraccionada es que las congestiones ocurren cuando mucha gente desea usar la red al mismo tiempo. El *ISP* necesita una forma de priorizar el ancho de banda durante períodos congestionados. En el caso mas extremo, una red completamente congestionada debe revertirse a un sistema de reserva completa. El desafío es implementar la proporción correcta de reserva fraccional.
 
-## Bandwidth Instead of Micropayment Channels
+## Iterando mas allá de los micropagos
 
-The solution to the problems with micropayments is in implementing *dynamic fractional reserves*. Under this model the blockchain will automatically adjust the reserve ratio for the network during times of congestion. The blockchain will set a target utilization that leaves enough headroom for short term surges in demand. Any time the surges are sustained the blockchain reduces the maximum bandwidth-per-share. When a surge is over and there is surplus capacity the blockchain can slowly increase the bandwidth-per-share.
+La solución a los problemas de los micropagos es implementar *reservas fraccionales dinámicas*. Bajo este modelo el blockchain automáticamente ajustará la proporción de reserva para la red durante períodos de congestión. El blockchain ubicará un objetivo de utilización que deje suficiente margen para oleadas de demanda en cortos plazos. En cualquier momento que se mantengan oleadas de uso el blockchain reduce el ancho de banda máximo por acción. Cuando una oleada se acaba y sobra capacidad, el blockchain puede lentamente incrementar el ancho de banda por acción.
 
-Bandwidth used by an individual user should be measured over a suitably long period of time to allow that user to time-shift their usage. Users tend to login, do many things at once, then logout. This means that their bandwidth over a short period of time may appear much higher than if viewed over a longer period of time. If the time window is stretched too far then the reserve ratio will not adjust fast enough to respond to short-term surges, if the window is too short then clustering usage will have too big of an impact on normal users.
+El ancho de banda utilizado por un usuario individual debería ser medido sobre un período de tiempo apropiadamente largo para permitir que el usuario puede invertir el horario de su uso. Los usuarios tienen a acceder, hacer varias cosas al mismo tiempo, y luego salir. Esto significa que su ancho de banda durante un período de tiempo corto puede parecer mucho mas alto que si es visto sobre un período mas largo. Si la ventana de tiempo se estira demasiado entonces la proporcion de reserva no se ajustará lo suficientemente rápido para responder al incremento a corto plazo, si la ventana es demasiado estrecha entonces agrupar el uso tendrá un impacto muy grande en usuarios normales.
 
-In our estimate it should be sufficient to measure the average weekly bandwidth usage of users. Every time a user signs a transaction, that transaction is factored into their own individual moving average. Any time a user's moving average exceeds the current network limit their transaction is delayed until their average falls below the limit.
+En nuestra estimación debería ser suficiente medir el promedio semanal de ancho de banda de los usuarios. Cada vez que un usuario firma una transacción, ésta es ténida en cuenta en el promedio móvil individual del usuario. En el momento en que el promedio móvil de un usuario excede el límite actual de la red, su transacción es retrasada hasta que su promedio se acomode debajo de ese punto.
 
-### Example Implementation
+### Ejemplo de implementación
 
-Let B equal a user's average bandwidth at time T. Let W equal the number of seconds per week, and let N equal the size of the new transaction that occurred S seconds after T. Given this information the blockchain can calculate the new average bandwidth for a user as:
+Siendo *B* equivalente al promedio de ancho de banda de un usuario sobre el tiempo *T*. Siendo *W* equivalente al número de segundos por semana, y siendo *N* equivalente al tamaño de la nueva transacción ocurrida *S* segundos después de *T*, el blockchain puede calcular el nuevo promedio de ancho de banda para un usuario cómo:
 
     Bnew = MIN(0,B * (W - S) / W) + N * S / W
     Tnew = T + S
@@ -436,15 +436,15 @@ Each user is entitled to an average weekly bandwidth of:
     Allocation = M * U / S
     
 
-A user would be entitled to an average bandwidth of M \* U / S. Any time a transaction would cause the user's average to go above this threshold they would be unable to transact until enough time passes to lower the average.
+Se le otorgaría a un usuario un promedio de ancho de banda de M \* U / S. Cuando una transacción cause que el promedio individual se posicione sobre éste límite, el usuario no podrá transaccionar hasta que pase el tiempo suficiente para bajar el promedio.
 
-The network can increase the reserve ratio, anytime blocks are less than half the target capacity and decrease it anytime they are more than half. The algorithm used to adjust R is designed to react quickly to decrease the reserve ratio when there is a surge in demand, while acting slowly to increase the reserve ratio in period of low demand.
+La red puede incrementar la proporción de reserva cuando los bloques sean menos que la mitad de la capacidad obetivo y decrecer cuando sean mas de la mitad. El algoritmo utilizado para ajustar *R* está diseñado para reaccionar rápidamente para disminuír la proporción de reserva cuando hay un pico de demanda, mientras actúa lentamente para incrementar la proporción de reserva en un período de baja demanda.
 
-The minimum reserve ratio is 1, and the maximum reserve ratio should be calculated to prevent small stakeholders from consuming all of the available bandwidth. If no one is using the available bandwidth then the reserve ratio can grow until a user with just 1 satoshi of the currency is able to transact every single block.
+La proporción mínima de reserva es 1, y la máxima debería ser calculada para prevenir que pequeños participantes consuman todo el ancho de banda disponible. Si nadie se encuentra utilzando el ancho de banda disponible entonces la proporción de reserva puede crecer hasta que un usuario con sólo 1 satoshi de la moneda pueda transaccionar cada bloque.
 
-### Case Study: Bitcoin
+### Caso de estudio: Bitcoin
 
-To understand how this algorithm would work on Bitcoin it is necessary to estimate a reasonable value for the reserve ratio, R, based on actual usage. Based upon the total supply of 15M BTC and a daily transaction volume of 400K BTC<sup id="fnref:10"><a href="#fn:10" class="footnote-ref">10</a></sup>, we can derive a minimum reserve ratio of 38 for Bitcoin. Using the equations we can calculate the weekly bandwidth (in bytes) allowed per BTC to be:
+Para entender como funcionaría este algoritmo en Bitcoin es necesario estimar un valor razonable para la proporción de reserva, R, basados en el uso actual. Basado en el suministro total de 15 millones BTC y un volumen diario de transacciones de 400.000 BTC<sup id="fnref:10"><a href="#fn:10" class="footnote-ref">10</a></sup>, podemos deducir una mínima proporción de 38 por Bitcoin. Utilizando las ecuaciones podemos calcular que el ancho de banda seanal (en bytes) permitidos por BTC es:
 
     Let C = 1MB = 1024 * 1024
     Let L = 1008 (blocks per week)
@@ -454,57 +454,57 @@ To understand how this algorithm would work on Bitcoin it is necessary to estima
     CLR/S = 2869 bytes per week, or about 5 transactions/week per BTC
     
 
-Since R = 38 is a lower bound on the reserve ratio, CLR/S is a lower bound on the permitted bandwidth. This simple case study suggests a user will require at most 0.20 BTC (over $80 as of this writing) to transact once per week. However, this is a loose upper bound derived from the assumption that all BTC are equally mobile. This is not the case - users with dozens or hundreds of bitcoins do not necessarily transact dozens or hundreds of times a week! The "leftover" transactions that those users "should" have made will increase the reserve ratio, allowing their unused bandwidth to be "recycled" for smaller users.
+Debido que *R = 38* es una cota inferior a la tasa de reserva, *CLR/S* es una cota en el ancho de banda permitido. Este simple caso de estudio sugiere que un usuario requerirá como mucho 0.20 BTC para transaccionar una vez a la semana. Sin embargo, este es una cota superior vaga obtenida asumiendo que todos los BTC son igualmente móviles. Este no es el caso -- usuarios con docenas o cientos de bitcoins no necesariamente transaccionan docenas o centenas de veces por semana! Las transacciones "restantes" que esos usuarios "deberían" haber realizado incrementarán la tasa de reserva, permitiendo que su ancho de banda sin utilizad sea "reciclado" para usuarios mas pequeños.
 
-All of the above estimates are conservative upper bounds assuming coins and usage are distributed in a relatively flat manner. The reality is that heavy users, such as exchanges, have a much higher coin-to-usage ratio than lighter users, which in turn means that actual minimum balance requirements are far lower.
+Todos los estimados de arriba son cotas superiores conservativas asumiendo que las monedas y uso son distribuídas de una forma relativamente plana. La realidad es que los grandes consumidores, como los *exchanges*, tienen una relación de moneda/uso mucho mayor que los usuarios normales, que a su vez implica que los requerimientos del balance mínimo son mucho menores.
 
-#### Impact of Capacity
+#### Impacto de capacidad
 
-Blockchain capacity isn't necessarily capped. It is well within the technological capability of internet infrastructure to increase the Bitcoin block size to 10MB which in turn will reduce the minimum required balance by a factor of 10. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second. This changes our conservative upper bound to 0.0006 BTC or about $0.25, meaning that an account holding $0.25 would be able to transact at least once per week on average (and likely many more times because we're dealing with a fairly loose upper bound).
+La capacidad del blockchain no está necesariamente limitada. Está bien dentro de la capacidad tecnológia de la infraestructura internet incrementar el tamaño de bloque de Bitcoin a 10MB lo que en cambio reducirá el balance mínimo requerido por un factor de 10. Mientras Bitcoin actualmente soporta aproximadamente 3 transacciones por segundo, implementaciones alternativas pueden permitir mas de 1000 transacciones por segundo. Esto modifica nuestra cota superior a 0.0006 BTC, queriendo decir que una cuenta que contenga 0.0006 BTC tendrá la posibilidad de transaccionar al menos una vez por semana en promedio (y posiblemente muchas mas veces porque estamos lidiando con una cota superior mas permisiva).
 
-#### Maximum Number of Unique Users
+#### Número máximo de usuarios únicos
 
-We can use similar math to calculate the maximum number of unique users that the network can allow to transact once per week as: B\*W/T. T represents the average transaction size. This means Bitcoin could support about 2 million users transacting once per week assuming each user had an equal balance.
+Podemos utilizar una matemática similar para calcular el número máximo de usuarios únicos que la red puede permitir transaccionar una vez por semana como: B\*W/T. *T* representa el promedio de tamaño de transacción. Esto quiere decir que Bitcoin podría soportar alrrededor de 2 millones de usuarios transaccionado una vez por semana asumiendo que cada usuario tuviese el mismo balance.
 
-#### Comparison to Fees
+#### Comparación de comisiones
 
-If we assume a user with $25 dollars worth of BTC transacts once per week and pays a $0.04 cent fee each time then they would pay over $2.00 in fees per year. A user would have to earn a 8% rate of return on their $25 dollars just to break even with paying fees. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
+Si asumimos que un usuario con $25 dólares en BTC transacciona una vez por semana y paga una comisión de $0.04 cada vez entonces ellos pagarían mas de $2 en comisiones por año. Un usuario tendría que ganar una tasa de retorno de 8% sobre sus $25 sólo para no salir perdiendo al pagar comisiones. Todo indica que los usuarios van a mantener su dinero en el blockchain de todas formas, entonces este usuario con $25 en BTC ha ahorrado $2 en el transcurso de un año al adoptar una propuesta de tasa limitada en lugar de una libre de comisiones. Con solo $175 podrían transaccionar todos los días y ahorrar $14 al año.
 
-### Account Creation
+### Creación de cuenta
 
-Steem's account-based system with publicly known balances simplifies the implementation of the bandwidth-based rate limiting algorithm. Any account with a balance below the minimum required to transact once per week would be unable to transact. This implies that all new accounts should be funded with at least this minimum balance. It also implies that users wishing to transact in smaller amounts can, so long as they hold a larger balance and reuse the account.
+El sistema de Steem, basado en cuentas de con balances públicamente conocidos simplifica la implementación del algoritmo de limitación de tasa basado en el ancho de banda. Cualquier cuenta con un balance por debajo del mínimo requerido para transaccionar una vez por semana no debería poder transaccionar. Esto implica que todas las nuevas cuentas deberían ser cargadas con al menos éste balance mínimo. Esto tambien implica que los usuarios deseando transaccionar en montos menores puedan, mientras mantengan un balance mayor y reutilicen la cuenta.
 
-It is possible for a low-balance account created during a time of low usage to become inaccessible if the network usage picks up. The funds could be recovered at any time by transferring a larger balance into the account.
+Es posible para una cuenta con balance bajo creada durante un tiempo de bajo uso volverse inaccesible si el uso de la red se dispara. Los fondos podrían ser recuperados en cualqueir momento transfiriendo un balance mayor a la cuenta.
 
-In order to maintain a reasonable user experience with a minimum number of hung accounts, all new accounts should start out with a balance 10 times the minimum required to transact weekly. This way even if demand increases by a factor of 10 the account will remain viable.
+Con el fin de mantener una experiencia de usuario razonable con un mínimo de cuentas colgadas, todas las nuevas cuentas debe comenzar con un balance 10 veces el mínimo requerido para transaccionar por semana. De esta forma si la demanda se incrementa por un factor de 10, la cuenta continuará utilizable.
 
-Any initial account balance would have to come from the user creating the account and not from token creation due to the potential for sybil attacks.
+Cualquier balance de cuenta inicial debería tener que venir del usuario creando la cuenta y no de la creación de *token* debido al peligro de ataques de identidad (*Sybil attacks*).
 
-### Justifying Minimum Balances
+### Justificando balances mínimos
 
-The concept of forcing users to maintain a minimum balance flows naturally from the value of a user<sup id="fnref:11"><a href="#fn:11" class="footnote-ref">11</a></sup> . Anyone running a business knows that every single user has significant value. Businesses spend anywhere from $30 to $200 to acquire a user. Sometimes they pay users directly, other times they pay for advertizing, and still other times entire companies are bought just for their user base. After a company acquires a user they often given them many *free services* just to keep them around long enough to monetize them through some other means.
+El concepto de forzar a los usuarios a mantener un balance mínimo fluye naturalmente del valor de un usuario<sup id="fnref:11"><a href="#fn:11" class="footnote-ref">11</a></sup>. Cualquier corriendo un negocio sabe que cada usuario tiene un valor significativo. Los negocios gastan entre $30 y $200 para adquirir un usuario. A veces pagan usuarios directamente, otras veces pagan por publicidad, e incluso otras veces compañías enteras son adquiridas solo por su base de usuarios. Luego de que una compañía adquiere un usuario generalmente le otorga varios *servicios gratuitos* para mantenerlos cerca lo suficiente para monetizarlos a través de otros medios.
 
-Ripple uses a minimum balance<sup id="fnref:12"><a href="#fn:12" class="footnote-ref">12</a></sup> that scales with account resource use and requires that new accounts get funded with at least this minimum balance. Currently this minimum balance is about $0.15 which is greater than the $0.10 we estimated would allow someone to transact freely at least once per week.
+Ripple usa un balance mínimo<sup id="fnref:12"><a href="#fn:12" class="footnote-ref">12</a></sup> que escala al uso de recursos de la cuenta y requiere que nuevas cuentas sean fundadas con al menos éste balance mínimo. Actualmente este balance mínimo es de alrrededor de $0.15, el cual es mayor al $0.10 que estimamos que permitiría a alguien transaccionar libremente al menos una vez por semana.
 
-A blockchain can enforce a minimum value per user through the simple process of requiring a minimum balance. Any business that wishes to bring a new customer to the blockchain can pre-fund that user's account with the minimum balance that would allow them to transact. Requiring a relatively large fee ($1.00) to sign up new users will naturally force anyone offering free accounts to vet the quality and uniqueness of each account before registering them with the blockchain.
+Un blockchain puede imponer un valor mínimo por usuario a través del simple proceso de requerir un balance mínimo. Cualquier negocio que desee traer un nuevo cliente al blockchain puede precargar esa cuenta con un balance mínimo que le permitiría transaccionar. Requiriendo una comisión relativamente grande ($1.00) para registrar nuevos usuarios naturalmente forzará a cualquiera que ofrezca cuentas gratis considerar la calidad y singularidad de cada cuenta antes de registrarlas con el blockchain.
 
-Maintaining a minimum balance is effectively the same as making users pay transaction fees with the interest they could have earned on their balance. The minimum balance is simply the balance required to earn enough interest to pay a fee in a relatively short period of time.
+Mantener un balance mínimo es efectivamente lo mismo que hacer que los usuarios paguen comisiones de transacción con el interés que podrían haber ganado en su balance. El balance mínimo es simplemente el balance requerido para ganar suficiente interes para pagar una comisión en un período de tiempo relativamente corto.
 
-Fortunately, the minimum balance required can be as low as a dollar and this is something users can understand and appreciate. The opportunity cost of lost interest doesn't incur the cognitive cost of a micro-fee and is far more acceptable to users.
+Afortunadamente, el balance mínimo requerido puede ser tan bajo como un dólar y ésto es algo que los usuarios pueden entender y apreciar. El costo de oportunidad de interés perdido no incurre en el costo cognitivo de una microcomisión y es mucho mas aceptable para los usuarios.
 
-The STEEM used to pre-fund an account is Powered Up in the new account (i.e., converted to Steem Power).
+El STEEM usado para precargar una cuenta es convertido a Steem Power en la nueva cuenta (ej.: *Powering Up*).
 
-### Adjusting the Reserve Ratio
+### Ajustando relación de reserva
 
-Rate limiting requires that the network adjust the reserve ratio quickly enough to mitigate the impact of an attacker attempting to ood the network. Let's assume the attacker has a large balance, say 1% of the available tokens. If we also assume that the network targets 50% utilization, then a sustained attack should find this user throttled to 25% of network capacity assuming everyone else is also using 25% of the capacity. Stated another way, the largest single user should never be able to consume more than 50% of the target capacity unless they own more than 50% of the SP.
+Limitar la tasa requiere que la red ajuste la tasa de reserva lo suficientemente rápido para mitigar el impacto de un atacante intentado inundar la red. Asumamos que el atacante tiene un gran balance, digamos que el 1% de los *tokens* disponibles. Si tambien asumimos que la red apunta al 50% de utilización, entonces el ataque sostenido debería encontrar a este usuario estrangulado al 25% de la capacidad asumiendo que todos tambien esten utilizando 25% de la capcidad. Dicho de otra forma, el usuario mas grande nunca debería poder consumir mas del 50% de la capacidad pretendida salvo que posea mas del 50% del SP (*Steem Power*).
 
-Let's use an initial reserve ratio of 200x. Due to fractional reserves, this means someone holding 1% of the tokens has the right to demand transactions totalling 2x the maximum block size. In order to bring the network usage of the attacker down to 25% the reserve ratio would have to fall to 25x. This would cause the minimum balance required to transact once per week to grow by 8x.
+Usemos una tasa de reserva inicial de 200x. Debido a las reservas fraccionales, ésto significa que cualquiera que tenga el 1% de los *tokens* tiene el derecho de demandar transacciones con un total de 2 veces el tamaño máximo de bloque. Para llevar el uso de la red por parte del atacante al 25%, la tasa de reserva debería caer a 25x. Esto causaría que el balance mínimo requerido para transaccionar una vez por semana crezca a 8 veces el mismo.
 
-The blockchain can establish a response rate that says any sustained increase in usage should be brought down to the target capacity in within a short period of time (say 30 seconds). An attacker attempting to spam the network shouldn't be able to disrupt service for normal users for more than a minute.
+El blockchain puede establecer una tasa de respuesta que indique cualquier incremento sostenido en el uso debería ser rebajado a la capacidad pretendida dentro de un período de tiempo corto (digamos 30 segundos). Un atacantes intentando hacer spam en la red no debería poder afectar el servicio a los usuarios normales por mas de un minuto.
 
-While reductions in the reserve ratio must be quick and non-linear to counter abuse, increases in the reserve ratio should be slow and linear. If the network adjusted in both directions in just 30 seconds then an attacker could pulse the network. A flood of transactions should be corrected in 30 seconds and then take a hour to return to their pre-attack levels. Under this model the attacker could flood the network for 30 seconds per hour or less than 1% of the time.
+Mientras las reducciones en la tasa de reserva deben contrarestar el abuso ráidamente y de forma no-linear, los incrementos en la tasa de reserva deben ser lentos y lineales. Si la red se ajusta en ambas direcciones en 30 segundos entonces el atacante podría dar pulso a la red. Una inundación de transacciones deberpia ser corregida en 30 segundos y luego tomar una hora para volver a los niviles previos al ataque. Bajo este modelo, el atacante puede inundar la red por 30 segundos por cada hora o menos del 1% del tiempo.
 
-There must be a slow constant upward pressure on the reserve ratio any time network usage is below 50% until the network hits the maximum reserve ratio. The maximum reserve ratio determines the minimum required stake to flood the network in short bursts.
+Debe haber una presión lenta en subida constate sobre la tasa de reserva cuando el uso de la red esté por debajo del 50% hasta que la red alcance la tasa de reserva máximo. La tasa máxima de reserva determina la apuesta mínima requerida para inundar la red en ráfagas cortas.
 
 Any user with fewer than TOTAL\_TOKENS / (2 \* RESERVE\_RATIO) will be unable to produce enough transactions to fill even a single block. With a reserve ratio of 200, this means any user with less than 0.25% of the currency cannot create enough transactions to delay anyone's service.
 
