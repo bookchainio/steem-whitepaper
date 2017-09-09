@@ -1,12 +1,12 @@
 # Steem
 
-## An incentivized, blockchain-based social media platform.
+## Platforma sociálního média s motivací přispěvatelů.
 
-March 2016
+Březen 2016
 
-# Translator's notes
+# Poznámky překladatele
 
-Placeholder for translator's notes.
+Přeloženo @valtr (https://steemit.com/steem/@valtr/kompletni-preklad-steem-white-paper-ke-stazeni-internationalization-of-steem-complete-czech-translation).
 
 # Abstrakt
 
