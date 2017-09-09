@@ -6,7 +6,7 @@ Březen 2016
 
 # Poznámky překladatele
 
-Přeloženo @valtr (https://steemit.com/steem/@valtr/kompletni-preklad-steem-white-paper-ke-stazeni-internationalization-of-steem-complete-czech-translation).
+Přeloženo **@valtr** (https://steemit.com/steem/@valtr/kompletni-preklad-steem-white-paper-ke-stazeni-internationalization-of-steem-complete-czech-translation).
 
 # Abstrakt
 
