@@ -435,104 +435,104 @@ Credits here @skapaneas @holidaygreece @skapart ".
 
 Κάθε χρήστης έχει δικαίωμα σε ένα μέσο εβδομαδιαίο εύρος ζώνης:
 
-    Let U = the user's SP
-    Let S = the total number of SP
-    Let R = the current reserve ratio between 1 and Rmax
-    Let C = the maximum block size capacity set by witnesses
-    Let L = the total blocks per week
-    Let M = C * L * R
-    Allocation = M * U / S
+    Θέτουμε U = Το SP του χρήστη
+    Θέτουμε S = Ο συνολικός αριθμός SP
+    Θέτουμε R = Η τρέχων αποθεματική αναλογία ανάμεσα στο 1 και το Rmax
+    Θέτουμε C = Η μέγιστη χωρητικότητα μεγέθους φραγμών που τίθεται από μάρτυρες
+    Θέτουμε L = Οι συνολικοί φραγμοί ανά εβδομάδα
+    Θέτουμε M = C * L * R
+    Κατανομή = M * U / S
     
 
-A user would be entitled to an average bandwidth of M \* U / S. Any time a transaction would cause the user's average to go above this threshold they would be unable to transact until enough time passes to lower the average.
+Ένας χρήστης έχει δικαίωμα σε ένα μέσο εύρος ζώνης M \* U / S. Οποιαδήποτε στιγμή μια συναλλαγή θα έκανε τον μέσο όρο του χρήστη να αυξηθεί παραπάνω από αυτό το κατώφλι γίνεται αδύνατο για αυτόν τον χρήστη να κάνει συναλλαγή μέχρι να περάσει αρκετός χρόνος έτσι ώστε να μειωθεί ο μέσος όρος.
 
-The network can increase the reserve ratio, anytime blocks are less than half the target capacity and decrease it anytime they are more than half. The algorithm used to adjust R is designed to react quickly to decrease the reserve ratio when there is a surge in demand, while acting slowly to increase the reserve ratio in period of low demand.
+Το δίκτυο έχει την ικανότητα να αυξήσει την αναλογία αποθεμάτων, οποιαδήποτε στιγμή οι φραγμοί είναι λιγότερο από την μισή χωρητικότητα που στοχέυουμε και να την μειώσει οποιαδήποτε στιγμή είναι μεγαλύτεροι από την μισή. Ο αλγόριθμος που χρησιμοποιείται για να ρυθμίσει το R είναι σχεδιασμένος να αντιδρά γρήγορα με σκοπό να μειώσει την αναλογία αποθεμάτων όταν υπάρχει ένα κύμα σε ζήτηση, ενώ λειτουργεί σιγά για να αυξήσει την αναλογία σε περιόδους χαμηλής ζήτησης.
 
-The minimum reserve ratio is 1, and the maximum reserve ratio should be calculated to prevent small stakeholders from consuming all of the available bandwidth. If no one is using the available bandwidth then the reserve ratio can grow until a user with just 1 satoshi of the currency is able to transact every single block.
+Η ελάχιστη αναλογία αποθεμάτων είναι 1, και η μέγιστη πρέπει να υπολογίζεται έτσι ώστε να αποτρέπει τους μικρά ενδιαφερόμενους από το να καταναλώνουν όλο το διαθέσιμο εύρος ζώνης. Εάν κανένας δεν χρησιμοποιεί το διαθέσιμο εύρος ζώνης τότε η αναλογία αποθέματος μπορεί να μεγαλώσει μέχρι ένας χρήστης με μόνο 1 satoshi του νομίσματος να μπορεί να διεξάγει όλους τους φραγμούς.
 
-### Case Study: Bitcoin
+### Μελέτη Περίπτωσης: Bitcoin
 
-To understand how this algorithm would work on Bitcoin it is necessary to estimate a reasonable value for the reserve ratio, R, based on actual usage. Based upon the total supply of 15M BTC and a daily transaction volume of 400K BTC<sup id="fnref:10"><a href="#fn:10" class="footnote-ref">10</a></sup>, we can derive a minimum reserve ratio of 38 for Bitcoin. Using the equations we can calculate the weekly bandwidth (in bytes) allowed per BTC to be:
+Για να καταλάβουμε πως θα λειτουργούσε αυτός ο αλγόριθμος στο Bitcoin είναι απαραίτητο να εκτιμήσουμε μια λογική τιμή για την αναλογία αποθέματος, R, με βάση την πραγματική χρήση. Βασισμένο στη συνολική προμήθεια 15 εκατομμυρίων Bitcoin και ενός ημερήσιου όγκου συναλλαγής 400 χιλιάδων Bitcoin<sup id="fnref:10"><a href="#fn:10" class="footnote-ref">10</a></sup>, μπορούμε να αντλήσουμε μια ελάχιστη αναλογία αποθεμάτων του 38 για το Bitcoin. Χρησιμοποιώντας τις εξισώσεις μπορούμε να υπολογίσουμε το εβδομαδιαίο εύρος ζώνης (σε bytes) που επιτρέπεται ανα Bitcoin:
 
-    Let C = 1MB = 1024 * 1024
-    Let L = 1008 (blocks per week)
-    Let R = 38
-    Let S = 14000000 BTC (supply minus Satoshi's unmoving coins)
-    Let U = 1 BTC
-    CLR/S = 2869 bytes per week, or about 5 transactions/week per BTC
+    Θέτουμε C = 1MB = 1024 * 1024
+    Θέτουμε L = 1008 (φραγμούς ανα εβδομάδα)
+    Θέτουμε R = 38
+    Θέτουμε S = 14000000 BTC (προμήθεια πλην τα ακίνητα νομίσματα του Satoshi)
+    Θέτουμε U = 1 BTC
+    CLR/S = 2869 bytes ανα εβδομάδα, ή περίπου 5 συναλλαγές/εβδομάδα ανα Bitcoin
     
 
-Since R = 38 is a lower bound on the reserve ratio, CLR/S is a lower bound on the permitted bandwidth. This simple case study suggests a user will require at most 0.20 BTC (over $80 as of this writing) to transact once per week. However, this is a loose upper bound derived from the assumption that all BTC are equally mobile. This is not the case - users with dozens or hundreds of bitcoins do not necessarily transact dozens or hundreds of times a week! The "leftover" transactions that those users "should" have made will increase the reserve ratio, allowing their unused bandwidth to be "recycled" for smaller users.
+Εφόσον το R = 38 είναι χαμηλότερο όριο στην αναλογία αποθεμάτων, το CLR/S είναι ένα χαμηλότερο όριο στο επιτρεπόμενο εύρος ζώνης. Αυτή η απλή μελέτη περίπτωσης υποδηλώνει ότι ένας χρήστης θα χρειαστεί το πολύ 0.20 Bitcoin (πάνω από $80 αυτή την στιγμή) για να διεξάγει μια φορά την εβδομάδα. Ωστόσο, αυτό είναι ένα ευκοίλιο ανώτερο όριο προερχόμενο από την υπόθεση ότι όλα τα Bitcoin είναι το ίδιο ευκίνητα. Αυτό δεν συμβαίνει – χρήστες με ντουζίνες ή εκατοντάδες bitcoins δεν διεξάγουν απαραίτητα ντουζίνες ή εκατοντάδες φορές την εβδομάδα! Οι “υπολειπόμενες” συναλλαγές που αυτοί οι χρήστες θα “έπρεπε” να είχαν κάνει θα αυξήσουν την αναλογία αποθεμάτων, επιτρέποντας το αχρησιμοποίητο εύρος ζώνης να “ανακυκλωθεί” για μικρότερους χρήστες.
 
-All of the above estimates are conservative upper bounds assuming coins and usage are distributed in a relatively flat manner. The reality is that heavy users, such as exchanges, have a much higher coin-to-usage ratio than lighter users, which in turn means that actual minimum balance requirements are far lower.
+Όλες οι παραπάνω εκτιμήσεις είναι συντηρητικά ανώτερα όρια θεωρώντας ότι τα νομίσματα και η χρήση διανέμονται σε ένα σχετικά επίπεδο τρόπο. Η πραγματικότητα είναι ότι οι βαριοί χρήστες, όπως οι συναλλαγές, έχουν πολύ μεγαλύτερη αναλογία νομίσματος-προς-χρήση από τους ελαφρότερους χρήστες, που συμπερασματικά σημαίνει ότι οι πραγματικές ελάχιστες απαιτήσεις ισολογισμού είναι πολύ χαμηλότερες.
 
-#### Impact of Capacity
+#### Το Αντίκτυπο Της Χωρητικότητας
 
-Blockchain capacity isn't necessarily capped. It is well within the technological capability of internet infrastructure to increase the Bitcoin block size to 10MB which in turn will reduce the minimum required balance by a factor of 10. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second. This changes our conservative upper bound to 0.0006 BTC or about $0.25, meaning that an account holding $0.25 would be able to transact at least once per week on average (and likely many more times because we're dealing with a fairly loose upper bound).
+Η χωριτηκότητα ενός blockchain δεν έχει απαραίτητα κάποιο όριο. Είναι καλά μέσα στις τεχνολογικές ικανότητες της υποδομής του internet το να αυξήσει το μέγεθος φραγμού του Bitcoin στα 10ΜΒ που με τη σειρά του θα μειώσει τον ελάχιστο απαιτούμενο ισολογισμό κατά ένα συντελεστή του 10. Ενώ το Bitcoin αυτή την στιγμή υποστηρίζει περίπου 3 συναλλαγές ανα δευτερόλεπτο, εναλλακτικές υλοποιήσεις έχουν την ικανότητα να εκτελέσουν πάνω απο 1000 συναλλαγές το δευτερόλεπτο. Αυτό αλλάζει το συντηριτικό ανώτερο όριο μας σε 0.0006 Bitcoin ή περίπου $0.25, που σημαίνει ότι ένας λογαριασμός ο οποίος κρατάει $0.25 θα έχει την δυνατότητα να διεξάγει τουλάχιστον μια φορά την εβδομάδα κατά μέσο όρο (και πιθανότατα πολύ περισσότερες φορές διότι ασχολούμαστε με ένα αρκετά ευκοίλιο ανώτερο όριο).
 
-#### Maximum Number of Unique Users
+#### Μέγιστος Αριθμός Μοναδικών Χρηστών
 
-We can use similar math to calculate the maximum number of unique users that the network can allow to transact once per week as: B\*W/T. T represents the average transaction size. This means Bitcoin could support about 2 million users transacting once per week assuming each user had an equal balance.
+Μπορούμε να χρησιμοποιήσουμε παρόμοια μαθηματικά για να υπολογίσουμε τον μέγιστο αριθμό μοναδικών χρηστών που το δίκτυο θα επιτρέψει να κάνουν συναλλαγή μια φορά ανα εβδομάδα: B\*W/T. Το T παριστάνει το μέσο μέγεθος συναλλαγής. Αυτό σημαίνει ότι το Bitcoin θα μπορουσε να υποστηρίξει περίπου 2 εκατομμύρια χρήστες οι οποίοι κάνουν μια συναλλαγή την εβδομάδα υποθέτοντας πως ο κάθε χρήστης είχε ίδιο ισολογισμό.
 
-#### Comparison to Fees
+#### Σύγκριση Με Τα Τέλη
 
-If we assume a user with $25 dollars worth of BTC transacts once per week and pays a $0.04 cent fee each time then they would pay over $2.00 in fees per year. A user would have to earn a 8% rate of return on their $25 dollars just to break even with paying fees. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
+Εάν υποθέσουμε ότι ένας χρήστης με Bitcoin αξίας $25 δολαρίων διεξάγει μια φορά την εβδομάδα και πληρώνει τέλη τα οποία κοστίζουν $0.04 κάθε φορά τότε θα πλήρωνε πάνω από $2.00 σε τέλη των χρόνο. Ένας χρήστης θα έπρεπε να αποκτά ένα ποσοστό απόδοσης 8% στα $25 δολάρια του μόνο για να καλύψει πληρωμή τελών. Οι πιθανότητες είναι ότι οι χρήστες θα κρατάγανε τα χρήματα τους στο blockchain εν πάση περιπτωση, οπότε αυτός ο χρήστης ο οποίος έχει στην κατοχή του Bitcoin αξίας $25 μόλις έσωσε $2 στην περίοδο ενός χρόνου υιοθετώντας μια προσέγγιση ορίου της αναλογίας αντί μιας προσέγγισης η οποία βασίζεται στα τέλη. Με μονάχα $175 μπορούν να διεξάγουν καθημερινά και να γλιτώνουν $14 ανα χρόνο.
 
-### Account Creation
+### Δημιουργία Λογαριασμου
 
-Steem's account-based system with publicly known balances simplifies the implementation of the bandwidth-based rate limiting algorithm. Any account with a balance below the minimum required to transact once per week would be unable to transact. This implies that all new accounts should be funded with at least this minimum balance. It also implies that users wishing to transact in smaller amounts can, so long as they hold a larger balance and reuse the account.
+Το βασισμένο σε λογαριασμούς σύστημα του Steem με δημόσια γνωστούς ισολογισμούς κάνει πιο απλή την εκτέλεση του βασισμένου στο εύρος ζώνης αλγορίθμου ορίου αναλογίας. Οποιοςδήποτε λογαριασμός με ισολογισμό μικρότερο από το ελάχιστο απαιτούμενο για να μπορεί να γίνει μια συναλλαγή μια φορά την εβδομάδα είναι αδύνατον να διεξάγει. Αυτό υποδηλώνει ότι όλοι οι νέοι λογαριασμοί πρέπει να χρηματοδοτούνται με τουλάχιστον αυτόν τον ελάχιστο ισολογισμό. Επίσης υποδηλώνει ότι οι χρήστες οι οποίοι επιθυμούν να διεξάγουν μικρότερες ποσότητες μπορούνε να το κάνουν, εφόσον έχουν μεγαλύτερο ισολογισμό και επαναχρησιμοποιήσουν τον λογαριασμό.
 
-It is possible for a low-balance account created during a time of low usage to become inaccessible if the network usage picks up. The funds could be recovered at any time by transferring a larger balance into the account.
+Είναι δυνατόν για έναν λογαριασμό χαμηλού ισολογισμού που δημιουργήθηκε σε μια περίοδο χαμηλής χρήσης να γίνει απρόσιτος εάν η χρήση του δικτύου σηκωθεί. Τα χρήματα μπορούνα να ανακτηθούν οποιαδήποτε στιγμή μεταφέροντας έναν μεγαλύτερο ισολογισμό μέσα στον λογαριασμό.
 
-In order to maintain a reasonable user experience with a minimum number of hung accounts, all new accounts should start out with a balance 10 times the minimum required to transact weekly. This way even if demand increases by a factor of 10 the account will remain viable.
+Για να συντηρηθεί μια κατάλληλη εμπειρία του χρήστη με έναν ελάχιστο αριθμό κρεμασμένων λογαριασμών, όλοι οι νέοι λογαριασμοί πρέπει να ξεκινάνε με έναν ισολογισμό 10 φορές μεγαλύτερο από τον ελάχιστο που χρειάζεται για εβδομαδιαίες εξαγωγές. Με αυτόν τον τρόπο ακόμα και αν η ζήτηση αυξηθεί κατά ένα συντελεστή του 10 ο λογαριασμός θα παραμείνει βιώσιμος.
 
-Any initial account balance would have to come from the user creating the account and not from token creation due to the potential for sybil attacks.
+Οποιοσδήποτε αρχικός ισολογισμός λογαριασμού θα έπρεπε να έρχεται από τον χρήστη που δημιουργεί τον λογαριασμό και όχι από νομισματική δημιουργία λόγο των πιθανών επιθέσεων sybil.
 
-### Justifying Minimum Balances
+### Δικαιολογώντας Τους Ελάχιστους Ισολογισμούς
 
-The concept of forcing users to maintain a minimum balance flows naturally from the value of a user<sup id="fnref:11"><a href="#fn:11" class="footnote-ref">11</a></sup> . Anyone running a business knows that every single user has significant value. Businesses spend anywhere from $30 to $200 to acquire a user. Sometimes they pay users directly, other times they pay for advertizing, and still other times entire companies are bought just for their user base. After a company acquires a user they often given them many *free services* just to keep them around long enough to monetize them through some other means.
+Η έννοια της εξανάγκασης των χρηστών να διατηρούνε έναν ελάχιστο ισολογισμό ρέει φυσιολογικά από την αξία ενός χρήστη<sup id="fnref:11"><a href="#fn:11" class="footnote-ref">11</a></sup>. Οποιοσδήποτε έχει μια επειχήρηση γνωρίζει ότι ο κάθε χρήστης έχει σημαντική αξία. Οι επειχηρήσεις ξοδεύουν οπουδήποτε από $30 έως $200 για να αποκτήσουν έναν χρήστη. Μερικές φορές πληρώνουν χρήστες κατευθείαν, άλλες φορες πληρώνουν για διαφήμηση, και άλλες φορές ολόκληρες εταιρείες αγοράζονται μονάχα για τον αριθμό χρηστών τους. Αφού μια εταιρεία αποκτήσει έναν χρήστη συνήθως του δίνονται πολλές *δωρεάν υπηρεσίες* μονάχα για να τον κρατήσει για αρκετά μεγάλο χρονικό διάστημα ώστε να τον νομισματοποιήσει μέσω άλλων τρόπων.
 
-Ripple uses a minimum balance<sup id="fnref:12"><a href="#fn:12" class="footnote-ref">12</a></sup> that scales with account resource use and requires that new accounts get funded with at least this minimum balance. Currently this minimum balance is about $0.15 which is greater than the $0.10 we estimated would allow someone to transact freely at least once per week.
+Το Ripple χρησιμοποιεί έναν ελάχιστο ισολογισμό ο οποίος<sup id="fnref:12"><a href="#fn:12" class="footnote-ref">12</a></sup> κλιμακώνεται ανάλογα με την χρήση πόρων του λογαριασμού και απαιτεί από τους νέους λογαριασμούς να χρηματοδοτούνται με τουλάχιστον αυτόν τον ελάχιστο ισολογισμό. Επί του παρόντος αυτός ο ελάχιστος ισολογισμός είναι περίπου $0.15 που είναι μεγαλύτερο απο τα $0.10 τα οποία υπολογίσαμε πως θα επέτρεπαν σε κάποιον να διεξάγει ελεύθερα τουλάχιστον μια φορά την εβδομάδα.
 
-A blockchain can enforce a minimum value per user through the simple process of requiring a minimum balance. Any business that wishes to bring a new customer to the blockchain can pre-fund that user's account with the minimum balance that would allow them to transact. Requiring a relatively large fee ($1.00) to sign up new users will naturally force anyone offering free accounts to vet the quality and uniqueness of each account before registering them with the blockchain.
+Ένα blockchain μπορεί να επιβάλλει μια ελάχιστη τιμή ανα χρήστη μέσω τη απλής διαδικασίας απαίτησης ενός ελάχιστου ισολογισμού. Οποιαδήποτε επειχήρηση επιθυμεί να φέρει έναν νέο χρήστη στο blockchain μπορεί να προχρηματοδοτήσει τον λογαριασμό αυτού του χρήστη με τον ελάχιστο ισολογισμό που θα τους επιτρέπει να κάνουν συναλλαγές. Απαιτώντας μια σχετικά μεγάλη χρέωση ($1.00) για να κάνει την εγγραφή νέων χρηστών φυσιολογικά θα αναγκάσει τον καθένα που προσφέρει δωρεάν λογαριασμούς να εξετάσει την ποιότητα και την ιδιαιτερότητα του κάθε λογαριασμού πριν την εγγραφή τους με το blockchain.
 
-Maintaining a minimum balance is effectively the same as making users pay transaction fees with the interest they could have earned on their balance. The minimum balance is simply the balance required to earn enough interest to pay a fee in a relatively short period of time.
+Διατηρώντας έναν ελάχιστο ισολογισμό είναι ουσιαστικά το ίδιο με το να αναγκάζονται οι χρήστες να πληρώνουν τέλη συναλλαγών με τον τόκο που αυτοί θα μπορούσαν να αποκτήσουν στον ισολογισμό τους. Ο ελάχιστος ισολογισμός είναι απλά ο ισολογισμός που απαιτείται για να αποκτηθεί αρκετός τόκος για να πληρωθεί μια χρέωση σε μια σχετικά μικρή περίοδο χρόνου.
 
-Fortunately, the minimum balance required can be as low as a dollar and this is something users can understand and appreciate. The opportunity cost of lost interest doesn't incur the cognitive cost of a micro-fee and is far more acceptable to users.
+Ευτυχώς, ο ελάχιστος ισολογισμός που απαιτείται μπορεί να είναι όσο χαμηλός όσο και ένα δολάριο και αυτό είναι κάτι που οι χρήστες μπορούν να καταλάβουν και να εκτιμήσουν. Το κόστος ευκαιρίας του χαμένου τόκου δεν υφίστανται το γνωστικό κόστος μιας μικροχρέωσης και είναι πολύ πιο ευπρόσδεκτο από τους χρήστες.
 
-The STEEM used to pre-fund an account is Powered Up in the new account (i.e., converted to Steem Power).
+Το STEEM που χρησιμοποιείται για να προχρηματοδοτήσει έναν λογαριασμό ενδυναμώνεται στον καινούργιο λογαριασμό (π.χ., μετατρέπεται σε Steem Power).
 
-### Adjusting the Reserve Ratio
+### Ρυθμίζοντας Την Αναλογία Αποθέματος
 
-Rate limiting requires that the network adjust the reserve ratio quickly enough to mitigate the impact of an attacker attempting to ood the network. Let's assume the attacker has a large balance, say 1% of the available tokens. If we also assume that the network targets 50% utilization, then a sustained attack should find this user throttled to 25% of network capacity assuming everyone else is also using 25% of the capacity. Stated another way, the largest single user should never be able to consume more than 50% of the target capacity unless they own more than 50% of the SP.
+Ο περιορισμός της αναλογίας απαιτεί από το δίκτυο να ρυθμίσει την αναλογία αποθέματος αρκετά γρήγορα για να μετριάσει την επίπτωση ενός επιδρομέα που προσπαθεί να πλημμυρίσει το δίκτυο. Ας υποθέσουμε ότι ο επιδρομέας έχει έναν μεγάλο ισολογισμό, ας πούμε 1% των διαθέσιμων νομισμάτων. Εάν υποθέσουμε επίσης ότι το δίκτυο στοχεύει 50% χρησιμοποίηση, τότε μια παραπεταμένη επίθεση θα βρει αυτόν τον χρήστη πνιγμένο στο 25% της χωρητικότητας δικτύου υποθέτοντας πως όλοι οι άλλοι επίσης χρησιμοποιούν 25% της χωρητικότητας. Με άλλα λόγια, ο μεγαλύτερος ατομικός χρήστης δεν πρέπει να έχει την δυνατότητα να καταναλώσει περισσότερο από 50% της στοχευμένης χωρητικότητας εκτός εάν έχει στην κατοχή του περισσότερο από 50% του SP.
 
-Let's use an initial reserve ratio of 200x. Due to fractional reserves, this means someone holding 1% of the tokens has the right to demand transactions totalling 2x the maximum block size. In order to bring the network usage of the attacker down to 25% the reserve ratio would have to fall to 25x. This would cause the minimum balance required to transact once per week to grow by 8x.
+Ας χρησιμοποιήσουμε την αρχική αναλογία αποθεμάτων των 200x. Εξαιτίας των κλασματικών αποθεμάτων, αυτό σημαίνει ότι κάποιος ο οποίος έχει το 1% των νομισμάτων έχει το δικαίωμα να απαιτήσει συναλλαγές οι οποίες κάνουν σύνολο 2x του μέγιστου μεγέθους φραγμού. Για να πέσει η χρήση δικτύου από τον επιδρομέα στο 25% η αναλογία αποθεμάτων θα πρέπει να πέσει στο 25x. Αυτό θα έκανε τον ελάχιστο απαιτούμενο ισολογισμό για να μπορεί να γίνει μια συναλλαγή την εβδομάδα να αυξηθεί κατά 8x.
 
-The blockchain can establish a response rate that says any sustained increase in usage should be brought down to the target capacity in within a short period of time (say 30 seconds). An attacker attempting to spam the network shouldn't be able to disrupt service for normal users for more than a minute.
+Το blockchain μπορεί να θέσει ένα ποσοστό ανταπόκρισης το οποίο λέει ότι μια παραπεταμένη αύξηση στην χρήση πρέπει να κατέβει στην στοχευμένη χωρητικότητα σε ένα μικρό χρονικό διάστημα (ας πούμε 30 δευτερόλεπτα). Ένας επιδρομέας που προσπαθεί να κάνει κατάχρηση του δικτύου δεν πρέπει να έχει την δυνατότητα να αναστατώσει την υπηρεσία για τους κανονικούς χρήστες για πάνω από έναν λεπτό.
 
-While reductions in the reserve ratio must be quick and non-linear to counter abuse, increases in the reserve ratio should be slow and linear. If the network adjusted in both directions in just 30 seconds then an attacker could pulse the network. A flood of transactions should be corrected in 30 seconds and then take a hour to return to their pre-attack levels. Under this model the attacker could flood the network for 30 seconds per hour or less than 1% of the time.
+Παρόλο που οι μειώσεις στην αναλογία αποθεμάτων πρέπει να είναι γρήγορες και μη-γραμμικές για να αντιμετωπίσουν την κατάχρηση, αυξήσεις στην αναλογία αποθεμάτων πρέπει να είναι αργές και γραμμικές. Εάν το δίκτυο ρυθμιζόταν και στις δύο κατευθύνσεις σε μονάχα 30 δευτερόλεπτα τότε ο επιδρομέας θα μπορούσε να πάλλει το δίκτυο. Μια πλημμύρα συναλλαγών πρέπει να διορθωθεί μέσα σε 30 δευτερόλεπτα και έπειτα να πάρει μια ώρα για να επιστρέψει στα επίπεδα πριν τις επιθέσεις. Ύπο αυτό το μοντέλο ο επιδρομέας μπορεί να πλημμυρίσει το δίκτυο για 30 δευτερόλεπτα ανά ώρα ή λιγότερο από το 1% του χρόνου.
 
-There must be a slow constant upward pressure on the reserve ratio any time network usage is below 50% until the network hits the maximum reserve ratio. The maximum reserve ratio determines the minimum required stake to flood the network in short bursts.
+Πρέπει να υπάρχει μια αργή και σταθερή πίεση προς τα πάνω στην αναλογία αποθεμάτων κάθε φορά που η χρήση δικτύου είναι κάτω απο 50% μέχρι το δίκτυο να φτάσει τη μέγιστη αναλογία αποθεμάτων. Η μέγιστη αναλογία αποθεμάτων καθορίζει το ελάχιστο απαιτούμενο στοίχημα για να πλημμυρίσει σε μικρές εκρήξεις.
 
-Any user with fewer than TOTAL\_TOKENS / (2 \* RESERVE\_RATIO) will be unable to produce enough transactions to fill even a single block. With a reserve ratio of 200, this means any user with less than 0.25% of the currency cannot create enough transactions to delay anyone's service.
+Ο κάθε χρήστης με λιγότερα ΣΥΝΟΛΙΚΑ\_ΝΟΜΙΣΜΑΤΑ / (2 \* ΑΝΑΛΟΓΙΑ\_ΑΠΟΘΕΜΑΤΩΝ) δεν θα μπορεί να παράγει αρκετές συναλλαγές για να γεμίσει ούτε έναν φραγμό. Με μια αναλογία αποθεμάτων του 200, αυτό σημαίνει πως ο κάθε χρήστης με λιγότερο από 0.25% του νομίσματος δεν μπορεί να δημιουργήσει αρκετές συναλλαγές για να καθυστερήση την υπηρεσία κανενός.
 
-### Effectiveness Relative to Fees
+### Αποτελεσματικότητα Σχετικά Με Τα Τέλη
 
-To compare the effectiveness of rate limiting to fees we must consider how the two systems react to intentional network flooding by an attacker. Under Bitcoin an attacker with $10,000 dollars could disrupt service for an entire day by filling every single block. The same attacker would be unable to disrupt service for even a single block under the dynamic fractional reserve rate limiting approach.
+Για να συγκρίνουμε την αποτελεσματικότητα του περιορισμού αναλογίας με τα τέλη θα πρέπει να έχουμε στο νου πως τα δύο συστήματα αντιδρούν στην διεθνές πλημμύρα δικτύου από έναν επιδρομέα. Ύπο το Bitcoin ένας επιδρομέας με $10,000 δολάρια θα μπορούσε να αναστατώσει την υπηρεσία για μια ολόκληρη μέρα γεμίζοντας τον κάθε έναν φραγμό. Ο ίδιος επιδρομέας δεν θα είχε την δυνατότητα να αναστατώσει την υπηρεσία ούτε για έναν φραγμό ύπο τον περιορισμό δυναμικής κλασματικής αναλογίας αποθεμάτων.
 
-If we go to a more extreme case and assume the attacker holds 1% of all coins then we presume an attacker with $60 million dollars. Such an attacker could deny the Bitcoin blockchain service for 16 years unless the miners increased fees or capacity. Even if fees were raised to $15 per transaction, the attacker could still keep the network flooded for 16 days.
+Εάν πάμε σε μια πιο υπερβολική περίπτωση και υποθέσουμε πως ο επιδρομέας έχει στην κατοχή του το 1% όλων των νομισμάτων τότε μπορούμε να συμπεράνουμε πως ο επιδρομέας αυτός έχει $60 εκατομμύρια δολάρια. Ένας τέτοιος επιδρομέας θα μπορούσε να κλείσει την υπηρεσία blockchain του Bitcoin για 16 χρόνια εκτός αν οι μεταλλευτές αυξάνανε τα τέλη ή την χωρητικότητα. Ακόμα και αν τα τέλη αυξάνονταν στα $15 ανά συναλλαγή, ο επιδρομέας θα εξακολουθούσε να μπορεί να κρατήσει το δίκτυο πλημμυρισμένο για 16 ημέρες.
 
-Under the rate limiting approach, someone who holds 1% of all coins with an intent to flood the network would achieve their goal for less than 30 seconds.
+Ύπο την προσέγγιση περιορισμού αναλογίας, κάποιος ο οποίος κρατάει το 1% όλων των νομισμάτων με σκοπό να πλημμυρίσει το δίκτυο θα πετύχενε τον στόχο του για λιγότερο από 30 δευτερόλεπτα.
 
-### Renting vs. Buying vs. Time Sharing
+### Νοίκιασμα Εναντίον Αγόρασμα Εναντίον Μοίρασμα Χρόνου
 
-When someone owns a house they expect the right to use the house for free. If a group of people buy a house together then each can expect the right to use the house proportional to their percentage ownership in the house. A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
+Όταν κάποιος κατέχει λενα σπίτι περιμένει να έχει το δικαίωμα να χρησιμοποιήσει το σπίτι δωρεάν. Εάν μια ομάδα ανθρώπων αγοράσει ένα σπίτι τότε ο καθένας περιμένει να έχει το δικαίωμα να χρησιμοποιήσει το σπίτι ανάλογα με το ποσοστό ιδιοκτησίας του στο σπίτι. Ένα βασισμένο στα τέλη blockchain είναι σαν να νοικιάζουμε ένα σπίτι από τους ιδιοκτήτες του, ενώ ο περιορισμός αναλογίας είναι σαν ένα μοίρασμα του χρόνου μεταξύ των ιδιοκτητών.
 
-If a house is owned by multiple people then those individuals must decide how they wish to timeshare the house. Someone who owns 50% of the house but only uses it one weekend per year might expect to be paid by the individuals who take their unused time. This is the mindset of a fee based system.
+Αν ένα σπίτι είναι ιδιοκτησία πολλαπλών ανθρώπων τότε αυτοί πρέπει να αποφασίσουν πως θα γίνει το μοίρασμα χρόνου του σπιτιού. Κάποιος ο οποίος κατέχει 50% του σπιτιού αλλά το χρησιμοποιεί μόνο ένα σαββατοκύριακο ανά χρόνο θα μπορούσε να αναμένει να πληρωθεί από τα άτομα που πέρνουν τον αχρησιμοποίητο χρόνο τους. Αυτή είναι η λογική ενός συστήματος βασισμένου στα τέλη.
 
-On the other hand, someone who owns 50% of the house is speculating that demand for the house will increase in the future and they will be able to sell their stake for more. Any owner who owns more of a house than they use becomes a real estate speculator. With this mindset rather than collecting rent, they collect appreciation.
+Από την άλλη, κάποιος ο οποίος κατέχει 50% του σπιτιού θεωρεί πως η ζήτηση για το σπίτι θα αυξηθεί στο μέλλον και θα μπορεί να πουλήσει το στοίχημα του για περισσότερο. Ο κάθε ιδιοκτήτης που έχει στην κατοχή του περισσότερο σπίτι από όσο χρησιμοποιεί γίνεται κερδοσκόπος ακινήτων. Με την λογική αυτή αντί να συλλέγει το νοίκι, συλλέγει εκτίμηση.
 
-The value of a share is derived from how much time it can potentially grant its owner. Owning 1% of a house and getting it 1 weekend per year is the lowest value of a share. However, if half of the shareholders never use their weekend, then the value per timeshare rises to 2 weekends per year. If those inactive users instead opt to rent their unused time, then it falls back to 1 weekend per year. If those unused timeshares were sold to people who would use them then the value of a timeshare would fall by 50%. Unless the rent collected is greater than the fall in share value the timeshare owners are making an economic miscalculation.
+Η αξία μιας μετοχής προέρχεται από τον πόσο χρόνο μπορεί ενδεχομένος να χορηγήση στον ιδιοκτήτη του. Έχοντας το 1% του σπιτιού και παίρνοντας το 1 σαββατοκύριακο τον χρόνο είναι η χαμηλότερη αξία μιας μετοχής. Ωστόσο, εάν οι μισοί μέτοχοι δεν χρησιμοποιήσουν ποτέ το σαββατοκύριακο τους, τότε η αξία ανά μοίρασμα χρόνου αυξάνεται στα 2 σαββατοκύριακα ανά χρόνο. Αν αυτοί οι αδρανείς χρήστες αντί αυτού αποφασίσουν να νοικιάσουν τον αχρησιμοποίητο χρόνο τους, τότε επιστρέφει πίσω στο 1 σαββατοκύριακο τον χρόνο. Αν αυτές οι αχρησιμοποίητες χρονικές μετοχές που πουλιόντουσαν σε ανθρώπους που θα τις χρησιμοποιούσαν τότε η αξία μιας χρονικής μετοχής θα έπεφτε κατά 50%. Εάν το νοίκι που συλλέγεται είναι μεγαλύτερο από το πέσιμο της αξίας της μετοχής οι ιδιοκτήτες της χρονικής μετοχής κάνουν έναν λανθασμένο υπολογισμό.
 
 Using this rationale we can assume that a system based on fees will either be more expensive for its users or be less profitable for its collective owners. An individual small owner may profit by renting out his small time slice, but only at the expense of all other timeshare owners. In effect, the cost of the falling timeshare value is shared among all owners whereas the profits are centralized in the single owner who decided to rent his share.
 
