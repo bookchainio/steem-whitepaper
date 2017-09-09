@@ -1,7 +1,7 @@
-# Steem Docs
+# Steem White Paper
 
-Welcome to the Steem Docs repository!
-This repository used for translation of Steem documents like Steem White Paper and connected to GitBook, all changes automatically build into: https://www.gitbook.com/book/bookchain/steem-whitepaper
+Welcome to the Steem White Paper repository!
+This repository used for translation of Steem White Paper and connected to GitBook, all changes automatically build into: https://www.gitbook.com/book/bookchain/steem-whitepaper
 
 # Compiling Steem White Paper Guide
 
@@ -13,7 +13,7 @@ pandoc -s src/whitepaper.tex --to=markdown_mmd --atx-headers --wrap=none -o Stee
 
 # Translation Guide
 
-[![Crowdin](https://d322cqt584bo4o.cloudfront.net/steem-docs/localized.svg)](https://crowdin.com/project/steem-docs)
+[![Crowdin](https://d322cqt584bo4o.cloudfront.net/steem-whitepaper/localized.svg)](https://crowdin.com/project/steem-whitepaper)
 
 If you want to add new language, review/update existing translation or help to finish specific translations, you can join and do that by following link:
-https://crowdin.com/project/steem-docs
+https://crowdin.com/project/steem-whitepaper
