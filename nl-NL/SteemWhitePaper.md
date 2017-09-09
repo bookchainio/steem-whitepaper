@@ -1,12 +1,12 @@
 # Steem
 
-## An incentivized, blockchain-based social media platform.
+## Een gestimuleerd, blockchain gebaseerd sociaal media platform.
 
-March 2016
+Maart 2016
 
-# Translator's notes
+# Noten van de vertaler
 
-Placeholder for translator's notes.
+Vertaald door **@stino-san** (https://steemit.com/steem/@stino-san/steem-whitepaper-dutch-part-1).
 
 # Abstract
 
