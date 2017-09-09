@@ -233,73 +233,73 @@ Credits here @skapaneas @holidaygreece @skapart ".
 
 Καθώς η συνεργασία για την διανομή κερδών στην καλύτερη δουλειά είναι ο επιθυμητός στόχος, η *συνωμοσία* που υποβιβάζει αυτό τον στόχο θα πρέπει να ελαχιστοποιηθεί. Υπάρχουν δύο είδη *συνωμοσίας*: το πιο ευθέως είναι όταν κάποιος χρήστης απλά αγοράζει ένα μεγαλύτερο μερίδιο από τους άλλους, και το άλλο συσχετίζετε με την συνεργασία ενός μεγάλου ή μικρότερου αριθμού μεριδιούχων που δουλεύουν μαζί. Μεγαλύτεροι μεριδιούχοι μπορούν να έχουν την επιρροή ψήφου από 100 ή ακόμα και 1000 μικρότερων μεριδιούχων που σημαίνει ότι έχουν μεγαλύτερα κίνητρα να αποστατήσουν ψηφίζοντας για τον εαυτό τους από ότι είχαν κάτω από μια γραμμική διανομή.
 
-Ασχέτως με πόσα λεφτά οποιοδήποτε άτομο έχει, θα υπάρχουν πάντα πολλά άλλα άτομα με παρόμοιο πλούτο. Ακόμα και το πλουσιότερο άτομο σπανίως έχει παραπάνω από το επόμενο συνδυαστικό ζευγάρι πλουσίων. Furthermore, those who have a large investment in a community also have the most to lose by attempting to game the voting system for themselves. It would be like the CEO of a company deciding to stop paying salaries so he could pocket all of the profits. Everyone would leave to work for other companies and the company would become worthless, leaving the CEO bankrupt rather than wealthy.
+Ασχέτως με πόσα λεφτά οποιοδήποτε άτομο έχει, θα υπάρχουν πάντα πολλά άλλα άτομα με παρόμοιο πλούτο. Ακόμα και το πλουσιότερο άτομο σπανίως έχει παραπάνω από το επόμενο συνδυαστικό ζευγάρι πλουσίων. Επιπλέον, αυτοί που έχουν μια μεγάλη επένδυση σε μια κοινότητα επίσης έχουν το περισσότερο να χάσουν με το να στήσουν το σύστημα ψήφου για τους εαυτούς τους. Θα ήταν σαν ο διευθύνων σύμβουλος μιας εταιρίας αποφάσιζε να σταματήσει να πληρώνει μισθούς ώστε να πάρει όλα τα κέρδη. Όλοι θα έφευγαν από την δουλειά για να πάνε σε άλλες εταιρίες και η εταιρία θα γίνονταν άχρηστη, αφήνοντας τον διευθύνων σύμβουλο χρεοκοπημένο παρά πλούσιο.
 
-Fortunately, any work that is getting a large concentration of votes is also gaining the most scrutiny (publicity). Through the addition of *negative-voting* it is possible for many smaller stakeholders to nullify the voting power of collusive groups or defecting large stakeholders. Furthermore, large-stakeholders have more to lose if the currency falls in value due to abuse than they might gain by voting for themselves. In fact, honest large stakeholders are likely to be more effective by policing abuse and using negative voting than they would be by voting for smaller contributions.
+Ευτυχώς, οποιαδήποτε δουλεία λαμβάνει μια μεγάλη συγκέντρωση ψήφων επίσης λαμβάνει και τον περισσότερο εξονυχιστικό έλεγχο (δημοσιότητα). Μέσα από την πρόσθεση του *αρνητικού-ψηφίσματος* είναι δυνατόν για πολλούς μικρούς μεριδιούχους να αχρηστεύσουν την δύναμη της ψήφου από συνωμοτικές ομάδες ή μεγάλους μεριδιούχους που έχουν αποστατήσει. Επιπλέον, μεγάλοι μεριδιούχοι έχουν περισσότερα να χάσουν αν το νόμισμα πέσει σε αξία λόγο της κακομεταχείρισης από ότι μπορεί να κερδίσουν ψηφίζοντας για τους εαυτούς τους. Μάλιστα, τίμιοι μεγάλοι μεριδιούχοι είναι πιθανών να είναι περισσότερο αποτελεσματικοί με την αστυνόμευση κακομεταχείρισης και την χρησιμοποίηση της αρνητικής ψήφου από όταν θα ψήφιζαν για μικρότερες συνεισφορές.
 
-The use of *negative-voting* to keep people from abusing the system leverages the *crab mentality* that many people have when it is perceived that one individual is profiting at the expense of everyone else. While crab mentality normally refers to short-sighted people keeping good people down, it is also what allows good people to keep bad people down. The only "problem" with crab mentality is when people *wrongly believe* someone is profiting at everyone else's expense.
+Η χρήση της *αρνητικής-ψήφου* για να κρατήσει τους ανθρώπους από την κακομεταχείριση του συστήματος φέρνει στην επιφάνεια την νοοτροπία του *καβουριού που* έχουν πολλοί άνθρωποι όταν γίνεται αντιληπτό ότι ένα άτομο βγάζει κέρδος εις βάρος όλων των άλλων. Καθώς η νοοτροπία του καβουριού αναφέρεται σε κοντόφθαλμους ανθρώπους που κρατάνε τους καλούς ανθρώπους κάτω, σημαίνει επίσης ότι επιτρέπει στους καλούς ανθρώπους να κρατήσουν κάτω τους κακούς. Το μόνο ‘πρόβλημα’ στην νοοτροπία του καβουριού είναι όταν οι άνθρωποι *εσφαλμένα πιστεύουν ότι* κάποιος βγάζει κέρδος εις βάρος των άλλων.
 
-> #### The Story of the Crab Bucket<sup id="fnref:6"><a href="#fn:6" class="footnote-ref">6</a></sup>
+> #### Η ιστορία του κουβά με τα καβούρια<sup id="fnref:6"><a href="#fn:6" class="footnote-ref">6</a></sup>
 > 
-> A man was walking along the beach and saw another man fishing in the surf with a bait bucket beside him. As he drew closer, he saw that the bait bucket had no lid and had live crabs inside.
+> Ένας άνθρωπος περπατούσε κατά μήκος της παραλίας και είδε έναν άλλο άνδρα να ψαρεύει στο κύμα με ένα κουβά από δόλωμα δίπλα του. Καθώς πλησίασε πιο κοντά, είδε ότι ο κουβάς με το δόλωμα δεν είχε καπάκι και είχε ζωντανά καβούρια μέσα.
 > 
-> "Why don't you cover your bait bucket so the crabs won't escape?", he said.
+> ‘Γιατί δεν καλύπτεις τον κουβά με το δόλωμα για να μην δραπετεύσουν τα καβούρια?’ είπε.
 > 
-> "You don't understand.", the man replied, "If there is one crab in the bucket it would surely crawl out very quickly. However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
+> ‘Δεν καταλαβαίνεις’ απάντησε ο άνθρωπος. ‘Αν υπάρχει ένα καβούρι στον κουβά σίγουρα θα σκαρφάλωνε γρήγορα έξω’. ‘Όμως, όταν υπάρχουν πολλά καβούρια στον κουβά, τα υπόλοιπα το κρατούν και το τραβάνε κάτω για να μοιραστεί την ίδια μοίρα με τα υπόλοιπα.’
 > 
-> So it is with people. If one tries to do something different, get better grades, improve herself, escape her environment, or dream big dreams, other people will try to drag her back down to share their fate.
+> Και έτσι είναι με τους ανθρώπους. Αν κάποιος προσπαθήσει να κάνει κάτι διαφορετικό, να πάρει καλύτερη βαθμολογία, να βελτιώσει τον εαυτό της, να ξεφύγει από το περιβάλλον της, ή να κάνει μεγάλα όνειρα, οι άλλοι άνθρωποι θα προσπαθήσουν να την τραβήξουν πίσω για να μοιραστεί την μοίρα τους.
 
-Eliminating "abuse" is not possible and shouldn't be the goal. Even those who are attempting to "abuse" the system are still doing work. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn't so rampant that it undermines the incentive to do real work in support of the community and its currency.
+Η εξάλειψη της ‘κακομεταχείρισης’ δεν είναι δυνατή και δεν θα έπρεπε να είναι στόχος. Ακόμα και αυτοί που προσπαθούν να ‘κακομεταχειριστούν’ το σύστημα ακόμα κάνουν δουλειά. Οποιαδήποτε αποζημίωση πάρουν για τις επιτυχείς προσπάθειές τους για κακομεταχείριση ή συνωμοσία είναι τουλάχιστον όσο πολύτιμη για τον σκοπό της διανομής του νομίσματος όσο το make-work σύστημα που απασχολείτε από την παραδοσιακή Bitcoin εξόρυξη ή η συνωμοτική εξόρυξη που γίνεται μέσω ομάδων εξόρυξης. Το μόνο που είναι απαραίτητο για να διασφαλιστεί ότι η κακομεταχείριση δεν θα είναι τόσο ανεξέλεγκτη που να υποβιβάζει τα κίνητρα για να γίνει πραγματική δουλειά στην υποστήριξη της κοινότητας και του νομίσματός της.
 
-The goal of building a community currency is to get more "crabs in the bucket". Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs suf cient power to prevent others from escaping.
+Ο στόχος ανέγερσης ενός νομίσματος της κοινότητας είναι να πάρουμε περισσότερα ‘καβούρια στον κουβά’. Πηγαίνοντας σε ακραία μέτρα για την εξάλειψη κάθε κακομεταχείρισης είναι σαν να προσπαθείς να βάλεις ένα καπάκι στον κουβά για να αποτρέψεις μερικά καβούρια να ξεφύγουν και έρχεται με το κόστος ότι το κάνεις δυσκολότερο να προστεθούν περισσότερα καβούρια στον κουβά. Είναι επαρκές να κάνεις τους τοίχους γλιστερούς και να δώσεις στα άλλα καβούρια επαρκή δύναμη για να αποτρέψουν τα άλλα από την αποφυγή.
 
-### Rate Limited Voting
+### Εκτίμηση περιορισμένης ψήφου
 
-A major part of minimizing abuse is the rate-limiting of voting. Individual users can only read and evaluate so many work items per day. Any attempt to vote more frequently than this is a sign of automation and potential abuse. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
+Ένα κύριο μέρος στην ελαχιστοποίηση της κακομεταχείρισης είναι η περιορισμένη εκτίμηση της ψήφου. Ατομικοί χρήστες μπορούν μόνο να διαβάζουν και να αξιολογήσουν τόσα πολλά αντικείμενα δουλειάς κάθε μέρα. Οποιαδήποτε προσπάθεια ψήφισης από αυτό είναι σημάδι μιας αυτοματοποιημένης και πιθανής κακομεταχείρησης. Μέσα από την περιορισμένη εκτίμηση, μεριδιούχοι που ψηφίζουν μπορούν να έχουν συχνότερα καταμέτρηση ψήφων για λιγότερο από τους μεριδιούχους που ψηφίζουν λιγότερο συχνά. Προσπάθειες στην διαίρεση συμβόλων ανάμεσα σε πολλούς λογαριασμούς διαιρεί επίσης την επιρροή και επομένως δεν αποτελεί στην αύξηση της επιρροής του δικτύου ούτε προσπερνά την περιορισμένη εκτίμηση που επιβάλλεται στο ψήφισμα.
 
 ![](\img_voting_rate_limiting.png)
 
-The charts above shows how a user's voting power decreases every time they vote and then regenerates as time passes without voting. These charts use nominal time unit and could be made to scale to any targeted voting rate. Note that voting power rapidly drops off during periods of continuous voting, and then slowly recovers.
+Τα διαγράμματα από πάνω δείχνουν πως η δύναμη της ψήφου ενός χρήστη μειώνεται κάθε φορά που ψηφίζουν και ανανεώνεται όσο περνάει ο χρόνος χωρίς να ψηφίζουν. Αυτά τα διαγράμματα χρησιμοποιούν μονάδα πλασματικού χρόνου και θα μπορούσαν να ταιριάξουν σε οποιαδήποτε στοχευόμενη εκτίμηση ψηφίσματος. Σημειωτέο ότι η δύναμη της ψήφου πέφτει ραγδαία κατά την διάρκεια περιόδων συνεχούς ψηφίσματος, και μετά ανακάμπτει αργά.
 
-Voting power is multiplied by a user's vesting tokens to determine how much share in the reward pool should be allocated to a given work item.
+Η δύναμη της ψήφου πολλαπλασιάζετε με τα κατοχυρωμένα σύμβολα του χρήστη για να διαπιστωθεί πόσο μερίδιο από την ομάδα ανταμοιβής θα πρέπει να διανεμηθεί σε ένα αντικείμενο εργασίας.
 
-### Delayed Payouts
+### Καθυστερημένες πληρωμές
 
 ![](\img_change_voting_period_eg.png)
 
-To further prevent abuse, all payouts are delayed a stake-weighted average of 24 hours from the time each vote was cast. This ensures that large stakeholders cannot snipe payouts by voting at the last second before other voters (aka crabs) have a chance to negate the potential abuse. Once a payout is made to the user all votes are reset to 0. If votes come in after the payout then the process begins again.
+Για περαιτέρω προτροπή της κακομεταχείρισης, όλες οι πληρωμές καθυστερούνται ένα ζυγιασμένου μεριδίου μέσου όρου των 24 ωρών κάθε φορά που ρίχνεται μια ψήφος. Αυτό εγγυάται ότι μεγάλοι μεριδιούχοι δεν μπορούν να στήσουν να πληρωμές ψηφίζοντας στο τελευταίο δευτερόλεπτο πριν οι άλλοι ψηφοφόροι(καβούρια) έχουν την ευκαιρία να ακυρώσουν την πιθανή κακομεταχείριση. Μόλις γίνει η πληρωμή στον χρήστη όλοι οι ψήφοι επαναφέρονται στο 0. Αν ψήφοι έρθουν μετά την πληρωμή η διαδικασία ξεκινά ξανά.
 
-This chart shows how the voting period expiration changes in response to new positive and negative votes being applied. New votes extend the payout period in proportion to how large they are relative to all votes that have gone before. Around time 40 a large number of new votes were added which extended the voting period by 12 hours, subsequent smaller votes had far less impact on the voting period.
+Αυτό το διάγραμμα δείχνει πως η λήξη της περιόδου ψηφίσματος αλλάζει σε απόκριση με τις νέες θετικές και αρνητικές ψήφους που εφαρμόζονται. Νέοι ψήφοι επεκτείνουν την περίοδο πληρωμής σε αναλογία με το πόσο μεγάλες είναι σχετικά με όλες τις ψήφους που έχουν ήδη ριχθεί. Μετά από κάποιο χρονικό διάστημα 40, ένας μεγάλος αριθμός ψήφων, προστέθηκαν που επέκτειναν την περίοδο ψηφοφορίας κατά 12 ώρες, μεταγενέστερες μικρότερες ψήφοι θα έχουν μακράν μικρότερο αντίκτυπο στην περίοδο ψηφοφορίας.
 
-### Payout Distribution
+### Διανομή πληρωμής
 
 ![](\img_the_new_marketplace.png)
 
-One of the primary goals of Steem's reward system is to produce the best discussions on the internet. Each and every year 10% of the market capitalization of Steem is distributed to users submitting, voting on, and discussing content. At the size of Bitcoin this could be as much as $1.75 million dollars per day being given to top contributors.
+Ένας από τους πρωταρχικούς στόχους του συστήματος ανταμοιβής του Steem είναι να παράγει τις καλύτερες συζητήσεις στο διαδίκτυο. Κάθε χρόνο 10% της κεφαλαιοποίησης της αγοράς του Steem διανέμετε σε χρήστες που παραδίδουν, ψηφίζουν, και συζητώντας το περιεχόμενο. Στο μέγεθος του Bitcoin αυτό θα ήταν τόσο όσο $1.75 δισεκατομμύριο δολάρια καθημερινά που δίνονται στους κορυφαίους χορηγούς.
 
-The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content. Steem weighs payouts proportional to \\(n^{2}\\) the amount of Steem Power voting for a post. In other words, post x would receive a payout proportional to:
+Η πραγματική διανομή θα κριθεί στο μοτίβο ψήφισης των χρηστών, αλλά υποπτευόμαστε ότι η ογκώδης πλειοψηφία των ανταμοιβών θα διανεμηθούν προς το πιο διάσημο περιεχόμενο. Το Steem σταθμίζει τις πληρωμές αναλογικά σε \\(ν^{2}\\) του ποσού από Steem Power για το ψήφισμα για μια ανάρτηση. Με άλλα λόγια, η ανάρτηση χ θα λάβει πληρωμή αναλογική με:
 
 \\(votes[x]^{2} / sum(votes[0...n]^{2})\\)
 
-Zipf's Law<sup id="fnref:7"><a href="#fn:7" class="footnote-ref">7</a></sup> is one of those empirical rules that characterize a surprising range of real-world phenomena remarkably well. It says that if we order some large collection by size or popularity, the second element in the collection will be about half the measure of the first one, the third one will be about one-third the measure of the first one, and so on. In general, the \\(k^{th}\\)-ranked item will measure about 1/k of the first one.
+Ο νόμος του Zipf<sup id="fnref:7"><a href="#fn:7" class="footnote-ref">7</a></sup> είναι ένας από αυτούς τους εμπειρικούς κανόνες που χαρακτηρίζει ένα εκπληκτικό εύρος φαινομένων του πραγματικού κόσμου εξαιρετικά καλά. Λέει ότι αν παραγγείλουμε κάποια μεγάλη συλλογή με μέγεθος ή δημοτικότητα, το δεύτερο στοιχείο στην συλλογή θα είναι το ημίμετρο σε σχέση με το πρώτο, το τρίτο θα είναι περίπου το ένα τρίτο του πρώτου, και ούτω καθεξής. Γενικά το \\(k^{th}\\)-καταταγμένο θα είναι περίπου 1/k του πρώτου.
 
-Taking popularity as a rough measure of value, then the value of each individual item is given by Zipf's Law. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
+Παίρνοντας την δημοτικότητα σαν μια πρόχειρη εκτίμηση της αξίας, τότε η αξία κάθε ατομικού αντικειμένου θα δοθεί από το νόμο του Zipf. Αυτό είναι, αν έχουμε ένα εκατομμύριο αντικείμενα, τότε τα 100 πιο δημοφιλή θα συνεισφέρουν το ένα τρίτο της συνολικής αξίας, τα επόμενα 10.000 ένα άλλο τρίτο, και τα υπόλοιπα 989.900 το υπόλοιπο τρίτο. Η αξία αυτής της συλλογής των ν αντικειμένων είναι αναλογική με log(n).
 
-The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
+Το αντίκτυπο αυτής της διανομής ψήφου και πληρωμής είναι για να προσφέρει μεγάλες αμοιβές για καλό περιεχόμενο καθώς ακόμη ανταμείβοντας τους μικρότερους παίχτες για την μακροπρόθεσμη συνεισφορά τους.
 
-The economic effect of this is similar to a lottery where people over-estimate their probability of getting votes and thus do more work than the expected value of their reward and thereby maximize the total amount of work performed in service of the community. The fact that everyone "wins something" plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
+Η οικονομική επίδραση πάνω σε αυτό είναι η ίδια με ενός λαχείου όπου οι παίχτες υπερεκτιμούν τις πιθανότητες τους να κερδίσουν ψήφους και έτσι κάνουν περισσότερη δουλειά από την αναμενόμενη αξία της ανταμοιβής τους και κατ’ αυτό τον τρόπο μεγιστοποιούν το συνολικό ποσό της δουλειάς που γίνεται στην υπηρεσία της κοινότητας. Το γεγονός ότι όλοι ‘κερδίζουν κάτι’ βασίζεται στην ίδια ψυχολογία που χρησιμοποιούν τα καζίνο για να έχουν ανθρώπους να τζογάρουν. Με άλλα λόγια, οι μικρές αμοιβές βοηθούν στην ενίσχυση της ιδέας ότι είναι δυνατόν να κερδίσεις ακόμα μεγαλύτερες αμοιβές.
 
-#### Rewarding Parent Posts
+#### Ανταμείβοντας μητρικές αναρτήσεις
 
-Good discussion requires back and forth posting. When you reply to someone else, they get 50% of any payout you receive in that thread. This rule applies up to 6 levels deep. Starting a big discussion greatly rewards the parent poster.
+Η καλή συνομιλία απαιτεί αναρτήσεις εμπρός και πίσω. Όταν απαντάς σε κάποιον άλλο, παίρνουν 50% οποιασδήποτε πληρωμής που θα λάβεις σε αυτό το thread. Αυτός ο κανόνας ισχύει μέχρι 6 επίπεδα βαθιά. Ξεκινώντας μια μεγάλη συζήτηση ανταμείβει σπουδαία τον μητρικό αναρτητή.
 
-Failure to properly nest your posts in the discussion is a good way to get down voted.
+Η αποτυχία να ενσωματώσεις τα σχόλια σου στην συζήτηση κατάλληλα είναι ένας καλός τρόπος να ψηφισθείς αρνητικά.
 
-This incentive structure motivates people to contribute in a way that motivates others to get involved. It encourages people to ask good questions so that others can provide valuable answers.
+Αυτό το κινητήριο χτίσμα παρακινεί τους ανθρώπους να συνεισφέρουν με ένα τρόπο που παρακινεί και άλλους να εμπλακούν. Ενθαρρύνει τους ανθρώπους να ρωτήσουν καλές ερωτήσεις ώστε οι άλλοι να μπορούν να παρέχουν πολύτιμες απαντήσεις.
 
-### Payouts
+### Πληρωμές
 
-When a post receives a payout it takes the form of 50% SMD and 50% SP. The Steem Power give the user increased voting and transaction power while the SMD gives the user an immediate benefit in a stable currency. As we've already discussed at length, both SP and SMD are designed to encourage long-term holding rather than short-term selling.
+Όταν μια ανάρτηση λάβει μια πληρωμή θα πάρει την μορφή 50%SMD και 50%SP. Το Steem Power δίνουν στο χρήστη αυξημένη ψήφου και ανταλλαγής δύναμη καθώς το SMD δίνουν στον χρήστη ένα άμεσο όφελος σε ένα σταθερό νόμισμα. As we've already discussed at length, both SP and SMD are designed to encourage long-term holding rather than short-term selling.
 
 # Consensus Algorithm
 
