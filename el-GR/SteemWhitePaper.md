@@ -100,78 +100,78 @@ Credits here @skapaneas @holidaygreece @skapart ".
 
 Το SP μπορεί να μετατραπεί πίσω σε Steem μετά από 2 χρόνια μέσω 104 ισάξιων εβδομαδιαίων πληρωμών. ‘1SP’ μπορεί να προβληθεί σαν ένα μερίδιο σε μια ομάδα STEEM. Το δίκτυο αυτόματα προσθέτει STEEM στην ομάδα κάθε block. Οποιαδήποτε στιγμή οι χρήστες μπορούν να μετατρέψουν το Steem σε SP στην ίδια κλίμακα όσο STEEM στην ομάδα κατοχύρωσης του συνολικού SP. Μετατρέποντας STEEM σε SP δεν αραιώνει τους υπάρχων κατόχους SP. Ομοίως, κάθε φορά που το SP μετατρέπεται σε STEEM γίνεται στην τωρινή κλίμακα. Τα άτομα εγγυώνται να έχουν περισσότερο STEEM sτο μέλλον από ότι έχουν όταν μετατρέψουν για πρώτη φορά STEEM σε SP.
 
-SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
+Τα υπόλοιπα SP είναι μη-μεταβιβάσιμα και μη-διαιρετά εκτός από τις επαναλαμβανόμενες αιτήσεις μετατροπής. Αυτό σημαίνει ότι το SP δεν μπορεί να ανταλλαχθεί εύκολα σε κρυπτονομισματικές ανταλλαγές. Το SP είναι μια απαίτηση για ψήφησμα υπέρ ή κατά περιεχομένου.
 
 Αυτό σημαίνει ότι το SP είναι ένα σύμβολο πρόσβασης που παρέχει στους κατόχους του αποκλειστικές δυνάμεις μέσα στην πλατφόρμα του Steem.
 
 Μετάβαση από STEEM σε SP ονομάζεται ενδυνάμωση καθώς μεταβίβαση SP σε STEEM ονομάζεται αποδυνάμωση. Για παράδειγμα κάποιος μπορεί να αποδυναμώσει το STEEM του για μια περίοδο πάνω από δύο χρόνια, αλλά κάποιος μπορεί να ενδυναμώσει το STEEM του απευθείας.
 
-## Steem Dollars (SMD)
+## STEEM Dollars (SMD)
 
-Stability is an important feature of successful global economies. Without stability, individuals across the world could not have low cognitive costs while engaging in commerce and savings. Because stability is an important feature of successful economies, Steem Dollars were designed as an attempt to bring stability to the world of cryptocurrency and to the individuals who use the Steem network.
+Η σταθερότητα είναι ένα σημαντικό χαρακτηριστικό των επιτυχημένων παγκόσμιων οικονομιών. Χωρίς σταθερότητα, άτομα γύρω από τον κόσμο δεν θα μπορούσαν να έχουν χαμηλά γνωστικά κόστη καθώς εμπλέκονται με εμπόριο και οικονομίες. Επειδή η σταθερότητα είναι σημαντικό χαρακτηριστικό των επιτυχημένων οικονομιών, τα Steem Dollars σχεδιάστηκαν σαν μια προσπάθει να φέρουν σταθερότητα στον κόσμο του κρυπτονομίσματος και στα άτομα που χρησιμοποιούν το δίκτυο του Steem.
 
-Steem Dollars are created by a mechanism similar to convertible notes, which are often used to fund startups. In the startup world, convertible notes are short-term debt instruments that can be converted to ownership at a rate determined in the future, typically during a future funding round. A blockchain based token can be viewed as ownership in the community whereas a convertible note can be viewed as a debt denominated in any other commodity or currency. The terms of the convertible note allow the holder to convert to the backing token with a minimum notice at the fair market price of the token. Creating token-convertible-dollars enables blockchains to grow their network effect while maximizing the return for token holders.
+Τα Steem Dollars δημιουργήθηκαν από ένα μηχανισμό παρόμοιο στις μετατρέψιμες ομολογίες, που συχνά χρησιμοποιούνται για να χρηματοδοτήσουν καινούργιες αγορές. Στον νεοσύστατο κόσμο, οι μετατρέψιμες ομολογίες είναι βραχυπρόθεσμα όργανα χρέους που μπορούν να μετατραπούν σε ιδιοκτησία σε μια κλίμακα που αποφασίζεται στο μέλλον, τυπικά κατά την διάρκεια ενός γύρου χρηματοδότησης. Ένα blockchain βασισμένο σύμβολο μπορεί να προβληθεί σαν ιδιοκτησία στην κοινότητα όπου ένα μετατρέψιμο ομόλογο μπορεί να προβληθεί σαν χρέος εκφρασμένο σε οποιοδήποτε άλλο εμπόρευμα ή νόμισμα. Οι όροι ενός μετατρέψιμου ομολόγου επιτρέπουν στον κάτοχο να μετατρέψει το υποστηρικτικό σύμβολο με μια ελάχιστη ειδοποίηση στην τιμή της ελεύθερης αγοράς του συμβόλου. Δημιουργώντας σύμβολα-μετατρέψιμα-δολάρια(SD) επιτρέπει στα blockchains να επεκτείνουν την αποτελεσματικότητα των δικτύων τους καθώς μεγιστοποιώντας την απόδοση των κατόχων των συμβόλων.
 
-Steem Dollars are referred to with the symbol SMD, an acronym for Steem Dollars. Creating SMD requires a combination of a reliable price feed, rules to prevent abuse, and liquidity. Providing a reliable price feed involves three factors: minimizing the impact of an incorrect feed, maximizing the cost of producing an incorrect feed, and minimizing the importance of timing.
+Τα Steem Dollars που αναφέρονται με το σύμβολο SMD, ένα ακρώνυμο για Steem Dollars. Δημιουργώντας SMD απαιτείτε μια αξιόπιστη εισροή τιμής, κανόνες για την απαγόρευση κακομεταχείρησης, και ρευστότητα. Η χορηγία μια αξιόπιστη εισροή τιμής περιλαμβάνει τρείς παράγοντες: ελαχιστοποίηση του αντίκτυπου μιας λανθασμένης εισροής, μεγιστοποίηση του κόστους παραγωγής μιας λανθασμένης εισροής, και ελαχιστοποίηση της σημασίας του χρόνου.
 
-### Minimizing Fraudulent Feeds
+### Ελαχιστοποίηση δόλιων εισροών
 
-SP holders elect individuals to publish price feeds. These elected individuals are presumably trusted by those who have a vested interest in the quality of the feed. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
+Οι κάτοχοι SP εκλέγουν άτομα να εκδώσουν εισροή τιμών. Αυτά τα εκλεγμένα άτομα είναι πιθανώς εμπιστευόμενα από αυτούς που έχουν ένα κατοχυρωμένο ενδιαφέρον στην ποιότητα της εισροής. Με το να πληρώνοντας αυτούς που είναι εκλεγμένοι, το Steem δημιουργεί αγορά ανταγωνισμού για να κερδίσει το δικαίωμα να παράγει εισροές. Περισσότερο οι παραγωγοί εισροής πληρώνονται περισσότερο θα πρέπει να χάσουν εκδίδοντας λανθασμένες πληροφορίες.
 
-Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
+Δεδομένου ότι ένα σετ από εκλεγμένους και εμπιστευόμενους παραγωγούς εισροής, η πραγματική τιμή που χρησιμοποιείτε για μετατροπές μπορεί να πηγάζει σαν διάμεσος των εισροών. Με αυτό τον τρόπο αν οποιαδήποτε μειονότητα από ατομικούς παραγωγούς εισροής παράγουν ακραίες τιμές έχουν ελάχιστο αντίκτυπο στον πραγματικό διάμεσο καθώς έχοντας ακόμα την δυνατότητα να προκαλεί αντίκτυπο στην φήμη τους.
 
-Even if all feed producers are honest, it is possible for the majority of feed producers to be impacted by events beyond their control. The Steem network is designed to tolerate short-term corruption of the median price feed while the community actively works to correct the issue. One example of an issue that may take some time to correct is short-term market manipulation. Market manipulation is difficult and expensive to maintain for long periods of time. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
+Ακόμα και αν όλοι οι παραγωγοί εισροής είναι έντιμοι, είναι πιθανών για την πλειοψηφία παραγωγών εισροής να επηρεαστούν από γεγονότα πέρα από τον έλεγχό τους. Το δίκτυο του Steem είναι φτιαγμένο να ανέχεται βραχυπρόθεσμη διαφθορά από την εισροή τιμής του διάμεσου καθώς η οικονομία ενεργά δουλεύει για να διορθώσει το πρόβλημα. Ένα παράδειγμα ενός θέματος που μπορεί να πάρει κάποιο χρόνο για να διορθωθεί είναι η βραχυπρόθεσμη χειραγώγηση της αγοράς. Η χειραγώγηση της αγοράς είναι δύσκολη και ακριβή για να διατηρηθεί για μεγάλες περιόδους χρόνου. Ένα άλλο παράδειγμα θα ήταν η αποτυχία μιας συγκεντρωμένης ανταλλαγής ή η διαφθορά των δεδομένων που εκδόθηκαν από την ανταλλαγή.
 
-Steem factors out short-term price fluctuations by using the median price over a period of one week. The median published feed is sampled every hour on the hour.
+Οι παράγοντες του Steem ξεπερνούν τις βραχυπρόθεσμες αναδιακυμάνσεις των τιμών, χρησιμοποιώντας την τιμή του διαμέσου για παραπάνω από μια εβδομάδα. Η εισροή που εκδίδετε από τον ενδιάμεσο δοκιμάζετε κάθε ώρα με την ώρα.
 
-As long as the price feed corruption lasts for less than half the moving median time window it will have minimal impact on the conversion price. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
+Όσο η διαφθορά της εισροής τιμής κρατά για λιγότερο το μισό του χρονικού παραθύρου του κινούμενου διαμέσου αυτό θα έχει ελάχιστο αντίκτυπο στην τιμή μετατροπής. Στην περίπτωση που η εισροή διαφθαρεί, οι συμμετέχοντες του δικτύου θα έχουν την δυνατότητα να ψηφήσουν εκτός διαφθαρμένους παραγωγούς εισροής πριν η διαφθαρμένη εισροή μπορεί να έχει αντίκτυπο στην πραγματική τιμή μετατροπής. Ίσως πιο σημαντικά, δίνει στους παραγωγούς εισροής μια ευκαιρία να ανιχνεύσουν και να διορθώσουν θέματα πριν η εισροή τους ξεκινήσει να έχει αντίκτυπο στην τιμή.
 
-With a one week window, community members have three and a half days to respond to any issues that come up.
+Με μια εβδομάδα περιθώριο, τα μέλη της κοινότητας έχουν τρείς και μισή μέρα να ανταποκριθούν σε οποιαδήποτε θέματα προκύψουν.
 
-### Mitigating Timing Attacks
+### Μετρίαση επιθέσεων συγχρονισμού
 
-Market participants have access to information faster than the blockchain's one week moving median conversion price can react. This information could be used to benefit of traders at the expense of the community. If there is a sudden increase in the value of STEEM traders could request conversion of their SMD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
+Οι συμμετέχοντες της αγοράς έχουν πρόσβαση σε πληροφορίες γρηγορότερα από ότι μπορεί να αντιδράσει το χρονικό περιθώριο της μιας εβδομάδας κινούμενο blockchain διάμεσου μετατροπής τιμής. Αυτές οι πληροφορίες μπορούν να χρησιμοποιηθούν προς όφελος των εμπόρων σε βάρος της κοινότητας. Αν υπάρξει κάποια απότομη αύξηση στην αξία του STEEM οι έμποροι μπορούν να ζητήσουν μετατροπή των SMD τους στην παλιά, χαμηλότερη τιμή, και έπειτα να πουλήσουν το STEEM που θα παραλάβουν σε μια νέα υψηλότερη τιμή με το ελάχιστο ρίσκο.
 
-Steem levels the playing field by requiring all conversion requests to be delayed for one week. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
+Το Steem δημιουργεί ισότιμους όρους ανταγωνισμού, απαιτώντας όλα τα αιτήματα μετατροπής να καθυστερήσουν για μία εβδομάδα. Αυτό σημαίνει ότι κανείς από τους εμπόρους ούτε το blockchain έχει οποιοδήποτε πλεονέκτημα πληροφορίας σε σχετικά με την τιμή στον χρόνο που έγινε η μετατροπή.
 
-### Minimizing Abuse of Conversions
+### Ελαχιστοποίηση της κακομεταχείρησης των μετατροπών
 
-If people could freely convert in both directions then traders could take advantage of the blockchains conversion rates by trading large volumes without changing the price. Traders who see a massive run up in price would convert to SMD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SMD to STEEM and not the other way around.
+Αν οι άνθρωποι μπορούσαν ελεύθερα να μετατρέψουν και στις δυο κατευθύνσεις τότε οι έμποροι θα εκμεταλλεύονταν την κλίμακα μετατροπής των blockchains με την ανταλλαγή τεράστιων όγκων χωρίς να αλλάξουν την τιμή. Οι έμποροι που θα έβλεπαν μια τεράστια αύξηση στην τιμή θα μετέτρεπαν το SMD στην υψηλή τιμή(όταν είναι περισσότερο ριψοκίνδυνο) και μετά θα το μετέτρεπαν πίσω μετά την διόρθωση. Το πρωτόκολλο του Steem προστατεύει την κοινότητα από αυτού του είδους την κακομεταχείριση επιτρέποντας μόνο σε ανθρώπους να μετατρέψουν από SMD σε STEEM και όχι με τον άλλο τρόπο.
 
-The blockchain decides how and when to create SMD and who should get it. This keeps the rate of SMD creation stable and removes most avenues of abuse.
+Το blockchain αποφασίζει πως και πότε θα δημιουργήσει SMD και ποιοι θα πρέπει να το λάβουν. Αυτό κρατά την κλίμακα της δημιουργίας του SMD σταθερή και απομακρύνει τους περισσότερους τρόπους κακομεταχείρισης.
 
-### Liquidity
+### Ρευστότητα
 
-Just because SMD can be converted to a dollars worth of STEEM at a fair price in a reasonable amount of time doesn't mean it will be viewed as a reliable dollar replacement. These assets require liquidity in a market that enables instantaneous conversion between STEEM and SMD. The measures a blockchain is forced to take to prevent abuse end up lowering the quality of the convertible dollars. To compensate for this loss of quality the blockchain can offer a fixed cost reward to liquidity providers. Whereas the potential losses from manipulation and abuse are unbounded, the cost of encouraging liquidity can be fixed.
+Απλά επειδή τα SMD μπορούν να μετατραπούν στην αξία ενός δολαρίου από STEEM σε μια δίκαιη τιμή σε ένα λογικό ποσό χρόνου αυτό δεν σημαίνει ότι θα προβληθεί σαν ένα έντιμο αντικαταστατό του δολαρίου. Αυτά τα περιουσιακά στοιχεία απαιτούν ρευστότητα σε μια αγορά που επιτρέπει στιγμιαίες μετατροπές μεταξύ STEEM και SMD. Τα μέτρα που ένα blockchain απαιτείται να πάρει για να αποτρέψει κακομεταχείριση καταλήγει να μειώσει την ποιότητα των μετατρέψιμων δολαρίων. Για να επανορθώσει για αυτή την ζημία στην ποιότητα το blockchain μπορεί να προσφέρει ένα σταθερό κόστος ανταμοιβής στους παρόχους ρευστότητας. Ενώ οι πιθανές απώλειες από την χειραγώγηση και την κακομεταχείριση είναι απεριόριστες το κόστος της ενθάρρυνσης της ρευστότητας μπορεί να φτιαχτεί.
 
-A liquidity provider buys and sells SMD and STEEM. They take on the majority of the short-term price risk and long-term feed risk giving the remaining market participants a high quality, extremely liquid market within which to trade.
+Ένας πάροχος ρευστότητας αγοράζει και πουλάει SMD και STEEM. Αναλαμβάνουν την πλειοψηφία του βραχυπρόθεσμου κίνδυνου τιμής και του μακροπρόθεσμου κίνδυνου εισροής δίνοντας στους απομείναντες συμμετέχοντες της αγοράς μιας υψηλής ποιότητας, εξαιρετικής ρευστής αγοράς μέσα στην οποία μπορούν να ανταλλάξουν.
 
-Steem has an on-blockchain market between SMD and STEEM. Users can earn rewards by providing liquidity to both sides of this market. The blockchain uses a simple algorithm to rank each user's liquidity provision and consumption.
+Το Steem έχει μια on-blockchain αγορά μεταξύ SMD και STEEM. Οι χρήστες μπορούν να κερδίσουν ανταμοιβές με το να παρέχουν ρευστότητα και στις δύο πλευρές της αγοράς. Το blockhain χρησιμοποιεί έναν απλό αλγόριθμο για να κατατάξει την παροχή και κατανάλωση ρευστότητας κάθε χρήστη.
 
-A user is considered a liquidity provider if they leave an open order on the books for at least 1 minute and the order is eventually filled. If the order is canceled before being filled then the user is not credited with providing liquidity.
+Ένας χρήστης θεωρείτε πάροχος ρευστότητας εάν αφήσει μια ανοιχτή παραγγελία πάνω στα βιβλία για τουλάχιστον ένα λεπτό και η παραγγελία να ολοκληρωθεί τελικά. Αν η παραγγελία ακυρωθεί πριν ολοκληρωθεί τότε δεν θα δώσουν εύσημα στον χρήστη για την παροχή ρευστότητας.
 
-Users must provide liquidity on both sides of the book to qualify for rewards and they must provide liquidity consistently over time. The scoring algorithm is:
+Οι χρήστες πρέπει να παρέχουν ρευστότητα και στις δύο πλευρές του βιβλίου για να πληρούν τις προϋποθέσεις για ανταμοιβές και πρέπει να παρέχουν ρευστότητα συνεχώς με την πάροδο του χρόνου. Ο αλγόριθμος βαθμολόγησης είναι:
 
-      LiquidityPoints = NetBidVolume x NetAskVolume
+      Πόντοι Ρευστότητας = NetBidVolume x NetAskVolume
     
 
-Every hour the account with the most LiquidityPoints receives 1200 STEEM and then has its LiquidityPoints reset to 0. An account that goes a week without earning any LiquidityPoints also has its points reset to 0. This means that whether you provide a large amount of liquidity or a small amount over a long period of time everyone gets a proportional amount of the rewards. If either NetBidVolume or NetAskVolume is negative, then LiquidityPoints is considered to be 0.
+Κάθε ώρα ο λογαριασμός με τους περισσότερους πόντους ρευστότητας απονέμεται 1200 STEEM και οι πόντοι ρευστότητας του επαναφέρονται στο 0. Ένας λογαριασμός που πηγαίνει για μια εβδομάδα χωρίς να κερδίσει πόντους ρευστότητας επίσης επαναφέρονται οι πόντοι του στο 0. Αυτό σημαίνει ότι αν παρέχεις ένα μεγάλο ποσοστό ρευστότητας ή ένα μικρό ποσοστό πάνω από μια μεγάλη περίοδο χρόνου όλοι παίρνουν ένα αναλογικό ποσοστό των ανταμοιβών. Αν είτε το NetBidVolume ή το NetAskVolume είναι αρνητικό, τότε οι πόντοι ρευστότητας θεωρούνται να είναι 0.
 
-### Sustainable Debt to Ownership Ratios
+### Υποστηρικτικό χρέος σε αναλογίες ιδιοκτησίας
 
-If a token is viewed as ownership in the whole supply of tokens, then a token-convertible-dollar can be viewed as debt. If the debt to ownership ratio gets too high the entire currency can become unstable. Debt conversions can dramatically increase the token supply, which in turn is sold on the market suppressing the price. Subsequent conversions require the issuance of even more tokens. Left unchecked the system can collapse leaving worthless ownership backing a mountain of debt. The higher the debt to ownership ratio becomes the less willing new investors are to bring capital to the table.
+Αν ένα σύμβολο βλέπεται σαν ιδιοκτησία στην ολόκληρη προμήθεια των συμβόλων, τότε ένα σύμβολο-μετατρέψιμο-δολάριο μπορεί να προβληθεί σαν χρέος. Αν η αναλογία χρέους ιδιοκτησίας γίνει πολύ υψηλό τότε όλο το νόμισμα μπορεί να γίνει ασταθή. Οι μετατροπές χρέος μπορούν να αυξήσουν δραματικά την προμήθεια συμβόλων, που με την σειρά του μπορεί να πουληθεί στην αγορά καταστέλλοντας την τιμή. Μεταγενέστερες μετατροπές απαιτούν την έκδοση ακόμη περισσότερων συμβόλων. Αν αφεθεί ανεξέλεγκτο το σύστημα μπορεί να καταρρεύσει αφήνοντας άχρηστη ιδιοκτησία υποστηρίζοντας ένα βουνό χρέους. Όσο υψηλότερες οι αναλογίες χρέους ιδιοκτησίας γίνονται τόσο λιγότεροι νέοι πρόθυμοι επενδυτές θα φέρουν κεφάλαιο στο τραπέζι.
 
-For every SMD Steem creates, $19.00 of STEEM is also created and converted to SP. This means that the highest possible debt-to-ownership in a stable market is 1:19 or about 5%. If Steem falls in value by 50% then the ratio could increase to 10%. An 88% fall in value of STEEM could cause the debt-to-ownership ratio to reach 40%. Assuming the value of STEEM eventually stabilizes, the debt-to-ownership ratio will naturally move back toward 5%.
+Για κάθε SMD που δημιουργεί το Steem, $19,00 του SΤΕΕΜ δημιουργούνται και μετατρέπονται σε SP. Αυτό σημαίνει ότι το υψηλότερο πιθανό χρέος σε ιδιοκτησία σε μια σταθερή αγορά είναι 1:19 ή περίπου 5%. Αν το Steem πέσει σε αξία κατά 50% τότε η κλίμακα θα ανέβαινε 10%. Μια 88% πτώση σε αξία του Steem θα μπορούσε να προκαλέσει την χρέος σε ιδιοκτησία αναλογία να φτάσει το 40%. Υποθέτοντας ότι η αξία του Steem θα σταθεροποιηθεί τελικά, οι αναλογίες χρέους ιδιοκτησίας θα πέσουν φυσικά πίσω στο 5%.
 
-The idea behind having a conservative 5% debt to ownership ratio is that even if all debt were converted and sold there should be ample buyers and the effective dilution of the token holders remains relatively small.
+Η ιδέα πίσω από το να υπάρχουν συντηρητικές 5% αναλογίες χρέους ιδιοκτησίας είναι ακόμη ότι και αν όλο το χρέος μετατρέπονταν και πουλιόνταν θα έπρεπε να υπάρχουν επαρκής αγοραστές και η αποτελεσματική αραίωση των κατόχων συμβόλων (tokens) θα παρέμενε σχετικά χαμηλή.
 
-A rapid change in the value of STEEM can dramatically change the debt-to-ownership ratio. The percentage floors used to compute STEEM creation are based on the supply including the STEEM value of all outstanding SMD and SP (as determined by the current rate / feed).
+Μια ραγδαία αλλαγή στην αξία του STEEM θα μπορούσε δραματικά να αλλάξει την αναλογία χρέους ιδιοκτησίας. Τα ποσοστά που συνήθιζαν να υπολογίζουν την δημιουργία STEEM είναι βασισμένα στην προμήθεια συμπεριλαμβανομένου και την αξία του STEEM όλων των εκκρεμών SMD και SP (όπως καθορίστηκαν από την συγκεκριμένη αναλογία/εισροή).
 
-### Interest
+### Τόκος
 
-SMD pays holders interest. The interest rate is set by the same people who publish the price feed so that it can adapt to changing market conditions. All debt carries risk to the lender. Someone who holds SMD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SMD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
+Το SMD πληρώνει τους κατόχους τόκο. Η αναλογία του τόκου καθορίζετε από τους ίδιους ανθρώπους που εκδίδουν την τιμή εισροής ώστε έτσι να μπορούν να προσαρμοστούν στις μεταβαλλόμενες συνθήκες τις αγοράς. Όλο το χρέος κουβαλάει ρίσκο στον δανειστή. Κάποιος που έχει SMD χωρίς να το εξαργυρώσει δανείζει αποτελεσματικά στην κοινότητα την αξία ενός δολαρίου. Έχουν εμπιστοσύνη ότι σε κάποιο σημείο στο μέλλον κάποιος θα είναι πρόθυμος να αγοράσει το SMD από αυτούς για ένα δολάριο ή ότι θα υπάρχουν κερδοσκόποι και επενδυτές που θα είναι πρόθυμοι να αγοράσουν το STEEM που το μετατρέπουν σε αυτό.
 
-STEEM and SP holders gain leverage when members of the community are willing to hold SMD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
+Οι κάτοχοι STEEM και SP κερδίζουν πλεονέκτημα όταν τα μέλη της κοινότητας είναι πρόθυμα να κατέχουν SMD. Αυτό το πλεονέκτημα ενισχύει τα κέρδη από την ανάπτυξη καθώς επίσης συνεισφέροντας στην ανάπτυξη. Οι κάτοχοι STEEM υποφέρουν από ανεπτυγμένη αραίωση αν η τιμή πέσει. Τα project κρυπτονομίσματος έχουν δείξει ότι τα κέρδη από την αύξηση της βάσης χρηστών που είναι πρόθυμοι να εμπιστευτούν το δίκτυο με κεφάλαιο προσθέτουν τελικά περισσότερη αξία στο δίκτυο από οποιαδήποτε αραίωση που μπορεί να προκληθεί κατά την διάρκεια μια ύφεσης.
 
 ### Setting Price Feeds
 
