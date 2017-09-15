@@ -18,11 +18,11 @@ Steem is een blockchain databank dat het vormen van gemeenschappen en sociale in
 
 # Introductie
 
-Collectief, heeft gebruikers gegenereerde inhoud miljarden dollars waarde gecreëerd voor de aandeelhouders van sociale media bedrijven zoals Reddit, Facebook en Twitter. **In 2014 veronderstelde Reddit dat het platform zou verbeteren indien het iedereen die bijdroeg tot reddit.com door het plaatsen van verhalen, toevoegen van opmerkingen en stemmen, zou belonen met een eerlijk aandeel in Reddit. Inc.<sup id="fnref:1"><a href="#fn:1" class="footnote-ref">1</a></sup>**. Steem is gericht op het ondersteunen van sociale media en online gemeenschappen door veel van zijn waarde terug te keren aan mensen die waardevolle bijdragen maken door hen te belonen met cryptogeld, en door dit process een valuta te creëren die in staat is om een brede markt te bereiken, met begrip voor mensen die nog moeten deelnemen aan een cryptogeld economie.
+Collectief, heeft gebruikers gegenereerde inhoud miljarden dollars waarde gecreëerd voor de aandeelhouders van sociale media bedrijven zoals Reddit, Facebook en Twitter. **In 2014 veronderstelde Reddit dat het platform zou verbeteren indien het iedereen die bijdroeg tot reddit.com door het plaatsen van verhalen, toevoegen van opmerkingen en stemmen, zou belonen met een eerlijk aandeel in Reddit. Inc.[^1]**. Steem is gericht op het ondersteunen van sociale media en online gemeenschappen door veel van zijn waarde terug te keren aan mensen die waardevolle bijdragen maken door hen te belonen met cryptogeld, en door dit process een valuta te creëren die in staat is om een brede markt te bereiken, met begrip voor mensen die nog moeten deelnemen aan een cryptogeld economie.
 
 Er zijn een aantal belangrijke principes gebruikt om het ontwerp van Steem te leiden. Het meest belangrijke uitgangspunt is dat, iedereen die bijdraagt aan een onderneming, pro-rata eigendom, betaling of schuld moet krijgen van de onderneming. Dit principe is hetzelfde principe dat van toepassing is bij alle startups wanneer deze aandelen toewijzen bij het oprichten of tijdens de daaropvolgende financiering rondes.
 
-Het tweede principe is dat alle vormen van kapitaal even waardevol zijn. Dit betekent dat degenen die hun schaarse tijd en aandacht bijdragen door het produceren en selecteren van inhoud voor anderen net even waardevol zijn als degenen die hun schaars geld bijdragen. Dit is het zweet eigen vermogen principe<sup id="fnref:2"><a href="#fn:2" class="footnote-ref">2</a></sup> en is een concept waar voorafgaande cryptovaluta’s vaak moeite mee hadden met het te verstrekken aan meer dan enkele tientallen individuen.
+Het tweede principe is dat alle vormen van kapitaal even waardevol zijn. Dit betekent dat degenen die hun schaarse tijd en aandacht bijdragen door het produceren en selecteren van inhoud voor anderen net even waardevol zijn als degenen die hun schaars geld bijdragen. Dit is het zweet eigen vermogen principe[^2] en is een concept waar voorafgaande cryptovaluta’s vaak moeite mee hadden met het te verstrekken aan meer dan enkele tientallen individuen.
 
 Het derde principe is dat de gemeenschap producten produceert om haar leden te dienen. Dit principe word geïllustreerd door credit unions, voedsel co-ops, en het delen van gezondheid plannen, welke hun leden dienen in plaats van het verkopen van producten en diensten aan mensen buiten de gemeenschap.
 
@@ -56,7 +56,7 @@ Omdat de vrije markt een bewezen systeem is, is het verleidelijk om te proberen 
 
 Steem is ontworpen om effectieve microbetalingen voor alle soorten bijdragen in staat te stellen door het veranderen van de economische vergelijking. Lezers hoeven niet langer meer te beslissen of zij wel of niet iemand willen betalen uit hun eigen zak, in plaats daarvan kunnen ze inhoud omhoog of omlaag stemmen en Steem zal hun stemmen gebruiken om individuele beloningen te bepalen. Dit betekent dat mensen een gebruikelijke en bekende interface krijgen en niet langer de cognitieve, financiële en alternatieve kosten dragen die geassocieerd worden met traditionele microbetaling en fooi platformen.
 
-Stemmen inbreng van leden van de gemeenschap is van cruciaal belang voor Steem om nauwkeurige betalingen toe te wijzen aan medewerkers. Stemmen kan daarom worden gezien als een cruciale bijdrage en waardig voor beloningen op zichzelf. Sommige platformen, zoals Slashdot, gebruiken meta-moderatie <sup id="fnref:3"><a href="#fn:3" class="footnote-ref">3</a></sup> als een manier voor rangorde en het belonen van eerlijke moderators. Steem kiest er voor degenen te belonen die het meest bijdragen aan de totale promotie van een stuk inhoud en beloond de kiezers proportioneel aan de ultieme beloning betaald aan de maker van de inhoud.
+Stemmen inbreng van leden van de gemeenschap is van cruciaal belang voor Steem om nauwkeurige betalingen toe te wijzen aan medewerkers. Stemmen kan daarom worden gezien als een cruciale bijdrage en waardig voor beloningen op zichzelf. Sommige platformen, zoals Slashdot, gebruiken meta-moderatie [^3] als een manier voor rangorde en het belonen van eerlijke moderators. Steem kiest er voor degenen te belonen die het meest bijdragen aan de totale promotie van een stuk inhoud en beloond de kiezers proportioneel aan de ultieme beloning betaald aan de maker van de inhoud.
 
 Er zijn andere vormen van bijdrage die Steem herkent en beloont op basis van objectieve metriek. Onder deze zijn: transactie validatie, proof of work mining, liquiditeit beloningen en het aangeven van misdragende blok producenten.
 
@@ -167,7 +167,7 @@ STEEM and SP holders gain leverage when members of the community are willing to 
 
 ### Setting Price Feeds
 
-Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity<sup id="fnref:4"><a href="#fn:4" class="footnote-ref">4</a></sup> which states that it is impossible to have all three of the following at the same time:
+Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
 
 1. A stable exchange rate
 2. Free capital movement
@@ -217,7 +217,7 @@ Assume there is a fixed amount of money to distribute, and that those who have a
 
 The naive voting process creates a Prisoner's Dilemma whereby each individual voter has incentive to vote for themselves at the expense of the larger community goal. If every voter defects by voting for themselves then no currency will end up distributed and the currency as a whole will fail to gain network effect. On the other hand, if only one voter defects then that voter would win undeserved profits while having minimal effect on the overall value of the currency.
 
-In order to realign incentives and discourage individuals from simply voting for themselves, money must be distributed in a nonlinear manner. For example a quadratic function in votes, i.e., someone with twice the votes of someone else should receive four times the payout and someone with three times the votes should receive nine times the payout. In other words, the reward is proportional to \\(votes^{2}\\) rather than *votes*. This mirrors the value of network effect which grows with \\(n^{2}\\) the number of participants, according to Metcalfe's Law<sup id="fnref:5"><a href="#fn:5" class="footnote-ref">5</a></sup>.
+In order to realign incentives and discourage individuals from simply voting for themselves, money must be distributed in a nonlinear manner. For example a quadratic function in votes, i.e., someone with twice the votes of someone else should receive four times the payout and someone with three times the votes should receive nine times the payout. In other words, the reward is proportional to \\(votes^{2}\\) rather than *votes*. This mirrors the value of network effect which grows with \\(n^{2}\\) the number of participants, according to Metcalfe's Law[^5].
 
 Assuming all users have equal stake, someone who only receives their own vote will receive much less than someone who receives votes from 100 different users. This encourages users to *cooperate* to vote for the same things to maximize the payout. This system also creates financial incentive to *collude* where everyone votes on one thing and then divides the reward equally among themselves.
 
@@ -231,7 +231,7 @@ Fortunately, any work that is getting a large concentration of votes is also gai
 
 The use of *negative-voting* to keep people from abusing the system leverages the *crab mentality* that many people have when it is perceived that one individual is profiting at the expense of everyone else. While crab mentality normally refers to short-sighted people keeping good people down, it is also what allows good people to keep bad people down. The only "problem" with crab mentality is when people *wrongly believe* someone is profiting at everyone else's expense.
 
-> #### The Story of the Crab Bucket<sup id="fnref:6"><a href="#fn:6" class="footnote-ref">6</a></sup>
+> #### The Story of the Crab Bucket[^6]
 > 
 > A man was walking along the beach and saw another man fishing in the surf with a bait bucket beside him. As he drew closer, he saw that the bait bucket had no lid and had live crabs inside.
 > 
@@ -273,7 +273,7 @@ The actual distribution will depend upon the voting patterns of users, but we su
 
 \\(votes[x]^{2} / sum(votes[0...n]^{2})\\)
 
-Zipf's Law<sup id="fnref:7"><a href="#fn:7" class="footnote-ref">7</a></sup> is one of those empirical rules that characterize a surprising range of real-world phenomena remarkably well. It says that if we order some large collection by size or popularity, the second element in the collection will be about half the measure of the first one, the third one will be about one-third the measure of the first one, and so on. In general, the \\(k^{th}\\)-ranked item will measure about 1/k of the first one.
+Zipf's Law[^7] is one of those empirical rules that characterize a surprising range of real-world phenomena remarkably well. It says that if we order some large collection by size or popularity, the second element in the collection will be about half the measure of the first one, the third one will be about one-third the measure of the first one, and so on. In general, the \\(k^{th}\\)-ranked item will measure about 1/k of the first one.
 
 Taking popularity as a rough measure of value, then the value of each individual item is given by Zipf's Law. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
 
@@ -381,7 +381,7 @@ Imagine if the websites we use every day charged us a fee every time we modify o
 > A transaction can't be worth so much as to require a decision but worth so little that that decision is automatic. There is a certain amount of anxiety involved in any decision to buy, no matter how small, and it derives not from the interface used or the time required, but from the very act of deciding.  
 > Micropayments, like all payments, require a comparison: "Is this much of X worth that much of Y?" There is a minimum mental transaction cost created by this fact that cannot be optimized away, because the only transaction a user will be willing to approve with no thought will be one that costs them nothing, which is no transaction at all.
 > 
-> *- Clay Shirky<sup id="fnref:8"><a href="#fn:8" class="footnote-ref">8</a></sup>*
+> *- Clay Shirky[^8]*
 
 In the world of financial payments, small fees are acceptable because the value of the transaction is extremely high relative to the fee charged, and the buyer has already made a decision to buy. The world of potential blockchain applications is far greater than just financial payments and includes many necessary transactions for which fees are simply unacceptable to users.
 
@@ -397,7 +397,7 @@ Over time a network must adjust fees. This can happen either due to an increase 
 
 ### Sybil Attacks
 
-Centralized websites prevent spam through rate limiting and some form of ID verification. Even something as simple as reCAPTCHA <sup id="fnref:9"><a href="#fn:9" class="footnote-ref">9</a></sup> is sufficient to limit the creation of fake accounts. If someone abuses their account then centralized websites are free to block the account.
+Centralized websites prevent spam through rate limiting and some form of ID verification. Even something as simple as reCAPTCHA [^9] is sufficient to limit the creation of fake accounts. If someone abuses their account then centralized websites are free to block the account.
 
 In a decentralized system there is no direct way to ban users nor centralized provider able to host a reCAPTCHA and enforce rate limiting of accounts. In fact, the inability to censor users is one of the main selling points of blockchain technology.
 
@@ -444,7 +444,7 @@ The minimum reserve ratio is 1, and the maximum reserve ratio should be calculat
 
 ### Case Study: Bitcoin
 
-To understand how this algorithm would work on Bitcoin it is necessary to estimate a reasonable value for the reserve ratio, R, based on actual usage. Based upon the total supply of 15M BTC and a daily transaction volume of 400K BTC<sup id="fnref:10"><a href="#fn:10" class="footnote-ref">10</a></sup>, we can derive a minimum reserve ratio of 38 for Bitcoin. Using the equations we can calculate the weekly bandwidth (in bytes) allowed per BTC to be:
+To understand how this algorithm would work on Bitcoin it is necessary to estimate a reasonable value for the reserve ratio, R, based on actual usage. Based upon the total supply of 15M BTC and a daily transaction volume of 400K BTC[^10], we can derive a minimum reserve ratio of 38 for Bitcoin. Using the equations we can calculate the weekly bandwidth (in bytes) allowed per BTC to be:
 
     Let C = 1MB = 1024 * 1024
     Let L = 1008 (blocks per week)
@@ -482,9 +482,9 @@ Any initial account balance would have to come from the user creating the accoun
 
 ### Justifying Minimum Balances
 
-The concept of forcing users to maintain a minimum balance flows naturally from the value of a user<sup id="fnref:11"><a href="#fn:11" class="footnote-ref">11</a></sup> . Anyone running a business knows that every single user has significant value. Businesses spend anywhere from $30 to $200 to acquire a user. Sometimes they pay users directly, other times they pay for advertizing, and still other times entire companies are bought just for their user base. After a company acquires a user they often given them many *free services* just to keep them around long enough to monetize them through some other means.
+The concept of forcing users to maintain a minimum balance flows naturally from the value of a user[^11] . Anyone running a business knows that every single user has significant value. Businesses spend anywhere from $30 to $200 to acquire a user. Sometimes they pay users directly, other times they pay for advertizing, and still other times entire companies are bought just for their user base. After a company acquires a user they often given them many *free services* just to keep them around long enough to monetize them through some other means.
 
-Ripple uses a minimum balance<sup id="fnref:12"><a href="#fn:12" class="footnote-ref">12</a></sup> that scales with account resource use and requires that new accounts get funded with at least this minimum balance. Currently this minimum balance is about $0.15 which is greater than the $0.10 we estimated would allow someone to transact freely at least once per week.
+Ripple uses a minimum balance[^12] that scales with account resource use and requires that new accounts get funded with at least this minimum balance. Currently this minimum balance is about $0.15 which is greater than the $0.10 we estimated would allow someone to transact freely at least once per week.
 
 A blockchain can enforce a minimum value per user through the simple process of requiring a minimum balance. Any business that wishes to bring a new customer to the blockchain can pre-fund that user's account with the minimum balance that would allow them to transact. Requiring a relatively large fee ($1.00) to sign up new users will naturally force anyone offering free accounts to vet the quality and uniqueness of each account before registering them with the blockchain.
 
@@ -542,9 +542,9 @@ The Steem network is built upon Graphene, the same technology that powers BitSha
 
 ## Reddit Scale
 
-Steem is capable of handling a larger userbase than Reddit. In 2015 Reddit's 8.7 million users generated an average of 23 comments per second<sup id="fnref:13"><a href="#fn:13" class="footnote-ref">13</a></sup> , with an average of 83 comments per year per user. There were 73 million top-level posts, for an average of 2 new posts per second. There were about 7 billion up votes creating an average voting rate of 220 votes per second. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
+Steem is capable of handling a larger userbase than Reddit. In 2015 Reddit's 8.7 million users generated an average of 23 comments per second[^13] , with an average of 83 comments per year per user. There were 73 million top-level posts, for an average of 2 new posts per second. There were about 7 billion up votes creating an average voting rate of 220 votes per second. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
 
-To achieve this industry-leading performance, Steem has borrowed lessons learned from the LMAX Exchange<sup id="fnref:14"><a href="#fn:14" class="footnote-ref">14</a></sup>, which is able to process 6 million transactions per second. Among these lessons are the following key points:
+To achieve this industry-leading performance, Steem has borrowed lessons learned from the LMAX Exchange[^14], which is able to process 6 million transactions per second. Among these lessons are the following key points:
 
 1. Keep everything in memory.
 2. Keep the core business logic in a single thread.
@@ -554,7 +554,7 @@ To achieve this industry-leading performance, Steem has borrowed lessons learned
 
 By following these simple rules, Steem is able to process 10,000 transactions per second without any significant effort devoted to optimization.
 
-Keeping everything in memory is increasingly viable given the recent introduction of Optanetechnology from Intel <sup id="fnref:15"><a href="#fn:15" class="footnote-ref">15</a></sup>. It should be possible for commodity hardware to handle all of the business logic associated with Steem in a single thread with all posts kept in memory for rapid indexing. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optanetechnology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
+Keeping everything in memory is increasingly viable given the recent introduction of Optanetechnology from Intel [^15]. It should be possible for commodity hardware to handle all of the business logic associated with Steem in a single thread with all posts kept in memory for rapid indexing. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optanetechnology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
 
 # Allocation & Supply
 
@@ -586,13 +586,13 @@ The overall supply picture is complicated by the effect of SMD operations, which
 
 ## Impact of Token Creation Rate
 
-At first glance, 100% annual increase in the STEEM supply may appear to be hyper-inflationary and unsustainable. Those who follow the Quantity Theory of Money<sup id="fnref:16"><a href="#fn:16" class="footnote-ref">16</a></sup> may even conclude that the value of STEEM must fall by approximately 5.6% per month. We know from countless real-world examples that the quantity of money does not have a direct and immediate impact on its value, though it certainly plays a role.
+At first glance, 100% annual increase in the STEEM supply may appear to be hyper-inflationary and unsustainable. Those who follow the Quantity Theory of Money[^16] may even conclude that the value of STEEM must fall by approximately 5.6% per month. We know from countless real-world examples that the quantity of money does not have a direct and immediate impact on its value, though it certainly plays a role.
 
 Because 90% of all STEEM created is distributed back to holders of SP, the result is similar to having a 2:1 "split" every year rather true inflation. The total rate of expenditures used to reward contributors is about 10% of the market capitalization per year, a rate well below what Bitcoin sustained for the first 7 years after it launched.
 
 Creating new STEEM to pay an incentive to a particular user or group has a negative effect on every other user's balance in terms of their percentage of the STEEM supply. If exactly 90% of the STEEM supply is held in SP, then the negative effect of Contribution Incentives on SP holders' balances is exactly balanced by the positive effect of Power Incentives; SP holders get more STEEM (in nominal terms) but their percentage of the chain (in terms of fraction of the total supply) is unchanged. If less (more) than 90% of the STEEM supply is held as SP, the two effects still point in opposite directions, but the positive (negative) effect becomes greater and the sum of these two effects will tend to pull the SP balance toward 90%. This "pull" does not mean that the SP value must hold at 90% over the long term, because incentive recipients will (and in some cases must) put their STEEM in SP, which means the "pull" towards 90% is not the only force on the percentage of STEEM supply held as SP.
 
-From August 2008 through January 2009 the U.S. money supply<sup id="fnref:17"><a href="#fn:17" class="footnote-ref">17</a></sup> grew from $871B to $1,737B, a rate of over 100% per year and then continued to grow at about 20% per year for the next 6 years. All told the money supply in the U.S. has grown by 4.59x over less than 7 years. During that same time, the value of the dollar relative to goods and services has fallen less than 10% according to the government's price index <sup id="fnref:18"><a href="#fn:18" class="footnote-ref">18</a></sup> . This real-world example demonstrates that supply is only one component of price.
+From August 2008 through January 2009 the U.S. money supply[^17] grew from $871B to $1,737B, a rate of over 100% per year and then continued to grow at about 20% per year for the next 6 years. All told the money supply in the U.S. has grown by 4.59x over less than 7 years. During that same time, the value of the dollar relative to goods and services has fallen less than 10% according to the government's price index [^18] . This real-world example demonstrates that supply is only one component of price.
 
 The price of a digital commodity, like STEEM, is driven by both supply and demand. If new STEEM is allocated to those who are holding long-term then the increase in supply is offset by the corresponding demand to hold. The impact of this change in supply is postponed until a future date when the long-term holder decides to sell. The sell pressure is then distributed over 2 years.
 
@@ -600,7 +600,7 @@ When a long-term holder decides to exit, the supply of STEEM on the market will 
 
 Of the 100% annual increase in the virtual STEEM supply, 5% of it is in the form of Steem Dollars (SMD). SMD represents a commitment to create a dollar's worth of STEEM in the future and does not impact the amount of STEEM on the market today. The change in debt-to-ownership ratio may impact the perceived value of STEEM, but it does not map directly into a fall in the value of STEEM. If the value of Steem rises over time, then the amount of STEEM that may be created in the future will be less and the corresponding "inflation" never actually happened.
 
-All told the total "spending" Steem does to fund content, curation, mining, and liquidity rewards amounts to just 10% APR or 1.2% per month. The same wealth transfer could be implemented without any change in the STEEM supply by implementing a negative interest rate on liquid STEEM of around 10% per month. Stated another way, it could be implemented by charging a 3% fee (similar to credit cards) on every transfer and having 1% of all STEEM transferred every single day. The Bitcoin network transfers<sup id="fnref:19"><a href="#fn:19" class="footnote-ref">19</a></sup> 400,000 BTC out of 15.5M (or 2.5% daily).
+All told the total "spending" Steem does to fund content, curation, mining, and liquidity rewards amounts to just 10% APR or 1.2% per month. The same wealth transfer could be implemented without any change in the STEEM supply by implementing a negative interest rate on liquid STEEM of around 10% per month. Stated another way, it could be implemented by charging a 3% fee (similar to credit cards) on every transfer and having 1% of all STEEM transferred every single day. The Bitcoin network transfers[^19] 400,000 BTC out of 15.5M (or 2.5% daily).
 
 The purpose of liquid STEEM is to facilitate changes in ownership between long-term holders. It is this change in ownership that the network "taxes" to fund growth. This transfer tax can be avoided almost completely by automatically selling STEEM for SMD every week as the network converts SP back to STEEM. The total time spent holding STEEM will be so small that any impact of changing STEEM supply will be insigni cant next to volatility and other market fees.
 
@@ -608,7 +608,7 @@ The purpose of liquid STEEM is to facilitate changes in ownership between long-t
 
 As of May 1, 2016, over 98.49% of all STEEM has been converted to SP. This demonstrates that demand to hold long term dominates. In this environment both liquid STEEM and SP are diluted to fund rewards.
 
-For the first 2 years of Bitcoin's life the network sustained an annual inflation rate<sup id="fnref:20"><a href="#fn:20" class="footnote-ref">20</a></sup> of over 100%. For the first 5 years it was over 30%, and for the first 8 years it was over 10%. According to the tool for estimating future inflation included with the Steem source code, Steem by contrast will achieve an instantaneous annual rate of approximately 12% after just 1 year (not including the effects of SMD operations).
+For the first 2 years of Bitcoin's life the network sustained an annual inflation rate[^20] of over 100%. For the first 5 years it was over 30%, and for the first 8 years it was over 10%. According to the tool for estimating future inflation included with the Steem source code, Steem by contrast will achieve an instantaneous annual rate of approximately 12% after just 1 year (not including the effects of SMD operations).
 
 ### Accounting In Steem
 
@@ -626,7 +626,7 @@ Steem recognizes that the value of all user contributions (posts and votes) is g
 
 Because everyone benefits, everyone should pay. In other words, no individual user should be expected to pay for anything, but instead should be paid for everything they do that brings value to Steem. All we need to do is ascertain which user contributions bring a social network value and which ones don't.
 
-Collectively Reddit users vote 220 times per second and make 23 posts per second. Reddit is valued between $500 million<sup id="fnref:21"><a href="#fn:21" class="footnote-ref">21</a></sup> and $4 billion<sup id="fnref:22"><a href="#fn:22" class="footnote-ref">22</a></sup> which means that each and every upvote and post is worth between $0.06 and $0.50 assuming the value of Reddit is mostly within the past year's worth of activity. One could argue that most of the value of Reddit is the near-real-time discussions that have occurred within the past week which would dramatically increase the value of new activity. People go where people are today, not where people were last year.
+Collectively Reddit users vote 220 times per second and make 23 posts per second. Reddit is valued between $500 million[^21] and $4 billion[^22] which means that each and every upvote and post is worth between $0.06 and $0.50 assuming the value of Reddit is mostly within the past year's worth of activity. One could argue that most of the value of Reddit is the near-real-time discussions that have occurred within the past week which would dramatically increase the value of new activity. People go where people are today, not where people were last year.
 
 ## No Micropayments, Tips Optional
 
@@ -640,7 +640,7 @@ The mental energy associated with making an economic decision becomes a barrier 
 
 > *We already face a multitude of choices everyday with regards to what to access online in this digital era of the information explosion, and every additional decision that we must make simply adds on to the uncertainty and anxiety we face. Micropayment supporters believe that a simplified implementation can minimize the intrusiveness of micropayments and improve user experience, but their argument only creates double standards for the decision making process \[2\]. A transaction cannot simultaneously be worth enough to warrant a decision and worth so little that the decision is automatic. **The only transactions that users can approve without thought are ones that cost them nothing**, thus any micro-transaction of positive value will incur mental costs through its requiring a decision. Furthermore, mental transaction costs actually rise below a certain threshold value, a phenomenon that places micropayments at an even greater disadvantage. For instance, it is easy to think that a copy of today's newspapers costs $1, but readers face much more difficulty and anxiety in deciding on the value of each article or word. Such a dilemma will only be replicated and exacerbated if all online content were to be broken down into their components and individually valued within a micropayment system.*
 > 
-> *- Micropayments: A Viable Business Model <sup id="fnref:23"><a href="#fn:23" class="footnote-ref">23</a></sup>*
+> *- Micropayments: A Viable Business Model [^23]*
 
 Under Steem, micropayments are paid to content producer, but those who vote for the content do not pay. Instead, the cost of the reward is paid for via new tokens. Someone can join the system, vote to pay someone, and then exit the system with more money than they started with (assuming the market valuation of the Steem system remained constant). In other words, the micropayment solution provided by Steem provides a user-experience similar to many widely used websites that have user-moderated content.
 
@@ -658,7 +658,7 @@ By incentivising curation the Steem network is able to use automated algorithms 
 
 ## Solving the Cryptocurrency Onboarding Problem
 
-It isn't easy to get into cryptocurrency<sup id="fnref:24"><a href="#fn:24" class="footnote-ref">24</a></sup> . Someone who discovers Bitcoin and wants to try it out quickly learns that they will need to sign up with an exchange and fund their account with a credit card or wire transfer. What would Facebook's adoption rate have been like if you had to fork over money and a two forms of ID?
+It isn't easy to get into cryptocurrency[^24] . Someone who discovers Bitcoin and wants to try it out quickly learns that they will need to sign up with an exchange and fund their account with a credit card or wire transfer. What would Facebook's adoption rate have been like if you had to fork over money and a two forms of ID?
 
 Steem solves this problem by giving everyone a way to get paid for doing simple, but valuable, tasks. This will help to widely distribute STEEM tokens. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless).
 
@@ -704,74 +704,50 @@ Steem is an experiment designed to address challenges in the cryptocurrency and 
 
 # References
 
-[^1]:    
-    Reddit's Cryptocurrency, Forbes, Erika Morphy, October 2014, <http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/#4e07b05332b9>&#160;[&#8617;](#fnref:1){.footnote-backref}
+[^1]: Reddit's Cryptocurrency, Forbes, Erika Morphy, October 2014, <http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/#4e07b05332b9>
 
-[^2]:    
-    Sweat Equity, Investopedia, <http://www.investopedia.com/terms/s/sweatequity.asp>&#160;[&#8617;](#fnref:2){.footnote-backref}
+[^2]: Sweat Equity, Investopedia, <http://www.investopedia.com/terms/s/sweatequity.asp>
 
-[^3]:    
-    **Meta-moderation** is a second level of comment moderation. Users are invited to rate a moderator's decision in order to improve moderation. <https://en.wikipedia.org/wiki/Meta-moderation_system>&#160;[&#8617;](#fnref:3){.footnote-backref}
+[^3]: **Meta-moderation** is a second level of comment moderation. Users are invited to rate a moderator's decision in order to improve moderation. <https://en.wikipedia.org/wiki/Meta-moderation_system>
 
-[^4]:    
-    The Impossible Trinity, economic theory <https://en.wikipedia.org/wiki/Impossible_trinity>&#160;[&#8617;](#fnref:4){.footnote-backref}
+[^4]: The Impossible Trinity, economic theory <https://en.wikipedia.org/wiki/Impossible_trinity>
 
-[^5]:    
-    Metcalfe's Law <https://en.wikipedia.org/wiki/Metcalfe%27s_law>&#160;[&#8617;](#fnref:5){.footnote-backref}
+[^5]: Metcalfe's Law <https://en.wikipedia.org/wiki/Metcalfe%27s_law>
 
-[^6]:    
-    The Story of the Crab Bucket, <http://guidezone.e-guiding.com/jmstory_crabs.htm>&#160;[&#8617;](#fnref:6){.footnote-backref}
+[^6]: The Story of the Crab Bucket, <http://guidezone.e-guiding.com/jmstory_crabs.htm>
 
-[^7]:    
-    Zipf's Law <https://en.wikipedia.org/wiki/Zipf%27s_law>&#160;[&#8617;](#fnref:7){.footnote-backref}
+[^7]: Zipf's Law <https://en.wikipedia.org/wiki/Zipf%27s_law>
 
-[^8]:    
-    Clay Shirky, The Case Against Micropayments<http://www.openp2p.com/pub/a/p2p/2000/12/19/micropayments.html>&#160;[&#8617;](#fnref:8){.footnote-backref}
+[^8]: Clay Shirky, The Case Against Micropayments<http://www.openp2p.com/pub/a/p2p/2000/12/19/micropayments.html>
 
-[^9]:    
-    reCAPTCHA, Easy on Humans, Hard on Bots<https://www.google.com/recaptcha/intro/index.html>&#160;[&#8617;](#fnref:9){.footnote-backref}
+[^9]: reCAPTCHA, Easy on Humans, Hard on Bots<https://www.google.com/recaptcha/intro/index.html>
 
-[^10]:    
-    Bitcoin Estimated Transaction Volume<https://blockchain.info/charts/estimated-transaction-volume?showD>&#160;[&#8617;](#fnref:10){.footnote-backref}
+[^10]: Bitcoin Estimated Transaction Volume<https://blockchain.info/charts/estimated-transaction-volume?showD>
 
-[^11]:    
-    Forbes, Tristan Louis, "How Much is a User Worth?"<http://www.forbes.com/sites/tristanlouis/2013/08/31/how-much-is-a-us>&#160;[&#8617;](#fnref:11){.footnote-backref}
+[^11]: Forbes, Tristan Louis, "How Much is a User Worth?"<http://www.forbes.com/sites/tristanlouis/2013/08/31/how-much-is-a-us>
 
-[^12]:    
-    Ripple, Account Reserves<https://ripple.com/build/reserves/>&#160;[&#8617;](#fnref:12){.footnote-backref}
+[^12]: Ripple, Account Reserves<https://ripple.com/build/reserves/>
 
-[^13]:    
-    Reddit Statistics, Number of Users and Comments per Second<http://expandedramblings.com/index.php/reddit-stats/2/>&#160;[&#8617;](#fnref:13){.footnote-backref}
+[^13]: Reddit Statistics, Number of Users and Comments per Second<http://expandedramblings.com/index.php/reddit-stats/2/>
 
-[^14]:    
-    Martin Fowler, The LMAX Architecture<http://martinfowler.com/articles/lmax.html>&#160;[&#8617;](#fnref:14){.footnote-backref}
+[^14]: Martin Fowler, The LMAX Architecture<http://martinfowler.com/articles/lmax.html>
 
-[^15]:    
-    Introducing Intel Optane Technology - Bringing 3D XPoint Memory to Storage and Memory Products<https://newsroom.intel.com/press-kits/introducing-intel-optane-technology-bringing-3d-xpoint-memory-to-storage-and-memory-products/>&#160;[&#8617;](#fnref:15){.footnote-backref}
+[^15]: Introducing Intel Optane Technology - Bringing 3D XPoint Memory to Storage and Memory Products<https://newsroom.intel.com/press-kits/introducing-intel-optane-technology-bringing-3d-xpoint-memory-to-storage-and-memory-products/>
 
-[^16]:    
-    Quantity Theory of Money,<http://www.investopedia.com/articles/05/010705.asp>&#160;[&#8617;](#fnref:16){.footnote-backref}
+[^16]: Quantity Theory of Money,<http://www.investopedia.com/articles/05/010705.asp>
 
-[^17]:    
-    United States Money Supply, 2009<https://research.stlouisfed.org/fred2/graph/?s%5B1%5D%5Bid%5D=AMBNS>&#160;[&#8617;](#fnref:17){.footnote-backref}
+[^17]: United States Money Supply, 2009<https://research.stlouisfed.org/fred2/graph/?s%5B1%5D%5Bid%5D=AMBNS>
 
-[^18]:    
-    CPI Inflation Index, United States Dollar 2008-2016<http://data.bls.gov/cgi-bin/cpicalc.pl?cost1=1&year1=2008&year2=2016>&#160;[&#8617;](#fnref:18){.footnote-backref}
+[^18]: CPI Inflation Index, United States Dollar 2008-2016<http://data.bls.gov/cgi-bin/cpicalc.pl?cost1=1&year1=2008&year2=2016>
 
-[^19]:    
-    Bitcoin Transaction Volume<https://blockchain.info/charts/estimated-transaction-volume>&#160;[&#8617;](#fnref:19){.footnote-backref}
+[^19]: Bitcoin Transaction Volume<https://blockchain.info/charts/estimated-transaction-volume>
 
-[^20]:    
-    Bitcoin Annual In ation Rate, Bitcoin Talk Forum<https://bitcointalk.org/index.php?topic=130619.0>&#160;[&#8617;](#fnref:20){.footnote-backref}
+[^20]: Bitcoin Annual In ation Rate, Bitcoin Talk Forum<https://bitcointalk.org/index.php?topic=130619.0>
 
-[^21]:    
-    Reddit Valuaton, Newsweek, 2014<http://www.newsweek.com/investors-think-reddit-worth-500-million-26>&#160;[&#8617;](#fnref:21){.footnote-backref}
+[^21]: Reddit Valuaton, Newsweek, 2014<http://www.newsweek.com/investors-think-reddit-worth-500-million-26>
 
-[^22]:    
-    Worth of Web, March 2016<http://www.worthofweb.com/website-value/reddit.com/>&#160;[&#8617;](#fnref:22){.footnote-backref}
+[^22]: Worth of Web, March 2016<http://www.worthofweb.com/website-value/reddit.com/>
 
-[^23]:    
-    Micropayments: A Viable Business Model<http://cs.stanford.edu/people/eroberts/cs181/projects/2010-11/Microp>&#160;[&#8617;](#fnref:23){.footnote-backref}
+[^23]: Micropayments: A Viable Business Model<http://cs.stanford.edu/people/eroberts/cs181/projects/2010-11/Microp>
 
-[^24]:    
-    Dailydot, Jon Southurt, April 2015<http://www.dailydot.com/opinion/bitcoin-cryptocurrency-adoption-hard>&#160;[&#8617;](#fnref:24){.footnote-backref}
+[^24]: Dailydot, Jon Southurt, April 2015<http://www.dailydot.com/opinion/bitcoin-cryptocurrency-adoption-hard>

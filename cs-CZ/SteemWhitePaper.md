@@ -18,11 +18,11 @@ Steem je blockchainová databáze, která podporuje budování společenství a 
 
 # Úvod
 
-Celkově vytvořil obsah generovaný uživateli pro akcionáře společností poskytující sociální média hodnoty v ceně miliard dolarů, například Reddit, Facebook a Twitter. **V roce 2014 Reddit předpokládal, že jejich platforma by se zlepšila, pokud by každý kdo přispěl k reddit.com publikováním příběhu, přidáním komentáře a hlasováním byl odměněn spravedlivým podílem na Reddit, Inc.<sup id="fnref:1"><a href="#fn:1" class="footnote-ref">1</a></sup>**. Steem se zaměřuje na podporu sociálních médií a online komunit tím, že vrací mnoho ze své hodnoty lidem, kteří poskytují cenné příspěvky tak, že je odměňuje kryptoměnou a v tomto procesu vytváří měnu, která je schopna dosáhnout na široký trh včetně lidí, kteří se dosud na kryptoměnném hospodářství nepodíleli.
+Celkově vytvořil obsah generovaný uživateli pro akcionáře společností poskytující sociální média hodnoty v ceně miliard dolarů, například Reddit, Facebook a Twitter. **V roce 2014 Reddit předpokládal, že jejich platforma by se zlepšila, pokud by každý kdo přispěl k reddit.com publikováním příběhu, přidáním komentáře a hlasováním byl odměněn spravedlivým podílem na Reddit, Inc.[^1]**. Steem se zaměřuje na podporu sociálních médií a online komunit tím, že vrací mnoho ze své hodnoty lidem, kteří poskytují cenné příspěvky tak, že je odměňuje kryptoměnou a v tomto procesu vytváří měnu, která je schopna dosáhnout na široký trh včetně lidí, kteří se dosud na kryptoměnném hospodářství nepodíleli.
 
 Nyní některé klíčové principy, které byly použity jako vodítko při navrhování Steemu. Nejdůležitější zásadou je, že každý kdo přispívá k podniku by měl dostávat poměrný podíl vlastnictví, platbu nebo dlužní úpis podniku. Tento princip je stejný princip, který je aplikován na všechny startupech, neboť ty přidělují akcie při založení a během následných kol financování.
 
-Druhou zásadou je, že všechny formy kapitálu jsou stejně hodnotné. To znamená, že ti kteří přispívají svým nedostatkovým časem a pozorností k výrobě a správě obsahu jsou stejně hodnotní jako ti, kteří přispívají svými omezenými peněžními prostředky. To je princip „Sweat equity“<sup id="fnref:2"><a href="#fn:2" class="footnote-ref">2</a></sup> a je to koncept, který předchozí kryptoměny často poskytly sotva více než několika desítkám jedinců.
+Druhou zásadou je, že všechny formy kapitálu jsou stejně hodnotné. To znamená, že ti kteří přispívají svým nedostatkovým časem a pozorností k výrobě a správě obsahu jsou stejně hodnotní jako ti, kteří přispívají svými omezenými peněžními prostředky. To je princip „Sweat equity“[^2] a je to koncept, který předchozí kryptoměny často poskytly sotva více než několika desítkám jedinců.
 
 Třetím principem je, že komunita produkuje výrobky sloužící svým členům. Tento princip je ilustrován úvěrovými a spotřebními družstvy nebo plány na sdílení zdravotní péče, které více slouží členům své komunity než prodávají produkty nebo služby lidem mimo komunitu.
 
@@ -56,7 +56,7 @@ Protože volný trh je vyzkoušený systém, je lákavé vytvořit systém voln�
 
 Steem je vytvořen tak, aby umožnil efektivní mikroplatby za všechny druhy příspěvků změnou způsobu ekonomického vyrovnání. Čtenáři se již nemusí rozhodovat, zda si přejí nebo nepřejí někoho platit ze své vlastní kapsy. Místo toho mohou hlasovat pro nebo proti obsahu a Steem použije jejich hlasy k výpočtu individuální odměny. To znamená, že uživatelé obdrží známé a široce používané rozhraní a již nečelí nepohodlí a nákladům spojeným s tradiční platformou používající mikroplatby.
 
-Hlasování je pro Steem kriticky důležité, aby mohl přesně rozdělit platby přispěvatelům. Na hlasování je tedy třeba pohlížet jako na důležitý příspěvek, který je hoden odměny sám o sobě. Některé platformy, jako Slashdot, používají meta-moderaci <sup id="fnref:3"><a href="#fn:3" class="footnote-ref">3</a></sup> jako způsob, jak odměnit čestné moderátory. Steem se rozhodl odměňovat ty kdo přispívají nejvíce k celkové propagaci kousku obsahu a odměňovat hlasující proporcionálně ke konečné odměně vyplacené tvůrci obsahu.
+Hlasování je pro Steem kriticky důležité, aby mohl přesně rozdělit platby přispěvatelům. Na hlasování je tedy třeba pohlížet jako na důležitý příspěvek, který je hoden odměny sám o sobě. Některé platformy, jako Slashdot, používají meta-moderaci [^3] jako způsob, jak odměnit čestné moderátory. Steem se rozhodl odměňovat ty kdo přispívají nejvíce k celkové propagaci kousku obsahu a odměňovat hlasující proporcionálně ke konečné odměně vyplacené tvůrci obsahu.
 
 Jsou i další formy příspěvků, které Steem uznává a odměňuje s použitím objektivního měřítka. Jsou to: validace transakcí, těžba pomocí proof-of-work, odměny za poskytnutí likvidity a hlášení chybného chování producentů bloků.
 
@@ -167,7 +167,7 @@ Když jsou členové komunity ochotni držet SMD, držitelé STEEM a SP získaj�
 
 ### Udržitelnost poměru dluhu k vlastnictví
 
-Chytrý čtenář rozpozná, že aktivum omezeného množství které vynáší úrok se může obchodovat výše či níže než podkladové aktivum v závislosti na ostatních příležitostech jak vydělat úrok na tomto aktivu. Když je za aktivum vázané k US dolaru placen vysoký úrok, mnoho lidí bude poptávat omezené množství SMD až přestane být cena rovna 1$. V ekonomice je známý princip zvaný „Nemožná trojice“<sup id="fnref:4"><a href="#fn:4" class="footnote-ref">4</a></sup>, který stanoví, že není možno mít zároveň všechny tři následující vlastnosti ve stejný čas:
+Chytrý čtenář rozpozná, že aktivum omezeného množství které vynáší úrok se může obchodovat výše či níže než podkladové aktivum v závislosti na ostatních příležitostech jak vydělat úrok na tomto aktivu. Když je za aktivum vázané k US dolaru placen vysoký úrok, mnoho lidí bude poptávat omezené množství SMD až přestane být cena rovna 1$. V ekonomice je známý princip zvaný „Nemožná trojice“[^4], který stanoví, že není možno mít zároveň všechny tři následující vlastnosti ve stejný čas:
 
 1. Stabilní kurz
 2. Volný pohyb kapitálu
@@ -217,7 +217,7 @@ Předpokládejme, že existuje pevná suma peněz k distribuci a že ti kdo maj�
 
 Tento naivní hlasovací proces vytváří vězeňské dilema, kdy každý jednotlivý hlasující má důvod hlasovat pro sebe na úkor cílů širší komunity. Pokud by každý hlasující „zběhl“ a hlasoval pro sebe, tak by se nedistribuovala žádná měna a měna jako celek by nezískala síťový efekt. Na druhou stranu pokud by to dělal jen jeden hlasující, tak by získal nezasloužený zisk, zatímco by to mělo na celkovou hodnotu měny jen malý vliv.
 
-Pro reorganizaci pobídek a odrazení jednotlivců od hlasování pro sebe musí být peníze distribuovány nelineárním způsobem. Třeba kvadratická funkce v hlasování jako například někdo s dvojnásobkem hlasů než někdo jiný obdrží čtyřnásobnou výplatu a někdo s trojnásobkem hlasů obdrží devítinásobnou výplatu. Jinými slovy odměna je úměrná hlasům nadruhou a ne *hlasům*. To zrcadlí hodnotu síťového efektu který dle Metcalfova zákona<sup id="fnref:5"><a href="#fn:5" class="footnote-ref">5</a></sup> roste s n na druhou \\(n^{2}\\) (počet účastníků).
+Pro reorganizaci pobídek a odrazení jednotlivců od hlasování pro sebe musí být peníze distribuovány nelineárním způsobem. Třeba kvadratická funkce v hlasování jako například někdo s dvojnásobkem hlasů než někdo jiný obdrží čtyřnásobnou výplatu a někdo s trojnásobkem hlasů obdrží devítinásobnou výplatu. Jinými slovy odměna je úměrná hlasům nadruhou a ne *hlasům*. To zrcadlí hodnotu síťového efektu který dle Metcalfova zákona[^5] roste s n na druhou \\(n^{2}\\) (počet účastníků).
 
 Za předpokladu, že všichni uživatelé mají stejný podíl, tak ten kdo obdrží jen svoje hlasy získá mnohem méně než ten, kdo obdrží hlasy 100 různých jiných účastníků. To povzbuzuje účastníky pro maximalizaci výplaty ke *spolupráci* na hlasování pro stejné věci. Tento systém také vytváři finanční pobídku k *tajné spolupráci*, kdy všichni hlasují pro jednu věc a pak si mezi sebe rozdělí odměnu rovným dílem.
 
@@ -231,7 +231,7 @@ Naštěstí každá práce která dostává velkou koncentraci hlasů též zís
 
 Použití *negativního* hlasování k odrazení lidí od zneužívání systému násobí *krabí mentalitu* kterou má mnoho lidí když si uvědomí, že jednotlivec profituje na úkor někoho jiného. Zatímco krabí mentalita normálně označuje krátkozraké lidí kteří sráží dobré lidí je to též to, co umožňuje dobrým lidem srazit ty špatné. Jediný problém s krabí mentalitou je, když lidé *chybně věří,* že někdo profituje na úkor někoho jiného.
 
-> #### Příběh vědra plného krabů<sup id="fnref:6"><a href="#fn:6" class="footnote-ref">6</a></sup>
+> #### Příběh vědra plného krabů[^6]
 > 
 > Muž kráčel po pláži a viděl jiného muže rybařit v příboji a ten za sebou měl vědro. Jak přišel blíž viděl, že vědro na nástrahu je bez víka a plné krabů.
 > 
@@ -273,7 +273,7 @@ Skutečná distribuce bude záviset na způsobu hlasování uživatelů, ale dom
 
 \\(hlasy[x]^{2} / součet(hlasy[0...n]^{2})\\)
 
-Zipfův zákon<sup id="fnref:7"><a href="#fn:7" class="footnote-ref">7</a></sup> je jedno z těch empirických pravidel, které charakterizuje překvapivý rozsah fenoménů reálného světa pozoruhodně dobře. Říká, že pokud seřadíme nějaký velký soubor podle velikosti nebo oblíbenosti, druhý prvek v souboru bude okolo poloviny velikosti prvního, třetí bude okolo třetiny velikosti prvního atd. Obecně prvek na pozici k bude měřit okolo 1/k toho prvního.
+Zipfův zákon[^7] je jedno z těch empirických pravidel, které charakterizuje překvapivý rozsah fenoménů reálného světa pozoruhodně dobře. Říká, že pokud seřadíme nějaký velký soubor podle velikosti nebo oblíbenosti, druhý prvek v souboru bude okolo poloviny velikosti prvního, třetí bude okolo třetiny velikosti prvního atd. Obecně prvek na pozici k bude měřit okolo 1/k toho prvního.
 
 Pokud vezmeme popularitu jako hrubé měřítko ceny, pak hodnota každé jednotlivé položky je daná Zipfovým zákonem. To jest pokud máme milión položek, pak nejpopulárnějších 100 přispěje k celkové hodnotě 1/3, dalších 10 000 další třetinou a zbylých 989 900 poslední třetinou. Hodnota kolekce n položek je úměrná log(n).
 
@@ -381,7 +381,7 @@ Představte si, že by nám webová stránka kterou denně používáme účtova
 > Transakce nemůže stát tolik, aby požadovala učinit rozhodnutí, ale tak málo, aby rozhodnutí bylo automatické. Každé rozhodnutí o nákupu je spojeno s určitou dávkou obav bez ohledu na velikost a je odvozeno nikoliv od použitého rozhraní nebo nutného času, ale od samotného aktu rozhodování.  
 > Mikroplatby stejně jako všechny platby vyžadují srovnání: „ Má toto množství X cenu tohoto množství Y?“ Tímto faktem je vytvořen minimální mentální transakční poplatek, který nemůže být optimalizován na nulu. Jediná transakce, kterou je schopen uživatel schválit bez přemýšlení je taková, která ho nic nestojí, což vlastně není transakce.
 > 
-> *- Clay Shirky<sup id="fnref:8"><a href="#fn:8" class="footnote-ref">8</a></sup>*
+> *- Clay Shirky[^8]*
 
 Ve světě finančních plateb jsou malé poplatky akceptovatelné, protože hodnota transakce je extrémně vysoká ve srovnání s účtovaným poplatkem a kupec již učinil rozhodnutí koupit. Svět potenciálních blockchainových aplikací je mnohem větší než jen finanční platby a zahrnuje mnoho nezbytných transakcí, u kterých jsou poplatky uživatelům prostě nepřijatelné.
 
@@ -397,7 +397,7 @@ Jakékoliv poplatky tvoří zábranu vstupu novým uživatelům. Než někdo mů
 
 ### Spam útoky
 
-Centralizovaná webová stránka se brání spamu omezením rychlosti a nějakou formou identifikace. Dokonce i něco tak jednoduchého jako reCAPTCHA<sup id="fnref:9"><a href="#fn:9" class="footnote-ref">9</a></sup> je dostatečné pro omezení tvorby falešných účtů. Pokud někdo svůj účet zneužívá, tak centralizované webové stránky mohou blokovat tento účet.
+Centralizovaná webová stránka se brání spamu omezením rychlosti a nějakou formou identifikace. Dokonce i něco tak jednoduchého jako reCAPTCHA[^9] je dostatečné pro omezení tvorby falešných účtů. Pokud někdo svůj účet zneužívá, tak centralizované webové stránky mohou blokovat tento účet.
 
 V decentralizovaném systému není přímá cesta, jak zakázat uživatele, ani centralizovaný poskytovatel schopný použít reCAPTCHA a vynutit omezení přístupu jednotlivých účtů. Ve skutečnosti neschopnost cenzury uživatelů je hlavní prodejní argument blockchainové technologie.
 
@@ -444,7 +444,7 @@ Minimální poměr rezervy je 1 a maximální poměr rezervy by měl být spočt
 
 ### Případová studie: Bitcoin
 
-K porozumění, jak by tento algoritmus pracoval v Bitcoinu, je nezbytné odhadnout rozumnou hodnotu rezervního poměru R, založeného na současném využití. Pokud vezmeme celkovou zásobu 15 miliónů BTC a denní objem transakcí 400 tisíc BTC<sup id="fnref:10"><a href="#fn:10" class="footnote-ref">10</a></sup>, můžeme odvodit minimální poměr rezerv pro Bitcoin 38. Za použití rovnice můžeme kalkulovat týdenní šířku pásma (v bytech) na jeden BTC:
+K porozumění, jak by tento algoritmus pracoval v Bitcoinu, je nezbytné odhadnout rozumnou hodnotu rezervního poměru R, založeného na současném využití. Pokud vezmeme celkovou zásobu 15 miliónů BTC a denní objem transakcí 400 tisíc BTC[^10], můžeme odvodit minimální poměr rezerv pro Bitcoin 38. Za použití rovnice můžeme kalkulovat týdenní šířku pásma (v bytech) na jeden BTC:
 
     Let C = 1MB = 1024 * 1024
     Let L = 1008 (bloky za týden)
@@ -482,9 +482,9 @@ Jakýkoliv počáteční zůstatek na účtu by měl pocházet od uživatele zak
 
 ### Opodstatněnost minimálních zůstatků
 
-Přístup nutící uživatele udržovat minimální zůstatek vyplývá přirozeně z hodnoty uživatele<sup id="fnref:11"><a href="#fn:11" class="footnote-ref">11</a></sup>. Kdokoliv kdo podniká zná, že každý jednotlivý uživatel má podstatnou cenu. Podniky utratí něco mezi 30 až 200 USD za získání uživatele. Někdy platí uživatelům přímo, jindy platí za inzerci a jindy jsou zase nakupovány celé podniky jen pro svoji uživatelskou základnu. Po té co společnost získá uživatele, tak mu často dává řadu *služeb zadarmo*, jen aby si ho udržela dostatečně dlouho, než na něm vydělá jiným způsobem.
+Přístup nutící uživatele udržovat minimální zůstatek vyplývá přirozeně z hodnoty uživatele[^11]. Kdokoliv kdo podniká zná, že každý jednotlivý uživatel má podstatnou cenu. Podniky utratí něco mezi 30 až 200 USD za získání uživatele. Někdy platí uživatelům přímo, jindy platí za inzerci a jindy jsou zase nakupovány celé podniky jen pro svoji uživatelskou základnu. Po té co společnost získá uživatele, tak mu často dává řadu *služeb zadarmo*, jen aby si ho udržela dostatečně dlouho, než na něm vydělá jiným způsobem.
 
-Ripple používá minimální zůstatek<sup id="fnref:12"><a href="#fn:12" class="footnote-ref">12</a></sup>, který roste s využíváním účtu a požaduje, aby byly nové účty zafinancovány alespoň minimálním zůstatkem. V současnosti je tento minimální zůstatek okolo 0,15 USD což je více než náš odhad 0,10 USD, který by umožňoval někomu provést alespoň jednu transakci za týden zdarma.
+Ripple používá minimální zůstatek[^12], který roste s využíváním účtu a požaduje, aby byly nové účty zafinancovány alespoň minimálním zůstatkem. V současnosti je tento minimální zůstatek okolo 0,15 USD což je více než náš odhad 0,10 USD, který by umožňoval někomu provést alespoň jednu transakci za týden zdarma.
 
 Blockchain může vynutit minimální hodnotu na uživatele jednoduchým procesem požadujícím minimální zůstatek. Jakýkoliv podnik, který si přeje přivést nového uživatele na blockchain, může předplatit tento uživatelský účet minimálním zůstatkem, který mu umožní provádět transakce. Požadavek na relativně vysoký poplatek 1 USD k založení nového uživatele bude přirozeně nutit kohokoliv nabízejícího účty zdarma kontrolovat kvalitu a jedinečnost každého účtu před jeho registrací na blockchainu.
 
@@ -542,9 +542,9 @@ Síť Steem je postavena na Graphene, té samé technologii která pohání BitS
 
 ## Rozsah Redditu
 
-Steem je schopen obsluhovat větší uživatelskou bázi než Reddit. V roce 2015 měl Reddit 8,7 miliónu uživatelů s průměrně 23 komentáři za vteřinu<sup id="fnref:13"><a href="#fn:13" class="footnote-ref">13</a></sup> a průměrně 83 komentáři na uživatele ročně. Bylo tam 73 miliónů příspěvků nejvyšší úrovně s průměrně 2 novými příspěvky za vteřinu. Měl 7 miliard hlasování, což je průměrná frekvence hlasování 220 hlasů za vteřinu. Pokud by tedy Reddit pracoval na blockchainu, tak by potřeboval průměrně 250 transakcí za vteřinu.
+Steem je schopen obsluhovat větší uživatelskou bázi než Reddit. V roce 2015 měl Reddit 8,7 miliónu uživatelů s průměrně 23 komentáři za vteřinu[^13] a průměrně 83 komentáři na uživatele ročně. Bylo tam 73 miliónů příspěvků nejvyšší úrovně s průměrně 2 novými příspěvky za vteřinu. Měl 7 miliard hlasování, což je průměrná frekvence hlasování 220 hlasů za vteřinu. Pokud by tedy Reddit pracoval na blockchainu, tak by potřeboval průměrně 250 transakcí za vteřinu.
 
-Aby dosáhl této v oboru nejvyšší výkonnosti, Steem se poučil ze zkušeností burzy LMAX<sup id="fnref:14"><a href="#fn:14" class="footnote-ref">14</a></sup>, která je schopna provést 6 miliónů transakcí za vteřinu. Tyto zkušenosti zahrnují tyto následující klíčové body:
+Aby dosáhl této v oboru nejvyšší výkonnosti, Steem se poučil ze zkušeností burzy LMAX[^14], která je schopna provést 6 miliónů transakcí za vteřinu. Tyto zkušenosti zahrnují tyto následující klíčové body:
 
 1. Udržujte vše v paměti.
 2. Udržujte základní obchodní logiku v jednom vlákně.
@@ -554,7 +554,7 @@ Aby dosáhl této v oboru nejvyšší výkonnosti, Steem se poučil ze zkušenos
 
 Dodržováním těchto jednoduchých pravidel je Steem schopný zpracovávat 100.000 transakcí za sekundu bez jakéhokoliv významného úsilí věnovaného optimalizaci.
 
-Udržovat vše v paměti je stále více životaschopné, vzhledem k nedávnému uvedení Intel <sup id="fnref:15"><a href="#fn:15" class="footnote-ref">15</a></sup> technologie Optane™. Pro běžné hardware by mělo být možné obsluhovat všechnu obchodní logiku spojenou se Steemem v jednom vlákně se všemi příspěvky drženými pro rychlou indexaci v paměti. Dokonce i Google drží svůj index celého internetu v RAM. Použití blockchainové technologie činí replikaci databáze na mnoho počítačů triviální a brání ztrátě dat. Jakmile technologie Optane™převládne, RAM se stane ještě rychlejší, zatímco získá trvalost záznamu. Jinými slovy Steem je projektován pro architekturu budoucnosti a jako rozšiřitelný.
+Udržovat vše v paměti je stále více životaschopné, vzhledem k nedávnému uvedení Intel [^15] technologie Optane™. Pro běžné hardware by mělo být možné obsluhovat všechnu obchodní logiku spojenou se Steemem v jednom vlákně se všemi příspěvky drženými pro rychlou indexaci v paměti. Dokonce i Google drží svůj index celého internetu v RAM. Použití blockchainové technologie činí replikaci databáze na mnoho počítačů triviální a brání ztrátě dat. Jakmile technologie Optane™převládne, RAM se stane ještě rychlejší, zatímco získá trvalost záznamu. Jinými slovy Steem je projektován pro architekturu budoucnosti a jako rozšiřitelný.
 
 # Alokace & zásoba
 
@@ -586,13 +586,13 @@ Celkový pohled na zásobu je komplikován vlivem SMD operací, které mohou vy�
 
 ## Dopad sazby tvorby tokenů
 
-Na první pohled se může zdát 100% roční růst zásoby Steem hyper-inflační a neudržitelný. Ti kdo se řídí Kvantitativní teorií peněz<sup id="fnref:16"><a href="#fn:16" class="footnote-ref">16</a></sup> dokonce mohou dojít k závěru, že Steem musí klesat přibližně o 5,6% měsíčně. Z nespočetných příkladů skutečného světa víme, že množství peněz nemá přímý a okamžitý dopad na jejich hodnotu, ačkoliv to zajisté hraje roli.
+Na první pohled se může zdát 100% roční růst zásoby Steem hyper-inflační a neudržitelný. Ti kdo se řídí Kvantitativní teorií peněz[^16] dokonce mohou dojít k závěru, že Steem musí klesat přibližně o 5,6% měsíčně. Z nespočetných příkladů skutečného světa víme, že množství peněz nemá přímý a okamžitý dopad na jejich hodnotu, ačkoliv to zajisté hraje roli.
 
 Protože 90% vytvořeného Steem je distribuováno držitelům SP, tak výsledek je podobný jako každoroční split 2:1 spíše než opravdová inflace. Celková sazba výdajů používaných na odměny přispěvatelům je okolo 10% tržní kapitalizace ročně, což je sazba dost pod tou, kterou Bitcoin udržoval po prvních 7 let své existence.
 
 Vytvoření nového STEEM k platbě pobídek určité skupině uživatelů má negativní vliv na procentuální podíl ostatních uživatelů na celkové zásobě Steem. Pokud je přesně 90% zásoby STEEM drženo v SP, tak negativní efekt příspěvkových pobídek na držitele SP je přesně vyvážen pozitivním efektem pobídek držitelům SP. Držitelé SP dostanou více STEEM (v nominální hodnotě), ale jejich procentuální podíl v blokchainu (tj. podíl na celkové zásobě) je nezměněn. Pokud je drženo ve formě SP méně (více) STEEM než 90% zásoby STEEM, pak tyto dva vlivy míří v opačném směru, ale pozitivní(negativní) efekt se stává silnějším a součet těchto dvou vlivů má tendeci stáhnout SP zůstatek k 90%. Tento „tah“ neznamené, že hodnota SP se musí držet na 90% dlouhou dobu, protože příjemci pobídek budou (a v některých případech musí) proměňovat svůj STEEM na SP, což znamená, že „tah“ k 90% není jediná síla působící na procento STEEM zásoby držené jako SP.
 
-Od srpna 2008 do ledna 2009 US peněžní zásoba<sup id="fnref:17"><a href="#fn:17" class="footnote-ref">17</a></sup> vzrostla z $871 na $1,737 miliard, o více než 100% a pak pokračovala v růstu tempem 20% ročně po dalších 6 let. Jinými slovy U.S. peněžní zásoba vzrostla 4,59x v méně než 7 letech. Během té doby hodnota dolaru vzhledem k zboží a službám klesla méně než o 10% dle vládního indexu cen <sup id="fnref:18"><a href="#fn:18" class="footnote-ref">18</a></sup>. Tento příklad z reálného světa ukazuje, že zásoba je jen jednou součástí ceny.
+Od srpna 2008 do ledna 2009 US peněžní zásoba[^17] vzrostla z $871 na $1,737 miliard, o více než 100% a pak pokračovala v růstu tempem 20% ročně po dalších 6 let. Jinými slovy U.S. peněžní zásoba vzrostla 4,59x v méně než 7 letech. Během té doby hodnota dolaru vzhledem k zboží a službám klesla méně než o 10% dle vládního indexu cen [^18]. Tento příklad z reálného světa ukazuje, že zásoba je jen jednou součástí ceny.
 
 Cena digitální komodity jako STEEM je hnána jak zásobou, tak poptávkou. Pokud je nový STEEM alokován těm, kdo jej drží dlouhodobě, pak nárůst v zásobě je kompenzován odpovídajícím zájmem držet jej. Dopad této změny v zásobě je odložen do budoucna, až se dlouhodobý držitel rozhodne prodat. Prodejní tlak je poté rozložen na dva roky.
 
@@ -600,7 +600,7 @@ Když se dlouhodobý držitel rozhodne vystoupit, zásoba STEEM na trhu vzroste 
 
 Z tohoto 100% ročního vzrůstu virtuální zásoby STEEM je 5% ve formě Steem Dollars (SMD). SMD představuje závazek vytvořit v budoucnosti STEEM v hodnotě dolaru a nemá vliv na dnešní zásobu STEEM na trhu. Změna poměru dluh-vlastnictví může ovlivnit vnímání ceny STEEM, ale není přímo napojena na pokles ceny STEEM. Pokud časem cena STEEM vzroste, pak množství STEEM, které má být v budoucnu vytvořeno bude menší a s tím související „inflace“ nikdy nenastane.
 
-Celkové „útraty“ Steemu pro financování obsahu, hlasování, těžby a odměny za likviditu dosahují pouze 10% ročně nebo 1,2% za měsíc. Ten samý transfer majetku by mohl být realizován bez jakékoliv změně v zásobě STEEM zavedením negativní úrokové míry na likvidní STEEM okolo 10% měsíčně. Nebo jinak, zavedením 3% poplatků (podobně jako kreditní karty) na každý převod, při převodu 1% všeho STEEM každý den. Bitcoinová síť převede 400 000 BTC denně<sup id="fnref:19"><a href="#fn:19" class="footnote-ref">19</a></sup> z 15,5 miliónu (2,5% denně).
+Celkové „útraty“ Steemu pro financování obsahu, hlasování, těžby a odměny za likviditu dosahují pouze 10% ročně nebo 1,2% za měsíc. Ten samý transfer majetku by mohl být realizován bez jakékoliv změně v zásobě STEEM zavedením negativní úrokové míry na likvidní STEEM okolo 10% měsíčně. Nebo jinak, zavedením 3% poplatků (podobně jako kreditní karty) na každý převod, při převodu 1% všeho STEEM každý den. Bitcoinová síť převede 400 000 BTC denně[^19] z 15,5 miliónu (2,5% denně).
 
 Smysl likvidního STEEM je usnadnit změny ve vlastnictví mezi dlouhodobými držiteli. Je to tato změna vlastnictví, kterou síť „daní“ aby financovala růst. Skoro úplně se lze vyhnout této dani za převod tím, že automaticky prodáme STEEM za SMD každý týden, jak síť konvertuje SP zpět na STEEM. Celková doba držení STEEM bude tak krátká, že dopad změny zásoby STEEM bude vedle volatility a ostatních poplatků trhu nevýznamný.
 
@@ -608,7 +608,7 @@ Smysl likvidního STEEM je usnadnit změny ve vlastnictví mezi dlouhodobými dr
 
 1 května 2016 bylo přes 98,48% všeho STEEM konvertováno na SP. To demonstruje, že zájem o dlouhodobé držení dominuje. V tomto prostředí jsou jak likvidní STEEM tak SP zředěny pro financování odměn.
 
-Po první dva roky života Bitcoinu měla síť trvalou roční inflaci<sup id="fnref:20"><a href="#fn:20" class="footnote-ref">20</a></sup> 100%. Za prvních 5 let to bylo přes 30% a za prvních 8 let přes 10%. Dle nástroje pro předběžný odhad budoucí inflace zahrnuté v zdrojovém kódu Steem, dosáhne Steem okamžitou roční inflaci přibližně 12% jen po 1 roce (bez zahrnutí vlivu SMD operací).
+Po první dva roky života Bitcoinu měla síť trvalou roční inflaci[^20] 100%. Za prvních 5 let to bylo přes 30% a za prvních 8 let přes 10%. Dle nástroje pro předběžný odhad budoucí inflace zahrnuté v zdrojovém kódu Steem, dosáhne Steem okamžitou roční inflaci přibližně 12% jen po 1 roce (bez zahrnutí vlivu SMD operací).
 
 ### Účetnictví ve Steemu
 
@@ -626,7 +626,7 @@ Steem uznává, že cena všech přispění uživatelů (články a hlasy) je v�
 
 Protože každý z toho má užitek, každý by měl platit. Jinými slovy, žádný jednotlivec by za nic neměl platit, ale místo toho by měl být placen za vše, co dělá a co vnáší hodnotu do Steemu. Vše co potřebujeme zjistit je, které uživatelské příspěvky přinášejí hodnotu sociální sítě a které nikoliv.
 
-Uživatelé Redditu dohromady hlasují 220 x za vteřinu a udělají 23 článků za vteřinu. Reddit je ceněn mezi $500 milióny<sup id="fnref:21"><a href="#fn:21" class="footnote-ref">21</a></sup> a $4 miliardami<sup id="fnref:22"><a href="#fn:22" class="footnote-ref">22</a></sup>, což znamená, že každý hlas a příspěvek má cenu mezi $0,06 a $0,50 za předpokladu, že hodnota Redditu je většinou v rámci loňského rozsahu aktivity. Dalo by se argumentovat, že většina z hodnoty Redditu je v důsledku současných diskusí, které se vyskytly během uplynulého týdne, což by dramaticky zvýšilo hodnotu nových aktivit. Lidé jdou tam, kde jsou ostatní lidé dnes, ne kde byly loni.
+Uživatelé Redditu dohromady hlasují 220 x za vteřinu a udělají 23 článků za vteřinu. Reddit je ceněn mezi $500 milióny[^21] a $4 miliardami[^22], což znamená, že každý hlas a příspěvek má cenu mezi $0,06 a $0,50 za předpokladu, že hodnota Redditu je většinou v rámci loňského rozsahu aktivity. Dalo by se argumentovat, že většina z hodnoty Redditu je v důsledku současných diskusí, které se vyskytly během uplynulého týdne, což by dramaticky zvýšilo hodnotu nových aktivit. Lidé jdou tam, kde jsou ostatní lidé dnes, ne kde byly loni.
 
 ## Žádné mikroplatby, volitelně spropitné
 
@@ -640,7 +640,7 @@ Mentální námaha spojená s ekonomickým rozhodnutím je pro účast většiny
 
 > *Každodenně již čelíme mnoha možnostem výběru s ohledem na to, kam se online připojit v této digitální éře informační exploze a každé dodatečné rozhodování, které musíme učinit, přidá nejistotě a obavám, kterým čelíme. Podporovatelé mikroplateb věří, že zjednodušená implementace může minimalizovat rušivost mikroplateb a zlepšit uživatelskou zkušenost, ale jejich argument jen tvoří dvojí standardy pro rozhodovací proces. Transakce nemůže být současně být tak cenná, aby opravňovala rozhodnutí a tak málo cenná, aby rozhodnutí bylo automatické. **Jediné transakce, které uživatel může odsouhlasit bez přemýšlení, jsou takové, které ho nic nestojí.** Takže jakákoliv mikrotransakce s pozitivní hodnotou bude zahrnovat mentální náklady spojené s vyžadovaným rozhodnutím. Kromě toho mentální transakční náklady ve skutečnosti vzrostou pod určitou prahovou hodnotu, což je jev, který uvádí mikroplatby do ještě větší nevýhody. Například je snadné myslet na to, že dnešní výtisk novin stojí $1, ale čtenáři čelí větším obtížím a obavám při rozhodování o ceně jednotlivého článku nebo slova. Takové dilema by se jen násobilo a zhoršovalo, pokud by celý online obsah byl rozdělen na jednotlivé složky a individuálně ceněn mikroplatebním systémem.*
 > 
-> *- Micropayments: A Viable Business Model <sup id="fnref:23"><a href="#fn:23" class="footnote-ref">23</a></sup>*
+> *- Micropayments: A Viable Business Model [^23]*
 
 Pod Steemem jdou tvůrcům obsahu mikroplatby, ale neplatí to hlasující. Místo toho je cena odměny hrazena přes nové tokeny. Kdokoliv může přistoupit do systému, hlasovat pro platbu někomu a poté opustit systém s více penězi než začal (za předpokladu, že tržní ocenění Steem zůstane stejné). Jinými slovy řešení mikroplateb poskytované Steemem dává uživatelskou zkušenost podobnou mnoha široce používaným webům, které mají uživatelsky moderovaný obsah.
 
@@ -658,7 +658,7 @@ Tím, že podněcuje moderátorství, je síť Steem schopná použít automatiz
 
 ## Řešení problému kryptoměn s náborem uživatelů
 
-Získat kryptoměnu není jednoduché<sup id="fnref:24"><a href="#fn:24" class="footnote-ref">24</a></sup>. Někdo, kdo objeví Bitcoin a chce ho rychle vyzkoušet zjistí, že se musí zaregistrovat na nějaké burze a účet profinancovat kreditní kartou nebo převodem. Jaká by asi byla míra přijetí Facebooku pokud by jste museli nejdříve dát peníze a dva průkazy totožnosti?
+Získat kryptoměnu není jednoduché[^24]. Někdo, kdo objeví Bitcoin a chce ho rychle vyzkoušet zjistí, že se musí zaregistrovat na nějaké burze a účet profinancovat kreditní kartou nebo převodem. Jaká by asi byla míra přijetí Facebooku pokud by jste museli nejdříve dát peníze a dva průkazy totožnosti?
 
 Steem řeší tento problém tím, že každému dá způsob jak být zaplacen za jednoduché, ale cenné úkony. To pomůže k široké distribuci tokenů STEEM. To je nápomocné, protože kryptoměny mají síťový efekt ( tj.více uživatelů je činí užitečnějšími; představte si, že by si Satoshi nechal 100% Bitcoinu pro sebe, Bitcoin by byl bezcenný).
 
@@ -704,74 +704,50 @@ Steem je experiment projektovaný tak, aby čelil výzvám v kryptoměně a v ob
 
 # Odkazy
 
-[^1]:    
-    Reddit's Cryptocurrency, Forbes, Erika Morphy, October 2014, <http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/#4e07b05332b9>&#160;[&#8617;](#fnref:1){.footnote-backref}
+[^1]: Reddit's Cryptocurrency, Forbes, Erika Morphy, October 2014, <http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/#4e07b05332b9>
 
-[^2]:    
-    Sweat Equity, Investopedia, <http://www.investopedia.com/terms/s/sweatequity.asp>&#160;[&#8617;](#fnref:2){.footnote-backref}
+[^2]: Sweat Equity, Investopedia, <http://www.investopedia.com/terms/s/sweatequity.asp>
 
-[^3]:    
-    **Meta-moderation** is a second level of comment moderation. Users are invited to rate a moderator's decision in order to improve moderation. <https://en.wikipedia.org/wiki/Meta-moderation_system>&#160;[&#8617;](#fnref:3){.footnote-backref}
+[^3]: **Meta-moderation** is a second level of comment moderation. Users are invited to rate a moderator's decision in order to improve moderation. <https://en.wikipedia.org/wiki/Meta-moderation_system>
 
-[^4]:    
-    The Impossible Trinity, economic theory <https://en.wikipedia.org/wiki/Impossible_trinity>&#160;[&#8617;](#fnref:4){.footnote-backref}
+[^4]: The Impossible Trinity, economic theory <https://en.wikipedia.org/wiki/Impossible_trinity>
 
-[^5]:    
-    Metcalfe's Law <https://en.wikipedia.org/wiki/Metcalfe%27s_law>&#160;[&#8617;](#fnref:5){.footnote-backref}
+[^5]: Metcalfe's Law <https://en.wikipedia.org/wiki/Metcalfe%27s_law>
 
-[^6]:    
-    The Story of the Crab Bucket, <http://guidezone.e-guiding.com/jmstory_crabs.htm>&#160;[&#8617;](#fnref:6){.footnote-backref}
+[^6]: The Story of the Crab Bucket, <http://guidezone.e-guiding.com/jmstory_crabs.htm>
 
-[^7]:    
-    Zipf's Law <https://en.wikipedia.org/wiki/Zipf%27s_law>&#160;[&#8617;](#fnref:7){.footnote-backref}
+[^7]: Zipf's Law <https://en.wikipedia.org/wiki/Zipf%27s_law>
 
-[^8]:    
-    Clay Shirky, The Case Against Micropayments<http://www.openp2p.com/pub/a/p2p/2000/12/19/micropayments.html>&#160;[&#8617;](#fnref:8){.footnote-backref}
+[^8]: Clay Shirky, The Case Against Micropayments<http://www.openp2p.com/pub/a/p2p/2000/12/19/micropayments.html>
 
-[^9]:    
-    reCAPTCHA, Easy on Humans, Hard on Bots<https://www.google.com/recaptcha/intro/index.html>&#160;[&#8617;](#fnref:9){.footnote-backref}
+[^9]: reCAPTCHA, Easy on Humans, Hard on Bots<https://www.google.com/recaptcha/intro/index.html>
 
-[^10]:    
-    Bitcoin Estimated Transaction Volume<https://blockchain.info/charts/estimated-transaction-volume?showD>&#160;[&#8617;](#fnref:10){.footnote-backref}
+[^10]: Bitcoin Estimated Transaction Volume<https://blockchain.info/charts/estimated-transaction-volume?showD>
 
-[^11]:    
-    Forbes, Tristan Louis, "How Much is a User Worth?"<http://www.forbes.com/sites/tristanlouis/2013/08/31/how-much-is-a-us>&#160;[&#8617;](#fnref:11){.footnote-backref}
+[^11]: Forbes, Tristan Louis, "How Much is a User Worth?"<http://www.forbes.com/sites/tristanlouis/2013/08/31/how-much-is-a-us>
 
-[^12]:    
-    Ripple, Account Reserves<https://ripple.com/build/reserves/>&#160;[&#8617;](#fnref:12){.footnote-backref}
+[^12]: Ripple, Account Reserves<https://ripple.com/build/reserves/>
 
-[^13]:    
-    Reddit Statistics, Number of Users and Comments per Second<http://expandedramblings.com/index.php/reddit-stats/2/>&#160;[&#8617;](#fnref:13){.footnote-backref}
+[^13]: Reddit Statistics, Number of Users and Comments per Second<http://expandedramblings.com/index.php/reddit-stats/2/>
 
-[^14]:    
-    Martin Fowler, The LMAX Architecture<http://martinfowler.com/articles/lmax.html>&#160;[&#8617;](#fnref:14){.footnote-backref}
+[^14]: Martin Fowler, The LMAX Architecture<http://martinfowler.com/articles/lmax.html>
 
-[^15]:    
-    Introducing Intel Optane Technology - Bringing 3D XPoint Memory to Storage and Memory Products<https://newsroom.intel.com/press-kits/introducing-intel-optane-technology-bringing-3d-xpoint-memory-to-storage-and-memory-products/>&#160;[&#8617;](#fnref:15){.footnote-backref}
+[^15]: Introducing Intel Optane Technology - Bringing 3D XPoint Memory to Storage and Memory Products<https://newsroom.intel.com/press-kits/introducing-intel-optane-technology-bringing-3d-xpoint-memory-to-storage-and-memory-products/>
 
-[^16]:    
-    Quantity Theory of Money,<http://www.investopedia.com/articles/05/010705.asp>&#160;[&#8617;](#fnref:16){.footnote-backref}
+[^16]: Quantity Theory of Money,<http://www.investopedia.com/articles/05/010705.asp>
 
-[^17]:    
-    United States Money Supply, 2009<https://research.stlouisfed.org/fred2/graph/?s%5B1%5D%5Bid%5D=AMBNS>&#160;[&#8617;](#fnref:17){.footnote-backref}
+[^17]: United States Money Supply, 2009<https://research.stlouisfed.org/fred2/graph/?s%5B1%5D%5Bid%5D=AMBNS>
 
-[^18]:    
-    CPI Inflation Index, United States Dollar 2008-2016<http://data.bls.gov/cgi-bin/cpicalc.pl?cost1=1&year1=2008&year2=2016>&#160;[&#8617;](#fnref:18){.footnote-backref}
+[^18]: CPI Inflation Index, United States Dollar 2008-2016<http://data.bls.gov/cgi-bin/cpicalc.pl?cost1=1&year1=2008&year2=2016>
 
-[^19]:    
-    Bitcoin Transaction Volume<https://blockchain.info/charts/estimated-transaction-volume>&#160;[&#8617;](#fnref:19){.footnote-backref}
+[^19]: Bitcoin Transaction Volume<https://blockchain.info/charts/estimated-transaction-volume>
 
-[^20]:    
-    Bitcoin Annual In ation Rate, Bitcoin Talk Forum<https://bitcointalk.org/index.php?topic=130619.0>&#160;[&#8617;](#fnref:20){.footnote-backref}
+[^20]: Bitcoin Annual In ation Rate, Bitcoin Talk Forum<https://bitcointalk.org/index.php?topic=130619.0>
 
-[^21]:    
-    Reddit Valuaton, Newsweek, 2014<http://www.newsweek.com/investors-think-reddit-worth-500-million-26>&#160;[&#8617;](#fnref:21){.footnote-backref}
+[^21]: Reddit Valuaton, Newsweek, 2014<http://www.newsweek.com/investors-think-reddit-worth-500-million-26>
 
-[^22]:    
-    Worth of Web, March 2016<http://www.worthofweb.com/website-value/reddit.com/>&#160;[&#8617;](#fnref:22){.footnote-backref}
+[^22]: Worth of Web, March 2016<http://www.worthofweb.com/website-value/reddit.com/>
 
-[^23]:    
-    Micropayments: A Viable Business Model<http://cs.stanford.edu/people/eroberts/cs181/projects/2010-11/Microp>&#160;[&#8617;](#fnref:23){.footnote-backref}
+[^23]: Micropayments: A Viable Business Model<http://cs.stanford.edu/people/eroberts/cs181/projects/2010-11/Microp>
 
-[^24]:    
-    Dailydot, Jon Southurt, April 2015<http://www.dailydot.com/opinion/bitcoin-cryptocurrency-adoption-hard>&#160;[&#8617;](#fnref:24){.footnote-backref}
+[^24]: Dailydot, Jon Southurt, April 2015<http://www.dailydot.com/opinion/bitcoin-cryptocurrency-adoption-hard>
