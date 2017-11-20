@@ -60,111 +60,111 @@ Steemが貢献に支払いを正しく割り当てるためには、コミュニ
 
 # 貢献の方法
 
-This section outlines the ideas behind Steem and its rewards for people who provide meaningful and measurable contributions to the Steem community.
+このセクションでは、Steemの背後にあるアイデアとSteemコミュニティに有意義で測定可能な貢献をした人々への報酬について概説します。
 
-## Capital Contributions
+## 資本貢献
 
-There are two items a community can offer to attract capital: debt and ownership. Those who buy ownership profit when the community grows but lose if the community shrinks. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
+コミュニティが資本を引き付けるために提供できる2つのものは、債権と所有権です。 所有権を購入する人はコミュニティが成長するときに利益を上げ、コミュニティが縮小するときに損失を出します。 債権を購入する人は一定の利息を保証されますが、コミュニティが成長することによって実現される利益を分かち合うことはできません。 両方のタイプの資本貢献はコミュニティの成長と通貨の価値にとって重要です。 さらに、所有権を持保持するには流動的と権利確定の2つの方法がある。 権利確定した所有権は長期的な関係を作り、短期間に売却することはできません。
 
-The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SBD).
+Steemネットワークはこれらの異なる種類の資産を、Steem (STEEM)、Steemパワー (SP)、Steemドル (SBD)と呼びます。
 
 ## Steem (STEEM)
 
-Steem is the fundamental unit of account on the Steem blockchain. All other tokens derive their value from the value of STEEM. STEEM is a liquid currency, and therefore can be bought or sold on exchanges, as well as transferred to other users as a form of payment.
+SteemはSteemブロックチェーンの基本的なアカウントの単位です。 他のトークンの価値はすべてSTEEMの価値に由来します。 STEEMは流動的な通貨であり、従って取引所で売買することが可能で、また他のユーザーへの支払い方法として転送することが可能です。
 
-## Steem Power (SP)
+## Steemパワー (SP)
 
-Start up companies require long-term capital commitment. Those who invest their money in a startup expect to wait years before they can sell their shares and realize their profits. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
+スタートアップ企業には長期的な資本投入が必要です。 スタートアップ企業に資金を投入する人は、株式を売却して利益を現実のものとするまでに数年間待つことを想定しています。 長期的な投資がなければ、追加発行した株式を売ることによって資金調達しようとするスタートアップ企業は、撤退しようとしている既存の株主と競合することになります。 賢明な投資家は資本貢献によって起業を成長させたいと考えますが、新しい資本が撤退しようとしている人に与えられると、成長は起こり得なくなります。
 
-There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
+コミュニティが長期計画を立てるためにも、長期的な関係を持つことには大きな価値があります。 また、ステークホルダーの長期的な関係は、彼らに短期的なポンプよりも長期的な成長のために投票するように促します。
 
-In the cryptocurrency space, speculators jump from cryptocurrency to cryptocurrency based mostly on which one is expected to have short-term growth. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
+暗号通貨の世界では、投機筋は主に短期的な成長を予期するものに基いて通貨から別の通貨へと移行していきます。 Steemは主に長期的な観点を持つ人々によって所有され、完全に制御されるコミュニティを築きたいと考えています。
 
-Users are able to commit their STEEM to a thirteen week vesting schedule, providing them with additional benefits within the platform. STEEM that has been committed to a thirteen week vesting schedule is called Steem Power (SP). SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
+ユーザーはSTEEMを13週間の権利付与スケジュールに委ねることができ、プラットフォーム内で付加的な利益を得ることができます。 13週間の権利付与スケジュールに委ねられたSTEEMはSteemパワー (SP)と呼ばれます。 SP残高は自動的に繰り返される変換要求を除いて、転送や分割はできません。 つまり、SPは暗号通貨取引所で容易に取引できるものではありません。
 
-When users vote on content, their influence over the distribution of the rewards pool is directly proportional to the amount of SP that they have. Users with more SP have more influence on the distribution of rewards. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
+ユーザーがコンテンツに投票したとき、報酬プールの分配への影響力は保有するSPの量に比例します。 より多くのSPを持つユーザーは報酬の分配により多くの影響力を持ちます。 つまり、SPはSteemプラットフォーム内で、保有者に排他的な権限を認めるアクセストークンです。
 
-SP holders are also paid interest on the balance of SP that remains vested. 15% of the yearly inflation is paid to SP holders as interest. The amount of the interest that they receive is directly proportional to the amount of SP they hold relative to the total amount of vested SP across all users.
+また、SP保有者は権利が続いているSP残高に対して利息を支払われます。 年間15%のインフレでSP保有者に利息が支払われます。 受け取る利息の量は、すべてのユーザーが権利確定させた総SP量に対する相対的な保有SP量に正比例します。
 
-Transferring from STEEM to SP is referred to as “powering up”, while transferring from SP to STEEM is referred to as “powering down.” SP that is powered down is returned to the user over a period of thirteen weeks, via 13 equal weekly payments, starting one week after the power down is initiated.
+STEEMからSPへの移行は「パワーアップ」と呼ばれ、SPからSTEEMへの移行は「パワーダウン」と呼ばれます。パワーダウンしたSPは、パワーダウンが始まってから1週間後から、13等分の支払いで13週間に渡ってユーザーの元へ返ります。
 
-## Steem Dollars (SBD)
+## Steemドル (SBD)
 
-Stability is an important feature of successful global economies. Without stability, individuals across the world could not have low cognitive costs while engaging in commerce and savings. Because stability is an important feature of successful economies, Steem Dollars were designed as an attempt to bring stability to the world of cryptocurrency and to the individuals who use the Steem network.
+安定性はグローバル経済が成功するための重要な要素です。 安定性がなければ、世界中の人々は商業と貯蓄に対して認知コストを低くすることはできませんでした。 安定性が経済を成功させるための重要な要素であることから、Steemドルは暗号通貨の世界とSteemネットワークを使う個人に安定性をもたらすための試みとして設計されました。
 
-Steem Dollars are created by a mechanism similar to convertible notes, which are often used to fund startups. In the startup world, convertible notes are short-term debt instruments that can be converted to ownership at a rate determined in the future, typically during a future funding round. A blockchain based token can be viewed as ownership in the community whereas a convertible note can be viewed as a debt denominated in any other commodity or currency. The terms of the convertible note allow the holder to convert to the backing token with a minimum notice at the fair market price of the token. Creating token-convertible-dollars enables blockchains to grow their network effect while maximizing the return for token holders.
+Steemドルはスタートアップ企業の資金調達によく使われるコンバーチブルノートと同じ仕組みで作られています。 スタートアップの世界におけるコンバーチブルノートは、将来（典型的には資金調達の時に）決定されるレートで所有権に転換できる短期債権型証券です。 ブロックチェーン上のトークンはコミュニティにおける所有権とみなすことができますが、コンバーチブルノートは他の商品や通貨建ての債権とみなすことができます。 コンバーチブルノートの規約により、保有者は最小の通知によって公正な市場価格で、保証されたトークンに変換することができます。 トークンに変換可能なドルを作成することにより、ブロックチェーンはトークンホルダーの利益を最大化しながらネットワーク効果を高めることができます。
 
-Steem Dollars are referred to with the symbol SBD, an acronym for Steem Blockchain Dollars. Creating SBD requires a combination of a reliable price feed, and rules to prevent abuse. Providing a reliable price feed involves three factors: minimizing the impact of an incorrect feed, maximizing the cost of producing an incorrect feed, and minimizing the importance of timing.
+SteemドルはSteem Blockchain Dollarsの頭文字からSBDで表されます。 SBDを作成するには、信頼できる価格フィードと悪用を防止するためのルールが必要です。 信頼できる価格フィードを提供するには3つの要素を必要とします：不適切なフィードによる影響を最小化することと、不適切なフィードを生み出すコストを最大化することと、タイミングの重要性を最小化することです。
 
-### Minimizing Fraudulent Feeds
+### 不正なフィードを最小化する
 
-SP holders elect individuals, called witnesses, to publish price feeds. The elected witnesses are presumably trusted by those who have a vested interest in the quality of the feed. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
+SPの保有者は価格フィードを公開する証人と呼ばれる人を選出します。 選出された証人は、フィードの質に関心のある人々からおそらく信頼されていることでしょう。 選出された人々に報酬を支払うことによって、Steemはフィードを作成する権利を得るための市場競争を作り出します。 フィード作成者への支払いを大きくするほど、誤情報を公開することによって失うものも大きくなります。
 
-Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
+信頼を得て選出されたフィード作成者たちにより、フィードの中央値によって変換に実際に使用される価格を導き出すことができます。 この方法では、少数のフィード作成者が異常値を与えた場合には、彼らの評価に影響を与えつつも、実際の中央値への影響はほとんどありません。
 
-Even if all feed producers are honest, it is possible for the majority of feed producers to be impacted by events beyond their control. The Steem network is designed to tolerate short-term corruption of the median price feed while the community actively works to correct the issue. One example of an issue that may take some time to correct is short-term market manipulation. Market manipulation is difficult and expensive to maintain for long periods of time. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
+また、すべてのフィード作成者が誠実であっても、過半数のフィード作成者が自身でコントロールできない事象の影響を受ける可能性はあります。 Steemネットワークはコミュニティが積極的に問題解決に取り組みつつ、短期間のフィード中央値の異常は容認するように設計されています。 修正に時間のかかる問題の1つの例に、短期間の市場操作があります。 市場操作は長期間維持するのが難しくお金がかかります。 もう1つの例を挙げると、集中型取引所の障害、または取引所から異常なデータが公開されることです。
 
-Steem factors out short-term price fluctuations by using the median price over a period of three and a half days. The median published feed is sampled every hour on the hour.
+Steemは、3.5日間の価格中央値を用いることで短期間の価格変動を排除します。公開フィードの中央値は毎正時にサンプリングされます。
 
-As long as the price feed corruption lasts for less than half the moving median time window it will have minimal impact on the conversion price. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
+価格フィードの異常が中央値を取る時間枠の半分未満である限り、変換価格への影響は最小限に抑えられます。 フィード異常が発生した場合、ネットワーク参加者は実際の変換価格に影響を及ぼす前に異常フィードの作成者への投票を外すことができます。 恐らくより重要なことは、フィードが価格に影響し始める前に、フィード作成者に問題を検出して修正する機会を与えることです。
 
-With a three and a half day window, community members have approximately one and a half days to respond to any issues that come up.
+3.5日の枠により、コミュニティメンバーには問題が起きてからおよそ1.5日の対応期間が与えられます。
 
-### Mitigating Timing Attacks
+### タイミング攻撃を軽減する
 
-Market participants have access to information faster than the blockchain’s three and a half day moving median conversion price can react. This information could be used to benefit of traders at the expense of the community. If there is a sudden increase in the value of STEEM traders could request conversion of their SBD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
+市場参加者はブロックチェーンの3.5日間の中央値による変換価格が反応するよりも早く情報を得ることができるでしょう。 トレーダーがこの情報を用いてコミュニティを犠牲にして利益を得ることもあり得ます。 STEEM価格が急騰した場合、トレーダーは最小限のリスクで、古い低い価格でSBDの変換を要求し、STEEMを新しい高い価格で売るということもできるかもしれません。
 
-Steem levels the playing field by requiring all conversion requests to be delayed for three and a half days. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
+Steemはすべての変換要求を3.5日遅らせることで条件を平等にします。 このため、トレーダーもブロックチェーンも変換が実行される時点における価格について優位性のあるどのような情報も持っていません。
 
-### Minimizing Abuse of Conversions
+### 変換の悪用を最小限に抑える
 
-If people could freely convert in both directions then traders could take advantage of the blockchains conversion rates by trading large volumes without changing the price. Traders who see a massive run up in price would convert to SBD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SBD to STEEM and not the other way around.
+もし双方向に自由に変換できるならば、価格を変えずに大量のトレードを行えることから、トレーダーはブロックチェーンの変換レートを利用することができるでしょう。 価格の大幅な上昇を見たトレーダーは、高値でSBDを変換し（この時最もリスクが高い）、補正された後に再変換することでしょう。 SteemプロトコルはSBDからSTEEMへの変換のみを許可することによって、この種の悪用からコミュニティを守ります。
 
-The blockchain decides how and when to create SBD and who should get it. This keeps the rate of SBD creation stable and removes most avenues of abuse.
+ブロックチェーンはSBDの作成方法とそのタイミング、及び誰が手にするかを決定します。これによりSBD生成率が安定し、悪用手段の大部分を排除します。
 
-### Sustainable Debt to Ownership Ratios
+### 所有権への持続可能な債務比率
 
-If a token is viewed as ownership in the whole supply of tokens, then a token-convertible-dollar can be viewed as debt. If the debt to ownership ratio gets too high the entire currency can become unstable. Debt conversions can dramatically increase the token supply, which in turn is sold on the market suppressing the price. Subsequent conversions require the issuance of even more tokens. Left unchecked the system can collapse leaving worthless ownership backing a mountain of debt. The higher the debt to ownership ratio becomes the less willing new investors are to bring capital to the table.
+トークンが全体供給量の中における所有権とみなされる場合、トークン変換可能ドルは債権と見なされます。 所有権への債務比率が大きすぎると、通貨全体が不安定になる可能性があります。 債権の変換はトークンの供給を劇的に増やし、次にマーケットで売られ、価格を抑制します。 その次の変換では更に多くのトークンの発行が必要となります。 放置すると、負債の山の後ろで無価値な所有権を残してシステムは崩壊します。 所有権への債務比率が高くなるほど、新規の投資家は投資したくなくなっていきます。
 
-A rapid change in the value of STEEM can dramatically change the debt-to-ownership ratio. The blockchain prevents the debt-to-ownership ratio from getting too high, by reducing the amount of STEEM awarded through SBD conversions if the debt level were to exceed 10%. If the amount of SBD debt ever exceeds 10% of the total STEEM market cap, the blockchain will automatically reduce the amount of STEEM generated through conversions to a maximum of 10% of the market cap. This ensures that the blockchain will never have higher than a 10% debt-to-ownership ratio.
+STEEMの急激な価格変動は、劇的に所有権への債務比率を変える可能性があります。 ブロックチェーンは所有権への債務比率が高くなりすぎることを防止するために、債務水準が10%を越える場合、SBD変換で得られるSTEEMを削減します。 SBD債務額がSTEEMの時価総額の10%を越えたとき、ブロックチェーンは変換により生成されるSTEEM量が時価総額の10%以下になるように自動的に引き下げます。 これにより、ブロックチェーンの所有権への債務比率が10%を越えることは決してありません。
 
-The percentage floors used to compute STEEM creation are based on the supply including the STEEM value of all outstanding SBD and SP (as determined by the current rate / feed).
+STEEM生成の計算で使用されるパーセンテージの下限は、すべての未処理のSBDとSPの（現在のレート / フィードによって決定される）STEEM値を含む供給量に基いて決められます。
 
-### Interest
+### 利息
 
-SBD pays holders interest. The interest rate is set by the same people who publish the price feed so that it can adapt to changing market conditions. All debt carries risk to the lender. Someone who holds SBD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SBD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
+SBDは保有者に利子を支払います。 利率は変化する市場の状況に対応するために価格フィードを公開するのと同じ人々が設定します。 すべての債権は貸し手にリスクを与えます。 SBDを精算せずに保有している人は、コミュニティに効果的に1ドル分の価値を貸しています。 保有者は、将来のある時点でSBDを1ドルで買う誰かや、変換して得たSTEEMを買う投機家や投資家がいることを信じています。
 
-STEEM and SP holders gain leverage when members of the community are willing to hold SBD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
+STEEMやSPの保有者は、コミュニティメンバーがSBDを保有しようとする際に影響力を得ます。 この影響力は成長によって増大し、また成長にも貢献します。 STEEMの価格が下がり希薄化が進むと、保有者は苦しむことになります。 暗号通貨プロジェクトは、資本によりネットワークを信頼するユーザー数の増加による利益は、最終的には景気後退時の希薄化よりも多くの価値をもたらすことを示しています。
 
-### Setting Price Feeds
+### 価格フィードの設定
 
-Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
+賢明な読者は、限られた供給の有利子資産が、同じ資産において利益を得る他の機会に応じて、基本的な資産よりも高値または安値で取引されることを認識しています。 USドルにペッグされた資産に高い金利が支払われると、Steemドルの供給が減少し、1ドルの価値がなくなるまで多くの人々が人々が値を競り上げるでしょう。 経済学において国際金融のトリレンマ[^4]として知られる原則は、以下の3つを同時に実現することは不可能であることを述べています：
 
-1. A stable exchange rate
-2. Free capital movement
-3. An independent monetary policy
+1. 安定した為替レート
+2. 自由な資本移動
+3. 独立した金融政策
 
-If Steem feed producers aim to have an independent monetary policy allowing it to create and destroy Steem Dollars while simultaneously having full control over the interest rate then they will encounter problems. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
+Steemのフィード作成者が、Steemドルの作成と破壊を可能にすると同時に、金利を完全に制御することを可能にする独立した通貨政策を目指すならば、彼らは問題に直面するでしょう。 トリレンマによると、Steemドルは資金移動を制限するか、対ドルの不安定な為替レートを受け入れるか、金利の制御を限定的とする必要があります。
 
-The primary concern of Steem feed producers is to maintain a stable one-to-one conversion between SBD and the U.S. Dollar (USD). Any time SBD is consistently trading above $1.00 USD interest payments must be stopped. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SBD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
+Steemフィード作成者にとって最も重要なことは、SBDと米ドル (USD) の間で安定した1対1の変換を維持することです。 SBDが常に$1.00以上で取引されている場合は、利息の支払いを停止する必要があります。 利率0%の債権に対してプレミアムを要求し続けている市場においては、コミュニティが考えている債権よりも信用を拡大したいと言うのは安全です。 これが起こると、SBDは$1.00以上の価値を持ち、マイナス金利を課す以外にコミュニティができることは殆どありません。
 
-If the debt-to-ownership ratio is low and SBD is trading for less than $1.00, then the interest rate should be increased. This will encourage more people to hold their SBD and support the price.
+所有権への債務比率が低く、SBDが$1.00未満で取引されている場合は、利率が引き上げられます。これは人々にSBDをもっと保有するように促し、価格を支えます。
 
-If SBD trades for less than $1.00 USD and the debt-to-ownership ratio is high, then the feeds should be adjusted upward give more STEEM per SBD. This will increase demand for SBD while also reducing the debt-to-ownership ratio and returning SBD to parity with USD.
+SBDが$1.00USD未満で取引され、所有権への債務比率が高い場合は、SBDあたりに与えられるSTEEMが増えるようにフィードを調整します。 これはSBDの需要を増やし、同時に所有権への債務比率を下げ、SBDをUSDと等価に戻します。
 
-Assuming the value of STEEM is growing faster than Steem is creating new SBD, the debt-to-ownership ratio should remain under the target ratio and the interest offered benefits everyone. If the value of the network is flat or falling, then any interest offered will only make the debt-to-ownership ratio worse.
+Steemが新しく生成するSBD量よりもSTEEM価値の成長速度が高いと仮定すると、所有権への債務比率は目標比率以下を保ち、すべての人が利息の利益を得られます。 ネットワークの価値が横ばいまたは下落している場合、利息の提供は所有権への債務比率を悪化させるだけです。
 
-In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
+実際、フィード作成者はUSDとの安定したペッグをいじするために通貨ポリシーを設定する責任を委ねられています。 この力を悪用すると、STEEMの価値を傷つけることになるため、SPの保有者は上記の規則に従って価格フィードと利率を調整することを期待できる証人に投票するのが賢明です。
 
-If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SBD.
+所有権への債務比率が危険なほど高くなり、市場参加者が変換要求を避けている場合は、変換するSBDに支払われるSTEEMの比が大きくなるようにフィードが調整されます。
 
-Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SBD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions.
+利率のポリシーまたはSTEEM/SBD変換比率に対するプレミアム/ディスカウントの変更は、短期的な市況に対応しようとすることよりも、緩慢に長期的な平均偏差の反応を測りながら行われるべきです。
 
-It is our belief that these rules will give market participants confidence that they are unlikely lose money by holding SBD purchased at a price of $1.00. We fully expect there to be a narrow trading range between $0.95 and $1.05 for SBD under normal market conditions.
+これらの規則により、$1.00で購入したSBDを保有することによって損失が生じないという信頼を、市場参加者に与えられると確信しています。 私たちは通常の市況の下でSBDが、$0.95から$1.05の狭い範囲で取引されることを全面的に期待しています。
 
-## Subjective Contributions
+## 主観的な貢献
 
-Subjective Proof of Work presents an alternative approach to distributing a currency that improves upon fully *objective* Proof of Work systems such as mining. The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
+主観的なプルーフ・オブ・ワークは、マイニングのような完全に*客観的な*プルーフ・オブ・ワークシステムを改善した通貨を分配するための別のアプローチを提示します。 The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
 
 In effect, the criteria by which work is evaluated is completely subjective and its definition lives outside the source code itself. One community may wish to reward artists, another poets, and another comedians. Other communities may choose to reward charitable causes or help advance political agendas.
 
