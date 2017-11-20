@@ -1,18 +1,18 @@
 # Steem
 
-## An incentivized, blockchain-based, public content platform.
+## インセンティブを与える、ブロックチェーンベースの公開コンテンツプラットフォーム。
 
-August 2017
+2017年8月
 
-# Translator's notes
+# 翻訳者ノート
 
-Placeholder for translator's notes.
+翻訳者ノート用プレースホルダー
 
-# Abstract
+# 概要
 
-Steem is a blockchain database that supports community building and social interaction with cryptocurrency rewards. Steem combines concepts from social media with lessons learned from building cryptocurrencies and their communities. An important key to inspiring participation in any community, currency or free market economy is a fair accounting system that consistently reflects each person's contribution. Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
+Steemは暗号通貨の報酬によって、コミュニティ構築と社会的相互作用をサポートするブロックチェーンデータベースです。 Steemは暗号通貨とそのコミュニティの構築から得た教訓と、ソーシャルメディアのコンセプトを組み合わせています。 コミュニティ、通貨、または自由市場経済への参加を促す重要な鍵は、一人一人の貢献を一貫性を持って反映する公平な会計システムです。 Steemはコミュニティに*主体的な貢献をした*無数の人々に、正確で透明性のある報酬を与えることを試みる初の暗号通貨です。
 
-# Table of Contents
+# 目次
 
 <!-- toc -->
 
