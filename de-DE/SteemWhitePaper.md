@@ -4,81 +4,81 @@
 
 August 2017
 
-# Noten van de vertaler
+# Translator's notes
 
-Vertaald door **@stino-san** (https://steemit.com/steem/@stino-san/steem-whitepaper-dutch-part-1).
+Placeholder for translator's notes.
 
 # Abstract
 
-Steem is een blockchain databank dat het vormen van gemeenschappen en sociale interactie ondersteund met cryptogeld beloningen. Steem combineert concepten uit sociale media met lessen uit het bouwen van cryptogeld en hun gemeenschappen. Een belangrijk onderdeel bij het inspireren van deelname in elke gemeenschap, valuta of vrije markteconomie is een eerlijk boekhoudkundig systeem dat de bijdrage van elke persoon consequent weerspiegelt. Steem is de eerste cryptovaluta dat probeert om op nauwkeurige en transparante wijze een onbegrensd aantal personen te belonen die *subjectief bijdragen* aan de gemeenschap.
+Steem is a blockchain database that supports community building and social interaction with cryptocurrency rewards. Steem combines concepts from social media with lessons learned from building cryptocurrencies and their communities. An important key to inspiring participation in any community, currency or free market economy is a fair accounting system that consistently reflects each person's contribution. Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
 
-# Inhoudsopgave
+# Table of Contents
 
 <!-- toc -->
 
-# Introductie
+# Einführung
 
-Collectief, heeft gebruikers gegenereerde inhoud miljarden dollars waarde gecreëerd voor de aandeelhouders van sociale media bedrijven zoals Reddit, Facebook en Twitter. **In 2014, Reddit hypothesized that its platform would be improved if everyone who contributed to reddit.com by posting stories, adding comments or voting were rewarded with a fair share in Reddit, Inc.[^1]**. Steem is gericht op het ondersteunen van sociale media en online gemeenschappen door veel van zijn waarde terug te keren aan mensen die waardevolle bijdragen maken door hen te belonen met cryptogeld, en door dit process een valuta te creëren die in staat is om een brede markt te bereiken, met begrip voor mensen die nog moeten deelnemen aan een cryptogeld economie.
+Collectively, user-generated content has created billions of dollars worth of value for the shareholders of social media companies, such as Reddit, Facebook, and Twitter. **In 2014, Reddit hypothesized that its platform would be improved if everyone who contributed to reddit.com by posting stories, adding comments or voting were rewarded with a fair share in Reddit, Inc.[^1]**. Steem aims to support social media and online communities by returning much of its value to the people who provide valuable contributions by rewarding them with cryptocurrency, and through this process create a currency that is able to reach a broad market, including people who have yet to participate in any cryptocurrency economy.
 
-Er zijn een aantal belangrijke principes gebruikt om het ontwerp van Steem te leiden. Het meest belangrijke uitgangspunt is dat, iedereen die bijdraagt aan een onderneming, pro-rata eigendom, betaling of schuld moet krijgen van de onderneming. Dit principe is hetzelfde principe dat van toepassing is bij alle startups wanneer deze aandelen toewijzen bij het oprichten of tijdens de daaropvolgende financiering rondes.
+There are some key principles that have been used to guide the design of Steem. The most important principle is that everyone who contributes to a venture should receive pro-rata ownership, payment or debt from the venture. This principle is the same principle that is applied to all startups as they allocate shares at founding and during subsequent funding rounds.
 
-Het tweede principe is dat alle vormen van kapitaal even waardevol zijn. Dit betekent dat degenen die hun schaarse tijd en aandacht bijdragen door het produceren en selecteren van inhoud voor anderen net even waardevol zijn als degenen die hun schaars geld bijdragen. Dit is het zweet eigen vermogen principe[^2] en is een concept waar voorafgaande cryptovaluta’s vaak moeite mee hadden met het te verstrekken aan meer dan enkele tientallen individuen.
+The second principle is that all forms of capital are equally valuable. This means that those who contribute their scarce time and attention toward producing and curating content for others are just as valuable as those who contribute their scarce cash. This is the sweat equity principle[^2] and is a concept that prior cryptocurrencies have often had trouble providing to more than a few dozen individuals.
 
-Het derde principe is dat de gemeenschap producten produceert om haar leden te dienen. Dit principe word geïllustreerd door credit unions, voedsel co-ops, en het delen van gezondheid plannen, welke hun leden dienen in plaats van het verkopen van producten en diensten aan mensen buiten de gemeenschap.
+The third principle is that the community produces products to serve its members. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
 
-De Steem gemeenschap bied de volgende diensten aan haar leden:
+The Steem community provides the following services to its members:
 
-1. Een bron van geselecteerd nieuws en commentaar.
-2. Een middel om kwalitatieve antwoorden te krijgen op gepersonaliseerde vragen.
-3. Een stabiele cryptovaluta gekoppeld aan de Amerikaanse dollar.
-4. Gratis betalingen.
-5. Jobs die bovenstaande diensten verstrekken aan andere leden.
+1. A source of curated news and commentary.
+2. A means to get high quality answers to personalized questions.
+3. A stable cryptocurrency pegged to the U.S. dollar.
+4. Free payments.
+5. Jobs providing above services to other members.
 
 Steem’s purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem’s incentives may result in better outcomes for most participants.
 
-## Bijdrage Herkennen
+## Recognizing Contribution
 
-Steem is van de grond af aan ontworpen om de belangrijkste belemmeringen voor adoptie en het maken van geld van een sociaal media gebaseerde economie aan te pakken. Onze stelling is dat dezelfde technieken die gebruikt worden voor de groei van grote sociale media platformen gebruikt kunnen worden om een succesvolle cryptovaluta op te starten. Economische stimulans mogelijk gemaakt door cryptogeld kan de groei van een nieuw sociaal media platform drastisch vergemakkelijken. Wij geloven dat het de synergie is tussen cryptogeld en sociale media dat Steem een krachtig voordeel kan geven in de markt.
+Steem is designed from the ground up to address the major barriers to adoption and monetization of a social media based economy. Our thesis is that the same techniques used to grow major social media platforms can be used to bootstrap a successful cryptocurrency. Economic incentives enabled by cryptocurrency can dramatically facilitate the growth of a new social media platform. It is the synergy between cryptocurrency and social media that we believe may give Steem a powerful advantage in the market.
 
-De uitdaging voor Steem is het afleiden van een algoritme voor het bijhouden van individuele bijdragen dat door de meeste leden van de gemeenschap word aanzien als een eerlijke overweging van de subjectieve waarde van elke bijdrage. In een perfecte wereld zouden leden van de gemeenschap samenwerken om elkaars bijdrage te beoordelen en een eerlijke compensatie af te leiden. In de echte wereld, moeten algoritmen ontworpen worden op een manier dat deze resistent zijn voor opzettelijke manipulatie voor winst. Elk wijdverspreid misbruik van het score systeem can leiden tot gemeenschapsleden die het geloof verliezen in de gepercipieerde eerlijkheid van het economisch systeem.
+The challenge faced by Steem is deriving an algorithm for scoring individual contributions that most community members consider to be a fair assessment of the subjective value of each contribution. In a perfect world, community members would cooperate to rate each other's contribution and derive a fair compensation. In the real world, algorithms must be designed in such a manner that they are resistant to intentional manipulation for profit. Any widespread abuse of the scoring system could cause community members to lose faith in the perceived fairness of the economic system.
 
-Bestaande platformen werken op een één gebruikers, één stem-principe. Dit creëert een omgeving waar rangorde kan worden gemanipuleerd door ‘sybil attacks’ en de dienstverleners pro actief misbruikers moeten identificeren en blokkeren. Mensen proberen al om de Reddit, Facebook en Twitter score algoritmes te manipuleren wanneer de enige beloning webverkeer of censuur is.
+Existing platforms operate on a one-user, one-vote principle. This creates an environment where rankings can be manipulated by sybil attacks and the service providers must pro-actively identify and block abusers. People already attempt to manipulate the Reddit, Facebook, and Twitter scoring algorithms when the only reward is web traffic or censorship.
 
-De fundamentele rekeneenheid op het Steem platform is STEEM, een cryptogeld token. Steem werkt op basis van één-STEEM, één-stem. Onder dit model hebben mensen die het meest hebben bijgedragen aan het platform, zoals gemeten door hun rekening balans, het meeste invloed op de manier waarop bijdragen worden gescoord. Furthermore, Steem only allows members to vote with STEEM when it is committed to a vesting schedule. Onder dit model hebben leden een financiële drijfveer om te stemmen op een manier dat de lange termijn waarde van hun STEEM maximaliseert.
+The fundamental unit of account on the Steem platform is STEEM, a crypto currency token. Steem arbeitet auf der Basis ein Steem, ein Vote. Mit diesem Modell haben Personen die am meisten zur Plattform beigetragen haben, gemessen an ihrem Kontostand, den meisten Einfluss darauf, wie hoch Beiträge bewertet werden. Furthermore, Steem only allows members to vote with STEEM when it is committed to a vesting schedule. Mit diesem Modell haben Benutzer einen finanziellen Anreiz ihre Votes in einer Weise einzusetzen, die zur Maximierung des Langzeitwertes ihres STEEM beiträgt.
 
-Steem is designed around a relatively simple concept: *everyone’s meaningful contribution to the community should be recognized for the value it adds.* When people are recognized for their meaningful contributions, they continue contributing and the community grows. Elke onbalans in het geven en nemen binnen de gemeenschap is onhoudbaar. Uiteindelijk word de gever moe van het ondersteunen van de nemer en zal deze zich los maken van de gemeenschap.
+Steem is designed around a relatively simple concept: *everyone’s meaningful contribution to the community should be recognized for the value it adds.* When people are recognized for their meaningful contributions, they continue contributing and the community grows. Any imbalance in the give and take within a community is unsustainable. Eventually the givers grow tired of supporting the takers and disengage from the community.
 
-De uitdaging is het creëren van een systeem dat in staat is te identificeren welke bijdragen en hun relatieve waarde nodig zijn op een manier dat kan geschaald worden naar een oneindig aantal mensen.
+The challenge is creating a system capable of identifying what contributions are needed and their relative worth in a way that can scale to an unbounded number of people.
 
-Een bewezen systeem voor het evalueren en belonen van bijdragen is de vrije markt. De vrije markt kan beschouwd worden als één enkele gemeenschap waar iedereen handelt met elkaar en beloningen worden toegewezen door winst en verlies. Het markt systeem beloont degenen die zorgen voor waarde aan anderen en straft degenen die meer waarde verbruiken dan ze produceren. De vrije markt ondersteunt veel verschillende valuta’s en geld is gewoon een product dat iedereen gemakkelijk vind om uit te wisselen.
+A proven system for evaluating and rewarding contributions is the free market. The free market can be viewed as a single community where everyone trades with one another and rewards are allocated by profit and loss. The market system rewards those who provide value to others and punishes those who consume more value than they produce. The free market supports many different currencies and money is simply a commodity that everyone finds easy to exchange.
 
-Omdat de vrije markt een bewezen systeem is, is het verleidelijk om te proberen een vrije markt systeem te creëren waar consumenten van inhoud, producenten van inhoud rechtstreeks betalen. Echter, rechtstreekse betaling is inefficiënt en niet haalbaar voor het creëren van inhoud en selectie. De waarde van de meeste inhoud is zo laag ten opzichte van de cognitieve, financiële en alternatieve kosten geassocieerd met het maken van een betaling die weinig lezers verkiezen te fooien. The abundance of free alternatives means that enforcing a ‘paywall’ will drive readers elsewhere. Er zijn verscheidene pogingen geweest per-artikel microbetalingen te implementeren van lezers naar gebruikers, maar geen daar van zijn wijdverspreid.
+Since the free market is a proven system, it is tempting to try to create a free-market system where content consumers directly pay content producers. However, direct payment is inefficient and not really viable for content creation and curation. The value of most content is so low relative to the cognitive, financial, and opportunity costs associated with making a payment that few readers choose to tip. The abundance of free alternatives means that enforcing a ‘paywall’ will drive readers elsewhere. There have been several attempts to implement per-article micropayments from readers to authors, but none have become widespread.
 
-Steem is ontworpen om effectieve microbetalingen voor alle soorten bijdragen in staat te stellen door het veranderen van de economische vergelijking. Lezers hoeven niet langer meer te beslissen of zij wel of niet iemand willen betalen uit hun eigen zak, in plaats daarvan kunnen ze inhoud omhoog of omlaag stemmen en Steem zal hun stemmen gebruiken om individuele beloningen te bepalen. This means that people are given a familiar and widely used interface and no longer face the cognitive, financial, and opportunity costs associated traditional micropayment and tipping platforms.
+Steem is designed to enable effective micropayments for all kinds of contribution by changing the economic equation. Readers no longer have to decide whether or not they want to pay someone from their own pocket, instead they can vote content up or down and Steem will use their votes to determine individual rewards. This means that people are given a familiar and widely used interface and no longer face the cognitive, financial, and opportunity costs associated traditional micropayment and tipping platforms.
 
-Stemmen inbreng van leden van de gemeenschap is van cruciaal belang voor Steem om nauwkeurige betalingen toe te wijzen aan medewerkers. Stemmen kan daarom worden gezien als een cruciale bijdrage en waardig voor beloningen op zichzelf. Some platforms, such as Slashdot, use meta-moderation[^3] as a way to rank and reward honest moderators. Steem kiest er voor degenen te belonen die het meest bijdragen aan de totale promotie van een stuk inhoud en beloond de kiezers proportioneel aan de ultieme beloning betaald aan de maker van de inhoud.
+Voting input from community members is critical for Steem to accurately allocate payments to contributors. Voting can therefore be viewed as a crucial contribution and worthy of rewards on its own. Some platforms, such as Slashdot, use meta-moderation[^3] as a way to rank and reward honest moderators. Steem chooses to reward those who contribute the most to the total promotion of a piece of content and rewards the voters proportional to the ultimate reward paid to the content creator.
 
-# Manieren Om Bij Te Dragen
+# Ways to Contribute
 
-In dit gedeelte worden de ideeën achter Steem en de beloningen voor mensen die zorgen voor zinvolle en meetbare bijdrage van de Steem gemeenschap beschreven.
+This section outlines the ideas behind Steem and its rewards for people who provide meaningful and measurable contributions to the Steem community.
 
-## Bijdragen In Kapitaal
+## Capital Contributions
 
-Er zijn twee items dat een gemeenschap kan aanbieden voor het aantrekken van kapitaal: schuld en eigendom. Degenen die eigendom kopen genereren winst wanneer de gemeenschap groeit, maar verliezen wanneer de gemeenschap krimpt. Degenen die schuld kopen word een zekere mate van belang verzekerd maar kunnen niet deelnemen aan een winst gerealiseerd door de groei van de gemeenschap. Beide soorten bijdragen van kapitaal zijn waardevol voor de groei van de gemeenschap en de waarde van zijn munt. Daarnaast zijn er twee manieren hoe eigendom kan worden gehouden: liquiditeit en vestiging. Vestigingseigendom maakt een verbintenis op lange termijn en kan niet worden verkocht voor een minimale periode.
+There are two items a community can offer to attract capital: debt and ownership. Those who buy ownership profit when the community grows but lose if the community shrinks. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
 
 The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SBD).
 
 ## Steem (STEEM)
 
-Steem is de fundamentele rekeneenheid op de Steem blockchain. Alle andere tokens ontlenen hun waarde aan de waarde van STEEM. STEEM is a liquid currency, and therefore can be bought or sold on exchanges, as well as transferred to other users as a form of payment.
+Steem is the fundamental unit of account on the Steem blockchain. All other tokens derive their value from the value of STEEM. STEEM is a liquid currency, and therefore can be bought or sold on exchanges, as well as transferred to other users as a form of payment.
 
 ## Steem Power (SP)
 
-Start-up bedrijven vereisen inzet over een lange termijn. Degenen die hun geld investeren in een startup wachten jaren alvorens ze hun aandelen kunnen verkopen en winsten kunnen realiseren. Zonder een inzet over een langer termijn zou een startup dat extra kapitaal zoekt door middel van het verkopen van extra aandelen moeten concurreren met bestaande aandeelhouders die wensen uit te treden. Vakkundige investeerders willen hun kapitaal bijdragen om het bedrijf te laten groeien, maar de groei kan niet gebeuren indien het nieuwe kapitaal word weggegeven aan degenen die wensen uit te treden.
+Start up companies require long-term capital commitment. Those who invest their money in a startup expect to wait years before they can sell their shares and realize their profits. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
 
-Er is aanzienlijke waarde verbonden aan een lange termijninzet want het stelt gemeenschappen in staat lange termijn plannen te maken. Lange termijn inzet van aandeelhouders zorgt er ook voor dat ze stemmen voor lange termijn groei in plaats van korte termijn pumps.
+There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
 
-In de cryptogeld wereld, springen speculanten van valuta naar valuta voornamelijk gebaseerd op welke valuta er verwacht word op korte termijn te groeien. Steem wil een gemeenschap bouwen dat grotendeels eigendom is en volledig gecontroleerd word door mensen met een lang termijn perspectief.
+In the cryptocurrency space, speculators jump from cryptocurrency to cryptocurrency based mostly on which one is expected to have short-term growth. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
 
 Users are able to commit their STEEM to a thirteen week vesting schedule, providing them with additional benefits within the platform. STEEM that has been committed to a thirteen week vesting schedule is called Steem Power (SP). SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
 
@@ -90,35 +90,35 @@ Transferring from STEEM to SP is referred to as “powering up”, while transfe
 
 ## Steem Dollars (SBD)
 
-Stabiliteit is een belangrijke eigenschap van succesvolle, globale economieën. Zonder stabiliteit, zouden mensen over de hele wereld niet in staat zijn lage cognitieve kosten te hebben terwijl ze betrokken zijn bij handel en besparingen. Omdat stabiliteit een belangrijk kenmerk is van succesvolle economieën, werden Steem Dollars ontworpen om stabiliteit te brengen in de wereld van cryptogeld en bij gebruikers van het Steem netwerk.
+Stability is an important feature of successful global economies. Without stability, individuals across the world could not have low cognitive costs while engaging in commerce and savings. Because stability is an important feature of successful economies, Steem Dollars were designed as an attempt to bring stability to the world of cryptocurrency and to the individuals who use the Steem network.
 
-Steem Dollars werden gemaakt door een mechanisme vergelijkbaar aan dat van converteerbare obligaties, welke vaak gebruikt worden om startups te financieren. In de startup wereld, zijn converteerbare obligaties instrumenten van korte termijn schuld die kunnen omgezet worden naar eigendom aan een tarief dat beslist word in de toekomst, meestal tijdens een volgende subsidieronde. Een blockchain gebaseerd token kan worden gezien als eigendom in de gemeenschap terwijl een converteerbare obligatie gezien kan worden als een schuld aangewezen in een andere grondstof of valuta. De voorwaarden van de converteerbare obligatie laten de houder toe het steun token om te zetten aan de eerlijke marktprijs en met een minimale opzegtermijn. Het creëren van token-converteerbare-dollars stelt blockchains in staat hun netwerk effect te laten groeien, terwijl het, het rendement van token houders maximaliseert.
+Steem Dollars are created by a mechanism similar to convertible notes, which are often used to fund startups. In the startup world, convertible notes are short-term debt instruments that can be converted to ownership at a rate determined in the future, typically during a future funding round. A blockchain based token can be viewed as ownership in the community whereas a convertible note can be viewed as a debt denominated in any other commodity or currency. The terms of the convertible note allow the holder to convert to the backing token with a minimum notice at the fair market price of the token. Creating token-convertible-dollars enables blockchains to grow their network effect while maximizing the return for token holders.
 
-Steem Dollars are referred to with the symbol SBD, an acronym for Steem Blockchain Dollars. Creating SBD requires a combination of a reliable price feed, and rules to prevent abuse. Het verstrekken van een betrouwbare prijs feed bestaat uit drie factoren: de impact van een onjuiste feed minimaliseren, de kost van een onjuiste feed maximaliseren, en het belang van timing minimaliseren.
+Steem Dollars are referred to with the symbol SBD, an acronym for Steem Blockchain Dollars. Creating SBD requires a combination of a reliable price feed, and rules to prevent abuse. Providing a reliable price feed involves three factors: minimizing the impact of an incorrect feed, maximizing the cost of producing an incorrect feed, and minimizing the importance of timing.
 
-### Fraude Feeds Minimaliseren
+### Minimizing Fraudulent Feeds
 
-SP holders elect individuals, called witnesses, to publish price feeds. The elected witnesses are presumably trusted by those who have a vested interest in the quality of the feed. Door degenen die verkozen zijn te betalen, creëert Steem markt concurrentie om het recht te verdienen om feeds te produceren. Hoe meer de producenten van feeds betaald worden hoe meer ze te verliezen hebben door het publiceren van valse informatie.
+SP holders elect individuals, called witnesses, to publish price feeds. The elected witnesses are presumably trusted by those who have a vested interest in the quality of the feed. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
 
-Gegeven een reeks vertrouwde en verkozen feed producenten, kan de werkelijke prijs gebruikt voor het omzetten afgeleid worden als het gemiddelde van de feeds. Op deze manier is het zo dat als een minderheid van individuele feed producenten uitschieters produceert, deze een minimale impact hebben op het werkelijke gemiddelde, terwijl het vermogen om hun reputatie te beïnvloeden behouden word.
+Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
 
-Zelfs wanneer alle feed producenten eerlijk zijn, is het onmogelijk voor de meerderheid van feed producenten om beïnvloed te worden door gebeurtenissen buiten hun controle. Het Steem netwerk is ontworpen om de korte termijn corruptie van de gemiddelde prijs feed te tolereren, terwijl de gemeenschap actief werkt om de kwestie te corrigeren. Een voorbeeld van een probleem dat enige tijd kan duren om te corrigeren is korte termijn marktmanipulatie. Marktmanipulatie is moeilijk en duur om te onderhouden voor langere perioden. Een ander voorbeeld is het falen van een gecentraliseerd wisselplatform of de corruptie van de data gepubliceerd door het wisselplatform.
+Even if all feed producers are honest, it is possible for the majority of feed producers to be impacted by events beyond their control. The Steem network is designed to tolerate short-term corruption of the median price feed while the community actively works to correct the issue. One example of an issue that may take some time to correct is short-term market manipulation. Market manipulation is difficult and expensive to maintain for long periods of time. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
 
 Steem factors out short-term price fluctuations by using the median price over a period of three and a half days. The median published feed is sampled every hour on the hour.
 
-Zolang de prijs feed corruptie duurt voor minder dan de helft van het bewegend gemiddelde tijdsverloop zal het een minimale invloed hebben op de conversie prijs. In het geval dat de feed toch corrumpeert, zullen netwerk participanten de kans krijgen producenten van corrupte feed weg te stemmen voor de corrupte feed in staat is de werkelijke conversie prijs te beïnvloeden. Misschien van nog groter belang is dat het feed producers een kans geeft om problemen te detecteren en corrigeren nog voor hun feed de prijs begint te beïnvloeden.
+As long as the price feed corruption lasts for less than half the moving median time window it will have minimal impact on the conversion price. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
 
 With a three and a half day window, community members have approximately one and a half days to respond to any issues that come up.
 
-### Timing Aanvallen Matigen
+### Mitigating Timing Attacks
 
-Market participants have access to information faster than the blockchain’s three and a half day moving median conversion price can react. Deze informatie kan gebruikt worden in het voordeel van handelaren op kosten van de gemeenschap. If there is a sudden increase in the value of STEEM traders could request conversion of their SBD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
+Market participants have access to information faster than the blockchain’s three and a half day moving median conversion price can react. This information could be used to benefit of traders at the expense of the community. If there is a sudden increase in the value of STEEM traders could request conversion of their SBD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
 
-Steem levels the playing field by requiring all conversion requests to be delayed for three and a half days. Dit betekent dat noch de handelaren, noch de blockchain enig informatie voordeel heeft betreffende de prijs op het moment dat de conversie word uitgevoerd.
+Steem levels the playing field by requiring all conversion requests to be delayed for three and a half days. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
 
-### Misbruik Van Conversies Minimaliseren
+### Minimizing Abuse of Conversions
 
-Wanneer mensen vrij zouden kunnen converteren in beide richtingen zouden handelaren kunnen profiteren van de blockchains conversiepercentages door te handelen in grote volumes zonder het veranderen van de prijs. Traders who see a massive run up in price would convert to SBD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SBD to STEEM and not the other way around.
+If people could freely convert in both directions then traders could take advantage of the blockchains conversion rates by trading large volumes without changing the price. Traders who see a massive run up in price would convert to SBD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SBD to STEEM and not the other way around.
 
 The blockchain decides how and when to create SBD and who should get it. This keeps the rate of SBD creation stable and removes most avenues of abuse.
 
@@ -513,7 +513,7 @@ Under most content monetization models, content creators leverage advertising in
 
 Creators posting to social media outlets that are connected to Steem may monetize merely by having their work recognized (or ”liked”) by the Steem community. Blockchain-based payouts are completely digital and have no middle-man. Therefore monetization by blockchain-based content rewards should be faster and much lower barrier to use than monetization by advertisements.
 
-# Conclusion
+# Fazit
 
 Steem is an experiment designed to address challenges in the cryptocurrency and social media industries by combining the best aspects from both. Steem presents earning opportunities to content creators and internet readers in ways that have not existed within the social media industry. Within Steem, individuals earn real rewards online that are directly correlated to their contributions. Those rewards may have dollar value due to the market price discovery and liquidity of Steem, and the people who hold Steem may have more exclusive earning powers than those who do not.
 
