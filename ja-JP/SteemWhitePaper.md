@@ -18,47 +18,47 @@ Steemは暗号通貨の報酬によって、コミュニティ構築と社会的
 
 # はじめに
 
-Collectively, user-generated content has created billions of dollars worth of value for the shareholders of social media companies, such as Reddit, Facebook, and Twitter. **In 2014, Reddit hypothesized that its platform would be improved if everyone who contributed to reddit.com by posting stories, adding comments or voting were rewarded with a fair share in Reddit, Inc.[^1]**. Steem aims to support social media and online communities by returning much of its value to the people who provide valuable contributions by rewarding them with cryptocurrency, and through this process create a currency that is able to reach a broad market, including people who have yet to participate in any cryptocurrency economy.
+まとめると、ユーザーが作成したコンテンツはReddit、Facebook、Twitterなどのソーシャルメディア企業の株主に何十億ドルもの財産をもたらしました。 **2014年Redditは、reddit.comに投稿や、コメント、投票によって貢献したすべての人がReddit, Inc.の株式を公平に受け取った場合、プラットフォームが改善していくという仮設を立てました。[^1]** Steemは、価値のある貢献を提供する人々に、その価値の大部分を暗号通貨の報酬で返すことにより、ソーシャルメディアとオンラインコミュニティのサポートを目指しています。そしてこのプロセスを通じて、まだ暗号通貨経済に参加していない人々を含む、幅広い市場で通用する通貨を作り出します。
 
-There are some key principles that have been used to guide the design of Steem. The most important principle is that everyone who contributes to a venture should receive pro-rata ownership, payment or debt from the venture. This principle is the same principle that is applied to all startups as they allocate shares at founding and during subsequent funding rounds.
+Steemの設計を導くために、いくつかの重要な原則が用いられました。 最も重要な原則はベンチャーに貢献したすべての人が、ベンチャーから貢献に比例した所有権、支払い、または債務を受け取るべきだということです。 この原則は、すべてのスタートアップ企業において、設立時およびその後の資金調達の場面における株式配分の原則と同じものです。
 
-The second principle is that all forms of capital are equally valuable. This means that those who contribute their scarce time and attention toward producing and curating content for others are just as valuable as those who contribute their scarce cash. This is the sweat equity principle[^2] and is a concept that prior cryptocurrencies have often had trouble providing to more than a few dozen individuals.
+第二の原則は、すべての形態の資本が同じ価値を持つということです。 つまり、貴重な時間を使い、コンテンツの制作とキュレーションに注意を向けて貢献する人は、貴重なお金を使って貢献する人と同じくらい価値があるということです。 これはスウェットエクイティの原則であり[^2]、以前の暗号通貨で多くの場合に数十人以上の人々に提供することが困難であったコンセプトです。
 
-The third principle is that the community produces products to serve its members. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
+第三の原則は、コミュニティがそのメンバーにサービスを提供する製品を作るということです。 この原則は、信用組合や、食品生協、健康保険の例のように、製品やサービスをコミュニティの外に売るのではなく、コミュニティメンバーに提供するということです。
 
-The Steem community provides the following services to its members:
+Steemコミュニティはメンバーに以下のようなサービスを提供しています:
 
-1. A source of curated news and commentary.
-2. A means to get high quality answers to personalized questions.
-3. A stable cryptocurrency pegged to the U.S. dollar.
-4. Free payments.
-5. Jobs providing above services to other members.
+1. キュレーションされたニュースと解説のソース。
+2. 個別の質問に高品質な回答を得る手段。
+3. USドルにペッグされた安定した暗号通貨。
+4. 無料の決済手段。
+5. 他のメンバーにサービスを提供する仕事。
 
-Steem’s purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem’s incentives may result in better outcomes for most participants.
+Steemの経済的インセンティブの意図的な再構築は、それ以前のソーシャルメディアや暗号通貨プラットフォームよりも、関係するすべての人々により公平で包括的な結果を生み出す可能性を持っています。 本稿では、既存の経済的インセンティブを探り、Steemのインセンティブがどのようにしてほとんどの参加者にとってより良い結果をもたらすかということを証明します。
 
-## Recognizing Contribution
+## 貢献の評価
 
-Steem is designed from the ground up to address the major barriers to adoption and monetization of a social media based economy. Our thesis is that the same techniques used to grow major social media platforms can be used to bootstrap a successful cryptocurrency. Economic incentives enabled by cryptocurrency can dramatically facilitate the growth of a new social media platform. It is the synergy between cryptocurrency and social media that we believe may give Steem a powerful advantage in the market.
+Steemは、ソーシャルメディアベースの経済の採用と収益化に対する主要な障壁に対処するために一から設計されました。 私たちは主要なソーシャルメディアプラットフォームを成長させたものと同じ技術によって、優れた暗号通貨をブートすることができると主張しています。 暗号通貨によって可能になる経済的インセンティブは、新しいソーシャルメディアプラットフォームの成長を劇的に促進するでしょう。 それはSteemに市場における強力な優位性を与えると考えられる、暗号通貨とソーシャルメディアの相乗効果です。
 
-The challenge faced by Steem is deriving an algorithm for scoring individual contributions that most community members consider to be a fair assessment of the subjective value of each contribution. In a perfect world, community members would cooperate to rate each other's contribution and derive a fair compensation. In the real world, algorithms must be designed in such a manner that they are resistant to intentional manipulation for profit. Any widespread abuse of the scoring system could cause community members to lose faith in the perceived fairness of the economic system.
+Steemが直面した課題は、個人の貢献を評価するためのアルゴリズムを導き出すことです。それはそれぞれの貢献の主観的な価値を公平に評価していると、コミュニティメンバーのほとんどが考えるものでなければなりません。 完全な世界では、コミュニティメンバーは協力してお互いの貢献の評価と公平な対価を導き出します。 実際には、利益のための意図的な操作を防ぐ方法で設計される必要があります。 評価システムが広く悪用されると、経済システムの公平感においてコミュニティメンバーの信用を失わせる原因になります。
 
-Existing platforms operate on a one-user, one-vote principle. This creates an environment where rankings can be manipulated by sybil attacks and the service providers must pro-actively identify and block abusers. People already attempt to manipulate the Reddit, Facebook, and Twitter scoring algorithms when the only reward is web traffic or censorship.
+既存のプラットフォームは1ユーザ、1投票の原則で稼働しています。 これはシビル攻撃によってランキングが操作される環境を作り出し、サービスプロバイダは積極的に悪用者を特定しブロックする必要に迫られます。 人々は、唯一の恩恵がウェブトラフィックや検閲の場合に、既にRedditやFacebook、Twitterの評価アルゴリズムの操作を試みています。
 
-The fundamental unit of account on the Steem platform is STEEM, a crypto currency token. Steemは1 STEEM、1投票に基いて動作しています。 このモデルでは、アカウントの残高によって測られるプラットフォームへの貢献度が最も高い人が、貢献度の評価方法に関して最も影響力を持ちます。 Furthermore, Steem only allows members to vote with STEEM when it is committed to a vesting schedule. このモデルでは、メンバーにはSTEEMの長期的な価値を最大にするような方法で投票するための経済的なインセンティブがあります。
+Steemプラットフォームの基本的なアカウントの単位は、STEEMという暗号通貨トークンです。 Steemは1 STEEM、1投票に基いて稼働します。 このモデルでは、アカウント残高によって評価されるプラットフォームへの貢献度が最も大きい人は、貢献の評価方法について最も大きい影響力を持ちます。 さらにSteemはメンバーに、権利付与スケジュールに委ねられたSTEEMによってのみ投票を認めています。 このモデルでは、メンバーはSTEEMの価値を長期的に最大化する方法で投票するという経済的インセンティブを持ちます。
 
-Steem is designed around a relatively simple concept: *everyone’s meaningful contribution to the community should be recognized for the value it adds.* When people are recognized for their meaningful contributions, they continue contributing and the community grows. Any imbalance in the give and take within a community is unsustainable. Eventually the givers grow tired of supporting the takers and disengage from the community.
+Steemは比較的シンプルなコンセプトで設計されています: *すべての人のコミュニティへの有意な貢献は、その付加価値によって評価されるべきです。* 有意な貢献をした人々が評価されるようになると、人々は貢献を継続し、コミュニティは成長していきます。 コミュニティ内におけるギブアンドテイクの不均衡は維持されません。 最終的に、提供者は受け手をサポートすることに疲れ、コミュニティから離れていきます。
 
-The challenge is creating a system capable of identifying what contributions are needed and their relative worth in a way that can scale to an unbounded number of people.
+課題は、無数の人々へ拡大できる方法によって、どの貢献が必要とされていてその相対的な価値はどれくらいかということを識別可能なシステムを作り出すことです。
 
-A proven system for evaluating and rewarding contributions is the free market. The free market can be viewed as a single community where everyone trades with one another and rewards are allocated by profit and loss. The market system rewards those who provide value to others and punishes those who consume more value than they produce. The free market supports many different currencies and money is simply a commodity that everyone finds easy to exchange.
+貢献度を評価し報いるための実績のあるシステムは自由市場です。 自由市場は、誰もが互いに取引し、価値や損失によって報酬が割り当てられる単一のコミュニティとして見ることができます。 市場システムは他者に価値をもたらしす者に報酬を与え、生み出した価値以上に消費する者に罰を与えます。 自由市場は様々な通貨をサポートし、お金は単に誰もが簡単に交換できる商品です。
 
-Since the free market is a proven system, it is tempting to try to create a free-market system where content consumers directly pay content producers. However, direct payment is inefficient and not really viable for content creation and curation. The value of most content is so low relative to the cognitive, financial, and opportunity costs associated with making a payment that few readers choose to tip. The abundance of free alternatives means that enforcing a ‘paywall’ will drive readers elsewhere. There have been several attempts to implement per-article micropayments from readers to authors, but none have become widespread.
+自由市場が実績のあるシステムであるため、コンテンツの消費者が直接制作者に支払う自由市場システムを作ることは良いように見えます。 しかし、コンテンツ制作やキュレーションに直接支払うことは非効率であり、実用的ではありません。 ほとんどのコンテンツの値段は、経験的、財政的、そしてほとんどの読者がチップを払うことがないということに関連した機会費用に比べて非常に低いです。 豊富な無料の代替物により、「有料の壁」を築くことは読者を逃すことになります。 読者から著者へ記事毎にマイクロペイメントを実施する試みはいくつかありましたが、どれも普及していません。
 
-Steem is designed to enable effective micropayments for all kinds of contribution by changing the economic equation. Readers no longer have to decide whether or not they want to pay someone from their own pocket, instead they can vote content up or down and Steem will use their votes to determine individual rewards. This means that people are given a familiar and widely used interface and no longer face the cognitive, financial, and opportunity costs associated traditional micropayment and tipping platforms.
+Steemは経済の方程式を変更する事によって、あらゆる種類の貢献に効果的なマイクロペイメントを行えるように設計されています。 読者は自身の財布から誰かにお金を出すべきかどうか判断する必要はなくなります。その代わりにコンテンツにプラスまたはマイナスの投票を行い、Steemはその投票によって個別の報酬を決定します。 つまり、人々は親しまれ幅広く使われるインターフェースを使うことができ、また経験的、財政的、そして従来のマイクロペイメントやチッピングプラットフォームに関する機会費用の問題を気にする必要はなくなります。
 
-Voting input from community members is critical for Steem to accurately allocate payments to contributors. Voting can therefore be viewed as a crucial contribution and worthy of rewards on its own. Some platforms, such as Slashdot, use meta-moderation[^3] as a way to rank and reward honest moderators. Steem chooses to reward those who contribute the most to the total promotion of a piece of content and rewards the voters proportional to the ultimate reward paid to the content creator.
+Steemが貢献に支払いを正しく割り当てるためには、コミュニティメンバーからの投票が重要です。 従って、投票は極めて重要な貢献であり、それ自身に報酬を与える価値があります。 Slashdotなどのいくつかのプラットフォームでは、誠実なモデレータをランク付けして報酬を出すメタモデレーション[^3]を用いています。 Steemは、一つのコンテンツの総合的なプロモーションに最も貢献した人に報酬を出すことを選択します。また、コンテンツ制作者に最終的に支払われた報酬に比例して投票者にも報酬が与えられます。
 
-# Ways to Contribute
+# 貢献の方法
 
 This section outlines the ideas behind Steem and its rewards for people who provide meaningful and measurable contributions to the Steem community.
 
