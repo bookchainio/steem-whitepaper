@@ -164,9 +164,9 @@ Steemが新しく生成するSBD量よりもSTEEM価値の成長速度が高い�
 
 ## 主観的な貢献
 
-主観的なプルーフ・オブ・ワークは、マイニングのような完全に*客観的な*プルーフ・オブ・ワークシステムを改善した通貨を分配するための別のアプローチを提示します。 The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
+主観的なプルーフ・オブ・ワークは、マイニングのような完全に*客観的な*プルーフ・オブ・ワークシステムを改善した通貨を分配するための別のアプローチを提示します。 *主観的な*プルーフ・オブ・ワークを実装した通貨の適用は、十分に定義された目的を持つどのようなコンセプトのコミュニティ構築にも適用できるためため、*客観的な*プルーフ・オブ・ワークシステムよりも遥かに広範です。 個人がコミュニティに参加する際、彼らは特定の一部の考えに賛同し、コミュニティの価値や目的を強化するために投票することができます。
 
-In effect, the criteria by which work is evaluated is completely subjective and its definition lives outside the source code itself. One community may wish to reward artists, another poets, and another comedians. Other communities may choose to reward charitable causes or help advance political agendas.
+実際、評価される仕事の基準は完全に主観的であり、その定義はソースコードの外に存在します。 あるコミュニティは芸術家や別の詩人、別のコメディアンに報酬を与えたいと望むかもしれません。 Other communities may choose to reward charitable causes or help advance political agendas.
 
 The value each currency achieves depends upon the demand for influence within a particular community and how large the market believes each community can get. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
 
