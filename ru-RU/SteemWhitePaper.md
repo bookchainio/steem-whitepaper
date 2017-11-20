@@ -1,8 +1,8 @@
 # Стим
 
-## Мотивированная Социально-Медийная Блокчейн Платформа.
+## An incentivized, blockchain-based, public content platform.
 
-Март 2016
+August 2017
 
 # Примечания переводчика
 
@@ -30,7 +30,7 @@
 
 # Введение
 
-Суммарно, контент генерируемый пользователями создал миллиарды долларов (или триллионы рублей) акционерам компаний владеющих социальными сетями, такими как Реддит, Фейсбук, Твиттер, Вконтакте и Одноклассники. **В 2014 году Реддит предположил, что его платформа может быть улучшена, если каждый, кто пользуется reddit.com публикуя истории, комментируя и голосуя, был бы вознагражден справедливой долей в Reddit Inc[^1]**. Стим нацелен на поддержку социальных медиа и онлайн сообществ, возвращая львиную долю своей стоимости в криптовалюте людям, которые делают ценные вклады (далее контрибьюции, так как имеются ввиду не только денежные вклады, но и действия, такие как голосования и публикации). В процессе этого создается валюта, которая сможет покорить сердца широких масс, включая людей которые еще не участвовали в криптовалютной экономике.
+Суммарно, контент генерируемый пользователями создал миллиарды долларов (или триллионы рублей) акционерам компаний владеющих социальными сетями, такими как Реддит, Фейсбук, Твиттер, Вконтакте и Одноклассники. **In 2014, Reddit hypothesized that its platform would be improved if everyone who contributed to reddit.com by posting stories, adding comments or voting were rewarded with a fair share in Reddit, Inc.[^1]** Steem aims to support social media and online communities by returning much of its value to the people who provide valuable contributions by rewarding them with cryptocurrency, and through this process create a currency that is able to reach a broad market, including people who have yet to participate in any cryptocurrency economy.
 
 Существует несколько ключевых принципов которые были использованы в дизайне Стима. Самый важный принцип - принцип справедливой доли. Если кто-то участвует в каком-либо предприятии, то он должен зарабатывать пропорционально собственность в этом предприятии или возвратный долг. Это принцип, который применим ко всем стартапам, когда они распределяют доли при основании компании, и в процессе увеличения капитализации.
 
@@ -46,7 +46,7 @@
 4. Бесплатные платежи.
 5. Работа по предоставлению услуг для других членов.
 
-Целенаправленная переориентация Стима на экономические стимулы имеет потенциал производить более справедливые и уникальные результаты для всех людей вовлеченных в социальные медиа и криптовалюты, чем те, что существовали до этого. В этой бумаге мы исследуем существующие экономические стимулы и продемонстрируем как стимулы Стима могут влиять на лучшие результаты для большинства участников.
+Steem’s purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem’s incentives may result in better outcomes for most participants.
 
 ## Определение Контрибьюции
 
@@ -56,507 +56,345 @@
 
 Существующие платформы работают по принципу один пользователь - один голос. Это создает окружение в котором рейтинги могут быть манипулированы при помощи атак Сибиллы, а провайдеры услуг на таких платформах должны активно идентифицировать и блокировать злоупотребления. Люди уже пробовали манипулировать скоринговыми алгоритмами Реддита, Фейсбука и Твиттера. В таких манипуляциях единственная награда - это веб-трафик или цензура.
 
-Фундаментальная единица учета в Стиме - это стим, криптовалютный токен. Стим функционирует по принципу один стим - один голос. Эта модель подразумевает, что действия индивидов оцениваются по учетному балансу тех, кто их оценивает. Более того, Стим позволяет своим членам голосовать используя стимы (тут и далее стим употребляется к денежная единица, Стим - как протокол, система (англ. Steem)) только в случае если они перечислены на долгосрочный инвестиционный счет. Такие стимы называются стим-мощь. При помощи этой модели члены имеют финансовые стимулы голосовать способом, максимизирующим долгосрочную ценность Стима.
+Фундаментальная единица учета в Стиме - это стим, криптовалютный токен. Стим функционирует по принципу один стим - один голос. Эта модель подразумевает, что действия индивидов оцениваются по учетному балансу тех, кто их оценивает. Furthermore, Steem only allows members to vote with STEEM when it is committed to a vesting schedule. При помощи этой модели члены имеют финансовые стимулы голосовать способом, максимизирующим долгосрочную ценность Стима.
 
-Стим разработан вокруг достаточно простого концепта: *значимая контрибьюция каждого должна быть распознана как стоимость, которую она добавляет.* Когда значимые контрибьюции каждого распознаются, люди продолжают контрибьютить, и сообщество растет. Любой дисбаланс в том, кто сколько дает и сколько получает, приводит в неустойчивому положению системы. В конце концов, те кто дают - устают давать тем кто берет, и уходят из сообщества.
+Steem is designed around a relatively simple concept: *everyone’s meaningful contribution to the community should be recognized for the value it adds.* When people are recognized for their meaningful contributions, they continue contributing and the community grows. Любой дисбаланс в том, кто сколько дает и сколько получает, приводит в неустойчивому положению системы. В конце концов, те кто дают - устают давать тем кто берет, и уходят из сообщества.
 
 Проблема в создании системы способной идентифицировать какие контрибьюции необходимы, а также их относительную стоимость таким образом, чтобы она работала для неограниченного количества людей.
 
 Доказанная система оценки и вознаграждения - это свободный рынок. Свободный рынок может быть рассмотрен как одно сообщество, в котором каждый торгует с каждым, а вознаграждения перераспределяются через прибыли и убытки. Рыночная система вознаграждает тех, кто обеспечивает ценность другим, и штрафует тех, кто потребляет больше ценности чем производит. Свободный рынок поддерживает много разных валют, а деньги это просто товар, который каждый находит простым для обмена.
 
-Так как свободный рынок - это доказанная система, заманчиво создать систему основанную на свободном рынке, в которой потребители контента напрямую платят производителям контента. Однако, прямые платежи не эффективны, и в действительности нежизнеспособны для создания и курирования контента. Ценность большинства контента настолько ничтожна в сравнении с когнитивными, финансовыми и альтернативными затратами, что очень мало людей хотят оставлять на чай. Изобилие бесплатных альтернатив показывает, что вынуждение к оплате заставляет читателей уходить куда-то еще. Было несколько попыток реализовать микроплатежи за каждую статью от читателей авторам, но ни один из таких проектов не стал широко популярным.
+Так как свободный рынок - это доказанная система, заманчиво создать систему основанную на свободном рынке, в которой потребители контента напрямую платят производителям контента. Однако, прямые платежи не эффективны, и в действительности нежизнеспособны для создания и курирования контента. Ценность большинства контента настолько ничтожна в сравнении с когнитивными, финансовыми и альтернативными затратами, что очень мало людей хотят оставлять на чай. The abundance of free alternatives means that enforcing a ‘paywall’ will drive readers elsewhere. Было несколько попыток реализовать микроплатежи за каждую статью от читателей авторам, но ни один из таких проектов не стал широко популярным.
 
-Стим разработан для того, чтобы сделать эффективные микроплатежи для всяких контрибьюций меняя экономическое уравнение. Читателям теперь не надо решать хотят или не хотят они заплатить кому-то из собственного кармана. Взамен, они могут голосовать за контент, а Стим будет использовать их голоса для определения вознаграждений. Это означает, что людям дается привычный и общепринятый интерфейс, и им не надо будет нести когнитивные, финансовые и альтернативные затраты ассоциированные с традиционными микроплатежными платформами.
+Стим разработан для того, чтобы сделать эффективные микроплатежи для всяких контрибьюций меняя экономическое уравнение. Читателям теперь не надо решать хотят или не хотят они заплатить кому-то из собственного кармана. Взамен, они могут голосовать за контент, а Стим будет использовать их голоса для определения вознаграждений. This means that people are given a familiar and widely used interface and no longer face the cognitive, financial, and opportunity costs associated traditional micropayment and tipping platforms.
 
-Голосование сообщества критично для Стима, чтобы точно распределять платежи контрибьюторам. Голосование таким образом может быть рассмотрено как ключевой вид контрибьюции, и также достойно вознаграждения само по себе. Некоторые платформы, такие как Slashdot, используют мета-модерацию [^3]как способ вознаграждения честных модераторов. Стим решил вознаграждать тех, что контрибьютит больше в общее продвижение каждого кусочка контента, и вознаграждает голосующих пропорционально вознаграждению, которое оплаченно автору.
-
-Существуют другие формы вклада, которые Стим признает и вознаграждает используя объективные метрики. В числе таких вознаграждений: валидация транзакций, майнинг через Proof-of-Work (далее - доказательство работой), вознаграждение за ликвидность и жалобы на недобросовестных производителей блоков.
+Голосование сообщества критично для Стима, чтобы точно распределять платежи контрибьюторам. Голосование таким образом может быть рассмотрено как ключевой вид контрибьюции, и также достойно вознаграждения само по себе. Some platforms, such as Slashdot, use meta-moderation[^3] as a way to rank and reward honest moderators. Стим решил вознаграждать тех, что контрибьютит больше в общее продвижение каждого кусочка контента, и вознаграждает голосующих пропорционально вознаграждению, которое оплаченно автору.
 
 # Способы Контрибьюции
 
-Эта секция описывает идеи стоящие за Стимом и его вознаграждениями людям, которые обеспечивают измеримые и наполненные смыслом контрибьюции в Стим сообщество.
+This section outlines the ideas behind Steem and its rewards for people who provide meaningful and measurable contributions to the Steem community.
 
 ## Контрибьюции Капиталом
 
-Существует два способа которые может предложить сообщество для привлечения капитала: долг и собственность. Те, кто покупают собственность получают прибыль когда сообщество растет, но теряют если сообщество уменьшается. Тем кто покупает долг гарантируется конкретное количество процентного дохода, но при этом отсутствует вознаграждение за рост сообщества. Оба типа контрибьюции капитала ценны для роста сообщества и ценности ее валюты. Дополнительно существует два типа собственности, которыми можно обладать: ликвидная собственность и инвестиционная собственность. Инвестиционная собственность обеспечивает долгосрочной гарантией, но не может быть продана в определенный период времени.
+There are two items a community can offer to attract capital: debt and ownership. Those who buy ownership profit when the community grows but lose if the community shrinks. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
 
-Сеть Стим называет эти разные классы активов - стим (англ. steem, тикер STEEM), стим-мощь (англ. steam power, тикер SP) и стим-баксы (англ. steem dollars, тикер SMD).
+The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SBD).
 
 ## Стим (STEEM)
 
-Стим - это фундаментальный единица учета в блокчейне Стим. Все другие токены наследуют свою стоимость от ценности стима. Стимы имеет смысл держать короткий промежуток времени, когда необходима ликвидность. Для того, чтобы войти или выйти из платформы Стим необходимо купить или продать стимы. После приобретения стимов они должны быть конвертированы в стим-мощь или стимбаксы для избежания последствий размытия в долгосрочном периоде.
-
-Стим постоянно увеличивает количество стимов на 100% в год в целях реализации системы мотивирования. Ликвидные стимы не конвертированные в стим-мощь размываются на ~0.19% ежедневно. На первый взгляд такая ставка может показаться высокой. Но для транзакций которые занимают менее 10 дней это все равно дешевле чем комиссии кредитных карт за процессинг. Более того, ежедневное создание токенов незначительно по отношению к дневной волатильности.
-
-Можно легко потерять более 3% по причине ценовых колебаний купив биткоины (или любую другую криптовалюту) и продав их на 10 дней позже. Обычно только комиссионые бирж составляют более чем 0.4% при покупке и продажи биткоинов в тот же день. Таким образом процент инфляции не значителен в период когда среднестатистический индивид держит стим.
-
-Большая часть инфляции - это по факту учетный артефакт, а не действительное перераспределение богатства. 90% инфляции не связанной со стимбаксами распределяется обратно держателям стимов пропорционально оценке их стим-мощи. Таким образом инфляцию можно рассматривать как отчисление 10% процентов инфляции не связанной со стимбаксами тем, кто контрибьютит в развитие сообщества.
+Steem is the fundamental unit of account on the Steem blockchain. All other tokens derive their value from the value of STEEM. STEEM is a liquid currency, and therefore can be bought or sold on exchanges, as well as transferred to other users as a form of payment.
 
 ## Стим-мощь (SP)
 
-Стартапы требуют долгосрочный коммитмент капитала. Обычно инвесторы стартапов планируют ждать года перед тем, как продать свои акции и зафиксировать прибыль. Без долгосрочных гарантий стартап, пытающийся закрыть очередной раунд инвестиции через продажу дополнительных акций, будет конкурировать с существующими акционерами, которые могут искать способы фиксации прибыли. Смышленые инвестора хотят чтобы их капитал способствовал росту компании, но рост не может происходить, если новый капитал выдается тем, кто ищет способы выйти.
+Start up companies require long-term capital commitment. Those who invest their money in a startup expect to wait years before they can sell their shares and realize their profits. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
 
-В долгосрочных гарантиях кроется существенная ценность, потому-что они дают возможность сообществам планировать наперед. Долгосрочные гарантии акционеров также способствуют обеспечению долгосрочного роста, а не созданию краткосрочных пузырей.
+There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
 
-В криптовалютном сообществе спекулянты прыгают с одной криптовалюты на другую, основываясь в основном на ожиданиях роста в краткосрочном периоде. Стим хочет построить сообщество, которое принадлежит и полностью контролируется людьми, которые ориентируются на долгосрочную перспективу.
+In the cryptocurrency space, speculators jump from cryptocurrency to cryptocurrency based mostly on which one is expected to have short-term growth. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
 
-Стим стремится поощрять долгосрочный рост, поэтому запрограммировано направлять 9 стимов держателям стим-мощи на каждый 1 стим, создаваемый для обеспечения роста путем стимуляции контрибьюции. Со временем это приведет к тому, что отношение всех балансов стим-мощи к общему количеству стим балансов будет равно 9:1. (Вероятно, это соотношение будет немного больше чем 9:1 из-за продолжающегося роста стим-мощи от вновь напечатанных стимов.) Это также означает, что долгосрочные держатели практически полностью защищены от размытия используемого для того, чтобы профинансировать рост.
+Users are able to commit their STEEM to a thirteen week vesting schedule, providing them with additional benefits within the platform. STEEM that has been committed to a thirteen week vesting schedule is called Steem Power (SP). SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
 
-Стим-мощь может быть конвертирована назад в стимы в течение 2 лет по 104 равных недельных выплаты. 1 стим-мощь может быть рассмотрена как акция в пуле стимов. Сеть автоматически добавляет стим в этот пул каждый блок. В любой момент пользователи могут конвертировать стимы в стим-мощь по тому же курсу, что и количество стимов в инвестиционном пуле по отношению к общему количеству стим-мощи. Конвертация стимов в стим-мощь не размывает текущих держателей стим-мощи. К счастью, стим-мощь конвертируется обратно по текущему курсу. Индивиды гарантированно получают больше стимов в будущем, чем первоначально конвертировано в стим-мощь.
+When users vote on content, their influence over the distribution of the rewards pool is directly proportional to the amount of SP that they have. Users with more SP have more influence on the distribution of rewards. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
 
-Баланс стим-мощи неперемещаем и неделим за исключением автоматических периодических запросов на конвертацию. Это означает, что стим-мощью нельзя легко торговать на криптовалютных биржах.
+SP holders are also paid interest on the balance of SP that remains vested. 15% of the yearly inflation is paid to SP holders as interest. The amount of the interest that they receive is directly proportional to the amount of SP they hold relative to the total amount of vested SP across all users.
 
-Стим-мощь требуется для голосования в поддержку или против контента. Это означает, что стим-мощь - это токен доступа, который дает своим держателям эксклюзивные права внутри платформы Стим.
+Transferring from STEEM to SP is referred to as “powering up”, while transferring from SP to STEEM is referred to as “powering down.” SP that is powered down is returned to the user over a period of thirteen weeks, via 13 equal weekly payments, starting one week after the power down is initiated.
 
-Конвертация из стимов в стим-мощь называется усилением, а перевод из стим-мощи в стимы называется "ослаблением". Кто угодно может ослаблять свои стимы в течение двух лет, и кто угодно может моментально их усилить.
+## Steem Dollars (SBD)
 
-## Стимбаксы (SMD)
+Stability is an important feature of successful global economies. Without stability, individuals across the world could not have low cognitive costs while engaging in commerce and savings. Because stability is an important feature of successful economies, Steem Dollars were designed as an attempt to bring stability to the world of cryptocurrency and to the individuals who use the Steem network.
 
-Стабильность - это важное свойство успешных глобальных экономик. Без стабильности люди во всем мире не могут нести низкие когнитивные затраты в процессе коммерческой деятельности или накопления капитала. Вследствие того, что стабильность - это важное свойство успешных экономик, был разработан стим-бакс, как попытка принести стабильность в мир криптовалют, и людям, которые пользуются сетью Стим.
+Steem Dollars are created by a mechanism similar to convertible notes, which are often used to fund startups. In the startup world, convertible notes are short-term debt instruments that can be converted to ownership at a rate determined in the future, typically during a future funding round. A blockchain based token can be viewed as ownership in the community whereas a convertible note can be viewed as a debt denominated in any other commodity or currency. The terms of the convertible note allow the holder to convert to the backing token with a minimum notice at the fair market price of the token. Creating token-convertible-dollars enables blockchains to grow their network effect while maximizing the return for token holders.
 
-Стим-баксы создаются механизмом похожим на конвертируемый займ, который часто используется в стартапах. В мире стартапов конвертируемый займ это краткосрочный долговой инструмент, который может быть конвертирован в собственность по курсу определяемому в будущем, как правило в период следующего раунда инвестиций. Токен стим может быть рассмотрен как собственность в сообществе, в то время как конвертируемый займ - стим-бакс, может быть рассмотрен как долг деноминированный в американских долларах. Конвертируемый займ позволяет держателю конвертировать его в токен собственности, которым этот долг обеспечен с минимальными предупреждениями по справедливой рыночной цене. Создание конвертируемых в токены собственности долларов позволяет блокчейнам наращивать их сетевые эффекты, в то же время максимизируя возврат для держателей токенов собственности.
-
-Стим-баксы обозначаются символом SMD, аббревиатура для Steem Dollars. Создание стим-баксов требует: комбинацию мер по обеспечению надежного потока ценовых данных, правил для предотвращения злоупотреблений, ликвидность. Обеспечение надежного потока ценовых данных (далее ценовой фид от англ. price feed) включает три фактора: минимизация последствий некорректного ценового фида, максимизация стоимости производства некорректного ценового фида и минимизация значимости временного фактора.
+Steem Dollars are referred to with the symbol SBD, an acronym for Steem Blockchain Dollars. Creating SBD requires a combination of a reliable price feed, and rules to prevent abuse. Providing a reliable price feed involves three factors: minimizing the impact of an incorrect feed, maximizing the cost of producing an incorrect feed, and minimizing the importance of timing.
 
 ### Минимизация Недоброкачественных Ценовых Фидов
 
-Держатели стим-мощи избирают других людей, делегатов, (в оригинале witness - свидетель. Но так как по сути эта роль подразумевает гораздо более широкие полномочия чем подписание блоков, я решил использовать термин делегат) для публикации ценовых фидов. Предполагается, что эти избранные индивиды доверенны теми, кто поставили свои инвестиции на качество ценового фида. Оплачивая делегатов, Стим создает рыночную конкуренцию на право заработка по производству ценовых фидов. Чем лучше оплачивается труд производителей фидов, тем больше они теряют при публикации недостоверной информации.
+SP holders elect individuals, called witnesses, to publish price feeds. The elected witnesses are presumably trusted by those who have a vested interest in the quality of the feed. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
 
-Учитывая факт, что производители ценовых фидов доверенны и избранны, актуальная цена, используемая для конверсии, может быть определена как медиана совокупности ценовых фидов. Таким образом любое меньшинство индивидуальных производителей фидов, поставляющих сильно различающиеся данные, имеет минимальное влияние на текущую медиану, одновременно оставляя возможность повлиять на репутацию такого меньшинства.
+Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
 
-Даже если все производители фидов честные, возможна ситуация когда большинство производителей фидов будут подвержены последствиям событий, которые они не контролируют. Сеть Стим разработана устойчивой к краткосрочным повреждения медианы цены в момент, когда сообщество активно работает над решением проблемы. Одним из примеров проблемы, которая может занять некоторое время на исправление, это краткосрочная манипуляция рынком. Манипуляции рынком сложны и затратны для манипуляций на протяжении продолжительного периода. Другим примером может быть сбой централизованной биржи или повреждение данных публикуемой биржей.
+Even if all feed producers are honest, it is possible for the majority of feed producers to be impacted by events beyond their control. The Steem network is designed to tolerate short-term corruption of the median price feed while the community actively works to correct the issue. One example of an issue that may take some time to correct is short-term market manipulation. Market manipulation is difficult and expensive to maintain for long periods of time. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
 
-Стим сглаживает краткосрочные ценовые колебания используя медиану цены за неделю. Публикуемая медиана цены сэмплируется на ежечасной основе.
+Steem factors out short-term price fluctuations by using the median price over a period of three and a half days. The median published feed is sampled every hour on the hour.
 
-До тех пор пока повреждение ценового фида продолжается менее чем половину плавающей медианы временного окна, такое повреждение будет ничтожным образом влиять на цену конверсии. В случае если ценовой фид был поврежден, участники сети имеют возможность исключить коррумпированного производителя ценового фида до момента, когда поврежденный ценовой фид сможет сильно повлиять на цену конверсии. Важно еще и то, что такой подход дает возможность производителям фидов определять и исправлять проблемы до момента, когда ценовой фид повлияет на цену.
+As long as the price feed corruption lasts for less than half the moving median time window it will have minimal impact on the conversion price. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
 
-С временным окном в одну неделю у сообщества есть три с половиной дня на то, чтобы решить любые возникающие вопросы с повреждением ценового фида.
+With a three and a half day window, community members have approximately one and a half days to respond to any issues that come up.
 
 ### Смягчение Временных Атак
 
-Участники рынка имеют доступ к информации быстрее, чем может отреагировать недельное окно плавающей медианы конверсионной цены блокчейна. Эта информация может быть использована для обогащения трейдеров за счет сообщества. Если происходит внезапный рост ценности стимов, трейдеры могут отправлять стим-баксы на конверсию по старой, более низкой цене, и затем продавать стимы, которые они получают по новой, более высокой цене с минимальным риском.
+Market participants have access to information faster than the blockchain’s three and a half day moving median conversion price can react. This information could be used to benefit of traders at the expense of the community. If there is a sudden increase in the value of STEEM traders could request conversion of their SBD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
 
-Стим ограничивает правила игры требуя, чтобы все запросы на конверсию были отложены на одну неделю. Это означает, что ни трейдеры, ни блокчейн не имеют никакого информационного преимущества относительно цены на момент исполнения запроса на конверсию.
+Steem levels the playing field by requiring all conversion requests to be delayed for three and a half days. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
 
 ### Минимизация Злоупотреблений с Конверсией
 
-Если люди смогут свободно конвертировать стим-баксы в обоих направлениях, трейдеры смогут получить преимущество на конверсионной ставке блокчейна, торгуя на большие объемы без изменения цены. Торговцы которые заметили существенный подъем цены, смогли бы конвертировать стим-баксы по более высокой цене (когда это максимально рискованно), а затем конвертировать обратно после коррекции. Стим протокол защищает сообщество от подобного рода злоупотреблений позволяя людям конвертировать стим-баксы в стимы, но не наоборот.
+If people could freely convert in both directions then traders could take advantage of the blockchains conversion rates by trading large volumes without changing the price. Traders who see a massive run up in price would convert to SBD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SBD to STEEM and not the other way around.
 
-Блокчейн решает как и когда создавать стим-баксы, и кто их должен получить. Это держит уровень создания стим-баксов стабильным и убирает всякие возможности для злоупотреблений.
+The blockchain decides how and when to create SBD and who should get it. This keeps the rate of SBD creation stable and removes most avenues of abuse.
 
-### Ликвидность
+### Sustainable Debt to Ownership Ratios
 
-Факт того, что стим-баксы могут быть конвертированы в стимы по справедливой цене в разумный промежуток времени не означает, что такой инструмент может быть рассмотрен как надежная замена доллару. Такие активы требуют достаточной ликвидности на рынке, чтобы сделать возможным моментальные конверсии между стимом и стим-баксами. Меры, которые обязан предпринять блокчейн для того, чтобы избежать злоупотреблений, приводят к снижению качества конвертируемых долларов. Для компенсации потери качества, блокчейн может предложить вознаграждения с фиксированной стоимостью поставщикам ликвидности. В то время как потенциальные потери от манипуляций и злоупотреблений неограниченны, стоимость стимуляции ликвидностью может быть фиксированной.
+If a token is viewed as ownership in the whole supply of tokens, then a token-convertible-dollar can be viewed as debt. If the debt to ownership ratio gets too high the entire currency can become unstable. Debt conversions can dramatically increase the token supply, which in turn is sold on the market suppressing the price. Subsequent conversions require the issuance of even more tokens. Left unchecked the system can collapse leaving worthless ownership backing a mountain of debt. The higher the debt to ownership ratio becomes the less willing new investors are to bring capital to the table.
 
-Поставщики ликвидности покупают, а также продают стим-баксы и стимы. Они берут на себя большинство краткосрочных ценовых рисков и долгосрочный риск ценового фида, давая оставшимся участникам рынка высококачественный, экстремально ликвидный рынок на котором можно торговать.
+A rapid change in the value of STEEM can dramatically change the debt-to-ownership ratio. The blockchain prevents the debt-to-ownership ratio from getting too high, by reducing the amount of STEEM awarded through SBD conversions if the debt level were to exceed 10%. If the amount of SBD debt ever exceeds 10% of the total STEEM market cap, the blockchain will automatically reduce the amount of STEEM generated through conversions to a maximum of 10% of the market cap. This ensures that the blockchain will never have higher than a 10% debt-to-ownership ratio.
 
-В Стиме предусмотрен блокчейн рынок между стим-баксами и стимами. Пользователи могут зарабатывать вознаграждение, обеспечивая ликвидность по обоим сторонам рынка. Блокчейн использует простой алгоритм для ранжирования предоставления и потребления ликвидности каждым пользователем.
+The percentage floors used to compute STEEM creation are based on the supply including the STEEM value of all outstanding SBD and SP (as determined by the current rate / feed).
 
-Пользователь считается поставщиком ликвидности, если у него открыт ордер как минимум 30 минут, и этот ордер в конце концов выполнен. Если ордер отменен перед исполнением считается, что пользователь не обеспечил ликвидность.
+### Interest
 
-Пользователь должен обеспечивать ликвидность по обоим сторонам стакана для того, чтобы претендовать на вознаграждение. Также ликвидность должна быть обеспечена равномерно во времени. Используется следующий скоринговый алгоритм:
+SBD pays holders interest. The interest rate is set by the same people who publish the price feed so that it can adapt to changing market conditions. All debt carries risk to the lender. Someone who holds SBD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SBD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
 
-      Очки Ликвидности = Сумма объема покупок x Сумма объем продаж
-    
+STEEM and SP holders gain leverage when members of the community are willing to hold SBD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
 
-Каждый час аккаунт с самым большим количеством очков ликвидности получает 1200 стимов. После получения вознаграждения очки ликвидности для такого аккаунта сбрасываются до нуля. Очки аккаунта, который работает неделю без зарабатывания очков ликвидности, также сбрасываются на 0. Это означает, что поставщик ликвидности обеспечивает большое количество ликвидности за малое количество времени или малое количество ликвидности за продолжительное количество времени. Все такие поставщики получают пропорциональное количество вознаграждений. В случае, если сумма объемов покупок или сумма объемов продаж отрицательная, в таком случае очки ликвидности считаются равными 0.
+### Setting Price Feeds
 
-### Устойчивое Соотношение Собственности к Долгам
-
-Если стим рассматривать как собственность во всем предложении стимов, тогда конвертируемый в стим доллар может быть рассмотрен как долг. Если соотношение долгов к собственности становится слишком высоким, валюта может стать нестабильной. Конверсии стим-баксов в стимы могут драматическим образом увеличивать объем стимов, что в свою очередь будет приводить к их продаже на рынке, тем самым оказывая сильное давление на цену. Постоянные конверсии из стим-баксов в стимы требуют выпуска еще большего количества стимов. Если это не контролировать, то система коллапсирует, оставляя собственность, обеспеченную горой долгов. Чем выше становится коэффициент долг / собственность, тем меньше новых инвесторов будут хотеть принести капитал к столу.
-
-На каждый 1 стим-бакс, Стим создает 19 стимов конвертированных в стим-мощь. Это означает, что максимально возможный коэффициент долг / собственность, в условиях стабильных рынков, составит 1:19 или в районе 5%. Если стим резко потеряет в цене 50%, тогда соотношение вырастет до 10%. 88% падение цены стима может привести к соотношению 40%. Предполагается, что стоимость стима в конце концов стабилизируется, а отношение долга к собственному капиталу естественным образом вернется к целевым 5%.
-
-Идея поддерживать консервативные 5% в том, что даже если все долги конвертированы и проданы на рынке, то должно быть достаточное количество покупателей, при этом относительное размытие собственников должно оставаться относительно низким.
-
-Быстрое изменение цены стима может драматическим образом изменять коэффициент долга по отношению к собственному капиталу. Процентные пороги используемые для вычисления количества создаваемых стимов основаны на общем количестве токенов, включая стоимость стимов и стимбаксов (по оценке текущего ценового фида).
-
-### Процентная ставка
-
-Стим-баксы платят держателям процентный доход. Процентная ставка устанавливается теми же самыми людьми, которые публикуют ценовые фиды таким образом, чтобы можно было адаптироваться к изменяющимся рыночным условиям. Долги всегда означают риски для заемщика. Если кто-то держит стим-баксы не погашая их, он очевидным способом кредитует сообщество стоимостью этих долларов. Такие люди верят, что в определенный момент времени в будущем будет кто-то, кто купит стим-баксы у них за американский доллар, или спекулянты и инвесторы захотят купить стимы, в которые всегда можно конвертировать стим-баксы.
-
-Держатели стимов и стим-мощи получают финансовый левередж, когда члены сообщества имеют желание держать стим-баксы. Этот левередж усиляет результаты роста и вносит свой вклад в развитие Стима. Держатели стимов страдают от постоянного размывания если цена падает. Криптовалютные проекты показали, что доходы от роста пользовательской базы, которые желают доверять сети свой капитал, добавляют гораздо больше ценности сети, чем любое размытие, которое может случиться во время разворота цены в обратном направлении.
-
-### Установка ценовых фидов
-
-Проницательные читатели поймут, что актив, платящий процент с ограниченным предложением, может торговаться выше или ниже, чем стоимость обеспечивающего актива, в зависимости от возможностей зарабатывать процент по такому же активу. При высокой процентной ставке, выплачиваемой по активу, привязанному к американскому доллару, много людей будут желать купить ограниченный объем стим-баксов до тех пор пока он больше не будет стоить 1 американский доллар. В любой экономической системе существует принцип известный как Невозможная Троица[^4], который постулирует, что система не может иметь сразу три свойства в один момент времени:
+Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
 
 1. Стабильная обменная ставка
 2. Свободное движение капитала
 3. Независимая денежная политика
 
-Если производители ценовых фидов Стима будут иметь независимую денежную политику позволяющую создавать или уничтожать стим-баксы, в то же время сохраняя полный контроль над процентной ставкой, тогда у них возникнут проблемы. Невозможная Троица говорит, что стимбаксы либо нуждаются в ограничении движения капитала, либо должны иметь нестабильный обменный курс по отношению к доллару, либо иметь ограниченный контроль над процентной ставкой.
+If Steem feed producers aim to have an independent monetary policy allowing it to create and destroy Steem Dollars while simultaneously having full control over the interest rate then they will encounter problems. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
 
-Ключевая задача производителей ценовых фидов - это обеспечение стабильного конверсионного курса стимбаксов 1:1 по отношению к американскому доллару. В случае если стимбакс начинает стабильно торговаться дороже $1.00, то выплата процентов должна быть остановлена. В случае если рынок с нулевой процентной ставкой на долг нуждается в премии, можно утверждать, что рынок желает дать в долг больше, чем сообщество желает взять в долг. Если это случится, то стим-бакс будет торговаться дороже $1.00. В таком случае сообщество мало что сможет сделать без применения отрицательных процентных ставок.
+The primary concern of Steem feed producers is to maintain a stable one-to-one conversion between SBD and the U.S. Dollar (USD). Any time SBD is consistently trading above $1.00 USD interest payments must be stopped. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SBD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
 
-Если коэффициент долг/собственность менее 10% и стим-баксы торгуются дешевле $1.00, тогда процентная ставка должна быть увеличена. Это будет стимулировать больше людей держать стим-баксы и поддержит их цену.
+If the debt-to-ownership ratio is low and SBD is trading for less than $1.00, then the interest rate should be increased. This will encourage more people to hold their SBD and support the price.
 
-Если стим-баксы торгуются дешевле $1.00 и коэффициент долг/собственность более 10% тогда фиды должны быть скорректированы вверх, чтобы увеличить количество выдаваемых Стимов за стим-баксы. Это увеличит спрос на стим-баксы, в то же время снижая коэффициент долг/собственность тем самым возвращая стим-бакс к долларовому паритету.
+If SBD trades for less than $1.00 USD and the debt-to-ownership ratio is high, then the feeds should be adjusted upward give more STEEM per SBD. This will increase demand for SBD while also reducing the debt-to-ownership ratio and returning SBD to parity with USD.
 
-Предполагая, что ценность стимов растет быстрее, чем Стим создает новые стим-баксы коэффициент долг/собственность должен оставаться в целевом диапазоне. При таком подходе от предлагаемого процента выиграют все. Если ценность сети остается на месте или падает, в таком случае предлагаемая процентная ставка сделает коэффициент долг/собственность хуже.
+Assuming the value of STEEM is growing faster than Steem is creating new SBD, the debt-to-ownership ratio should remain under the target ratio and the interest offered benefits everyone. If the value of the network is flat or falling, then any interest offered will only make the debt-to-ownership ratio worse.
 
-В результате производители фидов являются доверенными лицами с обязанностью устанавливать монетарную политику в целях поддерживания стабильной привязки к американскому доллару. Злоупотребление этой властью может навредить стоимости стимов и стим-мощи, поэтому имеет смысл мудро голосовать за делегатов в которых есть уверенность, что они будут производить корректные фиды и устанавливать адекватные процентные ставки в соответствии с правилами определенными выше.
+In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
 
-Если коэффициент долг/собственность становится опасно высоким, а участники рынка решают избегать запросов на конверсию, то ценовые фиды должны быть скорректированы, чтобы увеличить конверсионный курс стим/стим-бакс.
+If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SBD.
 
-Изменения в политике процентных ставок и/или любых премий/дисконтов на конверсионный курс стим/стимбакс должен быть медленным и измеримым ответом на долгосрочные средние отклонения, нежели попыткой ответа на краткосрочные рыночные условия. Блокчейн платит провайдерам ликвидности за их услуги компенсируя краткосрочные потребности.
+Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SBD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions.
 
-Мы верим, что эти правила дадут участникам рынка уверенность, что потеря денег держателями стим-баксов маловероятна при условии покупки по курсу $1.00. Мы ожидаем, что будет соблюдаться узкий торговый коридор на стимбакс в диапазоне от $0.99 до $1.01 при большинстве рыночных условий.
+It is our belief that these rules will give market participants confidence that they are unlikely lose money by holding SBD purchased at a price of $1.00. We fully expect there to be a narrow trading range between $0.95 and $1.05 for SBD under normal market conditions.
 
 ## Субъективные Контрибьюции
 
-Субъективный механизм Proof-of-Work (доказательство работой) представляет собой альтернативный подход к дистрибуции валюты и является улучшением полностью *объективного* механизма Proof-of-Work такого как майнинг. Приложения валюты применяющей *субъективное* доказательство работой намного шире, чем любой механизм *объективного* доказательства систем, потому что они могут быть применены для строительства сообщества вокруг любого концепта, который имеет хорошо определенную цель. Когда люди присоединяются к сообществу, то они покупают определенный набор убеждений и могут голосовать, чтобы переопределить ценности сообщества и его назначение.
+Subjective Proof of Work presents an alternative approach to distributing a currency that improves upon fully *objective* Proof of Work systems such as mining. The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
 
-В результате критерии, по которым оценивается работа полностью субъективны, а это определение живет за пределами исходного кода. Одно сообщество может хотеть вознаграждать артистов, другое поэтов, третье сатириков. Какие-то сообщества могут стремится вознаграждать некоммерческие проекты, а какие-то будут стремиться продвигать политические повестки.
+In effect, the criteria by which work is evaluated is completely subjective and its definition lives outside the source code itself. One community may wish to reward artists, another poets, and another comedians. Other communities may choose to reward charitable causes or help advance political agendas.
 
-Ценность каждого сообщества достигается в зависимости от спроса на влияние внутри конкретного сообщества и веры рынка в потенциальный объем влияния, который может быть достигнут. В отличие от предыдущих систем, субъективное доказательство работой делает возможным сообществу коллективно финансировать разработку всего, что оно считает ценным и позволяет монетизировать время, которое ранее было невозможно монетизировать.
+The value each currency achieves depends upon the demand for influence within a particular community and how large the market believes each community can get. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
 
-### Дистрибуция Валюты
+### Distributing Currency
 
-Существует два способа, которым кто-то может быть вовлечен в криптовалютное сообщество: долю в сообществе можно *купить* или *заработать*. В обоих случаях пользователи добавляют стоимость к валюте, тем не менее, большее количество людей располагают *свободным временем*, нежели *свободными финансовыми ресурсами*. Представьте себе цель разворачивания валюты в бедном сообществе без *денежных средств*, но с большим количеством *времени*. Если люди могут заработать деньги работая друг на друга, то они создадут стоимость через взаимный обмен, поддерживаемый справедливой учетной и валютной системой.
+There are two ways people can get involved with a crypto-currency community: they can *buy in*, or they can *work in*. In both cases users are adding value to the currency, however, the vast majority of people have more *free time* than they do *spare cash*. Imagine the goal of bootstrapping a currency in a poor community with no actual *cash* but plenty of *time*. If people can earn money by working for one another then they will bootstrap value through mutual exchange facilitated by a fair accounting/currency system.
 
-Дистрибуция валюты как можно большему количеству людей, способом, который в общем случае воспринимается как справедливый, является сложной задачей. Задачи, которые могут быть полностью оценены компьютерными алгоритмами, ограничены по своей природе, и вообще говоря, имеют ограниченное количество применений. В случае с майнингом Биткоина, это может приводить к производству специализированного оборудования, и вынуждать людей инвестировать время для разработки более эффективных алгоритмов. Такой способ мог бы помогать находить простые числа, но ни одно из этих применений не обеспечивает осмысленную ценность для общества или валюты, держателем которой это общество является. Что еще более важно, это то, что в таких системах экономия от масштаба и рыночные силы приведут к исключению из дистрибуции всех, за исключением экспертов. В конечном счете, майнинг основанный на вычислениях - это просто один из способов *покупки* доли в сообществе, потому что он требует денег для оплаты электрических счетов и разработку необходимого аппаратного обеспечения.
+Distributing a currency to as many people as possible in a manner that is generally perceived as fair is a challenging task. The tasks that can be entirely evaluated by an objective computer algorithm are limited in nature and generally speaking have limited positive external benefits. In the case of Bitcoin-style mining, it can result in the production of specialized hardware and cause people to invest time developing more efficient algorithms. It may even help find prime numbers, but none of these things provide meaningful value to society or the currency holding community at large. More importantly, economies of scale and market forces will end up excluding everyone but experts from participating in this kind of distribution. Ultimately, computation-based mining is just another way of *buying in* because it requires money to pay the electric bill or the development of hardware necessary to do the work.
 
-Чтобы дать равную возможность зарабатывать валюту всем людям всем должна быть дана возможность работать. Сложность возникает при суждении об относительном качестве и объеме работы, которые обеспечиваются индивидом. Также сложно сделать так, чтобы это суждение эффективно аллоцировало вознаграждения миллионам пользователей. Это требует создание масштабируемого процесса голосования. В частности такой подход требует чтобы авторитет по перераспределению средств должен быть настолько децентрализован и распределен, на сколько это возможно.
+In order to give everyone an equal opportunity to get involved and earn the currency people must be given an opportunity to work. The challenge is how to judge the relative quality and quantity of work that individuals provide and to do so in a way that efficiently allocates rewards to millions of users. This requires the introduction of a scalable voting process. In particular it requires that authority to allocate funds must be as distributed and decentralized as possible.
 
-Первый шаг в вознаграждении миллионов пользователей - это принять дистрибьюцию фиксированного количества валюты вне зависимости от того, сколько работы в действительности сделано пользователям или от того, сколько пользователей голосует. Это радикально меняет вопрос на который нам нужно ответить с *"Должны ли мы платить?"* на *"Кому мы должны платить?"*. Такой подход также сигнализирует рынку, что деньги распределяются и достанутся тому, кто "поставит" больше *работы*. Такой подход очень похож на подход Биткоина, в котором на данный момент 12.5 биткоинов достаются тому, кто быстрее других найдет хеш заданной сложности. Также как и Биткоин, вся работа должна быть сделана до выплаты и ничто не должно оплачиваться спекулятивно на обещании сделать работу в будущем.
+The first step in rewarding millions of users is to commit to distributing a fixed amount of currency regardless of how much work is actually done or how users vote. This changes the question from being *“Should we pay?”* to *“Whom should we pay?”* and signals to the market that money is being distributed and is being auctioned off to whoever “bids” the most *work*. This is similar to Bitcoin committing to award 50 BTC to whoever finds the most difficult hashes. Like Bitcoin, all work must be done prior-to payout and nothing should be paid speculatively on the promise to do work in the future.
 
-Следующий шаг - это вознаграждение всех, кто делает что-либо, даже удаленно, положительное с *чем-нибудь*. Это достигается ранжированием всей выполненной работы и дистрибуции пропорционально ее стоимости. Чем больше конкурентоспособным становится рынок, тем сложнее становится зарабатывать те же самые выплаты.
+The next step is to reward everyone who does anything even remotely positive with *something*. This is accomplished by ranking all work done and distributing proportionally to its value. The more competitive the market becomes, the more difficult (higher quality or quantity) it becomes to earn the same payout.
 
-### Голосование за Дистрибуцию Валюты
+### Voting on Distribution of Currency
 
-Предположим, что существует фиксированное количество денег для дистрибуции, а те у кого есть долгосрочный инвестиционный интерес в будущей стоимости и полезности валюты - это те, кто должны решить как ее распределить. Каждый инвестировавший пользователь кастует свои голоса на тех, кто сделал лучшую работу, а в конце дня количество доступных денег на этот день делится пропорционально поступившим голосам таким образом, чтобы даже если у кого-то есть хотя бы один положительный голос, то он получает что-нибудь.
+Assume there is a fixed amount of money to distribute, and that those who have a long-term vested interest in the future value and utility of the currency are the ones who must decide how to allocate it. Every vesting user casts their votes on who did the best work and at the end of the day the available money for that day is divided proportional to the votes such that everyone with even one net positive vote gets something.
 
-Наивный процесс голосования создает Дилемму Заключенного, в которой каждый голосующий индивид имеет стимул голосовать за себя за счет больших целей сообщества. Если каждый голосующий начнет голосовать за себя, то валюта не сможет быть распределена, и в итоге не сможет приобрести сетевой эффект. С другой стороны, если только один голосующий поступает таким образом, то в таком случае случае голосующий выиграет незаслуженные прибыли, в общем не оказывая эффекта на общую ценность валюты.
+The naive voting process creates a N-Person Prisoner’s Dilemma[^5] whereby each individual voter has incentive to vote for themselves at the expense of the larger community goal. If every voter defects by voting for themselves then no currency will end up distributed and the currency as a whole will fail to gain network effect. On the other hand, if only one voter defects then that voter would win undeserved profits while having minimal effect on the overall value of the currency.
 
-Для того, чтобы сместить стимулы индивидов от простого голосования за самого себя, деньги должны быть распределяться нелинейно. Например, на основании квадратической функции голосования, т.е. кто-то с количеством голосов в два раза превышающим количество голосов кого-то другого - должен получить вознаграждений в четыре раза больше, а кто-то, у кого количество голосов в три раза больше - должен получить в девять раз больше. Другими словами вознаграждение пропорционально голосам в квадрате \\(votes^{2}\\), а не просто *голосам*. Это отражает ценность сетевого эффекта который растет квадратично \\(n^{2}\\) с количеством участников в соответствии с Законом Меткалфа[^5].
+#### Voting Abuse
 
-Предполагая, что все пользователи будут иметь равную долю, кто-то, кто получит только свой голос получит гораздо меньше, чем тот кто получит голосов от 100 разных пользователей. Это мотивирует пользователей *кооперироваться* при голосовании за одну вещь, чтобы максимизировать выплаты. Такая система также создает финансовые стимулы *сговориться*, чтобы группа голосовала за какую-то вещь, а потом получала вознаграждение пропорционально между друг другом.
+Regardless of how much money any one individual has, there are always many other individuals with similar wealth. Even the wealthiest individual rarely has much more than the next couple wealthiest combined. Furthermore, those who have a large investment in a community also have the most to lose by attempting to game the voting system for themselves. It would be like the CEO of a company deciding to stop paying salaries so he could pocket all of the profits. Everyone would leave to work for other companies and the company would become worthless, leaving the CEO bankrupt rather than wealthy.
 
-#### Сговоры при Голосовании
+Fortunately, any work that is getting a large concentration of votes is also gaining the most scrutiny (publicity). Through the addition of *negative-voting* it is possible for many smaller stakeholders to nullify the voting power of collusive groups or defecting large stakeholders. Furthermore, large-stakeholders have more to lose if the currency falls in value due to abuse than they might gain by voting for themselves. In fact, honest large stakeholders are likely to be more effective by policing abuse and using negative voting than they would be by voting for smaller contributions.
 
-При том, что кооперация при распределении фондов за лучшую работу - это желаемая цель, *сговоры*, которые подрывают эту цель должны быть минимизированы. Существует два типа *сговоров*: самый простой - это когда один пользователь просто покупает большую долю чем другие, а другой способ включает в себя потребность в координировании большого количества малых держателей работать совместно. Крупные держатели могут иметь влияние в 100 или даже в 1000 раз больше чем малые, что означает что у них есть еще большая мотивация голосовать за себя, еще большая мотивация, чем была бы у них при линейной дистрибьюции.
+The use of *negative-voting* to keep people from abusing the system leverages the *crab mentality* that many people have when it is perceived that one individual is profiting at the expense of everyone else. While crab mentality normally refers to short-sighted people keeping good people down, it is also what allows good people to keep bad people down. The only “problem” with crab mentality is when people *wrongly believe* someone is profiting at everyone else's expense.
 
-Не зависимо от того, сколько денег имеет любой индивид, всегда будут другие индивиды со схожим состоянием. Даже самые богатые редко располагают большим количеством средств, чем следующая пара чуть менее богатых совместно. Более того, те у кого есть крупные инвестиции в сообщество, всегда рискуют потерять больше всего, пытаясь обыграть систему голосования в свою пользу. Это как если бы генеральный директор решил бы остановить выплату зарплат для того, чтобы положить ее себе в карман. В таком случае любой человек решил бы работать на другую компанию. Таким образом все бы стали работать на другую компанию, а такая компания перестала бы чего-либо стоить, оставляя такого CEO банкротом, а не состоятельным человеком.
+**The Story of the Crab Bucket**[^6]
 
-К счастью, любая работа, которая получает большую концентрацию голосов, также становится и самой популярной. Так как всегда есть возможность *голосовать негативно*, большое количество малых акционеров смогут обнулить голосующую силу сговорившейся группы или крупных акционеров, которые действуют исключительно в свою пользу. Более того, крупные акционеры больше теряют если валюта падает в цене по причине злоупотреблений, чем приобретают от голосования за самих себя. По факту честные крупные акционеры скорее всего будут более эффективны в противодействии злоупотреблениям, и будут чаще использовать отрицательные голоса, чем малые акционеры.
+A man was walking along the beach and saw another man fishing in the surf with a bait bucket beside him. As he drew closer, he saw that the bait bucket had no lid and had live crabs inside.
 
-Использование *негативных голосов* для того, чтобы сдержать людей от злоупотреблений, компенсирует *"ментальность краба"* которой многие люди страдают, когда воспринимается, что один индивид получает доходы за счет всех других. В то время как ментальность краба обычно касается недальновидных людей, которые принижают хороших людей, это также то, что позволяет хорошим людям противодействовать плохим. Единственная "проблема" с ментальностью краба - это когда люди *ошибочно полагают*, что кто-то получает прибыль за счет всех других.
+"Why don't you cover your bait bucket so the crabs won't escape?", he said.
 
-> #### История о Корзинке с Крабами[^6]
-> 
-> Человек прогуливался вдоль пляжа и увидел другого человека который рыбачил. Рядом с рыбаком находилась корзинка с крабами для приманки. Как только он подошел поближе, он увидел, что на корзинке нету крышки, а внутри находятся живые крабы.
-> 
-> "Почему ты не закрываешь свою корзину крышкой, чтобы крабы не убежали?", - сказал он.
-> 
-> "Ты не понимаешь.", - ответил человек. "Если бы в корзине был один краб, то он мог бы вскарабкаться достаточно быстро. Тем не менее, когда в корзине много крабов, если кто-то пытается вскарабкаться, то другие его держат, чтобы он разделил такую же судьбу как и все другие оставшиеся."
-> 
-> Так же и с людьми. Если один человек пытается что-то делать по-другому, получить лучшие оценки, улучшить себя, выскочить из окружения, или мечтать большие мечты, другие люди будут стараться держать его, чтоб он разделил их судьбу.
+"You don't understand.", the man replied, "If there is one crab in the bucket it would surely crawl out very quickly. However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
 
-Полностью устранить злоупотребления невозможно, да и не должно являться целью. Даже те, кто будет пытаться злоупотребить системой все равно продолжают делать работу. Любая компенсация за их успешные попытки злоупотребить или сговориться, как минимум не менее ценно для целей дистрибуции валюты, точно также как у Биткоина существует майнинг через пулы и одиночный майнинг. Все что необходимо - это убедиться, что злоупотребления не настолько угрожающие, чтобы подрывать стимулы делать реальную работы в поддержку сообщества и ее валюты.
+So it is with people. If one tries to do something different, get better grades, improve herself, escape her environment, or dream big dreams, other people will try to drag her back down to share their fate.
 
-Цель создания валюты сообщества в получении большего количества крабов в корзине. Пытаться принимать экстремальные меры, чтобы устранить злоупотребления, это как пытаться накрыть корзинку крышкой, чтобы предотвратить побег нескольких крабов в ущерб простоте добавления новых крабов в корзину. Достаточно просто сделать стены скользкими и дать другим крабам достаточно власти, чтобы они предотвращали побеги других крабов.
+Eliminating “abuse” is not possible and shouldn’t be the goal. Even those who are attempting to “abuse” the system are still doing work. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn’t so rampant that it undermines the incentive to do real work in support of the community and its currency.
 
-### Голосование Ограниченное Лимитом
+The goal of building a community currency is to get more “crabs in the bucket”. Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs sufficient power to prevent others from escaping.
 
-Главный компонент минимизации злоупотреблений - это ограничение возможности голосовать. Индивид может прочитать и оценить ограниченное количество информации в день. Любые попытки голосовать чаще - это признак автоматизации и потенциального злоупотребления. При помощи установления лимитов на голосование, акционеры, которые голосуют чаще, с каждым новым голосом уменьшают свой вес, в отличие от акционеров которые голосуют реже. Попытки разделить токены на несколько счетов также разделяет и влияние, что в итоге не приводит ни к увеличению влияния, ни обходу лимитов.
+### Rate Limited Voting
 
-![](\img_voting_rate_limiting.png)
+A major part of minimizing abuse is the rate-limiting of voting. Individual users can only read and evaluate so many work items per day. Any attempt to vote more frequently than this is a sign of automation and potential abuse. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
 
-Приведенные графики отражают каким образом сила голоса пользователя уменьшается каждый раз, когда он голосует, и как она регенерируется со временем при отсутствии голосов. Этот график отражает номинальный временной юнит и может быть масштабирован для любого темпа голосования. Имейте ввиду, что сила голосования быстро падает в периоды продолжающего голосования, а потом медленно восстанавливается.
+Users are allotted a fixed amount of voting power. Voting power is multiplied by a user’s vesting tokens to determine how much share in the reward pool should be allocated to a given work item. Every vote that is cast uses a percentage of remaining voting power. Users can vote for more posts, but each vote will be worth less, and it will take longer to reach full voting power again. Voting power recharges at a fixed linear rate of 20% per day.
 
-Сила голосования умножается на количество стим-мощи для определения доли в пуле вознаграждений направляемой на конкретный пост или комментарий.
+### Payout Distribution
 
-### Отложенные Выплаты
+One of the primary goals of Steem’s reward system is to produce the best discussions on the internet. Each and every year 75% of the yearly inflation is distributed to users submitting, voting on, and discussing content. At the size of Bitcoin this could be several million dollars per day being given to the top contributors.
 
-![](\img_change_voting_period_eg.png)
+The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content.
 
-Чтобы предотвратить большее количество злоупотреблений, все выплаты отложены на 24-часовую, взвешенную на стим-мощь, среднюю, прошедшую с момента каждого голосования. Это обеспечивает защиту от кражи наград крупными акционерами голосующими на последней секунде до того, как другие голосующие (как крабы) смогут противодействовать потенциальному злоупотреблению. Когда выплата совершена все голоса сбрасываются на 0. Если голоса поступают после выплаты, процесс начинается заново.
-
-Этот график отражает каким образом период истечения голосования изменяется в ответ на поступающие позитивные или негативные голоса. Новые голоса расширяют период выплат пропорционально их размеру относительно уже поступивших голосов. При наступлении времени 40 большая часть новых голосов была добавлена, что увеличило период голосования на 12 часов. Последующее меньшее количество голосов оказало меньше влияния на период голосования.
-
-### Распределение Выплат
+Zipf’s Law[^7] is one of those empirical rules that characterize a surprising range of real-world phenomena remarkably well. It says that if we order some large collection by size or popularity, the second element in the collection will be about half the measure of the first one, the third one will be about one-third the measure of the first one, and so on. In general, the k th-ranked item will measure about 1/k of the first one.
 
 ![](\img_the_new_marketplace.png)
 
-Одна из ключевых целей системы вознаграждения Стим - это производство лучших дискуссий и контента в Интернете. Каждый год 10% рыночной капитализации Стима распределяется пользователям, которые публикую статьи, участвуют в дискуссиях и курируют статьи других. При условии капитализации Стима на уровне текущей капитализации Биткоина выплаты вознаграждения лучшим контрибьюторам составят 100 млн. рублей каждый день.
+Taking popularity as a rough measure of value, then the value of each individual item is given by Zipf’s Law. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
 
-В реальности дистрибуция будет зависеть от паттернов голосования пользователей, но мы подозреваем, что большинство вознаграждений будет распределено в пользу самого популярного контента. Стим взвешивает выплаты пропорционально \\(n^{2}\\) количеству стим-мощи голосующего за пост. Другими словами, пост x получит награду пропорционально:
+The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
 
-\\(votes[x]^{2} / сумма(votes[0...n]^{2})\\)
+The economic effect of this is similar to a lottery where people overestimate their probability of getting votes and thus do more work than the expected value of their reward and thereby maximize the total amount of work performed in service of the community. The fact that everyone “wins something” plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
 
-Закон Зипфа[^7] одно из таких эмпирических правил, которое характеризует удивительный диапазон применений этого феномена в реальном мире достаточно хорошо. Этот закон говорит о том, что если мы упорядочим какую-нибудь коллекцию по размеру или популярности, второй элемент в этой коллекции будет приблизительно в два раза меньше от измерения первого элемента, третий элемент в коллекции будет 1/3 от измерения первого элемента и так далее. В общем случае k ранжированный элемент будет измеряться как 1/k от первого элемента.
+### Payouts
 
-Если мы возьмем популярность как грубое измерение ценности, то в таком случае ценность каждого отдельного элемента определяется Законом Зипфа. То есть если у нас один миллион элементов, тогда топ 100 самых популярных контрибьютят треть от общей ценности, следующие 10000 элементов вторую треть, и оставшиеся 989900 оставшуюся треть. Ценность коллекции из n элементов пропорциональна log(n).
+When a post receives a payout it takes the form of 50% SBD and 50% SP. The Steem Power give the user increased voting and transaction power while the SBD gives the user an immediate benefit in a stable currency. As we’ve already discussed at length, SP is designed to encourage long-term holding rather than short-term selling. This encourages more users to have a vested interest in the long-term success of the platform.
 
-Результат такого голосования и распределения выплат - это предложение больших наград за хороший контент, в то же время вознаграждая малых игроков в длинном хвосте контрибьюции.
-
-Экономический эффект этого подобен лотереи, в которой люди переоценивают их вероятность получить голоса, таким образом делая больше работы чем ценность ожидаемого вознаграждения, тем самым максимизируя общее количество работы произведенной в сообществе. Тот факт, что каждый выигрывает "что-нибудь", играет похожую психологию, которые используют казино, чтоб удерживать людей в игре. Другими словами, меньшие вознаграждения помогают усиливать идею, что возможно зарабатывать большие награды.
-
-#### Вознаграждение Родительских Постов
-
-Хорошая дискуссия требует очень активного постинга. Когда ты отвечаешь кому-нибудь, то он получает 50% любой выплаты, которую ты получишь в этой ветке. Это правило применяется в плоть до 6 уровней вложенности. Начало большой дискуссии хорошо вознаграждается.
-
-Ошибка в корректности наследования постов во время дискуссии - это отличный способ быть заминусованым.
-
-Предлагаемая структура стимулов мотивирует людей контрибьютить таким образом, чтобы другие тоже вовлекались. Это поощряет людей задавать хорошие вопросы таким образом, чтобы другие люди находили ценные ответы.
-
-### Выплаты
-
-Посты получают выплаты в следующей форме: 50% в стим-баксах и 50% в стим-мощи. Стим-мощь дает пользователю голоса и пропускную способность, в то время как стим-баксы дают пользователю моментальную выгоду в стабильной валюте. Мы уже обсудили, что и стим-мощь и стим-бакс спроектированы для поощрения долгосрочных инвестиций, а не краткосрочной продажи.
+Users also have the option to be paid in 100% SP, as well as decline payout on posts. When a user declines payout on a post, the money that would have been paid to them remains in the rewards pool, to be distributed to other users.
 
 # Консенсус Алгоритм
 
-Консенсус Алгоритм - это процесс, при помощи которого сообщество приходит к всеобщему недвусмысленному согласию относительно какой-либо части информации. В обществе существует много алгоритмов для достижения согласия относительно того, что кому принадлежит. Каждое правительство на Земле - это примитивный консенсус алгоритм, посредством которого население соглашается подчиняться определенному набору правил, который бережно зафиксирован в конституции. Правительства устанавливают суды, судей и присяжных для интерпретации субъективных фактов и постановления финальных решений. В большинстве случаев люди подчиняются решению даже если оно было неверным.
+Consensus is the process by which a community comes to a universally recognized, unambiguous agreement on piece of information. There are many algorithms society has developed for reaching consensus about who owns what. Every government on earth is a primitive consensus algorithm whereby the population agrees to abide by a certain set of rules enshrined in a constitution. Governments establish courts, judges, and juries to interpret the subjective facts and render a final decision. Most of the time people abide by the decision even if it was wrong.
 
-Алгоритмы используемые в криптовалютах обеспечивают лучший способ достигнуть согласия. Криптографически подписанные доказательства поступают от индивидов и записываются в публичную книгу (публичный реестр, блокчейн), которая устанавливает абсолютный глобальный реестр событий. Детерминистический компьютерный алгоритм затем может обрабатывать эту книгу для того, чтобы вычислить универсально принимаемое заключение. До тех пор пока члены сообщества соглашаются с этим алгоритмом, результат работы этого алгоритма авторитетен.
+The algorithms used by cryptocurrencies provide a better way to reach consensus. Cryptographically signed testimony from individuals is recorded in a public ledger that establishes the absolute global order of events. A deterministic computer algorithm can then process this ledger to derive a universally accepted conclusion. So long as the members of a community agree on the processing algorithm, the result of the algorithm is authoritative.
 
-Ключевая проблема - это определение того, какое доказательство дозволено для записи в публичную книгу. Система должна быть разработана с целью минимизации потенциального цензурирования. Цензурирование в публичных реестрах это тоже самое, что препятствование кому-либо голосовать на выборах. В обоих случаях индивиду ограничиваются права на влияние на публичный консенсус.
+The primary consideration is determining what testimony is allowed to enter the public record. Systems should be designed to minimize the potential for censorship. Censorship on the public ledger is similar to preventing someone from voting in an election. In both cases an individual is prevented from impacting the global consensus.
 
 ## Консенсус в Стиме
 
-Концептуально, алгоритм консенсуса используемый в Стиме, очень похож на консенсус алгоритм адаптированный компаниями во всем мире. Люди с инвестиционным интересом в будущей ценности Стима голосуют за индивидов ответственных за включение доказательств в публичный реестр. Голоса взвешиваются пропорционально доле каждого человека в инвестиционном мешке.
+Conceptually, the consensus algorithm adopted by Steem is similar to the consensus algorithm adopted by companies throughout the world. People with a vested interest in the future value of Steem vote to select individuals responsible for including testimony in the public record. Voting is weighted proportional to each individual's vested interest.
 
-В мире криптовалют публичный реестр принято называть *блокчейном*. *Блок* - это группа подписанных транзакций, который также содержит хеш-ссылку на предыдущий блок.
+In the world of cryptocurrencies, the public record is commonly referred to as a *blockchain*. A *block* is a group of signed transactions.
 
-В Стиме производство блоков осуществляется раундами. Каждый раунд для создания и подписания блоков с транзакциями выбирается 21 делегат. Девятнадцать (19) из этих делегатов избираются, один делегат выбирается на основании вычислительного доказательства работой, а один распределяется между всеми делегатами, которые не вошли в топ 19 на основании количества их голосов. 21 активный делегат перемешиваются каждый раунд для предотвращения того, чтобы не было возможности игнорировать блоки производимые тем же самым делегатом.
+With Steem, block production is done in rounds. Each round 21 witnesses are selected to create and sign blocks of transactions. Twenty (20) of these witnesses are selected by approval voting and one is timeshared by every witness that didn’t make it into the top 20 proportional to their total votes. The 21 active witnesses are shuffled every round to prevent any one witness from constantly ignoring blocks produced by the same witness placed before. Any witness who misses a block and hasn't produced in the last 24 hours will be disabled until they update their block signing key.
 
-Этот процесс разработан для обеспечения лучшей надежности, в тот же момент гарантируя, что каждый имеет возможность участвовать в производстве блоков в не зависимости от того насколько он популярен для того, чтобы подняться в топ. Люди имеют три опции для того, чтобы обойти цензуру 19 избранными делегатами: терпеливо ждать со всеми, кто не в топ 19, купить больше вычислительных мощностей для решения доказательства работой быстрее чем другие или купить больше стим-мощи, чтобы поднять силу голосования. В общем, цензурирование делегатами - это отличный способ им потерять свою работу. Поэтому маловероятно, что это будет реальной проблемой в сети Стим.
+This process is designed to provide the best reliability while ensuring that everyone has the potential to participate in block production regardless of whether they are popular enough to get voted to the top. People have three options to overcome censorship by the top 20 elected witnesses: patiently wait in line with everyone else not in the top 20, or purchase more SP to improve voting power. Generally speaking, applying censorship is a good way for elected witnesses to lose their job and therefore, it is unlikely to be a real problem on the Steem network.
 
-Стим способен составлять расписание по производству блоков каждые 3 секунды, потому-что активные делегаты известны наперед. Делегаты синхронизируют производство блоков через протокол NTP. Вариация подобного алгоритма была использована сетью BitShares более года и доказала свою надежность.
-
-## Майнинг в Стиме
-
-Традиционные блокчейны Proof-of-Work совмещают производство блоков с решением Proof-of-Work. Так как процесс решения доказательства работой занимает непрогнозируемое количество времени, результатом является непредсказуемое время производства блоков. Стим нацелен иметь целостный и надежный процесс производства блоков каждые 3 секунды с потенциально нулевой вероятностью производства форков.
-
-Для того, чтобы достигнуть такого, Стим разделяет производство блоков от решения доказательства работы. Когда майнеры решают доказательство работы для Стима, они транслируют транзакции содержащие работу. Следующий по расписанию делегат включает транзакции в блокчейн. Когда транзакции включены, майнер добавляется в очередь майнеров которые включены в расписание по производству блоков. Каждый раунд один майнер выбирается из очереди и включается в активный список делегатов. Майнер получает оплату когда он производит блок в соответствии с расписанием.
-
-Сложность доказательства работой удваивается каждый раз когда очередь майнеров вырастает на 4. Так как один майнер выбирается из очереди каждый раунд, а каждый раунд занимает 21 \* 3 = 63 секунды, сложность автоматически уменьшается вдвое, если не найдено ни одного доказательства в течение 21 \* 3 \* 4 = 252 секунд.
-
-### Вознаграждения Майнеров Требуют Стим-мощь
-
-После первого месяца майнеры в Стиме вознаграждаются в стим-мощи. Стим-мощь можно вывести через двухлетний процесс, который называется ослаблением. Это означает, что майнеры должны ожидать достаточно долго, вероятно многие месяцы, перед тем как достаточное количество наград будет ослаблено для того, чтобы можно было компенсировать затраты на электроэнергию и вычислительные ресурсы. Процесс ослабления отбивает охоту создавать майнинг пулы, так как операторам пулов нужно будет рассредоточить выплаты на многие года.
-
-Оплата вознаграждений за майнинг в стим-мощи используется для того, чтоб майнеры не могли использовать сегодняшнюю цену для определения прибыльности майнинга. Мало кто согласится относительно того, какая цена в будущем будет. Это означает то, что сложность майнинга будет обеспечиваться теми, у кого самая высокая оценка будущей стоимости. У майнеров без долгосрочного интереса в платформе будет отбита охота от соревнования. В итоге это означает что событие по сбросу намайненного на рынок маловероятно, потому-что намайненые награды могут быть приобретены только долгосрочными верующими в платформу.
-
-### Алгоритм майнинга
-
-Алгоритм майнинга используемый в Стиме требует того, чтобы у майнера был доступ к приватному ключу счета, который будет получать награды. Это требование имеет несколько важных последствий. Во-первых, он поощряет оптимизацию алгоритма по верификации цифровой подписи на основании эллиптических кривых. Во-вторых, он делает сложным создание майнинг пулов, потому-что оператор пула должен будет разделить награду со всеми анонимными майнерами. В-третьих, он делает бессмысленным использование ботнетов, потому что оператор ботнета должен будет распределить свой приватный ключ по всем скомпрометированным машинам.
-
-Следующий псевдокод описывает каким образом вычисляется хеш-значение доказательства работой:
-
-    Let H    = Head Block ID
-    Let H2   = SHA256(H + NONCE)
-    Let PRI  = Приватный ключ производителя
-    Let PUB  = Публичный ключ производителя
-    Let S    = SIGN(PRI, SHA256(H))
-    Let K    = RECOVER_PUBLIC_KEY(H2, S)
-    Let POW  = SHA256(K)
-    
-
-### Защита от Ботнетов
-
-Многие системы основанные на Proof-of-Work заканчивают на том, что майнятся ботнетами. Ботнет - это коллекция тысяч или миллионов машин, которые были скомпрометированы хакерами. Эти хакеры воруют вычислительные и энергетические ресурсы скомпрометированных машин для майнинга криптовалютных токенов.
-
-Стим обладает многими свойствами для предотвращения доходности вычислительным ворам. Операторы ботнетов получают выгоду в поисках авантюр и обычно продают украденные ресурсы тому, кто больше заплатит. Это означает, что те кто использует ботнет платит за вычислительные ресурсы таким же образом как и те, кто используют Amazon EC2. Инвестиционное требование Стима означает то, что капитал потраченный на покупку ресурсов ботнета будет заблокирован на длительный промежуток времени во время которого оператор ботнета обречен на волатильность цены.
-
-Другой способ, которым осуществляется защита от получения прибыли операторами ботнетов, - это требование в распределении приватных ключей на все скомпрометированные машины. Даже если приватный ключ будет обнаружен всего на одной скомпрометированной машине, оператор может потерять свои монеты.
-
-Последняя мера - это зависимость от сетевой задержки. Большинство ботнетов работают за счет скомпрометированных компьютеров с плохим качеством интернет подключения. Плохой интернет сильно ухудшает эффективность вычислительных ресурсов.
-
-Для операторов ботнетов должно быть более прибыльно и менее рискованно использовать свои ресурсы на отличные от майнинга стимов виды деятельности.
-
-### Защита от Майнинг Пулов
-
-Майнеры имеют в общей сложности 3 секунды, чтобы получить блок, выполнить доказательство работы и отправить его следующему блок продюсеру. Большая часть этого времени будет состоять из задержек в сети, что означает, что майнерам будет важно иметь хорошее подключение к сети, чтобы максимально эффективно использовать свои вычислительные ресурсы.
-
-Из-за постоянно меняющегося головного блока и задержек в сети, пересылка шаблона для майнинга конкретного блока всем участникам майнинга добавит дополнительную задержку и значительно снизит эффективность процесса майнинга в пуле.
+Because the active witnesses are known in advance, Steem is able to schedule witnesses to produce blocks every 3 seconds. Witnesses synchronize their block production via the NTP protocol. A variation of this algorithm has been in use by the BitShares network for over a year where it has been proven to be reliable.
 
 # Устранение Трансакционных Комиссий
 
-Стим идет далеко для того чтобы вознаграждать людей за контрибьюцию в сеть. Требовать оплаты от людей каждый раз когда люди хотят взаимодействовать с сообществом - это контрпродуктивно.
+Steem goes to great lengths to reward people for contributing to the network. It would be counterproductive to turn around and charge people every time they attempt to interact with the community.
 
-Блокчейн технология в данный момент зависит от трансакционных комиссий для того, чтобы защищать сеть от спама. Эти сборы страдают всеми известными проблемами микротранзакций, и не дают блокчейнам быть использованными для транзакций с низкой ценностью. Истинно децентрализованные приложения должны предлагать пользователям чувство бесплатности транзакций, если они хотят конкурировать с их централизованными альтернативами. Эта бумага описывает подход используемый в Стим для устранения необходимости в трансакционных комиссиях, таким образом делая возможным широкий спектр невозможных в прошлом децентрализованных приложений.
+Blockchain technology currently depends upon transaction fees to prevent spam. These fees suffer all of the known problems with microtransactions and prevent blockchains from being used for low-value transactions. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
 
-## Проблема с Комиссиями
+## The Problem With Fees
 
-Блокчейны - это децентрализованные сети, в которых все транзакции транслируются всем пирам (от англ. peer - равноценный агент в сети). Каждый раз когда блок произведен, он включает несколько или все ожидающие транзакции. Все блокчейны должны найти решение для предотвращения потребления всей доступной вместимости сети бессмысленными транзакциями злонамеренных пользователей. Эти бессмысленные транзакции могут помешать другим ценным транзакциям быть обработанными, и таким образом уничтожат сеть.
+Blockchains are decentralized networks where all transactions are broadcast to all peers. Every so often a block is produced that includes some or all of the pending transactions. All blockchains must find a solution to prevent malicious users from consuming all of the available network capacity with worthless transactions. These worthless transactions can prevent other valuable transactions from being processed and ultimately destroy the network.
 
-Решение, используемое большинством блокчейнов до сих пор - это взимание минимальных трансакционных комиссий. Комиссии которая стоит несколько центов достаточно для того, чтобы сделать атаку на сеть дорогой и неприбыльной. Такой подход решая проблему со спамом сети, создавая новые проблемы. Представьте себе решение проблемы со спамом емэйлов, введением комиссии за каждый отправленный емэйл. Люди бы не стали пользоваться электронной почтой.
+The solution adopted by most blockchains thus far is to charge a minimum transaction fee. A fee worth just a few cents is enough to make attacking the network expensive and unprofitable. While this approach solves the spam problem, it introduces new problems. Imagine solving the email spam problem by introducing a small fee on every email; people wouldn’t use email.
 
-### Микроплатежи Не Работают
+### Micropayments Don’t Work
 
-Фундаментальная проблема с взиманием трансакционных комиссий - это то, что микроплатежи не работают, особенно для действий пользователей с низкой стоимостью. Когда комиссия взимается за каждую транзакцию, то она ограничивает типы транзакций, которые может обработать децентрализованная сеть. Вне зависимости от того, каким рациональным бы не был аргумент о необходимости комиссий, пользователи всеравно нелюбят отдавать по рублю за каждый свой шаг.
+The fundamental problem with charging transaction fees is that micropayments don’t work, especially for low-value user actions. When a fee is charged on every transaction, it limits the types of transactions that a decentralized network can process. Regardless of how rational the argument for the necessity of fees, users still hate the experience of being nickeled and dimed for everything that they do.
 
-Представьте себе вебсайт, который бы выставлял нам транзакционные комиссии каждый раз, когда мы изменяем пароль. Пользователи ожидают, что некоторые вещи должны быть бесплатными. Требование пользователей делать решение относительно того стоит ли то или иное решение конкретного действия, приводит к беспокойству пользователя и в конце концов его уходу.
+Imagine if the websites we use every day charged us a fee every time we modify our accounts by changing the password. Users expect certain things to be free. Requiring users to make a decision on whether or not an action is worth a small fee creates anxiety that causes users to leave. A transaction can’t be worth so much as to require a decision but worth so little that that decision is automatic. There is a certain amount of anxiety involved in any decision to buy, no matter how small, and it derives not from the interface used or the time required, but from the very act of deciding.
 
-> Транзакция не может стоить настолько дорого, чтобы требовать решения, но должна стоить настолько мало, чтобы решение было автоматическим. Любое решение по покупке - это беспокойство, и не важно насколько это решение мало. Это вытекает не от того насколько хорош интерфейс или как мало времени необходимо, но от самого факта принятия решения.  
-> Микроплатежи, как все платежи, требуют сравнения: "Стоит ли такое-то количество X такого-то количества Y?". Существует понятие минимальных ментальных транзакционных издержек, создаваемых фактом который не может быть оптимизирован, потому-что единственная транзакция которую пользователь будет желать подтвердить не думая, это та транзакция, которая не стоит ему ничего, т.е. как будто ее нет вообще.
-> 
-> *- Clay Shirky[^8]*
+Micropayments, like all payments, require a comparison: *“Is this much of X worth that much of Y?”* There is a minimum mental transaction cost created by this fact that cannot be optimized away, because the only transaction a user will be willing to approve with no thought will be one that costs them nothing, which is no transaction at all.
 
-В мире финансовых платежей, малые комиссии приемлемы, потому что ценность транзакций экстремально высокая относительно взимаемой комиссии, а покупатель уже сделал решение о покупке. Мир потенциальных блокчейн приложений намного шире элементарных финансовых платежей, и включает многие необходимые транзакции за которые комиссии просто не приемлемы для людей.
+– Clay Shirky[^8]
 
-Такие системы как BitShares, Nxt, Ripple, Counter Party и Stellar позволяют пользователям размещать лимит ордера на блокчейне, и все они взимают небольшую комиссию с пользователей для того, чтобы осуществить это действие. Позднее, если пользователь желает отменить ордер, удерживается другая комиссия. Такие системы как Ethereum выводят микроплатежи на совершенно новый уровень, взимая плату за вычисление. Все эти системы борются за привлечение новых мейнстримных пользователей таким же способом, как если бы децентрализованный поисковик пытался бы конкурировать с Google за новых мейнстримных пользователей и при этом удерживал бы небольшую комиссию за каждый поисковой запрос. Не важно, на сколько хорош сервис, люди ожидают, что конкретные вещи будут бесплатными. Это правдиво даже если в итоге пользователь в итоге платит больше при измененной структуре комиссий.
+In the world of financial payments, small fees are acceptable because the value of the transaction is extremely high relative to the fee charged, and the buyer has already made a decision to buy. The world of potential blockchain applications is far greater than just financial payments and includes many necessary transactions for which fees are simply unacceptable to users.
 
-### Комиссии как Барьер для Входа
+Systems like BitShares, Nxt, Ripple, Counter Party and Stellar all allow users to place limit orders on the blockchain and all of them charge users a small fee to perform this action. Later if the user wishes to cancel their order, another fee is charged. Systems like Ethereum take micropayments to a whole new level: charging per calculation. All of these systems struggle to attract new mainstream users for the same reasons that a decentralized search engine would struggle to attract users from Google if it charged a small fee for every search. It doesn’t matter how good the service is, people expect certain things to be free. This is true even if a user ends up paying more overall under a different fee structure.
 
-Любые комиссии создают барьер для входа новых пользователей. Перед тем как кто-либо может поэкспериментировать с Ethereum, он должен приобрести несколько токенов эфира. Если кто-то хочет разработать децентрализованное приложение на Ethereum, то он должен переложить эти затраты на своих покупателей. Покупка криптовалюты не легкая задача и редко имеет смысл на сумму менее $10. Это означает, что новые пользователи, которые хотят попробовать новое децентрализованное приложение должны быть убеждены принять решение на $10.
+### Fees are a Barrier to Entry
 
-### Взимание Комиссий
+Any fee creates a barrier to entry for new users. Before someone can experiment with Ethereum they must acquire some ETH tokens. Anyone wanting to build a decentralized application on Ethereum must pass on the cost to their customers. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
 
-Со временем сеть должна подстраивать комиссии. Это может произойти либо в случае роста цены на токен, или в случает роста пропускной способности. Пользователи любят предсказуемые комиссии и гарантированные услуги. Подстраивать комиссионные вознаграждения динамически возможно, но в результате от этого страдает пользовательский опыт.
+### Changing Fees
 
-### Атаки Сибиллы
+Over time a network must adjust fees. This can happen either due to an increase in the value of the token or due to a surge in capacity. Users like predictable fees and guaranteed service. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
 
-Централизованные сайты предотвращают спам при помощи ограничения количества запросов и некоторых форм идентификации. Даже такой простой способ как reCAPTCHA [^9]достаточен для ограничения создания фейковых аккаунтов. Если кто-то злоупотребляет их аккаунтами, тогда централизованные сайты могут заблокировать аккаунт.
+### Sybil Attacks
 
-В децентрализованной системе не существует прямого способа забанить пользователя, так же как и нет способа у централизованного провайдера децентрализованных услуг использовать reCAPTCHA и накладывать лимиты на аккаунты. По факту невозможность цензурировать пользователей - это одно из самых продаваемых свойств блокчейн технологии.
+Centralized websites prevent spam through rate limiting and some form of ID verification. Even something as simple as reCAPTCHA[^9] is sufficient to limit the creation of fake accounts. If someone abuses their account then centralized websites are free to block the account.
 
-### Полное Резервирование против Частичного Резервирования
+In a decentralized system there is no direct way to ban users nor centralized provider able to host a reCAPTCHA and enforce rate limiting of accounts. In fact, the inability to censor users is one of the main selling points of blockchain technology.
 
-Давайте рассмотрим блокчейн как ISP (от англ. Internet Service Provider или поставщик услуг интернета) работающий как кооператив, который владеет всеми кабелями в городе, и имеет максимальную пропускную способность, которую он может обеспечить в любое время. Люди живущие в городе могут купить акции этого ISP в обмен на право использовать часть доступного пропускного канала.
+### Full Reserve vs Fractional Reserve
 
-У ISP есть две опции: использовать систему с полным резервированием или с частичным резервированием. При использовании системы с полным резервированием каждый пользователь может использовать какую-то часть максимального пропускного канала пропорционально его акциям. Так как никто не пользуется Интернетом в одно и то же время, городская сеть будет сильно недоиспользована.
+Let’s view a blockchain like an Internet Service Provider (ISP) co-op which owns all of the cables in the town and has a maximum amount of bandwidth that it can provide at any time. People living in the town can buy shares in the ISP and in exchange they are entitled to utilize a portion of the available bandwidth.
 
-При частичном резервировании отдельные пользователи могут использовать больше пропускной способности в любой момент времени, до тех пор пока абсолютно все пользователи не станут использовать Интернет в одно и то же время. Проблема с обслуживанием частичного резервирования в том, что затор будет происходить каждый раз, когда слишком много людей будет хотеть использовать сеть в одно и то же время. ISP нужен способ приоритизировать пропускную способность в периоды пиковых нагрузок. В самом экстремальном случае, сильно нагруженная система должна превратиться в систему с полным резервированием. Челендж в установке корректного коэффициента частичного резервирования.
+The ISP has two choices, run a “full reserve” or “fractional reserve” system. Under a full reserve system each user is only allowed a fraction of the maximum bandwidth proportional to her shares. Because not everyone uses the Internet at the same time, the town’s network would be significantly underutilized.
 
-## Пропускная Способность Вместо Микроплатежей
+Under a fractional reserve system the individual users could utilize more bandwidth than they are entitled to at any given point in time so long as not everyone uses the Internet at the same time. The problem with operating a fractional reserve is that congestion occurs anytime too many people wish to use the network at the same time. The ISP needs a way to prioritize bandwidth during congested periods. In the most extreme case, a fully congested network must revert to a full reserve system. The challenge is setting the proper fractional reserve ratio.
 
-Решение проблемы с микроплатежами в применении *динамичных частичных резервов*. При этой модели блокчейн будет автоматически подстраивать коэффициент резервирования для сети во время пиковых нагрузок. Блокчейн будет устанавливать уровень целевого использования при котором остается достаточный просвет для краткосрочных всплесков спроса. Каждый раз когда происходят всплески активности, блокчейн снижает максимальную пропускную способность на одну акцию. Когда всплеск окончен, и появляется избыточная пропускная способность, блокчейн может медленно повышать пропускную способность на акцию.
+## Bandwidth Instead of Micropayment Channels
 
-Пропускная способность, используемая для индивидуальных пользователей, должна быть измерена на достаточно долгом промежутке времени для того, чтобы адекватно подстраивать свое использование. Люди привыкли заходить в систему, делать сразу много разных дел, а затем выходить. Это означает, что их пропускная способность на достаточном коротком промежутке времени может показаться намного выше, чем во время длительного периода. Если временное окно растянуто слишком далеко, резервный коэффициент не подстроится достаточно быстро для ответа на краткосрочные всплески. Если временно окно слишком короткое, тогда групповое использование будет иметь слишком большое влияние на нормальных пользователей.
+The solution to the problems with micropayments is in implementing *dynamic fractional reserves*. Under this model the blockchain will automatically adjust the reserve ratio for the network during times of congestion. The blockchain will set a target utilization that leaves enough headroom for short term surges in demand. Any time the surges are sustained the blockchain reduces the maximum bandwidth-per-share. When a surge is over and there is surplus capacity the blockchain can slowly increase the bandwidth-per-share.
 
-По нашим оценкам должно быть достаточно измерять средне недельное использование. Каждый раз когда пользователь подписывает транзакцию, эта транзакция учитывается в их собственной индивидуальной скользящей средней. Каждый раз когда скользящая средняя превышает текущие сетевые лимиты - транзакции откладываются, до тех пор пока их средняя не упадет до установленных лимитов.
+Bandwidth used by an individual user should be measured over a suitably long period of time to allow that user to time-shift their usage. Users tend to login, do many things at once, then logout. This means that their bandwidth over a short period of time may appear much higher than if viewed over a longer period of time. If the time window is stretched too far then the reserve ratio will not adjust fast enough to respond to short-term surges, if the window is too short then clustering usage will have too big of an impact on normal users.
 
-### Пример Реализации
+In our estimate it should be sufficient to measure the average weekly bandwidth usage of users. Every time a user signs a transaction, that transaction is factored into their own individual moving average. Any time a user’s moving average exceeds the current network limit their transaction is delayed until their average falls below the limit.
 
-Допустим B равняется средней пропускной способности пользователям за время T. Допустим W равняется числу секунд за неделю, и допустим N равняется размеру транзакции, которая случилась через S секунд после T. На основании этой информации блокчейн может вычислить новую среднюю пропускную способность для пользователям как:
+### Impact of Capacity
 
-    Bnew = MIN(0,B * (W - S) / W) + N * S / W
-    Tnew = T + S
-    
+Blockchain capacity isn’t necessarily capped. It is well within the technological capability of internet infrastructure to increase the Bitcoin block size to 10MB which in turn will reduce the minimum required balance by a factor of 10. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second.
 
-Каждому пользователю устанавливается следующая средняя пропускная способность:
+### Comparison to Fees
 
-    Let U = стим-мощь пользователям
-    Let S = общее количество стим-мощи
-    Let R = текущий резервный коэффициент между 1 и Rmax
-    Let C = максимальный размер блока устанавливаемый делегатами
-    Let L = общее количество блоков в неделю
-    Let M = C * L * R
-    Распределение = M * U / S
-    
+If we assume a user with $25 dollars worth of BTC transacts once per week and pays a $0.04 cent fee each time then they would pay over $2.00 in fees per year. A user would have to earn a 8% rate of return on their $25 dollars just to break even with paying fees. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
 
-Пользователю будет установлена средняя пропускная способность M \* U / S. Каждый раз когда транзакция будет приводить к увеличению установленного лимита выше этого значения, этот пользователь не будет иметь возможности осуществлять транзакции до тех пор, пока не пройдет достаточно времени для снижения его средней.
+### Account Creation
 
-Сеть может увеличивать резервный коэффициент в любое время, когда блоки более чем в два раза меньше чем целевая пропускная способность, и уменьшать его когда этот показатель больше половины. Алгоритм используемый для корректировки R, разработан реагировать быстро для снижения коэффициента резервирования во время всплесков спроса. При этом этот алгоритм действует медленно при повышении резервного коэффициента в периоды низкого спроса.
+Steem’s account-based system with publicly known balances simplifies the implementation of the bandwidth-based rate limiting algorithm. Any account with a balance below the minimum required to transact once per week would be unable to transact. This implies that all new accounts should be funded with at least this minimum balance. It also implies that users wishing to transact in smaller amounts can, so long as they hold a larger balance and reuse the account.
 
-Минимальный резервный коэффициент 1, а максимальный резервный коэффициент должен быть вычислен для предотвращения малых акционеров от потребления всей доступной пропускной способности. Если никто не использует доступную пропускную способность, тогда резервный коэффициент может расти до тех пор пока пользователь с 1 сатоши стим-мощи не сможет делать транзакции в каждом блоке.
+It is possible for a low-balance account created during a time of low usage to become inaccessible if the network usage picks up. The funds could be recovered at any time by temporarily delegating a larger balance to the account.
 
-### Изучаем на примере Биткоина
+In order to maintain a reasonable user experience with a minimum number of hung accounts, all new accounts should start out with a balance 10 times the minimum required to transact weekly. This way even if demand increases by a factor of 10 the account will remain viable.
 
-Для понимания того, как предлагаемый алгоритм работал бы в Биткоине необходимо оценить разумное значение для резервного коэффициента R на основе текущего использования. Основываясь на текущем количестве биткоинов в 15 миллионов и ежедневном объеме транзакций в размере 400 тысяч биткоинов[^10] мы может получить минимальный резервный коэффициент: 38 для Биткоина. Используя формулы мы может вычислить недельную пропускную способность (в байтах), которая будет доступна на 1 биткоин:
+Any initial account balance would have to come from the user creating the account and not from token creation due to the potential for sybil attacks.
 
-    Let C = 1MB = 1024 * 1024
-    Let L = 1008 (блоков в неделю)
-    Let R = 38
-    Let S = 14000000 BTC (количество биткоинов минус не двигающиеся)
-    Let U = 1 BTC
-    CLR/S = 2869 байтов в неделю, или около 5 транзакций в неделю на 1 биткоин
-    
+### Justifying Minimum Balances
 
-Так как R = 38 - это нижняя граница на резервный коэффициент и CLR/S - это нижняя граница на разрешенную пропускную способность. Самый простой случай предполагает, что пользователям необходимо иметь максимум 0.2 биткоина (или около 5000 руб.) для того, чтобы делать транзакции раз в неделю. Тем не менее эта свободная верхняя граница получена из предположения что все биткоины равно перемещаемы. Это не так - пользователи с большим количеством биткоинов не обязательно делают транзакции десятки или сотни раз в неделю! Оставшиеся транзакции, которые эти пользователи могли бы сделать, увеличат резервный коэффициент, а это позволяет использовать свободную пропускной способность для малых пользователей.
+The concept of forcing users to maintain a minimum balance flows naturally from the value of a user[^10]. Anyone running a business knows that every single user has significant value. Businesses spend anywhere from $30 to $200 to acquire a user. Sometimes they pay users directly, other times they pay for advertizing, and still other times entire companies are bought just for their user base. After a company acquires a user they often given them many *free services* just to keep them around long enough to monetize them through some other means.
 
-Вышеприведенные оценки очень консервативны, и предполагают что доли и их использование распределены достаточно равномерно. В реальности тяжелые пользователи, такие как биржи, имеют гораздо высокий показатель доля/использование чем легкие пользователи, а это в результате приводит к тому, что требования по минимальному балансу гораздо ниже.
+Ripple uses a minimum balance[^11] that scales with account resource use and requires that new accounts get funded with at least this minimum balance. Currently this minimum balance is about $0.15 which is greater than the $0.10 we estimated would allow someone to transact freely at least once per week.
 
-#### Влияние на Пропускную Способность
+A blockchain can enforce a minimum value per user through the simple process of requiring a minimum balance. Any business that wishes to bring a new customer to the blockchain can pre-fund that user’s account with the minimum balance that would allow them to transact. Requiring a relatively large fee ($1.00) to sign up new users will naturally force anyone offering free accounts to vet the quality and uniqueness of each account before registering them with the blockchain.
 
-Пропускная способность блокчейна не обязательно ограничена. Технологическая способность существующей интернет инфраструктуры вполне позволяет увеличить размер блока Биткоина до 10 мегабайт, что в свою очередь снизит минимальные требования к балансу в 10 раз. В то время как Биткоин на данный момент поддерживает 3 транзакции в секунду, альтернативные имплементации способны на более чем 1000 транзакций в секунду. Это уменьшает нашу консервативную верхнюю границу до 0.0006 биткоина или приблизительно 15 рублей. Это означает, что аккаунт, владеющий 15 рублями сможет делать транзакции в среднем как минимум один раз в неделю. А в реальности гораздо чаще, так как мы имеем дело с достаточно консервативной оценкой.
+Maintaining a minimum balance is effectively the same as making users pay transaction fees with the interest they could have earned on their balance. The minimum balance is simply the balance required to earn enough interest to pay a fee in a relatively short period of time.
 
-#### Максимальное Количество Пользователей
+Fortunately, the minimum balance required can be as low as a dollar and this is something users can understand and appreciate. The opportunity cost of lost interest doesn’t incur the cognitive cost of a micro-fee and is far more acceptable to users.
 
-Мы можем использовать похожую математику для вычисления максимального количества уникальных пользователей, которым сеть может позволить делать транзакцию один раз в неделю: B\*W/T. T отражает средний размер транзакции. Это означает что Биткоин мог бы поддерживать около 2 миллионов пользователей, которые делают транзакции один раз в неделю предполагая, что каждый пользователь имеет одинаковый баланс.
+The STEEM used to pre-fund an account is Powered Up in the new account (i.e., converted to Steem Power). A portion of the SP used to fund a new account may be delegated from the creator of the account. When a user is delegated SP, they may use the SP for voting and bandwidth purposes as if it were their own, but the ownership of the SP remains with the user who delegated it. A user may remove the delegation at any time. After a cool-down period, the SP is returned to their account.
 
-#### Сравнение с Комиссиями
+### Effectiveness Relative to Fees
 
-Если мы предположим что пользователь со счетом 1500 рублей в биткоинах делает транзакции раз в неделю и платит 3 рубля комиссионных каждый раз когда он делает транзакции, получится что такое пользователь платит трансакционных комиссий на сумму 150 рублей в год. Пользователь должен обеспечивать 8% возврат на его 1500 рублей для того, чтобы окупить только трансакционные издержки. Пользователь в любом случае собирается держать свои деньги на блокчейне, так что пользователь с 1500 рублями в биткоинах сэкономит 150 рублей используя подход ограничения лимитов вместо комиссионных. С 15000 рублями люди могут делать транзакции каждый день и экономить около 1200 рублей в год.
+To compare the effectiveness of rate limiting to fees we must consider how the two systems react to intentional network flooding by an attacker. Under Bitcoin an attacker with $10,000 dollars could disrupt service for an entire day by filling every single block. The same attacker would be unable to disrupt service for even a single block under the dynamic fractional reserve rate limiting approach.
 
-### Создание Аккаунтов
+If we go to a more extreme case and assume the attacker holds 1% of all coins then we presume an attacker with $60 million dollars. Such an attacker could deny the Bitcoin blockchain service for 16 years unless the miners increased fees or capacity. Even if fees were raised to $15 per transaction, the attacker could still keep the network flooded for 16 days.
 
-Система аккаунтов в Стиме с публично известными балансами, упрощает реализацию алгоритма основанного на ограничении лимитов пропускной способности. Любой аккаунт, с балансом ниже минимально требуемого для обеспечения транзакций раз в неделю, не сможет делать транзакции. Это подразумевает, что все новые аккаунты должны быть пополнены минимальным количеством средств. Это также подразумевает, что пользователи, которые желают делать транзакции в меньших количествах, смогут это делать свободно пока у них большой баланс.
+Under the rate limiting approach, someone who holds 1% of all coins with an intent to flood the network would achieve their goal for less than 30 seconds.
 
-Возможна ситуация, при которой счет с малым балансом, созданный в период неактивного использования станет недоступным, если использование сети вырастет. Средства могут быть восстановлены в любое время путем перевода большего баланса на счет.
+### Renting vs. Buying vs. Time Sharing
 
-Для того, чтобы обеспечивать комфортный пользовательский опыт с минимальным количеством подвисших аккаунтов, все новые аккаунты должны создаваться с балансом в 10 раз превышающим минимально требуемый для еженедельных транзакций. Таким образом даже если спрос возрастет в 10 раз, счет все равно будет действующим.
+When someone owns a house they expect the right to use the house for free. If a group of people buy a house together then each can expect the right to use the house proportional to their percentage ownership in the house. A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
 
-Любой первоначальный баланс счета должен исходить от пользователя, создавшего аккаунт, а не из создания токенов из-за возможности атаки Сибиллы.
+If a house is owned by multiple people then those individuals must decide how they wish to timeshare the house. Someone who owns 50% of the house but only uses it one weekend per year might expect to be paid by the individuals who take their unused time. This is the mindset of a fee based system.
 
-### Оправдание Минимальных Балансов
+On the other hand, someone who owns 50% of the house is speculating that demand for the house will increase in the future and they will be able to sell their stake for more. Any owner who owns more of a house than they use becomes a real estate speculator. With this mindset rather than collecting rent, they collect appreciation.
 
-Концепт требования от пользователей в обеспечении минимального баланса вытекает натуральным образом из ценности пользователя[^11]. Все, кто занимаются бизнесом знают, что каждый пользователь имеет высокую ценность. Где угодно бизнесы тратят от 2000 рублей до 15000 рублей за приобретение каждого пользователя. Иногда они платят пользователям напрямую, иногда они платят за рекламу, а иногда целые компании приобретаются только из-за их пользовательской базы. После того, как компания приобретает пользователя, она часто дает ему много *бесплатных услуг* только за то, чтобы он оставались с ней достаточно долго, чтобы сохранялась возможность монетизировать его под любым соусом.
+The value of a share is derived from how much time it can potentially grant its owner. Owning 1% of a house and getting it 1 weekend per year is the lowest value of a share. However, if half of the shareholders never use their weekend, then the value per timeshare rises to 2 weekends per year. If those inactive users instead opt to rent their unused time, then it falls back to 1 weekend per year. If those unused timeshares were sold to people who would use them then the value of a timeshare would fall by 50%. Unless the rent collected is greater than the fall in share value the timeshare owners are making an economic miscalculation.
 
-Ripple использует минимальный баланс[^12], который подстраивается под использование используемых ресурсов, и требует чтобы новые аккаунты были пополнены минимальным балансом. На текущий момент их минимальный баланс в районе 10 рублей, что больше 6 рублей, которые по нашей оценке позволят людям делать транзакции раз в неделю.
+Using this rationale we can assume that a system based on fees will either be more expensive for its users or be less profitable for its collective owners. An individual small owner may profit by renting out his small time slice, but only at the expense of all other timeshare owners. In effect, the cost of the falling timeshare value is shared among all owners whereas the profits are centralized in the single owner who decided to rent his share.
 
-Блокчейн может требовать минимальную ценность за пользователя через простой процесс требования минимального баланса. Каждый бизнес, который желает принести новых клиентов блокчейну, должен пополнять аккаунт пользователя минимальным балансом, который позволит этому пользователю делать транзакции. Требование относительно высоких комиссий за регистрацию новых пользователей естественным образом заставит всех предлагать бесплатные аккаунты с проверкой качества и уникальности каждого аккаунта перед регистрацией его на блокчейне.
+We can conclude from this that a blockchain is best served by not using usage fees at all. If a usage fee were to be charged as an alternative to rate limiting, then it should be the equivalent of buying enough timeshares and committing to hold them long enough to gain the right use it once.
 
-Поддержание минимального баланса - это практически одно и то же, что взимание трансакционных комиссий совместно с процентным доходом, который они могли бы заработать на их баланс. Минимальный баланс это просто баланс требуемый для того, чтоб заработать достаточное количество процентов для оплаты транзакций в относительно короткий промежуток времени.
+Stated another way, a transaction fee should be equal to the minimum account balance necessary to transact once per week and it should be refunded at the end of the week. Assume the minimum account balance is $1 and allows someone to transact once per week. If someone with a $1 balance that wishes to perform 5 transactions at once they will have to increase their balance to $5 for a week either before or after their transactions.
 
-К счастью, требуемый минимальный баланс может быть достаточно низким на уровне 50 рублей, а это тот размер, который пользователь может понять и простить. Альтернативные издержки потерянных процентов не стоят когнитивных издержек микротранзакций, и намного более понятны людям.
+In theory a market could form where users can borrow the stake required. In practice it is more efficient for users to simply buy and sell the timeshares necessary to meet their desired usage rate. In other words, the cost of negotiating micro-loans is greater than the cost of maintaining a balance suitable for your maximum weekly usage.
 
-Стимы использующиеся для создания аккаунтов сразу конвертируются в стим-мощь.
-
-### Корректировка Резервного Коэффициента
-
-Ограничение лимитов требует, чтобы сеть корректировала резервный коэффициент достаточно быстро для предотвращения влияния атакующего, который пытается заспамить сеть. Давайте предположим, что у атакующего достаточно большой баланс, скажем, 1% доступных стимов. Если мы предположим что сеть нацелена на коэффициент использования 50%, тогда устойчивая атака позволит предоставить пользователю 25% пропускной способности сети в том случае если все другие пользователи также используют 25% пропускной способности. Говоря другими словами, самый большой пользователь никогда не будет способен потребить более 50% целевой пропускной способности, до тех пор пока он не контролирует больше чем 50% стим-мощи.
-
-Давайте попробуем использовать первоначальный резервный коэффициент 200x. Из-за частичного резервирования кто-то, кто контролирует 1% токенов имеет право требовать транзакций в объеме превышающем максимальный размер блока в два раза. Для того чтобы снизить сетевое использование атакующего до 25%, резервный коэффициент должен уменьшиться в 25 раз. Это приведет к тому, что минимальный баланс требуемый для транзакций вырастет в 8 раз.
-
-Блокчейн может установить время ответа таким образом, чтобы любые вспышки активности гасились в течении короткого промежутка времени, такого как 30 секунд. Атакующий, пытающийся заспамить сеть, не должен иметь шанс уничтожить сервис для нормальных пользователей на более чем 1 минуту.
-
-В то время как снижения резервного коэффициента должны быть быстрыми и нелинейными для контр-ответов, повышения резервного коэффициента должно быть медленными и линейными. Если сеть будет подстраиваться в обоих направлениях за 30 секунд, тогда атакующий сможет расшатывать сеть. Поток транзакций должен быть скорректирован за 30 секунд, с тем чтобы быть восстановленным на уровень до атаки за целый час. При такой модели атакующий сможет заспамить сеть на 30 секунд в час или менее 1% от всего времени.
-
-Также должна существовать медленная константа давящая на увеличение резервного коэффициента каждый раз, когда загрузка сети ниже 50%, до тех пор, пока сеть не достигнет максимального резервного коэффициента. Максимальный резервный коэффициент определяет минимальную необходимую долю для заспамливания сети короткими импульсами.
-
-Любой пользователь с количеством токенов, которое меньше чем ВСЕГО_ТОКЕНОВ / (2 * РЕЗЕРВНЫЙ_КОЭФФИЦИЕНТ) не сможет произвести достаточно количество транзакций для наполнения даже одного блока. С резервным коэффициентов 200 это означает, что любой пользователь с балансом менее 0.25% валюты не сможет создать достаточное количество транзакций, чтобы остановить обслуживание других.
-
-### Эффективность по Отношению к Комиссиям
-
-Для сравнения эффективности ограничения лимитов с трансакционными комиссиями, мы должны проанализировать реагирование обоих систем на умышленную попытку атакующим заспамить сеть. В Биткоине атакующий с 500 тыс. рублями сможет уничтожить сервис на целый день заполняя каждый отдельный блок. Тот же самый атакующий не сможет остановить функционирование сети даже на один блок при подходе с динамичными частичным резервированием на базе ограничения лимитов.
-
-Если мы рассмотрим более экстремальный случай и предположим, что атакующий контролирует 1% всех монет, тогда мы даем атакующему около 3.5 млрд. рублей. Такой атакующий может остановить обслуживание блокчейна Биткоина на 16 лет до тех пор пока майнеры не увеличат транзакционные комиссии или пропускную способность. Даже если транзакционные комиссии будут повышены до 1000 рублей за транзакцию, атакующий все равно сможет уничтожать сеть на протяжении 16 суток.
-
-При подходе ограничения лимитов атакующий который контролирует 1% всех монет сможет достигнуть своей гнусной цели всего на 30 секунд.
-
-### Аренда против Покупки против Совместного Использования
-
-Когда кто-то владеет домом он ожидает, что у него есть право использовать дом бесплатно. Если группа людей купит дом совместно, тогда каждый ожидает, что у него есть право использовать дом пропорционально доле собственности в доме. Блокчейн основанный на комиссиях это все равно, что арендовать дом у своих пользователей, в то время как ограничение лимитов это совместное использование по времени.
-
-Если дом находится в собственности у нескольких людей, эти персоны должны решить как они хотят его совместно использовать. Кто-то, кто владеет 50% дома, но использует его только одну неделю в год, может ожидать оплаты от тех персон, которые используют его в это время. Это менталитет системы основанной на транзакционных комиссиях.
-
-С другой стороны, кто-то владеющий 50% дома может предполагать, что спрос на дом вырастет в будущем, и он сможет продать его долю дороже. Любой собственник, который владеет большим количеством дома, чем его использует, становится спекулянтом по недвижимости. С таким менталитетом вместо того, чтобы получать оплату, такой человек получает уважение.
-
-Ценность доли происходит от количества времени, которое доля может потенциально дать своему собственнику. Владение 1% дома и возможность использовать его 1 неделю это минимальная цена доли. Однако, если половина акционеров никогда не используют их время, тогда ценность за минимальную цену увеличится до 2 недель в год. Если эти неактивные пользователи вместо этого захотят сдавать в аренду их неиспользуемое время, тогда ценность опять вернется на прежнюю отметку. Если все неиспользованные время-доли были бы проданы людям, которые бы пользовались ими, тогда ценность времядоли упала бы на 50%. До тех пор пока собранная арендная плата выше падения время-доли в цене - собственники делают экономический просчет.
-
-Используя эту логику мы можем предположить, что система основанная на комиссиях будет либо более дорогой для своих пользователей или будет менее прибыльна для их коллективных собственников. Индивидуальный малый собственник может получить выгоду через сдачу своего маленького кусочка в аренду, но только за счет всех других времядольщиков. Таким образом, стоимость падающей время-доли разделяется между собственниками, в то же время прибыли централизованы у одного собственника, который решил сдать свою долю в аренду.
-
-Из вышесказанного мы можем сделать вывод, что для блокчейна лучше вообще не использовать транзакционные комиссии. Если бы комиссии за использование взимались как альтернатива к ограничению лимитов, это было бы аналогично покупке достаточного количества время-долей и обещанию держать их, чтобы получить право использовать эту время-долю всего один раз.
-
-Говоря другими словами, транзакционные комиссии должны равняться минимальному балансу аккаунта необходимого для обеспечения транзакций раз в неделю и такой аккаунт должен пополняться каждый раз в конце недели. Давайте предположим, что минимальный размер баланса 100 рублей позволяет кому-либо делать транзакции один раз в неделю. Если кто-то с балансом 100 рублей желает делать 5 транзакций в неделю, тогда ему надо будет увеличить баланс до 500 рублей.
-
-В теории рынок может формироваться в направлении займов необходимой время-доли. На практике пользователям намного эффективнее просто покупать и продавать их время-доли необходимые для удовлетворения их потребностей по использованию. Другими словами, стоимость согласования микрозайма выше, чем стоимость поддержания баланса необходимого для комфортного еженедельного использования.
-
-Децентрализованное ограничение лимитов транзакций может сделать возможным новые типы децентрализованных приложений, которые были невозможны, когда каждое использование приложения требовало микроплатеж. Эта новая модель дает разработчику приложений возможность решать когда и за что взимать плату с пользователей за транзакции.
+Decentralized rate limiting of transactions can enable new types of decentralized applications that were not viable when every use of the application required a micropayment. This new model gives application developers the ability to decide if and when to charge their users for transactions.
 
 # Производительность и Масштабируемость
 
-Сеть Стим построена на Graphene, на основе той же самой технологии, на которой построен BitShares. Graphene публично продемонстрировал способность обрабатывать больше 1000 транзакций в секунду в распределенной тестовой сети. Graphene может легко масштабироваться до 10 тыс. транзакций в секунду с относительно простыми улучшениями коммуникационного протокола и банального апгрейда серверного оборудования нод.
+The Steem network is built upon Graphene, the same technology that powers BitShares. Graphene has been publicly demonstrated sustaining over 1000 transactions per second on a distributed test network. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
 
-## Масштаб Реддита
+## Reddit Scale
 
-Стим способен обслуживать пользовательскую базу аналогичную Reddit. В 2015 году 8.7 миллионов пользователей создавали в среднем 23 комментария в секунду[^13], со средним показателем 83 комментария в секунду. Было создано 73 миллиона постов верхнего уровня, со средним показателем 2 поста в секунду. Насчитывалось около 7 миллиардов голосов, со средним показателем 220 голосов в секунду. В общей сложности, если бы Reddit работал бы на блокчейне, то он бы требовал в среднем 250 транзакций в секунду.
+Steem is capable of handling a larger userbase than Reddit. In 2015 Reddit’s 8.7 million users generated an average of 23 comments per second[^12], with an average of 83 comments per year per user. There were 73 million top-level posts, for an average of 2 new posts per second. There were about 7 billion up votes creating an average voting rate of 220 votes per second. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
 
-Для того, чтобы достигнуть такой производительности (лидирующей в блокчейн отрасли) Стим позаимствовал уроки полученные от архитектуры LMAX Exchange[^14], которая способна обрабатывать 6 миллионов транзакций в секунду. Ключевые пункты полученные из этих уроков:
+To achieve this industry-leading performance, Steem has borrowed lessons learned from the LMAX Exchange[^13], which is able to process 6 million transactions per second. Among these lessons are the following key points:
 
 1. Держи все в оперативной памяти.
 2. Держи ключевую бизнес логику в одном потоке.
@@ -564,15 +402,17 @@ Ripple использует минимальный баланс[^12], котор
 4. Разделяй валидацию на проверки зависимые от состояния и независимые от состояния.
 5. Используй объектно-ориентированную модель данных.
 
-Следуя этим простым правилам, Стим способен обрабатывать 10 тыс. транзакций в секунду без каких либо существенных усилий по оптимизации.
+By following these simple rules, Steem is able to process 10,000 transactions per second without any significant effort devoted to optimization.
 
-Использование оперативной памяти для хранения всего блокчейна - перспективно, особенно с учетом недавнего анонса технологии Optanetechnology от Intel [^15]. Должно быть возможно использование общедоступного оборудования для обработки бизнес логики ассоциированной со Стим на одном ядре, а все посты должны держаться в оперативной памяти для быстрого индексирования. Google держит свой индекс всего Интернета в оперативной памяти. Использования блокчейн технологии делает тривиальным репликацию базы данных между машинами для предотвращения потерь. Как только технология Optanetechnology станет общедоступной, оперативная память станет еще быстрее при том, что станет еще и энергонезависимой. Другими словами, Стим разработан для архитектур будущего. Стим разработан для того, чтобы расти.
+Keeping everything in memory is increasingly viable given the recent introduction of Optane™ technology from Intel[^14]. It should be possible for commodity hardware to handle all of the business logic associated with Steem in a single thread with all posts kept in memory for rapid indexing. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optane™ technology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
 
 # Дистрибуция и Денежная Масса
 
-Сеть Стим стартует с нулевой денежной массы валюты и направляет стимы через доказательство работы (PoW) с приблизительной скоростью 40 стимов в минуту майнерам. Дополнительно 40 стимов в минуту создается для посевных фондов по вознаграждению создателей и кураторов контента. В общей сумме создается 80 стимов в минуту. Затем сеть начнет вознаграждать пользователей, которые конвертировали стимы в стим-мощь. В этот момент количество стимов растет приблизительно на 800 стимов в минуту из-за комбинированных эффектов применения следующих способов вознаграждать:
+## Initial Allocation & Supply
 
-**Награды за Контрибьюцию:**
+The Steem network started with a currency supply of 0 and allocated STEEM via proof of work at a rate of approximately 40 STEEM per minute to miners, with an additional 40 STEEM per minute being created to seed the content and curation reward pools (for a total of 80 STEEM per minute). Then the network started rewarding users who converted to SP. At this point, STEEM grew at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
+
+Contribution Rewards:
 
 - Награды кураторам: 0.5 стим в блок или 5.8125% в год, смотря что больше (1 стим в блок до 4 июля 2016 года)
 - Награды авторам: 1.5 стим в блок или 1.9375% в год, смотря что больше (1 стим в блок до 4 июля 2016 года)
@@ -581,185 +421,152 @@ Ripple использует минимальный баланс[^12], котор
 - PoW награды после блока 864000: 0.0476 стим за блок (награждается как 1 стим за раунд) или 0.75% в год, смотря что больше.
 - Награды за ликвидность: 1 стим за блок (награждается как 1200 стимов в час) или 0.75% в год, смотря что больше
 
-**Награды за Стим-мощь:**
+### Power Rewards:
 
 - За каждый стим созданный вышеуказанными вознаграждениями, 9 стимов разделяется между всеми держателями стим-мощи.
 
-**Стимбакс Операции:**
+### SBD operations:
 
-- Стим-бакс награды: каждому держателю стим-баксов выплачивается доход на основании годовой процентной ставки (англ. APR) устанавливаемой делегатами
-- Количество стимов, за которые может быть погашено общее количество стим-баксов, будет меняться в зависимости от изменений ценового фида. Такое изменение - это фактически уничтожение стимов, когда ценность стимов (на основании измерений ценового фида) растет или создание стимов когда ценность стимов падает (на основании измерений ценового фида).
+- SBD rewards: A percentage of SBD value is created at an APR set by the witnesses and paid to SBD holders as SBD
 
-Процентные ограничения эффективно обеспечивают гарантию того, что вознаграждения не станут бессмысленно низкими через какое-то время. Также это сделано намеренно, чтобы предотвратить взрыв в паттерне роста других блокчейнов, где высокие стимулы обеспечены высокими стимулами для ранних участников и последующим стагнированием с уменьшением стимулов до уровня ниже необходимого для вновь приходящих участников.
+The overall supply picture is complicated by the effect of SBD operations, which may result in large-scale creation or destruction of STEEM through feed rate following and SBD rewards, as discussed in the SBD section. Other, smaller-scale complicating effects also exist, including unclaimed incentives (e.g. block rewards for missed blocks), and abandoned accounts.
 
-Общий эффект этих постоянных к распределению токенов в том, что темп приблизительно 800 стимов в минуту сохраняется некоторое время (в учетных единицах стим), но падает в процентном выражении (т.к. 800 стимов это все меньшая и меньшая часть в общем количестве токенов). Когда различные компоненты вырастут с 800 стимов в минуту рост достигнет соответствующих процентных потолков которые в дальнейшем будут поддерживаться. Также это означает, что долгосрочно номинальный рост вырастет с 800 стимов в минуту до значения необходимого для обслуживания постоянной величины в 10% годового роста денежной массы направляемой на стимуляцию контрибьюции и 100% годового роста денежной массы на комбинированный эффект стимуляции контрибьюции и инвестиций. Общий эффект - это удвоение общего количества стимов каждый год (но как уточняется в следующей секции, если большинство пользователей усилилось тогда эффект от удвоения - это фактически сплит, который не перераспределяет собственность).
+## Current Allocation & Supply
 
-Картинка общего количества токенов усложнена последствиями операций со стим-баксом, которые могут приводить к массивному созданию или уничтожению стимов через следование цены фида, и вознаграждениями держателей стимбаксов. Это обсуждалось в разделе про стим-баксы. Другие, менее влиятельные эффекты существуют, включая неиспользованные вознаграждения (например, вознаграждения за пропущенные блоки), шум вызванные удачей майнеров при PoW производстве, а также эффект изменения длинны очереди майнеров вследствие изменений хеш-производительности сети.
+Starting with the network's 16th hard fork in December 2016, Steem began creating new tokens at a yearly inflation rate of 9.5%. The inflation rate decreases at a rate of 0.01% every 250,000 blocks, or about 0.5% per year. The inflation will continue decreasing at this pace until the overall inflation rate reaches 0.95%. This will take about 20.5 years from the time hard fork 16 went into effect.
 
-## Воздействие Скорости Создания Токенов
+75% of the new tokens that are generated go to fund the reward pool, which is split between authors and curators. 15% of the new tokens are awarded to holders of SP. The remaining 10% pays for the witnesses to power the blockchain.
 
-На первый взгляд 100% годовой рост количества Стимов может показаться гиперинфляционным и неустойчивым. Те кто придерживаются количественной теории денег[^16] могут даже сделать вывод, что ценность стимов должна падать на приблизительно 5.6% в месяц. Мы знаем из бесчисленного количества примеров реального мира, что количество денег не имеет моментального влияния на их ценность, хотя определенно играет свою роль.
+### Impact of Token Creation Rate
 
-Т.к. 90% всех создающихся стимов распределяется обратно держателям стим-мощи, в результате это разделение 9:1, а не полноценная инфляция. Общее количество затрат для вознаграждений контрибьюторов находится в районе 10% рыночной капитализации в год. А эта ставка гораздо ниже того, что пережил Биткоин в первые 7 лет после запуска.
+It is often said that a coin with an inflationary model is not sustainable, but we know from countless real-world examples that the quantity of money does not have a direct and immediate impact on its value, though it certainly plays a role.
 
-Создание новых стимов, чтобы платить вознаграждения пользователям, имеет негативный эффект на каждый другой пользовательский баланс, как их процент от общего количества стимов. Если ровно 90% стимов находятся в стим-мощи, тогда негативный эффект от стимуляции контрибьюции оказываемый на держателей стим-мощи отлично балансируется положительным эффектом от инвестиционной стимуляции. Держатели стим-мощи получают больше стимов (в номинальном смысле), но их процент блокчейна (в терминах доли от общего количества токенов) неизменен. Если менее чем 90% общего количества стимов держаться в стим-мощи, оба эффекта все равно указывают в обратных направлениях, но позитивный (негативный) эффект усиляется, а сумма двух эффектов будет стремится к тому, чтобы поддерживать количество балансов со стим-мощью выше 90%. Такая стимуляция не означает, что оценка стим-мощи должна держаться выше уровня 90% в долгосрочном периоде, потому-что получатели вознаграждений будут (и в некоторых случаях обязаны) класть свои стимы в стим-мощь, что означает, что толкание отметки выше 90% не единственная сила на процент общего количества стимов которые держаться в стим-мощи.
+From August 2008 through January 2009 the U.S. money supply[^15] grew from $871B to $1,737B, a rate of over 100% per year and then continued to grow at about 20% per year for the next 6 years. All told the money supply in the U.S. has grown by 4.59x over less than 7 years. During that same time, the value of the dollar relative to goods and services has fallen less than 10% according to the government's price index[^16]. This real-world example demonstrates that supply is only one component of price.
 
-С Августа 2008 до Января 2009 года денежная масса США[^17] выросла с $871 миллиарда до $1737 миллиардов со скоростью 100% в год, а затем продолжала расти на 20% в год в следующие 6 лет. Таким образом денежная масса в США выросла в 4.59 раз за период менее 7 лет. В это же время ценностью доллара относительно товаров и услуг упала всего на 10% в соответствии с правительственным ценовым индексом [^18]. Это пример из реального мира демонстрирует что денежная масса это лишь один из компонентов цены.
+For the first 2 years of Bitcoin’s life the network sustained an annual inflation rate[^17] of over 100%. For the first 5 years it was over 30%, and for the first 8 years it was over 10%. All told the total “spending” Steem does to fund content, curation, and block production amounts to less than 10% APR.
 
-Цена цифрового товара, такого как стим, обусловлена спросом и предложением. Если новые стимы направляются тем, кто является долгосрочными держателям, тогда возрастающая денежная масса - это просто коррекция соответствующего спроса держать. Влияние этого изменения в денежной массе отложено в будущее, когда долгосрочные держатели решат продавать. Давление продавцов в таком случае распределено на 2 года.
-
-Когда долгосрочные держатели решат выйти, денежная масса стимов на рынке возрастает и цена пойдет вниз. Это нисходящее давление компенсируется, когда новые долгосрочные держатели решают купить стим и конвертировать его обратно в стим-мощь. Таким образом мы может сделать вывод о том, что цена будет определяться изменением в спросе на держание стимов долгосрочно.
-
-Из 100% годового увеличения виртуальной денежной массы, 5% осуществляется в стимбаксах. Стимбакс отражает обязательство создать стоимость равную американскому доллару в стимах в будущем и никак не влияет на количество стимов сегодня. Изменение коэффициента долг/собственность может влиять на ощущаемую ценность стимов, но ни как напрямую не связана с падением ценности стимов. Если ценность стима растет с течением времени, тогда количество стимов, которые могут быть созданы в будущем будет меньше и соответствующая инфляция никогда фактически не произойдет.
-
-Таким образом общее количество потраченных стимов для того, чтобы финансировать контент, курирование, майнинг и ликвидность равняется 10% от капитализации в год или 1.2% в месяц. Идентичный способ перераспределения богатства мог бы быть применен без изменений денежной массы стимов путем применения отрицательных процентных ставок на ликвидные стимы в районе 10% в месяц. Или по-другому это можно было реализовать выставлением 3% комиссий (как у кредитных карт) на каждый трансфер имея около 1% стимов, которые перемещаются в течение дня. Биткоин сеть перемещает[^19] 400 тысяч биткоинов из 15.5 миллионов (или 2.5% ежедневно).
-
-Цель ликвидных стимов в стимуляции обмена собственности между долгосрочными держателями. Сеть облагает изменение собственности для целей финансирования роста. Этого налога на перемещение можно практически полностью избежать еженедельным автоматическим обменом стимов на стим-баксы, пока сеть конвертирует стим-мощь обратно в стим. Общее количество времени, которое обычные держатели стимов будут их держать незначительно для того, чтобы количество создаваемых стимов превысило такие эффекты как волатильность или торговые комиссии.
-
-### Влияние от создания токенов выше чем 90%
-
-На 1 июля ~98% всех стимов было конвертировано в стим-мощь. Это показывает, что спрос на долгосрочно держание доминирует. В таком состоянии и ликвидные стимы и стим-мощь размываются для финансирования вознаграждений.
-
-За первые 2 года жизни Биткоина сеть выдержала годовую инфляцию[^20] более 100%. За первые 5 лет инфляция составляла более 30%, а за первые 8 лет он была выше 10%. В соответствии с инструментом оценки будущей инфляции, включенной в исходный код Стима, Стим моментально достигает годовой инфляции в районе 12% всего через год (не включая эффект от операций со стим-баксами).
-
-### Учет в Стим
-
-Рост денежной массы Стима - это в большинстве своем учетный артефакт созданный желанием избежать отрицательных процентных ставок для ликвидных стимов. Отрицательные процентные ставки усложнили бы жизнь бирж, которым бы пришлось подстраивать балансы пользователей, чтобы учитывать отрицательную процентную ставку стимов на балансе. Отражение же блокчейн логики имела бы много ошибок и усложнила бы интеграцию и адаптацию. Следовательно Стим выбрал подход никогда не требовать плату с чьего-то счета, но вместо этого увеличивать денежную массу. Такой подход достигает идентичного экономического результата без необходимости того, чтобы каждый, кто хочет принимать стимы, реализовывать отрицательные процентные ставки в своей внутренней учетной книге.
-
-Сторонний эффект возрастающей денежной массы в том, что сеть будет требовать всегда возрастающий уровень точности в учете. В среднем количество битов требуемой для представления типичного аккаунта будет расти на 1.3 ежегодно. Пройдет всего 10 лет после того, как вовлекаемые числа больше не будут проходить в 53 битные лимиты поддерживаемые JavaScript или 64 битную точность поддерживаемую современными CPU. Через некоторое время размер вовлеченных цифр вырастет за пределы человеческого понимания. К тому же самые малозначимые биты будут иметь настолько мало экономической ценности, что можно их рассматривать как бессмысленные.
-
-Для того, чтобы компенсировать возрастающую точность, сеть Стим осуществляет деноминацию 10:1 каждые 32000000 блоков (около 3.3 лет). В этот момент все балансы Стим делятся на 10, а все цены умножаются на 10. Криптовалютные биржи должны будут приостановить торговлю в это время, обновить балансы и ценовую историю для отражения деноминации перед возобновлением торговли.
-
-Все ошибки округления будут осуществляться в пользу сети. Каждый баланс может потерять до 0.009 стимов из-за округлений, но это количество стимов должно быть экономически малозначимо. В общей сумме все держатели стим-мощи потеряют в сумме максимум 0.009 стимов.
+The price of a digital commodity, like STEEM, is driven by both supply and demand. When a long-term holder decides to exit, the supply of STEEM on the market will increase and push the price down. This downward pressure is countered when a new long-term holder decides to buy up the STEEM and convert it back into SP. Additional supply and demand may be be added due to market speculators buying and selling liquid STEEM based on their predictions of the future market price.
 
 # Мощь Стима
 
-Стим понимает, что ценность всех контрибьюций пользователей (посты и голоса) - больше чем сумма их частей. Отдельный комментарий стоит почти ничего, но миллионы курированных постов стоят много миллиардов или даже триллионов рублей. Отдельный голос обеспечивает мало ценности с точки зрения курирования, но миллиарды голосов это очень эффективное курирование. Контент без курирования имеет очень ограниченную ценность. Если взять весь существующий контент в Интернете и убрать из него ссылки, Гугл не смог бы обеспечить полезную поисковую выдачу. Ссылки между кусочками информации дают ей невероятную ценность.
+Steem recognizes that the value of all user contributions (posts and votes) is greater than the sum of the parts. A single comment is worth next to nothing, but millions of curated posts is worth many millions (or possibly even billions) of dollars. A single vote provides little curation value, but billions of votes is very effective curation. Content without curation is of limited value. Given all the content of the Internet minus the links between it, Google would struggle to produce useful search results. It is the links between information that give it significant value.
 
-Так как все выигрывают, все должны платить. Другими словами, никакой пользователь не должен ожидать, что ему будут платить за ничего, но вместо этого должны платить за все что он делает, что приносит Стиму ценность. Все что мы должны сделать - это выяснить какие контрибьюции пользователей приносят социальной сети ценность, а какие нет.
+Because everyone benefits, everyone should pay. In other words, no individual user should be expected to pay for anything, but instead should be paid for everything they do that brings value to Steem. All we need to do is ascertain which user contributions bring a social network value and which ones don’t.
 
-В сумме пользователи Реддита голосуют 220 раз в секунду и создают 23 поста в секунду. Реддит оценивается в диапазоне между 30 миллиардами[^21] и 240 миллиардами[^22] рублей, что означает что каждый голос и пост стоит между 4 и 30 рублями, предполагая что ценность Реддита, в большинстве своем, это последний год активности. Кто-то может спорить, что большая часть ценности Реддита в дискуссии реального времени, которая случилась за последнюю неделю, что драматично увеличивает ценность новой активности. Люди идут туда, где люди сегодня, а не туда где люди были в прошлом году.
+Collectively Reddit users vote 220 times per second and make 23 posts per second. Reddit is valued between $500 million[^18] and $4 billion[^19] which means that each and every upvote and post is worth between $0.06 and $0.50 assuming the value of Reddit is mostly within the past year’s worth of activity. One could argue that most of the value of Reddit is the near-real-time discussions that have occurred within the past week which would dramatically increase the value of new activity. People go where people are today, not where people were last year.
 
 ## Никаких Микроплатежей, Чаевые Опциональны
 
-Существующие попытки интегрировать криптовалюту в социально-медийные платформы фокусировались на том, чтобы пользователи платили друг другу. Многие сервисы пытались реализовать чаевые. В теории, если мы сделаем типинг достаточно простым, тогда больше людей будет это делать. Другие сервисы пытались сделать так, чтоб люди платили для продвижения своего контента. Другие пытаются выстроить малые рынки предсказаний на то, как много чаевых та или иная статья получит.
+Existing attempts at integrating a cryptocurrency into a social media platform have focused on enabling users to pay one another. Many services have attempted to introduce tipping. The theory is that if we make tipping simple enough then more people will do it. Other services attempt to get people to pay to promote or boost their content’s ranking. Still others attempt to build small prediction markets on how many tips an article will receive.
 
-Все эти подходы сводятся к микроплатежам. Они отличаются только тем, кто осуществляет платеж. Они все страдают от недостаточной вовлеченности людей, которые делают микроплатежи. В поисках мотивации производства контента, предприниматели настолько сильно фокусировались на том, кто должен платить, что они упустили очевидную реальность: каждый выигрывает от действия каждого, так что все должны платить или никто не должен платить, в зависимости от того, как ты смотришь на это.
+All of these approaches boil down to micropayments. They differ only in who is making the payment. They all suffer from insufficient engagement of people making the micropayments. In the search for incentivised content production entrepreneurs have been so focused on who should pay that they missed the obvious reality: everyone benefits from everyone’s actions so everyone should pay or no one should pay, depending on how you look at it.
 
-Стим обходит микроплатежи полностью, так как когда пользователь голосует за пост, сообщество платит по счету. Независимо от того, пользователь лайкнет пост или нет, одно и то же количество денег будет потрачено, а средства не идут напрямую от голосующего.
+Steem bypasses micropayments completely because when a user upvotes a post it is the community that pays the bill. The same amount of money will be spent whether the user upvotes a post or not and the funds will not come from the voter.
 
-Ментальная энергия ассоциированная с принятием экономического решения становится барьером для участия большинства людей.
+The mental energy associated with making an economic decision becomes a barrier to participation for most people.
 
-> *Мы испытаем огромное количество выборов каждый день в отношении того, что использовать онлайн в эту цифровую эру информационного взрыва, и каждое дополнительное решение, которые мы должны принимать, добавляет неопределенности и беспокойства. Фанаты микроплатежей верят, что упрощенная имплементация и улучшеный дизайн приложения могут минимизировать навязчивость микроплатежей и улучшить пользовательский опыт, но их аргумент только создает двойные стандарты для процесса принятия решений. Транзакция не может одновременно стоить достаточно чтобы обосновать решение и стоить так мало, чтобы решение было автоматическое. **Единственная транзакция, которую пользователь может подтвердить не думая, это транзакция, которая стоит для него ноль (0, zero, ничего, бесплатно)**, таким образом любая микротранзакция с положительной ценностью будет накладывать ментальные издержки, так как она требует принятия решения. Более того, ментальная стоимость транзакции имеет определенный уровень. Этот феномен ставит микроплатежи в гораздо более неудобное положение. Например, легко думать, что копия сегодняшней газеты стоит 50 рублей, но читатель испытает гораздо больше беспокойства и сложностей определяя ценность каждой статьи или слова в газете. Эта дилемма будет только реплицироваться и усугубляться если весь онлайн контент будет разделен на компоненты и индивидуально оцениваться через систему микроплатежей.*
-> 
-> *- Микроплатежи: Жизнеспособная бизнес модель [^23]*
+*We already face a multitude of choices everyday with regards to what to access online in this digital era of the information explosion, and every additional decision that we must make simply adds on to the uncertainty and anxiety we face. Micropayment supporters believe that a simplified implementation can minimize the intrusiveness of micropayments and improve user experience, but their argument only creates double standards for the decision making process \[2\]. A transaction cannot simultaneously be worth enough to warrant a decision and worth so little that the decision is automatic. **The only transactions that users can approve without thought are ones that cost them nothing**, thus any micro-transaction of positive value will incur mental costs through its requiring a decision. Furthermore, mental transaction costs actually rise below a certain threshold value, a phenomenon that places micropayments at an even greater disadvantage. For instance, it is easy to think that a copy of today's newspapers costs $1, but readers face much more difficulty and anxiety in deciding on the value of each article or word. Such a dilemma will only be replicated and exacerbated if all online content were to be broken down into their components and individually valued within a micropayment system.*
 
-В Стиме микроплатежи осуществляются производителям контента, но те кто голосуют не платят. Вместо этого, затраты на вознаграждение оплачиваются через вновь создаваемые токены. Кто угодно может присоединиться к системе, проголосовать, чтобы заплатить кому-то, а потом выйти из системы с большим количеством денег, чем было до входа (если предположить, что рыночная оценка системы Стим остается постоянной). Другими словами, микроплатежное решение обеспеченное Стимом, дает пользователю опыт похожий на многие мудро используемые сайты основанные на контенте модерируемом пользователями.
+-Micropayments: A Viable Business Model[^20]
 
-Более того, Стим платит людям, чтобы выяснить кому нужно заплатить. Этот способ мышления революционен.
+Under Steem, micropayments are paid to content producer, but those who vote for the content do not pay. Instead, the cost of the reward is paid for via new tokens. Someone can join the system, vote to pay someone, and then exit the system with more money than they started with (assuming the market valuation of the Steem system remained constant). In other words, the micropayment solution provided by Steem provides a user-experience similar to many widely used websites that have user-moderated content.
+
+Furthemore, Steem pays people to figure out who should be paid! This kind of thinking is revolutionary.
 
 ## Ценность в Ссылках
 
-Интернет бы потерял большую часть своей ценности если бы все ссылки были бы удалены из контента. Взаимосвязи между страницами позволяют Гуглу идентифицировать лучший рецепт яблочного пирога среди 16 миллионов результатов. Без ссылок, единственную информацию, которую Гугл бы имел - это частота слов.
+The Internet would lose the vast majority of its value if all links among content were removed. It is the relationship among web pages that allows Google to identify the best apple pie recipe among the 16 million results. Without the links the only information Google would have is word frequency.
 
-Ссылки могут принимать многие формы и адаптироваться со временем. Каждый раз когда пользователь лайкает кусочек контента в социальной сети, то он добавляет ссылку между ним и контентом. В свою очередь это связывает потребителя и производителя через контент. Чем больше ссылок в такой сети, тем более ценной информация становится. Это относительное и намеренное соединение информации обеспечивает ей ценность.
+Links can take many forms and have adapted over time. Every time a user votes on content in a social network they add a connection between themselves and the content. This in turn links the consumer to the producer through the content. The more connections a network has the more valuable the information becomes. It is the relative and intentional connectedness of information that gives it value.
 
-Социальная сеть может максимизировать ценность извлеченную из набора контента максимизируя количество и качество ссылок. Курирование контента дорогое удовольствие, которое требует временных затрат. В тоже время эта задача практически нерешаема для компьютеров при отсутствии ссылок. Стим вознаграждает пользователей, которые первыми находят хороший контент.
+A social network can maximize the value extracted from a set of content by maximizing the quantity and quality of connections. Curating content is expensive and time consuming while being near impossible for computers to perform in the absence of links. Steem rewards users who are among the first to find and identify new content.
 
-Через стимуляцию курирования сеть Стим способна использовать автоматизированные алгоритмы для того, чтобы выделить ценную информацию из огромного количества контента.
+By incentivising curation the Steem network is able to use automated algorithms to extract the most valuable information from a massive amount of content.
 
 ## Решение Проблемы Приземления Криптовалютных Пользователей
 
-Нелегко "войти" в криптовалюту[^24]. Кто-то, кто обнаружил Биткоин и хочет попробовать его, быстро понимает, что ему надо зарегистрироваться на бирже и пополнить счет кредитной картой или через банковский перевод. Какой бы была скорость адаптации Фейсбука если нужно было сделать такие действия, с деньгами и двумя формами идентификации личности?
+It isn’t easy to get into cryptocurrency[^21]. Someone who discovers Bitcoin and wants to try it out quickly learns that they will need to sign up with an exchange and fund their account with a credit card or wire transfer. What would Facebook’s adoption rate have been like if you had to fork over money and a two forms of ID?
 
-Стим решает проблему давая каждому способ заработать за то, чтобы делать простые, но ценные задачи. Это поможет распределить Стим токены очень широко. Это полезно, потому-что криптовалюты тоже имеют сетевой эффект (большее количество пользователей делают валюту еще более ценной. В качестве экстремального примера подумайте, а что если бы Сатоши взял бы 100% биткоинов себе. Такой Биткоин ничего не стоил бы).
+Steem solves this problem by giving everyone a way to get paid for doing simple, but valuable, tasks. This will help to widely distribute STEEM tokens. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless.)
 
 ## Решение Проблемы Ликвидации Криптовалюты
 
-Валюта, которую сложно использовать или невозможно продать - имеет малую ценность. Тот, кто обладает 100 рублями ценности в биткоинах, обнаружит, что для того, чтобы продать их нужно больше чем 100 рублей. Нужно открыть счет на бирже, пройти KYC валидацию, заплатить комиссии. Маленькое количество криптовалюты - это как мелкая сдача, которую люди не особо желают, так же как не желают нагнуться, чтобы поднять упавшую монетку.
+A currency that is difficult to use or impossible to sell has little value. Someone who comes across $1.00 worth of Bitcoin will discover that it costs more than $1.00 to sell that Bitcoin. They have to create an account with an exchange, perform KYC validation, and pay fees. Small amounts of cryptocurrency are like small change that people are unwilling to bend over to pick up.
 
-Торговцы дают пользователям способ быстро конвертировать их криптовалюту в ощутимые товары и услуги. Торговцам нужна валюта привязанная к их учетной единице, обычно американскому доллару. Прием волатильность валюты обычно создает существенный головняк в учете.
+Merchants give users a way to quickly convert their cryptocurrency into tangible goods and services. Merchants need a currency pegged to their unit of account, normally dollars. Accepting a volatile currency introduces significant accounting overhead.
 
-Торговцы будут принимать любую валюту, если она повышает их продажи. Наличие большой пользовательской базы со стабильной валютой, такой как стим-бакс снижает барьеры на вход для торговцев. Наличие торговцев улучшает систему, создавая возможность выходить из системы без необходимости, что-то обменивать.
+Merchants will accept any currency if it increases their sales. Having a large user base with a stable currency such as SBD lowers the barrier to entry for merchants. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
 
-Другой способ которым люди могут ликвидировать небольшое количество криптовалюты, которое они получают от участие в Стим платформе - это оставлять на чай другим. Это как оставлять мелкую сдачу официанту. Когда достаточно большое количество людей оставляет небольшие чаевые, то они могут собираться в значимые количества. Ты и официант приобретаете от чаевых.
+Another way that people can liquidate the small amounts of cryptocurrency they receive from participating on the Steem platform is through *tipping* others. This is like leaving the small change as a tip for your waiter. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
 
 ## Цензура
 
-Стим это децентрализованная сеть, которая обслуживается делегатами в разных юрисдикциях по всему миру. Все пользовательские действие публично записаны на блокчейне и могут быть публично верифицированы. Это означает, что не существует ни одной сущности которая может цензурировать контент, который ценен для пользователей держателей стимов.
+Steem is a decentralized network that is operated by witnesses in jurisdictions around the world. All user actions are publicly recorded on the blockchain, and can be publicly verified. This means that there is no single entity that can censor content that is valued by STEEM holders.
 
-Отдельные вебсайты такие как steemit.com могут цензурировать контент на их конкретном сайте, но контент опубликованный на блокчейне это широковещательный трафик, а зеркала по всему миру могут продолжать делать его ценным.
+Individual websites such as steemit.com may censor content on their particular site, but content published on the blockchain is inherently broadcast traffic and mirrors all around the world may continue to make it available.
 
-Свобода слова это основание для всяких свобод, а любые нарушения принципа свободы слова подрывают единственный миролюбивый способ достижения согласия: дискуссия. Без свободной дискуссии голосующие не могут быть полностью проинформированы, а не информированные голосующие это более серьезная угроза для общества, чем потеря права голосования. Цензурирование - это способ воровства голосов через ограничение публичного обсуждения. Стим предан тому, чтобы обеспечивать свободу слова в процессе строительства свободного сообщества.
+Freedom of speech is the foundation of all other liberties and any infringement upon freedom of speech undermines the only peaceful means of reaching consensus: discussion. Without free discussion voters cannot be fully informed, and uninformed voters are a greater threat to society than losing the right to vote. Censorship is a means of stealing votes through limiting public discourse. Steem is committed to enabling free speech and building a free society.
 
 ## Решение Проблемы Органического Поиска через Поисковую Оптимизацию
 
-Большинство криптовалют генерируют мало ценности для тех, кто использует сеть неактивно. Стим, наоборот, генерирует контент и поощряет пользователей делиться им. Этот контент индексируется поисковыми движками и приносит ценность большому количеству пассивных пользователей. Этот поисковой трафик создает органическую рекламу сети Стим и добавляет сетевых эффектов.
+Most cryptocurrencies generate little value for those who are not actively using the network. Steem, by contrast, generates content and encourages users to share it. This content gets indexed by search engines and ultimately will bring value to a large number of passive users. This search traffic creates organic advertising for the Steem network and grows the network effect.
 
 ## Математический Нотариат
 
-Интернет представляет самый простой инструмент для обмена и распространения информации в мире. Грустно осознавать, что к несчастью создателей контента в Интернете достаточно сложно обеспечить их права. На существующих социально-медийных платформах, авторство это что-то, что может быть потеряно за ночь - видео или картинка может быть продублирована без разрешения автора или должного ему уважения. Аккаунт может быть заблокирован без объяснения причин.
+The internet represents the easiest medium for distributing information in the world. With that said, it can be a frightening place for content creators who would like to own their content and have it shared with proper attribution. On current social media platforms, attribution is something that can be lost overnight - a posted video or image can be replicated and re-shared without consent or regard for the creator.
 
-В социальных медиа основанных на блокчейне создатель или автор мог бы всегда иметь возможность указать на публичную запись или временной штамп, предоставив доказательства происхождения контента. В ситуации когда автор хотел бы доказать факт его авторства в случае несанкционированного копирования его контента, блокчейн мог бы являться источником такого доказательства. В будущем авторство подтверждаемое блокчейном могло бы распознаваться правительствами и может иметь вес в суде, что даст авторам контента инструмент для соблюдения их авторских прав.
+Under blockchain-based social media, a creator or author would always be able to point to a public record and timestamp showing proof of their content origination. In a circumstance where a creator would like to address those who have re-shared without permission or attribution, blockchain-based records provide public proof that the content was posted by a particular user at a particular time. In the future, blockchain-based attribution could come to be recognized by governments for its authenticity and could hold weight in court, which would give content creators greater powers to control their work.
 
-В то время как временные штампы могут быть реализован на любом блокчейне, и уже существует несколько разных проектов по реализации подобных сервисов на базе сети Биткоин, Стим имеет серьезное преимущество в этом королевстве, потому-что авторы контента - это граждане первого сорта. Блокчейн Стима был создан с нуля вокруг юзкейса публикации контента. А это позволяет создателям контента получать сервис по математическому нотариату просто написав пост или оставив комментарий.
+While a timestamping service can be built on almost any blockchain, and several efforts exist to build this kind of service on the Bitcoin network, Steem has a useful advantage in this realm because content publishers are “first class citizens” -- the Steem blockchain is built from the ground up around the use case of content publication, which allows content creators to have the blockchain to validate their content at a certain point in time simply by writing their post using the same authoring tools used by other Steem users.
 
 ## Замена Рекламы на Вознаграждения
 
-В случае с большинством моделей монетизации контента, создатели контента используют рекламу в той или иной форме. Многие создатели осознают каким образом реклама уничтожает ценность их работы для потребителей, но они вынуждены искать способ окупить свои временные затраты. Реклама представляет собой палку о двух концах. С рекламой создатель имеет возможность заработать достаточно легко. Без рекламы монетизация проблематична, но контент богаче.
+Under most content monetization models, content creators leverage advertising in one form or another. Many creators recognize how advertising may diminish their work’s value to the consumer, yet creators very often must seek returns on their time by monetizing. Advertising represents a double-edged sword: With ads, a creator can make money most easily. Without ads, monetization is difficult but the content is richer.
 
-Создатели, которые постят в социальных медиа и подключены к Стиму, могут монетизироваться просто, если их работа распознается и оценивается положительно сообществом Стим. Выплаты, основанные на блокчейне, полностью цифровые и не имеют посредников. Таким образом монетизация через вознаграждения блокчейном должна быть быстрее с менее низким порогом входа чем через рекламу.
+Creators posting to social media outlets that are connected to Steem may monetize merely by having their work recognized (or ”liked”) by the Steem community. Blockchain-based payouts are completely digital and have no middle-man. Therefore monetization by blockchain-based content rewards should be faster and much lower barrier to use than monetization by advertisements.
 
 # Заключение
 
-Стим - это эксперимент разработанный для решения вызовов в индустриях криптовалют и социальных медиа, объединяющий лучшие аспекты обоих. Стим представляет возможность для заработка создателям контента и читателям способами, которые не существовали до этого в индустрии социальных медиа. Со Стимом, люди онлайн зарабатывают настоящие награды, которые напрямую коррелируют с их контрибьюцией. Эти вознаграждения будут иметь ценность американских долларов из-за исследований рыночной цены и ликвидности. А те люди, которые долгосрочно держат стим будут иметь эксклюзивную мощь, отличную от тех кто не держит.
+Steem is an experiment designed to address challenges in the cryptocurrency and social media industries by combining the best aspects from both. Steem presents earning opportunities to content creators and internet readers in ways that have not existed within the social media industry. Within Steem, individuals earn real rewards online that are directly correlated to their contributions. Those rewards may have dollar value due to the market price discovery and liquidity of Steem, and the people who hold Steem may have more exclusive earning powers than those who do not.
 
-# Ссылки
+[^1]: Reddit’s Cryptocurrency, Forbes, Erika Morphy, October 2014 http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/\#4e07b05332b9
 
-[^1]: Reddit's Cryptocurrency, Forbes, Erika Morphy, October 2014, <http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/#4e07b05332b9>
+[^2]: Sweat Equity, Investopedia http://www.investopedia.com/terms/s/sweatequity.asp
 
-[^2]: Sweat Equity, Investopedia, <http://www.investopedia.com/terms/s/sweatequity.asp>
+[^3]: Meta-moderation is a second level of comment moderation. Users are invited to rate a moderator's decision in order to improve moderation. https://en.wikipedia.org/wiki/Meta-moderation\_system
 
-[^3]: **Meta-moderation** is a second level of comment moderation. Users are invited to rate a moderator's decision in order to improve moderation. <https://en.wikipedia.org/wiki/Meta-moderation_system>
+[^4]: The Impossible Trinity, economic theory https://en.wikipedia.org/wiki/Impossible\_trinity
 
-[^4]: The Impossible Trinity, economic theory <https://en.wikipedia.org/wiki/Impossible_trinity>
+[^5]: N-Person Prisoner’s Dilemma https://cs.stanford.edu/people/eroberts/courses/soco/projects/1998-99/game-theory/npd.html
 
-[^5]: Metcalfe's Law <https://en.wikipedia.org/wiki/Metcalfe%27s_law>
+[^6]: The Story of the Crab Bucket http://guidezone.e-guiding.com/jmstory\_crabs.htm
 
-[^6]: The Story of the Crab Bucket, <http://guidezone.e-guiding.com/jmstory_crabs.htm>
+[^7]: Zipf’s Law https://en.wikipedia.org/wiki/Zipf%27s\_law
 
-[^7]: Zipf's Law <https://en.wikipedia.org/wiki/Zipf%27s_law>
+[^8]: Clay Shirky, The Case Against Micropayments http://www.openp2p.com/pub/a/p2p/2000/12/19/micropayments.html
 
-[^8]: Clay Shirky, The Case Against Micropayments<http://www.openp2p.com/pub/a/p2p/2000/12/19/micropayments.html>
+[^9]: reCAPTCHA, Easy on Humans, Hard on Bots https://www.google.com/recaptcha/intro/index.html
 
-[^9]: reCAPTCHA, Easy on Humans, Hard on Bots<https://www.google.com/recaptcha/intro/index.html>
+[^10]: Forbes, Tristan Louis, “How Much is a User Worth?” http://www.forbes.com/sites/tristanlouis/2013/08/31/how-much-is-a-us
 
-[^10]: Bitcoin Estimated Transaction Volume<https://blockchain.info/charts/estimated-transaction-volume?showD>
+[^11]: Ripple, Account Reserves https://ripple.com/build/reserves/
 
-[^11]: Forbes, Tristan Louis, "How Much is a User Worth?"<http://www.forbes.com/sites/tristanlouis/2013/08/31/how-much-is-a-us>
+[^12]: Reddit Statistics, Number of Users and Comments per Second http://expandedramblings.com/index.php/reddit-stats/2/
 
-[^12]: Ripple, Account Reserves<https://ripple.com/build/reserves/>
+[^13]: Martin Fowler, The LMAX Architecture http://martinfowler.com/articles/lmax.html
 
-[^13]: Reddit Statistics, Number of Users and Comments per Second<http://expandedramblings.com/index.php/reddit-stats/2/>
+[^14]: Introducing Intel Optane Technology – Bringing 3D XPoint Memory to Storage and Memory Products https://newsroom.intel.com/press-kits/introducing-intel-optane-technology-bringing-3d-xpoint-memory-to-storage-and-memory-products/
 
-[^14]: Martin Fowler, The LMAX Architecture<http://martinfowler.com/articles/lmax.html>
+[^15]: United States Money Supply, 2009 https://research.stlouisfed.org/fred2/graph/?s%5B1%5D%5Bid%5D=AMBNS
 
-[^15]: Introducing Intel Optane Technology - Bringing 3D XPoint Memory to Storage and Memory Products<https://newsroom.intel.com/press-kits/introducing-intel-optane-technology-bringing-3d-xpoint-memory-to-storage-and-memory-products/>
+[^16]: CPI Inflation Index, United States Dollar 2008-2016 http://data.bls.gov/cgi-bin/cpicalc.pl?cost1=1&year1=2008&year2=2016
 
-[^16]: Quantity Theory of Money,<http://www.investopedia.com/articles/05/010705.asp>
+[^17]: Bitcoin Annual Inflation Rate, Bitcoin Talk Forum https://bitcointalk.org/index.php?topic=130619.0
 
-[^17]: United States Money Supply, 2009<https://research.stlouisfed.org/fred2/graph/?s%5B1%5D%5Bid%5D=AMBNS>
+[^18]: Reddit Valuaton, Newsweek, 2014 http://www.newsweek.com/investors-think-reddit-worth-500-million-26
 
-[^18]: CPI Inflation Index, United States Dollar 2008-2016<http://data.bls.gov/cgi-bin/cpicalc.pl?cost1=1&year1=2008&year2=2016>
+[^19]: Worth of Web, March 2016 http://www.worthofweb.com/website-value/reddit.com/
 
-[^19]: Bitcoin Transaction Volume<https://blockchain.info/charts/estimated-transaction-volume>
+[^20]: Micropayments: A Viable Business Model http://www.openp2p.com/pub/a/p2p/2000/12/19/micropayments.html
 
-[^20]: Bitcoin Annual In ation Rate, Bitcoin Talk Forum<https://bitcointalk.org/index.php?topic=130619.0>
-
-[^21]: Reddit Valuaton, Newsweek, 2014<http://www.newsweek.com/investors-think-reddit-worth-500-million-26>
-
-[^22]: Worth of Web, March 2016<http://www.worthofweb.com/website-value/reddit.com/>
-
-[^23]: Micropayments: A Viable Business Model<http://cs.stanford.edu/people/eroberts/cs181/projects/2010-11/Microp>
-
-[^24]: Dailydot, Jon Southurt, April 2015<http://www.dailydot.com/opinion/bitcoin-cryptocurrency-adoption-hard>
+[^21]: Dailydot, Jon Southurt, April 2015 http://www.dailydot.com/opinion/bitcoin-cryptocurrency-adoption-hard
