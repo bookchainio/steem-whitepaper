@@ -1,8 +1,8 @@
 # STEEM
 
-## Μια κινητήριος, blockchain-βασισμένη κοινωνική πλατφόρμα.
+## An incentivized, blockchain-based, public content platform.
 
-Μάρτιος 2016
+August 2017
 
 # ΠΡΟΧΕΙΡΟ
 
@@ -26,7 +26,7 @@ Credits here @skapaneas @holidaygreece @skapart".
 
 # Εισαγωγή
 
-Συλλογικά, το περιεχόμενο που έχει δημιουργηθεί από χρήστες έχει δημιουργήσει αξία δισεκατομμυρίων δολαρίων για τους μετόχους εταιριών των μέσων κοινωνικής δικτύωσης όπως. **Το 2014 το Reddit υπέθεσε ότι η πλατφόρμα του θα βελτιώνονταν αν όλοι που συνέβαλαν στο reddit.com με το να αναρτούν ιστορίες, να προσθέτουν σχόλια ή να ψηφίζουν ανταμείβονταν με ένα δίκαιο μερίδιο στο Reddit, Inc[^1]**. Το Steem στοχεύει να υποστηρίξει τα μέσα κοινωνικής δικτύωσης και τις διαδικτυακές κοινότητες με το να επιστρέφει μεγάλο μέρος από την αξία του στους ανθρώπους που παρέχουν πολύτιμες συνεισφορές ανταμείβοντας τους με κρυπτονόμισμα, και μέσα από αυτή την διαδικασία να δημιουργήσει ένα νόμισμα που να μπορεί να φτάσει μία ευρύ αγορά, συμπεριλαμβανομένου ανθρώπους που δεν έχουν ακόμα να συμμετέχει σε οποιαδήποτε κρυπτονομισματική οικονομία.
+Συλλογικά, το περιεχόμενο που έχει δημιουργηθεί από χρήστες έχει δημιουργήσει αξία δισεκατομμυρίων δολαρίων για τους μετόχους εταιριών των μέσων κοινωνικής δικτύωσης όπως. **In 2014, Reddit hypothesized that its platform would be improved if everyone who contributed to reddit.com by posting stories, adding comments or voting were rewarded with a fair share in Reddit, Inc.[^1]** Steem aims to support social media and online communities by returning much of its value to the people who provide valuable contributions by rewarding them with cryptocurrency, and through this process create a currency that is able to reach a broad market, including people who have yet to participate in any cryptocurrency economy.
 
 Υπάρχουν κάποιες αρχές κλειδιά που έχουν χρησιμοποιηθεί για να καθοδηγήσουν το σχεδιασμό του Steem. Η πιο βασική αρχή είναι ότι όλοι που συνεισφέρουν σε μια επιχείρηση θα πρέπει να λαμβάνουν κοινών εισροών ιδιοκτησία, πληρωμή ή χρέος από την επιχείρηση. Αυτή η αρχή είναι η ίδια αρχή που εφαρμόζετε σε όλες τις νεοσύστατες επιχειρήσεις καθώς αυτά διανέμουν μερίδια κατά την ίδρυση και κατά την διάρκεια ακόλουθων γύρων χρηματοδότησης.
 
@@ -42,7 +42,7 @@ Credits here @skapaneas @holidaygreece @skapart".
 4. Δωρεάν πληρωμές.
 5. Δουλείες που παρέχουν τις παραπάνω υπηρεσίες στα υπόλοιπα μέλη.
 
-Η σκόπιμη ανακατάταξη του Steem από οικονομικά κίνητρα έχει την δυνατότητα να παράγει δικαιότερα και περισσότερα περιεκτικά αποτελέσματα για όλους που εμπλέκονται με τα μέσα κοινωνικής δικτύωσης και τις κρυπτονομισματικές πλατφόρμες που έχουν έρθει πριν από αυτό. Αυτό το έντυπο θα εξερευνήσει τα υπάρχων οικονομικά κίνητρα και θα παρουσιάσει πώς τα κίνητρα του Steem μπορεί να καταλήξουν σε καλύτερα αποτελέσματα για τους περισσότερους μετέχοντες.
+Steem’s purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem’s incentives may result in better outcomes for most participants.
 
 ## Αναγνωρίζοντας την συνεισφορά
 
@@ -52,507 +52,345 @@ Credits here @skapaneas @holidaygreece @skapart".
 
 Οι υπάρχων πλατφόρμες λειτουργούν με την αρχή του ενός-χρήστη, μιας-ψήφου. Αυτό δημιουργεί ένα περιβάλλον όπου οι σειρές κατάταξης μπορούν να κακομεταχειριστούν από επιθέσεις Sybil και οι πάροχοι υπηρεσίας πρέπει ενεργά να αναγνωρίσουν και να αναχαιτίσουν τους καταχραστές. Οι άνθρωποι ήδη επιχειρούν να παραποιήσουν το σύστημα βαθμολόγησης του Reddit, Facebook και του Twitter όταν η μόνη ανταμοιβή είναι το web traffic και η λογοκρισία.
 
-Η θεμελιώδης μονάδα λογιστικής στην πλατφόρμα του Steem είναι το STEEM, ένα κρυπτονομισματικό σύμβολο. Το Steem λειτουργεί επί την βάση του ένα-STEEM, μια-ψήφος. Κάτω από αυτό το μοντέλο, άτομα που έχουν συνεισφέρει τα περισσότερα σε αυτή την πλατφόρμα, όπως μετράται από το υπόλοιπο του λογαριασμού τους, έχουν την περισσότερη επιρροή στο πως μετρούνται οι συνεισφορές. Επιπλέον, το Steem επιτρέπει μόνο τα μέλη να ψηφίζουν με STEEM όταν έιναι προσηλωμένο σε ένα χρονοδιάγραμμα κατοχύρω. σης. Κάτω από αυτό το μοντέλο, τα μέλη έχουν ένα οικονομικό κίνητρο να ψηφήσουν ένα τρόπο που μεγιστοποιεί την μακροπρόθεσμη αξία των STEEM τους.
+Η θεμελιώδης μονάδα λογιστικής στην πλατφόρμα του Steem είναι το STEEM, ένα κρυπτονομισματικό σύμβολο. Το Steem λειτουργεί επί την βάση του ένα-STEEM, μια-ψήφος. Κάτω από αυτό το μοντέλο, άτομα που έχουν συνεισφέρει τα περισσότερα σε αυτή την πλατφόρμα, όπως μετράται από το υπόλοιπο του λογαριασμού τους, έχουν την περισσότερη επιρροή στο πως μετρούνται οι συνεισφορές. Furthermore, Steem only allows members to vote with STEEM when it is committed to a vesting schedule. Κάτω από αυτό το μοντέλο, τα μέλη έχουν ένα οικονομικό κίνητρο να ψηφήσουν ένα τρόπο που μεγιστοποιεί την μακροπρόθεσμη αξία των STEEM τους.
 
-Το Steem είναι σχεδιασμένο γύρω από μια σχετικά απλή έννοια: *η σημαντική συνεισφορά όλων στην κοινότητα θα πρέπει να αναγνωρίζετε για την αξία που προσθέτει.* Όταν οι άνθρωποι αναγνωρίζονται για τις σημαντικές συνεισφορές τους, συνεχίζουν να συνεισφέρουν και η κοινότητα μεγαλώνει. Οποιαδήποτε ανισορροπία στο πάρε δώσε μέσα στην κοινότητα είναι ασυντήρητο. Τελικά οι δότες κουράζονται να υποστηρίζουν τους λήπτες και απεμπλέκονται από την κοινότητα.
+Steem is designed around a relatively simple concept: *everyone’s meaningful contribution to the community should be recognized for the value it adds.* When people are recognized for their meaningful contributions, they continue contributing and the community grows. Οποιαδήποτε ανισορροπία στο πάρε δώσε μέσα στην κοινότητα είναι ασυντήρητο. Τελικά οι δότες κουράζονται να υποστηρίζουν τους λήπτες και απεμπλέκονται από την κοινότητα.
 
 Η πρόκληση βρίσκεται στο να δημιουργηθεί ένα σύστημα ικανό να αναγνωρίσει ποιες συνεισφορές χρειάζονται και η σχετική τους αξία με ένα τρόπο που μπορεί να κλιμακωθεί σε έναν ακαθόριστο αριθμό ανθρώπων.
 
 Ένα δοκιμασμένο σύστημα για την εκτίμηση και την ανταμοιβή είναι η ελεύθερη αγορά. Η ελεύθερη αγορά μπορεί να προβληθεί σαν μια ενιαία κοινότητα στην οποία ο καθένας ανταλλάσσει με τον άλλον και οι ανταμοιβές διανέμονται με κέρδος και ζημία. Το σύστημα της αγοράς ανταμείβει αυτούς που παρέχουν αξία σε άλλους και τιμωρεί αυτούς που καταναλώνουν περισσότερη αξία από αυτή που παράγουν. Η ελεύθερη αγορά υποστηρίζει πολλά διαφορετικά νομίσματα και τα λεφτά είναι απλά ένα αγαθό το οποίο όλοι βρίσκουν εύκολο να ανταλλάξουν.
 
-Αφού η ελεύθερη αγορά είναι ένα δοκιμασμένο σύστημα, είναι δελεαστική η προσπάθεια δημιουργίας ενός συστήματος ελεύθερης αγοράς όπου οι καταναλωτές περιεχομένου πληρώνουν απευθείας τους δημιουργούς περιεχομένου. Όμως, η απευθείας πληρωμή είναι αναποτελεσματική και όχι πραγματικά εφικτή για παραγωγή περιεχομένου και σύσταση. Η αξία των περισσότερων περιεχομένων σε σχέση με τα γνωστικά, οικονομικά, και κόστη ευκαιρίας που σχετίζονται με την πραγματοποίηση μια πληρωμής στην οποία μερικοί αναγνώστες θα διαλέξουν να αφήσουν φιλοδώρημα. Η αφθονία των δωρεάν εναλλακτικών σημαίνει ότι η επιβολή ενός paywall θα οδηγήσει τους αναγνώστες αλλού. Έχουν υπάρξει αρκετές προσπάθειες μικροπληρωμών για κάθε άρθρο από τους αναγνώστες στους συγγραφείς, αλλά κανένα από αυτά δεν έχουν γίνει διαδεδομένα.
+Αφού η ελεύθερη αγορά είναι ένα δοκιμασμένο σύστημα, είναι δελεαστική η προσπάθεια δημιουργίας ενός συστήματος ελεύθερης αγοράς όπου οι καταναλωτές περιεχομένου πληρώνουν απευθείας τους δημιουργούς περιεχομένου. Όμως, η απευθείας πληρωμή είναι αναποτελεσματική και όχι πραγματικά εφικτή για παραγωγή περιεχομένου και σύσταση. Η αξία των περισσότερων περιεχομένων σε σχέση με τα γνωστικά, οικονομικά, και κόστη ευκαιρίας που σχετίζονται με την πραγματοποίηση μια πληρωμής στην οποία μερικοί αναγνώστες θα διαλέξουν να αφήσουν φιλοδώρημα. The abundance of free alternatives means that enforcing a ‘paywall’ will drive readers elsewhere. Έχουν υπάρξει αρκετές προσπάθειες μικροπληρωμών για κάθε άρθρο από τους αναγνώστες στους συγγραφείς, αλλά κανένα από αυτά δεν έχουν γίνει διαδεδομένα.
 
-Το Steem είναι σχεδιασμένο να επιτρέπει αποτελεσματικές μικροπληρωμές για όλα τα είδη συνεισφοράς αλλάζοντας την οικονομική εξίσωση. Οι αναγνώστες δεν χρειάζεται πια να αποφασίζουν πια εάν θέλουν να πληρώσουν κάποιον από την δικία τους τσέπη, αλλά μπορούν να ψηφίσουν το περιεχόμενο θετικά ή αρνητικά και το Steem θα χρησιμοποιήσει τις ψήφους για να αποφασίσει τις ατομικές ανταμοιβές. Αυτό σημαίνει ότι δίνεται στους ανθρώπους μια γνώριμη και ευρέως χρησιμοποιημένη επιφάνεια και πια δεν αντιμετωπίζουν τα γνωστικά, οικονομικά, και κόστη ευκαιρίας που σχετίζονται με παραδοσιακές μικροπληρωματικές και φιλοδωριματικές πλατφόρμες.
+Το Steem είναι σχεδιασμένο να επιτρέπει αποτελεσματικές μικροπληρωμές για όλα τα είδη συνεισφοράς αλλάζοντας την οικονομική εξίσωση. Οι αναγνώστες δεν χρειάζεται πια να αποφασίζουν πια εάν θέλουν να πληρώσουν κάποιον από την δικία τους τσέπη, αλλά μπορούν να ψηφίσουν το περιεχόμενο θετικά ή αρνητικά και το Steem θα χρησιμοποιήσει τις ψήφους για να αποφασίσει τις ατομικές ανταμοιβές. This means that people are given a familiar and widely used interface and no longer face the cognitive, financial, and opportunity costs associated traditional micropayment and tipping platforms.
 
-Η συνεισφορά ψήφου από τα μέλη της κοινότητας είναι κρίσιμη στο Steem για την ακριβή διανομή πληρωμών στους συνεισφέροντες. Το ψήφισμα λοιπόν μπορεί να φανεί σαν μια κρίσιμη συνεισφορά και άξια ανταμοιβής από μόνο του. Μερικές πλατφόρμες, όπως Slashdot, χρησιμοποιούν meta-συντήρηση[^3] σαν ένα τρόπο κατάταξης και ανταμοιβής των τίμιων συντηρητών. Το Steem αποφασίζει να ανταμείψει αυτούς που συνεισφέρουν το περισσότερο στην συνολική παρότρυνση ενός κομματιού ενός αγαθού και ανταμείβει τους ψηφοφόρους αναλογικά με την απόλυτη ανταμοιβή που θα πληρωθεί ο δημιουργός του περιεχομένου.
-
-Υπάρχουν και άλλες μορφές συνεισφοράς που το Steem αναγνωρίζει και ανταμείβει χρησιμοποιώντας αντικειμενικές μετρήσεις. Ανάμεσα σε αυτές είναι: επαλήθευση συναλλαγής, απόδειξη εξόρυξης, ανταμοιβές ρευστότητας, και αναφορά των block παραγωγών με εσφαλμένη συμπεριφορά.
+Η συνεισφορά ψήφου από τα μέλη της κοινότητας είναι κρίσιμη στο Steem για την ακριβή διανομή πληρωμών στους συνεισφέροντες. Το ψήφισμα λοιπόν μπορεί να φανεί σαν μια κρίσιμη συνεισφορά και άξια ανταμοιβής από μόνο του. Some platforms, such as Slashdot, use meta-moderation[^3] as a way to rank and reward honest moderators. Το Steem αποφασίζει να ανταμείψει αυτούς που συνεισφέρουν το περισσότερο στην συνολική παρότρυνση ενός κομματιού ενός αγαθού και ανταμείβει τους ψηφοφόρους αναλογικά με την απόλυτη ανταμοιβή που θα πληρωθεί ο δημιουργός του περιεχομένου.
 
 # Τρόποι συνεισφοράς
 
-Αυτός ο τομέας περιγράφει συνοπτικά τις ιδέες πίσω από το Steem και τις ανταμοιβές του για τους ανθρώπους που παρέχουν σημαντικές και με μέτρο συνεισφορές στην κοινότητα Steem.
+This section outlines the ideas behind Steem and its rewards for people who provide meaningful and measurable contributions to the Steem community.
 
 ## Συνεισφορές κεφαλαίου
 
-Υπάρχουν δύο αντικείμενα που η κοινότητα μπορεί να προσφέρει για να προσελκύσει κεφάλαιο. Αυτοί που αγοράζουν ιδιοκτησία βγάζουν κέρδος όταν η κοινότητα μεγαλώνει αλλά χάνουν όταν η κοινότητα συρρικνώνετε. Αυτοί που αγοράζουν χρέος εγγυούνται ένα συγκεκριμένο ποσοστό ενδιαφέροντος (τοκισμού) αλλά δεν έχουν συμμετοχή σε οποιαδήποτε κέρδη που υλοποιούνται από την ανάπτυξη της κοινότητας. Και οι δύο τύποι συνεισφοράς κεφαλαίου είναι πολύτιμοι στην ανάπτυξη της κοινότητας και την αξία του νομίσματός της. Επιπλέον υπάρχουν δύο τρόποι που μπορεί να κατοχυρωθεί η ιδιοκτησία: Ρευστό και κατοχύρωση. Η κατοχύρωση ιδιοκτησίας δημιουργεί μια μακροπρόθεσμη δέσμευση και δεν μπορεί να πουληθεί για ελάχιστο χρονικό διάστημα.
+There are two items a community can offer to attract capital: debt and ownership. Those who buy ownership profit when the community grows but lose if the community shrinks. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
 
-Το δίκτυο Steem αποκαλεί αυτές τις διαφορετικές κατηγορίες περιουσιακών στοιχείων Steem (STEEM), Steem Power(SP), και Steem Dollars (SMD).
+The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SBD).
 
 ## Steem (STEEM)
 
-Το Steem είναι η θεμελιώδης μονάδα λογιστικής πάνω στο Steem blockchain. Όλα τα άλλα σύμβολα αποκομίζουν την αξία τους από την αξία του STEEM. Μιλώντας γενικά το STEEM θα πρέπει να κατέχετε για μικρές χρονικές περιόδους όταν χρειάζεται η ρευστότητα. Κάποιος ψάχνοντας να εισέλθει ή να βγει από την πλατφόρμα του Steem θα πρέπει να αγοράσει η να πουλήσει Steem. Μόλις έχει αγορασθεί STEEM θα πρέπει να μετατραπεί σε SP ή σε SMD για να μετριάσει το αντίκτυπο της μακροπρόθεσμης αραίωσης.
-
-Το Steem συνεχώς αυξάνετε σε ποσότητα επι 100% κάθε χρόνο λόγω των μη-SMD κινήτρων. Κάποιος που κατέχει STEEM χωρίς να το μετατρέψει σε SP αραιώνετε περίπου κατά 0.19% κάθε ημέρα. Καθώς η τιμή μπορεί να εμφανίζεται υψηλή, για συναλλαγές που παίρνουν λιγότερο από 10 μέρες, είναι ακόμα φθηνότερη από τα τέλη επεξεργασίας πιστωτικών καρτών. Επιπλέον, η καθημερινή δημιουργία Token (χρηματικά σύμβολα/μαρκα) είναι ασήμαντη δίπλα στη καθημερινή κυκλοθυμία.
-
-Κάποιος που αγοράζει Bitcoin ή οποιοδήποτε άλλο κρυπτονόμισμα και το πουλάει 10 μέρες αργότερα μπορεί εύκολα να χάσει 3% η και περισσότερο λόγο στην διακύμανση των τιμών. Κάποιος που αγοράζει Bitcoin και το πουλάει την ίδια μέρα θα πληρώσει παραπάνω από 0.4% σε τέλη τις αγοράς μόνο. Με άλλα λόγια ο ρυθμός του πληθωρισμού είναι αποτελεσματικά ασήμαντος κατά την διάρκεια της χρονικής περιόδου όπου το τυπικό άτομο θα κατέχει STEEM.
-
-Η πλειοψηφία του πληθωρισμού πραγματικά είναι ένα τεχνούργημα λογιστικής από την πραγματική ανακατανομή του πλούτου. 90% του μη-SMD πληθωρισμού διανέμετε πίσω στους υπάρχων κατόχους STEEM αναλογικά με την αξία STEEM του SP υπολοίπου τους καθιστώντας τον πληθωρισμό περισσότερο έναν ‘διαχωρισμό’. Περίπου μόνο το 10% του μη-SMD πληθωρισμού αναδιανέμει ιδιοκτησία στο δίκτυο.
+Steem is the fundamental unit of account on the Steem blockchain. All other tokens derive their value from the value of STEEM. STEEM is a liquid currency, and therefore can be bought or sold on exchanges, as well as transferred to other users as a form of payment.
 
 ## Steem Power (SP)
 
-Νεοσύστατες εταιρίες χρειάζονται μακροπρόθεσμη δέσμευση κεφαλαίων. Αυτοί που επενδύουν τα χρήματα τους σε μια καινούργια τεχνολογία αναμένουν να περιμένουν χρόνια πριν μπορέσουν να πουλήσουν τις μετοχές τους και να υλοποιήσουν τα κέρδη τους. Χωρίς μακροπρόθεσμη δέσμευση, μια νεοσύστατη επιχείρηση που ψάχνει να αυξήσει επιπλέον κεφάλαιο μέσω από την πώληση επιπλέον μετοχών με υπάρχων μετόχους που ψάχνουν να φύγουν. Οι έξυπνοι επενδυτές θέλουν οι εισφορές κεφαλαίων τους να επεκτείνουν την εταιρία, αλλά η επέκταση δεν μπόρει να συμβεί εάν το νέο κεφάλαιο δοθεί σε αυτούς που ψάχνουν να φύγουν.
+Start up companies require long-term capital commitment. Those who invest their money in a startup expect to wait years before they can sell their shares and realize their profits. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
 
-Υπάρχει μια σημαντική αξία στο να υπάρχει μακροπρόθεσμη δέσμευση γιατί επιτρέπει στις κοινότητες να κάνουν μακροπρόθεσμα σχέδια. Η μακροπρόθεσμη δέσμευση των μετόχων επίσης τους προκαλεί να υποστηρίξουν την μακροχρόνια ανάπτυξη παρά τις βραχυπρόθεσμες πιέσεις.
+There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
 
-Στο χώρο του κρυπτονομίσματος, οι κερδοσκόποι πηδούν από κρυπτονόμισμα σε κρυπτονόμισμα βασισμένοι κυρίως στο πιο αναμένεται να έχει βραχυπρόθεσμη ανάπτυξη. Το Steem θέλει να χτίσει μια κοινότητα που ανήκει και ελέγχεται πλήρως από αυτόυς που έχουν μια μακροπρόθεσμη προοπτική.
+In the cryptocurrency space, speculators jump from cryptocurrency to cryptocurrency based mostly on which one is expected to have short-term growth. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
 
-Επειδή το Steem θέλει να ενθαρρύνει την μακροπρόθεσμη ανάπτυξη, είναι προγραμματισμένο να διανέμει 9 STEEM σε Steem Power μετοχές για κάθε 1 STEEM που δημιουργεί για την χρηματοδότηση της ανάπτυξης μέσα από κίνητρα συμβολής. Με την πάροδο του χρόνου αυτό καθοδηγεί την κλίμακα της συνολικής STEEM αξίας από υπόλοιπα Steem Power στο συνολικό STEEM υπόλοιπο 9:1. (Φαίνεται πιθανό ότι η κλίμακα θα είναι κάπως μεγαλύτερη από 9:1 εξαιτίας της συνεχής ενδυνάμωσης του δικτύου από τα φρέσκα εκτυπωμένα STEEM.) Σημαίνει επίσης ότι οι μακροπρόθεσμοι κάτοχοι είναι σχεδόν απόλυτα προστατευμένοι από την αραίωση που χρησιμοποιείται για να χρηματοδοτήσει την ανάπτυξη.
+Users are able to commit their STEEM to a thirteen week vesting schedule, providing them with additional benefits within the platform. STEEM that has been committed to a thirteen week vesting schedule is called Steem Power (SP). SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
 
-Το SP μπορεί να μετατραπεί πίσω σε Steem μετά από 2 χρόνια μέσω 104 ισάξιων εβδομαδιαίων πληρωμών. ‘1SP’ μπορεί να προβληθεί σαν ένα μερίδιο σε μια ομάδα STEEM. Το δίκτυο αυτόματα προσθέτει STEEM στην ομάδα κάθε block. Οποιαδήποτε στιγμή οι χρήστες μπορούν να μετατρέψουν το Steem σε SP στην ίδια κλίμακα όσο STEEM στην ομάδα κατοχύρωσης του συνολικού SP. Μετατρέποντας STEEM σε SP δεν αραιώνει τους υπάρχων κατόχους SP. Ομοίως, κάθε φορά που το SP μετατρέπεται σε STEEM γίνεται στην τωρινή κλίμακα. Τα άτομα εγγυώνται να έχουν περισσότερο STEEM sτο μέλλον από ότι έχουν όταν μετατρέψουν για πρώτη φορά STEEM σε SP.
+When users vote on content, their influence over the distribution of the rewards pool is directly proportional to the amount of SP that they have. Users with more SP have more influence on the distribution of rewards. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
 
-Τα υπόλοιπα SP είναι μη-μεταβιβάσιμα και μη-διαιρετά εκτός από τις επαναλαμβανόμενες αιτήσεις μετατροπής. Αυτό σημαίνει ότι το SP δεν μπορεί να ανταλλαχθεί εύκολα σε κρυπτονομισματικές ανταλλαγές. Το SP είναι μια απαίτηση για ψήφησμα υπέρ ή κατά περιεχομένου.
+SP holders are also paid interest on the balance of SP that remains vested. 15% of the yearly inflation is paid to SP holders as interest. The amount of the interest that they receive is directly proportional to the amount of SP they hold relative to the total amount of vested SP across all users.
 
-Αυτό σημαίνει ότι το SP είναι ένα σύμβολο πρόσβασης που παρέχει στους κατόχους του αποκλειστικές δυνάμεις μέσα στην πλατφόρμα του Steem.
+Transferring from STEEM to SP is referred to as “powering up”, while transferring from SP to STEEM is referred to as “powering down.” SP that is powered down is returned to the user over a period of thirteen weeks, via 13 equal weekly payments, starting one week after the power down is initiated.
 
-Μετάβαση από STEEM σε SP ονομάζεται ενδυνάμωση καθώς μεταβίβαση SP σε STEEM ονομάζεται αποδυνάμωση. Για παράδειγμα κάποιος μπορεί να αποδυναμώσει το STEEM του για μια περίοδο πάνω από δύο χρόνια, αλλά κάποιος μπορεί να ενδυναμώσει το STEEM του απευθείας.
+## Steem Dollars (SBD)
 
-## STEEM Dollars (SMD)
+Stability is an important feature of successful global economies. Without stability, individuals across the world could not have low cognitive costs while engaging in commerce and savings. Because stability is an important feature of successful economies, Steem Dollars were designed as an attempt to bring stability to the world of cryptocurrency and to the individuals who use the Steem network.
 
-Η σταθερότητα είναι ένα σημαντικό χαρακτηριστικό των επιτυχημένων παγκόσμιων οικονομιών. Χωρίς σταθερότητα, άτομα γύρω από τον κόσμο δεν θα μπορούσαν να έχουν χαμηλά γνωστικά κόστη καθώς εμπλέκονται με εμπόριο και οικονομίες. Επειδή η σταθερότητα είναι σημαντικό χαρακτηριστικό των επιτυχημένων οικονομιών, τα Steem Dollars σχεδιάστηκαν σαν μια προσπάθει να φέρουν σταθερότητα στον κόσμο του κρυπτονομίσματος και στα άτομα που χρησιμοποιούν το δίκτυο του Steem.
+Steem Dollars are created by a mechanism similar to convertible notes, which are often used to fund startups. In the startup world, convertible notes are short-term debt instruments that can be converted to ownership at a rate determined in the future, typically during a future funding round. A blockchain based token can be viewed as ownership in the community whereas a convertible note can be viewed as a debt denominated in any other commodity or currency. The terms of the convertible note allow the holder to convert to the backing token with a minimum notice at the fair market price of the token. Creating token-convertible-dollars enables blockchains to grow their network effect while maximizing the return for token holders.
 
-Τα Steem Dollars δημιουργήθηκαν από ένα μηχανισμό παρόμοιο στις μετατρέψιμες ομολογίες, που συχνά χρησιμοποιούνται για να χρηματοδοτήσουν καινούργιες αγορές. Στον νεοσύστατο κόσμο, οι μετατρέψιμες ομολογίες είναι βραχυπρόθεσμα όργανα χρέους που μπορούν να μετατραπούν σε ιδιοκτησία σε μια κλίμακα που αποφασίζεται στο μέλλον, τυπικά κατά την διάρκεια ενός γύρου χρηματοδότησης. Ένα blockchain βασισμένο σύμβολο μπορεί να προβληθεί σαν ιδιοκτησία στην κοινότητα όπου ένα μετατρέψιμο ομόλογο μπορεί να προβληθεί σαν χρέος εκφρασμένο σε οποιοδήποτε άλλο εμπόρευμα ή νόμισμα. Οι όροι ενός μετατρέψιμου ομολόγου επιτρέπουν στον κάτοχο να μετατρέψει το υποστηρικτικό σύμβολο με μια ελάχιστη ειδοποίηση στην τιμή της ελεύθερης αγοράς του συμβόλου. Δημιουργώντας σύμβολα-μετατρέψιμα-δολάρια(SD) επιτρέπει στα blockchains να επεκτείνουν την αποτελεσματικότητα των δικτύων τους καθώς μεγιστοποιώντας την απόδοση των κατόχων των συμβόλων.
-
-Τα Steem Dollars που αναφέρονται με το σύμβολο SMD, ένα ακρώνυμο για Steem Dollars. Δημιουργώντας SMD απαιτείτε μια αξιόπιστη εισροή τιμής, κανόνες για την απαγόρευση κακομεταχείρησης, και ρευστότητα. Η χορηγία μια αξιόπιστη εισροή τιμής περιλαμβάνει τρείς παράγοντες: ελαχιστοποίηση του αντίκτυπου μιας λανθασμένης εισροής, μεγιστοποίηση του κόστους παραγωγής μιας λανθασμένης εισροής, και ελαχιστοποίηση της σημασίας του χρόνου.
+Steem Dollars are referred to with the symbol SBD, an acronym for Steem Blockchain Dollars. Creating SBD requires a combination of a reliable price feed, and rules to prevent abuse. Providing a reliable price feed involves three factors: minimizing the impact of an incorrect feed, maximizing the cost of producing an incorrect feed, and minimizing the importance of timing.
 
 ### Ελαχιστοποίηση δόλιων εισροών
 
-Οι κάτοχοι SP εκλέγουν άτομα να εκδώσουν εισροή τιμών. Αυτά τα εκλεγμένα άτομα είναι πιθανώς εμπιστευόμενα από αυτούς που έχουν ένα κατοχυρωμένο ενδιαφέρον στην ποιότητα της εισροής. Με το να πληρώνοντας αυτούς που είναι εκλεγμένοι, το Steem δημιουργεί αγορά ανταγωνισμού για να κερδίσει το δικαίωμα να παράγει εισροές. Περισσότερο οι παραγωγοί εισροής πληρώνονται περισσότερο θα πρέπει να χάσουν εκδίδοντας λανθασμένες πληροφορίες.
+SP holders elect individuals, called witnesses, to publish price feeds. The elected witnesses are presumably trusted by those who have a vested interest in the quality of the feed. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
 
-Δεδομένου ότι ένα σετ από εκλεγμένους και εμπιστευόμενους παραγωγούς εισροής, η πραγματική τιμή που χρησιμοποιείτε για μετατροπές μπορεί να πηγάζει σαν διάμεσος των εισροών. Με αυτό τον τρόπο αν οποιαδήποτε μειονότητα από ατομικούς παραγωγούς εισροής παράγουν ακραίες τιμές έχουν ελάχιστο αντίκτυπο στον πραγματικό διάμεσο καθώς έχοντας ακόμα την δυνατότητα να προκαλεί αντίκτυπο στην φήμη τους.
+Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
 
-Ακόμα και αν όλοι οι παραγωγοί εισροής είναι έντιμοι, είναι πιθανών για την πλειοψηφία παραγωγών εισροής να επηρεαστούν από γεγονότα πέρα από τον έλεγχό τους. Το δίκτυο του Steem είναι φτιαγμένο να ανέχεται βραχυπρόθεσμη διαφθορά από την εισροή τιμής του διάμεσου καθώς η οικονομία ενεργά δουλεύει για να διορθώσει το πρόβλημα. Ένα παράδειγμα ενός θέματος που μπορεί να πάρει κάποιο χρόνο για να διορθωθεί είναι η βραχυπρόθεσμη χειραγώγηση της αγοράς. Η χειραγώγηση της αγοράς είναι δύσκολη και ακριβή για να διατηρηθεί για μεγάλες περιόδους χρόνου. Ένα άλλο παράδειγμα θα ήταν η αποτυχία μιας συγκεντρωμένης ανταλλαγής ή η διαφθορά των δεδομένων που εκδόθηκαν από την ανταλλαγή.
+Even if all feed producers are honest, it is possible for the majority of feed producers to be impacted by events beyond their control. The Steem network is designed to tolerate short-term corruption of the median price feed while the community actively works to correct the issue. One example of an issue that may take some time to correct is short-term market manipulation. Market manipulation is difficult and expensive to maintain for long periods of time. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
 
-Οι παράγοντες του Steem ξεπερνούν τις βραχυπρόθεσμες αναδιακυμάνσεις των τιμών, χρησιμοποιώντας την τιμή του διαμέσου για παραπάνω από μια εβδομάδα. Η εισροή που εκδίδετε από τον ενδιάμεσο δοκιμάζετε κάθε ώρα με την ώρα.
+Steem factors out short-term price fluctuations by using the median price over a period of three and a half days. The median published feed is sampled every hour on the hour.
 
-Όσο η διαφθορά της εισροής τιμής κρατά για λιγότερο το μισό του χρονικού παραθύρου του κινούμενου διαμέσου αυτό θα έχει ελάχιστο αντίκτυπο στην τιμή μετατροπής. Στην περίπτωση που η εισροή διαφθαρεί, οι συμμετέχοντες του δικτύου θα έχουν την δυνατότητα να ψηφήσουν εκτός διαφθαρμένους παραγωγούς εισροής πριν η διαφθαρμένη εισροή μπορεί να έχει αντίκτυπο στην πραγματική τιμή μετατροπής. Ίσως πιο σημαντικά, δίνει στους παραγωγούς εισροής μια ευκαιρία να ανιχνεύσουν και να διορθώσουν θέματα πριν η εισροή τους ξεκινήσει να έχει αντίκτυπο στην τιμή.
+As long as the price feed corruption lasts for less than half the moving median time window it will have minimal impact on the conversion price. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
 
-Με μια εβδομάδα περιθώριο, τα μέλη της κοινότητας έχουν τρείς και μισή μέρα να ανταποκριθούν σε οποιαδήποτε θέματα προκύψουν.
+With a three and a half day window, community members have approximately one and a half days to respond to any issues that come up.
 
 ### Μετρίαση επιθέσεων συγχρονισμού
 
-Οι συμμετέχοντες της αγοράς έχουν πρόσβαση σε πληροφορίες γρηγορότερα από ότι μπορεί να αντιδράσει το χρονικό περιθώριο της μιας εβδομάδας κινούμενο blockchain διάμεσου μετατροπής τιμής. Αυτές οι πληροφορίες μπορούν να χρησιμοποιηθούν προς όφελος των εμπόρων σε βάρος της κοινότητας. Αν υπάρξει κάποια απότομη αύξηση στην αξία του STEEM οι έμποροι μπορούν να ζητήσουν μετατροπή των SMD τους στην παλιά, χαμηλότερη τιμή, και έπειτα να πουλήσουν το STEEM που θα παραλάβουν σε μια νέα υψηλότερη τιμή με το ελάχιστο ρίσκο.
+Market participants have access to information faster than the blockchain’s three and a half day moving median conversion price can react. This information could be used to benefit of traders at the expense of the community. If there is a sudden increase in the value of STEEM traders could request conversion of their SBD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
 
-Το Steem δημιουργεί ισότιμους όρους ανταγωνισμού, απαιτώντας όλα τα αιτήματα μετατροπής να καθυστερήσουν για μία εβδομάδα. Αυτό σημαίνει ότι κανείς από τους εμπόρους ούτε το blockchain έχει οποιοδήποτε πλεονέκτημα πληροφορίας σε σχετικά με την τιμή στον χρόνο που έγινε η μετατροπή.
+Steem levels the playing field by requiring all conversion requests to be delayed for three and a half days. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
 
 ### Ελαχιστοποίηση της κακομεταχείρησης των μετατροπών
 
-Αν οι άνθρωποι μπορούσαν ελεύθερα να μετατρέψουν και στις δυο κατευθύνσεις τότε οι έμποροι θα εκμεταλλεύονταν την κλίμακα μετατροπής των blockchains με την ανταλλαγή τεράστιων όγκων χωρίς να αλλάξουν την τιμή. Οι έμποροι που θα έβλεπαν μια τεράστια αύξηση στην τιμή θα μετέτρεπαν το SMD στην υψηλή τιμή(όταν είναι περισσότερο ριψοκίνδυνο) και μετά θα το μετέτρεπαν πίσω μετά την διόρθωση. Το πρωτόκολλο του Steem προστατεύει την κοινότητα από αυτού του είδους την κακομεταχείριση επιτρέποντας μόνο σε ανθρώπους να μετατρέψουν από SMD σε STEEM και όχι με τον άλλο τρόπο.
+If people could freely convert in both directions then traders could take advantage of the blockchains conversion rates by trading large volumes without changing the price. Traders who see a massive run up in price would convert to SBD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SBD to STEEM and not the other way around.
 
-Το blockchain αποφασίζει πως και πότε θα δημιουργήσει SMD και ποιοι θα πρέπει να το λάβουν. Αυτό κρατά την κλίμακα της δημιουργίας του SMD σταθερή και απομακρύνει τους περισσότερους τρόπους κακομεταχείρισης.
+The blockchain decides how and when to create SBD and who should get it. This keeps the rate of SBD creation stable and removes most avenues of abuse.
 
-### Ρευστότητα
+### Sustainable Debt to Ownership Ratios
 
-Απλά επειδή τα SMD μπορούν να μετατραπούν στην αξία ενός δολαρίου από STEEM σε μια δίκαιη τιμή σε ένα λογικό ποσό χρόνου αυτό δεν σημαίνει ότι θα προβληθεί σαν ένα έντιμο αντικαταστατό του δολαρίου. Αυτά τα περιουσιακά στοιχεία απαιτούν ρευστότητα σε μια αγορά που επιτρέπει στιγμιαίες μετατροπές μεταξύ STEEM και SMD. Τα μέτρα που ένα blockchain απαιτείται να πάρει για να αποτρέψει κακομεταχείριση καταλήγει να μειώσει την ποιότητα των μετατρέψιμων δολαρίων. Για να επανορθώσει για αυτή την ζημία στην ποιότητα το blockchain μπορεί να προσφέρει ένα σταθερό κόστος ανταμοιβής στους παρόχους ρευστότητας. Ενώ οι πιθανές απώλειες από την χειραγώγηση και την κακομεταχείριση είναι απεριόριστες το κόστος της ενθάρρυνσης της ρευστότητας μπορεί να φτιαχτεί.
+If a token is viewed as ownership in the whole supply of tokens, then a token-convertible-dollar can be viewed as debt. If the debt to ownership ratio gets too high the entire currency can become unstable. Debt conversions can dramatically increase the token supply, which in turn is sold on the market suppressing the price. Subsequent conversions require the issuance of even more tokens. Left unchecked the system can collapse leaving worthless ownership backing a mountain of debt. The higher the debt to ownership ratio becomes the less willing new investors are to bring capital to the table.
 
-Ένας πάροχος ρευστότητας αγοράζει και πουλάει SMD και STEEM. Αναλαμβάνουν την πλειοψηφία του βραχυπρόθεσμου κίνδυνου τιμής και του μακροπρόθεσμου κίνδυνου εισροής δίνοντας στους απομείναντες συμμετέχοντες της αγοράς μιας υψηλής ποιότητας, εξαιρετικής ρευστής αγοράς μέσα στην οποία μπορούν να ανταλλάξουν.
+A rapid change in the value of STEEM can dramatically change the debt-to-ownership ratio. The blockchain prevents the debt-to-ownership ratio from getting too high, by reducing the amount of STEEM awarded through SBD conversions if the debt level were to exceed 10%. If the amount of SBD debt ever exceeds 10% of the total STEEM market cap, the blockchain will automatically reduce the amount of STEEM generated through conversions to a maximum of 10% of the market cap. This ensures that the blockchain will never have higher than a 10% debt-to-ownership ratio.
 
-Το Steem έχει μια on-blockchain αγορά μεταξύ SMD και STEEM. Οι χρήστες μπορούν να κερδίσουν ανταμοιβές με το να παρέχουν ρευστότητα και στις δύο πλευρές της αγοράς. Το blockhain χρησιμοποιεί έναν απλό αλγόριθμο για να κατατάξει την παροχή και κατανάλωση ρευστότητας κάθε χρήστη.
+The percentage floors used to compute STEEM creation are based on the supply including the STEEM value of all outstanding SBD and SP (as determined by the current rate / feed).
 
-Ένας χρήστης θεωρείτε πάροχος ρευστότητας εάν αφήσει μια ανοιχτή παραγγελία πάνω στα βιβλία για τουλάχιστον ένα λεπτό και η παραγγελία να ολοκληρωθεί τελικά. Αν η παραγγελία ακυρωθεί πριν ολοκληρωθεί τότε δεν θα δώσουν εύσημα στον χρήστη για την παροχή ρευστότητας.
+### Interest
 
-Οι χρήστες πρέπει να παρέχουν ρευστότητα και στις δύο πλευρές του βιβλίου για να πληρούν τις προϋποθέσεις για ανταμοιβές και πρέπει να παρέχουν ρευστότητα συνεχώς με την πάροδο του χρόνου. Ο αλγόριθμος βαθμολόγησης είναι:
+SBD pays holders interest. The interest rate is set by the same people who publish the price feed so that it can adapt to changing market conditions. All debt carries risk to the lender. Someone who holds SBD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SBD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
 
-      Πόντοι Ρευστότητας = NetBidVolume x NetAskVolume
-    
+STEEM and SP holders gain leverage when members of the community are willing to hold SBD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
 
-Κάθε ώρα ο λογαριασμός με τους περισσότερους πόντους ρευστότητας απονέμεται 1200 STEEM και οι πόντοι ρευστότητας του επαναφέρονται στο 0. Ένας λογαριασμός που πηγαίνει για μια εβδομάδα χωρίς να κερδίσει πόντους ρευστότητας επίσης επαναφέρονται οι πόντοι του στο 0. Αυτό σημαίνει ότι αν παρέχεις ένα μεγάλο ποσοστό ρευστότητας ή ένα μικρό ποσοστό πάνω από μια μεγάλη περίοδο χρόνου όλοι παίρνουν ένα αναλογικό ποσοστό των ανταμοιβών. Αν είτε το NetBidVolume ή το NetAskVolume είναι αρνητικό, τότε οι πόντοι ρευστότητας θεωρούνται να είναι 0.
+### Setting Price Feeds
 
-### Υποστηρικτικό χρέος σε αναλογίες ιδιοκτησίας
-
-Αν ένα σύμβολο βλέπεται σαν ιδιοκτησία στην ολόκληρη προμήθεια των συμβόλων, τότε ένα σύμβολο-μετατρέψιμο-δολάριο μπορεί να προβληθεί σαν χρέος. Αν η αναλογία χρέους ιδιοκτησίας γίνει πολύ υψηλό τότε όλο το νόμισμα μπορεί να γίνει ασταθή. Οι μετατροπές χρέος μπορούν να αυξήσουν δραματικά την προμήθεια συμβόλων, που με την σειρά του μπορεί να πουληθεί στην αγορά καταστέλλοντας την τιμή. Μεταγενέστερες μετατροπές απαιτούν την έκδοση ακόμη περισσότερων συμβόλων. Αν αφεθεί ανεξέλεγκτο το σύστημα μπορεί να καταρρεύσει αφήνοντας άχρηστη ιδιοκτησία υποστηρίζοντας ένα βουνό χρέους. Όσο υψηλότερες οι αναλογίες χρέους ιδιοκτησίας γίνονται τόσο λιγότεροι νέοι πρόθυμοι επενδυτές θα φέρουν κεφάλαιο στο τραπέζι.
-
-Για κάθε SMD που δημιουργεί το Steem, $19,00 του SΤΕΕΜ δημιουργούνται και μετατρέπονται σε SP. Αυτό σημαίνει ότι το υψηλότερο πιθανό χρέος σε ιδιοκτησία σε μια σταθερή αγορά είναι 1:19 ή περίπου 5%. Αν το Steem πέσει σε αξία κατά 50% τότε η κλίμακα θα ανέβαινε 10%. Μια 88% πτώση σε αξία του Steem θα μπορούσε να προκαλέσει την χρέος σε ιδιοκτησία αναλογία να φτάσει το 40%. Υποθέτοντας ότι η αξία του Steem θα σταθεροποιηθεί τελικά, οι αναλογίες χρέους ιδιοκτησίας θα πέσουν φυσικά πίσω στο 5%.
-
-Η ιδέα πίσω από το να υπάρχουν συντηρητικές 5% αναλογίες χρέους ιδιοκτησίας είναι ακόμη ότι και αν όλο το χρέος μετατρέπονταν και πουλιόνταν θα έπρεπε να υπάρχουν επαρκής αγοραστές και η αποτελεσματική αραίωση των κατόχων συμβόλων (tokens) θα παρέμενε σχετικά χαμηλή.
-
-Μια ραγδαία αλλαγή στην αξία του STEEM θα μπορούσε δραματικά να αλλάξει την αναλογία χρέους ιδιοκτησίας. Τα ποσοστά που συνήθιζαν να υπολογίζουν την δημιουργία STEEM είναι βασισμένα στην προμήθεια συμπεριλαμβανομένου και την αξία του STEEM όλων των εκκρεμών SMD και SP (όπως καθορίστηκαν από την συγκεκριμένη αναλογία/εισροή).
-
-### Τόκος
-
-Το SMD πληρώνει τους κατόχους τόκο. Η αναλογία του τόκου καθορίζετε από τους ίδιους ανθρώπους που εκδίδουν την τιμή εισροής ώστε έτσι να μπορούν να προσαρμοστούν στις μεταβαλλόμενες συνθήκες τις αγοράς. Όλο το χρέος κουβαλάει ρίσκο στον δανειστή. Κάποιος που έχει SMD χωρίς να το εξαργυρώσει δανείζει αποτελεσματικά στην κοινότητα την αξία ενός δολαρίου. Έχουν εμπιστοσύνη ότι σε κάποιο σημείο στο μέλλον κάποιος θα είναι πρόθυμος να αγοράσει το SMD από αυτούς για ένα δολάριο ή ότι θα υπάρχουν κερδοσκόποι και επενδυτές που θα είναι πρόθυμοι να αγοράσουν το STEEM που το μετατρέπουν σε αυτό.
-
-Οι κάτοχοι STEEM και SP κερδίζουν πλεονέκτημα όταν τα μέλη της κοινότητας είναι πρόθυμα να κατέχουν SMD. Αυτό το πλεονέκτημα ενισχύει τα κέρδη από την ανάπτυξη καθώς επίσης συνεισφέροντας στην ανάπτυξη. Οι κάτοχοι STEEM υποφέρουν από ανεπτυγμένη αραίωση αν η τιμή πέσει. Τα project κρυπτονομίσματος έχουν δείξει ότι τα κέρδη από την αύξηση της βάσης χρηστών που είναι πρόθυμοι να εμπιστευτούν το δίκτυο με κεφάλαιο προσθέτουν τελικά περισσότερη αξία στο δίκτυο από οποιαδήποτε αραίωση που μπορεί να προκληθεί κατά την διάρκεια μια ύφεσης.
-
-### Θέτοντας τιμές εισροών
-
-Όξινοι αναγνώστες θα αναγνωρίσουν ότι ο τόκος που κουβαλάει κεφάλαιο περιορισμένης προμήθειας μπορεί να ανταλλαχθεί υψηλότερα ή χαμηλότερα από του βασικού τόκου ανάλογα με τις άλλες ευκαιρίες να κερδίσει τόκο στο ίδιο κεφάλαιο. Με ένα υψηλό επιτόκιο πληρωμένο με ένα τόκο στενά συνδεδεμένο με το αμερικανικό δολάριο πολλοί άνθρωποι θα ανεβάσουν την περιορισμένη προμήθεια των Steem Dollars μέχρι να μην εκτιμούνται πια στο $1. Στην οικονομία υπάρχει μια αρχή γνωστή και ως η Αδύνατη Τριάδα[^4] που δηλώνει ότι είναι αδύνατο να υπάρχουν τρία από τα ακόλουθα την ίδια στιγμή:
+Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
 
 1. Μια σταθερή αναλογία ανταλλαγής
 2. Δωρεάν κίνηση κεφαλαίου
 3. Μια ανεξάρτητη νομισματική πολιτική
 
-Αν οι παραγωγοί εισροής του Steem στοχεύουν να έχουν μια ανεξάρτητη νομισματική πολιτική που του επιτρέπει να δημιουργεί και να καταστρέφει Steem Dollars ενώ ταυτόχρονα έχοντας πλήρη έλεγχο πάνω από το επιτόκιο τότε θα αντιμετωπίσουν προβλήματα. Η Αδύνατη Τριάδα λέει ότι τα Steem Dollars είτε θα χρειάζεται να περιορίζουν την κίνηση κεφαλαίου, να έχουν μια μη σταθερή αναλογία ανταλλαγής με το δολάριο να έχουν περιορισμένο έλεγχο πάνω από το επιτόκιο.
+If Steem feed producers aim to have an independent monetary policy allowing it to create and destroy Steem Dollars while simultaneously having full control over the interest rate then they will encounter problems. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
 
-Η κύρια ανησυχία των παραγωγών εισροής του Steem είναι να διατηρήσουν μια σταθερή μια προς μια μετατροπή μεταξύ SMD και του αμερικανικού δολαρίου (USD). Οποιαδήποτε στιγμή το SMD συνεχώς ανταλλάζει πάνω από $1.00 USD οι πληρωμές τόκων πρέπει να σταματήσουν. Σε μια αγορά όπου 0% τόκος σε χρέος ακόμα απαιτεί ένα ασφάλιστρο, είναι ασφαλές να πούμε ότι η αγορά είναι πρόθυμη να επεκτείνει περισσότερη πίστωση από το χρέος που η κοινότητα είναι πρόθυμη να αναλάβει. Αν αυτό συμβεί ένα SMD θα εκτιμηθεί περισσότερο από $1.00 και θα υπάρχουν λίγα που θα μπορεί να κάνει η κοινότητα χωρίς να χρεώνει αρνητικό επιτόκιο.
+The primary concern of Steem feed producers is to maintain a stable one-to-one conversion between SBD and the U.S. Dollar (USD). Any time SBD is consistently trading above $1.00 USD interest payments must be stopped. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SBD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
 
-Αν η κλίμακα χρέους σε ιδιοκτησία είναι κάτω από 10% και το SMD ανταλλάσετε για λιγότερο από $1.00 τότε το επιτόκιο θα πρέπει να αυξηθεί. Αυτό θα ενθαρρύνει περισσότερους ανθρώπους να κρατήσουν το SMD τους και να υποστηρίξουν την τιμή.
+If the debt-to-ownership ratio is low and SBD is trading for less than $1.00, then the interest rate should be increased. This will encourage more people to hold their SBD and support the price.
 
-Αν το SMD ανταλλαχθεί για λιγότερο από $1.00 USD και η αναλογία χρέους σε ιδιοκτησία είναι πάνω από 10% τότε οι εισροές θα πρέπει να προσαρμοστούν προς τα πάνω για να δώσουν περισσότερο STEEM για SMD. Αυτό θα αυξήσει την ζήτηση για SMD καθώς επίσης μειώνοντας την αναλογία χρέους ιδιοκτησίας και επιστρέφοντας το SMD σε ισοτιμία με το USD.
+If SBD trades for less than $1.00 USD and the debt-to-ownership ratio is high, then the feeds should be adjusted upward give more STEEM per SBD. This will increase demand for SBD while also reducing the debt-to-ownership ratio and returning SBD to parity with USD.
 
-Υποθέτοντας ότι η αξία του SΤΕΕΜ μεγαλώνει πιο γρήγορα από ότι το Steem δημιουργεί SMD, η αναλογία χρέους σε ιδιοκτησία θα πρέπει να παραμείνει κάτω από την αναλογία στόχου και το επιτόκιο που προσφέρει οφέλη για όλους. Αν η αξία του δικτύου είναι επίπεδη ή πέφτει, θα κάνει μόνο χειρότερη την αναλογία χρέους σε ιδιοκτησία.
+Assuming the value of STEEM is growing faster than Steem is creating new SBD, the debt-to-ownership ratio should remain under the target ratio and the interest offered benefits everyone. If the value of the network is flat or falling, then any interest offered will only make the debt-to-ownership ratio worse.
 
-Σε ισχύ, οι παραγωγοί εισροής έχουν ανατεθεί με την υπευθυνότητα να θέσουν μια νομισματική πολιτική για τον σκοπό της συντήρησης ενός σταθερού συνδέσμου στο USD. Κακομεταχείριση αυτής της δύναμης θα μπορούσε να βλάψει την αξία του SΤΕΕΜ έτσι οι κάτοχοι SP θα είναι σοφοί να ψηφίσουν για μάρτυρες που μπορούν να βασιστούν για να ρυθμίσουν την εισροή τιμής και τα επιτόκια σύμφωνα με τους κανόνες που περιγράφονται παραπάνω.
+In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
 
-Αν η αναλογία χρέους σε ιδιοκτησία γίνει τρομακτικά υψηλή και οι συμμετέχοντες της αγοράς αποφασίσουν να αποφύγουν αιτήματα μετατροπής, τότε η εισροή θα πρέπει να ρυθμιστεί για να αυξήσει το ποσοστό με το οποίο το STEEM πληρώνετε για να μετατραπεί σε SMD.
+If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SBD.
 
-Αλλαγές στην πολιτική του επιτοκίου και/ή οποιαδήποτε ασφάλιστρα/εκπτώσεις πάνω στην STEEM/SMD μετατροπή θα πρέπει να είναι μια αργή και μετρημένη απάντηση στον μακροπρόθεσμο μέσο όρο των αποκλίσεων παρά να προσπαθούν να απαντήσουν στις βραχυπρόθεσμες συνθήκες της αγοράς. Το blockchain πληρώνει τους παρόχους ρευστότητας για την υπηρεσία τους στην απορρόφηση βραχυπρόθεσμων απαιτήσεων.
+Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SBD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions.
 
-Πιστεύουμε ότι αυτοί οι κανόνες θα δώσουν στους συμμετέχοντες τις αγοράς αυτοπεποίθηση και ότι θα είναι απίθανο να χάσουν λεφτά από το να κατέχουν SMD αγορασμένο στην τιμή του $1.00. Περιμένουμε να υπάρχει πλήρως ένα στενό εύρος διαπραγμάτευσης μεταξύ $0.99 και $1.01 για SMD κάτω από τις περισσότερες συνθήκες αγοράς.
+It is our belief that these rules will give market participants confidence that they are unlikely lose money by holding SBD purchased at a price of $1.00. We fully expect there to be a narrow trading range between $0.95 and $1.05 for SBD under normal market conditions.
 
 ## Υποκειμενικές συνεισφορές
 
-Υποκειμενική απόδειξη εργασίας παρουσιάζει μια διαφορετική προσέγγιση στην διανομή ενός νομίσματος που βελτιώνει πλήρως *τα αντικειμενικά* συστήματα απόδειξης δουλειάς όπως η εξόρυξη. Οι εφαρμογές ενός νομίσματος εκτελώντας *αντικειμενικές* αποδείξεις εργασίας είναι μακράν πιο ευρείς από *οποιοδήποτε* σύστημα υποκειμενικής απόδειξης δουλειάς γιατί δεν μπορούν να εφαρμοστούν για να χτίσουν μια κοινότητα γύρο από οποιαδήποτε έννοια που έχει έναν επαρκώς καθορισμένο σκοπό. Όταν τα άτομα εισέρχονται σε μια κοινότητα επενδύουν σε ένα συγκεκριμένο σετ απόψεων και μπορούν να ψηφίσουν για να ενισχύσουν τις αξίες της κοινότητας ή τον σκοπό.
+Subjective Proof of Work presents an alternative approach to distributing a currency that improves upon fully *objective* Proof of Work systems such as mining. The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
 
-Σε ισχύ, τα κριτήρια με τα οποία η δουλειά εκτιμείται είναι εντελώς υποκειμενικά και η σημασία του ζει έξω από την πηγή του κώδικα του ίδιου. Μια κοινότητα μπορεί να επιθυμεί να ανταμείψει τους καλλιτέχνες, η άλλη ποιητές, και η άλλη κωμικούς. Άλλες κοινότητες μπορούν να αποφασίσουν να ανταμείψουν φιλανθρωπικούς σκοπούς ή να βοηθήσουν στην ανάπτυξη των πολιτικών αντζεντών.
+In effect, the criteria by which work is evaluated is completely subjective and its definition lives outside the source code itself. One community may wish to reward artists, another poets, and another comedians. Other communities may choose to reward charitable causes or help advance political agendas.
 
-Η αξία που πετυχαίνει κάθε νόμισμα βασίζεται πάνω στην απαίτηση για επιρροή μέσα σε μια συγκεκριμένη κοινότητα και πόσο μεγάλη πιστεύει η αγορά ότι κάθε κοινότητα θα γίνει. Ανόμοια με προηγούμενα συστήματα, η υποκειμενική απόδειξη δουλειάς επιτρέπει σε μια κοινότητα να χρηματοδοτεί συλλογικά την ανάπτυξη από οτιδήποτε βρίσκει χρήσιμο και επιτρέπει την νομισματοποίηση σε σχέση με την προηγουμένως μη νομισματοποίηση.
+The value each currency achieves depends upon the demand for influence within a particular community and how large the market believes each community can get. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
 
-### Διανέμοντας νόμισμα
+### Distributing Currency
 
-Υπάρχουν δυο τρόποι που οι άνθρωποι μπορούν να μπλεχθούν με μια κρυπτονομισματική κοινότητα: Μπορούν να *αγοράσουν για* να μπουν ή *να δουλέψουν*. Και στις δύο περιπτώσεις οι χρήστες προσθέτουν αξία στο νόμισμα, όμως, η τεράστια πλειοψηφία των ανθρώπων έχουν περισσότερο *ελεύθερο χρόνο* από ότι *ξοδεύουν μετρητά*. Φανταστείτε τον στόχο της ώθησης σε ένα νόμισμα μέσα σε μια φτωχή κοινότητα χωρίς πραγματικά *μετρητά* αλλά μπόλικο *χρόνο*. Αν οι άνθρωποι μπορούν να κερδίζουν λεφτά με το να δουλεύουν ο ένας για τον άλλον τότε θα ωθήσουν την αξία μέσω αμοιβαίας ανταλλαγής που διευκολύνετε μέσω ενός δίκαιου λογιστικού/νομισματικού συστήματος.
+There are two ways people can get involved with a crypto-currency community: they can *buy in*, or they can *work in*. In both cases users are adding value to the currency, however, the vast majority of people have more *free time* than they do *spare cash*. Imagine the goal of bootstrapping a currency in a poor community with no actual *cash* but plenty of *time*. If people can earn money by working for one another then they will bootstrap value through mutual exchange facilitated by a fair accounting/currency system.
 
-Η διανομή ενός νομίσματος σε όσους ανθρώπους είναι δυνατό με ένα τρόπο που είναι γενικά αντιληπτός ως δίκαιος είναι ένα δύσκολο έργο. Τα έργα που μπορούν πλήρως να εκτιμηθούν από έναν αμερόληπτο αλγόριθμο υπολογιστή είναι φυσικά περιορισμένοι και φυσικά μιλώντας έχουν περιορισμένα θετικά εξωτερικά οφέλη. Στην περίπτωση του της εξόρυξης του στυλ Bitcoin μπορεί να έχει ως αποτέλεσμα την παραγωγή ειδικευμένων μηχανημάτων υπολογιστών και να προκαλέσουν τους ανθρώπους να επενδύσουν χρόνο στην ανάπτυξη περισσότερων αποτελεσματικών αλγόριθμων. Μπορεί να βοηθήσει και στην εύρεση περιττών αριθμών, αλλά κανένα από αυτά τα πράγματα δεν παρέχουν σημαντική αξία στην κοινωνία ή στο νόμισμα που κρατάει την κοινότητα στο σύνολό της. Σημαντικότερα, οι οικονομίες κλίμακας και οι δυνάμεις της αγοράς θα καταλήξουν να αποκλείσουν όλους πέρα από ειδικούς σε αυτό το είδος της διανομής. Τελικά, η εξόρυξη με βάση υπολογισμών είναι ένας άλλος τρόπος *για να εισέλθουν* με την αγορά γιατί απαιτεί χρήμα να πληρώσεις τον ηλεκτρικό λογαριασμό ή την ανάπτυξη ενός μηχανήματος υπολογιστή αναγκαίο να κάνει την δουλειά.
+Distributing a currency to as many people as possible in a manner that is generally perceived as fair is a challenging task. The tasks that can be entirely evaluated by an objective computer algorithm are limited in nature and generally speaking have limited positive external benefits. In the case of Bitcoin-style mining, it can result in the production of specialized hardware and cause people to invest time developing more efficient algorithms. It may even help find prime numbers, but none of these things provide meaningful value to society or the currency holding community at large. More importantly, economies of scale and market forces will end up excluding everyone but experts from participating in this kind of distribution. Ultimately, computation-based mining is just another way of *buying in* because it requires money to pay the electric bill or the development of hardware necessary to do the work.
 
-Για να δώσουμε μια ίση ευκαιρία σε όλους για να ασχοληθούν και να κερδίσουν το νόμισμα πρέπει να δοθεί μια ευκαιρία στους ανθρώπους να δουλέψουν. Η πρόκληση είναι πως θα κριθεί η σχετική ποιότητα και ποσότητα της δουλειάς που παρέχουν τα άτομα και να γίνει με έναν τέτοιο τρόπο που να διανέμει αποτελεσματικά ανταμοιβές σε εκατομμύρια χρήστες. Αυτό απαιτεί την εισαγωγή μιας επεκτάσιμης διαδικασίας ψήφου. Συγκεκριμένα απαιτεί ότι η εξουσία θα διανέμει χρήματα που πρέπει να είναι τόσο μοιρασμένα και τόσο αποκεντρωμένα όσο το δυνατόν.
+In order to give everyone an equal opportunity to get involved and earn the currency people must be given an opportunity to work. The challenge is how to judge the relative quality and quantity of work that individuals provide and to do so in a way that efficiently allocates rewards to millions of users. This requires the introduction of a scalable voting process. In particular it requires that authority to allocate funds must be as distributed and decentralized as possible.
 
-Το πρώτο βήμα στην ανταμοιβή εκατομμυρίων χρηστών είναι στην δέσμευση της διανομής ενός προκαθορισμένου ποσού του νομίσματος ανεξαρτήτως από το πόση δουλειά έχει γίνει ή πως ψηφίζουν οι χρήστες. Αυτό αλλάζει την ερώτηση από *‘Θα πρέπει να πληρώσουμε?’* σε *‘Ποιόν θα πρέπει να πληρώσουμε?’* και σηματοδοτεί στην αγορά ότι τα λεφτά διανέμονται και έχουν δημοπρατηθεί σε οποιονδήποτε ‘προσφέρει’ την περισσότερη *δουλειά*. Αυτό είναι παρόμοιο στο Bitcoin να ανταμείψει 50 BTC σε οποιονδήποτε βρει τον πιο δύσκολο κατακερματισμό. Όπως και στο Bitcoin, όλη η δουλειά πρέπει να γίνει πριν την πληρωμή και τίποτα δεν πρέπει να πληρωθεί υποθετικά με την υπόσχεση δουλειάς το μέλλον.
+The first step in rewarding millions of users is to commit to distributing a fixed amount of currency regardless of how much work is actually done or how users vote. This changes the question from being *“Should we pay?”* to *“Whom should we pay?”* and signals to the market that money is being distributed and is being auctioned off to whoever “bids” the most *work*. This is similar to Bitcoin committing to award 50 BTC to whoever finds the most difficult hashes. Like Bitcoin, all work must be done prior-to payout and nothing should be paid speculatively on the promise to do work in the future.
 
-Το επόμενο βήμα είναι η ανταμοιβή όλων που κάνουν οτιδήποτε ακόμα και ελάχιστα θετικό με *κάτι*. Αυτό επιτυγχάνεται με την κατάταξη όλης της δουλειάς που γίνετε και διανομή αναλόγως της αξίας της. Όσο περισσότερο ανταγωνιστική γίνετε η αγορά, τόσο δυσκολότερο (υψηλότερη ποιότητα ή ποσότητα) γίνετε να αποκτηθεί η ίδια ανταμοιβή.
+The next step is to reward everyone who does anything even remotely positive with *something*. This is accomplished by ranking all work done and distributing proportionally to its value. The more competitive the market becomes, the more difficult (higher quality or quantity) it becomes to earn the same payout.
 
-### Ψήφισμα πάνω στην διανομή του νομίσματος
+### Voting on Distribution of Currency
 
-Υπέθεσε ότι υπάρχει ένα προκαθορισμένο ποσό λεφτών για διανομή, και ότι αυτοί που θέλουν να έχουν ένα μακροπρόθεσμο κατοχυρωμένο επιτόκιο στην μελλοντική αξία και χρησιμότητα του νομίσματος είναι αυτοί που πρέπει να αποφασίσουν πως θα το διανέμουν. Κάθε κατοχυρωμένος χρήστης ρίχνει την ψήφο του πάνω σε ποιόν έκανε την καλύτερη δουλειά και στο τέλος της ημέρας τα διαθέσιμα χρήματα της μέρας θα μοιραστούν αναλογικά με τις ψήφους ώστε έτσι όλοι ακόμα με μια θετική ψήφο δικτύου παίρνουν κάτι.
+Assume there is a fixed amount of money to distribute, and that those who have a long-term vested interest in the future value and utility of the currency are the ones who must decide how to allocate it. Every vesting user casts their votes on who did the best work and at the end of the day the available money for that day is divided proportional to the votes such that everyone with even one net positive vote gets something.
 
-Η αφελής διαδικασία ψήφου προκαλεί ένα δίλλημα του φυλακισμένου όπου κάθε ατομικός ψηφοφόρος έχει κίνητρο να ψηφίσει τον εαυτό του. Και μετά κανένα νόμισμα δεν θα καταλήξει να μοιραστεί και το νόμισμα σαν όλο θα αποτύχει να αποκτήσει την επίδραση του δικτύου. Από την άλλη πλευρά, αν ένας μόνο ψηφοφόρος αποστατήσει τότε ένας άλλος ψηφοφόρος θα κερδίσει άδικα κέρδη ενώ έχει ελάχιστη επίδραση πάνω στην τελική αξία του νομίσματος.
+The naive voting process creates a N-Person Prisoner’s Dilemma[^5] whereby each individual voter has incentive to vote for themselves at the expense of the larger community goal. If every voter defects by voting for themselves then no currency will end up distributed and the currency as a whole will fail to gain network effect. On the other hand, if only one voter defects then that voter would win undeserved profits while having minimal effect on the overall value of the currency.
 
-Για να επαναπροσδιορίσουμε τα κίνητρα και να αποθαρρύνουμε τα άτομα από απλά να ψηφίζουν για τους εαυτούς τους, τα λεφτά πρέπει να διανέμονται με έναν μη γραμμικό τρόπο. Για παράδειγμα μια τετραγωνική συνάρτηση στους ψήφους, π.χ κάποιος με τις διπλάσιες ψήφους από κάποιον άλλον πρέπει να λάβει τέσσερεις φορές την πληρωμή και κάποιος με τρείς φορές τις ψήφους πρέπει να λάβει εννιά φορές την πληρωμή. Με άλλα λόγια η πληρωμή είναι αναλογική στις \\(ψήφους^{2}\\) από *ψήφους*. Αυτό αντικατοπτρίζει την αξία της επίδρασης του δικτύου που μεγαλώνει με \\(ν^{2}\\) αριθμό συμμετεχόντων, σύμφωνα με το νόμο του Metcalfe[^5].
+#### Voting Abuse
 
-Υποθέτοντας ότι όλοι οι χρήστες έχουν ίσο μερίδιο, όταν κάποιος λαμβάνει μόνο την δικιά του ψήφο θα λάβει λιγότερα από κάποιον που θα λάβει ψήφους από 100 διαφορετικούς χρήστες. Αυτό ενθαρρύνει τους χρήστες να *συνεργαστούν* για να ψηφήσουν για τα ίδια πράγματα για να μεγιστοποιήσουν την πληρωμή. Το σύστημα επίσης δημιουργεί οικονομικά κίνητρα για να *συνωμοτήσει* όπου όλοι ψηφίζουν σε ένα πράγμα και μετά διαιρεί την ανταμοιβή δίκαια μεταξύ τους.
+Regardless of how much money any one individual has, there are always many other individuals with similar wealth. Even the wealthiest individual rarely has much more than the next couple wealthiest combined. Furthermore, those who have a large investment in a community also have the most to lose by attempting to game the voting system for themselves. It would be like the CEO of a company deciding to stop paying salaries so he could pocket all of the profits. Everyone would leave to work for other companies and the company would become worthless, leaving the CEO bankrupt rather than wealthy.
 
-#### Συνωμοσία Ψήφου
+Fortunately, any work that is getting a large concentration of votes is also gaining the most scrutiny (publicity). Through the addition of *negative-voting* it is possible for many smaller stakeholders to nullify the voting power of collusive groups or defecting large stakeholders. Furthermore, large-stakeholders have more to lose if the currency falls in value due to abuse than they might gain by voting for themselves. In fact, honest large stakeholders are likely to be more effective by policing abuse and using negative voting than they would be by voting for smaller contributions.
 
-Καθώς η συνεργασία για την διανομή κερδών στην καλύτερη δουλειά είναι ο επιθυμητός στόχος, η *συνωμοσία* που υποβιβάζει αυτό τον στόχο θα πρέπει να ελαχιστοποιηθεί. Υπάρχουν δύο είδη *συνωμοσίας*: το πιο ευθέως είναι όταν κάποιος χρήστης απλά αγοράζει ένα μεγαλύτερο μερίδιο από τους άλλους, και το άλλο συσχετίζετε με την συνεργασία ενός μεγάλου ή μικρότερου αριθμού μεριδιούχων που δουλεύουν μαζί. Μεγαλύτεροι μεριδιούχοι μπορούν να έχουν την επιρροή ψήφου από 100 ή ακόμα και 1000 μικρότερων μεριδιούχων που σημαίνει ότι έχουν μεγαλύτερα κίνητρα να αποστατήσουν ψηφίζοντας για τον εαυτό τους από ότι είχαν κάτω από μια γραμμική διανομή.
+The use of *negative-voting* to keep people from abusing the system leverages the *crab mentality* that many people have when it is perceived that one individual is profiting at the expense of everyone else. While crab mentality normally refers to short-sighted people keeping good people down, it is also what allows good people to keep bad people down. The only “problem” with crab mentality is when people *wrongly believe* someone is profiting at everyone else's expense.
 
-Ασχέτως με πόσα λεφτά οποιοδήποτε άτομο έχει, θα υπάρχουν πάντα πολλά άλλα άτομα με παρόμοιο πλούτο. Ακόμα και το πλουσιότερο άτομο σπανίως έχει παραπάνω από το επόμενο συνδυαστικό ζευγάρι πλουσίων. Επιπλέον, αυτοί που έχουν μια μεγάλη επένδυση σε μια κοινότητα επίσης έχουν το περισσότερο να χάσουν με το να στήσουν το σύστημα ψήφου για τους εαυτούς τους. Θα ήταν σαν ο διευθύνων σύμβουλος μιας εταιρίας αποφάσιζε να σταματήσει να πληρώνει μισθούς ώστε να πάρει όλα τα κέρδη. Όλοι θα έφευγαν από την δουλειά για να πάνε σε άλλες εταιρίες και η εταιρία θα γίνονταν άχρηστη, αφήνοντας τον διευθύνων σύμβουλο χρεοκοπημένο παρά πλούσιο.
+**The Story of the Crab Bucket**[^6]
 
-Ευτυχώς, οποιαδήποτε δουλεία λαμβάνει μια μεγάλη συγκέντρωση ψήφων επίσης λαμβάνει και τον περισσότερο εξονυχιστικό έλεγχο (δημοσιότητα). Μέσα από την πρόσθεση του *αρνητικού-ψηφίσματος* είναι δυνατόν για πολλούς μικρούς μεριδιούχους να αχρηστεύσουν την δύναμη της ψήφου από συνωμοτικές ομάδες ή μεγάλους μεριδιούχους που έχουν αποστατήσει. Επιπλέον, μεγάλοι μεριδιούχοι έχουν περισσότερα να χάσουν αν το νόμισμα πέσει σε αξία λόγο της κακομεταχείρισης από ότι μπορεί να κερδίσουν ψηφίζοντας για τους εαυτούς τους. Μάλιστα, τίμιοι μεγάλοι μεριδιούχοι είναι πιθανών να είναι περισσότερο αποτελεσματικοί με την αστυνόμευση κακομεταχείρισης και την χρησιμοποίηση της αρνητικής ψήφου από όταν θα ψήφιζαν για μικρότερες συνεισφορές.
+A man was walking along the beach and saw another man fishing in the surf with a bait bucket beside him. As he drew closer, he saw that the bait bucket had no lid and had live crabs inside.
 
-Η χρήση της *αρνητικής-ψήφου* για να κρατήσει τους ανθρώπους από την κακομεταχείριση του συστήματος φέρνει στην επιφάνεια την νοοτροπία του *καβουριού που* έχουν πολλοί άνθρωποι όταν γίνεται αντιληπτό ότι ένα άτομο βγάζει κέρδος εις βάρος όλων των άλλων. Καθώς η νοοτροπία του καβουριού αναφέρεται σε κοντόφθαλμους ανθρώπους που κρατάνε τους καλούς ανθρώπους κάτω, σημαίνει επίσης ότι επιτρέπει στους καλούς ανθρώπους να κρατήσουν κάτω τους κακούς. Το μόνο ‘πρόβλημα’ στην νοοτροπία του καβουριού είναι όταν οι άνθρωποι *εσφαλμένα πιστεύουν ότι* κάποιος βγάζει κέρδος εις βάρος των άλλων.
+"Why don't you cover your bait bucket so the crabs won't escape?", he said.
 
-> #### Η ιστορία του κουβά με τα καβούρια[^6]
-> 
-> Ένας άνθρωπος περπατούσε κατά μήκος της παραλίας και είδε έναν άλλο άνδρα να ψαρεύει στο κύμα με ένα κουβά από δόλωμα δίπλα του. Καθώς πλησίασε πιο κοντά, είδε ότι ο κουβάς με το δόλωμα δεν είχε καπάκι και είχε ζωντανά καβούρια μέσα.
-> 
-> ‘Γιατί δεν καλύπτεις τον κουβά με το δόλωμα για να μην δραπετεύσουν τα καβούρια?’ είπε.
-> 
-> ‘Δεν καταλαβαίνεις’ απάντησε ο άνθρωπος. ‘Αν υπάρχει ένα καβούρι στον κουβά σίγουρα θα σκαρφάλωνε γρήγορα έξω’. ‘Όμως, όταν υπάρχουν πολλά καβούρια στον κουβά, τα υπόλοιπα το κρατούν και το τραβάνε κάτω για να μοιραστεί την ίδια μοίρα με τα υπόλοιπα.’
-> 
-> Και έτσι είναι με τους ανθρώπους. Αν κάποιος προσπαθήσει να κάνει κάτι διαφορετικό, να πάρει καλύτερη βαθμολογία, να βελτιώσει τον εαυτό της, να ξεφύγει από το περιβάλλον της, ή να κάνει μεγάλα όνειρα, οι άλλοι άνθρωποι θα προσπαθήσουν να την τραβήξουν πίσω για να μοιραστεί την μοίρα τους.
+"You don't understand.", the man replied, "If there is one crab in the bucket it would surely crawl out very quickly. However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
 
-Η εξάλειψη της ‘κακομεταχείρισης’ δεν είναι δυνατή και δεν θα έπρεπε να είναι στόχος. Ακόμα και αυτοί που προσπαθούν να ‘κακομεταχειριστούν’ το σύστημα ακόμα κάνουν δουλειά. Οποιαδήποτε αποζημίωση πάρουν για τις επιτυχείς προσπάθειές τους για κακομεταχείριση ή συνωμοσία είναι τουλάχιστον όσο πολύτιμη για τον σκοπό της διανομής του νομίσματος όσο το make-work σύστημα που απασχολείτε από την παραδοσιακή Bitcoin εξόρυξη ή η συνωμοτική εξόρυξη που γίνεται μέσω ομάδων εξόρυξης. Το μόνο που είναι απαραίτητο για να διασφαλιστεί ότι η κακομεταχείριση δεν θα είναι τόσο ανεξέλεγκτη που να υποβιβάζει τα κίνητρα για να γίνει πραγματική δουλειά στην υποστήριξη της κοινότητας και του νομίσματός της.
+So it is with people. If one tries to do something different, get better grades, improve herself, escape her environment, or dream big dreams, other people will try to drag her back down to share their fate.
 
-Ο στόχος ανέγερσης ενός νομίσματος της κοινότητας είναι να πάρουμε περισσότερα ‘καβούρια στον κουβά’. Πηγαίνοντας σε ακραία μέτρα για την εξάλειψη κάθε κακομεταχείρισης είναι σαν να προσπαθείς να βάλεις ένα καπάκι στον κουβά για να αποτρέψεις μερικά καβούρια να ξεφύγουν και έρχεται με το κόστος ότι το κάνεις δυσκολότερο να προστεθούν περισσότερα καβούρια στον κουβά. Είναι επαρκές να κάνεις τους τοίχους γλιστερούς και να δώσεις στα άλλα καβούρια επαρκή δύναμη για να αποτρέψουν τα άλλα από την αποφυγή.
+Eliminating “abuse” is not possible and shouldn’t be the goal. Even those who are attempting to “abuse” the system are still doing work. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn’t so rampant that it undermines the incentive to do real work in support of the community and its currency.
 
-### Εκτίμηση περιορισμένης ψήφου
+The goal of building a community currency is to get more “crabs in the bucket”. Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs sufficient power to prevent others from escaping.
 
-Ένα κύριο μέρος στην ελαχιστοποίηση της κακομεταχείρισης είναι η περιορισμένη εκτίμηση της ψήφου. Ατομικοί χρήστες μπορούν μόνο να διαβάζουν και να αξιολογήσουν τόσα πολλά αντικείμενα δουλειάς κάθε μέρα. Οποιαδήποτε προσπάθεια ψήφισης από αυτό είναι σημάδι μιας αυτοματοποιημένης και πιθανής κακομεταχείρησης. Μέσα από την περιορισμένη εκτίμηση, μεριδιούχοι που ψηφίζουν μπορούν να έχουν συχνότερα καταμέτρηση ψήφων για λιγότερο από τους μεριδιούχους που ψηφίζουν λιγότερο συχνά. Προσπάθειες στην διαίρεση συμβόλων ανάμεσα σε πολλούς λογαριασμούς διαιρεί επίσης την επιρροή και επομένως δεν αποτελεί στην αύξηση της επιρροής του δικτύου ούτε προσπερνά την περιορισμένη εκτίμηση που επιβάλλεται στο ψήφισμα.
+### Rate Limited Voting
 
-![](\img_voting_rate_limiting.png)
+A major part of minimizing abuse is the rate-limiting of voting. Individual users can only read and evaluate so many work items per day. Any attempt to vote more frequently than this is a sign of automation and potential abuse. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
 
-Τα διαγράμματα από πάνω δείχνουν πως η δύναμη της ψήφου ενός χρήστη μειώνεται κάθε φορά που ψηφίζουν και ανανεώνεται όσο περνάει ο χρόνος χωρίς να ψηφίζουν. Αυτά τα διαγράμματα χρησιμοποιούν μονάδα πλασματικού χρόνου και θα μπορούσαν να ταιριάξουν σε οποιαδήποτε στοχευόμενη εκτίμηση ψηφίσματος. Σημειωτέο ότι η δύναμη της ψήφου πέφτει ραγδαία κατά την διάρκεια περιόδων συνεχούς ψηφίσματος, και μετά ανακάμπτει αργά.
+Users are allotted a fixed amount of voting power. Voting power is multiplied by a user’s vesting tokens to determine how much share in the reward pool should be allocated to a given work item. Every vote that is cast uses a percentage of remaining voting power. Users can vote for more posts, but each vote will be worth less, and it will take longer to reach full voting power again. Voting power recharges at a fixed linear rate of 20% per day.
 
-Η δύναμη της ψήφου πολλαπλασιάζετε με τα κατοχυρωμένα σύμβολα του χρήστη για να διαπιστωθεί πόσο μερίδιο από την ομάδα ανταμοιβής θα πρέπει να διανεμηθεί σε ένα αντικείμενο εργασίας.
+### Payout Distribution
 
-### Καθυστερημένες πληρωμές
+One of the primary goals of Steem’s reward system is to produce the best discussions on the internet. Each and every year 75% of the yearly inflation is distributed to users submitting, voting on, and discussing content. At the size of Bitcoin this could be several million dollars per day being given to the top contributors.
 
-![](\img_change_voting_period_eg.png)
+The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content.
 
-Για περαιτέρω προτροπή της κακομεταχείρισης, όλες οι πληρωμές καθυστερούνται ένα ζυγιασμένου μεριδίου μέσου όρου των 24 ωρών κάθε φορά που ρίχνεται μια ψήφος. Αυτό εγγυάται ότι μεγάλοι μεριδιούχοι δεν μπορούν να στήσουν να πληρωμές ψηφίζοντας στο τελευταίο δευτερόλεπτο πριν οι άλλοι ψηφοφόροι(καβούρια) έχουν την ευκαιρία να ακυρώσουν την πιθανή κακομεταχείριση. Μόλις γίνει η πληρωμή στον χρήστη όλοι οι ψήφοι επαναφέρονται στο 0. Αν ψήφοι έρθουν μετά την πληρωμή η διαδικασία ξεκινά ξανά.
-
-Αυτό το διάγραμμα δείχνει πως η λήξη της περιόδου ψηφίσματος αλλάζει σε απόκριση με τις νέες θετικές και αρνητικές ψήφους που εφαρμόζονται. Νέοι ψήφοι επεκτείνουν την περίοδο πληρωμής σε αναλογία με το πόσο μεγάλες είναι σχετικά με όλες τις ψήφους που έχουν ήδη ριχθεί. Μετά από κάποιο χρονικό διάστημα 40, ένας μεγάλος αριθμός ψήφων, προστέθηκαν που επέκτειναν την περίοδο ψηφοφορίας κατά 12 ώρες, μεταγενέστερες μικρότερες ψήφοι θα έχουν μακράν μικρότερο αντίκτυπο στην περίοδο ψηφοφορίας.
-
-### Διανομή πληρωμής
+Zipf’s Law[^7] is one of those empirical rules that characterize a surprising range of real-world phenomena remarkably well. It says that if we order some large collection by size or popularity, the second element in the collection will be about half the measure of the first one, the third one will be about one-third the measure of the first one, and so on. In general, the k th-ranked item will measure about 1/k of the first one.
 
 ![](\img_the_new_marketplace.png)
 
-Ένας από τους πρωταρχικούς στόχους του συστήματος ανταμοιβής του Steem είναι να παράγει τις καλύτερες συζητήσεις στο διαδίκτυο. Κάθε χρόνο 10% της κεφαλαιοποίησης της αγοράς του Steem διανέμετε σε χρήστες που παραδίδουν, ψηφίζουν, και συζητώντας το περιεχόμενο. Στο μέγεθος του Bitcoin αυτό θα ήταν τόσο όσο $1.75 δισεκατομμύριο δολάρια καθημερινά που δίνονται στους κορυφαίους χορηγούς.
+Taking popularity as a rough measure of value, then the value of each individual item is given by Zipf’s Law. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
 
-Η πραγματική διανομή θα κριθεί στο μοτίβο ψήφισης των χρηστών, αλλά υποπτευόμαστε ότι η ογκώδης πλειοψηφία των ανταμοιβών θα διανεμηθούν προς το πιο διάσημο περιεχόμενο. Το Steem σταθμίζει τις πληρωμές αναλογικά σε \\(ν^{2}\\) του ποσού από Steem Power για το ψήφισμα για μια ανάρτηση. Με άλλα λόγια, η ανάρτηση χ θα λάβει πληρωμή αναλογική με:
+The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
 
-\\(votes[x]^{2} / sum(votes[0...n]^{2})\\)
+The economic effect of this is similar to a lottery where people overestimate their probability of getting votes and thus do more work than the expected value of their reward and thereby maximize the total amount of work performed in service of the community. The fact that everyone “wins something” plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
 
-Ο νόμος του Zipf[^7] είναι ένας από αυτούς τους εμπειρικούς κανόνες που χαρακτηρίζει ένα εκπληκτικό εύρος φαινομένων του πραγματικού κόσμου εξαιρετικά καλά. Λέει ότι αν παραγγείλουμε κάποια μεγάλη συλλογή με μέγεθος ή δημοτικότητα, το δεύτερο στοιχείο στην συλλογή θα είναι το ημίμετρο σε σχέση με το πρώτο, το τρίτο θα είναι περίπου το ένα τρίτο του πρώτου, και ούτω καθεξής. Γενικά το \\(k^{th}\\)-καταταγμένο θα είναι περίπου 1/k του πρώτου.
+### Payouts
 
-Παίρνοντας την δημοτικότητα σαν μια πρόχειρη εκτίμηση της αξίας, τότε η αξία κάθε ατομικού αντικειμένου θα δοθεί από το νόμο του Zipf. Αυτό είναι, αν έχουμε ένα εκατομμύριο αντικείμενα, τότε τα 100 πιο δημοφιλή θα συνεισφέρουν το ένα τρίτο της συνολικής αξίας, τα επόμενα 10.000 ένα άλλο τρίτο, και τα υπόλοιπα 989.900 το υπόλοιπο τρίτο. Η αξία αυτής της συλλογής των ν αντικειμένων είναι αναλογική με log(n).
+When a post receives a payout it takes the form of 50% SBD and 50% SP. The Steem Power give the user increased voting and transaction power while the SBD gives the user an immediate benefit in a stable currency. As we’ve already discussed at length, SP is designed to encourage long-term holding rather than short-term selling. This encourages more users to have a vested interest in the long-term success of the platform.
 
-Το αντίκτυπο αυτής της διανομής ψήφου και πληρωμής είναι για να προσφέρει μεγάλες αμοιβές για καλό περιεχόμενο καθώς ακόμη ανταμείβοντας τους μικρότερους παίχτες για την μακροπρόθεσμη συνεισφορά τους.
-
-Η οικονομική επίδραση πάνω σε αυτό είναι η ίδια με ενός λαχείου όπου οι παίχτες υπερεκτιμούν τις πιθανότητες τους να κερδίσουν ψήφους και έτσι κάνουν περισσότερη δουλειά από την αναμενόμενη αξία της ανταμοιβής τους και κατ’ αυτό τον τρόπο μεγιστοποιούν το συνολικό ποσό της δουλειάς που γίνεται στην υπηρεσία της κοινότητας. Το γεγονός ότι όλοι ‘κερδίζουν κάτι’ βασίζεται στην ίδια ψυχολογία που χρησιμοποιούν τα καζίνο για να έχουν ανθρώπους να τζογάρουν. Με άλλα λόγια, οι μικρές αμοιβές βοηθούν στην ενίσχυση της ιδέας ότι είναι δυνατόν να κερδίσεις ακόμα μεγαλύτερες αμοιβές.
-
-#### Ανταμείβοντας μητρικές αναρτήσεις
-
-Η καλή συνομιλία απαιτεί αναρτήσεις εμπρός και πίσω. Όταν απαντάς σε κάποιον άλλο, παίρνουν 50% οποιασδήποτε πληρωμής που θα λάβεις σε αυτό το thread. Αυτός ο κανόνας ισχύει μέχρι 6 επίπεδα βαθιά. Ξεκινώντας μια μεγάλη συζήτηση ανταμείβει σπουδαία τον μητρικό αναρτητή.
-
-Η αποτυχία να ενσωματώσεις τα σχόλια σου στην συζήτηση κατάλληλα είναι ένας καλός τρόπος να ψηφισθείς αρνητικά.
-
-Αυτό το κινητήριο χτίσμα παρακινεί τους ανθρώπους να συνεισφέρουν με ένα τρόπο που παρακινεί και άλλους να εμπλακούν. Ενθαρρύνει τους ανθρώπους να ρωτήσουν καλές ερωτήσεις ώστε οι άλλοι να μπορούν να παρέχουν πολύτιμες απαντήσεις.
-
-### Πληρωμές
-
-Όταν μια ανάρτηση λάβει μια πληρωμή θα πάρει την μορφή 50%SMD και 50%SP. Το Steem Power δίνουν στο χρήστη αυξημένη ψήφου και ανταλλαγής δύναμη καθώς το SMD δίνουν στον χρήστη ένα άμεσο όφελος σε ένα σταθερό νόμισμα. Όπως έχουμε είδη συζητήσει σε μάκρος, SP και SMD είναι σχεδιασμένα για να ενθαρρύνουν μακροπρόθεσμες κατοχές παρά βραχυπρόθεσμο πούλημα.
+Users also have the option to be paid in 100% SP, as well as decline payout on posts. When a user declines payout on a post, the money that would have been paid to them remains in the rewards pool, to be distributed to other users.
 
 # Αλγόριθμος Ομοφωνίας
 
-Η ομοφωνία είναι η διαδικασία κατά την οποία μια κοινότητα έρχεται σε μια παγκόσμια αναγνωρίσιμη, ξεκάθαρη συμφωνία πάνω σε ένα κομμάτι πληροφορίας. Υπάρχουν πολλοί αλγόριθμοι που η κοινωνία έχει αναπτύξει για να φτάσει σε μια ομοφωνία για το ποιός κατέχει τι. Κάθε κυβέρνηση στην Γη έχει ένα πρωτόγονο αλγόριθμο ομοφωνίας όπου ο πληθυσμός συμμορφώνεται από ένα συγκεκριμένο σετ κανόνων που είναι κατοχυρωμένο από ένα σύνταγμα. Οι κυβερνήσεις εγκαθιδρύουν δικαστήρια, δικαστές, και ενόρκους να ερμηνεύσουν τα υποκειμενικά γεγονότα και να προσφέρουν μια τελική απόφαση. Τις περισσότερες φορές οι άνθρωποι συμμορφώνονται με την απόφαση ακόμη και αν είναι λάθος.
+Consensus is the process by which a community comes to a universally recognized, unambiguous agreement on piece of information. There are many algorithms society has developed for reaching consensus about who owns what. Every government on earth is a primitive consensus algorithm whereby the population agrees to abide by a certain set of rules enshrined in a constitution. Governments establish courts, judges, and juries to interpret the subjective facts and render a final decision. Most of the time people abide by the decision even if it was wrong.
 
-Οι αλγόριθμοι που χρησιμοποιούνται από τα κρυπτονομίσματα προβιβάζουν ένα καλύτερο τρόπο για την επίτευξη ομοφωνίας. Κρυπτογραφικά υπογεγραμμένες μαρτυρίες από άτομα είναι καταγραμμένα σε δημόσια λογιστικά βιβλία που εγκαθιδρύουν την απόλυτη τάξη των γεγονότων. Ένας ντετερμινιστικός αλγόριθμος υπολογιστή μπορεί μετά να κατεργαστεί αυτό το λογιστικό βιβλίο για να εξάγει ένα παγκοσμίως αποδεκτό συμπέρασμα. Όσο τα μέλη της κοινότητας συμφωνούν στον αλγόριθμο κατεργασίας, το αποτέλεσμα του αλγόριθμου θα είναι επίσημο.
+The algorithms used by cryptocurrencies provide a better way to reach consensus. Cryptographically signed testimony from individuals is recorded in a public ledger that establishes the absolute global order of events. A deterministic computer algorithm can then process this ledger to derive a universally accepted conclusion. So long as the members of a community agree on the processing algorithm, the result of the algorithm is authoritative.
 
-Η κύρια σκέψη είναι η απόφαση ποιας μαρτυρίας επιτρέπετε να εισέλθει στο κοινωνικό αρχείο. Τα συστήματα θα πρέπει να είναι σχεδιασμένα για να ελαχιστοποιούν την πιθανότητα για λογοκρισία. Η λογοκρισία στο κοινωνικό λογιστικό βιβλίο είναι παρόμοια με την προτροπή κάποιου από το να μην ψηφίζει στις εκλογές. Και στις δύο περιπτώσεις το άτομο αποτρέπεται από το να έχει αντίκτυπο στην παγκόσμια ομοφωνία.
+The primary consideration is determining what testimony is allowed to enter the public record. Systems should be designed to minimize the potential for censorship. Censorship on the public ledger is similar to preventing someone from voting in an election. In both cases an individual is prevented from impacting the global consensus.
 
 ## Η Κοινή Συναίνεση στο Steem
 
-Εννοιολογικά, ο αλγόριθμος της κοινής συναίνεσης που έχει υιοθετήσει το Steem είναι παρόμιο του αλγορίθμου που έχουν υιοθετήσει πολλές εταιρίες σε όλο τον κόσμο. Άνθρωποι με περιβεβλημένο ενδιαφέρον για την μελλοντική αξία του Steem ψηφίζουν να επιλέξουν άτομα τα οποία είναι υπεύθυνα για την κατάθεση στη δημόσια εγγραφή. Η ψήφος ζυγίζεται αναλογικά με το περιβεβλημένο ενδιαφέρον του καθενός ατόμου.
+Conceptually, the consensus algorithm adopted by Steem is similar to the consensus algorithm adopted by companies throughout the world. People with a vested interest in the future value of Steem vote to select individuals responsible for including testimony in the public record. Voting is weighted proportional to each individual's vested interest.
 
-Στον κόσμο των cryptocurrencies, στη δημόσια εγγραφή συνηθίζεται να αναφερόμαστε ως *blockchain*. Ενα *block (φραγμός)* είναι ένα συγκρότημα από υπογεγραμμένες συναλλαγές.
+In the world of cryptocurrencies, the public record is commonly referred to as a *blockchain*. A *block* is a group of signed transactions.
 
-Με το Steem, η παραγωγή φραγμών γίνεται σε γύρους. Κάθε γύρο 21 μάρτυρες επιλέγονται για την δημιουργία και την υπογραφή φραγμών συναλλαγών. Δεκαεννέα (19) απο αυτούς του μάρτυρες επιλέγονται από ψηφοφορία σύμβασης, ένας επιλέγεται μέσω μιας υπολογιστικής απόδειξης εργάσίας, και ένας μοιράζατε από τον κάθε μάρτυρα ο οποίος δεν κατέληξε στους κορυφαίους 19 αναλογικά με τις ψήφους τους. Οι 21 ενεργοί μάρτυρες ανακατεύονται καθε γύρο με σκοπό να αποτρέψει τον μάρτυρα από την συνεχή παραμέληση των φραγμών που παράχθηκαν από τον ίδιο μάρτυρα που τοποθετήθηκε προηγουμένος.
+With Steem, block production is done in rounds. Each round 21 witnesses are selected to create and sign blocks of transactions. Twenty (20) of these witnesses are selected by approval voting and one is timeshared by every witness that didn’t make it into the top 20 proportional to their total votes. The 21 active witnesses are shuffled every round to prevent any one witness from constantly ignoring blocks produced by the same witness placed before. Any witness who misses a block and hasn't produced in the last 24 hours will be disabled until they update their block signing key.
 
-Αυτή η διαδικασία έχει σχεδιαστεί με στόχο να παρέχει την καλύτερη αξιοπιστία ενώ εξασφαλίζει ότι όλοι έχουν την ικανότητα να πάρουν μέρος στην παραγωγή φραγμών χώρις να πρέπει αυτοί να είναι αρκετά δημοφιλής για να ψηφιστούν εώς την κορυφή. Τα άτομα έχουν τρεις επιλογές για να υπερισχύσουν την λογοκρισία από τους 19 κορυφαίους εκλεγμενους μάρτυρες: η υπομονετική αναμονή στην ουρά μαζί με όλους οι οποίοι δεν βρίσκονται στους κορυφάιους 19, η αγορά αρκετής υπολογιστικής δύναμης για την λύση μιας απόδειξης εργασίας γρηγορότερα από άλλους, ή η αγορά περισσότερου SP (Steem Power) για την βελτίωση της δύναμης ψήφου. Μιλόντας γενικότερα, η εφαρμογή λογοκρισίας είναι ένας καλός τρόπος για τους εκλεγμένους μάρτυρες να χάσουν την δουλεία τους και επομένως, είναι απίθανο να υπάρξει αληθίνο πρόβλημα στον τομαία της λογοκρισίας στο δίκτυο Steem.
+This process is designed to provide the best reliability while ensuring that everyone has the potential to participate in block production regardless of whether they are popular enough to get voted to the top. People have three options to overcome censorship by the top 20 elected witnesses: patiently wait in line with everyone else not in the top 20, or purchase more SP to improve voting power. Generally speaking, applying censorship is a good way for elected witnesses to lose their job and therefore, it is unlikely to be a real problem on the Steem network.
 
-Επειδή η ενεργοί μάρτυρες είναι γνωστοί εκ των προτέρων, το Steem έχει την δυνατότητα να προγραμματήσει τους μάρτυρες να παράγουν φραγμούς κάθε 3 δευτερόλεπτα. Οι μάρτυρες συγχρονίζουν την παραγωγή φραγμών τους μέσω του προτόκολλου NTP. Μια παραλλαγή αυτού του αλγορίθμου χρησιμοποιείται από το δίκτυο BitShares για πάνω από έναν χρόνο όπου και έχει αποδειχθεί αξιόπιστη.
-
-## Μετάλλευση στο Steem
-
-Παραδοσιακή απόδειξη της εργασίας blockchains συνδιάζουν την παραγωγή φραγμών με την επίλυση μιας απόδειξης εργασίας. Επειδή η διαδικασία της επίλυσης μιας απόδειξης εργασίας διαρκεί ένα απρόβλεπτο χρονικό διάστημα, το αποτέλεσμα είναι απρόβλεπτα χρονικά διαστήματα παραγωγής φραγμών. Το Steem έχει στόχο να κατέχει σταθερές και αξιόπιστες παραγωγές φραγμών κάθε 3 δευτερόλεπτα χωρίς σχεδόν καμία πιθανότητα αποτυχίας.
-
-Για να το πετύχει αυτό, το Steem διαχωρίζει την παραγωγή φραγμών από την επίλυση απόδειξης εργασίας. Όταν ένας μεταλλευτής (miner) επιλύει μια απόδειξη εργασίας για το Steem, αναμεταδίδει μια συναλλαγή η οποία περιέχει το έργο. Ο επόμενος προγραμματισμένος μάρτυρας περιλαμβάνει την συναλλαγή εις το blockchain. Όταν γίνει αυτό και έχει περιλαμβάνει την συναλλαγή με επιτυχία ο μεταλλευτής προσθέτεται στην ουρά των μεταλλευτών οι οποίοι είναι προγραμματισμένοι να παράγουν φραγμούς. Κάθε γύρο ένας μεταλλευτής εξάγεται από την ουρά και περιλαμβάνεται στην ενεργή σειρά μαρτύρων. Ο μεταλλευτής πληρώνεται οταν παράγει την έναν φραγμό την στιγμή που έχει προγραμματιστεί.
-
-Η δυσκολία της απόδειξης εργασίας διπλασιάζεται κάθε φορά που το μήκος της ουράς μεγαλώνει κατά 4. Επειδή ένας μεταλλευτής εξάγεται από την ουρά κάθε γύρο, και ο κάθε γύρος παίρνει 21 \* 3 = 63 δευτερόλεπτα, η δυσκολία αυτόματα μειώνεται κατά το μισό εάν σε 21 \* 3 \* 4 = 252 δευτερόλεπτα δεν έχει βρεθεί απόδειξη εργασίας.
-
-### Οι ανταμοιβές μετάλλευσης απαιτούν Steem Power
-
-Μετά από τον πρώτο μήνα, οι μεταλλευτές του Steem πληρώνονται σε Steem Power (SP). Το SP εξοφλείται μέσω της διαδικασίας “powering down” η οποία διαρκεί δύο χρόνια. Αυτό σημαίνει ότι οι μεταλλευτές πρέπει να περιμένουν πολύ καιρό, πιθανότατα πολλούς μήνες, πριν οι ικανές ανταμοιβές μετάλλευσης εχουν γίνει “powered down” για να τους επιτρέψουν να ανακτήσουν το κόστος του ηλεκτρικού ρεύματος και των υπολογιστικών πόρων. The powering down process discourages creation of mining pools because the pool operator would have to spread payouts over years.
-
-Το αποτέλεσμα της πληρωμής των ανταμοιβών για την μετάλλευση (mining) γίνεται σε SP με σκοπό την αποτροπή των μεταλλευτών από την χρήση της σημερινής τιμής έτσι ώστε να προβλέψουν κέρδος. Λίγα άτομα θα συμφωνήσουν στο ποιά θα είναι η μελλοντική τιμή. Αυτό σημαίνει ότι η δυσκολία μετάλλευσης θα οδηγείται από αυτούς που τοποθετούν την υψηλότερη εκτίμηση στην μελλοντική αξία. Μεταλλευτές οι οποίοι δεν έχουν μακροχρόνιο ενδιαφέρον στην πλατφόρμα θα αποθαρρυνθούν από τον ανταγωνισμό. Τελικά αυτό σημαίνει ότι τα προϊόντα είσπραξης από την διαδικασία της μετάλλευσης είναι λιγότερο πιθανόν να καταβαλθούν στην αγορά διότι θα αποκομίσουν σε εκείνους που πιστεύουν στην πλατφόρμα μακροπρόθεσμα.
-
-### Αλγόριθμος Μετάλλευσης
-
-Ο αλγόριθμος μετάλλευσης τον οποίο έχει υιοθετήσει το Steem απαιτεί από τον μεταλλευτή να έχει πρόσβαση στο ιδιωτικό κλειδί του λογαριασμού που θα λάβει τις ανταμοιβές. Αυτή η απαίτηση έχει διάφορες σημαντικές συνέπειες. Πρώτον ενθαρύνει την βελτιστοποίηση των αλγορίθμων επαλήθευσης ελλειπτικης καμπύλης υπογραφής. Δεύτερον ενισχύει την δυσκολία στησίματος «κυψελών» διότι ο χειριστής είναι αναγκασμένος να μοιραστεί τον έλεγχο των ανταμοιβών με όλους τους “ανόνυμους” μεταλλευτές. Τρίτον, ενισχύει την δυσκολία χρήσης “botnets” διότι ο χειριστής botnet αναγκάζεται να διανέμει το ιδιωτικό κλειδί σε όλα τα συμβιβασμένα μηχανήματα.
-
-Ο παρακάτω ψευδοκώδικας περιγράφει πως η αξία της απόδειξη της εργασίας υπολογίζεται:
-
-    Let H    = Head Block ID
-    Let H2   = SHA256(H + NONCE)
-    Let PRI  = Producer Private Key
-    Let PUB  = Producer Public Key
-    Let S    = SIGN(PRI, SHA256(H))
-    Let K    = RECOVER_PUBLIC_KEY(H2, S)
-    Let POW  = SHA256(K)
-    
-
-### Αντίσταση σε Botnet
-
-Πολλά νομίσματα απόδειξης εργασίας καταλήγουν να μεταλλεύονται απο botnets. Ένα botnet είναι μια συλλογή χιλιάδων ή εκατομμυρίων μηχανημάτων που έχουν συμβιβαστεί από hackers. Οι hackers αυτοί κλέβουν τους υπολογιστικούς και ηλεκτρικούς πόρους των συμβιβασμένων μηχανημάτων με σκοπό την μετάλλευση κρυπτονομισμάτων.
-
-Το Steem έχει πολλές ιδιότητες οι οποίες αποτρέπουν αυτούς τους υπολογιστικούς κλέφτες από το να βγάλουν κέρδος. Οι χειριστές botnet είναι επιχειρήσεις αναζήτησης κέρδους και συνήθως πουλάνε τους κλεμένους αυτούς πόρους στον μεγαλύτερο πλειοδότη. Αυτό σημαίνει ότι εκείνοι οι οποίοι χρησιμοποιούν botnets πληρώνουν για την υπολογιστική δύναμη με τον ίδιο τρόπο που κάποιος χρησιμοποιεί το Amazon EC2. Η απαίτηση κατοχύρωσης του Steem σημαίνει οτι το κεφάλαιο το οποίο ξοδεύτηκε στην αγορά των πόρων του botnet θα είναι “κλειδωμένο” για μια μακριά περίοδο του χρόνου κατά την οποία ο χειριστής βρίσκεται εκτεθειμένος στην μεταβλητότητα της τιμής.
-
-Ένας άλλος τροπος με τον οποίο οι χειριστές botnet αποτρέπονται από την δημιουργία κέρδους είναι η απαίτηση διανομής του ιδιωτικού κλειδιού σε όλα τα συμβιβασμένα μηχανήματα. Εάν ακόμη και ένα από αυτά τα μηχανήματα ανακαλυφθεί, ο χειριστής έχει κίνδυνο να χάσει όλα του τα νομίσματα.
-
-Το τελευταίο μειωνέκτημα είναι η εξάρτηση από την αφάνεια. Τα περισσότερα botnets αποτελούνται από υπολογιστές με φτωχή σύνδεση στο διαδίκτυο, αυτες οι συνδέσεις θα μειώσουν δραματικά την αποτελεσματικότητα του υπολογιστικού πόρου.
-
-Πρέπει να περισσότερο κερδοφόρο και λιγότερο επικύνδινο για τους χειριστές botnet να χρησιμοποιήσουν τους πόρους τους για άλλες δραστηριότητες πέρα της μετάλλευσης STEEM.
-
-### Ανθεκτικότητα «Κυψελών» Μετάλλευσης
-
-Οι μεταλλευτές έχουν 3 δευτερόλεπτα να λάβουν έναν φραγμό, να λύσουν την απόδειξη εργασίας, και να μεταφέρουν την συναλλαγή στον επόμενο παραγωγό φραγμών. Πολύς από αυτόν τον χρόνο θα αποτελείται από την καθυστέρηση του δικτύου πράγμα το οποίο σημαίνει ότι είναι σημαντικό για τους μεταλλευτές να έχουν μια καλή σύνδεση στο δίκτυο έτσι ώστε να έχουν την πιό αποτελεσματική χρήση των υπολογιστικών τους πόρων.
-
-Επειδή ο ηγετικός φραγμός και η καθυστέρηση του δικτύου συνεχώς μεταβάλλονται, η προώθηση ενός προτύπου για την μετάλλευση ενός συγκεκριμένου φραγμού στους συμμετέχοντες μιας «κυψέλης» μετάλλευσης προσθέτει επιπλέον δικτυακή καθυστέρηση και μειώνει την αποδοτικότητα της μετάλλευσης «κυψελών» σημαντικά.
+Because the active witnesses are known in advance, Steem is able to schedule witnesses to produce blocks every 3 seconds. Witnesses synchronize their block production via the NTP protocol. A variation of this algorithm has been in use by the BitShares network for over a year where it has been proven to be reliable.
 
 # Εξαλείφοντας Τέλη Συναλλαγών
 
-Το Steem κάνει μια μεγάλη προσπάθεια στο να ανταμείψει τα άτομα τα οποία συμβάλλουν στο δίκτυο. Θα ήταν ανταπαραγωγικό να γινόταν χρέωση των ατόμων κάθε φορά που αυτοί προσπαθούσαν να έρθουν σε επαφή με την κοινότητα.
+Steem goes to great lengths to reward people for contributing to the network. It would be counterproductive to turn around and charge people every time they attempt to interact with the community.
 
-Η τεχνολογία των blockchains αυτή τη στιγμή βασίζεται στα τέλη συναλλαγών για να αποτρέψει την κατάχρηση. Αυτά τα τέλη είναι θύματα όλων των γνωστών προβλημάτων των μικροσυναλλαγών και αποτρέπουν τα blockchains στο να χρησιμοποιούνται για συναλλαγές μικρών τιμών. Οι αληθινά αποκεντρωμένες εφαρμογές πρέπει να προσφέρουν στους χρήστες την παρουσία δωρεάν συναλλαγών εάν έχουν σκοπό να ανταγωνιστούν τις κεντρικές εναλλαγές. Αυτό το χαρτί γραμμοσκιάζει τον τρόπο με τον οποίο το Steem εξαλείφει την ανάγκη για τέλη συνναλαγών και εκ τούτου καθιστά ικανό ένα ευρύ φάσμα αποκεντρωμένων εφαρμογών οι οποίες προηγουμένος ήταν αστήρικτες.
+Blockchain technology currently depends upon transaction fees to prevent spam. These fees suffer all of the known problems with microtransactions and prevent blockchains from being used for low-value transactions. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
 
-## Το Πρόβλημα με τα Τέλη Συναλλαγών
+## The Problem With Fees
 
-Τα blockchains είναι αποκεντρωμένα δίκτυα όπου όλες οι συναλλαγές αναμεταδίδονται σε όλους τους ισάξιους. Κάθε τόσο ένας φραγμός ο οποίος περιέχει όλες τις εκκρεμής συναλλαγές παράγεται. Όλα τα blockchains πρέπει να βρούνε κάποιον τρόπο να αποτρέψουν τους χαιρέκακους χρήστες από το να καταναλώσουν όλη την δικτυακή χωρητικότητα με ευτελής συναλλαγές. Αυτές οι ευτελής συναλλαγές μπορούν να αποτρέψουν άλλες πολύτιμες συναλλαγές από το να επεξεργάζονται και τελικά να καταστρέφουν το δίκτυο.
+Blockchains are decentralized networks where all transactions are broadcast to all peers. Every so often a block is produced that includes some or all of the pending transactions. All blockchains must find a solution to prevent malicious users from consuming all of the available network capacity with worthless transactions. These worthless transactions can prevent other valuable transactions from being processed and ultimately destroy the network.
 
-Η λύση η οποία υιοθετείτε από τα περισσότερα blockchains μέχρι τώρα είναι να υπάρχει μια ελάχιστη χρέωση για τις συναλλαγές. Τέλη τα οποία κοστίζουν έστω και μερικά cents είναι αρκετά για να κάνουν την επίθεση στο δίκτυο ακριβή και ασύμφορη. Μολονότι αυτή η προσέγγιση λύνει το πρόβλημα κατάχρησης, εισάγει νέα προβλήματα. Φανταστήτε να λύναμε το πρόβλημα της ανεπiθύμητης αλληλογραφίας email μέσω μιας μικρής χρέωσης για κάθε mail. Οι άνθρωποι δεν πρόκειται να χρησιμοποιούσαν πλέων email.
+The solution adopted by most blockchains thus far is to charge a minimum transaction fee. A fee worth just a few cents is enough to make attacking the network expensive and unprofitable. While this approach solves the spam problem, it introduces new problems. Imagine solving the email spam problem by introducing a small fee on every email; people wouldn’t use email.
 
-### Οι Μικροπληρωμές Δεν Λειτουργούν
+### Micropayments Don’t Work
 
-Το θεμελιώδες πρόβλημα της χρέωσης για τα τέλη συναλλαγής είναι ότι οι μικροπληρωμές δεν λειτουργούν, ειδικά για μικρής αξίας πράξεις χρηστών. Όταν γίνεται μια χρέωση επάνω σε κάθε συναλλαγή, περιορίζει τους τύπους συναλλαγών που ένα αποκεντρωμένο δίκτυο μπορεί να επεξεργαστεί. Ανεξάρτητα απο το πόσο ορθολογιστικό είναι το επιχείρημα της ανάγκης χρεώσεων, οι χρήστες εξακολουθούν να αντιπαθούν την πληρωμή μικρών χρεώσεων για την οποιαδήποτε πράξη τους.
+The fundamental problem with charging transaction fees is that micropayments don’t work, especially for low-value user actions. When a fee is charged on every transaction, it limits the types of transactions that a decentralized network can process. Regardless of how rational the argument for the necessity of fees, users still hate the experience of being nickeled and dimed for everything that they do.
 
-Φανταστήτε αν οι ιστοσελίδες που χρησιμοποιούμαι καθημερινά θέτανε μια μικρή χρέωση κάθε φορά που αλλάζαμε τον κωδικό πρόσβασης του λογαριασμού μας. Οι χρήστες αναμένουν ορισμένα πράγματα να είναι δωρεάν. Απαιτώντας απο τους χρήστες να πάρουν την απόφαση για το αν μια πράξη αξίζει την μικρή αυτή χρέωση δημιουργεί ανησυχία η οποία γίνεται αιτία αποχώρησης των χρηστών.
+Imagine if the websites we use every day charged us a fee every time we modify our accounts by changing the password. Users expect certain things to be free. Requiring users to make a decision on whether or not an action is worth a small fee creates anxiety that causes users to leave. A transaction can’t be worth so much as to require a decision but worth so little that that decision is automatic. There is a certain amount of anxiety involved in any decision to buy, no matter how small, and it derives not from the interface used or the time required, but from the very act of deciding.
 
-> Μια συναλλαγή δεν μπορεί να αξίζει τόσο πολύ ώστε να χρειάζεται μια απόφαση αλλά να αξίζει τόσο λίγο που αυτή η απόφαση είναι αυτόματη. Υπάρχει μια συγκεκριμένη ποσότητα ανυσηχίας εμπλεγμένη σε κάθε απόφαση αγοράς, χωρίς να έχει σημασία πόσο μικρή, και δεν προέρχεται από την διεπαφή που χρησιμοποιείται ή απο τον χρόνο που απαιτείται, αλλά από την πράξη της απόφασης.  
-> Οι μικροπληρωμές, όπως και όλες οι πληρωμές. Απαιτούν την σύγκριση: “Αξίζει αυτή η ποσότητα του Χ όσο αξίζει αυτή η ποσότητα του Ψ;” Υπάρχει ένα ελάχιστο διανοητικό κόστος το οποίο δημιουργείται από το γεγονός αυτό που δεν μπορεί να απομακρυνθεί, διότι η μόνη συναλλαγή που ένας χρήστης δέχεται να κάνει χωρίς να σκεφτεί είναι η πράξη αυτή η οποία του κοστίζει τίποτα, η οποία αυτή συναλλαγή δεν είναι καν συναλλαγή.
-> 
-> *- Clay Shirky[^8]*
+Micropayments, like all payments, require a comparison: *“Is this much of X worth that much of Y?”* There is a minimum mental transaction cost created by this fact that cannot be optimized away, because the only transaction a user will be willing to approve with no thought will be one that costs them nothing, which is no transaction at all.
 
-Στον κόσμο των οικομικών συναλλαγών, οι μικρές χρεώσεις είναι αποδεκτές διότι η αξία των συναλλαγών είναι τεράστια σε σχέση με την μικρή αυτή χρέωση, και ο αγοραστής έχει είδη πάρει την απόφαση να αγοράσει. Ο κόσμος των ενδεχόμενων εφαρμογών blockchain είναι πολύ μεγαλύτερος από απλά οικονομικές πληρωμές και περιλαμβάνει πολλές απαραίτητες συναλλαγές για τις οποίες οι χρεώσεις είναι απλά απαράδεκτες για τους χρήστες.
+– Clay Shirky[^8]
 
-Συστήματα όπως το BitShares, Nxt, Ripple, Counter Party and Stellar επιτρέπουν στους χρήστες να θέσουν εντολές ορίου στο blockchain και όλες τους χρεώνουν τους χρήστες μια μικρή χρέωση για να εκτελέσουν την πράξη αυτή. Έπειτα εάν ο χρήστης θέλει να ακυρώση την εντολή του, υπάρχει μια επιπλέον χρέωση. Συστήματα όπως το Ethereum πέρνουν μικροπληρωμές σε ένα εντελός νέο επίπεδο: χρέωση ανα υπολογισμό. Όλα αυτά τα συστήματα αγωνίζονται να προσελκύσουν νέους τυπικούς χρήστες για τους ίδιους λόγους που μια αποκεντρωμένη μηχανή αναζήτησης θα δυσκολευόταν να προσελκύσει χρήστες από την Google εάν έβαζε μια μικρή χρέωση για κάθε αναζήτηση. Δεν παίζει ρόλο πόσο καλή η υπηρεσία είναι, οι άνθρωποι αναμένουν ορισμένα πράγματα να είναι δωρεάν. Αυτό είναι αλήθεια ακόμη και αν ένας χρήστης καταλήξει να πληρώσει περισσότερα ολικά κάτω απο μια διαφορετική δομή χρέωσης.
+In the world of financial payments, small fees are acceptable because the value of the transaction is extremely high relative to the fee charged, and the buyer has already made a decision to buy. The world of potential blockchain applications is far greater than just financial payments and includes many necessary transactions for which fees are simply unacceptable to users.
 
-### Οι Χρεώσεις Αποτελούν Εμπόδιο Εισόδου
+Systems like BitShares, Nxt, Ripple, Counter Party and Stellar all allow users to place limit orders on the blockchain and all of them charge users a small fee to perform this action. Later if the user wishes to cancel their order, another fee is charged. Systems like Ethereum take micropayments to a whole new level: charging per calculation. All of these systems struggle to attract new mainstream users for the same reasons that a decentralized search engine would struggle to attract users from Google if it charged a small fee for every search. It doesn’t matter how good the service is, people expect certain things to be free. This is true even if a user ends up paying more overall under a different fee structure.
 
-Οποιαδήποτε χρέωση δημιουργεί εμπόδια για νέους χρήστες. Πριν κάποιος θελήσει να πειραματστεί με Ethereum πρέπει πρώτα να αποκτήσει ETH tokens. Όποιος θέλει να χτίσει μια αποκεντρωμένη εφαρμογή επάνω στο Ethereum πρέπει να δώσει το κόστος στους πελάτες του. Η αγορά ενός κρυπτονομίσματος δεν είναι εύκολο έργο και σπάνια βγάζει νόημα για ποσότητες μικρότερες των $10. Αυτό σημαίνει ότι οι νέοι χρήστες οι οποίοι θέλουν να δοκιμάσουν μια νεα αποκεντρωμένη εφαρμογή πρέπει πρώτα να αποφασίσουν να ξοδέψουν $10.
+### Fees are a Barrier to Entry
 
-### Αλλάζοντας Τις Χρεώσεις
+Any fee creates a barrier to entry for new users. Before someone can experiment with Ethereum they must acquire some ETH tokens. Anyone wanting to build a decentralized application on Ethereum must pass on the cost to their customers. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
 
-Με την πάροδο του χρόνου ένα δίκτυο πρέπει να προσαρμόζει τις χρεώσεις. Αυτό μπορεί να συμβεί για την αύξηση της αξίας του κέρματος ή για το φούσκωμα της χωρητικότητας. Στους χρήστες αρέσουν οι προβλεπόμενες χρεώσεις και η εξασφαλισμένη εξυπηρέτηση. Ενώ είναι δυνατόν να ρυθμίζονται δυναμικά οι χρεώσεις κατά περιόδους βαριάς χρήσης, το αποτέλεσμα είναι η φτωχή εμπειρία του χρήστη.
+### Changing Fees
 
-### Επιθέσεις Sybil
+Over time a network must adjust fees. This can happen either due to an increase in the value of the token or due to a surge in capacity. Users like predictable fees and guaranteed service. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
 
-Οι κεντρικές ιστοσελίδες αποτρέπουν την κατάχρηση βάζοντας οριακό κόστος και μέσω μιας μορφής επαλήθευσης ταυτότητας. Κάτι όσο απλό όσο το reCAPTCHA [^9] είναι αρκετό για να περιορίσει την δημιουργία ψεύτικων λογαριασμών. Εάν κάποιος κάνει κατάχρηση του λογαριασμού του τότε οι κεντρικές ιστοσελίδες έχουν το δικαίωμα να του εμποδίσουν τον λογαριασμό.
+### Sybil Attacks
 
-Σε ένα αποκεντρομένο σύστημα δεν υπάρχει άμεσος τρόπος να εμποδίσουμε χρήστες ούτε κάποιος κεντρικός προμηθευτής ο οποίος έχει την δυνατότητα να φιλοξενήσει το reCAPTCHA και να επιβάλλει οριακό κόστος των λογαριασμών. Στην πραγμοατικότητα, η αδυναμία της λογοκρισίας των χρηστών είναι ένα από τα κύρια πλεωνεκτήματα της τεχνολογίας των blockchains.
+Centralized websites prevent spam through rate limiting and some form of ID verification. Even something as simple as reCAPTCHA[^9] is sufficient to limit the creation of fake accounts. If someone abuses their account then centralized websites are free to block the account.
 
-### Πλήρες Απόθεμα Εναντίον Κλασματικό Απόθεμα
+In a decentralized system there is no direct way to ban users nor centralized provider able to host a reCAPTCHA and enforce rate limiting of accounts. In fact, the inability to censor users is one of the main selling points of blockchain technology.
 
-Ας δούμε ένα blockchain σαν έναν πάροχο Internet ο οποίος κατέχει όλα τα καλώδια στην πόλη και έχει μια μέγιστη ποσότητα εύρους ζώνης που μπορεί να παρέχει κάθε στιγμή. Οι πολίτες μπορούν να αγοράσουν μετοχές του παρόχου αυτού και ως αντάλλαγμα μπορούν να χρησιμοποιήσουν ένα μερίδιο του διαθέσιμου εύρους ζώνης.
+### Full Reserve vs Fractional Reserve
 
-Ο πάροχος έχει δυο επιλογές, να χρησιμοποιήσει ένα σύστημα “πλήρους αποθέματος” ή ένα σύστημα “κλασματικού αποθέματος”. Υπο ένα σύστημα πλήρους αποθέματος στον κάθε χρήστη επιτρέπεται ένα κομμάτι του μέγιστου εύρος ζώνης αναλογικά με τις μετοχές του. Επειδή δεν χρησιμοποιούν όλοι το Internet την ίδια στιγμή, το διαδίκτυο της πόλης θα ήταν σημαντικά υποχρησιμοποιημένο.
+Let’s view a blockchain like an Internet Service Provider (ISP) co-op which owns all of the cables in the town and has a maximum amount of bandwidth that it can provide at any time. People living in the town can buy shares in the ISP and in exchange they are entitled to utilize a portion of the available bandwidth.
 
-Υπο ένα σύστημα κλασματικού αποθέματους ο κάθε χρήστης μπορεί να χρησιμοποιήσει περισσότερο εύρος ζώνης από αυτό που του έχει εξουσιοδοτηθεί οποιαδήποτε στιγμή αρκεί να μην χρησιμοποιούνε το Internet όλοι οι χρήστες την ίδια στιγμή. Το πρόβλημα με την χρήση κλασματικού αποθέματος είναι ότι δημιουργείται συμφόρηση οποιαδήποτε στιγμή πάρα πολλοί άνθρωποι επιθυμούν να χρησιμοποιήσουν το διαδύκτιο. Ο πάροχος έχει ανάγκη ενός τρόπου με τον οποίο θα δίνει προτεραιότητα σε περιόδους συμφόρησης. Στην πιο υπερβολική περίπτωση, το σύστημα κλασματικού αποθέματος πρέπει να γυρίσει σε σύστημα πλήρους αποθέματος. Η πρόκληση είναι η τοποθέτηση κατάλληλης αναλογίας κλασματικού αποθέματος.
+The ISP has two choices, run a “full reserve” or “fractional reserve” system. Under a full reserve system each user is only allowed a fraction of the maximum bandwidth proportional to her shares. Because not everyone uses the Internet at the same time, the town’s network would be significantly underutilized.
 
-## Εύρος Ζώνης Αντί Για Κανάλια Μικροπληρωμών
+Under a fractional reserve system the individual users could utilize more bandwidth than they are entitled to at any given point in time so long as not everyone uses the Internet at the same time. The problem with operating a fractional reserve is that congestion occurs anytime too many people wish to use the network at the same time. The ISP needs a way to prioritize bandwidth during congested periods. In the most extreme case, a fully congested network must revert to a full reserve system. The challenge is setting the proper fractional reserve ratio.
 
-Η λύση στα προβλήματα των μικροπληρωμών είναι η εκτέλεση εφαρμογή *δυναμικών κλασματικών αποθεμάτων*. Κάτω από αυτό το μοντέλο το blockchain θα ρυθμίζει αυτόματα την αναλογία κλασματικού αποθέματος του δικτύου σε περιόδους συμφόρησης. Το blockchain θα θέτει έναν στόχο χρησιμοποίησης το οποίο αφήνει αρκετό χώρο για απαιτούμενα βραχυπρόθεσμα κύματα. Οποιαδήποτε στιγμή τα κύματα συντηρούνται το blockchain μειώνει το μέγιστο εύρος ζώνης για κάθε μετοχή. Όταν ένα κύμα ολοκληρώνεται και υπάρχει πλεονάζουσα παραγωγική ικανότητα το blockchain μπορεί σιγά σιγά να αυξήσει το εύρος ζώνης για κάθε μετοχή.
+## Bandwidth Instead of Micropayment Channels
 
-Το εύρος ζώνης το οποίο χρησιμοποιείται από έναν χρήστη πρέπει να υπολογίζεται σε μια κατάλληλη μακροχρόνια περίοδο για να επιτρέψει σε αυτόν τον χρήστη να μεταβάλλει χρονικά την χρήση του. Οι χρήστες συνηθίζουν να συνδέονται, να κάνουν πολλά πράγματα ταυτόχρονα και έπειτα να αποσυνδέονται. Αυτό σημαίνει ότι το εύρος ζώνης τους σε μια βραχυχρόνια περίοδο του χρόνου μπορεί να φανεί πολύ υψηλότερη σε σχέση με το πως θα φαινόταν σε μια μεγαλύτερη περίοδο του χρόνου. Εαν το χρονικό περιθώριο τεντωθεί πολύ μακριά τότε η αναλογία των αποθεμάτων δεν θα ρυθμιστεί αρκετά γρήγορα για να αποκριθεί σε κύματα μικρής διαρκείας, αν το χρονικό περιθώριο είναι πολύ μικρό τότε η μαζεμένη χρήση θα έχει πολύ μεγάλο αντίκτυπο στους κανονικούς χρήστες.
+The solution to the problems with micropayments is in implementing *dynamic fractional reserves*. Under this model the blockchain will automatically adjust the reserve ratio for the network during times of congestion. The blockchain will set a target utilization that leaves enough headroom for short term surges in demand. Any time the surges are sustained the blockchain reduces the maximum bandwidth-per-share. When a surge is over and there is surplus capacity the blockchain can slowly increase the bandwidth-per-share.
 
-Βάση της εκτίμησης μας πρέπει να είναι αρκετό το να μετρήσουμε τη μέση εβδομαδιαία χρήση εύρους ζώνης από τους χρήστες. Κάθε φορά που ένας χρήστης υπογράφει μια συναλλαγή, η συναλλαγή αυτή εκχωρείται στον κινητό του μέσο όρο. Οποιαδήποτε στιγμή ο κινητός μέσος όρος ενός χρήστη ξεπεράσει το τρέχων όριο δικτύου η συναλλαγή του καθυστερείται μέχρι ο κινητός μέσος όρος του να πέσει πιο χαμηλά από το όριο.
+Bandwidth used by an individual user should be measured over a suitably long period of time to allow that user to time-shift their usage. Users tend to login, do many things at once, then logout. This means that their bandwidth over a short period of time may appear much higher than if viewed over a longer period of time. If the time window is stretched too far then the reserve ratio will not adjust fast enough to respond to short-term surges, if the window is too short then clustering usage will have too big of an impact on normal users.
 
-### Παράδειγμα Εκτέλεσης
+In our estimate it should be sufficient to measure the average weekly bandwidth usage of users. Every time a user signs a transaction, that transaction is factored into their own individual moving average. Any time a user’s moving average exceeds the current network limit their transaction is delayed until their average falls below the limit.
 
-Ας θέσουμε το B ως τον μέσο όρο εύρους ζώνης ενός χρήστη σε έναν χρόνο T. Ας θέσουμε το W ίσο με τον αριθμό των δευτερολέπτων κάθε εβδομάδας, και το N ίσο με το μέγεθος της νέας συναλλαγής που συνέβει S δευτερόλεπτα μετά απο το T. Έχοντας τις πληροφορίες αυτές το blockchain μπορεί να υπολογίσει τον νέο μέσο εύρος ζώνης για έναν χρήστη, δηλαδή:
+### Impact of Capacity
 
-    Bnew = MIN(0,B * (W - S) / W) + N * S / W
-    Tnew = T + S
-    
+Blockchain capacity isn’t necessarily capped. It is well within the technological capability of internet infrastructure to increase the Bitcoin block size to 10MB which in turn will reduce the minimum required balance by a factor of 10. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second.
 
-Κάθε χρήστης έχει δικαίωμα σε ένα μέσο εβδομαδιαίο εύρος ζώνης:
+### Comparison to Fees
 
-    Θέτουμε U = Το SP του χρήστη
-    Θέτουμε S = Ο συνολικός αριθμός SP
-    Θέτουμε R = Η τρέχων αποθεματική αναλογία ανάμεσα στο 1 και το Rmax
-    Θέτουμε C = Η μέγιστη χωρητικότητα μεγέθους φραγμών που τίθεται από μάρτυρες
-    Θέτουμε L = Οι συνολικοί φραγμοί ανά εβδομάδα
-    Θέτουμε M = C * L * R
-    Κατανομή = M * U / S
-    
+If we assume a user with $25 dollars worth of BTC transacts once per week and pays a $0.04 cent fee each time then they would pay over $2.00 in fees per year. A user would have to earn a 8% rate of return on their $25 dollars just to break even with paying fees. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
 
-Ένας χρήστης έχει δικαίωμα σε ένα μέσο εύρος ζώνης M \* U / S. Οποιαδήποτε στιγμή μια συναλλαγή θα έκανε τον μέσο όρο του χρήστη να αυξηθεί παραπάνω από αυτό το κατώφλι γίνεται αδύνατο για αυτόν τον χρήστη να κάνει συναλλαγή μέχρι να περάσει αρκετός χρόνος έτσι ώστε να μειωθεί ο μέσος όρος.
+### Account Creation
 
-Το δίκτυο έχει την ικανότητα να αυξήσει την αναλογία αποθεμάτων, οποιαδήποτε στιγμή οι φραγμοί είναι λιγότερο από την μισή χωρητικότητα που στοχέυουμε και να την μειώσει οποιαδήποτε στιγμή είναι μεγαλύτεροι από την μισή. Ο αλγόριθμος που χρησιμοποιείται για να ρυθμίσει το R είναι σχεδιασμένος να αντιδρά γρήγορα με σκοπό να μειώσει την αναλογία αποθεμάτων όταν υπάρχει ένα κύμα σε ζήτηση, ενώ λειτουργεί σιγά για να αυξήσει την αναλογία σε περιόδους χαμηλής ζήτησης.
+Steem’s account-based system with publicly known balances simplifies the implementation of the bandwidth-based rate limiting algorithm. Any account with a balance below the minimum required to transact once per week would be unable to transact. This implies that all new accounts should be funded with at least this minimum balance. It also implies that users wishing to transact in smaller amounts can, so long as they hold a larger balance and reuse the account.
 
-Η ελάχιστη αναλογία αποθεμάτων είναι 1, και η μέγιστη πρέπει να υπολογίζεται έτσι ώστε να αποτρέπει τους μικρά ενδιαφερόμενους από το να καταναλώνουν όλο το διαθέσιμο εύρος ζώνης. Εάν κανένας δεν χρησιμοποιεί το διαθέσιμο εύρος ζώνης τότε η αναλογία αποθέματος μπορεί να μεγαλώσει μέχρι ένας χρήστης με μόνο 1 satoshi του νομίσματος να μπορεί να διεξάγει όλους τους φραγμούς.
+It is possible for a low-balance account created during a time of low usage to become inaccessible if the network usage picks up. The funds could be recovered at any time by temporarily delegating a larger balance to the account.
 
-### Μελέτη Περίπτωσης: Bitcoin
+In order to maintain a reasonable user experience with a minimum number of hung accounts, all new accounts should start out with a balance 10 times the minimum required to transact weekly. This way even if demand increases by a factor of 10 the account will remain viable.
 
-Για να καταλάβουμε πως θα λειτουργούσε αυτός ο αλγόριθμος στο Bitcoin είναι απαραίτητο να εκτιμήσουμε μια λογική τιμή για την αναλογία αποθέματος, R, με βάση την πραγματική χρήση. Βασισμένο στη συνολική προμήθεια 15 εκατομμυρίων Bitcoin και ενός ημερήσιου όγκου συναλλαγής 400 χιλιάδων Bitcoin[^10], μπορούμε να αντλήσουμε μια ελάχιστη αναλογία αποθεμάτων του 38 για το Bitcoin. Χρησιμοποιώντας τις εξισώσεις μπορούμε να υπολογίσουμε το εβδομαδιαίο εύρος ζώνης (σε bytes) που επιτρέπεται ανα Bitcoin:
+Any initial account balance would have to come from the user creating the account and not from token creation due to the potential for sybil attacks.
 
-    Θέτουμε C = 1MB = 1024 * 1024
-    Θέτουμε L = 1008 (φραγμούς ανα εβδομάδα)
-    Θέτουμε R = 38
-    Θέτουμε S = 14000000 BTC (προμήθεια πλην τα ακίνητα νομίσματα του Satoshi)
-    Θέτουμε U = 1 BTC
-    CLR/S = 2869 bytes ανα εβδομάδα, ή περίπου 5 συναλλαγές/εβδομάδα ανα Bitcoin
-    
+### Justifying Minimum Balances
 
-Εφόσον το R = 38 είναι χαμηλότερο όριο στην αναλογία αποθεμάτων, το CLR/S είναι ένα χαμηλότερο όριο στο επιτρεπόμενο εύρος ζώνης. Αυτή η απλή μελέτη περίπτωσης υποδηλώνει ότι ένας χρήστης θα χρειαστεί το πολύ 0.20 Bitcoin (πάνω από $80 αυτή την στιγμή) για να διεξάγει μια φορά την εβδομάδα. Ωστόσο, αυτό είναι ένα ευκοίλιο ανώτερο όριο προερχόμενο από την υπόθεση ότι όλα τα Bitcoin είναι το ίδιο ευκίνητα. Αυτό δεν συμβαίνει – χρήστες με ντουζίνες ή εκατοντάδες bitcoins δεν διεξάγουν απαραίτητα ντουζίνες ή εκατοντάδες φορές την εβδομάδα! Οι “υπολειπόμενες” συναλλαγές που αυτοί οι χρήστες θα “έπρεπε” να είχαν κάνει θα αυξήσουν την αναλογία αποθεμάτων, επιτρέποντας το αχρησιμοποίητο εύρος ζώνης να “ανακυκλωθεί” για μικρότερους χρήστες.
+The concept of forcing users to maintain a minimum balance flows naturally from the value of a user[^10]. Anyone running a business knows that every single user has significant value. Businesses spend anywhere from $30 to $200 to acquire a user. Sometimes they pay users directly, other times they pay for advertizing, and still other times entire companies are bought just for their user base. After a company acquires a user they often given them many *free services* just to keep them around long enough to monetize them through some other means.
 
-Όλες οι παραπάνω εκτιμήσεις είναι συντηρητικά ανώτερα όρια θεωρώντας ότι τα νομίσματα και η χρήση διανέμονται σε ένα σχετικά επίπεδο τρόπο. Η πραγματικότητα είναι ότι οι βαριοί χρήστες, όπως οι συναλλαγές, έχουν πολύ μεγαλύτερη αναλογία νομίσματος-προς-χρήση από τους ελαφρότερους χρήστες, που συμπερασματικά σημαίνει ότι οι πραγματικές ελάχιστες απαιτήσεις ισολογισμού είναι πολύ χαμηλότερες.
+Ripple uses a minimum balance[^11] that scales with account resource use and requires that new accounts get funded with at least this minimum balance. Currently this minimum balance is about $0.15 which is greater than the $0.10 we estimated would allow someone to transact freely at least once per week.
 
-#### Το Αντίκτυπο Της Χωρητικότητας
+A blockchain can enforce a minimum value per user through the simple process of requiring a minimum balance. Any business that wishes to bring a new customer to the blockchain can pre-fund that user’s account with the minimum balance that would allow them to transact. Requiring a relatively large fee ($1.00) to sign up new users will naturally force anyone offering free accounts to vet the quality and uniqueness of each account before registering them with the blockchain.
 
-Η χωριτηκότητα ενός blockchain δεν έχει απαραίτητα κάποιο όριο. Είναι καλά μέσα στις τεχνολογικές ικανότητες της υποδομής του internet το να αυξήσει το μέγεθος φραγμού του Bitcoin στα 10ΜΒ που με τη σειρά του θα μειώσει τον ελάχιστο απαιτούμενο ισολογισμό κατά ένα συντελεστή του 10. Ενώ το Bitcoin αυτή την στιγμή υποστηρίζει περίπου 3 συναλλαγές ανα δευτερόλεπτο, εναλλακτικές υλοποιήσεις έχουν την ικανότητα να εκτελέσουν πάνω απο 1000 συναλλαγές το δευτερόλεπτο. Αυτό αλλάζει το συντηριτικό ανώτερο όριο μας σε 0.0006 Bitcoin ή περίπου $0.25, που σημαίνει ότι ένας λογαριασμός ο οποίος κρατάει $0.25 θα έχει την δυνατότητα να διεξάγει τουλάχιστον μια φορά την εβδομάδα κατά μέσο όρο (και πιθανότατα πολύ περισσότερες φορές διότι ασχολούμαστε με ένα αρκετά ευκοίλιο ανώτερο όριο).
+Maintaining a minimum balance is effectively the same as making users pay transaction fees with the interest they could have earned on their balance. The minimum balance is simply the balance required to earn enough interest to pay a fee in a relatively short period of time.
 
-#### Μέγιστος Αριθμός Μοναδικών Χρηστών
+Fortunately, the minimum balance required can be as low as a dollar and this is something users can understand and appreciate. The opportunity cost of lost interest doesn’t incur the cognitive cost of a micro-fee and is far more acceptable to users.
 
-Μπορούμε να χρησιμοποιήσουμε παρόμοια μαθηματικά για να υπολογίσουμε τον μέγιστο αριθμό μοναδικών χρηστών που το δίκτυο θα επιτρέψει να κάνουν συναλλαγή μια φορά ανα εβδομάδα: B\*W/T. Το T παριστάνει το μέσο μέγεθος συναλλαγής. Αυτό σημαίνει ότι το Bitcoin θα μπορουσε να υποστηρίξει περίπου 2 εκατομμύρια χρήστες οι οποίοι κάνουν μια συναλλαγή την εβδομάδα υποθέτοντας πως ο κάθε χρήστης είχε ίδιο ισολογισμό.
+The STEEM used to pre-fund an account is Powered Up in the new account (i.e., converted to Steem Power). A portion of the SP used to fund a new account may be delegated from the creator of the account. When a user is delegated SP, they may use the SP for voting and bandwidth purposes as if it were their own, but the ownership of the SP remains with the user who delegated it. A user may remove the delegation at any time. After a cool-down period, the SP is returned to their account.
 
-#### Σύγκριση Με Τα Τέλη
+### Effectiveness Relative to Fees
 
-Εάν υποθέσουμε ότι ένας χρήστης με Bitcoin αξίας $25 δολαρίων διεξάγει μια φορά την εβδομάδα και πληρώνει τέλη τα οποία κοστίζουν $0.04 κάθε φορά τότε θα πλήρωνε πάνω από $2.00 σε τέλη των χρόνο. Ένας χρήστης θα έπρεπε να αποκτά ένα ποσοστό απόδοσης 8% στα $25 δολάρια του μόνο για να καλύψει πληρωμή τελών. Οι πιθανότητες είναι ότι οι χρήστες θα κρατάγανε τα χρήματα τους στο blockchain εν πάση περιπτωση, οπότε αυτός ο χρήστης ο οποίος έχει στην κατοχή του Bitcoin αξίας $25 μόλις έσωσε $2 στην περίοδο ενός χρόνου υιοθετώντας μια προσέγγιση ορίου της αναλογίας αντί μιας προσέγγισης η οποία βασίζεται στα τέλη. Με μονάχα $175 μπορούν να διεξάγουν καθημερινά και να γλιτώνουν $14 ανα χρόνο.
+To compare the effectiveness of rate limiting to fees we must consider how the two systems react to intentional network flooding by an attacker. Under Bitcoin an attacker with $10,000 dollars could disrupt service for an entire day by filling every single block. The same attacker would be unable to disrupt service for even a single block under the dynamic fractional reserve rate limiting approach.
 
-### Δημιουργία Λογαριασμου
+If we go to a more extreme case and assume the attacker holds 1% of all coins then we presume an attacker with $60 million dollars. Such an attacker could deny the Bitcoin blockchain service for 16 years unless the miners increased fees or capacity. Even if fees were raised to $15 per transaction, the attacker could still keep the network flooded for 16 days.
 
-Το βασισμένο σε λογαριασμούς σύστημα του Steem με δημόσια γνωστούς ισολογισμούς κάνει πιο απλή την εκτέλεση του βασισμένου στο εύρος ζώνης αλγορίθμου ορίου αναλογίας. Οποιοςδήποτε λογαριασμός με ισολογισμό μικρότερο από το ελάχιστο απαιτούμενο για να μπορεί να γίνει μια συναλλαγή μια φορά την εβδομάδα είναι αδύνατον να διεξάγει. Αυτό υποδηλώνει ότι όλοι οι νέοι λογαριασμοί πρέπει να χρηματοδοτούνται με τουλάχιστον αυτόν τον ελάχιστο ισολογισμό. Επίσης υποδηλώνει ότι οι χρήστες οι οποίοι επιθυμούν να διεξάγουν μικρότερες ποσότητες μπορούνε να το κάνουν, εφόσον έχουν μεγαλύτερο ισολογισμό και επαναχρησιμοποιήσουν τον λογαριασμό.
+Under the rate limiting approach, someone who holds 1% of all coins with an intent to flood the network would achieve their goal for less than 30 seconds.
 
-Είναι δυνατόν για έναν λογαριασμό χαμηλού ισολογισμού που δημιουργήθηκε σε μια περίοδο χαμηλής χρήσης να γίνει απρόσιτος εάν η χρήση του δικτύου σηκωθεί. Τα χρήματα μπορούνα να ανακτηθούν οποιαδήποτε στιγμή μεταφέροντας έναν μεγαλύτερο ισολογισμό μέσα στον λογαριασμό.
+### Renting vs. Buying vs. Time Sharing
 
-Για να συντηρηθεί μια κατάλληλη εμπειρία του χρήστη με έναν ελάχιστο αριθμό κρεμασμένων λογαριασμών, όλοι οι νέοι λογαριασμοί πρέπει να ξεκινάνε με έναν ισολογισμό 10 φορές μεγαλύτερο από τον ελάχιστο που χρειάζεται για εβδομαδιαίες εξαγωγές. Με αυτόν τον τρόπο ακόμα και αν η ζήτηση αυξηθεί κατά ένα συντελεστή του 10 ο λογαριασμός θα παραμείνει βιώσιμος.
+When someone owns a house they expect the right to use the house for free. If a group of people buy a house together then each can expect the right to use the house proportional to their percentage ownership in the house. A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
 
-Οποιοσδήποτε αρχικός ισολογισμός λογαριασμού θα έπρεπε να έρχεται από τον χρήστη που δημιουργεί τον λογαριασμό και όχι από νομισματική δημιουργία λόγο των πιθανών επιθέσεων sybil.
+If a house is owned by multiple people then those individuals must decide how they wish to timeshare the house. Someone who owns 50% of the house but only uses it one weekend per year might expect to be paid by the individuals who take their unused time. This is the mindset of a fee based system.
 
-### Δικαιολογώντας Τους Ελάχιστους Ισολογισμούς
+On the other hand, someone who owns 50% of the house is speculating that demand for the house will increase in the future and they will be able to sell their stake for more. Any owner who owns more of a house than they use becomes a real estate speculator. With this mindset rather than collecting rent, they collect appreciation.
 
-Η έννοια της εξανάγκασης των χρηστών να διατηρούνε έναν ελάχιστο ισολογισμό ρέει φυσιολογικά από την αξία ενός χρήστη[^11]. Οποιοσδήποτε έχει μια επειχήρηση γνωρίζει ότι ο κάθε χρήστης έχει σημαντική αξία. Οι επειχηρήσεις ξοδεύουν οπουδήποτε από $30 έως $200 για να αποκτήσουν έναν χρήστη. Μερικές φορές πληρώνουν χρήστες κατευθείαν, άλλες φορες πληρώνουν για διαφήμηση, και άλλες φορές ολόκληρες εταιρείες αγοράζονται μονάχα για τον αριθμό χρηστών τους. Αφού μια εταιρεία αποκτήσει έναν χρήστη συνήθως του δίνονται πολλές *δωρεάν υπηρεσίες* μονάχα για να τον κρατήσει για αρκετά μεγάλο χρονικό διάστημα ώστε να τον νομισματοποιήσει μέσω άλλων τρόπων.
+The value of a share is derived from how much time it can potentially grant its owner. Owning 1% of a house and getting it 1 weekend per year is the lowest value of a share. However, if half of the shareholders never use their weekend, then the value per timeshare rises to 2 weekends per year. If those inactive users instead opt to rent their unused time, then it falls back to 1 weekend per year. If those unused timeshares were sold to people who would use them then the value of a timeshare would fall by 50%. Unless the rent collected is greater than the fall in share value the timeshare owners are making an economic miscalculation.
 
-Το Ripple χρησιμοποιεί έναν ελάχιστο ισολογισμό ο οποίος[^12] κλιμακώνεται ανάλογα με την χρήση πόρων του λογαριασμού και απαιτεί από τους νέους λογαριασμούς να χρηματοδοτούνται με τουλάχιστον αυτόν τον ελάχιστο ισολογισμό. Επί του παρόντος αυτός ο ελάχιστος ισολογισμός είναι περίπου $0.15 που είναι μεγαλύτερο απο τα $0.10 τα οποία υπολογίσαμε πως θα επέτρεπαν σε κάποιον να διεξάγει ελεύθερα τουλάχιστον μια φορά την εβδομάδα.
+Using this rationale we can assume that a system based on fees will either be more expensive for its users or be less profitable for its collective owners. An individual small owner may profit by renting out his small time slice, but only at the expense of all other timeshare owners. In effect, the cost of the falling timeshare value is shared among all owners whereas the profits are centralized in the single owner who decided to rent his share.
 
-Ένα blockchain μπορεί να επιβάλλει μια ελάχιστη τιμή ανα χρήστη μέσω τη απλής διαδικασίας απαίτησης ενός ελάχιστου ισολογισμού. Οποιαδήποτε επειχήρηση επιθυμεί να φέρει έναν νέο χρήστη στο blockchain μπορεί να προχρηματοδοτήσει τον λογαριασμό αυτού του χρήστη με τον ελάχιστο ισολογισμό που θα τους επιτρέπει να κάνουν συναλλαγές. Απαιτώντας μια σχετικά μεγάλη χρέωση ($1.00) για να κάνει την εγγραφή νέων χρηστών φυσιολογικά θα αναγκάσει τον καθένα που προσφέρει δωρεάν λογαριασμούς να εξετάσει την ποιότητα και την ιδιαιτερότητα του κάθε λογαριασμού πριν την εγγραφή τους με το blockchain.
+We can conclude from this that a blockchain is best served by not using usage fees at all. If a usage fee were to be charged as an alternative to rate limiting, then it should be the equivalent of buying enough timeshares and committing to hold them long enough to gain the right use it once.
 
-Διατηρώντας έναν ελάχιστο ισολογισμό είναι ουσιαστικά το ίδιο με το να αναγκάζονται οι χρήστες να πληρώνουν τέλη συναλλαγών με τον τόκο που αυτοί θα μπορούσαν να αποκτήσουν στον ισολογισμό τους. Ο ελάχιστος ισολογισμός είναι απλά ο ισολογισμός που απαιτείται για να αποκτηθεί αρκετός τόκος για να πληρωθεί μια χρέωση σε μια σχετικά μικρή περίοδο χρόνου.
+Stated another way, a transaction fee should be equal to the minimum account balance necessary to transact once per week and it should be refunded at the end of the week. Assume the minimum account balance is $1 and allows someone to transact once per week. If someone with a $1 balance that wishes to perform 5 transactions at once they will have to increase their balance to $5 for a week either before or after their transactions.
 
-Ευτυχώς, ο ελάχιστος ισολογισμός που απαιτείται μπορεί να είναι όσο χαμηλός όσο και ένα δολάριο και αυτό είναι κάτι που οι χρήστες μπορούν να καταλάβουν και να εκτιμήσουν. Το κόστος ευκαιρίας του χαμένου τόκου δεν υφίστανται το γνωστικό κόστος μιας μικροχρέωσης και είναι πολύ πιο ευπρόσδεκτο από τους χρήστες.
+In theory a market could form where users can borrow the stake required. In practice it is more efficient for users to simply buy and sell the timeshares necessary to meet their desired usage rate. In other words, the cost of negotiating micro-loans is greater than the cost of maintaining a balance suitable for your maximum weekly usage.
 
-Το STEEM που χρησιμοποιείται για να προχρηματοδοτήσει έναν λογαριασμό ενδυναμώνεται στον καινούργιο λογαριασμό (π.χ., μετατρέπεται σε Steem Power).
-
-### Ρυθμίζοντας Την Αναλογία Αποθέματος
-
-Ο περιορισμός της αναλογίας απαιτεί από το δίκτυο να ρυθμίσει την αναλογία αποθέματος αρκετά γρήγορα για να μετριάσει την επίπτωση ενός επιδρομέα που προσπαθεί να πλημμυρίσει το δίκτυο. Ας υποθέσουμε ότι ο επιδρομέας έχει έναν μεγάλο ισολογισμό, ας πούμε 1% των διαθέσιμων νομισμάτων. Εάν υποθέσουμε επίσης ότι το δίκτυο στοχεύει 50% χρησιμοποίηση, τότε μια παραπεταμένη επίθεση θα βρει αυτόν τον χρήστη πνιγμένο στο 25% της χωρητικότητας δικτύου υποθέτοντας πως όλοι οι άλλοι επίσης χρησιμοποιούν 25% της χωρητικότητας. Με άλλα λόγια, ο μεγαλύτερος ατομικός χρήστης δεν πρέπει να έχει την δυνατότητα να καταναλώσει περισσότερο από 50% της στοχευμένης χωρητικότητας εκτός εάν έχει στην κατοχή του περισσότερο από 50% του SP.
-
-Ας χρησιμοποιήσουμε την αρχική αναλογία αποθεμάτων των 200x. Εξαιτίας των κλασματικών αποθεμάτων, αυτό σημαίνει ότι κάποιος ο οποίος έχει το 1% των νομισμάτων έχει το δικαίωμα να απαιτήσει συναλλαγές οι οποίες κάνουν σύνολο 2x του μέγιστου μεγέθους φραγμού. Για να πέσει η χρήση δικτύου από τον επιδρομέα στο 25% η αναλογία αποθεμάτων θα πρέπει να πέσει στο 25x. Αυτό θα έκανε τον ελάχιστο απαιτούμενο ισολογισμό για να μπορεί να γίνει μια συναλλαγή την εβδομάδα να αυξηθεί κατά 8x.
-
-Το blockchain μπορεί να θέσει ένα ποσοστό ανταπόκρισης το οποίο λέει ότι μια παραπεταμένη αύξηση στην χρήση πρέπει να κατέβει στην στοχευμένη χωρητικότητα σε ένα μικρό χρονικό διάστημα (ας πούμε 30 δευτερόλεπτα). Ένας επιδρομέας που προσπαθεί να κάνει κατάχρηση του δικτύου δεν πρέπει να έχει την δυνατότητα να αναστατώσει την υπηρεσία για τους κανονικούς χρήστες για πάνω από έναν λεπτό.
-
-Παρόλο που οι μειώσεις στην αναλογία αποθεμάτων πρέπει να είναι γρήγορες και μη-γραμμικές για να αντιμετωπίσουν την κατάχρηση, αυξήσεις στην αναλογία αποθεμάτων πρέπει να είναι αργές και γραμμικές. Εάν το δίκτυο ρυθμιζόταν και στις δύο κατευθύνσεις σε μονάχα 30 δευτερόλεπτα τότε ο επιδρομέας θα μπορούσε να πάλλει το δίκτυο. Μια πλημμύρα συναλλαγών πρέπει να διορθωθεί μέσα σε 30 δευτερόλεπτα και έπειτα να πάρει μια ώρα για να επιστρέψει στα επίπεδα πριν τις επιθέσεις. Ύπο αυτό το μοντέλο ο επιδρομέας μπορεί να πλημμυρίσει το δίκτυο για 30 δευτερόλεπτα ανά ώρα ή λιγότερο από το 1% του χρόνου.
-
-Πρέπει να υπάρχει μια αργή και σταθερή πίεση προς τα πάνω στην αναλογία αποθεμάτων κάθε φορά που η χρήση δικτύου είναι κάτω απο 50% μέχρι το δίκτυο να φτάσει τη μέγιστη αναλογία αποθεμάτων. Η μέγιστη αναλογία αποθεμάτων καθορίζει το ελάχιστο απαιτούμενο στοίχημα για να πλημμυρίσει σε μικρές εκρήξεις.
-
-Ο κάθε χρήστης με λιγότερα ΣΥΝΟΛΙΚΑ\_ΝΟΜΙΣΜΑΤΑ / (2 \* ΑΝΑΛΟΓΙΑ\_ΑΠΟΘΕΜΑΤΩΝ) δεν θα μπορεί να παράγει αρκετές συναλλαγές για να γεμίσει ούτε έναν φραγμό. Με μια αναλογία αποθεμάτων του 200, αυτό σημαίνει πως ο κάθε χρήστης με λιγότερο από 0.25% του νομίσματος δεν μπορεί να δημιουργήσει αρκετές συναλλαγές για να καθυστερήση την υπηρεσία κανενός.
-
-### Αποτελεσματικότητα Σχετικά Με Τα Τέλη
-
-Για να συγκρίνουμε την αποτελεσματικότητα του περιορισμού αναλογίας με τα τέλη θα πρέπει να έχουμε στο νου πως τα δύο συστήματα αντιδρούν στην διεθνές πλημμύρα δικτύου από έναν επιδρομέα. Ύπο το Bitcoin ένας επιδρομέας με $10,000 δολάρια θα μπορούσε να αναστατώσει την υπηρεσία για μια ολόκληρη μέρα γεμίζοντας τον κάθε έναν φραγμό. Ο ίδιος επιδρομέας δεν θα είχε την δυνατότητα να αναστατώσει την υπηρεσία ούτε για έναν φραγμό ύπο τον περιορισμό δυναμικής κλασματικής αναλογίας αποθεμάτων.
-
-Εάν πάμε σε μια πιο υπερβολική περίπτωση και υποθέσουμε πως ο επιδρομέας έχει στην κατοχή του το 1% όλων των νομισμάτων τότε μπορούμε να συμπεράνουμε πως ο επιδρομέας αυτός έχει $60 εκατομμύρια δολάρια. Ένας τέτοιος επιδρομέας θα μπορούσε να κλείσει την υπηρεσία blockchain του Bitcoin για 16 χρόνια εκτός αν οι μεταλλευτές αυξάνανε τα τέλη ή την χωρητικότητα. Ακόμα και αν τα τέλη αυξάνονταν στα $15 ανά συναλλαγή, ο επιδρομέας θα εξακολουθούσε να μπορεί να κρατήσει το δίκτυο πλημμυρισμένο για 16 ημέρες.
-
-Ύπο την προσέγγιση περιορισμού αναλογίας, κάποιος ο οποίος κρατάει το 1% όλων των νομισμάτων με σκοπό να πλημμυρίσει το δίκτυο θα πετύχενε τον στόχο του για λιγότερο από 30 δευτερόλεπτα.
-
-### Νοίκιασμα Εναντίον Αγόρασμα Εναντίον Μοίρασμα Χρόνου
-
-Όταν κάποιος κατέχει λενα σπίτι περιμένει να έχει το δικαίωμα να χρησιμοποιήσει το σπίτι δωρεάν. Εάν μια ομάδα ανθρώπων αγοράσει ένα σπίτι τότε ο καθένας περιμένει να έχει το δικαίωμα να χρησιμοποιήσει το σπίτι ανάλογα με το ποσοστό ιδιοκτησίας του στο σπίτι. Ένα βασισμένο στα τέλη blockchain είναι σαν να νοικιάζουμε ένα σπίτι από τους ιδιοκτήτες του, ενώ ο περιορισμός αναλογίας είναι σαν ένα μοίρασμα του χρόνου μεταξύ των ιδιοκτητών.
-
-Αν ένα σπίτι είναι ιδιοκτησία πολλαπλών ανθρώπων τότε αυτοί πρέπει να αποφασίσουν πως θα γίνει το μοίρασμα χρόνου του σπιτιού. Κάποιος ο οποίος κατέχει 50% του σπιτιού αλλά το χρησιμοποιεί μόνο ένα σαββατοκύριακο ανά χρόνο θα μπορούσε να αναμένει να πληρωθεί από τα άτομα που πέρνουν τον αχρησιμοποίητο χρόνο τους. Αυτή είναι η λογική ενός συστήματος βασισμένου στα τέλη.
-
-Από την άλλη, κάποιος ο οποίος κατέχει 50% του σπιτιού θεωρεί πως η ζήτηση για το σπίτι θα αυξηθεί στο μέλλον και θα μπορεί να πουλήσει το στοίχημα του για περισσότερο. Ο κάθε ιδιοκτήτης που έχει στην κατοχή του περισσότερο σπίτι από όσο χρησιμοποιεί γίνεται κερδοσκόπος ακινήτων. Με την λογική αυτή αντί να συλλέγει το νοίκι, συλλέγει εκτίμηση.
-
-Η αξία μιας μετοχής προέρχεται από τον πόσο χρόνο μπορεί ενδεχομένος να χορηγήση στον ιδιοκτήτη του. Έχοντας το 1% του σπιτιού και παίρνοντας το 1 σαββατοκύριακο τον χρόνο είναι η χαμηλότερη αξία μιας μετοχής. Ωστόσο, εάν οι μισοί μέτοχοι δεν χρησιμοποιήσουν ποτέ το σαββατοκύριακο τους, τότε η αξία ανά μοίρασμα χρόνου αυξάνεται στα 2 σαββατοκύριακα ανά χρόνο. Αν αυτοί οι αδρανείς χρήστες αντί αυτού αποφασίσουν να νοικιάσουν τον αχρησιμοποίητο χρόνο τους, τότε επιστρέφει πίσω στο 1 σαββατοκύριακο τον χρόνο. Αν αυτές οι αχρησιμοποίητες χρονικές μετοχές που πουλιόντουσαν σε ανθρώπους που θα τις χρησιμοποιούσαν τότε η αξία μιας χρονικής μετοχής θα έπεφτε κατά 50%. Εάν το νοίκι που συλλέγεται είναι μεγαλύτερο από το πέσιμο της αξίας της μετοχής οι ιδιοκτήτες της χρονικής μετοχής κάνουν έναν λανθασμένο υπολογισμό.
-
-Χρησιμοποιώντας αυτή την λογική μπορούμε να υποθέσουμε ότι ένα σύστημα βασισμένο στα τέλη ή θα είναι πιο ακριβό για τους χρήστες του ή θα είναι λιγότερα κερδοφόρο για τους συλλογικούς ιδιοκτήτες του. Ένας μικρός ατομικός χρήστης μπορεί να βγάλει κέρδος νοικιάζοντας σε άλλους το μικρό αυτό κομμάτι χρόνου του, αλλά μόνο για την δαπάνη όλων των άλλων ιδιοκτητών χρονικών μετοχών. Σε ισχύ, το κόστος αξίας της φθίνουσας χρονικής μετοχής μοιράζεται ανάμεσα σε όλους τους ιδιοκτήτες ενώ τα κέρδοι είναι κεντρισμένα σε έναν μονάχα ιδιοκτήτη ο οποίος αποφάσησε να νοικιάσει την μετοχή του.
-
-Μπορούμε να συμπεράνουμε από αυτό ότι ένα blockchain είναι καλύτερα να μην χρησιμοποιεί καθόλου τέλη χρήσης. Εάν μια χρέωση χρήσης γινόταν ως μια εναλλακτική του περιορισμού αναλογίας, τότε θα πρέπει να είναι το ίδιο με το να αγοράζουμε χρονικές μετοχές και να τις κρατάμε για αρκετό χρόνο ώστε να αποκτηθεί το δικαίωμα μιας χρήσης.
-
-Με άλλα λόγια, μια χρέωση συναλλαγής πρέπει να είναι ίση με τον ελάχιστο ισολογισμό λογαριασμού που απαιτείται για να γίνει μια συναλλαγή την εβδομάδα και πρέπει να γίνεται επιστροφή χρημάτων στο τέλος της εβδομάδας. Ας υποθέσουμε πως ο ελάχιστος ισολογισμός λογαριασμού είναι $1 και επιτρέπει σε κάποιον να διεξάγει μια φορα την εβδομάδα. Αν κάποιος με ισολογισμό $1 ο οποίος επιθυμεί να εκτελέσει 5 συναλλαγές απευθείας τότε πρέπει να αυξήσει τον ισολογισμό του στα $5 για μια εβδομάδα πριν ή μετά από τις συναλλαγές του.
-
-Θεωρητικά μια αγορά μπορεί να σχηματιστεί όπου οι χρήστες μπορούν να δανιστούν το απαιτούμενο στοίχημα. Πρακτικά, είναι πιο αποδοτικό για τους χρήστες απλά να αγοράζουν και να πουλάνε τις χρονικές μετοχές οι οποίες απαιτούνται για να φτάσουν την επιθυμητή τους αναλογία χρήσης. Με άλλα λόγια, το κόστος διαπραγμάτευσης μικροδανείων είναι μεγαλύτερο από το κόστος συντήρησης ενός ισολογισμού κατάλληλου για την μέγιστη εβδομαδιαία χρήση.
-
-Ο αποκεντρισμένος περιορισμός αναλογίας μπορεί να επιτρέψει νέους τύπους αποκεντρισμένων εφαρμογών οι οποίοι δεν ήταν βιώσιμοι όταν η κάθε χρήση της εφαρμογής απαιτούσε μια μικροπληρωμή. Αυτό το νέο μοντέλο δίνει στους προγραμματιστές εφαρμογών την ικανότητα να αποφασίσουν εάν και πότε να χρεώσουν τους χρήστες για συναλλαγές.
+Decentralized rate limiting of transactions can enable new types of decentralized applications that were not viable when every use of the application required a micropayment. This new model gives application developers the ability to decide if and when to charge their users for transactions.
 
 # Επίδοση Και Επεκτασιμότητα
 
-Το δίκτυο Steem είναι δημιουργηθεί επάνω στο Graphene, την ίδια τεχνολογία που τροφοδοτεί το BitShares. Το Graphene αποδείξει δημόσια ότι μπορεί να υποστηρίξει πάνω από 1000 συναλλαγές το δευτερόλεπτο επάνω σε ένα δοκιμαστικό δίκτυο. Το Graphene μπορεί με ευκολία να μεγαλώσει σε 10,000 ή περισσότερεσ συναλλαγές το δευτερόλεπτο με σχετικά απλές βελτιώσεις στην χωρητικότητα διακομιστή και στα πρωτόκολλα επικοινωνίας.
+The Steem network is built upon Graphene, the same technology that powers BitShares. Graphene has been publicly demonstrated sustaining over 1000 transactions per second on a distributed test network. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
 
-## Μέγεθος Reddit
+## Reddit Scale
 
-Το Steem έχει την δυνατότητα να συγκρατήσει μεγαλύτερη βάση χρηστών από το Reddit. Το 2015 οι 8.7 χρήστες του Reddit παρήγαγαν κατά μέσο όρο 23 σχόλια του δευτερόλεπτο[^13], με μέσο όρο 83 σχόλεια ανά χρόνο ανά χρήστη. Υπήρχαν 73 εκατομμύρια δημοσιεύσεις κορυφαίου επιπέδου, για έναν μέσο όρο 2 καινούργιων δημοσιεύσεων ανά δευτερόλεπτο. Υπήρχαν περίπου 7 δισεκατομμύρια θετικοί ψήφοι δημιουργόντας έναν μέσο όρο αναλογίας ψήφου με 220 ψήφους ανά δευτερόλεπτο. Με όλα αυτά λοιπόν, αν το Reddit λειτουργούσε επάνω σε ένα blockchain θα απαιτούσε έναν μέσο όρο 250 συναλλαγών το δευτερόλεπτο.
+Steem is capable of handling a larger userbase than Reddit. In 2015 Reddit’s 8.7 million users generated an average of 23 comments per second[^12], with an average of 83 comments per year per user. There were 73 million top-level posts, for an average of 2 new posts per second. There were about 7 billion up votes creating an average voting rate of 220 votes per second. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
 
-Για να επιτευχθεί αυτή η επίδοση επιπέδου ηγετικής βιομηχανίας, το Steem πέρνει μαθήματα από το LMAX Exchange[^14], το οποίο έχει την δυνατότητα να διεργαστεί 6 εκατομμύρια συναλλαγές το δευτερόλεπτο. Μεταξύ αυτών των μαθημάτων υπάρχουν τα εξής βασικά σημεία:
+To achieve this industry-leading performance, Steem has borrowed lessons learned from the LMAX Exchange[^13], which is able to process 6 million transactions per second. Among these lessons are the following key points:
 
 1. Να κρατήσουμε τα πάντα στη μνήμη.
 2. Να κρατήσουμε την κεντρική επιχειρηματική λογική σε μια κλωστή.
@@ -560,15 +398,17 @@ Credits here @skapaneas @holidaygreece @skapart".
 4. Να διαιρέσουμε την νομιμοποίηση σε εξαρτημένη από το κράτος και εξαρτημένους από το κράτος ελέγχους.
 5. Να χρησιμοποιήσουμε αντικειμενοστραφής μοντέλο βάσης δεδομένων.
 
-Ακολουθόντας αυτούς τους απλούς κανόνες, τοSteem έχει την δυνατότητα να διεργαστεί 10,000 συναλλαγές το δευτερόλεπτο χωρίς κάποια σημαντική προσπάθεια αφιερωμένη στην βελτιστοποίηση.
+By following these simple rules, Steem is able to process 10,000 transactions per second without any significant effort devoted to optimization.
 
-Κρατώντας τα πάντα στη μνήμη είναι πολύ βιώσιμο λόγο της πρόσφατης παρουσίασης της τεχνολογίας Optane™ από την Intel™[^15]. Πρέπει να είναι δυνατόν από εμπορικά μηχανήματα υπολογιστών να μπορούν να υποστηρίξουν όλοι την λογική επιχείρησης του Steem σε μια μονάχα κλωστή με όλες τις δημοσιεύσεις αποθηκευμένες για γρήγορη ευρετηρίαση. Ακόμη και η Google κρατάει ολόκληρο το ευρετήριο της για το internet σε RAM. Η χρήση τεχνολογίας blockchain κάνει μηδαμινεί την αξία αναπαραγωγής της βάσεις δεδομένων σε πάρα πολλά μηχανήματα για να αποτρέψει την απώλεια πληροφοριών. Όσο η τεχνολογία Optane™ αναλαμβάνει, η RAM θα γίνει ακόμα γρηγορότερη ενώ αποκτά επιμονή. Με άλλα λόγια, το Steem είναι σχεδιασμένο για τις αρχιτεκτονικές του μέλλοντος και είναι σχεδιασμένο να μεγενθυθεί.
+Keeping everything in memory is increasingly viable given the recent introduction of Optane™ technology from Intel[^14]. It should be possible for commodity hardware to handle all of the business logic associated with Steem in a single thread with all posts kept in memory for rapid indexing. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optane™ technology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
 
 # Κατανομή & Προμήθεια
 
-Το δίκτυο Steem ξεκινάει με μια προμήθεια νομίσματος του 0 και διανέμει STEEM μέσω της απόδειξης εργασίας με αναλογία περίπου 40 STEEM το λεπτό στους μεταλλευτές, με ένα επιπλέον 40 STEEM το λεπτό να δημιουργείτε για να σπείρει το περιεχόμενο και τις κυψέλες ανταμοιβής επιμέλειας (για συνολικά 80 STEEM το λεπτό). Έπειτα το δίκτυο ξεκινάει να ανταμοίβει τους χρήστες που μετατρέπουν σε SP. Σε αυτό το σημείο, το STEEM μεγαλώνει σε βαθμό που φτάνει περίπου το 800 STEEM το λεπτό λόγο των συνδιασμένων επιδράσεων των Ανταμοιβών Συμβολής που περιγράφονται παρακάτω:
+## Initial Allocation & Supply
 
-**Ανταμοιβές Συμβολής:**
+The Steem network started with a currency supply of 0 and allocated STEEM via proof of work at a rate of approximately 40 STEEM per minute to miners, with an additional 40 STEEM per minute being created to seed the content and curation reward pools (for a total of 80 STEEM per minute). Then the network started rewarding users who converted to SP. At this point, STEEM grew at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
+
+Contribution Rewards:
 
 - Ανταμοιβές Συμβολής: 1 STEEM ανά φραγμό ή 3.875% κάθε χρόνο, οποιοδήποτε είναι μεγαλύτερο
 - Ανταμοιβές Δημιουργίας Περιεχομένου: 1 STEEM ανά φραγμό ή 3.875% κάθε χρόνο, οποιοδήποτε είναι μεγαλύτερο
@@ -577,185 +417,152 @@ Credits here @skapaneas @holidaygreece @skapart".
 - Ανταμοιβές Συμπερίληψης POW μετά τον φραγμό 864,000: 0,0476 STEEM ανά φραγμό (ανταμοίβεται σαν 1 STEEM ανά γύρο) ή 0.750% ανά χρόνο, οποιοδήποτε είναι μεγαλύτερο.
 - Ανταμοιβές Ρευστότητας: 1 STEEM ανά φραγμό (ανταμείβεται σαν 1200 STEEM ανά ώρα) ή 0.750% ανά χρόνο, οποιοδήποτε είναι μεγαλύτερο
 
-**Ανταμοιβές Ισχύς:**
+### Power Rewards:
 
 - Το Steem Power ανταμείβει: Για κάθε STEEM που δημιουργείται από τις παραπάνω ανταμοιβές, 9 STEEM διαιρούνται μεταξύ όλων των κατόχων Steem Power.
 
-**Διαδικασίες SMD:**
+### SBD operations:
 
-- Ανταμοιβές SMD: Ένα ποσοστό της αξίας του SMD δημιουργείται σε ένα APR το οποίο καθορίζεται από τους μάρτυρες και πληρώνεται στους κατόχους SMD ως SMD
-- Βαθμός Τροφοδότησης ακολουθόντας: Την ποσότητα του STEEM για την οποία το συνολικό SMD που υπάρχει μπορεί να εξαγοραστεί θα αλλάξει βασισμένο στις αλλαγές στην τιμή τροφοδοσίας. Αυτή η αλλαγή είναι καταστροφή (“κάψιμο”) του STEEM όταν η αξία του STEEM (όπως μετριέται από την τροφοδοσία) αυξάνεται, ή δημιουργία του STEEM όταν η αξία του STEEM (όπως μετριέται από την τροφοδοσία) είναι φθίνουσα.
+- SBD rewards: A percentage of SBD value is created at an APR set by the witnesses and paid to SBD holders as SBD
 
-Το ποσοστό περιορισμών εξασφαλίζει ότι τα κίνητρα για τις ανταμοιβές δεν γίνονται ανούσια με το πέρασμα του χρόνου, που προορίζεται να αποτρέπει το σύστημα από το να αντιμετωπίζει το “σαμαράκι” (περιορισμό ταχύτητας) στο μοτίβο ανάπτυξης πολλών άλλων blockchains, όπου μια όρμηση αρχικής ανάπτυξης η οποία τροφοδοτείται από υψηλά κίνητρα για τους πρώιμους συμμέτοχους ακολουθείται από παρατεταμένη στασιμότητα όσο τα συνεχόμενα φθίνοντα κίνητρα πέφτουν πιο κάτω από το επίπεδο που είναι απαραίτητο για να προκαλέσει στους νεοφερμένους να συμμετέχουν.
+The overall supply picture is complicated by the effect of SBD operations, which may result in large-scale creation or destruction of STEEM through feed rate following and SBD rewards, as discussed in the SBD section. Other, smaller-scale complicating effects also exist, including unclaimed incentives (e.g. block rewards for missed blocks), and abandoned accounts.
 
-Οι ολικές επιπτώσεις αυτών των ποσοστιαίων περιορισμών στην κατανομή και την προμήθεια είναι ότι ο βαθμός (περίπου) 800 STEEM το λεπτό παραμένει σε λειτουργεία για λίγο χρόνο (π.χ. Μονάδες του STEEM), αλλά κατεβαίνει σε ποσοστιαίους όρους (π.χ., 800 STEEM είναι ένα μικρότερο και μικρότερο κλάσμα της συνολικής προμήθειας εφόσον η συνολική προμήθεια γίνεται όλο και μεγαλύτερη). Όταν τα διάφορα ατομικά εξαρτήματα του 800 STEEM το λεπτό φτάσουν τα ανάλογα δάπεδα τους, το κάθε δάπεδο σταματάει να ρίχνει την συνιστώσα του βαθμού. Αυτό με την σειρά του σημαίνει ότι μακροχρόνια, το ονομαστικό επιτόκιο θα αυξηθεί από 800 STEEM το λεπτό στην (χρονικά διαφορετική και εξαρτημένη από την προμήθεια) τιμή που απαιτείται για να συντηρήσει έναν συνεχής ετησιοποιημένο βαθμό αύξησης του 10% για τα Κίνητρα Συμβολής, και έναν συνεχής ετησιοποιημένο βαθμό αύξησης του 100% για το συνδιασμένο αποτέλεσμα των Κινήτρων Συμβολής και των Κινήτρων Εξουσίας. Το ολικό αποτέλεσμα είναι ο διπλασιασμός της προμήθειας STEEM κάθε χρόνο (αλλά, όπως εξηγήται παρακάτω, εάν οι περισσότεροι χρήστες κάνουν Power Up τότε πολύ από αυτόν τον διπλασιασμό είναι αποτελεσματικά ένας “χωρισμός” ο οποίος δεν μεταφέρει την ιδιοκτησία).
+## Current Allocation & Supply
 
-Η ολική εικόνα προμήθειας μπερδεύεται από το αποτέλεσμα των διαδικασιών SMD, που μπορεί να έχει ως αποτέλεσμα την μεγάλη δημιουργία ή καταστροφή του STEEM μέσω βαθμού τροφοδοσίας και ανταμοιβών SMD, όπως περιγράφεται στο τμήμα SMD. Άλλα, μικρότερου βαθμού μπερδεμένα αποτελέσματα επίσης υπάρχουν, όπως αζήτητα κίνητρα (π.χ. Ανταμοιβές φραγμών για χαμένους φραγμούς), θόρυβος λόγο της τύχης του μεταλλευτή κατά την διαδικασία της απόδειξης εργασίας, και τα αποτελέσματα των αλλαγών στο μέγεθος των ουρώς μετάλλευσης λόγο μιας αλλαγής στην συνολική ισχύ ενός δικτύου.
+Starting with the network's 16th hard fork in December 2016, Steem began creating new tokens at a yearly inflation rate of 9.5%. The inflation rate decreases at a rate of 0.01% every 250,000 blocks, or about 0.5% per year. The inflation will continue decreasing at this pace until the overall inflation rate reaches 0.95%. This will take about 20.5 years from the time hard fork 16 went into effect.
 
-## Αντίκτυπο Του Βαθμού Δημιουργίας Νομισμάτων
+75% of the new tokens that are generated go to fund the reward pool, which is split between authors and curators. 15% of the new tokens are awarded to holders of SP. The remaining 10% pays for the witnesses to power the blockchain.
 
-Με μια πρώτη ματιά, ετήσια αύξηση 100% στην προμήθεια του STEEM μπορεί να εμφανιστεί να είναι υπερπληθωριστική και μη-βιώσιμη. Αυτοί που ακολουθάνε την Ποσοτική Θεώρια του Χρήματος[^16] μπορεί να βγάλουν το συμπέρασμα ότι η αξία του STEEM πρέπει να πέσει περίπου 5.6% ανά μήνα. Γνωρίζουμε από αμέτρητα παραδείγματα στον κόσμο ότι η ποσότητα του χρήματος δεν έχει κάποιο άμεσο αντίκτυπο στην αξία του, αν και σίγουρα παίζει τον ρόλο της.
+### Impact of Token Creation Rate
 
-Επειδή το 90% όλου του STEEM που δημιουργείται πηγαίνει πίσω στους κάτοχους SP, το αποτέλεσμα είναι παρόμοιο με το να έχουμε μια “διαίρεση” 2:1 κάθε χρόνο λόγο φουσκώματος. Ο συνολικός βαθμός δαπανών που χρησιμοποιείται για να ανταμείψει τους συνεργάτες είναι περίπου το 10% της κεφαλοποίησης αγοράς τον χρόνο, ένας βαθμός πολύ χαμηλότερος από αυτόν που το Bitcoin είχε τα πρώτα 7 χρόνια αφού ξεκίνησε.
+It is often said that a coin with an inflationary model is not sustainable, but we know from countless real-world examples that the quantity of money does not have a direct and immediate impact on its value, though it certainly plays a role.
 
-Η δημιουργία νέου STEEM για να πληρώσουμε ένα κίνητρο σε έναν συγκεκριμένο χρήστη ή ομάδα έχει αρνητικό αποτέλεσμα στον ισολογισμό κάθε άλλου χρήστη σε όρους του ποσοστού της προμήθειας του STEEM. Αν ακριβώς 90% της προμήθειας του STEEM κρατιέται σε SP, τότε το αρνητικό αποτέλεσμα των Κινήτρων Συμβολήςστους ισολογισμούς των κατόχων SP ισορροπείτε με ακρίβια από το αντίθετο αποτέλεσμα των Κινήτρων Εξουσίας. Οι κάτοχοι SP πέρνουν περισσότερο STEEM (σε κανονικούς όρους) αλλά το ποσοστό τους στην αλυσίδα (σε όρους κλάσματος της συνολικής προμήθειας) δεν αλλάζει. Αν λιγότερο (περισσότερο) απο 90% της προμήθειας του STEEM κρατιέται ως SP, τα δυο αποτελέσματα εξακολουθούν να δίχνουν προς αντίθετες κατευθύνσεις, αλλά το θετικό (αρνητικό) αποτέλεσμα γίνεται μεγαλύτερο και το σύνολο αυτών των δύο αποτελεσμάτων θα συνηθίζει να τραβάει τον ισολογισμό SP προς το 90%. Αυτό το “τράβιγμα” δεν σημαίνει ότι η αξία του SP πρέπει να μένει στο 90% μακροχρόνια, διότι παρορμητικοί δέκτες θα (και σε μερικές περιπτώσεις πρέπει) να κάνουν το STEEM του SP, που σημαίνει πως το “τράβιγμα” προς το 90% δεν είναι η μόνη δύναμη στο ποσοστό της προμήθειας του STEEM που κρατιέται σαν SP.
+From August 2008 through January 2009 the U.S. money supply[^15] grew from $871B to $1,737B, a rate of over 100% per year and then continued to grow at about 20% per year for the next 6 years. All told the money supply in the U.S. has grown by 4.59x over less than 7 years. During that same time, the value of the dollar relative to goods and services has fallen less than 10% according to the government's price index[^16]. This real-world example demonstrates that supply is only one component of price.
 
-Από τον Αύγουστο του 2008 μέχρι τον Ιανουάριο του 2009 στις Ηνωμένες Πολιτείες η προμήθεια του χρήματος[^17] μεγάλωσε από $871 δισεκατομμύρια στα $1,737 δισεκατομμύρια, μια αναλογία που είναι πάνω από 100% τον χρόνο και συνέχισε να αυξάνεται κατά περίπου 20% ανά χρόνο για τα επόμενα 6 χρόνια. Έτσι η προμήθεια χρήματος στις Ηνωμένες Πολιτείες έχει αυξηθεί κατά 4.59x μέσα σε λιγότερο από 7 χρόνια. Σε αυτό το χρονικό διάστημα, η αξία των αγαθών και υπηρεσιών που σχετίζονται με το δολάριο έχει πέσει σε λιγότερο από το 10% σύμφωνα με το ευρετήριο τιμών της κυβέρνησης [^18]. Αυτό το πραγματικό παράδειγμα προβάλει ότι η προμήθεια είναι μόνο ένα συστατικό της τιμής.
+For the first 2 years of Bitcoin’s life the network sustained an annual inflation rate[^17] of over 100%. For the first 5 years it was over 30%, and for the first 8 years it was over 10%. All told the total “spending” Steem does to fund content, curation, and block production amounts to less than 10% APR.
 
-Η τιμή του ψηφιακού εμπορεύματος, όπως το STEEM, οδηγείται από την προμήθεια και την ζήτηση. Αν νέο STEEM διατεθεί σε αυτούς που το κρατάνε μακροχρόνια τότε η αύξηση στην προσφορά αλλάζει από την αντίστοιχη ζήτηση για κράτηση. Το αντίκτυπο αυτής της αλλαγής στην προμήθεια καθυστερείται μέχρι μια μελλοντική ημερομηνία όταν ο μακροχρόνιος κάτοχος αποφασίσει να πουλήσει. Η πίεση της πώλησης διανέμεται σε περίπου 2 χρόνια.
-
-Όταν ένας μακροχρόνιος κάτοχος αποφασίζει να φύγει, η προμήθεια του STEEM στην αγορά θα αυξηθεί και θα σπρώξει την τιμή προς τα κάτω. Αυτή η προς τα κάτω πίεση αντιμετωπίζεται όταν ένας νέος μακροχρόνιος κάτοχος αποφασίζει να αγοράσει το STEEM και να το μετατρέψει πίσω σε SP. Εμείς έτσι μπορούμε να συμπεράνουμε ότι η τιμή κυρίως θα επηρεαστεί από μια αλλαγεί στην ζήτηση για την μακροχρόνια κατοχή STEEM.
-
-Από το 100% της ετήσιας αύξησης στην πραγματική προμήθεια STEEM, το 5% απο αυτό είναι σε μορφή Steem Dollars (SMD). Τα SMD αντιπροσωπούν μια δέσμευση για να δημιουργηθούν STEEM που αξίζουν ένα δολάριο στο μέλλον και δεν έχει αντίκτυπο στην ποσότητα του STEEM στην σημερινή αγορά. Η αλλαγή στην αναλογία χρέος-προς-ιδιοκτησία μπορεί να έχει αντίκτυπο στην αντιληπτή ποσότητα του STEEM. Αν η αξλία του STEEM αυξηθεί με τον καιρό, τότε η ποσότητα του STEEM που μπορεί να δημιουργηθεί στο μέλλον θα είναι λιγότερη και το ανάλογο “φούσκωμα” δεν έγινε ποτέ.
-
-Έτσι λοιπόν το συνολικό “ξοδευόμενο” Steem λειτουργεί σαν κεφάλαιο για το περιεχόμενο, την επιμέλεια, την μετάλλευση, και τις ποσότητες ανταμοιβών ρευστότητας σε μόλις 10% APR ή 1.2% ανά μήνα. Η ίδια μεταφορά του πλούτου μπορεί να εφαρμοστεί χωρίς καμία αλλαγή στην προμήθεια του STEEM εφαρμόζοντας έναν αρνητικό βαθμό τόκου στο ρευστό STEEM του 10% ανά μήνα. Με άλλα λόγια, θα μπορούσε ναεφαρμοστεί χρεώνοντας 3% (παρόμοιο με τις πιστωτικές κάρτες) σε κάθε μεταφορά και έχοντας 1% όλου του STEEM να μεταφερθεί καθημερινά. Το δίκτυο Bitcoin μεταφέρει[^19] 400,000 Bitcoin από τα 12.5 εκατομμύρια (ή 2.5% καθημερινά).
-
-Ο σκοπός του ρευστού STEEM είναι να διευκολύνει τις αλλαγές στην ιδιοκτησία μεταξύ μακροχρόνιων κατόχων. Αυτή είναι η αλλαγή που το δίκτυο “φορολογεί” για να χρηματοδοτήσει την αύξηση. Αυτός ο φόρος μεταφοράς μπορεί να αποφευχθεί σχεδόν εντελώς πουλώντας αυτόματα STEEM για SMD κάθε εβδομάδα όσο το δίκτυο μετατρέπει SP πίσω σε STEEM. Ο συνολικός χρόνος που ξοδεύεται κρατώντας STEEM είναι τόσο μικρός που οποιοδήποτε αποτέλεσμα της αλλαγής της προμήθειας του STEEM θα είναι ασήμαντη δίπλα στην μεταβλητότητα και σε άλλες χρεώσεις της αγοράς.
-
-### Αντίκτυπο Βαθμού Δημιουργίας Νομίσματος Μεγαλύτερο Από 90%
-
-Από τις 1 Μαίου, 2016, πάνω από το 98.49% όλου του STEEM έχει μετατραπεί σε SP. Αυτό προβάλει την ζήτηση αυτή για την μακροχρόνια κατοχή κυριαρχεί. Σε αυτό το περιβάλλον και του ρευστό και το SP αραιώνονται σε κεφαλαιουχικές ανταμοιβές.
-
-Για τα πρώτα 2 χρόνια ζωής του Bitcoin το δίκτυο υποστήριζε ένα ετήσιο βαθμό φουσκώματος το οποίο ήταν[^20] παραπάνω απο το 100%. Για τα 5 πρώτα χρόνια ήταν πάνω απο 30%, και για τα πρώτα 8 χρόνια ήταν πάνω από το 10%. Σύμφωνα με το εργαλείο που χρησιμοποιείται για την μέτρηση μελλοντικών φουσκωμάτων που περιέχεται στον πηγαίο κώδικα του Steem, το Steem σε αντίθεση θα πετύχει ένα άμεσο ετήσιο βαθμό περίπου 12% μετά από 1 χρόνο (χωρίς να περιέχει τα αποτελέσματα των διαδικασιών SMD).
-
-### Λογιστική Στο Steem
-
-Η αύξηση στην προμήθεια του STEEM είναι περισσότερο ένα λογιστικό τεχνούργημα που δημιουργείτε από την θέληση της αποφυγής αλλαγής των αρνητικών επιτόκιων στο ρευστό STEEM. Τα αρνητικά επιτόκια θα μπέρδευαν τις ζωές των ανταλλαγών οι οποίες θα έπρεπε να ρυθμίσουν τους ισολογισμούς χρηστών για να λογαριάζουν τον αρνητικό βαθμό επιστροφής του STEEM το οποίο κρατιέται σε καταθέσεις. Κατοπτρίζοντας την λογική blockchain ακριβώς θα ήταν λάθος και θα μπέρδευε την ενσωμάτωση και την υιοθεσία. Έτσι, το STEEM έχει επιλέξει να μην χρεώσει ποτέ τον λογαριασμό κάποιου, αλλά να του αυξήσει την προμήθεια. Αυτό πετυχαίνει ένα παρόμοι οικονομικό αποτέλεσμα χωρίς να αναγκάζει τον καθένα που δέχεται καταθέσεις STEEM να εφαρμώσει αρνητικά επιτόκια στο εσωτερικό καθολικό λογιστή.
-
-Μια παρενέργεια της αύξησης της προμήθειας είναι ότι το δίκτυο θα απαιτεί αυξανόμενα επίπεδα ακρίβειας στην λογιστική του. Κατά μέσο όρο ο αριθμός ο αριθμός των bits που απαιτούνται για να εκπροσωπήσουν έναν τυπικό λογαριασμό θα αυξηθούν κατά 1.3 ανά χρόνο. Θα πάρει μόνο 10 χρόνια πρίν τα νούμερα που εμπλέκονται δεν θα χωράνε πλέον μέσα στην ακρίβεια 52 bit που υποστηρίζεται από τη JavaScript ή την ακρίβεια 64 bit που υποστηρίζεται απο τους επεξεργαστές. Με την πάροδο του χρόνου το μέγεθος των αριθμών θα αυξηθεί πέρα από την ανθρώπινη κλίμακα και κατανόηση. Επιπλέον, τα λιγότερο σημαντικά bits έχουν τόσο μικρή οικονομική αξία που τα καθιστά άχρηστα.
-
-Για να καταλάβουμε την συνεχόμενη αυτή αύξηση, το δίκτυο STEEM εκτελεί μια “αντίστροφη διαίρεση” 1:10 κάθε 32,000,000 φραγμούς (περίπου 3 χρόνια). Σε αυτό το σημείο του χρόνου όλοι οι ισολογισμοί STEEM διαιρούνται με το 10 και όλες οι τιμές πολλαπλασιάζονται με το 10. Οι ανταλλαγές κρυπτονομισμάτων θα πρέπει να διακόψουν τις ανταλλαγές περίπου σε αυτόν τον χρόνο και να ενημερώσουν τους ισολογισμούς του λογαριασμού και την ιστορία τιμών για να αντικαθρεφτίσουν την αντίστροφη διαίρεση πριν ξαναρχίσουν τις ανταλλαγές.
-
-Όλα τα στρογγυλεμένα λάθοι θα εξυπηρετήσουν το δίκτυο. Κάθε ισολογισμός μπορεί να χάσει μέχρι και 0.009 STEEM λόγο του στρογγυλεύματος, αλλά αυτή η ποσότητα του STEEM πρέπει να είναι οικονομικά ασήμαντη. Συλλογικά όλοι οι κάτοχοι SP θα χάσουν το περισσότερο 0.009 STEEM.
+The price of a digital commodity, like STEEM, is driven by both supply and demand. When a long-term holder decides to exit, the supply of STEEM on the market will increase and push the price down. This downward pressure is countered when a new long-term holder decides to buy up the STEEM and convert it back into SP. Additional supply and demand may be be added due to market speculators buying and selling liquid STEEM based on their predictions of the future market price.
 
 # Η Δύναμη Του Steem
 
-Το Steem αναγνωρίζει ότι η αξία όλων των προσφορών των χρηστών (δημοσιεύσεις και ψήφοι) είναι μεγαλύτερη από το σύνολο των κομματιών. Ένα ατομικό σχόλειο δεν αξίζει σχεδόν τίποτα, αλλά εκατομμύρια επιμελημένες δημοσιεύσεις αξίζουν πολλά εκατομμύρια (ή πιθανότατα ακόμα και δισεκατομμύρια) δολάρια. Μια ατομική ψήφος δίνει μικρή αξία επιμέλειας, αλλά δισεκατομμύρια ψήφοι είναι πολύ ενεργή επιμέλεια. Περιεχόμενο χωρίς επιμέλεια είναι περιορισμένης αξίας. Έχοντας όλο το περιεχόμενο του internet πλην τους συνδέσμους μεταξύ του, η Google θα δυσκολευόταν να παράγει χρήσιμα αποτελέσματα αναζήτησης. Είναι ο σύνδεσμος ανάμεσα των πληροφοριών που του δίνει σημαντική αξία.
+Steem recognizes that the value of all user contributions (posts and votes) is greater than the sum of the parts. A single comment is worth next to nothing, but millions of curated posts is worth many millions (or possibly even billions) of dollars. A single vote provides little curation value, but billions of votes is very effective curation. Content without curation is of limited value. Given all the content of the Internet minus the links between it, Google would struggle to produce useful search results. It is the links between information that give it significant value.
 
-Επειδή ο καθένας έχει συμφέρον, όλοι πρέπει να πληρώσουν. Με άλλα λόγια, κανένας ατομικός χρήστης δεν πρέπει να περιμένει πως θα πληρώσει για το οτιδήποτε, αλλά αντίθετα να πρέπει να πληρωθεί για το οτιδήποτε κάνει το οποίο δίνει αξία στο Steem. Το μόνο που πρέπει να κάνουμε είναι να εξακριβώσουμε ποιές συνεισφορές φέρνουν μια κοινωνική αξία δικτύου και ποιές όχι.
+Because everyone benefits, everyone should pay. In other words, no individual user should be expected to pay for anything, but instead should be paid for everything they do that brings value to Steem. All we need to do is ascertain which user contributions bring a social network value and which ones don’t.
 
-Συλλογικά οι χρήστες του Reddit ψηφίζουν 220 φορές το δευτερόλεπτο και κάνουν 23 δημοσιεύσεις το δευτερόλεπτο. Το Reddit κοστίζει από $500 εκατομμύρια[^21] μέχρι και 4$ δισεκατομμύρια[^22] που σημαίνει πως κάθε θετική ψήφος και δημοσίευση αξίζει από $0.06 και $0.50 υποθέτοντας ότι η αξία του Reddit προέρχεται κυρίως από την αξία δραστηριότητας του προηγούμενου χρόνου. Θα μπορούσε κανείς να υποστηρίξει ότι η περισσότερη από την αξία του Reddit προέρχεται από τις σχεδόν σε πραγματικό χρόνο συζητήσεις οι οποίες έχουν συμβεί μέσα στην προηγούμενη εβδομάδα που θα μεγάλωναν δραματικά την αξία νέων δραστηριοτητων. Ο κόσμος πηγαίνει εκεί που υπάρχει κόσμος στις μέρες μας, όχι εκεί που υπήρχε κόσμος τον προηγούμενο χρόνο.
+Collectively Reddit users vote 220 times per second and make 23 posts per second. Reddit is valued between $500 million[^18] and $4 billion[^19] which means that each and every upvote and post is worth between $0.06 and $0.50 assuming the value of Reddit is mostly within the past year’s worth of activity. One could argue that most of the value of Reddit is the near-real-time discussions that have occurred within the past week which would dramatically increase the value of new activity. People go where people are today, not where people were last year.
 
 ## Όχι Μικροπληρωμές, Τα Φιλοδωρήματα Προαιρετηκά
 
-Οι υπάρχουσες προσπάθειες για την ενσωμάτωση ενός κρυπτονομίσματος σε μια πλατφόρμα κοινωνικού δικτύου έχουν συγκεντρωθεί στο να επιτρέπουν στους χρήστες να πληρώνουν ο ένας τον άλλον. Πολλές υπηρεσίες έχουν προσπαθήσει να εισάγουν τα φιλοδωρήματα. Η θεωρία είναι ότι αν κάνουμε τα φιλοδωρήματα αρκετά απλά τότε περισσότερος κόσμος θα τα κάνει. Άλλες υπηρεσίες προσπαθούν να κάνουν τον κόσμο να πληρώσει για να προάγουν ή να ενισχύσουν την βαθμολογία του περιεχομένου τους. Ακόμη, άλλοι προσπαθούν να χτίσουν μικρές αγορές προβλέψεων για το πόσα φιλοδωρήματα ένα άρθρο θα λάβει.
+Existing attempts at integrating a cryptocurrency into a social media platform have focused on enabling users to pay one another. Many services have attempted to introduce tipping. The theory is that if we make tipping simple enough then more people will do it. Other services attempt to get people to pay to promote or boost their content’s ranking. Still others attempt to build small prediction markets on how many tips an article will receive.
 
-Όλες αυτές οι προσεγγίσεις συμπηκνώνωνται σε μικροπληρωμές. Διαφέρουν μονάχα στο ποιός κάνει την πληρωμή. Όλες πάσχουν από ανεπαρκή συμπλοκή των ανθρώπων που κάνουν τις μικροπληρωμές. Στην αναζήτηση για παραγωγή περιεχομένου με κίνητρο οι επιχειρηματίες είναι τόσο συγκεντρωμένοι στο ποιός πρέπει να πληρώσει που χάνουν την προφανής αλήθεια: όλοι κερδίζουν από τις πράξεις όλων οπότε όλοι πρέπει να πληρώνουν ή κανένας δεν πρέπει να πληρώνει, αναλόγος πως θα το κοιτάξει κανείς.
+All of these approaches boil down to micropayments. They differ only in who is making the payment. They all suffer from insufficient engagement of people making the micropayments. In the search for incentivised content production entrepreneurs have been so focused on who should pay that they missed the obvious reality: everyone benefits from everyone’s actions so everyone should pay or no one should pay, depending on how you look at it.
 
-Το STEEM ξεπερνάει τις μικροπληρωμές εντελώς διότι όταν ένας χρήστης ψηφίζει θετικά μια δημοσίευση είναι η κοινότητα που πληρώνει τον “λογαριασμό”. Η ίδια ποσότητα χρημάτων θα ξοδευτεί είτε ο χρήστης ψηφίσει μια δημοσίευση είτε όχι και τα χρήματα δεν έρθουν στον ψηφοφόρο.
+Steem bypasses micropayments completely because when a user upvotes a post it is the community that pays the bill. The same amount of money will be spent whether the user upvotes a post or not and the funds will not come from the voter.
 
-Η διανοητική ενέργεια που σχετίζεται με την λήψη οικονομικών αποφάσεων γίνεται φράγμα συμμετοχής για τον περισσότερο κόσμο.
+The mental energy associated with making an economic decision becomes a barrier to participation for most people.
 
-> *Είδη ερχόμαστε σε επαφή με πολλαπλές επιλογές καθημερινά αναφερόμενοι στο τι να προσχωρήσουμε online σε αυτήν την ψηφιακή εποχή της έκρηξης πληροφοριών, και κάθε επιπλέον απόφαση που πρέπει να πάρουμε απλά προσθέτει στην αβεβαιότητα και το άγχος με το οποίο ερχόμαστε σε επαφή. Οι υποστηρικτές μικροπληρωμών πιστεύουν ότι μια απλοποιημένη εφαρμογή μπορεί να ελατώσει την επεμβατικότητα των μικροπληρωμών και να βελτιώσει την εμπειρία χρηστών, αλλά το επιχείρημα τους μονάχα δημιουργεί διπλά πρότυπα για την διαδικασία λήψης αποφάσεως. Μια συναλλαγή δεν μπορεί να είναι ταυτόχρονα άξια λήψης αποφάσεως και να αξίζει τόσο λίγο που η απόφαση είναι αυτόματη. **Οι μόνες συναλλαγές που οι χρήστες μπορούν να εγκρίνουν χωρίς να το σκεφτούν είναι αυτές που δεν τους κοστίζουν τίποτα**, οπότε κάθε μικροσυναλλαγή θετικής αξίας θα υφίστανται διανοητικό κόστος μέσω της απαίτησης λήψης αποφάσεως. Επιπλέον, το διανοητικό κόστος συναλλαγής αυξάνεται ύπο μια συγκεκριμένη αξία κατωφλίου, ένα φενόμενο το οποίο τοποθετεί τις μικροπληρωμές σε ένα ακόμη μεγαλύτερο μειωνέκτημα. Για παράδειγμα, είναι εύκολο να σκεφτούμε ότι ένα αντίγραφο μιας σημερινής εφημερίδας κοστίζει $1, αλλά οι αναγνώστες έρχονται αντιμέτωποι με πολύ περισσότερη δυσκολία. Και άγχος και επιδεινώνονται αν όλο το online περιεχόμενο έσπαγε στα συστατικά του και ατομικά άξιζε μέσα σε ένα σύστημα μικροπληρωμών.*
-> 
-> *- – Μικροπληρωμές: Ένα Βιώσιμο Μοντέλο Επιχείρησης [^23]*
+*We already face a multitude of choices everyday with regards to what to access online in this digital era of the information explosion, and every additional decision that we must make simply adds on to the uncertainty and anxiety we face. Micropayment supporters believe that a simplified implementation can minimize the intrusiveness of micropayments and improve user experience, but their argument only creates double standards for the decision making process \[2\]. A transaction cannot simultaneously be worth enough to warrant a decision and worth so little that the decision is automatic. **The only transactions that users can approve without thought are ones that cost them nothing**, thus any micro-transaction of positive value will incur mental costs through its requiring a decision. Furthermore, mental transaction costs actually rise below a certain threshold value, a phenomenon that places micropayments at an even greater disadvantage. For instance, it is easy to think that a copy of today's newspapers costs $1, but readers face much more difficulty and anxiety in deciding on the value of each article or word. Such a dilemma will only be replicated and exacerbated if all online content were to be broken down into their components and individually valued within a micropayment system.*
 
-Ύπο το Steem, οι μικροπληρωμές πληρώνονται στον δημιουργό περιεχομένου, αλλά εκείνοι που ψηφίζουν το περιεχόμενο δεν πληρώνουν. Αντί αυτού, το κόστος της ανταμοιβής πληρώνεται με νέα ειδικά νομίσματα. Κάποιος μπορεί να συμμετέχει στο σύστημα, να ψηφίσει για να πληρωθεί κάποιος, και έπειτα να φύγει από το σύστημα με περισσότερα χρήματα από αυτά με τα οποία ξεκίνησε (υποθέτοντας ότι η αξιολόγηση αγοράς του συστήματος του Steem παραμένει σταθερή). Με άλλα λόγια, η λύση των μικροπληρωμών που παρέχει το Steem παρέχει μια εμπειρία χρήστη παρόμοια με αυτή που έχουν πολλές ιστοσελίδες οι οποίες έχουν περιεχόμενο φτιαγμένο από χρήστες.
+-Micropayments: A Viable Business Model[^20]
 
-Ακόμα, το Steem πληρώνει κόσμο για να καταλάβει ποιός πρέπει να πληρώνεται! Αυτού του τύπου ο τρόπος σκέψης είναι επαναστατικός.
+Under Steem, micropayments are paid to content producer, but those who vote for the content do not pay. Instead, the cost of the reward is paid for via new tokens. Someone can join the system, vote to pay someone, and then exit the system with more money than they started with (assuming the market valuation of the Steem system remained constant). In other words, the micropayment solution provided by Steem provides a user-experience similar to many widely used websites that have user-moderated content.
+
+Furthemore, Steem pays people to figure out who should be paid! This kind of thinking is revolutionary.
 
 ## Η Αξία Υπάρχει Στις Συνδέσεις
 
-Το internet θα έχανε ένα μεγάλο κομμάτι της αξίας του αν όλες οι συνδέσεις αναμεταξύ του περιεχομένου χανόντουσαν. Είναι οι σχέση μεταξύ των ιστοσελίδων που επιτρέπει στην Google να αναγνωρίσει την καλύτερη συνταγή μηλόπιτας ανάμεσα σε 16 εκατομμύρια αποτελέσματα. Χωρίς αυτούς τους συνδέσμους οι μόνες πληροφορίες που θα είχε η Google θα ήταν η συχνότητα λέξεων.
+The Internet would lose the vast majority of its value if all links among content were removed. It is the relationship among web pages that allows Google to identify the best apple pie recipe among the 16 million results. Without the links the only information Google would have is word frequency.
 
-Οι συνδέσεις μπορούν να πάρουν πολλές μορφές και έχουν προσαρμοστεί με το πέρασμα του χρόνου. Κάθε φορά που ένας χρήστης ψηφίζει περιεχόμενο σε ένα κοινωνικό δίκτυο προσθέτει μια σύνδεση μεταξύ αυτουνού και του περιεχομένου. Αυτό με τη σειρά του συνδέει τον καταναλωτή με τον παραγωγό μέσω του περιεχομένου. Οι περισσότερες συνδέσεις που έχει ένα δίκτυο τόσο πιο πολύτιμες γίνονται οι πληροφορίες του. Είναι η σχετική και σκόπιμη συνεκτικότητα των πληροφοριών που τους δίνει αξία.
+Links can take many forms and have adapted over time. Every time a user votes on content in a social network they add a connection between themselves and the content. This in turn links the consumer to the producer through the content. The more connections a network has the more valuable the information becomes. It is the relative and intentional connectedness of information that gives it value.
 
-Ένα κοινωνικό δίκτυο μπορεί να αυξάνει στον ανώτατο βαθμό την αξία που εξάγεται από μια συλλογή περιεχομένου αυξάνοντας στον ανώτατο βαθμό την ποσότητα και την ποιότητα των συνδέσεων. Το καλό περιεχόμενο είναι ακριβό και χρονοβόρο ενώ είναι σχεδόν αδύνατο για τους υπολογιστές να εκτελέσουν στην απουσία των συνδέσεων. Το Steem ανταμοίβει τους χρήστες που βρίσκονται μεταξύ των πρώτων που βρίκαν και σύνδεσαν νέο περιεχόμενο.
+A social network can maximize the value extracted from a set of content by maximizing the quantity and quality of connections. Curating content is expensive and time consuming while being near impossible for computers to perform in the absence of links. Steem rewards users who are among the first to find and identify new content.
 
-Προσφέροντας κίνητρα για την επιμέλεια το δίκτυο του Steem έχει την δυνατότητα να χρησιμοποιήσει αυτόματους αλγορίθμους για να εξάγει τις πιο χρήσιμες πληροφορίες από μια ογκώδης ποσότητα περιεχομένου.
+By incentivising curation the Steem network is able to use automated algorithms to extract the most valuable information from a massive amount of content.
 
 ## Λύνοντας Το Πρόβλημα Ένταξης Νέου Προσωπικού Στο Κρυπτονόμισμα
 
-Δεν είναι εύκολο να μάθει κανείς για τα κρυπτονομίσματα[^24]. Κάποιος ο οποίος ανακαλύπτει το Bitcoin και θέλει να το δοκιμάσει γρήγορα συνειδητοποιεί πως πρέπει να εγγραφή με μια ανταλλαγή και να περάσει χρήματα στον λογαριασμό του με μια πιστωτική κάρτα ή με έμβασμα. Πως θα ήταν ο βαθμός υιοθεσίας του Facebook εάν χρειαζόταν να ανακατευτούμε με χρήματα και με δύο τρόπους ταυτοποίησης;
+It isn’t easy to get into cryptocurrency[^21]. Someone who discovers Bitcoin and wants to try it out quickly learns that they will need to sign up with an exchange and fund their account with a credit card or wire transfer. What would Facebook’s adoption rate have been like if you had to fork over money and a two forms of ID?
 
-Το Steem λύνει αυτό το πρόβλημα δίνοντας σε όλους έναν τρόπο να πληρωθεί επειδή κάνει κάτι απλό, αλλά πολύτιμο, καθήκοντα. Αυτό θα βοηθήσει στην ευρεία διανομή των νομισμάτων STEEM. Αυτό είναι χρήσιμο διότι τα κρυπτονομίσματα έχουν ένα αποτέλεσμα δικτύου (π.χ. περισσότεροι χρήστες το κάνουν πιο χρήσιμο; για ένα υπορβολικό παράδειγμα, σκεφτείτε πως ο Satoshi κρατούσε το 100% των Bitcoin για τον εαυτό του, τα Bitcoin δεν θα είχαν αξία.).
+Steem solves this problem by giving everyone a way to get paid for doing simple, but valuable, tasks. This will help to widely distribute STEEM tokens. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless.)
 
 ## Λύνοντας Το Πρόβλημα Ρευστότητας Των Κρυπτονομισμάτων
 
-Ένα νόμισμα το οποίο είναι δύσκολο στην χρήση του ή απίθανη η πώληση του έχει πολύ μικρή αξία. Κάποιος ο οποίος βρει Bitcoin αξίας $1.00 θα ανακαλύψει ότι κοστίζει περισσότερο από $1.00 για να πουλήσει αυτό το Bitcoin. Χρειάζεται να δημιουργήσει έναν λογαριασμό με μια ανταλλαγή, να εκτελέσει την νομιμοποίηση KYC, και να πληρώσει τέλη. Μικρές ποσότητες κρυπτοοικονομίας είναι σαν μερικά ψιλά που οι άνθρωποι δεν έχουν την πρόθεση να σκύψουν για να τα σηκώσουν.
+A currency that is difficult to use or impossible to sell has little value. Someone who comes across $1.00 worth of Bitcoin will discover that it costs more than $1.00 to sell that Bitcoin. They have to create an account with an exchange, perform KYC validation, and pay fees. Small amounts of cryptocurrency are like small change that people are unwilling to bend over to pick up.
 
-Οι έμποροι δίνουν στους χρήστες έναν τρόπο για να μετατρέψουν γρήγορα τα κρυπτονομίσματα τους σε αισθητά αγαθά και υπηρεσίες. Οι έμποροι χρειάζονται ένα νόμισμα στενά συνδεδεμένο με την λογιστική τους μονάδα, κανονικά δολάρια. Αποδέχοντας ένα μεταβλητό νόμισμα εισάγει σημαντικά λογιστικά έξοδα.
+Merchants give users a way to quickly convert their cryptocurrency into tangible goods and services. Merchants need a currency pegged to their unit of account, normally dollars. Accepting a volatile currency introduces significant accounting overhead.
 
-Οι έμποροι θα δεχτούν οποιοδήποτε νόμισα αν αυτό αυξάνει τις πωλήσεις. Έχοντας μια μεγαλύτερη βάση χρηστών με ένα σταθερό νόμισμα όπως το SMD χαμηλώνει το φράγμα εισόδου για τους εμπόρους. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
+Merchants will accept any currency if it increases their sales. Having a large user base with a stable currency such as SBD lowers the barrier to entry for merchants. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
 
-Ένας άλλος τρόπος με τον οποίο ο κόσμος μπορεί να ρευστοποιήσει μικρές ποσότητες κρυπτονομισμάτων που λαμβάνει με την συμμετοχή του στην πλατφόρμα του Steem είναι μέσω των φιλοδωρημάτων προς άλλους. Αυτό είναι σαν να αφήνεις τα λίγα ψιλά σαν ένα φιλοδώρημα στον σερβιτόρο. Όταν αρκετός κόσμος αφήνει μικρά φιλοδωρήματα αθροίζονται σε μια σημαντική ποσότητα. Εσύ και ο σερβιτόρος κερδίζεται από το φιλοδώρημα.
+Another way that people can liquidate the small amounts of cryptocurrency they receive from participating on the Steem platform is through *tipping* others. This is like leaving the small change as a tip for your waiter. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
 
 ## Λογοκρισία
 
-Το Steem είναι ένα αποκεντρισμένο δίκτυο το οποίο λειτουργεί από μεταλλευτές σε αρμοδοιότητες σε όλο τον κόσμο. Όλες οι πράξεις των χρηστών καταγράφονται δημόσια στο blockchain, και μπορούν να επαληθευτούν δημόσια. This means that there is no single entity that can censor content that is valued by STEEM holders.
+Steem is a decentralized network that is operated by witnesses in jurisdictions around the world. All user actions are publicly recorded on the blockchain, and can be publicly verified. This means that there is no single entity that can censor content that is valued by STEEM holders.
 
-Ατομικές σελίδες όπως το steemit.com μπορεί να λογοκρίνει περιεχόμενο στην συγκεκριμένη του σελίδα, αλλά το περιεχόμενο που εκδίδεται στο blockchain είναι εκ φύσεως αναμεταδόμενη κίνηση και κλώνοι στον υπόλοιπο κόσμο μπορούν να συνεχίσουν να το έχουν διαθέσιμο.
+Individual websites such as steemit.com may censor content on their particular site, but content published on the blockchain is inherently broadcast traffic and mirrors all around the world may continue to make it available.
 
-Η ελεύθερη έκφραση είναι η βάση όλων των άλλων ελευθεριών και η κάθε παράβαση της ελευθερίας έκφρασης υπονομεύει το μόνα ειρηνικό μέσο για να φτάσουμε στην κοινή συναίνεση: την συζήτηση. Χωρίς την ελέυθερη συζήτηση οι ψηφοφόροι δεν μπορούν να είναι εντελώς ενημερωμένοι, και οι απληροφόρητοι ψηφοφόροι είναι μεγαλύτερη απειλή προς την κοινωνία από το χάσιμο του δικαιώματος ψήφου. Η λογοκρισία αποτελεί μέσο κλοπής ψήφων μέσο του περιορισμού της δημόσιας ομιλίας. Το Steem είναι αφιερωμένο στο να καθιστά ικανή την ελεύθερη έκφραση και στο να χτίσει μια ελεύθερη κοινωνία.
+Freedom of speech is the foundation of all other liberties and any infringement upon freedom of speech undermines the only peaceful means of reaching consensus: discussion. Without free discussion voters cannot be fully informed, and uninformed voters are a greater threat to society than losing the right to vote. Censorship is a means of stealing votes through limiting public discourse. Steem is committed to enabling free speech and building a free society.
 
 ## Λύνοντας Την Οργανική Ανακάλυψη Μέσω Της Βελτιστωποίησης Μηχανών Αναζήτησης
 
-Τα περισσότερα κρυπτονομίσματα παράγουν για αυτούς που δεν χρησιμοποιούνε ενεργά το δίκτυο. Το Steem, σε αντίθεση, παράγει περιεχόμενο και ενθαρρύνει τους χρήστες να το μοιραστούν. Αυτό το περιεχόμενο κατατάσσεται σε πίνακα από μηχανές αναζήτησης και τελικά θα δώσει αξία σε έναν μεγάλο αριθμό αδρανών χρηστών. Αυτή η κίνηση αναζήτησης δημιουργεί οργανική διαφήμιση για το δίκτυο του Steem και μεγαλώνει το αποτέλεσμα δικτύου.
+Most cryptocurrencies generate little value for those who are not actively using the network. Steem, by contrast, generates content and encourages users to share it. This content gets indexed by search engines and ultimately will bring value to a large number of passive users. This search traffic creates organic advertising for the Steem network and grows the network effect.
 
 ## Μετατοπίζοντας Προς Απόδοση Βασισμένη Σε Blockchain
 
-Το internet αντιπροσωπεύει το ευκολότερο μέσον για την διανομή πληροφοριών στον κόσμο. Έτσι λοιπόν, μπορεί να είναι ένα τρομακτικό μέρος για τους δημιουργούς περιεχομένου οι οποίοι θέλουν να κατέχουν το περιεχόμενο τους και να το μοιράζονται με σωστή απόδοση. Στα τρέχων κοινονικά δίκτυα, η απόδοση είναι κάτι το οποίο μπορεί να χαθεί αποβραδίς – ένα δημοσιευμένο βίντεο ή μια εικόνα μπορεί να αναπαραχθεί και να ξαναμοιραστεί χωρίς συκατάθεση ή ενδιαφέρον για τον δημιουργό.
+The internet represents the easiest medium for distributing information in the world. With that said, it can be a frightening place for content creators who would like to own their content and have it shared with proper attribution. On current social media platforms, attribution is something that can be lost overnight - a posted video or image can be replicated and re-shared without consent or regard for the creator.
 
-Ύπο ένα κοινωνικό δίκτυο βασισμένο σε blockchain, ο δημιουργός ή εκδότης μπορεί πάντα να έχει την δυνατότητα να δείξει μια δημόσια καταγραφή και μια σφραγίδα χρόνου που αποδεικνύει από που προέρχεται το περιεχόμενο αυτό. Σε μια περίπτωση που ένας δημιουργός θα ήθελε να απευθυνθεί σε αυτούς που έχουν επαναμοιραστεί χωρίς την άδεια του ή την απόδοση του, οι καταγραφές του blockchain παρέχουν δημόσια απόδειξη ότι το περιεχόμενο είχε δημοσιευτεί από έναν συγκεκριμένο χρήστη σε μια συγκεκριμένη στιγμή. Στο μέλλον, η αποδόσης που βασίζονται σε blockchain έχουν το ενδεχόμενο να αναγνωριστούν από κυβερνήσεις για την αυθεντικότητα τους και θα μπορούν να έχουν δικαστική δύναμη, πράγμα το οποίο μπορεί να δώσει στους δημιουργούς περιεχομένου μεγαλύτερες δυνάμεις να ελέγξουν την δουλειά τους.
+Under blockchain-based social media, a creator or author would always be able to point to a public record and timestamp showing proof of their content origination. In a circumstance where a creator would like to address those who have re-shared without permission or attribution, blockchain-based records provide public proof that the content was posted by a particular user at a particular time. In the future, blockchain-based attribution could come to be recognized by governments for its authenticity and could hold weight in court, which would give content creators greater powers to control their work.
 
-Μολονότι μια υπηρεσία σφραγίδας χρόνου μπορεί να χτιστεί σε σχεδόν οποιοδήποτε blockchain, και πολλές προσπάθειες έχουν υπάρξει για να χτιστεί αυτού του ίδους η υπηρεσία στο δίκτυο Bitcoin, το Steem έχει ένα χρήσιμο πλεονέκτημα σε αυτόν τον τομέα διότι οι εκδότες περιεχομένου είνα “πρώτης τάξης πολίτες” -- το blockchain του Steem είναι χτισμένο από τα θεμέλια γύρω από την περίπτωση χρήσης της δημοσίευσης περιεχομένου, το οποίο επιτρέπει στους δημιουργούς περιεχομένου να έχουν το blockchain για να επικυρώνει το περιεχόμενο τους οποιαδήποτε στιγμή απλά δημιουργώντας την δημοσίευση τους χρησιμοποιώντας τα ίδια εργαλεία έκδοσης που χρησιμοποιούν άλλο χρήστες του Steem.
+While a timestamping service can be built on almost any blockchain, and several efforts exist to build this kind of service on the Bitcoin network, Steem has a useful advantage in this realm because content publishers are “first class citizens” -- the Steem blockchain is built from the ground up around the use case of content publication, which allows content creators to have the blockchain to validate their content at a certain point in time simply by writing their post using the same authoring tools used by other Steem users.
 
 ## Αντικαθιστώντας Την Διαφήμιση Με Αμοιβές Περιεχομένου Βασισμένες Στο Blockchain
 
-Ύπο τα περισσότερα μοντέλα νομισματοποίησης περιεχομένου, οι δημιουργοί περιεχομένου μοχλεύουν την διαφήμηση με τον ένα ή με τον άλλο τρόπο. Πολλοί από τους δημιουργούς καταλαβαίνουν ότι η διαφήμιση μπορεί να ελαττώσει την αξία της δουλειάς τους προς τον καταναλωτή, ενώ οι δημιουργοί πολυ συχνά πρέπει να επιζητήσουν επιστροφές για τον χρόνο τους μέσω της νομισματοποίησης. Η διαφήμιση αντιπροσωπεύει ένα δίκοπο μαχαίρι: Με τις διαφημίσεις, ένας δημιουργός μπορεί να βγάλει κέρδος με τον ευκολότερο τρόπο. Χωρίς τις διαφημίσεις, η νομισματοποίηση είναι δύσκολη αλλά το περιεχόμενο είναι πλουσιότερο.
+Under most content monetization models, content creators leverage advertising in one form or another. Many creators recognize how advertising may diminish their work’s value to the consumer, yet creators very often must seek returns on their time by monetizing. Advertising represents a double-edged sword: With ads, a creator can make money most easily. Without ads, monetization is difficult but the content is richer.
 
-Οι δημιουργοί οι οποίοι δημοσιεύουν σε κοινωνικά δίκτυα τα οποία συνδέονται με το Steem έχουν την δυνατότητα νομισματοποίησης έχοντας απλώςτην δουλειά τους να αναγνωρίζεται (ή να “αρέσει”) στην κοινότητα του Steem. Οι πληρωμές που βασίζονται σε blockchain είναι εντελώς ψηφιακές και δεν έχουν κανέναν μεσολαβητή. Επομένως η νομισμάτοποίηση μέσω ανταμοιβών περιεχομένου που βασίζονται σε blockchain πρέπει να είναι γρηγορότερες και έχουν πολύ χαμηλότερη δυσκολία χρήσης από την νομισματοποίηση μέσω διαφημίσεων.
+Creators posting to social media outlets that are connected to Steem may monetize merely by having their work recognized (or ”liked”) by the Steem community. Blockchain-based payouts are completely digital and have no middle-man. Therefore monetization by blockchain-based content rewards should be faster and much lower barrier to use than monetization by advertisements.
 
 # Σύναψη
 
-Το Steem είναι ένα πείραμα σχεδιασμένο για να δείξει της προκλήσεις στην κρυπτοοικονομία και στη βιομηχανία κοινωνικών δικτύων συνδυάζοντας τις καλύτερες πτυχές και από τα δύο. Το Steem παρουσιάζει ευκαιρίες κέρδους στους δημιουργούς περιεχόμενου και στους διαδικτυακούς αναγνώστες με τρόπους που δεν υπήρχαν στην βιομηχανία των κοινωνικών δικτύων. Μέσω του Steem, άτομα κερδίζουν αληθινές ανταμοιβές online οι οποίες είναι άμεσα σχετικές με την συσχετιζμένη συνεισφορά τους. Αυτές οι ανταμοιβές θα έχουν αξία δολαρίου λόγο της ανακάλυψης της τιμής αγοράς και της ρευστότητας του Steem, και ο κόσμος που έχει Steem θα έχει περισσότερες αποκλειστικές δυνατότητες κέρδους από αυτούς που δεν έχουν.
+Steem is an experiment designed to address challenges in the cryptocurrency and social media industries by combining the best aspects from both. Steem presents earning opportunities to content creators and internet readers in ways that have not existed within the social media industry. Within Steem, individuals earn real rewards online that are directly correlated to their contributions. Those rewards may have dollar value due to the market price discovery and liquidity of Steem, and the people who hold Steem may have more exclusive earning powers than those who do not.
 
-# Αναφορές
+[^1]: Reddit’s Cryptocurrency, Forbes, Erika Morphy, October 2014 http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/\#4e07b05332b9
 
-[^1]: Reddit's Cryptocurrency, Forbes, Erika Morphy, October 2014, <http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/#4e07b05332b9>
+[^2]: Sweat Equity, Investopedia http://www.investopedia.com/terms/s/sweatequity.asp
 
-[^2]: Sweat Equity, Investopedia, <http://www.investopedia.com/terms/s/sweatequity.asp>
+[^3]: Meta-moderation is a second level of comment moderation. Users are invited to rate a moderator's decision in order to improve moderation. https://en.wikipedia.org/wiki/Meta-moderation\_system
 
-[^3]: **Meta-moderation** is a second level of comment moderation. Users are invited to rate a moderator's decision in order to improve moderation. <https://en.wikipedia.org/wiki/Meta-moderation_system>
+[^4]: The Impossible Trinity, economic theory https://en.wikipedia.org/wiki/Impossible\_trinity
 
-[^4]: The Impossible Trinity, economic theory <https://en.wikipedia.org/wiki/Impossible_trinity>
+[^5]: N-Person Prisoner’s Dilemma https://cs.stanford.edu/people/eroberts/courses/soco/projects/1998-99/game-theory/npd.html
 
-[^5]: Metcalfe's Law <https://en.wikipedia.org/wiki/Metcalfe%27s_law>
+[^6]: The Story of the Crab Bucket http://guidezone.e-guiding.com/jmstory\_crabs.htm
 
-[^6]: The Story of the Crab Bucket, <http://guidezone.e-guiding.com/jmstory_crabs.htm>
+[^7]: Zipf’s Law https://en.wikipedia.org/wiki/Zipf%27s\_law
 
-[^7]: Zipf's Law <https://en.wikipedia.org/wiki/Zipf%27s_law>
+[^8]: Clay Shirky, The Case Against Micropayments http://www.openp2p.com/pub/a/p2p/2000/12/19/micropayments.html
 
-[^8]: Clay Shirky, The Case Against Micropayments<http://www.openp2p.com/pub/a/p2p/2000/12/19/micropayments.html>
+[^9]: reCAPTCHA, Easy on Humans, Hard on Bots https://www.google.com/recaptcha/intro/index.html
 
-[^9]: reCAPTCHA, Easy on Humans, Hard on Bots<https://www.google.com/recaptcha/intro/index.html>
+[^10]: Forbes, Tristan Louis, “How Much is a User Worth?” http://www.forbes.com/sites/tristanlouis/2013/08/31/how-much-is-a-us
 
-[^10]: Bitcoin Estimated Transaction Volume<https://blockchain.info/charts/estimated-transaction-volume?showD>
+[^11]: Ripple, Account Reserves https://ripple.com/build/reserves/
 
-[^11]: Forbes, Tristan Louis, "How Much is a User Worth?"<http://www.forbes.com/sites/tristanlouis/2013/08/31/how-much-is-a-us>
+[^12]: Reddit Statistics, Number of Users and Comments per Second http://expandedramblings.com/index.php/reddit-stats/2/
 
-[^12]: Ripple, Account Reserves<https://ripple.com/build/reserves/>
+[^13]: Martin Fowler, The LMAX Architecture http://martinfowler.com/articles/lmax.html
 
-[^13]: Reddit Statistics, Number of Users and Comments per Second<http://expandedramblings.com/index.php/reddit-stats/2/>
+[^14]: Introducing Intel Optane Technology – Bringing 3D XPoint Memory to Storage and Memory Products https://newsroom.intel.com/press-kits/introducing-intel-optane-technology-bringing-3d-xpoint-memory-to-storage-and-memory-products/
 
-[^14]: Martin Fowler, The LMAX Architecture<http://martinfowler.com/articles/lmax.html>
+[^15]: United States Money Supply, 2009 https://research.stlouisfed.org/fred2/graph/?s%5B1%5D%5Bid%5D=AMBNS
 
-[^15]: Introducing Intel Optane Technology - Bringing 3D XPoint Memory to Storage and Memory Products<https://newsroom.intel.com/press-kits/introducing-intel-optane-technology-bringing-3d-xpoint-memory-to-storage-and-memory-products/>
+[^16]: CPI Inflation Index, United States Dollar 2008-2016 http://data.bls.gov/cgi-bin/cpicalc.pl?cost1=1&year1=2008&year2=2016
 
-[^16]: Quantity Theory of Money,<http://www.investopedia.com/articles/05/010705.asp>
+[^17]: Bitcoin Annual Inflation Rate, Bitcoin Talk Forum https://bitcointalk.org/index.php?topic=130619.0
 
-[^17]: United States Money Supply, 2009<https://research.stlouisfed.org/fred2/graph/?s%5B1%5D%5Bid%5D=AMBNS>
+[^18]: Reddit Valuaton, Newsweek, 2014 http://www.newsweek.com/investors-think-reddit-worth-500-million-26
 
-[^18]: CPI Inflation Index, United States Dollar 2008-2016<http://data.bls.gov/cgi-bin/cpicalc.pl?cost1=1&year1=2008&year2=2016>
+[^19]: Worth of Web, March 2016 http://www.worthofweb.com/website-value/reddit.com/
 
-[^19]: Bitcoin Transaction Volume<https://blockchain.info/charts/estimated-transaction-volume>
+[^20]: Micropayments: A Viable Business Model http://www.openp2p.com/pub/a/p2p/2000/12/19/micropayments.html
 
-[^20]: Bitcoin Annual In ation Rate, Bitcoin Talk Forum<https://bitcointalk.org/index.php?topic=130619.0>
-
-[^21]: Reddit Valuaton, Newsweek, 2014<http://www.newsweek.com/investors-think-reddit-worth-500-million-26>
-
-[^22]: Worth of Web, March 2016<http://www.worthofweb.com/website-value/reddit.com/>
-
-[^23]: Micropayments: A Viable Business Model<http://cs.stanford.edu/people/eroberts/cs181/projects/2010-11/Microp>
-
-[^24]: Dailydot, Jon Southurt, April 2015<http://www.dailydot.com/opinion/bitcoin-cryptocurrency-adoption-hard>
+[^21]: Dailydot, Jon Southurt, April 2015 http://www.dailydot.com/opinion/bitcoin-cryptocurrency-adoption-hard
