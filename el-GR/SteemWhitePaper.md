@@ -1,6 +1,6 @@
 # STEEM
 
-## An incentivized, blockchain-based, public content platform.
+## Μια δημόσια πλατφόρμα περιεχομένου, βασισμένη στα κίνητρα και στο blockchain.
 
 August 2017
 
