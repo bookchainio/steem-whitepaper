@@ -1,42 +1,42 @@
 # Steem
 
-## An incentivized, blockchain-based, public content platform.
+## Platform konten publik yang berbasis insentif dan berbasis blockchain.
 
-August 2017
+Agustus 2017
 
-# Translator's notes
+# Catatan penerjemah
 
-Placeholder for translator's notes.
+Placeholder untuk catatan penerjemah.
 
-# Abstract
+# Abstrak
 
-Steem is a blockchain database that supports community building and social interaction with cryptocurrency rewards. Steem combines concepts from social media with lessons learned from building cryptocurrencies and their communities. An important key to inspiring participation in any community, currency or free market economy is a fair accounting system that consistently reflects each person's contribution. Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
+Steem adalah database blockchain yang mendukung pembangunan komunitas dan interaksi sosial dengan penghargaan kriptokokus. Steem menggabungkan konsep dari media sosial dengan pelajaran yang didapat dari membangun kripto dan komunitas mereka. Kunci penting untuk menginspirasi partisipasi dalam komunitas, mata uang atau ekonomi pasar bebas adalah sistem akuntansi yang adil yang secara konsisten mencerminkan kontribusi setiap orang. Steem adalah cryptocurrency pertama yang mencoba untuk secara akurat dan transparan memberi penghargaan kepada sejumlah individu yang tidak terbatas yang memberi * kontribusi subjektif * ke komunitasnya.
 
-# Table of Contents
+# Daftar Isi
 
 <!-- toc -->
 
-# Introduction
+# Pengantar
 
-Collectively, user-generated content has created billions of dollars worth of value for the shareholders of social media companies, such as Reddit, Facebook, and Twitter. **In 2014, Reddit hypothesized that its platform would be improved if everyone who contributed to reddit.com by posting stories, adding comments or voting were rewarded with a fair share in Reddit, Inc.[^1]**. Steem aims to support social media and online communities by returning much of its value to the people who provide valuable contributions by rewarding them with cryptocurrency, and through this process create a currency that is able to reach a broad market, including people who have yet to participate in any cryptocurrency economy.
+Secara kolektif, konten buatan pengguna telah menghasilkan nilai miliaran dolar untuk pemegang saham perusahaan media sosial, seperti Reddit, Facebook, dan Twitter. ** Pada tahun 2014, Reddit menghipotesiskan bahwa platformnya akan meningkat jika setiap orang yang berkontribusi pada reddit.com dengan mengeposkan cerita, menambahkan komentar atau memberikan ganjaran dengan pembagian yang adil di Reddit, Inc. [^1] **. Steem bertujuan untuk mendukung media sosial dan komunitas online dengan mengembalikan sebagian besar nilainya kepada orang-orang yang memberikan kontribusi berharga dengan memberi mereka kriptocurrency, dan melalui proses ini, menciptakan mata uang yang mampu mencapai pasar yang luas, termasuk orang-orang yang belum memiliki berpartisipasi dalam ekonomi kriptocurrency apapun.
 
-There are some key principles that have been used to guide the design of Steem. The most important principle is that everyone who contributes to a venture should receive pro-rata ownership, payment or debt from the venture. This principle is the same principle that is applied to all startups as they allocate shares at founding and during subsequent funding rounds.
+Ada beberapa prinsip kunci yang telah digunakan untuk membimbing desain Steem. Prinsip yang paling penting adalah bahwa setiap orang yang berkontribusi terhadap usaha harus menerima kepemilikan, pembayaran, atau hutang pro-rata dari usaha tersebut. Prinsip ini adalah prinsip yang sama yang diterapkan pada semua startup karena mereka mengalokasikan saham pada pendirian dan selama putaran pendanaan berikutnya.
 
-The second principle is that all forms of capital are equally valuable. This means that those who contribute their scarce time and attention toward producing and curating content for others are just as valuable as those who contribute their scarce cash. This is the sweat equity principle[^2] and is a concept that prior cryptocurrencies have often had trouble providing to more than a few dozen individuals.
+Prinsip kedua adalah bahwa semua bentuk modal sama-sama berharga. Ini berarti bahwa mereka yang menyumbangkan waktu dan perhatian mereka yang langka untuk memproduksi dan mengurasi konten untuk orang lain sama berharganya dengan mereka yang menyumbang uang mereka yang langka. Ini adalah prinsip ekuitas keringat [^2] dan merupakan konsep bahwa kripto di masa lalu sering mengalami kesulitan menyediakan lebih dari beberapa lusin individu.
 
-The third principle is that the community produces products to serve its members. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
+Prinsip ketiga adalah bahwa masyarakat menghasilkan produk untuk melayani anggotanya. Prinsip ini dicontohkan oleh serikat kredit, koperasi makanan, dan rencana pembagian kesehatan, yang melayani anggota komunitas mereka daripada menjual produk atau layanan kepada orang-orang di luar masyarakat.
 
-The Steem community provides the following services to its members:
+Komunitas Steem menyediakan layanan berikut kepada anggotanya:
 
-1. A source of curated news and commentary.
-2. A means to get high quality answers to personalized questions.
-3. A stable cryptocurrency pegged to the U.S. dollar.
-4. Free payments.
-5. Jobs providing above services to other members.
+1. Sumber berita dan komentar yang dikuratori.
+2. Cara untuk mendapatkan jawaban berkualitas tinggi atas pertanyaan yang dipersonalisasi.
+3. Kripto yang stabil dipatok pada dolar A.S.
+4. Pembayaran gratis.
+5. Jobs memberikan layanan di atas kepada anggota lainnya.
 
-Steem’s purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem’s incentives may result in better outcomes for most participants.
+Penataan kembali insentif ekonomi oleh Steem memiliki potensi untuk menghasilkan hasil yang lebih adil dan lebih inklusif untuk semua orang yang terlibat daripada platform media sosial dan kriptografi yang telah ada sebelumnya. Makalah ini akan mengeksplorasi insentif ekonomi yang ada dan menunjukkan bagaimana insentif Steem dapat menghasilkan hasil yang lebih baik bagi sebagian besar peserta.
 
-## Recognizing Contribution
+## Mengakui Kontribusi
 
 Steem is designed from the ground up to address the major barriers to adoption and monetization of a social media based economy. Our thesis is that the same techniques used to grow major social media platforms can be used to bootstrap a successful cryptocurrency. Economic incentives enabled by cryptocurrency can dramatically facilitate the growth of a new social media platform. It is the synergy between cryptocurrency and social media that we believe may give Steem a powerful advantage in the market.
 
