@@ -258,61 +258,61 @@ Steemではブロック生成はラウンドで行われます。 各ラウン�
 
 アクティブな証人は事前にわかっているため、Steemは3秒毎にブロックを生成するように証人をスケジュールすることができます。 証人はNTPプロトコルでブロック生成を同期させます。 このアルゴリズムの変形はBitSharesネットワークで1年以上使用されており、信頼性が証明されています。
 
-# Eliminating Transaction Fees
+# 取引手数料の排除
 
-Steem goes to great lengths to reward people for contributing to the network. It would be counterproductive to turn around and charge people every time they attempt to interact with the community.
+Steemはネットワークに貢献する人々に報酬を出すために尽力します。人々がコミュニティとやり取りをする度に課金するのは逆効果になるでしょう。
 
-Blockchain technology currently depends upon transaction fees to prevent spam. These fees suffer all of the known problems with microtransactions and prevent blockchains from being used for low-value transactions. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
+現在、ブロックチェーン技術は取引手数料によってスパムを防止しています。 これらの手数料は少額取引における既知の問題すべてを被り、ブロックチェーンが少額の取引に使用されるのを阻みます。 真に分散化したアプリケーションは、集中化された競合相手と競争するには、ユーザーに外見上は無料であるように見せる必要があります。 本稿では手数料の必要性を排除するためのSteemにおけるアプローチを概説しており、それによって以前は困難であった分散化アプリケーションを広い範囲で可能にします。
 
-## The Problem With Fees
+## 手数料の問題
 
-Blockchains are decentralized networks where all transactions are broadcast to all peers. Every so often a block is produced that includes some or all of the pending transactions. All blockchains must find a solution to prevent malicious users from consuming all of the available network capacity with worthless transactions. These worthless transactions can prevent other valuable transactions from being processed and ultimately destroy the network.
+ブロックチェーンは分散化されたネットワークであり、すべての取引はすべてのピアに発信されます。 時々生成されるブロックは、保留中の取引の一部または全部を含みます。 すべてのブロックチェーンは、悪意あるユーザーが無意味な取引でネットワーク容量を消費し尽くしてしまうのを防ぐための解決策を見つける必要があります。 無意味な取引は他の意味のある取引が処理されるのを阻み、最終的にネットワークを破壊します。
 
-The solution adopted by most blockchains thus far is to charge a minimum transaction fee. A fee worth just a few cents is enough to make attacking the network expensive and unprofitable. While this approach solves the spam problem, it introduces new problems. Imagine solving the email spam problem by introducing a small fee on every email; people wouldn’t use email.
+これまでのほとんどのブロックチェーンが採用した解決策は、最低限の取引料金を課すことです。 ネットワークへの攻撃を効果で無益なものにするには僅か数セントの手数料で十分です。 このアプローチはスパム問題を解決しますが、新しい問題をもたらします。 すべての電子メールに少額の料金を課すことでスパムメールの問題を解決しようとすることを想像してみてください。誰も電子メールを使わなくなるでしょう。
 
-### Micropayments Don’t Work
+### マイクロペイメントはうまくいかない
 
-The fundamental problem with charging transaction fees is that micropayments don’t work, especially for low-value user actions. When a fee is charged on every transaction, it limits the types of transactions that a decentralized network can process. Regardless of how rational the argument for the necessity of fees, users still hate the experience of being nickeled and dimed for everything that they do.
+取引に手数料を課すことの基本的な問題は、マイクロペイメント、特に価値の低いユーザー行動に対するものが機能しないことです。 すべての取引に手数料がかかる場合、分散ネットワークが処理できる取引の種類が制限されます。 手数料の必要性に関してどのような合理的な議論が行われたとしても、ユーザーは自分のすべての行動に対して少しずつ出費があるということを嫌います。
 
-Imagine if the websites we use every day charged us a fee every time we modify our accounts by changing the password. Users expect certain things to be free. Requiring users to make a decision on whether or not an action is worth a small fee creates anxiety that causes users to leave. A transaction can’t be worth so much as to require a decision but worth so little that that decision is automatic. There is a certain amount of anxiety involved in any decision to buy, no matter how small, and it derives not from the interface used or the time required, but from the very act of deciding.
+私たちが毎日使用するウェブサイトが、アカウントのパスワード変更を行う毎に手数料がかかるということを想像してみてください。 ユーザーは一定のものが無料であることを期待しています。 ある行動に少額の手数料がかかるかどうかをユーザーに判断させることは、ユーザー離れの原因となる懸念を生みます。 取引は決断を必要とするほど価値があるわけではありませんが、自動化できるほど小さい価値というわけでもありません。 どんなに小さいものであっても、それを買う決断をする際はある程度の不安があります。それはユーザーインターフェースやかかる時間に由来するものではなく、まさに決断する行為そのものに由来します。
 
-Micropayments, like all payments, require a comparison: *“Is this much of X worth that much of Y?”* There is a minimum mental transaction cost created by this fact that cannot be optimized away, because the only transaction a user will be willing to approve with no thought will be one that costs them nothing, which is no transaction at all.
+マイクロペイメントは、すべての支払と同様に比較を要します: *「Xの大部分には、Yの大部分の価値があるか？」*ユーザーが何も考えずに承認できる取引だけが、コストがかからないものですが、それは取引ではありません。そのため、この事実によって作られた取引の精神的なコストには、最適化によって除去しきれないものがあります。
 
-– Clay Shirky[^8]
+– クレイ・シャーキー[^8]
 
-In the world of financial payments, small fees are acceptable because the value of the transaction is extremely high relative to the fee charged, and the buyer has already made a decision to buy. The world of potential blockchain applications is far greater than just financial payments and includes many necessary transactions for which fees are simply unacceptable to users.
+金融決済の世界では、取引が手数料に対して高額であり、買い手は既に購入を決断しているため、少額の手数料が容認されています。 潜在的なブロックチェーンアプリケーションの世界は、単なる金融決済よりも遥かに大きく、必要な取引にユーザーが手数料を容認しないようなものを多数含みます。
 
-Systems like BitShares, Nxt, Ripple, Counter Party and Stellar all allow users to place limit orders on the blockchain and all of them charge users a small fee to perform this action. Later if the user wishes to cancel their order, another fee is charged. Systems like Ethereum take micropayments to a whole new level: charging per calculation. All of these systems struggle to attract new mainstream users for the same reasons that a decentralized search engine would struggle to attract users from Google if it charged a small fee for every search. It doesn’t matter how good the service is, people expect certain things to be free. This is true even if a user ends up paying more overall under a different fee structure.
+BitShares、Nxt、Ripple、Counter Party、Stellarのようなシステムはすべてユーザーがブロックチェーン上に指値注文を置くことができ、そのすべてがユーザーの行動に対して少額の手数料を課します。 その後、ユーザーが注文を取り消そうとすると、もう一度手数料が課されます。 Ethereumのようなシステムはマイクロペイメントを全く新しい段階にします: 計算毎の課金。 分散型検索エンジンが検索毎に少額の手数料を課す場合にGoogleからユーザーを引き込むのに苦労するだろうということと同じ理由で、これらのすべてのシステムは新しい主流ユーザーを引き込むのに苦労しています。 それはサービスがどれほどすばらしいかということとは関係ありません。人々は一定のものが無料であることを期待しています。 これはユーザーが別の料金体系の下でより全体的な支払いを終わらせたとしても当てはまります。
 
-### Fees are a Barrier to Entry
+### 手数料は参加の障壁
 
-Any fee creates a barrier to entry for new users. Before someone can experiment with Ethereum they must acquire some ETH tokens. Anyone wanting to build a decentralized application on Ethereum must pass on the cost to their customers. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
+どのような手数料も新規ユーザーの参加の障壁となります。 Ethereumを体験するにはまずETHトークンを取得する必要があります。 Ethereum上で分散アプリケーションを構築しようとする人は、顧客にコストを転嫁する必要があります。 暗号通貨の購入は簡単な作業ではなく、10ドル未満の金額にはほとんど意味がありません。 つまり、新しい分散アプリケーションを試してみたい新規ユーザーは、まず10ドルを手放すことに納得しなければなりません。
 
-### Changing Fees
+### 手数料の変更
 
-Over time a network must adjust fees. This can happen either due to an increase in the value of the token or due to a surge in capacity. Users like predictable fees and guaranteed service. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
+時間とともにネットワークは手数料を調整しなければなりません。 これは、トークン価値の上昇または容量の増加によって起こることがあります。 ユーザーは予測可能な料金と保証されたサービスを好みます。 使用料の多い時間に動的に手数料を変更することも可能ですが、ユーザー・エクスペリエンスの低下を招きます。
 
-### Sybil Attacks
+### シビル攻撃
 
-Centralized websites prevent spam through rate limiting and some form of ID verification. Even something as simple as reCAPTCHA[^9] is sufficient to limit the creation of fake accounts. If someone abuses their account then centralized websites are free to block the account.
+集中型ウェブサイトは帯域制限やID認証によってスパムを防ぎます。 reCAPTCHA[^9]のような単純なものでも偽アカウントの作成を制限するのには十分です。 誰かがアカウントを悪用すると、集中型ウェブサイトは自由にアカウントをブロックできます。
 
-In a decentralized system there is no direct way to ban users nor centralized provider able to host a reCAPTCHA and enforce rate limiting of accounts. In fact, the inability to censor users is one of the main selling points of blockchain technology.
+分散型システムでは、ユーザーを直接BANすることや、集中型プロバイダがreCAPTCHAをホストしてアカウントの帯域制限を行うことはできません。 実際、ユーザーを検閲できないことがブロックチェーン技術のセールス・ポイントの一つです。
 
-### Full Reserve vs Fractional Reserve
+### 完全準備 vs 部分準備
 
-Let’s view a blockchain like an Internet Service Provider (ISP) co-op which owns all of the cables in the town and has a maximum amount of bandwidth that it can provide at any time. People living in the town can buy shares in the ISP and in exchange they are entitled to utilize a portion of the available bandwidth.
+町内すべてのケーブルを所有し、いつでも提供できる帯域幅には上限があるインターネットサービスプロバイダ (ISP) 協同組合のようなブロックチェーンを考えてみましょう。 街に住む人々はISPの株を買うことができ、その代わりに有効な帯域幅の一部を利用する権利を得ます。
 
-The ISP has two choices, run a “full reserve” or “fractional reserve” system. Under a full reserve system each user is only allowed a fraction of the maximum bandwidth proportional to her shares. Because not everyone uses the Internet at the same time, the town’s network would be significantly underutilized.
+ISPには「完全準備」システムまたは「部分準備」システムの2つの選択肢があります。 完全準備システムでは、各ユーザーは最大帯域幅から所有する株に比例したほんの一部しか利用できません。 誰もが同時にインターネットを使用しているわけではないため、町のネットワークは十分に活用されないでしょう。
 
-Under a fractional reserve system the individual users could utilize more bandwidth than they are entitled to at any given point in time so long as not everyone uses the Internet at the same time. The problem with operating a fractional reserve is that congestion occurs anytime too many people wish to use the network at the same time. The ISP needs a way to prioritize bandwidth during congested periods. In the most extreme case, a fully congested network must revert to a full reserve system. The challenge is setting the proper fractional reserve ratio.
+部分準備システムでは、すべてのユーザーが同時にインターネットを使用していない限り、各ユーザーはいつでも使う権利のある帯域幅より多くを利用できます。 部分準備の運用上の問題は、想定よりも多くの人々が同時にネットワークを使用しようとした場合に常に輻輳が発生することです。 ISPには輻輳時に帯域幅を優先順位付けする方法が必要です。 最も極端な場合、ネットワークが完全に輻輳している場合は完全準備システムに戻す必要があります。 課題は適切な部分準備率を設定することです。
 
-## Bandwidth Instead of Micropayment Channels
+## マイクロペイメントに代わる帯域幅
 
-The solution to the problems with micropayments is in implementing *dynamic fractional reserves*. Under this model the blockchain will automatically adjust the reserve ratio for the network during times of congestion. The blockchain will set a target utilization that leaves enough headroom for short term surges in demand. Any time the surges are sustained the blockchain reduces the maximum bandwidth-per-share. When a surge is over and there is surplus capacity the blockchain can slowly increase the bandwidth-per-share.
+マイクロペイメントにおける問題の解決策は*動的部分準備*の実装です。 このモデルでは、ブロックチェーンは輻輳時にネットワークの準備率を自動的に調整します。 ブロックチェーンは短期的な需要の急増に対して十分なヘッドルームを残すように目標利用量を設定します。 需要の高まりが長引く場合、ブロックチェーンはステークあたりの最大帯域幅を減らします。 需要の高まりが終わり容量に余剰がある場合は、ブロックチェーンは緩やかにステークあたりの帯域幅を増やします。
 
-Bandwidth used by an individual user should be measured over a suitably long period of time to allow that user to time-shift their usage. Users tend to login, do many things at once, then logout. This means that their bandwidth over a short period of time may appear much higher than if viewed over a longer period of time. If the time window is stretched too far then the reserve ratio will not adjust fast enough to respond to short-term surges, if the window is too short then clustering usage will have too big of an impact on normal users.
+個々のユーザーが使用する帯域幅は、ユーザーが使用量を時間シフトできるように適切な長期間に渡って測定する必要があります。 ユーザーはログインしてから一度に多くのことを行い、そしてログアウトするという傾向があります。 つまり、彼らの短時間の帯域幅は、長期間で見た帯域幅よりも遥かに大きく見えます。 時間窓を拡大しすぎると、準備率は短時間の急増に対して十分な早さで調整することができず、また時間窓が短すぎると通常のユーザーにはクラスタ化された利用量の影響が大きすぎます。
 
-In our estimate it should be sufficient to measure the average weekly bandwidth usage of users. Every time a user signs a transaction, that transaction is factored into their own individual moving average. Any time a user’s moving average exceeds the current network limit their transaction is delayed until their average falls below the limit.
+私たちの見積りでは、ユーザーの毎週の平均帯域幅利用量を測定すれば十分です。 ユーザーが取引に署名する度に、その取引は各個人の移動平均に組み込まれます。 ユーザーの移動平均が現在のネットワーク制限を超過すると、平均が制限値を下回るまで取引は遅延します。
 
 ### Impact of Capacity
 
