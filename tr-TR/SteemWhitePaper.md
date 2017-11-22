@@ -24,23 +24,23 @@ Steem tasarımına rehberlik etmek için kullanılan bazı temel ilkeler vardır
 
 İkinci ilke, her sermayenin eşit derecede değerli olmasıdır. Bu, belirli zamanlarını ve dikkatini, başkaları için içerik üretmek ve küratöre etme yönünde katkıda bulunanların, kıt nakitleriyle katkıda bulunanlar kadar değerli olduğu anlamına gelir. Bu, ter eşitlik prensibi olan [^2] ve kripto paraların daha önce birkaç düzineden fazla kişiye sorun yaşadığı bir kavramdır.
 
-Üçüncü ilke, topluluğun üyelerine hizmet etmek için ürünler üretmesidir. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
+Üçüncü ilke, topluluğun üyelerine hizmet etmek için ürünler üretmesidir. Bu ilke, toplum dışındaki kişilere ürün ya da hizmet satmak yerine, topluluk üyelerine hizmet eden kredi birlikleri, gıda işbirliği birimleri ve sağlık paylaşımı planları ile örneklenmektedir.
 
-The Steem community provides the following services to its members:
+Steem topluluğu üyelerine aşağıdaki hizmetleri sunmaktadır:
 
-1. A source of curated news and commentary.
-2. A means to get high quality answers to personalized questions.
-3. A stable cryptocurrency pegged to the U.S. dollar.
-4. Free payments.
-5. Jobs providing above services to other members.
+1. Seçilmiş bir haber ve yorum kaynağı.
+2. Kişiselleştirilmiş sorularda yüksek kaliteli yanıtlar almak için bir araç.
+3. Abd doları için istikrarlı bir parola vardı.
+4. Ücretsiz ödemeler.
+5. Yukarıdaki hizmetleri diğer üyelere sağlayan işler.
 
-Steem’s purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem’s incentives may result in better outcomes for most participants.
+Steem'in ekonomik teşvikleri amaçlayan hale getirmesi, daha önce gitmiş olan sosyal medya ve kriptokrasi platformlarından çok, herkes için daha adil ve kapsamlı sonuçlar üretme potansiyeline sahiptir. Bu yazı, mevcut ekonomik teşvikleri inceleyecek ve Steem'in teşviklerinin katılımcıların çoğunun daha iyi sonuçlar doğurabileceğini gösterecektir.
 
-## Recognizing Contribution
+## Katkı Tanıma
 
-Steem is designed from the ground up to address the major barriers to adoption and monetization of a social media based economy. Our thesis is that the same techniques used to grow major social media platforms can be used to bootstrap a successful cryptocurrency. Economic incentives enabled by cryptocurrency can dramatically facilitate the growth of a new social media platform. It is the synergy between cryptocurrency and social media that we believe may give Steem a powerful advantage in the market.
+Steem, toplumsal medya tabanlı bir ekonominin benimsenmesi ve para kazanılmasının önündeki en büyük engelleri ortadan kaldırmak için tasarlanmıştır. Tezimiz, önemli sosyal medya platformlarını büyütmek için kullanılan tekniklerle, başarılı şifreleme oranını önyüklemek için kullanılabilir. Kriptokrasiden yararlanan ekonomik teşvikler, yeni bir sosyal medya platformunun büyümesini önemli ölçüde kolaylaştırabilir. Steem'e pazarda güçlü bir avantaj sağlayabileceğine inandığımız kriptokrasi ve sosyal medya arasındaki sinerji.
 
-The challenge faced by Steem is deriving an algorithm for scoring individual contributions that most community members consider to be a fair assessment of the subjective value of each contribution. In a perfect world, community members would cooperate to rate each other's contribution and derive a fair compensation. In the real world, algorithms must be designed in such a manner that they are resistant to intentional manipulation for profit. Any widespread abuse of the scoring system could cause community members to lose faith in the perceived fairness of the economic system.
+Steem'in karşılaştığı zorluk, topluluk üyelerinin çoğunun her bir katkının öznel değerinin adil bir değerlendirmesi olduğu düşünülen bireysel katkıların puanlanması için bir algoritma türetmektir. In a perfect world, community members would cooperate to rate each other's contribution and derive a fair compensation. In the real world, algorithms must be designed in such a manner that they are resistant to intentional manipulation for profit. Any widespread abuse of the scoring system could cause community members to lose faith in the perceived fairness of the economic system.
 
 Existing platforms operate on a one-user, one-vote principle. This creates an environment where rankings can be manipulated by sybil attacks and the service providers must pro-actively identify and block abusers. People already attempt to manipulate the Reddit, Facebook, and Twitter scoring algorithms when the only reward is web traffic or censorship.
 
