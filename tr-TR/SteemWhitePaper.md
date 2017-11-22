@@ -64,13 +64,13 @@ Bu bölüm, Steem'in arkasındaki fikirleri ve Steem topluluğuna anlamlı ve ö
 
 ## Sermaye katkıları
 
-Topluluğun sermaye çekmek için sunabileceği iki öğe vardır: borç ve mülkiyet. Topluluk azaldığında sahiplik karı alanlar topluluk küçülürse kaybeder. Borç alanlar belli miktarda faiz garantilidir ancak topluluğun büyümesiyle gerçekleşen karlara katılmazlar. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
+Topluluğun sermaye çekmek için sunabileceği iki öğe vardır: borç ve mülkiyet. Topluluk azaldığında sahiplik karı alanlar topluluk küçülürse kaybeder. Borç alanlar belli miktarda faiz garantilidir ancak topluluğun büyümesiyle gerçekleşen karlara katılmazlar. Her iki sermaye katkısı topluluğun gelişimi ve para biriminin değeri için değerlidir. Buna ek olarak, sahipliğin düzenlenmesinin iki yolu vardır: sıvı ve hakediş. Sahipliği elde etmek uzun vadeli bir taahhütte bulunur ve minimum bir süre satılamaz.
 
-The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SBD).
+Steem ağı bu farklı varlık sınıflarını Steem (STEEM), Steem Power (SP) ve Steem Dolar (SBD) olarak adlandırıyor.
 
 ## Steem (STEEM)
 
-Steem is the fundamental unit of account on the Steem blockchain. All other tokens derive their value from the value of STEEM. STEEM is a liquid currency, and therefore can be bought or sold on exchanges, as well as transferred to other users as a form of payment.
+Steem, Steem'in blok zincirindeki temel birimdir. Diğer tüm belirteçler değerlerini STEEM değerinden türetir. STEEM likit bir para birimidir ve borsalarda satın alınabilir veya satılabilir; ayrıca bir ödeme şekli olarak diğer kullanıcılara aktarılabilir.
 
 ## Steem Power (SP)
 
