@@ -36,15 +36,15 @@ Steem topluluğu üyelerine aşağıdaki hizmetleri sunmaktadır:
 
 Steem'in ekonomik teşvikleri amaçlayan hale getirmesi, daha önce gitmiş olan sosyal medya ve kriptokrasi platformlarından çok, herkes için daha adil ve kapsamlı sonuçlar üretme potansiyeline sahiptir. Bu yazı, mevcut ekonomik teşvikleri inceleyecek ve Steem'in teşviklerinin katılımcıların çoğunun daha iyi sonuçlar doğurabileceğini gösterecektir.
 
-## Katkı Tanıma
+## Katkı Sağlama
 
 Steem, toplumsal medya tabanlı bir ekonominin benimsenmesi ve para kazanılmasının önündeki en büyük engelleri ortadan kaldırmak için tasarlanmıştır. Tezimiz, önemli sosyal medya platformlarını büyütmek için kullanılan tekniklerle, başarılı şifreleme oranını önyüklemek için kullanılabilir. Kriptokrasiden yararlanan ekonomik teşvikler, yeni bir sosyal medya platformunun büyümesini önemli ölçüde kolaylaştırabilir. Steem'e pazarda güçlü bir avantaj sağlayabileceğine inandığımız kriptokrasi ve sosyal medya arasındaki sinerji.
 
 Steem'in karşılaştığı zorluk, topluluk üyelerinin çoğunun her bir katkının öznel değerinin adil bir değerlendirmesi olduğu düşünülen bireysel katkıların puanlanması için bir algoritma türetmektir. Mükemmel bir dünyada, toplum üyeleri birbirlerinin katkısını değerlendirmek ve adil bir tazminat elde etmek için işbirliği yaparlar. Gerçek dünyada, algoritmalar kar amaçlı manipüle edilmeye karşı dirençli olacak şekilde tasarlanmalıdır. Puanlama sisteminin yaygın bir şekilde kötüye kullanımı, topluluk üyelerinin ekonomik sistemin algılanan adaletine olan inançlarını kaybetmesine neden olabilir.
 
-Existing platforms operate on a one-user, one-vote principle. This creates an environment where rankings can be manipulated by sybil attacks and the service providers must pro-actively identify and block abusers. People already attempt to manipulate the Reddit, Facebook, and Twitter scoring algorithms when the only reward is web traffic or censorship.
+Mevcut platformlar tek kullanıcılık, tek oyla çalışır. Bu, sıralamanın sivil saldırıları ile manipüle edilebildiği ve servis sağlayıcıların istismara neden olan kişileri proaktif olarak tanımlamaları ve engellemeleri gereken bir ortam yaratmaktadır. Tek ödül web trafiği veya sansür olduğunda insanlar zaten Reddit, Facebook ve Twitter puanlama algoritmalarını değiştirmeye çalışıyorlar.
 
-The fundamental unit of account on the Steem platform is STEEM, a crypto currency token. Steem, bir STEEM-bir oy ile çalışır. Bu modelde, hesap bakiyesiyle ölçülen platforma en çok katkıda bulunan kişilerin katkı paylarının nasıl atıldığı üzerinde çok etkisi vardır. Furthermore, Steem only allows members to vote with STEEM when it is committed to a vesting schedule. Bu modele göre, üyelerin STEEM'in uzun vadeli değerini en üst düzeye çıkaracak şekilde oy kullanmaları için maddi bir teşvik vardır.
+Steem platformundaki temel para birimi, kripto para birimi göstergesi olan STEEM'dir. Steem, bir STEEM-bir oy ile çalışır. Bu modelde, hesap bakiyesiyle ölçülen platforma en çok katkıda bulunan kişilerin katkı paylarının nasıl atıldığı üzerinde çok etkisi vardır. Dahası, Steem, üyelere hak sahipliği planına bağlı olduğu zaman STEEM ile oy kullanmalarını sağlar. Bu modele göre, üyelerin STEEM'in uzun vadeli değerini en üst düzeye çıkaracak şekilde oy kullanmaları için maddi bir teşvik vardır.
 
 Steem is designed around a relatively simple concept: *everyone’s meaningful contribution to the community should be recognized for the value it adds.* When people are recognized for their meaningful contributions, they continue contributing and the community grows. Any imbalance in the give and take within a community is unsustainable. Eventually the givers grow tired of supporting the takers and disengage from the community.
 
