@@ -1,30 +1,30 @@
 # Steem
 
-## An incentivized, blockchain-based, public content platform.
+## Teşvikli, blok zinciri kökenli, genel içerik platformu.
 
-August 2017
+Ağustos 2017
 
-# Translator's notes
+# Tercüman'ın notları
 
-Placeholder for translator's notes.
+Çevirmenin notaları için yer tutucu.
 
-# Abstract
+# Soyut
 
-Steem is a blockchain database that supports community building and social interaction with cryptocurrency rewards. Steem combines concepts from social media with lessons learned from building cryptocurrencies and their communities. An important key to inspiring participation in any community, currency or free market economy is a fair accounting system that consistently reflects each person's contribution. Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
+Steem, cryptocurrency ödülleri ile topluluk oluşturmayı ve sosyal etkileşimi destekleyen bir blok zinciri veritabanıdır. Steem, sosyal medya araçlarındaki kavramları kripto para birimlerini ve topluluklarını oluşturmakla öğrenilen derslerle birleştirir. Herhangi bir topluluğa, para birimine ya da serbest piyasa ekonomisine katılımı arttırmanın önemli bir anahtarı, her bir kişinin katkısını sürekli olarak yansıtan adil bir muhasebe sistemidir. Steem, topluluğuna * öznel katkı yapan * kişileri sınırsız sayıda doğru ve şeffaf bir şekilde ödüllendirmeye çalışan ilk şifreleme sırasıdır.
 
-# Table of Contents
+# İçindekiler Tablosu
 
 <!-- toc -->
 
 # Tanıtım
 
-Collectively, user-generated content has created billions of dollars worth of value for the shareholders of social media companies, such as Reddit, Facebook, and Twitter. **In 2014, Reddit hypothesized that its platform would be improved if everyone who contributed to reddit.com by posting stories, adding comments or voting were rewarded with a fair share in Reddit, Inc.[^1]**. Steem aims to support social media and online communities by returning much of its value to the people who provide valuable contributions by rewarding them with cryptocurrency, and through this process create a currency that is able to reach a broad market, including people who have yet to participate in any cryptocurrency economy.
+Topluca kullanıcı tarafından üretilen içerik, Reddit, Facebook ve Twitter gibi sosyal medya şirketlerinin hissedarları için milyarlarca dolar değer yarattı. **Reddit, 2014 yılında Reddit.com'a hikayeler göndererek, yorumlar ekleyerek veya oylamaya katarak katkıda bulunan herkesin Reddit, Inc.'de adil bir pay ile ödüllendirilmesi durumunda platformunun geliştirileceğini önermişti.[^1]**. Steem, değerini büyük bir kısmını cryptocurrency ile ödüllendirerek değerli katkılar sağlayanlara geri getirerek sosyal medyayı ve çevrimiçi toplulukları desteklemeyi ve bu süreçle henüz sahip olmadığı insanlar da dahil olmak üzere geniş bir pazara erişebilen bir para birimi oluşturmayı amaçlıyor. Herhangi bir şifreleme ekonomisine katılmak.
 
-There are some key principles that have been used to guide the design of Steem. The most important principle is that everyone who contributes to a venture should receive pro-rata ownership, payment or debt from the venture. This principle is the same principle that is applied to all startups as they allocate shares at founding and during subsequent funding rounds.
+Steem tasarımına rehberlik etmek için kullanılan bazı temel ilkeler vardır. En önemli ilke, bir girişime katkıda bulunan herkesin, girişimden önce sahiplik, ödeme veya borç almasıdır. Bu ilke, kurucularda ve sonraki fonlama turlarında payları tahsis edeceği için tüm start-uplara uygulananla aynı ilkedir.
 
-The second principle is that all forms of capital are equally valuable. This means that those who contribute their scarce time and attention toward producing and curating content for others are just as valuable as those who contribute their scarce cash. This is the sweat equity principle[^2] and is a concept that prior cryptocurrencies have often had trouble providing to more than a few dozen individuals.
+İkinci ilke, her sermayenin eşit derecede değerli olmasıdır. Bu, belirli zamanlarını ve dikkatini, başkaları için içerik üretmek ve küratöre etme yönünde katkıda bulunanların, kıt nakitleriyle katkıda bulunanlar kadar değerli olduğu anlamına gelir. Bu, ter eşitlik prensibi olan [^2] ve kripto paraların daha önce birkaç düzineden fazla kişiye sorun yaşadığı bir kavramdır.
 
-The third principle is that the community produces products to serve its members. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
+Üçüncü ilke, topluluğun üyelerine hizmet etmek için ürünler üretmesidir. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
 
 The Steem community provides the following services to its members:
 
