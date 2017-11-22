@@ -56,15 +56,15 @@ Serbest piyasa kanıtlanmış bir sistem olduğundan, içerik tüketicilerinin d
 
 Steem, ekonomik denklemi değiştirerek her türlü katkıda etkili mikro ödemeleri mümkün kılmak için tasarlanmıştır. Okuyucular artık kendi cebinden birini ödemek isteyip istemediklerine karar vermek zorunda kalmazlar; bunun yerine içeriği yukarı veya aşağı oylayabilirler ve Steem, bireysel ödülleri belirlemek için oylarını kullanır. Bu, insanlara tanıdık ve yaygın olarak kullanılan bir arayüz verilir ve artık geleneksel mikro ödeme ve devrilme platformlarıyla ilişkili bilişsel, finansal ve fırsat maliyetleriyle yüzleşilmeyeceği anlamına gelir.
 
-Topluluk üyelerinden gelen oylama girişi, Steem'in katılımcılara ödemeleri doğru şekilde tahsis etmesi için kritik öneme sahiptir. Bu nedenle, oylama, kendi başına önemli bir katkı ve ödüllere layık görülebilir. Some platforms, such as Slashdot, use meta-moderation[^3] as a way to rank and reward honest moderators. Steem chooses to reward those who contribute the most to the total promotion of a piece of content and rewards the voters proportional to the ultimate reward paid to the content creator.
+Topluluk üyelerinden gelen oylama girişi, Steem'in katılımcılara ödemeleri doğru şekilde tahsis etmesi için kritik öneme sahiptir. Bu nedenle, oylama, kendi başına önemli bir katkı ve ödüllere layık görülebilir. Slashdot gibi bazı platformlar, dürüst moderatörleri sıralamak ve ödüllendirmek için bir yol olarak [^3] meta denetimi kullanır. Steem, bir içeriği tamamen tanıtmak için en çok katkıda bulunanları ödüllendirmeyi seçer ve seçmenleri, içerik oluşturana ödenen nihai ödülle orantılı olarak ödüllendirir.
 
-# Ways to Contribute
+# Katkıda bulunmak için yollar
 
-This section outlines the ideas behind Steem and its rewards for people who provide meaningful and measurable contributions to the Steem community.
+Bu bölüm, Steem'in arkasındaki fikirleri ve Steem topluluğuna anlamlı ve ölçülebilir katkılar sağlayan kişiler için sağladığı ödülleri özetlemektedir.
 
-## Capital Contributions
+## Sermaye katkıları
 
-There are two items a community can offer to attract capital: debt and ownership. Those who buy ownership profit when the community grows but lose if the community shrinks. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
+Topluluğun sermaye çekmek için sunabileceği iki öğe vardır: borç ve mülkiyet. Topluluk azaldığında sahiplik karı alanlar topluluk küçülürse kaybeder. Borç alanlar belli miktarda faiz garantilidir ancak topluluğun büyümesiyle gerçekleşen karlara katılmazlar. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
 
 The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SBD).
 
