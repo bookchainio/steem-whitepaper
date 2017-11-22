@@ -46,7 +46,7 @@ Mevcut platformlar tek kullanıcılık, tek oyla çalışır. Bu, sıralamanın 
 
 Steem platformundaki temel para birimi, kripto para birimi göstergesi olan STEEM'dir. Steem, bir STEEM-bir oy ile çalışır. Bu modelde, hesap bakiyesiyle ölçülen platforma en çok katkıda bulunan kişilerin katkı paylarının nasıl atıldığı üzerinde çok etkisi vardır. Dahası, Steem, üyelere hak sahipliği planına bağlı olduğu zaman STEEM ile oy kullanmalarını sağlar. Bu modele göre, üyelerin STEEM'in uzun vadeli değerini en üst düzeye çıkaracak şekilde oy kullanmaları için maddi bir teşvik vardır.
 
-Steem is designed around a relatively simple concept: *everyone’s meaningful contribution to the community should be recognized for the value it adds.* When people are recognized for their meaningful contributions, they continue contributing and the community grows. Any imbalance in the give and take within a community is unsustainable. Eventually the givers grow tired of supporting the takers and disengage from the community.
+Steem nispeten basit bir konsept etrafında tasarlanmıştır: * topluluğa herkesin katkısı kattığı değer için tanınmalıdır. * İnsanlar anlamlı katkılarından dolayı topluma katkıda bulunur ve topluluk büyür. Topluluk içinde vermek ve almakta herhangi bir dengesizlik sürdürülemez. Sonuçta, katılımcılar, katılımcıları desteklemekten ve topluluktan ayrılmaktan bıkarlar.
 
 The challenge is creating a system capable of identifying what contributions are needed and their relative worth in a way that can scale to an unbounded number of people.
 
