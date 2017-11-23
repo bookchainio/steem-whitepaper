@@ -1,16 +1,16 @@
 # স্টিম
 
-## An incentivized, blockchain-based, public content platform.
+## একটি উৎসাহপ্রদ, ব্লকচেইন ভিত্তিক, পাবলিক কনটেন্ট প্ল্যাটফর্ম।
 
 আগস্ট ২০১৭
 
 # অনুবাদকদের নোট
 
-Placeholder for translator's notes.
+অনুবাদকদের জন্য নোট স্থানধারক।
 
 # Abstract
 
-Steem is a blockchain database that supports community building and social interaction with cryptocurrency rewards. Steem combines concepts from social media with lessons learned from building cryptocurrencies and their communities. An important key to inspiring participation in any community, currency or free market economy is a fair accounting system that consistently reflects each person's contribution. Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
+স্টিম একটি ব্লকচেইন ডেটাবেস যা ক্রিপ্টোকারেন্সি পুরস্কারের মাধ্যমে সম্প্রদায় নির্মাণ এবং সামাজিক মিথস্ক্রিয়া সমর্থন করে। স্টিম সামাজিক মিডিয়া এর পাঠ্যের সম্মিলন ঘটিয়ে ক্রিপ্টোকারেন্সি এবং তাদের সম্প্রদায় নির্মাণ করতে শিখেছে। কোনও সম্প্রদায়, মুদ্রা বা মুক্ত বাজার অর্থনীতিতে অনুপ্রেরণামূলক অংশগ্রহণের একটি গুরুত্বপূর্ণ মূল হল একটি সুষ্ঠু হিসাব পদ্ধতি যা প্রতিটি ব্যক্তির অবদানকে প্রতিনিয়ত প্রতিফলিত করে। Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
 
 # সূচীপত্র
 
