@@ -8,7 +8,7 @@
 
 অনুবাদকদের জন্য নোট স্থানধারক।
 
-# Abstract
+# সারাংশ
 
 স্টিম একটি ব্লকচেইন ডেটাবেস যা ক্রিপ্টোকারেন্সি পুরস্কারের মাধ্যমে সম্প্রদায় নির্মাণ এবং সামাজিক মিথস্ক্রিয়া সমর্থন করে। স্টিম সামাজিক মিডিয়া এর পাঠ্যের সম্মিলন ঘটিয়ে ক্রিপ্টোকারেন্সি এবং তাদের সম্প্রদায় নির্মাণ করতে শিখেছে। কোনও সম্প্রদায়, মুদ্রা বা মুক্ত বাজার অর্থনীতিতে অনুপ্রেরণামূলক অংশগ্রহণের একটি গুরুত্বপূর্ণ মূল হল একটি সুষ্ঠু হিসাব পদ্ধতি যা প্রতিটি ব্যক্তির অবদানকে প্রতিনিয়ত প্রতিফলিত করে। স্টীম হচ্ছে প্রথম ক্রিপ্টোকারেন্সি যা সঠিকভাবে এবং স্বচ্ছতার সাথে অসীম সংখ্যক ব্যক্তিকে পুরস্কার প্রদান করে যারা সম্প্রদায়ে* ব্যক্তিগত অবদান * রাখে।
 
@@ -36,7 +36,7 @@ The Steem community provides the following services to its members:
 
 Steem’s purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem’s incentives may result in better outcomes for most participants.
 
-## Recognizing Contribution
+## অবদান শণাক্তকরণ
 
 Steem is designed from the ground up to address the major barriers to adoption and monetization of a social media based economy. Our thesis is that the same techniques used to grow major social media platforms can be used to bootstrap a successful cryptocurrency. Economic incentives enabled by cryptocurrency can dramatically facilitate the growth of a new social media platform. It is the synergy between cryptocurrency and social media that we believe may give Steem a powerful advantage in the market.
 
@@ -62,7 +62,7 @@ Voting input from community members is critical for Steem to accurately allocate
 
 This section outlines the ideas behind Steem and its rewards for people who provide meaningful and measurable contributions to the Steem community.
 
-## Capital Contributions
+## বড় অবদানসমূহ
 
 There are two items a community can offer to attract capital: debt and ownership. Those who buy ownership profit when the community grows but lose if the community shrinks. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
 
@@ -96,7 +96,7 @@ Steem Dollars are created by a mechanism similar to convertible notes, which are
 
 Steem Dollars are referred to with the symbol SBD, an acronym for Steem Blockchain Dollars. Creating SBD requires a combination of a reliable price feed, and rules to prevent abuse. Providing a reliable price feed involves three factors: minimizing the impact of an incorrect feed, maximizing the cost of producing an incorrect feed, and minimizing the importance of timing.
 
-### Minimizing Fraudulent Feeds
+### প্রতারণাপূর্ণ ফিড মিনিমাইজ করা
 
 SP holders elect individuals, called witnesses, to publish price feeds. The elected witnesses are presumably trusted by those who have a vested interest in the quality of the feed. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
 
@@ -533,7 +533,7 @@ While a timestamping service can be built on almost any blockchain, and several 
 
 [^8]: Clay Shirky, The Case Against Micropayments http://www.openp2p.com/pub/a/p2p/2000/12/19/micropayments.html
 
-[^9]: reCAPTCHA, মানুষের জন্য সহজ, বটের জন্য কঠিন https://www.google.com/recaptcha/intro/index.html
+[^9]: রি ক্যাপচা, মানুষের জন্য সহজ, বটের জন্য কঠিন https://www.google.com/recaptcha/intro/index.html
 
 [^10]: Forbes, Tristan Louis, “How Much is a User Worth?” http://www.forbes.com/sites/tristanlouis/2013/08/31/how-much-is-a-us
 
