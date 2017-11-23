@@ -10,7 +10,7 @@
 
 # Abstract
 
-স্টিম একটি ব্লকচেইন ডেটাবেস যা ক্রিপ্টোকারেন্সি পুরস্কারের মাধ্যমে সম্প্রদায় নির্মাণ এবং সামাজিক মিথস্ক্রিয়া সমর্থন করে। স্টিম সামাজিক মিডিয়া এর পাঠ্যের সম্মিলন ঘটিয়ে ক্রিপ্টোকারেন্সি এবং তাদের সম্প্রদায় নির্মাণ করতে শিখেছে। কোনও সম্প্রদায়, মুদ্রা বা মুক্ত বাজার অর্থনীতিতে অনুপ্রেরণামূলক অংশগ্রহণের একটি গুরুত্বপূর্ণ মূল হল একটি সুষ্ঠু হিসাব পদ্ধতি যা প্রতিটি ব্যক্তির অবদানকে প্রতিনিয়ত প্রতিফলিত করে। Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
+স্টিম একটি ব্লকচেইন ডেটাবেস যা ক্রিপ্টোকারেন্সি পুরস্কারের মাধ্যমে সম্প্রদায় নির্মাণ এবং সামাজিক মিথস্ক্রিয়া সমর্থন করে। স্টিম সামাজিক মিডিয়া এর পাঠ্যের সম্মিলন ঘটিয়ে ক্রিপ্টোকারেন্সি এবং তাদের সম্প্রদায় নির্মাণ করতে শিখেছে। কোনও সম্প্রদায়, মুদ্রা বা মুক্ত বাজার অর্থনীতিতে অনুপ্রেরণামূলক অংশগ্রহণের একটি গুরুত্বপূর্ণ মূল হল একটি সুষ্ঠু হিসাব পদ্ধতি যা প্রতিটি ব্যক্তির অবদানকে প্রতিনিয়ত প্রতিফলিত করে। স্টীম হচ্ছে প্রথম ক্রিপ্টোকারেন্সি যা সঠিকভাবে এবং স্বচ্ছতার সাথে অসীম সংখ্যক ব্যক্তিকে পুরস্কার প্রদান করে যারা সম্প্রদায়ে* ব্যক্তিগত অবদান * রাখে।
 
 # সূচীপত্র
 
@@ -507,7 +507,7 @@ Under blockchain-based social media, a creator or author would always be able to
 
 While a timestamping service can be built on almost any blockchain, and several efforts exist to build this kind of service on the Bitcoin network, Steem has a useful advantage in this realm because content publishers are “first class citizens” -- the Steem blockchain is built from the ground up around the use case of content publication, which allows content creators to have the blockchain to validate their content at a certain point in time simply by writing their post using the same authoring tools used by other Steem users.
 
-## Replacing Advertising with Blockchain-based Content Rewards
+## ব্লকচেইন ভিত্তিক বিষয়বস্তু পুরস্কারের মাধ্যমে বিজ্ঞাপনের স্থান প্রতিস্থাপন
 
 Under most content monetization models, content creators leverage advertising in one form or another. Many creators recognize how advertising may diminish their work’s value to the consumer, yet creators very often must seek returns on their time by monetizing. Advertising represents a double-edged sword: With ads, a creator can make money most easily. Without ads, monetization is difficult but the content is richer.
 
