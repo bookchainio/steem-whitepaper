@@ -58,7 +58,7 @@ Steem dirancang untuk memungkinkan micropayments yang efektif untuk semua jenis 
 
 Masukan pemilih dari anggota masyarakat sangat penting bagi Steem untuk secara akurat mengalokasikan pembayaran kepada kontributor. Voting oleh karena itu dapat dipandang sebagai kontribusi penting dan layak mendapat penghargaan tersendiri. Beberapa platform, seperti Slashdot, gunakan meta-moderasi [^3] sebagai cara untuk memberi peringkat dan memberi penghargaan pada moderator jujur. Steem memilih untuk memberi penghargaan kepada orang-orang yang berkontribusi paling banyak terhadap promosi total sepotong konten dan memberi penghargaan kepada para pemilih sebanding dengan pahala tertinggi yang dibayarkan kepada pencipta konten.
 
-# Ways to Contribute
+# Cara-cara untuk berkontribusi
 
 This section outlines the ideas behind Steem and its rewards for people who provide meaningful and measurable contributions to the Steem community.
 
