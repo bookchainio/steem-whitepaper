@@ -509,13 +509,13 @@ While a timestamping service can be built on almost any blockchain, and several 
 
 ## ব্লকচেইন ভিত্তিক বিষয়বস্তু পুরস্কারের মাধ্যমে বিজ্ঞাপনের স্থান প্রতিস্থাপন
 
-Under most content monetization models, content creators leverage advertising in one form or another. Many creators recognize how advertising may diminish their work’s value to the consumer, yet creators very often must seek returns on their time by monetizing. Advertising represents a double-edged sword: With ads, a creator can make money most easily. Without ads, monetization is difficult but the content is richer.
+সর্বাধিক সামগ্রীর নগদীকরণের মডেলগুলির অধীনে, বিষয়বস্তু সৃষ্টিকর্তা এক ফর্ম বা অন্য কোনো বিজ্ঞাপন লাভ করে। অনেক সৃষ্টিকারক স্বীকার করে যে বিজ্ঞাপনগুলি গ্রাহকের কাছে তাদের কাজের মান হ্রাস করতে পারে, তবে সৃষ্টিকারক প্রায়ই নগদীকরণের মাধ্যমে তাদের সময় ফেরত পেতে চান। বিজ্ঞাপন একটি দ্বিগুণ ধারের তলোয়ারের প্রতিনিধিত্ব করে: বিজ্ঞাপনের মাধ্যমে, একজন সৃষ্টিকারক সহজেই অর্থ উপার্জন করতে পারেন। বিজ্ঞাপন ছাড়া, নগদীকরণটি কঠিন কিন্তু বিষয়বস্তু সমৃদ্ধ হয়।
 
-Creators posting to social media outlets that are connected to Steem may monetize merely by having their work recognized (or ”liked”) by the Steem community. Blockchain-based payouts are completely digital and have no middle-man. Therefore monetization by blockchain-based content rewards should be faster and much lower barrier to use than monetization by advertisements.
+স্টিমের সাথে যুক্ত সোশ্যাল মিডিয়া আউটলেটে পোস্ট করা স্রষ্টিকারকেরা কেবল স্টিম সম্প্রদায়ের দ্বারা স্বীকৃত (বা "পছন্দ") কাজের দ্বারা নগদীকরণ করতে পারেন। ব্লকচেইন-ভিত্তিক পেআউটগুলি সম্পূর্ণরূপে ডিজিটাল এবং এখানে কোন মধ্যস্বত্বভোগী ব্যক্তি নেই। অতএব ব্লকচেইন ভিত্তিক বিষয়বস্তু পুরষ্কারের মাধ্যমে নগদীকরণগুলি দ্রুততম হওয়া উচিত এবং বিজ্ঞাপনের মাধ্যমে নগদীকরণের চেয়ে অনেক কম বাধা হওয়া উচিত।
 
 # উপসংহার
 
-Steem is an experiment designed to address challenges in the cryptocurrency and social media industries by combining the best aspects from both. Steem presents earning opportunities to content creators and internet readers in ways that have not existed within the social media industry. Within Steem, individuals earn real rewards online that are directly correlated to their contributions. Those rewards may have dollar value due to the market price discovery and liquidity of Steem, and the people who hold Steem may have more exclusive earning powers than those who do not.
+স্টিম উভয় থেকে সেরা দিক মিশ্রন দ্বারা ক্রিপ্টোকারেন্সি এবং সামাজিক মিডিয়া শিল্পের মধ্যে চ্যালেঞ্জ মোকাবেলার জন্য পরিকল্পিত একটি পরীক্ষা। স্টিম বিষয়বস্তু উদ্যোক্তাদের এবং ইন্টারনেট পাঠকদের জন্য সুযোগগুলি অর্জন করে যা সামাজিক মিডিয়া শিল্পের মধ্যে বিদ্যমান নেই। Within Steem, individuals earn real rewards online that are directly correlated to their contributions. Those rewards may have dollar value due to the market price discovery and liquidity of Steem, and the people who hold Steem may have more exclusive earning powers than those who do not.
 
 [^1]: Reddit’s Cryptocurrency, Forbes, Erika Morphy, October 2014 http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/\#4e07b05332b9
 
