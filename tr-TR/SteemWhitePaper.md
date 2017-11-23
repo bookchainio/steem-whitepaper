@@ -94,7 +94,7 @@ SP'den STEEM'e aktarma işlemi "power down" olarak adlandırılırken, STEEM'den
 
 Steem Dolar, başlangıçları finanse etmek için sıklıkla kullanılan dönüştürülebilir notlara benzer bir mekanizma ile oluşturulur. Başlangıç dünyasında, çevrilebilir notlar, gelecekte belirlenecek bir oranda, genellikle gelecekteki bir fonlama turunda sahipliğe dönüştürülebilen kısa vadeli borçlanma araçlarından oluşur. Bir blok çizgisine dayanan simge toplulukta mülkiyet olarak görülebilirken, çevrilebilir not, herhangi bir başka emtia veya para biriminde gösterilen bir borç olarak görülebilir. Cabrio notunun şartları, sahibinin simgenin uygun fiyatında minimum bildirimle destekleyici simgeye dönüşmesine izin verir. Simgeleri dönüştürülebilir-dolarlar oluşturmak, blok zincirlerinin ağ efektlerini büyütmesini ve simge sahiplerine dönüşü en üst düzeye çıkarmasını sağlar.
 
-Steem Dollars are referred to with the symbol SBD, an acronym for Steem Blockchain Dollars. SBD oluşturmak, güvenilir bir fiyat sunumu ve kötüye kullanımı önlemek için gereken kuralların bir kombinasyonunu gerektirir. Güvenilir fiyat sunumunun sağlanması üç faktörü içerir: yanlış beslemenin etkisini en aza indirgemek, yanlış besleme üretme maliyetini en üst düzeye çıkarmak ve zamanlamanın önemini en aza indirgemek.
+Steem dolar SBD, Steem Blockchain dolar için bir kısaltma sembol ile adlandırılır. SBD oluşturmak, güvenilir bir fiyat sunumu ve kötüye kullanımı önlemek için gereken kuralların bir kombinasyonunu gerektirir. Güvenilir fiyat sunumunun sağlanması üç faktörü içerir: yanlış beslemenin etkisini en aza indirgemek, yanlış besleme üretme maliyetini en üst düzeye çıkarmak ve zamanlamanın önemini en aza indirgemek.
 
 ### Hileli Beslemeleri Azaltmak
 
@@ -112,7 +112,7 @@ Fiyat arzı yolsuzluğunun, hareketli medyan zaman aralığının yarısından d
 
 ### Zamanlama Saldırılarını Azaltma
 
-Piyasa katılımcıları bilgiye blokcheain'in üç buçuk günde hareket eden medyan dönüşüm fiyatından daha hızlı erişebilirler. Bu bilgi, topluluğun pahasına tüccarların yararına kullanılabilir. STEEM'in değerinde ani bir artış olması durumunda, tüccarlar SBD'sini eski, daha düşük fiyata dönüştürme talebinde bulunabilir ve daha sonra STEEM'i satabilir; en düşük riski ile yeni bir yüksek fiyat alırlar.
+Piyasa katılımcıları bilgiye blok zinciri'nin üç buçuk günde hareket eden medyan dönüşüm fiyatından daha hızlı erişebilirler. Bu bilgi, topluluğun pahasına tüccarların yararına kullanılabilir. STEEM'in değerinde ani bir artış olması durumunda, tüccarlar SBD'sini eski, daha düşük fiyata dönüştürme talebinde bulunabilir ve daha sonra STEEM'i satabilir; en düşük riski ile yeni bir yüksek fiyat alırlar.
 
 Steem, tüm dönüşüm taleplerinin üç buçuk gün boyunca ertelenmesini gerektirerek oyun alanını düzleştirir. Bu, ne tüccarların ne de blokaj zincirinin, dönüşüm gerçekleştirildiğinde fiyat konusunda herhangi bir avantajı bulunmadığı anlamına gelir.
 
@@ -124,7 +124,7 @@ Blockchain, SBD nasıl ve ne zaman oluşturulması gerektiğini ve kimin alması
 
 ### Sürdürülebilir Borç Sahiplik Oranları
 
-Bir belirteç, belirteçlerin tamamında mülkiyet olarak görülüyorsa, bir gösterge dönüştürülebilir-dolar borcu olarak görülebilir. Sahiplik oranı borcu çok yüksek olursa, tüm para birimi kararsız hale gelebilir. Borç dönüşümleri, toptancı arzını çarpıcı biçimde artırabilir; bu da arzı fiyat baskısı ile piyasada satılır. Sonraki dönüşümler, daha fazla belirteç verilmesini gerektirir. Sistemin kontrolsüz bırakılması, bir dağ dağını destekleyerek değersiz mülkiyet bırakarak çökebilir. Sahiplik oranının yüksek olması, yeni yatırımcıların sermayeyi masaya getirme isteğidir.
+Bir token, tokenların tamamında mülkiyet olarak görülüyorsa, bir gösterge dönüştürülebilir-dolar borcu olarak görülebilir. Sahiplik oranı borcu çok yüksek olursa, tüm para birimi kararsız hale gelebilir. Borç dönüşümleri, toptancı arzını çarpıcı biçimde artırabilir; bu da arzı fiyat baskısı ile piyasada satılır. Sonraki dönüşümler, daha fazla belirteç verilmesini gerektirir. Sistemin kontrolsüz bırakılması, bir dağ dağını destekleyerek değersiz mülkiyet bırakarak çökebilir. Sahiplik oranının yüksek olması, yeni yatırımcıların sermayeyi masaya getirme isteğidir.
 
 STEEM'in değerinde hızlı bir değişim, borç-sahiplik oranını önemli ölçüde değiştirebilir. Blok zinciri, borç seviyesi% 10'u aşarsa SBD dönüşümleri yoluyla verilen STEEM miktarını azaltarak, borcun sahiplik oranının çok yüksek olmasını engeller. SBD borcu miktarı, toplam STEEM piyasa kapağının% 10'unu aşarsa, blok zinciri otomatik olarak dönüşümler yoluyla üretilen STEEM miktarını piyasa değerinin maksimum% 10'una düşürecektir. Bu, blok zincirinin asla borcun sahiplik oranının% 10'undan fazla olmayacağını garanti eder.
 
