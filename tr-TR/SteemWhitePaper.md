@@ -132,13 +132,13 @@ STEEM yaratımını hesaplamak için kullanılan yüzde katlar, bekleyen tüm SB
 
 ### Faiz
 
-SBD sahipleri ilgilendirmektedir. The interest rate is set by the same people who publish the price feed so that it can adapt to changing market conditions. All debt carries risk to the lender. Someone who holds SBD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SBD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
+SBD sahipleri ilgilendirmektedir. Faiz oranı, değişen piyasa koşullarına uyum sağlamak için fiyat arzını yayınlayan aynı kişiler tarafından belirlenir. Borçların tamamı borç alanına risk taşır. SBD'yi itfa olmadan elinde tutan biri, topluma bir doların değerini etkili biçimde ödünç vermekte. Gelecekte bir noktada birilerinin SBD'yi bir dolar karşılığında satın almaya istekli olacağına ya da spekülatörlerin ve yatırımcıların STEEM'i satın almaya istekli olacağına güveniyorlar.
 
-STEEM and SP holders gain leverage when members of the community are willing to hold SBD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
+STEEM ve SP sahipleri, topluluk üyeleri SBD'yi hazır bulundurmaya hazır olduklarında kaldıraç elde ederler. Bu kaldıraç, büyümeye katkıda bulunurken, büyümeyle elde edilen kazançları da yükseltir. Fiyat düşerse STEEM sahipleri artan seyreltmeden muzdarip. Cryptocurrency projeleri, kullanıcı tabanını artırmanın kazançlarının, sermaye ile ağa güvenmeye istekli olduğunu, nihai olarak bir düşüş sırasında ortaya çıkabilecek herhangi bir seyreltmeden daha ağa değer kattığını göstermiştir.
 
-### Setting Price Feeds
+### Ayar fiyat beslemeleri
 
-Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
+Astut okuyucular, sınırlı kaynağı olan faiz getiren bir varlığın, aynı varlık üzerinde faiz kazanmak için diğer fırsatlara bağlı olarak alttaki varlıktan daha yüksek veya daha düşük ticaret yapabileceğini kabul edecektir. ABD dolarına sabitlenen bir varlık üzerinde yüksek bir faiz oranı ödenmesiyle, birçok kişi Steem Dolarının sınırlı arzını 1 dolarla değerlenene kadar teklifte bulunacaklar. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
 
 1. A stable exchange rate
 2. Free capital movement
