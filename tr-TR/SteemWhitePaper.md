@@ -100,39 +100,39 @@ Steem Dollars are referred to with the symbol SBD, an acronym for Steem Blockcha
 
 SP sahipleri, fiyat tekliflerini yayınlamak için tanık olarak adlandırılan kişileri seçerler. Seçilen şahitlere, besin kalitesiyle ilgili menfaat sahibi olanlar tarafından muhtemelen güvenilir. Steem, seçilenleri ödeyerek yem üretme hakkını kazanmak için pazar rekabeti yaratır. Yem üreticilerine ne kadar ödenecek olursa, yanlış bilgi yayınlayarak kaybetmek zorunda oldukları miktar da o kadar artar.
 
-Güvenilir ve seçilmiş yem üreticileri göz önüne alındığında, dönüşümler için kullanılan gerçek fiyat, yayınların ortanca değeri olarak türetilebilir. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
+Güvenilir ve seçilmiş yem üreticileri göz önüne alındığında, dönüşümler için kullanılan gerçek fiyat, yayınların ortanca değeri olarak türetilebilir. Bu şekilde, bireysel yem üreticilerinden herhangi bir azınlık aşırsı üretirse, gerçek medyan üzerinde en ufak bir etkiye sahip olurken, yine de itibarı itme kabiliyetine sahip olurlar.
 
-Even if all feed producers are honest, it is possible for the majority of feed producers to be impacted by events beyond their control. The Steem network is designed to tolerate short-term corruption of the median price feed while the community actively works to correct the issue. One example of an issue that may take some time to correct is short-term market manipulation. Market manipulation is difficult and expensive to maintain for long periods of time. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
+Tüm yem üreticileri dürüst olsalar bile, yem üreticilerinin çoğunun kendi kontrolü dışında olan olaylardan etkilenmesini sağlamak mümkündür. Steem ağı, topluluğun sorunu düzeltmek için aktif olarak çalıştığı sürece medyan fiyat fiyatının kısa vadeli yolsuzluğunu tolere edecek şekilde tasarlanmıştır. Düzeltmek biraz zaman alabilir meselenin bir örneği, kısa vadeli piyasa manipülasyonu. Piyasa manipülasyonu uzun süreler boyunca sürdürülmek zor ve pahalıdır. Başka bir örnek merkezi bir değişimin başarısız olması veya döviz tarafından yayınlanan verilerin bozulması olabilir.
 
-Steem factors out short-term price fluctuations by using the median price over a period of three and a half days. The median published feed is sampled every hour on the hour.
+Steem, üç buçuk gün boyunca medyan fiyat kullanarak kısa vadeli fiyat dalgalanmalarını etkiliyor. Ortaya çıkan yayın, saat başı her saat örnek alınır.
 
-As long as the price feed corruption lasts for less than half the moving median time window it will have minimal impact on the conversion price. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
+Fiyat arzı yolsuzluğunun, hareketli medyan zaman aralığının yarısından daha az sürdüğü sürece, dönüşüm fiyatını en düşük düzeyde etkileyecektir. Yemin bozulması durumunda, ağ katılımcıları bozuk yemlerin gerçek dönüşüm fiyatını etkilemesinden önce bozuk yem üreticilerine oy kullanma imkânı bulacaklardır. Belki de daha da önemlisi, yem üreticileri, feed'leri fiyatı etkilemeye başlamadan önce algılama ve düzeltme fırsatı verir.
 
-With a three and a half day window, community members have approximately one and a half days to respond to any issues that come up.
+Üç buçuk gün süren bir pencereyle, topluluk üyeleri ortaya çıkan sorunlara yanıt vermek için yaklaşık bir buçuk gün sürüyor.
 
-### Mitigating Timing Attacks
+### Zamanlama Saldırılarını Azaltma
 
-Market participants have access to information faster than the blockchain’s three and a half day moving median conversion price can react. This information could be used to benefit of traders at the expense of the community. If there is a sudden increase in the value of STEEM traders could request conversion of their SBD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
+Piyasa katılımcıları bilgiye blokcheain'in üç buçuk günde hareket eden medyan dönüşüm fiyatından daha hızlı erişebilirler. Bu bilgi, topluluğun pahasına tüccarların yararına kullanılabilir. STEEM'in değerinde ani bir artış olması durumunda, tüccarlar SBD'sini eski, daha düşük fiyata dönüştürme talebinde bulunabilir ve daha sonra STEEM'i satabilir; en düşük riski ile yeni bir yüksek fiyat alırlar.
 
-Steem levels the playing field by requiring all conversion requests to be delayed for three and a half days. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
+Steem, tüm dönüşüm taleplerinin üç buçuk gün boyunca ertelenmesini gerektirerek oyun alanını düzleştirir. Bu, ne tüccarların ne de blokaj zincirinin, dönüşüm gerçekleştirildiğinde fiyat konusunda herhangi bir avantajı bulunmadığı anlamına gelir.
 
-### Minimizing Abuse of Conversions
+### Dönüşümlerin Kötüye Kullanılmasının Azaltılması
 
-If people could freely convert in both directions then traders could take advantage of the blockchains conversion rates by trading large volumes without changing the price. Traders who see a massive run up in price would convert to SBD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SBD to STEEM and not the other way around.
+İnsanlar serbestçe her iki yönde de dönüşebilecek olsaydı, tüccarlar fiyat değiştirmeden büyük miktarlarda işlem yaparak blok zincir dönüşüm oranlarından yararlanabilirlerdi. Büyük bir fiyat artışına sahip olan tüccarlar yüksek fiyata (en riskli olduğu zaman) SBD'ye dönüşecek ve düzeltildikten sonra geri dönüş yapacaklardır. Buhar protokolü, toplumu bu tür istismardan yalnızca bir insanın SGD'den BUHAR'a dönüştürmesine izin veriyor ve tersi değil de koruyor.
 
-The blockchain decides how and when to create SBD and who should get it. This keeps the rate of SBD creation stable and removes most avenues of abuse.
+Blockchain, SBD nasıl ve ne zaman oluşturulması gerektiğini ve kimin alması gerektiğine karar verir. Bu, SBD oluşturma oranını sabit tutar ve kötüye kullanma yollarının çoğunu ortadan kaldırır.
 
-### Sustainable Debt to Ownership Ratios
+### Sürdürülebilir Borç Sahiplik Oranları
 
-If a token is viewed as ownership in the whole supply of tokens, then a token-convertible-dollar can be viewed as debt. If the debt to ownership ratio gets too high the entire currency can become unstable. Debt conversions can dramatically increase the token supply, which in turn is sold on the market suppressing the price. Subsequent conversions require the issuance of even more tokens. Left unchecked the system can collapse leaving worthless ownership backing a mountain of debt. The higher the debt to ownership ratio becomes the less willing new investors are to bring capital to the table.
+Bir belirteç, belirteçlerin tamamında mülkiyet olarak görülüyorsa, bir gösterge dönüştürülebilir-dolar borcu olarak görülebilir. Sahiplik oranı borcu çok yüksek olursa, tüm para birimi kararsız hale gelebilir. Borç dönüşümleri, toptancı arzını çarpıcı biçimde artırabilir; bu da arzı fiyat baskısı ile piyasada satılır. Sonraki dönüşümler, daha fazla belirteç verilmesini gerektirir. Sistemin kontrolsüz bırakılması, bir dağ dağını destekleyerek değersiz mülkiyet bırakarak çökebilir. Sahiplik oranının yüksek olması, yeni yatırımcıların sermayeyi masaya getirme isteğidir.
 
-A rapid change in the value of STEEM can dramatically change the debt-to-ownership ratio. The blockchain prevents the debt-to-ownership ratio from getting too high, by reducing the amount of STEEM awarded through SBD conversions if the debt level were to exceed 10%. If the amount of SBD debt ever exceeds 10% of the total STEEM market cap, the blockchain will automatically reduce the amount of STEEM generated through conversions to a maximum of 10% of the market cap. This ensures that the blockchain will never have higher than a 10% debt-to-ownership ratio.
+STEEM'in değerinde hızlı bir değişim, borç-sahiplik oranını önemli ölçüde değiştirebilir. Blok zinciri, borç seviyesi% 10'u aşarsa SBD dönüşümleri yoluyla verilen STEEM miktarını azaltarak, borcun sahiplik oranının çok yüksek olmasını engeller. SBD borcu miktarı, toplam STEEM piyasa kapağının% 10'unu aşarsa, blok zinciri otomatik olarak dönüşümler yoluyla üretilen STEEM miktarını piyasa değerinin maksimum% 10'una düşürecektir. Bu, blok zincirinin asla borcun sahiplik oranının% 10'undan fazla olmayacağını garanti eder.
 
-The percentage floors used to compute STEEM creation are based on the supply including the STEEM value of all outstanding SBD and SP (as determined by the current rate / feed).
+STEEM yaratımını hesaplamak için kullanılan yüzde katlar, bekleyen tüm SBD ve SP'nin STEEM değerini (geçerli oran / feed ile belirlendiği gibi) arz temelindedir.
 
-### Interest
+### Faiz
 
-SBD pays holders interest. The interest rate is set by the same people who publish the price feed so that it can adapt to changing market conditions. All debt carries risk to the lender. Someone who holds SBD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SBD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
+SBD sahipleri ilgilendirmektedir. The interest rate is set by the same people who publish the price feed so that it can adapt to changing market conditions. All debt carries risk to the lender. Someone who holds SBD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SBD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
 
 STEEM and SP holders gain leverage when members of the community are willing to hold SBD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
 
