@@ -523,38 +523,38 @@ While a timestamping service can be built on almost any blockchain, and several 
 
 [^3]: মেটা-সংশোধনী মন্তব্য সংশোধনীর দ্বিতীয় স্তর। ব্যবহারকারীরা সংশোধনী উন্নত করার জন্য করার জন্য মডারেটরের সিদ্ধান্তকে রেট করতে আমন্ত্রিত। https://en.wikipedia.org/wiki/Meta-moderation\_system
 
-[^4]: The Impossible Trinity, economic theory https://en.wikipedia.org/wiki/Impossible\_trinity
+[^4]: The Impossible Trinity, অর্থনীতি মতবাদ https://en.wikipedia.org/wiki/Impossible\_trinity
 
 [^5]: N-Person Prisoner’s Dilemma https://cs.stanford.edu/people/eroberts/courses/soco/projects/1998-99/game-theory/npd.html
 
-[^6]: The Story of the Crab Bucket http://guidezone.e-guiding.com/jmstory\_crabs.htm
+[^6]: Crab Bucket এর গল্প http://guidezone.e-guiding.com/jmstory\_crabs.htm
 
-[^7]: Zipf’s Law https://en.wikipedia.org/wiki/Zipf%27s\_law
+[^7]: Zipf এর আইন https://en.wikipedia.org/wiki/Zipf%27s\_law
 
 [^8]: Clay Shirky, The Case Against Micropayments http://www.openp2p.com/pub/a/p2p/2000/12/19/micropayments.html
 
-[^9]: reCAPTCHA, Easy on Humans, Hard on Bots https://www.google.com/recaptcha/intro/index.html
+[^9]: reCAPTCHA, মানুষের জন্য সহজ, বটের জন্য কঠিন https://www.google.com/recaptcha/intro/index.html
 
 [^10]: Forbes, Tristan Louis, “How Much is a User Worth?” http://www.forbes.com/sites/tristanlouis/2013/08/31/how-much-is-a-us
 
-[^11]: Ripple, Account Reserves https://ripple.com/build/reserves/
+[^11]: রিপল, অ্যাকাউন্ট রিজার্ভ https://ripple.com/build/reserves/
 
-[^12]: Reddit Statistics, Number of Users and Comments per Second http://expandedramblings.com/index.php/reddit-stats/2/
+[^12]: রেডিট পরিসংখ্যান, প্রতি সেকেন্ডে ব্যবহারকারীর সংখ্যা এবং মন্তব্য http://expandedramblings.com/index.php/reddit-stats/2/
 
 [^13]: Martin Fowler, The LMAX Architecture http://martinfowler.com/articles/lmax.html
 
-[^14]: Introducing Intel Optane Technology – Bringing 3D XPoint Memory to Storage and Memory Products https://newsroom.intel.com/press-kits/introducing-intel-optane-technology-bringing-3d-xpoint-memory-to-storage-and-memory-products/
+[^14]: ইনটেল অপট্যান টেকনোলজি - স্টোরেজ এবং মেমরি প্রোডাক্টের জন্য 3D এক্সপয়েন্ট মেমরির সাথে পরিচিত হোন https://newsroom.intel.com/press-kits/introducing-intel-optane-technology-bringing-3d-xpoint-memory-to-storage-and-memory-products/
 
-[^15]: United States Money Supply, 2009 https://research.stlouisfed.org/fred2/graph/?s%5B1%5D%5Bid%5D=AMBNS
+[^15]: মার্কিন যুক্তরাষ্ট্রের টাকা যোগান, ২০০৯ https://research.stlouisfed.org/fred2/graph/?s%5B1%5D%5Bid%5D=AMBNS
 
-[^16]: CPI Inflation Index, United States Dollar 2008-2016 http://data.bls.gov/cgi-bin/cpicalc.pl?cost1=1&year1=2008&year2=2016
+[^16]: সিপিআই মূল্যস্ফীতির সূচক, মার্কিন ডলার ২০০৮-২০১৬ http://data.bls.gov/cgi-bin/cpicalc.pl?cost1=1&year1=2008&year2=2016
 
-[^17]: Bitcoin Annual Inflation Rate, Bitcoin Talk Forum https://bitcointalk.org/index.php?topic=130619.0
+[^17]: বিটকয়েন বার্ষিক মূল্যস্ফীতির হার, বিটকয়েন টক ফোরাম https://bitcointalk.org/index.php?topic=130619.0
 
-[^18]: Reddit Valuaton, Newsweek, 2014 http://www.newsweek.com/investors-think-reddit-worth-500-million-26
+[^18]: রেডিট Valuaton, নিউজউইক.২০১৪ http://www.newsweek.com/investors-think-reddit-worth-500-million-26
 
-[^19]: Worth of Web, March 2016 http://www.worthofweb.com/website-value/reddit.com/
+[^19]: Worth of Web, মার্চ ২০১৬ http://www.worthofweb.com/website-value/reddit.com/
 
 [^20]: Micropayments: A Viable Business Model http://www.openp2p.com/pub/a/p2p/2000/12/19/micropayments.html
 
-[^21]: Dailydot, Jon Southurt, April 2015 http://www.dailydot.com/opinion/bitcoin-cryptocurrency-adoption-hard
+[^21]: Dailydot, Jon Southurt, এপ্রিল ২০১৫ http://www.dailydot.com/opinion/bitcoin-cryptocurrency-adoption-hard
