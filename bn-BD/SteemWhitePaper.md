@@ -515,13 +515,13 @@ While a timestamping service can be built on almost any blockchain, and several 
 
 # উপসংহার
 
-স্টিম উভয় থেকে সেরা দিক মিশ্রন দ্বারা ক্রিপ্টোকারেন্সি এবং সামাজিক মিডিয়া শিল্পের মধ্যে চ্যালেঞ্জ মোকাবেলার জন্য পরিকল্পিত একটি পরীক্ষা। স্টিম বিষয়বস্তু উদ্যোক্তাদের এবং ইন্টারনেট পাঠকদের জন্য সুযোগগুলি অর্জন করে যা সামাজিক মিডিয়া শিল্পের মধ্যে বিদ্যমান নেই। Within Steem, individuals earn real rewards online that are directly correlated to their contributions. Those rewards may have dollar value due to the market price discovery and liquidity of Steem, and the people who hold Steem may have more exclusive earning powers than those who do not.
+স্টিম উভয় থেকে সেরা দিক মিশ্রন দ্বারা ক্রিপ্টোকারেন্সি এবং সামাজিক মিডিয়া শিল্পের মধ্যে চ্যালেঞ্জ মোকাবেলার জন্য পরিকল্পিত একটি পরীক্ষা। স্টিম বিষয়বস্তু উদ্যোক্তাদের এবং ইন্টারনেট পাঠকদের জন্য সুযোগগুলি অর্জন করে যা সামাজিক মিডিয়া শিল্পের মধ্যে বিদ্যমান নেই। স্টিমে, ব্যক্তিরা তাদের পুরষ্কারের সাথে সরাসরি সম্পর্কযুক্ত অনলাইন পুরস্কারগুলি অর্জন করে। যারা পুরস্কারগুলি বাজারমূল্য আবিষ্কার এবং স্টিমের তরল করার কারণে ডলারের মূল্য হতে পারে, এবং যারা স্টিম ধরে রাখে তাদের তুলনায় আরো বেশি উপার্জনকারী ক্ষমতা থাকতে পারে।
 
-[^1]: Reddit’s Cryptocurrency, Forbes, Erika Morphy, October 2014 http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/\#4e07b05332b9
+[^1]: রেডিট-এর Cryptocurrency, ফোর্বস, Erika Morphy, অক্টোবর ২০১৪ http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/ \#4e07b05332b9
 
 [^2]: Sweat Equity, Investopedia http://www.investopedia.com/terms/s/sweatequity.asp
 
-[^3]: Meta-moderation is a second level of comment moderation. Users are invited to rate a moderator's decision in order to improve moderation. https://en.wikipedia.org/wiki/Meta-moderation\_system
+[^3]: মেটা-সংশোধনী মন্তব্য সংশোধনীর দ্বিতীয় স্তর। ব্যবহারকারীরা সংশোধনী উন্নত করার জন্য করার জন্য মডারেটরের সিদ্ধান্তকে রেট করতে আমন্ত্রিত। https://en.wikipedia.org/wiki/Meta-moderation\_system
 
 [^4]: The Impossible Trinity, economic theory https://en.wikipedia.org/wiki/Impossible\_trinity
 
