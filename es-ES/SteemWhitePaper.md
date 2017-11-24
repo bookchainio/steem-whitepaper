@@ -2,7 +2,7 @@
 
 ## An incentivized, blockchain-based, public content platform.
 
-August 2017
+Agosto de 2017
 
 # Notas del traductor
 
