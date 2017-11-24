@@ -60,7 +60,7 @@ Masukan pemilih dari anggota masyarakat sangat penting bagi Steem untuk secara a
 
 # Cara-cara untuk berkontribusi
 
-This section outlines the ideas behind Steem and its rewards for people who provide meaningful and measurable contributions to the Steem community.
+Bagian ini menguraikan gagasan di balik Steem dan penghargaannya bagi orang-orang yang memberikan kontribusi yang berarti dan terukur kepada komunitas Steem.
 
 ## Capital Contributions
 
