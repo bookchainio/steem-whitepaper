@@ -34,7 +34,7 @@ La comunidad de Steem provee los siguientes servicios a sus miembros:
 4. Pagos libres.
 5. Trabajos que proveen los servicios antes mencionados a otros miembros.
 
-Steem’s purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem’s incentives may result in better outcomes for most participants.
+El útil realineamiento de incentivos económicos de Steem tiene el potencial de producir resultados justos y mas inclusivos para todos los involucrados que las plataformas de *social media* y criptomonedas que la preceden. Este documento explorará los incentivos económicos existentes y demostrará cómo Steem y sus incentivos podrán resultar mejor para la mayoría de los participantes.
 
 ## Reconociendo las contribuciones
 
@@ -44,9 +44,9 @@ El reto afrontado por Steem es derivar un algoritmo para tasar contribuciones in
 
 Las plataformas existentes operan en un principio de un usuario, un voto. Esto crea un ambiente donde los rankings pueden ser manipulados por ataques de profeta y los proveedores de servicio deben proactivamente identificar y bloquar abusadores. La gente actualmente intenta manipular los sistemas de tasacipon de Reddit, Twitter y Facebook siendo la única ganancia el tráfico web o la censura.
 
-La unidad fundamental de contabilidad en la plataforma de Steem es STEEM, un token de criptomoneda. Steem opera sobre la base de un-Steem, un-Voto. Bajo este modelo, los individuos que más han contribuido a la plataforma, medidos por el saldo de su cuenta, tienen la mayor influencia sobre la forma en que se califican las contribuciones. Furthermore, Steem only allows members to vote with STEEM when it is committed to a vesting schedule. Bajo este modelo, los miembros tienen un incentivo financiero para votar de una manera que maximiza el valor a largo plazo de su STEEM.
+La unidad fundamental de contabilidad en la plataforma de Steem es STEEM, un token de criptomoneda. Steem opera sobre la base de un-Steem, un-Voto. Bajo este modelo, los individuos que más han contribuido a la plataforma, medidos por el saldo de su cuenta, tienen la mayor influencia sobre la forma en que se califican las contribuciones. Además, Steem solo permite a los miembros votar con STEEM cuando este es sujeto a un esquema de adjudicación. Bajo este modelo, los miembros tienen un incentivo financiero para votar de una manera que maximiza el valor a largo plazo de su STEEM.
 
-Steem is designed around a relatively simple concept: *everyone’s meaningful contribution to the community should be recognized for the value it adds.* When people are recognized for their meaningful contributions, they continue contributing and the community grows. Cualquier desbalance en el ida y vuelta dentro de una comunidad es insustentable. Eventualmente los dadores se cansan de soportar a los miembros que restan y atentan contra la comunidad.
+Steem está diseñado alrededor de un concepto relativamente simple: *toda contribución significativa a la comunidad debería ser reconocida por el valor que añade.* Cuando la gente es reconocida por sus contribuciones, continúan contribuyendo y la comunidad crece. Cualquier desequilibrio en el dar y recibir dentro de una comunidad es insostenible. Eventualmente los dadores se cansan de soportar a los miembros que restan y atentan contra la comunidad.
 
 El reto es crear un sistema capaz de identificar qué contribuciones son necesarias y su valor relativo de manera que pueda escalar a un numero indeterminado de gente.
 
