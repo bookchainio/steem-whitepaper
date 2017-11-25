@@ -146,27 +146,27 @@ Astut okuyucular, sınırlı kaynağı olan faiz getiren bir varlığın, aynı 
 
 Steem üreticileri, Steem Dolarını yaratma ve yok etme imkânı veren bağımsız bir para politikasına sahip olmayı ve faiz oranını tam kontrol edebilmeyi hedefledikleri takdirde sorunlarla karşılaşacaklardır. İmkansız Üçlü, Steem Dolar'ın sermaye hareketini kısıtlamaya, dolar ile istikrarsız bir döviz kuruna veya faiz oranını kontrol etmeye ihtiyacı olduğunu söylüyor.
 
-Steem üreticilerinin başlıca kaygıları, SBD ile ABD Doları (USD) arasında istikrarlı bire bir dönüşüm sağlamaktır. SBD sürekli olarak 1,00 ABD Dolarının üzerinde işlem görürse faiz ödemelerinin durdurulması gerekir. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SBD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
+Steem üreticilerinin başlıca kaygıları, SBD ile ABD Doları (USD) arasında istikrarlı bire bir dönüşüm sağlamaktır. SBD sürekli olarak 1,00 ABD Dolarının üzerinde işlem görürse faiz ödemelerinin durdurulması gerekir. Borcun% 0 faizinin hâlâ bir prim talep ettiği bir pazarda, piyasanın topluluğun üstlenmek istediğinden daha fazla kredi vermeye istekli olduğunu söylemek güvenlidir. Bu gerçekleşirse, SBD'nin 1.00 dolardan fazla değerlendireceği ve topluluğun olumsuz faiz oranlarını ödemeden yapabileceği az şey var.
 
-If the debt-to-ownership ratio is low and SBD is trading for less than $1.00, then the interest rate should be increased. This will encourage more people to hold their SBD and support the price.
+Borç / mülkiyet oranı düşükse ve SBD 1.00 $ 'dan düşük bir miktarda işlem yapıyorsa, faiz oranı artırılmalıdır. Bu daha fazla insanı SBD'yi tutup fiyatını desteklemeye teşvik edecektir.
 
-If SBD trades for less than $1.00 USD and the debt-to-ownership ratio is high, then the feeds should be adjusted upward give more STEEM per SBD. This will increase demand for SBD while also reducing the debt-to-ownership ratio and returning SBD to parity with USD.
+SBD'nin 1,00 USD'den daha düşük bir miktarda işlem görmesi ve sahiplik oranı yüksekse, feed'lerin yukarı doğru ayarlanması SBD başına daha fazla STEEM verecektir. Bu, SBD'ye olan talebi artıracak ve aynı zamanda borcu sahiplik oranını azaltacak ve SBD'yi USD ile eşdeğer hale getirecektir.
 
-Assuming the value of STEEM is growing faster than Steem is creating new SBD, the debt-to-ownership ratio should remain under the target ratio and the interest offered benefits everyone. If the value of the network is flat or falling, then any interest offered will only make the debt-to-ownership ratio worse.
+STEEM'in değeri, Steem'in yeni SBD'si yaratmaktan daha hızlı bir şekilde arttığını varsayarsak, borç sahipliği oranı hedef oranının altında kalacak ve sunulan faiz herkese fayda sağlıyor. Şebekenin değeri düz veya düşme durumunda, sunulan herhangi bir faiz sadece borç-mülkiyet oranını daha da kötüleştirecektir.
 
-In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
+Aslında, yem üreticileri, USD'ye istikrarlı bir seyir izlemesi amacıyla para politikası belirleme sorumluluğunu üstlenirler. Bu gücün kötüye kullanımı, STEEM'in değerine zarar verebilir; böylece SP sahipleri, yukarıda belirtilen kurallara göre fiyat arzını ve faiz oranlarını ayarlamak için kullanılabilecek witnesslara oy vermekle akıllıca davranmış olacaktır.
 
-If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SBD.
+Borç / mülkiyet oranı tehlikeli bir şekilde yükselir ve piyasa katılımcıları dönüşüm taleplerini önlemeyi seçerse, feed, STEEM'in SBD'yi dönüştürmek için ne kadar para ödediğini artırmak için ayarlanmalıdır.
 
-Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SBD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions.
+Kısa vadeli piyasa koşullarına tepki vermeye çalışmak yerine, faiz politikası ve / veya STEEM / SBD dönüşüm oranındaki indirimler için yapılan değişiklikler uzun vadeli ortalama sapmalara karşı yavaş ve ölçülü bir cevap olmalıdır.
 
-It is our belief that these rules will give market participants confidence that they are unlikely lose money by holding SBD purchased at a price of $1.00. We fully expect there to be a narrow trading range between $0.95 and $1.05 for SBD under normal market conditions.
+Bu kuralların piyasa katılımcılarına 1.00 dolarlık bir fiyatla satın alarak SBD'yi kaybetmeleri olasılığının düşük olduğuna dair güven verecekleri inancındayız. SBD için normal piyasa koşullarında 0.95 $ ve 1.05 $ arasında dar bir ticaret aralığı bekliyoruz.
 
-## Subjective Contributions
+## Öznel Katkı
 
-Subjective Proof of Work presents an alternative approach to distributing a currency that improves upon fully *objective* Proof of Work systems such as mining. The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
+Subjektif İşyeri Kanıtı, madencilik gibi tamamen * objektif * İş güvencesi sistemini geliştiren bir para biriminin dağıtımına alternatif bir yaklaşım sunar. * Sübjektif * iş kanıtını uygulayan bir para birimi uygulaması, iş sisteminin herhangi bir * hedefi * kanıtından çok daha geniştir; çünkü yeterince bir konsepte sahip herhangi bir kavram etrafında bir topluluk oluşturmak üzere uygulanabilir tanımlanmış amaç. Bireyler bir topluluğa katıldığında belirli bir inanç grubuna girerler ve topluluk değerlerini veya amaçlarını güçlendirmek için oy kullanabilirler.
 
-In effect, the criteria by which work is evaluated is completely subjective and its definition lives outside the source code itself. One community may wish to reward artists, another poets, and another comedians. Other communities may choose to reward charitable causes or help advance political agendas.
+Gerçekte, çalışmanın değerlendirildiği ölçütler tamamen özneldir ve tanımı kaynak kodun dışında yaşar. Bir topluluk sanatçıları, bir başka şairi ve diğer komedyenleri ödüllendirmek isteyebilir. Other communities may choose to reward charitable causes or help advance political agendas.
 
 The value each currency achieves depends upon the demand for influence within a particular community and how large the market believes each community can get. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
 
