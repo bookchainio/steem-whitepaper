@@ -88,11 +88,11 @@ Credits here @skapaneas @holidaygreece @skapart".
 
 Στο χώρο του κρυπτονομίσματος, οι κερδοσκόποι πηδούν από κρυπτονόμισμα σε κρυπτονόμισμα βασισμένοι κυρίως στο πιο αναμένεται να έχει βραχυπρόθεσμη ανάπτυξη. Το Steem θέλει να χτίσει μια κοινότητα που ανήκει και ελέγχεται πλήρως από αυτόυς που έχουν μια μακροπρόθεσμη προοπτική.
 
-Οι χρήστες έχουν τη δυνατότητα να δεσμεύσουν τα STEEM τους με ένα πρόγραμμα κατοχύρωσης δεκατριών εβδομάδων, παρέχοντάς τους επιπλέον οφέλη εντός της πλατφόρμας. Τα STEEM που έχουν δεσμευθεί σε αυτή την περίοδο κατοχύρωσης των δεκατριών εβδομάδων λέγονται δύναμη Steem (SP). SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
+Οι χρήστες έχουν τη δυνατότητα να δεσμεύσουν τα STEEM τους με ένα πρόγραμμα κατοχύρωσης δεκατριών εβδομάδων, παρέχοντάς τους επιπλέον οφέλη εντός της πλατφόρμας. Τα STEEM που έχουν δεσμευθεί σε αυτή την περίοδο κατοχύρωσης των δεκατριών εβδομάδων λέγονται δύναμη Steem (SP). Τα υπόλοιπα SP είναι μη-μεταφέρσιμα και αδιαίρετα, παρά μόνο μέσω των αιτημάτων αυτόματης επαναληπτικής μετατροπής. Αυτό σημαίνει ότι τα SP δεν μπορούν να ανταλλαχθούν εύκολα σε ανταλλακτήρια κρυπτονομισμάτων.
 
-When users vote on content, their influence over the distribution of the rewards pool is directly proportional to the amount of SP that they have. Users with more SP have more influence on the distribution of rewards. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
+Όταν οι χρήστες ψηφίζουν για ένα περιεχόμενο, η επιρροή τους στο διαμοιρασμό των απολαβών είναι απευθείας ανάλογη των SP που διαθέτουν. Οι χρήστες με περισσότερα SP έχουν μεγαλύτερη επιρροή στο διαμοιρασμό των απολαβών. Αυτό σημαίνει ότι τα SP είναι ένα νόμισμα πρόσβασης, που δίνει στους κατόχους τους σημαντικών δυνάμεων εντός της πλατφόρμας Steem.
 
-SP holders are also paid interest on the balance of SP that remains vested. 15% of the yearly inflation is paid to SP holders as interest. The amount of the interest that they receive is directly proportional to the amount of SP they hold relative to the total amount of vested SP across all users.
+Οι κάτοχοι SP επίσης κερδίζουν τόκους για το υπόλοιπο των SP που παραμένει δεσμευμένο. 15% του ετήσιου πληθωρισμού πληρώνεται στους κατόχους SP ως τόκοι. The amount of the interest that they receive is directly proportional to the amount of SP they hold relative to the total amount of vested SP across all users.
 
 Transferring from STEEM to SP is referred to as “powering up”, while transferring from SP to STEEM is referred to as “powering down.” SP that is powered down is returned to the user over a period of thirteen weeks, via 13 equal weekly payments, starting one week after the power down is initiated.
 
