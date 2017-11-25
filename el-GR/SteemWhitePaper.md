@@ -78,17 +78,17 @@ Credits here @skapaneas @holidaygreece @skapart".
 
 ## Steem (STEEM)
 
-Το Steem είναι η θεμελιώδης μονάδα λογιστικής πάνω στο Steem blockchain. Όλα τα άλλα σύμβολα αποκομίζουν την αξία τους από την αξία του STEEM. STEEM is a liquid currency, and therefore can be bought or sold on exchanges, as well as transferred to other users as a form of payment.
+Το Steem είναι η θεμελιώδης μονάδα λογιστικής πάνω στο Steem blockchain. Όλα τα άλλα σύμβολα αποκομίζουν την αξία τους από την αξία του STEEM. Το STEEM είναι ένα ρευστό νόμισμα, και μπορεί οπότε να αγοραστεί ή να πουληθεί σε ανταλλακτήρια, ή να μεταφερθεί από έναν χρήστη σε άλλον ως μια μορφή πληρωμής.
 
 ## Steem Power (SP)
 
-Νεοσύστατες εταιρίες χρειάζονται μακροπρόθεσμη δέσμευση κεφαλαίων. Αυτοί που επενδύουν τα χρήματα τους σε μια καινούργια τεχνολογία αναμένουν να περιμένουν χρόνια πριν μπορέσουν να πουλήσουν τις μετοχές τους και να υλοποιήσουν τα κέρδη τους. Χωρίς μακροπρόθεσμη δέσμευση, μια νεοσύστατη επιχείρηση που ψάχνει να αυξήσει επιπλέον κεφάλαιο μέσω από την πώληση επιπλέον μετοχών με υπάρχων μετόχους που ψάχνουν να φύγουν. Οι έξυπνοι επενδυτές θέλουν οι εισφορές κεφαλαίων τους να επεκτείνουν την εταιρία, αλλά η επέκταση δεν μπόρει να συμβεί εάν το νέο κεφάλαιο δοθεί σε αυτούς που ψάχνουν να φύγουν.
+Οι νεοφυείς εταιρίες χρειάζονται μακροπρόθεσμη δέσμευση κεφαλαίων. Αυτοί που επενδύουν τα χρήματα τους σε μια νεοφυή επιχείρηση περιμένουν χρόνια πριν μπορέσουν να πουλήσουν τις μετοχές τους και να υλοποιήσουν τα κέρδη τους. Χωρίς μακροπρόθεσμη δέσμευση, μια νεοσύστατη επιχείρηση που ψάχνει να αντλήσει επιπλέον κεφάλαια μέσα από την πώληση επιπλέον μετοχών, θα ανταγωνιζόταν με τους υπάρχοντες μετόχους που ψάχνουν να φύγουν. Οι έξυπνοι επενδυτές θέλουν οι εισφορές κεφαλαίων τους να επεκτείνουν την εταιρία, αλλά η επέκταση δεν μπόρει να συμβεί εάν το νέο κεφάλαιο δοθεί σε αυτούς που ψάχνουν να φύγουν.
 
 Υπάρχει μια σημαντική αξία στο να υπάρχει μακροπρόθεσμη δέσμευση γιατί επιτρέπει στις κοινότητες να κάνουν μακροπρόθεσμα σχέδια. Η μακροπρόθεσμη δέσμευση των μετόχων επίσης τους προκαλεί να υποστηρίξουν την μακροχρόνια ανάπτυξη παρά τις βραχυπρόθεσμες πιέσεις.
 
 Στο χώρο του κρυπτονομίσματος, οι κερδοσκόποι πηδούν από κρυπτονόμισμα σε κρυπτονόμισμα βασισμένοι κυρίως στο πιο αναμένεται να έχει βραχυπρόθεσμη ανάπτυξη. Το Steem θέλει να χτίσει μια κοινότητα που ανήκει και ελέγχεται πλήρως από αυτόυς που έχουν μια μακροπρόθεσμη προοπτική.
 
-Users are able to commit their STEEM to a thirteen week vesting schedule, providing them with additional benefits within the platform. STEEM that has been committed to a thirteen week vesting schedule is called Steem Power (SP). SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
+Οι χρήστες έχουν τη δυνατότητα να δεσμεύσουν τα STEEM τους με ένα πρόγραμμα κατοχύρωσης δεκατριών εβδομάδων, παρέχοντάς τους επιπλέον οφέλη εντός της πλατφόρμας. Τα STEEM που έχουν δεσμευθεί σε αυτή την περίοδο κατοχύρωσης των δεκατριών εβδομάδων λέγονται δύναμη Steem (SP). SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
 
 When users vote on content, their influence over the distribution of the rewards pool is directly proportional to the amount of SP that they have. Users with more SP have more influence on the distribution of rewards. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
 
