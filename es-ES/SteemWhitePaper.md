@@ -6,7 +6,7 @@ Agosto de 2017
 
 # Notas del traductor
 
-Versión anterior traducida por @fernando-sanz. Versión actual traducida, actualizada, revisada y aprobada por @nehomar. Agradecimientos a @testz por subirlo a Crowdin.
+Versión actual traducida, actualizada, revisada y aprobada por @nehomar. Versión anterior traducida por @fernando-sanz. Agradecimientos a @testz por subirlo a Crowdin.
 
 # Abstract
 
