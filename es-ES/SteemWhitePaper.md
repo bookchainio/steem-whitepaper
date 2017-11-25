@@ -218,11 +218,11 @@ Users are allotted a fixed amount of voting power. El poder de voto es multiplic
 
 ### Distribución de pagos
 
-Una de las metas primordiales del sistema de premios de Steem es producir las mejores discusiones en internet. Cada año el 75% de la inflación anual es distribuida a los usuarios que envían, votan y discuten contenido. At the size of Bitcoin this could be several million dollars per day being given to the top contributors.
+Una de las metas primordiales del sistema de premios de Steem es producir las mejores discusiones en internet. Cada año el 75% de la inflación anual es distribuida a los usuarios que envían, votan y discuten contenido. Con el tamaño del *Bitcoin* ésto podría ser tanto como varios millones de dólares por día siendo entregados a los mejores contribuyentes.
 
 La distribución efectiva dependerá del patrón de votación de los usuarios, pero sospechamos que la amplia mayoría de los premios será distribuída entre el contenido mas popular.
 
-Zipf’s Law[^7] is one of those empirical rules that characterize a surprising range of real-world phenomena remarkably well. Ésta dice que si ordenamos determinada colección grande por tamaño o popularidad, el segundo elemento en la colección medirá aproximadamente la mitad del primero, el tercero un tercio del primero y así sucesivamente. In general, the k th-ranked item will measure about 1/k of the first one.
+La Ley de Zipf[^7] es una de esas reglas empíricas que caracterizan muy bien un sorprendente rango de fenómenos del mundo real. Ésta dice que si ordenamos determinada colección grande por tamaño o popularidad, el segundo elemento en la colección medirá aproximadamente la mitad del primero, el tercero un tercio del primero y así sucesivamente. In general, the k th-ranked item will measure about 1/k of the first one.
 
 ![](\img_the_new_marketplace.png)
 
