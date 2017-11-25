@@ -104,23 +104,23 @@ Habiendo varios productores electos y confiables, el precio determinado para con
 
 Aún si todos los productores son honestos, existe la posibilidad que la mayoría de éstos sean afectados por eventos que estén más allá de su control. La red de Steem está diseñada para tolerar corrupciones de corto plazo en el indicador promediado mientras la comunidad trabaja activamente en la corrección del problema. Un ejemplo de un problema que puede tomar cierto tiempo para corregir es la manipulación de mercado a corto plazo. La manipulación de mercado es dificultosa y costosa de mantener por períodos largos. Otro ejemplo sería la falla de un servicio de intercambio centralizado o la corrupción de los datos publicados por el mismo.
 
-Steem factors out short-term price fluctuations by using the median price over a period of three and a half days. The median published feed is sampled every hour on the hour.
+Steem elimina el factor de las fluctuaciones de precio de corto plazo usando el promedio del período de tres días y medio. El indicador de promedio publicado es generado cada hora.
 
 Siempre que una corrupción en el indicador de precios dure menos que la ventana de tiempo del promedio móvil, habrá un impacto mínimo en el precio de conversión. Si eventualmente el indicador es corrompido, los participantes de la red tendrán una oportunidad para votar la expulsión de los productores de indicadores corrompidos antes que impacten en el precio efectivo de conversión. Tal vez lo mas importante es que le da a los productores una oportunidad para detectar y corregir los problemas antes que sus indicadores comiencen a afectar el precio promediado.
 
-With a three and a half day window, community members have approximately one and a half days to respond to any issues that come up.
+Con una ventana de tiempo de tres días y medio, los miembros de la comunidad tienen aproximadamente un día y medio para responder y mitigar los problemas que puedan surgir.
 
 ### Mitigando ataques de cadencia
 
-Market participants have access to information faster than the blockchain’s three and a half day moving median conversion price can react. Esta información puede ser utilizada para beneficio de los operadores a expensas de la comunidad. If there is a sudden increase in the value of STEEM traders could request conversion of their SBD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
+Market participants have access to information faster than the blockchain’s three and a half day moving median conversion price can react. Esta información puede ser utilizada para beneficio de los operadores a expensas de la comunidad. Si hay un incremento repentino en el valor de STEEM, los operadores podrían solicitar la conversión de sus SBD al precio anterior, más bajo, y luego vender los STEEM recibidos a un nuevo precio mayor con muy bajo riesgo.
 
 Steem levels the playing field by requiring all conversion requests to be delayed for three and a half days. Esto significa que ni los operadores ni el blockchain tienen ventaja con respecto al precio cuando la conversión se ejecuta.
 
 ### Minimizando el abuso de conversiones
 
-Si los usuarios puediesen convertir libremente en ambas direcciones, los operadores podrían tomar ventaja de las medidas de conversión del blockchain al intercambiar grandes volúmenes sin modificar el precio. Traders who see a massive run up in price would convert to SBD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SBD to STEEM and not the other way around.
+Si los usuarios puediesen convertir libremente en ambas direcciones, los operadores podrían tomar ventaja de las medidas de conversión del blockchain al intercambiar grandes volúmenes sin modificar el precio. Los operadores que ven un aumento masivo en el precio podrían convertir a SBD al mayor precio (cuando hay mas riesgo) y luego reconvertir luego de la corrección. El protocolo de Steem proteje a la comunidad de este tipo de abusos al permitir únicamente la conversión de SBD a STEEM y no al revés.
 
-The blockchain decides how and when to create SBD and who should get it. This keeps the rate of SBD creation stable and removes most avenues of abuse.
+El blockchain decide cómo y cuándo crear SBD y quién debe recibirlos. Esto mantiene estable el ritmo de creación de SBD y elimina formas de abuso.
 
 ### Deuda sostenible a relaciones de propiedad
 
