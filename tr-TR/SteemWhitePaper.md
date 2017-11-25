@@ -146,7 +146,7 @@ Astut okuyucular, sınırlı kaynağı olan faiz getiren bir varlığın, aynı 
 
 Steem üreticileri, Steem Dolarını yaratma ve yok etme imkânı veren bağımsız bir para politikasına sahip olmayı ve faiz oranını tam kontrol edebilmeyi hedefledikleri takdirde sorunlarla karşılaşacaklardır. İmkansız Üçlü, Steem Dolar'ın sermaye hareketini kısıtlamaya, dolar ile istikrarsız bir döviz kuruna veya faiz oranını kontrol etmeye ihtiyacı olduğunu söylüyor.
 
-The primary concern of Steem feed producers is to maintain a stable one-to-one conversion between SBD and the U.S. Dollar (USD). Any time SBD is consistently trading above $1.00 USD interest payments must be stopped. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SBD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
+Steem üreticilerinin başlıca kaygıları, SBD ile ABD Doları (USD) arasında istikrarlı bire bir dönüşüm sağlamaktır. SBD sürekli olarak 1,00 ABD Dolarının üzerinde işlem görürse faiz ödemelerinin durdurulması gerekir. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SBD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
 
 If the debt-to-ownership ratio is low and SBD is trading for less than $1.00, then the interest rate should be increased. This will encourage more people to hold their SBD and support the price.
 
