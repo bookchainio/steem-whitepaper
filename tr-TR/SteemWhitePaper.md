@@ -184,11 +184,11 @@ Milyonlarca kullanıcıyı ödüllendirmenin ilk adımı, ne kadar işin yapıld
 
 ### Para Birimi Dağılımı Üzerine Oy Verme
 
-Dağıtılacak belli miktarda bir paranın olduğunu ve paranın gelecekteki değeri ve yararına uzun vadeli menfaate sahip olanların, nasıl tahsis edileceğine karar vermesi gerekenler olduğunu varsayalım. Every vesting user casts their votes on who did the best work and at the end of the day the available money for that day is divided proportional to the votes such that everyone with even one net positive vote gets something.
+Dağıtılacak belli miktarda bir paranın olduğunu ve paranın gelecekteki değeri ve yararına uzun vadeli menfaate sahip olanların, nasıl tahsis edileceğine karar vermesi gerekenler olduğunu varsayalım. Her hakkı olan kullanıcı en iyi çalışmayı kimin yaptığına oy verir ve günün sonunda elde ettiği paralar oylarla orantılı olarak bölünür ve böylelikle birer net olumlu oy kullanan herkes bir şeyler alır.
 
-The naive voting process creates a N-Person Prisoner’s Dilemma[^5] whereby each individual voter has incentive to vote for themselves at the expense of the larger community goal. If every voter defects by voting for themselves then no currency will end up distributed and the currency as a whole will fail to gain network effect. On the other hand, if only one voter defects then that voter would win undeserved profits while having minimal effect on the overall value of the currency.
+Saf oylama işlemi sayede her bireysel seçmen kendileri için daha büyük topluluk hedef pahasına oy için teşvik vardır N-kişi tutsak ikilemi [^5] oluşturur. Her seçmen kendiliğinden oylar atarak kusurlarsa, hiçbir para birimi dağıtılamaz ve para birimi ağ etkisini kazanamaz. Öte yandan, eğer bir seçmen kusurluyorsa, o seçmen para birimi genelinde az bir etkiye sahipken haksız kazanç kazanacaktır.
 
-#### Voting Abuse
+#### Oylama İstismarı
 
 Regardless of how much money any one individual has, there are always many other individuals with similar wealth. Even the wealthiest individual rarely has much more than the next couple wealthiest combined. Furthermore, those who have a large investment in a community also have the most to lose by attempting to game the voting system for themselves. It would be like the CEO of a company deciding to stop paying salaries so he could pocket all of the profits. Everyone would leave to work for other companies and the company would become worthless, leaving the CEO bankrupt rather than wealthy.
 
