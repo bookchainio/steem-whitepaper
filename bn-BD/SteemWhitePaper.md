@@ -22,13 +22,13 @@
 
 স্টিম এর নকশা গাইড ব্যবহার করা হয়েছে কিছু মূল নীতি আছে। সর্বাপেক্ষা গুরুত্বপূর্ণ নীতি হলো যে উদ্যোগে অবদান রাখে এমন প্রত্যেকের উচিত উদ্যোগ থেকে প্রো-রাতা মালিকানা, অর্থ প্রদান বা ঋণ গ্রহণ করা। এই নীতি একই নীতি যা শুরুতে এবং পরবর্তী ফান্ডিং রাউন্ডের সময় শেয়ার বরাদ্দ হিসাবে সমস্ত প্রারম্ভে প্রয়োগ করা হয়।
 
-দ্বিতীয় নীতি হল যে সমস্ত ধরনের মূলধন সমানভাবে মূল্যবান। এর অর্থ এই যে, যারা অপ্রত্যাশিত নগদ অর্থ যোগায় যারা অন্যদের জন্য উদ্দীপক এবং কার্যাবলী তৈরি করার জন্য তাদের অপ্রতুল সময় এবং মনোযোগ দান করে। This is the sweat equity principle[^2] and is a concept that prior cryptocurrencies have often had trouble providing to more than a few dozen individuals.
+দ্বিতীয় নীতি হল যে সমস্ত ধরনের মূলধন সমানভাবে মূল্যবান। এর অর্থ এই যে, যারা অপ্রত্যাশিত নগদ অর্থ যোগায় যারা অন্যদের জন্য উদ্দীপক এবং কার্যাবলী তৈরি করার জন্য তাদের অপ্রতুল সময় এবং মনোযোগ দান করে। এই ঘাম ইক্যুইটি নীতি <sup id="fnref:2"><a href="#fn:2" class="footnote-ref">২</a></sup> এবং একটি ধারণা যে পূর্বে ক্রিপ্টোকুয়ার্বিক্স প্রায়ই কয়েক ডজন ব্যক্তিদের চেয়ে বেশি প্রদান সমস্যা ছিল।
 
-The third principle is that the community produces products to serve its members. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
+তৃতীয় নীতি হল যে সম্প্রদায়গুলি তার সদস্যদের পরিবেশন করার জন্য পণ্যগুলি উৎপাদন করে। এই নীতি ক্রেডিট ইউনিয়ন, খাদ্য সহ-ওপস, এবং স্বাস্থ্য ভাগ পরিকল্পনা দ্বারা উদাহরণস্বরূপ, যা সম্প্রদায়ের বাইরে মানুষকে পণ্য বা সেবা বিক্রি করার পরিবর্তে তাদের সম্প্রদায়ের সদস্যদের পরিবেশন করে।
 
-The Steem community provides the following services to its members:
+Steem সমাজ এর সদস্যদের জন্য নিম্নবর্ণিত সেবা প্রদান করে:
 
-1. A source of curated news and commentary.
+1. কিউরেটেড নিউজ এবং ভাষ্য একটি উৎস।
 2. A means to get high quality answers to personalized questions.
 3. A stable cryptocurrency pegged to the U.S. dollar.
 4. Free payments.
