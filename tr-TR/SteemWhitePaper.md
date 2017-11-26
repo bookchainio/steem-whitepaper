@@ -8,7 +8,7 @@ Ağustos 2017
 
 Çevirmenin notaları için yer tutucu.
 
-# Soyut
+# Özet
 
 Steem, cryptocurrency ödülleri ile topluluk oluşturmayı ve sosyal etkileşimi destekleyen bir blok zinciri veritabanıdır. Steem, sosyal medya araçlarındaki kavramları kripto para birimlerini ve topluluklarını oluşturmakla öğrenilen derslerle birleştirir. Herhangi bir topluluğa, para birimine ya da serbest piyasa ekonomisine katılımı arttırmanın önemli bir anahtarı, her bir kişinin katkısını sürekli olarak yansıtan adil bir muhasebe sistemidir. Steem, topluluğuna * öznel katkı yapan * kişileri sınırsız sayıda doğru ve şeffaf bir şekilde ödüllendirmeye çalışan ilk şifreleme sırasıdır.
 
@@ -190,15 +190,15 @@ Saf oylama işlemi sayede her bireysel seçmen kendileri için daha büyük topl
 
 #### Oylama İstismarı
 
-Herhangi bir kişinin ne kadar para harcadığına bakılmaksızın, benzer zenginlikle birçok kişi bulunur. En zengin olan kişi dahi, birleşmiş en iyi çiftin nadiren çok daha fazlasına sahip olur. Dahası, bir topluluğa büyük bir yatırım yapanların oy sistemini kendi başlarına oynamaya teşebbüs ederek en fazla payı kendileri kaybederler. Bu maaş ödemelerini durdurmaya karar veren bir şirketin CEO'suydu, böylece tüm kazançlarını cebine aktarabilirdi. Everyone would leave to work for other companies and the company would become worthless, leaving the CEO bankrupt rather than wealthy.
+Herhangi bir kişinin ne kadar para harcadığına bakılmaksızın, benzer zenginlikle birçok kişi bulunur. En zengin olan kişi dahi, birleşmiş en iyi çiftin nadiren çok daha fazlasına sahip olur. Dahası, bir topluluğa büyük bir yatırım yapanların oy sistemini kendi başlarına oynamaya teşebbüs ederek en fazla payı kendileri kaybederler. Bu maaş ödemelerini durdurmaya karar veren bir şirketin CEO'suydu, böylece tüm kazançlarını cebine aktarabilirdi. Herkes diğer şirketler için çalışmak üzere ayrılması ile, şirketin değersizleşeceği ve CEO'yu zengin olmaktan çok iflas edeceği söylenebilir.
 
-Fortunately, any work that is getting a large concentration of votes is also gaining the most scrutiny (publicity). Through the addition of *negative-voting* it is possible for many smaller stakeholders to nullify the voting power of collusive groups or defecting large stakeholders. Furthermore, large-stakeholders have more to lose if the currency falls in value due to abuse than they might gain by voting for themselves. In fact, honest large stakeholders are likely to be more effective by policing abuse and using negative voting than they would be by voting for smaller contributions.
+Neyse ki, büyük bir konsantrasyona sahip olan herhangi bir çalışma da en çok incelemeyi (tanıtım) kazanmaktadır. *Negatif oy* ilavesi ile oy gücü kendi gruplarının etkisiz hale getirmek birçok daha küçük hissedarlara veya büyük paydaşların iltica için mümkündür. Dahası, büyük paydaşlar, para birimi oy birliğiyle kendileri için oy kullandıklarından daha değerli olursa kaybedecek daha çok şeyin var. Aslında, dürüst büyük paydaşların, daha küçük katkılar için oy kullanacağından daha kötüye kullanma ve olumsuz oy kullanmaları ile daha etkili olacağı muhtemeldir.
 
-The use of *negative-voting* to keep people from abusing the system leverages the *crab mentality* that many people have when it is perceived that one individual is profiting at the expense of everyone else. While crab mentality normally refers to short-sighted people keeping good people down, it is also what allows good people to keep bad people down. The only “problem” with crab mentality is when people *wrongly believe* someone is profiting at everyone else's expense.
+Sistemi kötüye insanları tutmak için *negatif oy* kullanımı bir tek tek herkes pahasına kazanç algılandığı zaman bu birçok kişi *zihniyet Yengeç* güçlendirir. Yengeç zihniyet normalde, insanları iyi durumda tutan kısa görüşlü insanlar anlamına gelirken, aynı zamanda iyi insanların kötü insanları tutmasına izin veren şey de budur. Yengeç zihniyet ile tek "sorun" olduğunda insanlar *yanlış inanıyorum* biri başkalarının pahasına kazanç.
 
-**The Story of the Crab Bucket**[^6]
+**Yengeç Kovasının Hikayesi** [^6]
 
-A man was walking along the beach and saw another man fishing in the surf with a bait bucket beside him. As he drew closer, he saw that the bait bucket had no lid and had live crabs inside.
+Bir adam sahil boyunca yürüyordu ve yanındaki bir yem kovalı sörfte başka bir adamın balık tuttuğunu gördü. Daha yaklaşırken, yem kovasının kapağı olmadığını ve içindeki canlı yengeçleri olduğunu gördü.
 
 "Why don't you cover your bait bucket so the crabs won't escape?", he said.
 
