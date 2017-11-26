@@ -387,61 +387,61 @@ SteemはRedditよりも大きなユーザーベースを扱うことが可能で
 1. すべてをメモリに保持する。
 2. コアビジネスロジックをシングルスレッドにする。
 3. 暗号化操作 (ハッシュと署名) をコアビジネスロジックの外に置く。
-4. Divide validation into state-dependent and state-independent checks.
-5. Use an object oriented data model.
+4. バリデーションを状態依存と状態費依存の確認に分割する。
+5. オブジェクト指向のデータモデルを使用する。
 
-By following these simple rules, Steem is able to process 10,000 transactions per second without any significant effort devoted to optimization.
+これらの単純なルールに従うことで、Steemは最適化開発に多大な労力を費やすことなく毎秒10,000トランザクションを処理することができます。
 
-Keeping everything in memory is increasingly viable given the recent introduction of Optane™ technology from Intel[^14]. It should be possible for commodity hardware to handle all of the business logic associated with Steem in a single thread with all posts kept in memory for rapid indexing. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optane™ technology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
+インテルのOptane™テクノロジー[^14]が導入されてから、すべてをメモリに保持することはますます容易になっています。 Steemに関連したすべてのビジネスロジックをシングルスレッドで処理し、すべての投稿をメモリに保持して高速にインデックス作成をするということを、コモディティハードウェアでできなけれなりません。 Googleもまたインターネット全体のインデックスをRAMに保持しています。 ブロックチェーン技術を用いると、データの損失を防ぐために多数のマシンにデータベースを複製することは容易です。 Optane™テクノロジーが普及することで、RAMがさらに高速化し、持続性が得られます。 つまり、Steemは未来のアーキテクチャによって拡大できるように設計されています。
 
-# Allocation & Supply
+# 配分と供給
 
-## Initial Allocation & Supply
+## 初期配分と供給
 
-The Steem network started with a currency supply of 0 and allocated STEEM via proof of work at a rate of approximately 40 STEEM per minute to miners, with an additional 40 STEEM per minute being created to seed the content and curation reward pools (for a total of 80 STEEM per minute). Then the network started rewarding users who converted to SP. At this point, STEEM grew at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
+Steemネットワークは通貨供給量0の状態で始まり、プルーフ・オブ・ワークによってマイナーにおよそ毎分40 STEEMの比率で割り当てられ、さらにコンテンツとキュレーションの報酬プールに毎分40 STEEMが蓄えられました (合計で毎分80 STEEM)。 その後、ネットワークはSPに変換したユーザーに報酬を出し始めました。 この時点で、STEEMは以下のような様々な貢献への報酬の複合効果により、およそ毎分800 STEEMの比率で増加していました:
 
-Contribution Rewards:
+貢献への報酬:
 
-- Curation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
-- Content Creation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
-- Block production rewards: 1 STEEM per block or 0.750% per year, whichever is greater
-- POW inclusion rewards before block 864,000: 1 STEEM per block (awarded as 21 STEEM per round)
-- POW inclusion rewards after block 864,000: 0.0476 STEEM per block (awarded as 1 STEEM per round) or 0.750% per year, whichever is greater.
-- Liquidity rewards: 1 STEEM per block (awarded as 1200 STEEM per hour) or 0.750% per year, whichever is greater
+- キュレーション報酬: 毎ブロック1 STEEM、または年間3.875%のいずれか大きい方
+- コンテンツ作成報酬: 毎ブロック1 STEEM、または年間3.875%のいずれか大きい方
+- ブロック作成報酬: 毎ブロック1 STEEM、または年間0.750%のいずれか大きい方
+- 864,000ブロック以前のPOWに含まれる報酬: 毎ブロック1 STEEM (毎ラウンド21 STEEMの付与)
+- 864,000ブロック以降のPOWに含まれる報酬: 毎ブロック0.0476 STEEM (毎ラウンド1 STEEMの付与) または年間0.750%のいずれか大きい方
+- 流動性報酬: 毎ブロック1 STEEM (毎時1200 STEEMの付与) または年間0.750%のいずれか大きい方
 
-### Power Rewards:
+### パワー報酬
 
-- Steem Power rewards: For each STEEM created by the above rewards, 9 STEEM are divided among all Steem Power holders.
+- Steemパワー報酬: 上記の報酬によって作成された各STEEMに対して、9 STEEMがすべてのSteemパワー報酬者の間で分割されました。
 
-### SBD operations:
+### SBD運用:
 
-- SBD rewards: A percentage of SBD value is created at an APR set by the witnesses and paid to SBD holders as SBD
+- SBD報酬: 証人が設定したAPRの割合でSBDが作成され、SBD保有者にSBDが支払われました。
 
-The overall supply picture is complicated by the effect of SBD operations, which may result in large-scale creation or destruction of STEEM through feed rate following and SBD rewards, as discussed in the SBD section. Other, smaller-scale complicating effects also exist, including unclaimed incentives (e.g. block rewards for missed blocks), and abandoned accounts.
+SBD運用の効果により全体的な供給像が複雑になり、SBDのセクションで議論したように、フィードレートの影響やSBD報酬によってSTEEMの大規模な作成や破壊が起こる可能性があります。 その他、未請求の報酬 (例: 喪失ブロックのブロック報酬) や放棄されたアカウントなどの小規模の複雑な効果も存在します。
 
-## Current Allocation & Supply
+## 現在の配分と供給
 
-Starting with the network's 16th hard fork in December 2016, Steem began creating new tokens at a yearly inflation rate of 9.5%. The inflation rate decreases at a rate of 0.01% every 250,000 blocks, or about 0.5% per year. The inflation will continue decreasing at this pace until the overall inflation rate reaches 0.95%. This will take about 20.5 years from the time hard fork 16 went into effect.
+2016年12月にネットワークのハードフォーク16から、Steemは年間インフレ率9.5%で新しいトークンを作成するようになりました。 インフレ率は250,000ブロックごとに0.01%、年間およそ0.5%減少します。 全体のインフレ率が0.95%になるまで、インフレ率はこのペースで減少し続けます。 これはハードフォーク16が有効になってからおよそ20.5年かかる予定です。
 
-75% of the new tokens that are generated go to fund the reward pool, which is split between authors and curators. 15% of the new tokens are awarded to holders of SP. The remaining 10% pays for the witnesses to power the blockchain.
+新しいトークンの75%は報酬プールに蓄えられ、投稿者とキュレーターで分割されます。 新しいトークンの15%はSP保有者に付与されます。 残りの10%はブロックチェーンを動かしている証人に支払われます。
 
-### Impact of Token Creation Rate
+### トークン生成率の影響
 
-It is often said that a coin with an inflationary model is not sustainable, but we know from countless real-world examples that the quantity of money does not have a direct and immediate impact on its value, though it certainly plays a role.
+インフレモデルのコインは持続可能ではないとよく言われますが、現実に数え切れないほどの例があり、通貨量は確かに意味がありますが、その価値に直接的かつ即時的な影響はないことが知られています。
 
-From August 2008 through January 2009 the U.S. money supply[^15] grew from $871B to $1,737B, a rate of over 100% per year and then continued to grow at about 20% per year for the next 6 years. All told the money supply in the U.S. has grown by 4.59x over less than 7 years. During that same time, the value of the dollar relative to goods and services has fallen less than 10% according to the government's price index[^16]. This real-world example demonstrates that supply is only one component of price.
+2008年8月から2009年1月にかけて、米国の通貨供給量[^15]は8710億ドルから1兆7370億ドルまで増加し、増加率は年間100%を超え、その後の6年間は年20%で増加し続けました。 米国の通貨供給量は7年足らずで4.59倍に増加しました。 その間、政府の物価指数[^16]によると、商品やサービスに対するドルの価値は10%未満の下落でした。 この実例は、供給量は価格の一要素でしかないことを示しています。
 
-For the first 2 years of Bitcoin’s life the network sustained an annual inflation rate[^17] of over 100%. For the first 5 years it was over 30%, and for the first 8 years it was over 10%. All told the total “spending” Steem does to fund content, curation, and block production amounts to less than 10% APR.
+ビットコインが誕生してから最初の2年間で、ネットワークは年間100%を越えるインフレ率を維持しました[^17]。 最初の5年間で30%以上、最初の8年間で10%以上でした。 全体として、Steemのコンテンツやキュレーション、ブロック生成に資金を供給するための「支出」総額は年率10%未満に抑えます。
 
-The price of a digital commodity, like STEEM, is driven by both supply and demand. When a long-term holder decides to exit, the supply of STEEM on the market will increase and push the price down. This downward pressure is countered when a new long-term holder decides to buy up the STEEM and convert it back into SP. Additional supply and demand may be be added due to market speculators buying and selling liquid STEEM based on their predictions of the future market price.
+STEEMのようなデジタル商品の価格は、供給と需要の両方で動きます。 長期的な保有者が撤退すると、市場のSTEEM供給が増えて価格は下落します。 新しい長期保有社がSTEEMを買ってSPに変換すると、この下向きの圧力は打ち消されます。 市場の投機家が将来の市場価格の予測に基づいて流動的なSTEEMを売買することにより、さらに供給と需要が増加する可能性があります。
 
-# The Power of Steem
+# Steemの力
 
-Steem recognizes that the value of all user contributions (posts and votes) is greater than the sum of the parts. A single comment is worth next to nothing, but millions of curated posts is worth many millions (or possibly even billions) of dollars. A single vote provides little curation value, but billions of votes is very effective curation. Content without curation is of limited value. Given all the content of the Internet minus the links between it, Google would struggle to produce useful search results. It is the links between information that give it significant value.
+Steemはユーザーの貢献 (投稿と投票) 全体の価値が、個々の合計よりも大きいことを認識しています。 単一のコメントにはほとんど価値はありませんが、数百万ものキュレーションされた投稿の価値は何百万ドル、あるいは何十億ドルにもなる可能性さえあります。 単一の投票には僅かなキュレーション価値しかありませんが、数十億の投票によるキュレーションは非常に効果的です。 キュレーションのないコンテンツには限られた価値しかありません。 インターネットのすべてのコンテンツにリンクがなかったとすると、Googleは有用な検索結果を作り出すのに苦労したでしょう。 それは情報の間のリンクであり、大きな価値をもたらすものです。
 
-Because everyone benefits, everyone should pay. In other words, no individual user should be expected to pay for anything, but instead should be paid for everything they do that brings value to Steem. All we need to do is ascertain which user contributions bring a social network value and which ones don’t.
+全員が利益を得ているため、全員が支払うべきです。 言い換えれば、個々のユーザーが支払いを求められることはなく、代わりにSteemに価値をもたらすすべてのものに対して報酬を出すべきです。 私たちがしなければならないことは、どのユーザーがソーシャルネットワークに価値をもたらす貢献をしたか、どのユーザーがそうでないかを確認することだけです。
 
-Collectively Reddit users vote 220 times per second and make 23 posts per second. Reddit is valued between $500 million[^18] and $4 billion[^19] which means that each and every upvote and post is worth between $0.06 and $0.50 assuming the value of Reddit is mostly within the past year’s worth of activity. One could argue that most of the value of Reddit is the near-real-time discussions that have occurred within the past week which would dramatically increase the value of new activity. People go where people are today, not where people were last year.
+まとめると、Redditのユーザーは毎秒220回の投票を行い、毎秒23件の投稿を作成しています。 Redditには5億ドル[^18]から40億ドル[^19]の価値があります。これはそれぞれの投票と投稿に0.06ドルから0.50ドルの価値があると仮定し、Redditの価値が主に過去1年間のアクティビティによるものとした場合です。 Redditの価値の大部分は、過去1週間以内に行われたリアルタイムに近い議論であり、それは新しいアクティビティの価値を劇的に高めると主張することができます。 人は、人々が去年いた場所ではなく、人々が今いる場所に行きます。
 
 ## No Micropayments, Tips Optional
 
