@@ -1,22 +1,22 @@
 # Steem
 
-## An incentivized, blockchain-based, public content platform.
+## 一个激励人心的、基于区块链的社交媒体平台
 
-August 2017
+2017年8月
 
-# Translator's notes
+# 中文翻译版由@somebody于2016年7月完成。Github: https://github. com/asalei/steem-cn
 
-Placeholder for translator's notes.
+Somebody在Steem主页: https://steemit.com/@somebody
 
-# Abstract
+# 摘要
 
-Steem is a blockchain database that supports community building and social interaction with cryptocurrency rewards. Steem combines concepts from social media with lessons learned from building cryptocurrencies and their communities. An important key to inspiring participation in any community, currency or free market economy is a fair accounting system that consistently reflects each person's contribution. Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
+Steem是一个通过提供加密货币奖励支持社区建设和社会互动的区块链数据库。 Steem将社交媒体的概念与建设加密货币和社区过程中汲取的经验相结合。 激励人们参与社区、货币和自由市场经济的关键一环是提供一个始终反映每个人贡献的公平会计体系。 Steem是第一个尝试准确、透明地为无数对社区做出积极贡献的个人提供回报的加密货币。
 
-# Table of Contents
+# 目录
 
 <!-- toc -->
 
-# Introduction
+# 简介
 
 Collectively, user-generated content has created billions of dollars worth of value for the shareholders of social media companies, such as Reddit, Facebook, and Twitter. **In 2014, Reddit hypothesized that its platform would be improved if everyone who contributed to reddit.com by posting stories, adding comments or voting were rewarded with a fair share in Reddit, Inc.[^1]**. Steem aims to support social media and online communities by returning much of its value to the people who provide valuable contributions by rewarding them with cryptocurrency, and through this process create a currency that is able to reach a broad market, including people who have yet to participate in any cryptocurrency economy.
 
