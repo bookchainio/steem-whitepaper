@@ -29,16 +29,16 @@
 Steem সমাজ এর সদস্যদের জন্য নিম্নবর্ণিত সেবা প্রদান করে:
 
 1. কিউরেটেড নিউজ এবং ভাষ্য একটি উৎস।
-2. A means to get high quality answers to personalized questions.
-3. A stable cryptocurrency pegged to the U.S. dollar.
-4. Free payments.
-5. Jobs providing above services to other members.
+2. ব্যক্তিগতকৃত প্রশ্নের উচ্চ মানের উত্তর পেতে একটি উপায়।
+3. একটি স্থিতিশীল cryptocurrency মার্কিন ডলার pegged।
+4. বিনামূল্যে প্রদান।
+5. অন্যান্য সদস্যদের সেবা প্রদান উপরে চাকরী।
 
-Steem’s purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem’s incentives may result in better outcomes for most participants.
+অর্থনৈতিক প্রণোদনার Steem এর উদ্দেশ্যপ্রণোদিত পুনর্বিবেচনাযোগ্য সামাজিক মিডিয়া এবং ক্রিপ্টোকুরঞ্জিমা প্ল্যাটফর্মের সাথে জড়িত প্রত্যেকের জন্য নিখুঁত এবং আরো সমেত ফল উৎপন্ন করার সম্ভাবনা রয়েছে যা তার আগে চলে গেছে। এই কাগজটি বিদ্যমান অর্থনৈতিক প্রণোদনার অন্বেষণ করবে এবং দেখাবে কিভাবে Steem এর উত্সগুলি সর্বাধিক অংশগ্রহণকারীদের জন্য ভাল ফলাফলের ফলাফল হতে পারে।
 
 ## অবদান শণাক্তকরণ
 
-Steem is designed from the ground up to address the major barriers to adoption and monetization of a social media based economy. Our thesis is that the same techniques used to grow major social media platforms can be used to bootstrap a successful cryptocurrency. Economic incentives enabled by cryptocurrency can dramatically facilitate the growth of a new social media platform. It is the synergy between cryptocurrency and social media that we believe may give Steem a powerful advantage in the market.
+একটি সামাজিক মিডিয়া ভিত্তিক অর্থনীতির গ্রহণ এবং নগদীকরণে প্রধান বাধাগুলি চিহ্নিত করার জন্য স্টীমটি স্থল থেকে ডিজাইন করা হয়েছে। Our thesis is that the same techniques used to grow major social media platforms can be used to bootstrap a successful cryptocurrency. Economic incentives enabled by cryptocurrency can dramatically facilitate the growth of a new social media platform. It is the synergy between cryptocurrency and social media that we believe may give Steem a powerful advantage in the market.
 
 The challenge faced by Steem is deriving an algorithm for scoring individual contributions that most community members consider to be a fair assessment of the subjective value of each contribution. In a perfect world, community members would cooperate to rate each other's contribution and derive a fair compensation. In the real world, algorithms must be designed in such a manner that they are resistant to intentional manipulation for profit. Any widespread abuse of the scoring system could cause community members to lose faith in the perceived fairness of the economic system.
 
