@@ -6,7 +6,7 @@ Agosto de 2017
 
 # Notas del traductor
 
-Versión actual traducida, actualizada, revisada y aprobada por @nehomar. Versión anterior traducida por @fernando-sanz. Agradecimientos a @testz por subirlo a Crowdin.
+Versión actual traducida, actualizada, revisada y aprobada por @nehomar. Versión anterior traducida por @fernando-sanz. Agradecimientos a @testz por subirlo a Crowdin. Todas las fuentes al final del documento están en inglés.
 
 # Abstract
 
@@ -112,9 +112,9 @@ Con una ventana de tiempo de tres días y medio, los miembros de la comunidad ti
 
 ### Mitigando ataques de cadencia
 
-Market participants have access to information faster than the blockchain’s three and a half day moving median conversion price can react. Esta información puede ser utilizada para beneficio de los operadores a expensas de la comunidad. Si hay un incremento repentino en el valor de STEEM, los operadores podrían solicitar la conversión de sus SBD al precio anterior, más bajo, y luego vender los STEEM recibidos a un nuevo precio mayor con muy bajo riesgo.
+Los participantes del mercado tienen acceso a información antes de lo que el promedio móvil de tres días y medio del precio de conversión pueda reaccionar. Esta información puede ser utilizada para beneficio de los operadores a expensas de la comunidad. Si hay un incremento repentino en el valor de STEEM, los operadores podrían solicitar la conversión de sus SBD al precio anterior, más bajo, y luego vender los STEEM recibidos a un nuevo precio mayor con muy bajo riesgo.
 
-Steem levels the playing field by requiring all conversion requests to be delayed for three and a half days. Esto significa que ni los operadores ni el blockchain tienen ventaja con respecto al precio cuando la conversión se ejecuta.
+Steem nivela el juego al imponer a todos los pedidos de conversión un retardo de tres días y medio. Esto significa que ni los operadores ni el blockchain tienen ventaja con respecto al precio cuando la conversión se ejecuta.
 
 ### Minimizando el abuso de conversiones
 
@@ -178,7 +178,7 @@ Distribuír una moneda a la mayor cantidad de gente posible de una forma que sea
 
 Para otorgar a cada uno una oportunidad equitativa de involucrarse y recibir moneda, las personas deben tener la oportunidad de trabajar. El desafío es cómo juzgar la calidad relativa y cantidad de trabajo que los individuos proveen y de qué forma lograr que se que repartan eficientemente los premios a millones de usuarios. Esto requiere la introducción de un proceso de votación escalable. En particular se requiere que la autoridad que reparta los fondos sea tan distribuída y descentralizad como sea posible.
 
-El primer paso para premiar millones de usuarios es encomendarse a la distribución de un monto fijo de moneda mas allá de cuánto trabajo sea realizado o cómo votan los usuarios. This changes the question from being *“Should we pay?”* to *“Whom should we pay?”* and signals to the market that money is being distributed and is being auctioned off to whoever “bids” the most *work*. Esto es similar al *Bitcoin* encomendado premios de 50 BTC a quien encuentre los hashes mas difíciles. Como en *Bitcoin*, todo el trabajo debe ser realizado previo al pago y nada debe ser pagado especulativamente bajo la promesa de realización del trabajo a futuro.
+El primer paso para premiar millones de usuarios es encomendarse a la distribución de un monto fijo de moneda mas allá de cuánto trabajo sea realizado o cómo votan los usuarios. Esto cambia la pregunta de *"¿Debemos pagar?"* a *"¿A quién pagar?"* y señalar al mercado que la moneda está siendo distribuida y subastada a quien "oferte" más *trabajo*. Esto es similar al *Bitcoin* encomendado premios de 50 BTC a quien encuentre los hashes mas difíciles. Como en *Bitcoin*, todo el trabajo debe ser realizado previo al pago y nada debe ser pagado especulativamente bajo la promesa de realización del trabajo a futuro.
 
 El próximo paso es premiar con algo a cada uno que haga *algo* aunque sea remotamente positivo. Esto se logra clasificando todo el trabajo hecho y distribuyendo proporcionalmente a su valor. Mientras más competitivo se vuelva el mercado (mayor calidad o cantidad), más difícil se torna recibir el mismo pago.
 
