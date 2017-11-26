@@ -18,9 +18,9 @@ Steem是一个通过提供加密货币奖励支持社区建设和社会互动的
 
 # 简介
 
-Collectively, user-generated content has created billions of dollars worth of value for the shareholders of social media companies, such as Reddit, Facebook, and Twitter. **In 2014, Reddit hypothesized that its platform would be improved if everyone who contributed to reddit.com by posting stories, adding comments or voting were rewarded with a fair share in Reddit, Inc.[^1]**. Steem aims to support social media and online communities by returning much of its value to the people who provide valuable contributions by rewarding them with cryptocurrency, and through this process create a currency that is able to reach a broad market, including people who have yet to participate in any cryptocurrency economy.
+总的来说，用户生成内容已为社交媒体公司的股东们创造了上亿美元的财富，例如Reddit、Facebook和Twitter。 2014年，Reddit假设，如果对每一个通过写日志、添加评论或进行投票向reddit.com[1]提供内容的个人奖励一份Reddit公司的公平股份，那么其平台将得到改进。 Steem旨在通过向那些提供有价值贡献内容的个人回报大量价值，以加密货币的形式提供奖励，支持社交媒体和网上社区，并通过这一过程创造一种能够延伸到广阔市场的货币，囊括尚未参与任何加密货币经济的群体。
 
-There are some key principles that have been used to guide the design of Steem. The most important principle is that everyone who contributes to a venture should receive pro-rata ownership, payment or debt from the venture. This principle is the same principle that is applied to all startups as they allocate shares at founding and during subsequent funding rounds.
+采用了若干关键原则来指导Steem的设计。 The most important principle is that everyone who contributes to a venture should receive pro-rata ownership, payment or debt from the venture. This principle is the same principle that is applied to all startups as they allocate shares at founding and during subsequent funding rounds.
 
 The second principle is that all forms of capital are equally valuable. This means that those who contribute their scarce time and attention toward producing and curating content for others are just as valuable as those who contribute their scarce cash. This is the sweat equity principle[^2] and is a concept that prior cryptocurrencies have often had trouble providing to more than a few dozen individuals.
 
