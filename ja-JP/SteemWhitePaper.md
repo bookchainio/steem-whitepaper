@@ -374,19 +374,19 @@ Rippleはアカウント資源の使用にあわせて変化する最小残高�
 
 分散型のトランザクション帯域制限により、あらゆる使用場面でマイクロペイメントが必要なアプリケーションでは実現できなかったような、新しい種類の分散型アプリケーションが可能になります。 この新しいモデルにより、アプリケーション開発者はユーザーに対して、取引に手数料を課す時と場合を決めることができます。
 
-# Performance and Scalability
+# パフォーマンスとスケーラビリティ
 
-The Steem network is built upon Graphene, the same technology that powers BitShares. Graphene has been publicly demonstrated sustaining over 1000 transactions per second on a distributed test network. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
+SteemネットワークはBitSharesと同じ技術であるGrapheneの上に構築されています。 Grapheneは分散ネットワーク上で毎秒1,000トランザクションを維持できることが実証されています。 Grapheneはサーバー容量と通信プロトコルの比較的単純な改善によって容易に毎秒10,000トランザクション以上に拡張することができます。
 
-## Reddit Scale
+## Redditスケール
 
-Steem is capable of handling a larger userbase than Reddit. In 2015 Reddit’s 8.7 million users generated an average of 23 comments per second[^12], with an average of 83 comments per year per user. There were 73 million top-level posts, for an average of 2 new posts per second. There were about 7 billion up votes creating an average voting rate of 220 votes per second. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
+SteemはRedditよりも大きなユーザーベースを扱うことが可能です。 2015年にRedditには870万人のユーザーがいて、毎秒23コメントを作成していました[^12]。それはユーザーあたり年間平均83コメントです。 7,300万件の最上位投稿があり、毎秒平均2件の新しい投稿がありました。 約70億の投票があり、平均投票量は毎秒220件でした。 合計すると、Redditがブロックチェーン上で稼働していた場合、平均で毎秒250トランザクションが必要になります。
 
-To achieve this industry-leading performance, Steem has borrowed lessons learned from the LMAX Exchange[^13], which is able to process 6 million transactions per second. Among these lessons are the following key points:
+この業界トップのパフォーマンスを得るために、Steemは毎秒600万トランザクションを処理できるLMAX Exchange[^13]から学んだ教訓を取り入れました。 教訓には以下の重要なポイントがあります:
 
-1. Keep everything in memory.
-2. Keep the core business logic in a single thread.
-3. Keep cryptographic operations (hashes and signatures) out of the core business logic.
+1. すべてをメモリに保持する。
+2. コアビジネスロジックをシングルスレッドにする。
+3. 暗号化操作 (ハッシュと署名) をコアビジネスロジックの外に置く。
 4. Divide validation into state-dependent and state-independent checks.
 5. Use an object oriented data model.
 
