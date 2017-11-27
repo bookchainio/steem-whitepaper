@@ -392,52 +392,52 @@ Pour atteindre cette performance de pointe, Steem a emprunté les leçons tirée
 
 En suivant ces règles simples, Steem est capable de traiter 10 000 transactions par seconde sans devoir faire d'effort conséquent d'optimisation.
 
-Keeping everything in memory is increasingly viable given the recent introduction of Optane™ technology from Intel[^14]. It should be possible for commodity hardware to handle all of the business logic associated with Steem in a single thread with all posts kept in memory for rapid indexing. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optane™ technology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
+Garder tout en mémoire est de plus en plus viable compte tenu de l'introduction récente de la technologie Optane (TM) d'Intel[^14]. Il devrait être possible, avec du matériel de base, de traiter toute la logique business associée à Steem dans un seul processus avec tous les messages conservés en mémoire pour une indexation rapide. Même Google conserve son index de l'ensemble d'Internet en RAM. L'utilisation de la technologie de chaîne de blocs rend trivial la réplication de la base de données sur de nombreuses machines pour éviter toute perte de données. Lorsque la technologie Optane (TM) prendre le relais, la RAM deviendra encore plus rapide tout en bénéficiant de persistance. En d'autres termes, Steem est conçu pour les architectures du futur et est conçu de manière extensible.
 
-# Allocation & Supply
+# Répartition et alimentation
 
-## Initial Allocation & Supply
+## Répartition initiale et alimentation
 
-The Steem network started with a currency supply of 0 and allocated STEEM via proof of work at a rate of approximately 40 STEEM per minute to miners, with an additional 40 STEEM per minute being created to seed the content and curation reward pools (for a total of 80 STEEM per minute). Then the network started rewarding users who converted to SP. At this point, STEEM grew at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
+Le réseau Steem a commencé avec une réserve de monnaie de 0 et a attribué les STEEM via un algorithme de preuve de travail avec un débit d'environ 40 STEEM par minute pour les mineurs. A côté de cela 40 autres STEEM par minute étaient dédiés à la création et la curation de contenu. Il y avait donc un total de 80 STEEM produit par minute. Ensuite le réseau a commencé à récompenser les utilisateurs qui avaient converti des STEEM en SP. A partir de ce moment-là, la quantité de STEEM augmentait d'environ 800 STEEM par minute suite aux effets combinés de plusieurs récompenses résumées ci-dessous:
 
-Contribution Rewards:
+Récompenses de contribution:
 
-- Curation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
-- Content Creation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
-- Block production rewards: 1 STEEM per block or 0.750% per year, whichever is greater
-- POW inclusion rewards before block 864,000: 1 STEEM per block (awarded as 21 STEEM per round)
-- POW inclusion rewards after block 864,000: 0.0476 STEEM per block (awarded as 1 STEEM per round) or 0.750% per year, whichever is greater.
-- Liquidity rewards: 1 STEEM per block (awarded as 1200 STEEM per hour) or 0.750% per year, whichever is greater
+- Récompenses de curation : 1 STEEM par bloc ou 3.875% par an, en fonction de la meilleure option
+- Récompenses de création de contenu : 1 STEEM par bloc ou 3.875% par an, en fonction de la meilleure option
+- Récompenses de production de blocs : 1 STEEM par bloc ou 0.750% par an, en fonction de la meilleure option
+- Récompenses POW incluses avant bloc 864 000 : 1 STEEM par bloc (décerné en 21 STEEM par tour)
+- Récompenses POW incluses après bloc 864 000 : 0,0476 STEEM par bloc (attribué 1 STEEM par tour) ou 0,750% par an, selon le plus élevé des deux.
+- Récompenses sur les liquidités : 1 STEEM par bloc (récompensé au taux de 1200 STEEM par heure) ou 0.750%, en fonction de la meilleure option.
 
-### Power Rewards:
+### Récompenses en Steem Power:
 
-- Steem Power rewards: For each STEEM created by the above rewards, 9 STEEM are divided among all Steem Power holders.
+- Récompenses sur le Steem Power : Pour chaque STEEM créé par les récompenses ci-dessus, 9 STEEM sont partagés parmi tous les détenteurs de Steem Power.
 
-### SBD operations:
+### Opérations en SBD:
 
-- SBD rewards: A percentage of SBD value is created at an APR set by the witnesses and paid to SBD holders as SBD
+- Récompenses sur les SBD : Un intérêt sur la valeur d'SBD est créé sur un taux d'intérêt annuel mis en place par les Témoins et payé aux détenteurs d'SBD en SBD
 
-The overall supply picture is complicated by the effect of SBD operations, which may result in large-scale creation or destruction of STEEM through feed rate following and SBD rewards, as discussed in the SBD section. Other, smaller-scale complicating effects also exist, including unclaimed incentives (e.g. block rewards for missed blocks), and abandoned accounts.
+Avoir une estimation de la quantité globale des jetons est compliqué par l'effet des opérations concernant les Steem Dollars, elles peuvent entraîner une création ou une destruction à grande échelle de STEEM via les fluctuations du taux de change et des récompenses en Steem Dollar, comme indiqué dans la section correspondante. Il existe d'autres effets qui compliquent également le calcul, tel que les récompenses non réclamées (par exemple, des récompenses de blocs bloqués) et les comptes abandonnés.
 
-## Current Allocation & Supply
+## Distribution et réserve actuelle
 
-Starting with the network's 16th hard fork in December 2016, Steem began creating new tokens at a yearly inflation rate of 9.5%. The inflation rate decreases at a rate of 0.01% every 250,000 blocks, or about 0.5% per year. The inflation will continue decreasing at this pace until the overall inflation rate reaches 0.95%. This will take about 20.5 years from the time hard fork 16 went into effect.
+À partir du Hard Fork 16 du réseau en décembre 2016, Steem a commencé à créer de nouveaux jetons à un taux d'inflation annuel de 9,5%. Le taux d'inflation diminue à un taux de 0,01% tous les 250 000 blocs, soit environ 0,5% par an. L'inflation continuera de diminuer à ce rythme jusqu'à ce que le taux global d'inflation atteigne 0,95%. Cela prendra environ 20,5 ans à partir de l'entrée en vigueur du hard fork 16.
 
-75% of the new tokens that are generated go to fund the reward pool, which is split between authors and curators. 15% of the new tokens are awarded to holders of SP. The remaining 10% pays for the witnesses to power the blockchain.
+75% des nouveaux jetons générés servent à financer le pool de récompense, réparti entre auteurs et curateurs. 15% des nouveaux jetons sont attribués aux détenteurs de SP. Les 10% restants paient les Témoins pour alimenter la blockchain.
 
-### Impact of Token Creation Rate
+### Impact du taux de création de jeton
 
-It is often said that a coin with an inflationary model is not sustainable, but we know from countless real-world examples that the quantity of money does not have a direct and immediate impact on its value, though it certainly plays a role.
+On dit souvent qu'une monnaie avec un modèle inflationniste n'est pas viable, mais on connait d'innombrables exemples dans le monde réel, qui démontrent que la quantité d'argent n'a pas d'impact direct et immédiat sur sa valeur, même si il elle joue un rôle.
 
-From August 2008 through January 2009 the U.S. money supply[^15] grew from $871B to $1,737B, a rate of over 100% per year and then continued to grow at about 20% per year for the next 6 years. All told the money supply in the U.S. has grown by 4.59x over less than 7 years. During that same time, the value of the dollar relative to goods and services has fallen less than 10% according to the government's price index[^16]. This real-world example demonstrates that supply is only one component of price.
+D'août 2008 à janvier 2009, la masse monétaire des États-Unis[^15] est passée de 871 milliards de dollars à 1737 milliards de dollars, soit un taux supérieur à 100% par an, puis a continué de croître d'environ 20% par année durant les six années suivantes. Tout à coup, la masse monétaire aux États-Unis a augmenté de 4,59 fois en moins de 7 ans. Pendant la même période, la valeur du dollar par rapport aux biens et services à diminué de moins de 10% selon l'indice des prix du gouvernement[^16]. Cet exemple du monde réel démontre que l'offre n'est qu'une seule des composantes du prix.
 
-For the first 2 years of Bitcoin’s life the network sustained an annual inflation rate[^17] of over 100%. For the first 5 years it was over 30%, and for the first 8 years it was over 10%. All told the total “spending” Steem does to fund content, curation, and block production amounts to less than 10% APR.
+Pour les 2 premières années la vie du Bitcoin, le réseau a soutenu un taux d'inflation annuel[^17] de plus de 100%. Pour les 5 premières années il était à plus de 30%, et pour les 8 premières années il était à plus de 10%. En tout, le total des "dépenses" que Steem a faites pour financer le contenu, les curations, et la production de blocs atteint moins de 10% de taux annuel.
 
-The price of a digital commodity, like STEEM, is driven by both supply and demand. When a long-term holder decides to exit, the supply of STEEM on the market will increase and push the price down. This downward pressure is countered when a new long-term holder decides to buy up the STEEM and convert it back into SP. Additional supply and demand may be be added due to market speculators buying and selling liquid STEEM based on their predictions of the future market price.
+Le prix d'un produit numérique, comme STEEM, est guidé par l'offre et la demande. Lorsqu'une personne possédant du STEEM depuis longtemps décide de se retirer, l'offre de STEEM sur le marché augmente ce qui aura pour effet de baisser son prix. Cette pression vers le bas est contrée lorsqu'un nouveau titulaire à long terme décide d'acheter le STEEM et de le convertir en Steem Power. Des offres et des demandes additionnelles peuvent être ajoutées en raison d'achats et de reventes de STEEM liquide de la part des spéculateurs se basant sur leurs prédictions du futur prix sur le marché.
 
-# The Power of Steem
+# Le pouvoir de Steem
 
-Steem recognizes that the value of all user contributions (posts and votes) is greater than the sum of the parts. A single comment is worth next to nothing, but millions of curated posts is worth many millions (or possibly even billions) of dollars. A single vote provides little curation value, but billions of votes is very effective curation. Content without curation is of limited value. Given all the content of the Internet minus the links between it, Google would struggle to produce useful search results. It is the links between information that give it significant value.
+Steem reconnait que la valeur de toutes les contributions d'utilisateurs (posts et votes) est plus élevée que la somme des parties. Un seul commentaire ne vaut presque rien, mais des millions de publications conservées valent des millions (voir même des milliards) de dollars. Un seul vote apporte peu de valeur de curation, mais des milliards de votes forment une curation très efficace. Du contenu sans curation est d'une valeur limitée. En prenant en compte tous les contenus sur Internet sans les liens entre eux, Google aurait du mal à produire des résultats de recherches utiles. Ce sont les liens entre les informations qui leur donnent une valeur significative.
 
 Because everyone benefits, everyone should pay. In other words, no individual user should be expected to pay for anything, but instead should be paid for everything they do that brings value to Steem. All we need to do is ascertain which user contributions bring a social network value and which ones don’t.
 
