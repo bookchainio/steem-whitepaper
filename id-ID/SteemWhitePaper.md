@@ -74,9 +74,9 @@ Steem adalah unit fundamental dari akun Steem blockchain. Semua token lainnya me
 
 ## Steem Power (SP)
 
-Start up companies require long-term capital commitment. Those who invest their money in a startup expect to wait years before they can sell their shares and realize their profits. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
+Memulai perusahaan membutuhkan komitmen modal jangka panjang. Mereka yang menginvestasikan uang mereka dalam sebuah startup berharap bisa menunggu bertahun-tahun sebelum mereka dapat menjual saham mereka dan menyadari keuntungan mereka. Tanpa komitmen jangka panjang, sebuah startup yang ingin menambah modal tambahan melalui penjualan saham tambahan akan bersaing dengan pemegang saham lama yang ingin keluar. Investor yang cerdas menginginkan kontribusi modal mereka untuk menumbuhkan perusahaan, namun pertumbuhan tidak dapat terjadi jika modal baru diberikan kepada mereka yang ingin keluar.
 
-There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
+Ada nilai signifikan untuk memiliki komitmen jangka panjang karena memungkinkan masyarakat membuat rencana jangka panjang. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
 
 In the cryptocurrency space, speculators jump from cryptocurrency to cryptocurrency based mostly on which one is expected to have short-term growth. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
 
