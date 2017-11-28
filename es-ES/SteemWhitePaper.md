@@ -326,7 +326,7 @@ Si asumimos que un usuario con $25 dólares en BTC transacciona una vez por sema
 
 El sistema de Steem, basado en cuentas de con balances públicamente conocidos simplifica la implementación del algoritmo de limitación de tasa basado en el ancho de banda. Cualquier cuenta con un balance por debajo del mínimo requerido para transaccionar una vez por semana no debería poder transaccionar. Esto implica que todas las nuevas cuentas deberían ser cargadas con al menos éste balance mínimo. Esto tambien implica que los usuarios deseando transaccionar en montos menores puedan, mientras mantengan un balance mayor y reutilicen la cuenta.
 
-Es posible para una cuenta con balance bajo creada durante un tiempo de bajo uso volverse inaccesible si el uso de la red se dispara. The funds could be recovered at any time by temporarily delegating a larger balance to the account.
+Es posible para una cuenta con balance bajo creada durante un tiempo de bajo uso volverse inaccesible si el uso de la red se dispara. Los fondos podrían ser recuperados en cualquier momento delegando temporalmente un balance mayor a la cuenta.
 
 Con el fin de mantener una experiencia de usuario razonable con un mínimo de cuentas colgadas, todas las nuevas cuentas debe comenzar con un balance 10 veces el mínimo requerido para transaccionar por semana. De esta forma si la demanda se incrementa por un factor de 10, la cuenta continuará utilizable.
 
@@ -334,9 +334,9 @@ Cualquier balance de cuenta inicial debería tener que venir del usuario creando
 
 ### Justificando balances mínimos
 
-The concept of forcing users to maintain a minimum balance flows naturally from the value of a user[^10]. Cualquier corriendo un negocio sabe que cada usuario tiene un valor significativo. Los negocios gastan entre $30 y $200 para adquirir un usuario. A veces pagan usuarios directamente, otras veces pagan por publicidad, e incluso otras veces compañías enteras son adquiridas solo por su base de usuarios. Luego de que una compañía adquiere un usuario generalmente le otorga varios *servicios gratuitos* para mantenerlos cerca lo suficiente para monetizarlos a través de otros medios.
+El concepto de forzar a los usuarios a mantener un balance mínimo fluye naturalmente del valor de un usuario[^10]. Cualquier corriendo un negocio sabe que cada usuario tiene un valor significativo. Los negocios gastan entre $30 y $200 para adquirir un usuario. A veces pagan usuarios directamente, otras veces pagan por publicidad, e incluso otras veces compañías enteras son adquiridas solo por su base de usuarios. Luego de que una compañía adquiere un usuario generalmente le otorga varios *servicios gratuitos* para mantenerlos cerca lo suficiente para monetizarlos a través de otros medios.
 
-Ripple uses a minimum balance[^11] that scales with account resource use and requires that new accounts get funded with at least this minimum balance. Actualmente este balance mínimo es de alrrededor de $0.15, el cual es mayor al $0.10 que estimamos que permitiría a alguien transaccionar libremente al menos una vez por semana.
+Ripple usa un balance mínimo[^11] que escala al uso de recursos de la cuenta y requiere que nuevas cuentas sean fundadas con al menos éste balance mínimo. Actualmente este balance mínimo es de alrrededor de $0.15, el cual es mayor al $0.10 que estimamos que permitiría a alguien transaccionar libremente al menos una vez por semana.
 
 Un blockchain puede imponer un valor mínimo por usuario a través del simple proceso de requerir un balance mínimo. Any business that wishes to bring a new customer to the blockchain can pre-fund that user’s account with the minimum balance that would allow them to transact. Requiriendo una comisión relativamente grande ($1.00) para registrar nuevos usuarios naturalmente forzará a cualquiera que ofrezca cuentas gratis considerar la calidad y singularidad de cada cuenta antes de registrarlas con el blockchain.
 
