@@ -22,19 +22,19 @@ Topluca kullanıcı tarafından üretilen içerik, Reddit, Facebook ve Twitter g
 
 Steem tasarımına rehberlik etmek için kullanılan bazı temel ilkeler vardır. En önemli ilke, bir girişime katkıda bulunan herkesin, girişimden önce sahiplik, ödeme veya borç almasıdır. Bu ilke, kurucularda ve sonraki fonlama turlarında payları tahsis edeceği için tüm start-uplara uygulananla aynı ilkedir.
 
-İkinci ilke, her sermayenin eşit derecede değerli olmasıdır. Bu, belirli zamanlarını ve dikkatini, başkaları için içerik üretmek ve küratöre etme yönünde katkıda bulunanların, kıt nakitleriyle katkıda bulunanlar kadar değerli olduğu anlamına gelir. Bu, ter eşitlik prensibi olan [^2] ve kripto paraların daha önce birkaç düzineden fazla kişiye sorun yaşadığı bir kavramdır.
+İkinci ilke, her sermayenin eşit derecede değerli olmasıdır. Bu, belirli zamanlarını ve dikkatini, başkaları için içerik üretmek ve küratöre etme yönünde katkıda bulunanların, kıt nakitleriyle katkıda bulunanlar kadar değerli olduğu anlamına gelir. Bu, "ter eşitlik prensibi" [^2] olan ve kripto paraların daha önce birkaç düzineden fazla kişiyle sorun yaşadığı bir kavramdır.
 
 Üçüncü ilke, topluluğun üyelerine hizmet etmek için ürünler üretmesidir. Bu ilke, toplum dışındaki kişilere ürün ya da hizmet satmak yerine, topluluk üyelerine hizmet eden kredi birlikleri, gıda işbirliği birimleri ve sağlık paylaşımı planları ile örneklenmektedir.
 
 Steem topluluğu üyelerine aşağıdaki hizmetleri sunmaktadır:
 
 1. Seçilmiş bir haber ve yorum kaynağı.
-2. Kişiselleştirilmiş sorularda yüksek kaliteli yanıtlar almak için bir araç.
-3. Abd doları için istikrarlı bir parola vardı.
-4. Ücretsiz ödemeler.
+2. Kişiselleştirilmiş sorularla yüksek kaliteli yanıtlar almak için bir araç.
+3. Abd dolarına sabitlenmiş istikrarlı bir kripto para.
+4. Ücretsiz ödeme işlemleri.
 5. Yukarıdaki hizmetleri diğer üyelere sağlayan işler.
 
-Steem'in ekonomik teşvikleri amaçlayan hale getirmesi, daha önce gitmiş olan sosyal medya ve kriptokrasi platformlarından çok, herkes için daha adil ve kapsamlı sonuçlar üretme potansiyeline sahiptir. Bu yazı, mevcut ekonomik teşvikleri inceleyecek ve Steem'in teşviklerinin katılımcıların çoğunun daha iyi sonuçlar doğurabileceğini gösterecektir.
+Steem'in ekonomik teşvikleri amaçlayan hale getirmesi, daha önce gitmiş olan sosyal medya ve cryptocurrency platformlarından çok, herkes için daha adil ve kapsamlı sonuçlar üretme potansiyeline sahiptir. Bu yazı, mevcut ekonomik teşvikleri inceleyecek ve Steem'in teşviklerinin katılımcıların çoğunun daha iyi sonuçlar doğurabileceğini gösterecektir.
 
 ## Katkı Sağlama
 
