@@ -70,7 +70,7 @@ Jaringan Steem menyebut kelas aset yang berbeda ini Steem (STEEM), Steem Power (
 
 ## Steem (STEEM)
 
-Steem adalah unit fundamental dari akun Steem blockchain. Semua token lainnya mendapatkan nilai dari nilai STEEM. STEEM is a liquid currency, and therefore can be bought or sold on exchanges, as well as transferred to other users as a form of payment.
+Steem adalah unit fundamental dari akun Steem blockchain. Semua token lainnya mendapatkan nilai dari nilai STEEM. STEEM adalah mata uang cair, dan karena itu bisa dibeli atau dijual di bursa, sekaligus ditransfer ke pengguna lain sebagai bentuk pembayaran.
 
 ## Steem Power (SP)
 
