@@ -82,9 +82,9 @@ En el espacio de las criptomonedas, los especuladores saltan de criptomoneda en 
 
 Users are able to commit their STEEM to a thirteen week vesting schedule, providing them with additional benefits within the platform. STEEM that has been committed to a thirteen week vesting schedule is called Steem Power (SP). El balance de SP es intransferible y no-divisible excepto a través de las solicitudes de conversión automáticamente recurrentes. Esto significa que SP no puede negociarse fácilmente en bolsas de criptomonedas.
 
-When users vote on content, their influence over the distribution of the rewards pool is directly proportional to the amount of SP that they have. Users with more SP have more influence on the distribution of rewards. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
+Cuando los usuarios votan el contenido, su influencia sobre la distribución de *pool* de premios es directamente proporcional a la cantidad de SP que tienen. Los usuarios con más SP tienen más influencia en la distribución de recompensas. Esto significa que SP es un token de acceso que otorga a sus poseedores poderes exclusivos dentro de la plataforma de Steem.
 
-SP holders are also paid interest on the balance of SP that remains vested. 15% of the yearly inflation is paid to SP holders as interest. The amount of the interest that they receive is directly proportional to the amount of SP they hold relative to the total amount of vested SP across all users.
+Los poseedores de SP también cobran intereses en el equilibrio del SP que permanece concedido. 15% de la inflación anual es pagada a los poseedores de SP como interés. The amount of the interest that they receive is directly proportional to the amount of SP they hold relative to the total amount of vested SP across all users.
 
 Transferring from STEEM to SP is referred to as “powering up”, while transferring from SP to STEEM is referred to as “powering down.” SP that is powered down is returned to the user over a period of thirteen weeks, via 13 equal weekly payments, starting one week after the power down is initiated.
 
