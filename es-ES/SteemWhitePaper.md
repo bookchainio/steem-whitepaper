@@ -236,7 +236,7 @@ El efecto económico de ésto es similar a la lotería donde la gente sobrestima
 
 Cuando un post recibe un pago, éste toma la forma de 50% de SBD y 50% de SP. El Steem Power da al usuario un poder aumentado de voto y transacción mientras que el SBD da al usuario un beneficio inmediato en una moneda estable. Como ya hemos analizado en profundidad, el SP está diseñado para alentar la posesión a largo plazo en lugar de la venta a corto plazo. Esto anima a los usuarios a tener un interés personal en el éxito a largo plazo de la plataforma.
 
-Los usuarios también tienen la opción de ser recompensados con 100% SP, así como declinar el pago de los posts. When a user declines payout on a post, the money that would have been paid to them remains in the rewards pool, to be distributed to other users.
+Los usuarios también tienen la opción de ser recompensados con 100% SP, así como declinar el pago de los posts. Cuando un usuario declina el pago de un post, el dinero que se le habría pagado a ellos permanece en el *pool* de premios, para ser distribuido a los otros usuarios.
 
 # Algoritmo de consenso
 
@@ -254,7 +254,7 @@ En el mundo de las criptomonedas, se refiere comunmente al registro público com
 
 En Steem, la producción de bloques es realizada en rondas. En cada ronda se seleccionan 21 testigos para crear y firmar bloques de transacciones. Veinte (20) de éstos testigos son seleccionados para aprobar las votaciones, y un puesto es compartido por tiempo por cada testigo que no logró entrar en el *top* 20 proporcional de más votados. Los 21 testigos activos son mezclados en cada ronda para prevenir que cualquiera de los testigos ignore constantemente bloques producidos por el mismo testigo ubicado anteriormente en ese puesto. Any witness who misses a block and hasn't produced in the last 24 hours will be disabled until they update their block signing key.
 
-Este proceso está diseñado para proveer la mejor confiabilidad mientras se asegura que todos tengan potencial para participar en la producción de bloques independientemente de si son suficientemente populares para ser votados dentro de la lista de los. People have three options to overcome censorship by the top 20 elected witnesses: patiently wait in line with everyone else not in the top 20, or purchase more SP to improve voting power. Generalmente hablando, aplicar censura es una buena forma de elegir testigos para perder su trabajo y por lo tanto, es improbable que sea un problema real en la red de Steem.
+Este proceso está diseñado para proveer la mejor confiabilidad mientras se asegura que todos tengan potencial para participar en la producción de bloques independientemente de si son suficientemente populares para ser votados dentro de la lista de los. Las personas tienen tres opciones para superar la censura de los principales 20 testigos elegidos: pacientemente esperar en fila con todos los demás que no están en el top 20, o comprar más SP para mejorar el poder de voto. Generalmente hablando, aplicar censura es una buena forma de elegir testigos para perder su trabajo y por lo tanto, es improbable que sea un problema real en la red de Steem.
 
 Debido a que los testigos activos son conocidos de antemano, Steem puede acomodar los testigos para producir bloques cada 3 segundos. Los testigos sincronizan sus producción de bloques a través del protocolo NTP. Una variante de este algoritmo ha sido utilizada por la red BitShares por alrrededor de una año donde ha demostrado ser confiable.
 
@@ -274,9 +274,9 @@ La solución adoptada por la mayoría de los blockchains hasta ahora es cargar u
 
 El problema fundamental de cargar comisiones de transacción reside en que los micropagos no funcionan, especialmente por el bajo valor de las acciones de los usuarios. Cuando se carga una comisión en cada transacción, se limitan los tipos de transacciones que una red descentralizada puede procesar. Independientemente de cuán racional sea el argumento para la necesidad de las comisiones, los usuarios aún detestan la experiencia de dejar unos centavos por cada cosa que hacen.
 
-Imagine que los sitios web que usamos a diario cobraran una comisión por cada vez que modificamos nuestras cuentas o cambiamos la contraseña. Los usuarios esperan que ciertas cosas sean gratuitas. Requerir a los usuarios que tomen una decisión sobre que acción merece o no una pequeña comisión crea ansiedad que causa que éstos se retiren. Una transacción no puede valer tanto como para requerir una decisión pero vale tan poco que la decisión es automática. There is a certain amount of anxiety involved in any decision to buy, no matter how small, and it derives not from the interface used or the time required, but from the very act of deciding.
+Imagine que los sitios web que usamos a diario cobraran una comisión por cada vez que modificamos nuestras cuentas o cambiamos la contraseña. Los usuarios esperan que ciertas cosas sean gratuitas. Requerir a los usuarios que tomen una decisión sobre que acción merece o no una pequeña comisión crea ansiedad que causa que éstos se retiren. Una transacción no puede valer tanto como para requerir una decisión pero vale tan poco que la decisión es automática. Hay una cierta cantidad de ansiedad en cualquier decisión de comprar, no importa lo pequeño, y deriva no de la interfaz o el tiempo necesario, sino del el acto mismo de decidir.
 
-Micropayments, like all payments, require a comparison: *“Is this much of X worth that much of Y?”* There is a minimum mental transaction cost created by this fact that cannot be optimized away, because the only transaction a user will be willing to approve with no thought will be one that costs them nothing, which is no transaction at all.
+Igual que todos los pagos, los micropagos, requieren de una comparación: *"¿Vale X lo mismo que Y?"* Hay un costo mínimo de transacción "psicológica" creado por este hecho que no se puede optimizar, ya que la transacción que un usuario esté dispuesto a aprobar sin pensar, será la que no les cuesta nada, que no es una transacción en realidad.
 
 – Clay Shirky[^8]
 
@@ -324,7 +324,7 @@ Si asumimos que un usuario con $25 dólares en BTC transacciona una vez por sema
 
 ### Creación de cuenta
 
-Steem’s account-based system with publicly known balances simplifies the implementation of the bandwidth-based rate limiting algorithm. Cualquier cuenta con un balance por debajo del mínimo requerido para transaccionar una vez por semana no debería poder transaccionar. Esto implica que todas las nuevas cuentas deberían ser cargadas con al menos éste balance mínimo. Esto tambien implica que los usuarios deseando transaccionar en montos menores puedan, mientras mantengan un balance mayor y reutilicen la cuenta.
+El sistema de Steem, basado en cuentas de con balances públicamente conocidos simplifica la implementación del algoritmo de limitación de tasa basado en el ancho de banda. Cualquier cuenta con un balance por debajo del mínimo requerido para transaccionar una vez por semana no debería poder transaccionar. Esto implica que todas las nuevas cuentas deberían ser cargadas con al menos éste balance mínimo. Esto tambien implica que los usuarios deseando transaccionar en montos menores puedan, mientras mantengan un balance mayor y reutilicen la cuenta.
 
 Es posible para una cuenta con balance bajo creada durante un tiempo de bajo uso volverse inaccesible si el uso de la red se dispara. The funds could be recovered at any time by temporarily delegating a larger balance to the account.
 
