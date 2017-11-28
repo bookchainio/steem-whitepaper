@@ -76,15 +76,15 @@ Steem, Steem'in blok zincirindeki temel birimdir. Diğer tüm token'ler değerle
 
 Başlangıç şirketleri, uzun vadeli sermaye taahhüdü gerektirir. Paralarını bir startup'a yatırım yapanlar hisselerini satıp kazançlarını görmeden önce yıllarca beklemeleri gerektiklerini tahmin ediyorlardır. Uzun vadeli taahhütler olmadan, ek hisse satışı yoluyla ek sermaye yaratmaya çalışan bir girişim, çıkmak isteyen mevcut hissedarlar ile rekabet edecektir. Savvy yatırımcılar, sermaye katkılarının ve şirketin büyümesini istiyor ancak yeni sermaye çıkmak isteyenlere verilirse büyüme gerçekleşmez.
 
-Uzun vadeli plan yapmak yatırımların uzun vadeli taahhüt olması için önemli bir değere sahiptir. Paydaşların uzun vadeli taahhüdü, kısa vadeli pompalar yerine uzun vadeli büyümeye oy vermelerine neden olur.
+Uzun vadeli plan yapmak yatırımların uzun vadeli taahhüt olması için önemli bir değere sahiptir. Uzun vadeli taahhüt paydaşlar kısa vadeli pompalar yerine uzun vadeli büyüme için oy alırlar.
 
-Kriptokrasi alanında, spekülatörler, kriptokrasiden kriptokrasiteye atlar ve çoğunlukla hangisinin kısa vadeli bir büyümeye sahip olacağı düşünülür. Steem, çoğunlukla sahip olduğu ve tamamen uzun vadeli bir perspektifle denetlenen bir topluluk inşa etmek istiyor.
+Kripto para dünyasında, spekülatörler kripto paradan kripto paraya atlar ve çoğunlukla hangisinin kısa vadeli bir büyümeye sahip olacağı düşünülür. Steem, çoğunlukla sahip olduğu ve tamamen uzun vadeli bir perspektifle denetlenen bir topluluk inşa etmek istiyor.
 
 Kullanıcılar STEEM'i on üç haftalık hak ediş programına katlayarak platformda ek avantajlar sağlıyor. Onüç haftalık hakediş programına bağlı STEEM'e Steem Power (SP) denir. SP bakiyeleri, otomatik olarak tekrarlanan dönüşüm talepleri hariç olmak üzere, devredilemez ve bölünemezdir. Bu SP, şifreleme borsaları üzerinde kolayca değiştirilemediği anlamına gelir.
 
-Kullanıcılar, içeriğe oy verdiklerinde, ödül havuzunun dağılımı üzerindeki etkisi, SP'lerinin miktarı ile orantılıdır. Daha fazla SP'ye sahip olan kullanıcılar, ödül dağılımı üzerinde daha fazla etkiye sahiptir. Bu, SP'nin sahiplerine Steem platformunda özel güçler kazandıran bir erişim simgesi olduğu anlamına gelir.
+Kullanıcılar içeriğe oy verdiklerinde, ödül havuzunun dağılımı üzerindeki etkileri olur ve bu SP'lerinin miktarı ile orantılıdır. Daha fazla SP'ye sahip olan kullanıcılar, ödül dağılımı üzerinde daha fazla etkiye sahiptir. Bu SP'nin, sahiplerine Steem platformunda özel güçler kazandıran bir token olduğu anlamına gelir.
 
-SP mükelleflerine, elde kalan kalıntıların SP dengesine de faiz ödenmektedir. Yıllık enflasyonun% 15'i SP sahiplerine faiz olarak ödenmektedir. Alınan faiz tutarı, tüm kullanıcılar arasındaki hak kazanılmış SP'nin toplamına göre tuttuğu SP'nin miktarı ile doğru orantılıdır.
+SP mükelleflerine, elde kalan kalıntıların SP dengesine de faiz ödenmektedir. Yıllık enflasyonun %15'i SP sahiplerine faiz olarak ödenmektedir. Alınan faiz tutarı, tüm kullanıcılar arasındaki hak kazanılmış SP'nin toplamına göre tuttuğu SP'nin miktarı ile doğru orantılıdır.
 
 SP'den STEEM'e aktarma işlemi "power down" olarak adlandırılırken, STEEM'den SP'ye aktarma "power up" olarak adlandırılır. Kapatılmış olan SP, 13 haftalık bir süre boyunca haftalık 13 eşit sürede kullanıcıya geri gönderilir ödemelerin başlatılmasından bir hafta sonra başlayacaktır.
 
