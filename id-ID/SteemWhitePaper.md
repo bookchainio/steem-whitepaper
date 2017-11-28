@@ -216,21 +216,21 @@ Bagian utama dari meminimalkan penyalahgunaan adalah pembatasan jumlah suara. Pe
 
 Pengguna diberi sejumlah hak suara tertentu. Voting power dikalikan dengan token vesting pengguna untuk menentukan berapa banyak saham di pool reward harus dialokasikan ke item pekerjaan yang diberikan. Setiap suara yang dilontarkan menggunakan persentase sisa hak suara. Pengguna dapat memilih lebih banyak pos, namun masing-masing suara akan bernilai kurang, dan akan memakan waktu lebih lama untuk mencapai pemungutan suara penuh lagi. Voting power recharges pada fixed linear rate 20% per hari.
 
-### Payout Distribution
+### Distribusi Pembayaran
 
-One of the primary goals of Steem’s reward system is to produce the best discussions on the internet. Each and every year 75% of the yearly inflation is distributed to users submitting, voting on, and discussing content. At the size of Bitcoin this could be several million dollars per day being given to the top contributors.
+Salah satu tujuan utama sistem penghargaan Steem adalah menghasilkan diskusi terbaik di internet. Setiap tahun 75% dari inflasi tahunan didistribusikan ke pengguna yang mengirimkan, memberi suara, dan mendiskusikan konten. Ukuran Bitcoin ini bisa jadi beberapa juta rupiah per hari diberikan kepada kontributor teratas.
 
-The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content.
+Distribusi sebenarnya akan tergantung pada pola pemungutan suara pengguna, namun kami menduga bahwa sebagian besar dari penghargaan akan didistribusikan ke konten yang paling populer.
 
-Zipf’s Law[^7] is one of those empirical rules that characterize a surprising range of real-world phenomena remarkably well. It says that if we order some large collection by size or popularity, the second element in the collection will be about half the measure of the first one, the third one will be about one-third the measure of the first one, and so on. In general, the k th-ranked item will measure about 1/k of the first one.
+Hukum Zipf[^7] adalah salah satu aturan empiris yang mencirikan berbagai fenomena dunia nyata yang mengejutkan dengan sangat baik. Dikatakan bahwa jika kita memesan beberapa koleksi besar berdasarkan ukuran atau popularitas, elemen kedua dalam koleksi akan berukuran setengah dari ukuran yang pertama, yang ketiga akan berukuran sepertiga ukuran yang pertama, dan seterusnya. Secara umum, item peringkat k akan mengukur sekitar 1 / k dari yang pertama.
 
 ![](\img_the_new_marketplace.png)
 
-Taking popularity as a rough measure of value, then the value of each individual item is given by Zipf’s Law. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
+Mengambil popularitas sebagai ukuran nilai yang kasar, maka nilai masing-masing barang diberikan oleh Hukum Zipf. Artinya, jika kita memiliki sejuta item, maka yang paling populer 100 akan menyumbang sepertiga dari total nilai, 10.000 lainnya sepertiga lainnya, dan sisanya 989.900 pada sepertiga terakhir. Nilai koleksi n item sebanding dengan log (n).
 
-The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
+Dampak dari distribusi pemungutan suara dan pembayaran ini adalah menawarkan banyak hadiah untuk konten bagus sambil tetap memberi penghargaan kepada pemain kecil untuk kontribusi ekor panjang mereka.
 
-The economic effect of this is similar to a lottery where people overestimate their probability of getting votes and thus do more work than the expected value of their reward and thereby maximize the total amount of work performed in service of the community. The fact that everyone “wins something” plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
+Efek ekonomi dari hal ini mirip dengan undian di mana orang melebih-lebihkan probabilitas mereka untuk mendapatkan suara dan dengan demikian melakukan lebih banyak pekerjaan daripada nilai yang diharapkan dari pahala mereka dan dengan demikian memaksimalkan jumlah pekerjaan yang dilakukan dalam pelayanan masyarakat. Kenyataan bahwa setiap orang "memenangkan sesuatu" memainkan psikologi yang sama dengan yang digunakan kasino untuk membuat orang berjudi. Dengan kata lain, imbalan kecil membantu memperkuat gagasan bahwa adalah mungkin untuk mendapatkan imbalan lebih besar.
 
 ### Payouts
 
