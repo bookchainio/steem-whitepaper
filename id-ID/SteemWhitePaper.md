@@ -130,27 +130,27 @@ Perubahan nilai STEEM yang cepat dapat secara dramatis mengubah rasio hutang ter
 
 Persentase lantai yang digunakan untuk menghitung pembuatan STEEM didasarkan pada persediaan termasuk nilai STEEM dari semua SBD dan SP yang beredar (seperti yang ditentukan oleh tingkat / umpan saat ini).
 
-### Interest
+### Bunga
 
-SBD pays holders interest. The interest rate is set by the same people who publish the price feed so that it can adapt to changing market conditions. All debt carries risk to the lender. Someone who holds SBD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SBD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
+SBD membayar bunga pemegang. Tingkat suku bunga ditetapkan oleh orang yang sama yang mempublikasikan harga pakan sehingga bisa beradaptasi dengan perubahan kondisi pasar. Semua hutang membawa risiko kepada pemberi pinjaman. Seseorang yang memegang SBD tanpa menebusnya secara efektif memberi pinjaman kepada masyarakat nilai satu dolar. Mereka percaya bahwa pada suatu saat nanti seseorang akan bersedia untuk membeli SBD dari mereka seharga satu dolar atau bahwa akan ada spekulan dan investor yang bersedia membeli STEEM mereka mengubahnya menjadi.
 
-STEEM and SP holders gain leverage when members of the community are willing to hold SBD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
+Pemegang STEEM dan SP memperoleh leverage saat anggota masyarakat bersedia menahan SBD. Leverage ini menguatkan keuntungan dari pertumbuhan sementara juga berkontribusi terhadap pertumbuhan. Pemegang STEEM mengalami kenaikan pengenceran jika harganya turun. Proyek kriptocurrency telah menunjukkan bahwa keuntungan dari peningkatan basis pengguna yang ingin mempercayai jaringan dengan modal pada akhirnya menambah nilai lebih pada jaringan daripada pengenceran apapun yang mungkin terjadi selama penurunan.
 
-### Setting Price Feeds
+### Menetapkan Harga Feed
 
-Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
+Pembaca yang cerdik akan menyadari bahwa aset berbunga dengan persediaan terbatas mungkin diperdagangkan lebih tinggi atau lebih rendah dari pada underlying asset tergantung pada kesempatan lain untuk mendapatkan bunga atas aset yang sama. Dengan suku bunga tinggi yang dibayarkan pada aset yang dipatok pada dolar AS, banyak orang akan mengajukan tawaran terbatasnya harga Steem Dollars sampai mereka tidak lagi dihargai $ 1. Di bidang ekonomi ada prinsip yang dikenal sebagai Impossible Trinity[^4] yang menyatakan bahwa tidak mungkin ketiga hal berikut ini pada saat bersamaan:
 
-1. A stable exchange rate
-2. Free capital movement
-3. An independent monetary policy
+1. Nilai tukar yang stabil
+2. Gerakan modal bebas
+3. Kebijakan moneter independen
 
-If Steem feed producers aim to have an independent monetary policy allowing it to create and destroy Steem Dollars while simultaneously having full control over the interest rate then they will encounter problems. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
+Jika produsen pakan Steem bertujuan untuk memiliki kebijakan moneter independen yang memungkinkannya menciptakan dan menghancurkan Steem Dollars sekaligus memiliki kontrol penuh atas tingkat suku bunga maka mereka akan menghadapi masalah. Tritunggal Mustahil mengatakan bahwa Steem Dollars juga perlu membatasi pergerakan modal, memiliki nilai tukar yang tidak stabil dengan dolar, atau memiliki kontrol terbatas terhadap suku bunga.
 
-The primary concern of Steem feed producers is to maintain a stable one-to-one conversion between SBD and the U.S. Dollar (USD). Any time SBD is consistently trading above $1.00 USD interest payments must be stopped. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SBD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
+Perhatian utama produsen pakan Steem adalah mempertahankan konversi satu-ke-satu yang stabil antara SBD dan Dolar A.S. (USD). Setiap saat SBD secara konsisten melakukan trading diatas $ 1,00 pembayaran bunga USD harus dihentikan. Di pasar di mana 0% bunga atas hutang masih menuntut premi, aman untuk mengatakan bahwa pasar bersedia memberikan lebih banyak pujian daripada hutang yang bersedia dilakukan oleh masyarakat. Jika ini terjadi, SBD akan bernilai lebih dari $ 1,00 dan hanya sedikit yang dapat dilakukan masyarakat tanpa mengenakan suku bunga negatif.
 
-If the debt-to-ownership ratio is low and SBD is trading for less than $1.00, then the interest rate should be increased. This will encourage more people to hold their SBD and support the price.
+Jika rasio hutang terhadap kepemilikan rendah dan SBD diperdagangkan kurang dari $ 1,00, maka tingkat bunga harus ditingkatkan. Hal ini akan mendorong lebih banyak orang untuk mempertahankan SBD mereka dan mendukung harganya.
 
-If SBD trades for less than $1.00 USD and the debt-to-ownership ratio is high, then the feeds should be adjusted upward give more STEEM per SBD. This will increase demand for SBD while also reducing the debt-to-ownership ratio and returning SBD to parity with USD.
+Jika SBD diperdagangkan kurang dari $ 1.00 USD dan rasio hutang terhadap kepemilikan tinggi, maka umpan harus disesuaikan ke atas memberi lebih banyak STEEM per SBD. Hal ini akan meningkatkan permintaan SBD sekaligus mengurangi rasio hutang terhadap kepemilikan dan mengembalikan SBD menjadi paritas dengan USD.
 
 Assuming the value of STEEM is growing faster than Steem is creating new SBD, the debt-to-ownership ratio should remain under the target ratio and the interest offered benefits everyone. If the value of the network is flat or falling, then any interest offered will only make the debt-to-ownership ratio worse.
 
