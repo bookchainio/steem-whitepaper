@@ -214,7 +214,7 @@ La meta de desarrollar una moneda comunitaria es obtener mas "cangrejos en la cu
 
 Una mayor parte de minimizar el abuso es limitar la tasa de voto. Los usuarios individuales sólo pueden leer y evaluar tántos items de trabajo diarios. Cualquier intento de votar mas frecuentemente que ésto es una señal de automatización y potencial abuso. A través del límite de tasa de voto, los participantes que voten más frecuentemente tienen su voto menos valioso que los participantes que votan con menos frecuencia. Los intentos de dividir *tokens* entre múltiples cuentas también divide la influencia y por ende no resulta en un incremento neto en influencia ni saltea el límite de tasa impuesto en el voto.
 
-A los usuarios se asigna una cantidad fija de poder de voto. El poder de voto es multiplicado por los *tokens* invertidos de un usuario para determinar la parte que debería ser colocada en el *pool* de pagos para determinado ítem. Every vote that is cast uses a percentage of remaining voting power. Los usuarios pueden votar por más posts, pero cada voto valdrá menos y tardará más en llegar a la plena potencia de voto otra vez. Voting power recharges at a fixed linear rate of 20% per day.
+A los usuarios se asigna una cantidad fija de poder de voto. El poder de voto es multiplicado por los *tokens* invertidos de un usuario para determinar la parte que debería ser colocada en el *pool* de pagos para determinado ítem. Cada voto utiliza un porcentaje del poder de voto restante. Los usuarios pueden votar por más posts, pero cada voto valdrá menos y tardará más en llegar a la plena potencia de voto otra vez. El poder de voto se recarga a una tasa lineal fija del 20% por día.
 
 ### Distribución de pagos
 
@@ -234,9 +234,9 @@ El efecto económico de ésto es similar a la lotería donde la gente sobrestima
 
 ### Pagos
 
-Cuando un post recibe un pago, éste toma la forma de 50% de SBD y 50% de SP. El Steem Power da al usuario un poder aumentado de voto y transacción mientras que el SBD da al usuario un beneficio inmediato en una moneda estable. Como ya hemos analizado en profundidad, el SP está diseñado para alentar la posesión a largo plazo en lugar de la venta a corto plazo. This encourages more users to have a vested interest in the long-term success of the platform.
+Cuando un post recibe un pago, éste toma la forma de 50% de SBD y 50% de SP. El Steem Power da al usuario un poder aumentado de voto y transacción mientras que el SBD da al usuario un beneficio inmediato en una moneda estable. Como ya hemos analizado en profundidad, el SP está diseñado para alentar la posesión a largo plazo en lugar de la venta a corto plazo. Esto anima a los usuarios a tener un interés personal en el éxito a largo plazo de la plataforma.
 
-Users also have the option to be paid in 100% SP, as well as decline payout on posts. When a user declines payout on a post, the money that would have been paid to them remains in the rewards pool, to be distributed to other users.
+Los usuarios también tienen la opción de ser recompensados con 100% SP, así como declinar el pago de los posts. When a user declines payout on a post, the money that would have been paid to them remains in the rewards pool, to be distributed to other users.
 
 # Algoritmo de consenso
 
