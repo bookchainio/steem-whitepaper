@@ -74,9 +74,9 @@ Steem, Steem'in blok zincirindeki temel birimdir. Diğer tüm token'ler değerle
 
 ## Steem Power (SP)
 
-Başlangıç şirketleri, uzun vadeli sermaye taahhüdü gerektirir. Parayı bir başlangıçta yatırım edenler, hisse satabilecekleri ve kazançlarını elde edebilecekleri yıllar önce beklemek zorunda kalıyorlar. Uzun vadeli taahhütler olmadan, ek hisse satışı yoluyla ek sermaye yaratmaya çalışan bir girişim, çıkmak isteyen mevcut hissedarlar ile rekabet edecekti. Savvy yatırımcılar, sermaye katkılarının şirketin büyümesini istiyor ancak yeni sermaye çıkmak isteyenlere verilirse büyüme gerçekleşmiyor.
+Başlangıç şirketleri, uzun vadeli sermaye taahhüdü gerektirir. Paralarını bir startup'a yatırım yapanlar hisselerini satıp kazançlarını görmeden önce yıllarca beklemeleri gerektiklerini tahmin ediyorlardır. Uzun vadeli taahhütler olmadan, ek hisse satışı yoluyla ek sermaye yaratmaya çalışan bir girişim, çıkmak isteyen mevcut hissedarlar ile rekabet edecektir. Savvy yatırımcılar, sermaye katkılarının ve şirketin büyümesini istiyor ancak yeni sermaye çıkmak isteyenlere verilirse büyüme gerçekleşmez.
 
-Toplulukların uzun vadeli planlar yapmalarını sağladığı için uzun vadeli taahhüt sahibi olmak için önemli bir değer vardır. Paydaşların uzun vadeli taahhüdü, kısa vadeli pompalar yerine uzun vadeli büyümeye oy vermelerine neden olur.
+Uzun vadeli plan yapmak yatırımların uzun vadeli taahhüt olması için önemli bir değere sahiptir. Paydaşların uzun vadeli taahhüdü, kısa vadeli pompalar yerine uzun vadeli büyümeye oy vermelerine neden olur.
 
 Kriptokrasi alanında, spekülatörler, kriptokrasiden kriptokrasiteye atlar ve çoğunlukla hangisinin kısa vadeli bir büyümeye sahip olacağı düşünülür. Steem, çoğunlukla sahip olduğu ve tamamen uzun vadeli bir perspektifle denetlenen bir topluluk inşa etmek istiyor.
 
