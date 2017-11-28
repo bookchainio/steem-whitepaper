@@ -70,7 +70,7 @@ La red Steem denomina a estas diferentes clases de *assets* Steem (STEEM), Steem
 
 ## Steem (STEEM)
 
-Steem es la unidad fundamental contable en el blockchain de Steem. Los demás tokes derivan su valor del de STEEM. STEEM is a liquid currency, and therefore can be bought or sold on exchanges, as well as transferred to other users as a form of payment.
+Steem es la unidad fundamental contable en el blockchain de Steem. Los demás tokes derivan su valor del de STEEM. STEEM es una moneda líquida y por lo tanto puede ser comprado o vendido en los mercados, así como transferido a otros usuarios como forma de pago.
 
 ## Steem Power (SP)
 
