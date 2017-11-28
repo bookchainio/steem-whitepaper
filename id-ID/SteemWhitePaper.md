@@ -102,33 +102,33 @@ Pemegang SP memilih individu, disebut saksi, untuk menerbitkan umpan harga. Saks
 
 Dengan seperangkat produsen umpan yang terpercaya dan terpilih, harga aktual yang digunakan untuk konversi dapat diturunkan sebagai median umpan. Dengan cara ini, jika sebagian kecil produsen umpan individu menghasilkan outlier, mereka memiliki dampak minimal terhadap median sebenarnya sementara tetap memiliki kemampuan untuk mempengaruhi reputasi mereka.
 
-Even if all feed producers are honest, it is possible for the majority of feed producers to be impacted by events beyond their control. The Steem network is designed to tolerate short-term corruption of the median price feed while the community actively works to correct the issue. One example of an issue that may take some time to correct is short-term market manipulation. Market manipulation is difficult and expensive to maintain for long periods of time. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
+Bahkan jika semua produsen umpan jujur, sangat mungkin bagi sebagian besar produsen umpan untuk terkena dampak oleh kejadian di luar kendali mereka. Jaringan Steem dirancang untuk mentolerir korupsi jangka pendek dari umpan harga rata-rata sementara masyarakat secara aktif bekerja untuk memperbaiki masalah ini. Salah satu contoh masalah yang mungkin perlu beberapa waktu untuk diperbaiki adalah manipulasi pasar jangka pendek. Manipulasi pasar sulit dan mahal untuk dipertahankan dalam jangka waktu yang lama. Contoh lainnya adalah kegagalan pertukaran terpusat atau korupsi data yang diterbitkan oleh bursa.
 
-Steem factors out short-term price fluctuations by using the median price over a period of three and a half days. The median published feed is sampled every hour on the hour.
+Faktor Steem keluar fluktuasi harga jangka pendek dengan menggunakan harga rata-rata selama periode tiga setengah hari. Umpan yang dipublikasikan rata-rata dicicipi setiap jam sejam.
 
-As long as the price feed corruption lasts for less than half the moving median time window it will have minimal impact on the conversion price. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
+Selama harga umpan korupsi berlangsung kurang dari setengah jendela waktu rata-rata bergerak maka akan berdampak minimal terhadap harga konversi. Jika umpan tersebut rusak, peserta jaringan akan memiliki kesempatan untuk memberikan suara kepada produsen umpan yang rusak sebelum umpan rusak dapat mempengaruhi harga konversi aktual. Mungkin yang lebih penting, memberi kesempatan kepada produsen umpan untuk mendeteksi dan memperbaiki masalah sebelum umpan mereka mulai berdampak pada harga.
 
-With a three and a half day window, community members have approximately one and a half days to respond to any issues that come up.
+Dengan jendela tiga setengah hari, anggota masyarakat memiliki waktu sekitar satu setengah hari untuk menanggapi setiap masalah yang muncul.
 
-### Mitigating Timing Attacks
+### Mengurangi Waktu Serangan
 
-Market participants have access to information faster than the blockchain’s three and a half day moving median conversion price can react. This information could be used to benefit of traders at the expense of the community. If there is a sudden increase in the value of STEEM traders could request conversion of their SBD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
+Pelaku pasar memiliki akses informasi lebih cepat daripada harga konversi median tiga setengah hari yang dapat dicoba blockchain. Informasi ini bisa digunakan untuk keuntungan pedagang dengan mengorbankan masyarakat. Jika ada kenaikan mendadak nilai pedagang STEEM bisa meminta konversi SBD mereka dengan harga lama dan lebih rendah, lalu menjual STEEM mereka menerima harga baru yang lebih tinggi dengan risiko minimal.
 
-Steem levels the playing field by requiring all conversion requests to be delayed for three and a half days. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
+Tingkat pukulan lapangan lapangan dengan mewajibkan semua permintaan konversi ditunda selama tiga setengah hari. Ini berarti bahwa baik para pedagang maupun blokir memiliki keuntungan informasi mengenai harga pada saat konversi dijalankan.
 
-### Minimizing Abuse of Conversions
+### Meminimalkan Penyalahgunaan Konversi
 
-If people could freely convert in both directions then traders could take advantage of the blockchains conversion rates by trading large volumes without changing the price. Traders who see a massive run up in price would convert to SBD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SBD to STEEM and not the other way around.
+Jika orang bisa dengan bebas mengonversi keduanya, trader bisa memanfaatkan tingkat konversi blockchains dengan melakukan trading dalam jumlah besar tanpa mengubah harganya. Pedagang yang melihat kenaikan harga yang besar akan beralih ke SBD dengan harga tinggi (bila paling berisiko) dan kemudian kembali setelah koreksi. Protokol Steem melindungi masyarakat dari jenis penyalahgunaan ini dengan hanya mengizinkan orang untuk beralih dari SBD ke STEEM dan bukan sebaliknya.
 
-The blockchain decides how and when to create SBD and who should get it. This keeps the rate of SBD creation stable and removes most avenues of abuse.
+Blockchain memutuskan bagaimana dan kapan membuat SBD dan siapa yang harus mendapatkannya. Hal ini membuat tingkat penciptaan SBD tetap stabil dan menghilangkan sebagian besar jalan pelecehan.
 
-### Sustainable Debt to Ownership Ratios
+### Utang Berkelanjutan terhadap Rasio Kepemilikan
 
-If a token is viewed as ownership in the whole supply of tokens, then a token-convertible-dollar can be viewed as debt. If the debt to ownership ratio gets too high the entire currency can become unstable. Debt conversions can dramatically increase the token supply, which in turn is sold on the market suppressing the price. Subsequent conversions require the issuance of even more tokens. Left unchecked the system can collapse leaving worthless ownership backing a mountain of debt. The higher the debt to ownership ratio becomes the less willing new investors are to bring capital to the table.
+Jika sebuah token dipandang sebagai kepemilikan dalam keseluruhan persediaan token, maka sebuah token-convertible-dollar dapat dipandang sebagai hutang. Jika rasio hutang terhadap kepemilikan menjadi terlalu tinggi, seluruh mata uang bisa menjadi tidak stabil. Konversi hutang dapat secara dramatis meningkatkan pasokan token, yang pada gilirannya dijual di pasar menekan harga. Konversi selanjutnya memerlukan penerbitan token yang lebih banyak lagi. Waktu tidak terkendali sistem bisa runtuh sehingga membuat kepemilikan tak berharga mendukung sebuah gunung utang. Semakin tinggi rasio hutang terhadap kepemilikan menjadi investor baru yang kurang bersedia untuk membawa modal ke meja.
 
-A rapid change in the value of STEEM can dramatically change the debt-to-ownership ratio. The blockchain prevents the debt-to-ownership ratio from getting too high, by reducing the amount of STEEM awarded through SBD conversions if the debt level were to exceed 10%. If the amount of SBD debt ever exceeds 10% of the total STEEM market cap, the blockchain will automatically reduce the amount of STEEM generated through conversions to a maximum of 10% of the market cap. This ensures that the blockchain will never have higher than a 10% debt-to-ownership ratio.
+Perubahan nilai STEEM yang cepat dapat secara dramatis mengubah rasio hutang terhadap kepemilikan. Blockchain ini mencegah rasio hutang terhadap kepemilikan agar tidak terlalu tinggi, dengan mengurangi jumlah STEEM yang diberikan melalui konversi SBD jika tingkat hutangnya melebihi 10%. Jika jumlah hutang SBD melebihi 10% dari total cap pasar STEEM, blockchain secara otomatis akan mengurangi jumlah STEEM yang dihasilkan melalui konversi hingga maksimum 10% dari batas pasar. Hal ini memastikan bahwa blockchain tidak akan pernah memiliki rasio hutang terhadap kepemilikan 10% yang lebih tinggi.
 
-The percentage floors used to compute STEEM creation are based on the supply including the STEEM value of all outstanding SBD and SP (as determined by the current rate / feed).
+Persentase lantai yang digunakan untuk menghitung pembuatan STEEM didasarkan pada persediaan termasuk nilai STEEM dari semua SBD dan SP yang beredar (seperti yang ditentukan oleh tingkat / umpan saat ini).
 
 ### Interest
 
