@@ -64,13 +64,13 @@ Bagian ini menguraikan gagasan di balik Steem dan penghargaannya bagi orang-oran
 
 ## Kontribusi Modal
 
-Ada dua item yang bisa ditawarkan oleh komunitas untuk menarik modal: hutang dan kepemilikan. Mereka yang membeli modal dalam bentuk kepemilikan akan mendapatkan keuntungan pada saat komunitas tumbuh tapi akan merugi jika komunitasnya menyusut. Mereka yang membeli dalam bentuk hutang diberi jaminan bunga dengan jumlah tertentu namun tidak dapat ikut serta dalam setiap keuntungan yang direalisasikan oleh pertumbuhan komunitas. Kedua jenis kontribusi modal sangat berharga bagi pertumbuhan masyarakat dan nilai mata uangnya. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
+Ada dua item yang bisa ditawarkan oleh komunitas untuk menarik modal: hutang dan kepemilikan. Mereka yang membeli modal dalam bentuk kepemilikan akan mendapatkan keuntungan pada saat komunitas tumbuh tapi akan merugi jika komunitasnya menyusut. Mereka yang membeli dalam bentuk hutang diberi jaminan bunga dengan jumlah tertentu namun tidak dapat ikut serta dalam setiap keuntungan yang direalisasikan oleh pertumbuhan komunitas. Kedua jenis kontribusi modal sangat berharga bagi pertumbuhan masyarakat dan nilai mata uangnya. Selain itu ada dua cara kepemilikan yang bisa dilakukan: cair dan vesting. Kepemilikan vested membuat komitmen jangka panjang dan tidak dapat dijual untuk jangka waktu minimum. Kepemilikan vested membuat komitmen jangka panjang dan tidak dapat dijual untuk jangka waktu minimum.
 
-The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SBD).
+Jaringan Steem menyebut kelas aset yang berbeda ini Steem (STEEM), Steem Power (SP), dan Steem Dollars (SBD). Steem (STEEM).
 
 ## Steem (STEEM)
 
-Steem is the fundamental unit of account on the Steem blockchain. All other tokens derive their value from the value of STEEM. STEEM is a liquid currency, and therefore can be bought or sold on exchanges, as well as transferred to other users as a form of payment.
+Steem adalah unit fundamental dari akun Steem blockchain. Semua token lainnya mendapatkan nilai dari nilai STEEM. STEEM is a liquid currency, and therefore can be bought or sold on exchanges, as well as transferred to other users as a form of payment.
 
 ## Steem Power (SP)
 
