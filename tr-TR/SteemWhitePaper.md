@@ -38,13 +38,13 @@ Steem'in ekonomik teşvikleri amaçlayan hale getirmesi, daha önce gitmiş olan
 
 ## Katkı Sağlama
 
-Steem, toplumsal medya tabanlı bir ekonominin benimsenmesi ve para kazanılmasının önündeki en büyük engelleri ortadan kaldırmak için tasarlanmıştır. Tezimiz, önemli sosyal medya platformlarını büyütmek için kullanılan tekniklerle, başarılı şifreleme oranını önyüklemek için kullanılabilir. Kriptokrasiden yararlanan ekonomik teşvikler, yeni bir sosyal medya platformunun büyümesini önemli ölçüde kolaylaştırabilir. Steem'e pazarda güçlü bir avantaj sağlayabileceğine inandığımız kriptokrasi ve sosyal medya arasındaki sinerji.
+Steem, toplumsal medya tabanlı bir ekonominin benimsenmesi ve para kazanılmasının önündeki en büyük engelleri ortadan kaldırmak için tasarlanmıştır. Tezimiz, önemli sosyal medya platformlarını büyütmek için kullanılan tekniklerle, başarılı bir kripto parayı önyüklemek için kullanılabilir. Cryptocurrency'den yararlanan ekonomik teşvikler, yeni bir sosyal medya platformunun büyümesini önemli ölçüde kolaylaştırabilir. Steem'e pazarda güçlü bir avantaj sağlayabileceğine inandığımız cryptocurrency ve sosyal medya arasındaki sinerjidir.
 
 Steem'in karşılaştığı zorluk, topluluk üyelerinin çoğunun her bir katkının öznel değerinin adil bir değerlendirmesi olduğu düşünülen bireysel katkıların puanlanması için bir algoritma türetmektir. Mükemmel bir dünyada, toplum üyeleri birbirlerinin katkısını değerlendirmek ve adil bir tazminat elde etmek için işbirliği yaparlar. Gerçek dünyada, algoritmalar kar amaçlı manipüle edilmeye karşı dirençli olacak şekilde tasarlanmalıdır. Puanlama sisteminin yaygın bir şekilde kötüye kullanımı, topluluk üyelerinin ekonomik sistemin algılanan adaletine olan inançlarını kaybetmesine neden olabilir.
 
 Mevcut platformlar tek kullanıcılık, tek oyla çalışır. Bu, sıralamanın sivil saldırıları ile manipüle edilebildiği ve servis sağlayıcıların istismara neden olan kişileri proaktif olarak tanımlamaları ve engellemeleri gereken bir ortam yaratmaktadır. Tek ödül web trafiği veya sansür olduğunda insanlar zaten Reddit, Facebook ve Twitter puanlama algoritmalarını değiştirmeye çalışıyorlar.
 
-Steem platformundaki temel para birimi, kripto para birimi göstergesi olan STEEM'dir. Steem, bir STEEM-bir oy ile çalışır. Bu modelde, hesap bakiyesiyle ölçülen platforma en çok katkıda bulunan kişilerin katkı paylarının nasıl atıldığı üzerinde çok etkisi vardır. Dahası, Steem, üyelere hak sahipliği planına bağlı olduğu zaman STEEM ile oy kullanmalarını sağlar. Bu modele göre, üyelerin STEEM'in uzun vadeli değerini en üst düzeye çıkaracak şekilde oy kullanmaları için maddi bir teşvik vardır.
+Steem platformundaki temel para birimi, kripto para birimi göstergesi olan STEEM'dir. Steem, "bir STEEM-bir oy" ile çalışır. Bu modelde, hesap bakiyesiyle ölçülen platforma en çok katkıda bulunan kişilerin katkı paylarının nasıl atıldığı üzerinde çok etkisi vardır. Dahası Steem, üyelere hak sahipliği planına bağlı olduğu zaman STEEM ile oy kullanmalarını sağlar. Bu modele göre, üyelerin STEEM'in uzun vadeli değerini en üst düzeye çıkaracak şekilde oy kullanmaları için maddi bir teşvik vardır.
 
 Steem nispeten basit bir konsept etrafında tasarlanmıştır: * topluluğa herkesin katkısı kattığı değer için tanınmalıdır. * İnsanlar anlamlı katkılarından dolayı topluma katkıda bulunur ve topluluk büyür. Topluluk içinde vermek ve almakta herhangi bir dengesizlik sürdürülemez. Sonuçta, katılımcılar, katılımcıları desteklemekten ve topluluktan ayrılmaktan bıkarlar.
 
@@ -56,7 +56,7 @@ Serbest piyasa kanıtlanmış bir sistem olduğundan, içerik tüketicilerinin d
 
 Steem, ekonomik denklemi değiştirerek her türlü katkıda etkili mikro ödemeleri mümkün kılmak için tasarlanmıştır. Okuyucular artık kendi cebinden birini ödemek isteyip istemediklerine karar vermek zorunda kalmazlar; bunun yerine içeriği yukarı veya aşağı oylayabilirler ve Steem, bireysel ödülleri belirlemek için oylarını kullanır. Bu, insanlara tanıdık ve yaygın olarak kullanılan bir arayüz verilir ve artık geleneksel mikro ödeme ve devrilme platformlarıyla ilişkili bilişsel, finansal ve fırsat maliyetleriyle yüzleşilmeyeceği anlamına gelir.
 
-Topluluk üyelerinden gelen oylama girişi, Steem'in katılımcılara ödemeleri doğru şekilde tahsis etmesi için kritik öneme sahiptir. Bu nedenle, oylama, kendi başına önemli bir katkı ve ödüllere layık görülebilir. Slashdot gibi bazı platformlar, dürüst moderatörleri sıralamak ve ödüllendirmek için bir yol olarak [^3] meta denetimi kullanır. Steem, bir içeriği tamamen tanıtmak için en çok katkıda bulunanları ödüllendirmeyi seçer ve seçmenleri, içerik oluşturana ödenen nihai ödülle orantılı olarak ödüllendirir.
+Topluluk üyelerinden gelen oylama girişi, Steem'in katılımcılara ödemeleri doğru şekilde tahsis etmesi için kritik öneme sahiptir. Bu nedenle, oylama, kendi başına önemli bir katkı ve ödüllere layık görülebilir. Slashdot gibi bazı platformlar, dürüst moderatörleri sıralamak ve ödüllendirmek için bir yol olarak meta denetimi [^3] kullanır. Steem, bir içeriği tamamen tanıtmak için en çok katkıda bulunanları ödüllendirmeyi seçer ve seçmenleri, içerik oluşturana ödenen nihai ödülle orantılı olarak ödüllendirir.
 
 # Katkıda bulunmak için yollar
 
@@ -70,7 +70,7 @@ Steem ağı bu farklı varlık sınıflarını Steem (STEEM), Steem Power (SP) v
 
 ## Steem (STEEM)
 
-Steem, Steem'in blok zincirindeki temel birimdir. Diğer tüm belirteçler değerlerini STEEM değerinden türetir. STEEM likit bir para birimidir ve borsalarda satın alınabilir veya satılabilir; ayrıca bir ödeme şekli olarak diğer kullanıcılara aktarılabilir.
+Steem, Steem'in blok zincirindeki temel birimdir. Diğer tüm token'ler değerlerini STEEM değerinden türetir. STEEM likit bir para birimidir ve borsalarda satın alınabilir veya satılabilir; ayrıca bir ödeme şekli olarak diğer kullanıcılara aktarılabilir.
 
 ## Steem Power (SP)
 
