@@ -84,9 +84,9 @@ Users are able to commit their STEEM to a thirteen week vesting schedule, provid
 
 Cuando los usuarios votan el contenido, su influencia sobre la distribución de *pool* de premios es directamente proporcional a la cantidad de SP que tienen. Los usuarios con más SP tienen más influencia en la distribución de recompensas. Esto significa que SP es un token de acceso que otorga a sus poseedores poderes exclusivos dentro de la plataforma de Steem.
 
-Los poseedores de SP también cobran intereses en el equilibrio del SP que permanece concedido. 15% de la inflación anual es pagada a los poseedores de SP como interés. The amount of the interest that they receive is directly proportional to the amount of SP they hold relative to the total amount of vested SP across all users.
+Los poseedores de SP también cobran intereses en el equilibrio del SP que permanece concedido. 15% de la inflación anual es pagada a los poseedores de SP como interés. El importe de los intereses que reciben es directamente proporcional a la cantidad de SP que poseen en relación con la cantidad total de SP adquirido a través de todos los usuarios.
 
-Transferring from STEEM to SP is referred to as “powering up”, while transferring from SP to STEEM is referred to as “powering down.” SP that is powered down is returned to the user over a period of thirteen weeks, via 13 equal weekly payments, starting one week after the power down is initiated.
+Transferir STEEM a SP se conoce como "power up", mientras que la transferencia de SP a STEEM se conoce como "power down". El SP producto del *power down* se devuelve al usuario durante un período de trece semanas, vía 13 pagos semanales iguales, a partir de una semana después de iniciado el *power down*.
 
 ## Steem Dollars (SBD)
 
@@ -126,7 +126,7 @@ El blockchain decide cómo y cuándo crear SBD y quién debe recibirlos. Esto ma
 
 Si un *token* es considerado propiedad en el total de provisión de *tokens*, entonces un *token* convertible a dólar puede ser considerado como deuda. Si la deuda de propiedad tiene una relación muy alta, la moneda entera puede volverse inestable. Las conversiones de deuda pueden incrementar dramaticamente la provisión de *tokens*, los cuales por su parte pueden ser vendidos en el mercado suprimiendo el precio. Las conversiones subseuentes requieren la emisión de aún más *tokens*. Si no se comprueba el sistema puede colapsar dejando una montaña de deuda respaldada por propiedad sin valor. A mayor relación entre deuda a propiedad, menos inversores nuevos desearán aportar capital a la mesa.
 
-Un cambio repentino en el valor de STEEM puede cambiar dramáticamente la relación deuda/propiedad. The blockchain prevents the debt-to-ownership ratio from getting too high, by reducing the amount of STEEM awarded through SBD conversions if the debt level were to exceed 10%. If the amount of SBD debt ever exceeds 10% of the total STEEM market cap, the blockchain will automatically reduce the amount of STEEM generated through conversions to a maximum of 10% of the market cap. This ensures that the blockchain will never have higher than a 10% debt-to-ownership ratio.
+Un cambio repentino en el valor de STEEM puede cambiar dramáticamente la relación deuda/propiedad. El blockchain impide que la relación deuda-propiedad llegue demasiado alta, reduciendo la cantidad de STEEM otorgado a través de conversiones de SBD, si el nivel de deuda superó el 10%. Si el monto de la deuda de SBD nunca supera el 10% de la PAC de mercado total de STEEM, el blockchain automáticamente reducirá la cantidad de STEEM generado a través de conversiones hasta un máximo de 10% de la capa del mercado. Esto asegura que el blockchain nunca tendrá más de 10% de una relación de deuda a la posesión.
 
 El piso de porcentajes usado para computar la creación de STEEM se basa en la provisión incluyendo el valor de STEEM de todo el SBD y SP existente (tal como lo determine la relación / indicador del momento).
 
@@ -214,7 +214,7 @@ La meta de desarrollar una moneda comunitaria es obtener mas "cangrejos en la cu
 
 Una mayor parte de minimizar el abuso es limitar la tasa de voto. Los usuarios individuales sólo pueden leer y evaluar tántos items de trabajo diarios. Cualquier intento de votar mas frecuentemente que ésto es una señal de automatización y potencial abuso. A través del límite de tasa de voto, los participantes que voten más frecuentemente tienen su voto menos valioso que los participantes que votan con menos frecuencia. Los intentos de dividir *tokens* entre múltiples cuentas también divide la influencia y por ende no resulta en un incremento neto en influencia ni saltea el límite de tasa impuesto en el voto.
 
-Users are allotted a fixed amount of voting power. El poder de voto es multiplicado por los *tokens* invertidos de un usuario para determinar la parte que debería ser colocada en el *pool* de pagos para determinado ítem. Every vote that is cast uses a percentage of remaining voting power. Los usuarios pueden votar por más posts, pero cada voto valdrá menos y tardará más en llegar a la plena potencia de voto otra vez. Voting power recharges at a fixed linear rate of 20% per day.
+A los usuarios se asigna una cantidad fija de poder de voto. El poder de voto es multiplicado por los *tokens* invertidos de un usuario para determinar la parte que debería ser colocada en el *pool* de pagos para determinado ítem. Every vote that is cast uses a percentage of remaining voting power. Los usuarios pueden votar por más posts, pero cada voto valdrá menos y tardará más en llegar a la plena potencia de voto otra vez. Voting power recharges at a fixed linear rate of 20% per day.
 
 ### Distribución de pagos
 
