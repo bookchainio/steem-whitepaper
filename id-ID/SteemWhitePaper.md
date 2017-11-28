@@ -1,6 +1,6 @@
 # Steem
 
-## Platform konten publik yang berbasis insentif dan berbasis blockchain.
+## Sebuah Platform konten publik yang insentif dan berbasis blockchain.
 
 Agustus 2017
 
