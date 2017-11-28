@@ -232,23 +232,23 @@ Dampak dari distribusi pemungutan suara dan pembayaran ini adalah menawarkan ban
 
 Efek ekonomi dari hal ini mirip dengan undian di mana orang melebih-lebihkan probabilitas mereka untuk mendapatkan suara dan dengan demikian melakukan lebih banyak pekerjaan daripada nilai yang diharapkan dari pahala mereka dan dengan demikian memaksimalkan jumlah pekerjaan yang dilakukan dalam pelayanan masyarakat. Kenyataan bahwa setiap orang "memenangkan sesuatu" memainkan psikologi yang sama dengan yang digunakan kasino untuk membuat orang berjudi. Dengan kata lain, imbalan kecil membantu memperkuat gagasan bahwa adalah mungkin untuk mendapatkan imbalan lebih besar.
 
-### Payouts
+### Pembayaran
 
-When a post receives a payout it takes the form of 50% SBD and 50% SP. The Steem Power give the user increased voting and transaction power while the SBD gives the user an immediate benefit in a stable currency. As we’ve already discussed at length, SP is designed to encourage long-term holding rather than short-term selling. This encourages more users to have a vested interest in the long-term success of the platform.
+Bila sebuah pos menerima payout maka dibutuhkan bentuk SBD 50% dan SP 50%. Kekuatan Steem memberi pengguna daya pemungutan suara dan transaksi yang meningkat sementara SBD memberi pengguna keuntungan langsung dalam mata uang yang stabil. Seperti yang sudah kita bahas panjang lebar, SP dirancang untuk mendorong penahanan jangka panjang daripada penjualan jangka pendek. Hal ini mendorong lebih banyak pengguna untuk memiliki kepentingan dalam keberhasilan platform jangka panjang.
 
-Users also have the option to be paid in 100% SP, as well as decline payout on posts. When a user declines payout on a post, the money that would have been paid to them remains in the rewards pool, to be distributed to other users.
+Pengguna juga memiliki pilihan untuk dibayar di SP 100%, serta penurunan payout pada posting. Ketika pengguna menolak pembayaran di pos, uang yang seharusnya dibayarkan kepada mereka tetap berada di kolam imbalan, untuk didistribusikan ke pengguna lain.
 
-# Consensus Algorithm
+# Algoritma Konsensus
 
-Consensus is the process by which a community comes to a universally recognized, unambiguous agreement on piece of information. There are many algorithms society has developed for reaching consensus about who owns what. Every government on earth is a primitive consensus algorithm whereby the population agrees to abide by a certain set of rules enshrined in a constitution. Governments establish courts, judges, and juries to interpret the subjective facts and render a final decision. Most of the time people abide by the decision even if it was wrong.
+Konsensus adalah proses dimana sebuah komunitas mencapai kesepakatan yang diakui secara universal dan tidak ambigu mengenai sepotong informasi. Ada banyak algoritma yang dikembangkan masyarakat untuk mencapai konsensus tentang siapa pemilik apa. Setiap pemerintahan di bumi adalah sebuah algoritma konsensus primitif dimana penduduk setuju untuk mematuhi seperangkat aturan tertentu yang tercantum dalam sebuah konstitusi. Pemerintah membuat pengadilan, hakim, dan juri untuk menafsirkan fakta subjektif dan memberikan keputusan akhir. Sebagian besar waktu orang mematuhi keputusan bahkan jika itu salah.
 
-The algorithms used by cryptocurrencies provide a better way to reach consensus. Cryptographically signed testimony from individuals is recorded in a public ledger that establishes the absolute global order of events. A deterministic computer algorithm can then process this ledger to derive a universally accepted conclusion. So long as the members of a community agree on the processing algorithm, the result of the algorithm is authoritative.
+Algoritma yang digunakan oleh cryptocurrencies memberikan cara yang lebih baik untuk mencapai konsensus. Kesaksian yang ditandatangani secara kriptografi dari individu dicatat dalam buku besar publik yang menetapkan tatanan global absolut peristiwa. Algoritma komputer deterministik kemudian dapat memproses buku besar ini untuk mendapatkan kesimpulan yang diterima secara universal. Selama anggota komunitas menyetujui algoritma pengolahan, hasil dari algoritma tersebut bersifat otoritatif.
 
-The primary consideration is determining what testimony is allowed to enter the public record. Systems should be designed to minimize the potential for censorship. Censorship on the public ledger is similar to preventing someone from voting in an election. In both cases an individual is prevented from impacting the global consensus.
+Pertimbangan utama adalah menentukan kesaksian apa yang diizinkan memasuki catatan publik. Sistem harus dirancang untuk meminimalkan potensi penyensoran. Penyensoran pada buku besar sama dengan mencegah seseorang memilih dalam pemilihan. Dalam kedua kasus tersebut, individu dicegah untuk mempengaruhi konsensus global.
 
-## Consensus in Steem
+## Konsensus di Steem
 
-Conceptually, the consensus algorithm adopted by Steem is similar to the consensus algorithm adopted by companies throughout the world. People with a vested interest in the future value of Steem vote to select individuals responsible for including testimony in the public record. Voting is weighted proportional to each individual's vested interest.
+Secara konseptual, algoritma konsensus yang diadopsi oleh Steem serupa dengan algoritma konsensus yang diadopsi oleh perusahaan di seluruh dunia. Orang-orang dengan kepentingan pribadi di masa depan memilih suara Steem untuk memilih individu yang bertanggung jawab termasuk kesaksian dalam catatan publik. Voting berbobot sebanding dengan kepentingan masing-masing individu.
 
 In the world of cryptocurrencies, the public record is commonly referred to as a *blockchain*. A *block* is a group of signed transactions.
 
