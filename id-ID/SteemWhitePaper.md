@@ -296,17 +296,17 @@ Seiring waktu, jaringan harus menyesuaikan biaya. Hal ini bisa terjadi baik kare
 
 Situs terpusat mencegah spam menembus tingkat pembatasan dan beberapa bentuk verifikasi ID. Bahkan sesederhana reCAPTCHA[^9] sudah cukup untuk membatasi pembuatan akun palsu. Jika seseorang menyalahgunakan akun mereka maka situs terpusat bebas untuk memblokir akun.
 
-In a decentralized system there is no direct way to ban users nor centralized provider able to host a reCAPTCHA and enforce rate limiting of accounts. In fact, the inability to censor users is one of the main selling points of blockchain technology.
+Dalam sistem yang terdesentralisasi tidak ada cara langsung untuk melarang pengguna atau penyedia terpusat yang dapat menghosting reCAPTCHA dan memberlakukan pembatasan tingkat akun. Padahal, ketidakmampuan menyensor pengguna merupakan salah satu titik jual utama teknologi blockchain.
 
-### Full Reserve vs Fractional Reserve
+### Cadangan Penuh vs Fraksional Cadangan
 
-Let’s view a blockchain like an Internet Service Provider (ISP) co-op which owns all of the cables in the town and has a maximum amount of bandwidth that it can provide at any time. People living in the town can buy shares in the ISP and in exchange they are entitled to utilize a portion of the available bandwidth.
+Mari kita lihat blockchain seperti co-op Internet Service Provider (ISP) yang memiliki semua kabel di kota dan memiliki jumlah bandwidth maksimum yang dapat diberikan setiap saat. Orang-orang yang tinggal di kota dapat membeli saham di ISP dan sebagai gantinya mereka berhak memanfaatkan sebagian dari bandwidth yang tersedia.
 
-The ISP has two choices, run a “full reserve” or “fractional reserve” system. Under a full reserve system each user is only allowed a fraction of the maximum bandwidth proportional to her shares. Because not everyone uses the Internet at the same time, the town’s network would be significantly underutilized.
+ISP memiliki dua pilihan, menjalankan sistem "cadangan penuh" atau "cadangan fraksional". Di bawah sistem cadangan penuh, setiap pengguna hanya diperbolehkan mengambil sebagian kecil dari bandwidth maksimum yang sebanding dengan sahamnya. Karena tidak semua orang menggunakan Internet pada saat bersamaan, jaringan kota akan kurang dimanfaatkan secara signifikan.
 
-Under a fractional reserve system the individual users could utilize more bandwidth than they are entitled to at any given point in time so long as not everyone uses the Internet at the same time. The problem with operating a fractional reserve is that congestion occurs anytime too many people wish to use the network at the same time. The ISP needs a way to prioritize bandwidth during congested periods. In the most extreme case, a fully congested network must revert to a full reserve system. The challenge is setting the proper fractional reserve ratio.
+Di bawah sistem cadangan pecahan, pengguna individual dapat memanfaatkan lebih banyak bandwidth daripada yang berhak mereka dapatkan pada waktu tertentu asalkan tidak semua orang menggunakan Internet pada saat bersamaan. Masalah dengan mengoperasikan cadangan fraksional adalah kemacetan terjadi kapanpun terlalu banyak orang ingin menggunakan jaringan pada saat bersamaan. ISP membutuhkan cara untuk memprioritaskan bandwidth selama periode yang padat. Dalam kasus yang paling ekstrem, jaringan yang penuh sesak harus kembali ke sistem cadangan penuh. Tantangannya adalah mengatur rasio cadangan fraksional yang tepat.
 
-## Bandwidth Instead of Micropayment Channels
+## Bandwidth Alih-alih Saluran Mikropayment
 
 The solution to the problems with micropayments is in implementing *dynamic fractional reserves*. Under this model the blockchain will automatically adjust the reserve ratio for the network during times of congestion. The blockchain will set a target utilization that leaves enough headroom for short term surges in demand. Any time the surges are sustained the blockchain reduces the maximum bandwidth-per-share. When a surge is over and there is surplus capacity the blockchain can slowly increase the bandwidth-per-share.
 
