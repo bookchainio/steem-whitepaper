@@ -6,7 +6,7 @@
 
 # 翻訳者ノート
 
-翻訳者ノート用プレースホルダー
+翻訳者: @inoue https://steemit.com/@inoue
 
 # 概要
 
