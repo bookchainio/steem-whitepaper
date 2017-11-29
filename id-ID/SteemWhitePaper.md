@@ -320,29 +320,29 @@ Kapasitas blockchain belum tentu capped. Ini adalah kemampuan teknologi internet
 
 ### Perbandingan dengan Biaya
 
-Jika kita mengasumsikan pengguna bertransaksi BTC seharga $ 25 dolar sekali seminggu dan membayar biaya $ 0,04 sen setiap kali mereka akan membayar lebih dari $ 2,00 biaya per tahun. A user would have to earn a 8% rate of return on their $25 dollars just to break even with paying fees. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
+Jika kita mengasumsikan pengguna bertransaksi BTC seharga $ 25 dolar sekali seminggu dan membayar biaya $ 0,04 sen setiap kali mereka akan membayar lebih dari $ 2,00 biaya per tahun. Seorang pengguna harus mendapatkan tingkat pengembalian 8% sebesar $ 25 dolar mereka hanya untuk mendapatkan keuntungan dengan membayar biaya. Kemungkinannya adalah pengguna akan memegang uang mereka di blockchain, jadi pengguna dengan BTC senilai $ 25 ini berhasil menghemat $ 2 selama setahun dengan menerapkan pendekatan membatasi tarif daripada pendekatan berbasis biaya. Dengan hanya $ 175 mereka bisa bertransaksi setiap hari dan menghemat $ 14 per tahun.
 
-### Account Creation
+### Pembuatan akun
 
-Steem’s account-based system with publicly known balances simplifies the implementation of the bandwidth-based rate limiting algorithm. Any account with a balance below the minimum required to transact once per week would be unable to transact. This implies that all new accounts should be funded with at least this minimum balance. It also implies that users wishing to transact in smaller amounts can, so long as they hold a larger balance and reuse the account.
+Sistem berbasis akun Steem dengan saldo yang diketahui secara umum menyederhanakan penerapan algoritma pembatas tingkat berbasis bandwidth. Setiap akun dengan saldo di bawah minimum yang diminta untuk bertransaksi sekali per minggu tidak dapat bertransaksi. Ini menyiratkan bahwa semua akun baru harus didanai setidaknya dengan saldo minimum ini. Ini juga menyiratkan bahwa pengguna yang ingin bertransaksi dalam jumlah yang lebih kecil dapat, asalkan mereka memiliki saldo lebih besar dan menggunakan kembali akun tersebut.
 
-It is possible for a low-balance account created during a time of low usage to become inaccessible if the network usage picks up. The funds could be recovered at any time by temporarily delegating a larger balance to the account.
+Hal ini dimungkinkan untuk akun dengan saldo rendah yang dibuat pada saat penggunaan rendah menjadi tidak dapat diakses jika penggunaan jaringan meningkat. Dana dapat dipulihkan kapan saja dengan sementara mendelegasikan saldo yang lebih besar ke akun.
 
-In order to maintain a reasonable user experience with a minimum number of hung accounts, all new accounts should start out with a balance 10 times the minimum required to transact weekly. This way even if demand increases by a factor of 10 the account will remain viable.
+Untuk menjaga pengalaman pengguna yang masuk akal dengan jumlah akun terlalu minimum, semua akun baru harus dimulai dengan saldo 10 kali minimum yang diperlukan untuk bertransaksi setiap minggu. Dengan cara ini bahkan jika permintaan meningkat dengan faktor 10, akun akan tetap bertahan.
 
-Any initial account balance would have to come from the user creating the account and not from token creation due to the potential for sybil attacks.
+Setiap saldo akun awal harus datang dari pengguna yang membuat akun dan bukan dari pembuatan token karena potensi serangan dunia maya.
 
-### Justifying Minimum Balances
+### Membenarkan saldo minimum
 
-The concept of forcing users to maintain a minimum balance flows naturally from the value of a user[^10]. Anyone running a business knows that every single user has significant value. Businesses spend anywhere from $30 to $200 to acquire a user. Sometimes they pay users directly, other times they pay for advertizing, and still other times entire companies are bought just for their user base. After a company acquires a user they often given them many *free services* just to keep them around long enough to monetize them through some other means.
+Konsep memaksa pengguna menjaga keseimbangan minimum mengalir secara alami dari nilai user[^10]. Siapa pun yang menjalankan bisnis tahu bahwa setiap pengguna memiliki nilai signifikan. Bisnis menghabiskan antara $ 30 sampai $ 200 untuk mendapatkan pengguna. Terkadang mereka membayar pengguna secara langsung, lain kali mereka membayar untuk melakukan periklanan, dan masih di lain waktu seluruh perusahaan membeli hanya untuk basis pengguna mereka. Setelah sebuah perusahaan mengakuisisi pengguna, mereka sering memberi mereka banyak *layanan gratis* hanya untuk menjaganya cukup lama untuk menghasilkan uang melalui beberapa cara lain.
 
-Ripple uses a minimum balance[^11] that scales with account resource use and requires that new accounts get funded with at least this minimum balance. Currently this minimum balance is about $0.15 which is greater than the $0.10 we estimated would allow someone to transact freely at least once per week.
+Ripple menggunakan keseimbangan minimum[^11] yang berskala dengan penggunaan sumber daya akun dan mengharuskan akun baru didanai setidaknya dengan saldo minimum ini. Saat ini saldo minimum ini sekitar $ 0,15 yang lebih besar dari $ 0,10 yang kami perkirakan akan memungkinkan seseorang untuk bertransaksi dengan bebas setidaknya satu kali per minggu.
 
-A blockchain can enforce a minimum value per user through the simple process of requiring a minimum balance. Any business that wishes to bring a new customer to the blockchain can pre-fund that user’s account with the minimum balance that would allow them to transact. Requiring a relatively large fee ($1.00) to sign up new users will naturally force anyone offering free accounts to vet the quality and uniqueness of each account before registering them with the blockchain.
+Blockchain dapat memberlakukan nilai minimum per pengguna melalui proses sederhana yang membutuhkan keseimbangan minimum. Setiap bisnis yang ingin membawa pelanggan baru ke blockchain dapat mendanai sebelumnya akun pengguna tersebut dengan saldo minimum yang memungkinkan mereka bertransaksi. Membutuhkan biaya yang relatif besar ($ 1,00) untuk mendaftar pengguna baru secara alami akan memaksa siapa saja yang menawarkan akun gratis untuk mendapatkan kualitas dan keunikan masing-masing akun sebelum mendaftarkan mereka dengan blockchain.
 
-Maintaining a minimum balance is effectively the same as making users pay transaction fees with the interest they could have earned on their balance. The minimum balance is simply the balance required to earn enough interest to pay a fee in a relatively short period of time.
+Menjaga keseimbangan minimum secara efektif sama dengan membuat pengguna membayar biaya transaksi dengan bunga yang bisa mereka dapatkan dari saldo mereka. Saldo minimum hanyalah keseimbangan yang dibutuhkan untuk mendapatkan bunga yang cukup untuk membayar biaya dalam waktu yang relatif singkat.
 
-Fortunately, the minimum balance required can be as low as a dollar and this is something users can understand and appreciate. The opportunity cost of lost interest doesn’t incur the cognitive cost of a micro-fee and is far more acceptable to users.
+Untungnya, saldo minimum yang dibutuhkan bisa serendah satu dolar dan ini adalah sesuatu yang bisa dimengerti dan dihargai oleh pengguna. The opportunity cost of lost interest doesn’t incur the cognitive cost of a micro-fee and is far more acceptable to users.
 
 The STEEM used to pre-fund an account is Powered Up in the new account (i.e., converted to Steem Power). A portion of the SP used to fund a new account may be delegated from the creator of the account. When a user is delegated SP, they may use the SP for voting and bandwidth purposes as if it were their own, but the ownership of the SP remains with the user who delegated it. A user may remove the delegation at any time. After a cool-down period, the SP is returned to their account.
 
