@@ -274,27 +274,27 @@ Solusi yang diadopsi oleh kebanyakan blockchains sejauh ini adalah mengenakan bi
 
 Masalah mendasar dengan membebankan biaya transaksi adalah bahwa micropayments tidak berfungsi, terutama untuk tindakan pengguna bernilai rendah. Jika biaya dibebankan pada setiap transaksi, maka batas jenis transaksi yang dapat diolah oleh jaringan terdesentralisasi. Terlepas dari bagaimana rasional argumen untuk kebutuhan biaya, pengguna masih membenci pengalaman menjadi nickeled dan dimed untuk segala sesuatu yang mereka lakukan.
 
-Bayangkan jika website yang kita gunakan setiap hari dikenakan biaya kita setiap kali kita memodifikasi akun kita dengan mengganti password. Users expect certain things to be free. Requiring users to make a decision on whether or not an action is worth a small fee creates anxiety that causes users to leave. A transaction can’t be worth so much as to require a decision but worth so little that that decision is automatic. There is a certain amount of anxiety involved in any decision to buy, no matter how small, and it derives not from the interface used or the time required, but from the very act of deciding.
+Bayangkan jika website yang kita gunakan setiap hari dikenakan biaya kita setiap kali kita memodifikasi akun kita dengan mengganti password. Pengguna mengharapkan hal-hal tertentu menjadi bebas. Memerlukan pengguna untuk membuat keputusan mengenai apakah tindakan layak biaya yang kecil juga menimbulkan kecemasan yang menyebabkan pengguna pergi. Transaksi tidak bisa bernilai begitu banyak sehingga memerlukan keputusan tapi sangat berharga sehingga keputusan itu otomatis. Ada sejumlah kecemasan yang terlibat dalam keputusan membeli, tidak peduli seberapa kecil, dan tidak berasal dari antarmuka yang digunakan atau waktu yang dibutuhkan, tapi dari tindakan memutuskan.
 
-Micropayments, like all payments, require a comparison: *“Is this much of X worth that much of Y?”* There is a minimum mental transaction cost created by this fact that cannot be optimized away, because the only transaction a user will be willing to approve with no thought will be one that costs them nothing, which is no transaction at all.
+Micropayments, seperti semua pembayaran, memerlukan perbandingan: *"Apakah ini banyak X yang berharga sebanyak itu dari Y?"* Ada biaya transaksi mental minimum yang diciptakan oleh fakta ini yang tidak dapat dioptimalkan, karena satu-satunya transaksi yang akan dilakukan oleh pengguna akan Setujui dengan tidak berpikir akan menjadi salah satu yang biaya mereka apa-apa, yang tidak ada transaksi sama sekali.
 
-– Clay Shirky[^8]
+- Clay Shirky[^8]
 
-In the world of financial payments, small fees are acceptable because the value of the transaction is extremely high relative to the fee charged, and the buyer has already made a decision to buy. The world of potential blockchain applications is far greater than just financial payments and includes many necessary transactions for which fees are simply unacceptable to users.
+Dalam dunia pembayaran keuangan, biaya kecil dapat diterima karena nilai transaksi sangat tinggi dibandingkan dengan biaya yang dikenakan, dan pembeli telah membuat keputusan untuk membeli. Dunia aplikasi blockchain yang potensial jauh lebih besar daripada hanya pembayaran keuangan dan mencakup banyak transaksi yang diperlukan yang biayanya tidak dapat diterima oleh pengguna.
 
-Systems like BitShares, Nxt, Ripple, Counter Party and Stellar all allow users to place limit orders on the blockchain and all of them charge users a small fee to perform this action. Later if the user wishes to cancel their order, another fee is charged. Systems like Ethereum take micropayments to a whole new level: charging per calculation. All of these systems struggle to attract new mainstream users for the same reasons that a decentralized search engine would struggle to attract users from Google if it charged a small fee for every search. It doesn’t matter how good the service is, people expect certain things to be free. This is true even if a user ends up paying more overall under a different fee structure.
+Sistem seperti BitShares, Nxt, Ripple, Counter Party dan Stellar memungkinkan pengguna untuk membatasi pesanan pada blockchain dan semuanya mengenakan biaya kecil untuk melakukan tindakan ini. Nanti jika pengguna ingin membatalkan pesanan mereka, biaya lain akan dikenakan biaya. Sistem seperti Ethereum mengambil micropayments ke tingkat yang baru: pengisian per perhitungan. Semua sistem ini berjuang untuk menarik pengguna mainstream baru dengan alasan yang sama bahwa mesin pencari yang terdesentralisasi akan berjuang untuk menarik pengguna dari Google jika mengenakan biaya kecil untuk setiap penelusuran. Tidak masalah seberapa bagus layanan ini, orang mengharapkan hal-hal tertentu menjadi bebas. Hal ini berlaku bahkan jika pengguna akhirnya membayar lebih secara keseluruhan dengan struktur biaya yang berbeda.
 
-### Fees are a Barrier to Entry
+### Biaya adalah Barrier untuk Entri
 
-Any fee creates a barrier to entry for new users. Before someone can experiment with Ethereum they must acquire some ETH tokens. Anyone wanting to build a decentralized application on Ethereum must pass on the cost to their customers. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
+Setiap biaya menciptakan penghalang untuk masuk bagi pengguna baru. Sebelum seseorang bisa bereksperimen dengan Ethereum, mereka harus mendapatkan beberapa token ETH. Siapa pun yang ingin membangun aplikasi desentralisasi di Ethereal harus menyampaikan biaya kepada pelanggan mereka. Membeli mata uang kripto bukanlah tugas yang mudah dan jarang masuk akal dengan jumlah kurang dari $ 10. Ini berarti bahwa pengguna baru yang ingin mencoba aplikasi terdesentralisasi yang baru harus terlebih dahulu diyakinkan untuk berpisah dengan $ 10.
 
-### Changing Fees
+### Mengubah Biaya
 
-Over time a network must adjust fees. This can happen either due to an increase in the value of the token or due to a surge in capacity. Users like predictable fees and guaranteed service. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
+Seiring waktu, jaringan harus menyesuaikan biaya. Hal ini bisa terjadi baik karena adanya kenaikan nilai token atau karena lonjakan kapasitas. Pengguna seperti biaya yang dapat diprediksi dan layanan terjamin. Meskipun dimungkinkan untuk menyesuaikan biaya secara dinamis pada saat penggunaan berat, hasilnya adalah pengalaman pengguna yang buruk.
 
-### Sybil Attacks
+### Serangan Dunia Maya
 
-Centralized websites prevent spam through rate limiting and some form of ID verification. Even something as simple as reCAPTCHA[^9] is sufficient to limit the creation of fake accounts. If someone abuses their account then centralized websites are free to block the account.
+Situs terpusat mencegah spam menembus tingkat pembatasan dan beberapa bentuk verifikasi ID. Bahkan sesederhana reCAPTCHA[^9] sudah cukup untuk membatasi pembuatan akun palsu. Jika seseorang menyalahgunakan akun mereka maka situs terpusat bebas untuk memblokir akun.
 
 In a decentralized system there is no direct way to ban users nor centralized provider able to host a reCAPTCHA and enforce rate limiting of accounts. In fact, the inability to censor users is one of the main selling points of blockchain technology.
 
