@@ -443,7 +443,7 @@ Steemはユーザーの貢献 (投稿と投票) 全体の価値が、個々の�
 
 まとめると、Redditのユーザーは毎秒220回の投票を行い、毎秒23件の投稿を作成しています。 Redditには5億ドル[^18]から40億ドル[^19]の価値があります。これはそれぞれの投票と投稿に0.06ドルから0.50ドルの価値があると仮定し、Redditの価値が主に過去1年間のアクティビティによるものとした場合です。 Redditの価値の大部分は、過去1週間以内に行われたリアルタイムに近い議論であり、それは新しいアクティビティの価値を劇的に高めると主張することができます。 人は、人々が去年いた場所ではなく、人々が今いる場所に行きます。
 
-## No Micropayments, Tips Optional
+## マイクロペイメントは不要、チップは任意
 
 Existing attempts at integrating a cryptocurrency into a social media platform have focused on enabling users to pay one another. Many services have attempted to introduce tipping. The theory is that if we make tipping simple enough then more people will do it. Other services attempt to get people to pay to promote or boost their content’s ranking. Still others attempt to build small prediction markets on how many tips an article will receive.
 
