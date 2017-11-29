@@ -308,19 +308,19 @@ Di bawah sistem cadangan pecahan, pengguna individual dapat memanfaatkan lebih b
 
 ## Bandwidth Alih-alih Saluran Mikropayment
 
-The solution to the problems with micropayments is in implementing *dynamic fractional reserves*. Under this model the blockchain will automatically adjust the reserve ratio for the network during times of congestion. The blockchain will set a target utilization that leaves enough headroom for short term surges in demand. Any time the surges are sustained the blockchain reduces the maximum bandwidth-per-share. When a surge is over and there is surplus capacity the blockchain can slowly increase the bandwidth-per-share.
+Solusi untuk masalah dengan micropayments adalah dalam menerapkan *cadangan fraksional dinamis*. Dengan model ini, blockchain akan secara otomatis menyesuaikan rasio cadangan untuk jaringan selama masa kemacetan. Blockchain akan menetapkan target utilisasi yang menyisakan cukup ruang kepala untuk lonjakan arus pendek yang diminati. Setiap saat lonjakan dipertahankan blockchain mengurangi bandwidth-per-share maksimum. Saat gelombang melonjak dan ada kelebihan kapasitas, blockchain perlahan dapat meningkatkan bandwidth per saham.
 
-Bandwidth used by an individual user should be measured over a suitably long period of time to allow that user to time-shift their usage. Users tend to login, do many things at once, then logout. This means that their bandwidth over a short period of time may appear much higher than if viewed over a longer period of time. If the time window is stretched too far then the reserve ratio will not adjust fast enough to respond to short-term surges, if the window is too short then clustering usage will have too big of an impact on normal users.
+Bandwidth yang digunakan oleh pengguna individual harus diukur dalam jangka waktu yang sesuai untuk memungkinkan pengguna tersebut mengalihkan penggunaannya. Pengguna cenderung login, melakukan banyak hal sekaligus, lalu logout. Ini berarti bahwa bandwidth mereka dalam waktu singkat mungkin tampak jauh lebih tinggi daripada jika dilihat dalam jangka waktu yang lebih lama. Jika jendela waktu diregangkan terlalu jauh maka rasio cadangan tidak akan menyesuaikan cukup cepat untuk merespons lonjakan jangka pendek, jika jendela terlalu pendek maka penggunaan pengelompokan akan berdampak terlalu besar pada pengguna biasa.
 
-In our estimate it should be sufficient to measure the average weekly bandwidth usage of users. Every time a user signs a transaction, that transaction is factored into their own individual moving average. Any time a user’s moving average exceeds the current network limit their transaction is delayed until their average falls below the limit.
+Dalam perkiraan kami, cukup memadai untuk mengukur rata-rata penggunaan bandwidth mingguan pengguna. Setiap kali pengguna menandatangani transaksi, transaksi tersebut diperhitungkan dengan rata-rata pergerakan individual mereka sendiri. Setiap saat rata-rata bergerak pengguna melebihi batas jaringan saat ini transaksi mereka tertunda sampai rata-rata jatuh di bawah batas.
 
-### Impact of Capacity
+### Dampak Dari Kapasitas
 
-Blockchain capacity isn’t necessarily capped. It is well within the technological capability of internet infrastructure to increase the Bitcoin block size to 10MB which in turn will reduce the minimum required balance by a factor of 10. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second.
+Kapasitas blockchain belum tentu capped. Ini adalah kemampuan teknologi internet untuk meningkatkan ukuran blok Bitcoin menjadi 10MB yang pada gilirannya akan mengurangi saldo minimum yang diminta dengan faktor 10. Sementara Bitcoin saat ini mendukung sekitar 3 transaksi per detik, implementasi alternatifnya mampu mencapai lebih dari 1000 transaksi per detik.
 
-### Comparison to Fees
+### Perbandingan dengan Biaya
 
-If we assume a user with $25 dollars worth of BTC transacts once per week and pays a $0.04 cent fee each time then they would pay over $2.00 in fees per year. A user would have to earn a 8% rate of return on their $25 dollars just to break even with paying fees. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
+Jika kita mengasumsikan pengguna bertransaksi BTC seharga $ 25 dolar sekali seminggu dan membayar biaya $ 0,04 sen setiap kali mereka akan membayar lebih dari $ 2,00 biaya per tahun. A user would have to earn a 8% rate of return on their $25 dollars just to break even with paying fees. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
 
 ### Account Creation
 
