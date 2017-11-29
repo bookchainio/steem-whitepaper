@@ -392,19 +392,19 @@ Untuk mencapai kinerja terdepan di industri ini, Steem telah meminjam pelajaran 
 
 Dengan mengikuti aturan sederhana ini, Steem mampu memproses 10.000 transaksi per detik tanpa usaha yang signifikan yang ditujukan untuk optimasi.
 
-Menjaga segala sesuatu dalam ingatan semakin memungkinkan mengingat diperkenalkannya teknologi Optane ™ dari Intel[^14] belakangan ini. Adalah mungkin bagi perangkat keras komoditas untuk menangani semua logika bisnis yang terkait dengan Steem dalam satu thread dengan semua posting disimpan di memori untuk pengindeksan yang cepat. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optane™ technology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
+Menjaga segala sesuatu dalam ingatan semakin memungkinkan mengingat diperkenalkannya teknologi Optane ™ dari Intel[^14] belakangan ini. Adalah mungkin bagi perangkat keras komoditas untuk menangani semua logika bisnis yang terkait dengan Steem dalam satu thread dengan semua posting disimpan di memori untuk pengindeksan yang cepat. Bahkan Google menyimpan indeks keseluruhan internet mereka di RAM. Penggunaan teknologi blockchain membuat sepele mereplikasi database ke banyak mesin untuk mencegah hilangnya data. Sebagai teknologi Optane ™ mengambil alih, RAM akan menjadi lebih cepat saat mendapatkan ketekunan. Dengan kata lain, Steem dirancang untuk arsitektur masa depan dan dirancang untuk skala.
 
-# Allocation & Supply
+# Alokasi & Pasokan
 
-## Initial Allocation & Supply
+## Alokasi Awal & Pasokan
 
-The Steem network started with a currency supply of 0 and allocated STEEM via proof of work at a rate of approximately 40 STEEM per minute to miners, with an additional 40 STEEM per minute being created to seed the content and curation reward pools (for a total of 80 STEEM per minute). Then the network started rewarding users who converted to SP. At this point, STEEM grew at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
+Jaringan Steem dimulai dengan pasokan mata uang 0 dan mengalokasikan STEEM melalui bukti kerja pada tingkat sekitar 40 STEEM per menit kepada para penambang, dengan tambahan 40 STEEM per menit dibuat untuk menghasilkan benih dan daftar hadiah (untuk total dari 80 STEEM per menit). Kemudian jaringan mulai bermanfaat bagi pengguna yang beralih ke SP. Pada titik ini, STEEM tumbuh pada tingkat sekitar 800 STEEM per menit karena efek gabungan dari berbagai Kontribusi Kontribusi yang dirangkum di bawah ini:
 
-Contribution Rewards:
+Kontribusi Hadiah:
 
-- Curation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
-- Content Creation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
-- Block production rewards: 1 STEEM per block or 0.750% per year, whichever is greater
+- Hadiah kurasi: 1 STEEM per blok atau 3,875% per tahun, mana saja yang lebih besar
+- Hadiah Penciptaan Konten: 1 STEEM per blok atau 3,875% per tahun, mana saja yang lebih besar
+- Blokir imbalan produksi: 1 STEEM per blok atau 0,750% per tahun, mana saja yang lebih besar
 - POW inclusion rewards before block 864,000: 1 STEEM per block (awarded as 21 STEEM per round)
 - POW inclusion rewards after block 864,000: 0.0476 STEEM per block (awarded as 1 STEEM per round) or 0.750% per year, whichever is greater.
 - Liquidity rewards: 1 STEEM per block (awarded as 1200 STEEM per hour) or 0.750% per year, whichever is greater
