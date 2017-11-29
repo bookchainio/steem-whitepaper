@@ -380,19 +380,19 @@ Jaringan Steem dibangun di atas Graphene, teknologi yang sama dengan kekuatan Bi
 
 ## Skala Reddit
 
-Steem mampu menangani userbase lebih besar dari Reddit. Pada tahun 2015, pengguna Reddit's 8,7 juta menghasilkan rata-rata 23 komentar per second[^12], dengan rata-rata 83 komentar per tahun per pengguna. Ada 73 juta posting tingkat atas, untuk rata-rata 2 posting baru per detik. Ada sekitar 7 miliar suara yang menghasilkan suara rata-rata 220 suara per detik. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
+Steem mampu menangani userbase lebih besar dari Reddit. Pada tahun 2015, pengguna Reddit's 8,7 juta menghasilkan rata-rata 23 komentar per second[^12], dengan rata-rata 83 komentar per tahun per pengguna. Ada 73 juta posting tingkat atas, untuk rata-rata 2 posting baru per detik. Ada sekitar 7 miliar suara yang menghasilkan suara rata-rata 220 suara per detik. Semua mengatakan, jika Reddit beroperasi pada blockchain maka dibutuhkan rata-rata 250 transaksi per detik.
 
-To achieve this industry-leading performance, Steem has borrowed lessons learned from the LMAX Exchange[^13], which is able to process 6 million transactions per second. Among these lessons are the following key points:
+Untuk mencapai kinerja terdepan di industri ini, Steem telah meminjam pelajaran dari LMAX Exchange[^13], yang mampu memproses 6 juta transaksi per detik. Di antara pelajaran ini ada beberapa hal penting berikut:
 
-1. Keep everything in memory.
-2. Keep the core business logic in a single thread.
-3. Keep cryptographic operations (hashes and signatures) out of the core business logic.
-4. Divide validation into state-dependent and state-independent checks.
-5. Use an object oriented data model.
+1. Simpan semuanya di memori.
+2. Jauhkan logika bisnis inti dalam satu thread.
+3. Jauhkan operasi kriptografi (hash dan tanda tangan) dari logika bisnis inti.
+4. Bagi validasi ke cek yang tergantung pada negara dan negara bagian.
+5. Gunakan model data berorientasi objek.
 
-By following these simple rules, Steem is able to process 10,000 transactions per second without any significant effort devoted to optimization.
+Dengan mengikuti aturan sederhana ini, Steem mampu memproses 10.000 transaksi per detik tanpa usaha yang signifikan yang ditujukan untuk optimasi.
 
-Keeping everything in memory is increasingly viable given the recent introduction of Optane™ technology from Intel[^14]. It should be possible for commodity hardware to handle all of the business logic associated with Steem in a single thread with all posts kept in memory for rapid indexing. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optane™ technology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
+Menjaga segala sesuatu dalam ingatan semakin memungkinkan mengingat diperkenalkannya teknologi Optane ™ dari Intel[^14] belakangan ini. Adalah mungkin bagi perangkat keras komoditas untuk menangani semua logika bisnis yang terkait dengan Steem dalam satu thread dengan semua posting disimpan di memori untuk pengindeksan yang cepat. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optane™ technology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
 
 # Allocation & Supply
 
