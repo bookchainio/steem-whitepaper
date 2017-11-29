@@ -378,9 +378,9 @@ Tingkat desentralisasi membatasi transaksi dapat memungkinkan jenis aplikasi ter
 
 Jaringan Steem dibangun di atas Graphene, teknologi yang sama dengan kekuatan BitShares. Graphene telah ditunjukkan secara publik untuk mempertahankan lebih dari 1000 transaksi per detik pada jaringan uji terdistribusi. Graphene dapat dengan mudah mencapai 10.000 atau lebih transaksi per detik dengan peningkatan kapasitas server dan protokol komunikasi yang relatif mudah.
 
-## Reddit Scale
+## Skala Reddit
 
-Steem is capable of handling a larger userbase than Reddit. In 2015 Reddit’s 8.7 million users generated an average of 23 comments per second[^12], with an average of 83 comments per year per user. There were 73 million top-level posts, for an average of 2 new posts per second. There were about 7 billion up votes creating an average voting rate of 220 votes per second. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
+Steem mampu menangani userbase lebih besar dari Reddit. Pada tahun 2015, pengguna Reddit's 8,7 juta menghasilkan rata-rata 23 komentar per second[^12], dengan rata-rata 83 komentar per tahun per pengguna. Ada 73 juta posting tingkat atas, untuk rata-rata 2 posting baru per detik. Ada sekitar 7 miliar suara yang menghasilkan suara rata-rata 220 suara per detik. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
 
 To achieve this industry-leading performance, Steem has borrowed lessons learned from the LMAX Exchange[^13], which is able to process 6 million transactions per second. Among these lessons are the following key points:
 
