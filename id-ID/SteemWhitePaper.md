@@ -342,23 +342,23 @@ Blockchain dapat memberlakukan nilai minimum per pengguna melalui proses sederha
 
 Menjaga keseimbangan minimum secara efektif sama dengan membuat pengguna membayar biaya transaksi dengan bunga yang bisa mereka dapatkan dari saldo mereka. Saldo minimum hanyalah keseimbangan yang dibutuhkan untuk mendapatkan bunga yang cukup untuk membayar biaya dalam waktu yang relatif singkat.
 
-Untungnya, saldo minimum yang dibutuhkan bisa serendah satu dolar dan ini adalah sesuatu yang bisa dimengerti dan dihargai oleh pengguna. The opportunity cost of lost interest doesn’t incur the cognitive cost of a micro-fee and is far more acceptable to users.
+Untungnya, saldo minimum yang dibutuhkan bisa serendah satu dolar dan ini adalah sesuatu yang bisa dimengerti dan dihargai oleh pengguna. Biaya kesempatan untuk kehilangan minat tidak menimbulkan biaya kognitif dari biaya mikro dan jauh lebih dapat diterima oleh pengguna.
 
-The STEEM used to pre-fund an account is Powered Up in the new account (i.e., converted to Steem Power). A portion of the SP used to fund a new account may be delegated from the creator of the account. When a user is delegated SP, they may use the SP for voting and bandwidth purposes as if it were their own, but the ownership of the SP remains with the user who delegated it. A user may remove the delegation at any time. After a cool-down period, the SP is returned to their account.
+STEEM yang digunakan untuk mendanai akun adalah Powered Up di akun baru (yaitu, dikonversi ke Steem Power). Sebagian dari SP yang digunakan untuk mendanai akun baru dapat didelegasikan dari pencipta akun. Ketika pengguna didelegasikan SP, mereka mungkin menggunakan SP untuk keperluan voting dan bandwidth seolah-olah itu milik mereka sendiri, namun kepemilikan SP tetap ada pada pengguna yang mendelegasikannya. Pengguna dapat menghapus delegasi kapan saja. Setelah masa pendinginan, SP dikembalikan ke akun mereka.
 
-### Effectiveness Relative to Fees
+### Efektivitas Relatif terhadap Biaya
 
-To compare the effectiveness of rate limiting to fees we must consider how the two systems react to intentional network flooding by an attacker. Under Bitcoin an attacker with $10,000 dollars could disrupt service for an entire day by filling every single block. The same attacker would be unable to disrupt service for even a single block under the dynamic fractional reserve rate limiting approach.
+Untuk membandingkan efektifitas tarif yang membatasi biaya, kita harus mempertimbangkan bagaimana kedua sistem bereaksi terhadap banjir jaringan yang disengaja oleh penyerang. Di bawah penyerang Bitcoin dengan $ 10.000 dolar bisa mengganggu layanan selama satu hari penuh dengan mengisi setiap blok. Penyerang yang sama tidak akan dapat mengganggu layanan bahkan untuk satu blok pun dengan pendekatan batas cadangan frase dinamis.
 
-If we go to a more extreme case and assume the attacker holds 1% of all coins then we presume an attacker with $60 million dollars. Such an attacker could deny the Bitcoin blockchain service for 16 years unless the miners increased fees or capacity. Even if fees were raised to $15 per transaction, the attacker could still keep the network flooded for 16 days.
+Jika kita pergi ke kasus yang lebih ekstrem dan menganggap penyerang memegang 1% dari semua koin maka kita menganggap penyerang dengan $ 60 juta dolar. Penyerang semacam itu bisa menyangkal layanan blockchain Bitcoin selama 16 tahun kecuali para penambang meningkatkan biaya atau kapasitasnya. Bahkan jika biaya dinaikkan menjadi $ 15 per transaksi, penyerang masih bisa menahan banjir selama 16 hari.
 
-Under the rate limiting approach, someone who holds 1% of all coins with an intent to flood the network would achieve their goal for less than 30 seconds.
+Di bawah pendekatan membatasi tingkat, seseorang yang memegang 1% dari semua koin dengan maksud untuk membanjiri jaringan akan mencapai tujuan mereka kurang dari 30 detik.
 
-### Renting vs. Buying vs. Time Sharing
+### Menyewa vs Membeli vs. Waktu Berbagi
 
-When someone owns a house they expect the right to use the house for free. If a group of people buy a house together then each can expect the right to use the house proportional to their percentage ownership in the house. A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
+Bila seseorang memiliki rumah mereka mengharapkan hak untuk menggunakan rumah secara gratis. Jika sekelompok orang membeli rumah bersama maka masing-masing bisa mengharapkan hak untuk menggunakan rumah sebanding dengan persentase kepemilikan mereka di rumah. Sebuah fee based blockchain seperti menyewa rumah dari pemiliknya, sedangkan batasan rate seperti timeshare di antara pemilik.
 
-If a house is owned by multiple people then those individuals must decide how they wish to timeshare the house. Someone who owns 50% of the house but only uses it one weekend per year might expect to be paid by the individuals who take their unused time. This is the mindset of a fee based system.
+Jika sebuah rumah dimiliki oleh banyak orang maka orang tersebut harus memutuskan bagaimana mereka ingin timeshare rumah tersebut. Seseorang yang memiliki 50% rumah tapi hanya menggunakannya satu minggu per tahun mungkin berharap dibayar oleh orang-orang yang mengambil waktu mereka yang tidak terpakai. Ini adalah pola pikir sistem berbasis biaya.
 
 On the other hand, someone who owns 50% of the house is speculating that demand for the house will increase in the future and they will be able to sell their stake for more. Any owner who owns more of a house than they use becomes a real estate speculator. With this mindset rather than collecting rent, they collect appreciation.
 
