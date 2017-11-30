@@ -200,13 +200,13 @@ Sistemi kötüye insanları tutmak için *negatif oy* kullanımı bir tek tek he
 
 Bir adam sahil boyunca yürüyordu ve yanındaki bir yem kovalı sörfte başka bir adamın balık tuttuğunu gördü. Daha yaklaşırken, yem kovasının kapağı olmadığını ve içindeki canlı yengeçleri olduğunu gördü.
 
-"Why don't you cover your bait bucket so the crabs won't escape?", he said.
+"Neden yengeçler kaçmayacak şekilde yem kovasını kapatmıyorsun?" dedi.
 
-"You don't understand.", the man replied, "If there is one crab in the bucket it would surely crawl out very quickly. However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
+"Anlamıyorsun" diye yanıtladı adam, "Kova içinde bir yengeç varsa mutlaka çok çabucak dışarı çıkacaktı. Bununla birlikte, kovada çok sayıda yengeç olduğunda, biri etrafı taramaya çalışırsa, diğerleri yandan tutarsa diğerleri onu tutup geri çekerek geri kalanıyla aynı kaderi paylaşır. "
 
-So it is with people. If one tries to do something different, get better grades, improve herself, escape her environment, or dream big dreams, other people will try to drag her back down to share their fate.
+Yani insanlarla birlikte. Farklı bir şey yapmaya, daha iyi dereceler elde etmeye, kendisini geliştirmeye, çevreden çıkmaya veya hayaller kurmaya çalışmaya kalkarsanız, diğer insanlar kaderlerini paylaşmak için geri çekmeye çalışacaktır.
 
-Eliminating “abuse” is not possible and shouldn’t be the goal. Even those who are attempting to “abuse” the system are still doing work. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn’t so rampant that it undermines the incentive to do real work in support of the community and its currency.
+"Kötüye kullanma" nın ortadan kaldırılması mümkün değil ve bir amaç olmamalıdır. Even those who are attempting to “abuse” the system are still doing work. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn’t so rampant that it undermines the incentive to do real work in support of the community and its currency.
 
 The goal of building a community currency is to get more “crabs in the bucket”. Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs sufficient power to prevent others from escaping.
 
