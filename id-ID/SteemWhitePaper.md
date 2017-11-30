@@ -469,33 +469,33 @@ Link dapat mengambil banyak bentuk dan telah disesuaikan dari waktu ke waktu. Se
 
 Jaringan sosial dapat memaksimalkan nilai yang diekstraksi dari sekumpulan konten dengan memaksimalkan kuantitas dan kualitas koneksi. Konten kurasi mahal dan memakan waktu sementara hampir tidak mungkin komputer tampil dengan tidak adanya tautan. Steem memberi penghargaan kepada pengguna yang termasuk orang pertama yang menemukan dan mengidentifikasi konten baru.
 
-By incentivising curation the Steem network is able to use automated algorithms to extract the most valuable information from a massive amount of content.
+Dengan incentivising curation, jaringan Steem dapat menggunakan algoritma otomatis untuk mengekstrak informasi paling berharga dari sejumlah besar konten.
 
-## Solving the Cryptocurrency Onboarding Problem
+## Memecahkan Masalah Onboarding Cryptocurrency
 
-It isn’t easy to get into cryptocurrency[^21]. Someone who discovers Bitcoin and wants to try it out quickly learns that they will need to sign up with an exchange and fund their account with a credit card or wire transfer. What would Facebook’s adoption rate have been like if you had to fork over money and a two forms of ID?
+Tidak mudah masuk ke dalam cryptocurrency[^21]. Seseorang yang menemukan Bitcoin dan ingin mencobanya dengan cepat mengetahui bahwa mereka perlu mendaftar dengan pertukaran dan mendanai akun mereka dengan kartu kredit atau wire transfer. Apa tingkat adopsi Facebook seperti jika Anda harus membayar lebih banyak uang dan dua bentuk ID?
 
-Steem solves this problem by giving everyone a way to get paid for doing simple, but valuable, tasks. This will help to widely distribute STEEM tokens. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless.)
+Steem memecahkan masalah ini dengan memberi setiap orang cara untuk mendapatkan bayaran karena melakukan tugas sederhana namun berharga. Ini akan membantu menyebarkan token STEEM secara luas. Ini sangat membantu karena efek kriptokokus memiliki efek jaringan (yaitu lebih banyak pengguna membuatnya lebih berguna; untuk contoh ekstrem, pertimbangkan bahwa jika Satoshi menyimpan 100% Bitcoin untuk dirinya sendiri, Bitcoin tidak berharga.)
 
-## Solving the Cryptocurrency Liquidation Problem
+## Memecahkan Masalah Likuidasi Cryptocurrency
 
-A currency that is difficult to use or impossible to sell has little value. Someone who comes across $1.00 worth of Bitcoin will discover that it costs more than $1.00 to sell that Bitcoin. They have to create an account with an exchange, perform KYC validation, and pay fees. Small amounts of cryptocurrency are like small change that people are unwilling to bend over to pick up.
+Mata uang yang sulit digunakan atau tidak mungkin dijual memiliki nilai yang kecil. Seseorang yang menemukan Bitcoin senilai $ 1,00 akan menemukan bahwa harganya lebih dari $ 1,00 untuk menjual Bitcoin itu. Mereka harus membuat akun dengan pertukaran, melakukan validasi KYC, dan membayar biaya. Kriptokokus kecil seperti perubahan kecil yang orang tidak mau membungkuk untuk menjemput.
 
-Merchants give users a way to quickly convert their cryptocurrency into tangible goods and services. Merchants need a currency pegged to their unit of account, normally dollars. Accepting a volatile currency introduces significant accounting overhead.
+Pedagang memberi pengguna cara untuk dengan cepat mengubah kriptografi mereka menjadi barang dan layanan yang nyata. Pedagang membutuhkan mata uang yang dipatok pada unit akun mereka, biasanya dolar. Menerima mata uang volatile memperkenalkan overhead akuntansi yang signifikan.
 
-Merchants will accept any currency if it increases their sales. Having a large user base with a stable currency such as SBD lowers the barrier to entry for merchants. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
+Pedagang akan menerima mata uang jika meningkatkan penjualan mereka. Memiliki basis pengguna yang besar dengan mata uang yang stabil seperti SBD menurunkan penghalang untuk masuk bagi pedagang. Kehadiran pedagang meningkatkan sistem dengan menciptakan jalan keluar bagi pengguna untuk keluar dari sistem tanpa kesulitan menggunakan pertukaran.
 
-Another way that people can liquidate the small amounts of cryptocurrency they receive from participating on the Steem platform is through *tipping* others. This is like leaving the small change as a tip for your waiter. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
+Cara lain agar orang dapat melikuidasi sejumlah kecil kripto yang mereka terima dari berpartisipasi dalam platform Steem adalah melalui *tip* lain. Ini seperti meninggalkan sedikit perubahan sebagai tip untuk pelayan Anda. Ketika cukup banyak orang meninggalkan tip kecil, jumlahnya bertambah sampai jumlah yang berarti. Anda dan pelayan masing-masing mendapatkan keuntungan dari ujungnya.
 
-## Censorship
+## Sensor
 
-Steem is a decentralized network that is operated by witnesses in jurisdictions around the world. All user actions are publicly recorded on the blockchain, and can be publicly verified. This means that there is no single entity that can censor content that is valued by STEEM holders.
+Steem adalah jaringan desentralisasi yang dioperasikan oleh saksi di yurisdiksi di seluruh dunia. Semua tindakan pengguna dicatat secara publik di blokir, dan dapat diverifikasi oleh publik. Artinya tidak ada satu kesatuan pun yang bisa menyensor konten yang dinilai oleh pemegang STEEM.
 
-Individual websites such as steemit.com may censor content on their particular site, but content published on the blockchain is inherently broadcast traffic and mirrors all around the world may continue to make it available.
+Situs perorangan seperti steemit.com dapat menyensor konten di situs mereka, namun konten yang dipublikasikan di blokir tersebut secara inheren menyiarkan lalu lintas dan cermin di seluruh dunia dapat terus membuatnya tersedia.
 
-Freedom of speech is the foundation of all other liberties and any infringement upon freedom of speech undermines the only peaceful means of reaching consensus: discussion. Without free discussion voters cannot be fully informed, and uninformed voters are a greater threat to society than losing the right to vote. Censorship is a means of stealing votes through limiting public discourse. Steem is committed to enabling free speech and building a free society.
+Kebebasan berbicara adalah dasar dari semua kebebasan lainnya dan setiap pelanggaran terhadap kebebasan berbicara merusak satu-satunya cara damai untuk mencapai konsensus: diskusi. Tanpa pemilih diskusi bebas tidak dapat diinformasikan sepenuhnya, dan pemilih yang tidak mengetahui adalah ancaman yang lebih besar bagi masyarakat daripada kehilangan hak untuk memilih. Penyensoran adalah sarana untuk mencuri suara melalui pembatasan wacana publik. Steem berkomitmen untuk memungkinkan kebebasan berbicara dan membangun masyarakat bebas.
 
-## Solving Organic Discovery via Search Engine Optimization
+## Memecahkan Discovery Organik melalui Search Engine Optimization
 
 Most cryptocurrencies generate little value for those who are not actively using the network. Steem, by contrast, generates content and encourages users to share it. This content gets indexed by search engines and ultimately will bring value to a large number of passive users. This search traffic creates organic advertising for the Steem network and grows the network effect.
 
