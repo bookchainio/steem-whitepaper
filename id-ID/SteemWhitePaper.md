@@ -405,8 +405,8 @@ Kontribusi Hadiah:
 - Hadiah kurasi: 1 STEEM per blok atau 3,875% per tahun, mana saja yang lebih besar
 - Hadiah Penciptaan Konten: 1 STEEM per blok atau 3,875% per tahun, mana saja yang lebih besar
 - Blokir imbalan produksi: 1 STEEM per blok atau 0,750% per tahun, mana saja yang lebih besar
-- POW inclusion rewards before block 864,000: 1 STEEM per block (awarded as 21 STEEM per round)
-- POW inclusion rewards after block 864,000: 0.0476 STEEM per block (awarded as 1 STEEM per round) or 0.750% per year, whichever is greater.
+- Penghargaan penyertaan POW sebelum blok 864.000: 1 STEEM per blok (diberikan 21 STEEM per putaran)
+- Imbalan POW diberikan setelah blok 864.000: 0,0476 STEEM per blok (diberikan 1 STEEM per putaran) atau 0,750% per tahun, mana saja yang lebih besar.
 - Liquidity rewards: 1 STEEM per block (awarded as 1200 STEEM per hour) or 0.750% per year, whichever is greater
 
 ### Power Rewards:
