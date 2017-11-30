@@ -407,33 +407,33 @@ Kontribusi Hadiah:
 - Blokir imbalan produksi: 1 STEEM per blok atau 0,750% per tahun, mana saja yang lebih besar
 - Penghargaan penyertaan POW sebelum blok 864.000: 1 STEEM per blok (diberikan 21 STEEM per putaran)
 - Imbalan POW diberikan setelah blok 864.000: 0,0476 STEEM per blok (diberikan 1 STEEM per putaran) atau 0,750% per tahun, mana saja yang lebih besar.
-- Liquidity rewards: 1 STEEM per block (awarded as 1200 STEEM per hour) or 0.750% per year, whichever is greater
+- Imbalan Likuiditas: 1 STEEM per blok (diberikan 1200 STEEM per jam) atau 0,750% per tahun, mana saja yang lebih besar
 
-### Power Rewards:
+### Hadiah Power:
 
-- Steem Power rewards: For each STEEM created by the above rewards, 9 STEEM are divided among all Steem Power holders.
+- Steem Power rewards: Untuk setiap STEEM yang dibuat dengan penghargaan di atas, 9 STEEM dibagi di antara semua pemegang Steem Power.
 
-### SBD operations:
+### Operasi SBD:
 
-- SBD rewards: A percentage of SBD value is created at an APR set by the witnesses and paid to SBD holders as SBD
+- Imbalan SBD: Persentase nilai SBD dibuat pada APR yang ditetapkan oleh saksi dan dibayarkan kepada pemegang SBD sebagai SBD
 
-The overall supply picture is complicated by the effect of SBD operations, which may result in large-scale creation or destruction of STEEM through feed rate following and SBD rewards, as discussed in the SBD section. Other, smaller-scale complicating effects also exist, including unclaimed incentives (e.g. block rewards for missed blocks), and abandoned accounts.
+Gambaran pasokan keseluruhan dipersulit oleh efek operasi SBD, yang dapat menyebabkan penciptaan skala besar atau penghancuran STEEM melalui tingkat umpan dan imbalan SBD, seperti yang dibahas di bagian SBD. Efek rumit lainnya, berskala lebih kecil juga ada, termasuk insentif yang tidak diklaim (mis., Block rewards for missed blocks), dan akun terbengkalai.
 
-## Current Allocation & Supply
+## Alokasi & Pasokan Saat Ini
 
-Starting with the network's 16th hard fork in December 2016, Steem began creating new tokens at a yearly inflation rate of 9.5%. The inflation rate decreases at a rate of 0.01% every 250,000 blocks, or about 0.5% per year. The inflation will continue decreasing at this pace until the overall inflation rate reaches 0.95%. This will take about 20.5 years from the time hard fork 16 went into effect.
+Dimulai dengan jaringan kerja keras ke 16 pada bulan Desember 2016, Steem mulai menciptakan token baru dengan tingkat inflasi tahunan sebesar 9,5%. Tingkat inflasi menurun pada tingkat 0,01% setiap 250.000 blok atau sekitar 0,5% per tahun. Inflasi akan terus menurun pada laju ini sampai keseluruhan tingkat inflasi mencapai 0,95%. Ini akan memakan waktu sekitar 20,5 tahun sejak garpu keras 16 mulai berlaku.
 
-75% of the new tokens that are generated go to fund the reward pool, which is split between authors and curators. 15% of the new tokens are awarded to holders of SP. The remaining 10% pays for the witnesses to power the blockchain.
+75% dari token baru yang dihasilkan pergi untuk mendanai kolam hadiah, yang dibagi antara penulis dan kurator. 15% token baru diberikan kepada pemegang SP. Sisanya 10% membayar saksi untuk menyalakan blockchain.
 
-### Impact of Token Creation Rate
+### Dampak Tingkat Penciptaan Token
 
-It is often said that a coin with an inflationary model is not sustainable, but we know from countless real-world examples that the quantity of money does not have a direct and immediate impact on its value, though it certainly plays a role.
+Sering dikatakan bahwa koin dengan model inflasi tidak berkelanjutan, tapi kita tahu dari banyak contoh dunia nyata bahwa kuantitas uang tidak memiliki dampak langsung dan langsung terhadap nilainya, meskipun tentu saja memainkan peran.
 
-From August 2008 through January 2009 the U.S. money supply[^15] grew from $871B to $1,737B, a rate of over 100% per year and then continued to grow at about 20% per year for the next 6 years. All told the money supply in the U.S. has grown by 4.59x over less than 7 years. During that same time, the value of the dollar relative to goods and services has fallen less than 10% according to the government's price index[^16]. This real-world example demonstrates that supply is only one component of price.
+Dari bulan Agustus 2008 sampai Januari 2009 pasokan uang [^15] disajikan dari $ 871B menjadi $ 1.737B, tingkat di atas 100% per tahun dan kemudian terus tumbuh sekitar 20% per tahun selama 6 tahun ke depan. Semua mengatakan bahwa jumlah uang beredar di A.S. telah tumbuh sebesar 4,59x lebih dari 7 tahun. Pada saat bersamaan, nilai dolar relatif terhadap barang dan jasa turun kurang dari 10% menurut indeks harga pemerintah[^16]. Contoh dunia nyata ini menunjukkan bahwa pasokan hanyalah satu komponen harga.
 
-For the first 2 years of Bitcoin’s life the network sustained an annual inflation rate[^17] of over 100%. For the first 5 years it was over 30%, and for the first 8 years it was over 10%. All told the total “spending” Steem does to fund content, curation, and block production amounts to less than 10% APR.
+Untuk 2 tahun pertama kehidupan Bitcoin, jaringan tersebut mempertahankan tingkat inflasi tahunan[^17] lebih dari 100%. Untuk 5 tahun pertama sudah di atas 30%, dan untuk 8 tahun pertama sudah di atas 10%. Semua mengatakan total "pengeluaran" yang Steem lakukan untuk mendanai konten, kurasi, dan produksi blok mencapai kurang dari 10% APR.
 
-The price of a digital commodity, like STEEM, is driven by both supply and demand. When a long-term holder decides to exit, the supply of STEEM on the market will increase and push the price down. This downward pressure is countered when a new long-term holder decides to buy up the STEEM and convert it back into SP. Additional supply and demand may be be added due to market speculators buying and selling liquid STEEM based on their predictions of the future market price.
+Harga komoditas digital, seperti STEEM, didorong oleh penawaran dan permintaan. Ketika pemegang jangka panjang memutuskan untuk keluar, pasokan STEEM di pasaran akan meningkat dan menekan harga turun. Tekanan ke bawah ini akan diimbangi ketika pemegang jangka panjang baru memutuskan untuk membeli STEEM dan mengubahnya kembali menjadi SP. Pasokan dan permintaan tambahan dapat ditambahkan karena spekulan pasar membeli dan menjual STEEM cair berdasarkan prediksi harga pasar masa depan.
 
 # The Power of Steem
 
