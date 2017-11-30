@@ -455,19 +455,19 @@ Energi mental yang terkait dengan pengambilan keputusan ekonomi menjadi penghala
 
 *Kita sudah menghadapi banyak pilihan sehari-hari berkaitan dengan apa yang dapat diakses secara online di era digital ledakan informasi ini, dan setiap keputusan tambahan yang harus kita tambahkan hanya menambah ketidakpastian dan kecemasan yang kita hadapi. Suporter mikropayment percaya bahwa implementasi yang disederhanakan dapat meminimalkan intrusivitas micropayments dan meningkatkan pengalaman pengguna, namun argumen mereka hanya menciptakan standar ganda untuk proses pengambilan keputusan \ [2 \]. Transaksi tidak dapat sekaligus bernilai cukup untuk menjamin keputusan dan nilainya sangat kecil sehingga keputusannya otomatis. **Satu-satunya transaksi yang dapat disetujui oleh pengguna tanpa dipikirkan adalah yang tidak memerlukan biaya apa pun**, sehingga transaksi mikro bernilai positif akan membawa biaya mental melalui keputusannya. Selanjutnya, biaya transaksi mental benar-benar meningkat di bawah nilai ambang batas tertentu, sebuah fenomena yang menempatkan micropayments pada kerugian yang lebih besar lagi. Misalnya, mudah untuk berpikir bahwa salinan koran hari ini berharga $ 1, namun pembaca menghadapi lebih banyak kesulitan dan kecemasan dalam menentukan nilai setiap artikel atau kata. Dilema semacam itu hanya akan direplikasi dan diperburuk jika semua konten online dipecah menjadi komponen mereka dan dihargai secara individual dalam sistem micropayment.*
 
--Micropayments: A Viable Business Model[^20]
+-Micropayments: Model Bisnis yang Layak[^20]
 
-Under Steem, micropayments are paid to content producer, but those who vote for the content do not pay. Instead, the cost of the reward is paid for via new tokens. Someone can join the system, vote to pay someone, and then exit the system with more money than they started with (assuming the market valuation of the Steem system remained constant). In other words, the micropayment solution provided by Steem provides a user-experience similar to many widely used websites that have user-moderated content.
+Di bawah Steem, micropayments dibayarkan ke produsen konten, namun mereka yang memilih konten tidak membayar. Sebagai gantinya, biaya imbalan dibayarkan melalui token baru. Seseorang dapat bergabung dengan sistem ini, memilih untuk membayar seseorang, dan kemudian keluar dari sistem dengan lebih banyak uang daripada yang mereka mulai dengan (dengan asumsi valuasi pasar sistem Steem tetap konstan). Dengan kata lain, solusi micropayment yang disediakan oleh Steem memberikan pengalaman pengguna yang mirip dengan banyak situs web yang banyak digunakan yang memiliki konten yang dimoderasi oleh pengguna.
 
-Furthemore, Steem pays people to figure out who should be paid! This kind of thinking is revolutionary.
+Lebih jauh lagi, Steem membayar orang untuk mencari tahu siapa yang harus dibayar! Pemikiran seperti ini revolusioner.
 
-## Value is in the Links
+## Nilai ada di Links
 
-The Internet would lose the vast majority of its value if all links among content were removed. It is the relationship among web pages that allows Google to identify the best apple pie recipe among the 16 million results. Without the links the only information Google would have is word frequency.
+Internet akan kehilangan sebagian besar nilainya jika semua tautan di antara konten dihapus. Ini adalah hubungan antara halaman web yang memungkinkan Google untuk mengidentifikasi resep pai apel terbaik di antara 16 juta hasil. Tanpa link, satu-satunya informasi yang Google miliki adalah frekuensi kata.
 
-Links can take many forms and have adapted over time. Every time a user votes on content in a social network they add a connection between themselves and the content. This in turn links the consumer to the producer through the content. The more connections a network has the more valuable the information becomes. It is the relative and intentional connectedness of information that gives it value.
+Link dapat mengambil banyak bentuk dan telah disesuaikan dari waktu ke waktu. Setiap kali pengguna memilih konten di jejaring sosial, mereka menambahkan koneksi antara mereka dan kontennya. Hal ini pada gilirannya menghubungkan konsumen ke produsen melalui konten. Semakin banyak koneksi, sebuah jaringan memiliki informasi yang lebih berharga. Kesesuaian informasi relatif dan disengaja yang memberi nilai.
 
-A social network can maximize the value extracted from a set of content by maximizing the quantity and quality of connections. Curating content is expensive and time consuming while being near impossible for computers to perform in the absence of links. Steem rewards users who are among the first to find and identify new content.
+Jaringan sosial dapat memaksimalkan nilai yang diekstraksi dari sekumpulan konten dengan memaksimalkan kuantitas dan kualitas koneksi. Konten kurasi mahal dan memakan waktu sementara hampir tidak mungkin komputer tampil dengan tidak adanya tautan. Steem memberi penghargaan kepada pengguna yang termasuk orang pertama yang menemukan dan mengidentifikasi konten baru.
 
 By incentivising curation the Steem network is able to use automated algorithms to extract the most valuable information from a massive amount of content.
 
