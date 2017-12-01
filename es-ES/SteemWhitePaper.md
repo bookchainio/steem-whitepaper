@@ -382,7 +382,7 @@ La red Steem está construpida sobre *Graphene*, la misma tecnología que empode
 
 Steem puede manejar una base de usuarios mas grande que Reddit. En 2015 los 8,7 millones de usuarios de Reddit generaron un promedio de 23 comentarios por segundo[^12], con un promedio de 83 comentarios anuales por usuario. Hubieron 73 millones de posts de primer nivel, para un promedio de 2 nuevos posts por segundo. 7 mil millones de votos positivos creando un promedio de velocidad de 220 votos por segundo. Dicho todo ésto, si Reddit estuviese operando en un blockchain requerirpia un promedio de 250 transacciones por segundo.
 
-To achieve this industry-leading performance, Steem has borrowed lessons learned from the LMAX Exchange[^13], which is able to process 6 million transactions per second. Entre estas lecciones se encuentras los sigueintes puntos clave:
+Para lograr este rendimiento de líder de la industria, Steem ha juntado lecciones aprendidas del *LMAX Exchange*[^13], que puede procesar 6 millones de transacciones por segundo. Entre estas lecciones se encuentras los sigueintes puntos clave:
 
 1. Mantener todo en memoria.
 2. Mantener el núcleo de la logica de negocio en un sólo hilo.
@@ -392,13 +392,13 @@ To achieve this industry-leading performance, Steem has borrowed lessons learned
 
 Al seguir estas simples reglas, Steem puede procesar 10.000 transacciones por segundo sin un esfuerzos significativos en términos de optimización.
 
-Keeping everything in memory is increasingly viable given the recent introduction of Optane™ technology from Intel[^14]. Debería ser posible para el hardware manejar toda la lógica del negocio asociada con Steem en un sólo hilo con todos los posts mantenidos en memoria para una indexación rápida. Incluso Google mantiene su índice completo de internet en RAM. El uso de la tecnología blockchain hace trivial replicar la base de datos en varias máquinas para prevenir la pérdida de datos. As Optane™ technology takes over, RAM will become even faster while gaining persistence. En otras palabras, Steem está diseñado para la arquitectura del futuro y diseñado para escalar.
+Mantener todo en memoria es cada vez mas viable dada la reciente introducción de la tecnología *Optane™* de *Intel* [^14]. Debería ser posible para el hardware manejar toda la lógica del negocio asociada con Steem en un sólo hilo con todos los posts mantenidos en memoria para una indexación rápida. Incluso Google mantiene su índice completo de internet en RAM. El uso de la tecnología blockchain hace trivial replicar la base de datos en varias máquinas para prevenir la pérdida de datos. A medida que la tecnología *Optane™* avance, el RAM se volverá aún mas veloz mientras se gana persistencia. En otras palabras, Steem está diseñado para la arquitectura del futuro y diseñado para escalar.
 
 # Asignación y suministro
 
-## Initial Allocation & Supply
+## Suministro y asignación inicial
 
-The Steem network started with a currency supply of 0 and allocated STEEM via proof of work at a rate of approximately 40 STEEM per minute to miners, with an additional 40 STEEM per minute being created to seed the content and curation reward pools (for a total of 80 STEEM per minute). Then the network started rewarding users who converted to SP. At this point, STEEM grew at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
+La red Steem comienzó con una provición de moneda de 0 y colocó STEEM a través de la prueba de trabajo (*Proof of work*) a una velocidad de aproximadamente 40 STEEM por minuto a los mineros, con un adicional de 40 STEEM por minuto siendo creados para financiar el contenido y fondos para premios de curado (totalizando 80 STEEM por minuto). Entonces la red empezó a premiar a los usuarios que convertían a SP. En este punto, STEEM creció a una velocidad de aproximadamente 800 STEEM por minuto debido a los efectos combinados de los distintos Premios de Contribución sumarizados abajo:
 
 Premios por contribución:
 
@@ -419,11 +419,11 @@ Premios por contribución:
 
 La imagen general del suministro es complicada por el efecto de las operaciones de SBD, las que pueden resultar en creación o destrucción a larga escala de STEEM a través del seguimiento de tasa de alimentación y premios SBD, como se explica en la sección SBD. Other, smaller-scale complicating effects also exist, including unclaimed incentives (e.g. block rewards for missed blocks), and abandoned accounts.
 
-## Current Allocation & Supply
+## Suministro y asignación actual
 
 Starting with the network's 16th hard fork in December 2016, Steem began creating new tokens at a yearly inflation rate of 9.5%. The inflation rate decreases at a rate of 0.01% every 250,000 blocks, or about 0.5% per year. The inflation will continue decreasing at this pace until the overall inflation rate reaches 0.95%. This will take about 20.5 years from the time hard fork 16 went into effect.
 
-75% of the new tokens that are generated go to fund the reward pool, which is split between authors and curators. 15% de los *tokens* nuevos son dados como premio a los poseedores de SP. The remaining 10% pays for the witnesses to power the blockchain.
+75% de los nuevos tokens que se generan van al *pool* de recompensas, que se reparte entre los autores y curadores. 15% de los *tokens* nuevos son dados como premio a los poseedores de SP. The remaining 10% pays for the witnesses to power the blockchain.
 
 ### Impacto de Tasa de creación de tokens
 
