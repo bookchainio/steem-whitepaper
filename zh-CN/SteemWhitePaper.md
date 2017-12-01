@@ -34,9 +34,9 @@ Steem 社区向其成员提供以下服务：
 4. 免费支付。
 5. 提供服务他人的工作机会。
 
-Steem’s purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem’s incentives may result in better outcomes for most participants.
+相较于之前的社交媒体与虚拟币平台，Steem通过对激励人们做事的经济诱因进行有目的地的调整使其具备了为其社区中的每一个人生成更公平也更具包容性结果的潜质。 本文将探讨现有的经济诱因，并说明Steem的激励政策将如何为其大多数的参与者带来更好的结果。
 
-## Recognizing Contribution
+## 认证贡献
 
 Steem is designed from the ground up to address the major barriers to adoption and monetization of a social media based economy. Our thesis is that the same techniques used to grow major social media platforms can be used to bootstrap a successful cryptocurrency. Economic incentives enabled by cryptocurrency can dramatically facilitate the growth of a new social media platform. It is the synergy between cryptocurrency and social media that we believe may give Steem a powerful advantage in the market.
 
