@@ -24,14 +24,14 @@ Steem是一个通过提供加密货币奖励支持社区建设和社会互动的
 
 其次，第二条原则是：所有形式的资产都应具有同等价值。 这意味着那些贡献了宝贵的时间与与精力以给他人生产和策划内容服务的人应该与那些贡献宝贵金钱的人具有同样的价值。 这就是人力资产原则[^2]同时也是之前的虚拟货币所同样拥有，但经常对一定数量以上的个体使用时就会存在问题的概念。
 
-第三条原则是社区所生产出的成果应为其成员服务。 This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
+第三条原则是社区所生产出的成果应为其成员服务。 这条原则的范例是像信用合作社，食品合作社和健康分享计划这一类仅为社区成员提供服务而不是将产品与服务出售给其社区以外的人的社区与团体。
 
-The Steem community provides the following services to its members:
+Steem 社区向其成员提供以下服务：
 
-1. A source of curated news and commentary.
-2. A means to get high quality answers to personalized questions.
-3. A stable cryptocurrency pegged to the U.S. dollar.
-4. Free payments.
+1. 一个优质新闻和时事评论的来源。
+2. 一个能使个性问题得到更高质量解答的方法。
+3. 一个与美元挂钩的稳定虚拟货币。
+4. 免费支付。
 5. Jobs providing above services to other members.
 
 Steem’s purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem’s incentives may result in better outcomes for most participants.
