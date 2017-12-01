@@ -32,7 +32,7 @@ Steem 社区向其成员提供以下服务：
 2. 一个能使个性问题得到更高质量解答的方法。
 3. 一个与美元挂钩的稳定虚拟货币。
 4. 免费支付。
-5. Jobs providing above services to other members.
+5. 提供服务他人的工作机会。
 
 Steem’s purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem’s incentives may result in better outcomes for most participants.
 
