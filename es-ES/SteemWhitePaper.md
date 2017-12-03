@@ -417,11 +417,11 @@ Premios por contribución:
 
 - Premios SBD: Un porcentaje del valor del SBD es creado en un set APR por los testigos y abonado en forma de SBD a los poseedores de SBD
 
-La imagen general del suministro es complicada por el efecto de las operaciones de SBD, las que pueden resultar en creación o destrucción a larga escala de STEEM a través del seguimiento de tasa de alimentación y premios SBD, como se explica en la sección SBD. Other, smaller-scale complicating effects also exist, including unclaimed incentives (e.g. block rewards for missed blocks), and abandoned accounts.
+La imagen general del suministro es complicada por el efecto de las operaciones de SBD, las que pueden resultar en creación o destrucción a larga escala de STEEM a través del seguimiento de tasa de alimentación y premios SBD, como se explica en la sección SBD. Otros, efectos dañinos de menor escala también existen, incluyendo incentivos no reclamados (e.g. recompensas de bloque para bloques perdidos) y cuentas abandonadas.
 
 ## Suministro y asignación actual
 
-Starting with the network's 16th hard fork in December 2016, Steem began creating new tokens at a yearly inflation rate of 9.5%. The inflation rate decreases at a rate of 0.01% every 250,000 blocks, or about 0.5% per year. The inflation will continue decreasing at this pace until the overall inflation rate reaches 0.95%. This will take about 20.5 years from the time hard fork 16 went into effect.
+A partir del *fork* de red número 16, en diciembre de 2016, Steem comenzó a crear tokens nuevos a un ritmo anual de inflación de 9.5%. La tasa de inflación disminuye a una tasa de 0,01% cada 250.000 bloques, o cerca de 0.5% por año. La inflación seguirá disminuyendo a ese ritmo hasta que la tasa de inflación general llegue a 0,95%. This will take about 20.5 years from the time hard fork 16 went into effect.
 
 75% de los nuevos tokens que se generan van al *pool* de recompensas, que se reparte entre los autores y curadores. 15% de los *tokens* nuevos son dados como premio a los poseedores de SP. El 10% restante se paga a los testigos que mantienen el blockchain.
 
@@ -465,9 +465,9 @@ Además, ¡Steem le paga a la gente para determinar a quién se debería pagar!.
 
 Internet perdería la basta mayoría de su valor si todos los enlaces entre contenidos fuesen removidos. Es esta relación entre páginas web que permite a Google identificar la mejor receta de tarta de manzanas entre 16 millones de resultados. Sin estos enlaces la única información que Google tendría es la frecuencia de palabras.
 
-Los enlaces pueden tomar varias formas y adaptarse en el tiempo. Every time a user votes on content in a social network they add a connection between themselves and the content. Esto en cambio enlaza al consumidor con el productor a través del contenido. The more connections a network has the more valuable the information becomes. Es la conexión intencional y relativa de la información que le da valor.
+Los enlaces pueden tomar varias formas y adaptarse en el tiempo. Cada vez que un usuario vota el contenido en una red social ellos agregan una conexión entre el contenido y ellos mismos. Esto en cambio enlaza al consumidor con el productor a través del contenido. Mientras mas conexiones tenga una red, más valiosa se vuelve la información. Es la conexión intencional y relativa de la información que le da valor.
 
-A social network can maximize the value extracted from a set of content by maximizing the quantity and quality of connections. Curar contenido es caro y consume tiempo mientras es casi imposible para las computadoras realizar ésto ante la ausencia de enlaces. Steem rewards users who are among the first to find and identify new content.
+Una red social puede maximizar el valor extraído de un grupo de contenidos al maximizar la calidad y cantidad de las conexiones. Curar contenido es caro y consume tiempo mientras es casi imposible para las computadoras realizar ésto ante la ausencia de enlaces. Steem premia a los usuarios que están entre los primeros en encontrar e identificar nuevo contenido.
 
 Al incentivar el curado, la red Steem puede usar algoritmos automatizados para extraer la información mas valiosa de un monto masivo de contenido.
 
