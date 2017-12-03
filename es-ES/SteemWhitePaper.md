@@ -80,7 +80,7 @@ Hay un valor significativo en tener compromiso a largo plazo porque habilita a l
 
 En el espacio de las criptomonedas, los especuladores saltan de criptomoneda en criptomoneda basados mayormente en las expectativas de crecimiento a corto plazo. Steem busca armar una comunidad que sea propiedad y controlada enteramente por aquellos con perspectivas a largo plazo.
 
-Users are able to commit their STEEM to a thirteen week vesting schedule, providing them with additional benefits within the platform. STEEM that has been committed to a thirteen week vesting schedule is called Steem Power (SP). El balance de SP es intransferible y no-divisible excepto a través de las solicitudes de conversión automáticamente recurrentes. Esto significa que SP no puede negociarse fácilmente en bolsas de criptomonedas.
+Los usuarios pueden comprometer su STEEM con un calendario de adjudicación de trece semanas, brindándoles beneficios adicionales dentro de la plataforma. El STEEM que ha comprometido con una adjudicación de trece semanas se llama Steem Power (SP). El balance de SP es intransferible y no-divisible excepto a través de las solicitudes de conversión automáticamente recurrentes. Esto significa que SP no puede negociarse fácilmente en bolsas de criptomonedas.
 
 Cuando los usuarios votan el contenido, su influencia sobre la distribución de *pool* de premios es directamente proporcional a la cantidad de SP que tienen. Los usuarios con más SP tienen más influencia en la distribución de recompensas. Esto significa que SP es un token de acceso que otorga a sus poseedores poderes exclusivos dentro de la plataforma de Steem.
 
@@ -186,7 +186,7 @@ El próximo paso es premiar con algo a cada uno que haga *algo* aunque sea remot
 
 Asumiendo que hay un monto fijo de dinero para distribuir, y que aquéllos que tienen intereses creados a largo plazo en el valor a futuro y utilidad de la moneda son quienes deben decidir como distribuirlo. Todos los usuarios con inversión emiten sus votos a quien haya hecho el mejor trabajo y al final del dia el dinero disponible para ese día es dividido proporcionalmente a los votos de manera que todos los que tengan al menos un voto positivo neto, obtiene algo.
 
-The naive voting process creates a N-Person Prisoner’s Dilemma[^5] whereby each individual voter has incentive to vote for themselves at the expense of the larger community goal. Si cada votante se votara a si mismo entonces no habría dinero distribuído y la moneda entera fallaría en ganar efecto de red. Por otro lado, si sólo un votate se autovota, entonces él obtendría ganancias no merecidas mientras el efecto en el valor total de la moneda sería mínimo.
+El proceso de votación ingenuo crea un "N-Person Prisoner’s Dilemma"[^5] por el cual cada votante individual tiene un incentivo para votar por sí mismo a expensas del objetivo más amplio de la comunidad. Si cada votante se votara a si mismo entonces no habría dinero distribuído y la moneda entera fallaría en ganar efecto de red. Por otro lado, si sólo un votate se autovota, entonces él obtendría ganancias no merecidas mientras el efecto en el valor total de la moneda sería mínimo.
 
 #### Abuso del voto
 
