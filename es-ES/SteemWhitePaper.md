@@ -421,7 +421,7 @@ La imagen general del suministro es complicada por el efecto de las operaciones 
 
 ## Suministro y asignación actual
 
-A partir del *fork* de red número 16, en diciembre de 2016, Steem comenzó a crear tokens nuevos a un ritmo anual de inflación de 9.5%. La tasa de inflación disminuye a una tasa de 0,01% cada 250.000 bloques, o cerca de 0.5% por año. La inflación seguirá disminuyendo a ese ritmo hasta que la tasa de inflación general llegue a 0,95%. This will take about 20.5 years from the time hard fork 16 went into effect.
+A partir del *hard fork* de red número 16, en diciembre de 2016, Steem comenzó a crear tokens nuevos a un ritmo anual de inflación de 9.5%. La tasa de inflación disminuye a una tasa de 0,01% cada 250.000 bloques, o cerca de 0.5% por año. La inflación seguirá disminuyendo a ese ritmo hasta que la tasa de inflación general llegue a 0,95%. Esto le llevará alrededor de 20,5 años desde el momento en que entró en vigor el *hard fork* 16.
 
 75% de los nuevos tokens que se generan van al *pool* de recompensas, que se reparte entre los autores y curadores. 15% de los *tokens* nuevos son dados como premio a los poseedores de SP. El 10% restante se paga a los testigos que mantienen el blockchain.
 
@@ -431,7 +431,7 @@ A menudo se dice que una moneda con un modelo inflacionario no es sostenible, pe
 
 Desde agosto de 2008 hacia enero de 2009 el suministro de dinero Estadounidense creció desde $871.000 Millones[^15] a $1.737.000 Millones, a un ritmo de mas del 100% anual y luego continuó creciendo aproximadamente a un 20% anual por los siguientes 6 años. Dicho ésto, el suministro de dinero en EEUU ha crecido 4,59x durante menos de 7 años. En el mismo tiempo, el valor del dólar relativo a los bienes y servicios ha caído menos del 10% de acuerdo a los índices de precios del gobierno[^16]. Este ejemplo del mundo real demuestra que el suministro es sólo un componente del precio.
 
-Durante los primeros 2 años de vida de la red de Bitcoin, se sostuvo una tasa de inflación anual[^17] sobre el 100%. Durante los primeros 5 años estaba sobre el 30%, y por los primeros 8 años se encontraba sobre el 10%. All told the total “spending” Steem does to fund content, curation, and block production amounts to less than 10% APR.
+Durante los primeros 2 años de vida de la red de Bitcoin, se sostuvo una tasa de inflación anual[^17] sobre el 100%. Durante los primeros 5 años estaba sobre el 30%, y por los primeros 8 años se encontraba sobre el 10%. Dicho esto, el total de "gasto" de Steem no financia contenido, curación y cantidad de producción de bloques a menos de 10% de APR.
 
 El precio de un *commodity* digital, como STEEM, es conducido tanto por el suministro y la demanda. Cuando un poseedor a largo plazo decida salir, el suministro de STEEM en el mercado se incrementará y empujará el precio hacia abajo. Esta presión es contrarresetada cuando un nuevo poseedor a largo plazo decide comprar STEEM y convertilo de nuevo a SP. Oferta y la demanda adicional puede ser agregada debido a los especuladores del mercado de compra y venta de STEEM líquido basado en sus predicciones del futuro precio de mercado.
 
