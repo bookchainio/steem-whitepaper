@@ -212,7 +212,7 @@ Bir topluluk para birimi kurmanın amacı, "kovada yengeç almak" 'dan daha fazl
 
 ### Oranı Sınırlı Oylama
 
-Kötüye kullanımı en aza indirmenin önemli bir kısmı oyların oran sınırlamalarıdır. Individual users can only read and evaluate so many work items per day. Any attempt to vote more frequently than this is a sign of automation and potential abuse. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
+Kötüye kullanımı en aza indirmenin önemli bir kısmı oyların oran sınırlamalarıdır. Bireysel kullanıcılar günlük yalnızca pek çok iş parçasını okuyabilir ve değerlendirebilirler. Any attempt to vote more frequently than this is a sign of automation and potential abuse. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
 
 Users are allotted a fixed amount of voting power. Voting power is multiplied by a user’s vesting tokens to determine how much share in the reward pool should be allocated to a given work item. Every vote that is cast uses a percentage of remaining voting power. Users can vote for more posts, but each vote will be worth less, and it will take longer to reach full voting power again. Voting power recharges at a fixed linear rate of 20% per day.
 
