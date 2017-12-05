@@ -206,9 +206,9 @@ Bir adam sahil boyunca yürüyordu ve yanındaki bir yem kovalı sörfte başka 
 
 Yani insanlarla birlikte. Farklı bir şey yapmaya, daha iyi dereceler elde etmeye, kendisini geliştirmeye, çevreden çıkmaya veya hayaller kurmaya çalışmaya kalkarsanız, diğer insanlar kaderlerini paylaşmak için geri çekmeye çalışacaktır.
 
-"Kötüye kullanma" nın ortadan kaldırılması mümkün değil ve bir amaç olmamalıdır. Sistemi "kötüye kullanmaya" çalışan kişiler bile hala iş yapıyor. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn’t so rampant that it undermines the incentive to do real work in support of the community and its currency.
+"Kötüye kullanma" nın ortadan kaldırılması mümkün değil ve bir amaç olmamalıdır. Sistemi "kötüye kullanmaya" çalışan kişiler bile hala iş yapıyor. Kötüye kullanım ya da gizli anlaşma için başarılı girişimlerinden ötürü aldıkları tazminat, para birimini, geleneksel Bitcoin madenciliği ya da madencilik havuzları yoluyla yapılan gizli yakma madenciliği tarafından kullanılan işlerlik sistemi olarak dağıtmak açısından en azından değerlidir. Gerekli olan tek şey, kötüye kullanımın yaygın olmamasını, topluluk ve para birimini desteklemek için gerçek bir iş yapmak için teşviki zayıflatmamasını sağlamaktır.
 
-The goal of building a community currency is to get more “crabs in the bucket”. Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs sufficient power to prevent others from escaping.
+Bir topluluk para birimi kurmanın amacı, "kovada yengeç almak" 'dan daha fazla. Tüm kötüye kullanımı ortadan kaldırmak için aşırı tedbirlere başvurmak, birkaç yengeçin kaçmasını önlemek için kovaya bir kapak koymaya çalışmak gibidir ve kepçeye yeni yengeçler gelmesini zorlaştırmak gibidir. Duvarları kaygan hale getirmek ve diğer yengeçlere başkalarının kaçmasını önlemek için yeterli gücü vermek yeterlidir.
 
 ### Rate Limited Voting
 
