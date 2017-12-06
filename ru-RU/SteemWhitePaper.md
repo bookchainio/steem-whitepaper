@@ -248,7 +248,7 @@ The naive voting process creates a N-Person Prisoner’s Dilemma[^5] whereby eac
 
 Посты получают выплаты в следующей форме: 50% в стим-баксах и 50% в стим-мощи. Стим-мощь дает пользователю голоса и пропускную способность, в то время как стим-баксы дают пользователю моментальную выгоду в стабильной валюте. Мы уже обсудили, что и стим-мощь и стим-бакс спроектированы для поощрения долгосрочных инвестиций, а не краткосрочной продажи. This encourages more users to have a vested interest in the long-term success of the platform.
 
-Users also have the option to be paid in 100% SP, as well as decline payout on posts. When a user declines payout on a post, the money that would have been paid to them remains in the rewards pool, to be distributed to other users.
+Пользователи также имеют возможность получить оплату 100% в SP, равно как и отказаться от выплаты. Когда пользователь отказывается выплаты за пост, деньги, которые бы ему достаться, остаются в пуле вознаграждений, чтобы быть переданными другим пользователям.
 
 # Консенсус Алгоритм
 
@@ -356,7 +356,7 @@ Ripple использует минимальный баланс[^11], котор
 
 К счастью, требуемый минимальный баланс может быть достаточно низким на уровне 50 рублей, а это тот размер, который пользователь может понять и простить. Альтернативные издержки потерянных процентов не стоят когнитивных издержек микротранзакций, и намного более понятны людям.
 
-Стимы использующиеся для создания аккаунтов сразу конвертируются в стим-мощь. A portion of the SP used to fund a new account may be delegated from the creator of the account. When a user is delegated SP, they may use the SP for voting and bandwidth purposes as if it were their own, but the ownership of the SP remains with the user who delegated it. A user may remove the delegation at any time. After a cool-down period, the SP is returned to their account.
+Стимы использующиеся для создания аккаунтов сразу конвертируются в стим-мощь. Часть SP, используемая для оплаты создания новой учетной записи, может быть делегирована создателем аккаунта. When a user is delegated SP, they may use the SP for voting and bandwidth purposes as if it were their own, but the ownership of the SP remains with the user who delegated it. Пользователь может отозвать делегацию в любое время. После периода ожидания SP возвращается на его аккаунт.
 
 ### Эффективность по Отношению к Комиссиям
 
