@@ -216,7 +216,7 @@ Kötüye kullanımı en aza indirmenin önemli bir kısmı oyların oran sınır
 
 Kullanıcılara sabit bir oy hakkı tahsis edilmektedir. Ödül havuzunda ne kadar payın belirli bir iş kalemine tahsis edilmesi gerektiğini belirlemek için oylama gücü bir kullanıcının imtiyaz niteliği ile çarpılır. Aktarılan her oy, kalan oy gücü yüzdesini kullanır. Kullanıcılar daha fazla içerik için oy kullanabilir, ancak her oy daha az değerde olacak ve tekrar tam oy gücüne ulaşma süresi uzayacaktır. Oylama gücü, günde% 20'lik sabit bir doğrusal oranda yeniden artar.
 
-### Payout Distribution
+### Ödeme Dağıtımı
 
 One of the primary goals of Steem’s reward system is to produce the best discussions on the internet. Each and every year 75% of the yearly inflation is distributed to users submitting, voting on, and discussing content. At the size of Bitcoin this could be several million dollars per day being given to the top contributors.
 
