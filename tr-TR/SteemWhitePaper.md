@@ -218,17 +218,17 @@ Kullanıcılara sabit bir oy hakkı tahsis edilmektedir. Ödül havuzunda ne kad
 
 ### Ödeme Dağıtımı
 
-One of the primary goals of Steem’s reward system is to produce the best discussions on the internet. Each and every year 75% of the yearly inflation is distributed to users submitting, voting on, and discussing content. At the size of Bitcoin this could be several million dollars per day being given to the top contributors.
+Steem'in ödül sisteminin ana hedeflerinden biri, internet üzerinden en iyi tartışmaları üretmektir. Yıllık enflasyonun her yıl %75'i içeriği gönderen, oy veren ve tartışan kullanıcılara dağıtılır. Bitcoin'in büyüklüğünde bu, en çok katkıda bulunan kişilere günde birkaç milyon dolar verilebilir.
 
-The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content.
+Gerçek dağıtım, kullanıcıların oylama modellerine bağlı olacaktır, ancak ödüllerin büyük çoğunluğunun en popüler içeriğe dağıtıldığından şüpheleniyoruz.
 
-Zipf’s Law[^7] is one of those empirical rules that characterize a surprising range of real-world phenomena remarkably well. It says that if we order some large collection by size or popularity, the second element in the collection will be about half the measure of the first one, the third one will be about one-third the measure of the first one, and so on. In general, the k th-ranked item will measure about 1/k of the first one.
+Zipf Yasası [^7], gerçek dünyadaki şaşırtıcı bir fenomeni karakterize eden ampirik kurallardan biridir. Büyüklük ya da popülerlik bakımından büyük bir koleksiyon sipariş edersek, koleksiyonun ikinci öğesi birincinin ölçüsünün yaklaşık yarısı, üçüncü birincil ölçütün yaklaşık üçte biri olacak ve bu şekilde. Genel olarak, k. sıradaki öğe birincisinin yaklaşık 1/k'sini ölçer.
 
 ![](\img_the_new_marketplace.png)
 
-Taking popularity as a rough measure of value, then the value of each individual item is given by Zipf’s Law. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
+Popülerlik değerinin kaba bir ölçüsü olarak popülerlik kazandığında, her bir öğenin değeri Zipf Yasası tarafından verilir. Yani, bir milyon öğe sahibiysek, en popüler 100 toplam değerin üçte birine, bir sonraki 10.000 diğer üçüncü, sonraki 989.900 ise final üçüncüye katkıda bulunacaktır. N öğe toplama değeri log(n) ile orantılıdır.
 
-The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
+Bu oylama ve ödeme dağıtımının etkisi, küçük oyunculara uzun vadeli katkılarından ödün vermeden, iyi içeriklere büyük ikramiyeler sunmaktır.
 
 The economic effect of this is similar to a lottery where people overestimate their probability of getting votes and thus do more work than the expected value of their reward and thereby maximize the total amount of work performed in service of the community. The fact that everyone “wins something” plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
 
