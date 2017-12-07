@@ -230,7 +230,7 @@ Popülerlik değerinin kaba bir ölçüsü olarak popülerlik kazandığında, h
 
 Bu oylama ve ödeme dağıtımının etkisi, küçük oyunculara uzun vadeli katkılarından ödün vermeden, iyi içeriklere büyük ikramiyeler sunmaktır.
 
-The economic effect of this is similar to a lottery where people overestimate their probability of getting votes and thus do more work than the expected value of their reward and thereby maximize the total amount of work performed in service of the community. The fact that everyone “wins something” plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
+Bunun ekonomik etkisi, insanlar oy alma ihtimalini fazla tahmin ettiği ve dolayısıyla ödülünün beklenen değerinden daha fazla iş yürüttüğü ve böylece topluluk hizmetinde gerçekleştirilen toplam iş miktarını en yükseğe çıkaran bir piyangoya benzer. The fact that everyone “wins something” plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
 
 ### Payouts
 
