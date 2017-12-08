@@ -230,13 +230,13 @@ Popülerlik değerinin kaba bir ölçüsü olarak popülerlik kazandığında, h
 
 Bu oylama ve ödeme dağıtımının etkisi, küçük oyunculara uzun vadeli katkılarından ödün vermeden, iyi içeriklere büyük ikramiyeler sunmaktır.
 
-Bunun ekonomik etkisi, insanlar oy alma ihtimalini fazla tahmin ettiği ve dolayısıyla ödülünün beklenen değerinden daha fazla iş yürüttüğü ve böylece topluluk hizmetinde gerçekleştirilen toplam iş miktarını en yükseğe çıkaran bir piyangoya benzer. The fact that everyone “wins something” plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
+Bunun ekonomik etkisi, insanlar oy alma ihtimalini fazla tahmin ettiği ve dolayısıyla ödülünün beklenen değerinden daha fazla iş yürüttüğü ve böylece topluluk hizmetinde gerçekleştirilen toplam iş miktarını en yükseğe çıkaran bir piyangoya benzer. Herkesin "bir şeyler kazanması" durumu, casinoların kumar oynatmak için kullandıkları psikoloji ile aynıdır. Başka bir deyişle, küçük ödüller, daha büyük ödüller kazanmanın mümkün olduğunu düşünmeye yardımcı olur.
 
-### Payouts
+### Ödemeler
 
-When a post receives a payout it takes the form of 50% SBD and 50% SP. The Steem Power give the user increased voting and transaction power while the SBD gives the user an immediate benefit in a stable currency. As we’ve already discussed at length, SP is designed to encourage long-term holding rather than short-term selling. This encourages more users to have a vested interest in the long-term success of the platform.
+Bir içerik ödeme aldığında %50 SBD ve %50 SP şeklini alır. Steem Power kullanıcıya artan oy verme ve işlem gücü verirken, SBD kullanıcıya istikrarlı bir para birimi ile hemen bir fayda sağlıyor. Daha önce de tartıştığımız gibi, SP kısa vadeli satışlardan ziyade uzun vadede tutmayı teşvik etmek için tasarlandı. Bu, daha fazla kullanıcıyı platformun uzun vadeli başarısı konusunda ilgili olmaya teşvik eder.
 
-Users also have the option to be paid in 100% SP, as well as decline payout on posts. When a user declines payout on a post, the money that would have been paid to them remains in the rewards pool, to be distributed to other users.
+Kullanıcılar ayrıca, %100 SP'de ödeme alma ve yayınlarda ödeme almama seçeneğine sahiptir. When a user declines payout on a post, the money that would have been paid to them remains in the rewards pool, to be distributed to other users.
 
 # Consensus Algorithm
 
