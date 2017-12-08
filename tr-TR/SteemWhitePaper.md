@@ -236,7 +236,7 @@ Bunun ekonomik etkisi, insanlar oy alma ihtimalini fazla tahmin ettiği ve dolay
 
 Bir içerik ödeme aldığında %50 SBD ve %50 SP şeklini alır. Steem Power kullanıcıya artan oy verme ve işlem gücü verirken, SBD kullanıcıya istikrarlı bir para birimi ile hemen bir fayda sağlıyor. Daha önce de tartıştığımız gibi, SP kısa vadeli satışlardan ziyade uzun vadede tutmayı teşvik etmek için tasarlandı. Bu, daha fazla kullanıcıyı platformun uzun vadeli başarısı konusunda ilgili olmaya teşvik eder.
 
-Kullanıcılar ayrıca, %100 SP'de ödeme alma ve yayınlarda ödeme almama seçeneğine sahiptir. When a user declines payout on a post, the money that would have been paid to them remains in the rewards pool, to be distributed to other users.
+Kullanıcılar ayrıca, %100 SP'de ödeme alma ve yayınlarda ödeme almama seçeneğine sahiptir. Bir kullanıcı, bir yayınla ilgili ödemeyi reddettiğinde, diğer kullanıcılara dağıtılmak üzere kendisine ödenecek para ödül havuzunda kalır.
 
 # Consensus Algorithm
 
