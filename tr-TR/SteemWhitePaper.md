@@ -238,7 +238,7 @@ Bir içerik ödeme aldığında %50 SBD ve %50 SP şeklini alır. Steem Power ku
 
 Kullanıcılar ayrıca, %100 SP'de ödeme alma ve yayınlarda ödeme almama seçeneğine sahiptir. Bir kullanıcı, bir yayınla ilgili ödemeyi reddettiğinde, diğer kullanıcılara dağıtılmak üzere kendisine ödenecek para ödül havuzunda kalır.
 
-# Consensus Algorithm
+# Uzlaşma Algoritması
 
 Consensus is the process by which a community comes to a universally recognized, unambiguous agreement on piece of information. There are many algorithms society has developed for reaching consensus about who owns what. Every government on earth is a primitive consensus algorithm whereby the population agrees to abide by a certain set of rules enshrined in a constitution. Governments establish courts, judges, and juries to interpret the subjective facts and render a final decision. Most of the time people abide by the decision even if it was wrong.
 
