@@ -240,11 +240,11 @@ Kullanıcılar ayrıca, %100 SP'de ödeme alma ve yayınlarda ödeme almama seç
 
 # Uzlaşma Algoritması
 
-Consensus is the process by which a community comes to a universally recognized, unambiguous agreement on piece of information. There are many algorithms society has developed for reaching consensus about who owns what. Every government on earth is a primitive consensus algorithm whereby the population agrees to abide by a certain set of rules enshrined in a constitution. Governments establish courts, judges, and juries to interpret the subjective facts and render a final decision. Most of the time people abide by the decision even if it was wrong.
+Konsensüs, bir topluluğun bilgi bölümünde evrensel olarak tanınmış, net bir anlaşmaya varıldığı süreçtir. Toplumun neyin sahibi olduğu hakkında fikir birliğine varmak için geliştirdiği birçok algoritma vardır. Yeryüzündeki her hükümet, ilkel bir fikir birliği algoritmasıdır. Bu sayede, nüfus bir anayasada güvence altına alınan belirli bir kurallar kümesine uymayı kabul eder. Hükümetler, öznel gerçekleri yorumlamak ve nihai bir karar vermek için mahkemeleri, hakimleri ve jürileri kurarlar. Çoğu zaman insan yanlış olduğu halde kararını korur.
 
-The algorithms used by cryptocurrencies provide a better way to reach consensus. Cryptographically signed testimony from individuals is recorded in a public ledger that establishes the absolute global order of events. A deterministic computer algorithm can then process this ledger to derive a universally accepted conclusion. So long as the members of a community agree on the processing algorithm, the result of the algorithm is authoritative.
+Kripto para birimleri tarafından kullanılan algoritmalar, fikir birliğine ulaşmak için daha iyi bir yol sağlar. Kişilerden şifreleme yoluyla imzalanmış ifadeler, mutlak küresel olay düzenini belirleyen bir kamu defterine kaydedilir. Daha sonra deterministik bir bilgisayar algoritması evrensel olarak kabul edilen bir sonuç elde etmek için bu defteri işleyebilir. Bir topluluğun üyeleri işlem algoritması üzerinde anlaşmaya vardığı sürece, algoritmanın sonucu yetkili olur.
 
-The primary consideration is determining what testimony is allowed to enter the public record. Systems should be designed to minimize the potential for censorship. Censorship on the public ledger is similar to preventing someone from voting in an election. In both cases an individual is prevented from impacting the global consensus.
+Birincil düşünce hangi tanıkların kamunun kayıtlarına girmesine izin verildiğini belirlemektir. Sistemler, sansür potansiyelini en aza indirgemek üzere tasarlanmalıdır. Censorship on the public ledger is similar to preventing someone from voting in an election. In both cases an individual is prevented from impacting the global consensus.
 
 ## Consensus in Steem
 
