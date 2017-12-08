@@ -244,11 +244,11 @@ Konsensüs, bir topluluğun bilgi bölümünde evrensel olarak tanınmış, net 
 
 Kripto para birimleri tarafından kullanılan algoritmalar, fikir birliğine ulaşmak için daha iyi bir yol sağlar. Kişilerden şifreleme yoluyla imzalanmış ifadeler, mutlak küresel olay düzenini belirleyen bir kamu defterine kaydedilir. Daha sonra deterministik bir bilgisayar algoritması evrensel olarak kabul edilen bir sonuç elde etmek için bu defteri işleyebilir. Bir topluluğun üyeleri işlem algoritması üzerinde anlaşmaya vardığı sürece, algoritmanın sonucu yetkili olur.
 
-Birincil düşünce hangi tanıkların kamunun kayıtlarına girmesine izin verildiğini belirlemektir. Sistemler, sansür potansiyelini en aza indirgemek üzere tasarlanmalıdır. Censorship on the public ledger is similar to preventing someone from voting in an election. In both cases an individual is prevented from impacting the global consensus.
+Birincil düşünce hangi tanıkların kamunun kayıtlarına girmesine izin verildiğini belirlemektir. Sistemler, sansür potansiyelini en aza indirgemek üzere tasarlanmalıdır. Kamu defterindeki sansür, birinin seçimlerde oy vermesini önlemeye benzer. Her iki durumda da, bir bireyin küresel konsensüsü etkilemesi engellenmektedir.
 
-## Consensus in Steem
+## Steem'de fikir birliği
 
-Conceptually, the consensus algorithm adopted by Steem is similar to the consensus algorithm adopted by companies throughout the world. People with a vested interest in the future value of Steem vote to select individuals responsible for including testimony in the public record. Voting is weighted proportional to each individual's vested interest.
+Kavramsal olarak Steem tarafından benimsenen fikir birliği algoritması, şirketler tarafından tüm dünyada benimsenen fikir birliği algoritmasına benzemektedir. People with a vested interest in the future value of Steem vote to select individuals responsible for including testimony in the public record. Voting is weighted proportional to each individual's vested interest.
 
 In the world of cryptocurrencies, the public record is commonly referred to as a *blockchain*. A *block* is a group of signed transactions.
 
