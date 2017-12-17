@@ -42,7 +42,7 @@
 
 التحدي الذي يواجهه ستيم هو استخلاص خوارزمية لتسجيل المساهمات الفردية التي يعتبرها معظم أفراد المجتمع تقييما عادلا للقيمة الذاتية لكل مساهمة. وفي عالم مثالي، سيتعاون أعضاء المجتمع المحلي لتقييم مساهمة بعضهم البعض والحصول على تعويض عادل. في العالم الحقيقي، يجب أن تصميم الخوارزميات على نحو يجعلها مقاومة للتلاعب المتعمد من أجل الربح. وأي انتشار واسع لسوء استخدام نظام التنقيط يمكن أن يتسبب في فقدان ثقة أفراد المجتمع في الإنصاف المتصور للنظام الاقتصادي.
 
-وتعمل المنصات الحالية على مبدأ مستخدم واحد، صوت واحد. This creates an environment where rankings can be manipulated by sybil attacks and the service providers must pro-actively identify and block abusers. People already attempt to manipulate the Reddit, Facebook, and Twitter scoring algorithms when the only reward is web traffic or censorship.
+وتعمل المنصات الحالية على مبدأ مستخدم واحد، صوت واحد. وهذا يخلق بيئة حيث المصنفون الأوائل يمكنهم التلاعب بهجمات سيبيل  ويجب على مقدمي الخدمات أن يحددوا ويمنعوا المسيئين بشكل استباقي. الناس بالفعل محاولة للتلاعب رديت، الفيسبوك، وتويتر لتحطيم ارقام الخوارزميات عندما تكون المكافأة الوحيدة هي تسجيلات المرور على شبكة الإنترنت أو الرقابة.
 
 The fundamental unit of account on the Steem platform is STEEM, a crypto currency token. Steem operates on the basis of one-STEEM, one-vote. Under this model, individuals who have contributed the most to the platform, as measured by their account balance, have the most influence over how contributions are scored. Furthermore, Steem only allows members to vote with STEEM when it is committed to a vesting schedule. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
 
