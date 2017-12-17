@@ -22,17 +22,17 @@
 
 هناك بعض المبادئ الرئيسية التي تم استخدامها لتوجيه تصميم ستيم. وأهم مبدأ هو أن كل من يساهم في مشروع ما ينبغي أن يحصل على ملكية تناسبية أو دفع أو دين من المشروع. هذا المبدأ هو نفس المبدأ الذي يتم تطبيقه على جميع الشركات الناشئة لأنها تخصص الأسهم في التأسيس وأثناء جولات التمويل اللاحقة.
 
-والمبدأ الثاني هو أن جميع أشكال رأس المال لها قيمة متساوية. وهذا يعني أن أولئك الذين يساهمون بوقتهم النادر ويهتموم نحو إنتاج المحتوى وتمويله للآخرين ،لا يقلون قيمة عن أولئك الذين يساهمون نقدا نادرا. This is the sweat equity principle[^2] and is a concept that prior cryptocurrencies have often had trouble providing to more than a few dozen individuals.
+والمبدأ الثاني هو أن جميع أشكال رأس المال لها قيمة متساوية. وهذا يعني أن أولئك الذين يساهمون بوقتهم النادر ويهتموم نحو إنتاج المحتوى وتمويله للآخرين ،لا يقلون قيمة عن أولئك الذين يساهمون نقدا نادرا. هذا هو مبدأ عرق الإنصاف [^2] و هو مفهوم أن العملات الإفتراضية السابقة غالبا ما كان مشكلة توفير أكثر من بضع عشرات من الأفراد.
 
-The third principle is that the community produces products to serve its members. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
+المبدأ الثالث هو أن المجتمع ينتج منتجات لخدمة أعضائه. ويتمثل هذا المبدأ من قبل الاتحادات الائتمانية، والجمعيات الغذائية، وخطط تقاسم الصحة، التي تخدم أعضاء مجتمعهم بدلا من بيع المنتجات أو الخدمات للناس خارج المجتمع.
 
-The Steem community provides the following services to its members:
+يقدم مجتمع ستيم الخدمات التالية لأعضائه:
 
-1. A source of curated news and commentary.
-2. A means to get high quality answers to personalized questions.
-3. A stable cryptocurrency pegged to the U.S. dollar.
-4. Free payments.
-5. Jobs providing above services to other members.
+1. مصدر لتمويل الأخبار و التعليق.
+2. وسيلة للحصول على إجابات ذات جودة عالية على الأسئلة الشخصية.
+3. عملة إفتراضية مستقرة و مرتبطة بالدولار الأمريكي.
+4. الدفع بالمجان.
+5. وظائف توفير الخدمات المذكورة أعلاه للأعضاء الآخرين.
 
 Steem’s purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem’s incentives may result in better outcomes for most participants.
 
