@@ -34,9 +34,9 @@
 4. الدفع بالمجان.
 5. وظائف توفير الخدمات المذكورة أعلاه للأعضاء الآخرين.
 
-Steem’s purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem’s incentives may result in better outcomes for most participants.
+إعادة تنظيم ستيم الهادف للحوافز الاقتصادية لديه القدرة على تحقيق نتائج أكثر عدلا وأكثر شمولية لكل من يشارك في وسائل الإعلام الاجتماعية ومنصات العملات الإفتراضية التي رحلت من قبل. وستستعرض هذه الورقة الحوافز الاقتصادية القائمة وتظهر كيف يمكن أن تؤدي حوافز ستيم إلى نتائج أفضل لمعظم المشاركين.
 
-## Recognizing Contribution
+## الاعتراف بالمساهمة
 
 Steem is designed from the ground up to address the major barriers to adoption and monetization of a social media based economy. Our thesis is that the same techniques used to grow major social media platforms can be used to bootstrap a successful cryptocurrency. Economic incentives enabled by cryptocurrency can dramatically facilitate the growth of a new social media platform. It is the synergy between cryptocurrency and social media that we believe may give Steem a powerful advantage in the market.
 
