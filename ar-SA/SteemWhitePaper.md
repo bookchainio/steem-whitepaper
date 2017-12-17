@@ -18,9 +18,9 @@
 
 # مقدمة
 
-بشكل جماعي، المحتوى الذي ينشئه المستخدمون قد خلق مليارات الدولارات من قيمة المساهمين في شركات وسائل الإعلام الاجتماعية، مثل رديت، الفيسبوك، وتويتر. **في عام 2014، افترضت رديت أن برنامجها سيتحسن إذا ساهم الكل في reddit.com من خلال نشر القصص، إضافة تعليقات أو تمت مكافأة التصويت بحصة عادلة في شركة رديت.[^1]**. Steem aims to support social media and online communities by returning much of its value to the people who provide valuable contributions by rewarding them with cryptocurrency, and through this process create a currency that is able to reach a broad market, including people who have yet to participate in any cryptocurrency economy.
+بشكل جماعي، المحتوى الذي ينشئه المستخدمون قد خلق مليارات الدولارات من قيمة المساهمين في شركات وسائل الإعلام الاجتماعية، مثل رديت، الفيسبوك، وتويتر. **في عام 2014، افترضت رديت أن برنامجها سيتحسن إذا ساهم الكل في reddit.com من خلال نشر القصص، إضافة تعليقات أو تمت مكافأة التصويت بحصة عادلة في شركة رديت.[^1]**. يهدف ستيم إلى دعم وسائل الإعلام الاجتماعية والمجتمعات عبر الإنترنت من خلال إعادة الكثير من قيمتها إلى الناس الذين يقدمون مساهمات قيمة من خلال مكافأتهم بالعملة الإفتراضية، ومن خلال هذه العملية يتم إنشاء العملة التي هي قادرة على الوصول إلى سوق واسع،  بما في ذلك الناس الذين لم يشاركوا في أي اقتصاد للعملة الإفتراضية.
 
-There are some key principles that have been used to guide the design of Steem. The most important principle is that everyone who contributes to a venture should receive pro-rata ownership, payment or debt from the venture. This principle is the same principle that is applied to all startups as they allocate shares at founding and during subsequent funding rounds.
+هناك بعض المبادئ الرئيسية التي تم استخدامها لتوجيه تصميم ستيم. وأهم مبدأ هو أن كل من يساهم في مشروع ما ينبغي أن يحصل على ملكية تناسبية أو دفع أو دين من المشروع. This principle is the same principle that is applied to all startups as they allocate shares at founding and during subsequent funding rounds.
 
 The second principle is that all forms of capital are equally valuable. This means that those who contribute their scarce time and attention toward producing and curating content for others are just as valuable as those who contribute their scarce cash. This is the sweat equity principle[^2] and is a concept that prior cryptocurrencies have often had trouble providing to more than a few dozen individuals.
 
