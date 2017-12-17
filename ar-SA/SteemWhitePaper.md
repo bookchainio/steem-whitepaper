@@ -1,8 +1,8 @@
-# Steem
+# ستيم
 
-## An incentivized, blockchain-based, public content platform.
+## منصة محفزة ، قائمة على بلوكشين ، وذات محتوى عام.
 
-August 2017
+غشت عام 2017
 
 # Translator's notes
 
