@@ -44,7 +44,7 @@
 
 وتعمل المنصات الحالية على مبدأ مستخدم واحد، صوت واحد. وهذا يخلق بيئة حيث المصنفون الأوائل يمكنهم التلاعب بهجمات سيبيل  ويجب على مقدمي الخدمات أن يحددوا ويمنعوا المسيئين بشكل استباقي. الناس بالفعل محاولة للتلاعب رديت، الفيسبوك، وتويتر لتحطيم ارقام الخوارزميات عندما تكون المكافأة الوحيدة هي تسجيلات المرور على شبكة الإنترنت أو الرقابة.
 
-الوحدة الأساسية للحساب على منصة ستيم هي STEEM، رمز العملة الإفتراضية. يعمل ستيم على أساس ستيم واحد، صوت واحد. وبموجب هذا النموذج، فإن الأفراد الذين ساهموا بأكبر قدر ممكن في المنصة، مقاسة برصيد حساباتهم، لهم أكبر تأثير على كيفية تسجيل المساهمات. Furthermore, Steem only allows members to vote with STEEM when it is committed to a vesting schedule. وبموجب هذا النموذج، يتمتع الأعضاء بحافز مالي للتصويت بطريقة تزيد إلى أقصى حد من قيمة الستيم الخاص بهم.
+الوحدة الأساسية للحساب على منصة ستيم هي STEEM، رمز العملة الإفتراضية. يعمل ستيم على أساس ستيم واحد، صوت واحد. وبموجب هذا النموذج، فإن الأفراد الذين ساهموا بأكبر قدر ممكن في المنصة، مقاسة برصيد حساباتهم، لهم أكبر تأثير على كيفية تسجيل المساهمات. وعلاوة على ذلك، ستيم يسمح فقط للأعضاء بالتصويت مع ستيم عندما يتم الإلتزام بجدول زمني للإستحقاق. وبموجب هذا النموذج، يتمتع الأعضاء بحافز مالي للتصويت بطريقة تزيد إلى أقصى حد من قيمة الستيم الخاص بهم.
 
 Steem is designed around a relatively simple concept: *everyone’s meaningful contribution to the community should be recognized for the value it adds.* When people are recognized for their meaningful contributions, they continue contributing and the community grows. Any imbalance in the give and take within a community is unsustainable. Eventually the givers grow tired of supporting the takers and disengage from the community.
 
