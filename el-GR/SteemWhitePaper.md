@@ -92,7 +92,7 @@ Credits here @skapaneas @holidaygreece @skapart".
 
 Όταν οι χρήστες ψηφίζουν για ένα περιεχόμενο, η επιρροή τους στο διαμοιρασμό των απολαβών είναι απευθείας ανάλογη των SP που διαθέτουν. Οι χρήστες με περισσότερα SP έχουν μεγαλύτερη επιρροή στο διαμοιρασμό των απολαβών. Αυτό σημαίνει ότι τα SP είναι ένα νόμισμα πρόσβασης, που δίνει στους κατόχους τους σημαντικών δυνάμεων εντός της πλατφόρμας Steem.
 
-Οι κάτοχοι SP επίσης κερδίζουν τόκους για το υπόλοιπο των SP που παραμένει δεσμευμένο. 15% του ετήσιου πληθωρισμού πληρώνεται στους κατόχους SP ως τόκοι. The amount of the interest that they receive is directly proportional to the amount of SP they hold relative to the total amount of vested SP across all users.
+Οι κάτοχοι SP επίσης κερδίζουν τόκους για το υπόλοιπο των SP που παραμένει δεσμευμένο. 15% του ετήσιου πληθωρισμού πληρώνεται στους κατόχους SP ως τόκοι. Το ποσό των τόκων που εισπράττουν είναι ευθέως ανάλογη προς την ποσότητα του SP που κατέχουν σε σχέση με το συνολικό ποσό των κεκτημένων SP από όλους τους χρήστες.
 
 Transferring from STEEM to SP is referred to as “powering up”, while transferring from SP to STEEM is referred to as “powering down.” SP that is powered down is returned to the user over a period of thirteen weeks, via 13 equal weekly payments, starting one week after the power down is initiated.
 
