@@ -56,19 +56,19 @@
 
 تم تصميم ستيم لتفعيل مدفوعات صغيرة ناجحة لجميع أنواع المساهمة عن طريق تغيير المعادلة الاقتصادية. لم يعد على القراء أن يقرروا ما إذا كانوا يريدون الدفع لشخص ما من جيبهم الخاص، بدلا من ذلك يمكنهم التصويت مع او ضد المحتوى وستستخدم ستيم أصواتهم لتحديد المكافآت الفردية. وهذا يعني أن الناس يعطون واجهة مألوفة تستخدم على نطاق واسع ولم تعد تواجه التكاليف المعرفية والمالية، والفرص المرتبطة بالدفع الجزئي التقليدي والمنصات المتحولة.
 
-إن التصويت من أعضاء المجتمع أمر بالغ الأهمية بالنسبة لشركة ستيم لتخصيص المدفوعات للمساهمين بدقة. ولذلك يمكن النظر إلى التصويت على أنه مساهمة حاسمة وتستحق المكافآت من تلقاء نفسها. Some platforms, such as Slashdot, use meta-moderation[^3] as a way to rank and reward honest moderators. Steem chooses to reward those who contribute the most to the total promotion of a piece of content and rewards the voters proportional to the ultimate reward paid to the content creator.
+إن التصويت من أعضاء المجتمع أمر بالغ الأهمية بالنسبة لشركة ستيم لتخصيص المدفوعات للمساهمين بدقة. ولذلك يمكن النظر إلى التصويت على أنه مساهمة حاسمة وتستحق المكافآت من تلقاء نفسها. Some platforms, such as Slashdot, use meta-moderation[^3] as a way to rank and reward honest moderators. يختار ستيم لمكافأة أولئك الذين يساهمون أكثر من إجمالي الترويج لقطعة من المحتوى ويكافئ المصوتين بما يتناسب مع المكافأة النهائية المدفوعة لمبدع المحتوى.
 
-# Ways to Contribute
+# طرق المساهمة
 
-This section outlines the ideas behind Steem and its rewards for people who provide meaningful and measurable contributions to the Steem community.
+يوضح هذا القسم الأفكار الكامنة وراء ستيم ومكافآته لألشخاص الذين يقدمون مساهمات مجدية وقابلة للقياس لمجتمع ستيم.
 
-## Capital Contributions
+## المساهمات الرأسمالية
 
-There are two items a community can offer to attract capital: debt and ownership. Those who buy ownership profit when the community grows but lose if the community shrinks. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
+هناك بندان يمكن للمجتمع تقديمهما لجذب رأس المال: الدين والملكية. أولئك الذين يشترون أرباح الملكية عندما ينمو المجتمع يخسرون إذا تقلص المجتمع. ويضمن أولئك الذين يشترون الديون قدرا معينا من الفائدة ولكن لا يحصلون على المشاركة في أي أرباح تتحقق من نمو المجتمع. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
 
 The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SBD).
 
-## Steem (STEEM)
+## ستيم (STEEM)
 
 Steem is the fundamental unit of account on the Steem blockchain. All other tokens derive their value from the value of STEEM. STEEM is a liquid currency, and therefore can be bought or sold on exchanges, as well as transferred to other users as a form of payment.
 
