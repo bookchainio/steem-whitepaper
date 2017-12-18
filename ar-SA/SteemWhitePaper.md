@@ -66,13 +66,13 @@
 
 هناك بندان يمكن للمجتمع تقديمهما لجذب رأس المال: الدين والملكية. أولئك الذين يشترون أرباح الملكية عندما ينمو المجتمع يخسرون إذا تقلص المجتمع. ويضمن أولئك الذين يشترون الديون قدرا معينا من الفائدة ولكن لا يحصلون على المشاركة في أي أرباح تتحقق من نمو المجتمع. وكلا النوعين من المساهمات الرأسمالية له قيمة بالنسبة لنمو المجتمع وقيمة عملته. بالإضافة إلى ذلك هناك طريقتان لإمكانية عقد الملكية: السلاسة والاستحقاق. وتؤدي ملكية الاستحقاق إلى التزام ذو أجل طويل ولا يمكن بيعها لفترة زمنية محدودة.
 
-The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SBD).
+تدعو شبكة ستيم فئات الأصول المختلفة هذه ستيم (STEEM)، قوة ستيم (SP)، وستيم دولار (SBD).
 
 ## ستيم (STEEM)
 
-Steem is the fundamental unit of account on the Steem blockchain. All other tokens derive their value from the value of STEEM. STEEM is a liquid currency, and therefore can be bought or sold on exchanges, as well as transferred to other users as a form of payment.
+ستيم هو وحدة الحساب الأساسية على بلوكشين ستيم. وتستمد جميع الرموز الأخرى قيمتها من قيمة ستيم. ستيم هو عملة سلسة، وبالتالي يمكن شراؤها أو بيعها في البورصات، وكذلك نقلها إلى مستخدمين آخرين على شكل دفعة.
 
-## Steem Power (SP)
+## قوة ستيم (SP)
 
 Start up companies require long-term capital commitment. Those who invest their money in a startup expect to wait years before they can sell their shares and realize their profits. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
 
