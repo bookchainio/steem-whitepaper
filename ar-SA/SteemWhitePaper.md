@@ -46,7 +46,7 @@
 
 الوحدة الأساسية للحساب على منصة ستيم هي STEEM، رمز العملة الإفتراضية. يعمل ستيم على أساس ستيم واحد، صوت واحد. وبموجب هذا النموذج، فإن الأفراد الذين ساهموا بأكبر قدر ممكن في المنصة، مقاسة برصيد حساباتهم، لهم أكبر تأثير على كيفية تسجيل المساهمات. وعلاوة على ذلك، ستيم يسمح فقط للأعضاء بالتصويت مع ستيم عندما يتم الإلتزام بجدول زمني للإستحقاق. وبموجب هذا النموذج، يتمتع الأعضاء بحافز مالي للتصويت بطريقة تزيد إلى أقصى حد من قيمة الستيم الخاص بهم.
 
-Steem is designed around a relatively simple concept: *everyone’s meaningful contribution to the community should be recognized for the value it adds.* When people are recognized for their meaningful contributions, they continue contributing and the community grows. Any imbalance in the give and take within a community is unsustainable. Eventually the givers grow tired of supporting the takers and disengage from the community.
+تم تصميم ستيم حول مفهوم بسيط نسبيا:* كل شخص لديه مساهمة ذات مغزى إلى المجتمع ينبغي أن يعترف بالقيمة التي يضيفها.* عندما يعترف الناس لمساهماتهم ذات مغزى. فإنهم يستمرون فالمساهمة والمجتمع يكبر. Any imbalance in the give and take within a community is unsustainable. Eventually the givers grow tired of supporting the takers and disengage from the community.
 
 The challenge is creating a system capable of identifying what contributions are needed and their relative worth in a way that can scale to an unbounded number of people.
 
