@@ -64,7 +64,7 @@
 
 ## المساهمات الرأسمالية
 
-هناك بندان يمكن للمجتمع تقديمهما لجذب رأس المال: الدين والملكية. أولئك الذين يشترون أرباح الملكية عندما ينمو المجتمع يخسرون إذا تقلص المجتمع. ويضمن أولئك الذين يشترون الديون قدرا معينا من الفائدة ولكن لا يحصلون على المشاركة في أي أرباح تتحقق من نمو المجتمع. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
+هناك بندان يمكن للمجتمع تقديمهما لجذب رأس المال: الدين والملكية. أولئك الذين يشترون أرباح الملكية عندما ينمو المجتمع يخسرون إذا تقلص المجتمع. ويضمن أولئك الذين يشترون الديون قدرا معينا من الفائدة ولكن لا يحصلون على المشاركة في أي أرباح تتحقق من نمو المجتمع. وكلا النوعين من المساهمات الرأسمالية له قيمة بالنسبة لنمو المجتمع وقيمة عملته. بالإضافة إلى ذلك هناك طريقتان لإمكانية عقد الملكية: السلاسة والاستحقاق. وتؤدي ملكية الاستحقاق إلى التزام ذو أجل طويل ولا يمكن بيعها لفترة زمنية محدودة.
 
 The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SBD).
 
