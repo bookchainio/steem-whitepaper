@@ -78,7 +78,7 @@
 
 وهناك قيمة كبيرة لوجود التزام طويل الأجل لأنها تمكن المجتمعات المحلية من وضع خطط طويلة الأجل. کما أن التزام أصحاب المصلحة علی المدى الطویل یجعلھم یصوتون لنمو طویل الأجل بدلا من المضخات قصیرة الأجل.
 
-في الفضاء العملات الإفتراضية، السمسارون يقفزون من العملات الإفتراضية إلى عملات إفتراضية تستند في الغالب على أي واحد من المتوقع أن يحصل على نمو ذي مدى قصير. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
+في الفضاء العملات الإفتراضية، السمسارون يقفزون من العملات الإفتراضية إلى عملات إفتراضية تستند في الغالب على أي واحد من المتوقع أن يحصل على نمو ذي مدى قصير. يريد ستيم بناء مجتمع يمتلكه معظمهم ويتحكم فيه بالكامل أولئك الذين لديهم منظور طويل الأجل.
 
 Users are able to commit their STEEM to a thirteen week vesting schedule, providing them with additional benefits within the platform. STEEM that has been committed to a thirteen week vesting schedule is called Steem Power (SP). SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
 
