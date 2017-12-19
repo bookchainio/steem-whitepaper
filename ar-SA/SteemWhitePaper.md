@@ -112,7 +112,7 @@ With a three and a half day window, community members have approximately one and
 
 ### توقيت التخفيف من الهجمات
 
-Market participants have access to information faster than the blockchain’s three and a half day moving median conversion price can react. ويمكن استخدام هذه المعلومات لفائدة التجار على حساب المجتمع. If there is a sudden increase in the value of STEEM traders could request conversion of their SBD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
+يمكن للمشاركين في السوق الحصول على المعلومات بشكل أسرع من ثلاثة أيام ونصف يوم يتحرك متوسط سعر التحويل من بلوكشين. ويمكن استخدام هذه المعلومات لفائدة التجار على حساب المجتمع. إذا كانت هناك زيادة مفاجئة في قيمة المتاجرين ل STEEM يمكنهم أن يطلبو تحويل SBD الخاص بهم إلى الأسعار المنخفظة، ومن ثم بيعون ستيم ويحصلون على سعر أعلى جديد مع الحد الأدنى من المخاطر.
 
 Steem levels the playing field by requiring all conversion requests to be delayed for three and a half days. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
 
