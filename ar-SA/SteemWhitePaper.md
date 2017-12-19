@@ -76,9 +76,9 @@
 
 الشركات الناشئة تتطلب الإلتزام برأس المال على المدى الطويل. أولئك الذين يستثمرون أموالهم في شركة ناشئة يتوقعون الانتظار لسنوات قبل أن يتمكنوا من بيع أسهمهم وتحقيق أرباحهم. وبدون الإلتزام على المدى الطويل، فإن الشركة الناشئة تسعى إلى زيادة رأس المال من خلال بيع أسهم إضافية والتي سوف تكون منافِسة مع المساهمين الحاليين الذين يتطلعون للخروج. المستثمرون الدهاء يريدون مساهماتهم الرأسمالية ان تساهم في نمو الشركة، ولكن النمو لا يمكن أن يحدث إذا تم إعطاء رأس المال الجديد بعيدا عن أولئك الذين يتطلعون للخروج.
 
-وهناك قيمة كبيرة لوجود التزام طويل الأجل لأنها تمكن المجتمعات المحلية من وضع خطط طويلة الأجل. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
+وهناك قيمة كبيرة لوجود التزام طويل الأجل لأنها تمكن المجتمعات المحلية من وضع خطط طويلة الأجل. کما أن التزام أصحاب المصلحة علی المدى الطویل یجعلھم یصوتون لنمو طویل الأجل بدلا من المضخات قصیرة الأجل.
 
-In the cryptocurrency space, speculators jump from cryptocurrency to cryptocurrency based mostly on which one is expected to have short-term growth. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
+في الفضاء العملات الإفتراضية، السمسارون يقفزون من العملات الإفتراضية إلى عملات إفتراضية تستند في الغالب على أي واحد من المتوقع أن يحصل على نمو ذي مدى قصير. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
 
 Users are able to commit their STEEM to a thirteen week vesting schedule, providing them with additional benefits within the platform. STEEM that has been committed to a thirteen week vesting schedule is called Steem Power (SP). SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
 
