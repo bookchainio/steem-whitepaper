@@ -16,11 +16,11 @@ Steem adalah database blockchain yang mendukung pembangunan komunitas dan intera
 
 <!-- toc -->
 
-# Pengantar
+# Pendahuluan
 
-Secara kolektif, konten buatan pengguna telah menghasilkan nilai miliaran dolar untuk pemegang saham perusahaan media sosial, seperti Reddit, Facebook, dan Twitter. ** Pada tahun 2014, Reddit menghipotesiskan bahwa platformnya akan meningkat jika setiap orang yang berkontribusi pada reddit.com dengan mengeposkan cerita, menambahkan komentar atau memberikan ganjaran dengan pembagian yang adil di Reddit, Inc. [^1] **. Steem bertujuan untuk mendukung media sosial dan komunitas online dengan mengembalikan sebagian besar nilainya kepada orang-orang yang memberikan kontribusi berharga dengan memberi mereka kriptocurrency, dan melalui proses ini, menciptakan mata uang yang mampu mencapai pasar yang luas, termasuk orang-orang yang belum memiliki berpartisipasi dalam ekonomi kriptocurrency apapun.
+Secara kolektif, Pembuat konten telah menghasilkan nilai miliaran dolar untuk pemegang saham perusahaan media sosial, seperti Reddit, Facebook, dan Twitter. ** Pada tahun 2014, Reddit menghipotesiskan bahwa platformnya akan meningkat jika setiap orang yang berkontribusi pada reddit.com dengan mengeposkan cerita, menambahkan komentar atau memberikan ganjaran dengan pembagian yang adil di Reddit, Inc. [^1] **. Steem bertujuan untuk mendukung media sosial dan komunitas online dengan mengembalikan sebagian besar nilainya kepada orang-orang yang memberikan kontribusi berharga dengan memberi mereka kriptocurrency, dan melalui proses ini, menciptakan mata uang yang mampu mencapai pasar yang luas, termasuk orang-orang yang belum memiliki pengetahuan berpartisipasi dalam ekonomi kriptocurrency apapun.
 
-Ada beberapa prinsip kunci yang telah digunakan untuk membimbing desain Steem. Prinsip yang paling penting adalah bahwa setiap orang yang berkontribusi terhadap usaha harus menerima kepemilikan, pembayaran, atau hutang pro-rata dari usaha tersebut. Prinsip ini adalah prinsip yang sama yang diterapkan pada semua startup karena mereka mengalokasikan saham pada pendirian dan selama putaran pendanaan berikutnya.
+Ada beberapa prinsip kunci yang telah digunakan untuk membimbing desain Steem. Prinsip yang paling penting adalah bahwa setiap orang yang berkontribusi terhadap usaha harus menerima kepemilikan, pembayaran, atau hutang pro-rata dari usaha tersebut. Prinsip ini adalah prinsip yang sama yang diterapkan pada semua pemula karena mereka mengalokasikan saham pada pendirian dan selama putaran pendanaan berikutnya.
 
 Prinsip kedua adalah bahwa semua bentuk modal sama-sama berharga. Ini berarti bahwa mereka yang menyumbangkan waktu dan perhatian mereka yang langka untuk memproduksi dan mengurasi konten untuk orang lain sama berharganya dengan mereka yang menyumbang uang mereka yang langka. Ini adalah prinsip ekuitas keringat [^2] dan merupakan konsep bahwa kripto di masa lalu sering mengalami kesulitan menyediakan lebih dari beberapa lusin individu.
 
@@ -405,117 +405,117 @@ Kontribusi Hadiah:
 - Hadiah kurasi: 1 STEEM per blok atau 3,875% per tahun, mana saja yang lebih besar
 - Hadiah Penciptaan Konten: 1 STEEM per blok atau 3,875% per tahun, mana saja yang lebih besar
 - Blokir imbalan produksi: 1 STEEM per blok atau 0,750% per tahun, mana saja yang lebih besar
-- POW inclusion rewards before block 864,000: 1 STEEM per block (awarded as 21 STEEM per round)
-- POW inclusion rewards after block 864,000: 0.0476 STEEM per block (awarded as 1 STEEM per round) or 0.750% per year, whichever is greater.
-- Liquidity rewards: 1 STEEM per block (awarded as 1200 STEEM per hour) or 0.750% per year, whichever is greater
+- Penghargaan penyertaan POW sebelum blok 864.000: 1 STEEM per blok (diberikan 21 STEEM per putaran)
+- Imbalan POW diberikan setelah blok 864.000: 0,0476 STEEM per blok (diberikan 1 STEEM per putaran) atau 0,750% per tahun, mana saja yang lebih besar.
+- Imbalan Likuiditas: 1 STEEM per blok (diberikan 1200 STEEM per jam) atau 0,750% per tahun, mana saja yang lebih besar
 
-### Power Rewards:
+### Hadiah Power:
 
-- Steem Power rewards: For each STEEM created by the above rewards, 9 STEEM are divided among all Steem Power holders.
+- Steem Power rewards: Untuk setiap STEEM yang dibuat dengan penghargaan di atas, 9 STEEM dibagi di antara semua pemegang Steem Power.
 
-### SBD operations:
+### Operasi SBD:
 
-- SBD rewards: A percentage of SBD value is created at an APR set by the witnesses and paid to SBD holders as SBD
+- Imbalan SBD: Persentase nilai SBD dibuat pada APR yang ditetapkan oleh saksi dan dibayarkan kepada pemegang SBD sebagai SBD
 
-The overall supply picture is complicated by the effect of SBD operations, which may result in large-scale creation or destruction of STEEM through feed rate following and SBD rewards, as discussed in the SBD section. Other, smaller-scale complicating effects also exist, including unclaimed incentives (e.g. block rewards for missed blocks), and abandoned accounts.
+Gambaran pasokan keseluruhan dipersulit oleh efek operasi SBD, yang dapat menyebabkan penciptaan skala besar atau penghancuran STEEM melalui tingkat umpan dan imbalan SBD, seperti yang dibahas di bagian SBD. Efek rumit lainnya, berskala lebih kecil juga ada, termasuk insentif yang tidak diklaim (mis., Block rewards for missed blocks), dan akun terbengkalai.
 
-## Current Allocation & Supply
+## Alokasi & Pasokan Saat Ini
 
-Starting with the network's 16th hard fork in December 2016, Steem began creating new tokens at a yearly inflation rate of 9.5%. The inflation rate decreases at a rate of 0.01% every 250,000 blocks, or about 0.5% per year. The inflation will continue decreasing at this pace until the overall inflation rate reaches 0.95%. This will take about 20.5 years from the time hard fork 16 went into effect.
+Dimulai dengan jaringan kerja keras ke 16 pada bulan Desember 2016, Steem mulai menciptakan token baru dengan tingkat inflasi tahunan sebesar 9,5%. Tingkat inflasi menurun pada tingkat 0,01% setiap 250.000 blok atau sekitar 0,5% per tahun. Inflasi akan terus menurun pada laju ini sampai keseluruhan tingkat inflasi mencapai 0,95%. Ini akan memakan waktu sekitar 20,5 tahun sejak garpu keras 16 mulai berlaku.
 
-75% of the new tokens that are generated go to fund the reward pool, which is split between authors and curators. 15% of the new tokens are awarded to holders of SP. The remaining 10% pays for the witnesses to power the blockchain.
+75% dari token baru yang dihasilkan pergi untuk mendanai kolam hadiah, yang dibagi antara penulis dan kurator. 15% token baru diberikan kepada pemegang SP. Sisanya 10% membayar saksi untuk menyalakan blockchain.
 
-### Impact of Token Creation Rate
+### Dampak Tingkat Penciptaan Token
 
-It is often said that a coin with an inflationary model is not sustainable, but we know from countless real-world examples that the quantity of money does not have a direct and immediate impact on its value, though it certainly plays a role.
+Sering dikatakan bahwa koin dengan model inflasi tidak berkelanjutan, tapi kita tahu dari banyak contoh dunia nyata bahwa kuantitas uang tidak memiliki dampak langsung dan langsung terhadap nilainya, meskipun tentu saja memainkan peran.
 
-From August 2008 through January 2009 the U.S. money supply[^15] grew from $871B to $1,737B, a rate of over 100% per year and then continued to grow at about 20% per year for the next 6 years. All told the money supply in the U.S. has grown by 4.59x over less than 7 years. During that same time, the value of the dollar relative to goods and services has fallen less than 10% according to the government's price index[^16]. This real-world example demonstrates that supply is only one component of price.
+Dari bulan Agustus 2008 sampai Januari 2009 pasokan uang [^15] disajikan dari $ 871B menjadi $ 1.737B, tingkat di atas 100% per tahun dan kemudian terus tumbuh sekitar 20% per tahun selama 6 tahun ke depan. Semua mengatakan bahwa jumlah uang beredar di A.S. telah tumbuh sebesar 4,59x lebih dari 7 tahun. Pada saat bersamaan, nilai dolar relatif terhadap barang dan jasa turun kurang dari 10% menurut indeks harga pemerintah[^16]. Contoh dunia nyata ini menunjukkan bahwa pasokan hanyalah satu komponen harga.
 
-For the first 2 years of Bitcoin’s life the network sustained an annual inflation rate[^17] of over 100%. For the first 5 years it was over 30%, and for the first 8 years it was over 10%. All told the total “spending” Steem does to fund content, curation, and block production amounts to less than 10% APR.
+Untuk 2 tahun pertama kehidupan Bitcoin, jaringan tersebut mempertahankan tingkat inflasi tahunan[^17] lebih dari 100%. Untuk 5 tahun pertama sudah di atas 30%, dan untuk 8 tahun pertama sudah di atas 10%. Semua mengatakan total "pengeluaran" yang Steem lakukan untuk mendanai konten, kurasi, dan produksi blok mencapai kurang dari 10% APR.
 
-The price of a digital commodity, like STEEM, is driven by both supply and demand. When a long-term holder decides to exit, the supply of STEEM on the market will increase and push the price down. This downward pressure is countered when a new long-term holder decides to buy up the STEEM and convert it back into SP. Additional supply and demand may be be added due to market speculators buying and selling liquid STEEM based on their predictions of the future market price.
+Harga komoditas digital, seperti STEEM, didorong oleh penawaran dan permintaan. Ketika pemegang jangka panjang memutuskan untuk keluar, pasokan STEEM di pasaran akan meningkat dan menekan harga turun. Tekanan ke bawah ini akan diimbangi ketika pemegang jangka panjang baru memutuskan untuk membeli STEEM dan mengubahnya kembali menjadi SP. Pasokan dan permintaan tambahan dapat ditambahkan karena spekulan pasar membeli dan menjual STEEM cair berdasarkan prediksi harga pasar masa depan.
 
-# The Power of Steem
+# Kekuatan dari Steem
 
-Steem recognizes that the value of all user contributions (posts and votes) is greater than the sum of the parts. A single comment is worth next to nothing, but millions of curated posts is worth many millions (or possibly even billions) of dollars. A single vote provides little curation value, but billions of votes is very effective curation. Content without curation is of limited value. Given all the content of the Internet minus the links between it, Google would struggle to produce useful search results. It is the links between information that give it significant value.
+Steem mengakui bahwa nilai semua kontribusi pengguna (pos dan suara) lebih besar daripada jumlah bagiannya. Sebuah komentar tunggal tidak sesuai dengan apa-apa, tapi jutaan posting yang dikuratori bernilai jutaan (atau bahkan miliaran) dolar. Satu suara tunggal memberikan sedikit nilai kurasi, namun milyaran suara adalah kurasi yang sangat efektif. Konten tanpa kurasi adalah nilai yang terbatas. Mengingat semua konten Internet dikurangi kaitannya antara itu, Google akan berjuang untuk menghasilkan hasil pencarian yang bermanfaat. Ini adalah hubungan antara informasi yang memberikan nilai signifikan.
 
-Because everyone benefits, everyone should pay. In other words, no individual user should be expected to pay for anything, but instead should be paid for everything they do that brings value to Steem. All we need to do is ascertain which user contributions bring a social network value and which ones don’t.
+Karena setiap orang mendapat manfaat, setiap orang harus membayar. Dengan kata lain, tidak ada pengguna individual yang diharapkan membayar apapun, tapi seharusnya dibayar untuk semua hal yang mereka lakukan yang memberi nilai bagi Steem. Yang perlu kita lakukan adalah memastikan kontribusi pengguna mana yang membawa nilai jaringan sosial dan mana yang tidak.
 
-Collectively Reddit users vote 220 times per second and make 23 posts per second. Reddit is valued between $500 million[^18] and $4 billion[^19] which means that each and every upvote and post is worth between $0.06 and $0.50 assuming the value of Reddit is mostly within the past year’s worth of activity. One could argue that most of the value of Reddit is the near-real-time discussions that have occurred within the past week which would dramatically increase the value of new activity. People go where people are today, not where people were last year.
+Secara kolektif Reddit pengguna memilih 220 kali per detik dan membuat 23 posting per detik. Reddit dihargai antara $ 500 juta[^18] dan $ 4 miliar[^19] yang berarti bahwa masing-masing dan setiap upvote dan post bernilai antara $ 0,06 dan $ 0,50 dengan asumsi nilai Reddit sebagian besar dalam aktivitas tahun lalu. Orang bisa berpendapat bahwa sebagian besar nilai Reddit adalah diskusi hampir real-time yang telah terjadi dalam seminggu terakhir yang secara dramatis akan meningkatkan nilai aktivitas baru. Orang-orang pergi ke tempat orang sekarang, bukan tempat orang-orangnya tahun lalu.
 
-## No Micropayments, Tips Optional
+## Tidak ada Micropayments, Tips Opsional
 
-Existing attempts at integrating a cryptocurrency into a social media platform have focused on enabling users to pay one another. Many services have attempted to introduce tipping. The theory is that if we make tipping simple enough then more people will do it. Other services attempt to get people to pay to promote or boost their content’s ranking. Still others attempt to build small prediction markets on how many tips an article will receive.
+Upaya yang ada untuk mengintegrasikan kriptocurrency ke dalam platform media sosial telah difokuskan untuk memungkinkan pengguna membayar satu sama lain. Banyak layanan telah mencoba memperkenalkan tip. Teorinya adalah jika kita membuat tip cukup sederhana maka lebih banyak orang yang akan melakukannya. Layanan lain berusaha membuat orang membayar untuk mempromosikan atau meningkatkan peringkat konten mereka. Yang lain mencoba membangun prediksi pasar kecil tentang berapa banyak tip yang akan diterima artikel.
 
-All of these approaches boil down to micropayments. They differ only in who is making the payment. They all suffer from insufficient engagement of people making the micropayments. In the search for incentivised content production entrepreneurs have been so focused on who should pay that they missed the obvious reality: everyone benefits from everyone’s actions so everyone should pay or no one should pay, depending on how you look at it.
+Semua pendekatan ini mendidih sampai ke micropayments. Mereka hanya berbeda dalam siapa yang melakukan pembayaran. Mereka semua menderita pertengkaran orang-orang yang tidak mencukupi. Dalam mencari pengusaha produksi konten yang telah diberi insentif, sangat terfokus pada siapa yang harus membayar agar mereka melewatkan kenyataan yang nyata: setiap orang mendapat manfaat dari tindakan setiap orang sehingga setiap orang harus membayar atau tidak ada yang harus membayar, tergantung pada bagaimana Anda melihatnya.
 
-Steem bypasses micropayments completely because when a user upvotes a post it is the community that pays the bill. The same amount of money will be spent whether the user upvotes a post or not and the funds will not come from the voter.
+Steem bypasses micropayments sepenuhnya karena ketika pengguna memasang sebuah posting, itu adalah komunitas yang membayar tagihan. Jumlah uang yang sama akan dikeluarkan apakah pengguna memasang pos atau tidak dan dana tidak akan berasal dari pemilih.
 
-The mental energy associated with making an economic decision becomes a barrier to participation for most people.
+Energi mental yang terkait dengan pengambilan keputusan ekonomi menjadi penghalang untuk partisipasi kebanyakan orang.
 
-*We already face a multitude of choices everyday with regards to what to access online in this digital era of the information explosion, and every additional decision that we must make simply adds on to the uncertainty and anxiety we face. Micropayment supporters believe that a simplified implementation can minimize the intrusiveness of micropayments and improve user experience, but their argument only creates double standards for the decision making process \[2\]. A transaction cannot simultaneously be worth enough to warrant a decision and worth so little that the decision is automatic. **The only transactions that users can approve without thought are ones that cost them nothing**, thus any micro-transaction of positive value will incur mental costs through its requiring a decision. Furthermore, mental transaction costs actually rise below a certain threshold value, a phenomenon that places micropayments at an even greater disadvantage. For instance, it is easy to think that a copy of today's newspapers costs $1, but readers face much more difficulty and anxiety in deciding on the value of each article or word. Such a dilemma will only be replicated and exacerbated if all online content were to be broken down into their components and individually valued within a micropayment system.*
+*Kita sudah menghadapi banyak pilihan sehari-hari berkaitan dengan apa yang dapat diakses secara online di era digital ledakan informasi ini, dan setiap keputusan tambahan yang harus kita tambahkan hanya menambah ketidakpastian dan kecemasan yang kita hadapi. Suporter mikropayment percaya bahwa implementasi yang disederhanakan dapat meminimalkan intrusivitas micropayments dan meningkatkan pengalaman pengguna, namun argumen mereka hanya menciptakan standar ganda untuk proses pengambilan keputusan \ [2 \]. Transaksi tidak dapat sekaligus bernilai cukup untuk menjamin keputusan dan nilainya sangat kecil sehingga keputusannya otomatis. **Satu-satunya transaksi yang dapat disetujui oleh pengguna tanpa dipikirkan adalah yang tidak memerlukan biaya apa pun**, sehingga transaksi mikro bernilai positif akan membawa biaya mental melalui keputusannya. Selanjutnya, biaya transaksi mental benar-benar meningkat di bawah nilai ambang batas tertentu, sebuah fenomena yang menempatkan micropayments pada kerugian yang lebih besar lagi. Misalnya, mudah untuk berpikir bahwa salinan koran hari ini berharga $ 1, namun pembaca menghadapi lebih banyak kesulitan dan kecemasan dalam menentukan nilai setiap artikel atau kata. Dilema semacam itu hanya akan direplikasi dan diperburuk jika semua konten online dipecah menjadi komponen mereka dan dihargai secara individual dalam sistem micropayment.*
 
--Micropayments: A Viable Business Model[^20]
+-Micropayments: Model Bisnis yang Layak[^20]
 
-Under Steem, micropayments are paid to content producer, but those who vote for the content do not pay. Instead, the cost of the reward is paid for via new tokens. Someone can join the system, vote to pay someone, and then exit the system with more money than they started with (assuming the market valuation of the Steem system remained constant). In other words, the micropayment solution provided by Steem provides a user-experience similar to many widely used websites that have user-moderated content.
+Di bawah Steem, micropayments dibayarkan ke produsen konten, namun mereka yang memilih konten tidak membayar. Sebagai gantinya, biaya imbalan dibayarkan melalui token baru. Seseorang dapat bergabung dengan sistem ini, memilih untuk membayar seseorang, dan kemudian keluar dari sistem dengan lebih banyak uang daripada yang mereka mulai dengan (dengan asumsi valuasi pasar sistem Steem tetap konstan). Dengan kata lain, solusi micropayment yang disediakan oleh Steem memberikan pengalaman pengguna yang mirip dengan banyak situs web yang banyak digunakan yang memiliki konten yang dimoderasi oleh pengguna.
 
-Furthemore, Steem pays people to figure out who should be paid! This kind of thinking is revolutionary.
+Lebih jauh lagi, Steem membayar orang untuk mencari tahu siapa yang harus dibayar! Pemikiran seperti ini revolusioner.
 
-## Value is in the Links
+## Nilai ada di Links
 
-The Internet would lose the vast majority of its value if all links among content were removed. It is the relationship among web pages that allows Google to identify the best apple pie recipe among the 16 million results. Without the links the only information Google would have is word frequency.
+Internet akan kehilangan sebagian besar nilainya jika semua tautan di antara konten dihapus. Ini adalah hubungan antara halaman web yang memungkinkan Google untuk mengidentifikasi resep pai apel terbaik di antara 16 juta hasil. Tanpa link, satu-satunya informasi yang Google miliki adalah frekuensi kata.
 
-Links can take many forms and have adapted over time. Every time a user votes on content in a social network they add a connection between themselves and the content. This in turn links the consumer to the producer through the content. The more connections a network has the more valuable the information becomes. It is the relative and intentional connectedness of information that gives it value.
+Link dapat mengambil banyak bentuk dan telah disesuaikan dari waktu ke waktu. Setiap kali pengguna memilih konten di jejaring sosial, mereka menambahkan koneksi antara mereka dan kontennya. Hal ini pada gilirannya menghubungkan konsumen ke produsen melalui konten. Semakin banyak koneksi, sebuah jaringan memiliki informasi yang lebih berharga. Kesesuaian informasi relatif dan disengaja yang memberi nilai.
 
-A social network can maximize the value extracted from a set of content by maximizing the quantity and quality of connections. Curating content is expensive and time consuming while being near impossible for computers to perform in the absence of links. Steem rewards users who are among the first to find and identify new content.
+Jaringan sosial dapat memaksimalkan nilai yang diekstraksi dari sekumpulan konten dengan memaksimalkan kuantitas dan kualitas koneksi. Konten kurasi mahal dan memakan waktu sementara hampir tidak mungkin komputer tampil dengan tidak adanya tautan. Steem memberi penghargaan kepada pengguna yang termasuk orang pertama yang menemukan dan mengidentifikasi konten baru.
 
-By incentivising curation the Steem network is able to use automated algorithms to extract the most valuable information from a massive amount of content.
+Dengan incentivising curation, jaringan Steem dapat menggunakan algoritma otomatis untuk mengekstrak informasi paling berharga dari sejumlah besar konten.
 
-## Solving the Cryptocurrency Onboarding Problem
+## Memecahkan Masalah Onboarding Cryptocurrency
 
-It isn’t easy to get into cryptocurrency[^21]. Someone who discovers Bitcoin and wants to try it out quickly learns that they will need to sign up with an exchange and fund their account with a credit card or wire transfer. What would Facebook’s adoption rate have been like if you had to fork over money and a two forms of ID?
+Tidak mudah masuk ke dalam cryptocurrency[^21]. Seseorang yang menemukan Bitcoin dan ingin mencobanya dengan cepat mengetahui bahwa mereka perlu mendaftar dengan pertukaran dan mendanai akun mereka dengan kartu kredit atau wire transfer. Apa tingkat adopsi Facebook seperti jika Anda harus membayar lebih banyak uang dan dua bentuk ID?
 
-Steem solves this problem by giving everyone a way to get paid for doing simple, but valuable, tasks. This will help to widely distribute STEEM tokens. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless.)
+Steem memecahkan masalah ini dengan memberi setiap orang cara untuk mendapatkan bayaran karena melakukan tugas sederhana namun berharga. Ini akan membantu menyebarkan token STEEM secara luas. Ini sangat membantu karena efek kriptokokus memiliki efek jaringan (yaitu lebih banyak pengguna membuatnya lebih berguna; untuk contoh ekstrem, pertimbangkan bahwa jika Satoshi menyimpan 100% Bitcoin untuk dirinya sendiri, Bitcoin tidak berharga.)
 
-## Solving the Cryptocurrency Liquidation Problem
+## Memecahkan Masalah Likuidasi Cryptocurrency
 
-A currency that is difficult to use or impossible to sell has little value. Someone who comes across $1.00 worth of Bitcoin will discover that it costs more than $1.00 to sell that Bitcoin. They have to create an account with an exchange, perform KYC validation, and pay fees. Small amounts of cryptocurrency are like small change that people are unwilling to bend over to pick up.
+Mata uang yang sulit digunakan atau tidak mungkin dijual memiliki nilai yang kecil. Seseorang yang menemukan Bitcoin senilai $ 1,00 akan menemukan bahwa harganya lebih dari $ 1,00 untuk menjual Bitcoin itu. Mereka harus membuat akun dengan pertukaran, melakukan validasi KYC, dan membayar biaya. Kriptokokus kecil seperti perubahan kecil yang orang tidak mau membungkuk untuk menjemput.
 
-Merchants give users a way to quickly convert their cryptocurrency into tangible goods and services. Merchants need a currency pegged to their unit of account, normally dollars. Accepting a volatile currency introduces significant accounting overhead.
+Pedagang memberi pengguna cara untuk dengan cepat mengubah kriptografi mereka menjadi barang dan layanan yang nyata. Pedagang membutuhkan mata uang yang dipatok pada unit akun mereka, biasanya dolar. Menerima mata uang volatile memperkenalkan overhead akuntansi yang signifikan.
 
-Merchants will accept any currency if it increases their sales. Having a large user base with a stable currency such as SBD lowers the barrier to entry for merchants. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
+Pedagang akan menerima mata uang jika meningkatkan penjualan mereka. Memiliki basis pengguna yang besar dengan mata uang yang stabil seperti SBD menurunkan penghalang untuk masuk bagi pedagang. Kehadiran pedagang meningkatkan sistem dengan menciptakan jalan keluar bagi pengguna untuk keluar dari sistem tanpa kesulitan menggunakan pertukaran.
 
-Another way that people can liquidate the small amounts of cryptocurrency they receive from participating on the Steem platform is through *tipping* others. This is like leaving the small change as a tip for your waiter. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
+Cara lain agar orang dapat melikuidasi sejumlah kecil kripto yang mereka terima dari berpartisipasi dalam platform Steem adalah melalui *tip* lain. Ini seperti meninggalkan sedikit perubahan sebagai tip untuk pelayan Anda. Ketika cukup banyak orang meninggalkan tip kecil, jumlahnya bertambah sampai jumlah yang berarti. Anda dan pelayan masing-masing mendapatkan keuntungan dari ujungnya.
 
-## Censorship
+## Sensor
 
-Steem is a decentralized network that is operated by witnesses in jurisdictions around the world. All user actions are publicly recorded on the blockchain, and can be publicly verified. This means that there is no single entity that can censor content that is valued by STEEM holders.
+Steem adalah jaringan desentralisasi yang dioperasikan oleh saksi di yurisdiksi di seluruh dunia. Semua tindakan pengguna dicatat secara publik di blokir, dan dapat diverifikasi oleh publik. Artinya tidak ada satu kesatuan pun yang bisa menyensor konten yang dinilai oleh pemegang STEEM.
 
-Individual websites such as steemit.com may censor content on their particular site, but content published on the blockchain is inherently broadcast traffic and mirrors all around the world may continue to make it available.
+Situs perorangan seperti steemit.com dapat menyensor konten di situs mereka, namun konten yang dipublikasikan di blokir tersebut secara inheren menyiarkan lalu lintas dan cermin di seluruh dunia dapat terus membuatnya tersedia.
 
-Freedom of speech is the foundation of all other liberties and any infringement upon freedom of speech undermines the only peaceful means of reaching consensus: discussion. Without free discussion voters cannot be fully informed, and uninformed voters are a greater threat to society than losing the right to vote. Censorship is a means of stealing votes through limiting public discourse. Steem is committed to enabling free speech and building a free society.
+Kebebasan berbicara adalah dasar dari semua kebebasan lainnya dan setiap pelanggaran terhadap kebebasan berbicara merusak satu-satunya cara damai untuk mencapai konsensus: diskusi. Tanpa pemilih diskusi bebas tidak dapat diinformasikan sepenuhnya, dan pemilih yang tidak mengetahui adalah ancaman yang lebih besar bagi masyarakat daripada kehilangan hak untuk memilih. Penyensoran adalah sarana untuk mencuri suara melalui pembatasan wacana publik. Steem berkomitmen untuk memungkinkan kebebasan berbicara dan membangun masyarakat bebas.
 
-## Solving Organic Discovery via Search Engine Optimization
+## Memecahkan Discovery Organik melalui Search Engine Optimization
 
-Most cryptocurrencies generate little value for those who are not actively using the network. Steem, by contrast, generates content and encourages users to share it. This content gets indexed by search engines and ultimately will bring value to a large number of passive users. This search traffic creates organic advertising for the Steem network and grows the network effect.
+Kebanyakan kriptokokus menghasilkan sedikit nilai bagi mereka yang tidak aktif menggunakan jaringan. Steem, sebaliknya, menghasilkan konten dan mendorong pengguna untuk membagikannya. Konten ini diindeks oleh mesin pencari dan pada akhirnya akan membawa nilai bagi sejumlah besar pengguna pasif. Lalu lintas pencarian ini menciptakan iklan organik untuk jaringan Steem dan menumbuhkan efek jaringan.
 
-## Shifting Toward Blockchain-based Attribution
+## Pergeseran Menuju Attribut berbasis Blockchain
 
-The internet represents the easiest medium for distributing information in the world. With that said, it can be a frightening place for content creators who would like to own their content and have it shared with proper attribution. On current social media platforms, attribution is something that can be lost overnight - a posted video or image can be replicated and re-shared without consent or regard for the creator.
+Internet merupakan media termudah untuk mendistribusikan informasi di dunia. Dengan mengatakan bahwa, ini bisa menjadi tempat yang menakutkan bagi pencipta konten yang ingin memiliki konten mereka dan memilikinya bersama dengan atribusi yang tepat. Pada platform media sosial saat ini, atribusi adalah sesuatu yang dapat hilang dalam semalam - video atau gambar yang diposkan dapat direplikasi dan dibagikan ulang tanpa persetujuan atau penghormatan kepada pencipta.
 
-Under blockchain-based social media, a creator or author would always be able to point to a public record and timestamp showing proof of their content origination. In a circumstance where a creator would like to address those who have re-shared without permission or attribution, blockchain-based records provide public proof that the content was posted by a particular user at a particular time. In the future, blockchain-based attribution could come to be recognized by governments for its authenticity and could hold weight in court, which would give content creators greater powers to control their work.
+Di bawah media sosial berbasis blockchain, pencipta atau penulis selalu dapat menunjukkan catatan publik dan stempel waktu yang menunjukkan bukti originasi konten mereka. Dalam keadaan dimana pencipta ingin menangani mereka yang telah berbagi kembali tanpa izin atau atribusi, catatan berbasis blockchain memberikan bukti publik bahwa konten tersebut diposkan oleh pengguna tertentu pada waktu tertentu. Ke depan, atribusi berbasis blockchain bisa dikenali oleh pemerintah karena keasliannya dan dapat menahan beban di pengadilan, yang akan memberi pengaruh kepada pencipta konten yang lebih besar untuk mengendalikan pekerjaan mereka.
 
-While a timestamping service can be built on almost any blockchain, and several efforts exist to build this kind of service on the Bitcoin network, Steem has a useful advantage in this realm because content publishers are “first class citizens” -- the Steem blockchain is built from the ground up around the use case of content publication, which allows content creators to have the blockchain to validate their content at a certain point in time simply by writing their post using the same authoring tools used by other Steem users.
+Sementara layanan timestamping dapat dibangun di hampir semua blockchain, dan beberapa usaha ada untuk membangun layanan semacam ini di jaringan Bitcoin, Steem memiliki keuntungan yang berguna di dunia ini karena penerbit konten adalah "warga kelas satu" - the Steem blockchain adalah dibangun dari bawah ke atas seputar penggunaan publikasi konten, yang memungkinkan pencipta konten memiliki blockchain untuk memvalidasi konten mereka pada titik waktu tertentu hanya dengan menulis posting mereka menggunakan alat authoring yang sama yang digunakan oleh pengguna Steem lainnya.
 
-## Replacing Advertising with Blockchain-based Content Rewards
+## Mengganti Iklan dengan Pemberian Imbalan Berbasis Blockchain
 
-Under most content monetization models, content creators leverage advertising in one form or another. Many creators recognize how advertising may diminish their work’s value to the consumer, yet creators very often must seek returns on their time by monetizing. Advertising represents a double-edged sword: With ads, a creator can make money most easily. Without ads, monetization is difficult but the content is richer.
+Di bawah sebagian besar model monetisasi konten, pembuat konten memanfaatkan iklan dalam satu bentuk atau bentuk lainnya. Banyak pembuat konten menyadari bagaimana iklan dapat mengurangi nilai pekerjaan mereka kepada konsumen, namun pencipta sangat sering harus mencari keuntungan pada waktu mereka dengan menghasilkan uang. Periklanan mewakili pedang bermata dua: Dengan iklan, pencipta dapat menghasilkan uang dengan sangat mudah. Tanpa iklan, monetisasi sulit tapi kontennya lebih kaya.
 
-Creators posting to social media outlets that are connected to Steem may monetize merely by having their work recognized (or ”liked”) by the Steem community. Blockchain-based payouts are completely digital and have no middle-man. Therefore monetization by blockchain-based content rewards should be faster and much lower barrier to use than monetization by advertisements.
+Pembuat konten yang masuk ke media sosial yang terhubung dengan Steem dapat menguangkan hanya dengan mendapatkan karya mereka yang dikenal (atau "disukai") oleh komunitas Steem. Blockchain berbasis pembayaran benar-benar digital dan tidak memiliki orang tengah. Oleh karena itu monetisasi dengan imbalan konten berbasis blockchain harus lebih cepat dan penghalang yang jauh lebih rendah untuk digunakan daripada monetisasi oleh iklan.
 
-# Conclusion
+# Kesimpulan
 
-Steem is an experiment designed to address challenges in the cryptocurrency and social media industries by combining the best aspects from both. Steem presents earning opportunities to content creators and internet readers in ways that have not existed within the social media industry. Within Steem, individuals earn real rewards online that are directly correlated to their contributions. Those rewards may have dollar value due to the market price discovery and liquidity of Steem, and the people who hold Steem may have more exclusive earning powers than those who do not.
+Steem adalah eksperimen yang dirancang untuk mengatasi tantangan dalam industri kriptocurrency dan media sosial dengan menggabungkan aspek terbaik dari keduanya. Steem menyajikan peluang bagi pembuat konten dan pembaca internet dengan cara yang belum ada dalam industri media sosial. Dalam Steem, individu mendapatkan imbalan nyata secara online yang secara langsung berkorelasi dengan kontribusi mereka. Imbalan tersebut mungkin memiliki nilai dolar karena penemuan harga pasar dan likuiditas Steem, dan orang-orang yang memegang Steem mungkin memiliki kekuatan penghasilan yang lebih eksklusif daripada mereka yang tidak memilikinya.
 
 [^1]: Reddit’s Cryptocurrency, Forbes, Erika Morphy, October 2014 http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/\#4e07b05332b9
 

@@ -1,78 +1,78 @@
-# Steem
+# ستيم
 
-## 一个基于区块链，能让你妙笔生金的公共内容平台
+## منصة محفزة ، قائمة على بلوكشين ، وذات محتوى عام.
 
-2017年8月
+غشت عام 2017
 
-# 译者信息
+# ملاحظات المترجم
 
-译者信息的站位符
+العنصر النائب لملاحظات المترجم.
 
-# 摘要
+# خلاصة
 
-Steem是一个通过提供加密货币奖励支持社区建设和社会互动的区块链数据库。 Steem将社交媒体中的概念与发行加密货币及建设其社区过程中汲取的经验相结合。 能够激励人们参与社区、货币和自由市场经济的关键因素是提供一个始终反映每个人贡献的公平计算体系。 Steem是第一个尝试准确、透明地为无数对社区做出积极贡献的个人提供回报的加密货币。
+ستيم هو قاعدة بيانات بلوكشين التي تدعم بناء المجتمع والتفاعل الاجتماعي مع مكافآت العملة الإفتراضية. ستيم يدمج المفاهيم من وسائل الاعلام الاجتماعية مع دروس مستفاد منها من بناء العملات الإفتراضية ومجتمعاتها. مفتاح مهم لإلهام المشاركة في أي مجتمع، العملة أو اقتصاد السوق الحر هو نظام المحاسبة العادلة التي تعكس باستمرار مساهمة كل شخص. ستيم هي العملة الإفتراضية الأولى التي تحاول بدقة وشفافية مكافأة عدد غير محدود من الأفراد الذين شاركو* مساهمات ذاتية * لمجتمعها.
 
-# 目录
+# جدول المحتويات
 
 <!-- toc -->
 
-# 简介
+# مقدمة
 
-总的来说，由在线用户所生成的内容已为像Reddit、Facebook和Twitter这样的社交媒体公司的股东们创造了上亿美元的财富。 **2014年，Reddit作出假设：如果对每一个以写日志、评论或点赞这种形式向reddit.com做出贡献的个人奖励一份Reddit公司[^1]的公平股份，那么其平台将得到改进。** Steem旨在以加密货币的形式对那些优秀内容贡献者支付回报来支持社交媒体和在线社区，同时这个过程中将产生一个涵盖所有虚拟货币经济参与者的广阔市场。
+بشكل جماعي، المحتوى الذي ينشئه المستخدمون قد خلق مليارات الدولارات من قيمة المساهمين في شركات وسائل الإعلام الاجتماعية، مثل رديت، الفيسبوك، وتويتر. **في عام 2014، افترضت رديت أن برنامجها سيتحسن إذا ساهم الكل في reddit.com من خلال نشر القصص، إضافة تعليقات أو تمت مكافأة التصويت بحصة عادلة في شركة رديت.[^1]**. يهدف ستيم إلى دعم وسائل الإعلام الاجتماعية والمجتمعات عبر الإنترنت من خلال إعادة الكثير من قيمتها إلى الناس الذين يقدمون مساهمات قيمة من خلال مكافأتهم بالعملة الإفتراضية، ومن خلال هذه العملية يتم إنشاء العملة التي هي قادرة على الوصول إلى سوق واسع،  بما في ذلك الناس الذين لم يشاركوا في أي اقتصاد للعملة الإفتراضية.
 
-在设计Steem的过程中，采用了一些关键的指导原则。 其中最重要的一条是：每一个对某个事业做出贡献的个体都应从该事业中收获与其贡献相符的所有权，报酬或者债券。 这是一条所有初创公司在他们的创建与融资阶段都遵循的原则。
+هناك بعض المبادئ الرئيسية التي تم استخدامها لتوجيه تصميم ستيم. وأهم مبدأ هو أن كل من يساهم في مشروع ما ينبغي أن يحصل على ملكية تناسبية أو دفع أو دين من المشروع. هذا المبدأ هو نفس المبدأ الذي يتم تطبيقه على جميع الشركات الناشئة لأنها تخصص الأسهم في التأسيس وأثناء جولات التمويل اللاحقة.
 
-其次，第二条原则是：所有形式的资产都应具有同等价值。 这意味着那些贡献了宝贵的时间与与精力以给他人生产和策划内容服务的人应该与那些贡献宝贵金钱的人具有同样的价值。 这就是人力资产原则[^2]同时也是之前的加密货币所同样拥有，但经常对一定数量以上的个体使用时就会存在问题的概念。
+والمبدأ الثاني هو أن جميع أشكال رأس المال لها قيمة متساوية. وهذا يعني أن أولئك الذين يساهمون بوقتهم النادر ويهتموم نحو إنتاج المحتوى وتمويله للآخرين ،لا يقلون قيمة عن أولئك الذين يساهمون نقدا نادرا. هذا هو مبدأ عرق الإنصاف [^2] و هو مفهوم أن العملات الإفتراضية السابقة غالبا ما كان مشكلة توفير أكثر من بضع عشرات من الأفراد.
 
-第三条原则是社区所生产出的成果应为其成员服务。 这条原则的范例是像信用合作社，食品合作社和健康分享计划这一类仅为社区成员提供服务而不是将产品与服务出售给其社区以外的人的社区与团体。
+المبدأ الثالث هو أن المجتمع ينتج منتجات لخدمة أعضائه. ويتمثل هذا المبدأ من قبل الاتحادات الائتمانية، والجمعيات الغذائية، وخطط تقاسم الصحة، التي تخدم أعضاء مجتمعهم بدلا من بيع المنتجات أو الخدمات للناس خارج المجتمع.
 
-Steem 社区向其成员提供以下服务：
+يقدم مجتمع ستيم الخدمات التالية لأعضائه:
 
-1. 一个优质新闻和时事评论的来源。
-2. 一个能使个性问题得到更高质量解答的方法。
-3. 一个与美元挂钩的稳定加密货币。
-4. 免费支付。
-5. 提供服务他人的工作机会。
+1. مصدر لتمويل الأخبار و التعليق.
+2. وسيلة للحصول على إجابات ذات جودة عالية على الأسئلة الشخصية.
+3. عملة إفتراضية مستقرة و مرتبطة بالدولار الأمريكي.
+4. الدفع بالمجان.
+5. وظائف توفير الخدمات المذكورة أعلاه للأعضاء الآخرين.
 
-相较于之前的社交媒体与虚拟币平台，Steem通过对激励人们做事的经济诱因进行有目的地的调整使其具备了为其社区中的每一个人生成更公平也更具包容性结果的潜质。 本文将探讨现有的经济诱因，并说明Steem的激励政策将如何为其大多数的参与者带来更好的结果。
+إعادة تنظيم ستيم الهادف للحوافز الاقتصادية لديه القدرة على تحقيق نتائج أكثر عدلا وأكثر شمولية لكل من يشارك في وسائل الإعلام الاجتماعية ومنصات العملات الإفتراضية التي رحلت من قبل. وستستعرض هذه الورقة الحوافز الاقتصادية القائمة وتظهر كيف يمكن أن تؤدي حوافز ستيم إلى نتائج أفضل لمعظم المشاركين.
 
-## 认证贡献
+## الاعتراف بالمساهمة
 
-Steem是一个为彻底解决社交媒体经济的应用与其货币化问题而设计的解决方案。 我们的观点是用于帮助主要社交媒体成长的技术同样也适用于一个成功的加密货币。 由加密货币作为载体的激励措施可以极大地促进新兴社交媒体的发展。 It is the synergy between cryptocurrency and social media that we believe may give Steem a powerful advantage in the market.
+تم تصميم ستيم من الألف إلى الياء لمعالجة الحواجز الرئيسية التي تحول دون اعتماد الاقتصاد القائم على وسائل التواصل الاجتماعي وتحقيق الدخل منه. أطروحتنا هي أن نفس التقنيات المستخدمة في نمو منصات وسائل الاعلام الاجتماعية الرئيسية يمكن استخدامها ل بوتستراب كريبتوكيرنسي ناجحة. الحوافز الاقتصادية التي مكنتها العملة الإفتراضية يمكن أن تسهل بشكل كبير نمو منصة وسائل إعلام اجتماعية جديدة. هذا هو التآزر بين العملة الإفتراضية و وسائل الاعلام الاجتماعية التي نعتقد أنها قد تعطي لستيم ميزة قوية في السوق.
 
-The challenge faced by Steem is deriving an algorithm for scoring individual contributions that most community members consider to be a fair assessment of the subjective value of each contribution. In a perfect world, community members would cooperate to rate each other's contribution and derive a fair compensation. In the real world, algorithms must be designed in such a manner that they are resistant to intentional manipulation for profit. Any widespread abuse of the scoring system could cause community members to lose faith in the perceived fairness of the economic system.
+التحدي الذي يواجهه ستيم هو استخلاص خوارزمية لتسجيل المساهمات الفردية التي يعتبرها معظم أفراد المجتمع تقييما عادلا للقيمة الذاتية لكل مساهمة. وفي عالم مثالي، سيتعاون أعضاء المجتمع المحلي لتقييم مساهمة بعضهم البعض والحصول على تعويض عادل. في العالم الحقيقي، يجب أن تصميم الخوارزميات على نحو يجعلها مقاومة للتلاعب المتعمد من أجل الربح. وأي انتشار واسع لسوء استخدام نظام التنقيط يمكن أن يتسبب في فقدان ثقة أفراد المجتمع في الإنصاف المتصور للنظام الاقتصادي.
 
-Existing platforms operate on a one-user, one-vote principle. This creates an environment where rankings can be manipulated by sybil attacks and the service providers must pro-actively identify and block abusers. People already attempt to manipulate the Reddit, Facebook, and Twitter scoring algorithms when the only reward is web traffic or censorship.
+وتعمل المنصات الحالية على مبدأ مستخدم واحد، صوت واحد. وهذا يخلق بيئة حيث المصنفون الأوائل يمكنهم التلاعب بهجمات سيبيل  ويجب على مقدمي الخدمات أن يحددوا ويمنعوا المسيئين بشكل استباقي. الناس بالفعل محاولة للتلاعب رديت، الفيسبوك، وتويتر لتحطيم ارقام الخوارزميات عندما تكون المكافأة الوحيدة هي تسجيلات المرور على شبكة الإنترنت أو الرقابة.
 
-The fundamental unit of account on the Steem platform is STEEM, a crypto currency token. Steem operates on the basis of one-STEEM, one-vote. Under this model, individuals who have contributed the most to the platform, as measured by their account balance, have the most influence over how contributions are scored. Furthermore, Steem only allows members to vote with STEEM when it is committed to a vesting schedule. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
+الوحدة الأساسية للحساب على منصة ستيم هي STEEM، رمز العملة الإفتراضية. يعمل ستيم على أساس ستيم واحد، صوت واحد. وبموجب هذا النموذج، فإن الأفراد الذين ساهموا بأكبر قدر ممكن في المنصة، مقاسة برصيد حساباتهم، لهم أكبر تأثير على كيفية تسجيل المساهمات. وعلاوة على ذلك، ستيم يسمح فقط للأعضاء بالتصويت مع ستيم عندما يتم الإلتزام بجدول زمني للإستحقاق. وبموجب هذا النموذج، يتمتع الأعضاء بحافز مالي للتصويت بطريقة تزيد إلى أقصى حد من قيمة الستيم الخاص بهم.
 
-Steem is designed around a relatively simple concept: *everyone’s meaningful contribution to the community should be recognized for the value it adds.* When people are recognized for their meaningful contributions, they continue contributing and the community grows. Any imbalance in the give and take within a community is unsustainable. Eventually the givers grow tired of supporting the takers and disengage from the community.
+تم تصميم ستيم حول مفهوم بسيط نسبيا:* كل شخص لديه مساهمة ذات مغزى إلى المجتمع ينبغي أن يعترف بالقيمة التي يضيفها.* عندما يعترف الناس لمساهماتهم ذات مغزى. فإنهم يستمرون فالمساهمة والمجتمع يكبر. أي اختلال في العطاء والتدخل داخل المجتمع لا يمكن تحمله. في نهاية المطاف المتناميون يتعبون من دعم المتسللين وفك الارتباط من المجتمع.
 
-The challenge is creating a system capable of identifying what contributions are needed and their relative worth in a way that can scale to an unbounded number of people.
+ويتمثل التحدي في إنشاء نظام قادر على تحديد المساهمات المطلوبة وقيمتها النسبية بطريقة يمكن أن تصل إلى عدد غير محدود من الناس.
 
-A proven system for evaluating and rewarding contributions is the free market. The free market can be viewed as a single community where everyone trades with one another and rewards are allocated by profit and loss. The market system rewards those who provide value to others and punishes those who consume more value than they produce. The free market supports many different currencies and money is simply a commodity that everyone finds easy to exchange.
+وهناك نظام مؤكد لتقييم ومكافأة المساهمات هو السوق الحر او المجاني. ويمكن النظر إلى السوق الحر كمجتمع واحد حيث يتداول الجميع مع بعضهم البعض ويتم توزيع المكافآت عن طريق الربح والخسارة. نظام السوق يكافئ أولئك الذين يقدمون قيمة للآخرين ويعاقب أولئك الذين يستهلكون قيمة أكثر مما تنتج. السوق الحرة تدعم العديد من العملات المختلفة والمال هو ببساطة سلعة التي يجدها الكل سهلة للتبادل.
 
-Since the free market is a proven system, it is tempting to try to create a free-market system where content consumers directly pay content producers. However, direct payment is inefficient and not really viable for content creation and curation. The value of most content is so low relative to the cognitive, financial, and opportunity costs associated with making a payment that few readers choose to tip. The abundance of free alternatives means that enforcing a ‘paywall’ will drive readers elsewhere. There have been several attempts to implement per-article micropayments from readers to authors, but none have become widespread.
+وبما أن السوق الحرة نظام مثبت، فإنه من المغري محاولة إنشاء نظام السوق الحر حيث يدفع المستهلكون المحتوى إلى منتجي المحتوى مباشرة. ومع ذلك، فإن الدفع المباشر غير فعال وغير قابل للتطبيق حقا لإنشاء المحتوى وتمويله. قيمة معظم المحتوى منخفضة جدا بالنسبة إلى المعرفية، والمالية، وتكاليف المناسبة مرتبطة بإجراء الدفع والتي قلة من القراء يختارون تلميحها. وفرة البدائل المجانية يعني أن فرض "paywall"  سوف تدفع القراء إلى أماكن أخرى. كانت هناك عدة محاولات لتنفيذ المدفوعات الصغيرة لكل مقالة من القراء إلى المؤلفين، ولكن لم ينتشر أي منها على نطاق واسع.
 
-Steem is designed to enable effective micropayments for all kinds of contribution by changing the economic equation. Readers no longer have to decide whether or not they want to pay someone from their own pocket, instead they can vote content up or down and Steem will use their votes to determine individual rewards. This means that people are given a familiar and widely used interface and no longer face the cognitive, financial, and opportunity costs associated traditional micropayment and tipping platforms.
+تم تصميم ستيم لتفعيل مدفوعات صغيرة ناجحة لجميع أنواع المساهمة عن طريق تغيير المعادلة الاقتصادية. لم يعد على القراء أن يقرروا ما إذا كانوا يريدون الدفع لشخص ما من جيبهم الخاص، بدلا من ذلك يمكنهم التصويت مع او ضد المحتوى وستستخدم ستيم أصواتهم لتحديد المكافآت الفردية. وهذا يعني أن الناس يعطون واجهة مألوفة تستخدم على نطاق واسع ولم تعد تواجه التكاليف المعرفية والمالية، والفرص المرتبطة بالدفع الجزئي التقليدي والمنصات المتحولة.
 
-Voting input from community members is critical for Steem to accurately allocate payments to contributors. Voting can therefore be viewed as a crucial contribution and worthy of rewards on its own. Some platforms, such as Slashdot, use meta-moderation[^3] as a way to rank and reward honest moderators. Steem chooses to reward those who contribute the most to the total promotion of a piece of content and rewards the voters proportional to the ultimate reward paid to the content creator.
+إن التصويت من أعضاء المجتمع أمر بالغ الأهمية بالنسبة لشركة ستيم لتخصيص المدفوعات للمساهمين بدقة. ولذلك يمكن النظر إلى التصويت على أنه مساهمة حاسمة وتستحق المكافآت من تلقاء نفسها. Some platforms, such as Slashdot, use meta-moderation[^3] as a way to rank and reward honest moderators. يختار ستيم لمكافأة أولئك الذين يساهمون أكثر من إجمالي الترويج لقطعة من المحتوى ويكافئ المصوتين بما يتناسب مع المكافأة النهائية المدفوعة لمبدع المحتوى.
 
-# Ways to Contribute
+# طرق المساهمة
 
-This section outlines the ideas behind Steem and its rewards for people who provide meaningful and measurable contributions to the Steem community.
+يوضح هذا القسم الأفكار الكامنة وراء ستيم ومكافآته لألشخاص الذين يقدمون مساهمات مجدية وقابلة للقياس لمجتمع ستيم.
 
-## Capital Contributions
+## المساهمات الرأسمالية
 
-There are two items a community can offer to attract capital: debt and ownership. Those who buy ownership profit when the community grows but lose if the community shrinks. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
+هناك بندان يمكن للمجتمع تقديمهما لجذب رأس المال: الدين والملكية. أولئك الذين يشترون أرباح الملكية عندما ينمو المجتمع يخسرون إذا تقلص المجتمع. ويضمن أولئك الذين يشترون الديون قدرا معينا من الفائدة ولكن لا يحصلون على المشاركة في أي أرباح تتحقق من نمو المجتمع. وكلا النوعين من المساهمات الرأسمالية له قيمة بالنسبة لنمو المجتمع وقيمة عملته. بالإضافة إلى ذلك هناك طريقتان لإمكانية عقد الملكية: السلاسة والاستحقاق. وتؤدي ملكية الاستحقاق إلى التزام ذو أجل طويل ولا يمكن بيعها لفترة زمنية محدودة.
 
-The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SBD).
+تدعو شبكة ستيم فئات الأصول المختلفة هذه ستيم (STEEM)، قوة ستيم (SP)، وستيم دولار (SBD).
 
-## Steem (STEEM)
+## ستيم (STEEM)
 
-Steem is the fundamental unit of account on the Steem blockchain. All other tokens derive their value from the value of STEEM. STEEM is a liquid currency, and therefore can be bought or sold on exchanges, as well as transferred to other users as a form of payment.
+ستيم هو وحدة الحساب الأساسية على بلوكشين ستيم. وتستمد جميع الرموز الأخرى قيمتها من قيمة ستيم. ستيم هو عملة سلسة، وبالتالي يمكن شراؤها أو بيعها في البورصات، وكذلك نقلها إلى مستخدمين آخرين على شكل دفعة.
 
-## Steem Power (SP)
+## قوة ستيم (SP)
 
 Start up companies require long-term capital commitment. Those who invest their money in a startup expect to wait years before they can sell their shares and realize their profits. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
 

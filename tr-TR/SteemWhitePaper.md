@@ -200,55 +200,55 @@ Sistemi kötüye insanları tutmak için *negatif oy* kullanımı bir tek tek he
 
 Bir adam sahil boyunca yürüyordu ve yanındaki bir yem kovalı sörfte başka bir adamın balık tuttuğunu gördü. Daha yaklaşırken, yem kovasının kapağı olmadığını ve içindeki canlı yengeçleri olduğunu gördü.
 
-"Why don't you cover your bait bucket so the crabs won't escape?", he said.
+"Neden yengeçler kaçmayacak şekilde yem kovasını kapatmıyorsun?" dedi.
 
-"You don't understand.", the man replied, "If there is one crab in the bucket it would surely crawl out very quickly. However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
+"Anlamıyorsun" diye yanıtladı adam, "Kova içinde bir yengeç varsa mutlaka çok çabucak dışarı çıkacaktı. Bununla birlikte, kovada çok sayıda yengeç olduğunda, biri etrafı taramaya çalışırsa, diğerleri yandan tutarsa diğerleri onu tutup geri çekerek geri kalanıyla aynı kaderi paylaşır. "
 
-So it is with people. If one tries to do something different, get better grades, improve herself, escape her environment, or dream big dreams, other people will try to drag her back down to share their fate.
+Yani insanlarla birlikte. Farklı bir şey yapmaya, daha iyi dereceler elde etmeye, kendisini geliştirmeye, çevreden çıkmaya veya hayaller kurmaya çalışmaya kalkarsanız, diğer insanlar kaderlerini paylaşmak için geri çekmeye çalışacaktır.
 
-Eliminating “abuse” is not possible and shouldn’t be the goal. Even those who are attempting to “abuse” the system are still doing work. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn’t so rampant that it undermines the incentive to do real work in support of the community and its currency.
+"Kötüye kullanma" nın ortadan kaldırılması mümkün değildir ve bir amaç olmamalıdır. Sistemi "kötüye kullanmaya" çalışan kişiler bile hala iş yapıyor. Kötüye kullanım ya da gizli anlaşma için başarılı girişimlerinden ötürü aldıkları tazminat, para birimini, geleneksel Bitcoin madenciliği ya da madencilik havuzları yoluyla yapılan gizli yakma madenciliği tarafından kullanılan işlerlik sistemi olarak dağıtmak açısından en azından değerlidir. Gerekli olan tek şey, kötüye kullanımın yaygın olmamasını, topluluk ve para birimini desteklemek için gerçek bir iş yapmak için teşviki zayıflatmamasını sağlamaktır.
 
-The goal of building a community currency is to get more “crabs in the bucket”. Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs sufficient power to prevent others from escaping.
+Bir topluluk para birimi kurmanın amacı, "kovada yengeç almak" 'dan daha fazla. Tüm kötüye kullanımı ortadan kaldırmak için aşırı tedbirlere başvurmak, birkaç yengeçin kaçmasını önlemek için kovaya bir kapak koymaya çalışmak gibidir ve kepçeye yeni yengeçler gelmesini zorlaştırmak gibidir. Duvarları kaygan hale getirmek ve diğer yengeçlere başkalarının kaçmasını önlemek için yeterli gücü vermek yeterlidir.
 
-### Rate Limited Voting
+### Oranı Sınırlı Oylama
 
-A major part of minimizing abuse is the rate-limiting of voting. Individual users can only read and evaluate so many work items per day. Any attempt to vote more frequently than this is a sign of automation and potential abuse. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
+Kötüye kullanımı en aza indirmenin önemli bir kısmı oyların oran sınırlamalarıdır. Bireysel kullanıcılar günlük yalnızca pek çok iş parçasını okuyabilir ve değerlendirebilirler. Bundan daha sık oy kullanmak için yapılan herhangi bir girişim, otomasyon ve potansiyel istismarın bir işaretidir. Oran sınırlamayla, daha sık oy kullanan paydaşlar her oy için daha az oy alan paydaşlardan daha azını sayarlar. Birden fazla hesap arasında token'leri bölme girişimleri de etkiyi böler ve dolayısıyla etki üzerinde net bir artışa neden olmaz ve oylamaya uygulanan oran sınırını ortadan kaldırmaz.
 
-Users are allotted a fixed amount of voting power. Voting power is multiplied by a user’s vesting tokens to determine how much share in the reward pool should be allocated to a given work item. Every vote that is cast uses a percentage of remaining voting power. Users can vote for more posts, but each vote will be worth less, and it will take longer to reach full voting power again. Voting power recharges at a fixed linear rate of 20% per day.
+Kullanıcılara sabit bir oy hakkı tahsis edilmektedir. Ödül havuzunda ne kadar payın belirli bir iş kalemine tahsis edilmesi gerektiğini belirlemek için oylama gücü bir kullanıcının imtiyaz niteliği ile çarpılır. Aktarılan her oy, kalan oy gücü yüzdesini kullanır. Kullanıcılar daha fazla içerik için oy kullanabilir, ancak her oy daha az değerde olacak ve tekrar tam oy gücüne ulaşma süresi uzayacaktır. Oylama gücü, günde% 20'lik sabit bir doğrusal oranda yeniden artar.
 
-### Payout Distribution
+### Ödeme Dağıtımı
 
-One of the primary goals of Steem’s reward system is to produce the best discussions on the internet. Each and every year 75% of the yearly inflation is distributed to users submitting, voting on, and discussing content. At the size of Bitcoin this could be several million dollars per day being given to the top contributors.
+Steem'in ödül sisteminin ana hedeflerinden biri, internet üzerinden en iyi tartışmaları üretmektir. Yıllık enflasyonun her yıl %75'i içeriği gönderen, oy veren ve tartışan kullanıcılara dağıtılır. Bitcoin'in büyüklüğünde bu, en çok katkıda bulunan kişilere günde birkaç milyon dolar verilebilir.
 
-The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content.
+Gerçek dağıtım, kullanıcıların oylama modellerine bağlı olacaktır, ancak ödüllerin büyük çoğunluğunun en popüler içeriğe dağıtıldığından şüpheleniyoruz.
 
-Zipf’s Law[^7] is one of those empirical rules that characterize a surprising range of real-world phenomena remarkably well. It says that if we order some large collection by size or popularity, the second element in the collection will be about half the measure of the first one, the third one will be about one-third the measure of the first one, and so on. In general, the k th-ranked item will measure about 1/k of the first one.
+Zipf Yasası [^7], gerçek dünyadaki şaşırtıcı bir fenomeni karakterize eden ampirik kurallardan biridir. Büyüklük ya da popülerlik bakımından büyük bir koleksiyon sipariş edersek, koleksiyonun ikinci öğesi birincinin ölçüsünün yaklaşık yarısı, üçüncü birincil ölçütün yaklaşık üçte biri olacak ve bu şekilde. Genel olarak, k. sıradaki öğe birincisinin yaklaşık 1/k'sini ölçer.
 
 ![](\img_the_new_marketplace.png)
 
-Taking popularity as a rough measure of value, then the value of each individual item is given by Zipf’s Law. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
+Popülerlik değerinin kaba bir ölçüsü olarak popülerlik kazandığında, her bir öğenin değeri Zipf Yasası tarafından verilir. Yani, bir milyon öğe sahibiysek, en popüler 100 toplam değerin üçte birine, bir sonraki 10.000 diğer üçüncü, sonraki 989.900 ise final üçüncüye katkıda bulunacaktır. N öğe toplama değeri log(n) ile orantılıdır.
 
-The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
+Bu oylama ve ödeme dağıtımının etkisi, küçük oyunculara uzun vadeli katkılarından ödün vermeden, iyi içeriklere büyük ikramiyeler sunmaktır.
 
-The economic effect of this is similar to a lottery where people overestimate their probability of getting votes and thus do more work than the expected value of their reward and thereby maximize the total amount of work performed in service of the community. The fact that everyone “wins something” plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
+Bunun ekonomik etkisi, insanlar oy alma ihtimalini fazla tahmin ettiği ve dolayısıyla ödülünün beklenen değerinden daha fazla iş yürüttüğü ve böylece topluluk hizmetinde gerçekleştirilen toplam iş miktarını en yükseğe çıkaran bir piyangoya benzer. Herkesin "bir şeyler kazanması" durumu, casinoların kumar oynatmak için kullandıkları psikoloji ile aynıdır. Başka bir deyişle, küçük ödüller, daha büyük ödüller kazanmanın mümkün olduğunu düşünmeye yardımcı olur.
 
-### Payouts
+### Ödemeler
 
-When a post receives a payout it takes the form of 50% SBD and 50% SP. The Steem Power give the user increased voting and transaction power while the SBD gives the user an immediate benefit in a stable currency. As we’ve already discussed at length, SP is designed to encourage long-term holding rather than short-term selling. This encourages more users to have a vested interest in the long-term success of the platform.
+Bir içerik ödeme aldığında %50 SBD ve %50 SP şeklini alır. Steem Power kullanıcıya artan oy verme ve işlem gücü verirken, SBD kullanıcıya istikrarlı bir para birimi ile hemen bir fayda sağlıyor. Daha önce de tartıştığımız gibi, SP kısa vadeli satışlardan ziyade uzun vadede tutmayı teşvik etmek için tasarlandı. Bu, daha fazla kullanıcıyı platformun uzun vadeli başarısı konusunda ilgili olmaya teşvik eder.
 
-Users also have the option to be paid in 100% SP, as well as decline payout on posts. When a user declines payout on a post, the money that would have been paid to them remains in the rewards pool, to be distributed to other users.
+Kullanıcılar ayrıca, %100 SP'de ödeme alma ve yayınlarda ödeme almama seçeneğine sahiptir. Bir kullanıcı, bir yayınla ilgili ödemeyi reddettiğinde, diğer kullanıcılara dağıtılmak üzere kendisine ödenecek para ödül havuzunda kalır.
 
-# Consensus Algorithm
+# Uzlaşma Algoritması
 
-Consensus is the process by which a community comes to a universally recognized, unambiguous agreement on piece of information. There are many algorithms society has developed for reaching consensus about who owns what. Every government on earth is a primitive consensus algorithm whereby the population agrees to abide by a certain set of rules enshrined in a constitution. Governments establish courts, judges, and juries to interpret the subjective facts and render a final decision. Most of the time people abide by the decision even if it was wrong.
+Konsensüs, bir topluluğun bilgi bölümünde evrensel olarak tanınmış, net bir anlaşmaya varıldığı süreçtir. Toplumun neyin sahibi olduğu hakkında fikir birliğine varmak için geliştirdiği birçok algoritma vardır. Yeryüzündeki her hükümet, ilkel bir fikir birliği algoritmasıdır. Bu sayede, nüfus bir anayasada güvence altına alınan belirli bir kurallar kümesine uymayı kabul eder. Hükümetler, öznel gerçekleri yorumlamak ve nihai bir karar vermek için mahkemeleri, hakimleri ve jürileri kurarlar. Çoğu zaman insan yanlış olduğu halde kararını korur.
 
-The algorithms used by cryptocurrencies provide a better way to reach consensus. Cryptographically signed testimony from individuals is recorded in a public ledger that establishes the absolute global order of events. A deterministic computer algorithm can then process this ledger to derive a universally accepted conclusion. So long as the members of a community agree on the processing algorithm, the result of the algorithm is authoritative.
+Kripto para birimleri tarafından kullanılan algoritmalar, fikir birliğine ulaşmak için daha iyi bir yol sağlar. Kişilerden şifreleme yoluyla imzalanmış ifadeler, mutlak küresel olay düzenini belirleyen bir kamu defterine kaydedilir. Daha sonra deterministik bir bilgisayar algoritması evrensel olarak kabul edilen bir sonuç elde etmek için bu defteri işleyebilir. Bir topluluğun üyeleri işlem algoritması üzerinde anlaşmaya vardığı sürece, algoritmanın sonucu yetkili olur.
 
-The primary consideration is determining what testimony is allowed to enter the public record. Systems should be designed to minimize the potential for censorship. Censorship on the public ledger is similar to preventing someone from voting in an election. In both cases an individual is prevented from impacting the global consensus.
+Birincil düşünce hangi tanıkların kamunun kayıtlarına girmesine izin verildiğini belirlemektir. Sistemler, sansür potansiyelini en aza indirgemek üzere tasarlanmalıdır. Kamu defterindeki sansür, birinin seçimlerde oy vermesini önlemeye benzer. Her iki durumda da, bir bireyin küresel konsensüsü etkilemesi engellenmektedir.
 
-## Consensus in Steem
+## Steem'de fikir birliği
 
-Conceptually, the consensus algorithm adopted by Steem is similar to the consensus algorithm adopted by companies throughout the world. People with a vested interest in the future value of Steem vote to select individuals responsible for including testimony in the public record. Voting is weighted proportional to each individual's vested interest.
+Kavramsal olarak Steem tarafından benimsenen fikir birliği algoritması, şirketler tarafından tüm dünyada benimsenen fikir birliği algoritmasına benzemektedir. People with a vested interest in the future value of Steem vote to select individuals responsible for including testimony in the public record. Voting is weighted proportional to each individual's vested interest.
 
 In the world of cryptocurrencies, the public record is commonly referred to as a *blockchain*. A *block* is a group of signed transactions.
 

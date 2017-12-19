@@ -1,44 +1,44 @@
 # Steem
 
-## 一个基于区块链，能让你妙笔生金的公共内容平台
+## An incentivized, blockchain-based, public content platform.
 
-2017年8月
+August 2017
 
-# 译者信息
+# Translator's notes
 
-译者信息的站位符
+Placeholder for translator's notes.
 
-# 摘要
+# Abstract
 
-Steem是一个通过提供加密货币奖励支持社区建设和社会互动的区块链数据库。 Steem将社交媒体中的概念与发行加密货币及建设其社区过程中汲取的经验相结合。 能够激励人们参与社区、货币和自由市场经济的关键因素是提供一个始终反映每个人贡献的公平计算体系。 Steem是第一个尝试准确、透明地为无数对社区做出积极贡献的个人提供回报的加密货币。
+Steem is a blockchain database that supports community building and social interaction with cryptocurrency rewards. Steem combines concepts from social media with lessons learned from building cryptocurrencies and their communities. An important key to inspiring participation in any community, currency or free market economy is a fair accounting system that consistently reflects each person's contribution. Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
 
-# 目录
+# Table of Contents
 
 <!-- toc -->
 
-# 简介
+# Introduction
 
-总的来说，由在线用户所生成的内容已为像Reddit、Facebook和Twitter这样的社交媒体公司的股东们创造了上亿美元的财富。 **2014年，Reddit作出假设：如果对每一个以写日志、评论或点赞这种形式向reddit.com做出贡献的个人奖励一份Reddit公司[^1]的公平股份，那么其平台将得到改进。** Steem旨在以加密货币的形式对那些优秀内容贡献者支付回报来支持社交媒体和在线社区，同时这个过程中将产生一个涵盖所有虚拟货币经济参与者的广阔市场。
+Collectively, user-generated content has created billions of dollars worth of value for the shareholders of social media companies, such as Reddit, Facebook, and Twitter. **In 2014, Reddit hypothesized that its platform would be improved if everyone who contributed to reddit.com by posting stories, adding comments or voting were rewarded with a fair share in Reddit, Inc.[^1]**. Steem aims to support social media and online communities by returning much of its value to the people who provide valuable contributions by rewarding them with cryptocurrency, and through this process create a currency that is able to reach a broad market, including people who have yet to participate in any cryptocurrency economy.
 
-在设计Steem的过程中，采用了一些关键的指导原则。 其中最重要的一条是：每一个对某个事业做出贡献的个体都应从该事业中收获与其贡献相符的所有权，报酬或者债券。 这是一条所有初创公司在他们的创建与融资阶段都遵循的原则。
+There are some key principles that have been used to guide the design of Steem. The most important principle is that everyone who contributes to a venture should receive pro-rata ownership, payment or debt from the venture. This principle is the same principle that is applied to all startups as they allocate shares at founding and during subsequent funding rounds.
 
-其次，第二条原则是：所有形式的资产都应具有同等价值。 这意味着那些贡献了宝贵的时间与与精力以给他人生产和策划内容服务的人应该与那些贡献宝贵金钱的人具有同样的价值。 这就是人力资产原则[^2]同时也是之前的加密货币所同样拥有，但经常对一定数量以上的个体使用时就会存在问题的概念。
+The second principle is that all forms of capital are equally valuable. This means that those who contribute their scarce time and attention toward producing and curating content for others are just as valuable as those who contribute their scarce cash. This is the sweat equity principle[^2] and is a concept that prior cryptocurrencies have often had trouble providing to more than a few dozen individuals.
 
-第三条原则是社区所生产出的成果应为其成员服务。 这条原则的范例是像信用合作社，食品合作社和健康分享计划这一类仅为社区成员提供服务而不是将产品与服务出售给其社区以外的人的社区与团体。
+The third principle is that the community produces products to serve its members. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
 
-Steem 社区向其成员提供以下服务：
+The Steem community provides the following services to its members:
 
-1. 一个优质新闻和时事评论的来源。
-2. 一个能使个性问题得到更高质量解答的方法。
-3. 一个与美元挂钩的稳定加密货币。
-4. 免费支付。
-5. 提供服务他人的工作机会。
+1. A source of curated news and commentary.
+2. A means to get high quality answers to personalized questions.
+3. A stable cryptocurrency pegged to the U.S. dollar.
+4. Free payments.
+5. Jobs providing above services to other members.
 
-相较于之前的社交媒体与虚拟币平台，Steem通过对激励人们做事的经济诱因进行有目的地的调整使其具备了为其社区中的每一个人生成更公平也更具包容性结果的潜质。 本文将探讨现有的经济诱因，并说明Steem的激励政策将如何为其大多数的参与者带来更好的结果。
+Steem’s purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem’s incentives may result in better outcomes for most participants.
 
-## 认证贡献
+## Recognizing Contribution
 
-Steem是一个为彻底解决社交媒体经济的应用与其货币化问题而设计的解决方案。 我们的观点是用于帮助主要社交媒体成长的技术同样也适用于一个成功的加密货币。 由加密货币作为载体的激励措施可以极大地促进新兴社交媒体的发展。 It is the synergy between cryptocurrency and social media that we believe may give Steem a powerful advantage in the market.
+Steem is designed from the ground up to address the major barriers to adoption and monetization of a social media based economy. Our thesis is that the same techniques used to grow major social media platforms can be used to bootstrap a successful cryptocurrency. Economic incentives enabled by cryptocurrency can dramatically facilitate the growth of a new social media platform. It is the synergy between cryptocurrency and social media that we believe may give Steem a powerful advantage in the market.
 
 The challenge faced by Steem is deriving an algorithm for scoring individual contributions that most community members consider to be a fair assessment of the subjective value of each contribution. In a perfect world, community members would cooperate to rate each other's contribution and derive a fair compensation. In the real world, algorithms must be designed in such a manner that they are resistant to intentional manipulation for profit. Any widespread abuse of the scoring system could cause community members to lose faith in the perceived fairness of the economic system.
 

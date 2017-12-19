@@ -80,7 +80,7 @@ Hay un valor significativo en tener compromiso a largo plazo porque habilita a l
 
 En el espacio de las criptomonedas, los especuladores saltan de criptomoneda en criptomoneda basados mayormente en las expectativas de crecimiento a corto plazo. Steem busca armar una comunidad que sea propiedad y controlada enteramente por aquellos con perspectivas a largo plazo.
 
-Users are able to commit their STEEM to a thirteen week vesting schedule, providing them with additional benefits within the platform. STEEM that has been committed to a thirteen week vesting schedule is called Steem Power (SP). El balance de SP es intransferible y no-divisible excepto a través de las solicitudes de conversión automáticamente recurrentes. Esto significa que SP no puede negociarse fácilmente en bolsas de criptomonedas.
+Los usuarios pueden comprometer su STEEM con un calendario de adjudicación de trece semanas, brindándoles beneficios adicionales dentro de la plataforma. El STEEM que ha comprometido con una adjudicación de trece semanas se llama Steem Power (SP). El balance de SP es intransferible y no-divisible excepto a través de las solicitudes de conversión automáticamente recurrentes. Esto significa que SP no puede negociarse fácilmente en bolsas de criptomonedas.
 
 Cuando los usuarios votan el contenido, su influencia sobre la distribución de *pool* de premios es directamente proporcional a la cantidad de SP que tienen. Los usuarios con más SP tienen más influencia en la distribución de recompensas. Esto significa que SP es un token de acceso que otorga a sus poseedores poderes exclusivos dentro de la plataforma de Steem.
 
@@ -186,7 +186,7 @@ El próximo paso es premiar con algo a cada uno que haga *algo* aunque sea remot
 
 Asumiendo que hay un monto fijo de dinero para distribuir, y que aquéllos que tienen intereses creados a largo plazo en el valor a futuro y utilidad de la moneda son quienes deben decidir como distribuirlo. Todos los usuarios con inversión emiten sus votos a quien haya hecho el mejor trabajo y al final del dia el dinero disponible para ese día es dividido proporcionalmente a los votos de manera que todos los que tengan al menos un voto positivo neto, obtiene algo.
 
-The naive voting process creates a N-Person Prisoner’s Dilemma[^5] whereby each individual voter has incentive to vote for themselves at the expense of the larger community goal. Si cada votante se votara a si mismo entonces no habría dinero distribuído y la moneda entera fallaría en ganar efecto de red. Por otro lado, si sólo un votate se autovota, entonces él obtendría ganancias no merecidas mientras el efecto en el valor total de la moneda sería mínimo.
+El proceso de votación ingenuo crea un "N-Person Prisoner’s Dilemma"[^5] por el cual cada votante individual tiene un incentivo para votar por sí mismo a expensas del objetivo más amplio de la comunidad. Si cada votante se votara a si mismo entonces no habría dinero distribuído y la moneda entera fallaría en ganar efecto de red. Por otro lado, si sólo un votate se autovota, entonces él obtendría ganancias no merecidas mientras el efecto en el valor total de la moneda sería mínimo.
 
 #### Abuso del voto
 
@@ -252,7 +252,7 @@ Conceptualmente, el algoritmo de consenso adoptado por Steem es similar al algor
 
 En el mundo de las criptomonedas, se refiere comunmente al registro público como *blockchain*. Un *block* o bloque es un grupo de transacciones firmadas (testimonios).
 
-En Steem, la producción de bloques es realizada en rondas. En cada ronda se seleccionan 21 testigos para crear y firmar bloques de transacciones. Veinte (20) de éstos testigos son seleccionados para aprobar las votaciones, y un puesto es compartido por tiempo por cada testigo que no logró entrar en el *top* 20 proporcional de más votados. Los 21 testigos activos son mezclados en cada ronda para prevenir que cualquiera de los testigos ignore constantemente bloques producidos por el mismo testigo ubicado anteriormente en ese puesto. Any witness who misses a block and hasn't produced in the last 24 hours will be disabled until they update their block signing key.
+En Steem, la producción de bloques es realizada en rondas. En cada ronda se seleccionan 21 testigos para crear y firmar bloques de transacciones. Veinte (20) de éstos testigos son seleccionados para aprobar las votaciones, y un puesto es compartido por tiempo por cada testigo que no logró entrar en el *top* 20 proporcional de más votados. Los 21 testigos activos son mezclados en cada ronda para prevenir que cualquiera de los testigos ignore constantemente bloques producidos por el mismo testigo ubicado anteriormente en ese puesto. Cualquier testigo que se salte un bloque y no haya producido en las últimas 24 horas, será desactivado hasta que actualice su clave de firma de bloque.
 
 Este proceso está diseñado para proveer la mejor confiabilidad mientras se asegura que todos tengan potencial para participar en la producción de bloques independientemente de si son suficientemente populares para ser votados dentro de la lista de los. Las personas tienen tres opciones para superar la censura de los principales 20 testigos elegidos: pacientemente esperar en fila con todos los demás que no están en el top 20, o comprar más SP para mejorar el poder de voto. Generalmente hablando, aplicar censura es una buena forma de elegir testigos para perder su trabajo y por lo tanto, es improbable que sea un problema real en la red de Steem.
 
@@ -338,13 +338,13 @@ El concepto de forzar a los usuarios a mantener un balance mínimo fluye natural
 
 Ripple usa un balance mínimo[^11] que escala al uso de recursos de la cuenta y requiere que nuevas cuentas sean fundadas con al menos éste balance mínimo. Actualmente este balance mínimo es de alrrededor de $0.15, el cual es mayor al $0.10 que estimamos que permitiría a alguien transaccionar libremente al menos una vez por semana.
 
-Un blockchain puede imponer un valor mínimo por usuario a través del simple proceso de requerir un balance mínimo. Any business that wishes to bring a new customer to the blockchain can pre-fund that user’s account with the minimum balance that would allow them to transact. Requiriendo una comisión relativamente grande ($1.00) para registrar nuevos usuarios naturalmente forzará a cualquiera que ofrezca cuentas gratis considerar la calidad y singularidad de cada cuenta antes de registrarlas con el blockchain.
+Un blockchain puede imponer un valor mínimo por usuario a través del simple proceso de requerir un balance mínimo. Cualquier negocio que desee traer un nuevo cliente al blockchain puede precargar esa cuenta con un balance mínimo que le permitiría transaccionar. Requiriendo una comisión relativamente grande ($1.00) para registrar nuevos usuarios naturalmente forzará a cualquiera que ofrezca cuentas gratis considerar la calidad y singularidad de cada cuenta antes de registrarlas con el blockchain.
 
 Mantener un balance mínimo es efectivamente lo mismo que hacer que los usuarios paguen comisiones de transacción con el interés que podrían haber ganado en su balance. El balance mínimo es simplemente el balance requerido para ganar suficiente interes para pagar una comisión en un período de tiempo relativamente corto.
 
-Afortunadamente, el balance mínimo requerido puede ser tan bajo como un dólar y ésto es algo que los usuarios pueden entender y apreciar. The opportunity cost of lost interest doesn’t incur the cognitive cost of a micro-fee and is far more acceptable to users.
+Afortunadamente, el balance mínimo requerido puede ser tan bajo como un dólar y ésto es algo que los usuarios pueden entender y apreciar. El costo de oportunidad de interés perdido no incurre en el costo cognitivo de una microcomisión y es mucho mas aceptable para los usuarios.
 
-El STEEM usado para precargar una cuenta es convertido a Steem Power en la nueva cuenta (ej.: *Powering Up*). A portion of the SP used to fund a new account may be delegated from the creator of the account. When a user is delegated SP, they may use the SP for voting and bandwidth purposes as if it were their own, but the ownership of the SP remains with the user who delegated it. A user may remove the delegation at any time. After a cool-down period, the SP is returned to their account.
+El STEEM usado para precargar una cuenta es convertido a Steem Power en la nueva cuenta (ej.: *Powering Up*). Parte del SP usado para financiar una nueva cuenta, pudiera ser delegado desde la cuenta del creador de esa cuenta. Cuando se delega a un usuario SP, pueden utilizar el SP para la votación y para ancho de banda como si fueran suyo, pero la propiedad del SP se mantiene al usuario que lo delega. Un usuario puede quitar la delegación en cualquier momento. Después de un período de enfriamiento, el SP vuelve a sus cuenta.
 
 ### Efectividad relativa a comisiones
 
@@ -380,9 +380,9 @@ La red Steem está construpida sobre *Graphene*, la misma tecnología que empode
 
 ## Escala Reddit
 
-Steem puede manejar una base de usuarios mas grande que Reddit. In 2015 Reddit’s 8.7 million users generated an average of 23 comments per second[^12], with an average of 83 comments per year per user. Hubieron 73 millones de posts de primer nivel, para un promedio de 2 nuevos posts por segundo. 7 mil millones de votos positivos creando un promedio de velocidad de 220 votos por segundo. Dicho todo ésto, si Reddit estuviese operando en un blockchain requerirpia un promedio de 250 transacciones por segundo.
+Steem puede manejar una base de usuarios mas grande que Reddit. En 2015 los 8,7 millones de usuarios de Reddit generaron un promedio de 23 comentarios por segundo[^12], con un promedio de 83 comentarios anuales por usuario. Hubieron 73 millones de posts de primer nivel, para un promedio de 2 nuevos posts por segundo. 7 mil millones de votos positivos creando un promedio de velocidad de 220 votos por segundo. Dicho todo ésto, si Reddit estuviese operando en un blockchain requerirpia un promedio de 250 transacciones por segundo.
 
-To achieve this industry-leading performance, Steem has borrowed lessons learned from the LMAX Exchange[^13], which is able to process 6 million transactions per second. Entre estas lecciones se encuentras los sigueintes puntos clave:
+Para lograr este rendimiento de líder de la industria, Steem ha juntado lecciones aprendidas del *LMAX Exchange*[^13], que puede procesar 6 millones de transacciones por segundo. Entre estas lecciones se encuentras los sigueintes puntos clave:
 
 1. Mantener todo en memoria.
 2. Mantener el núcleo de la logica de negocio en un sólo hilo.
@@ -392,13 +392,13 @@ To achieve this industry-leading performance, Steem has borrowed lessons learned
 
 Al seguir estas simples reglas, Steem puede procesar 10.000 transacciones por segundo sin un esfuerzos significativos en términos de optimización.
 
-Keeping everything in memory is increasingly viable given the recent introduction of Optane™ technology from Intel[^14]. Debería ser posible para el hardware manejar toda la lógica del negocio asociada con Steem en un sólo hilo con todos los posts mantenidos en memoria para una indexación rápida. Incluso Google mantiene su índice completo de internet en RAM. El uso de la tecnología blockchain hace trivial replicar la base de datos en varias máquinas para prevenir la pérdida de datos. As Optane™ technology takes over, RAM will become even faster while gaining persistence. En otras palabras, Steem está diseñado para la arquitectura del futuro y diseñado para escalar.
+Mantener todo en memoria es cada vez mas viable dada la reciente introducción de la tecnología *Optane™* de *Intel* [^14]. Debería ser posible para el hardware manejar toda la lógica del negocio asociada con Steem en un sólo hilo con todos los posts mantenidos en memoria para una indexación rápida. Incluso Google mantiene su índice completo de internet en RAM. El uso de la tecnología blockchain hace trivial replicar la base de datos en varias máquinas para prevenir la pérdida de datos. A medida que la tecnología *Optane™* avance, el RAM se volverá aún mas veloz mientras se gana persistencia. En otras palabras, Steem está diseñado para la arquitectura del futuro y diseñado para escalar.
 
 # Asignación y suministro
 
-## Initial Allocation & Supply
+## Suministro y asignación inicial
 
-The Steem network started with a currency supply of 0 and allocated STEEM via proof of work at a rate of approximately 40 STEEM per minute to miners, with an additional 40 STEEM per minute being created to seed the content and curation reward pools (for a total of 80 STEEM per minute). Then the network started rewarding users who converted to SP. At this point, STEEM grew at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
+La red Steem comienzó con una provición de moneda de 0 y colocó STEEM a través de la prueba de trabajo (*Proof of work*) a una velocidad de aproximadamente 40 STEEM por minuto a los mineros, con un adicional de 40 STEEM por minuto siendo creados para financiar el contenido y fondos para premios de curado (totalizando 80 STEEM por minuto). Entonces la red empezó a premiar a los usuarios que convertían a SP. En este punto, STEEM creció a una velocidad de aproximadamente 800 STEEM por minuto debido a los efectos combinados de los distintos Premios de Contribución sumarizados abajo:
 
 Premios por contribución:
 
@@ -417,37 +417,37 @@ Premios por contribución:
 
 - Premios SBD: Un porcentaje del valor del SBD es creado en un set APR por los testigos y abonado en forma de SBD a los poseedores de SBD
 
-La imagen general del suministro es complicada por el efecto de las operaciones de SBD, las que pueden resultar en creación o destrucción a larga escala de STEEM a través del seguimiento de tasa de alimentación y premios SBD, como se explica en la sección SBD. Other, smaller-scale complicating effects also exist, including unclaimed incentives (e.g. block rewards for missed blocks), and abandoned accounts.
+La imagen general del suministro es complicada por el efecto de las operaciones de SBD, las que pueden resultar en creación o destrucción a larga escala de STEEM a través del seguimiento de tasa de alimentación y premios SBD, como se explica en la sección SBD. Otros, efectos dañinos de menor escala también existen, incluyendo incentivos no reclamados (e.g. recompensas de bloque para bloques perdidos) y cuentas abandonadas.
 
-## Current Allocation & Supply
+## Suministro y asignación actual
 
-Starting with the network's 16th hard fork in December 2016, Steem began creating new tokens at a yearly inflation rate of 9.5%. The inflation rate decreases at a rate of 0.01% every 250,000 blocks, or about 0.5% per year. The inflation will continue decreasing at this pace until the overall inflation rate reaches 0.95%. This will take about 20.5 years from the time hard fork 16 went into effect.
+A partir del *hard fork* de red número 16, en diciembre de 2016, Steem comenzó a crear tokens nuevos a un ritmo anual de inflación de 9.5%. La tasa de inflación disminuye a una tasa de 0,01% cada 250.000 bloques, o cerca de 0.5% por año. La inflación seguirá disminuyendo a ese ritmo hasta que la tasa de inflación general llegue a 0,95%. Esto le llevará alrededor de 20,5 años desde el momento en que entró en vigor el *hard fork* 16.
 
-75% of the new tokens that are generated go to fund the reward pool, which is split between authors and curators. 15% de los *tokens* nuevos son dados como premio a los poseedores de SP. The remaining 10% pays for the witnesses to power the blockchain.
+75% de los nuevos tokens que se generan van al *pool* de recompensas, que se reparte entre los autores y curadores. 15% de los *tokens* nuevos son dados como premio a los poseedores de SP. El 10% restante se paga a los testigos que mantienen el blockchain.
 
 ### Impacto de Tasa de creación de tokens
 
-It is often said that a coin with an inflationary model is not sustainable, but we know from countless real-world examples that the quantity of money does not have a direct and immediate impact on its value, though it certainly plays a role.
+A menudo se dice que una moneda con un modelo inflacionario no es sostenible, pero sabemos de innumerables ejemplos del mundo real que la cantidad de dinero no tiene un impacto directo e inmediato en su valor, aunque sin duda desempeña un papel.
 
-From August 2008 through January 2009 the U.S. money supply[^15] grew from $871B to $1,737B, a rate of over 100% per year and then continued to grow at about 20% per year for the next 6 years. Dicho ésto, el suministro de dinero en EEUU ha crecido 4,59x durante menos de 7 años. During that same time, the value of the dollar relative to goods and services has fallen less than 10% according to the government's price index[^16]. Este ejemplo del mundo real demuestra que el suministro es sólo un componente del precio.
+Desde agosto de 2008 hacia enero de 2009 el suministro de dinero Estadounidense creció desde $871.000 Millones[^15] a $1.737.000 Millones, a un ritmo de mas del 100% anual y luego continuó creciendo aproximadamente a un 20% anual por los siguientes 6 años. Dicho ésto, el suministro de dinero en EEUU ha crecido 4,59x durante menos de 7 años. En el mismo tiempo, el valor del dólar relativo a los bienes y servicios ha caído menos del 10% de acuerdo a los índices de precios del gobierno[^16]. Este ejemplo del mundo real demuestra que el suministro es sólo un componente del precio.
 
-For the first 2 years of Bitcoin’s life the network sustained an annual inflation rate[^17] of over 100%. Durante los primeros 5 años estaba sobre el 30%, y por los primeros 8 años se encontraba sobre el 10%. All told the total “spending” Steem does to fund content, curation, and block production amounts to less than 10% APR.
+Durante los primeros 2 años de vida de la red de Bitcoin, se sostuvo una tasa de inflación anual[^17] sobre el 100%. Durante los primeros 5 años estaba sobre el 30%, y por los primeros 8 años se encontraba sobre el 10%. Dicho esto, el total de "gasto" de Steem no financia contenido, curación y cantidad de producción de bloques a menos de 10% de APR.
 
-El precio de un *commodity* digital, como STEEM, es conducido tanto por el suministro y la demanda. Cuando un poseedor a largo plazo decida salir, el suministro de STEEM en el mercado se incrementará y empujará el precio hacia abajo. Esta presión es contrarresetada cuando un nuevo poseedor a largo plazo decide comprar STEEM y convertilo de nuevo a SP. Additional supply and demand may be be added due to market speculators buying and selling liquid STEEM based on their predictions of the future market price.
+El precio de un *commodity* digital, como STEEM, es conducido tanto por el suministro y la demanda. Cuando un poseedor a largo plazo decida salir, el suministro de STEEM en el mercado se incrementará y empujará el precio hacia abajo. Esta presión es contrarresetada cuando un nuevo poseedor a largo plazo decide comprar STEEM y convertilo de nuevo a SP. Oferta y la demanda adicional puede ser agregada debido a los especuladores del mercado de compra y venta de STEEM líquido basado en sus predicciones del futuro precio de mercado.
 
 # El poder de Steem
 
 Steem reconoce que el valor de todas las contribuciones de los usuarios (posts y votos) es mayor que la suma de sus partes. Un simple comentario vale casi nada, pero millones de posts curados vale muchos millones (o incluso miles de millones) de dólares. Un solo voto provee poco valor de curado, pero mil millones de votos es un curado efectovo. El contenido sin curado es de valor limitado. Dado todo el contenido de internet menos los enlaces entre éstos, Google lucharía para producir resultados de búsqueda útiles. Son los enlaces entre informaciones que le dan valor significativo.
 
-Por el hecho de que todos se benefician, todos deberían pagar. En otras palabras, ningún usuario individual debería esperar pagar por nada, pero en cambio debería recibir un pago por todo lo que hacen que de valor a Steem. All we need to do is ascertain which user contributions bring a social network value and which ones don’t.
+Por el hecho de que todos se benefician, todos deberían pagar. En otras palabras, ningún usuario individual debería esperar pagar por nada, pero en cambio debería recibir un pago por todo lo que hacen que de valor a Steem. Todo lo que necesitamos hacer es cerciorarnos qué contribuciones de usuario traen un valor de red social y cuales no.
 
-Colectivamente los usuarios de Reddit votan 220 veces por segundo y crean 23 posts por segundo. Reddit is valued between $500 million[^18] and $4 billion[^19] which means that each and every upvote and post is worth between $0.06 and $0.50 assuming the value of Reddit is mostly within the past year’s worth of activity. Uno podría argumentar que la mayor parte del valor de Reddit son las discusiones cercanas al tiempo real que han ocurrido la semana pasada que incrementarían dramáticamente el valor de la nueva actividad. La gente va donde están todos hoy, no donde estuvieron el año pasado.
+Colectivamente los usuarios de Reddit votan 220 veces por segundo y crean 23 posts por segundo. Reddit está valuado entre $500 millones[^18] y $4.000 millones[^19], lo que significa que cada uno de los votos y posts valen alrededor de $0,06 y $0,50 asumiendo que el valor de Reddit está mayoritariamente dentro del valor de la actividad del año pasado. Uno podría argumentar que la mayor parte del valor de Reddit son las discusiones cercanas al tiempo real que han ocurrido la semana pasada que incrementarían dramáticamente el valor de la nueva actividad. La gente va donde están todos hoy, no donde estuvieron el año pasado.
 
 ## Sin micropagos, propina opcional
 
-Los intentos existentes de integrar una criptomoneda en una plataforma de *social media* se han enfocado en habilitar a los usuarios a pagarse entre sí. Muchos servicios han intentado introducir propinas. La teoría es que si hacemos el acto de dar propina lo suficientemente simple entonces mas gente lo haría. Other services attempt to get people to pay to promote or boost their content’s ranking. Otros aún intentan construir pequeños mercados de predicción de cuanta propina un artículo recibirá.
+Los intentos existentes de integrar una criptomoneda en una plataforma de *social media* se han enfocado en habilitar a los usuarios a pagarse entre sí. Muchos servicios han intentado introducir propinas. La teoría es que si hacemos el acto de dar propina lo suficientemente simple entonces mas gente lo haría. Otros servicios intentan hacer que mas gente pague para promover o empujar el ranking de su contenido. Otros aún intentan construir pequeños mercados de predicción de cuanta propina un artículo recibirá.
 
-Todas estas propuestas recaen en micropagos. Estas difieren solo en quién está haciendo el pago. Todas sufren de falta de compromiso de parte de la gente haciendo los micropagos. In the search for incentivised content production entrepreneurs have been so focused on who should pay that they missed the obvious reality: everyone benefits from everyone’s actions so everyone should pay or no one should pay, depending on how you look at it.
+Todas estas propuestas recaen en micropagos. Estas difieren solo en quién está haciendo el pago. Todas sufren de falta de compromiso de parte de la gente haciendo los micropagos. En la búsqueda de producción de contenido incentivado los emprendedores han estado tan enfocados en quien deberia pagar que han perdido la noción de la obvia realidad: todos se benefician de las acciones de todos asi que todos deberían pagar o nadie debería pagar, dependiendo en como se mire.
 
 Steem se salta los micropagos por completo porque cuando un usuario vota un post es la comunidad quien paga la cuenta. El mismo monto de dinero será gastado tanto si el usuario vota un post o no y los fondos no vendrán del votante.
 
@@ -455,7 +455,7 @@ La energía mental asociada a tomar una desición económica se vuelve una barre
 
 *Ya enfrentamos una multitudo de opiciones a diario con respecto a qué acceder en línea en esta era digital de la explosión de información, y cada decisión adicional que debemos hacer simplemente se agrega a la incertidumbre y ansiedad que enfrentamos. Quienes apoyan los micropagos creen que una implementación simplificada puede minimizar la intrusividiad de los micropagos y mejorar la experiencia de usuarios, pero su argumento solo crea doble estándares para el proceso de toma de decisión \[2\]. Una transacción no puede simultáneamente ser suficientemente valiosa para garantizar una desición y valer tan poco que la desición es automática. **Las únicas transacciones que los usuarios pueden aprobar sin pensarlo son aquellas que no cuestan nada**, en consecuencia cualquier microtransacción de valor positivo incurrirá en costos mentales a través de su requerimiento de tomar una desición. Además, el costo de transacción mental de hecho crece bajo cierto umbral de valor, un fenómeno que ubica los micropagos en aún mayor desventaja. Por ejemplo, es muy fácil pensar que una copia de los periódicos actuales cuestan $1, pero los lectores enfrentan mucha mas dificultad y ansiedad en decidir el valor de cada artículo o palabra. Tal dilema solo será replicado y exsacervado si todo el contenido en línea fuese desglosado en sus componentes e individualmente cotizado dentro de un sistema de micropagos.*
 
--Micropayments: A Viable Business Model[^20]
+- Micropagos: Un modelo de negocios viable[^20]
 
 Bajo Steem, los micropagos son pagados al productor del contenido, pero aquéllos que votan el contenido no pagan. En su lugar, el costo del premio es pagado a través de nuevos *tokens*. Alguien puede ingresar en el sistema, votar para pagarle a alguien, y luego irse del sistema con mas dinero del que tenían cuando comenzaron (asumiendo que la valuación del mercado del sistema de Steem se mantenga constante). En otras palabras, las solución de los micropagos provista por Steem provee una experiencia de usuarios similar a muchos sitios web ampliamente utilizados que tienen contenido moderado.
 
@@ -465,17 +465,17 @@ Además, ¡Steem le paga a la gente para determinar a quién se debería pagar!.
 
 Internet perdería la basta mayoría de su valor si todos los enlaces entre contenidos fuesen removidos. Es esta relación entre páginas web que permite a Google identificar la mejor receta de tarta de manzanas entre 16 millones de resultados. Sin estos enlaces la única información que Google tendría es la frecuencia de palabras.
 
-Los enlaces pueden tomar varias formas y adaptarse en el tiempo. Every time a user votes on content in a social network they add a connection between themselves and the content. Esto en cambio enlaza al consumidor con el productor a través del contenido. The more connections a network has the more valuable the information becomes. Es la conexión intencional y relativa de la información que le da valor.
+Los enlaces pueden tomar varias formas y adaptarse en el tiempo. Cada vez que un usuario vota el contenido en una red social ellos agregan una conexión entre el contenido y ellos mismos. Esto en cambio enlaza al consumidor con el productor a través del contenido. Mientras mas conexiones tenga una red, más valiosa se vuelve la información. Es la conexión intencional y relativa de la información que le da valor.
 
-A social network can maximize the value extracted from a set of content by maximizing the quantity and quality of connections. Curar contenido es caro y consume tiempo mientras es casi imposible para las computadoras realizar ésto ante la ausencia de enlaces. Steem rewards users who are among the first to find and identify new content.
+Una red social puede maximizar el valor extraído de un grupo de contenidos al maximizar la calidad y cantidad de las conexiones. Curar contenido es caro y consume tiempo mientras es casi imposible para las computadoras realizar ésto ante la ausencia de enlaces. Steem premia a los usuarios que están entre los primeros en encontrar e identificar nuevo contenido.
 
 Al incentivar el curado, la red Steem puede usar algoritmos automatizados para extraer la información mas valiosa de un monto masivo de contenido.
 
 ## Resolviendo el problema de abordaje de las criptomonedas
 
-It isn’t easy to get into cryptocurrency[^21]. Alguien que descubre Bitcoin y quiere probarlo rápidamente se da cuenta de que necesitará registrarse a un *exchange* y cargar su cuenta con una tarjeta de crédito o una transferencia bancaria. What would Facebook’s adoption rate have been like if you had to fork over money and a two forms of ID?
+No es fácil meterse en las criptomonedas[^21]. Alguien que descubre Bitcoin y quiere probarlo rápidamente se da cuenta de que necesitará registrarse a un *exchange* y cargar su cuenta con una tarjeta de crédito o una transferencia bancaria. ¿Qué sería de la tasa de adopción de Facebook si tuviesemos que bifurcar el dinero y dos formas de identificación?
 
-Steem resuelve este problema dándole a cada uno una forma de recibir pagos por hacer tareas simples pero valiosas. Esto ayudará a distribuír ampliamente los *tokens* STEEM. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless.)
+Steem resuelve este problema dándole a cada uno una forma de recibir pagos por hacer tareas simples pero valiosas. Esto ayudará a distribuír ampliamente los *tokens* STEEM. Esto es muy beneficioso porque las criptomonedas tienen un efecto de red (ej.: mas usuarios lo hacen mas útil; para un ejemplo extremo, consideremos que si Satoshi se hubiese quedado el 100% de Bitcoin para sí, Bitcoin no valdría nada.)
 
 ## Resolviendo el problema de liquidación de las criptomonedas
 
@@ -485,11 +485,11 @@ Los mercaderes dan a los usuarios un camino para convertir rápidamente su cript
 
 Los mercaderes aceptarán cualquier moneda si ésta incrementa sus ventas. Tener una gran base de usuarios con una moneda estable tal como SBD baja la barrera de entrada para los mercaderes. La presencia de mercaderes mejora el sistema al crear una salida del sistema para los usuarios sin tener que entrar en problemas de utilizar un *exchange*.
 
-Another way that people can liquidate the small amounts of cryptocurrency they receive from participating on the Steem platform is through *tipping* others. Esto es como dejar el cambio chico como propina al mesero. Cuando mucha gente deja su pequeña propina ésta se añado a un monto significativo. Usted y el mesero se benefician de la propina.
+Otra forma en que la gente puede liquidar sus pequeños montos de criptomoneda que reciben al participa en la plataforma Steem es a través de *dar propina* a otros. Esto es como dejar el cambio chico como propina al mesero. Cuando mucha gente deja su pequeña propina ésta se añado a un monto significativo. Usted y el mesero se benefician de la propina.
 
 ## Censura
 
-Steem is a decentralized network that is operated by witnesses in jurisdictions around the world. Todas las acciones de los usuarios son públicamente grabadas en el blockchain, y pueden ser públicamente verificadas. Esto significa que no hay una única entidad que pueda censurar contenido que es valioso para los poseedores de STEEM.
+Steem es una red descentralizada que es operada por mineros en jurisdicciones repartidas en el mundo. Todas las acciones de los usuarios son públicamente grabadas en el blockchain, y pueden ser públicamente verificadas. Esto significa que no hay una única entidad que pueda censurar contenido que es valioso para los poseedores de STEEM.
 
 Los sitios web individuales como *steemit.com* puede censurar contenido en su sitio particular, pero el contenido publicado en el blockchain es inherentemente tráfico emitido y sitios en todo el mundo pueden continuar haciéndolo disponible.
 
@@ -505,17 +505,17 @@ Internet representa el medio mas fácil para distribuír información en el mund
 
 Bajo la *social media* basada en blockchain, un creador o autor siempre estaría habilitado para apuntar a un registro público y sello de fecha mostrando una prueba del origen de su contenido. En una circunstancia donde el creador quiera encargarse de quienes hayan compartido el contenido sin permiso o atribución, los registro basados en el blockchain proveen una prueba pública de que el contenido fue posteado por un usuario particular en determinado momento. En el futuro, la atribución basada en blockchain puede ser reconocida por gobiernos por su autenticidad y podría tener peso en la corte, lo cual daría a los creadores de contenido mayores poderes para controlar su trabajo.
 
-While a timestamping service can be built on almost any blockchain, and several efforts exist to build this kind of service on the Bitcoin network, Steem has a useful advantage in this realm because content publishers are “first class citizens” -- the Steem blockchain is built from the ground up around the use case of content publication, which allows content creators to have the blockchain to validate their content at a certain point in time simply by writing their post using the same authoring tools used by other Steem users.
+Mientras el servicio de sellado de tiempo puede ser construido en casi cualquier blockchain, y muchos esfuerzos existen para armar este tipo de servicios en la red Bitcoin, Steem tiene una ventaja muy útil en este aspecto porque los publicadores de contenido son "ciudadanos de primera clase" -- el blockchain de Steem está construido desde cero alrededor del caso de uso de publicación de contenido, lo que permite a los creadores de contenido tener al blockchain validando su contenido en determinado punto en el tiempo simplemente por escribir un post usando las mismas herramientas de creación que usan otros usuarios de Steem.
 
 ## Reemplazando la publicidad con recompenzas de contenido basado en blockchain
 
-Bajo la mayoría de modelos de monetización, los creadores de contenido apalancan la publicidad de una forma y otra. Many creators recognize how advertising may diminish their work’s value to the consumer, yet creators very often must seek returns on their time by monetizing. La publicidad representa una espada de doble filo: Con anuncios, un creador puede generar dinero mas fácil. Sin anuncios, la monetización se hace difícil pero el contenido es mas rico.
+Bajo la mayoría de modelos de monetización, los creadores de contenido apalancan la publicidad de una forma y otra. Muchos creadores reconocen cuanto la publicidad puede disminuír el valor de su trabajo la consumidor, tambien los creadores muy a menudo deben buscar retornos en su tiempo a través de la monetización. La publicidad representa una espada de doble filo: Con anuncios, un creador puede generar dinero mas fácil. Sin anuncios, la monetización se hace difícil pero el contenido es mas rico.
 
-Creators posting to social media outlets that are connected to Steem may monetize merely by having their work recognized (or ”liked”) by the Steem community. Los pagos basados en blockchain son completamente digitales y no tienen intermediarios. Por lo tanto la monetización por premios de contenido basados en blockchain deberían ser mas rápidos y con menos barreras para usar que la monetización por publicidad.
+Los creadores subiendo contenido a depósitos de *social media* que están conectados a Steem pueden monetizar simplemente por tener su trabajo reconocido (o "enlazado") por la comunidad Steem. Los pagos basados en blockchain son completamente digitales y no tienen intermediarios. Por lo tanto la monetización por premios de contenido basados en blockchain deberían ser mas rápidos y con menos barreras para usar que la monetización por publicidad.
 
 # Conclusion
 
-Steem es un experimento diseñado para hacer frente a los desafíos en las industrias de *social media* y criptomonedas combinando los mejores aspectos de ambas. Steem presenta oportunidades de ganancias a los creadores de contenido y lectores de internet de formas que aún no existían dentro de la industria de *social media*. Dentro de Steem, los individuos reciben ganancias reales en línea que son directamente correlativas a sus contribuciones. Those rewards may have dollar value due to the market price discovery and liquidity of Steem, and the people who hold Steem may have more exclusive earning powers than those who do not.
+Steem es un experimento diseñado para hacer frente a los desafíos en las industrias de *social media* y criptomonedas combinando los mejores aspectos de ambas. Steem presenta oportunidades de ganancias a los creadores de contenido y lectores de internet de formas que aún no existían dentro de la industria de *social media*. Dentro de Steem, los individuos reciben ganancias reales en línea que son directamente correlativas a sus contribuciones. Esos premios pudieran tener un valor de dólar debido a al mercado de descubrimiento de precios y liquidez de Steem, y la gente que sostenga Steem pudieran tener mas poderes gananciales exclusivos que aquellos que no.
 
 [^1]: Reddit’s Cryptocurrency, Forbes, Erika Morphy, October 2014 http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/\#4e07b05332b9
 
