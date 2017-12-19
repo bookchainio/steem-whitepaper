@@ -248,11 +248,11 @@ Birincil düşünce hangi tanıkların kamunun kayıtlarına girmesine izin veri
 
 ## Steem'de fikir birliği
 
-Kavramsal olarak Steem tarafından benimsenen fikir birliği algoritması, şirketler tarafından tüm dünyada benimsenen fikir birliği algoritmasına benzemektedir. People with a vested interest in the future value of Steem vote to select individuals responsible for including testimony in the public record. Voting is weighted proportional to each individual's vested interest.
+Kavramsal olarak Steem tarafından benimsenen fikir birliği algoritması, şirketler tarafından tüm dünyada benimsenen fikir birliği algoritmasına benzemektedir. Steem'in gelecekteki değeri ile ilgili menfaate sahip kişiler, kamuya açık tanıklıkdan sorumlu kişileri seçmek için oy kullanıyor. Oylama, her bireyin çıkarı ile orantılıdır.
 
-In the world of cryptocurrencies, the public record is commonly referred to as a *blockchain*. A *block* is a group of signed transactions.
+Kripto dövizleri dünyasında, kamu kayıtlarına genellikle bir * blok zinciri * adı verilir. Bir * blok *, imzalı işlemlerden oluşan bir gruptur.
 
-With Steem, block production is done in rounds. Each round 21 witnesses are selected to create and sign blocks of transactions. Twenty (20) of these witnesses are selected by approval voting and one is timeshared by every witness that didn’t make it into the top 20 proportional to their total votes. The 21 active witnesses are shuffled every round to prevent any one witness from constantly ignoring blocks produced by the same witness placed before. Any witness who misses a block and hasn't produced in the last 24 hours will be disabled until they update their block signing key.
+Steem ile blok üretimi turlarla yapılır. Her turda 21 tanık, işlem blokları oluşturmak ve imzalamak için seçilir. Bu tanıklardan yirmisi (20) onay oyuyla seçilirken biri, toplam oylarıyla orantılı olarak ilk 20'ye girmeyen her tanık tarafından paylaşılır. Bir tanıktan önceki tanık tarafından üretilen blokların sürekli olarak görmezden gelinmesini önlemek için 21 aktif tanık her tur karıştırılır. Bir bloğu özleyen ve son 24 saat içinde üretilmeyen herhangi bir tanık, blok imzalama anahtarını güncelleyene kadar devre dışı kalır.
 
 This process is designed to provide the best reliability while ensuring that everyone has the potential to participate in block production regardless of whether they are popular enough to get voted to the top. People have three options to overcome censorship by the top 20 elected witnesses: patiently wait in line with everyone else not in the top 20, or purchase more SP to improve voting power. Generally speaking, applying censorship is a good way for elected witnesses to lose their job and therefore, it is unlikely to be a real problem on the Steem network.
 
