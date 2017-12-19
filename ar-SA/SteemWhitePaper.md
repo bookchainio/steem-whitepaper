@@ -86,11 +86,11 @@ Users are able to commit their STEEM to a thirteen week vesting schedule, provid
 
 ويحصل أصحاب الحيازات أيضا على فائدة من رصيد الخدمة الخاصة التي تظل مكتسبة. يتم دفع 15٪ من الإرتفاع السنوي إلى أصحاب الحيازات كفوائد. يتناسب مبلغ الفائدة التي يتلقاها بشكل مباشر مع مبلغ SP الذي يحتفظ به بالنسبة إلى المبلغ الإجمالي ل SP المستحق على جميع المستخدمين.
 
-Transferring from STEEM to SP is referred to as “powering up”, while transferring from SP to STEEM is referred to as “powering down.” SP that is powered down is returned to the user over a period of thirteen weeks, via 13 equal weekly payments, starting one week after the power down is initiated.
+النقل من STEEM إلى SP يشار إليه باسم "بpowering up" (شحن القوة)، في حين أن النقل من SP إلى STEEM يشار إليه باسم "بpowering down" (خفظ القوة). يتم إرجاع SP الذي يتم استخراجه إلى المستخدم على مدى فترة ثلاثة عشر أسبوعا، عبر 13 مدفوعات متساوية أسبوعيا ، بدأ من أسبوع واحد بعد بدء عملية الإستخراج.
 
-## Steem Dollars (SBD)
+## ستيم دولار (SBD)
 
-Stability is an important feature of successful global economies. Without stability, individuals across the world could not have low cognitive costs while engaging in commerce and savings. Because stability is an important feature of successful economies, Steem Dollars were designed as an attempt to bring stability to the world of cryptocurrency and to the individuals who use the Steem network.
+الاستقرار هو سمة هامة من سمات الاقتصادات العالمية الناجحة. وبدون الاستقرار، لا يمكن للأفراد في جميع أنحاء العالم أن يكون لديهم تكاليف إدراكية منخفضة أثناء الانخراط في التجارة والمدخرات. Because stability is an important feature of successful economies, Steem Dollars were designed as an attempt to bring stability to the world of cryptocurrency and to the individuals who use the Steem network.
 
 Steem Dollars are created by a mechanism similar to convertible notes, which are often used to fund startups. In the startup world, convertible notes are short-term debt instruments that can be converted to ownership at a rate determined in the future, typically during a future funding round. A blockchain based token can be viewed as ownership in the community whereas a convertible note can be viewed as a debt denominated in any other commodity or currency. The terms of the convertible note allow the holder to convert to the backing token with a minimum notice at the fair market price of the token. Creating token-convertible-dollars enables blockchains to grow their network effect while maximizing the return for token holders.
 
