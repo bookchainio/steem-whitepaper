@@ -74,9 +74,9 @@
 
 ## قوة ستيم (SP)
 
-الشركات الناشئة تتطلب الإلتزام برأس المال على المدى الطويل. أولئك الذين يستثمرون أموالهم في شركة ناشئة يتوقعون الانتظار لسنوات قبل أن يتمكنوا من بيع أسهمهم وتحقيق أرباحهم. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
+الشركات الناشئة تتطلب الإلتزام برأس المال على المدى الطويل. أولئك الذين يستثمرون أموالهم في شركة ناشئة يتوقعون الانتظار لسنوات قبل أن يتمكنوا من بيع أسهمهم وتحقيق أرباحهم. وبدون الإلتزام على المدى الطويل، فإن الشركة الناشئة تسعى إلى زيادة رأس المال من خلال بيع أسهم إضافية والتي سوف تكون منافِسة مع المساهمين الحاليين الذين يتطلعون للخروج. المستثمرون الدهاء يريدون مساهماتهم الرأسمالية ان تساهم في نمو الشركة، ولكن النمو لا يمكن أن يحدث إذا تم إعطاء رأس المال الجديد بعيدا عن أولئك الذين يتطلعون للخروج.
 
-There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
+وهناك قيمة كبيرة لوجود التزام طويل الأجل لأنها تمكن المجتمعات المحلية من وضع خطط طويلة الأجل. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
 
 In the cryptocurrency space, speculators jump from cryptocurrency to cryptocurrency based mostly on which one is expected to have short-term growth. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
 
