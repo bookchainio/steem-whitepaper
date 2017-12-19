@@ -80,11 +80,11 @@
 
 في الفضاء العملات الإفتراضية، السمسارون يقفزون من العملات الإفتراضية إلى عملات إفتراضية تستند في الغالب على أي واحد من المتوقع أن يحصل على نمو ذي مدى قصير. يريد ستيم بناء مجتمع يمتلكه معظمهم ويتحكم فيه بالكامل أولئك الذين لديهم منظور طويل الأجل.
 
-Users are able to commit their STEEM to a thirteen week vesting schedule, providing them with additional benefits within the platform. STEEM that has been committed to a thirteen week vesting schedule is called Steem Power (SP). تعتبر أرصدة SP غير قابلة للتحويل وغير قابلة للتقسيم إلا من خلال طلبات التحويل المتكررة تلقائيا. This means that SP cannot be easily traded on cryptocurrency exchanges.
+Users are able to commit their STEEM to a thirteen week vesting schedule, providing them with additional benefits within the platform. STEEM that has been committed to a thirteen week vesting schedule is called Steem Power (SP). تعتبر أرصدة SP غير قابلة للتحويل وغير قابلة للتقسيم إلا من خلال طلبات التحويل المتكررة تلقائيا. وهذا يعني أن سب لا يمكن تداولها بسهولة على تبادلات العملات الإفتراضية.
 
-When users vote on content, their influence over the distribution of the rewards pool is directly proportional to the amount of SP that they have. Users with more SP have more influence on the distribution of rewards. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
+عندما يصوت المستخدمون على المحتوى، تأثيرهم على توزيع مجموع المكافآت يتناسب فورا مع كمية من SP التي لديهم. المستخدمين مع المزيد من SP يكون لهم تأثير أكبر على توزيع المكافآت. وهذا يعني أن SP هو رمز الوصول الذي يضمن لمالكيه سلطة حصرية ضمن منصة ستيم.
 
-SP holders are also paid interest on the balance of SP that remains vested. 15% of the yearly inflation is paid to SP holders as interest. The amount of the interest that they receive is directly proportional to the amount of SP they hold relative to the total amount of vested SP across all users.
+ويحصل أصحاب الحيازات أيضا على فائدة من رصيد الخدمة الخاصة التي تظل مكتسبة. يتم دفع 15٪ من الإرتفاع السنوي إلى أصحاب الحيازات كفوائد. يتناسب مبلغ الفائدة التي يتلقاها بشكل مباشر مع مبلغ SP الذي يحتفظ به بالنسبة إلى المبلغ الإجمالي ل SP المستحق على جميع المستخدمين.
 
 Transferring from STEEM to SP is referred to as “powering up”, while transferring from SP to STEEM is referred to as “powering down.” SP that is powered down is returned to the user over a period of thirteen weeks, via 13 equal weekly payments, starting one week after the power down is initiated.
 
