@@ -52,29 +52,29 @@ Placeholder for translator's notes.
 
 شراکتوں کی قدرپیمائی اور ان کا صلہ دینے کے لئے ایک ثابت شدہ نظام مفت بازار ہے. آزاد بازار کو ایک کمیونٹی یا جماعت کے طور پر دیکھا جا سکتا ہے جہاں ہر ایک شخص ایک دوسرے کے ساتھ تجارت کرتا ہو اور انعامات نفع اور نقصان کی بنیاد پر مختص کیے جاتے ہوں. یہ بازاری نظام ان لوگوں کو انعام دیتا ہے جو جماعت کے لیے قدروقیمت فراہم کرتے ہیں اور ان لوگوں کو سزا دیتا ہے جو اپنی پیداوار سے زیادہ قدر کھاتے ہیں بجائے اضافہ کرنے کے. مفت بازار بہت سی مختلف کرنسیوں کی حمایت کرتا ہے اور رقم سادہ طور پر ایک قیمتی شے ہے جس سے ہر ایک کو تبادلہ کرنے میں آسانی ملتی ہے.
 
-چونکہ مفت بازار ایک ثابت شدہ نظام ہے، اس لئے مفت بازاری نظام پرکشش ہے جہاں مواد کا استعمال کرنے والے براہ راست مواد کی تخلیق کرنے والوں کو دقم ادا کرسکیں. تاہم براہ راست ادائیگی مواد کی تخلیق کرنے والوں اور اس مواد کے سرپرستوں کے لئے نااہل اور ناقابل اعتبار ہے. The value of most content is so low relative to the cognitive, financial, and opportunity costs associated with making a payment that few readers choose to tip. The abundance of free alternatives means that enforcing a ‘paywall’ will drive readers elsewhere. There have been several attempts to implement per-article micropayments from readers to authors, but none have become widespread.
+چونکہ مفت بازار ایک ثابت شدہ نظام ہے، اس لئے مفت بازاری نظام پرکشش ہے جہاں مواد کا استعمال کرنے والے براہ راست مواد کی تخلیق کرنے والوں کو دقم ادا کرسکیں. تاہم براہ راست ادائیگی مواد کی تخلیق کرنے والوں اور اس مواد کے سرپرستوں کے لئے نااہل اور ناقابل اعتبار ہے. اکثر اور بیشتر مواد کی قدر رقم کی ادائیگی کے مالی اخراجات، نفسیاتی اخراجات، اور مواقع کے اخراجات سے اتنی کم ہوتی ہے کہ اس مواد کو بہت کم ہی پڑھنے والے کچھ رقم دیتے ہیں. مفت متبادل کی کثرت کا مطلب یہ ہے کہ مواد کے لئے ادائیگی کے نظام کا نفاذ پڑھنے والوں کو دوسری سمت لے جائیگا. مفت بازاری نظام کو نافذ کرنے کی بہت سی جماعتیں کوشش کر چکی ہیں جہاں پڑھنے والا لکھنے والے کے مواد کے بدلے چھوٹی رقم ادا کر سکے لیکن ان میں سے کوئی بھی بڑے پیمانے تک نہ پھیل سکا.
 
-Steem is designed to enable effective micropayments for all kinds of contribution by changing the economic equation. Readers no longer have to decide whether or not they want to pay someone from their own pocket, instead they can vote content up or down and Steem will use their votes to determine individual rewards. This means that people are given a familiar and widely used interface and no longer face the cognitive, financial, and opportunity costs associated traditional micropayment and tipping platforms.
+سٹیم اقتصادی حالت توازن کو تبدیل کرتے ہوئے ہر قسم کی شراکت کے عوض ایک موثر رقم ادائیگی کے لئے تیار کیا گیا ہے جو کم سے کم ادائیگی بھی قبول کر سکتی ہے. قارئین کو اب یہ فیصلہ کرنے کی ضرورت نہیں کہ وہ اپنے جیب سے کسی کو ادا کرنا چاہتے ہیں یا نہیں، بلکہ وہ اس مواد کو اپنا اپ ووٹ یا ڈاون ووٹ دے سکتے ہیں اور سٹیم قارئین کے دیے گئے ووٹ سے انفرادی انعامات کا تعین کرے گا. اس کا مطلب یہ ہے کہ لوگوں کو ایک ایسی سطح دی جائیگی جو وسیع پیمانے پر استعمال کیا جاتا ہے اور وہ اس طریقے سے بخوبی واقف بھی ہیں اور اب انہیں مالی اخراجات اور نفسیاتی اخراجات وغیرہ کا سامنا نہیں کرنا پڑے گا.
 
-Voting input from community members is critical for Steem to accurately allocate payments to contributors. Voting can therefore be viewed as a crucial contribution and worthy of rewards on its own. Some platforms, such as Slashdot, use meta-moderation[^3] as a way to rank and reward honest moderators. Steem chooses to reward those who contribute the most to the total promotion of a piece of content and rewards the voters proportional to the ultimate reward paid to the content creator.
+سٹیم کے لئے درست طریقے سے شراکت دارں کے انعامات مختص کرنے کے لئے جماعتی ارکان کے ووٹنگ کی معلومات بہت اہم ہے. اس وجہ سے ووٹنگ کو ایک اہم شراکت اور انعامات کے قابل ہونے کے طور پر دیکھا جا سکتا ہے. کچھ پلیٹ فارمز جیسے سلیش ڈاٹ جو میٹاماڈریشن [^3]کو درجہ بندی کے لئے استعمال کرتا ہے اور ایماندار ماڈریٹرز کو انعامات سے نوازتا ہے. سٹیم نے انتخاب کیا ہے ان لوگوں کا جو مواد کے ایک ٹکڑے کے مجموعی فروغ میں سب سے زیادہ شراکت کرتے ہیں اور ان ووٹرز کو اس مواد تخلیق کرنے والے کے انعام کا متناسب حصہ انہیں انعام کے طور پر نوازتا ہے.
 
-# Ways to Contribute
+# تعاون یا شراکت کے طریقے
 
-This section outlines the ideas behind Steem and its rewards for people who provide meaningful and measurable contributions to the Steem community.
+یہ حصہ سٹیم کے پیچھے نظام کو بیان کرتا ہے اور اور اس کے ان لوگوں کے لئے انعامات کو بیان کرتا ہے جو معنی خیز اور قابل پیمائش تعاون فراہم کرتے ہیں.
 
-## Capital Contributions
+## سرمائے کا تعاون
 
-There are two items a community can offer to attract capital: debt and ownership. Those who buy ownership profit when the community grows but lose if the community shrinks. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
+یہاں دو اشیاء ہیں جو کمیونٹی سرمائے کے تعاون کو متوجہ کرنے کے لئے فراہم کی جا سکتی ہیں: قرض اور ملکیت. وہ لوگ جو ملکیت کو خرید کر حصہ دار بنتے ہیں انہیں فائدہ اس وقت حاصل ہوتا ہے جب کمیونٹی بڑھتی ہے مگر انہیں اس وقت نقصان کا سامنا کرنا پڑتا ہے جب کمیونٹی بڑھنے کے بجائے کم ہو جاتی ہے. وہ لوگ جو قرض دی ہیں انہیں ایک خاص سود کی رقم ادا کی جاتی ہے لیکں وہ اپنے اس قرضے سے کمیونٹی کے بڑھنے پر نفع حاصل نہیں کر سکتے. دونوں طرح کے سرمائے کا تعاون کمیونٹی کی اور اس کی کرنسی کی ترقی کے لئے قابل قدر ہیں. اضافی طور پر یہاں دو طریقے ہیں جس سے ملکیت منعقد کی جا سکتی ہے: مائع اور ویسٹنگ. ویسٹنک ملکیت ایک طویل مدتی وابستگی کا عزم ہوتی ہے اور اس ملکیت کو کچھ عرصے تک فروخت نہیں کیا جا سکتا.
 
-The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SBD).
+سٹیم کمپنی ان مختلف اثاثوں کو سٹیم (STEEM)، سٹیم پاور (SP) اور سٹیم ڈالرز (SBD) کے نام سے بلاتی ہے.
 
-## Steem (STEEM)
+## سٹیم (STEEM)
 
-Steem is the fundamental unit of account on the Steem blockchain. All other tokens derive their value from the value of STEEM. STEEM is a liquid currency, and therefore can be bought or sold on exchanges, as well as transferred to other users as a form of payment.
+سٹیم بلاکچین پر اکاونت کی بنیادی اکائی سٹیم ہے. تمام دوسرے ٹوکنز اپنی قدر سٹیم کی قدر سے حاصل کرتے ہیں. سٹیم ایک مائع کرنسی ہے اور اس طرح اسے مارکیٹ(بازار) میں خریدوفروخت کیا جا سکتا ہے اور ساتھ ہی ساتھ دوسرے صارفین کو رقم کی ادائیگی کی شکل میں منتقل بھی کیا جا سکتا ہے.
 
-## Steem Power (SP)
+## سٹیم پاور (SP)
 
-Start up companies require long-term capital commitment. Those who invest their money in a startup expect to wait years before they can sell their shares and realize their profits. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
+ابتدائی کمپنیوں کو طویل مدتی وابستگی کے عزم کی ضرورت ہوتی ہے. Those who invest their money in a startup expect to wait years before they can sell their shares and realize their profits. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
 
 There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
 
