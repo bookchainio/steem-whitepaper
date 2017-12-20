@@ -274,25 +274,25 @@ Placeholder for translator's notes.
 
 ٹرانزیکشن فیس کی کٹوتی کرنے کے ساتھ بنیادی مسئلہ یہ ہے کہ چھوٹی ادائیگیاں کام نہیں کرتیں، خاص طور پر صارف کے کسی کم-قدر عمل پر. جب ہر ٹرانزیکشن پر کٹوتی (فیس) لی جائے، تو یہ ٹرانزیکشنز کی اقسام کو محدود کر دیتی ہیں جس پر ایک غیرمرکزی نیٹ ورک عمل درآمد کر سکتا ہے. اس کے باوجود کہ فیس کی ضرورت کے لئے دلیل کتنی عقلی ہے، صارفین ہر اس کام کے لئے جو وہ کرتے ہیں، اب بھی فیس کے لئے جانے کے تجربے سے نفرت کرتے ہیں.
 
-Imagine if the websites we use every day charged us a fee every time we modify our accounts by changing the password. Users expect certain things to be free. Requiring users to make a decision on whether or not an action is worth a small fee creates anxiety that causes users to leave. A transaction can’t be worth so much as to require a decision but worth so little that that decision is automatic. There is a certain amount of anxiety involved in any decision to buy, no matter how small, and it derives not from the interface used or the time required, but from the very act of deciding.
+تصور کریں کہ وہ ویب سائٹس جنہیں ہم ہر روز استعمال کرتے ہیں اگر وہ ہم سے ہر اس وقت فیس وصول کریں جب بھی ہم اپنے اکاونٹ کے پاس ورڈ کو تبدیل کرکے اس میں ترمیم کریں. صارفین کچھ چیزوں کے مفت ہونے کی توقع رکھتے ہیں. صارفین کو اس بات کا فیصلہ کرنے کی مشکل میں ڈال کر کہ کیا ان کا عمل اس قابل ہے کہ اس کے عوض چھوٹی فیس وصول کی جائے، تشویش پیدا کرتی ہے جو صارفین کے استعمال کو چھوڑنے کا سبب بنتی ہے. ایک ٹرانزیکشن کی اتنی زیادہ قدر نہیں ہوسکتی جو فیصلہ کی ضرورت کا تقاضہ کرے مگر نہ اتنی کم قدر کہ جو فیصلہ ہی خودکار بنادے. خرید کے کسی بھی فیصلے میں تشویش کی کچھ مقدار شامل ہوتی ہے، اس سے فرق نہیں پڑتا کہ کتنی چھوٹی، جو نہ استعمال کے ڈھانچے سے اور نہ ہی وقت کی ضرورت سے حاصل ہوتی ہے بلکہ یہ فیصلے کرنے کے عمل سے حاصل ہوتی ہے.
 
-Micropayments, like all payments, require a comparison: *“Is this much of X worth that much of Y?”* There is a minimum mental transaction cost created by this fact that cannot be optimized away, because the only transaction a user will be willing to approve with no thought will be one that costs them nothing, which is no transaction at all.
+چھوٹی ادائیگیاں، تمام ادائیگیوں کی طرح، موازنے کا تقاضہ کرتی ہیں کہ: *“کیا الف کی یہ قدر ب کی قدر سے زیادہ ہے“*۔ اس حقیقت کی وجہ سے کم سے کم ذہنی ٹرانزیکشن لاگت کی ضرورت تو پڑتی ہے جسے بہتر نہیں بنایا جا سکتا کیونکہ ایک صارف صرف اور صرف وہ ٹرانزیکشن بغیر سوچے سمجھے منظور کرے گا جس میں کوئی لاگت نہ آئے اور اس معاملے میں اس کا مطلب کسی ٹرانزیکشن کا ہی نہ کرنا ہے.
 
-– Clay Shirky[^8]
+- کلے شرکی [^8]
 
-In the world of financial payments, small fees are acceptable because the value of the transaction is extremely high relative to the fee charged, and the buyer has already made a decision to buy. The world of potential blockchain applications is far greater than just financial payments and includes many necessary transactions for which fees are simply unacceptable to users.
+مالی ادائیگیوں کی دنیا میں چھوٹی فیس قابل قبول ہیں کیونکہ اس ٹرانزیکشن (لین دین) کی قدر بمقابل لی ہوئی فیس سے کئی زیادہ ہوتی ہے اور خریدار پہلے ہی خریدنے کا فیصلہ کر چکا ہوتا ہے. ممکنہ بلاکچین بلاکچین ایپلیکیشنز کی دنیا صرف مالی ادائیگیوں کی دنیا سے کئی زیادہ ہے جس میں بہت سے ایسی ضروری ٹرانزیکشنز شامل ہیں جس کے بدلے فیس وصول کرنا صارفین کے لئے ناقابل قبول ہے.
 
-Systems like BitShares, Nxt, Ripple, Counter Party and Stellar all allow users to place limit orders on the blockchain and all of them charge users a small fee to perform this action. Later if the user wishes to cancel their order, another fee is charged. Systems like Ethereum take micropayments to a whole new level: charging per calculation. All of these systems struggle to attract new mainstream users for the same reasons that a decentralized search engine would struggle to attract users from Google if it charged a small fee for every search. It doesn’t matter how good the service is, people expect certain things to be free. This is true even if a user ends up paying more overall under a different fee structure.
+نظامات جیسے بٹشیئرز، این-ایکس-ٹی، ریپپل، کاونٹرپارٹی، اور سٹیلر یہ سب تمام صارفین کو بلاکچین پر لمٹ آرڈرز لگانے کی اجازت دیتے ہیں اور یہ سب نظامات اس عمل کے عوض چھوٹی فیس وصول کرتے ہیں. بعد میں اگر صارف اپنے آرڈر کو منسوخ کرنا چاہتا ہو تو اس پر مزید فیس وصول کی جاتی ہے. نظامات جیسے ایتھیریم چھوٹی ادائیگیوں کو ایک بلکل ہی نئے مقام پر لے گئے ہیں؛ کٹوتی فی حساب. ایسے تمام نطامات نئے صارفین کو متوجہ کرنے کے لئے ان ہی وجوہات کی بناء پر جدوجہد کرتے ہیں جس بناء پر ایک غیرمرکزی تلاش کا انجن (سرچ انجن) گوگل کے صارفین کو اپنی طرف متوجہ کرنے کے لئے کوشش کرتا ہو اگر گوگل بھی صارف کی ہر تلاش پر چھوٹی فیس وصول کرتا ہو. اس سے کوئی فرق نہیں پڑتا کہ سروس کتنی اچھی ہے، لوگ کچھ چیزوں کے مفت ہونے کی توقع رکھتے ہیں. یہ اس معاملے میں بھی سچ ہے جہاں ایک صارف کسی دوسرے فیس کے ڈھانچے کے تحت زیادہ ادائیگی پر مجبور ہو جائے.
 
-### Fees are a Barrier to Entry
+### فیس اندراج میں رکاوٹ ہیں
 
-Any fee creates a barrier to entry for new users. Before someone can experiment with Ethereum they must acquire some ETH tokens. Anyone wanting to build a decentralized application on Ethereum must pass on the cost to their customers. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
+کوئی بھی فیس نئے صارفین کے اندراج میں رکاوٹ پیدا کرتی ہیں. اس سے پہلے کہ کوئی ایتھریم کو استعمال کر کے تجربہ کر سکے، انہیں کچھ ای-ٹی-ایچ ٹوکن حاصل کرنا لازمی ہے. کوئی بھی شخص جو ایتھریم کے بلاکچین پر غیرمرکزی ایپلیکیشن بنانا چاہتا ہے، انہیں اپنے گاہکوں تک پہنچنے کے لیے خرچے سے گزرنا لازمی ہے. کرائیپٹوکرنسی کو خریدنا ایک آسان کام نہیں اور دس ڈالر (10$) سے کم کی خرید بہت کم ہی سمجھ آتی ہے. اس کا یہ مطلب کہ نئے صارفین جو نئی ایپلیکیشن کو استعمال کرنا چاہتے ہیں، ان کا کم سے کم دس ڈالر (10$) کے ساتھ حصہ لینے پر قائل ہونا لازمی ہے.
 
-### Changing Fees
+### فیس میں تبدیلی
 
-Over time a network must adjust fees. This can happen either due to an increase in the value of the token or due to a surge in capacity. Users like predictable fees and guaranteed service. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
+وقت کے ساتھ ایک نیٹ ورک فیس میں لازمی تبدیلی کرتا رہے. یا تو یہ ٹوکن کی قدروقیمت میں اضافے یا صلاحیت میں اضافے کی وجہ سے ہو سکتا ہے. صارفین متوقع فیس اور ضمانت شدہ خدمات کو پسند کرتے ہیں. اگرچہ بھاری استعمال کے اوقات میں فیس کو متحرک طور پر تبدیل کرنا ممکن ہے، نتیجہ صارف کا خراب تجربہ ہے.
 
-### Sybil Attacks
+### سائبل (Sybil) حملے
 
 Centralized websites prevent spam through rate limiting and some form of ID verification. Even something as simple as reCAPTCHA[^9] is sufficient to limit the creation of fake accounts. If someone abuses their account then centralized websites are free to block the account.
 
