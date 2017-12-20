@@ -38,7 +38,7 @@ Steem 社区向其成员提供以下服务：
 
 ## 认证贡献
 
-Steem是一个为彻底解决社交媒体经济的应用与其货币化问题而设计的解决方案。 我们的观点是用于帮助主要社交媒体成长的技术同样也适用于一个成功的加密货币。 由加密货币作为载体的激励措施可以极大地促进新兴社交媒体的发展。 It is the synergy between cryptocurrency and social media that we believe may give Steem a powerful advantage in the market.
+Steem是一个为彻底解决社交媒体经济的应用与其货币化问题而设计的解决方案。 我们的观点是用于帮助主要社交媒体成长的技术同样也适用于一个成功的加密货币。 由加密货币作为载体的激励措施可以极大地促进新兴社交媒体的发展。 我们相信加密货币和社会媒体之间的协同作用会给Steem在市场上带来强大的优势。
 
 The challenge faced by Steem is deriving an algorithm for scoring individual contributions that most community members consider to be a fair assessment of the subjective value of each contribution. In a perfect world, community members would cooperate to rate each other's contribution and derive a fair compensation. In the real world, algorithms must be designed in such a manner that they are resistant to intentional manipulation for profit. Any widespread abuse of the scoring system could cause community members to lose faith in the perceived fairness of the economic system.
 
