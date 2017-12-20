@@ -234,13 +234,13 @@ Placeholder for translator's notes.
 
 ### ادائیگیاں
 
-When a post receives a payout it takes the form of 50% SBD and 50% SP. The Steem Power give the user increased voting and transaction power while the SBD gives the user an immediate benefit in a stable currency. As we’ve already discussed at length, SP is designed to encourage long-term holding rather than short-term selling. This encourages more users to have a vested interest in the long-term success of the platform.
+جب ایک مواد کی اشاعت ادائیگی حاصل کرتی ہے، وہ ٥٠ فیصد (%50) ایس-بی-ڈی (SBD) اور ٥٠ فیصد (%50) سٹیم پاور (SP) کی شکل لیتی ہے. سٹیم پاور صارف کی ووٹنگ اور لین دین کی طاقت میں اضافہ کرتی ہے جب کہ ایس-بی-ڈی (SBD) صارف کو فوری فائدہ ایک مستحکم کرنسی کی شکل میں فوری فائدہ فراہم کرتا ہے. جیسے ہم نے پہلے بھی ایک لمبی گفتگو کی، سٹیم پاور (SP) کو طویل مدتی ہولڈنگ کو فروغ دینے کے لئے تیار کیا گیا ہے نہ کہ کم قلیل مدتی فروخت کے. یہ زیادہ صارفین کو پلیٹ فارم کی طویل مدتی کامیابی کے لئے ویسٹنگ مفاد رکھنے کی حوصلہ افزائی کرتا ہے.
 
-Users also have the option to be paid in 100% SP, as well as decline payout on posts. When a user declines payout on a post, the money that would have been paid to them remains in the rewards pool, to be distributed to other users.
+صارفین کو ١٠٠ فیصد سٹیم پاور (SP 100%) میں ادائیگی لینے کا بھی اختیار ہے اور اس کے علاوہ اپنے مواد پر ادائیگی نہ لینے کا بھی اختیار ہے. جب ایک صارف اپنے مواد پر ادائیگی لینے سے انکار کرتا ہے تو وہ انعام دوبارہ انعامی پول میں چلا جاتا ہے جو کہ دوسرے صارفین میں ان کے تعاون کے عوض تقسیم ہو جاتا ہے.
 
-# Consensus Algorithm
+# اتفاق رائے کا حساب و شمار
 
-Consensus is the process by which a community comes to a universally recognized, unambiguous agreement on piece of information. There are many algorithms society has developed for reaching consensus about who owns what. Every government on earth is a primitive consensus algorithm whereby the population agrees to abide by a certain set of rules enshrined in a constitution. Governments establish courts, judges, and juries to interpret the subjective facts and render a final decision. Most of the time people abide by the decision even if it was wrong.
+اتفاق رائے وہ عمل ہے جس کے ذریعے ایک کمیونٹی کسی معلومات کے ٹکڑے پر عالمی طور پر تسلیم شدہ اور واضح معاہدے پر اکٹھی ہوتی ہے. بہت سے حساب و شمار موجود ہیں جو سماج نے اس بات پر اتفاق حاصل کرنے کے لئے بنائے ہیں یہ جاننے کے لئے کہ کون کس کا مالک ہے. زمین پر ہر حکومت ایک ابتدائی اتفاق رائے الگورتھم (یعنی حساب و شمار) ہے جس کے تحت آبادی ایک مخصوص آئین میں شامل اصولوں کے مجموعے کے مطابق چلنے کے لئے تیار ہوتی ہے. حکومتیں عدالتوں، ججوں اور فقھاء کو نفسی حقائق کی ترجمانی کے لئے قائم کرتی ہیں اور حتمی فیصلہ فراہم کرتی ہیں. Most of the time people abide by the decision even if it was wrong.
 
 The algorithms used by cryptocurrencies provide a better way to reach consensus. Cryptographically signed testimony from individuals is recorded in a public ledger that establishes the absolute global order of events. A deterministic computer algorithm can then process this ledger to derive a universally accepted conclusion. So long as the members of a community agree on the processing algorithm, the result of the algorithm is authoritative.
 
