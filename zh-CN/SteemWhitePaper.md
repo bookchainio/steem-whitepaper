@@ -46,15 +46,15 @@ Steem所面临的挑战是推导出一个大多数社区成员认为公平的算
 
 Steem平台上的基本帐户单元是STEEM, 一种加密货币令牌。 Steem在一STEEM一票的基础上运作。 在这个模型下, 那些对平台贡献最大，账户余額最多的人, 对内容贡献的评分有最大份额的影响。 此外, 只有STEEM在一个投资计划中，Steem才允许用户用它来投票。 在这种模式下, 成员们会被激励而用把STEEM币长期价值最大化的方式来投票 。
 
-Steem是围绕一个相对简单的概念设计的: * 每个人对社区的有意义的贡献所增加的价值都应该被认可. *当人们被认可为他们的有意义的贡献, 他们继续贡献并促进社区增长。 在社区内给予和索取的任何不平衡都是不可持续的。 给予者最终会厌倦支持接受者并脱离社区。
+Steem是围绕一个相对简单的概念设计的: * 每个人对社区的有意义的贡献所增加的价值都应该被认可。*当人们被认可为他们的有意义的贡献, 他们继续贡献并促进社区增长。 在社区内给予和索取的任何不平衡都是不可持续的。 给予者最终会厌倦支持接受者并脱离社区。
 
 面临的挑战是建立一个系统, 能够确定哪些贡献是需要的, 并且它们的相对价值可以扩展到无限多的人。
 
-一个行之有效的评估和奖励贡献的系统就是自由市场。 The free market can be viewed as a single community where everyone trades with one another and rewards are allocated by profit and loss. The market system rewards those who provide value to others and punishes those who consume more value than they produce. The free market supports many different currencies and money is simply a commodity that everyone finds easy to exchange.
+一个行之有效的评估和奖励贡献的系统就是自由市场。 自由市场可以被看作是一个每个人都互相交易, 奖励是由利润和损失分配的单一的社会。 市场体系奖励那些为他人提供价值的人, 并惩罚那些消耗比他们生产的价值更多的人。 自由市场支持许多不同的货币, 货币仅仅是一个人人都能轻易交易的商品。
 
-Since the free market is a proven system, it is tempting to try to create a free-market system where content consumers directly pay content producers. However, direct payment is inefficient and not really viable for content creation and curation. The value of most content is so low relative to the cognitive, financial, and opportunity costs associated with making a payment that few readers choose to tip. The abundance of free alternatives means that enforcing a ‘paywall’ will drive readers elsewhere. There have been several attempts to implement per-article micropayments from readers to authors, but none have become widespread.
+由于自由市场是一个行之有效的体系, 所以建立一个自由市场体系, 让内容消费者直接向内容生产者付费是很诱人的。 然而, 直接支付是低效的，对于内容创建和点赞并不真正可行。 大多数内容的价值相对于支付的认知、财务和机会成本是如此之低, 很少有读者选择付小费。 大量的自由选择意味着强制执行 "收费" 将推动读者到别处。 有过几个读者给作者的每篇文章小额支付尝试，但没有一个被普及。
 
-Steem is designed to enable effective micropayments for all kinds of contribution by changing the economic equation. Readers no longer have to decide whether or not they want to pay someone from their own pocket, instead they can vote content up or down and Steem will use their votes to determine individual rewards. This means that people are given a familiar and widely used interface and no longer face the cognitive, financial, and opportunity costs associated traditional micropayment and tipping platforms.
+Steem的设计是通过改变经济方程式来实现对各种贡献的有效的小额支付。 读者不再需要决定他们是否愿意从自己的口袋里掏钱，而是可以通过好评和差评投票，由Steem根据他们的投票来决定个人的报酬。 This means that people are given a familiar and widely used interface and no longer face the cognitive, financial, and opportunity costs associated traditional micropayment and tipping platforms.
 
 Voting input from community members is critical for Steem to accurately allocate payments to contributors. Voting can therefore be viewed as a crucial contribution and worthy of rewards on its own. Some platforms, such as Slashdot, use meta-moderation[^3] as a way to rank and reward honest moderators. Steem chooses to reward those who contribute the most to the total promotion of a piece of content and rewards the voters proportional to the ultimate reward paid to the content creator.
 
