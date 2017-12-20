@@ -116,35 +116,35 @@ Placeholder for translator's notes.
 
 اس کھیل کے میدان برابر کرنے کے لئے کو سٹیم تبادلوں کی تمام درخواست کو ساڑھے تین دن تک تاخیر کرتا ہے. اس کا مطلب یہ ہے کہ نہ ہی تاجروں کو آنے والے دنوں میں سٹیم کی قیمت کا علم ہوگا اور نہ ہی بلاکچین کو تبادلوں کی درخواست کے وقت سٹیم کی موجودہ قیمت کا علم ہوگا.
 
-### Minimizing Abuse of Conversions
+### تبادلوں کے غلط استعمال کی رکاوٹ
 
-If people could freely convert in both directions then traders could take advantage of the blockchains conversion rates by trading large volumes without changing the price. Traders who see a massive run up in price would convert to SBD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SBD to STEEM and not the other way around.
+اگر لوگ آزادانہ طریقے سے دونوں سمتوں میں تبادلہ کر سکتے تو تاجر بلاکچین پر بڑے حجم کی تجارت کر کے مارکیٹ میں قیمت کو تبدیل کیے بغیر بلاکچین کا فائدہ اٹھا سکتے تھے. بڑے پیمانے پر سٹیم کی قیمت کے اضافے کو دیکھ کر تاجر اسے سٹیم ڈالرز میں تبدیل کرلیتے اور جب قیمت درست ہوجاتی تو دوبارہ سٹیم ڈالرز کو سٹیم میں تبدیل کر لیتے. سٹیم پروٹوکول لوگوں کو صرف سٹیم ڈالرز سے سٹیم میں تبادلہ کے قانون کو نافذ کر کے جماعت کی اس قسم کے غلط استعمال سے حفاظت کرتا ہے.
 
-The blockchain decides how and when to create SBD and who should get it. This keeps the rate of SBD creation stable and removes most avenues of abuse.
+بلاکچین یہ فیصلہ کرتا ہے کہ کیسے اور کب سٹیم ڈالرز ٹوکن کو بنایا جائے اور کسے یہ ٹوکن ملنے چاہئیں۔ یہ طریقہ سٹیم ڈالرز کی پیداوار کی شرح کو مستحکم رکھتا ہے اور زیادہ تر غلط استعمال کی ممکنات کو ختم کرتا ہے.
 
-### Sustainable Debt to Ownership Ratios
+### قرض بمقابل ملکیت کی قابل برداشت شرح
 
-If a token is viewed as ownership in the whole supply of tokens, then a token-convertible-dollar can be viewed as debt. If the debt to ownership ratio gets too high the entire currency can become unstable. Debt conversions can dramatically increase the token supply, which in turn is sold on the market suppressing the price. Subsequent conversions require the issuance of even more tokens. Left unchecked the system can collapse leaving worthless ownership backing a mountain of debt. The higher the debt to ownership ratio becomes the less willing new investors are to bring capital to the table.
+اگر ٹوکن کی پوری فراہمی میں ٹوکن کو ملکیت کی حیثیت سے دیکھا جاتا ہے پھر ایک قابل تبدیل ٹوکن جو ڈالر میں تبدیل کیا جا سکے، اسے واجب الادا کے طور پر دیکھا جا سکتا ہے. اگر قرض بمقابل ملکیت کی شرح بہت زیادہ ہو جائے تو پوری کرنسی غیر مستحکم ہو سکتی ہے. قرض کے تبادلے ڈرامائی طریقے سے ٹوکن کی فراہمی میں اضافہ کر سکتے ہیں جس کی وجہ سے انہیں مارکیٹ میں فروخت کر دیا جاتا ہے جو ٹوکن کی قیمت پر دباو کا باعث بنتا ہے. اسکے بعد ہونے والے تبادلوں کے لئے مزیڈ ٹوکن جاری کرنے کی ضرورت پڑتی ہے. اس دوران وہ نظام جسکا جائزہ نہیں لیا جاسکا، ملکیت کو بیکار بناتے ہوئے جو قرضوں کے پہاڑ کا باعث بن رہا ہے، ٹوٹ سکتا ہے. قرض بمقابل ملکیت کی شرح جتنی زیادہ ہوتی ہے، اتنے ہی کم نئے سرمایہ کار اپنا سرمایہ میز پر کھنے کے لئے تیار ہوتے ہیں.
 
-A rapid change in the value of STEEM can dramatically change the debt-to-ownership ratio. The blockchain prevents the debt-to-ownership ratio from getting too high, by reducing the amount of STEEM awarded through SBD conversions if the debt level were to exceed 10%. If the amount of SBD debt ever exceeds 10% of the total STEEM market cap, the blockchain will automatically reduce the amount of STEEM generated through conversions to a maximum of 10% of the market cap. This ensures that the blockchain will never have higher than a 10% debt-to-ownership ratio.
+سٹیم کی قیمت میں تیزی سے تبدیلی ڈرامائی طور پر قرض بمقابل ملکیت کی شرح کو تبدیل کر سکتا ہے. سٹیم بلاکچین قرض بمقابل ملکیت کے تناسب کو بہت زیادہ ہونے سے روکنے کے لئے ایک اصول کا استعمال کرتا ہے جس کے تحت اگر قرض کی سطح ١٠ فیصد سے زیادہ بڑھ جائے تو سٹیم کے انعامات کی مقدار کو سٹیم ڈالر کے تبادلے کے ذریعے کم کردیا جائے گا. اگر سٹیم ڈالر کے قرض کی شرح سٹیم کی بازاری سرمایہ بندی سے ١٠ فیصد بڑھ جائے تو بلاکچین خودبخود سٹیم کے تبادلے کے ذریعے اس کے اجراء کو میں کمی کرتے ہوئے زیادہ سے زیادہ بازاری سرمایہ بندی کے ١٠ فیصد تک رکھے گا. یہ نظام اس بات کا یقین دلاتا ہے کہ قرض بمقابل ملکیت کا تناسب کبھی بھی ١٠ فیصد (%10) سے زیادہ نہیں ہوگا.
 
-The percentage floors used to compute STEEM creation are based on the supply including the STEEM value of all outstanding SBD and SP (as determined by the current rate / feed).
+اس حساب و کتاب کے لئے جو اعداد و شمار استعمال کیے جاتے ہیں وہ موجودہ فراہمی (اجراء) کی بنیاد پر ہے بشمول واجب الادا سٹیم ڈالر اور سٹیم پاور کی سٹیم میں قدر کے جو اس وقت کی موجودہ سٹیم کی قیمت کی بنیاد پر ہوگی.
 
-### Interest
+### سود
 
-SBD pays holders interest. The interest rate is set by the same people who publish the price feed so that it can adapt to changing market conditions. All debt carries risk to the lender. Someone who holds SBD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SBD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
+سٹیم ڈالرز ہولڈرز کو سود ادا کرتا ہے. سود کی شرح کا وہی لوگ فیصلہ کرتے ہیں جو پرائس فیڈ کی اشاعت کرتے ہیں تاکہ وہ شرح مارکیٹ کی بدلتی حالت سے مطابقت میں رہ سکے. تمام قرضوں میں قرض خواہوں کے لئے خطرہ شامل ہے. کوئی شخص جو سٹیم ڈالر سے آزاد ہونے کے بجائے انہیں ہولڈ کرتا ہے وہ موثر طریقے سے کمیونٹی کو ایک ڈالر کی قیمت میں قرض دے رہا ہے. ایسے لوگ بھروسہ کھتے ہیں کہ مستقبل میں کوئی شخص ان سے سٹیم ڈالر کو ایک ڈالر کی قیمت میں خریدے گا یا پھر اگر وہ ان سٹیم ڈالر کو مستقبل میں سٹیم میں تبدیل کرلینگے تو کچھ سرمایہ کار اور سٹے باز سٹیم ٹوکن کو خریدینگے.
 
-STEEM and SP holders gain leverage when members of the community are willing to hold SBD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
+جب کمیونٹی کے ارکان سٹیم ڈالر کو ہولڈ کرنے پر رضامند ہوں تو سٹیم اور سٹیم پاور ہولڈرز کو بیعانہ حاصل ہوتا ہے. یہ بیعانہ ترقی سے بڑھتا ہے اور ساتھ ہی ساتھ ترقی کے لئے تعاون بھی کرتا ہے. سٹیم پاور ہولڈرز بڑھتی ہوئی کمی کا شکار ہو جاتے ہیں اگر قیمت میں کمی آجائے. کرائیپٹوکرنسی منصوبوں نے یہ ظاہر کیا ہے کہ ایسے صارفین کی تعداد میں اضافہ جو نیٹ ورک پر اپنے سرمائے کے ساتھ بھروسہ کرنے کے لئے تیار ہوں، ایسے لوگ نیٹ ورک کی قدر میں اضافے کا باعث ہوتے ہیں بمقابل کسی آمیزش کے جو مندی کے دوران واقع ہو سکتی ہے.
 
-### Setting Price Feeds
+### پرائس فیڈ کی ترتیب
 
-Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
+ہوشیار قارئین یہ پہچان لینگے کہ محدود فراہمی والا سود سے متعلقہ اثاثہ اس کے بنیادی اثاثے کی قیمت سے کم یا زیادہ پر تجارت کیا جا سکتا ہے جو سود کمانے کے لئے اس کی شرح پر منحصر ہے. زیادہ سود کی شرح جو کہ امریکی ڈالر سے کیل شدہ اثاثہ پر ادا کیا جائے، بہت سے لوگ سٹیم ڈالر کی محدود فراہمی پر بولی لگائینگے جب تک کہ سٹیم ڈالر اپنی اصل قیمت یعنی ایک ڈالر تک نہ پہنچ جائے. معاشیات میں ایک اصول ہے جو ناممکن تثلیت[^4] کے نام سے مشہور ہے، وہ بیان کرتی ہے کہ مندرجہ ذیل تینوں کو ایک ہی وقت میں حاصل کرنا ناممکن ہے:
 
-1. A stable exchange rate
-2. Free capital movement
-3. An independent monetary policy
+1. مستحکم تبادلے کی قیمت
+2. آزاد سرمائے کی تحریک
+3. ایک آزاد مالیاتی پالیسی
 
-If Steem feed producers aim to have an independent monetary policy allowing it to create and destroy Steem Dollars while simultaneously having full control over the interest rate then they will encounter problems. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
+اگر سٹیم فیڈ کو بنانے والے سٹیم ڈالر کے اجراء اور انہیں ختم کرنے کی اجازت کے ذریعے ایک آزاد مالیاتی پالیسی حاصل کرنا چاہتے ہیں اور اسی کے ساتھ سود کی شرح پر مکمل اختیار چاہتے ہیں تو وہ مسائل کا سامنا کرینگے. ناممکن تثلیت کا اصول کہتا ہے کہ یا تو سٹیم ڈالرز کو آزاد سرمائے کی تحریک کو محدود کرنا ہوگا، یا ایک غیر مستحکتم تبادلے کی قیمت پر گزارا کرنا ہوگا یا پھر سود کی شرح پر محدود اختیار ہوگا.
 
 The primary concern of Steem feed producers is to maintain a stable one-to-one conversion between SBD and the U.S. Dollar (USD). Any time SBD is consistently trading above $1.00 USD interest payments must be stopped. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SBD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
 
