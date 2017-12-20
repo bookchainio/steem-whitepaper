@@ -114,9 +114,9 @@ With a three and a half day window, community members have approximately one and
 
 يمكن للمشاركين في السوق الحصول على المعلومات بشكل أسرع من ثلاثة أيام ونصف يوم يتحرك متوسط سعر التحويل من بلوكشين. ويمكن استخدام هذه المعلومات لفائدة التجار على حساب المجتمع. إذا كانت هناك زيادة مفاجئة في قيمة المتاجرين ل STEEM يمكنهم أن يطلبو تحويل SBD الخاص بهم إلى الأسعار المنخفظة، ومن ثم بيعون ستيم ويحصلون على سعر أعلى جديد مع الحد الأدنى من المخاطر.
 
-ستيم يتيح مستويات اللعب من خلال طلب جميع طلبات التحويل لتكون متأخرة لمدة ثلاثة أيام ونصف. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
+ستيم يتيح مستويات اللعب من خلال طلب جميع طلبات التحويل لتكون متأخرة لمدة ثلاثة أيام ونصف. وهذا يعني أنه لا التجار ولا بلوكشين لديه أي ميزة معلوماتية فيما يتعلق بالسعر في وقت تنفيذ التحويل.
 
-### Minimizing Abuse of Conversions
+### تقليل إساءة استخدام التحويلات
 
 If people could freely convert in both directions then traders could take advantage of the blockchains conversion rates by trading large volumes without changing the price. Traders who see a massive run up in price would convert to SBD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SBD to STEEM and not the other way around.
 
