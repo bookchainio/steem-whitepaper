@@ -74,15 +74,15 @@ Placeholder for translator's notes.
 
 ## سٹیم پاور (SP)
 
-ابتدائی کمپنیوں کو طویل مدتی وابستگی کے عزم کی ضرورت ہوتی ہے. Those who invest their money in a startup expect to wait years before they can sell their shares and realize their profits. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
+ابتدائی کمپنیوں کو طویل مدتی وابستگی کے عزم کی ضرورت ہوتی ہے. وہ لوگ جو اپنا سرمائے کی ابتداء میں سرمایہ کاری کرتے ہیں وہ سالوں تک انتظار کرنے کی توقع رکھتے ہیں اس سے پہلے کہ وہ اپنے حصص کو بیچ سکیں اور اپنا منافع حاصل کرسکیں. طویل مدتی وابستگی کے عزم کے بغیر، ایک ابتدائی کمپنی جو سرمائے کے اضافے کے لئے مزید شیئرز (حصص کے کاغذ) جاری کرنا چاہتی ہو، وہ اپنے موجودہ حصہ داروں کی وجہ سے مقابلے کا شکار جائے گی جو کمپنی سے اپنے حصص بیچ کر نکلنا چاہتے ہیں. سمجھدار سرمایہ کار اپنی سرمایہ کاری کے ذریعے کمپنی کو ترقی کرتا دیکھنا چاہتے ہیں لیکن ترقی اس وقت نہیں ہوسکتی جب کمپنی کو اپنے نئے سرمایہ کاروں سے حاصل ہونے والا سرمایہ موجودہ سرمایہ کاروں کو بیچنے کے لئے دینا پڑے.
 
-There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
+طویل مدتی وابستگی کے عزم کی بہت اہمیت ہے کیونکہ یہ کمیونٹی کو طویل مدتی منصوبہ بندی بنانے کے قابل بناتا ہے. سرمایہ کاروں کا طویل مدتی وابستگی کا عزم ان کے کمیونٹی کی قلیل مدتی ترقی کے بجائے طویل مدتی ترقی کے لئے ووٹ کا باعث بھی بنتا ہے.
 
-In the cryptocurrency space, speculators jump from cryptocurrency to cryptocurrency based mostly on which one is expected to have short-term growth. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
+کرائیپٹوکرنسی کی دنیا میں سٹےباز ایک کرنسی سے دوسری کرنسی پر زیادہ تر اس بنیاد پر چھلانگ لگاتے ہیں کہ کونسی کرنسی قلیل مدتی ترقی حاصل کرنے والی ہے. سٹیم ایک ایسی جماعت کی تشکیل کرنا چاہتی ہے جو زیادہ تر ان لوگوں کی ملکیت اور اختیار میں ہو جو طویل مدتی نظریہ رکھتے ہیں.
 
-Users are able to commit their STEEM to a thirteen week vesting schedule, providing them with additional benefits within the platform. STEEM that has been committed to a thirteen week vesting schedule is called Steem Power (SP). SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
+صارفین اپنے اسٹیم کو مقررہ تیرہ ہفتوں کے شیڈول تک وابستہ کر سکتے ہیں اور ایسے صارفین کو پلیٹ فارم کے اندر مزید فوائد بھی فراہم کیے جاتے ہیں. وہ سٹیم جو تیرہ ہفتوں تک لاک کیا جاتا ہے اسے سٹیم پاور (SP) کہتے ہیں. یہ بیلنس ناقابل منتقل اور ناقابل تقسیم ہے علاوہ خودکار طریقے سے کرنے کی درخواست کے. اسکا مطلب یہ ہے کہ سٹیم پاور آسانی سے مارکیٹ میں خریدوفروخت نہیں کیا جا سکتا.
 
-When users vote on content, their influence over the distribution of the rewards pool is directly proportional to the amount of SP that they have. Users with more SP have more influence on the distribution of rewards. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
+جب صارفین مواد پر اپنا ووٹ دیتے ہیں تو انعامات کے پول پر ان کا براہ راست اثر ان کے پاس موجود سٹیم پاور کے تناسب کے مطابق ہوتا ہے. زیادہ سٹیم پاور والے صارفین کا انعامات کے پول پر زیادہ اثر ہوتا ہے. اسکا مطلب یہ ہے کہ سٹیم پاور ایک رسائی حاصل کرنے کا ٹوکن ہے جو اسکے مالک یا ہولڈرز کو پلیٹ فارم میں خصوصی طاقت فراہم کرتا ہے.
 
 SP holders are also paid interest on the balance of SP that remains vested. 15% of the yearly inflation is paid to SP holders as interest. The amount of the interest that they receive is directly proportional to the amount of SP they hold relative to the total amount of vested SP across all users.
 
