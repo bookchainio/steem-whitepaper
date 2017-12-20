@@ -194,17 +194,17 @@ Placeholder for translator's notes.
 
 خوش قسمتی سے، کوئی بھی کام جو بڑی تعداد میں ووٹ حاصل کر رہا ہے وہ سب سے زیادہ مقبولیت بھی حاصل کر رہا ہے. *منفی ووٹنگ* کے اضافے کے ذریعے، بہت سے چھوٹے سرمایہ کار کے لئے یہ ممکن ہے کہ وہ سازش کرنے والے گروپوں کی طاقت کو منسوخ کردیں. اس کے علاوہ بڑے سرمایہ کاروں کے پاس ہارنے کے لئے بہت کچھ ہے اگر کرنسی ووٹنگ میں بدسلوکی کی وجہ سے قدر میں گرنے لگتی ہے اس سے زیادہ جتنا وہ ووٹنگ کے ذریعے فائدہ اٹھا سکتے تھے. حقیقت میں، بڑے سرمایہ کار جو ایماندار ہیں ان کا بدسلوکی کو پکڑنے اور منفی ووٹنگ کے ذریعے موثر ثابت ہونا زیادہ ممکن ہے بجائے اس کے کہ وہ چھوٹے تعاون کے لئے ووٹ ڈالیں.
 
-The use of *negative-voting* to keep people from abusing the system leverages the *crab mentality* that many people have when it is perceived that one individual is profiting at the expense of everyone else. While crab mentality normally refers to short-sighted people keeping good people down, it is also what allows good people to keep bad people down. The only “problem” with crab mentality is when people *wrongly believe* someone is profiting at everyone else's expense.
+لوگوں کی نظام کی بدسلوکی کی روک تھام کے لئے *منفی ووٹنگ* کا استعمال *کیکڑے کی ذہنیت* کو قابو میں رکھتا ہے جو بہت سے لوگوں میں یہ دیکھ کر پیدا ہو جاتی ہے کہ ایک فرد دوسرے تمام لوگوں کی قیمت پر فائدہ اٹھا رہا ہے. حالانکہ کیکڑے کی ذہنیت سے مراد عام طور پر مختصر نظر رکھنے والوں کی ہے جو اچھے لوگوں کو اچھائی سے باز رکھتی ہے مگر یہ وہ بھی ہے جس سے اچھے لوگوں کو برے لوگوں کو باز رکھنے کی اجازت دیتی ہے. کیکڑے کی ذہنیت کے ساتھ صرف ایک مسئلہ ہے اور وہ یہ کہ جب لوگوں کو *غلط فہمی* ہو جائے کہ کوئی شخص دوسروں کے اخراجات پر منافع حاصل کر رہا ہے.
 
-**The Story of the Crab Bucket**[^6]
+**کیکڑوں سے بھری بالٹی کی کہانی**[^6]
 
-A man was walking along the beach and saw another man fishing in the surf with a bait bucket beside him. As he drew closer, he saw that the bait bucket had no lid and had live crabs inside.
+ایک آدمی ساحل سمندر پر چل رہا تھا۔ اس نے ایک شخص کو دیکھا جو پانی کی موجوں میں ماہی گیری کر رہا تھا اور اس کے پاس شکار کو جمع کرنے کے لئے بالٹی تھی۔ جیسے ہی وہ آدمی قریب آیا، اس نے دیکھا کہ اس بالٹی کا ڈھکن نہیں تھا اور اس بالٹی میں زندہ کیکڑے تھے.
 
-"Why don't you cover your bait bucket so the crabs won't escape?", he said.
+“آپ اپنی بالٹی کو ڈھکتے کیوں نہیں تاکہ کیکڑے باہر نہ بھاگ سکیں؟“، اس آدمی نے کہا.
 
-"You don't understand.", the man replied, "If there is one crab in the bucket it would surely crawl out very quickly. However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
+“تم نہیں سمجھوگے"، اس شخص نے جواب دیا, "اگر بالٹی میں ایک کیکڑا ہوتا تو وہ یقینی طور پر رینگتے ہوئے باہر آجاتا. تاہم، جب بالٹی میں بہت سے کیکڑے ہوں اور ان میں سے ایک اوپر کی طرف رینگنے کی کوشش کرے تو دوسرے اسے پکڑ لیتے ہیں اور نیچے کی طرف کھینچ لیتے ہیں تاکہ وہ کیکڑا بھی ان کی طرح اسی تقدیر کا حصہ بنے."
 
-So it is with people. If one tries to do something different, get better grades, improve herself, escape her environment, or dream big dreams, other people will try to drag her back down to share their fate.
+تو یہ لوگوں کے ساتھ بھی ہے. اگر کوئی کچھ مختلف کرنے کی کوشش کرے، بہتر گریڈ حاصل کرے، خود میں بہتری لائے، برے حالات سے باہر آئے یا بڑے خواب دیکھے تو دوسرے لوگ اسے دوبارہ نیچے کی طرف کھینچ لیتے ہیں تاکہ وہ شخص بھی اسی تقدیر کا شریک بنے.
 
 Eliminating “abuse” is not possible and shouldn’t be the goal. Even those who are attempting to “abuse” the system are still doing work. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn’t so rampant that it undermines the incentive to do real work in support of the community and its currency.
 
