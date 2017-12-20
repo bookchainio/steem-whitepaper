@@ -29,22 +29,22 @@ Placeholder for translator's notes.
 سٹیم کی جماعت اپنے اراکین کو مندرجہ ذیل خدمات مہیا کرتی ہے:
 
 1. منحصر خبروں اور تبصروں کا ایک ذریعہ.
-2. A means to get high quality answers to personalized questions.
-3. A stable cryptocurrency pegged to the U.S. dollar.
-4. Free payments.
-5. Jobs providing above services to other members.
+2. ذاتی سوالات کے اعلی معیار کے جوابات حاصل کرنے کا ایک ذریعہ.
+3. امریکی ڈالر سے کیل شدہ ایک مستحکم کرائیپٹوکرنسی.
+4. مفت ادائیگی.
+5. دیگر اراکین کو اوپر درج شدہ خدمات فراہم کرنے والی نوکریاں.
 
-Steem’s purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem’s incentives may result in better outcomes for most participants.
+سٹیم کا بامقصد ابھار جو کہ کرائیپٹوکرنسی انعامات کے ذریعے حوصلہ افزائی کا ہے وہ یہ صلاحیت اور ممکنات رکھتا ہے کہ وہ تمام لوگوں کے لئے جو کہ اس پلیٹ فارم میں حصہ دار ہیں، منصفانہ اور باہمی نتائج پیدا کرے بمقابل ان سوشل میڈیا اور کرائیپٹوکرنسیوں کے جو سٹیم سے قبل گزر چکی ہیں. یہ پرچہ موجودہ اقتصادی تشویشوں کا جائزہ لے گا اور یہ وضاحت کرے گا کہ کس طرح سٹیم زیادہ تر شرکاء کے لیے بہترین نتائج حاصل کر سکتی ہے.
 
-## Recognizing Contribution
+## شراکت داری کی پہچان
 
-Steem is designed from the ground up to address the major barriers to adoption and monetization of a social media based economy. Our thesis is that the same techniques used to grow major social media platforms can be used to bootstrap a successful cryptocurrency. Economic incentives enabled by cryptocurrency can dramatically facilitate the growth of a new social media platform. It is the synergy between cryptocurrency and social media that we believe may give Steem a powerful advantage in the market.
+سٹیم کو زمین کی سطح سے تیار کیا گیا ہے تاکہ وہ سوشل میڈیا پر مبنی معیشت میں حائل بڑی رکاوٹوں کو مخاطب کر کے اس معیشت کو اپنانے اور مالی حوصلہ افزائی کی راہ میں رکاوٹوں کو حل کرسکے. ہمارا نظریہ یہ ہے کہ وہی طریقے جو اہم سوشل میڈیا کی ترقی اور بڑھاو کے لئے استعمال ہوئے ہیں، ہوبہو وہی طریقے ایک کرائیپٹوکرنسی کو کامیاب بنانے کے لئے استعمال کیے جا سکتے ہیں. کرائیپٹوکرنسی کے انعامات پر مبنی اقتصادی حوصلہ افزائی نئے سوشل میڈیا پلیٹ فارم کو ڈرامائی طریقے سے ترقی فراہم کرنے میں مدد دے سکتی ہے. یہ کرائیپٹوکرنسی اور سوشل میڈیا کا باہمی تعاون ہے جو ہم یقین رکھتے ہیں کہ سٹیم کو مارکیٹ میں طاقتور فائدہ دے سکتا ہے.
 
-The challenge faced by Steem is deriving an algorithm for scoring individual contributions that most community members consider to be a fair assessment of the subjective value of each contribution. In a perfect world, community members would cooperate to rate each other's contribution and derive a fair compensation. In the real world, algorithms must be designed in such a manner that they are resistant to intentional manipulation for profit. Any widespread abuse of the scoring system could cause community members to lose faith in the perceived fairness of the economic system.
+سٹیم کی راہ میں سب سے بڑا چیلنج ایک حساب و شمار کی تیاری کا تھا جس سے انفرادی شراکتوں کا تعین کیا جا سکے جو زیادہ تر کمیوتٹی کی نظر میں ہر شراکت کی قدر کا منصفانہ جائزہ لینے کے لئے درست سمجھا جاتا ہو. ایک کامل دنیا میں، کمیونٹی کے ارکان ایک دوسرے کی شراکت کی قدر اور اس پر اسکے لئے منصفانہ معاوضے کے تعین میں مدد کرینگے. حقیقی دنیا میں، حساب و شمار کو اس طرح تیار کرنا چاہیے جو ارادی ہنرمندی سے نفع حاصل کرنے سے لوگوں کو باز رکھے. اسکور کے نظام کا کسی بھی طرح بڑے پیمانے پر غلط استعمال جماعتی اراکین کے لئے مبینہ منصفانہ نظام پر اعتماد کھو دینے کا سبب بن سکتا ہے.
 
-Existing platforms operate on a one-user, one-vote principle. This creates an environment where rankings can be manipulated by sybil attacks and the service providers must pro-actively identify and block abusers. People already attempt to manipulate the Reddit, Facebook, and Twitter scoring algorithms when the only reward is web traffic or censorship.
+موجودہ سوشل میڈیا پلیٹ فارمز ایک صارف-ایک ووٹ کے اصول پر کام کرتے ہیں. یہ ایک ایسا ماحول پیدا کرتا ہے جہاں درجہ بندی کا سائبل حملوں کے ذریعے جوڑ توڑ کیا جا سکتا ہے اور خدمات فراہم کرنے والے ادارے کو فوری طور پر ان بدعنوان لوگوں کی شناخت کر کے انہیں روکنا ہوگا. لوگ پہلے ہی ریڈٹ، فیس بک اور ٹویٹر کے حساب و شمار کے نظام کو جوڑ توڑ کرنے کی کوشش کر چکے ہیں جبکہ اس میں فائدہ صرف اور صرف ویب ٹریفک حاصل کرنے کا ہے.
 
-The fundamental unit of account on the Steem platform is STEEM, a crypto currency token. Steem operates on the basis of one-STEEM, one-vote. Under this model, individuals who have contributed the most to the platform, as measured by their account balance, have the most influence over how contributions are scored. Furthermore, Steem only allows members to vote with STEEM when it is committed to a vesting schedule. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
+سٹیم پلیٹ فارم پر اکاونٹ کی بنیادی اکائی سٹیم ہے، جو ایک کرائیپٹوکرنسی ٹوکن ہے. سٹیم پلیٹ فارم ایک سٹیم - ایک ووٹ کی بنیاد پر چلتا ہے. Under this model, individuals who have contributed the most to the platform, as measured by their account balance, have the most influence over how contributions are scored. Furthermore, Steem only allows members to vote with STEEM when it is committed to a vesting schedule. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
 
 Steem is designed around a relatively simple concept: *everyone’s meaningful contribution to the community should be recognized for the value it adds.* When people are recognized for their meaningful contributions, they continue contributing and the community grows. Any imbalance in the give and take within a community is unsustainable. Eventually the givers grow tired of supporting the takers and disengage from the community.
 
