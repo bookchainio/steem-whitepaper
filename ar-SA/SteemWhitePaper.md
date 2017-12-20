@@ -118,9 +118,9 @@ With a three and a half day window, community members have approximately one and
 
 ### تقليل إساءة استخدام التحويلات
 
-If people could freely convert in both directions then traders could take advantage of the blockchains conversion rates by trading large volumes without changing the price. Traders who see a massive run up in price would convert to SBD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SBD to STEEM and not the other way around.
+إذا كان بإمكان الناس أن تحول بكل حرية في كلا الاتجاهين إذن التجار يمكنهم الاستفادة من معدلات التحويل بلوكشين من خلال تداول كميات كبيرة دون تغيير السعر. أما المتداولون الذين يشهدون ارتفاعا هائلا في السعر، فإنهم سيحولون إلى SBD بسعر مرتفع (عندما يكون أكثر خطورة) ثم يعيدون التحويل بعد التصحيح. بروتوكول ستيم يحمي المجتمع من هذا النوع من الاعتداء عن طريق السماح فقط للأشخاص بالتحويل من SBD إلى STEEM وليس العكس.
 
-The blockchain decides how and when to create SBD and who should get it. This keeps the rate of SBD creation stable and removes most avenues of abuse.
+بلوكشين يقرر كيف ومتى ينشئ SBD ومن الذي يجب ان يحصل عليه. هذا يحافظ على معدل إنشاء SBD مستقر ويزيل معظم سبل سوء المعاملة.
 
 ### Sustainable Debt to Ownership Ratios
 
