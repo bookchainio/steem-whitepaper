@@ -10,25 +10,25 @@ Placeholder for translator's notes.
 
 # خلاصہ
 
-سٹیم ایک بلاکچین ڈیٹابیس ہے جو جماعتوں کی تشکیل اور سماجی بات چیت اور تعامل کو کرائیپٹوکرنسی کے انعامات کے ذریعے فروغ دیتی ہے اور ان کی حمایت کرتی ہے. سٹیم سوشل میڈیا اور ان کی جماعتوں کے تصورات کو اپنے سیکھے ہوئے کرائیپٹوکرنسی کی تشکیل کے اسباق سے جوڑتی ہے. کسی بھی جماعت، کرنسی یا آزاد مارکیٹ معیشت میں باہمی تعاون اور شراکتداری کو ابھارنے اور ان کی حوصلہ افزائی میں ایک اہم کلیدی کردار منصفانہ نظام حساب داری کا ہوتا ہے جو مسلسل ہر ایک شخص کی اعانت یا شراکت کو ظاہر کرتا ہو. Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
+سٹیم ایک بلاکچین ڈیٹابیس ہے جو جماعتوں کی تشکیل اور سماجی بات چیت اور تعامل کو کرائیپٹوکرنسی کے انعامات کے ذریعے فروغ دیتی ہے اور ان کی حمایت کرتی ہے. سٹیم سوشل میڈیا اور ان کی جماعتوں کے تصورات کو اپنے سیکھے ہوئے کرائیپٹوکرنسی کی تشکیل کے اسباق سے جوڑتی ہے. کسی بھی جماعت، کرنسی یا آزاد مارکیٹ معیشت میں باہمی تعاون اور شراکتداری کو ابھارنے اور ان کی حوصلہ افزائی میں ایک اہم کلیدی کردار منصفانہ نظام حساب داری کا ہوتا ہے جو مسلسل ہر ایک شخص کی اعانت یا شراکت کو ظاہر کرتا ہو. سٹیم وہ پہلی کرائیپٹوکرنسی ہے جو بےحد لوگوں کو درست طریقے اور شفاف طور پر جماعت یا کمیونٹی میں ان کی *اِنفرادی اعانت یا شراکت* پر انہیں انعامات سے نوازتی ہے.
 
-# Table of Contents
+# اجزا کی فہرست
 
 <!-- toc -->
 
-# Introduction
+# تعارف
 
-Collectively, user-generated content has created billions of dollars worth of value for the shareholders of social media companies, such as Reddit, Facebook, and Twitter. **In 2014, Reddit hypothesized that its platform would be improved if everyone who contributed to reddit.com by posting stories, adding comments or voting were rewarded with a fair share in Reddit, Inc.[^1]**. Steem aims to support social media and online communities by returning much of its value to the people who provide valuable contributions by rewarding them with cryptocurrency, and through this process create a currency that is able to reach a broad market, including people who have yet to participate in any cryptocurrency economy.
+مجموعی طور پر، صارفین کے تخلیق شدہ مواد نے سوشل میڈیا کمپنیوں جیسے ریڈٹ، فیس بک اور ٹویٹر کے شیئرہولڑرز کے لئے اربوں ڈالر کی قدر بنائی ہے. **سن 2014 میں ریڈٹ نے دعوہ کیا کہ اگر سب لوگوں کو جنہوں نے کہانیوں کو شائع، تبصرے یا اپنی پسند سے واٹنگ کر کے ریڈٹ میں حصہ لیا ہو، اگر انہیں ریڈٹ کمپنی میں مںصفانہ حصہ داری دی جائے تو ریڈٹ پلیٹ فارم میں بہتری پیدا ہو جائے گی.[^1]**. سٹیم کا مقصد سوشل میڈیا اور آن لائن جماعت یا کمیونٹی کی حمایت کرتے ہوئے اس کی قدر کو ان لوگوں میں کرائیپٹوکرنسی کے انعامات کو تقسیم کرنا ہے جو مختلف قیمتی طریقوں سے (مثلا: کہانیوں کو شائع کرنے، تبصروں یا اپنی پسند کے مواد پر واٹنگ سے) سٹیم پلیٹ فارم میں حصہ لیتے ہیں اور اس عمل کے ذریعے اس کا مقصد ایک ایسی کرائیپٹوکرنسی بنانا ہے جو وسیع پیمانے پر مارکیٹ تک رسائی حاصل کر سکے سمیت ان لوگوں کے جنہوں نے اب تک کرائیپٹوکرنسی کی معیشت میں حصہ نہیں لیا ہے.
 
-There are some key principles that have been used to guide the design of Steem. The most important principle is that everyone who contributes to a venture should receive pro-rata ownership, payment or debt from the venture. This principle is the same principle that is applied to all startups as they allocate shares at founding and during subsequent funding rounds.
+سٹیم کو ایک مثالی نمونہ بنانے کے لئے کچھ اہم اصولوں کا استعمال کیا گیا ہے. سب سے اہم اصول یہ ہے کہ وہ تمام لوگ جو پلیٹ فارم کے کسی بھی شعبے میں اس کی مدد کریں انہیں اس کمپنی میں کچھ حصہ یا مال اور یا پھر شعبے میں کچھ اضافہ ملنا چاہیئے. یہ اصول وہی اصول ہے جو تمام کمپنیوں میں ابتدائی طور پر لاگو ہوتا ہے جیسے ایک کمپنی اپنے شیئرز کو اس کے وجود میں آنے کے وقت مختص کرتی ہے اور بعد میں مختلف وقفوں سے جب بھی انہیں سرمائے کی ضرورت ہوتی ہے وہ کمپنی شیئرز کو مختص کرتی ہے.
 
-The second principle is that all forms of capital are equally valuable. This means that those who contribute their scarce time and attention toward producing and curating content for others are just as valuable as those who contribute their scarce cash. This is the sweat equity principle[^2] and is a concept that prior cryptocurrencies have often had trouble providing to more than a few dozen individuals.
+دوسرا اصول یہ ہے کہ تمام قسموں کے سرمائے مساوی طور پر قیمتی ہیں. اس کا مطلب یہ ہے کہ وہ لوگ جو اپنا قلیل وقت اور توجہ لگا کر قیمتی مواد کی پیداوار اور ووٹنگ کے ذریعے دوسروں کے مواد کی سرپرستی کرتے ہیں، وہ اتنے ہی اہم ہیں جتنے وہ لوگ جو اپنا نایاب مال کمپنی میں حصہ حاصل کرنے کے لئے خرچ کرتے ہیں. یہ پسینے کی سرمایہ کاری کا اصول [^2] کہلاتا ہے اور یہ ایک ایسا تصور ہے جو پچھلی تمام کرائیپٹوکرنسیاں حقیقت میں بدلنے میں ناکام رہیں سوائے کچھ درجن لوگوں کے.
 
-The third principle is that the community produces products to serve its members. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
+تیسرا اصول یہ ہے کہ کمیونٹی یا جماعت اپنے اراکین کی خدمت کے لیے پیداوار تیار کرتی ہے. اس کی مثالوں میں قرضہ مہیا کرنے والی تنظیمیں، کھانے کی سہولیات مہیا کرنے والی تنظیمیں اور صحت کے حصول کی منصوبہ بندی فراہم کرنے والے ادارے شامل ہیں جو صرف اپنی کمیونٹی یا جماعت کے اراکین کو اپنی پیداوار یا خدمات فراہم کرتے ہیں بجائے اس کے کہ وہ اپنی خدمات اپنی کمیونٹی یا جماعت کے باہر فراہم کریں.
 
-The Steem community provides the following services to its members:
+سٹیم کی جماعت اپنے اراکین کو مندرجہ ذیل خدمات مہیا کرتی ہے:
 
-1. A source of curated news and commentary.
+1. منحصر خبروں اور تبصروں کا ایک ذریعہ.
 2. A means to get high quality answers to personalized questions.
 3. A stable cryptocurrency pegged to the U.S. dollar.
 4. Free payments.
