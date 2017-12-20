@@ -294,29 +294,29 @@ Placeholder for translator's notes.
 
 ### سائبل (Sybil) حملے
 
-Centralized websites prevent spam through rate limiting and some form of ID verification. Even something as simple as reCAPTCHA[^9] is sufficient to limit the creation of fake accounts. If someone abuses their account then centralized websites are free to block the account.
+مرکزی ویب سائٹس فضولیات کو شرح کے محدود کرنے اور کسی قسم کی شناخت کی تصدیق کے ذریعے روکتی ہیں. یہاں تک کہ کچھ سادہ سے سادہ جیسے ریکیپچا (reCaptcha) بھی جعلی اکاونٹس کی تخلیق کو محدود کرنے کے لئے کافی ہے. اگر کوئی ان کے اکاونٹ کا غلط استعمال کرتا ہے تو مرکزی ویب سائٹس ان اکاونٹ کو بند کرنے کی آزادی رکھتی ہیں.
 
-In a decentralized system there is no direct way to ban users nor centralized provider able to host a reCAPTCHA and enforce rate limiting of accounts. In fact, the inability to censor users is one of the main selling points of blockchain technology.
+ایک غیرمرکزی نطام میں، صارفین کی پابندی کے لئے کوئی براہ راست راستہ نہیں ہے اور نہ ہی کوئی مرکزی خدمات دینے والا ریکیپچا کے ذریعے جعلی اکاونٹس کی شرح کو محدود کر سکتا ہے. حقیقت میں، صارفین کے احتساب کی صلاحیت کا نہ ہونا ہی بلاکچین ٹیکنالوجی کی فروخت کے مرکزی اشاروں میں سے ایک اہم اشارہ ہے.
 
-### Full Reserve vs Fractional Reserve
+### کلی مختص بمقابل جزوی مختص
 
-Let’s view a blockchain like an Internet Service Provider (ISP) co-op which owns all of the cables in the town and has a maximum amount of bandwidth that it can provide at any time. People living in the town can buy shares in the ISP and in exchange they are entitled to utilize a portion of the available bandwidth.
+چلیں ایک بلاکچین کو ایک انٹرنیٹ سروس فراہم کرنے والی کمپنی کی طرح سمجھتے ہیں جو شہر کے تمام کیبلز کی مالک ہے اور اس کے پاس اتنا زیادہ بینڈوڈتھ ہے جو وہ کسی بھی وقت فراہم کر سکتی ہے. اس شہر کے رہنے والے لوگ اس کمپنی سے دستیاب بینڈوڈتھ کا کچھ حصہ خرید سکتے ہیں.
 
-The ISP has two choices, run a “full reserve” or “fractional reserve” system. Under a full reserve system each user is only allowed a fraction of the maximum bandwidth proportional to her shares. Because not everyone uses the Internet at the same time, the town’s network would be significantly underutilized.
+انٹرنیٹ سروس فراہم کرنے والی کمپنی کے پاس ان دونوں میں سے ایک اتنخاب کرنے کا اختیار ہے: یا تو وہ کلی مختص نظام کا انتخاب کریں یا پھر جزوی مختص کا. کلی مختص نظام کے تحت ہر صارف کو زیادہ سے زیادہ بینڈوڈتھ کے کچھ حصے کے استعمال کی اجازت دی جاتی ہے جو صارف کے حصص کی خرید کے متناسب ہوتا ہے. کیونکہ ہر ایک صارف ایک ہی وقت میں انٹرنیٹ کا استعمال نہیں کرتے، اس لئے شہر کا نیٹ معنی خیز طور پر کم استعمال ہوگا.
 
-Under a fractional reserve system the individual users could utilize more bandwidth than they are entitled to at any given point in time so long as not everyone uses the Internet at the same time. The problem with operating a fractional reserve is that congestion occurs anytime too many people wish to use the network at the same time. The ISP needs a way to prioritize bandwidth during congested periods. In the most extreme case, a fully congested network must revert to a full reserve system. The challenge is setting the proper fractional reserve ratio.
+جزوی مختص نطام کے تحت انفرادی صارفین زیادہ بینڈوڈتھ کا استعمال کر سکتے ہیں بمقابل اس کے جس کے وہ ایک مخصوص وقت میں حقدار ہیں لیکن صرف اس وقت تک جب تک کہ ہر ایک صارف انٹرنیٹ کو ایک ہی وقت میں استعمال نہیں کرتا. جزوی مختص نظام چلانے میں مسئلہ یہ ہے کہ بھیڑ (رش) کسی بھی وقت لگ جاتی ہے جب بہت سے لوگ ایک ہی وقت میں انٹرنیٹ استعمال کرنا چاہتے ہیں۔ بھیڑ کے اوقات میں بینڈوڈتھ کی ترجیح کے لئے انٹرنیٹ سروس فراہم کرنے والے کو کسی راستے کی ضرورت ہے. بھیڑ کے اوقات میں بینڈوڈتھ کی ترجیح کے لئے انٹرنیٹ سروس فراہم کرنے والے کو کسی راستے کی ضرورت ہے. بہت زیادہ انتہائی صورت میں، مکمل بھیڑ والا نیٹ ورک لازمی طور پر کلی مختص نظام کی طرف واپس لوٹتا ہے. مشکل کام ایک مناسب جزوی مختص کے تناسب کو قائم کرنا ہے.
 
-## Bandwidth Instead of Micropayment Channels
+## چھوٹی ادائیگیوں کے تنگ راستے کے بجائے بینڈوڈتھ
 
-The solution to the problems with micropayments is in implementing *dynamic fractional reserves*. Under this model the blockchain will automatically adjust the reserve ratio for the network during times of congestion. The blockchain will set a target utilization that leaves enough headroom for short term surges in demand. Any time the surges are sustained the blockchain reduces the maximum bandwidth-per-share. When a surge is over and there is surplus capacity the blockchain can slowly increase the bandwidth-per-share.
+چھوٹی ادائیگیوں کے مسائل کا حل *متحرک جزوی مختص نظام* کو لاگو کرنے میں ہے. اس نمونے کے تحت بلاکچین بھیڑ کے اوقات میں خودکار طریقے سے مختص کے تناسب کو ترتیب دیتا رہے گا. بلاکچین ایک ہدف کے استعمال کو قائم کرے گا جو قلیل مدتی طلب کے اضافے کے لئے کافی جگہ چھوڑے گا. کسی بھی وقت اگر یہ اضافہ برقرار رہے، بلاکچین زیادہ سے زیادہ بینڈوڈتھ فی حصہ کو کم کردیتا ہے. جب وہ بڑھتا ہوا اضافہ ختم ہو گیا ہو اور اضافی صلاحیت باقی ہو تو بلاکچین آہستہ آہستہ بینڈوڈتھ فی حصہ میں اضافہ کردیتا ہے.
 
-Bandwidth used by an individual user should be measured over a suitably long period of time to allow that user to time-shift their usage. Users tend to login, do many things at once, then logout. This means that their bandwidth over a short period of time may appear much higher than if viewed over a longer period of time. If the time window is stretched too far then the reserve ratio will not adjust fast enough to respond to short-term surges, if the window is too short then clustering usage will have too big of an impact on normal users.
+ایک انفرادی صارف کی طرف سے استعمال شدہ بینڈوڈتھ مناسب وقت کی حد تک ماپا جانا چاہئیے تاکہ صارف کو استعمال کے اوقات میں تبدیلی کی اجازت مل سکے. صارفین لاگن ہوتے ہیں، بہت سی چیزیں ایک وقت میں کرتے ہیں اور پھر لاگ آوٹ ہو جاتے ہیں. اسکا مطلب یہ کہ ان کے استعمال شدہ بینڈوڈتھ کو کم عرصے میں ماپا جائے تو وہ بمقابل زیادہ عرصے کے بہت زیادہ دکھے گا. اگر وقت کے دورانیے کو زیادہ دور تک کھینچا گیا تو مختص کا تناسب قلیل مدتی اضافے کے جواب میں تیزی سے ترتیب نہیں پا سکے گا۔ اگر وقت کا دورانیہ بہت کم ہو تو عام صارفین پر استعمال کے جھنڈ کا بہت زیادہ اثر پڑے گا.
 
-In our estimate it should be sufficient to measure the average weekly bandwidth usage of users. Every time a user signs a transaction, that transaction is factored into their own individual moving average. Any time a user’s moving average exceeds the current network limit their transaction is delayed until their average falls below the limit.
+ہمارے اندازے میں صارفین کے اوسط ہفتہ وار استعمال کو ماپا جانا کافی ہے. ہر بار جب ایک صارف ایک ٹرانزیکشن کی تصدیق کرتا ہے، تو وہ ٹرانزیکشن ان کے انفرادی حرکت پذیری اوسط کا جز بن جاتی ہے. کسی بھی وقت جب ایک صارف کی حرکت پذیری کا اوسط موجودہ نیٹ ورک کی حد سے تجاوز کر جائے، ان کے لین دین میں تاخیر پیدا ہو جاتی ہے جب تک ان کا اوسط موجودہ حد سے نیچے نہیں آجاتا.
 
-### Impact of Capacity
+### گنجائش کا اثر
 
-Blockchain capacity isn’t necessarily capped. It is well within the technological capability of internet infrastructure to increase the Bitcoin block size to 10MB which in turn will reduce the minimum required balance by a factor of 10. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second.
+ضروری نہیں کہ بلاکچین کی گنجائش محدود ہے. It is well within the technological capability of internet infrastructure to increase the Bitcoin block size to 10MB which in turn will reduce the minimum required balance by a factor of 10. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second.
 
 ### Comparison to Fees
 
