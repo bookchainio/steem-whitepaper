@@ -380,27 +380,27 @@ Placeholder for translator's notes.
 
 ## ریڈٹ پیمائش
 
-سٹیم ریڈٹ کے مقابلے میں ایک بڑی بنیادصارفین کو سنبھالنے کی صلاحیت رکھتا ہے. In 2015 Reddit’s 8.7 million users generated an average of 23 comments per second[^12], with an average of 83 comments per year per user. There were 73 million top-level posts, for an average of 2 new posts per second. There were about 7 billion up votes creating an average voting rate of 220 votes per second. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
+سٹیم ریڈٹ کے مقابلے میں ایک بڑی بنیادصارفین کو سنبھالنے کی صلاحیت رکھتا ہے. 2015 میں ریڈت کے 8.7 ملین صارفین نے فی سیکنڈ میں 83 تبصرے فی سال فی صارف کی اوسط کے ساتھ فی سیکنڈ میں 23 تبصروں[^12] کے ایک اوسط کو وجود بخشا. وہاں فی سیکنڈ میں 2 نئے خطوط کے اوسط کے ساتھ 73 ملین خطوط تھے. وہاں فی سیکنڈ میں 220 ووٹ کی اوسط کے ساتھ 7 بلین اپ-ووٹ تھے. سب کو بتایا گیا کہ اگر ریڈٹ بلاکچین پر کام کر رہا ہوتا تو اسے فی سیکنڈ 250 ٹرانزیکشن فی سیکنڈ کی ضرورت پڑتی.
 
-To achieve this industry-leading performance, Steem has borrowed lessons learned from the LMAX Exchange[^13], which is able to process 6 million transactions per second. Among these lessons are the following key points:
+اس رہنماکن صنعتی کارکردگی کو حاصل کرنے کے لئے، سٹیم نے ایل-ایم-اے-ایکس (LMAX) ایکسچینج[^13] سے سبق لیا ہے جو فی سیکنڈ میں 6 ملین ٹرانزیکشنز پر عملدرآمد کرنے میں کامیاب ہے. ان اسباق میں مندرجہ ذیل اہم نکات ہیں:
 
-1. Keep everything in memory.
-2. Keep the core business logic in a single thread.
-3. Keep cryptographic operations (hashes and signatures) out of the core business logic.
-4. Divide validation into state-dependent and state-independent checks.
-5. Use an object oriented data model.
+1. سب کچھ یاداشت میں رکھیں.
+2. اہم کاروباری منطق کو ایک ہی موضوں میں رکھیں.
+3. کرائیپٹوگرافک کاروائیوں (آمیزوں اور دستخط) کو اہم کاروباری منطق سے باہر رکھیں.
+4. توثیق کی ریاست پر مبنی اور ریاستی خود مختار جانچ میں تقسیم کریں.
+5. مقصد کے تعین پر مبنی ایک ڈیٹا ماڈل کا استعمال کریں.
 
-By following these simple rules, Steem is able to process 10,000 transactions per second without any significant effort devoted to optimization.
+ان سادہ قواعد کی پیروی کرتے ہوئے، سٹیم فی سیکنڈ دس ہزار (10,000) ٹرانزیکشن پر بیش کارکردگی میں بغیر زیادہ کوششوں کے عملدرآمد کرنے کے قابل ہے.
 
-Keeping everything in memory is increasingly viable given the recent introduction of Optane™ technology from Intel[^14]. It should be possible for commodity hardware to handle all of the business logic associated with Steem in a single thread with all posts kept in memory for rapid indexing. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optane™ technology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
+سب کچھ یاداشت میں رکھنا انٹیل کی اوپٹین ٹیکنالوجی[^14] کے متعارف ہونے کے بعد تیزی سے قابل عمل ہو گیا ہے. تجارتی اشیاء کے سازوسامان کا سٹیم کی کاروباری منطق کو تیزی سے انڈیکس کرنے لئے ایک ہی موضوع میں تمام خطوط کو جمع رکھتے ہوئے سنبھالنا ممکن ہونا چاہئیے. یہاں تک کہ گوگل بھی ریم (RAM) میں پورے انٹرنیٹ کے انڈیکس کو رکھتا ہے. بلاکچین ٹیکنالوجی کا استعمال اعدادوشمار کے نقصان کو روکنے کے لئے ڈیٹابیس کو بہت سی مشینوں میں دہرانے کو آسان بنا دیتا ہے. جیسے ہی اوپٹین ٹیکنالوجی حکومت میں آتی ہے، ریم (RAM) استقامت حاصل کرنے کے ساتھ ساتھ اور بھی زیادہ تیز ہو جائے گی. دوسرے لفظوں میں، سٹیم مستقبل کے طرز کے لئے تیار کیا گیا ہے اور پیمائش کے لئے تیار کیا گیا ہے.
 
-# Allocation & Supply
+# بٹوارہ & اور فراہمی
 
-## Initial Allocation & Supply
+## ابتدائی بٹوارہ اور فراہمی
 
-The Steem network started with a currency supply of 0 and allocated STEEM via proof of work at a rate of approximately 40 STEEM per minute to miners, with an additional 40 STEEM per minute being created to seed the content and curation reward pools (for a total of 80 STEEM per minute). Then the network started rewarding users who converted to SP. At this point, STEEM grew at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
+سٹیم نیٹ ورک کرنسی کی صفر (ZERO) فراہمی کے ساتھ شروع ہوا اور بٹوارہ مواد کا بیج بونے اور ووٹنگ کے انعامی پول کے لئے کام کے ثبوت کے نظام سے کیا جو کہ چالیس (40) سٹیم فی منٹ مائنر کے لئے، اور فی منٹ چالیس (40) سٹیم کے اضافے کی شرح سے (کل 80 سٹیم فی منٹ کے لئے) کیا گیا. پھر نیٹ ورک نے ان صارفین کو انعام دینا شروع کیا جنہوں نے SP میں تبدیلی کی. اس مرحلے پر، سٹیم کا بڑھاوا مختلف شراکت کے انعامات کے مشترکہ اثرات کی وجہ سے تقریبا ٨٠٠ سٹیم فی منٹ کی شرح سے ہوا جیسے ذیل میں خلاصہ ہے:
 
-Contribution Rewards:
+شراکت پر انعامات:
 
 - Curation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
 - Content Creation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
