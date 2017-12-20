@@ -154,23 +154,23 @@ Placeholder for translator's notes.
 
 یہ فرض کرتے ہوئے کہ سٹیم ٹوکن کی قدر میں بمقابل سٹیم کے سٹیم ڈالر کے اجراء سے تیزی سے اضافہ ہو رہا ہے، تو قرض بمقابل ملکیت کی شرح مقصود شرح کے اندر ہی رہے گی اور پیش کردہ سود سب کے لئے فائدہ مند ہوگا. اگر نیٹ ورک کی قدر اپنی پرانی جگہ پر ہی رہتی ہے یا گرنے لگتی ہے تو پیش کردہ سود قرض بمقابل ملکیت کی شرح کو بگاڑتی چلی جائیگی.
 
-In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
+س لئے سٹیم ڈالر کی مستحکم کیل شدہ قیمت کو حاصل کرنے کے لئے مالیاتی پالیسی مرتب کرنے کی ذمہ داری سٹیم پرائس فیڈ بنانے والوں کو دی جاتی ہے. اس طاقت کا غلط استعمال سٹیم کی قدر لئے نقصان دہ ہو سکتا ہے تو سٹیم پاور ہولڈرز ایسے گواہوں کے لئے ووٹ کرنے کے لئے دانشور ہیں جن پر سود کی شرح اور پرائس فیڈ کے اوپر بیان کردہ اصولوں کے مطابق رد و بدل کرنے میں اعتماد کیا جا سکے.
 
-If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SBD.
+اگر قرض بمقابل ملکیت کا تناسب خطرناک حد تک بڑھ جاتا ہے اور مارکیٹ کے شرکاء تبادلے کی درخواست سے بچنے کو پسند کرتے ہیں تو پرائس فیڈ کو اس طرح تبدیل کرنا ضروری ہے جس کے تحت سٹیم ڈالر خریدنے کے لئے زیادہ سٹیم کی ضرورت پڑے.
 
-Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SBD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions.
+سود کی شرح اور/یا سٹیم/سٹیم ڈالر کے تبادلوں کی قیمت میں کمی یا زیادتی میں تبدیلیاں ماکیٹ کے طویل مدتی اوسط کی خلاف ورزی کے تحت یعنی سست ہونی چاہئیں بجائے قلیل مدتی بازاری حالات کے.
 
-It is our belief that these rules will give market participants confidence that they are unlikely lose money by holding SBD purchased at a price of $1.00. We fully expect there to be a narrow trading range between $0.95 and $1.05 for SBD under normal market conditions.
+یہ ہمارا یقین ہے کہ یہ قواعد مارکیٹ کے شرکاء میں اعتماد پیدا کرینگے کہ انہیں سٹیم ڈالر کو ایک امریکی ڈالر کے بدلے خرید کر ہولڈ کرنے میں نقصان کا امکان نہیں. ہم عام مارکیٹ کے حالات میں مکمل طور پر ایک تنگ تجارتی رینج/پہنچ یعنی ایک ڈالر میں پانچ سینٹ کم سے ایک ڈالر اور پانچ سینٹ کی توقع رکھتے ہیں.
 
-## Subjective Contributions
+## نفسی تعاون یا شراکت
 
-Subjective Proof of Work presents an alternative approach to distributing a currency that improves upon fully *objective* Proof of Work systems such as mining. The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
+نفسی پروف-آف-ورک یعنی کام کا ثبوت کرنسی کی تقسیم کے لئے ایک متبادل نقطہ نظر پیش کرتا ہے جو بہت بہتر ہے بمقابل مکمل *ہدف* والے کام کے ثبوت جیسے مائننگ. ایک کرنسی کے پروگرام جن میں *نفسی* کام کے ثبوت کے نظام کو لاگو کیا گیا ہو، وہ *ہدف* والے کام کے ثبوت کے نظامات سے کئی زیادہ وسیع ہیں کیونکہ وہ کسی بھی تصور کے اردگرد جماعت کی تعمیر کرنے کے لئے لاگو کیے جا سکتے ہیں جس کا کافی معقول مقصد ہو. جب افراد جماعت میں شامل ہوتے ہیں وہ عقائد کے ایک خاص مجموعے کے خریدار بنتے ہیں اور جماعت کے اقدار کو مضبوط بنانے کے لئے یا جماعت کے مقصد کو مضبوط بنانے کے لئے ووٹ ڈال سکتے ہیں.
 
-In effect, the criteria by which work is evaluated is completely subjective and its definition lives outside the source code itself. One community may wish to reward artists, another poets, and another comedians. Other communities may choose to reward charitable causes or help advance political agendas.
+حقیقت میں جس معیار کے مطابق کام کا جائزہ لیا جاتا ہے وہ مکمل طور پر نفسی ہے اور اس کی تعریف خود سورس کوڈ کے باہر رہتی ہے. ایک جماعت فنکاروں، شاعروں اور مزاحیہ لوگوں کو انعام دینا چاہ سکتی ہے. دوسری جماعتیں خیراتی وجوہات یا اعلی درجے کے سیاسی ایجنڈوں کو انعام دینے کے لئے منتخب کر سکتی ہیں.
 
-The value each currency achieves depends upon the demand for influence within a particular community and how large the market believes each community can get. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
+قدر جو ہر کرنسی حاصل کرتی ہے اس کا انحصار ایک خاص کمیونٹی کے اندر اس کی طلب پر اور اس بات پر کہ مارکیٹ کا کسی جماعت پر یقین کہ وہ کیا حاصل کر سکتی ہے. پہلے کے نظاموں کے برعکس نفسی کام کا ثبوت ایک کمیونٹی کو مجموعی طور پر ترقی کو فروغ دینے کے قابل بناتا ہے اور ان کے اس وقت کو مال حاصل کرنے کے قابل بناتا ہے جو اس سے پہلے اس قابل نہ تھا.
 
-### Distributing Currency
+### کرنسی کی تقسیم
 
 There are two ways people can get involved with a crypto-currency community: they can *buy in*, or they can *work in*. In both cases users are adding value to the currency, however, the vast majority of people have more *free time* than they do *spare cash*. Imagine the goal of bootstrapping a currency in a poor community with no actual *cash* but plenty of *time*. If people can earn money by working for one another then they will bootstrap value through mutual exchange facilitated by a fair accounting/currency system.
 
