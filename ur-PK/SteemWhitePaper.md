@@ -256,23 +256,23 @@ Placeholder for translator's notes.
 
 یہ نظام بہترین اعتماد فراہم کرنے کے لئے تیار کیا گیا ہے اور اس بات کا یقین دلاتے ہوئے کہ ہر ایک شخص بلاک کی پیداوار میں حصہ لینے کی صلاحیت رکھتا ہے قطع نظر کہ وہ اتنے مقبول ہیں کہ اوپر آنے کے لئے ووٹ حاصل کر سکیں. لوگوں کے پاس ٢٠ انتخابی گواہوں کی طرف سے پابندیوں پر قابو پانے لئے تین اختیارات ہیں: صبر سے قطار میں ان لوگوں کے ساتھ انتظار کریں جو ٢٠ مقبول گواہوں میں نہ منتخب ہو سکے، یا اپنی ووٹنگ طاقت بڑھانے کے لئے مزید سٹیم پاور خریدے. عام طور پر، پابندیاں لاگو کرنا منتخب گواہوں کے لئے اپنی ملازمت سے محروم ہونے کا ایک اچھو طریقہ ہے اور اس وجہ سے سٹیم نیٹ ورک کے لئے ایک اس مسئلہ کے حقیقی ہونے کا امکان نہیں ہے.
 
-چونکہ فعال گواہوں کو پہلے ہی سے جان لیا جاتا ہے، اسلئے سٹیم ہر تین سیکنڈ (seconds) میں گواہوں کو بلاک کی پیداوار کے لئے شیڈول دینے کے قابل ہے. Witnesses synchronize their block production via the NTP protocol. A variation of this algorithm has been in use by the BitShares network for over a year where it has been proven to be reliable.
+چونکہ فعال گواہوں کو پہلے ہی سے جان لیا جاتا ہے، اسلئے سٹیم ہر تین سیکنڈ (seconds) میں گواہوں کو بلاک کی پیداوار کے لئے شیڈول دینے کے قابل ہے. گواہ ان بلاک کی پیداوار کی مطابقت پذیری این-ٹی-پی(NTP) پروٹوکول کے ذریعے کرتے ہیں. اس الگورتھم سے ملتا جلتا ایک الگورتھم ایک سال یا زائد سے بٹ شیئرز نیٹ ورک میں استعمال میں ہے جہاں یہ قابل اعتماد ثابت ہوا ہے.
 
-# Eliminating Transaction Fees
+# لین دین میں کٹوتی (فیس) کا خاتمہ
 
-Steem goes to great lengths to reward people for contributing to the network. It would be counterproductive to turn around and charge people every time they attempt to interact with the community.
+سٹیم لوگوں کو نیٹ ورک میں ان کے تعاون کے عوض انعامات دینے میں بہت لمبی حدود تک جاتا ہے۔ یہ مقصد فوت کرنے والی بات ہوگی کہ پلٹا جائے اور لوگوں سے ہر اس وقت فیس وصول کی جائے جب وہ کمیونٹی سے میل جول کرنے کی کوشش کریں (یا دوسرے لفظوں میں تعامل کریں).
 
-Blockchain technology currently depends upon transaction fees to prevent spam. These fees suffer all of the known problems with microtransactions and prevent blockchains from being used for low-value transactions. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
+بلاکچین ٹیکنالوجی فی الحال غیر ضروری مواد کو روکنے کے لئے لین دین کی فیس پر منحصر ہے. یہ فیس چھوٹی ادائیگیوں میں ہونے والے مسائل کا باعث ہے اور کم ادائیگیوں کے لئے بلاکچین کو استعمال ہونے سے روکتی ہے. واقعی غیر مرکزی ایپلی کیشنز کو صارفین کے لئے مفت لین دین کی شکل پیش کرنا ضروری ہے اگر وہ مرکزی متبادل کے ساتھ مقابلہ کرنا چاہتے ہیں. یہ پرچہ سٹیم کی طرف سے فیس کی ضرورت کو ختم کرنے کے لئے استعمال کیے جانے والے نقطہ نظر کی وضاحت کرتا ہے اور اس طرح پہلے کی غیر مستحکم غیر مرکزی ایپلی کیشنز کو قابل بناتا ہے.
 
-## The Problem With Fees
+## فیس کے ساتھ مسائل
 
-Blockchains are decentralized networks where all transactions are broadcast to all peers. Every so often a block is produced that includes some or all of the pending transactions. All blockchains must find a solution to prevent malicious users from consuming all of the available network capacity with worthless transactions. These worthless transactions can prevent other valuable transactions from being processed and ultimately destroy the network.
+بلاکچین غیرمرکزی نیٹ ورکس (Decentralized Networks) ہیں جہاں تمام لین دین یعنی ٹرانزیکشنز تمام ساتھیوں کو نشر کی جاتی ہیں. اکثر ایک بلاک پیدا کیا جاتا ہے جس میں کچھ یا تمام زیرغور ٹرانزیکشنز شامل ہوتی ہیں. تمام بلاکچین کو ایک حال تلاش کرنا ہوگا جس کے ذریعے بدنیت لوگوں کو نیٹ ورک کی دستیاب صلاحیت بیکار ٹرانزیکشنز (لین دین) کے ذریعے استعمال کرنے سے روکا جا سکے. یہ بیکار ٹرانزیکشنز قیمتی لین دین کو عملدرآمد سے روک سکتی ہیں اور بلاخر نیٹ ورک کو تباہ کر سکتی ہیں.
 
-The solution adopted by most blockchains thus far is to charge a minimum transaction fee. A fee worth just a few cents is enough to make attacking the network expensive and unprofitable. While this approach solves the spam problem, it introduces new problems. Imagine solving the email spam problem by introducing a small fee on every email; people wouldn’t use email.
+ابھی تک زیادہ تر بلاکچین نے جو حل اپنایا ہے وہ لین دین میں کم سے کم کٹوتی (فیس) ہے. چند روپیوں (US cents) کی فیس نیٹ ورک پر حملوں کو مہنگا اور غیر منافع بخش بنانے کے لئے کافی ہے. اگرچہ یہ طریقہ غیرضروری مواد یا استعمال کے مسئلہ کو حل کرتا ہے، یہ دوسرے مسائل متعارف کرتا ہے. اس بات کا تصور کرتے ہوئے کہ غیرضروری ای-میل کو روکنے کے لئے چھوٹی فیس متعارف کی جائے؛ لوگ ای-میل کا استعمال ہی بند کردینگے.
 
-### Micropayments Don’t Work
+### چھوٹی ادائیگیاں کام نہیں کرتیں
 
-The fundamental problem with charging transaction fees is that micropayments don’t work, especially for low-value user actions. When a fee is charged on every transaction, it limits the types of transactions that a decentralized network can process. Regardless of how rational the argument for the necessity of fees, users still hate the experience of being nickeled and dimed for everything that they do.
+ٹرانزیکشن فیس کی کٹوتی کرنے کے ساتھ بنیادی مسئلہ یہ ہے کہ چھوٹی ادائیگیاں کام نہیں کرتیں، خاص طور پر صارف کے کسی کم-قدر عمل پر. جب ہر ٹرانزیکشن پر کٹوتی (فیس) لی جائے، تو یہ ٹرانزیکشنز کی اقسام کو محدود کر دیتی ہیں جس پر ایک غیرمرکزی نیٹ ورک عمل درآمد کر سکتا ہے. اس کے باوجود کہ فیس کی ضرورت کے لئے دلیل کتنی عقلی ہے، صارفین ہر اس کام کے لئے جو وہ کرتے ہیں، اب بھی فیس کے لئے جانے کے تجربے سے نفرت کرتے ہیں.
 
 Imagine if the websites we use every day charged us a fee every time we modify our accounts by changing the password. Users expect certain things to be free. Requiring users to make a decision on whether or not an action is worth a small fee creates anxiety that causes users to leave. A transaction can’t be worth so much as to require a decision but worth so little that that decision is automatic. There is a certain amount of anxiety involved in any decision to buy, no matter how small, and it derives not from the interface used or the time required, but from the very act of deciding.
 
