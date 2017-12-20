@@ -206,21 +206,21 @@ Placeholder for translator's notes.
 
 تو یہ لوگوں کے ساتھ بھی ہے. اگر کوئی کچھ مختلف کرنے کی کوشش کرے، بہتر گریڈ حاصل کرے، خود میں بہتری لائے، برے حالات سے باہر آئے یا بڑے خواب دیکھے تو دوسرے لوگ اسے دوبارہ نیچے کی طرف کھینچ لیتے ہیں تاکہ وہ شخص بھی اسی تقدیر کا شریک بنے.
 
-غلط استعمال کو ختم کرنا ممکن نہیں ہے اور نہ ہی یہ مقصد ہونا چاہئیے. Even those who are attempting to “abuse” the system are still doing work. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn’t so rampant that it undermines the incentive to do real work in support of the community and its currency.
+غلط استعمال کو ختم کرنا ممکن نہیں ہے اور نہ ہی یہ مقصد ہونا چاہئیے. یہاں تک کہ وہ لوگ جو نظام کے غلط استعمال کی کوشش کر رہے ہیں وہ پھر بھی کام کر رہے ہیں. کوئی بھی معاوضہ جو انہیں غلط استعمال کی کامیاب کوشش پر حاصل ہوتا ہے وہ کم سے کم کرنسی کی تقسیم کے لئے اتنا ہی قابل قدر ہے جیسے روایتی بٹکوائن مائننگ کے کام کا نظام. مجموعی طور پر جو ضروری ہے وہ اس بات کا یقینی بنانا ہے کہ بدعنوانی اور غلط استعمال اتنا زیادہ نہ ہوجائے کہ جو کمیونٹی اور کرنسی کی حمایت میں ہونے والے کاموں کے معاوضے کی جڑ کاٹ دے یا اسے کم کردے.
 
-The goal of building a community currency is to get more “crabs in the bucket”. Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs sufficient power to prevent others from escaping.
+ایک کمیونٹی کرنسی کی تعمیر کا مقصد “بالٹی میں مزید کیکڑے“ حاصل کرنا ہے. تمام بدعنوانی کو ختم کرنے کے لئے انتہائی اقدامات کی طرف جانا ایک بالٹی پر کیکڑوں کو باہر نکلنے سے باز رکھنے کے لئے ڈھکن لگانے کی طرح ہے جو نئے کیکڑوں کو بالٹی میں داخل کرنے میں مشکلات کی قیمت پر آتا ہے. بلکہ پھسلنے والی دیواروں کا بنانا اور دوسرے کیکڑوں کو دوسروں کو باہر نکلنے سے باز رکھنے کے لئے معقول مقدار میں طاقت دینا کافی ہے.
 
-### Rate Limited Voting
+### شرح محدود ووٹنگ
 
-A major part of minimizing abuse is the rate-limiting of voting. Individual users can only read and evaluate so many work items per day. Any attempt to vote more frequently than this is a sign of automation and potential abuse. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
+بدعنوانی کو کم کرنے کا ایک بڑا حصہ ووٹنگ کی شرح کو محدود کرنا ہے. انفرادی صارفین ایک دن میں بہت سے مواد کو پڑھ سکتے ہیں اور ان کا اندازہ لگا سکتے ہیں. اس سے زیادہ ووٹ کرنے کی کوئی بھی کوشش خودکار نظام اور ممکنہ بدعنوانی کی نشاندہی کرتی ہے. شرح محدود کے ذریعے وہ سرمایہ کار جو زیادہ ووٹ ڈالتے ہیں ان کے ووٹ کا شمار بمقابل وہ سرمایہ کار جو کم ووٹ ڈالتے ہیں، ان سے کم ہوگا. ٹوکن کی ایک سے زیادہ لوگوں میں تقسیم اثراندازی کو بھی تقسیم کرتی ہے اور اس طرح اس کا نتیجہ نہ ہی اثر اندازی کے خالص اضافے میں نکلتا ہے اور نہ ہی ووٹنگ پر عائد شرح کی حد کے تجاوز میں نکلتا ہے.
 
-Users are allotted a fixed amount of voting power. Voting power is multiplied by a user’s vesting tokens to determine how much share in the reward pool should be allocated to a given work item. Every vote that is cast uses a percentage of remaining voting power. Users can vote for more posts, but each vote will be worth less, and it will take longer to reach full voting power again. Voting power recharges at a fixed linear rate of 20% per day.
+صارفین کو ووٹ کی ایک مقررہ پاور مختص کردی جاتی ہے. ووٹنگ پاور کو صارف کے ویسٹنگ ٹوکن سے ضرب دیا جاتا ہے یہ جاننے کے لئے کہ انعامات کے پول میں سے کتنا حصہ کسی کام کی اشیاء کے لئے مختص کیا جانا چاہئیے. ہر ووٹ جو کہ ڈالا جاتا ہے وہ باقی ووٹنگ پاور کا کچھ فیصد استعمال کرتا ہے. صارفین زیادہ مواد کے لئے ووٹ ڈال سکتے ہیں لیکن ہر ووٹ کی قدر پہلے ووٹ سے کم ہوگی اور مکمل ووٹنگ پاور کو دوبارہ حاصل کرنے لئے زیادہ وقت لگے گا. ووٹنگ پاور فی دن بیس فیصد(%20) کی ایک لکیری شرح پر ریچارج ہوتا ہے.
 
-### Payout Distribution
+### ادائیگی کی تقسیم
 
-One of the primary goals of Steem’s reward system is to produce the best discussions on the internet. Each and every year 75% of the yearly inflation is distributed to users submitting, voting on, and discussing content. At the size of Bitcoin this could be several million dollars per day being given to the top contributors.
+سٹیم کے انعامات کے نظام کے بنیادی مقاصد میں سے ایک مقصد انٹرنیت پر بہترین گفتگو پیدا کرنا ہے. ہر سال سالانہ افراط کا ٧٥ فیصد (%75) ان لوگوں میں تقسیم کر دیا جاتا ہے جو مواد کو جمع کرواتے ہیں، مواد پر ووٹ ڈالتے ہیں اور مواد پر گفتگو کرتے ہیں کرواتے. بٹکوائن کے حجم میں یہ فی دن کئی ملین ڈالر ہو سکتے ہیں جو بہترین تعاون کرنے والوں کو دیے جاتے ہیں.
 
-The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content.
+حقیقی تقسیم صارفین کے ووٹنگ کے نمونے پر منحصر ہے لیکن ہمیں شک ہے کہ انعامات کی کثیر مقدار سب سے زیادہ مقبول مواد میں تقسیم کی جائے گی.
 
 Zipf’s Law[^7] is one of those empirical rules that characterize a surprising range of real-world phenomena remarkably well. It says that if we order some large collection by size or popularity, the second element in the collection will be about half the measure of the first one, the third one will be about one-third the measure of the first one, and so on. In general, the k th-ranked item will measure about 1/k of the first one.
 
