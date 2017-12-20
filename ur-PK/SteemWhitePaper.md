@@ -146,7 +146,7 @@ Placeholder for translator's notes.
 
 اگر سٹیم فیڈ کو بنانے والے سٹیم ڈالر کے اجراء اور انہیں ختم کرنے کی اجازت کے ذریعے ایک آزاد مالیاتی پالیسی حاصل کرنا چاہتے ہیں اور اسی کے ساتھ سود کی شرح پر مکمل اختیار چاہتے ہیں تو وہ مسائل کا سامنا کرینگے. ناممکن تثلیت کا اصول کہتا ہے کہ یا تو سٹیم ڈالرز کو آزاد سرمائے کی تحریک کو محدود کرنا ہوگا، یا ایک غیر مستحکتم تبادلے کی قیمت پر گزارا کرنا ہوگا یا پھر سود کی شرح پر محدود اختیار ہوگا.
 
-The primary concern of Steem feed producers is to maintain a stable one-to-one conversion between SBD and the U.S. Dollar (USD). Any time SBD is consistently trading above $1.00 USD interest payments must be stopped. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SBD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
+سٹیم فیڈ بنانے والوں کی بنیادی تشویش ایک سٹیم ڈالر کے بدلے ایک امریکی ڈالر کے استحکام کو برقرار رکھنا ہے. جب بھی سٹیم ڈالر مسلسل ایک امریکی ڈالر($1.00 USD) سے زیادہ قیمت پر تجارت کیا جارہا ہو تو سود کی ادائیگی کو روکنا ہوگا. ایک بازار میں جہاں قرضوں پر صفر (%0) سود بھی اس قیمت کو ایک ڈالر سے نیچے نہ لا سکے تو یہ کہنا درست ہے کہ مارکیٹ کمیونٹی کو اس کی ضرورت سے زیادہ قرضہ دینے کو آمادہ ہے. اگر ایسا ہوتا ہے تو سٹیم ڈالر کی قدر مارکیٹ میں ایک ڈالر ($1.00) سے زیادہ رہے گی اور یہاں کمیونٹی سود کی شرح کو منفی کرنے کے بغیر بہت کم ہی کچھ کر سکتی ہے.
 
 If the debt-to-ownership ratio is low and SBD is trading for less than $1.00, then the interest rate should be increased. This will encourage more people to hold their SBD and support the price.
 
