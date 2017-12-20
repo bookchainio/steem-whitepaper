@@ -122,9 +122,9 @@ With a three and a half day window, community members have approximately one and
 
 بلوكشين يقرر كيف ومتى ينشئ SBD ومن الذي يجب ان يحصل عليه. هذا يحافظ على معدل إنشاء SBD مستقر ويزيل معظم سبل سوء المعاملة.
 
-### Sustainable Debt to Ownership Ratios
+### نسبة الدين المستدام إلى الملكية
 
-If a token is viewed as ownership in the whole supply of tokens, then a token-convertible-dollar can be viewed as debt. If the debt to ownership ratio gets too high the entire currency can become unstable. Debt conversions can dramatically increase the token supply, which in turn is sold on the market suppressing the price. Subsequent conversions require the issuance of even more tokens. Left unchecked the system can collapse leaving worthless ownership backing a mountain of debt. The higher the debt to ownership ratio becomes the less willing new investors are to bring capital to the table.
+إذا كان النظر إلى الرمزية على أنها ملكية في العرض الكامل من الرموز، إذن يمكن النظر إلى الرمزية القابلة للتحويل إلى دولار كدين. وإذا كانت نسبة الدين إلى الملكية مرتفعة جدا فإن العملة بأكملها يمكن أن تصبح غير مستقرة. تحويل الديون يمكن أن تزيد بشكل كبير من تزويد الرمزية، والتي تباع بدورها في السوق وتقمع السعر. Subsequent conversions require the issuance of even more tokens. Left unchecked the system can collapse leaving worthless ownership backing a mountain of debt. The higher the debt to ownership ratio becomes the less willing new investors are to bring capital to the table.
 
 A rapid change in the value of STEEM can dramatically change the debt-to-ownership ratio. The blockchain prevents the debt-to-ownership ratio from getting too high, by reducing the amount of STEEM awarded through SBD conversions if the debt level were to exceed 10%. If the amount of SBD debt ever exceeds 10% of the total STEEM market cap, the blockchain will automatically reduce the amount of STEEM generated through conversions to a maximum of 10% of the market cap. This ensures that the blockchain will never have higher than a 10% debt-to-ownership ratio.
 
