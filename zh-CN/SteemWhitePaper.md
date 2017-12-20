@@ -44,13 +44,13 @@ Steem所面临的挑战是推导出一个大多数社区成员认为公平的算
 
 现有的平台以单用户、一票原则运作。 这就创造了一个排名可以由Sybil攻击操纵, 服务提供者必须主动识别和阻止滥用的环境。 当唯一的回报是网络流量或审查时，人们已经试图操纵 Reddit, Facebook 和 Twitter 的评分算法。
 
-Steem平台上的基本帐户单元是STEEM, 一种加密货币令牌。 Steem在一STEEM一票的基础上运作。 在这个模型下, 那些对平台贡献最大，账户余額最多的人, 对内容贡献的评分有最大份额的影响。 Furthermore, Steem only allows members to vote with STEEM when it is committed to a vesting schedule. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
+Steem平台上的基本帐户单元是STEEM, 一种加密货币令牌。 Steem在一STEEM一票的基础上运作。 在这个模型下, 那些对平台贡献最大，账户余額最多的人, 对内容贡献的评分有最大份额的影响。 此外, 只有STEEM在一个投资计划中，Steem才允许用户用它来投票。 在这种模式下, 成员们会被激励而用把STEEM币长期价值最大化的方式来投票 。
 
-Steem is designed around a relatively simple concept: *everyone’s meaningful contribution to the community should be recognized for the value it adds.* When people are recognized for their meaningful contributions, they continue contributing and the community grows. Any imbalance in the give and take within a community is unsustainable. Eventually the givers grow tired of supporting the takers and disengage from the community.
+Steem是围绕一个相对简单的概念设计的: * 每个人对社区的有意义的贡献所增加的价值都应该被认可. *当人们被认可为他们的有意义的贡献, 他们继续贡献并促进社区增长。 在社区内给予和索取的任何不平衡都是不可持续的。 给予者最终会厌倦支持接受者并脱离社区。
 
-The challenge is creating a system capable of identifying what contributions are needed and their relative worth in a way that can scale to an unbounded number of people.
+面临的挑战是建立一个系统, 能够确定哪些贡献是需要的, 并且它们的相对价值可以扩展到无限多的人。
 
-A proven system for evaluating and rewarding contributions is the free market. The free market can be viewed as a single community where everyone trades with one another and rewards are allocated by profit and loss. The market system rewards those who provide value to others and punishes those who consume more value than they produce. The free market supports many different currencies and money is simply a commodity that everyone finds easy to exchange.
+一个行之有效的评估和奖励贡献的系统就是自由市场。 The free market can be viewed as a single community where everyone trades with one another and rewards are allocated by profit and loss. The market system rewards those who provide value to others and punishes those who consume more value than they produce. The free market supports many different currencies and money is simply a commodity that everyone finds easy to exchange.
 
 Since the free market is a proven system, it is tempting to try to create a free-market system where content consumers directly pay content producers. However, direct payment is inefficient and not really viable for content creation and curation. The value of most content is so low relative to the cognitive, financial, and opportunity costs associated with making a payment that few readers choose to tip. The abundance of free alternatives means that enforcing a ‘paywall’ will drive readers elsewhere. There have been several attempts to implement per-article micropayments from readers to authors, but none have become widespread.
 
