@@ -54,17 +54,17 @@ Steem是围绕一个相对简单的概念设计的: * 每个人对社区的有�
 
 由于自由市场是一个行之有效的体系, 所以建立一个自由市场体系, 让内容消费者直接向内容生产者付费是很诱人的。 然而, 直接支付是低效的，对于内容创建和点赞并不真正可行。 大多数内容的价值相对于支付的认知、财务和机会成本是如此之低, 很少有读者选择付小费。 大量的自由选择意味着强制执行 "收费" 将推动读者到别处。 有过几个读者给作者的每篇文章小额支付尝试，但没有一个被普及。
 
-Steem的设计是通过改变经济方程式来实现对各种贡献的有效的小额支付。 读者不再需要决定他们是否愿意从自己的口袋里掏钱，而是可以通过好评和差评投票，由Steem根据他们的投票来决定个人的报酬。 This means that people are given a familiar and widely used interface and no longer face the cognitive, financial, and opportunity costs associated traditional micropayment and tipping platforms.
+Steem的设计是通过改变经济方程式来实现对各种贡献的有效的小额支付。 读者不再需要决定他们是否愿意从自己的口袋里掏钱，而是可以通过好评和差评投票，由Steem根据他们的投票来决定个人的报酬。 这意味着人们被赋予了一个熟悉和广泛使用的界面,，并且不再面对跟传统的小额支付和小费平台相关的认知、财务和机会成本。
 
-Voting input from community members is critical for Steem to accurately allocate payments to contributors. Voting can therefore be viewed as a crucial contribution and worthy of rewards on its own. Some platforms, such as Slashdot, use meta-moderation[^3] as a way to rank and reward honest moderators. Steem chooses to reward those who contribute the most to the total promotion of a piece of content and rewards the voters proportional to the ultimate reward paid to the content creator.
+来自社区成员的投票输入对于Steem准确地分配给参与者的奖励是至关重要的。 因此，投票可以被看作是一个关键的贡献，并值得被奖励。 某些平台，比如 Slashdot，使用 meta-moderation [^3] 作为排序和奖励诚实的评判者的方法。 Steem选择奖励那些对某项内容的宣传贡献最大的成员，并且对投票者的奖励与内容创造者的最终报酬成正比。
 
-# Ways to Contribute
+# 如何参与贡献
 
-This section outlines the ideas behind Steem and its rewards for people who provide meaningful and measurable contributions to the Steem community.
+本节概述了Steem背后的想法及其对为Steem社区提供有意义和可衡量的贡献的人的奖励。
 
-## Capital Contributions
+## 资本贡献
 
-There are two items a community can offer to attract capital: debt and ownership. Those who buy ownership profit when the community grows but lose if the community shrinks. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
+社区可以提供两个项目来吸引资金: 债务和所有权。 Those who buy ownership profit when the community grows but lose if the community shrinks. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
 
 The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SBD).
 
