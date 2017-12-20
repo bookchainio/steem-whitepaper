@@ -148,11 +148,11 @@ Placeholder for translator's notes.
 
 سٹیم فیڈ بنانے والوں کی بنیادی تشویش ایک سٹیم ڈالر کے بدلے ایک امریکی ڈالر کے استحکام کو برقرار رکھنا ہے. جب بھی سٹیم ڈالر مسلسل ایک امریکی ڈالر($1.00 USD) سے زیادہ قیمت پر تجارت کیا جارہا ہو تو سود کی ادائیگی کو روکنا ہوگا. ایک بازار میں جہاں قرضوں پر صفر (%0) سود بھی اس قیمت کو ایک ڈالر سے نیچے نہ لا سکے تو یہ کہنا درست ہے کہ مارکیٹ کمیونٹی کو اس کی ضرورت سے زیادہ قرضہ دینے کو آمادہ ہے. اگر ایسا ہوتا ہے تو سٹیم ڈالر کی قدر مارکیٹ میں ایک ڈالر ($1.00) سے زیادہ رہے گی اور یہاں کمیونٹی سود کی شرح کو منفی کرنے کے بغیر بہت کم ہی کچھ کر سکتی ہے.
 
-If the debt-to-ownership ratio is low and SBD is trading for less than $1.00, then the interest rate should be increased. This will encourage more people to hold their SBD and support the price.
+اگر قرض بمقابل ملکیت کی شرح کم ہو اور سٹیم ڈالر ایک امریکی ڈالر سے کم قیمت میں تجارت کیا جا رہا ہو تو سود کی ادائیگی کی شرح میں اضافہ کرنا ہوگا۔ یہ زیادہ سے زیادہ لوگوں کو سٹیم ڈالر ہولڈ کرنے کی اور قیمت کی حمایت کرنے کی حوصلہ افزائی کرے گا.
 
-If SBD trades for less than $1.00 USD and the debt-to-ownership ratio is high, then the feeds should be adjusted upward give more STEEM per SBD. This will increase demand for SBD while also reducing the debt-to-ownership ratio and returning SBD to parity with USD.
+اگر سٹیم ڈالر ایک امریکی ڈالر سے کم قیمت پر تجارت کیا جا رہا ہو اور قرض بمقابل ملکیت کی شرح زیادہ ہو تو فیڈ کو اوپر کی طرف کرنا ضروری ہے تاکہ ایک سٹیم ڈالر پر زیادہ سٹیم ٹوکن ملیں. یہ عمل ماکیٹ میں سٹیم ڈالر کی قدر کو بڑھائے گا اور ساتھ ہی ساتھ قرض بمقابل ملکیت کی شرح کو کم کرے گا اور سٹیم ڈالر کو دوبارہ امریکی ڈالر سے کیل شدہ کر دے گا.
 
-Assuming the value of STEEM is growing faster than Steem is creating new SBD, the debt-to-ownership ratio should remain under the target ratio and the interest offered benefits everyone. If the value of the network is flat or falling, then any interest offered will only make the debt-to-ownership ratio worse.
+یہ فرض کرتے ہوئے کہ سٹیم ٹوکن کی قدر میں بمقابل سٹیم کے سٹیم ڈالر کے اجراء سے تیزی سے اضافہ ہو رہا ہے، تو قرض بمقابل ملکیت کی شرح مقصود شرح کے اندر ہی رہے گی اور پیش کردہ سود سب کے لئے فائدہ مند ہوگا. اگر نیٹ ورک کی قدر اپنی پرانی جگہ پر ہی رہتی ہے یا گرنے لگتی ہے تو پیش کردہ سود قرض بمقابل ملکیت کی شرح کو بگاڑتی چلی جائیگی.
 
 In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
 
