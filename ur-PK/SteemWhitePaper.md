@@ -106,9 +106,9 @@ Placeholder for translator's notes.
 
 سٹیم مختصر مدت کے اتاڑ چڑھاو کو ساڑھے تین دن کی اوسط قیمت کے ذریعے حساب کتاب سے باہر کردیتا ہے۔ یہ شائع ہونے والی اوسط قیمت کی فیڈ ہر گھنٹے نئی ہوتی رہتی ہے.
 
-As long as the price feed corruption lasts for less than half the moving median time window it will have minimal impact on the conversion price. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
+جب تک پرائس فیڈ کرپشن اوسط پرائس فیڈ کے عرصے سے آدھا رہے گا، اس وقت تک تبادلوں کی قیمت پر کم سے کم اثر پڑے گا. پرائس فیڈ میں کرپشن کے موقع پر نیٹ ورک کے شرکاء کو یہ موقع دیا جائیگا کہ وہ بداخلاق لوگوں کو ووٹ-آوٹ کے ذریعے باہر کردیں اس سے پہلے کے اوسط پرائس فیڈ پر اثر پڑے. شاید زیادہ اہم بات یہ ہے کہ یہ عمل فیڈ بنانے والوں کو یہ موقع دیتا ہے کہ وہ مسائل کا فوری پتہ لگائیں اور ان کا اوسط فیڈ پر اثر پڑنے سے پہلے ہی انہیں حل کردیں.
 
-With a three and a half day window, community members have approximately one and a half days to respond to any issues that come up.
+ساڑھے تین دن کے وقت میں سے جماعتی اراکین کے پاس کسی بھی مسئلے کو حل کرنے کے لئے ڈیڑھ دن میسر ہوگا.
 
 ### Mitigating Timing Attacks
 
