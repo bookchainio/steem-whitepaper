@@ -244,19 +244,19 @@ Placeholder for translator's notes.
 
 کرائیپٹوکرنسی کے استعمال کردہ الگورتھم اتفاق رائے تک پہنچنے کے لئے ایک بہتر طریقہ فراہم کرتے ہیں. افراد کی طرف سے خفیہ طور پر دستخط کی جانے والی گواہی ایک عوامی کھاتے میں ریکارڈ کیے جاتے ہیں جو واقعات کا مطلق عالمی حکم قائم کرتا ہے. ایک تعینی کمپیوٹر الگورتھم پھر اس کھاتے کو عالمی طور پر قبول شدہ نتیجہ حاصل کرنے کے لئے عمل میں لا سکتا ہے. جب تک ایک کمیونٹی کے ارکان اس الگورتھم پر اتفاق رکھیں جو عمل میں ہے، الگورتھم کا نتیجہ معتبر ہے.
 
-The primary consideration is determining what testimony is allowed to enter the public record. Systems should be designed to minimize the potential for censorship. Censorship on the public ledger is similar to preventing someone from voting in an election. In both cases an individual is prevented from impacting the global consensus.
+بنیادی توجہ طلب اس بات کا تعین ہے کہ کس گواہی کی عوامی کھاتے میں درج کرنے کی اجازت ہے. ایسے نظامات تیار کرنے چاہئیں جن کا مقصد ممکنہ پابندیوں کو کم کرنا ہو. عوامی کھاتے پر پابندیاں انتخاب میں کسی کو روکنے کی طرح ہے. دونوں صورتوں میں ایک فرد کو عالمی اتفاق رائے پر اثر انداز ہونے سے روکا جاتا ہے.
 
-## Consensus in Steem
+## سٹیم میں اتفاق رائے
 
-Conceptually, the consensus algorithm adopted by Steem is similar to the consensus algorithm adopted by companies throughout the world. People with a vested interest in the future value of Steem vote to select individuals responsible for including testimony in the public record. Voting is weighted proportional to each individual's vested interest.
+تصوراتی طور پر، سٹیم کا منظور کردہ اتفاق رائے الگورتھم دنیا بھر میں کمپنیوں کی طرف سے اپنائے جانے والے اتفاق رائے الگورتھم کی طرح ہے. سٹیم کے مستقبل کی قدر میں سرمایہ کاری کے ذریعے دلچسپی رکھنے والے لوگ ان افراد کو منتخب کرنے کے لئے ووٹ دیتے ہیں جو عوامی کھاتے میں گواہیوں کو درج کرنے کی ذمہ داری اٹھا سکیں. ہر ایک فرد کے ووٹ کا موازنہ اس کے سٹیم میں ویسنگ مفاد (یعنی سرمایہ کاری کے ذریعے دلچسپی) کے تناسب سے کیا جاتا ہے.
 
-In the world of cryptocurrencies, the public record is commonly referred to as a *blockchain*. A *block* is a group of signed transactions.
+کرائیپٹوکرنسی کی دنیا میں عوامی کھاتے کو عام طور پر *بلاکچین* کہا جاتا ہے۔ ایک *بلاک* دستخط کے ذریعے کیے جانے والے لین دین کا گروہ ہے.
 
-With Steem, block production is done in rounds. Each round 21 witnesses are selected to create and sign blocks of transactions. Twenty (20) of these witnesses are selected by approval voting and one is timeshared by every witness that didn’t make it into the top 20 proportional to their total votes. The 21 active witnesses are shuffled every round to prevent any one witness from constantly ignoring blocks produced by the same witness placed before. Any witness who misses a block and hasn't produced in the last 24 hours will be disabled until they update their block signing key.
+سٹیم میں بلاک کی پیداوار چکروں میں ہوتی ہے. ہر چکر میں ٢١ (21) گواہوں کو لین دین کے بلاک بنانے اور ان پر دستخط کے لئے منتخب کیا جاتا ہے. ان میں سے ٢٠ (20) گواہوں کو منظوری کی ووٹنگ کے ذریعے منتخب کیا جاتا ہے اور ایک ایسے گواہ کو وقتی طور پر مشترک بنایا جاتا ہے جو ان ٢٠ میں سے نہ ہو سکے. یہ ٢١ (21) فعال گواہ ہر چکر میں اوپر نیچے گڈ مڈ کیے جاتے ہیں اور یہ عمل کسی ایک گواہ کو بلاک کی پیداوار کو نظرانداز کرنے سے روکنے کے لئے کیا جاتا ہے. کوئی بھی گواہ جو ایک بلاک کو چھوڑ دیتا ہے اور جس نے پچھلے ٢٤ گھنٹوں میں کچھ بھی پیداوار نہیں کی، اسے نااہل کردیا جائے گا اس وقت تک کہ وہ اپنی بلاک دستخط کی چابی (بلاک سائننگ کیی) کو تازہ نہ کر لیں.
 
-This process is designed to provide the best reliability while ensuring that everyone has the potential to participate in block production regardless of whether they are popular enough to get voted to the top. People have three options to overcome censorship by the top 20 elected witnesses: patiently wait in line with everyone else not in the top 20, or purchase more SP to improve voting power. Generally speaking, applying censorship is a good way for elected witnesses to lose their job and therefore, it is unlikely to be a real problem on the Steem network.
+یہ نظام بہترین اعتماد فراہم کرنے کے لئے تیار کیا گیا ہے اور اس بات کا یقین دلاتے ہوئے کہ ہر ایک شخص بلاک کی پیداوار میں حصہ لینے کی صلاحیت رکھتا ہے قطع نظر کہ وہ اتنے مقبول ہیں کہ اوپر آنے کے لئے ووٹ حاصل کر سکیں. لوگوں کے پاس ٢٠ انتخابی گواہوں کی طرف سے پابندیوں پر قابو پانے لئے تین اختیارات ہیں: صبر سے قطار میں ان لوگوں کے ساتھ انتظار کریں جو ٢٠ مقبول گواہوں میں نہ منتخب ہو سکے، یا اپنی ووٹنگ طاقت بڑھانے کے لئے مزید سٹیم پاور خریدے. عام طور پر، پابندیاں لاگو کرنا منتخب گواہوں کے لئے اپنی ملازمت سے محروم ہونے کا ایک اچھو طریقہ ہے اور اس وجہ سے سٹیم نیٹ ورک کے لئے ایک اس مسئلہ کے حقیقی ہونے کا امکان نہیں ہے.
 
-Because the active witnesses are known in advance, Steem is able to schedule witnesses to produce blocks every 3 seconds. Witnesses synchronize their block production via the NTP protocol. A variation of this algorithm has been in use by the BitShares network for over a year where it has been proven to be reliable.
+چونکہ فعال گواہوں کو پہلے ہی سے جان لیا جاتا ہے، اسلئے سٹیم ہر تین سیکنڈ (seconds) میں گواہوں کو بلاک کی پیداوار کے لئے شیڈول دینے کے قابل ہے. Witnesses synchronize their block production via the NTP protocol. A variation of this algorithm has been in use by the BitShares network for over a year where it has been proven to be reliable.
 
 # Eliminating Transaction Fees
 
