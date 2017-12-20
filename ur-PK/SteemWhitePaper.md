@@ -222,17 +222,17 @@ Placeholder for translator's notes.
 
 حقیقی تقسیم صارفین کے ووٹنگ کے نمونے پر منحصر ہے لیکن ہمیں شک ہے کہ انعامات کی کثیر مقدار سب سے زیادہ مقبول مواد میں تقسیم کی جائے گی.
 
-Zipf’s Law[^7] is one of those empirical rules that characterize a surprising range of real-world phenomena remarkably well. It says that if we order some large collection by size or popularity, the second element in the collection will be about half the measure of the first one, the third one will be about one-third the measure of the first one, and so on. In general, the k th-ranked item will measure about 1/k of the first one.
+زپ کا قانون[^7] ان تجرباتی قوانین میں سے ایک ہے جو حقیقی دنیا کے واقعے کی حیرت انگیز رینج کی خاصیت کو قابل ذکر انداز سے بیان کرتا ہے. یہ کہتا ہے کہ اگر ہم ناپ یا مقبولیت کے ذریعہ کچھ بڑے مجموعہ کا حکم دیتے ہیں تو مجموعہ میں دوسرا عنصر سب سے پہلے کا نصف ہوگا، مجموعہ میں تیسرا عنصر سب سے پہلے کا ایک تہائی ہوگا اور اسی طرح یہ چلتا رہے گا. عام طور پر مجموعہ میں ہزاروا عنصر سب سے پہلے کا ہزاروا ہوگا.
 
 ![](\img_the_new_marketplace.png)
 
-Taking popularity as a rough measure of value, then the value of each individual item is given by Zipf’s Law. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
+اگر مقبولیت کو قدر و قیمت کی کسی نہ کسی پیمائش کے طور پر لیتے ہیں پھر ہر چیز کی قدر زپ کے قانون کی طرف سے دی جائیگی. وہ یہ ہے کہ اگر ہمارے پاس ایک ملین اشیاء ہیں تو سب سے زیادہ مقبول ١٠٠ (100) چیزیں مجموعی قیمت کا ایک تہائی حصہ لیں گی، اگلی ١٠٠٠٠ (10,000) چیزیں مزید ایک تہائی حصہ لیں گی اور باقی ٩٨٩٩٠٠ (989,900) چیزیں آخری تہائی حصہ لیں گی. این (n) اشیاء کے مجموعے کی قیمت لاگ این ((log(n) کے متوازن ہے.
 
-The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
+اس ووٹنگ اور ادائیگی کی تقسیم کا اثر یہ ہے کہ جس سے اچھے اور مقبول مواد کو زیادہ انعامات دیے جائیں مگر ساتھ ہی چھوٹے کھلاڑیوں کو ان کے چھوٹے تعاون پر بھی کچھ نہ کچھ دیا جائے.
 
-The economic effect of this is similar to a lottery where people overestimate their probability of getting votes and thus do more work than the expected value of their reward and thereby maximize the total amount of work performed in service of the community. The fact that everyone “wins something” plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
+اس کا اقتصادی اثر ایک لاٹری کی طرح ہے جہاں لوگ ووٹوں کے حاصل کرنے کے امکانات کو زیادہ سے زیادہ کرتے تصور کرتے ہیں اور نتیجتا اپنی اجرت کی متوقع قدر سے زیادہ کام کر لیتے ہیں اور اس طرح کمیونٹی کی مجموعی خدمات کی تعداد میں زیادہ سے زیادہ اضافہ کر دیتے ہیں. یہ حقیقت یعنی “ہر کوئی کچھ نہ کچھ جیتتا ہے“ اسی نفسیات پر چلتا ہے جو رقص گاہ لوگوں کو جوئے میں مشغول رکھنے کے لئے استعمال کرتی ہیں. دوسرے لفظوں میں چھوٹے انعامات اس خیال کو مضبوط بنانے میں مدد دیتے ہیں کہ بڑے انعامات حاصل کرنا ممکن ہے.
 
-### Payouts
+### ادائیگیاں
 
 When a post receives a payout it takes the form of 50% SBD and 50% SP. The Steem Power give the user increased voting and transaction power while the SBD gives the user an immediate benefit in a stable currency. As we’ve already discussed at length, SP is designed to encourage long-term holding rather than short-term selling. This encourages more users to have a vested interest in the long-term success of the platform.
 
