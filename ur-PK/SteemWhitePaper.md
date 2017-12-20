@@ -240,7 +240,7 @@ Placeholder for translator's notes.
 
 # اتفاق رائے کا حساب و شمار
 
-اتفاق رائے وہ عمل ہے جس کے ذریعے ایک کمیونٹی کسی معلومات کے ٹکڑے پر عالمی طور پر تسلیم شدہ اور واضح معاہدے پر اکٹھی ہوتی ہے. بہت سے حساب و شمار موجود ہیں جو سماج نے اس بات پر اتفاق حاصل کرنے کے لئے بنائے ہیں یہ جاننے کے لئے کہ کون کس کا مالک ہے. زمین پر ہر حکومت ایک ابتدائی اتفاق رائے الگورتھم (یعنی حساب و شمار) ہے جس کے تحت آبادی ایک مخصوص آئین میں شامل اصولوں کے مجموعے کے مطابق چلنے کے لئے تیار ہوتی ہے. حکومتیں عدالتوں، ججوں اور فقھاء کو نفسی حقائق کی ترجمانی کے لئے قائم کرتی ہیں اور حتمی فیصلہ فراہم کرتی ہیں. Most of the time people abide by the decision even if it was wrong.
+اتفاق رائے وہ عمل ہے جس کے ذریعے ایک کمیونٹی کسی معلومات کے ٹکڑے پر عالمی طور پر تسلیم شدہ اور واضح معاہدے پر اکٹھی ہوتی ہے. بہت سے حساب و شمار موجود ہیں جو سماج نے اس بات پر اتفاق حاصل کرنے کے لئے بنائے ہیں یہ جاننے کے لئے کہ کون کس کا مالک ہے. زمین پر ہر حکومت ایک ابتدائی اتفاق رائے الگورتھم (یعنی حساب و شمار) ہے جس کے تحت آبادی ایک مخصوص آئین میں شامل اصولوں کے مجموعے کے مطابق چلنے کے لئے تیار ہوتی ہے. حکومتیں عدالتوں، ججوں اور فقھاء کو نفسی حقائق کی ترجمانی کے لئے قائم کرتی ہیں اور حتمی فیصلہ فراہم کرتی ہیں. زیادہ تر لوگ فیصلے کی پابندی کرتے ہیں، یہاں تک کہ اگر وہ غلط بھی ہو.
 
 کرائیپٹوکرنسی کے استعمال کردہ الگورتھم اتفاق رائے تک پہنچنے کے لئے ایک بہتر طریقہ فراہم کرتے ہیں. افراد کی طرف سے خفیہ طور پر دستخط کی جانے والی گواہی ایک عوامی کھاتے میں ریکارڈ کیے جاتے ہیں جو واقعات کا مطلق عالمی حکم قائم کرتا ہے. ایک تعینی کمپیوٹر الگورتھم پھر اس کھاتے کو عالمی طور پر قبول شدہ نتیجہ حاصل کرنے کے لئے عمل میں لا سکتا ہے. جب تک ایک کمیونٹی کے ارکان اس الگورتھم پر اتفاق رکھیں جو عمل میں ہے، الگورتھم کا نتیجہ معتبر ہے.
 
@@ -402,22 +402,22 @@ Placeholder for translator's notes.
 
 شراکت پر انعامات:
 
-- Curation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
-- Content Creation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
-- Block production rewards: 1 STEEM per block or 0.750% per year, whichever is greater
-- POW inclusion rewards before block 864,000: 1 STEEM per block (awarded as 21 STEEM per round)
-- POW inclusion rewards after block 864,000: 0.0476 STEEM per block (awarded as 1 STEEM per round) or 0.750% per year, whichever is greater.
-- Liquidity rewards: 1 STEEM per block (awarded as 1200 STEEM per hour) or 0.750% per year, whichever is greater
+- حفاظت کے انعامات: ایک سٹیم فی بلاک یا 3.875 فیصد سالانہ، جو بھی زیادہ ہو۔
+- مواد کی تخلیق کے انعامات: ایک سٹیم فی بلاک یا 3.875 فیصد سالانہ، جو بھی زیادہ ہو۔
+- بلاک کی پیداوار پر انعامات: ایک سٹیم فی بلاک یا 0.75 فیصد سالانہ، جو بھی زیادہ ہو۔
+- 864,000 بلاک سے پہلے کام کے ثبوت میں شمولیت کے انعامات: ایک سٹیم فی بلاک (21 سٹیم فی راونڈ کے طور پر انعام)
+- 864,000 بلاک کے بعد کام کے ثبوت میں شمولیت کے انعامات: 0.0476 سٹیم فی بلاک (1 سٹیم فی راونڈ کے طور پر انعام) یا سالانہ %0.75، جو بھی زیادہ ہو.
+- اماعت کے انعامات:ِ ایک سٹیم فی بلاک (1200 سٹیم فی گھنٹے کے طور پر انعام) یا سالانہ %0.75، جو بھی زیادہ ہو
 
-### Power Rewards:
+### پاور کے انعامات:
 
-- Steem Power rewards: For each STEEM created by the above rewards, 9 STEEM are divided among all Steem Power holders.
+- سٹیم پاور کے انعامات: مندرجہ بالا انعامات کی طرف سے پیدا کردہ ہر ایک سٹیم کے بدلے، 9 سٹیم تمام سٹیم پاور ہولڈرز میں تقسیم کیے جاتے ہیں.
 
-### SBD operations:
+### ایس-بی-ڈی کاروائیاں:
 
-- SBD rewards: A percentage of SBD value is created at an APR set by the witnesses and paid to SBD holders as SBD
+- SBD انعامات: SBD قدر کا فیصد اس شرح پر تخلیق کیا جاتا ہے جو گواہوں کی طرف سے طے کیا جاتا ہے اور SBD ہولڈرز کو SBD کے طور پر ادا کیا جاتا ہے۔
 
-The overall supply picture is complicated by the effect of SBD operations, which may result in large-scale creation or destruction of STEEM through feed rate following and SBD rewards, as discussed in the SBD section. Other, smaller-scale complicating effects also exist, including unclaimed incentives (e.g. block rewards for missed blocks), and abandoned accounts.
+مجموعی فراہمی کی تصویر ایس-بی-ڈی کاروائیوں کے اثر سے پیچیدہ ہے جس کا نتیجہ بڑے پیمانے پر تخلیق ہو سکتا ہے یا فیڈ کی شرح کی پیروی کے ذریعے سٹیم کی تباہی اور SBD انعامات کی بھی، جیسا کہ ایس-بی-ڈی کے حصے میں بحث کی تھی. دیگر چھوٹے پیمانے کے پیچیدہ اثرات بھی موجود ہیں بشمول بنا مطالبہ کیے گے معاوضے۔ (مثلا۔ غیرحاضر بلاک کے انعامات)، اور ترک کردہ اکاونٹ.
 
 ## Current Allocation & Supply
 
