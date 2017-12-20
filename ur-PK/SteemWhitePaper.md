@@ -316,25 +316,25 @@ Placeholder for translator's notes.
 
 ### گنجائش کا اثر
 
-ضروری نہیں کہ بلاکچین کی گنجائش محدود ہے. It is well within the technological capability of internet infrastructure to increase the Bitcoin block size to 10MB which in turn will reduce the minimum required balance by a factor of 10. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second.
+ضروری نہیں کہ بلاکچین کی گنجائش محدود ہے. یہ انٹرنیٹ کے بنیادی ڈھانچے کی تکنیکی صلاحیت کے اندر بٹکوائن بلاک کے حجم کو ١٠ایم-بی (10MB) تک بڑھانے کے لئے اچھی ہے جو نتیجے میں کم از کم ضروری توازن (بیلنس) کو دس کے عنصر سے کم کردے گی. جبکہ بٹکوائن فی الحال ایک سیکنڈ میں تین ٹرانزیکشن کی صلاحیت رکھتا ہے، متبادل عملدرآمد فی سیکنڈ ہزار ٹرانزیکشن کی صلاحیت رکھتے ہیں.
 
-### Comparison to Fees
+### فیس کا موازنہ
 
-If we assume a user with $25 dollars worth of BTC transacts once per week and pays a $0.04 cent fee each time then they would pay over $2.00 in fees per year. A user would have to earn a 8% rate of return on their $25 dollars just to break even with paying fees. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
+اگر ہم فرض کریں کہ ایک صارف جس کے پاس ٢٥(25$) ڈالرز کی قدر کے متناسب بٹکوائن ہیں وہ ہفتہ میں ایک بار ٹرانزیکشن (لین دین) کرتا ہے اور ہر بار ٤ سینٹ فیس کے طور پر دیتا ہے تو وہ ایک سال میں فیس کے طور پر ٢ ڈالر (2$) ادا کرے گا. ایک صارف کو فیس کے نقصان کو مٹانے لئے٢٥ ڈالرز (25$) پر ٨ (8) فیصد منافع کمانا پڑے گا. امکانات یہ ہیں کہ صارفین ویسے بھی اپنے پیسوں کو بلاکچین پر ہی رکھنا چاہتے ہیں (یعنی ہولڈ کرنا چاہتے ہیں) تو اس ٢٥ (25$) ڈالرز والے صارف نے فیس کی حکمت عملی کے بجائے محدود شرح کی حکمت عملی استعمال کر کے ایک سال کے عرصے میں ٢ (2$) ڈالرز کی بچت کی. صرف ١٧٥ ڈالرز (175$) کے ساتھ یہ صارفین ہر دن لین دین کر سکتے اور سالانہ ١٤ ڈالرز (14$) کی بچت کر سکتے.
 
-### Account Creation
+### اکاونٹ کی تخلیق
 
-Steem’s account-based system with publicly known balances simplifies the implementation of the bandwidth-based rate limiting algorithm. Any account with a balance below the minimum required to transact once per week would be unable to transact. This implies that all new accounts should be funded with at least this minimum balance. It also implies that users wishing to transact in smaller amounts can, so long as they hold a larger balance and reuse the account.
+عوامی طور پر جانے ہوئے توازن (بیلنس) کے ساتھ سٹیم کا اکاؤنٹ پر مبنی نظام بینڈوڈتھ پر مبنی محدود شرح کے الگورتھم کے نفاذ کو آسان بناتا ہے. کوئی بھی اکاونٹ جس کا توازن (بیلنس) کم سے کم لازمی بیلنس سے کم ہو، وہ ٹرانزیکشن نہیں کر پائے گا. اس کا مطلب یہ ہے کہ تمام نئے اکاونٹ کم سے کم اس ضروری بیلنس سے بھرپور ہونے چاہئیں. اس کا یہ بھی مطلب ہے کہ وہ صارفین جو چھوٹی ادائیگیوں کی لین دین کرنا چاہتے ہیں،جب تک ان کے اکاونٹ میں بڑا بیلنس موجود ہے وہ اس اکاونٹ کو دوبارہ بھی استعمال کر سکتے ہیں.
 
-It is possible for a low-balance account created during a time of low usage to become inaccessible if the network usage picks up. The funds could be recovered at any time by temporarily delegating a larger balance to the account.
+کم بیلنس سے بھرے ہوئے اکاونٹ جسے قلیل استعمال کے وقت تخلیق کیا گیا تھا، اس کے لئے یہ ممکن ہے کہ جب نیٹ ورک پر بوجھ بڑھے تو وہ اکاونٹ ناقابل پہنچ ہو جائے. عارضی طور پر اکاؤنٹ میں بڑے توازن کو سونپ کر سرمائے کو کسی بھی وقت دوبارہ حاصل کیا جا سکتا ہے.
 
-In order to maintain a reasonable user experience with a minimum number of hung accounts, all new accounts should start out with a balance 10 times the minimum required to transact weekly. This way even if demand increases by a factor of 10 the account will remain viable.
+لٹکے ہوئے اکاونٹ کی کم سے کم تعداد کے ساتھ صارف کے مناسب تجربے کو برقرار رکھنے کے لئے، تمام نئے اکاونٹ کو ہفتہ وار لین دین کے لئے درکار ضروری کم سے کم بیلنس سے ١٠ گناہ زیادہ بیلنس رکھنا ہوگا. اسطرح اگر طلب میں ١٠ گناہ اضافہ بھی ہو جائے تو اکاونٹ قابل پہنچ رہے گا.
 
-Any initial account balance would have to come from the user creating the account and not from token creation due to the potential for sybil attacks.
+سائبل حملوں کے امکانات کی وجہ سے کوئی بھی ابتدائی اکاونٹ توازن (بیلنس) صارف کے پاس سے آنا ہوگا نہ کہ ٹوکن کی تخلیق سے.
 
-### Justifying Minimum Balances
+### کم از کم بیلنس کی توثیق
 
-The concept of forcing users to maintain a minimum balance flows naturally from the value of a user[^10]. Anyone running a business knows that every single user has significant value. Businesses spend anywhere from $30 to $200 to acquire a user. Sometimes they pay users directly, other times they pay for advertizing, and still other times entire companies are bought just for their user base. After a company acquires a user they often given them many *free services* just to keep them around long enough to monetize them through some other means.
+صارفین کو کم از کم توازن برقرار رکھنے پر مجبور کرنے کا تصور قدرتی طور پر صارف[^10] کی قدر سے نکلتا ہے. کوئی بھی شخص جو کاروباری ہے وہ جانتا ہے کہ ہر صارف کی خاصی قدر ہے. Businesses spend anywhere from $30 to $200 to acquire a user. Sometimes they pay users directly, other times they pay for advertizing, and still other times entire companies are bought just for their user base. After a company acquires a user they often given them many *free services* just to keep them around long enough to monetize them through some other means.
 
 Ripple uses a minimum balance[^11] that scales with account resource use and requires that new accounts get funded with at least this minimum balance. Currently this minimum balance is about $0.15 which is greater than the $0.10 we estimated would allow someone to transact freely at least once per week.
 
