@@ -110,11 +110,11 @@ Placeholder for translator's notes.
 
 ساڑھے تین دن کے وقت میں سے جماعتی اراکین کے پاس کسی بھی مسئلے کو حل کرنے کے لئے ڈیڑھ دن میسر ہوگا.
 
-### Mitigating Timing Attacks
+### حملہ وقت کو کم سے کم کرنا
 
-Market participants have access to information faster than the blockchain’s three and a half day moving median conversion price can react. This information could be used to benefit of traders at the expense of the community. If there is a sudden increase in the value of STEEM traders could request conversion of their SBD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
+مارکیٹ کے شرکاء کو بلاکچین کے تین دن کے اوسط تبادلے کی قیمت سے زیادہ تیزی سے معلومات تک رسائی مل جاتی ہے. یہ معلومات ان تاجروں کے لئے کمیونٹی کی قیمت پر فائدے کے لئے استعمال کی جا سکتی ہے. اگر سٹیم کی قیمت میں اچانک سے اضافہ ہو جائے تو سٹیم کے تاجر کمیونٹی کے پرانے تین دن کی اوسط قیمت پر اپنے سٹیم ڈالرز کو سٹیم میں تبدیل کروا سکتے ہیں اور کم قیمت پر حاصل ہونے والے سٹیم کو ماکیٹ یا بازار میں بہت ہی کم خطرے پر بیچ کر فائدہ حاصل کر سکتے ہیں.
 
-Steem levels the playing field by requiring all conversion requests to be delayed for three and a half days. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
+اس کھیل کے میدان برابر کرنے کے لئے کو سٹیم تبادلوں کی تمام درخواست کو ساڑھے تین دن تک تاخیر کرتا ہے. اس کا مطلب یہ ہے کہ نہ ہی تاجروں کو آنے والے دنوں میں سٹیم کی قیمت کا علم ہوگا اور نہ ہی بلاکچین کو تبادلوں کی درخواست کے وقت سٹیم کی موجودہ قیمت کا علم ہوگا.
 
 ### Minimizing Abuse of Conversions
 
