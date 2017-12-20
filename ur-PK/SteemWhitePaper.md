@@ -374,13 +374,13 @@ Placeholder for translator's notes.
 
 لین دین کی غیرمرکزی شرح محدود غیرمرکزی ایپلیکیشنز کی نئی اقسام کو قابل بنا سکتی ہے جو اس وقت قابل عمل نہیں تھیں جب ایپلیکیشن کا ہر استعمال چھوٹی ادائیگی کا تقاضا کرتا تھا. یہ نیا نمونہ ایپلیکیشنز بنانے والوں کو یہ فیصلہ کرنے کی صلاحیت دیتا ہے کہ اگر اور کب صارفین سے لین دین پر کٹوتی کی جائے.
 
-# Performance and Scalability
+# کارکردگی اور پیمائش کی قابلیت
 
-The Steem network is built upon Graphene, the same technology that powers BitShares. Graphene has been publicly demonstrated sustaining over 1000 transactions per second on a distributed test network. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
+سٹیم نیٹ ورک گرافین پر بنایا گیا ہے، وہی ٹیکنالوجی جو بٹشیئرز کو چلاتی ہے. گرافین کو تقسیم شدہ ٹیسٹ نیٹ ورک پر فی سیکنڈ ہزار ٹرانزیکشن سے زیادہ برقرار رکھتے ہوئے ثابت کیا گیا ہے. گرافین آسانی سے دس ہزار یا اس سے بھی زیادہ ٹرانزیکشن فی سیکنڈ تک سرور کی صلاحیت اور مواصلاتی پروٹوکول میں نسبتا سیدھی بہتری کے ساتھ پیمائش کر سکتا ہے.
 
-## Reddit Scale
+## ریڈٹ پیمائش
 
-Steem is capable of handling a larger userbase than Reddit. In 2015 Reddit’s 8.7 million users generated an average of 23 comments per second[^12], with an average of 83 comments per year per user. There were 73 million top-level posts, for an average of 2 new posts per second. There were about 7 billion up votes creating an average voting rate of 220 votes per second. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
+سٹیم ریڈٹ کے مقابلے میں ایک بڑی بنیادصارفین کو سنبھالنے کی صلاحیت رکھتا ہے. In 2015 Reddit’s 8.7 million users generated an average of 23 comments per second[^12], with an average of 83 comments per year per user. There were 73 million top-level posts, for an average of 2 new posts per second. There were about 7 billion up votes creating an average voting rate of 220 votes per second. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
 
 To achieve this industry-leading performance, Steem has borrowed lessons learned from the LMAX Exchange[^13], which is able to process 6 million transactions per second. Among these lessons are the following key points:
 
