@@ -20,13 +20,13 @@ Steem é um bando de dados em blockchain que oferece suporte à construção de 
 
 Coletivamente, conteúdo gerado por usuários criou bilhões de dólares de valor para os acionistas de empresas de mídia social, como Reddit, Facebook, e Twitter. **em 2014, o Reddit levantou a hipótese de que sua plataforma seria melhorada se todos que contribuíram no reddit.com publicando histórias, adicionando comentários ou votando fossem recompensados com um quinhão no Reddit, Inc.[^1]**. Steem visa apoiar mídias sociais e comunidades online através do retorno de grande parte do seu valor para as pessoas que fornecem contribuições valiosas recompensado-os com criptomoedas, e através desse processo criar uma moeda que seja capaz de alcançar um mercado abrangente, incluindo pessoas que ainda não participam da economia de criptomoedas.
 
-Existem alguns princípios chave que foram utilizados como guia do desenho do Steem. The most important principle is that everyone who contributes to a venture should receive pro-rata ownership, payment or debt from the venture. This principle is the same principle that is applied to all startups as they allocate shares at founding and during subsequent funding rounds.
+Existem alguns princípios chave que foram utilizados como guia do desenho do Steem. O princípio mais importante é que todos que contribuem para um empreendimento devem receber uma propriedade pro-rata, pagamento ou dívida do empreendimento. O princípio é o mesmo que é aplicado a todas as startups ao alocar ações na fundação e rodadas subsequentes de financiamento.
 
-The second principle is that all forms of capital are equally valuable. This means that those who contribute their scarce time and attention toward producing and curating content for others are just as valuable as those who contribute their scarce cash. This is the sweat equity principle[^2] and is a concept that prior cryptocurrencies have often had trouble providing to more than a few dozen individuals.
+O segundo princípio é que toda forma de capital são igualmente valiosos. Isso significa que aqueles que contribuem com o seu tempo escasso e atenção para a produção e curadoria de conteúdo para os outros tem tanto valor quanto aqueles que contribuem com o seu dinheiro escasso. Esse é o princípio da equidade do suor[^2] e é um conceito que as criptomoedas anteriores geralmente tem tido problemas em prover para mais do que algumas dezenas de indivíduos.
 
-The third principle is that the community produces products to serve its members. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
+O terceiro princípio é que a comunidade produz produtos para servir aos seus membros. Esse princípio é exemplificado por cooperativas de crédito, cooperativas de alimentos, e planos de saúde compartilhados, que servem aos membros da comunidade ao invés de vender produtos e serviços para pessoas fora da comunidade.
 
-The Steem community provides the following services to its members:
+A comunidade Steemit fornece os seguintes serviços aos seus membros:
 
 1. A source of curated news and commentary.
 2. A means to get high quality answers to personalized questions.
