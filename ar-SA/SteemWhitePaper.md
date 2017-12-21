@@ -146,7 +146,7 @@ With a three and a half day window, community members have approximately one and
 
 If Steem feed producers aim to have an independent monetary policy allowing it to create and destroy Steem Dollars while simultaneously having full control over the interest rate then they will encounter problems. يقول الثالوث المستحيل أن ستيم دولار إما يحتاج إلى تقييد حركة رأس المال،أو لديه سعر صرف غير مستقر مع الدولار، أو أن يكون له سيطرة محدودة على سعر الفائدة.
 
-The primary concern of Steem feed producers is to maintain a stable one-to-one conversion between SBD and the U.S. Dollar (USD). Any time SBD is consistently trading above $1.00 USD interest payments must be stopped. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SBD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
+إن الشاغل الرئيسي لمنتجي سعر ستيم هو الحفاظ على تحويل واحد لواحد بين SBD والدولار الأمريكي (USD). حينما يتم تداول سبد باستمرار فوق $ 1.00 دولار أمريكي يجب توقيف مدفوعات الفائدة. في سوق حيث تكون الفائدة 0٪ على الديون لا تزال تتطلب قسط، فمن الآمن أن نقول أن السوق على استعداد لتقديم المزيد من الديون أكثر من الديون التي يرغب المجتمع في اتخاذها. If this happens a SBD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
 
 If the debt-to-ownership ratio is low and SBD is trading for less than $1.00, then the interest rate should be increased. This will encourage more people to hold their SBD and support the price.
 
