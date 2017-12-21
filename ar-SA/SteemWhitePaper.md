@@ -134,9 +134,9 @@ With a three and a half day window, community members have approximately one and
 
 يدفع SBD مصلحة أصحابها. يتم تحديد سعر الفائدة من قبل نفس الأشخاص الذين ينشرون سعر الخدمة بحيث يمكن أن تتكيف مع ظروف السوق المتغيرة. جميع الديون تحمل مخاطر على المُقرض. اي شخص يحتكر على SBD دون تحريره هو حتما يعير قيمة الدولار للمجتمع. وهم يثقون بأن في مرحلة ما في المستقبل شخص ما سيكون على استعداد لشراء SBD منها مقابل الدولار   أو أنه سيكون هناك مضاربون ومستثمرون على استعداد لشراء STEEM الذي قامو بتحويله.
 
-المحتكرون على STEEM و SP يكسبون النفوذ عندما يستعد أعضاء المجتمع لاحتكار سبد. وتزيد هذه النفوذ من مكاسب النمو في حين انها تساهم أيضا في النمو. ويعاني حاملو ستيم من زيادة التخفيف إذا انخفض السعر. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
+المحتكرون على STEEM و SP يكسبون النفوذ عندما يستعد أعضاء المجتمع لاحتكار سبد. وتزيد هذه النفوذ من مكاسب النمو في حين انها تساهم أيضا في النمو. ويعاني حاملو ستيم من زيادة التخفيف إذا انخفض السعر. وقد أظهرت مشاريع العملات الإفتراضية أن المكاسب من زيادة قاعدة المستخدمين على استعداد للوثوق فالشبكة مع إضافة رأس المال المزيد من القيمة للشبكة في نهاية المطاف من أي تخفيف قد يحدث خلال الإفلاس.
 
-### Setting Price Feeds
+### إعداد خلاصات الأسعار
 
 Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
 
