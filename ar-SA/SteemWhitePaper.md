@@ -152,7 +152,7 @@ If the debt-to-ownership ratio is low and SBD is trading for less than $1.00, th
 
 إذا كانت تداولات سبد أقل من 1 دولار أمريكي ونسبة الدين إلى الملكية مرتفعة، عندئذ يجب تعديل الاسعار صعودا لإعطاء المزيد من ستيم لكل سبد. وسيؤدي ذلك إلى زيادة الطلب على شركة تنمية المنشآت الصغيرة مع تخفيض نسبة الدين إلى الملكية والعودة إلى مؤسسة التنمية الاجتماعية إلى التعادل مع الدولار الأمريكي.
 
-Assuming the value of STEEM is growing faster than Steem is creating new SBD, the debt-to-ownership ratio should remain under the target ratio and the interest offered benefits everyone. If the value of the network is flat or falling, then any interest offered will only make the debt-to-ownership ratio worse.
+على افتراض أن قيمة STEEM تنمو بشكل أسرع من إنشاء ستيم ل SBD جديد، نسبة الديون إلى الملكية يجب أن تبقى تحت النسبة المستهدفة و الفوائد المقدمة للجميع. إذا كانت قيمة الشبكة مستوية أو منحدرة، فإن أي فائدة من شأنها أن تجعل فقط نسبة الديون إلى الملكية أسوأ.
 
 In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
 
