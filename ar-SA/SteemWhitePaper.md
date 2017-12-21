@@ -138,11 +138,11 @@ With a three and a half day window, community members have approximately one and
 
 ### إعداد خلاصات الأسعار
 
-سيعرف قُرّاء Astute أن الأصول التي تحمل فائدة محدودة العرض قد تتداول أعلى أو أقل من الأصول الأساسية اعتمادا على فرص أخرى لكسب الفائدة على نفس الأصول. ومع ارتفاع سعر الفائدة المدفوع على أصل مربوط بالدولار الأمريكي، فإن الكثير من الناس سيقدمون عطاءات محدودة من ستيم دولار حتى لا يعودوا يُقدّرون بدولار واحد. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
+سيعرف قُرّاء Astute أن الأصول التي تحمل فائدة محدودة العرض قد تتداول أعلى أو أقل من الأصول الأساسية اعتمادا على فرص أخرى لكسب الفائدة على نفس الأصول. ومع ارتفاع سعر الفائدة المدفوع على أصل مربوط بالدولار الأمريكي، فإن الكثير من الناس سيقدمون عطاءات محدودة من ستيم دولار حتى لا يعودوا يُقدّرون بدولار واحد. في الاقتصاد هناك مبدأ يعرف الثالوث المستحيل [^4] الذي ينص على أنه من المستحيل أن يكون كل من الثلاثة التالية في نفس الوقت:
 
 1. سعر صرف مستقر
 2. حركة رأس المال الحرة
-3. An independent monetary policy
+3. سياسة نقدية مستقلة
 
 If Steem feed producers aim to have an independent monetary policy allowing it to create and destroy Steem Dollars while simultaneously having full control over the interest rate then they will encounter problems. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
 
