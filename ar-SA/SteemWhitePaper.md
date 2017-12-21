@@ -146,11 +146,11 @@ With a three and a half day window, community members have approximately one and
 
 If Steem feed producers aim to have an independent monetary policy allowing it to create and destroy Steem Dollars while simultaneously having full control over the interest rate then they will encounter problems. يقول الثالوث المستحيل أن ستيم دولار إما يحتاج إلى تقييد حركة رأس المال،أو لديه سعر صرف غير مستقر مع الدولار، أو أن يكون له سيطرة محدودة على سعر الفائدة.
 
-إن الشاغل الرئيسي لمنتجي سعر ستيم هو الحفاظ على تحويل واحد لواحد بين SBD والدولار الأمريكي (USD). حينما يتم تداول سبد باستمرار فوق $ 1.00 دولار أمريكي يجب توقيف مدفوعات الفائدة. في سوق حيث تكون الفائدة 0٪ على الديون لا تزال تتطلب قسط، فمن الآمن أن نقول أن السوق على استعداد لتقديم المزيد من الديون أكثر من الديون التي يرغب المجتمع في اتخاذها. If this happens a SBD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
+إن الشاغل الرئيسي لمنتجي سعر ستيم هو الحفاظ على تحويل واحد لواحد بين SBD والدولار الأمريكي (USD). حينما يتم تداول سبد باستمرار فوق $ 1.00 دولار أمريكي يجب توقيف مدفوعات الفائدة. في سوق حيث تكون الفائدة 0٪ على الديون لا تزال تتطلب قسط، فمن الآمن أن نقول أن السوق على استعداد لتقديم المزيد من الديون أكثر من الديون التي يرغب المجتمع في اتخاذها. إذا حدث هذا سوف يتم تقييم قيمة سبد بأكثر من 1.00 دولار، وهناك القليل ليتمكن المجتمع للقيام به دون فرض أسعار الفائدة السلبية.
 
 If the debt-to-ownership ratio is low and SBD is trading for less than $1.00, then the interest rate should be increased. This will encourage more people to hold their SBD and support the price.
 
-If SBD trades for less than $1.00 USD and the debt-to-ownership ratio is high, then the feeds should be adjusted upward give more STEEM per SBD. This will increase demand for SBD while also reducing the debt-to-ownership ratio and returning SBD to parity with USD.
+إذا كانت تداولات سبد أقل من 1 دولار أمريكي ونسبة الدين إلى الملكية مرتفعة، عندئذ يجب تعديل الاسعار صعودا لإعطاء المزيد من ستيم لكل سبد. وسيؤدي ذلك إلى زيادة الطلب على شركة تنمية المنشآت الصغيرة مع تخفيض نسبة الدين إلى الملكية والعودة إلى مؤسسة التنمية الاجتماعية إلى التعادل مع الدولار الأمريكي.
 
 Assuming the value of STEEM is growing faster than Steem is creating new SBD, the debt-to-ownership ratio should remain under the target ratio and the interest offered benefits everyone. If the value of the network is flat or falling, then any interest offered will only make the debt-to-ownership ratio worse.
 
