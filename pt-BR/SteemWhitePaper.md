@@ -10,17 +10,17 @@ Marcador para notas do tradutor.
 
 # Resumo
 
-Steem é um bando de dados em blockchain que oferece suporte à construção de comunidade e interação social com recompensas em criptomoedas. Steem combina os conceitos de mídia social com lições aprendidas com a construção de criptomoedas e suas comunidades. Um fator importante para inspirar a participação em qualquer comunidade, moeda ou economia de mercado livre é um sistema justo de contabilidade que consistentemente reflete a contribuição de cada pessoa. Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
+Steem é um bando de dados em blockchain que oferece suporte à construção de comunidade e interação social com recompensas em criptomoedas. Steem combina os conceitos de mídia social com lições aprendidas com a construção de criptomoedas e suas comunidades. Um fator importante para inspirar a participação em qualquer comunidade, moeda ou economia de mercado livre é um sistema justo de contabilidade que consistentemente reflete a contribuição de cada pessoa. Steem é a primeira criptomoeda que tenta recompensar com precisãi e transparência um número indeterminado de indivíduos que fazem *contribuições subjetivas* para a sua comunidade.
 
-# Table of Contents
+# Índice
 
 <!-- toc -->
 
-# Introduction
+# Introdução
 
-Collectively, user-generated content has created billions of dollars worth of value for the shareholders of social media companies, such as Reddit, Facebook, and Twitter. **In 2014, Reddit hypothesized that its platform would be improved if everyone who contributed to reddit.com by posting stories, adding comments or voting were rewarded with a fair share in Reddit, Inc.[^1]**. Steem aims to support social media and online communities by returning much of its value to the people who provide valuable contributions by rewarding them with cryptocurrency, and through this process create a currency that is able to reach a broad market, including people who have yet to participate in any cryptocurrency economy.
+Coletivamente, conteúdo gerado por usuários criou bilhões de dólares de valor para os acionistas de empresas de mídia social, como Reddit, Facebook, e Twitter. **em 2014, o Reddit levantou a hipótese de que sua plataforma seria melhorada se todos que contribuíram no reddit.com publicando histórias, adicionando comentários ou votando fossem recompensados com um quinhão no Reddit, Inc.[^1]**. Steem visa apoiar mídias sociais e comunidades online através do retorno de grande parte do seu valor para as pessoas que fornecem contribuições valiosas recompensado-os com criptomoedas, e através desse processo criar uma moeda que seja capaz de alcançar um mercado abrangente, incluindo pessoas que ainda não participam da economia de criptomoedas.
 
-There are some key principles that have been used to guide the design of Steem. The most important principle is that everyone who contributes to a venture should receive pro-rata ownership, payment or debt from the venture. This principle is the same principle that is applied to all startups as they allocate shares at founding and during subsequent funding rounds.
+Existem alguns princípios chave que foram utilizados como guia do desenho do Steem. The most important principle is that everyone who contributes to a venture should receive pro-rata ownership, payment or debt from the venture. This principle is the same principle that is applied to all startups as they allocate shares at founding and during subsequent funding rounds.
 
 The second principle is that all forms of capital are equally valuable. This means that those who contribute their scarce time and attention toward producing and curating content for others are just as valuable as those who contribute their scarce cash. This is the sweat equity principle[^2] and is a concept that prior cryptocurrencies have often had trouble providing to more than a few dozen individuals.
 
