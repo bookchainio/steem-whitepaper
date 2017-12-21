@@ -126,13 +126,13 @@ With a three and a half day window, community members have approximately one and
 
 إذا كان النظر إلى الرمزية على أنها ملكية في العرض الكامل من الرموز، إذن يمكن النظر إلى الرمزية القابلة للتحويل إلى دولار كدين. وإذا كانت نسبة الدين إلى الملكية مرتفعة جدا فإن العملة بأكملها يمكن أن تصبح غير مستقرة. تحويل الديون يمكن أن تزيد بشكل كبير من تزويد الرمزية، والتي تباع بدورها في السوق وتقمع السعر. تتطلب التحويلات اللاحقة إصدار المزيد من الرموز المميزة. Left unchecked the system can collapse leaving worthless ownership backing a mountain of debt. وكلما ارتفعت نسبة الدين إلى الملكية يصبح المستثمرون الجدد الأقل رغبة في جلب رأس المال إلى الجدول.
 
-ويمكن أن يؤدي التغير السريع في قيمة النظام إلى تغيير كبير في نسبة الدين إلى الملكية. بلوكشين يمنع نسبة الدين إلى الملكية من الحصول على نسبة مرتفعة جدا،  وذلك بتخفيض مبلغ ستيم الممنوح من خلال تحويلات سبد إذا كان مستوى الدين يجب أن يتجاوز 10٪. If the amount of SBD debt ever exceeds 10% of the total STEEM market cap, the blockchain will automatically reduce the amount of STEEM generated through conversions to a maximum of 10% of the market cap. This ensures that the blockchain will never have higher than a 10% debt-to-ownership ratio.
+ويمكن أن يؤدي التغير السريع في قيمة النظام إلى تغيير كبير في نسبة الدين إلى الملكية. بلوكشين يمنع نسبة الدين إلى الملكية من الحصول على نسبة مرتفعة جدا،  وذلك بتخفيض مبلغ ستيم الممنوح من خلال تحويلات سبد إذا كان مستوى الدين يجب أن يتجاوز 10٪. إذا تجاوزت قيمة ديون SBD اكثر من 10% من إجمالي ذروة سوق ستيم، فإن بلوكشين سوف يقلل تلقائيا من كمية ستيم التي تم إنشائها من خلال التحويلات إلى حد أقصى قدره 10٪ من ذروة السوق. وهذا يضمن أن بلوكشين لن يكون أبدا أعلى من نسبة 10٪ من الدين إلى الملكية.
 
-The percentage floors used to compute STEEM creation are based on the supply including the STEEM value of all outstanding SBD and SP (as determined by the current rate / feed).
+وتستند النسب المئوية المستخدمة لحساب إنشاء STEEM تعتمد على الذحيرة بما في ذلك قيمة STEEM من مجموع SBD المعلقة و SP (على النحو الذي يحدده المعدل الحالي / التضحية).
 
-### Interest
+### المصالح
 
-SBD pays holders interest. The interest rate is set by the same people who publish the price feed so that it can adapt to changing market conditions. All debt carries risk to the lender. Someone who holds SBD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SBD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
+يدفع SBD مصلحة أصحابها. The interest rate is set by the same people who publish the price feed so that it can adapt to changing market conditions. All debt carries risk to the lender. Someone who holds SBD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SBD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
 
 STEEM and SP holders gain leverage when members of the community are willing to hold SBD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
 
