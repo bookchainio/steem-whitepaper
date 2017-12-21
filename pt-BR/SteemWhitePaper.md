@@ -28,11 +28,11 @@ O terceiro princípio é que a comunidade produz produtos para servir aos seus m
 
 A comunidade Steemit fornece os seguintes serviços aos seus membros:
 
-1. A source of curated news and commentary.
-2. A means to get high quality answers to personalized questions.
-3. A stable cryptocurrency pegged to the U.S. dollar.
-4. Free payments.
-5. Jobs providing above services to other members.
+1. Uma fonte de curadoria de notícias e comentários.
+2. Um meio para obter respostas personalizadas e de alta qualidade.
+3. Uma moeda estável, atrelada ao dólar americano.
+4. Pagamentos gratuitos.
+5. Empregos que proporcionam os serviços acima para outros membros.
 
 Steem’s purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem’s incentives may result in better outcomes for most participants.
 
