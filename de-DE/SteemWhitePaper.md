@@ -24,19 +24,19 @@ Es gibt einige wichtige Prinzipien, die verwendet wurden, um das Design von Stee
 
 Das zweite Prinzip ist dass alle Formen des Kapitals sind gleichermaßen wertvoll. Das bedeutet, dass diejenigen, die ihre knappe Zeit und Aufmerksamkeit darauf verwenden, Inhalte für andere zu produzieren und zu kuratieren, genauso wertvoll sind wie diejenigen, die ihr knappes Geld beisteuern. Dies ist das Prinzip der Schweißgerechtigkeit[^2] und ist ein Konzept, das frühere Kryptowährungen oft Probleme hatten, mehr als ein paar Dutzend Individuen zu versorgen.
 
-Das dritte Prinzip ist, dass die Gemeinschaft Produkte produziert, um ihren Mitgliedern zu dienen. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
+Das dritte Prinzip ist, dass die Gemeinschaft Produkte produziert, um ihren Mitgliedern zu dienen. Dieses Prinzip wird von Kreditgenossenschaften, Essenskooperationen und Gesundheitsteilungsprogrammen veranschaulicht, die den Mitgliedern ihrer Gemeinschaft dienen, anstatt Produkte oder Dienstleistungen an Menschen außerhalb der Gemeinschaft zu verkaufen.
 
-The Steem community provides the following services to its members:
+Die Steem-Gemeinschaft bietet ihren Mitgliedern folgende Dienste an:
 
-1. A source of curated news and commentary.
-2. A means to get high quality answers to personalized questions.
-3. A stable cryptocurrency pegged to the U.S. dollar.
-4. Free payments.
-5. Jobs providing above services to other members.
+1. Eine Quelle von kuratierten Nachrichten und Kommentaren.
+2. Ein Mittel, um qualitativ hochwertige Antworten auf personalisierte Fragen zu erhalten.
+3. Eine stabile Kryptowährung, die an den Us-Dollar gebunden ist.
+4. Kostenlose Zahlungen.
+5. Jobs, die anderen Mitgliedern Dienste anbieten.
 
-Steem’s purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem’s incentives may result in better outcomes for most participants.
+Steems zielgerichtete Neuausrichtung der wirtschaftlichen Anreize hat das Potenzial, gerechtere und umfassendere Ergebnisse für alle Beteiligten zu erzielen als die Social-Media- und Kryptowährungsplattformen, die davor gegangen sind. Dieses Papier wird die bestehenden wirtschaftlichen Anreize untersuchen und zeigen, wie Steems Anreize zu besseren Ergebnissen für die meisten Teilnehmer führen können.
 
-## Recognizing Contribution
+## Beitrag erkennen
 
 Steem is designed from the ground up to address the major barriers to adoption and monetization of a social media based economy. Our thesis is that the same techniques used to grow major social media platforms can be used to bootstrap a successful cryptocurrency. Economic incentives enabled by cryptocurrency can dramatically facilitate the growth of a new social media platform. It is the synergy between cryptocurrency and social media that we believe may give Steem a powerful advantage in the market.
 
@@ -58,19 +58,19 @@ Steem is designed to enable effective micropayments for all kinds of contributio
 
 Voting input from community members is critical for Steem to accurately allocate payments to contributors. Voting can therefore be viewed as a crucial contribution and worthy of rewards on its own. Some platforms, such as Slashdot, use meta-moderation[^3] as a way to rank and reward honest moderators. Steem chooses to reward those who contribute the most to the total promotion of a piece of content and rewards the voters proportional to the ultimate reward paid to the content creator.
 
-# Ways to Contribute
+# Wege zum Mitmachen
 
-This section outlines the ideas behind Steem and its rewards for people who provide meaningful and measurable contributions to the Steem community.
+Dieser Abschnitt umreißt die Ideen hinter Steem und seine Belohnungen für Leute, die bedeutungsvolle und messbare Beiträge zur Steem Gemeinschaft zur Verfügung stellen.
 
-## Capital Contributions
+## Kapitalbeiträge
 
 There are two items a community can offer to attract capital: debt and ownership. Those who buy ownership profit when the community grows but lose if the community shrinks. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
 
-The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SBD).
+Das Steem-Netzwerk nennt diese verschiedenen Asset-Klassen Steem (STEEM) Steem Power (SP) und Steam Dollars (SBD).
 
 ## Steem (STEEM)
 
-Steem is the fundamental unit of account on the Steem blockchain. All other tokens derive their value from the value of STEEM. STEEM is a liquid currency, and therefore can be bought or sold on exchanges, as well as transferred to other users as a form of payment.
+Steem ist die grundlegende Recheneinheit der Steem Blockchain. Alle anderen Token beziehen ihren Wert vom Wert von STEEM. STEEM is a liquid currency, and therefore can be bought or sold on exchanges, as well as transferred to other users as a form of payment.
 
 ## Steem Power (SP)
 
