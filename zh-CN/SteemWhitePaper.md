@@ -76,7 +76,7 @@ Steem是账户在Steem区块链的基础单位。 所有其他代币都从STEEM�
 
 初创公司需要长期的资本承诺。 那些把资金投资在初创公司的人预计要等上几年才能卖掉自己的股票并实现自己的利润。 如果没有长期的承诺，一个试图通过出售额外股票融资的初创企业将与希望退出的现有股东产生竞争。 精明的投资者希望他们的资本贡献使公司成长。但如果新资本被给予那些希望退出的人，增长就不可能实现。
 
-There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
+长期承诺可以使社区能够制定长期计划，因此具有重要价值。 利益相关者的长期承诺也会让他们投票支持长期增长，而不是短期暴发。
 
 In the cryptocurrency space, speculators jump from cryptocurrency to cryptocurrency based mostly on which one is expected to have short-term growth. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
 
