@@ -15,5 +15,6 @@ pandoc -s src/whitepaper.tex --to=markdown_mmd --atx-headers --wrap=none -o Stee
 
 [![Crowdin](https://d322cqt584bo4o.cloudfront.net/steem-whitepaper/localized.svg)](https://crowdin.com/project/steem-whitepaper)
 
-If you want to add new language, review/update existing translation or help to finish specific translations, you can join and do that by following link:
-https://crowdin.com/project/steem-whitepaper
+Translation should be done in the [Steem Whitepaper Crowdin translation project](https://crowdin.com/project/steem-whitepaper) which you can join using following [link](https://crowdin.com/project/steem-whitepaper).
+
+If you have a questions or want to add new language, please contact [@testz](https://steemit.com/@testz) in [Utopian Discord transaltors channel](https://discord.gg/VsyduEe).
