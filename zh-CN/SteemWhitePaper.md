@@ -98,11 +98,11 @@ Steem美元的符号是SBD，即Steem Blockchain Dollor (Steem区块链美元)�
 
 ### Minimizing Fraudulent Feeds
 
-SP持有人选举的个人，作为见证人，公布喂价。 可以认为喂价质量的既得利益者信任被选出的见证人。 通过向当选者支付费用，Steem创造了市场竞争以取得喂价的的权利。 The more the feed producers are paid the more they have to lose by publishing false information.
+SP持有人选举的个人，作为见证人，公布喂价。 可以认为喂价质量的既得利益者信任被选出的见证人。 通过向当选者支付费用，Steem创造了市场竞争以取得喂价的的权利。 喂价创造者获得的报酬越多，他们发布虚假信息的损失就越多。
 
-Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
+给定一组被信任和当选的喂价创造者，用于转换的实际价格可以衍生为喂价中位数。 这样，如果任何少数的个体喂价创造者产生的异常对实际中位数的影响最小，同时还会影响他们的声誉。
 
-Even if all feed producers are honest, it is possible for the majority of feed producers to be impacted by events beyond their control. The Steem network is designed to tolerate short-term corruption of the median price feed while the community actively works to correct the issue. One example of an issue that may take some time to correct is short-term market manipulation. Market manipulation is difficult and expensive to maintain for long periods of time. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
+即使所有喂价创造者都是诚实的，也可能大多数喂价创造者会被他们无法控制的事件影响。 Steem网络的设计是为了在社区积极工作修正问题时容忍短期喂价中位数的损坏。 一个可以通过一些时间来纠正问题的例子是短期市场操纵。 长期的市场操纵是困难和昂贵的。 另一个例子是中央交易所的失败，或交易所公布的数据的损坏。
 
 Steem factors out short-term price fluctuations by using the median price over a period of three and a half days. The median published feed is sampled every hour on the hour.
 
