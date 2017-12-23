@@ -120,9 +120,9 @@ Credits here @skapaneas @holidaygreece @skapart".
 
 ### Μετρίαση επιθέσεων συγχρονισμού
 
-Market participants have access to information faster than the blockchain’s three and a half day moving median conversion price can react. Αυτές οι πληροφορίες μπορούν να χρησιμοποιηθούν προς όφελος των εμπόρων σε βάρος της κοινότητας. If there is a sudden increase in the value of STEEM traders could request conversion of their SBD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
+Οι συμμετέχοντες στην αγορά έχουν πρόσβαση σε πληροφορίες γρηγορότερα από ότι μπορεί να αντιδράσει το χρονικό περιθώριο των τρεισήμισι ημερών του κινούμενου μέσου μετατροπής τιμής του blockchain. Αυτές οι πληροφορίες μπορούν να χρησιμοποιηθούν προς όφελος των επενδυτών σε βάρος της κοινότητας. Αν υπάρξει κάποια απότομη αύξηση στην αξία του STEEM οι επενδυτές μπορούν να ζητήσουν τα SBD τους να μετατραπούν με την παλιά, χαμηλότερη τιμή, και έπειτα να πουλήσουν το STEEM που θα παραλάβουν σε μια νέα υψηλότερη τιμή με το ελάχιστο ρίσκο.
 
-Steem levels the playing field by requiring all conversion requests to be delayed for three and a half days. Αυτό σημαίνει ότι κανείς από τους εμπόρους ούτε το blockchain έχει οποιοδήποτε πλεονέκτημα πληροφορίας σε σχετικά με την τιμή στον χρόνο που έγινε η μετατροπή.
+Το Steem δημιουργεί ισότιμους όρους ανταγωνισμού, απαιτώντας όλα τα αιτήματα μετατροπής να καθυστερήσουν για τρεισήμισι ημέρες. Αυτό σημαίνει ότι κανείς από τους επενδυτές, ούτε το blockchain έχει οποιοδήποτε πλεονέκτημα πληροφορίας σε σχετικά με την τιμή τη στιγμή που γίνεται η μετατροπή.
 
 ### Ελαχιστοποίηση της κακομεταχείρησης των μετατροπών
 
