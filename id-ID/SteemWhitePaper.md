@@ -29,7 +29,7 @@ Prinsip ketiga adalah bahwa komunitas menghasilkan produk untuk melayani anggota
 Komunitas Steem menyediakan layanan-layanan berikut ini kepada anggotanya:
 
 1. Sumber berita dan komentar yang dikuratori.
-2. Cara untuk mendapatkan jawaban berkualitas tinggi atas pertanyaan yang dipersonalisasi.
+2. Sarana untuk mendapatkan jawaban yang berkualitas tinggi atas pertanyaan yang telah dipersonalisasi.
 3. Kripto yang stabil dipatok pada dolar A.S.
 4. Pembayaran gratis.
 5. Jobs memberikan layanan di atas kepada anggota lainnya.
