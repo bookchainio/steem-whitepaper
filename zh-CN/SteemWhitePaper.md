@@ -110,7 +110,7 @@ Steem使用三天半时间的中位数价格来抵消价格波动。发表的喂
 
 有了三天半的窗口，社区成员就会有大约一天半的时间来回应任何问题。
 
-### Mitigating Timing Attacks
+### 缓解计时攻击
 
 Market participants have access to information faster than the blockchain’s three and a half day moving median conversion price can react. This information could be used to benefit of traders at the expense of the community. If there is a sudden increase in the value of STEEM traders could request conversion of their SBD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
 
