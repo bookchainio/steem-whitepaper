@@ -166,7 +166,7 @@ It is our belief that these rules will give market participants confidence that 
 
 ويقدم الدليل الشخصي على العمل نهجا بديلا لتوزيع عملة تتحسن بشكل كامل *الهدف* أنظمة إثبات العمل مثل التعدين. إن تطبيقات إثبات عمل *شخصي* هي أوسع بكثير من أي دليل *موضوعي* على نظام العمل لأنه يمكن تطبيقه لبناء مجتمع حول أي مفهوم لديه هدف محدد بما فيه الكفاية. عندما ينضم الأفراد إلى مجتمع اشتروه في مجموعة معينة من المعتقدات ويمكنهم التصويت لتعزيز قيم المجتمع أو الغرض منه.
 
-In effect, the criteria by which work is evaluated is completely subjective and its definition lives outside the source code itself. One community may wish to reward artists, another poets, and another comedians. Other communities may choose to reward charitable causes or help advance political agendas.
+وفي الواقع، المعايير التي يتم من خلالها تقييم العمل  هي موضوعية تماما ويعيش تعريفها خارج شفرة المصدر نفسها. قد يرغب أحد المجتمعات في مكافأة الفنانين والشعراء الآخرين وغيرهم من الكوميديين. Other communities may choose to reward charitable causes or help advance political agendas.
 
 The value each currency achieves depends upon the demand for influence within a particular community and how large the market believes each community can get. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
 
