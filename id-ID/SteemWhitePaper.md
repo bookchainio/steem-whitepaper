@@ -1,12 +1,12 @@
 # Steem
 
-## Sebuah Platform konten publik yang insentif dan berbasis blockchain.
+## Platform konten insentif, berbasis blockchain, umum.
 
 Agustus 2017
 
-# Catatan penerjemah
+# Nota penerjemah
 
-Placeholder untuk catatan penerjemah.
+Otoritas untuk catatan penerjemah.
 
 # Abstrak
 
