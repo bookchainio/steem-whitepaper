@@ -92,13 +92,13 @@ SP持有人还得到归属SP余额的利息。 15%的年通货膨胀被用于支
 
 稳定是成功的全球经济的一个重要特征。 没有稳定，世界各地的个体将不能在从事商业和储蓄时有低的认知成本。 由于稳定是成功经济的一个重要特征，Steem美元的设计是为了给加密货币世界和使用Steem网络的人带来稳定。
 
-Steem美元是根据类似于可转换债券的机制创建。这种机制常被用于为初创企业提供资金。 在初创企业的世界里，可转换证券是短期证券工具，通常在未来的融资回合可以按照比例转换成所有权。 基于区块链的代币可以被看作是社区的所有权，而可转换证券可以被看作是以任何其他商品或货币计价的债务。 可转换证券的条款允许持有人短时间内以市场公平的代币价格将其转换到支持代币。 Creating token-convertible-dollars enables blockchains to grow their network effect while maximizing the return for token holders.
+Steem美元是根据类似于可转换债券的机制创建。这种机制常被用于为初创企业提供资金。 在初创企业的世界里，可转换证券是短期证券工具，通常在未来的融资回合可以按照比例转换成所有权。 基于区块链的代币可以被看作是社区的所有权，而可转换证券可以被看作是以任何其他商品或货币计价的债务。 可转换证券的条款允许持有人短时间内以市场公平的代币价格将其转换到支持代币。 创建代币可转换美元使区块链能够在最大化代币持有者回报的同时增加他们的网络效果。
 
-Steem Dollars are referred to with the symbol SBD, an acronym for Steem Blockchain Dollars. Creating SBD requires a combination of a reliable price feed, and rules to prevent abuse. Providing a reliable price feed involves three factors: minimizing the impact of an incorrect feed, maximizing the cost of producing an incorrect feed, and minimizing the importance of timing.
+Steem美元的符号是SBD，即Steem Blockchain Dollor (Steem区块链美元)的缩写。 创建SBD需要一个可靠的喂价和防止滥用的规则。 提供可靠喂价涉及三因素：减少不正确喂价的影响，最大化产生不正确喂价的成本，和最小化定时的重要性。
 
 ### Minimizing Fraudulent Feeds
 
-SP holders elect individuals, called witnesses, to publish price feeds. The elected witnesses are presumably trusted by those who have a vested interest in the quality of the feed. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
+SP持有人选举的个人，作为见证人，公布喂价。 可以认为喂价质量的既得利益者信任被选出的见证人。 通过向当选者支付费用，Steem创造了市场竞争以取得喂价的的权利。 The more the feed producers are paid the more they have to lose by publishing false information.
 
 Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
 
