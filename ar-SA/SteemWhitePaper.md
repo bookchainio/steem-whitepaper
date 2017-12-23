@@ -178,9 +178,9 @@ It is our belief that these rules will give market participants confidence that 
 
 من أجل إعطاء الجميع فرصة متساوية للانخراط وكسب العملة يجب إعطاء الناس فرصة للعمل. ويتمثل التحدي في كيفية الحكم على النوعية والكمية النسبيتين للعمل الذي يقدمه الأفراد والقيام بذلك بطريقة تخصص المكافآت لملايين المستعملين. ويتطلب ذلك إدخال عملية تصويت قابلة للتوسيع. وتتطلب على وجه الخصوص أن تكون سلطة تخصيص الأموال موزعة ولا مركزية بقدر الإمكان.
 
-الخطوة الأولى في مكافأة الملايين من المستخدمين هي الالتزام بتوزيع مبلغ ثابت من العملة بغض النظر عن مقدار العمل الذي يتم القيام به بالفعل أو كيفية تصويت المستخدمين. This changes the question from being *“Should we pay?”* to *“Whom should we pay?”* and signals to the market that money is being distributed and is being auctioned off to whoever “bids” the most *work*. هذا مماثل ل بيتكوين الملتزم بمنح 50 بتكوين لمن يجد تجزئة أصعب. مثل بيتكوين، يجب أن يتم كل العمل قبل دفع تعويضات، ولا شيء ينبغي أن تدفع على وعد للقيام بعمل في المستقبل.
+الخطوة الأولى في مكافأة الملايين من المستخدمين هي الالتزام بتوزيع مبلغ ثابت من العملة بغض النظر عن مقدار العمل الذي يتم القيام به بالفعل أو كيفية تصويت المستخدمين. وهذا ما يغير السؤال من كونه * "هل يجب أن ندفع؟" * إلى * "من يجب أن ندفع؟" * وإشارات إلى السوق التي يتم توزيع الأموال ويجري بيعها بالمزاد العلني كل من "يعين" أكثر * عمل *. هذا مماثل ل بيتكوين الملتزم بمنح 50 بتكوين لمن يجد تجزئة أصعب. مثل بيتكوين، يجب أن يتم كل العمل قبل دفع تعويضات، ولا شيء ينبغي أن تدفع على وعد للقيام بعمل في المستقبل.
 
-The next step is to reward everyone who does anything even remotely positive with *something*. This is accomplished by ranking all work done and distributing proportionally to its value. The more competitive the market becomes, the more difficult (higher quality or quantity) it becomes to earn the same payout.
+الخطوة التالية هي مكافأة كل من يفعل أي شيء حتى ولو كان بعيد المدى إيجابيا* بشيء*. ويتم ذلك عن طريق ترتيب جميع الأعمال المنجزة وتوزيعها بالتناسب مع قيمتها. The more competitive the market becomes, the more difficult (higher quality or quantity) it becomes to earn the same payout.
 
 ### Voting on Distribution of Currency
 
