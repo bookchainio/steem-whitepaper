@@ -32,7 +32,7 @@ Komunitas Steem menyediakan layanan-layanan berikut ini kepada anggotanya:
 2. Sarana untuk mendapatkan jawaban yang berkualitas tinggi atas pertanyaan yang telah dipersonalisasi.
 3. Kripto yang stabil dipatok pada dolar A.S.
 4. Pembayaran gratis.
-5. Jobs memberikan layanan di atas kepada anggota lainnya.
+5. Layanan penyediaan kerja kepada anggota lainnya.
 
 Penataan kembali insentif ekonomi oleh Steem memiliki potensi untuk menghasilkan hasil yang lebih adil dan lebih inklusif untuk semua orang yang terlibat daripada platform media sosial dan kriptografi yang telah ada sebelumnya. Makalah ini akan mengeksplorasi insentif ekonomi yang ada dan menunjukkan bagaimana insentif Steem dapat menghasilkan hasil yang lebih baik bagi sebagian besar peserta.
 
