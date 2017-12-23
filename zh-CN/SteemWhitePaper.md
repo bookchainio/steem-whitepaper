@@ -84,13 +84,13 @@ Steem是账户在Steem区块链的基础单位。 所有其他代币都从STEEM�
 
 当用户对内容进行投票时，他们对奖励池分配的影响与他们拥有的SP数量成正比。 拥有更多SP的用户对奖励的分配有更多的影响。 这意味着SP是在Steem平台中授予其持有者独占权利的访问代币。
 
-SP holders are also paid interest on the balance of SP that remains vested. 15% of the yearly inflation is paid to SP holders as interest. The amount of the interest that they receive is directly proportional to the amount of SP they hold relative to the total amount of vested SP across all users.
+SP持有人还得到归属SP余额的利息。 15%的年通货膨胀被用于支付利息给SP所有者。 他们所获得的利息金额与其持有的SP相对于所有用户归属SP总量所占份额成正比。
 
-Transferring from STEEM to SP is referred to as “powering up”, while transferring from SP to STEEM is referred to as “powering down.” SP that is powered down is returned to the user over a period of thirteen weeks, via 13 equal weekly payments, starting one week after the power down is initiated.
+把STEEM转移到SP被称为“增加能量”，而从SP转移到STEEM被称为“降低能量”。能量降低的SP将在十三周的时间每周等量地被返还给用户。返还从降低能量启动的一周以后开始。
 
 ## Steem美元(SBD)
 
-Stability is an important feature of successful global economies. Without stability, individuals across the world could not have low cognitive costs while engaging in commerce and savings. Because stability is an important feature of successful economies, Steem Dollars were designed as an attempt to bring stability to the world of cryptocurrency and to the individuals who use the Steem network.
+稳定是成功的全球经济的一个重要特征。 没有稳定，世界各地的个体将不能在从事商业和储蓄时有低的认知成本。 Because stability is an important feature of successful economies, Steem Dollars were designed as an attempt to bring stability to the world of cryptocurrency and to the individuals who use the Steem network.
 
 Steem Dollars are created by a mechanism similar to convertible notes, which are often used to fund startups. In the startup world, convertible notes are short-term debt instruments that can be converted to ownership at a rate determined in the future, typically during a future funding round. A blockchain based token can be viewed as ownership in the community whereas a convertible note can be viewed as a debt denominated in any other commodity or currency. The terms of the convertible note allow the holder to convert to the backing token with a minimum notice at the fair market price of the token. Creating token-convertible-dollars enables blockchains to grow their network effect while maximizing the return for token holders.
 
