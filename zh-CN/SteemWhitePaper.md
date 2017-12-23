@@ -104,9 +104,9 @@ SP持有人选举的个人，作为见证人，公布喂价。 可以认为喂�
 
 即使所有喂价创造者都是诚实的，也可能大多数喂价创造者会被他们无法控制的事件影响。 Steem网络的设计是为了在社区积极工作修正问题时容忍短期喂价中位数的损坏。 一个可以通过一些时间来纠正问题的例子是短期市场操纵。 长期的市场操纵是困难和昂贵的。 另一个例子是中央交易所的失败，或交易所公布的数据的损坏。
 
-Steem factors out short-term price fluctuations by using the median price over a period of three and a half days. The median published feed is sampled every hour on the hour.
+Steem使用三天半时间的中位数价格来抵消价格波动。发表的喂价中位数每小时取样一次。
 
-As long as the price feed corruption lasts for less than half the moving median time window it will have minimal impact on the conversion price. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
+只要喂价损坏持续不到一半的中位数时间窗口，它将对转换价格的影响将会很小。 In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
 
 With a three and a half day window, community members have approximately one and a half days to respond to any issues that come up.
 
