@@ -90,9 +90,9 @@ SP持有人还得到归属SP余额的利息。 15%的年通货膨胀被用于支
 
 ## Steem美元(SBD)
 
-稳定是成功的全球经济的一个重要特征。 没有稳定，世界各地的个体将不能在从事商业和储蓄时有低的认知成本。 Because stability is an important feature of successful economies, Steem Dollars were designed as an attempt to bring stability to the world of cryptocurrency and to the individuals who use the Steem network.
+稳定是成功的全球经济的一个重要特征。 没有稳定，世界各地的个体将不能在从事商业和储蓄时有低的认知成本。 由于稳定是成功经济的一个重要特征，Steem美元的设计是为了给加密货币世界和使用Steem网络的人带来稳定。
 
-Steem Dollars are created by a mechanism similar to convertible notes, which are often used to fund startups. In the startup world, convertible notes are short-term debt instruments that can be converted to ownership at a rate determined in the future, typically during a future funding round. A blockchain based token can be viewed as ownership in the community whereas a convertible note can be viewed as a debt denominated in any other commodity or currency. The terms of the convertible note allow the holder to convert to the backing token with a minimum notice at the fair market price of the token. Creating token-convertible-dollars enables blockchains to grow their network effect while maximizing the return for token holders.
+Steem美元是根据类似于可转换债券的机制创建。这种机制常被用于为初创企业提供资金。 在初创企业的世界里，可转换证券是短期证券工具，通常在未来的融资回合可以按照比例转换成所有权。 基于区块链的代币可以被看作是社区的所有权，而可转换证券可以被看作是以任何其他商品或货币计价的债务。 可转换证券的条款允许持有人短时间内以市场公平的代币价格将其转换到支持代币。 Creating token-convertible-dollars enables blockchains to grow their network effect while maximizing the return for token holders.
 
 Steem Dollars are referred to with the symbol SBD, an acronym for Steem Blockchain Dollars. Creating SBD requires a combination of a reliable price feed, and rules to prevent abuse. Providing a reliable price feed involves three factors: minimizing the impact of an incorrect feed, maximizing the cost of producing an incorrect feed, and minimizing the importance of timing.
 
