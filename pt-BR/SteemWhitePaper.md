@@ -64,19 +64,19 @@ Esta seção descreve as idéias por trás de Steem e suas recompensas para pess
 
 ## Contribuições de capital
 
-Existem dois itens que uma comunidade pode oferecer para atrair capital: dívida e propriedade. Those who buy ownership profit when the community grows but lose if the community shrinks. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
+Existem dois itens que uma comunidade pode oferecer para atrair capital: dívida e propriedade. Aqueles que compram lucros de propriedade quando a comunidade cresce, mas perdem se a comunidade encolher. Aqueles que compram dívidas estão garantidos com certa quantidade de interesse, mas não conseguem participar de lucros realizados pelo crescimento da comunidade. Ambos os tipos de contribuições de capital são valiosos para o crescimento da comunidade e o valor da sua moeda. Além disso, existem duas maneiras pelas quais a propriedade pode ser realizada: liquidez e aquisição. A aquisição de propriedade faz um compromisso a longo prazo e não pode ser vendida por um período mínimo de tempo.
 
-The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SBD).
+A rede Steem chama estas diferentes classes de ativos Steem (STEEM), Steem Power (SP) e Steem Dollars (SBD).
 
 ## Steem (STEEM)
 
-Steem is the fundamental unit of account on the Steem blockchain. All other tokens derive their value from the value of STEEM. STEEM is a liquid currency, and therefore can be bought or sold on exchanges, as well as transferred to other users as a form of payment.
+Steem é a unidade de conta fundamental da Blockchain de Steem. Todos os outros tokens derivam seu valor do valor de STEEM. O STEEM é uma moeda líquida e, portanto, pode ser comprado ou vendido em trocas, bem como transferido para outros usuários como forma de pagamento.
 
 ## Steem Power (SP)
 
-Start up companies require long-term capital commitment. Those who invest their money in a startup expect to wait years before they can sell their shares and realize their profits. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
+Empresas de arranque exigem compromisso de capital a longo prazo. Aqueles que investem seu dinheiro em um startup esperam anos antes de poder vender suas ações e perceber seus lucros. Sem compromisso de longo prazo, um startup em operação buscando aumentar o capital através da venda de ações adicionais seria concorrente com os acionistas existentes que procuram sair. Os investidores experientes querem suas contribuições de capital para crescer a empresa, mas o crescimento não pode acontecer se a nova capital for dada àqueles que desejam sair.
 
-There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
+Existe um valor significativo para ter um compromisso a longo prazo porque permite que as comunidades façam planos de longo prazo. O compromisso a longo prazo das partes interessadas também faz com que eles votem para o crescimento a longo prazo e não para bombas de curto prazo.
 
 In the cryptocurrency space, speculators jump from cryptocurrency to cryptocurrency based mostly on which one is expected to have short-term growth. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
 
