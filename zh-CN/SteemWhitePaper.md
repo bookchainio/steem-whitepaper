@@ -120,9 +120,9 @@ Steem要求所有的转换请求延迟三天半以平衡场地。 这意味着�
 
 如果人们可以在两个方向自由转换，那么交易者可以通过不改变价格的大额交易获取比区块链更多的优势。 交易员看到了大的价格上涨会以高价转换为SBD(在风险最高的时候)然后在回调时转换回来。 Steem协议保护社区免受这种只允许人们从SBD转换到Steem，而不能反向进行的损害。
 
-The blockchain decides how and when to create SBD and who should get it. This keeps the rate of SBD creation stable and removes most avenues of abuse.
+区块链决定如何和何时产生SBD以及谁应该得到它。这使SBD创造的速度保持稳定，并消除了大多数滥用的途径。
 
-### Sustainable Debt to Ownership Ratios
+### 可持续债务与所有权比率
 
 If a token is viewed as ownership in the whole supply of tokens, then a token-convertible-dollar can be viewed as debt. If the debt to ownership ratio gets too high the entire currency can become unstable. Debt conversions can dramatically increase the token supply, which in turn is sold on the market suppressing the price. Subsequent conversions require the issuance of even more tokens. Left unchecked the system can collapse leaving worthless ownership backing a mountain of debt. The higher the debt to ownership ratio becomes the less willing new investors are to bring capital to the table.
 
