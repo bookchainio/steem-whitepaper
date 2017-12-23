@@ -112,13 +112,13 @@ Steem使用三天半时间的中位数价格来抵消价格波动。发表的喂
 
 ### 缓解计时攻击
 
-市场参与者获得信息的速度超过区块链三天半的移动中值转换价格的反应。 这些信息可以被交易者以牺牲社区利益的方式获利。 If there is a sudden increase in the value of STEEM traders could request conversion of their SBD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
+市场参与者获得信息的速度超过区块链三天半的移动中值转换价格的反应。 这些信息可以被交易者以牺牲社区利益的方式获利。 如果STEEM价格忽然增加，交易者可以用旧的便宜的价格请求转换他们的SBD，然后再以最小的风险用较高的新价格卖掉他们的STEEM。
 
-Steem levels the playing field by requiring all conversion requests to be delayed for three and a half days. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
+Steem要求所有的转换请求延迟三天半以平衡场地。 这意味着无论是交易者还是区块链在执行转换时都没有价格方面的任何信息优势。
 
-### Minimizing Abuse of Conversions
+### 减少转换滥用
 
-If people could freely convert in both directions then traders could take advantage of the blockchains conversion rates by trading large volumes without changing the price. Traders who see a massive run up in price would convert to SBD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SBD to STEEM and not the other way around.
+如果人们可以在两个方向自由转换，那么交易者可以通过不改变价格的大额交易获取比区块链更多的优势。 交易员看到了大的价格上涨会以高价转换为SBD(在风险最高的时候)然后在回调时转换回来。 Steem协议保护社区免受这种只允许人们从SBD转换到Steem，而不能反向进行的损害。
 
 The blockchain decides how and when to create SBD and who should get it. This keeps the rate of SBD creation stable and removes most avenues of abuse.
 
