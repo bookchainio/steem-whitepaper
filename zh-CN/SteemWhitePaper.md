@@ -78,11 +78,11 @@ Steem是账户在Steem区块链的基础单位。 所有其他代币都从STEEM�
 
 长期承诺可以使社区能够制定长期计划，因此具有重要价值。 利益相关者的长期承诺也会让他们投票支持长期增长，而不是短期暴发。
 
-In the cryptocurrency space, speculators jump from cryptocurrency to cryptocurrency based mostly on which one is expected to have short-term growth. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
+在加密货币的领域中，投机者从一种加密货币到另外一种加密货币的跳转主要基于哪一种会有预计的短期增长。 Steem希望建立一个主要被具有长远眼光的人拥有和控制的社区。
 
-Users are able to commit their STEEM to a thirteen week vesting schedule, providing them with additional benefits within the platform. STEEM that has been committed to a thirteen week vesting schedule is called Steem Power (SP). SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
+用户可以通过将他们的STEEM提交到十三周的归属计划中，从而在平台中得到额外利益。 已经提交到十三周归属计划中的STEEM被称为Steem能量(SP)。 除非通过自动重复的转换请求，SP余额是不可转让和不可分割的。 这意味着SP不能轻易地在加密货币交易所交易。
 
-When users vote on content, their influence over the distribution of the rewards pool is directly proportional to the amount of SP that they have. Users with more SP have more influence on the distribution of rewards. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
+当用户对内容进行投票时，他们对奖励池分配的影响与他们拥有的SP数量成正比。 拥有更多SP的用户对奖励的分配有更多的影响。 这意味着SP是在Steem平台中授予其持有者独占权利的访问代币。
 
 SP holders are also paid interest on the balance of SP that remains vested. 15% of the yearly inflation is paid to SP holders as interest. The amount of the interest that they receive is directly proportional to the amount of SP they hold relative to the total amount of vested SP across all users.
 
