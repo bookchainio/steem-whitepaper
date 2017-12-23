@@ -112,7 +112,7 @@ Steem使用三天半时间的中位数价格来抵消价格波动。发表的喂
 
 ### 缓解计时攻击
 
-Market participants have access to information faster than the blockchain’s three and a half day moving median conversion price can react. This information could be used to benefit of traders at the expense of the community. If there is a sudden increase in the value of STEEM traders could request conversion of their SBD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
+市场参与者获得信息的速度超过区块链三天半的移动中值转换价格的反应。 这些信息可以被交易者以牺牲社区利益的方式获利。 If there is a sudden increase in the value of STEEM traders could request conversion of their SBD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
 
 Steem levels the playing field by requiring all conversion requests to be delayed for three and a half days. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
 
