@@ -96,7 +96,7 @@ Steem美元是根据类似于可转换债券的机制创建。这种机制常被
 
 Steem美元的符号是SBD，即Steem Blockchain Dollor (Steem区块链美元)的缩写。 创建SBD需要一个可靠的喂价和防止滥用的规则。 提供可靠喂价涉及三因素：减少不正确喂价的影响，最大化产生不正确喂价的成本，和最小化定时的重要性。
 
-### Minimizing Fraudulent Feeds
+### 最小化欺馈送
 
 SP持有人选举的个人，作为见证人，公布喂价。 可以认为喂价质量的既得利益者信任被选出的见证人。 通过向当选者支付费用，Steem创造了市场竞争以取得喂价的的权利。 喂价创造者获得的报酬越多，他们发布虚假信息的损失就越多。
 
@@ -106,9 +106,9 @@ SP持有人选举的个人，作为见证人，公布喂价。 可以认为喂�
 
 Steem使用三天半时间的中位数价格来抵消价格波动。发表的喂价中位数每小时取样一次。
 
-只要喂价损坏持续不到一半的中位数时间窗口，它将对转换价格的影响将会很小。 如果喂价被损坏，网络参与者将有机会在损坏的喂价对实际转换价格产生影响前投票剔除损坏喂价创造者。 Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
+只要喂价损坏持续不到一半的中位数时间窗口，它将对转换价格的影响将会很小。 如果喂价被损坏，网络参与者将有机会在损坏的喂价对实际转换价格产生影响前投票剔除损坏喂价创造者。 也许更重要的是，它给喂价创造者机会去探测并且在他们的喂价对价格产生影响前纠正问题。
 
-With a three and a half day window, community members have approximately one and a half days to respond to any issues that come up.
+有了三天半的窗口，社区成员就会有大约一天半的时间来回应任何问题。
 
 ### Mitigating Timing Attacks
 
