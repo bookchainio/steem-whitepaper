@@ -22,7 +22,7 @@ Secara keseluruhan, pengguna yang membuat konten telah menghasilkan keuntungan m
 
 Ada beberapa kunci dasar yang telah digunakan untuk membimbing desain Steem. Asas yang paling penting adalah bahwa setiap orang yang berkontribusi terhadap usaha harus menerima kepemilikan, pembayaran, atau hutang pro-rata dari usaha tersebut. Prinsip ini adalah prinsip yang sama yang diterapkan pada semua pemula karena mereka mengalokasikan saham pada pendiri dan selama putaran pendanaan berikutnya.
 
-Prinsip kedua adalah bahwa semua bentuk modal bernilai sama. Ini berarti bahwa mereka yang menyumbangkan waktu dan perhatian mereka yang langka untuk memproduksi dan mengurasi konten untuk orang lain sama berharganya dengan mereka yang menyumbang uang mereka yang langka. Ini adalah prinsip ekuitas keringat [^2] dan merupakan konsep bahwa kripto di masa lalu sering mengalami kesulitan menyediakan lebih dari beberapa lusin individu.
+Prinsip kedua adalah bahwa semua bentuk modal bernilai sama. Ini berarti bahwa mereka yang menyumbangkan waktu yang langka dan perhatian mereka untuk memproduksi dan mengelola konten untuk orang lain sama halnya dengan mereka yang menyumbang uang mereka yang langka. Ini adalah prinsip ekuitas keringat [^2] dan merupakan konsep bahwa kripto di masa lalu sering mengalami kesulitan menyediakan lebih dari beberapa lusin individu.
 
 Prinsip ketiga adalah bahwa masyarakat menghasilkan produk untuk melayani anggotanya. Prinsip ini dicontohkan oleh serikat kredit, koperasi makanan, dan rencana pembagian kesehatan, yang melayani anggota komunitas mereka daripada menjual produk atau layanan kepada orang-orang di luar masyarakat.
 
