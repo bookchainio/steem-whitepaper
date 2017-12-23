@@ -54,17 +54,17 @@ Um sistema comprovado para avaliar e recompensar contribuições é o mercado li
 
 Uma vez que o mercado livre é um sistema comprovado, é tentador tentar criar um sistema de mercado livre onde os consumidores paguem diretamente produtores de conteúdo. No entanto, o pagamento direto é ineficiente e não é realmente viável para a criação e curadoria de conteúdo. O valor da maioria dos conteúdos é baixo em relação aos custos cognitivos, financeiros e de oportunidade associados ao pagamento que poucos leitores optam por dar. A abundância de alternativas gratuitas significa que a imposição de uma "parede salarial" levará os leitores a outros lugares. Houve várias tentativas de implementar micropagamentos por artigo de leitores para autores, mas nenhum deles se tornou generalizado.
 
-O Steem é projetado para permitir micropagações efetivas para todos os tipos de contribuição, alterando a equação econômica. Os leitores já não precisam decidir se querem ou não pagar alguém de seu próprio bolso, em vez disso, eles podem votar em conteúdo para cima ou para baixo e Steem usará seus votos para determinar recompensas individuais. This means that people are given a familiar and widely used interface and no longer face the cognitive, financial, and opportunity costs associated traditional micropayment and tipping platforms.
+O Steem é projetado para permitir micropagações efetivas para todos os tipos de contribuição, alterando a equação econômica. Os leitores já não precisam decidir se querem ou não pagar alguém de seu próprio bolso, em vez disso, eles podem votar em conteúdo para cima ou para baixo e Steem usará seus votos para determinar recompensas individuais. Isso significa que as pessoas recebem uma interface familiar e amplamente utilizada e não enfrentam os custos cognitivos, financeiros e de oportunidade associados às plataformas tradicionais de micropagamento.
 
-Voting input from community members is critical for Steem to accurately allocate payments to contributors. Voting can therefore be viewed as a crucial contribution and worthy of rewards on its own. Some platforms, such as Slashdot, use meta-moderation[^3] as a way to rank and reward honest moderators. Steem chooses to reward those who contribute the most to the total promotion of a piece of content and rewards the voters proportional to the ultimate reward paid to the content creator.
+O voto dos membros da comunidade é fundamental para a Steem atribuir com precisão os pagamentos aos contribuintes. A votação pode, portanto, ser vista como uma contribuição crucial e digna de recompensas por conta própria. Algumas plataformas, como Slashdot, usam meta-moderação [^3] como uma forma de classificar e premiar moderadores honestos. Steem escolhe recompensar aqueles que contribuem mais para a promoção total de um pedaço de conteúdo e recompensa os eleitores proporcionais à recompensa final paga ao criador de conteúdo.
 
-# Ways to Contribute
+# Formas de Contribuir
 
-This section outlines the ideas behind Steem and its rewards for people who provide meaningful and measurable contributions to the Steem community.
+Esta seção descreve as idéias por trás de Steem e suas recompensas para pessoas que fornecem contribuições significativas e mensuráveis para a comunidade Steem.
 
-## Capital Contributions
+## Contribuições de capital
 
-There are two items a community can offer to attract capital: debt and ownership. Those who buy ownership profit when the community grows but lose if the community shrinks. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
+Existem dois itens que uma comunidade pode oferecer para atrair capital: dívida e propriedade. Those who buy ownership profit when the community grows but lose if the community shrinks. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
 
 The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SBD).
 
