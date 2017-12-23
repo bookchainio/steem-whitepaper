@@ -106,7 +106,7 @@ SP持有人选举的个人，作为见证人，公布喂价。 可以认为喂�
 
 Steem使用三天半时间的中位数价格来抵消价格波动。发表的喂价中位数每小时取样一次。
 
-只要喂价损坏持续不到一半的中位数时间窗口，它将对转换价格的影响将会很小。 In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
+只要喂价损坏持续不到一半的中位数时间窗口，它将对转换价格的影响将会很小。 如果喂价被损坏，网络参与者将有机会在损坏的喂价对实际转换价格产生影响前投票剔除损坏喂价创造者。 Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
 
 With a three and a half day window, community members have approximately one and a half days to respond to any issues that come up.
 
