@@ -96,11 +96,11 @@ Os Dólares Steem são criados por um mecanismo semelhante a notas conversíveis
 
 Steem Dollars é referido com o símbolo SBD, um acrônimo para Steem Blockchain Dollars. A criação de SBD requer uma combinação de um feed de preços confiável e regras para evitar abusos. Fornecer uma alimentação de preços confiável envolve três fatores: minimizando o impacto de uma alimentação incorreta, maximizando o custo de produzir uma alimentação incorreta e minimizando a importância do tempo.
 
-### Minimizing Fraudulent Feeds
+### Minimização de feeds fraudulentos
 
-SP holders elect individuals, called witnesses, to publish price feeds. The elected witnesses are presumably trusted by those who have a vested interest in the quality of the feed. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
+Os detentores de SP elege indivíduos, chamados witnesses, para publicar feeds de preços. Os Witnesses eleitos são presumivelmente confiáveis por aqueles que têm interesse na qualidade da alimentação. Ao pagar aqueles que são eleitos, a Steem cria concorrência no mercado para ganhar o direito de produzir feeds. Quanto mais os produtores de alimentos são pagos, mais eles perderão publicando informações falsas.
 
-Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
+Dado um conjunto de produtores de alimentos confiáveis e eleitos, o preço real usado para conversões pode ser derivado como a mediana dos feeds. Desta forma, se uma minoria de produtores indicadores publicarem valores atípicos, eles têm um impacto mínimo na média, mas sua reputação é afetada de qualquer maneira.
 
 Even if all feed producers are honest, it is possible for the majority of feed producers to be impacted by events beyond their control. The Steem network is designed to tolerate short-term corruption of the median price feed while the community actively works to correct the issue. One example of an issue that may take some time to correct is short-term market manipulation. Market manipulation is difficult and expensive to maintain for long periods of time. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
 
