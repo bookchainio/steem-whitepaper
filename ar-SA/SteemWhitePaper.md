@@ -190,7 +190,7 @@ It is our belief that these rules will give market participants confidence that 
 
 #### إساءة استخدام التصويت
 
-بغض النظر عن مقدار المال لكل فرد واحد، هناك دائما العديد من الأفراد الآخرين مع ثروة مماثلة. حتى أغنى فرد نادرا ما  لديه أكثر بكثير من الزوجين المقبلين الأكثر ثراء. وعلاوة على ذلك، فإن أولئك الذين لديهم استثمارات كبيرة في المجتمع أيضا لديهم أكثر من يخسر من خلال محاولة لعب نظام التصويت لأنفسهم. It would be like the CEO of a company deciding to stop paying salaries so he could pocket all of the profits. Everyone would leave to work for other companies and the company would become worthless, leaving the CEO bankrupt rather than wealthy.
+بغض النظر عن مقدار المال لكل فرد واحد، هناك دائما العديد من الأفراد الآخرين مع ثروة مماثلة. حتى أغنى فرد نادرا ما  لديه أكثر بكثير من الزوجين المقبلين الأكثر ثراء. وعلاوة على ذلك، فإن أولئك الذين لديهم استثمارات كبيرة في المجتمع أيضا لديهم أكثر من يخسر من خلال محاولة لعب نظام التصويت لأنفسهم. سيكون مثل الرئيس التنفيذي لشركة تقرر وقف دفع الرواتب حتى يتمكن من جني جميع الأرباح. Everyone would leave to work for other companies and the company would become worthless, leaving the CEO bankrupt rather than wealthy.
 
 Fortunately, any work that is getting a large concentration of votes is also gaining the most scrutiny (publicity). Through the addition of *negative-voting* it is possible for many smaller stakeholders to nullify the voting power of collusive groups or defecting large stakeholders. Furthermore, large-stakeholders have more to lose if the currency falls in value due to abuse than they might gain by voting for themselves. In fact, honest large stakeholders are likely to be more effective by policing abuse and using negative voting than they would be by voting for smaller contributions.
 
