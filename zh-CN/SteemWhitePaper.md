@@ -158,11 +158,11 @@ Steem喂价创造者的主要关注是保持SBD和美元 (USD) 之间稳定的�
 
 如果债务对所有权比率达到危险的高度，市场参与者会选择避免转换请求，因而喂价会调整从而增加支付STEEM以转换SBD的比率。
 
-Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SBD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions.
+利率政策的变动和/或STEEM/SBD转换汇率的任何溢价/折扣应该是对长期平均偏差的一个缓慢的和有分寸的反应而不是试图对短期市场状况作出反应。
 
-It is our belief that these rules will give market participants confidence that they are unlikely lose money by holding SBD purchased at a price of $1.00. We fully expect there to be a narrow trading range between $0.95 and $1.05 for SBD under normal market conditions.
+我们相信这些规则将使市场参与者有信心认为他们持有以$1.00的价格购买的SBD不太可能赔钱。 我们充分预计，在正常市场条件下SBD会在$0.95和$1.05一个窄范围内交易。
 
-## Subjective Contributions
+## 主观贡献
 
 Subjective Proof of Work presents an alternative approach to distributing a currency that improves upon fully *objective* Proof of Work systems such as mining. The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
 
