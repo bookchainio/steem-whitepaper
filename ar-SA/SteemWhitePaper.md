@@ -186,9 +186,9 @@ It is our belief that these rules will give market participants confidence that 
 
 افترض أن هناك مبلغا ثابتا من المال لتوزيعه، وأن أولئك الذين لديهم مصلحة طويلة الأجل في قيمة وفائدة العملة في المستقبل هم الذين يجب أن يقرروا كيفية تخصيصه. كل مستخدم مستحق يلقي أصواته على من فعل أفضل عمل وفي نهاية اليوم تنقسم الأموال المتاحة لذلك اليوم بالتناسب مع الأصوات بحيث يحصل الجميع مع صوت واحد إيجابي على شيء.
 
-عملية التصويت الساذجة تخلق معضلة السجين [^5] حيث يكون لكل ناخب فردي حافز للتصويت لنفسه على حساب الهدف المجتمعي الأكبر. If every voter defects by voting for themselves then no currency will end up distributed and the currency as a whole will fail to gain network effect. On the other hand, if only one voter defects then that voter would win undeserved profits while having minimal effect on the overall value of the currency.
+عملية التصويت الساذجة تخلق معضلة السجين [^5] حيث يكون لكل ناخب فردي حافز للتصويت لنفسه على حساب الهدف المجتمعي الأكبر. إذا كان كل ناخب من الناخبين انسحب عن طريق التصويت لنفسه إذن أي عملة سوف تنتهي في نهاية المطاف  وستفشل العملة ككل في الحصول على تأثير الشبكة. On the other hand, if only one voter defects then that voter would win undeserved profits while having minimal effect on the overall value of the currency.
 
-#### Voting Abuse
+#### إساءة استخدام التصويت
 
 Regardless of how much money any one individual has, there are always many other individuals with similar wealth. Even the wealthiest individual rarely has much more than the next couple wealthiest combined. Furthermore, those who have a large investment in a community also have the most to lose by attempting to game the voting system for themselves. It would be like the CEO of a company deciding to stop paying salaries so he could pocket all of the profits. Everyone would leave to work for other companies and the company would become worthless, leaving the CEO bankrupt rather than wealthy.
 
