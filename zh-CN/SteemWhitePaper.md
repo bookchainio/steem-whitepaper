@@ -150,9 +150,9 @@ Steem喂价创造者的主要关注是保持SBD和美元 (USD) 之间稳定的�
 
 如果债务对所有权比率较低，而SBD的交易价格少于$1.00，则应增加利率。这将鼓励更多的人持有他们的SBD并支撑价格。
 
-如果SBD交易价少于$1.00，并且债务对所有权比率高，则喂价应该向上调整每SBD给更多Steem。 This will increase demand for SBD while also reducing the debt-to-ownership ratio and returning SBD to parity with USD.
+如果SBD交易价少于$1.00，并且债务对所有权比率高，则喂价应该向上调整每SBD给更多Steem。 这将增加对SBD的需求，同时也减少了债务对所有权比率，并使SBD与美元的比价下降。
 
-Assuming the value of STEEM is growing faster than Steem is creating new SBD, the debt-to-ownership ratio should remain under the target ratio and the interest offered benefits everyone. If the value of the network is flat or falling, then any interest offered will only make the debt-to-ownership ratio worse.
+假设STEEM的价值增长快于Steem创造新的SBD，债务对所有权比率应该保持在目标比率之下，并且利息为大家提供好处。 如果网络的价值是平的或下降的，任何利息的提供只会使债务对所有权比率变得更糟。
 
 In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
 
