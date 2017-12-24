@@ -126,9 +126,9 @@ Steem要求所有的转换请求延迟三天半以平衡场地。 这意味着�
 
 如果一个代币被看作是整个代币供应中的所有权，那么一个可转换美元的代币可以被看作是债务。 如果债务对所有权比率过高，整个货币就会变得不稳定。 债务转换可以大幅增加代币供应，而这反过来又会在市场上出售从而压抑价格。 随后的转换需要发行更多的代币。 如果不受控制，系统会崩溃并留下堆积如山的债务所背书的毫无价值的所有权。 债务与所有权比率越高，新的投资者就越不愿意投资。
 
-STEEM价值的迅速变化可以显著地改变债务与所有权比率。 如果负债率超高10%，通过减少SBD转换到STEEM奖励的总数，区块链防止债务与所有权比率变得过高。 If the amount of SBD debt ever exceeds 10% of the total STEEM market cap, the blockchain will automatically reduce the amount of STEEM generated through conversions to a maximum of 10% of the market cap. This ensures that the blockchain will never have higher than a 10% debt-to-ownership ratio.
+STEEM价值的迅速变化可以显著地改变债务与所有权比率。 如果负债率超高10%，通过减少SBD转换到STEEM奖励的总数，区块链防止债务与所有权比率变得过高。 如果SBD债务总数超过STEEM总市值的10%，那么区块链将自动减少通过转换而产生的STEEM总数到最多为市值的10%。 这确保了区块链将永远不会有高于10%的债务与所有权比率。
 
-The percentage floors used to compute STEEM creation are based on the supply including the STEEM value of all outstanding SBD and SP (as determined by the current rate / feed).
+用于计算STEEM创建的百分比层是基于包括所有未付SBD和SP(由当前比率／喂价决定)的STEEM价值的供应。
 
 ### Interest
 
