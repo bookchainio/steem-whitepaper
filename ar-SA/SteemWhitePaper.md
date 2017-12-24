@@ -184,7 +184,7 @@ It is our belief that these rules will give market participants confidence that 
 
 ### التصويت على توزيع العملة
 
-Assume there is a fixed amount of money to distribute, and that those who have a long-term vested interest in the future value and utility of the currency are the ones who must decide how to allocate it. Every vesting user casts their votes on who did the best work and at the end of the day the available money for that day is divided proportional to the votes such that everyone with even one net positive vote gets something.
+افترض أن هناك مبلغا ثابتا من المال لتوزيعه، وأن أولئك الذين لديهم مصلحة طويلة الأجل في قيمة وفائدة العملة في المستقبل هم الذين يجب أن يقرروا كيفية تخصيصه. Every vesting user casts their votes on who did the best work and at the end of the day the available money for that day is divided proportional to the votes such that everyone with even one net positive vote gets something.
 
 The naive voting process creates a N-Person Prisoner’s Dilemma[^5] whereby each individual voter has incentive to vote for themselves at the expense of the larger community goal. If every voter defects by voting for themselves then no currency will end up distributed and the currency as a whole will fail to gain network effect. On the other hand, if only one voter defects then that voter would win undeserved profits while having minimal effect on the overall value of the currency.
 
