@@ -154,9 +154,9 @@ Steem喂价创造者的主要关注是保持SBD和美元 (USD) 之间稳定的�
 
 假设STEEM的价值增长快于Steem创造新的SBD，债务对所有权比率应该保持在目标比率之下，并且利息为大家提供好处。 如果网络的价值是平的或下降的，任何利息的提供只会使债务对所有权比率变得更糟。
 
-In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
+实际上，喂价创造者负有制定货币政策的责任以维持与美元的稳定绑定。 滥用这种权力会损害STEEM的价值，所以SP持有人会明智地给那些可以根据上述规则调整喂价和利率的见证人。
 
-If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SBD.
+如果债务对所有权比率达到危险的高度，市场参与者会选择避免转换请求，因而喂价会调整从而增加支付STEEM以转换SBD的比率。
 
 Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SBD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions.
 
