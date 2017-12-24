@@ -96,13 +96,13 @@ Os Dólares Steem são criados por um mecanismo semelhante a notas conversíveis
 
 Dólares Steems são referidos com o símbolo SBD, um acrônimo para Steem Blockchain Dollars. A criação de SBD requer uma combinação de um indicadores de preços confiáveis e regras para evitar abusos. Fornecer uma alimentação de preços confiável envolve três fatores: minimizando o impacto de uma alimentação incorreta, maximizando o custo de produzir uma alimentação incorreta e minimizando a importância do tempo.
 
-### Minimização de Alimentações Fraudulentas
+### Minimização de Indicadores Fraudulentos
 
-Os detentores de SP elegem indivíduos, chamados testemunhas, para publicar as alimentações de preços. As testemunhas eleitas são presumivelmente confiáveis por aqueles que têm interesse na qualidade da alimentação. Ao pagar aqueles que são eleitos, a Steem cria concorrência de mercado para ganhar o direito de produzir alimentações. Quanto mais os produtores de alimentação são pagos, mais eles perderão publicando informações falsas.
+Os detentores de SP elegem indivíduos, chamados testemunhas, para publicar os indicadores de preços. As testemunhas eleitas são presumivelmente confiáveis por aqueles que têm interesse na qualidade dos indicadores. Ao pagar aqueles que são eleitos, a Steem cria concorrência de mercado para ganhar o direito de produzir indicadores. Quanto mais os produtores de indicadores são pagos, mais eles perderão publicando informações falsas.
 
-Dado um conjunto de produtores de alimentação confiáveis e eleitos, o preço real usado para conversões pode ser derivado como a mediana das alimentações. Desta forma, se uma minoria de produtores indicadores publicarem valores atípicos, eles têm um impacto mínimo na média, mas sua reputação é afetada de qualquer maneira.
+Dado um conjunto de produtores de indicadores confiáveis e eleitos, o preço real usado para conversões pode ser derivado como a mediana dos indicadores. Desta forma, se uma minoria de produtores indicadores publicarem valores atípicos, eles têm um impacto mínimo na mediana, mas sua reputação é afetada de qualquer maneira.
 
-Even if all feed producers are honest, it is possible for the majority of feed producers to be impacted by events beyond their control. The Steem network is designed to tolerate short-term corruption of the median price feed while the community actively works to correct the issue. One example of an issue that may take some time to correct is short-term market manipulation. Market manipulation is difficult and expensive to maintain for long periods of time. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
+Mesmo que todos os produtores de indicadores sejam honestos, é possível que a maioria dos feeds sejam impactados por eventos além do seu controle. A rede Steem é projetada para tolerar corrupção de curto prazo do preço da mediana do indicador enquanto a comunidade trabalha ativamente para corrigir o problema. Um exemplo de um problema que pode levar algum tempo para ser corrigido é a manipulação de mercado a curto prazo. Manipulação de mercado é difícil e caro de manter por longos períodos de tempo. Outro exemplo seria a falha de bolsa centralizada ou o corrompimento de dados publicados na bolsa.
 
 Steem factors out short-term price fluctuations by using the median price over a period of three and a half days. The median published feed is sampled every hour on the hour.
 
