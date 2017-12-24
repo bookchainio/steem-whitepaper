@@ -134,15 +134,15 @@ STEEM价值的迅速变化可以显著地改变债务与所有权比率。 如�
 
 SBD支付持有人利息。 利率由公布喂价的人设定，从而能适应不断变化的市场条件。 所有的债务都会给贷方带来风险。 未兑换SBD的持有者实际上是在向社区放贷一美元的价值。 他们相信将来有人会愿意从他们那里以一美元购买SBD，或者会有投机者和投资者愿意购买他们转换成的STEEM。
 
-当社区成员愿意持有SBD时，STEEM和SP持有者就会获得杠杆。 这种杠杆放大了增长带来的收益同时也促进了增长。 如果价格下跌，STEEM持有者会受到更大的稀释。 Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
+当社区成员愿意持有SBD时，STEEM和SP持有者就会获得杠杆。 这种杠杆放大了增长带来的收益同时也促进了增长。 如果价格下跌，STEEM持有者会受到更大的稀释。 加密货币项目显示增加愿意以资产信任网络的用户群比在经济低迷时期稀释给网络增加更多的价值。
 
-### Setting Price Feeds
+### 设置喂价
 
-Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
+聪明的读者会认识到，受限供应资产的利息可能会比标的资产更高或更低，这取决于在同一资产上赚取利息的其他机会。 由于在一项绑定美元的资产上支付了高利率，许多人将会抬高有限供应的Steem美元的价格，直到他们不再价值1美元。 在经济学中有一个原理，称为不可能的三位一体 [^4]。它指出不可能同时拥有以下所有三的内容:
 
-1. A stable exchange rate
-2. Free capital movement
-3. An independent monetary policy
+1. 稳定的汇率
+2. 自由资本移动
+3. 独立的货币政策
 
 If Steem feed producers aim to have an independent monetary policy allowing it to create and destroy Steem Dollars while simultaneously having full control over the interest rate then they will encounter problems. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
 
