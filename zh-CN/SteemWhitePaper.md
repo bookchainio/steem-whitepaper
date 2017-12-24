@@ -124,7 +124,7 @@ Steem要求所有的转换请求延迟三天半以平衡场地。 这意味着�
 
 ### 可持续债务与所有权比率
 
-If a token is viewed as ownership in the whole supply of tokens, then a token-convertible-dollar can be viewed as debt. If the debt to ownership ratio gets too high the entire currency can become unstable. Debt conversions can dramatically increase the token supply, which in turn is sold on the market suppressing the price. Subsequent conversions require the issuance of even more tokens. Left unchecked the system can collapse leaving worthless ownership backing a mountain of debt. The higher the debt to ownership ratio becomes the less willing new investors are to bring capital to the table.
+如果一个代币被看作是整个代币供应中的所有权，那么一个可转换美元的代币可以被看作是债务。 如果债务对所有权比率过高，整个货币就会变得不稳定。 债务转换可以大幅增加代币供应，而这反过来又会在市场上出售从而压抑价格。 随后的转换需要发行更多的代币。 如果不受控制，系统会崩溃并留下堆积如山的债务所背书的毫无价值的所有权 债务与所有权比率越高，新的投资者就越不愿意投资。
 
 A rapid change in the value of STEEM can dramatically change the debt-to-ownership ratio. The blockchain prevents the debt-to-ownership ratio from getting too high, by reducing the amount of STEEM awarded through SBD conversions if the debt level were to exceed 10%. If the amount of SBD debt ever exceeds 10% of the total STEEM market cap, the blockchain will automatically reduce the amount of STEEM generated through conversions to a maximum of 10% of the market cap. This ensures that the blockchain will never have higher than a 10% debt-to-ownership ratio.
 
