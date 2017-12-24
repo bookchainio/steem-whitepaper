@@ -108,13 +108,13 @@ Steem leva em consideração flutuações de preço de curto prazo, usando a med
 
 Enquanto a corrupção do indicador de preço durar por menos do que a janela de tempo da mediana móvel, ela terá um impacto mínimo no preço de conversão. Caso o indicador seja corrompido, o participantes da rede terão uma oportunidade de votar na saída dos produtores do índicador corrompido antes que o indicador corrompido tenha impacto no preço atual de conversão. Talvez mais importante, isso dá aos produtores de indicadores uma oportunidade de detectar e corrigir problemas antes que seus indicadores comecem a impactar o preço.
 
-With a three and a half day window, community members have approximately one and a half days to respond to any issues that come up.
+Com uma janela de três dias e meio, membros da comunidade tem aproximadamente um dia e meio para responder a qualquer problema que aparecer.
 
-### Mitigating Timing Attacks
+### Mitigando Ataques de Sincronismo
 
-Market participants have access to information faster than the blockchain’s three and a half day moving median conversion price can react. This information could be used to benefit of traders at the expense of the community. If there is a sudden increase in the value of STEEM traders could request conversion of their SBD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
+Participantes do mercado tem acesso à informação mais rápido que o preço de conversão da mediana móvel de três dias e meio pode reagir. Esta informação pode ser utilizada em beneficio dos negociantes em detrimento da comunidade. Se houver um aumento súbito no valor do STEEM os negociantes poderiam solicitar a conversão do seu SBD a um menor e mais antigo preço, e então vender o STEEM que eles receberem ao novo preço mais alto com um risco mínimo.
 
-Steem levels the playing field by requiring all conversion requests to be delayed for three and a half days. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
+Steem nivela o campo solicitando que todas as solicitações de conversão sejam atrasadas por três dias e meio. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
 
 ### Minimizing Abuse of Conversions
 
