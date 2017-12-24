@@ -114,11 +114,11 @@ Com uma janela de três dias e meio, membros da comunidade tem aproximadamente u
 
 Participantes do mercado tem acesso à informação mais rápido que o preço de conversão da mediana móvel de três dias e meio pode reagir. Esta informação pode ser utilizada em beneficio dos negociantes em detrimento da comunidade. Se houver um aumento súbito no valor do STEEM os negociantes poderiam solicitar a conversão do seu SBD a um menor e mais antigo preço, e então vender o STEEM que eles receberem ao novo preço mais alto com um risco mínimo.
 
-Steem nivela o campo solicitando que todas as solicitações de conversão sejam atrasadas por três dias e meio. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
+Steem nivela o campo solicitando que todas as solicitações de conversão sejam atrasadas por três dias e meio. Isso significa que nem os negociantes nem a blockchain tem qualquer vantagem de informação sobre o preço no momento que a conversão é executada.
 
-### Minimizing Abuse of Conversions
+### Minimizando o abuso de Conversões
 
-If people could freely convert in both directions then traders could take advantage of the blockchains conversion rates by trading large volumes without changing the price. Traders who see a massive run up in price would convert to SBD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SBD to STEEM and not the other way around.
+Se as pessoas pudessem converter livremente nas duas direções então os negociantes poderiam levar vantagem sobre as taxas de conversão da blockchain ao negociar altos volumes sem alterar o preço. Negociantes que verem um aumento massivo no preço poderiam converter para SBD a um preço alto (quando é mais arriscado) e então converter de volta após a correção. O protocolo Steem proteje a comunidade desse tipo de abuso ao permitir que as pessoas apenas convertam SBD para STEEM e não o contrário.
 
 The blockchain decides how and when to create SBD and who should get it. This keeps the rate of SBD creation stable and removes most avenues of abuse.
 
