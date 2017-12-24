@@ -164,9 +164,9 @@ Steem喂价创造者的主要关注是保持SBD和美元 (USD) 之间稳定的�
 
 ## 主观贡献
 
-主观工作量证明提供了另外一种方法以分配货币并改进了像挖矿这样的 *客观*工作量证明系统。 The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
+主观工作量证明提供了另外一种方法以分配货币并改进了像挖矿这样的 *客观*工作量证明系统。 实施*主观*工作量证明的货币的应用比任何*客观*工作量证明的系统都要宽广的得多，因为前者可以应用于围绕任何具有充分足够定义宗旨的概念构建一个社区。 当个人加入一个社区时，他们会购入一组特定的信仰，并可以投票来强化社区的价值观或宗旨。
 
-In effect, the criteria by which work is evaluated is completely subjective and its definition lives outside the source code itself. One community may wish to reward artists, another poets, and another comedians. Other communities may choose to reward charitable causes or help advance political agendas.
+实际上，评估工作的标准完全是主观的，其定义在源代码之外。 One community may wish to reward artists, another poets, and another comedians. Other communities may choose to reward charitable causes or help advance political agendas.
 
 The value each currency achieves depends upon the demand for influence within a particular community and how large the market believes each community can get. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
 
