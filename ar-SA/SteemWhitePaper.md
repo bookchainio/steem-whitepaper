@@ -74,27 +74,27 @@
 
 ## قوة ستيم (SP)
 
-Start up companies require long-term capital commitment. Those who invest their money in a startup expect to wait years before they can sell their shares and realize their profits. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
+الشركات الناشئة تتطلب الإلتزام برأس المال على المدى الطويل. أولئك الذين يستثمرون أموالهم في شركة ناشئة يتوقعون الانتظار لسنوات قبل أن يتمكنوا من بيع أسهمهم وتحقيق أرباحهم. وبدون الإلتزام على المدى الطويل، فإن الشركة الناشئة تسعى إلى زيادة رأس المال من خلال بيع أسهم إضافية والتي سوف تكون منافِسة مع المساهمين الحاليين الذين يتطلعون للخروج. المستثمرون الدهاء يريدون مساهماتهم الرأسمالية ان تساهم في نمو الشركة، ولكن النمو لا يمكن أن يحدث إذا تم إعطاء رأس المال الجديد بعيدا عن أولئك الذين يتطلعون للخروج.
 
-There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
+وهناك قيمة كبيرة لوجود التزام طويل الأجل لأنها تمكن المجتمعات المحلية من وضع خطط طويلة الأجل. کما أن التزام أصحاب المصلحة علی المدى الطویل یجعلھم یصوتون لنمو طویل الأجل بدلا من المضخات قصیرة الأجل.
 
-In the cryptocurrency space, speculators jump from cryptocurrency to cryptocurrency based mostly on which one is expected to have short-term growth. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
+في الفضاء العملات الإفتراضية، السمسارون يقفزون من العملات الإفتراضية إلى عملات إفتراضية تستند في الغالب على أي واحد من المتوقع أن يحصل على نمو ذي مدى قصير. يريد ستيم بناء مجتمع يمتلكه معظمهم ويتحكم فيه بالكامل أولئك الذين لديهم منظور طويل الأجل.
 
-Users are able to commit their STEEM to a thirteen week vesting schedule, providing them with additional benefits within the platform. STEEM that has been committed to a thirteen week vesting schedule is called Steem Power (SP). SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
+Users are able to commit their STEEM to a thirteen week vesting schedule, providing them with additional benefits within the platform. STEEM that has been committed to a thirteen week vesting schedule is called Steem Power (SP). تعتبر أرصدة SP غير قابلة للتحويل وغير قابلة للتقسيم إلا من خلال طلبات التحويل المتكررة تلقائيا. وهذا يعني أن سب لا يمكن تداولها بسهولة على تبادلات العملات الإفتراضية.
 
-When users vote on content, their influence over the distribution of the rewards pool is directly proportional to the amount of SP that they have. Users with more SP have more influence on the distribution of rewards. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
+عندما يصوت المستخدمون على المحتوى، تأثيرهم على توزيع مجموع المكافآت يتناسب فورا مع كمية من SP التي لديهم. المستخدمين مع المزيد من SP يكون لهم تأثير أكبر على توزيع المكافآت. وهذا يعني أن SP هو رمز الوصول الذي يضمن لمالكيه سلطة حصرية ضمن منصة ستيم.
 
-SP holders are also paid interest on the balance of SP that remains vested. 15% of the yearly inflation is paid to SP holders as interest. The amount of the interest that they receive is directly proportional to the amount of SP they hold relative to the total amount of vested SP across all users.
+ويحصل أصحاب الحيازات أيضا على فائدة من رصيد الخدمة الخاصة التي تظل مكتسبة. يتم دفع 15٪ من الإرتفاع السنوي إلى أصحاب الحيازات كفوائد. يتناسب مبلغ الفائدة التي يتلقاها بشكل مباشر مع مبلغ SP الذي يحتفظ به بالنسبة إلى المبلغ الإجمالي ل SP المستحق على جميع المستخدمين.
 
-Transferring from STEEM to SP is referred to as “powering up”, while transferring from SP to STEEM is referred to as “powering down.” SP that is powered down is returned to the user over a period of thirteen weeks, via 13 equal weekly payments, starting one week after the power down is initiated.
+النقل من STEEM إلى SP يشار إليه باسم "بpowering up" (شحن القوة)، في حين أن النقل من SP إلى STEEM يشار إليه باسم "بpowering down" (خفظ القوة). يتم إرجاع SP الذي يتم استخراجه إلى المستخدم على مدى فترة ثلاثة عشر أسبوعا، عبر 13 مدفوعات متساوية أسبوعيا ، بدأ من أسبوع واحد بعد بدء عملية الإستخراج.
 
-## Steem Dollars (SBD)
+## ستيم دولار (SBD)
 
-Stability is an important feature of successful global economies. Without stability, individuals across the world could not have low cognitive costs while engaging in commerce and savings. Because stability is an important feature of successful economies, Steem Dollars were designed as an attempt to bring stability to the world of cryptocurrency and to the individuals who use the Steem network.
+الاستقرار هو سمة هامة من سمات الاقتصادات العالمية الناجحة. وبدون الاستقرار، لا يمكن للأفراد في جميع أنحاء العالم أن يكون لديهم تكاليف إدراكية منخفضة أثناء الانخراط في التجارة والمدخرات. لأن الاستقرار هو سمة هامة من سمات الاقتصادات الناجحة، تم تصميم ستيم دولار كمحاولة لتحقيق الاستقرار في عالم العملات الإفتراضية وللأفراد الذين يستخدمون شبكة ستيم.
 
-Steem Dollars are created by a mechanism similar to convertible notes, which are often used to fund startups. In the startup world, convertible notes are short-term debt instruments that can be converted to ownership at a rate determined in the future, typically during a future funding round. A blockchain based token can be viewed as ownership in the community whereas a convertible note can be viewed as a debt denominated in any other commodity or currency. The terms of the convertible note allow the holder to convert to the backing token with a minimum notice at the fair market price of the token. Creating token-convertible-dollars enables blockchains to grow their network effect while maximizing the return for token holders.
+يتم إنشاء دولارات ستيم من خلال آلية مماثلة للملاحظات القابلة للتحويل، والتي غالبا ما تستخدم لتمويل الشركات الناشئة. وفي عالم الشركات الناشئة، تعتبر السندات القابلة للتحويل أدوات دين قصيرة الأجل يمكن تحويلها إلى ملكية بمعدل محدد في المستقبل، عادة خلال جولة تمويلية في المستقبل. ويمكن النظر إلى الرمز المميز القائم على بلوكشين على أنه ملكية في المجتمع، بينما يمكن النظر إلى المذكرة القابلة للتحويل على أنها دين مقوم بأي سلعة أو عملة أخرى. شروط المذكرة القابلة للتحويل تسمح للمالك بالتحويل إلى الرمز المميز مع الحد الأدنى للإشعار بسعر السوق العادل للرمز المميز. خلق رمزية دولار قابلة للتحويل تمكن بلوكشينز لتنمي تأثير الشبكة مع زيادة العائد لحاملي الرمز الى الحد الاعلى.
 
-Steem Dollars are referred to with the symbol SBD, an acronym for Steem Blockchain Dollars. Creating SBD requires a combination of a reliable price feed, and rules to prevent abuse. Providing a reliable price feed involves three factors: minimizing the impact of an incorrect feed, maximizing the cost of producing an incorrect feed, and minimizing the importance of timing.
+يشار إلى دولار ستيم برمز SBD، وهو اختصار ل ستيم بلوكشين دولار. Creating SBD requires a combination of a reliable price feed, and rules to prevent abuse. Providing a reliable price feed involves three factors: minimizing the impact of an incorrect feed, maximizing the cost of producing an incorrect feed, and minimizing the importance of timing.
 
 ### Minimizing Fraudulent Feeds
 
@@ -110,49 +110,49 @@ As long as the price feed corruption lasts for less than half the moving median 
 
 With a three and a half day window, community members have approximately one and a half days to respond to any issues that come up.
 
-### Mitigating Timing Attacks
+### توقيت التخفيف من الهجمات
 
-Market participants have access to information faster than the blockchain’s three and a half day moving median conversion price can react. This information could be used to benefit of traders at the expense of the community. If there is a sudden increase in the value of STEEM traders could request conversion of their SBD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
+يمكن للمشاركين في السوق الحصول على المعلومات بشكل أسرع من ثلاثة أيام ونصف يوم يتحرك متوسط سعر التحويل من بلوكشين. ويمكن استخدام هذه المعلومات لفائدة التجار على حساب المجتمع. إذا كانت هناك زيادة مفاجئة في قيمة المتاجرين ل STEEM يمكنهم أن يطلبو تحويل SBD الخاص بهم إلى الأسعار المنخفظة، ومن ثم بيعون ستيم ويحصلون على سعر أعلى جديد مع الحد الأدنى من المخاطر.
 
-Steem levels the playing field by requiring all conversion requests to be delayed for three and a half days. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
+ستيم يتيح مستويات اللعب من خلال طلب جميع طلبات التحويل لتكون متأخرة لمدة ثلاثة أيام ونصف. وهذا يعني أنه لا التجار ولا بلوكشين لديه أي ميزة معلوماتية فيما يتعلق بالسعر في وقت تنفيذ التحويل.
 
-### Minimizing Abuse of Conversions
+### تقليل إساءة استخدام التحويلات
 
-If people could freely convert in both directions then traders could take advantage of the blockchains conversion rates by trading large volumes without changing the price. Traders who see a massive run up in price would convert to SBD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SBD to STEEM and not the other way around.
+إذا كان بإمكان الناس أن تحول بكل حرية في كلا الاتجاهين إذن التجار يمكنهم الاستفادة من معدلات التحويل بلوكشين من خلال تداول كميات كبيرة دون تغيير السعر. أما المتداولون الذين يشهدون ارتفاعا هائلا في السعر، فإنهم سيحولون إلى SBD بسعر مرتفع (عندما يكون أكثر خطورة) ثم يعيدون التحويل بعد التصحيح. بروتوكول ستيم يحمي المجتمع من هذا النوع من الاعتداء عن طريق السماح فقط للأشخاص بالتحويل من SBD إلى STEEM وليس العكس.
 
-The blockchain decides how and when to create SBD and who should get it. This keeps the rate of SBD creation stable and removes most avenues of abuse.
+بلوكشين يقرر كيف ومتى ينشئ SBD ومن الذي يجب ان يحصل عليه. هذا يحافظ على معدل إنشاء SBD مستقر ويزيل معظم سبل سوء المعاملة.
 
-### Sustainable Debt to Ownership Ratios
+### نسبة الدين المستدام إلى الملكية
 
-If a token is viewed as ownership in the whole supply of tokens, then a token-convertible-dollar can be viewed as debt. If the debt to ownership ratio gets too high the entire currency can become unstable. Debt conversions can dramatically increase the token supply, which in turn is sold on the market suppressing the price. Subsequent conversions require the issuance of even more tokens. Left unchecked the system can collapse leaving worthless ownership backing a mountain of debt. The higher the debt to ownership ratio becomes the less willing new investors are to bring capital to the table.
+إذا كان النظر إلى الرمزية على أنها ملكية في العرض الكامل من الرموز، إذن يمكن النظر إلى الرمزية القابلة للتحويل إلى دولار كدين. وإذا كانت نسبة الدين إلى الملكية مرتفعة جدا فإن العملة بأكملها يمكن أن تصبح غير مستقرة. تحويل الديون يمكن أن تزيد بشكل كبير من تزويد الرمزية، والتي تباع بدورها في السوق وتقمع السعر. تتطلب التحويلات اللاحقة إصدار المزيد من الرموز المميزة. Left unchecked the system can collapse leaving worthless ownership backing a mountain of debt. وكلما ارتفعت نسبة الدين إلى الملكية يصبح المستثمرون الجدد الأقل رغبة في جلب رأس المال إلى الجدول.
 
-A rapid change in the value of STEEM can dramatically change the debt-to-ownership ratio. The blockchain prevents the debt-to-ownership ratio from getting too high, by reducing the amount of STEEM awarded through SBD conversions if the debt level were to exceed 10%. If the amount of SBD debt ever exceeds 10% of the total STEEM market cap, the blockchain will automatically reduce the amount of STEEM generated through conversions to a maximum of 10% of the market cap. This ensures that the blockchain will never have higher than a 10% debt-to-ownership ratio.
+ويمكن أن يؤدي التغير السريع في قيمة النظام إلى تغيير كبير في نسبة الدين إلى الملكية. بلوكشين يمنع نسبة الدين إلى الملكية من الحصول على نسبة مرتفعة جدا،  وذلك بتخفيض مبلغ ستيم الممنوح من خلال تحويلات سبد إذا كان مستوى الدين يجب أن يتجاوز 10٪. إذا تجاوزت قيمة ديون SBD اكثر من 10% من إجمالي ذروة سوق ستيم، فإن بلوكشين سوف يقلل تلقائيا من كمية ستيم التي تم إنشائها من خلال التحويلات إلى حد أقصى قدره 10٪ من ذروة السوق. وهذا يضمن أن بلوكشين لن يكون أبدا أعلى من نسبة 10٪ من الدين إلى الملكية.
 
-The percentage floors used to compute STEEM creation are based on the supply including the STEEM value of all outstanding SBD and SP (as determined by the current rate / feed).
+وتستند النسب المئوية المستخدمة لحساب إنشاء STEEM تعتمد على الذحيرة بما في ذلك قيمة STEEM من مجموع SBD المعلقة و SP (على النحو الذي يحدده المعدل الحالي / التضحية).
 
-### Interest
+### المصالح
 
-SBD pays holders interest. The interest rate is set by the same people who publish the price feed so that it can adapt to changing market conditions. All debt carries risk to the lender. Someone who holds SBD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SBD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
+يدفع SBD مصلحة أصحابها. يتم تحديد سعر الفائدة من قبل نفس الأشخاص الذين ينشرون سعر الخدمة بحيث يمكن أن تتكيف مع ظروف السوق المتغيرة. جميع الديون تحمل مخاطر على المُقرض. اي شخص يحتكر على SBD دون تحريره هو حتما يعير قيمة الدولار للمجتمع. وهم يثقون بأن في مرحلة ما في المستقبل شخص ما سيكون على استعداد لشراء SBD منها مقابل الدولار   أو أنه سيكون هناك مضاربون ومستثمرون على استعداد لشراء STEEM الذي قامو بتحويله.
 
-STEEM and SP holders gain leverage when members of the community are willing to hold SBD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
+المحتكرون على STEEM و SP يكسبون النفوذ عندما يستعد أعضاء المجتمع لاحتكار سبد. وتزيد هذه النفوذ من مكاسب النمو في حين انها تساهم أيضا في النمو. ويعاني حاملو ستيم من زيادة التخفيف إذا انخفض السعر. وقد أظهرت مشاريع العملات الإفتراضية أن المكاسب من زيادة قاعدة المستخدمين على استعداد للوثوق فالشبكة مع إضافة رأس المال المزيد من القيمة للشبكة في نهاية المطاف من أي تخفيف قد يحدث خلال الإفلاس.
 
-### Setting Price Feeds
+### إعداد خلاصات الأسعار
 
-Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
+سيعرف قُرّاء Astute أن الأصول التي تحمل فائدة محدودة العرض قد تتداول أعلى أو أقل من الأصول الأساسية اعتمادا على فرص أخرى لكسب الفائدة على نفس الأصول. ومع ارتفاع سعر الفائدة المدفوع على أصل مربوط بالدولار الأمريكي، فإن الكثير من الناس سيقدمون عطاءات محدودة من ستيم دولار حتى لا يعودوا يُقدّرون بدولار واحد. في الاقتصاد هناك مبدأ يعرف الثالوث المستحيل [^4] الذي ينص على أنه من المستحيل أن يكون كل من الثلاثة التالية في نفس الوقت:
 
-1. A stable exchange rate
-2. Free capital movement
-3. An independent monetary policy
+1. سعر صرف مستقر
+2. حركة رأس المال الحرة
+3. سياسة نقدية مستقلة
 
-If Steem feed producers aim to have an independent monetary policy allowing it to create and destroy Steem Dollars while simultaneously having full control over the interest rate then they will encounter problems. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
+If Steem feed producers aim to have an independent monetary policy allowing it to create and destroy Steem Dollars while simultaneously having full control over the interest rate then they will encounter problems. يقول الثالوث المستحيل أن ستيم دولار إما يحتاج إلى تقييد حركة رأس المال،أو لديه سعر صرف غير مستقر مع الدولار، أو أن يكون له سيطرة محدودة على سعر الفائدة.
 
-The primary concern of Steem feed producers is to maintain a stable one-to-one conversion between SBD and the U.S. Dollar (USD). Any time SBD is consistently trading above $1.00 USD interest payments must be stopped. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SBD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
+إن الشاغل الرئيسي لمنتجي سعر ستيم هو الحفاظ على تحويل واحد لواحد بين SBD والدولار الأمريكي (USD). حينما يتم تداول سبد باستمرار فوق $ 1.00 دولار أمريكي يجب توقيف مدفوعات الفائدة. في سوق حيث تكون الفائدة 0٪ على الديون لا تزال تتطلب قسط، فمن الآمن أن نقول أن السوق على استعداد لتقديم المزيد من الديون أكثر من الديون التي يرغب المجتمع في اتخاذها. إذا حدث هذا سوف يتم تقييم قيمة سبد بأكثر من 1.00 دولار، وهناك القليل ليتمكن المجتمع للقيام به دون فرض أسعار الفائدة السلبية.
 
 If the debt-to-ownership ratio is low and SBD is trading for less than $1.00, then the interest rate should be increased. This will encourage more people to hold their SBD and support the price.
 
-If SBD trades for less than $1.00 USD and the debt-to-ownership ratio is high, then the feeds should be adjusted upward give more STEEM per SBD. This will increase demand for SBD while also reducing the debt-to-ownership ratio and returning SBD to parity with USD.
+إذا كانت تداولات سبد أقل من 1 دولار أمريكي ونسبة الدين إلى الملكية مرتفعة، عندئذ يجب تعديل الاسعار صعودا لإعطاء المزيد من ستيم لكل سبد. وسيؤدي ذلك إلى زيادة الطلب على شركة تنمية المنشآت الصغيرة مع تخفيض نسبة الدين إلى الملكية والعودة إلى مؤسسة التنمية الاجتماعية إلى التعادل مع الدولار الأمريكي.
 
-Assuming the value of STEEM is growing faster than Steem is creating new SBD, the debt-to-ownership ratio should remain under the target ratio and the interest offered benefits everyone. If the value of the network is flat or falling, then any interest offered will only make the debt-to-ownership ratio worse.
+على افتراض أن قيمة STEEM تنمو بشكل أسرع من إنشاء ستيم ل SBD جديد، نسبة الديون إلى الملكية يجب أن تبقى تحت النسبة المستهدفة و الفوائد المقدمة للجميع. إذا كانت قيمة الشبكة مستوية أو منحدرة، فإن أي فائدة من شأنها أن تجعل فقط نسبة الديون إلى الملكية أسوأ.
 
 In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
 
@@ -162,25 +162,25 @@ Changes to the interest rate policy and/or any premiums/discounts on the STEEM/S
 
 It is our belief that these rules will give market participants confidence that they are unlikely lose money by holding SBD purchased at a price of $1.00. We fully expect there to be a narrow trading range between $0.95 and $1.05 for SBD under normal market conditions.
 
-## Subjective Contributions
+## المساهمات الذاتية
 
-Subjective Proof of Work presents an alternative approach to distributing a currency that improves upon fully *objective* Proof of Work systems such as mining. The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
+ويقدم الدليل الشخصي على العمل نهجا بديلا لتوزيع عملة تتحسن بشكل كامل *الهدف* أنظمة إثبات العمل مثل التعدين. إن تطبيقات إثبات عمل *شخصي* هي أوسع بكثير من أي دليل *موضوعي* على نظام العمل لأنه يمكن تطبيقه لبناء مجتمع حول أي مفهوم لديه هدف محدد بما فيه الكفاية. عندما ينضم الأفراد إلى مجتمع اشتروه في مجموعة معينة من المعتقدات ويمكنهم التصويت لتعزيز قيم المجتمع أو الغرض منه.
 
-In effect, the criteria by which work is evaluated is completely subjective and its definition lives outside the source code itself. One community may wish to reward artists, another poets, and another comedians. Other communities may choose to reward charitable causes or help advance political agendas.
+وفي الواقع، المعايير التي يتم من خلالها تقييم العمل  هي موضوعية تماما ويعيش تعريفها خارج شفرة المصدر نفسها. قد يرغب أحد المجتمعات في مكافأة الفنانين والشعراء الآخرين وغيرهم من الكوميديين. وقد تختار مجتمعات أخرى أن تكافئ القضايا الخيرية أو تساعد على التقدم في جداول الأعمال السياسية.
 
-The value each currency achieves depends upon the demand for influence within a particular community and how large the market believes each community can get. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
+وتعتمد القيمة التي تحققها كل عملة على الطلب على النفوذ داخل مجتمع معين ومدى أهمية السوق التي يمكن لكل مجتمع الحصول عليه. وخلافا للأنظمة السابقة، فإن الدليل الشخصي على العمل يمكن المجتمع المحلي من تمويل تنمية كل ما يجده من قيمة ويتيح تحقيق الدخل من وقت غير قابل للاستثمار في السابق.
 
-### Distributing Currency
+### توزيع العملة
 
-There are two ways people can get involved with a crypto-currency community: they can *buy in*, or they can *work in*. In both cases users are adding value to the currency, however, the vast majority of people have more *free time* than they do *spare cash*. Imagine the goal of bootstrapping a currency in a poor community with no actual *cash* but plenty of *time*. If people can earn money by working for one another then they will bootstrap value through mutual exchange facilitated by a fair accounting/currency system.
+هناك طريقتان يمكن للناس أن يتورطوا مع مجتمع العملات الإفتراضية: *يمكنهم الشراء فيها*، *أو يمكنهم العمل فيها*. في كلتا الحالتين يضيف المستخدمون قيمة للعملة، ومع ذلك، فإن الغالبية العظمى من الناس لديهم *وقت فراغ* أكثر من * إحتياطهم للنقود*. تخيل هدف تمهيد عملة في مجتمع فقير بدون أي * نقدية فعلية * ولكن هناك الكثير من * الوقت *. إذا كان يمكن للناس كسب المال عن طريق العمل لبعضهم البعض ثم يمهدون القيمة من خلال تبادل مشترك يسهله نظام عادل للمحاسبة / العملة.
 
-Distributing a currency to as many people as possible in a manner that is generally perceived as fair is a challenging task. The tasks that can be entirely evaluated by an objective computer algorithm are limited in nature and generally speaking have limited positive external benefits. In the case of Bitcoin-style mining, it can result in the production of specialized hardware and cause people to invest time developing more efficient algorithms. It may even help find prime numbers, but none of these things provide meaningful value to society or the currency holding community at large. More importantly, economies of scale and market forces will end up excluding everyone but experts from participating in this kind of distribution. Ultimately, computation-based mining is just another way of *buying in* because it requires money to pay the electric bill or the development of hardware necessary to do the work.
+إن توزيع العملة على أكبر عدد ممكن من الناس بطريقة تعتبر عموما عادلة مهمة صعبة. المهام التي يمكن تقييمها بالكامل من قبل خوارزمية الكمبيوتر موضوعية محدودة في الطبيعة وعموما لها فوائد خارجية إيجابية محدودة. في حالة التعدين على غرار بيتكوين، فإنه يمكن أن يؤدي إلى إنتاج الأجهزة المتخصصة ويجبر الناس على استثمار الوقت في تطوير خوارزميات أكثر كفاءة. بل قد تساعد في العثور على أعداد أولية، ولكن أيا من هذه الأمور توفر قيمة ذات مغزى للمجتمع أو مجتمع عقد العملة ككل. والأهم من ذلك أن وفورات الحجم وقوى السوق ستنتهي في نهاية المطاف باستثناء الجميع ولكن الخبراء من المشاركة في هذا النوع من التوزيع. في نهاية المطاف، التعدين القائم على حساب هو مجرد وسيلة أخرى * للشراء * لأنه يتطلب المال لدفع فاتورة الكهرباء أو تطوير الأجهزة اللازمة للقيام بهذا العمل.
 
-In order to give everyone an equal opportunity to get involved and earn the currency people must be given an opportunity to work. The challenge is how to judge the relative quality and quantity of work that individuals provide and to do so in a way that efficiently allocates rewards to millions of users. This requires the introduction of a scalable voting process. In particular it requires that authority to allocate funds must be as distributed and decentralized as possible.
+من أجل إعطاء الجميع فرصة متساوية للانخراط وكسب العملة يجب إعطاء الناس فرصة للعمل. ويتمثل التحدي في كيفية الحكم على النوعية والكمية النسبيتين للعمل الذي يقدمه الأفراد والقيام بذلك بطريقة تخصص المكافآت لملايين المستعملين. ويتطلب ذلك إدخال عملية تصويت قابلة للتوسيع. وتتطلب على وجه الخصوص أن تكون سلطة تخصيص الأموال موزعة ولا مركزية بقدر الإمكان.
 
-The first step in rewarding millions of users is to commit to distributing a fixed amount of currency regardless of how much work is actually done or how users vote. This changes the question from being *“Should we pay?”* to *“Whom should we pay?”* and signals to the market that money is being distributed and is being auctioned off to whoever “bids” the most *work*. This is similar to Bitcoin committing to award 50 BTC to whoever finds the most difficult hashes. Like Bitcoin, all work must be done prior-to payout and nothing should be paid speculatively on the promise to do work in the future.
+الخطوة الأولى في مكافأة الملايين من المستخدمين هي الالتزام بتوزيع مبلغ ثابت من العملة بغض النظر عن مقدار العمل الذي يتم القيام به بالفعل أو كيفية تصويت المستخدمين. وهذا ما يغير السؤال من كونه * "هل يجب أن ندفع؟" * إلى * "من يجب أن ندفع؟" * وإشارات إلى السوق التي يتم توزيع الأموال ويجري بيعها بالمزاد العلني كل من "يعين" أكثر * عمل *. هذا مماثل ل بيتكوين الملتزم بمنح 50 بتكوين لمن يجد تجزئة أصعب. مثل بيتكوين، يجب أن يتم كل العمل قبل دفع تعويضات، ولا شيء ينبغي أن تدفع على وعد للقيام بعمل في المستقبل.
 
-The next step is to reward everyone who does anything even remotely positive with *something*. This is accomplished by ranking all work done and distributing proportionally to its value. The more competitive the market becomes, the more difficult (higher quality or quantity) it becomes to earn the same payout.
+الخطوة التالية هي مكافأة كل من يفعل أي شيء حتى ولو كان بعيد المدى إيجابيا* بشيء*. ويتم ذلك عن طريق ترتيب جميع الأعمال المنجزة وتوزيعها بالتناسب مع قيمتها. كلما أصبح السوق أكثر تنافسية، كلما زادت الصعوبة (الجودة العالية أو الكمية) يكسب نفس العائد.
 
 ### Voting on Distribution of Currency
 

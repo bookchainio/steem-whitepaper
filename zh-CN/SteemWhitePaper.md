@@ -38,121 +38,121 @@ Steem 社区向其成员提供以下服务：
 
 ## 认证贡献
 
-Steem是一个为彻底解决社交媒体经济的应用与其货币化问题而设计的解决方案。 我们的观点是用于帮助主要社交媒体成长的技术同样也适用于一个成功的加密货币。 由加密货币作为载体的激励措施可以极大地促进新兴社交媒体的发展。 It is the synergy between cryptocurrency and social media that we believe may give Steem a powerful advantage in the market.
+Steem是一个为彻底解决社交媒体经济的应用与其货币化问题而设计的解决方案。 我们的观点是用于帮助主要社交媒体成长的技术同样也适用于一个成功的加密货币。 由加密货币作为载体的激励措施可以极大地促进新兴社交媒体的发展。 我们相信加密货币和社会媒体之间的协同作用会给Steem在市场上带来强大的优势。
 
-The challenge faced by Steem is deriving an algorithm for scoring individual contributions that most community members consider to be a fair assessment of the subjective value of each contribution. In a perfect world, community members would cooperate to rate each other's contribution and derive a fair compensation. In the real world, algorithms must be designed in such a manner that they are resistant to intentional manipulation for profit. Any widespread abuse of the scoring system could cause community members to lose faith in the perceived fairness of the economic system.
+Steem所面临的挑战是推导出一个大多数社区成员认为公平的算法根据每个贡献的主观价值来评分每个人的贡献。 在一个完美的世界里, 社区成员将相互合作, 对其他成员的贡献进行评分, 并获得公平的补偿。 在现实世界中, 算法必须设计的使它们能够抵抗有意的利润操纵。 任何对评分系统的广泛滥用都可能导致社区成员对经济体系的公平性失去信心。
 
-Existing platforms operate on a one-user, one-vote principle. This creates an environment where rankings can be manipulated by sybil attacks and the service providers must pro-actively identify and block abusers. People already attempt to manipulate the Reddit, Facebook, and Twitter scoring algorithms when the only reward is web traffic or censorship.
+现有的平台以单用户、一票原则运作。 这就创造了一个排名可以由Sybil攻击操纵, 服务提供者必须主动识别和阻止滥用的环境。 当唯一的回报是网络流量或审查时，人们已经试图操纵 Reddit, Facebook 和 Twitter 的评分算法。
 
-The fundamental unit of account on the Steem platform is STEEM, a crypto currency token. Steem operates on the basis of one-STEEM, one-vote. Under this model, individuals who have contributed the most to the platform, as measured by their account balance, have the most influence over how contributions are scored. Furthermore, Steem only allows members to vote with STEEM when it is committed to a vesting schedule. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
+Steem平台上的基本帐户单元是STEEM, 一种加密货币令牌。 Steem在一STEEM一票的基础上运作。 在这个模型下, 那些对平台贡献最大，账户余額最多的人, 对内容贡献的评分有最大份额的影响。 此外, 只有STEEM在一个投资计划中，Steem才允许用户用它来投票。 在这种模式下, 成员们会被激励而用把STEEM币长期价值最大化的方式来投票 。
 
-Steem is designed around a relatively simple concept: *everyone’s meaningful contribution to the community should be recognized for the value it adds.* When people are recognized for their meaningful contributions, they continue contributing and the community grows. Any imbalance in the give and take within a community is unsustainable. Eventually the givers grow tired of supporting the takers and disengage from the community.
+Steem是围绕一个相对简单的概念设计的: * 每个人对社区的有意义的贡献所增加的价值都应该被认可。*当人们被认可为他们的有意义的贡献, 他们继续贡献并促进社区增长。 在社区内给予和索取的任何不平衡都是不可持续的。 给予者最终会厌倦支持接受者并脱离社区。
 
-The challenge is creating a system capable of identifying what contributions are needed and their relative worth in a way that can scale to an unbounded number of people.
+面临的挑战是建立一个系统, 能够确定哪些贡献是需要的, 并且它们的相对价值可以扩展到无限多的人。
 
-A proven system for evaluating and rewarding contributions is the free market. The free market can be viewed as a single community where everyone trades with one another and rewards are allocated by profit and loss. The market system rewards those who provide value to others and punishes those who consume more value than they produce. The free market supports many different currencies and money is simply a commodity that everyone finds easy to exchange.
+一个行之有效的评估和奖励贡献的系统就是自由市场。 自由市场可以被看作是一个每个人都互相交易, 奖励是由利润和损失分配的单一的社会。 市场体系奖励那些为他人提供价值的人, 并惩罚那些消耗比他们生产的价值更多的人。 自由市场支持许多不同的货币, 货币仅仅是一个人人都能轻易交易的商品。
 
-Since the free market is a proven system, it is tempting to try to create a free-market system where content consumers directly pay content producers. However, direct payment is inefficient and not really viable for content creation and curation. The value of most content is so low relative to the cognitive, financial, and opportunity costs associated with making a payment that few readers choose to tip. The abundance of free alternatives means that enforcing a ‘paywall’ will drive readers elsewhere. There have been several attempts to implement per-article micropayments from readers to authors, but none have become widespread.
+由于自由市场是一个行之有效的体系, 所以建立一个自由市场体系, 让内容消费者直接向内容生产者付费是很诱人的。 然而, 直接支付是低效的，对于内容创建和点赞并不真正可行。 大多数内容的价值相对于支付的认知、财务和机会成本是如此之低, 很少有读者选择付小费。 大量的自由选择意味着强制执行 "收费" 将推动读者到别处。 有过几个读者给作者的每篇文章小额支付尝试，但没有一个被普及。
 
-Steem is designed to enable effective micropayments for all kinds of contribution by changing the economic equation. Readers no longer have to decide whether or not they want to pay someone from their own pocket, instead they can vote content up or down and Steem will use their votes to determine individual rewards. This means that people are given a familiar and widely used interface and no longer face the cognitive, financial, and opportunity costs associated traditional micropayment and tipping platforms.
+Steem的设计是通过改变经济方程式来实现对各种贡献的有效的小额支付。 读者不再需要决定他们是否愿意从自己的口袋里掏钱，而是可以通过好评和差评投票，由Steem根据他们的投票来决定个人的报酬。 这意味着人们被赋予了一个熟悉和广泛使用的界面,，并且不再面对跟传统的小额支付和小费平台相关的认知、财务和机会成本。
 
-Voting input from community members is critical for Steem to accurately allocate payments to contributors. Voting can therefore be viewed as a crucial contribution and worthy of rewards on its own. Some platforms, such as Slashdot, use meta-moderation[^3] as a way to rank and reward honest moderators. Steem chooses to reward those who contribute the most to the total promotion of a piece of content and rewards the voters proportional to the ultimate reward paid to the content creator.
+来自社区成员的投票输入对于Steem准确地分配给参与者的奖励是至关重要的。 因此，投票可以被看作是一个关键的贡献，并值得被奖励。 某些平台，比如 Slashdot，使用 meta-moderation [^3] 作为排序和奖励诚实的评判者的方法。 Steem选择奖励那些对某项内容的宣传贡献最大的成员，并且对投票者的奖励与内容创造者的最终报酬成正比。
 
-# Ways to Contribute
+# 如何参与贡献
 
-This section outlines the ideas behind Steem and its rewards for people who provide meaningful and measurable contributions to the Steem community.
+本节概述了Steem背后的想法及其对为Steem社区提供有意义和可衡量的贡献的人的奖励。
 
-## Capital Contributions
+## 资本贡献
 
-There are two items a community can offer to attract capital: debt and ownership. Those who buy ownership profit when the community grows but lose if the community shrinks. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
+社区可以提供两个项目来吸引资金: 债务和所有权。 那些购买所有权的人在社区增长时会获利，社区收缩时会受损。 那些购买债务的人得到了一定的利息，但却不能参与社会增长所实现的任何利润。 这两种类型的资本捐助对社区的增长和货币的价值都是有价值的。 此外, 还有两种方法可以持有所有权：流动和股权。 股权是一个长期的承诺，不能在最短的时间内出售。
 
-The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SBD).
+Steem网络把这些不同的资产类别称为Steem (STEEM)、Steem能量 (SP) 和Steem美元 (SBD)。
 
 ## Steem (STEEM)
 
-Steem is the fundamental unit of account on the Steem blockchain. All other tokens derive their value from the value of STEEM. STEEM is a liquid currency, and therefore can be bought or sold on exchanges, as well as transferred to other users as a form of payment.
+Steem是账户在Steem区块链的基础单位。 所有其他代币都从STEEM的价值派生出来。 STEEM是一种流动性货币，因此可以在交易所买卖，也可作为支付方式转给其他用户。
 
-## Steem Power (SP)
+## Steem能量(SP)
 
-Start up companies require long-term capital commitment. Those who invest their money in a startup expect to wait years before they can sell their shares and realize their profits. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
+初创公司需要长期的资本承诺。 那些把资金投资在初创公司的人预计要等上几年才能卖掉自己的股票并实现自己的利润。 如果没有长期的承诺，一个试图通过出售额外股票融资的初创企业将与希望退出的现有股东产生竞争。 精明的投资者希望他们的资本贡献使公司成长。但如果新资本被给予那些希望退出的人，增长就不可能实现。
 
-There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
+长期承诺可以使社区能够制定长期计划，因此具有重要价值。 利益相关者的长期承诺也会让他们投票支持长期增长，而不是短期暴发。
 
-In the cryptocurrency space, speculators jump from cryptocurrency to cryptocurrency based mostly on which one is expected to have short-term growth. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
+在加密货币的领域中，投机者从一种加密货币到另外一种加密货币的跳转主要基于哪一种会有预计的短期增长。 Steem希望建立一个主要被具有长远眼光的人拥有和控制的社区。
 
-Users are able to commit their STEEM to a thirteen week vesting schedule, providing them with additional benefits within the platform. STEEM that has been committed to a thirteen week vesting schedule is called Steem Power (SP). SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
+用户可以通过将他们的STEEM提交到十三周的归属计划中，从而在平台中得到额外利益。 已经提交到十三周归属计划中的STEEM被称为Steem能量(SP)。 除非通过自动重复的转换请求，SP余额是不可转让和不可分割的。 这意味着SP不能轻易地在加密货币交易所交易。
 
-When users vote on content, their influence over the distribution of the rewards pool is directly proportional to the amount of SP that they have. Users with more SP have more influence on the distribution of rewards. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
+当用户对内容进行投票时，他们对奖励池分配的影响与他们拥有的SP数量成正比。 拥有更多SP的用户对奖励的分配有更多的影响。 这意味着SP是在Steem平台中授予其持有者独占权利的访问代币。
 
-SP holders are also paid interest on the balance of SP that remains vested. 15% of the yearly inflation is paid to SP holders as interest. The amount of the interest that they receive is directly proportional to the amount of SP they hold relative to the total amount of vested SP across all users.
+SP持有人还得到归属SP余额的利息。 15%的年通货膨胀被用于支付利息给SP所有者。 他们所获得的利息金额与其持有的SP相对于所有用户归属SP总量所占份额成正比。
 
-Transferring from STEEM to SP is referred to as “powering up”, while transferring from SP to STEEM is referred to as “powering down.” SP that is powered down is returned to the user over a period of thirteen weeks, via 13 equal weekly payments, starting one week after the power down is initiated.
+把STEEM转移到SP被称为“增加能量”，而从SP转移到STEEM被称为“降低能量”。能量降低的SP将在十三周的时间每周等量地被返还给用户。返还从降低能量启动的一周以后开始。
 
-## Steem Dollars (SBD)
+## Steem美元(SBD)
 
-Stability is an important feature of successful global economies. Without stability, individuals across the world could not have low cognitive costs while engaging in commerce and savings. Because stability is an important feature of successful economies, Steem Dollars were designed as an attempt to bring stability to the world of cryptocurrency and to the individuals who use the Steem network.
+稳定是成功的全球经济的一个重要特征。 没有稳定，世界各地的个体将不能在从事商业和储蓄时有低的认知成本。 由于稳定是成功经济的一个重要特征，Steem美元的设计是为了给加密货币世界和使用Steem网络的人带来稳定。
 
-Steem Dollars are created by a mechanism similar to convertible notes, which are often used to fund startups. In the startup world, convertible notes are short-term debt instruments that can be converted to ownership at a rate determined in the future, typically during a future funding round. A blockchain based token can be viewed as ownership in the community whereas a convertible note can be viewed as a debt denominated in any other commodity or currency. The terms of the convertible note allow the holder to convert to the backing token with a minimum notice at the fair market price of the token. Creating token-convertible-dollars enables blockchains to grow their network effect while maximizing the return for token holders.
+Steem美元是根据类似于可转换债券的机制创建。这种机制常被用于为初创企业提供资金。 在初创企业的世界里，可转换证券是短期证券工具，通常在未来的融资回合可以按照比例转换成所有权。 基于区块链的代币可以被看作是社区的所有权，而可转换证券可以被看作是以任何其他商品或货币计价的债务。 可转换证券的条款允许持有人短时间内以市场公平的代币价格将其转换到支持代币。 创建代币可转换美元使区块链能够在最大化代币持有者回报的同时增加他们的网络效果。
 
-Steem Dollars are referred to with the symbol SBD, an acronym for Steem Blockchain Dollars. Creating SBD requires a combination of a reliable price feed, and rules to prevent abuse. Providing a reliable price feed involves three factors: minimizing the impact of an incorrect feed, maximizing the cost of producing an incorrect feed, and minimizing the importance of timing.
+Steem美元的符号是SBD，即Steem Blockchain Dollor (Steem区块链美元)的缩写。 创建SBD需要一个可靠的喂价和防止滥用的规则。 提供可靠喂价涉及三因素：减少不正确喂价的影响，最大化产生不正确喂价的成本，和最小化定时的重要性。
 
-### Minimizing Fraudulent Feeds
+### 最小化欺馈送
 
-SP holders elect individuals, called witnesses, to publish price feeds. The elected witnesses are presumably trusted by those who have a vested interest in the quality of the feed. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
+SP持有人选举的个人，作为见证人，公布喂价。 可以认为喂价质量的既得利益者信任被选出的见证人。 通过向当选者支付费用，Steem创造了市场竞争以取得喂价的的权利。 喂价创造者获得的报酬越多，他们发布虚假信息的损失就越多。
 
-Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
+给定一组被信任和当选的喂价创造者，用于转换的实际价格可以衍生为喂价中位数。 这样，如果任何少数的个体喂价创造者产生的异常对实际中位数的影响最小，同时还会影响他们的声誉。
 
-Even if all feed producers are honest, it is possible for the majority of feed producers to be impacted by events beyond their control. The Steem network is designed to tolerate short-term corruption of the median price feed while the community actively works to correct the issue. One example of an issue that may take some time to correct is short-term market manipulation. Market manipulation is difficult and expensive to maintain for long periods of time. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
+即使所有喂价创造者都是诚实的，也可能大多数喂价创造者会被他们无法控制的事件影响。 Steem网络的设计是为了在社区积极工作修正问题时容忍短期喂价中位数的损坏。 一个可以通过一些时间来纠正问题的例子是短期市场操纵。 长期的市场操纵是困难和昂贵的。 另一个例子是中央交易所的失败，或交易所公布的数据的损坏。
 
-Steem factors out short-term price fluctuations by using the median price over a period of three and a half days. The median published feed is sampled every hour on the hour.
+Steem使用三天半时间的中位数价格来抵消价格波动。发表的喂价中位数每小时取样一次。
 
-As long as the price feed corruption lasts for less than half the moving median time window it will have minimal impact on the conversion price. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
+只要喂价损坏持续不到一半的中位数时间窗口，它将对转换价格的影响将会很小。 如果喂价被损坏，网络参与者将有机会在损坏的喂价对实际转换价格产生影响前投票剔除损坏喂价创造者。 也许更重要的是，它给喂价创造者机会去探测并且在他们的喂价对价格产生影响前纠正问题。
 
-With a three and a half day window, community members have approximately one and a half days to respond to any issues that come up.
+有了三天半的窗口，社区成员就会有大约一天半的时间来回应任何问题。
 
-### Mitigating Timing Attacks
+### 缓解计时攻击
 
-Market participants have access to information faster than the blockchain’s three and a half day moving median conversion price can react. This information could be used to benefit of traders at the expense of the community. If there is a sudden increase in the value of STEEM traders could request conversion of their SBD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
+市场参与者获得信息的速度超过区块链三天半的移动中值转换价格的反应。 这些信息可以被交易者以牺牲社区利益的方式获利。 如果STEEM价格忽然增加，交易者可以用旧的便宜的价格请求转换他们的SBD，然后再以最小的风险用较高的新价格卖掉他们的STEEM。
 
-Steem levels the playing field by requiring all conversion requests to be delayed for three and a half days. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
+Steem要求所有的转换请求延迟三天半以平衡场地。 这意味着无论是交易者还是区块链在执行转换时都没有价格方面的任何信息优势。
 
-### Minimizing Abuse of Conversions
+### 减少转换滥用
 
-If people could freely convert in both directions then traders could take advantage of the blockchains conversion rates by trading large volumes without changing the price. Traders who see a massive run up in price would convert to SBD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SBD to STEEM and not the other way around.
+如果人们可以在两个方向自由转换，那么交易者可以通过不改变价格的大额交易获取比区块链更多的优势。 交易员看到了大的价格上涨会以高价转换为SBD(在风险最高的时候)然后在回调时转换回来。 Steem协议保护社区免受这种只允许人们从SBD转换到Steem，而不能反向进行的损害。
 
-The blockchain decides how and when to create SBD and who should get it. This keeps the rate of SBD creation stable and removes most avenues of abuse.
+区块链决定如何和何时产生SBD以及谁应该得到它。这使SBD创造的速度保持稳定，并消除了大多数滥用的途径。
 
-### Sustainable Debt to Ownership Ratios
+### 可持续债务与所有权比率
 
-If a token is viewed as ownership in the whole supply of tokens, then a token-convertible-dollar can be viewed as debt. If the debt to ownership ratio gets too high the entire currency can become unstable. Debt conversions can dramatically increase the token supply, which in turn is sold on the market suppressing the price. Subsequent conversions require the issuance of even more tokens. Left unchecked the system can collapse leaving worthless ownership backing a mountain of debt. The higher the debt to ownership ratio becomes the less willing new investors are to bring capital to the table.
+如果一个代币被看作是整个代币供应中的所有权，那么一个可转换美元的代币可以被看作是债务。 如果债务对所有权比率过高，整个货币就会变得不稳定。 债务转换可以大幅增加代币供应，而这反过来又会在市场上出售从而压抑价格。 随后的转换需要发行更多的代币。 如果不受控制，系统会崩溃并留下堆积如山的债务所背书的毫无价值的所有权。 债务与所有权比率越高，新的投资者就越不愿意投资。
 
-A rapid change in the value of STEEM can dramatically change the debt-to-ownership ratio. The blockchain prevents the debt-to-ownership ratio from getting too high, by reducing the amount of STEEM awarded through SBD conversions if the debt level were to exceed 10%. If the amount of SBD debt ever exceeds 10% of the total STEEM market cap, the blockchain will automatically reduce the amount of STEEM generated through conversions to a maximum of 10% of the market cap. This ensures that the blockchain will never have higher than a 10% debt-to-ownership ratio.
+STEEM价值的迅速变化可以显著地改变债务与所有权比率。 如果负债率超高10%，通过减少SBD转换到STEEM奖励的总数，区块链防止债务与所有权比率变得过高。 如果SBD债务总数超过STEEM总市值的10%，那么区块链将自动减少通过转换而产生的STEEM总数到最多为市值的10%。 这确保了区块链将永远不会有高于10%的债务与所有权比率。
 
-The percentage floors used to compute STEEM creation are based on the supply including the STEEM value of all outstanding SBD and SP (as determined by the current rate / feed).
+用于计算STEEM创建的百分比层是基于包括所有未付SBD和SP(由当前比率／喂价决定)的STEEM价值的供应。
 
-### Interest
+### 利率
 
-SBD pays holders interest. The interest rate is set by the same people who publish the price feed so that it can adapt to changing market conditions. All debt carries risk to the lender. Someone who holds SBD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SBD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
+SBD支付持有人利息。 利率由公布喂价的人设定，从而能适应不断变化的市场条件。 所有的债务都会给贷方带来风险。 未兑换SBD的持有者实际上是在向社区放贷一美元的价值。 他们相信将来有人会愿意从他们那里以一美元购买SBD，或者会有投机者和投资者愿意购买他们转换成的STEEM。
 
-STEEM and SP holders gain leverage when members of the community are willing to hold SBD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
+当社区成员愿意持有SBD时，STEEM和SP持有者就会获得杠杆。 这种杠杆放大了增长带来的收益同时也促进了增长。 如果价格下跌，STEEM持有者会受到更大的稀释。 加密货币项目显示增加愿意以资产信任网络的用户群比在经济低迷时期稀释给网络增加更多的价值。
 
-### Setting Price Feeds
+### 设置喂价
 
-Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
+聪明的读者会认识到，受限供应资产的利息可能会比标的资产更高或更低，这取决于在同一资产上赚取利息的其他机会。 由于在一项绑定美元的资产上支付了高利率，许多人将会抬高有限供应的Steem美元的价格，直到他们不再价值1美元。 在经济学中有一个原理，称为不可能的三位一体 [^4]。它指出不可能同时拥有以下所有三的内容:
 
-1. A stable exchange rate
-2. Free capital movement
-3. An independent monetary policy
+1. 稳定的汇率
+2. 自由资本移动
+3. 独立的货币政策
 
-If Steem feed producers aim to have an independent monetary policy allowing it to create and destroy Steem Dollars while simultaneously having full control over the interest rate then they will encounter problems. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
+如果Steem喂价创造者的目标是有一个独立的货币政策，允许它创造和销毁Steem美元同时完全控制利率，那么他们将遇到问题。 不可能的三位一体原理说，Steem美元要么需要限制资本流动，要么与美元的汇率不稳定，要么对利率控制有限。
 
-The primary concern of Steem feed producers is to maintain a stable one-to-one conversion between SBD and the U.S. Dollar (USD). Any time SBD is consistently trading above $1.00 USD interest payments must be stopped. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SBD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
+Steem喂价创造者的主要关注是保持SBD和美元 (USD) 之间稳定的一对一转换。 任何时候SBD持续交易超过1.00 美元的利息付款必须停止。 在一个0%的债务利息仍然需要溢价的市场上，可以安全地说，市场愿意扩大信贷超过社区愿意承担的债务。 如果发生这种情况，SBD 的估值将超过1.00 美元，而在不收取负利率的情况下社区可以做的很少。
 
-If the debt-to-ownership ratio is low and SBD is trading for less than $1.00, then the interest rate should be increased. This will encourage more people to hold their SBD and support the price.
+如果债务对所有权比率较低，而SBD的交易价格少于$1.00，则应增加利率。这将鼓励更多的人持有他们的SBD并支撑价格。
 
-If SBD trades for less than $1.00 USD and the debt-to-ownership ratio is high, then the feeds should be adjusted upward give more STEEM per SBD. This will increase demand for SBD while also reducing the debt-to-ownership ratio and returning SBD to parity with USD.
+如果SBD交易价少于$1.00，并且债务对所有权比率高，则喂价应该向上调整每SBD给更多Steem。 这将增加对SBD的需求，同时也减少了债务对所有权比率，并使SBD与美元的比价下降。
 
-Assuming the value of STEEM is growing faster than Steem is creating new SBD, the debt-to-ownership ratio should remain under the target ratio and the interest offered benefits everyone. If the value of the network is flat or falling, then any interest offered will only make the debt-to-ownership ratio worse.
+假设STEEM的价值增长快于Steem创造新的SBD，债务对所有权比率应该保持在目标比率之下，并且利息为大家提供好处。 如果网络的价值是平的或下降的，任何利息的提供只会使债务对所有权比率变得更糟。
 
 In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
 
@@ -435,7 +435,7 @@ For the first 2 years of Bitcoin’s life the network sustained an annual inflat
 
 The price of a digital commodity, like STEEM, is driven by both supply and demand. When a long-term holder decides to exit, the supply of STEEM on the market will increase and push the price down. This downward pressure is countered when a new long-term holder decides to buy up the STEEM and convert it back into SP. Additional supply and demand may be be added due to market speculators buying and selling liquid STEEM based on their predictions of the future market price.
 
-# The Power of Steem
+# Steem的能量
 
 Steem recognizes that the value of all user contributions (posts and votes) is greater than the sum of the parts. A single comment is worth next to nothing, but millions of curated posts is worth many millions (or possibly even billions) of dollars. A single vote provides little curation value, but billions of votes is very effective curation. Content without curation is of limited value. Given all the content of the Internet minus the links between it, Google would struggle to produce useful search results. It is the links between information that give it significant value.
 
@@ -461,7 +461,7 @@ Under Steem, micropayments are paid to content producer, but those who vote for 
 
 Furthemore, Steem pays people to figure out who should be paid! This kind of thinking is revolutionary.
 
-## Value is in the Links
+## 价值在链接中
 
 The Internet would lose the vast majority of its value if all links among content were removed. It is the relationship among web pages that allows Google to identify the best apple pie recipe among the 16 million results. Without the links the only information Google would have is word frequency.
 

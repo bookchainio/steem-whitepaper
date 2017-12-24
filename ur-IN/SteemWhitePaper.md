@@ -1,4 +1,4 @@
-# Steem
+# سٹیم
 
 ## An incentivized, blockchain-based, public content platform.
 
