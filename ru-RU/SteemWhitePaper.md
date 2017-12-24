@@ -8,7 +8,7 @@
 
 Уважаемые читатели! В этом документе изложены основы организации и работы социально-экономической платформы Steem. Здесь можно найти ответы на многие вопросы о том что, почему, зачем, и каким образом происходит на Steem блокчейне.   
   
-Перевод осуществлен совместными усилиями \[@testz\](https://steemit.com/@testz), \[@dima-rusteemitblog\](https://steemit.com/@rusteemitblog) и \[@erikaflynn\](https://steemit.com/@erikaflynn). За основу взята \[версия перевода\](https://steemit.com/ru/@hipster/bumaga-pro-stim-chast-1) от \[@hipster\](https://steemit.com/@hipster). Вычитка, корректура и адаптация - \[@erikaflynn\](https://steemit.com/@erikaflynn).   
+Перевод осуществлен совместными усилиями @testz, @dima-rusteemitblog (@rusteemitblog) и @erikaflynn. За основу взята версия перевода от @hipster - https://steemit.com/ru/@hipster/bumaga-pro-stim-chast-1. Вычитка, корректура и адаптация - @erikaflynn, https://steemit.com/@erikaflynn.   
   
 В случае обнаружения ошибок или несоответствия текста оригиналу, сообщайте - исправим.
 
