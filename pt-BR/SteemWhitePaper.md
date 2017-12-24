@@ -104,9 +104,9 @@ Dado um conjunto de produtores de indicadores confiáveis e eleitos, o preço re
 
 Mesmo que todos os produtores de indicadores sejam honestos, é possível que a maioria dos feeds sejam impactados por eventos além do seu controle. A rede Steem é projetada para tolerar corrupção de curto prazo do preço da mediana do indicador enquanto a comunidade trabalha ativamente para corrigir o problema. Um exemplo de um problema que pode levar algum tempo para ser corrigido é a manipulação de mercado a curto prazo. Manipulação de mercado é difícil e caro de manter por longos períodos de tempo. Outro exemplo seria a falha de bolsa centralizada ou o corrompimento de dados publicados na bolsa.
 
-Steem factors out short-term price fluctuations by using the median price over a period of three and a half days. The median published feed is sampled every hour on the hour.
+Steem leva em consideração flutuações de preço de curto prazo, usando a mediana do preço em um período de três dias e meio. A mediana do indicador publicado é definida a cada hora na hora.
 
-As long as the price feed corruption lasts for less than half the moving median time window it will have minimal impact on the conversion price. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
+Enquanto a corrupção do indicador de preço durar por menos do que a janela de tempo da mediana móvel, ela terá um impacto mínimo no preço de conversão. Caso o indicador seja corrompido, o participantes da rede terão uma oportunidade de votar na saída dos produtores do índicador corrompido antes que o indicador corrompido tenha impacto no preço atual de conversão. Talvez mais importante, isso dá aos produtores de indicadores uma oportunidade de detectar e corrigir problemas antes que seus indicadores comecem a impactar o preço.
 
 With a three and a half day window, community members have approximately one and a half days to respond to any issues that come up.
 
