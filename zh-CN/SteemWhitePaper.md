@@ -130,11 +130,11 @@ STEEM价值的迅速变化可以显著地改变债务与所有权比率。 如�
 
 用于计算STEEM创建的百分比层是基于包括所有未付SBD和SP(由当前比率／喂价决定)的STEEM价值的供应。
 
-### Interest
+### 利率
 
-SBD pays holders interest. The interest rate is set by the same people who publish the price feed so that it can adapt to changing market conditions. All debt carries risk to the lender. Someone who holds SBD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SBD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
+SBD支付持有人利息。 利率由公布喂价的人设定，从而能适应不断变化的市场条件。 所有的债务都会给贷方带来风险。 未兑换SBD的持有者实际上是在向社区放贷一美元的价值。 他们相信将来有人会愿意从他们那里以一美元购买SBD，或者会有投机者和投资者愿意购买他们转换成的STEEM。
 
-STEEM and SP holders gain leverage when members of the community are willing to hold SBD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
+当社区成员愿意持有SBD时，STEEM和SP持有者就会获得杠杆。 这种杠杆放大了增长带来的收益同时也促进了增长。 如果价格下跌，STEEM持有者会受到更大的稀释。 Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
 
 ### Setting Price Feeds
 
