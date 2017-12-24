@@ -144,13 +144,13 @@ SBD支付持有人利息。 利率由公布喂价的人设定，从而能适应�
 2. 自由资本移动
 3. 独立的货币政策
 
-If Steem feed producers aim to have an independent monetary policy allowing it to create and destroy Steem Dollars while simultaneously having full control over the interest rate then they will encounter problems. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
+如果Steem喂价创造者的目标是有一个独立的货币政策，允许它创造和销毁Steem美元同时完全控制利率，那么他们将遇到问题。 不可能的三位一体原理说，Steem美元要么需要限制资本流动，要么与美元的汇率不稳定，要么对利率控制有限。
 
-The primary concern of Steem feed producers is to maintain a stable one-to-one conversion between SBD and the U.S. Dollar (USD). Any time SBD is consistently trading above $1.00 USD interest payments must be stopped. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SBD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
+Steem喂价创造者的主要关注是保持SBD和美元 (USD) 之间稳定的一对一转换。 任何时候SBD持续交易超过1.00 美元的利息付款必须停止。 在一个0%的债务利息仍然需要溢价的市场上，可以安全地说，市场愿意扩大信贷超过社区愿意承担的债务。 如果发生这种情况，SBD 的估值将超过1.00 美元，而在不收取负利率的情况下社区可以做的很少。
 
-If the debt-to-ownership ratio is low and SBD is trading for less than $1.00, then the interest rate should be increased. This will encourage more people to hold their SBD and support the price.
+如果债务对所有权比率较低，而SBD的交易价格少于$1.00，则应增加利率。这将鼓励更多的人持有他们的SBD并支撑价格。
 
-If SBD trades for less than $1.00 USD and the debt-to-ownership ratio is high, then the feeds should be adjusted upward give more STEEM per SBD. This will increase demand for SBD while also reducing the debt-to-ownership ratio and returning SBD to parity with USD.
+如果SBD交易价少于$1.00，并且债务对所有权比率高，则喂价应该向上调整每SBD给更多Steem。 This will increase demand for SBD while also reducing the debt-to-ownership ratio and returning SBD to parity with USD.
 
 Assuming the value of STEEM is growing faster than Steem is creating new SBD, the debt-to-ownership ratio should remain under the target ratio and the interest offered benefits everyone. If the value of the network is flat or falling, then any interest offered will only make the debt-to-ownership ratio worse.
 
