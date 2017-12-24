@@ -64,19 +64,19 @@ Esta seção descreve as ideias por trás de Steem e suas recompensas para pesso
 
 ## Contribuições de Capital
 
-Existem dois itens que uma comunidade pode oferecer para atrair capital: dívida e propriedade. Aqueles que compram propriedades lucram quando a comunidade cresce, mas perdem se a comunidade encolher. Aqueles que compram dívidas estão garantidos com certa quantidade de juros, mas não conseguem participar de lucros realizados pelo crescimento da comunidade. Ambos os tipos de contribuições de capital são valiosos para o crescimento da comunidade e o valor da sua moeda. Além disso, existem duas maneiras pelas quais a propriedade pode ser realizada: liquidez e aquisição. A aquisição de propriedade faz um compromisso a longo prazo e não pode ser vendida por um período mínimo de tempo.
+Existem dois itens que uma comunidade pode oferecer para atrair capital: dívida e propriedade. Aqueles que compram propriedades lucram quando a comunidade cresce, mas perdem se a comunidade encolher. Aqueles que compram dívidas estão garantidos com certa quantidade de juros, mas não conseguem participar de lucros realizados pelo crescimento da comunidade. Ambos os tipos de contribuições de capital são valiosos para o crescimento da comunidade e o valor da sua moeda. Além disso, existem duas maneiras pelas quais a propriedade pode ser realizada: liquidez e cessão. A cessão de propriedade produz um compromisso a longo prazo e não pode ser vendida por um período mínimo de tempo.
 
 A rede Steem chama estas diferentes classes de ativos Steem (STEEM), Steem Power (SP) e Steem Dollars (SBD).
 
 ## Steem (STEEM)
 
-Steem é a unidade de conta fundamental da Blockchain de Steem. Todos os outros tokens derivam seu valor do valor de STEEM. O STEEM é uma moeda líquida e, portanto, pode ser comprado ou vendido em trocas, bem como transferido para outros usuários como forma de pagamento.
+Steem é a unidade de conta fundamental da Blockchain de Steem. Todos os outros tokens derivam seu valor do valor de STEEM. O STEEM é uma moeda líquida e, portanto, pode ser comprado ou vendido em bolsas, assim como transferido para outros usuários como forma de pagamento.
 
 ## Steem Power (SP)
 
-Empresas de arranque exigem compromisso de capital a longo prazo. Aqueles que investem seu dinheiro em um startup esperam anos antes de poder vender suas ações e perceber seus lucros. Sem compromisso de longo prazo, um startup em operação buscando aumentar o capital através da venda de ações adicionais seria concorrente com os acionistas existentes que procuram sair. Os investidores experientes querem suas contribuições de capital para crescer a empresa, mas o crescimento não pode acontecer se a nova capital for dada àqueles que desejam sair.
+Empresas startups exigem compromisso de capital a longo prazo. Aqueles que investem seu dinheiro em um startup esperam anos antes de poder vender suas ações e perceber seus lucros. Sem compromisso de longo prazo, um startup em operação buscando aumentar o capital através da venda de ações adicionais seria concorrente com os acionistas existentes que procuram sair. Os investidores experientes querem que suas contribuições de capital cresçam a empresa, mas o crescimento não pode acontecer se o novo capital for dada àqueles que desejam sair.
 
-Existe um valor significativo para ter um compromisso a longo prazo porque permite que as comunidades façam planos de longo prazo. O compromisso a longo prazo das partes interessadas também faz com que eles votem para o crescimento a longo prazo e não para bombas de curto prazo.
+Existe um valor significativo para em ter um compromisso a longo prazo porque permite que as comunidades façam planos de longo prazo. O compromisso a longo prazo das partes interessadas também faz com que eles votem para o crescimento a longo prazo e não para aumento de preços de curto prazo.
 
 No espaço de as criptomoedas, os especuladores saltam de uma criptomoeda para outra criptomoeda com base principalmente na qual se espera que tenha crescimento a curto prazo. Steem quer construir uma comunidade que seja principalmente de propriedade e inteiramente controlada por aqueles com uma perspectiva de longo prazo.
 
