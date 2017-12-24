@@ -120,7 +120,7 @@ Steem nivela o campo solicitando que todas as solicitações de conversão sejam
 
 Se as pessoas pudessem converter livremente nas duas direções então os negociantes poderiam levar vantagem sobre as taxas de conversão da blockchain ao negociar altos volumes sem alterar o preço. Negociantes que verem um aumento massivo no preço poderiam converter para SBD a um preço alto (quando é mais arriscado) e então converter de volta após a correção. O protocolo Steem proteje a comunidade desse tipo de abuso ao permitir que as pessoas apenas convertam SBD para STEEM e não o contrário.
 
-The blockchain decides how and when to create SBD and who should get it. This keeps the rate of SBD creation stable and removes most avenues of abuse.
+A blockcain decide quando e como cria SBD e quem deve receber. Isso mantém a taxa de criação de SBD estável e remove a maioria dos caminhos de abuso.
 
 ### Sustainable Debt to Ownership Ratios
 
