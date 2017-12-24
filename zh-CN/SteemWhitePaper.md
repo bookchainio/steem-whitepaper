@@ -190,7 +190,7 @@ Steem喂价创造者的主要关注是保持SBD和美元 (USD) 之间稳定的�
 
 #### 投票滥用
 
-不管一个人有多少钱，总有很多其他人有着相似的财富。 即使是最富有的人，也很少会比其他几个人财富总和更多。 Furthermore, those who have a large investment in a community also have the most to lose by attempting to game the voting system for themselves. It would be like the CEO of a company deciding to stop paying salaries so he could pocket all of the profits. Everyone would leave to work for other companies and the company would become worthless, leaving the CEO bankrupt rather than wealthy.
+不管一个人有多少钱，总有很多其他人有着相似的财富。 即使是最富有的人，也很少会比其他几个人财富总和更多。 此外，那些在一个社区最大的投资者，如果试图玩弄投票系统他们自己的损失也将最大。 就象一个公司的CEO停止发放工资而把所有的利润拿走。 每个人将会辞职，公司将会变得一钱不值，而CEO会破产而不是会发财。
 
 Fortunately, any work that is getting a large concentration of votes is also gaining the most scrutiny (publicity). Through the addition of *negative-voting* it is possible for many smaller stakeholders to nullify the voting power of collusive groups or defecting large stakeholders. Furthermore, large-stakeholders have more to lose if the currency falls in value due to abuse than they might gain by voting for themselves. In fact, honest large stakeholders are likely to be more effective by policing abuse and using negative voting than they would be by voting for smaller contributions.
 
