@@ -182,7 +182,7 @@ It is our belief that these rules will give market participants confidence that 
 
 الخطوة التالية هي مكافأة كل من يفعل أي شيء حتى ولو كان بعيد المدى إيجابيا* بشيء*. ويتم ذلك عن طريق ترتيب جميع الأعمال المنجزة وتوزيعها بالتناسب مع قيمتها. كلما أصبح السوق أكثر تنافسية، كلما زادت الصعوبة (الجودة العالية أو الكمية) يكسب نفس العائد.
 
-### Voting on Distribution of Currency
+### التصويت على توزيع العملة
 
 Assume there is a fixed amount of money to distribute, and that those who have a long-term vested interest in the future value and utility of the currency are the ones who must decide how to allocate it. Every vesting user casts their votes on who did the best work and at the end of the day the available money for that day is divided proportional to the votes such that everyone with even one net positive vote gets something.
 
