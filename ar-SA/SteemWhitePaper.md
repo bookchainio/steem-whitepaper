@@ -206,7 +206,7 @@ It is our belief that these rules will give market participants confidence that 
 
 لذلك هو مع الناس. إذا حاول المرء أن يفعل شيئا مختلفا، الحصول على درجات أفضل، تحسين نفسه، الهروب من بيئته، أو حلم الأحلام الكبيرة،الناس الآخرين سيحاولون سحبه للعودة ليشارك مصيرهم.
 
-Eliminating “abuse” is not possible and shouldn’t be the goal. Even those who are attempting to “abuse” the system are still doing work. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn’t so rampant that it undermines the incentive to do real work in support of the community and its currency.
+والقضاء على "سوء المعاملة" ليس ممكنا ولا ينبغي أن يكون الهدف. وحتى أولئك الذين يحاولون "إساءة استخدام" النظام لا يزالون يعملون. أي تعويض يحصلون عليه لمحاولاتهم الناجحة في سوء المعاملة أو التواطؤ هو على الأقل ذو قيمة من أجل توزيع العملة كنظام العمل الذي يستخدمه تعدين البيتكوين التقليدي أو التعدين التواطؤي المنتهي عن طريق منطقة التعدين. All that is necessary is to ensure that abuse isn’t so rampant that it undermines the incentive to do real work in support of the community and its currency.
 
 The goal of building a community currency is to get more “crabs in the bucket”. Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs sufficient power to prevent others from escaping.
 
