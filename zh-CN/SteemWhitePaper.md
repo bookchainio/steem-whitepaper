@@ -202,13 +202,13 @@ Steem喂价创造者的主要关注是保持SBD和美元 (USD) 之间稳定的�
 
 他问: "你为什么不盖上你的鱼饵桶，防止螃蟹逃走呢？
 
-"你不明白", 该名男子回答说, "如果有一只螃蟹在水桶里，它肯定会很快爬出来。 However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
+"你不明白", 该名男子回答说, "如果有一只螃蟹在水桶里，它肯定会很快爬出来。 然而，当有许多螃蟹在桶里时，如果一直螃蟹试图爬出来，其他螃蟹就会把它拉下来让它们分享共同的命运。
 
-So it is with people. If one tries to do something different, get better grades, improve herself, escape her environment, or dream big dreams, other people will try to drag her back down to share their fate.
+人们也这样。 如果一个人试图做一些不同的事情，以获取更好的成绩，改善自己，逃离她的环境，或者追寻更远大的梦想，别人会试图把她拖下来分享他们的命运。
 
-Eliminating “abuse” is not possible and shouldn’t be the goal. Even those who are attempting to “abuse” the system are still doing work. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn’t so rampant that it undermines the incentive to do real work in support of the community and its currency.
+消除 "滥用" 是不可能的，也不应该成为目标。 即使是那些试图 "滥用" 该系统的人仍在工作。 他们成功地通过滥用或者共谋获得的任何报酬至少跟作为传统的比特币采矿或通过采矿池进行串通采矿的制造工作系统分发货币的目的一样有价值。 所必要的是要确保滥用不那么猖獗，从而破坏了为支持社区及其货币而做真正工作的积极性。
 
-The goal of building a community currency is to get more “crabs in the bucket”. Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs sufficient power to prevent others from escaping.
+建立社区货币的目的是为了得到更多的"螃蟹在桶里"。 Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs sufficient power to prevent others from escaping.
 
 ### Rate Limited Voting
 
