@@ -194,9 +194,9 @@ It is our belief that these rules will give market participants confidence that 
 
 ولحسن الحظ، فإن أي عمل يحصل على تركيز كبير من الأصوات يكتسب أيضا أكبر قدر من التدقيق (الدعاية). من خلال إضافة *تصويت سلبي* يمكن للعديد من أصحاب المصلحة الأصغر حجب السلطة التصويتية للمجموعات المتآلفة أو تخريب أصحاب المصلحة الكبار. وعلاوة على ذلك، فإن أصحاب المصلحة الكبار لديهم المزيد ليخسرونه إذا انخفضت قيمة العملة بسبب سوء المعاملة مما قد يحصلون عليه من خلال التصويت لأنفسهم. في الواقع، من المرجح أن يكون أصحاب المصلحة الصادقين أكثر فعالية من خلال ضبط سوء المعاملة واستخدام التصويت السلبي مما سيكون عن طريق التصويت للمساهمات الأصغر حجما.
 
-The use of *negative-voting* to keep people from abusing the system leverages the *crab mentality* that many people have when it is perceived that one individual is profiting at the expense of everyone else. While crab mentality normally refers to short-sighted people keeping good people down, it is also what allows good people to keep bad people down. The only “problem” with crab mentality is when people *wrongly believe* someone is profiting at everyone else's expense.
+استخدام *التصويت السلبي* للحفاظ على النظام من إساءة استخدام الناس إليه يعزز *عقلية السلطعون* التي لدى العديد من الناس عندما ينظر إلى أن الفرد واحد هو الرابح على حساب الجميع. في حين أن عقلية السلطعون عادة ما تشير إلى الأشخاص ذوي النظر القصير الذين يحافظون على الناس الطيبين في الأسفل، بل هو أيضا ما يسمح للناس الجيدين للحفاظ على الناس السيئين في الأسفل. "المشكلة" الوحيدة مع عقلية السلطعون هو عندما * يعتقدون الناس بالخطأ * أن شخص ما يستفيد على حساب الجميع.
 
-**The Story of the Crab Bucket**[^6]
+** قصة دلو السرطان ** [^6]
 
 A man was walking along the beach and saw another man fishing in the surf with a bait bucket beside him. As he drew closer, he saw that the bait bucket had no lid and had live crabs inside.
 
