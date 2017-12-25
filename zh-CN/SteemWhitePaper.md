@@ -208,17 +208,17 @@ Steem喂价创造者的主要关注是保持SBD和美元 (USD) 之间稳定的�
 
 消除 "滥用" 是不可能的，也不应该成为目标。 即使是那些试图 "滥用" 该系统的人仍在工作。 他们成功地通过滥用或者共谋获得的任何报酬至少跟作为传统的比特币采矿或通过采矿池进行串通采矿的制造工作系统分发货币的目的一样有价值。 所必要的是要确保滥用不那么猖獗，从而破坏了为支持社区及其货币而做真正工作的积极性。
 
-建立社区货币的目的是为了得到更多的"螃蟹在桶里"。 Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs sufficient power to prevent others from escaping.
+建立社区货币的目的是为了得到更多的"螃蟹在桶里"。 要采取极端措施以消除所有的滥用，就像试图给水桶加一个盖子上以防止一些螃蟹逃脱。它的代价是往桶里放进更多的螃蟹会更加困难。 使墙壁滑，并给予其他螃蟹足够的权力以防止他人逃脱就足够了。
 
-### Rate Limited Voting
+### 限制投票率
 
-A major part of minimizing abuse is the rate-limiting of voting. Individual users can only read and evaluate so many work items per day. Any attempt to vote more frequently than this is a sign of automation and potential abuse. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
+减少滥用的主要方式是限制投票率。 单个用户只能每天读取和评估一定数量的工作。 任何比这更频繁地投票的尝试都是自动化和潜在滥用的信号。 通过投票率限制，投票更频繁的利益相关者的每票权重要比较少投票的利益相关者少。 在多个账户之间分割代币的企图也会分割其影响力，因而不会增加其净影响力，也不会绕过投票率的限制。
 
-Users are allotted a fixed amount of voting power. Voting power is multiplied by a user’s vesting tokens to determine how much share in the reward pool should be allocated to a given work item. Every vote that is cast uses a percentage of remaining voting power. Users can vote for more posts, but each vote will be worth less, and it will take longer to reach full voting power again. Voting power recharges at a fixed linear rate of 20% per day.
+用户被分配了固定数量的投票权。 投票权乘以用户的归属代笔用以决定在奖励池中分配给某一工作项目的份额的多少。 每一次投票都使用剩余投票权的百分比。 用户可以投票支持更多的帖子, 但每票的价值将会更少, 而且将需要更长的时间才能恢复投票权。 投票权每天以固定的20%线性率恢复。
 
-### Payout Distribution
+### 支付分配
 
-One of the primary goals of Steem’s reward system is to produce the best discussions on the internet. Each and every year 75% of the yearly inflation is distributed to users submitting, voting on, and discussing content. At the size of Bitcoin this could be several million dollars per day being given to the top contributors.
+Steem的奖励制度的主要目标之一是在互联网上进行最佳的讨论。 Each and every year 75% of the yearly inflation is distributed to users submitting, voting on, and discussing content. At the size of Bitcoin this could be several million dollars per day being given to the top contributors.
 
 The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content.
 
