@@ -282,15 +282,15 @@ Mikroödemeler, diğer her ödeme türleri gibi bir karşılaştırmaya ihtiyaç
 
 Finansal ödemeler dünyasında küçük ücretler kabul edilebilirdir çünkü, hareketin değeri ücretin değerine nazaran daha yüksektir ve alıcı zaten satın almada kararını kılmıştır. Potansiyel blokzinciri uygulamalarının dünyası sadece finansal ödemelerden çok daha büyüktür ve kullanıcılar tarafından kabul edilmeyecek ücretler içeren önemli hareketleri içerir.
 
-BitShares, NXT, Ripple, Counter Party ve Stellar gibi sistemlerin hepsi kullanıcıların blokzinciri üzerinde emirlerini kullanmasına izin verir ve kullanıcılarından bu eylemleri için küçük bir ücret alır. Daha sonra eğer kullanıcı emrini iptal etmek isterse, başka bir ücret daha ödemek zorundadır. Ethereum gibi sistemler ise mikrooödemeleri bir sonraki seviyeye taşırlar: her hesaplama için ücret almak. Bütün bu sistemler sanki merkezsiz bir arama motorunun her arama için ücret alması ve Google'dan kullanıcı çekememesi gibi nedenlerle aynı sebepten kullanıcıları etkilemekte zorlanırlar. It doesn’t matter how good the service is, people expect certain things to be free. This is true even if a user ends up paying more overall under a different fee structure.
+BitShares, NXT, Ripple, Counter Party ve Stellar gibi sistemlerin hepsi kullanıcıların blokzinciri üzerinde emirlerini kullanmasına izin verir ve kullanıcılarından bu eylemleri için küçük bir ücret alır. Daha sonra eğer kullanıcı emrini iptal etmek isterse, başka bir ücret daha ödemek zorundadır. Ethereum gibi sistemler ise mikrooödemeleri bir sonraki seviyeye taşırlar: her hesaplama için ücret almak. Bütün bu sistemler sanki merkezsiz bir arama motorunun her arama için ücret alması ve Google'dan kullanıcı çekememesi gibi nedenlerle aynı sebepten kullanıcıları etkilemekte zorlanırlar. Hizmetin ne kadar iyi olduğu önemli değildir, kullanıcılar bazı şeylerin ücretsiz olmasını bekler. Kullanıcı farklı bir ücret yapısıyla genel anlamda daha fazla ödese bile, bu geçerlidir.
 
-### Fees are a Barrier to Entry
+### Ücretler Girişlere Engeldir
 
-Any fee creates a barrier to entry for new users. Before someone can experiment with Ethereum they must acquire some ETH tokens. Anyone wanting to build a decentralized application on Ethereum must pass on the cost to their customers. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
+Her türlü ücret yeni kullanıcıların girişine engel olur. Birisi Ethereum'u ilgilendiren herhangi bir işlem yapmak istediğinde öncelikle biraz ETH'ye ihtiyaç duyacaktır. Ethereum sistemi üzerinde merkezsiz bir uygulama yapmak isteyen herhangi birisi uygulama ücretini kullanıcılara yıkmak zorundadır. Kriptobirim satın almak kolay bir iş değildir ve genel olarak 10$ altı miktarlar için mantıklı değildir. Bu da yeni çıkan bir merkezsiz uygulamayı denemek isteyen yeni bir kullanıcı 10$'dan ayrılmak istediğine karar vermiş olmalıdır.
 
-### Changing Fees
+### Değişken Ücretler
 
-Over time a network must adjust fees. This can happen either due to an increase in the value of the token or due to a surge in capacity. Users like predictable fees and guaranteed service. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
+Zaman içinde ağın ücretleri ayarlaması gerekir. This can happen either due to an increase in the value of the token or due to a surge in capacity. Users like predictable fees and guaranteed service. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
 
 ### Sybil Attacks
 
