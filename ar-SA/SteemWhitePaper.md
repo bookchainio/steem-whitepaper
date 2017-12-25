@@ -200,9 +200,9 @@ It is our belief that these rules will give market participants confidence that 
 
 كان رجل يمشي على طول الشاطئ ورأى رجل آخر يصطاد في الأمواج مع دلو الطعم بجانبه. ومع اقترابه، رأى أن دلو الطعم ليس له غطاء ولديه سرطان حي بداخله.
 
-"Why don't you cover your bait bucket so the crabs won't escape?", he said.
+"لماذا لا تغطي دلو الطعم الخاص بك حتى لا يتمكن سرطان البحر من الهرب؟"، قال.
 
-"You don't understand.", the man replied, "If there is one crab in the bucket it would surely crawl out very quickly. However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
+"أنت لا تفهم"، أجاب الرجل، "إذا كان هناك سلطعون واحد في الدلو  فمن المؤكد انه سيزحف إلى الخارج بسرعة كبيرة. However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
 
 So it is with people. If one tries to do something different, get better grades, improve herself, escape her environment, or dream big dreams, other people will try to drag her back down to share their fate.
 
