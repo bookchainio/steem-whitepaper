@@ -266,15 +266,15 @@ Blokzinciri teknolojisi şu an için spam önlemek için işlem ücretlerine day
 
 ## İşlem Ücretleri Sorunu
 
-Blokzincirleri bütün hareketlerin, eşlere gönderildiği merkezsiz ağlardır. Her bir blok üretildiğinde bu blok beklemede olan hareketlerin çoğunu ya da hepsini içerebilir. Tüm blokzincirleri zararlı kullanıcıların mevcut ağın kapasitesini değersiz hareketlerle tüketmemesi için bir çözüm bulmalıdır. These worthless transactions can prevent other valuable transactions from being processed and ultimately destroy the network.
+Blokzincirleri bütün hareketlerin, eşlere gönderildiği merkezsiz ağlardır. Her bir blok üretildiğinde bu blok beklemede olan hareketlerin çoğunu ya da hepsini içerebilir. Tüm blokzincirleri zararlı kullanıcıların mevcut ağın kapasitesini değersiz hareketlerle tüketmemesi için bir çözüm bulmalıdır. Bu değersiz hareketler değeri olan hareketlerin ağdaki işlemini engelleyerek uzun vadede ağı yok edebilir.
 
-The solution adopted by most blockchains thus far is to charge a minimum transaction fee. A fee worth just a few cents is enough to make attacking the network expensive and unprofitable. While this approach solves the spam problem, it introduces new problems. Imagine solving the email spam problem by introducing a small fee on every email; people wouldn’t use email.
+Şu zamana kadar blokzincirleri tarafından kabullenilen çözüm ise minimum işletim ücretleridir. Sadece bir kaç sent ağa saldırmayı pahalı ve değersiz kılabilir. Bu yaklaşım spam problemlerini çözerken, yenilerini tanıtmaktadır. E-posta spam problemini her eposta gönderildiğinde alınan bir ücret ile çözdüğünüzü düşünün: Kimse eposta göndermezdi.
 
-### Micropayments Don’t Work
+### Mikroödemeler Çalışmıyor
 
-The fundamental problem with charging transaction fees is that micropayments don’t work, especially for low-value user actions. When a fee is charged on every transaction, it limits the types of transactions that a decentralized network can process. Regardless of how rational the argument for the necessity of fees, users still hate the experience of being nickeled and dimed for everything that they do.
+İşlem ücreti almanın ana problemi mikroödemelerin işe yaramamasıdır, özellikle düşük değerli kullanıcı hareketleri için. Her bir harekette işlem ücreti alındığında, merkezsiz bir ağın işleyebileceği hareket tiplerini sınırlamaktadır. İşlem ücretlerinin gerekliliği her ne kadar kabul edilebilir bir argüman olsa da, kullanıcılar hala yaptıkları en küçük işlem için ücret ödemekten nefret ediyor.
 
-Imagine if the websites we use every day charged us a fee every time we modify our accounts by changing the password. Users expect certain things to be free. Requiring users to make a decision on whether or not an action is worth a small fee creates anxiety that causes users to leave. A transaction can’t be worth so much as to require a decision but worth so little that that decision is automatic. There is a certain amount of anxiety involved in any decision to buy, no matter how small, and it derives not from the interface used or the time required, but from the very act of deciding.
+Düşünün, her gün kullandığımız web siteleri şifremizi değiştirmek istediğimiz her sefer bizden ücret isteseydi. Kullanıcılar bazı şeylerin ücretsiz olmasını bekliyor. Kullanıcıların eylemlerinin küçük bir ücrete tabi olup olmadığına karar verdirmek bir süre sonra vazgeçmelerine sebep olacak bir durum oluşturuyor. A transaction can’t be worth so much as to require a decision but worth so little that that decision is automatic. There is a certain amount of anxiety involved in any decision to buy, no matter how small, and it derives not from the interface used or the time required, but from the very act of deciding.
 
 Micropayments, like all payments, require a comparison: *“Is this much of X worth that much of Y?”* There is a minimum mental transaction cost created by this fact that cannot be optimized away, because the only transaction a user will be willing to approve with no thought will be one that costs them nothing, which is no transaction at all.
 
