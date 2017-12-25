@@ -202,9 +202,9 @@ It is our belief that these rules will give market participants confidence that 
 
 "لماذا لا تغطي دلو الطعم الخاص بك حتى لا يتمكن سرطان البحر من الهرب؟"، قال.
 
-"أنت لا تفهم"، أجاب الرجل، "إذا كان هناك سلطعون واحد في الدلو  فمن المؤكد انه سيزحف إلى الخارج بسرعة كبيرة. However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
+"أنت لا تفهم"، أجاب الرجل، "إذا كان هناك سلطعون واحد في الدلو  فمن المؤكد انه سيزحف إلى الخارج بسرعة كبيرة. ومع ذلك، حينما يكون العديد من السرطانات في الدلو، إذا حاول أحدهم الزحف إلى الجانب الأعلى، الآخرين سيمسكونه وسحبونه إلى الوراء بحيث سوف يشارك نفس مصير البقية منهم. "
 
-So it is with people. If one tries to do something different, get better grades, improve herself, escape her environment, or dream big dreams, other people will try to drag her back down to share their fate.
+لذلك هو مع الناس. إذا حاول المرء أن يفعل شيئا مختلفا، الحصول على درجات أفضل، تحسين نفسه، الهروب من بيئته، أو حلم الأحلام الكبيرة،الناس الآخرين سيحاولون سحبه للعودة ليشارك مصيرهم.
 
 Eliminating “abuse” is not possible and shouldn’t be the goal. Even those who are attempting to “abuse” the system are still doing work. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn’t so rampant that it undermines the incentive to do real work in support of the community and its currency.
 
