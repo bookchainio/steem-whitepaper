@@ -228,11 +228,11 @@ Steem的奖励制度的主要目标之一是在互联网上进行最佳的讨论
 
 把知名度作为一个粗略的衡量，每个单项的价值是由齐夫定律给出的。 也就是说，如果我们有100万个物件，那么最流行的100件将是总价值的三分之一，接下来的一万件是总价值的三分之一，其余的的989,900是总价值的三分之一。 n项集合的值与log(n)成正比。
 
-The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
+这一投票和支付分配的效果是给好内容提供高报酬，同时因为长尾分布仍然可以奖励较小用户。
 
-The economic effect of this is similar to a lottery where people overestimate their probability of getting votes and thus do more work than the expected value of their reward and thereby maximize the total amount of work performed in service of the community. The fact that everyone “wins something” plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
+这种经济效应类似于彩票，人们高估了他们赢得彩排的可能性，因而比预期的报酬更努力工作, 从而使为社区服务的工作总量最大化。 事实上，每个人都 "赢得某种东西" 的作用与赌场用来保持人们赌博的心理相同。 换言之，小的奖励有助于加强这个想法，即有可能获得更大的回报。
 
-### Payouts
+### 支付
 
 When a post receives a payout it takes the form of 50% SBD and 50% SP. The Steem Power give the user increased voting and transaction power while the SBD gives the user an immediate benefit in a stable currency. As we’ve already discussed at length, SP is designed to encourage long-term holding rather than short-term selling. This encourages more users to have a vested interest in the long-term success of the platform.
 
