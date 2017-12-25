@@ -218,15 +218,15 @@ Steem喂价创造者的主要关注是保持SBD和美元 (USD) 之间稳定的�
 
 ### 支付分配
 
-Steem的奖励制度的主要目标之一是在互联网上进行最佳的讨论。 Each and every year 75% of the yearly inflation is distributed to users submitting, voting on, and discussing content. At the size of Bitcoin this could be several million dollars per day being given to the top contributors.
+Steem的奖励制度的主要目标之一是在互联网上进行最佳的讨论。 每75%的通货膨胀率都分配给用户提交、投票和讨论内容。 以比特币的规模，这将是每天给最高贡献者数百万美元的回报。
 
-The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content.
+实际的分配将取决于用户的投票方式。但我们认为，绝大多数的奖励将被分配到最受欢迎的内容。
 
-Zipf’s Law[^7] is one of those empirical rules that characterize a surprising range of real-world phenomena remarkably well. It says that if we order some large collection by size or popularity, the second element in the collection will be about half the measure of the first one, the third one will be about one-third the measure of the first one, and so on. In general, the k th-ranked item will measure about 1/k of the first one.
+齐夫定律[^7] 是这些经验法则中的一种。它能显著地刻画出一个令人惊讶的真实世界现象的范围。 它说，如果我们按大小或知名度排列一些大规模藏品，第二位将大约是第一位的一半，第三个将大约是第一位的三分之一，等等。 一般来说, 第k名的项目将是第一名的1/k。
 
 ![](\img_the_new_marketplace.png)
 
-Taking popularity as a rough measure of value, then the value of each individual item is given by Zipf’s Law. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
+把知名度作为一个粗略的衡量，每个单项的价值是由齐夫定律给出的。 也就是说，如果我们有100万个物件，那么最流行的100件将是总价值的三分之一，接下来的一万件是总价值的三分之一，其余的的989,900是总价值的三分之一。 n项集合的值与log(n)成正比。
 
 The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
 
