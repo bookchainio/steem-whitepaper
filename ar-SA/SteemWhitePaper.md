@@ -206,9 +206,9 @@ It is our belief that these rules will give market participants confidence that 
 
 لذلك هو مع الناس. إذا حاول المرء أن يفعل شيئا مختلفا، الحصول على درجات أفضل، تحسين نفسه، الهروب من بيئته، أو حلم الأحلام الكبيرة،الناس الآخرين سيحاولون سحبه للعودة ليشارك مصيرهم.
 
-والقضاء على "سوء المعاملة" ليس ممكنا ولا ينبغي أن يكون الهدف. وحتى أولئك الذين يحاولون "إساءة استخدام" النظام لا يزالون يعملون. أي تعويض يحصلون عليه لمحاولاتهم الناجحة في سوء المعاملة أو التواطؤ هو على الأقل ذو قيمة من أجل توزيع العملة كنظام العمل الذي يستخدمه تعدين البيتكوين التقليدي أو التعدين التواطؤي المنتهي عن طريق منطقة التعدين. All that is necessary is to ensure that abuse isn’t so rampant that it undermines the incentive to do real work in support of the community and its currency.
+والقضاء على "سوء المعاملة" ليس ممكنا ولا ينبغي أن يكون الهدف. وحتى أولئك الذين يحاولون "إساءة استخدام" النظام لا يزالون يعملون. أي تعويض يحصلون عليه لمحاولاتهم الناجحة في سوء المعاملة أو التواطؤ هو على الأقل ذو قيمة من أجل توزيع العملة كنظام العمل الذي يستخدمه تعدين البيتكوين التقليدي أو التعدين التواطؤي المنتهي عن طريق منطقة التعدين. كل ما هو ضروري هو التأكد من أن إساءة الاستخدام ليست متفشية بحيث تقضي تدريجيا على الحافز للقيام بعمل حقيقي لدعم المجتمع وعملته.
 
-The goal of building a community currency is to get more “crabs in the bucket”. Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs sufficient power to prevent others from escaping.
+الهدف من بناء عملة المجتمع هو الحصول على المزيد من "سرطانات البحر في الدلو". الذهاب إلى التدابير المتطرفة للقضاء على كل سوء المعاملة هو مثل محاولة لوضع غطاء على دلو لمنع عدد قليل من سرطانات البحر من الهروب ويأتي على حساب جعله أكثر صعوبة لإضافة سرطان بحر جديدة إلى الدلو. It is sufficient to make the walls slippery and give the other crabs sufficient power to prevent others from escaping.
 
 ### Rate Limited Voting
 
