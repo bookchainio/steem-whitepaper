@@ -194,15 +194,15 @@ Steem喂价创造者的主要关注是保持SBD和美元 (USD) 之间稳定的�
 
 幸运的是，任何获得大量投票的工作也得到最严格的（公开的）审查。 通过添加*负投票*，许多较小的利益相关者可能会抵消利益集团或者背叛的较大的利益相关者的投票能量。 此外，如果货币因滥用而贬值，那么大的利益相关者的损失会超过通过给自己投票获得的收益。 事实上, 诚实的大的利益相关者通过管辖滥用和使用负投票，可能比投票较小的贡献会更有效。
 
-The use of *negative-voting* to keep people from abusing the system leverages the *crab mentality* that many people have when it is perceived that one individual is profiting at the expense of everyone else. While crab mentality normally refers to short-sighted people keeping good people down, it is also what allows good people to keep bad people down. The only “problem” with crab mentality is when people *wrongly believe* someone is profiting at everyone else's expense.
+使用*负投票*来制约很多人具有的一个人的利益是以牺牲他人为代价的*螃蟹心态*来滥用系统。 螃蟹心态通常是指短视的人让好人吃亏，同样它也使好人让坏人吃亏。 螃蟹心态唯一的 "问题" 是当人们*错误地相信*有人正在以他人为代价获利时。
 
-**The Story of the Crab Bucket**[^6]
+** 螃蟹桶的故事 **[^6]
 
-A man was walking along the beach and saw another man fishing in the surf with a bait bucket beside him. As he drew closer, he saw that the bait bucket had no lid and had live crabs inside.
+一个男人正沿着海滩散步，看到一个钓鱼的人旁边放着一个鱼饵桶。当他靠近的时，他看到鱼饵桶没有盖子，里面有活蟹。
 
-"Why don't you cover your bait bucket so the crabs won't escape?", he said.
+他问: "你为什么不盖上你的鱼饵桶，防止螃蟹逃走呢？
 
-"You don't understand.", the man replied, "If there is one crab in the bucket it would surely crawl out very quickly. However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
+"你不明白", 该名男子回答说, "如果有一只螃蟹在水桶里，它肯定会很快爬出来。 However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
 
 So it is with people. If one tries to do something different, get better grades, improve herself, escape her environment, or dream big dreams, other people will try to drag her back down to share their fate.
 
