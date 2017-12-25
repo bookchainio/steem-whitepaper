@@ -210,9 +210,9 @@ It is our belief that these rules will give market participants confidence that 
 
 الهدف من بناء عملة المجتمع هو الحصول على المزيد من "سرطانات البحر في الدلو". الذهاب إلى التدابير المتطرفة للقضاء على كل سوء المعاملة هو مثل محاولة لوضع غطاء على دلو لمنع عدد قليل من سرطانات البحر من الهروب ويأتي على حساب جعله أكثر صعوبة لإضافة سرطان بحر جديدة إلى الدلو. ويكفي جعل الجدران زلقة وإعطاء السرطانات الأخرى قوة كافية لمنع الآخرين من الفرار.
 
-### Rate Limited Voting
+### معدل التصويت المحدودة
 
-A major part of minimizing abuse is the rate-limiting of voting. Individual users can only read and evaluate so many work items per day. Any attempt to vote more frequently than this is a sign of automation and potential abuse. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
+الجزء الرئيسي من التقليل من سوء المعاملة هو الحد من معدل التصويت. Individual users can only read and evaluate so many work items per day. Any attempt to vote more frequently than this is a sign of automation and potential abuse. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
 
 Users are allotted a fixed amount of voting power. Voting power is multiplied by a user’s vesting tokens to determine how much share in the reward pool should be allocated to a given work item. Every vote that is cast uses a percentage of remaining voting power. Users can vote for more posts, but each vote will be worth less, and it will take longer to reach full voting power again. Voting power recharges at a fixed linear rate of 20% per day.
 
