@@ -1,14 +1,14 @@
 # Steem
 
-## An incentivized, blockchain-based, public content platform.
+## Isang insentibong, batay sa blockchain, pampublikong plataporma ng nilalaman.
 
-August 2017
+Agosto 2017
 
-# Translator's notes
+# Mga tala ng mga tagasalin
 
-Placeholder for translator's notes.
+Placeholder para sa mga tala ng mga tagasalin.
 
-# Abstract
+# Abstrakto
 
 Steem is a blockchain database that supports community building and social interaction with cryptocurrency rewards. Steem combines concepts from social media with lessons learned from building cryptocurrencies and their communities. An important key to inspiring participation in any community, currency or free market economy is a fair accounting system that consistently reflects each person's contribution. Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
 
