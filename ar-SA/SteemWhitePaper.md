@@ -108,7 +108,7 @@ Steem factors out short-term price fluctuations by using the median price over a
 
 As long as the price feed corruption lasts for less than half the moving median time window it will have minimal impact on the conversion price. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
 
-With a three and a half day window, community members have approximately one and a half days to respond to any issues that come up.
+مع وجود نافذة لمدة ثلاثة أيام ونصف، يكون لدى أعضاء المجتمع حوالي يوم ونصف للرد على أية قضايا قد تنشأ.
 
 ### توقيت التخفيف من الهجمات
 
@@ -122,7 +122,7 @@ With a three and a half day window, community members have approximately one and
 
 بلوكشين يقرر كيف ومتى ينشئ SBD ومن الذي يجب ان يحصل عليه. هذا يحافظ على معدل إنشاء SBD مستقر ويزيل معظم سبل سوء المعاملة.
 
-### نسبة الدين المستدام إلى الملكية
+### الديون المستدامة لنسب الملكية
 
 إذا كان النظر إلى الرمزية على أنها ملكية في العرض الكامل من الرموز، إذن يمكن النظر إلى الرمزية القابلة للتحويل إلى دولار كدين. وإذا كانت نسبة الدين إلى الملكية مرتفعة جدا فإن العملة بأكملها يمكن أن تصبح غير مستقرة. تحويل الديون يمكن أن تزيد بشكل كبير من تزويد الرمزية، والتي تباع بدورها في السوق وتقمع السعر. تتطلب التحويلات اللاحقة إصدار المزيد من الرموز المميزة. Left unchecked the system can collapse leaving worthless ownership backing a mountain of debt. وكلما ارتفعت نسبة الدين إلى الملكية يصبح المستثمرون الجدد الأقل رغبة في جلب رأس المال إلى الجدول.
 
@@ -198,7 +198,7 @@ It is our belief that these rules will give market participants confidence that 
 
 ** قصة دلو السرطان ** [^6]
 
-A man was walking along the beach and saw another man fishing in the surf with a bait bucket beside him. As he drew closer, he saw that the bait bucket had no lid and had live crabs inside.
+كان رجل يمشي على طول الشاطئ ورأى رجل آخر يصطاد في الأمواج مع دلو الطعم بجانبه. ومع اقترابه، رأى أن دلو الطعم ليس له غطاء ولديه سرطان حي بداخله.
 
 "Why don't you cover your bait bucket so the crabs won't escape?", he said.
 
