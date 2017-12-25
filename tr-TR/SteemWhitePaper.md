@@ -256,17 +256,17 @@ Steem ile blok üretimi turlarla yapılır. Her turda 21 tanık, işlem bloklar�
 
 Bu süreç, herkesin en yüksek sıralamalarda bulunmaya yetecek kadar popüler olmasına bakılmaksızın, herkesin blok üretimine katılma potansiyeli taşırken, en iyi güvenilirliği sağlamak üzere tasarlanmıştır. İnsanların top 20 seçilmiş witnessların önüne geçebilmesi için 3 ayrı yolu vardır: Herkes gibi top 20 de bulunmayanlarla beklemek veya oy gücünüzü arttırmak için SP satın almak. Genel olarak konuşursak, piyasayı sansürlemek seçilmiş witnesslar için işlerini kaybetmek için birebir, bu nedenle Steem ağında böyle bir şey olması olası değil.
 
-Aktif witnesslar önceden bilindiği için, Steem witnessları her 3 saniyede blok üretmeleri için sıralayabilmektedir. Witnesslar bloklarını NTP protokolü ile senkronize eder. A variation of this algorithm has been in use by the BitShares network for over a year where it has been proven to be reliable.
+Aktif witnesslar önceden bilindiği için, Steem witnessları her 3 saniyede blok üretmeleri için sıralayabilmektedir. Witnesslar bloklarını NTP protokolü ile senkronize eder. Bu algoritmanın bir benzeri bir yılı aşkın süredir BitShares ağında kullanılarak güvenilirliğini kanıtlamıştır.
 
-# Eliminating Transaction Fees
+# İşlem Ücretlerini Ortadan Kaldırıyor
 
-Steem goes to great lengths to reward people for contributing to the network. It would be counterproductive to turn around and charge people every time they attempt to interact with the community.
+Steem ağa katkıda bulunları ödüllendirmek için çabalıyor. Katkıda bulunmak isteyenlerden her defasında ücret alınması bu düşüncenin tam tersi olurdu.
 
-Blockchain technology currently depends upon transaction fees to prevent spam. These fees suffer all of the known problems with microtransactions and prevent blockchains from being used for low-value transactions. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
+Blokzinciri teknolojisi şu an için spam önlemek için işlem ücretlerine dayalıdır. Bu ücretler bilinen mikroödeme sorunlarından dolayı sıkıntı yaşıyor ve blokzincirlerinin değeri düşük hareketler için kullanılmasını engelliyor. Gerçekten merkezsiz uygulamalar kullanıcılarına ücretsiz hareket sunarak merkezi alternatiflerin önüne geçmelidir. Bu kağıt Steem'in bu konuya ilişkin ücretlere olan bağlantısını ortadan kaldırarak daha önceden mümkünatı olmayan merkezsiz işlemlerin mümkün olmasını vurguluyor.
 
-## The Problem With Fees
+## İşlem Ücretleri Sorunu
 
-Blockchains are decentralized networks where all transactions are broadcast to all peers. Every so often a block is produced that includes some or all of the pending transactions. All blockchains must find a solution to prevent malicious users from consuming all of the available network capacity with worthless transactions. These worthless transactions can prevent other valuable transactions from being processed and ultimately destroy the network.
+Blokzincirleri bütün hareketlerin, eşlere gönderildiği merkezsiz ağlardır. Her bir blok üretildiğinde bu blok beklemede olan hareketlerin çoğunu ya da hepsini içerebilir. Tüm blokzincirleri zararlı kullanıcıların mevcut ağın kapasitesini değersiz hareketlerle tüketmemesi için bir çözüm bulmalıdır. These worthless transactions can prevent other valuable transactions from being processed and ultimately destroy the network.
 
 The solution adopted by most blockchains thus far is to charge a minimum transaction fee. A fee worth just a few cents is enough to make attacking the network expensive and unprofitable. While this approach solves the spam problem, it introduces new problems. Imagine solving the email spam problem by introducing a small fee on every email; people wouldn’t use email.
 
