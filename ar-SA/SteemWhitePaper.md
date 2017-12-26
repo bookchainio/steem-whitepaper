@@ -218,9 +218,9 @@ It is our belief that these rules will give market participants confidence that 
 
 ### توزيع العائد
 
-One of the primary goals of Steem’s reward system is to produce the best discussions on the internet. Each and every year 75% of the yearly inflation is distributed to users submitting, voting on, and discussing content. At the size of Bitcoin this could be several million dollars per day being given to the top contributors.
+أحد الأهداف الرئيسية لنظام مكافأة ستيم هو إنتاج أفضل المناقشات على شبكة الإنترنت. يتم توزيع 75٪ كل سنة من الإرتفاع السنوي على المستخدمين الذين يقدمون ويصوتون ويناقشون المحتوى. في حجم بيتكوين هذا يمكن أن يكون عدة ملايين من الدولارات يوميا تعطى للمساهمين الأوائل.
 
-The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content.
+التوزيع الحالي سيعتمد على أنماط تصويت المستخدمين، ولكننا نشك في أن الغالبية العظمى من المكافآت ستوزع على المحتوى الأكثر شعبية.
 
 Zipf’s Law[^7] is one of those empirical rules that characterize a surprising range of real-world phenomena remarkably well. It says that if we order some large collection by size or popularity, the second element in the collection will be about half the measure of the first one, the third one will be about one-third the measure of the first one, and so on. In general, the k th-ranked item will measure about 1/k of the first one.
 
