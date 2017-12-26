@@ -290,11 +290,11 @@ Her türlü ücret yeni kullanıcıların girişine engel olur. Birisi Ethereum'
 
 ### Değişken Ücretler
 
-Zaman içinde ağın ücretleri ayarlaması gerekir. Bu kapasitedeki bir oynama veya zaman içerisinde değer artışı nedeniyle kaynaklanabilir. Kullanıcılar tahmin edilebilir ücretleri ve garantilenmiş hizmeti severler. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
+Zaman içinde ağın ücretleri ayarlaması gerekir. Bu kapasitedeki bir oynama veya zaman içerisinde değer artışı nedeniyle kaynaklanabilir. Kullanıcılar tahmin edilebilir ücretleri ve garantilenmiş hizmeti severler. Yüksek kullanım durumlarında dinamik bir biçimde ücretleri arttırmak mümkün olmakla beraber, kötü bir kullanıcı tecrübesine yol açar.
 
-### Sybil Attacks
+### Sybil Saldırıları
 
-Centralized websites prevent spam through rate limiting and some form of ID verification. Even something as simple as reCAPTCHA[^9] is sufficient to limit the creation of fake accounts. If someone abuses their account then centralized websites are free to block the account.
+Bazı merkezi websiteleri spamı önlemek için bir nevi kimlik onayı ve hız sınırlaması kullanır. reCAPTCHA [^9] gibi basit bir şey bile sahte hesapların yaratılmasını engelleyebilir. Eğer birisi hesabını kötüye kullanıyorsa merkezi websiteler hesabı kapatma özgürlüğüne sahiptir.
 
 In a decentralized system there is no direct way to ban users nor centralized provider able to host a reCAPTCHA and enforce rate limiting of accounts. In fact, the inability to censor users is one of the main selling points of blockchain technology.
 
