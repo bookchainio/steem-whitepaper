@@ -304,9 +304,9 @@ Blokzinciri sistemini bir İnternet Servis Sağlayıcısı (ISS) gibi inceleyeli
 
 ISS'in iki seçeneği vardır. "rezerv" ya da "kısmi rezerv" sistemini kullanmak. Rezerv sisteminde kullanıcı mevcut olan maksimum trafiğin sadece payını aldığı kadarını alabilmesidir. Çünkü herkes aynı anda interneti kullanmaz, şehrin ağı önemli ölçüde az kullanılır.
 
-Kısmi rezerv sisteminde ise kullanıcılar satın aldıkları payın değerindeki trafikten daha fazla trafik alabilirler, şehirdeki herkesin aynı anda internet kullanmadığı sürece tabii. The problem with operating a fractional reserve is that congestion occurs anytime too many people wish to use the network at the same time. The ISP needs a way to prioritize bandwidth during congested periods. In the most extreme case, a fully congested network must revert to a full reserve system. The challenge is setting the proper fractional reserve ratio.
+Kısmi rezerv sisteminde ise kullanıcılar satın aldıkları payın değerindeki trafikten daha fazla trafik alabilirler, şehirdeki herkesin aynı anda internet kullanmadığı sürece tabii. Kısmi rezerve sahip olmanın sorunu ise herkesin aynı anda ağa bağlanıp internet kullanmak istediğinde oluşan tıkanıklılıktır. ISS bu tür durumlarda trafiklere öncelik vermek için bir yol bulmalıdır. Aşırı durumlarda, tamamen tıkanmış bir ağ tekrardan rezerv sistemine geçmelidir. Zor olan şey ise, doğru kısmi rezerv oranını bulmaktır.
 
-## Bandwidth Instead of Micropayment Channels
+## Mikroödeme Kanalları yerine Trafik
 
 The solution to the problems with micropayments is in implementing *dynamic fractional reserves*. Under this model the blockchain will automatically adjust the reserve ratio for the network during times of congestion. The blockchain will set a target utilization that leaves enough headroom for short term surges in demand. Any time the surges are sustained the blockchain reduces the maximum bandwidth-per-share. When a surge is over and there is surplus capacity the blockchain can slowly increase the bandwidth-per-share.
 
