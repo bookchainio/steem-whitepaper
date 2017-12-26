@@ -212,9 +212,9 @@ It is our belief that these rules will give market participants confidence that 
 
 ### معدل التصويت المحدودة
 
-الجزء الرئيسي من التقليل من سوء المعاملة هو الحد من معدل التصويت. Individual users can only read and evaluate so many work items per day. Any attempt to vote more frequently than this is a sign of automation and potential abuse. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
+الجزء الرئيسي من التقليل من سوء المعاملة هو الحد من معدل التصويت. يمكن للمستخدمين الفرديين فقط قراءة وتقييم الكثير من بنود العمل في يوم واحد. Any attempt to vote more frequently than this is a sign of automation and potential abuse. ومن خلال تحديد الأسعار، فإن أصحاب المصلحة الذين يصوتون بشكل أكثر تكرارا يكون عدد الأصوات لكل واحد منهم أقل من أصحاب المصلحة الذين يصوتون بشكل أقل تواترا. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
 
-Users are allotted a fixed amount of voting power. Voting power is multiplied by a user’s vesting tokens to determine how much share in the reward pool should be allocated to a given work item. Every vote that is cast uses a percentage of remaining voting power. Users can vote for more posts, but each vote will be worth less, and it will take longer to reach full voting power again. Voting power recharges at a fixed linear rate of 20% per day.
+ويخصص للمستخدمين مبلغ ثابت من قوة التصويت. Voting power is multiplied by a user’s vesting tokens to determine how much share in the reward pool should be allocated to a given work item. Every vote that is cast uses a percentage of remaining voting power. Users can vote for more posts, but each vote will be worth less, and it will take longer to reach full voting power again. Voting power recharges at a fixed linear rate of 20% per day.
 
 ### Payout Distribution
 
