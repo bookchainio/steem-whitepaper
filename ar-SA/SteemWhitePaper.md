@@ -214,9 +214,9 @@ It is our belief that these rules will give market participants confidence that 
 
 الجزء الرئيسي من التقليل من سوء المعاملة هو الحد من معدل التصويت. يمكن للمستخدمين الفرديين فقط قراءة وتقييم الكثير من بنود العمل في يوم واحد. Any attempt to vote more frequently than this is a sign of automation and potential abuse. ومن خلال تحديد الأسعار، فإن أصحاب المصلحة الذين يصوتون بشكل أكثر تكرارا يكون عدد الأصوات لكل واحد منهم أقل من أصحاب المصلحة الذين يصوتون بشكل أقل تواترا. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
 
-ويخصص للمستخدمين مبلغ ثابت من قوة التصويت. Voting power is multiplied by a user’s vesting tokens to determine how much share in the reward pool should be allocated to a given work item. Every vote that is cast uses a percentage of remaining voting power. Users can vote for more posts, but each vote will be worth less, and it will take longer to reach full voting power again. Voting power recharges at a fixed linear rate of 20% per day.
+ويخصص للمستخدمين مبلغ ثابت من قوة التصويت. Voting power is multiplied by a user’s vesting tokens to determine how much share in the reward pool should be allocated to a given work item. كل تصويت تم توزيعه  يستخدم نسبة مئوية من قوة التصويت المتبقية. يمكن للمستخدمين التصويت لمزيد من المنشورات، ولكن كل صوت سيكون أقل قيمة، وسوف يستغرق وقتا أطول للوصول إلى قوة التصويت الكاملة مرة أخرى. يتم إعادة شحن طاقة التصويت بمعدل خطي ثابت بنسبة 20٪ يوميا.
 
-### Payout Distribution
+### توزيع العائد
 
 One of the primary goals of Steem’s reward system is to produce the best discussions on the internet. Each and every year 75% of the yearly inflation is distributed to users submitting, voting on, and discussing content. At the size of Bitcoin this could be several million dollars per day being given to the top contributors.
 
