@@ -316,7 +316,7 @@ In our estimate it should be sufficient to measure the average weekly bandwidth 
 
 ### Kapasitenin Önemi
 
-Blokzinciri kapasitesi aslında limitli değildir. It is well within the technological capability of internet infrastructure to increase the Bitcoin block size to 10MB which in turn will reduce the minimum required balance by a factor of 10. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second.
+Blokzinciri kapasitesi aslında limitli değildir. It is well within the technological capability of internet infrastructure to increase the Bitcoin block size to 10MB which in turn will reduce the minimum required balance by a factor of 10. Bitcoin şuanda saniyede 3 hareketi desteklerken, alternatif implementasyonlar saniyede 1000'in üzerinde hareketi destekleyecek kapasitedelerdir.
 
 ### Comparison to Fees
 
