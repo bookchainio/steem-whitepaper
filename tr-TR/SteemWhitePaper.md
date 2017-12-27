@@ -378,9 +378,9 @@ Decentralized rate limiting of transactions can enable new types of decentralize
 
 Steem agi, BitShares'i calistiran ayni teknoloji olan Graphene üzerine insa edilmistir. Graphene bir dagitik test agi üzerinde saniyede 1000'den fazla islemi destekleyekleyebildigini aleni bir sekilde kanitlamistir. Graphene, sunucu kapasitesi ve iletisim protokollerine yapilacak göreli basit gelistirmeler ile birlikte, saniyede10,000 ya da daha fazla sayida islemi kolaylikla ölcekleyebilir.
 
-## Reddit Scale
+## Reddit Ölcegi
 
-Steem Reddit'ten daha büyük bir kullanici tabani ile bas edebilmeye muktedirdir. 2015 yilinda Reddit'in 8.7 milyon üyesi genel ortalama olarak saniyede 23 yorum[^12]; üye basina da yilda 83 yorum üretmistir. Saniye basina iki paylasim ortalamasiyla, 73 milyon üst seviye paylasim vardi. There were about 7 billion up votes creating an average voting rate of 220 votes per second. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
+Steem Reddit'ten daha büyük bir kullanici tabani ile bas edebilmeye muktedirdir. 2015 yilinda Reddit'in 8.7 milyon üyesi genel ortalama olarak saniyede 23 yorum[^12]; üye basina da yilda 83 yorum üretmistir. Saniye basina iki paylasim ortalamasiyla, 73 milyon üst seviye paylasim mevcuttu. 7 milyara yakin begeni oyunun yarattigi, saniye basina 220 oy sekilde, bir ortalama oylama orani vardi. Tüm bunlar söylendiginde, eger Reddit blockhain üzerinde calisiyor olsaydi saniye basina 250 islem ortalamasina ihtiyac duyardi.
 
 To achieve this industry-leading performance, Steem has borrowed lessons learned from the LMAX Exchange[^13], which is able to process 6 million transactions per second. Among these lessons are the following key points:
 
