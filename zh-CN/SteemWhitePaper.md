@@ -252,9 +252,9 @@ Steem的奖励制度的主要目标之一是在互联网上进行最佳的讨论
 
 在加密货币的世界里，公共记录通常称为*区块链*。*区块* 是一组已签名的交易。
 
-在Steem里，区块在回合中产生。 每个回合中，21名见证人被选出来创建和签署交易区块。 Twenty (20) of these witnesses are selected by approval voting and one is timeshared by every witness that didn’t make it into the top 20 proportional to their total votes. The 21 active witnesses are shuffled every round to prevent any one witness from constantly ignoring blocks produced by the same witness placed before. Any witness who misses a block and hasn't produced in the last 24 hours will be disabled until they update their block signing key.
+在Steem里，区块在回合中产生。 每个回合中，21名见证人被选出来创建和签署交易区块。 这些证人的二十个 (20)被赞成投票选出，一个名额在那些没有成为前20名的见证人中按照他们总投票的比例分时。 21活跃的见证人每轮都被洗牌，以防止任何一个证人不断忽略同一证人所产生的区块。 任何未在过去24小时内未生成区块或者丢失区块的见证人将被禁止，知道他们更新了他们的区块签名密钥。
 
-This process is designed to provide the best reliability while ensuring that everyone has the potential to participate in block production regardless of whether they are popular enough to get voted to the top. People have three options to overcome censorship by the top 20 elected witnesses: patiently wait in line with everyone else not in the top 20, or purchase more SP to improve voting power. Generally speaking, applying censorship is a good way for elected witnesses to lose their job and therefore, it is unlikely to be a real problem on the Steem network.
+这个过程的目的是提供最佳的可靠性，同时确保每个人都有参与块生产的可能，不管他们是否有人缘以至于被投牌到最高。 People have three options to overcome censorship by the top 20 elected witnesses: patiently wait in line with everyone else not in the top 20, or purchase more SP to improve voting power. Generally speaking, applying censorship is a good way for elected witnesses to lose their job and therefore, it is unlikely to be a real problem on the Steem network.
 
 Because the active witnesses are known in advance, Steem is able to schedule witnesses to produce blocks every 3 seconds. Witnesses synchronize their block production via the NTP protocol. A variation of this algorithm has been in use by the BitShares network for over a year where it has been proven to be reliable.
 
