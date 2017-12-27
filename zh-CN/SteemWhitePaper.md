@@ -234,11 +234,11 @@ Steem的奖励制度的主要目标之一是在互联网上进行最佳的讨论
 
 ### 支付
 
-When a post receives a payout it takes the form of 50% SBD and 50% SP. The Steem Power give the user increased voting and transaction power while the SBD gives the user an immediate benefit in a stable currency. As we’ve already discussed at length, SP is designed to encourage long-term holding rather than short-term selling. This encourages more users to have a vested interest in the long-term success of the platform.
+当一个帖子收到付款时是以50%SBD和50%SP的形式。 Steem能量给用户更多的投票和交易权利，而SBD给用户一个稳定货币的即时收益。 正如我们已经详细讨论过的，SP的目的是鼓励长期持有，而不是短期出售。 这会鼓励更多的用户对该平台的长期成功有相关利益。
 
-Users also have the option to be paid in 100% SP, as well as decline payout on posts. When a user declines payout on a post, the money that would have been paid to them remains in the rewards pool, to be distributed to other users.
+用户也可以选择100% SP支付，以及拒绝收益。 当一个用户拒绝一个帖子的收益时，应该付给他们的钱仍然留在奖金池中，将会被分配给其他用户。
 
-# Consensus Algorithm
+# 共识算法
 
 Consensus is the process by which a community comes to a universally recognized, unambiguous agreement on piece of information. There are many algorithms society has developed for reaching consensus about who owns what. Every government on earth is a primitive consensus algorithm whereby the population agrees to abide by a certain set of rules enshrined in a constitution. Governments establish courts, judges, and juries to interpret the subjective facts and render a final decision. Most of the time people abide by the decision even if it was wrong.
 
