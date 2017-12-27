@@ -240,11 +240,11 @@ Steem的奖励制度的主要目标之一是在互联网上进行最佳的讨论
 
 # 共识算法
 
-Consensus is the process by which a community comes to a universally recognized, unambiguous agreement on piece of information. There are many algorithms society has developed for reaching consensus about who owns what. Every government on earth is a primitive consensus algorithm whereby the population agrees to abide by a certain set of rules enshrined in a constitution. Governments establish courts, judges, and juries to interpret the subjective facts and render a final decision. Most of the time people abide by the decision even if it was wrong.
+共识是一个社区对一项信息达成公认的、明确的协议的过程。 社会已经开发了许多有关达成谁拥有什么的共识的算法。 地球上的每个政府都是一个原始的共识算法，人们同意遵守宪法中所铭记的那一套法规。 政府建立法院、法官和陪审团来解释主观事实并作出最终决定。 大多数时候，即使是错误的，人们也会遵守这个决定。
 
-The algorithms used by cryptocurrencies provide a better way to reach consensus. Cryptographically signed testimony from individuals is recorded in a public ledger that establishes the absolute global order of events. A deterministic computer algorithm can then process this ledger to derive a universally accepted conclusion. So long as the members of a community agree on the processing algorithm, the result of the algorithm is authoritative.
+加密货币所使用的算法为达成共识提供了更好的方法。 个体用密码签名的证词被记录在公开的账本里，从而建立了事件的绝对全球秩序。 一个确定性的计算机算法能够处理这个账本以得出一个普遍接受的结论。 只要社区成员同意处理算法，算法的结果就是权威性的。
 
-The primary consideration is determining what testimony is allowed to enter the public record. Systems should be designed to minimize the potential for censorship. Censorship on the public ledger is similar to preventing someone from voting in an election. In both cases an individual is prevented from impacting the global consensus.
+首要的考虑是决定什么证词被允许载入公开记录。 系统的设计应尽量减少潜在的审查。 对公共账本的审查类似于阻止某人在选举中投票。 In both cases an individual is prevented from impacting the global consensus.
 
 ## Consensus in Steem
 
