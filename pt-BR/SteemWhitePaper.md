@@ -128,13 +128,13 @@ Se um token é visto como uma propriedade de toda a oferta de tokens, então um 
 
 Uma mudança rápida no valor do STEEM pode alterar dramaticamente a relação dívida/propriedade. A blockchain previne que a taxa de dívida/propriedade se torne muito alta, reduzindo a quantidade de STEEM recompensada através de conversões em SBD se o nível de dívida for maior que 10%. Se a quantidade de dívida em SBD exceder 10% da capitalização total de mercado de STEEM, a blockchain irá automaticamente reduzir a quantidade de STEEM gerada através de conversões para um máximo de 10% da capitalização do mercado. Isso garante que a blockchain nunca tenha uma taxa de dívida/propriedade maior que 10%.
 
-The percentage floors used to compute STEEM creation are based on the supply including the STEEM value of all outstanding SBD and SP (as determined by the current rate / feed).
+Os pisos percentuais utilizados para calcular a criação de STEEM são baseados na oferta incluindo o valor em STEEM de todos SBD e SP pendentes (conforme determinado pela atual taxa/índice).
 
-### Interest
+### Juros
 
-SBD pays holders interest. The interest rate is set by the same people who publish the price feed so that it can adapt to changing market conditions. All debt carries risk to the lender. Someone who holds SBD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SBD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
+SBD paga juros aos seus detentores. A taxa de juros é determinada pelas mesmas pessoas que publicam o índice de preços, de forma que pode ser adaptada às condições de mercado. Toda dívida traz risco ao credor. Alguém que detém SBD sem retirá-lo está efetivamente emprestando à comunidade o valor de um dólar. Eles estão confiando que, em algum ponto no futuro, alguém estará disposto a comprar SBD deles por um dólar or que haverá especuladores e investidores dispostos a comprar o STEEM que pode ser convertido.
 
-STEEM and SP holders gain leverage when members of the community are willing to hold SBD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
+Titulares de STEEM e SP recebem uma margem quando membros da comunidade estão dispostos a segurar o SBD. Essa margem aplifica o ganho de crescimento assim como contribuem para o crescimento. Titulares de STEEM sofrem com o aumento de diluição se o preço cai. Projetos de Criptomoedas têm mostrado que os ganhos do aumento da base de usuários dispostos a confiar na rede com o capital, no fim das contas, adicionam mais valor à rede do que qualquer diluição que pode ocorrer durante uma recessão.
 
 ### Setting Price Feeds
 
