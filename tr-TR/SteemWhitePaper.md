@@ -310,9 +310,9 @@ Kısmi rezerv sisteminde ise kullanıcılar satın aldıkları payın değerinde
 
 Mikroödemelere çare *dinamik kısmi rezerv* implemetasyonudur. Bu model altında blokzinciri rezerv oranını tıkanılılığa göre otomatik olarak ayarlayabilr. Blokzinciri oranı ayarlarken kısa süreli dalgalanmalar için pay bırakarak bir hedef belirler. Dalgalanmalar olduğunda blokzinciri pay-başına-trafik oranını düşürür. Dalgalanma bittiğinde ve ekstra kapasite olduğunda blokzinciri tekrardan yavaşça pay-başına-trafiği yükseltebilir.
 
-Bir kullanıcı tarafından kullanılan trafik kullanıcının kullanım zamanının değişeceği göz önüne alınarak uzun süreli periyodlar ile hesaplanmalıdır. Kullanıcı oturum açıp, aynı anda bir sürü şey yapıp, çıkmaya meyillidirler. Bu da kısa süreli incelendiğinde fazla gözüken trafiğin aslında uzun süre olarak tam tersi olması anlamına gelir. If the time window is stretched too far then the reserve ratio will not adjust fast enough to respond to short-term surges, if the window is too short then clustering usage will have too big of an impact on normal users.
+Bir kullanıcı tarafından kullanılan trafik kullanıcının kullanım zamanının değişeceği göz önüne alınarak uzun süreli periyodlar ile hesaplanmalıdır. Kullanıcı oturum açıp, aynı anda bir sürü şey yapıp, çıkmaya meyillidirler. Bu da kısa süreli incelendiğinde fazla gözüken trafiğin aslında uzun süre olarak tam tersi olması anlamına gelir. Eğer süreç çok fazla uzuyorsa sistem kısa sürekli patlamalar için rezerv oranını yeteri kadar hızlı ayarlayamayabilir. Eğer süreç çok kısa ve toplu kullanım varsa normal kullanıcılar için büyük bir etkisi olacaktır.
 
-In our estimate it should be sufficient to measure the average weekly bandwidth usage of users. Every time a user signs a transaction, that transaction is factored into their own individual moving average. Any time a user’s moving average exceeds the current network limit their transaction is delayed until their average falls below the limit.
+Tahminlerimize göre, kullanıcıların trafik hesaplamalarını haftalık yapmak yeterlidir. Kullanıcı her hareketi imzaladığında, imzaladıkları hareket kullanıcının geçmiş hareketlerinin ortalaması alınarak hesaplanır. Any time a user’s moving average exceeds the current network limit their transaction is delayed until their average falls below the limit.
 
 ### Kapasitenin Önemi
 
