@@ -272,9 +272,9 @@ Steem会不遗余力地奖励人们对网络的贡献。当他们每次试图与
 
 ### 微支付不可行
 
-收取交易费用的根本问题是微支付不可行，特别是对于低金额用户操作。 When a fee is charged on every transaction, it limits the types of transactions that a decentralized network can process. Regardless of how rational the argument for the necessity of fees, users still hate the experience of being nickeled and dimed for everything that they do.
+收取交易费用的根本问题是微支付不可行，特别是对于低金额用户操作。 当每个交易都收取费用时，它会限制去中心网络可以处理的交易类型。 不管收取费用的论证多么合情合理，用户还是讨厌到处都是鸡毛蒜皮的收费的体验。
 
-Imagine if the websites we use every day charged us a fee every time we modify our accounts by changing the password. Users expect certain things to be free. Requiring users to make a decision on whether or not an action is worth a small fee creates anxiety that causes users to leave. A transaction can’t be worth so much as to require a decision but worth so little that that decision is automatic. There is a certain amount of anxiety involved in any decision to buy, no matter how small, and it derives not from the interface used or the time required, but from the very act of deciding.
+设想一下一个网站在我们每次修改密码都收取费用。 用户希望有些事情是免费的。 要求用户决定一件事情是否者的付小额费用增加的用户的忧虑，从而会使用户离开。 A transaction can’t be worth so much as to require a decision but worth so little that that decision is automatic. There is a certain amount of anxiety involved in any decision to buy, no matter how small, and it derives not from the interface used or the time required, but from the very act of deciding.
 
 Micropayments, like all payments, require a comparison: *“Is this much of X worth that much of Y?”* There is a minimum mental transaction cost created by this fact that cannot be optimized away, because the only transaction a user will be willing to approve with no thought will be one that costs them nothing, which is no transaction at all.
 
