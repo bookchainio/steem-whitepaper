@@ -244,15 +244,15 @@ Steem的奖励制度的主要目标之一是在互联网上进行最佳的讨论
 
 加密货币所使用的算法为达成共识提供了更好的方法。 个体用密码签名的证词被记录在公开的账本里，从而建立了事件的绝对全球秩序。 一个确定性的计算机算法能够处理这个账本以得出一个普遍接受的结论。 只要社区成员同意处理算法，算法的结果就是权威性的。
 
-首要的考虑是决定什么证词被允许载入公开记录。 系统的设计应尽量减少潜在的审查。 对公共账本的审查类似于阻止某人在选举中投票。 In both cases an individual is prevented from impacting the global consensus.
+首要的考虑是决定什么证词被允许载入公开记录。 系统的设计应尽量减少潜在的审查。 对公共账本的审查类似于阻止某人在选举中投票。 在这两种情况下，个人被阻止队全球共识产生影响。
 
-## Consensus in Steem
+## Steem里的共识
 
-Conceptually, the consensus algorithm adopted by Steem is similar to the consensus algorithm adopted by companies throughout the world. People with a vested interest in the future value of Steem vote to select individuals responsible for including testimony in the public record. Voting is weighted proportional to each individual's vested interest.
+从概念上讲，Steem采用的共识算法类似于世界各地公司采用的共识算法。 对于未来Steem价值有既得利益的人投票选出一些个人来负责在公开记录中收录证词的个人。 投票权与每一个人的既得利益成正比。
 
-In the world of cryptocurrencies, the public record is commonly referred to as a *blockchain*. A *block* is a group of signed transactions.
+在加密货币的世界里，公共记录通常称为*区块链*。*区块* 是一组已签名的交易。
 
-With Steem, block production is done in rounds. Each round 21 witnesses are selected to create and sign blocks of transactions. Twenty (20) of these witnesses are selected by approval voting and one is timeshared by every witness that didn’t make it into the top 20 proportional to their total votes. The 21 active witnesses are shuffled every round to prevent any one witness from constantly ignoring blocks produced by the same witness placed before. Any witness who misses a block and hasn't produced in the last 24 hours will be disabled until they update their block signing key.
+在Steem里，区块在回合中产生。 每个回合中，21名见证人被选出来创建和签署交易区块。 Twenty (20) of these witnesses are selected by approval voting and one is timeshared by every witness that didn’t make it into the top 20 proportional to their total votes. The 21 active witnesses are shuffled every round to prevent any one witness from constantly ignoring blocks produced by the same witness placed before. Any witness who misses a block and hasn't produced in the last 24 hours will be disabled until they update their block signing key.
 
 This process is designed to provide the best reliability while ensuring that everyone has the potential to participate in block production regardless of whether they are popular enough to get voted to the top. People have three options to overcome censorship by the top 20 elected witnesses: patiently wait in line with everyone else not in the top 20, or purchase more SP to improve voting power. Generally speaking, applying censorship is a good way for elected witnesses to lose their job and therefore, it is unlikely to be a real problem on the Steem network.
 
