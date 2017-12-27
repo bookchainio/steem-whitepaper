@@ -312,23 +312,23 @@ Mikroödemelere çare *dinamik kısmi rezerv* implemetasyonudur. Bu model altın
 
 Bir kullanıcı tarafından kullanılan trafik kullanıcının kullanım zamanının değişeceği göz önüne alınarak uzun süreli periyodlar ile hesaplanmalıdır. Kullanıcı oturum açıp, aynı anda bir sürü şey yapıp, çıkmaya meyillidirler. Bu da kısa süreli incelendiğinde fazla gözüken trafiğin aslında uzun süre olarak tam tersi olması anlamına gelir. Eğer süreç çok fazla uzuyorsa sistem kısa sürekli patlamalar için rezerv oranını yeteri kadar hızlı ayarlayamayabilir. Eğer süreç çok kısa ve toplu kullanım varsa normal kullanıcılar için büyük bir etkisi olacaktır.
 
-Tahminlerimize göre, kullanıcıların trafik hesaplamalarını haftalık yapmak yeterlidir. Kullanıcı her hareketi imzaladığında, imzaladıkları hareket kullanıcının geçmiş hareketlerinin ortalaması alınarak hesaplanır. Any time a user’s moving average exceeds the current network limit their transaction is delayed until their average falls below the limit.
+Tahminlerimize göre, kullanıcıların trafik hesaplamalarını haftalık yapmak yeterlidir. Kullanıcı her hareketi imzaladığında, imzaladıkları hareket kullanıcının geçmiş hareketlerinin ortalaması alınarak hesaplanır. Kullanıcıların hareketleri genel ortalamasının üzerine çıktığında, tekrar düşene kadar gecikmeli olacaktır.
 
 ### Kapasitenin Önemi
 
-Blokzinciri kapasitesi aslında limitli değildir. It is well within the technological capability of internet infrastructure to increase the Bitcoin block size to 10MB which in turn will reduce the minimum required balance by a factor of 10. Bitcoin şuanda saniyede 3 hareketi desteklerken, alternatif implementasyonlar saniyede 1000'in üzerinde hareketi destekleyecek kapasitedelerdir.
+Blokzinciri kapasitesi aslında limitli değildir. Şu anki internet altyapısının teknolojik kapasitesi Bitcoin blok boyutunu 10MB'e arttırmak için yeterlidir, bu da gerekli bakiye miktarını faktörel olarak 10 kat azaltacaktır. Bitcoin şuanda saniyede 3 hareketi desteklerken, alternatif implementasyonlar saniyede 1000'in üzerinde hareketi destekleyecek kapasitedelerdir.
 
-### Comparison to Fees
+### Ücretler ile Karşılaştırma
 
 Eğer bir kullanıcının her hafta sadece 25$ dolar değerinde BTC gönderimi yaptığını ve her ödediklerinde 0.04$ cent ücret öderse, yılda 2 doların üstünde bir ücret ödeyecektir. Kullanıcı o 25$ doların sadece 8%ini kazanarak ücretleri ödemek için harcadığı miktarı amorti edebilir. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
 
-### Account Creation
+### Hesap Oluşturma
 
-Steem’s account-based system with publicly known balances simplifies the implementation of the bandwidth-based rate limiting algorithm. Any account with a balance below the minimum required to transact once per week would be unable to transact. This implies that all new accounts should be funded with at least this minimum balance. It also implies that users wishing to transact in smaller amounts can, so long as they hold a larger balance and reuse the account.
+Steem'in hesap bazlı sistemi ve genel olarak bilinen bakiyeleri trafik bazlı hız limitleme algoritmasının implementasyonunu kolaylaştırıyor. Minimum gerekli miktarın altında bakiyesi olan hesapların haftada en az bir hesap hareketi gerçekleştirmesi gerekmektedir. Bu da bütün yeni hesapların en az minimum bakiye miktarını bulundurmaları gerektiğini vurgular. Aynı zamanda daha küçük miktarlarda hareket sağlamak isteyen kullanıcılar bakiyeleri fazla olduğu ve hesabı kullanabilecekleri sürece bu işlemi gerçekleştriebilirler.
 
-It is possible for a low-balance account created during a time of low usage to become inaccessible if the network usage picks up. The funds could be recovered at any time by temporarily delegating a larger balance to the account.
+Kullanımın az olduğu zamanlarda oluşturulan minimum bakiyeleri hesapların ağ kullanımı arttığında kullanılamayan duruma düşme ihtimali bulunmaktadır. Bu bakiyeler istenildiği zaman büyük bir hesaba delege edilerek kullanılabilir.
 
-In order to maintain a reasonable user experience with a minimum number of hung accounts, all new accounts should start out with a balance 10 times the minimum required to transact weekly. This way even if demand increases by a factor of 10 the account will remain viable.
+Minimum bakiyenin altında ve kullanılamaz olan hesapların sayısını kontrol edebilmek için bütün yeni hesaplar minimum gereken tutarın en az 10 katı ile başlamalıdır. This way even if demand increases by a factor of 10 the account will remain viable.
 
 Any initial account balance would have to come from the user creating the account and not from token creation due to the potential for sybil attacks.
 
