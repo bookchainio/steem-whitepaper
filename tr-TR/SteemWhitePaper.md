@@ -386,8 +386,8 @@ Steem bu sektör-öncüsü performansa erismek icin, saniyede 6 milyon islemi is
 
 1. Herseyi hafizada tut.
 2. Cekirdek isletme mantigini tek bir dizide tut.
-3. Keep cryptographic operations (hashes and signatures) out of the core business logic.
-4. Divide validation into state-dependent and state-independent checks.
+3. Kriptografik operasyonlari (hashler ve imzalar) cekirdek isletme mantiginin disinda tut.
+4. Teyidi duruma-bagimli ve durumdan-bagimsiz denetlemelere böl.
 5. Use an object oriented data model.
 
 By following these simple rules, Steem is able to process 10,000 transactions per second without any significant effort devoted to optimization.
