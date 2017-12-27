@@ -4,7 +4,7 @@
 
 Ağustos 2017
 
-# Tercüman'ın notları
+# Çevirmen Notları
 
 Çevirmenin notaları için yer tutucu.
 
@@ -328,17 +328,17 @@ Steem'in hesap bazlı sistemi ve genel olarak bilinen bakiyeleri trafik bazlı h
 
 Kullanımın az olduğu zamanlarda oluşturulan minimum bakiyeleri hesapların ağ kullanımı arttığında kullanılamayan duruma düşme ihtimali bulunmaktadır. Bu bakiyeler istenildiği zaman büyük bir hesaba delege edilerek kullanılabilir.
 
-Minimum bakiyenin altında ve kullanılamaz olan hesapların sayısını kontrol edebilmek için bütün yeni hesaplar minimum gereken tutarın en az 10 katı ile başlamalıdır. This way even if demand increases by a factor of 10 the account will remain viable.
+Minimum bakiyenin altında ve kullanılamaz olan hesapların sayısını kontrol edebilmek için bütün yeni hesaplar minimum gereken tutarın en az 10 katı ile başlamalıdır. Bu şekilde eğer ağ kullanımı talebe oranla 10 kat artsa bile, hesap geçerli ve kullanılabilir kalacaktır.
 
-Any initial account balance would have to come from the user creating the account and not from token creation due to the potential for sybil attacks.
+Hesap oluştururken gelen herhangi bir bakiye başka bir kullanıcıdan gelmeli ve potansiyel sybil saldırılarını önlemek için token olarak oluşturulmamalıdır.
 
 ### Minimum Bakiyeleri Kararlaştırma
 
-Kullanıcıların minimum bir bakiye bulundurmaya zorlama konsepti kullanıcının kendi değerinden gelir. [^10]. Herhangi bir işletme yürüten bilir ki her kullanıcının mutlak bir değeri vardır. İşletmeler yeni bir kullanıcıya sahip olmak için 30$ dan 200$'a kadar ücret ödeyebilirler. Bazen kullanıcılara direk ödeme yaparken bazen reklamlara öderler, ve yine bazı zamanlarda bazı işletmeler tüm kullanıcılarını satın almışlardır. After a company acquires a user they often given them many *free services* just to keep them around long enough to monetize them through some other means.
+Kullanıcıların minimum bir bakiye bulundurmaya zorlama konsepti kullanıcının kendi değerinden gelir. [^10]. Herhangi bir işletme yürüten bilir ki her kullanıcının mutlak bir değeri vardır. İşletmeler yeni bir kullanıcıya sahip olmak için 30$ dan 200$'a kadar ücret ödeyebilirler. Bazen kullanıcılara direk ödeme yaparken bazen reklamlara öderler, ve yine bazı zamanlarda bazı işletmeler tüm kullanıcılarını satın almışlardır. Bir şirket kullanıcıyı kazandıktan sonra genel olarak onlara *ücretsiz hizmetler* sağlayarak başka yollar sayesinde üzerlerinden para kazanmak için kullanıcıları tutmalarını sağlar.
 
-Ripple uses a minimum balance[^11] that scales with account resource use and requires that new accounts get funded with at least this minimum balance. Currently this minimum balance is about $0.15 which is greater than the $0.10 we estimated would allow someone to transact freely at least once per week.
+Ripple'ın minimum bakiye miktarı [^11] hesabın kullanım oranı ile birlikte yükselir ve yeni hesapların minimum o miktarda bakiye bulundurmasını gerektirir. Şu an için bu minimum bakiye miktarı yaklaşık 0.15$ cent'dir bu miktarda bizim daha öncesinde haftada bir kez özgürce hareket edilebilir olarak düşündüğümüz miktardan 0.10$ cent fazladır.
 
-A blockchain can enforce a minimum value per user through the simple process of requiring a minimum balance. Any business that wishes to bring a new customer to the blockchain can pre-fund that user’s account with the minimum balance that would allow them to transact. Requiring a relatively large fee ($1.00) to sign up new users will naturally force anyone offering free accounts to vet the quality and uniqueness of each account before registering them with the blockchain.
+Bir blokzinciri kullanıcıların sahip olması gereken minimum değeri, minimum bakiye gereksinimi ile zorlayabilir. Blokzincirine yeni bir kullanıcı kazandırmak isteyen herhangi bir şirket o kullanıcının hesabını daha önceden minimum bakiye ile doldurarak sistemi kullanmasını sağlar. Requiring a relatively large fee ($1.00) to sign up new users will naturally force anyone offering free accounts to vet the quality and uniqueness of each account before registering them with the blockchain.
 
 Maintaining a minimum balance is effectively the same as making users pay transaction fees with the interest they could have earned on their balance. The minimum balance is simply the balance required to earn enough interest to pay a fee in a relatively short period of time.
 
