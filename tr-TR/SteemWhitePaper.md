@@ -407,11 +407,11 @@ Katki Ödülleri:
 - Blok üretimi ödülleri: Hangisi daha büyük ise, blok basina 1 STEEM ya da yilda 0.750%
 - 864,00. blok öncesi POW kapsama ödülleri: Blok basina 1STEEM (raunt basina 21 STEEM olarak ödüllendirilir)
 - 864,00. blok sonrasi POW kapsama ödülleri: Hangisi daha büyük ise, blok basina 0.0476 STEEM (raunt basina 1 STEEM olarak ödüllendirilir) ya da yilda 0.750%.
-- Liquidity rewards: 1 STEEM per block (awarded as 1200 STEEM per hour) or 0.750% per year, whichever is greater
+- Likidite ödülleri: Hangisi daha büyük ise, blok basina 1 STEEM (saat basina 1200 STEEM olarak ödüllendirilir) ya da yilda 0.750%
 
-### Power Rewards:
+### Power ödülleri:
 
-- Steem Power rewards: For each STEEM created by the above rewards, 9 STEEM are divided among all Steem Power holders.
+- Steem Power ödülleri: Yukaridaki ödüller tarafindan yaratilan her bir STEEM icin, 9 STEEM tüm Steem Power sahipleri arasinda bölüstürülür.
 
 ### SBD operations:
 
