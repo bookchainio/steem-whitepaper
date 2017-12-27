@@ -226,7 +226,7 @@ It is our belief that these rules will give market participants confidence that 
 
 ![](\img_the_new_marketplace.png)
 
-أخذ الشعبية كمقياس تقريبي للقيمة، ثم يتم إعطاء قيمة كل بند على حدة من قبل قانون Zipf. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
+أخذ الشعبية كمقياس تقريبي للقيمة، ثم يتم إعطاء قيمة كل بند على حدة من قبل قانون Zipf. وهذا هو، إذا كان لدينا مليون من البنود، و 100 الأكثر شعبية، سيساهمون ثلث القيمة الإجمالية، و 10،000 المقبلة الثلث الآخر، والباقي 9890000 الثلث الأخير. قيمة جمع العناصر n  يتناسب مع السجل (log(n.
 
 The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
 
