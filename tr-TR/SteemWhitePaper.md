@@ -382,10 +382,10 @@ Steem agi, BitShares'i calistiran ayni teknoloji olan Graphene üzerine insa edi
 
 Steem Reddit'ten daha büyük bir kullanici tabani ile bas edebilmeye muktedirdir. 2015 yilinda Reddit'in 8.7 milyon üyesi genel ortalama olarak saniyede 23 yorum[^12]; üye basina da yilda 83 yorum üretmistir. Saniye basina iki paylasim ortalamasiyla, 73 milyon üst seviye paylasim mevcuttu. 7 milyara yakin begeni oyunun yarattigi, saniye basina 220 oy sekilde, bir ortalama oylama orani vardi. Tüm bunlar söylendiginde, eger Reddit blockhain üzerinde calisiyor olsaydi saniye basina 250 islem ortalamasina ihtiyac duyardi.
 
-To achieve this industry-leading performance, Steem has borrowed lessons learned from the LMAX Exchange[^13], which is able to process 6 million transactions per second. Among these lessons are the following key points:
+Steem bu sektör-öncüsü performansa erismek icin, saniyede 6 milyon islemi isleyebilen LMAX Exchange'den[^13] cikarilan dersleri ödünc almistir. Bu dersler icindeki anahtar noktalar:
 
-1. Keep everything in memory.
-2. Keep the core business logic in a single thread.
+1. Herseyi hafizada tut.
+2. Cekirdek isletme mantigini tek bir dizide tut.
 3. Keep cryptographic operations (hashes and signatures) out of the core business logic.
 4. Divide validation into state-dependent and state-independent checks.
 5. Use an object oriented data model.
