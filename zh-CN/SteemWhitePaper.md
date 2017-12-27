@@ -254,25 +254,25 @@ Steem的奖励制度的主要目标之一是在互联网上进行最佳的讨论
 
 在Steem里，区块在回合中产生。 每个回合中，21名见证人被选出来创建和签署交易区块。 这些证人的二十个 (20)被赞成投票选出，一个名额在那些没有成为前20名的见证人中按照他们总投票的比例分时。 21活跃的见证人每轮都被洗牌，以防止任何一个证人不断忽略同一证人所产生的区块。 任何未在过去24小时内未生成区块或者丢失区块的见证人将被禁止，知道他们更新了他们的区块签名密钥。
 
-这个过程的目的是提供最佳的可靠性，同时确保每个人都有参与块生产的可能，不管他们是否有人缘以至于被投牌到最高。 People have three options to overcome censorship by the top 20 elected witnesses: patiently wait in line with everyone else not in the top 20, or purchase more SP to improve voting power. Generally speaking, applying censorship is a good way for elected witnesses to lose their job and therefore, it is unlikely to be a real problem on the Steem network.
+这个过程的目的是提供最佳的可靠性，同时确保每个人都有参与块生产的可能，不管他们是否有人缘以至于被投牌到最高。 人们有三选择以克服前20位当选见证人的审查：与其他人不在前20的一起耐心等待，或购买更多的SP以提高投票权。 一般而言，采用审查是当选见证人失去工作的一个好方法。因此，在Steem网络上这不太是个真正的问题。
 
-Because the active witnesses are known in advance, Steem is able to schedule witnesses to produce blocks every 3 seconds. Witnesses synchronize their block production via the NTP protocol. A variation of this algorithm has been in use by the BitShares network for over a year where it has been proven to be reliable.
+由于活跃的见证人事先已知，Steem能够安排证人每3秒产生区块。 见证人通过NTP协议同步他们的区块生产。 这个算法的变体已经被BitShares网络使用了一年多，并在那里证明是可靠的。
 
-# Eliminating Transaction Fees
+# 取消交易费
 
-Steem goes to great lengths to reward people for contributing to the network. It would be counterproductive to turn around and charge people every time they attempt to interact with the community.
+Steem会不遗余力地奖励人们对网络的贡献。当他们每次试图与社区进行互动时都被收费会适得其反的。
 
-Blockchain technology currently depends upon transaction fees to prevent spam. These fees suffer all of the known problems with microtransactions and prevent blockchains from being used for low-value transactions. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
+区块链技术目前依赖于用交易费用来防止垃圾。 这些费用遭受到所有与微消费和阻止区块链被用于低金额交易有关已知的问题。 真正的去中心化应用程序如果试图与其他去中心化的替代品，必须向用户提供貌似免费的交易。 本文概述了Steem所采用的方法以消除对费用的需求，从而使以前难以维持的去中心化应用程序有广泛的应用。
 
-## The Problem With Fees
+## 收费的问题
 
-Blockchains are decentralized networks where all transactions are broadcast to all peers. Every so often a block is produced that includes some or all of the pending transactions. All blockchains must find a solution to prevent malicious users from consuming all of the available network capacity with worthless transactions. These worthless transactions can prevent other valuable transactions from being processed and ultimately destroy the network.
+区块链是去中心化网络，所有的交易都被广播到所有的对等方。 每隔一段时间一个保护一些或者所有待定交易的区块被创建。 所有区块链必须找到一个解决方案，以防止恶意用户用无价值的交易消耗所有可用的网络容量。 这些无价值的交易能够阻止其他有价值的交易被处理从而最终破坏网络。
 
-The solution adopted by most blockchains thus far is to charge a minimum transaction fee. A fee worth just a few cents is enough to make attacking the network expensive and unprofitable. While this approach solves the spam problem, it introduces new problems. Imagine solving the email spam problem by introducing a small fee on every email; people wouldn’t use email.
+迄今为止，大多数区块链采用收取低交易费用的办法解决这个问题。 只需几美分的费用就足以使攻击网络的成本高昂且无利可图。 这种方法解决了垃圾的问题，同时也带来了新的问题。 假设通过在每封电子邮件中引入少量费用以解决垃圾邮件的问题，人们将不会使用电子邮件。
 
-### Micropayments Don’t Work
+### 微支付不可行
 
-The fundamental problem with charging transaction fees is that micropayments don’t work, especially for low-value user actions. When a fee is charged on every transaction, it limits the types of transactions that a decentralized network can process. Regardless of how rational the argument for the necessity of fees, users still hate the experience of being nickeled and dimed for everything that they do.
+收取交易费用的根本问题是微支付不可行，特别是对于低金额用户操作。 When a fee is charged on every transaction, it limits the types of transactions that a decentralized network can process. Regardless of how rational the argument for the necessity of fees, users still hate the experience of being nickeled and dimed for everything that they do.
 
 Imagine if the websites we use every day charged us a fee every time we modify our accounts by changing the password. Users expect certain things to be free. Requiring users to make a decision on whether or not an action is worth a small fee creates anxiety that causes users to leave. A transaction can’t be worth so much as to require a decision but worth so little that that decision is automatic. There is a certain amount of anxiety involved in any decision to buy, no matter how small, and it derives not from the interface used or the time required, but from the very act of deciding.
 
