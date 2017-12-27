@@ -392,7 +392,7 @@ Steem bu sektör-öncüsü performansa erismek icin, saniyede 6 milyon islemi is
 
 Steem bu basit kurallari takip ederek, optimizasyona adanmis önemli bir olmaksizin, saniyede 10,000 islemi isleyebilmektedir.
 
-Yakin zamanda Intel tarafindan Optane™ teknolojisinin piyasa sürülmüs olmasi[^14] da göz önünde tutuldugunda herseyi hafizada tutmak artan bir sekilde uygulanabilirdir. It should be possible for commodity hardware to handle all of the business logic associated with Steem in a single thread with all posts kept in memory for rapid indexing. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optane™ technology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
+Yakin zamanda Intel tarafindan Optane™ teknolojisinin piyasa sürülmüs olmasi[^14] da göz önünde tutuldugunda herseyi hafizada tutmak artan bir sekilde uygulanabilirdir. Standart bir donanimin, hizli bir indexleme icin, Steem ile ilintili tüm isletme mantiginin -tüm postlar hafizada kayitli bir sekilde- tek bir dizide tutuluyor olmasi ile bas edebiliyor olmasi gerekir. Google bile tüm internete dair kendi indexlerini RAM'in icinde tutar. Blockchain teknolojisinin kullanilmasi veri kaybinin önüne gecmek icin verilerin baska makinalara kopyalanmasini gereksiz hale getirir. As Optane™ technology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
 
 # Allocation & Supply
 
