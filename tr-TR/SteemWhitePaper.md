@@ -392,11 +392,11 @@ Steem bu sektör-öncüsü performansa erismek icin, saniyede 6 milyon islemi is
 
 Steem bu basit kurallari takip ederek, optimizasyona adanmis önemli bir olmaksizin, saniyede 10,000 islemi isleyebilmektedir.
 
-Yakin zamanda Intel tarafindan Optane™ teknolojisinin piyasa sürülmüs olmasi[^14] da göz önünde tutuldugunda herseyi hafizada tutmak artan bir sekilde uygulanabilirdir. Standart bir donanimin, hizli bir indexleme icin, Steem ile ilintili tüm isletme mantiginin -tüm postlar hafizada kayitli bir sekilde- tek bir dizide tutuluyor olmasi ile bas edebiliyor olmasi gerekir. Google bile tüm internete dair kendi indexlerini RAM'in icinde tutar. Blockchain teknolojisinin kullanilmasi veri kaybinin önüne gecmek icin verilerin baska makinalara kopyalanmasini gereksiz hale getirir. As Optane™ technology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
+Yakin zamanda Intel tarafindan Optane™ teknolojisinin piyasa sürülmüs olmasi[^14] da göz önünde tutuldugunda herseyi hafizada tutmak artan bir sekilde uygulanabilirdir. Standart bir donanimin, hizli bir indexleme icin, Steem ile ilintili tüm isletme mantiginin -tüm postlar hafizada kayitli bir sekilde- tek bir dizide tutuluyor olmasi ile bas edebiliyor olmasi gerekir. Google bile tüm internete dair kendi indexlerini RAM'in icinde tutar. Blockchain teknolojisinin kullanilmasi veri kaybinin önüne gecmek icin verilerin baska makinalara kopyalanmasini gereksiz hale getirir. Optane™ teknolojisi benimsendikce RAM, direnç kazaniyorken daha da hizli hale gelecek. Bir diger deyisle, Steem ölçeklendirme icin ve gelecegin mimarisi icin tasarlanmistir.
 
-# Allocation & Supply
+# Paylasim & Arz
 
-## Initial Allocation & Supply
+## Nihai Paylasim & Arz
 
 The Steem network started with a currency supply of 0 and allocated STEEM via proof of work at a rate of approximately 40 STEEM per minute to miners, with an additional 40 STEEM per minute being created to seed the content and curation reward pools (for a total of 80 STEEM per minute). Then the network started rewarding users who converted to SP. At this point, STEEM grew at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
 
