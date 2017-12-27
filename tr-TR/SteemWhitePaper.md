@@ -398,15 +398,15 @@ Yakin zamanda Intel tarafindan Optane™ teknolojisinin piyasa sürülmüs olmas
 
 ## Nihai Paylasim & Arz
 
-Steem Agi 0 para birimi arzi ile ve Miner'lara, Proof of Work araciligiyla dakikada yaklasik 40 STEEM ve icerik ve küratörlük ödül havuzunun yaratilmasi icin harcanan her bir dakika icin de ilaveten 40 STEEM (Toplamda dakika basina 80 STEEM) olmak üzere dagitilan STEEM ile basladi. Sonrasinda, ag SP'ye dönüstüren kullanicilari ödüllendirmeye basladi. At this point, STEEM grew at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
+Steem Agi 0 para birimi arzi ile ve Miner'lara, Proof of Work araciligiyla dakikada yaklasik 40 STEEM ve icerik ve küratörlük ödül havuzunun yaratilmasi icin harcanan her bir dakika icin de ilaveten 40 STEEM (Toplamda dakika basina 80 STEEM) olmak üzere dagitilan STEEM ile basladi. Sonrasinda, ag SP'ye dönüstüren kullanicilari ödüllendirmeye basladi. Bu noktada STEEM asagida özetlenen cesitli Katki Ödüllerinin muhtelif etkilerinden ötürü dakida basina yaklasik 800 STEEM oranina yükseldi:
 
-Contribution Rewards:
+Katki Ödülleri:
 
-- Curation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
-- Content Creation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
-- Block production rewards: 1 STEEM per block or 0.750% per year, whichever is greater
-- POW inclusion rewards before block 864,000: 1 STEEM per block (awarded as 21 STEEM per round)
-- POW inclusion rewards after block 864,000: 0.0476 STEEM per block (awarded as 1 STEEM per round) or 0.750% per year, whichever is greater.
+- Küratörlük ödülleri: Hangisi daha büyük ise, blok basinda 1 STEEM ya da yilda 3.875%
+- Icerik Yaratimi ödülleri: Hangisi daha büyük ise, blok basina 1 STEEM ya da yilda 3.875%
+- Blok üretimi ödülleri: Hangisi daha büyük ise, blok basina 1 STEEM ya da yilda 0.750%
+- 864,00. blok öncesi POW kapsama ödülleri: Blok basina 1STEEM (raunt basina 21 STEEM olarak ödüllendirilir)
+- 864,00. blok sonrasi POW kapsama ödülleri: Hangisi daha büyük ise, blok basina 0.0476 STEEM (raunt basina 1 STEEM olarak ödüllendirilir) ya da yilda 0.750%.
 - Liquidity rewards: 1 STEEM per block (awarded as 1200 STEEM per hour) or 0.750% per year, whichever is greater
 
 ### Power Rewards:
