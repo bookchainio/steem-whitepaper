@@ -230,7 +230,7 @@ It is our belief that these rules will give market participants confidence that 
 
 The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
 
-The economic effect of this is similar to a lottery where people overestimate their probability of getting votes and thus do more work than the expected value of their reward and thereby maximize the total amount of work performed in service of the community. The fact that everyone “wins something” plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
+الأثر الاقتصادي لهذا يشبه اليانصيب حيث الناس المبالغة في تقدير احتمال الحصول على الأصوات وبالتالي القيام بعمل أكثر من القيمة المتوقعة من مكافأتهم و بهذه الطريقة يزداد المبلغ الإجمالي للعمل المنجز لخدمة المجتمع الى الحد الاعلى. The fact that everyone “wins something” plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
 
 ### Payouts
 
