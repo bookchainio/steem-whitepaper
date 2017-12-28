@@ -84,7 +84,7 @@ Kullanicilar Steem'lerini, platform icerisinde kendilerine ilave faydalar da sag
 
 Kullanicilar icerikleri oyladiginda onlarin ödülerin dagitimi üzerindeki etkileri sahip olduklari SP ile dogru orantilidir. Daha fazla SP'ye sahip olan kullanicilar ödüllerin dagitimi üzerinde daha fazla etkiye sahiptir. Bu da demektir ki, SP ona sahip olanlara Steem platformu icerisinde münhasir yetkiler saglayan bir giris tokenidir.
 
-SP holders are also paid interest on the balance of SP that remains vested. 15% of the yearly inflation is paid to SP holders as interest. The amount of the interest that they receive is directly proportional to the amount of SP they hold relative to the total amount of vested SP across all users.
+SP sahiplerine vadeli mevduatlarinda duran SP bakiyesi üzerinden ayriyeten faiz ödenir. Yillik enflasyonun %15'i SP sahiplerine faiz olarak ödenir. Aldiklari faiz meblagi, tüm kullanicilar arasinda vadeli mevduatta tutulan SP meblagina nispi olarak, tuttuklari SP ile dogru orantilidir.
 
 Transferring from STEEM to SP is referred to as “powering up”, while transferring from SP to STEEM is referred to as “powering down.” SP that is powered down is returned to the user over a period of thirteen weeks, via 13 equal weekly payments, starting one week after the power down is initiated.
 
