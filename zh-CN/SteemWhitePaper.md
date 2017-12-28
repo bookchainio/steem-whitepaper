@@ -298,13 +298,13 @@ Steem会不遗余力地奖励人们对网络的贡献。当他们每次试图与
 
 在去中心化的系统中，没有直接的方法禁止用户，也没有中心化的提供商能够托管reCAPTCHA和强制限制帐户的速率。 事实上，不能审查用户是区块链技术的主要卖点之一。
 
-### 全额准备金与部分准备金
+### 完全预留与部分预留
 
-Let’s view a blockchain like an Internet Service Provider (ISP) co-op which owns all of the cables in the town and has a maximum amount of bandwidth that it can provide at any time. People living in the town can buy shares in the ISP and in exchange they are entitled to utilize a portion of the available bandwidth.
+让我们来把一个区块链看作一个互联网服务提供商 (ISP) 合作社。它拥镇上有所有的电缆 并有一个可以在任何时候提供的最大的带宽。 住在镇上的人可以购买ISP的股票，作为交换他们有权使用一部分带宽。
 
-The ISP has two choices, run a “full reserve” or “fractional reserve” system. Under a full reserve system each user is only allowed a fraction of the maximum bandwidth proportional to her shares. Because not everyone uses the Internet at the same time, the town’s network would be significantly underutilized.
+ISP 有两个选择，运行 "完全预留" 或 "部分预留" 系统。 在一个完全预留系统下，每个用户只允许使用最大带宽的与他的股票成正比的一小部分。 由于不是每个人都在同一时间使用互联网，该镇的网络将被利用非常不充分。
 
-Under a fractional reserve system the individual users could utilize more bandwidth than they are entitled to at any given point in time so long as not everyone uses the Internet at the same time. The problem with operating a fractional reserve is that congestion occurs anytime too many people wish to use the network at the same time. The ISP needs a way to prioritize bandwidth during congested periods. In the most extreme case, a fully congested network must revert to a full reserve system. The challenge is setting the proper fractional reserve ratio.
+在一个部分预留系统下，只要不是每个人都同时使用互联网，单个用户就可以使用比他们应得的更多的带宽。 The problem with operating a fractional reserve is that congestion occurs anytime too many people wish to use the network at the same time. The ISP needs a way to prioritize bandwidth during congested periods. In the most extreme case, a fully congested network must revert to a full reserve system. The challenge is setting the proper fractional reserve ratio.
 
 ## Bandwidth Instead of Micropayment Channels
 
