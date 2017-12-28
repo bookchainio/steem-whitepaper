@@ -276,13 +276,13 @@ Steem会不遗余力地奖励人们对网络的贡献。当他们每次试图与
 
 设想一下一个网站在我们每次修改密码都收取费用。 用户希望有些事情是免费的。 要求用户决定一件事情是否者的付小额费用增加的用户的忧虑，从而会使用户离开。 一个交易没有做一个决定有价值，但是比自动决定更有价值。 决定购买的时候总有一定的焦虑，不管多小。他不是派生于使用的界面或者需要的时间，而是来源于做决定这个行为。
 
-Micropayments, like all payments, require a comparison: *“Is this much of X worth that much of Y?”* There is a minimum mental transaction cost created by this fact that cannot be optimized away, because the only transaction a user will be willing to approve with no thought will be one that costs them nothing, which is no transaction at all.
+与所有支付一样，微支付需要进行比较：* "这么多的X是否值得这么多的Y？" *这一事实所产生的最低心理交易成本是无法被优化的，因为只有免费的交易才是用户唯一不需要考虑就愿意批准的，而这根本不是交易。
 
 – Clay Shirky[^8]
 
-In the world of financial payments, small fees are acceptable because the value of the transaction is extremely high relative to the fee charged, and the buyer has already made a decision to buy. The world of potential blockchain applications is far greater than just financial payments and includes many necessary transactions for which fees are simply unacceptable to users.
+在金融支付领域，小额费用是可以接受的，因为交易的价值比所收取的费用高的多，而买方已经作出了购买的决定。 潜在的区块链应用程序的世界远不仅仅是财务支付，还包括许多用户根本无法接受交易费的必要交易。
 
-Systems like BitShares, Nxt, Ripple, Counter Party and Stellar all allow users to place limit orders on the blockchain and all of them charge users a small fee to perform this action. Later if the user wishes to cancel their order, another fee is charged. Systems like Ethereum take micropayments to a whole new level: charging per calculation. All of these systems struggle to attract new mainstream users for the same reasons that a decentralized search engine would struggle to attract users from Google if it charged a small fee for every search. It doesn’t matter how good the service is, people expect certain things to be free. This is true even if a user ends up paying more overall under a different fee structure.
+像BitShares、Nxt、Ripple、Counter Party和Stellar等系统都允许用户将限制订单放在 区块链上，所有这些都向用户收取少许费用以执行操作。 稍后如果用户希望取消他们的订单，则另外收费。 像以太坊这样的系统将微支付带到一个全新的水平：每次计算皆收费。 All of these systems struggle to attract new mainstream users for the same reasons that a decentralized search engine would struggle to attract users from Google if it charged a small fee for every search. It doesn’t matter how good the service is, people expect certain things to be free. This is true even if a user ends up paying more overall under a different fee structure.
 
 ### Fees are a Barrier to Entry
 
