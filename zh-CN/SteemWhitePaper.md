@@ -304,13 +304,13 @@ Steem会不遗余力地奖励人们对网络的贡献。当他们每次试图与
 
 ISP 有两个选择，运行 "完全预留" 或 "部分预留" 系统。 在一个完全预留系统下，每个用户只允许使用最大带宽的与他的股票成正比的一小部分。 由于不是每个人都在同一时间使用互联网，该镇的网络将被利用非常不充分。
 
-在一个部分预留系统下，只要不是每个人都同时使用互联网，单个用户就可以使用比他们应得的更多的带宽。 The problem with operating a fractional reserve is that congestion occurs anytime too many people wish to use the network at the same time. The ISP needs a way to prioritize bandwidth during congested periods. In the most extreme case, a fully congested network must revert to a full reserve system. The challenge is setting the proper fractional reserve ratio.
+在一个部分预留系统下，只要不是每个人都同时使用互联网，单个用户就可以使用比他们应得的更多的带宽。 操作一个部分预留的问题是，当太多人希望同时使用网络时，就会出现堵塞。 ISP需要一种在拥塞期间优先带宽分配的方法。 在最极端的情况下，一个完全拥挤的网络必须恢复到一个完全预留系统。 挑战在于设定适当的部分预留率。
 
-## Bandwidth Instead of Micropayment Channels
+## 带宽而不是微支付通道
 
-The solution to the problems with micropayments is in implementing *dynamic fractional reserves*. Under this model the blockchain will automatically adjust the reserve ratio for the network during times of congestion. The blockchain will set a target utilization that leaves enough headroom for short term surges in demand. Any time the surges are sustained the blockchain reduces the maximum bandwidth-per-share. When a surge is over and there is surplus capacity the blockchain can slowly increase the bandwidth-per-share.
+微支付问题的解决方案是实现*动态部分预留*。 在该模型下，区块链在堵塞时自动调节预留比率。 区块链将设定一个目标应用，为短期激增的需求留出足够的余量。 每当高峰持续时，区块链会降低每个股份的最大带宽。 当高峰结束，并有过剩的容量时，区块链可以慢慢增加每股带宽。
 
-Bandwidth used by an individual user should be measured over a suitably long period of time to allow that user to time-shift their usage. Users tend to login, do many things at once, then logout. This means that their bandwidth over a short period of time may appear much higher than if viewed over a longer period of time. If the time window is stretched too far then the reserve ratio will not adjust fast enough to respond to short-term surges, if the window is too short then clustering usage will have too big of an impact on normal users.
+单个用户使用的带宽应在适当长的时间内进行测量，以允许该用户时间转移用量。 用户倾向于登录，一次做很多事情，然后登出。 This means that their bandwidth over a short period of time may appear much higher than if viewed over a longer period of time. If the time window is stretched too far then the reserve ratio will not adjust fast enough to respond to short-term surges, if the window is too short then clustering usage will have too big of an impact on normal users.
 
 In our estimate it should be sufficient to measure the average weekly bandwidth usage of users. Every time a user signs a transaction, that transaction is factored into their own individual moving average. Any time a user’s moving average exceeds the current network limit their transaction is delayed until their average falls below the limit.
 
