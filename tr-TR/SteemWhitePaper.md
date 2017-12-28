@@ -64,9 +64,9 @@ Bu kisim, Steem'in arkasinda yatan fikirler ve onun Steem topluluguna anlamli ve
 
 ## Sermaye Katkilari
 
-Bir toplulugun sermayeyi cezbedebilmek icin sunabilecegi iki öge vardir: borc ve mülkiyet. Mülkiyet satin alanlar topluluk büyüdünde kazanirlar fakat kücüldügünde ise kaybederler. Borc verenlere ise belirli oranda bir faiz garanti edilir fakat toplulugun büyümesiyle gerceklesen kara katilmazlar. Her iki türden sermaye katkisi da toplulugun büyümesi ve onun para biriminin degeri icin kiymetlidir. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
+Bir toplulugun sermayeyi cezbedebilmek icin sunabilecegi iki öge vardir: borc ve mülkiyet. Mülkiyet satin alanlar topluluk büyüdünde kazanirlar fakat kücüldügünde ise kaybederler. Borc verenlere ise belirli oranda bir faiz garanti edilir fakat toplulugun büyümesiyle gerceklesen kara katilmazlar. Her iki türden sermaye katkisi da toplulugun büyümesi ve onun para biriminin degeri icin kiymetlidir. Ek olarak, mülkiyetin düzenlenebilecegi iki yol vardir: Likit ve Vadeli Mevduat. Vadeli mevduat hissesi uzun vadeli bir taahhüt getirir ve mümkün olan en asagi zaman diliminde satilamaz.
 
-The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SBD).
+Steem agi bu farkli malvarligi siniflarini Steem (STEEM), Steem Power (SP) ve Steem Dolari (SBD) olarak adlandirir.
 
 ## Steem (STEEM)
 
