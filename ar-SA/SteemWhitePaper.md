@@ -242,7 +242,7 @@ The impact of this voting and payout distribution is to offer large bounties for
 
 التوافق هو العملية التي من خلالها يأتي المجتمع إلى اتفاق معترف به عالميا، الاتفاق على قطعة من المعلومات خالية من الغموض. هناك العديد من خوارزميات المجتمع التي تم تطويرها من أجل التوصل إلى توافق في الآراء حول من يملك ما. كل حكومة على وجه الأرض هي خوارزمية بدائية التوافق حيث يوافق السكان على الالتزام بمجموعة معينة من القواعد المنصوص عليها في الدستور. وتنشئ الحكومات المحاكم، والقضاة، والمحلفين لتفسير الحقائق الذاتية واتخاذ قرار نهائي. في معظم الوقت يلتزم الناس بالقرار حتى ولو كان خطأ.
 
-الخوارزميات المستخدمة من قبل العملات الإفتراضية توفر وسيلة أفضل للوصول إلى توافق في الآراء. يتم تسجيل شهادة توقيع مشفرة من الأفراد في دفتر الأستاذ العام الذي يحدد النظام العالمي المطلق للأحداث. A deterministic computer algorithm can then process this ledger to derive a universally accepted conclusion. So long as the members of a community agree on the processing algorithm, the result of the algorithm is authoritative.
+الخوارزميات المستخدمة من قبل العملات الإفتراضية توفر وسيلة أفضل للوصول إلى توافق في الآراء. يتم تسجيل شهادة توقيع مشفرة من الأفراد في دفتر الأستاذ العام الذي يحدد النظام العالمي المطلق للأحداث. ويمكن بعد ذلك أن تقوم خوارزمية حاسوبية حاسمة بمعالجة دفتر الأستاذ هذا لاستخلاص نتيجة مقبولة عالميا. وطالما أن أعضاء المجتمع يتفقون على خوارزمية المعالجة، فإن نتيجة الخوارزمية موثوقة.
 
 The primary consideration is determining what testimony is allowed to enter the public record. Systems should be designed to minimize the potential for censorship. Censorship on the public ledger is similar to preventing someone from voting in an election. In both cases an individual is prevented from impacting the global consensus.
 
