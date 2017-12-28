@@ -56,7 +56,7 @@ Serbest piyasa rüsdünü ispat etmis bir sistem oldugundan, icerik tüketiciler
 
 Steem ekonomik denklemi degistirerek her türden katki icin yapilacak mikro ödemelere imkan taniyabilmek icin tasarlandi. Okuyucular bundan böyle kimseye kendi ceplerinden para ödeyip ödemeyeceklerinin kararini vermek zorunda degiller. Bunun yerine, onlar sadece bir icerigi asagi ya da yukari oylayabilirler ve Steem bireysel ödülleri belirlemek icin onlarin oylarini kullanir. Bu ise, insanlara cokca kullanilan ve tanidik bir arayüz verilmesi; ve geleneksel mikro ödeme ve bahsis platformlariyla ilintili bilissel, mali ve firsat maliyetleri ile yüzlesmek zorunda kalmamalari anlamina gelir.
 
-Topluluk üyelerinden gelen oy girdisi Steem'in katki sunanlara yapilacak ödemeleri isabetli bir sekilde dagitmasi icin cok önemlidir. Voting can therefore be viewed as a crucial contribution and worthy of rewards on its own. Some platforms, such as Slashdot, use meta-moderation[^3] as a way to rank and reward honest moderators. Steem chooses to reward those who contribute the most to the total promotion of a piece of content and rewards the voters proportional to the ultimate reward paid to the content creator.
+Topluluk üyelerinden gelen oy girdisi Steem'in katki sunanlara yapilacak ödemeleri isabetli bir sekilde dagitmasi icin cok önemlidir. Bundan ötürü oylama mühim bir katki sunma bicimi olarak görülebilir ve kendisi, basli basina, bir ödülü hak etmektedir. Slashdot gibi bazi platformlar dürüst moderatörleri siralamak ve ödüllendirmek icin meta-moderation'u[^3] kullanir. Steem chooses to reward those who contribute the most to the total promotion of a piece of content and rewards the voters proportional to the ultimate reward paid to the content creator.
 
 # Ways to Contribute
 
