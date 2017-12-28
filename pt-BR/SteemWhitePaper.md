@@ -168,7 +168,7 @@ Prova de Trabalho Subjetiva apresenta uma abordagem alternativa para a distribui
 
 Com efeito, o critério pelo qual o trabalho é avaliado é completamente subjetivo e a sua definição existe fora do próprio código-fonte. Uma comunidade pode escolher recompensar um artista, outros poetas e outros comediantes. Outras comunidades podem escolher recompensar causas beneficientes ou ajudar no avanço de agendas políticas.
 
-The value each currency achieves depends upon the demand for influence within a particular community and how large the market believes each community can get. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
+O valor que cada moeda alcança depende da demanda por influência dentro de uma comunidade em particular e o quão grande o mercado acredita que cada pode crescer. Ao contrário de sistemas anteriores, prova de trabalho subjetiva permite a uma comunidade financiar coletivamente o desenvolvimento de qualquer coisa que ela encontre valor e permite a monetização de tempo anteriormente não monetizado.
 
 ### Distributing Currency
 
