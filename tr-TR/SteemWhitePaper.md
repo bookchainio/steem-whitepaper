@@ -8,9 +8,9 @@ Agustos 2017
 
 Steem platformunun teknik özelliklerine dair yazilmis olan bu makalede yer alan bazi teknik terimler platforma dair genel bir tasvir sunulmaya calisilan baglamlarda okuyucuya kolaylik saglamak icin Türkce internet jargonundaki en yakin kelimeler ile ikame edilmistir. Buna mukabil, Steem'in isleyis mekanizmasinin aciklandigi daha teknik detaylar iceren cümlelerde ise terimler orijinal hallerinde birakilmistir.
 
-# Abstract
+# Özet
 
-Steem is a blockchain database that supports community building and social interaction with cryptocurrency rewards. Steem combines concepts from social media with lessons learned from building cryptocurrencies and their communities. An important key to inspiring participation in any community, currency or free market economy is a fair accounting system that consistently reflects each person's contribution. Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
+Steem topluluk olusturmayi ve kripto parabirimi ödülleri yoluyla sosyal etkilesimi destekleyen bir blockchain veri tabanidir. Steem sosyal medyadan bazi kavramlar ile kripto para birimi ve onlarin topluluklarini olusturmak konusundan cikartilmis dersleri bir araya getirir. An important key to inspiring participation in any community, currency or free market economy is a fair accounting system that consistently reflects each person's contribution. Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
 
 # Table of Contents
 
