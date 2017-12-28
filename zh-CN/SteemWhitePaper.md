@@ -310,13 +310,13 @@ ISP 有两个选择，运行 "完全预留" 或 "部分预留" 系统。 在一�
 
 微支付问题的解决方案是实现*动态部分预留*。 在该模型下，区块链在堵塞时自动调节预留比率。 区块链将设定一个目标应用，为短期激增的需求留出足够的余量。 每当高峰持续时，区块链会降低每个股份的最大带宽。 当高峰结束，并有过剩的容量时，区块链可以慢慢增加每股带宽。
 
-单个用户使用的带宽应在适当长的时间内进行测量，以允许该用户时间转移用量。 用户倾向于登录，一次做很多事情，然后登出。 This means that their bandwidth over a short period of time may appear much higher than if viewed over a longer period of time. If the time window is stretched too far then the reserve ratio will not adjust fast enough to respond to short-term surges, if the window is too short then clustering usage will have too big of an impact on normal users.
+单个用户使用的带宽应在适当长的时间内进行测量，以允许该用户时间转移用量。 用户倾向于登录，一次做很多事情，然后登出。 这意味着它们在短时间内的带宽可能会比在较长时间平均高得多。 如果时间窗口过大，则预留比率将无法快速调整以响应短期激增。如果窗口太短，则群集使用将对普通用户产生太多影响。
 
-In our estimate it should be sufficient to measure the average weekly bandwidth usage of users. Every time a user signs a transaction, that transaction is factored into their own individual moving average. Any time a user’s moving average exceeds the current network limit their transaction is delayed until their average falls below the limit.
+我们估计，它应该足以衡量用户每周平均带宽使用率。 每当用户签署一个交易时，该交易就会被分解成各自的移动平均。 每次一个用户的移动平均超过了当前的网络限制后，他们的交易将会被延迟到他们的平均值下降到限制范围。
 
-### Impact of Capacity
+### 容量影响
 
-Blockchain capacity isn’t necessarily capped. It is well within the technological capability of internet infrastructure to increase the Bitcoin block size to 10MB which in turn will reduce the minimum required balance by a factor of 10. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second.
+区块链的容量未必需要封顶。 互联网设施完全允许比特币区块大小增加到10MB，从而将需要的最小余额减少十倍。 虽然比特币目前支持每秒约3个交易，但是替代实现可以每秒进行超过1000交易。
 
 ### Comparison to Fees
 
