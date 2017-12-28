@@ -138,11 +138,11 @@ Titulares de STEEM e SP recebem uma margem quando membros da comunidade estão d
 
 ### Definindo o Índice de Preços
 
-Leitores astutos irão reconhecer que um ativo portador de juros de oferta limitada pode vir a ser negociado mais alto ou mais baixo que o ativo subjacente, a depender de outras oportunidade de receber juros no mesmo ativo. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
+Leitores astutos irão reconhecer que um ativo portador de juros de oferta limitada pode vir a ser negociado mais alto ou mais baixo que o ativo subjacente, a depender de outras oportunidade de receber juros no mesmo ativo. Com uma alta taxa de juros paga a um ativo atrelado ao dólar Americano muitas pessoas irão abrir uma negociação sobre o fornecimento limitado de Dólares Steem até que eles não tenham mais o valor de $1. Em economia existe um princípio conhecido como a Trindade Impossível[^4] que afirma que é impossível de existir as três condições abaixo ao mesmo tempo:
 
-1. A stable exchange rate
-2. Free capital movement
-3. An independent monetary policy
+1. Uma taxa de câmbio estável
+2. Livre circulação de capital
+3. Uma política monetária independente
 
 If Steem feed producers aim to have an independent monetary policy allowing it to create and destroy Steem Dollars while simultaneously having full control over the interest rate then they will encounter problems. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
 
