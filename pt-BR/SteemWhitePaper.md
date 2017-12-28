@@ -136,9 +136,9 @@ SBD paga juros aos seus detentores. A taxa de juros é determinada pelas mesmas 
 
 Titulares de STEEM e SP recebem uma margem quando membros da comunidade estão dispostos a segurar o SBD. Essa margem aplifica o ganho de crescimento assim como contribuem para o crescimento. Titulares de STEEM sofrem com o aumento de diluição se o preço cai. Projetos de Criptomoedas têm mostrado que os ganhos do aumento da base de usuários dispostos a confiar na rede com o capital, no fim das contas, adicionam mais valor à rede do que qualquer diluição que pode ocorrer durante uma recessão.
 
-### Setting Price Feeds
+### Definindo o Índice de Preços
 
-Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
+Leitores astutos irão reconhecer que um ativo portador de juros de oferta limitada pode vir a ser negociado mais alto ou mais baixo que o ativo subjacente, a depender de outras oportunidade de receber juros no mesmo ativo. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
 
 1. A stable exchange rate
 2. Free capital movement
