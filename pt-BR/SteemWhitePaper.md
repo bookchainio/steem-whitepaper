@@ -150,15 +150,15 @@ A principal preocupação dos produtores de índice Steem é em manter uma conve
 
 Se a taxa de dívida-para-posse é baixa e o SBD está sendo negociado a menos que $1,00, então a taxa de juros deve ser aumentada. Isso será suficiente para que mais pessoas guardem o seu SBD para segurar o preço.
 
-Se o SBD é negociado por menos que US$ 1,00 e a taxa de dívida-para-posse é alta, então os índices devem ser ajustados para cima fornecendo mais STEEM por SBD. This will increase demand for SBD while also reducing the debt-to-ownership ratio and returning SBD to parity with USD.
+Se o SBD é negociado por menos que US$ 1,00 e a taxa de dívida-para-posse é alta, então os índices devem ser ajustados para cima fornecendo mais STEEM por SBD. Isso irá aumentar a demanda por SBD enquando reduz a taxa de dívida-por-posse e retorno de SBD para parear com o Dólar Americano.
 
-Assuming the value of STEEM is growing faster than Steem is creating new SBD, the debt-to-ownership ratio should remain under the target ratio and the interest offered benefits everyone. If the value of the network is flat or falling, then any interest offered will only make the debt-to-ownership ratio worse.
+Supondo que o valor do STEEM está crescendo mais rápido que o Steem está criando novos SBD, a taxa de dívida-para-posse deverá permanecer abaixo da meta e o juros oferecido irá beneficiar a todos. Se o valor da rede estiver estável ou caindo, então qualquer juros oferecido apenas irá tornar a taxa dívida-para-posse pior.
 
-In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
+Com efeito, os produtores de índices são confiados com a responsabilidade de definir a política monetária de manter uma relação estável com o Dólar Americano. O abuso desse poder pode afetar o valor do STEEM assim titulares de SP serão sábios ao votar para testemunhas que podem ser contadas para ajustar o preço do índice e taxas de juros de acordo com as regras descritas acima.
 
-If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SBD.
+Se a taxa de dívida-para-posse se tornar perigosamente alta e os participantes do mercado escolherem evitar os pedidos de correção, então o índice deverá ser ajustado para aumentar a taxa na qual o STEEM é pago para converter o SBD.
 
-Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SBD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions.
+Mudanças na política de taxa de juros e/ou qualquer prêmio/desconto na conversão STEEM/SBD deve ser uma resposta longa de medida para com desvios de médias de longo prazo, ao invés de tentar responder às condições de mercado de curto prazo.
 
 It is our belief that these rules will give market participants confidence that they are unlikely lose money by holding SBD purchased at a price of $1.00. We fully expect there to be a narrow trading range between $0.95 and $1.05 for SBD under normal market conditions.
 
