@@ -1,8 +1,8 @@
 # Steem
 
-## An incentivized, blockchain-based, public content platform.
+## Bir blockchain temelli, tesvikli, kamusal paylasim platformu.
 
-August 2017
+Agustos 2017
 
 # Çevirmen Notları
 
