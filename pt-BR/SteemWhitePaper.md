@@ -160,13 +160,13 @@ Se a taxa de dívida-para-posse se tornar perigosamente alta e os participantes 
 
 Mudanças na política de taxa de juros e/ou qualquer prêmio/desconto na conversão STEEM/SBD deve ser uma resposta longa de medida para com desvios de médias de longo prazo, ao invés de tentar responder às condições de mercado de curto prazo.
 
-It is our belief that these rules will give market participants confidence that they are unlikely lose money by holding SBD purchased at a price of $1.00. We fully expect there to be a narrow trading range between $0.95 and $1.05 for SBD under normal market conditions.
+É nossa convicção que essas regras irão dar confiança aos participantes do mercado e que eles dificilmente irão perder ao guardar SBD comprado ao preço de $1,00. Nós esperamos totalmente que exista uma faixa estreita de negociação entre $0,95 e $1,05 para o SBD sob condições normais de mercado.
 
-## Subjective Contributions
+## Contribuições Subjetivas
 
-Subjective Proof of Work presents an alternative approach to distributing a currency that improves upon fully *objective* Proof of Work systems such as mining. The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
+Prova de Trabalho Subjetiva apresenta uma abordagem alternativa para a distribuição da moeda que melhora totalmente a Prova de Trabalho *objetiva*, tais como a mineração. As aplicações de uma moeda implementando a prova de trabalho *subjetiva* são muito mais amplas do que um sistema de prova de trabalho *objetiva* porque elas podem ser aplicadas para construir uma comunidade ao redor de qualquer conceito que tem um propósito suficientemente definido. Quando indivíduos se juntam a uma comunidade eles compram um determinado conjunto de crenças e podem votar para reforçar o propósito ou valor da comunidade.
 
-In effect, the criteria by which work is evaluated is completely subjective and its definition lives outside the source code itself. One community may wish to reward artists, another poets, and another comedians. Other communities may choose to reward charitable causes or help advance political agendas.
+Com efeito, o critério pelo qual o trabalho é avaliado é completamente subjetivo e a sua definição existe fora do próprio código-fonte. Uma comunidade pode escolher recompensar um artista, outros poetas e outros comediantes. Outras comunidades podem escolher recompensar causas beneficientes ou ajudar no avanço de agendas políticas.
 
 The value each currency achieves depends upon the demand for influence within a particular community and how large the market believes each community can get. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
 
