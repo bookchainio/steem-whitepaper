@@ -80,7 +80,7 @@ Uzun vadeli taahhütlere sahip olmanin önemli bir degeri vardir cünkü o toplu
 
 Kripto parabirimi alaninda spekülatörler cogunlukla, hangisinin kisa vadede daha fazla büyüme beklentisine sahip oldugu temelinde, bir kripto para biriminden digerine ziplarlar. Steem, uzun vadeli bakis acisina sahip olanlarin mülkiyetinde olan ve tümüyle onlar tarafindan kontrol edilen bir topluluk insa etmeyi ister.
 
-Users are able to commit their STEEM to a thirteen week vesting schedule, providing them with additional benefits within the platform. STEEM that has been committed to a thirteen week vesting schedule is called Steem Power (SP). SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
+Kullanicilar Steem'lerini, platform icerisinde kendilerine ilave faydalar da saglayan, on üc haftalik bir vadeli mevduat cizelgesine taahhüt edebilirler. On üc haftalik vadeli mevduat cizelgesinde taahhüt edilmis olan STEEM, Steem Power (SP) olarak adlandirilir. SP bakiyeleri, otomatik olarak tekrar eden dönüsüm talepleri haricinde, transfer ve taksim edilemez. Bu da demektir ki, SP kolaylikla kripto para birimi takaslari sirasinda alinip satilamaz.
 
 When users vote on content, their influence over the distribution of the rewards pool is directly proportional to the amount of SP that they have. Users with more SP have more influence on the distribution of rewards. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
 
