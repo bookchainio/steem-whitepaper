@@ -282,11 +282,11 @@ Steem会不遗余力地奖励人们对网络的贡献。当他们每次试图与
 
 在金融支付领域，小额费用是可以接受的，因为交易的价值比所收取的费用高的多，而买方已经作出了购买的决定。 潜在的区块链应用程序的世界远不仅仅是财务支付，还包括许多用户根本无法接受交易费的必要交易。
 
-像BitShares、Nxt、Ripple、Counter Party和Stellar等系统都允许用户将限制订单放在 区块链上，所有这些都向用户收取少许费用以执行操作。 稍后如果用户希望取消他们的订单，则另外收费。 像以太坊这样的系统将微支付带到一个全新的水平：每次计算皆收费。 All of these systems struggle to attract new mainstream users for the same reasons that a decentralized search engine would struggle to attract users from Google if it charged a small fee for every search. It doesn’t matter how good the service is, people expect certain things to be free. This is true even if a user ends up paying more overall under a different fee structure.
+像BitShares、Nxt、Ripple、Counter Party和Stellar等系统都允许用户将限制订单放在 区块链上，所有这些都向用户收取少许费用以执行操作。 稍后如果用户希望取消他们的订单，则另外收费。 像以太坊这样的系统将微支付带到一个全新的水平：每次计算皆收费。 所有这些系统都在争取吸引新的主流用户。因为同样的原因，如果每项搜索都收取少量费用，去中心化的搜索引擎将很难吸引谷歌用户。 不管服务有多好，人们期望某些东西是免费的。 即使用户最终在不同的收费结构下支付更多的费用，这也是事实。
 
-### Fees are a Barrier to Entry
+### 费用是进入的障碍
 
-Any fee creates a barrier to entry for new users. Before someone can experiment with Ethereum they must acquire some ETH tokens. Anyone wanting to build a decentralized application on Ethereum must pass on the cost to their customers. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
+任何费用都会给新用户进入带来障碍。 在人们可以试验以太坊之前，他们必须获得一些ETH代币。 任何想在以太坊上构建去中心化应用程序的人都必须将成本转嫁给他们的客户。 Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
 
 ### Changing Fees
 
