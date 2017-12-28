@@ -6,7 +6,7 @@ Agustos 2017
 
 # Çevirmen Notları
 
-Placeholder for translator's notes.
+Steem platformunun teknik özelliklerine dair yazilmis olan bu makalede yer alan bazi teknik terimler platforma dair genel bir tasvir sunulmaya calisilan baglamlarda okuyucuya kolaylik saglamak icin Türkce internet jargonundaki en yakin kelimeler ile ikame edilmistir. Buna mukabil, Steem'in isleyis mekanizmasinin aciklandigi daha teknik detaylar iceren cümlelerde ise terimler orijinal hallerinde birakilmistir.
 
 # Abstract
 
