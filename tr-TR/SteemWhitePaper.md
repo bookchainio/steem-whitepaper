@@ -22,7 +22,7 @@ Kollektif halde, kullanici tarafindan yaratilmis icerik Reddit, Facebook ve Twit
 
 Steem'in tasarimina rehberlik etmek icin kullanilmis olan bazi ana ilkeler vardir. En önemli ilke bir girisime katkida bulunmus olan herkesin girisimden nisbi oranda hisse, ödeme ya da borc aliyor olmasidir. Bu ilke, kurulus asamasinda ve müteakip fonlama rauntlari sirasinda hisse dagitan tüm startup'larda uygulanan ilkenin aynisidir.
 
-Ikinci ilke, tüm sermaye cesitlerinin esit derecede degerli olmasidir. Bu su anlama gelir: Kisitli zamanlarini ve dikkatlerini digerleri icin icerik üreterek ve küratörlük yaparak katki olarak sunanlar kisitli nakitlerini katki olarak sunanlar kadar degerlidir. This is the sweat equity principle[^2] and is a concept that prior cryptocurrencies have often had trouble providing to more than a few dozen individuals.
+Ikinci ilke, tüm sermaye cesitlerinin esit derecede degerli olmasidir. Bu su anlama gelir: Kisitli zamanlarini ve dikkatlerini digerleri icin icerik üreterek ve küratörlük yaparak katki olarak sunanlar kisitli nakitlerini katki olarak sunanlar kadar degerlidir. Bu emek-yogun sermaye ilkesidir[^2] ve kripto parabirimlerinin öncesinde, cok az sayida sayida bireyden fazlasina yardim edebilmek konusunda cogunlukla sikinti yasamistir.
 
 The third principle is that the community produces products to serve its members. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
 
