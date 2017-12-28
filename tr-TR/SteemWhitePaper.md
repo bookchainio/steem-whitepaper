@@ -44,7 +44,7 @@ Steem tarafindan yüklenilmis zorlu görev; bireysel katkilari, üyelerin cogunu
 
 Mevcut platformlar bir kullanici, bir oy ilkesi üzerine calisir. Bu, siralamalarin sybil saldirilari tarafindan manipüle edilebilecegi ve sunucu saglayicilarinin suistimal edenleri proaktif bir sekilde tespit edip engellemesini gerektiren bir ortam yaratir. Insanlar halihazirda Reddit, Facebook ya da Twitter siralama algoritmalarini ortadaki tek ödül internet trafigi ya da sansürken bile manipüle etmeye calismaktadir.
 
-Steem platformu üzerindeki temel hesap birimi bir kripto para birimi olan STEEM'dir. Steem bir-STEEM, bir-oy temelinde çalışır. Bu modelde, hesap bakiyesiyle ölçüldügü sekliyle, platforma en çok katkıda bulunan kişiler katkilarin nasıl puanlandigi üzerinde çok fazla etkiye sahiptir. Dahasi, Steem kullanicilarina sadece temlik cizelgesine oturtulmus olan STEEM ile oy kullanma hakki tanir. Bu modele göre, üyelere kendi STEEM'lerinin uzun vadeli değerini en üst düzeye çıkartacak şekilde oy kullanmaları için maddi bir teşvik vardır.
+Steem platformu üzerindeki temel hesap birimi bir kripto para birimi olan STEEM'dir. Steem bir-STEEM, bir-oy temelinde çalışır. Bu modelde, hesap bakiyesiyle ölçüldügü sekliyle, platforma en çok katkıda bulunan kişiler katkilarin nasıl puanlandigi üzerinde çok fazla etkiye sahiptir. Dahasi, Steem kullanicilarina sadece vadeli mevduat cizelgesine oturtulmus olan STEEM ile oy kullanma hakki tanir. Bu modele göre, üyelere kendi STEEM'lerinin uzun vadeli değerini en üst düzeye çıkartacak şekilde oy kullanmaları için maddi bir teşvik vardır.
 
 Steem cok basit bir kavramin cevresinde tasarlanmistir: *herkesin topluluga yaptigi anlamli katkilari, yarattigi deger kadar takdir görmelidir.* Insanlar anlamli katkilari icin takdir gördüklerinde katki yapmaya devam ederler ve topluluk büyür. Bir topluluk icerisindeki alma ve verme arasindaki herhangi bir dengesizlik hali sürdürülebilir degildir. Nihayetinde, verenler almakta olanlari desteklemekten yorulur ve topluluktan ayrilir.
 
@@ -70,7 +70,7 @@ Steem agi bu farkli malvarligi siniflarini Steem (STEEM), Steem Power (SP) ve St
 
 ## Steem (STEEM)
 
-Steem is the fundamental unit of account on the Steem blockchain. All other tokens derive their value from the value of STEEM. STEEM is a liquid currency, and therefore can be bought or sold on exchanges, as well as transferred to other users as a form of payment.
+Steem, Steem blockchain'i üzerindeki temel hesap birimidir. Tüm diger tokenlar kendi degerlerini STEEM'in degeri üzerinden saglarlar. STEEM likit bir para birimidir ve bu sayede diger kullanicilara bir ödeme yöntemi olarak transfer edilebilirken takaslar sirasinda da alinip satilabilir.
 
 ## Steem Power (SP)
 
