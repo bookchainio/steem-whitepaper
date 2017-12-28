@@ -82,7 +82,7 @@ Kripto parabirimi alaninda spekülatörler cogunlukla, hangisinin kisa vadede da
 
 Kullanicilar Steem'lerini, platform icerisinde kendilerine ilave faydalar da saglayan, on üc haftalik bir vadeli mevduat cizelgesine taahhüt edebilirler. On üc haftalik vadeli mevduat cizelgesinde taahhüt edilmis olan STEEM, Steem Power (SP) olarak adlandirilir. SP bakiyeleri, otomatik olarak tekrar eden dönüsüm talepleri haricinde, transfer ve taksim edilemez. Bu da demektir ki, SP kolaylikla kripto para birimi takaslari sirasinda alinip satilamaz.
 
-When users vote on content, their influence over the distribution of the rewards pool is directly proportional to the amount of SP that they have. Users with more SP have more influence on the distribution of rewards. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
+Kullanicilar icerikleri oyladiginda onlarin ödülerin dagitimi üzerindeki etkileri sahip olduklari SP ile dogru orantilidir. Daha fazla SP'ye sahip olan kullanicilar ödüllerin dagitimi üzerinde daha fazla etkiye sahiptir. Bu da demektir ki, SP ona sahip olanlara Steem platformu icerisinde münhasir yetkiler saglayan bir giris tokenidir.
 
 SP holders are also paid interest on the balance of SP that remains vested. 15% of the yearly inflation is paid to SP holders as interest. The amount of the interest that they receive is directly proportional to the amount of SP they hold relative to the total amount of vested SP across all users.
 
