@@ -232,15 +232,15 @@ The impact of this voting and payout distribution is to offer large bounties for
 
 الأثر الاقتصادي لهذا يشبه اليانصيب حيث الناس المبالغة في تقدير احتمال الحصول على الأصوات وبالتالي القيام بعمل أكثر من القيمة المتوقعة من مكافأتهم و بهذه الطريقة يزداد المبلغ الإجمالي للعمل المنجز لخدمة المجتمع الى الحد الاعلى. The fact that everyone “wins something” plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
 
-### Payouts
+### المدفوعات
 
 عندما يتلقى المنشور الدفع يأخذ شكل 50% SBD and 50% SP. قوة ستيم (Steem Power) تعطي المستخدم زيادة التصويت وقوة المعاملات في حين أن SBD يعطي المستخدم فائدة فورية في عملة مستقرة. كما سبق أن ناقشنا بشكل مطول، تم تصميم SP لتشجيع عقد طويل الأجل بدلا من البيع على المدى القصير. وهذا يشجع المزيد من المستخدمين على أن يكون لديهم اهتمام مرسخ في نجاح المنصة على المدى الطويل.
 
-المستخدمين لديهم أيضا الخيار ليدفع لهم 100٪ SP، طالما انخفض العائد على الوظائف. When a user declines payout on a post, the money that would have been paid to them remains in the rewards pool, to be distributed to other users.
+المستخدمين لديهم أيضا الخيار ليدفع لهم 100٪ SP، طالما انخفض العائد على الوظائف. عندما يرفض المستخدم الدفع عن مشاركة ما، فإن المال الذي كان سيتم دفعه له يبقى في تجمع المكافآت، ليتم توزيعه على مستخدمين آخرين.
 
-# Consensus Algorithm
+# خوارزمية التوافق
 
-Consensus is the process by which a community comes to a universally recognized, unambiguous agreement on piece of information. There are many algorithms society has developed for reaching consensus about who owns what. Every government on earth is a primitive consensus algorithm whereby the population agrees to abide by a certain set of rules enshrined in a constitution. Governments establish courts, judges, and juries to interpret the subjective facts and render a final decision. Most of the time people abide by the decision even if it was wrong.
+التوافق هو العملية التي من خلالها يأتي المجتمع إلى اتفاق معترف به عالميا، الاتفاق على قطعة من المعلومات خالية من الغموض. هناك العديد من خوارزميات المجتمع التي تم تطويرها من أجل التوصل إلى توافق في الآراء حول من يملك ما. Every government on earth is a primitive consensus algorithm whereby the population agrees to abide by a certain set of rules enshrined in a constitution. Governments establish courts, judges, and juries to interpret the subjective facts and render a final decision. Most of the time people abide by the decision even if it was wrong.
 
 The algorithms used by cryptocurrencies provide a better way to reach consensus. Cryptographically signed testimony from individuals is recorded in a public ledger that establishes the absolute global order of events. A deterministic computer algorithm can then process this ledger to derive a universally accepted conclusion. So long as the members of a community agree on the processing algorithm, the result of the algorithm is authoritative.
 
