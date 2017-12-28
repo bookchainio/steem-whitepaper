@@ -24,14 +24,14 @@ Steem'in tasarimina rehberlik etmek icin kullanilmis olan bazi ana ilkeler vardi
 
 Ikinci ilke, tüm sermaye cesitlerinin esit derecede degerli olmasidir. Bu su anlama gelir: Kisitli zamanlarini ve dikkatlerini digerleri icin icerik üreterek ve küratörlük yaparak katki olarak sunanlar kisitli nakitlerini katki olarak sunanlar kadar degerlidir. Bu emek-yogun sermaye ilkesidir[^2] ve kripto parabirimlerinin öncesinde, cok az sayida sayida bireyden fazlasina yardim edebilmek konusunda cogunlukla sikinti yasamistir.
 
-The third principle is that the community produces products to serve its members. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
+Ücüncü ilke, toplulugun üyelerine hizmet edebilmek icin ürünler üretiyor olmasidir. Bu ilke, kendi topluluklarinin disina mal ya da hizmet satmaktansa sadece kendi üyelerine hizmet eden kredi birlikleri, yemek kooperatifleri, saglik paylasim planlari üzerinden örneklendirilebilir.
 
-The Steem community provides the following services to its members:
+Steem toplulugu üyelerie asagida yer alan hizmetleri sunar:
 
-1. A source of curated news and commentary.
-2. A means to get high quality answers to personalized questions.
-3. A stable cryptocurrency pegged to the U.S. dollar.
-4. Free payments.
+1. Bir kürete edilmis haber ve yorum kaynagi.
+2. Bir kisisellsetirilmis sorulara yüksek kalitede alma araci.
+3. Amerikan dolarina es deger stabil bir kripto para birimi.
+4. Ücretsiz ödemeler.
 5. Jobs providing above services to other members.
 
 Steem’s purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem’s incentives may result in better outcomes for most participants.
