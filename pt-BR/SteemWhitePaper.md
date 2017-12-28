@@ -144,13 +144,13 @@ Leitores astutos irão reconhecer que um ativo portador de juros de oferta limit
 2. Livre circulação de capital
 3. Uma política monetária independente
 
-If Steem feed producers aim to have an independent monetary policy allowing it to create and destroy Steem Dollars while simultaneously having full control over the interest rate then they will encounter problems. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
+Se os produtores de índices do Steem pretendem ter uma política monetária independente, permitindo-lhe criar e destruir Dólares Steem enquanto simultaneamente têm controle sobre a taxa de juros, então eles irão encontrar problemas. A Trindade impossível diz que Dólares Steem ou precisam restringir movimento de capital, ou ter uma taxa de câmbio instável com o dólar, ou ter um controle limitado sobre a taxa de juros.
 
-The primary concern of Steem feed producers is to maintain a stable one-to-one conversion between SBD and the U.S. Dollar (USD). Any time SBD is consistently trading above $1.00 USD interest payments must be stopped. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SBD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
+A principal preocupação dos produtores de índice Steem é em manter uma conversão de um-para-um entre SBD e o Dólar Americano. Quando o SBD estiver sendo negociado consistentemente acima de US$1,00 o pagamento de juros deve ser parado. Em um mercado aonde 0% de juros sobre a dívida ainda exige um prêmio, é seguro dizer que o mercado está disposto a estender mais crédito do que a comunidade está disposta a assumir de dívida. Se isso acontecer um SBD será avaliado em mais de $1,00 e há pouco o que a comunidade possa fazer sem cobrar taxa de juros negativas.
 
-If the debt-to-ownership ratio is low and SBD is trading for less than $1.00, then the interest rate should be increased. This will encourage more people to hold their SBD and support the price.
+Se a taxa de dívida-para-posse é baixa e o SBD está sendo negociado a menos que $1,00, então a taxa de juros deve ser aumentada. Isso será suficiente para que mais pessoas guardem o seu SBD para segurar o preço.
 
-If SBD trades for less than $1.00 USD and the debt-to-ownership ratio is high, then the feeds should be adjusted upward give more STEEM per SBD. This will increase demand for SBD while also reducing the debt-to-ownership ratio and returning SBD to parity with USD.
+Se o SBD é negociado por menos que US$ 1,00 e a taxa de dívida-para-posse é alta, então os índices devem ser ajustados para cima fornecendo mais STEEM por SBD. This will increase demand for SBD while also reducing the debt-to-ownership ratio and returning SBD to parity with USD.
 
 Assuming the value of STEEM is growing faster than Steem is creating new SBD, the debt-to-ownership ratio should remain under the target ratio and the interest offered benefits everyone. If the value of the network is flat or falling, then any interest offered will only make the debt-to-ownership ratio worse.
 
