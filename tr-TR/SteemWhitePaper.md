@@ -4,7 +4,7 @@
 
 Agustos 2017
 
-# Çevirmen Notları
+# Çevirmenin Notları
 
 Placeholder for translator's notes.
 
@@ -42,7 +42,7 @@ Steem sosyal medya temelli ekonominin bensimsenmesinin ve parasallistirilmasinin
 
 Steem tarafindan yüklenilmis zorlu görev; bireysel katkilari, üyelerin cogunun her katkinin öznel degerinin adil bir sekilde yansitildigini düsünmesini saglayacak bir sekilde puanlayacak bir algoritma gelistirmekti. Ideal bir dünyada, topluluk üyeleri birbirlerinin katkilarini degerlendirme hususunda isbirligi yaparlar ve adil bir mükafat elde ederler. Gercek dünyada ise algoritmalarin kar elde etmek icin yapilan kasti maniplasyonlara karsi direncli olacak sekilde tasarlanmalari gerekir. Puanlama sisteminin yaygin bir sekilde istismar edildigi herhangi bir durum topluluk üyelerinin ekonomik sistemin algilarindaki hakkaniyetine olan inanclarinin düsmesine sebep olabilir.
 
-Existing platforms operate on a one-user, one-vote principle. This creates an environment where rankings can be manipulated by sybil attacks and the service providers must pro-actively identify and block abusers. People already attempt to manipulate the Reddit, Facebook, and Twitter scoring algorithms when the only reward is web traffic or censorship.
+Mevcut platformlar bir kullanici, bir oy ilkesi üzerine calisir. This creates an environment where rankings can be manipulated by sybil attacks and the service providers must pro-actively identify and block abusers. People already attempt to manipulate the Reddit, Facebook, and Twitter scoring algorithms when the only reward is web traffic or censorship.
 
 The fundamental unit of account on the Steem platform is STEEM, a crypto currency token. Steem, bir STEEM-bir oy ile çalışır. Bu modelde, hesap bakiyesiyle ölçülen platforma en çok katkıda bulunan kişilerin katkı paylarının nasıl atıldığı üzerinde çok etkisi vardır. Furthermore, Steem only allows members to vote with STEEM when it is committed to a vesting schedule. Bu modele göre, üyelerin STEEM'in uzun vadeli değerini en üst düzeye çıkaracak şekilde oy kullanmaları için maddi bir teşvik vardır.
 
