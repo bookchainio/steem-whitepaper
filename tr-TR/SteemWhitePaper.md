@@ -94,7 +94,7 @@ Istikrar basarili küresel ekonomilerin önemli bir özelligidir. Istikrar olmak
 
 Steem Dolari, Start up'lari fonlamak icin siklikla kullanilan dönüstürülebilir senetlere benzeyen bir mekanizma tarafindan yaratildi. Dönüstürülebilir senetler, start up dünyasinda -siklikla ileriki fonlama rauntlari sirasinda- gelecekte belirlenen bir oranda mülkiyete dönüstürülebilecek kisa dönem borclanma araclaridir. Bir blockchain temelli token, toplulukta bir mülkiyet olarak degerlendirebilecekken; dönüstürülebilir senet ise herhangi bir metaya ya da para birimine bagli bir borc olarak görülebilir. Dönüstürülebilir senedin kosullari, onu elinde bulundurana en az cabayla bagli oldugu tokena -tokenin adil piyasa fiyatinda- dönüstürebilme imkani tanir. Tokena dönüstürülebilir dolarlar yaratmak, token sahiplerin kazanclarini maksimize ederken blockchainlere de kendi ag etklilerini büyütme imkani tanir.
 
-Steem Dolari Steem Backed Dollar'in kisaltmasi olan SBD sembolü ile gösterilir. Creating SBD requires a combination of a reliable price feed, and rules to prevent abuse. Providing a reliable price feed involves three factors: minimizing the impact of an incorrect feed, maximizing the cost of producing an incorrect feed, and minimizing the importance of timing.
+Steem Dolari Steem Backed Dollar'in kisaltmasi olan SBD sembolü ile gösterilir. SBD yaratmak güvenli bir fiyat yayininin ve istismarin önüne gececek kurallarin bir araya getirilmesini gerektirir. Güvenilir bir fiyat yayini üretimi üc unsuru barindirir: Dogru olmayan yayinin etkisinin minimize edilmesi, dogru olmayan yayinin sonuclarinin maksimize edilmesi ve zamanlamanin öneminin minimize edilmesi.
 
 ### Minimizing Fraudulent Feeds
 
