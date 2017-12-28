@@ -236,7 +236,7 @@ The impact of this voting and payout distribution is to offer large bounties for
 
 عندما يتلقى المنشور الدفع يأخذ شكل 50% SBD and 50% SP. قوة ستيم (Steem Power) تعطي المستخدم زيادة التصويت وقوة المعاملات في حين أن SBD يعطي المستخدم فائدة فورية في عملة مستقرة. كما سبق أن ناقشنا بشكل مطول، تم تصميم SP لتشجيع عقد طويل الأجل بدلا من البيع على المدى القصير. وهذا يشجع المزيد من المستخدمين على أن يكون لديهم اهتمام مرسخ في نجاح المنصة على المدى الطويل.
 
-Users also have the option to be paid in 100% SP, as well as decline payout on posts. When a user declines payout on a post, the money that would have been paid to them remains in the rewards pool, to be distributed to other users.
+المستخدمين لديهم أيضا الخيار ليدفع لهم 100٪ SP، طالما انخفض العائد على الوظائف. When a user declines payout on a post, the money that would have been paid to them remains in the rewards pool, to be distributed to other users.
 
 # Consensus Algorithm
 
