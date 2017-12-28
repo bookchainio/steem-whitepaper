@@ -32,9 +32,9 @@ Steem toplulugu üyelerie asagida yer alan hizmetleri sunar:
 2. Bir kisisellsetirilmis sorulara yüksek kalitede alma araci.
 3. Amerikan dolarina es deger stabil bir kripto para birimi.
 4. Ücretsiz ödemeler.
-5. Jobs providing above services to other members.
+5. Yukaridaki servisleri kullanicilara saglayacak isler.
 
-Steem’s purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem’s incentives may result in better outcomes for most participants.
+Steem'in ekonomik tesvikleri bir amaca yönelik olarak yeniden siralamasi, ilgili herkes acisindan, kendinden önceki sosyal medya ve kripto para birimi platformlarindakinden cok daha adil ve kapsayici sonuclar üretme potansiyeline sahiptir. Bu makale mevcut ekonomik tesvikleri inceleyecek ve Steem'in tesviklerinin katilimcilarin cogunlugu icin nasil daha iyi sonuclar üretebilecegini gösterecektir.
 
 ## Recognizing Contribution
 
