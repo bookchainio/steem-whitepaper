@@ -74,9 +74,9 @@ Steem, Steem blockchain'i üzerindeki temel hesap birimidir. Tüm diger tokenlar
 
 ## Steem Power (SP)
 
-Start up firmalari uzun vadeli sermaye taahhüdüne gereksinim duyarlar. Paralarini start up'lara yatiranlar hisselerini satip karlarini paraya donusturmeden önce yillarca beklemek zorundadirlar. Uzun vadeli taahhütler olmaksizin, ilave ilave hisse satimi yoluyla fazladan sermaye yaratmaya calisan bir start up halihazirda mevcut hissedarlarin cikmaya calismasiyla bas etmek zorunda kalabilir. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
+Start up firmalari uzun vadeli sermaye taahhüdüne gereksinim duyarlar. Paralarini start up'lara yatiranlar hisselerini satip karlarini paraya donusturmeden önce yillarca beklemek zorundadirlar. Uzun vadeli taahhütler olmaksizin, ilave ilave hisse satimi yoluyla fazladan sermaye yaratmaya calisan bir start up halihazirda mevcut hissedarlarin cikmaya calismasiyla bas etmek zorunda kalabilir. Idrak sahibi yatirimcilar sermaye katkilarinin sirketi büyütmesini isterler, fakat eger yeni sermaye halihazirda cikmak isteyenlere verilirse büyüme gerceklesemez.
 
-There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
+Uzun vadeli taahhütlere sahip olmanin önemli bir degeri vardir cünkü o topluluklarin uzun vadeli planlar yapabilmelerine izin verir. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
 
 In the cryptocurrency space, speculators jump from cryptocurrency to cryptocurrency based mostly on which one is expected to have short-term growth. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
 
