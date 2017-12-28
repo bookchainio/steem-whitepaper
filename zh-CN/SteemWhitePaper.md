@@ -286,19 +286,19 @@ Steem会不遗余力地奖励人们对网络的贡献。当他们每次试图与
 
 ### 费用是进入的障碍
 
-任何费用都会给新用户进入带来障碍。 在人们可以试验以太坊之前，他们必须获得一些ETH代币。 任何想在以太坊上构建去中心化应用程序的人都必须将成本转嫁给他们的客户。 Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
+任何费用都会给新用户进入带来障碍。 在人们可以试验以太坊之前，他们必须获得一些ETH代币。 任何想在以太坊上构建去中心化应用程序的人都必须将成本转嫁给他们的客户。 购买加密货币不是一件容易的事情，对于少于10美元的金额来说更不值得。 这意味着想要尝试新去中心化应用程序的新用户必须首先被说服花去10美元。
 
-### Changing Fees
+### 费用更改
 
-Over time a network must adjust fees. This can happen either due to an increase in the value of the token or due to a surge in capacity. Users like predictable fees and guaranteed service. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
+随着时间的推移，网络必须调整费用。 这可能是由于代币的价值增加或由于容量激增而引起。 用户喜欢可预知的费用和有保障的服务。 虽然在大量使用时可以动态调整费用，但结果却是用户体验不佳。
 
-### Sybil Attacks
+### Sybil攻击
 
-Centralized websites prevent spam through rate limiting and some form of ID verification. Even something as simple as reCAPTCHA[^9] is sufficient to limit the creation of fake accounts. If someone abuses their account then centralized websites are free to block the account.
+中心化的网站通过速率限制和某种形式的ID验证来防止垃圾。 甚至像reCAPTCHA[^9]这样简单的东西也足以限制假帐户的创建。 如果有人滥用他们的帐户，中心化的网站可以关闭帐户。
 
-In a decentralized system there is no direct way to ban users nor centralized provider able to host a reCAPTCHA and enforce rate limiting of accounts. In fact, the inability to censor users is one of the main selling points of blockchain technology.
+在去中心化的系统中，没有直接的方法禁止用户，也没有中心化的提供商能够托管reCAPTCHA和强制限制帐户的速率。 事实上，不能审查用户是区块链技术的主要卖点之一。
 
-### Full Reserve vs Fractional Reserve
+### 全额准备金与部分准备金
 
 Let’s view a blockchain like an Internet Service Provider (ISP) co-op which owns all of the cables in the town and has a maximum amount of bandwidth that it can provide at any time. People living in the town can buy shares in the ISP and in exchange they are entitled to utilize a portion of the available bandwidth.
 
