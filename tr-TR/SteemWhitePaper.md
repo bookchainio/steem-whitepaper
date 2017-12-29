@@ -106,7 +106,7 @@ Tüm yayin üreticileri dürüst olsa dahi yayin üreticilerinin cogunlugu icin 
 
 Steem kisa dönem fiyat dalgalanmalarini üc bucuk günlük bir sürenin medyan fiyatini kullanarak hesap disinda tutar. Yayinlanmis fiyat yayini her saat icin saat baslarinda numulendirilir.
 
-As long as the price feed corruption lasts for less than half the moving median time window it will have minimal impact on the conversion price. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
+Fiyat yayini kirliligi degisen medyan zaman araliginin yarisindan kisa sürdügü müddetce onun dönüsüm fiyatlari üzerindeki etkisi minimal düzeyde olacaktir. Yayinin bozuk olmasi durumunda ag katilimcilarinin, bozuk yayin aktüel dönüsüm fiyatini etkilemeden önce, yozlasmis yayin üreticileri aleyhinde oy kullanma imkani olacaktir. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
 
 With a three and a half day window, community members have approximately one and a half days to respond to any issues that come up.
 
