@@ -10,13 +10,13 @@ Placeholder para sa mga tala ng mga tagasalin.
 
 # Abstrakto
 
-Ang Steem ay isang blockchain database na sumusuporta sa pagtatayo ng mga komunidad at pakikipag-ugnayan sa lipunan na may mga cryptocurrency na gantimpala. Pinagsasama ng Steem ang mga konsepto ng social media kasama ang mga aral na natutunan mula sa pagtatayo ng mga cryptocurrencies at kanilang mga komunidad. An important key to inspiring participation in any community, currency or free market economy is a fair accounting system that consistently reflects each person's contribution. Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
+Ang Steem ay isang blockchain database na sumusuporta sa pagtatayo ng mga komunidad at pakikipag-ugnayan sa lipunan na may mga cryptocurrency na gantimpala. Pinagsasama ng Steem ang mga konsepto ng social media kasama ang mga aral na natutunan mula sa pagtatayo ng mga cryptocurrencies at kanilang mga komunidad. Isang mahalagang susi upang magbigay inspirasyon sa paglahok sa anumang komunidad, pera o ekonomiya ng malayang merkado ay isang patas na sistema ng accounting na palaging nagpapakita ng kontribusyon ng bawat tao. Ang Steem ang unang cryptocurrency na nagtangka na tumpak at malinaw na bigyan ng pabuya ang walang-katapusang bilang ng mga indibidwal na gumagawa ng *suhetibong kontribusyon* sa komunidad.
 
-# Table of Contents
+# Talaan ng mga Nilalaman
 
 <!-- toc -->
 
-# Introduction
+# Introduksyon
 
 Collectively, user-generated content has created billions of dollars worth of value for the shareholders of social media companies, such as Reddit, Facebook, and Twitter. **In 2014, Reddit hypothesized that its platform would be improved if everyone who contributed to reddit.com by posting stories, adding comments or voting were rewarded with a fair share in Reddit, Inc.[^1]**. Steem aims to support social media and online communities by returning much of its value to the people who provide valuable contributions by rewarding them with cryptocurrency, and through this process create a currency that is able to reach a broad market, including people who have yet to participate in any cryptocurrency economy.
 
