@@ -106,9 +106,9 @@ Tüm yayin üreticileri dürüst olsa dahi yayin üreticilerinin cogunlugu icin 
 
 Steem kisa dönem fiyat dalgalanmalarini üc bucuk günlük bir sürenin medyan fiyatini kullanarak hesap disinda tutar. Yayinlanmis fiyat yayini her saat icin saat baslarinda numulendirilir.
 
-Fiyat yayini kirliligi degisen medyan zaman araliginin yarisindan kisa sürdügü müddetce onun dönüsüm fiyatlari üzerindeki etkisi minimal düzeyde olacaktir. Yayinin bozuk olmasi durumunda ag katilimcilarinin, bozuk yayin aktüel dönüsüm fiyatini etkilemeden önce, yozlasmis yayin üreticileri aleyhinde oy kullanma imkani olacaktir. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
+Fiyat yayini kirliligi degisen medyan zaman araliginin yarisindan kisa sürdügü müddetce onun dönüsüm fiyatlari üzerindeki etkisi minimal düzeyde olacaktir. Yayinin bozuk olmasi durumunda ag katilimcilarinin, bozuk yayin aktüel dönüsüm fiyatini etkilemeden önce, yozlasmis yayin üreticileri aleyhinde oy kullanma imkani olacaktir. Belkide daha önemlisi, bu, yayin üreticilerine yayinlari fiyati etkilemeye baslamadan önce tespit ve düzeltme sansi sunmaktadir.
 
-With a three and a half day window, community members have approximately one and a half days to respond to any issues that come up.
+Topluluk üyeleri -üc bucuk günlük zaman araliginda- ortaya cikan herhangi bir meseleye yanit vermek icin yaklasik olarak bir bucuk güne sahiptir.
 
 ### Mitigating Timing Attacks
 
