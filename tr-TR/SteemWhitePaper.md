@@ -110,13 +110,13 @@ Fiyat yayini kirliligi degisen medyan zaman araliginin yarisindan kisa sürdüg�
 
 Topluluk üyeleri -üc bucuk günlük zaman araliginda- ortaya cikan herhangi bir meseleye yanit vermek icin yaklasik olarak bir bucuk güne sahiptir.
 
-### Mitigating Timing Attacks
+### Zamanlama Saldirilarini Sönümlendirmek
 
 Piyasa katilimcilarinin bilgiye blockchainin üc bucuk günlük hareketli medyan dönüsüm fiyatinin yansitabileceginden daha hizli bir ulasimi vardir. Bu bilgi alim-satimcilarin yarari namina toplulugun aleyhinde kullanilabilir. Eger Steem'in degerinde ani bir yükselir varsa, alim-satimcilar SBD'lerini eski, düsük dönüsüm fiyati üzerinden cevirme talebi gönderip daha sonrasinda edindikleri STEEM'lerini en ufak riskle yeni yüksek fiyat üzerinden satabilirler.
 
-Steem dönüsüm taleplerinin üc bucuk gün bekletilmesini sart kosmak yoluyla oyun alanini kademelendirir. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
+Steem dönüsüm taleplerinin üc bucuk gün bekletilmesini sart kosmak yoluyla oyun alanini kademelendirir. Bu demektir ki, ne alim satimcilar ne blockchain dönüsümün gerceklestigi fiyat hakkinda bir bilgi avantajina sahiptir.
 
-### Minimizing Abuse of Conversions
+### Dönüsüm Istismarmarini En Aza Indirmek
 
 If people could freely convert in both directions then traders could take advantage of the blockchains conversion rates by trading large volumes without changing the price. Traders who see a massive run up in price would convert to SBD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SBD to STEEM and not the other way around.
 
