@@ -248,7 +248,7 @@ The impact of this voting and payout distribution is to offer large bounties for
 
 ## التوافق في ستيم
 
-من الناحية النظرية، خوارزمية التوافق التي اعتمدها ستيم تشبه خوارزمية التوافق التي اعتمدتها الشركات في جميع أنحاء العالم. People with a vested interest in the future value of Steem vote to select individuals responsible for including testimony in the public record. Voting is weighted proportional to each individual's vested interest.
+من الناحية النظرية، خوارزمية التوافق التي اعتمدها ستيم تشبه خوارزمية التوافق التي اعتمدتها الشركات في جميع أنحاء العالم. الناس الذين لديهم مصلحة في القيمة المستقبلية ستيم يصوتون لاختيار الأفراد المسؤولين عن إدراج الشهادة في السجل العام. ويكون التصويت مرجح نسبيا مع المصالح الفردية لكل فرد.
 
 In the world of cryptocurrencies, the public record is commonly referred to as a *blockchain*. A *block* is a group of signed transactions.
 
