@@ -30,15 +30,15 @@ Ang Steem na komunidad ay nagbibigay ng mga sumusunod na serbisyo sa kanilang mg
 
 1. Ang pinagmumulan ng curated na mga balita at komentaryo.
 2. Isang paraan upang makakuha ng mataas na kalidad na sagot sa mga gawang pansarili na tanong.
-3. A stable cryptocurrency pegged to the U.S. dollar.
-4. Free payments.
-5. Jobs providing above services to other members.
+3. Isang matatag na cryptocurrency na naka-peg sa U.S. dollar.
+4. Libre na mga pagbabayad.
+5. Mga trabaho na nagbibigay ng mataas na serbisyo sa iba pang mga miyembro.
 
-Steem’s purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem’s incentives may result in better outcomes for most participants.
+Ang layunin ng Steem at pagbabago ng mga hangganan ng insentibong pang-ekonomya ay maaaring magbunga ng tama at mas inklusibong resulta para sa lahat ng kabahagi kaysa sa social media at plataporma ng cryptocurrency na nauna nito. Ang papel na ito ay galugarin ang mga umiiral na insentibong pang-ekonomiya at ipapakita kung paano ang mga insentibo ni Steem ay maaring magresulta ng mas mahusay na kinalabasan para sa karamihan ng mga kalahok.
 
-## Recognizing Contribution
+## Pagkilala sa Kontribusyon
 
-Steem is designed from the ground up to address the major barriers to adoption and monetization of a social media based economy. Our thesis is that the same techniques used to grow major social media platforms can be used to bootstrap a successful cryptocurrency. Economic incentives enabled by cryptocurrency can dramatically facilitate the growth of a new social media platform. It is the synergy between cryptocurrency and social media that we believe may give Steem a powerful advantage in the market.
+Dinisenyo ang Steem mula sa lupa pataas upang tugunan ang mga pangunahing hadlang sa pag-ampon at monetization ng mga ekonomiya batay sa social media. Our thesis is that the same techniques used to grow major social media platforms can be used to bootstrap a successful cryptocurrency. Economic incentives enabled by cryptocurrency can dramatically facilitate the growth of a new social media platform. It is the synergy between cryptocurrency and social media that we believe may give Steem a powerful advantage in the market.
 
 The challenge faced by Steem is deriving an algorithm for scoring individual contributions that most community members consider to be a fair assessment of the subjective value of each contribution. In a perfect world, community members would cooperate to rate each other's contribution and derive a fair compensation. In the real world, algorithms must be designed in such a manner that they are resistant to intentional manipulation for profit. Any widespread abuse of the scoring system could cause community members to lose faith in the perceived fairness of the economic system.
 
