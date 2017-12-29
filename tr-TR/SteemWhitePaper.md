@@ -112,9 +112,9 @@ Topluluk üyeleri -üc bucuk günlük zaman araliginda- ortaya cikan herhangi bi
 
 ### Mitigating Timing Attacks
 
-Piyasa katilimcilarinin bilgiye blockchainin üc bucuk günlük hareketli medyan dönüsüm fiyatinin yansitabileceginden daha hizli bir ulasimi vardir. Bu bilgi alim-satimcilarin yarari namina toplulugun aleyhinde kullanilabilir. If there is a sudden increase in the value of STEEM traders could request conversion of their SBD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
+Piyasa katilimcilarinin bilgiye blockchainin üc bucuk günlük hareketli medyan dönüsüm fiyatinin yansitabileceginden daha hizli bir ulasimi vardir. Bu bilgi alim-satimcilarin yarari namina toplulugun aleyhinde kullanilabilir. Eger Steem'in degerinde ani bir yükselir varsa, alim-satimcilar SBD'lerini eski, düsük dönüsüm fiyati üzerinden cevirme talebi gönderip daha sonrasinda edindikleri STEEM'lerini en ufak riskle yeni yüksek fiyat üzerinden satabilirler.
 
-Steem levels the playing field by requiring all conversion requests to be delayed for three and a half days. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
+Steem dönüsüm taleplerinin üc bucuk gün bekletilmesini sart kosmak yoluyla oyun alanini kademelendirir. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
 
 ### Minimizing Abuse of Conversions
 
