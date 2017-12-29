@@ -244,7 +244,7 @@ The impact of this voting and payout distribution is to offer large bounties for
 
 الخوارزميات المستخدمة من قبل العملات الإفتراضية توفر وسيلة أفضل للوصول إلى توافق في الآراء. يتم تسجيل شهادة توقيع مشفرة من الأفراد في دفتر الأستاذ العام الذي يحدد النظام العالمي المطلق للأحداث. ويمكن بعد ذلك أن تقوم خوارزمية حاسوبية حاسمة بمعالجة دفتر الأستاذ هذا لاستخلاص نتيجة مقبولة عالميا. وطالما أن أعضاء المجتمع يتفقون على خوارزمية المعالجة، فإن نتيجة الخوارزمية موثوقة.
 
-The primary consideration is determining what testimony is allowed to enter the public record. Systems should be designed to minimize the potential for censorship. Censorship on the public ledger is similar to preventing someone from voting in an election. In both cases an individual is prevented from impacting the global consensus.
+ويتمثل الاعتبار الرئيسي في تحديد ما يسمح للشهادة بدخول السجل العام. Systems should be designed to minimize the potential for censorship. Censorship on the public ledger is similar to preventing someone from voting in an election. In both cases an individual is prevented from impacting the global consensus.
 
 ## Consensus in Steem
 
