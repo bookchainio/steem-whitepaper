@@ -20,16 +20,16 @@ Ang Steem ay isang blockchain database na sumusuporta sa pagtatayo ng mga komuni
 
 Sama-sama, ang mga user-generated na mga nilalaman ay lumikha ng bilyun-bilyong dolyar na halaga para sa mga shareholders ng mga kompanya ng social media, tulad ng Reddit, Facebook, at Twitter. **Noong 2014, Gumawa ng teorya ang Reddit na maaring mapapabuti ang kanilang plataporma kung lahat ng mga tao na tumulong sa reddit.com sa pamamagitan ng pagpaskil ng mga kuwento, pagdaragdag ng mga komento o pagboto ay mabigyan ng makatarungan na bahagi mula sa Reddit, Inc.[^1]**. Nilalayon ng Steem na suportahan ang social media at mga online na komunidad sa pamamagitan ng pagbabalik ng halaga nito sa mga tao na nakapagbigay ng mahalagang kontribusyon sa pamamagitan ng pagbigay ng gantimpala na mga cryptocurrency, at sa pamamagitan ng prosesong ito makapaglikha ng isang pera na may kakayahan na makaabot ang malawak na merkado, kabilang ang mga tao na hindi pa sumali sa anumang ekonomiya ng cryptocurrency.
 
-May mga ilang mahahalagang aluntuntunin na ginamit upang gabayan ang pagdisenyo ng Steem. Ang pinakamahalagang alintuntunin ay lahat ng tao na nag-aambag sa pakikipagsapalaran ay dapat makatanggap ng pro-rata na pagmamay-ari, pagbayad o utang mula sa pakikipagsapalaran. Ang prinsipyong ito ay parehong prinsipyo na ginagamit ng lahat ng mga startup habang sila ay naglaan ng mga shares sa pagtatatag at sa panahon ng susunod na rounds ng pagpondo.
+May mga ilang mahahalagang prinsipyo na ginamit upang gabayan ang pagdisenyo ng Steem. Ang pinakamahalagang prinsipyo ay lahat ng tao na nag-aambag sa pakikipagsapalaran ay dapat makatanggap ng pro-rata na pagmamay-ari, pagbayad o utang mula sa pakikipagsapalaran. Ang prinsipyong ito ay parehong prinsipyo na ginagamit ng lahat ng mga startup habang sila ay naglaan ng mga shares sa pagtatatag at sa panahon ng susunod na rounds ng pagpondo.
 
-Ang ikalawang prinsipyo ay ang lahat ng mga anyo ng kapital ay pantay-pantay ang halaga. Ito ay nangangahulugan na ang mga yaong mag-ambag ng kanilang mga kakaunting panahon at atensyon papunta sa paggawa at pag curate ng mga nilalaman para sa iba ay kasing halaga lamang tulad ng mga tao na nag-ambag ng kanilang kakaunting pera. This is the sweat equity principle[^2] and is a concept that prior cryptocurrencies have often had trouble providing to more than a few dozen individuals.
+Ang ikalawang prinsipyo ay ang lahat ng mga anyo ng kapital ay pantay-pantay ang halaga. Ito ay nangangahulugan na ang mga yaong mag-ambag ng kanilang mga kakaunting panahon at atensyon papunta sa paggawa at pag curate ng mga nilalaman para sa iba ay kasing halaga lamang tulad ng mga tao na nag-ambag ng kanilang kakaunting pera. Ito ang sweat equality priciple [^2] at isang konsepto ng bago ng mga cryptocurrency na madalas magka problema sa pagbigay sa ilang higit sa anim na mga indibidwal.
 
-The third principle is that the community produces products to serve its members. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
+Ang pangatlong prinsipyo ay ang komunidad ay gumagawa ng mga produkto upang malingkuran ang mga miyembro nito. Ang prisipyong ito ay ipinakita sa pamamagitan ng mga unyon ng kredito, ko-op ng mga pagkain, at pagbabahagi ng planong kalusugan, na paglingkuran ang mga miyembro ng kanilang komunidad sa halip na ipagbili ang mga produkto o serbisyo sa mga tao sa labas ng komunidad.
 
-The Steem community provides the following services to its members:
+Ang Steem na komunidad ay nagbibigay ng mga sumusunod na serbisyo sa kanilang mga miyembro:
 
-1. A source of curated news and commentary.
-2. A means to get high quality answers to personalized questions.
+1. Ang pinagmumulan ng curated na mga balita at komentaryo.
+2. Isang paraan upang makakuha ng mataas na kalidad na sagot sa mga gawang pansarili na tanong.
 3. A stable cryptocurrency pegged to the U.S. dollar.
 4. Free payments.
 5. Jobs providing above services to other members.
