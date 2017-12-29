@@ -264,7 +264,7 @@ Because the active witnesses are known in advance, Steem is able to schedule wit
 
 تقنية بلوكشين تعتمد حاليا على رسوم المعاملات لمنع السبام. هذه الرسوم تعاني من جميع المشاكل المعروفة مع المعاملات الصغيرة وتمنع بلوكشين من استخدامها في المعاملات ذات القيمة المنخفضة. وفي الحقيقة يجب أن توفر التطبيقات اللامركزية للمستخدمين مظهر المعاملات الحرة إذا كانوا يرغبون في التنافس مع بدائلهم المركزية. وتحدد هذه الورقة أسلوب التعامل الذي اتبعه ستيم للقضاء على الحاجة إلى الرسوم وبالتالي تمكين مجموعة واسعة من التطبيقات اللامركزية التي لا يمكن الدفاع عنها سابقا.
 
-## The Problem With Fees
+## المشكلة مع الرسوم
 
 Blockchains are decentralized networks where all transactions are broadcast to all peers. Every so often a block is produced that includes some or all of the pending transactions. All blockchains must find a solution to prevent malicious users from consuming all of the available network capacity with worthless transactions. These worthless transactions can prevent other valuable transactions from being processed and ultimately destroy the network.
 
