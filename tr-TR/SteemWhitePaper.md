@@ -96,9 +96,9 @@ Steem Dolari, Start up'lari fonlamak icin siklikla kullanilan dönüstürülebil
 
 Steem Dolari Steem Backed Dollar'in kisaltmasi olan SBD sembolü ile gösterilir. SBD yaratmak güvenli bir fiyat yayininin ve istismarin önüne gececek kurallarin bir araya getirilmesini gerektirir. Güvenilir bir fiyat yayini üretimi üc unsuru barindirir: Dogru olmayan yayinin etkisinin minimize edilmesi, dogru olmayan yayinin sonuclarinin maksimize edilmesi ve zamanlamanin öneminin minimize edilmesi.
 
-### Minimizing Fraudulent Feeds
+### Hileli Yayinlari En Aza Indirmek
 
-SP sahipleri fiyat yayinlarini paylasmalari icin Witness'lar olarak adlandirilan bireyleri secerler. The elected witnesses are presumably trusted by those who have a vested interest in the quality of the feed. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
+SP sahipleri fiyat yayinlarini paylasmalari icin Witness'lar olarak adlandirilan bireyleri secerler. Secilmis Witness'lar, muhtemelen, yayinin kalitesinden nemalanan menfatleri olanlar nezdinde güvenilirdirler. Steem, bu secilmislere ödeme yapmak yoluyla, yayin yapmak icin hak kazanmaya yönelik bir piyasa rekabeti yaratmaktadir. Yayin üreticilerine yapilan ödemedeki artis, onlarin yanlis bilgi paylasimi durumundaki kayiplarini artirir.
 
 Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
 
