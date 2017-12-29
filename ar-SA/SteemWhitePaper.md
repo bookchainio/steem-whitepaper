@@ -244,11 +244,11 @@ The impact of this voting and payout distribution is to offer large bounties for
 
 الخوارزميات المستخدمة من قبل العملات الإفتراضية توفر وسيلة أفضل للوصول إلى توافق في الآراء. يتم تسجيل شهادة توقيع مشفرة من الأفراد في دفتر الأستاذ العام الذي يحدد النظام العالمي المطلق للأحداث. ويمكن بعد ذلك أن تقوم خوارزمية حاسوبية حاسمة بمعالجة دفتر الأستاذ هذا لاستخلاص نتيجة مقبولة عالميا. وطالما أن أعضاء المجتمع يتفقون على خوارزمية المعالجة، فإن نتيجة الخوارزمية موثوقة.
 
-ويتمثل الاعتبار الرئيسي في تحديد ما يسمح للشهادة بدخول السجل العام. وينبغي تصميم الانظمة لتقليل إمكانية الرقابة. المراقبة على دفتر الأستاذ العام مماثلة لمنع شخص من التصويت في الانتخابات. In both cases an individual is prevented from impacting the global consensus.
+ويتمثل الاعتبار الرئيسي في تحديد ما يسمح للشهادة بدخول السجل العام. وينبغي تصميم الانظمة لتقليل إمكانية الرقابة. المراقبة على دفتر الأستاذ العام مماثلة لمنع شخص من التصويت في الانتخابات. وفي كلتا الحالتين، يمنع الفرد من الإعتراض على توافق الآراء العالمي.
 
-## Consensus in Steem
+## التوافق في ستيم
 
-Conceptually, the consensus algorithm adopted by Steem is similar to the consensus algorithm adopted by companies throughout the world. People with a vested interest in the future value of Steem vote to select individuals responsible for including testimony in the public record. Voting is weighted proportional to each individual's vested interest.
+من الناحية النظرية، خوارزمية التوافق التي اعتمدها ستيم تشبه خوارزمية التوافق التي اعتمدتها الشركات في جميع أنحاء العالم. People with a vested interest in the future value of Steem vote to select individuals responsible for including testimony in the public record. Voting is weighted proportional to each individual's vested interest.
 
 In the world of cryptocurrencies, the public record is commonly referred to as a *blockchain*. A *block* is a group of signed transactions.
 
