@@ -158,9 +158,9 @@ Fiiliyatta USD ile denklik yaratacak sekilde bir para politikasi benimsenmesi fi
 
 Eger borclanma - Özkaynak orani tehlikeli seviyede yukari cikarsa ve piyasa katilimcilari dönüsüm talepleri yapmaktan kacinirlarsa, bu durumda yayin SBD'ye dönüsüm icin ödenen STEEM oranlarinda artis saglayacak sekilde ayarlanmalidir.
 
-Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SBD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions.
+STEEM/SBD dönüsümlerindeki faiz orani politikalarindaki ve/veya harhangi bir kar payi/iskonto'daki degisiklikler kisa vadeli piyasa sartlarina cevap vermek icin degil; yavasca ve uzun vadeli ortalama sapmalara verilen hesapli bir yanit olarak yapilmalidir.
 
-It is our belief that these rules will give market participants confidence that they are unlikely lose money by holding SBD purchased at a price of $1.00. We fully expect there to be a narrow trading range between $0.95 and $1.05 for SBD under normal market conditions.
+Inancimiz odur ki bu kuralar piyasa katilimcilarina $1.00'dan aldiklari SBD'yi ellerinde tutmalari halinde para kaybetmeyecekleri hususunda güven temin edecektir. Biz normal piyasa kosullari altinda SBD icin $0.95 ve $1.05 arasinda bir alim satim araligi olmasini bekliyoruz.
 
 ## Subjective Contributions
 
