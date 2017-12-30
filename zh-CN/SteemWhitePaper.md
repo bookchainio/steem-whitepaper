@@ -346,17 +346,17 @@ Ripple使用跟用户资源使用成比例的最低余额为[^11]，并要求新
 
 用于前期投资账户的STEEM被增加能量到新账号中(即, 转换为Steem能量)。 用于为新帐户提供资金的一部分SP可以从该帐户的创建者那里代理。 当用户被代理了SP，他们可以将SP用作投票和带宽用途，就像是他们自己的一样, 但是SP的所有权仍然属于代理者。 用户可以随时删除该代理。 在冷却期间后, SP将返回到他们的帐户。
 
-### Effectiveness Relative to Fees
+### 关于费用的有效性
 
-To compare the effectiveness of rate limiting to fees we must consider how the two systems react to intentional network flooding by an attacker. Under Bitcoin an attacker with $10,000 dollars could disrupt service for an entire day by filling every single block. The same attacker would be unable to disrupt service for even a single block under the dynamic fractional reserve rate limiting approach.
+为了比较速率限制和费用的有效性，我们必须考虑两个系统如何对攻击者蓄意的网络泛滥作出反应。 对于比特币，攻击者可以使用一万美元通过填满每一个区块来扰乱一整天的服务。 同一攻击者甚至无法在动态的部分预留速率限制方法下中断单个区块的服务。
 
-If we go to a more extreme case and assume the attacker holds 1% of all coins then we presume an attacker with $60 million dollars. Such an attacker could deny the Bitcoin blockchain service for 16 years unless the miners increased fees or capacity. Even if fees were raised to $15 per transaction, the attacker could still keep the network flooded for 16 days.
+如果我们考虑一个更极端的情况，假设攻击者持有所有币的1%，那么我们假定攻击者拥有6千万美元。 这样的攻击者可以拒绝比特币区块链服务16年，除非矿工增加费用或容量。 即使费用提高到每笔交易15美元，攻击者仍然可以将网络淹没16天。
 
-Under the rate limiting approach, someone who holds 1% of all coins with an intent to flood the network would achieve their goal for less than 30 seconds.
+在限速方法下，持有所有币1%的人，如果意图淹没网络，紧紧可以得逞不到30秒的时间。
 
-### Renting vs. Buying vs. Time Sharing
+### 租赁与购买与时间共享
 
-When someone owns a house they expect the right to use the house for free. If a group of people buy a house together then each can expect the right to use the house proportional to their percentage ownership in the house. A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
+当某人拥有一所房子时，他们期望有权免费使用房子。 如果一组人一起买房子，那么每个人都可以期望按比例来使用房子的权利。 A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
 
 If a house is owned by multiple people then those individuals must decide how they wish to timeshare the house. Someone who owns 50% of the house but only uses it one weekend per year might expect to be paid by the individuals who take their unused time. This is the mindset of a fee based system.
 
