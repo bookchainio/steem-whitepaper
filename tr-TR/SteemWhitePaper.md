@@ -130,7 +130,7 @@ STEEM'in degerindeki ani bir degisim borc-mülkiyet oranini carpici sekilde degi
 
 STEEM'i islemek icin kullanilan bu yüzde tabanlari, tahsil edilmemis SBD ve SP (Su anki kur / yayin tarafindan belirlenir) de dahil olmak üzere, arza dayanmaktadir.
 
-### Interest
+### Faiz
 
 SBD onu elinde bulunduranlara faiz öder. Faiz orani fiyat yayinini yayinlayanlar ayni kisiler tarafindan belirlenir ki bu sayede degisen piyasa kosullarina adapte olabilsin. Her borclanma borc veren acisindan risk tasir. Geri ödeme yapmaksizin elinde SBD bulunduran kisi efektif bir sekilde topluluga dolar degeri ödünc vermektedir. Onlar gelecekte bir noktada birilerinin dolar karsiligi onlardan SBD almak isteyecegine ya da onlarin SBD'lerini dönüstürmüs olduklari STEEM'i alacak bazi spekülatör veya yatirimcilarin olacagina inanirlar.
 
@@ -156,7 +156,7 @@ STEEM'in degerinin Steem'in yeni SBD üretiminden daha hizli arttigini varsayars
 
 Fiiliyatta USD ile denklik yaratacak sekilde bir para politikasi benimsenmesi fiyat yayini üreticilerine emanet edilmistir. Bu gücün istismari STEEM'in degerini düsürür. SP sahipleri fiyat yayinini ayarlamak ve faiz oranlarini yukarida özetlenmis kurallara göre ayarlamak icin güvenilir Wittness'lari oylayacak bilgeliktedir.
 
-If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SBD.
+Eger borclanma - Özkaynak orani tehlikeli seviyede yukari cikarsa ve piyasa katilimcilari dönüsüm talepleri yapmaktan kacinirlarsa, bu durumda yayin SBD'ye dönüsüm icin ödenen STEEM oranlarinda artis saglayacak sekilde ayarlanmalidir.
 
 Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SBD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions.
 
