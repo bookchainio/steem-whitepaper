@@ -318,11 +318,11 @@ ISP 有两个选择，运行 "完全预留" 或 "部分预留" 系统。 在一�
 
 区块链的容量未必需要封顶。 互联网设施完全允许比特币区块大小增加到10MB，从而将需要的最小余额减少十倍。 虽然比特币目前支持每秒约3个交易，但是替代实现可以每秒进行超过1000交易。
 
-### Comparison to Fees
+### 费用对比
 
-If we assume a user with $25 dollars worth of BTC transacts once per week and pays a $0.04 cent fee each time then they would pay over $2.00 in fees per year. A user would have to earn a 8% rate of return on their $25 dollars just to break even with paying fees. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
+如果我们假设一个用户每周用价值25美元的比特币办理业务，每次支付4美分的费用，他们每年付费将超过2美元。 用户将必须为他们的25美元赚取8%的回报率，才能跟支付的费用收支平衡。 用户将会把他们的钱保存在区块链上，这样如果使用速率限制的方法而不是收费的方法，这个用户将有价值25美元的比特币并能在一年中节省2美元。 如果有175美元，他们可以每天进行交易而且每年节省14美元。
 
-### Account Creation
+### 帐户创建
 
 Steem’s account-based system with publicly known balances simplifies the implementation of the bandwidth-based rate limiting algorithm. Any account with a balance below the minimum required to transact once per week would be unable to transact. This implies that all new accounts should be funded with at least this minimum balance. It also implies that users wishing to transact in smaller amounts can, so long as they hold a larger balance and reuse the account.
 
