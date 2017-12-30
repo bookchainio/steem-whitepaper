@@ -134,9 +134,9 @@ STEEM'i islemek icin kullanilan bu yüzde tabanlari, tahsil edilmemis SBD ve SP 
 
 SBD onu elinde bulunduranlara faiz öder. Faiz orani fiyat yayinini yayinlayanlar ayni kisiler tarafindan belirlenir ki bu sayede degisen piyasa kosullarina adapte olabilsin. Her borclanma borc veren acisindan risk tasir. Geri ödeme yapmaksizin elinde SBD bulunduran kisi efektif bir sekilde topluluga dolar degeri ödünc vermektedir. Onlar gelecekte bir noktada birilerinin dolar karsiligi onlardan SBD almak isteyecegine ya da onlarin SBD'lerini dönüstürmüs olduklari STEEM'i alacak bazi spekülatör veya yatirimcilarin olacagina inanirlar.
 
-STEEM ve SP sahipleri, topluluk üyeleri ellerinde SBD tutmaya istekli oldugu müddetce kaldirac kazanirlar. Bu kaldirac büyümeye katkida bulunurken büyüme kaynakli kazanclari da artirir. STEEM sahipleri eger fiyat düserse özsermayenin azalmasindan müzdarip olurlar. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
+STEEM ve SP sahipleri, topluluk üyeleri ellerinde SBD tutmaya istekli oldugu müddetce kaldirac kazanirlar. Bu kaldirac büyümeye katkida bulunurken büyüme kaynakli kazanclari da artirir. STEEM sahipleri eger fiyat düserse özsermayenin azalmasindan müzdarip olurlar. Kripto para birimi projeleri göstermistir ki, sermayeleriyle aga inanmaya istekli kullanici tabanini artirmanin getirdigi gelir, aga nihayetinde, gerileme döneminde olusacak bir özsermaye kaybindan daha fazla deger katmaktadir.
 
-### Setting Price Feeds
+### Fiyat Yayinini Ayarlama
 
 Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
 
