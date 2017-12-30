@@ -164,9 +164,9 @@ Inancimiz odur ki bu kuralar piyasa katilimcilarina $1.00'dan aldiklari SBD'yi e
 
 ## Öznel Katkilar
 
-Öznel Proof of Work, mining gibi tümüyle *objektif* Proof of Work sistemlerinden daha iyisini yaparak, para birimi dagitma meselesine alternatif bir yaklasim sunmaktadir. The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
+Öznel Proof of Work, mining gibi tümüyle *objektif* Proof of Work sistemlerinden daha iyisini yaparak, para birimi dagitma meselesine alternatif bir yaklasim sunmaktadir. *öznel* proof of work'u hayata geciren para birimlerinin uygulanmasi herhangi bir *objektif* proof of work sisteminden cok daha fazladir cünkü onlar amacini net bir sekilde tanimlamis herhangi bir kavram etrafinda topluluk yaratmak icin uygulanabilirdir. Bireyler bir topluluga katildiklarinda belirli fikirlere ragbet ederler ve topluluk degerlerini veya amaclarini güclendirmek icin oylama yapabilirler.
 
-In effect, the criteria by which work is evaluated is completely subjective and its definition lives outside the source code itself. One community may wish to reward artists, another poets, and another comedians. Other communities may choose to reward charitable causes or help advance political agendas.
+Fiiliyatta, work'un degerlendirildigi kriterler tümüyle özneldir ve ve onun tanimi kaynak kodunun disinda bulunur. Bir topluluk sanatcilari ödüllendirmeyi ister, bir digeri sairleri ve ötekisi ise komedyenleri. Other communities may choose to reward charitable causes or help advance political agendas.
 
 The value each currency achieves depends upon the demand for influence within a particular community and how large the market believes each community can get. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
 
