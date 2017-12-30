@@ -362,13 +362,13 @@ Ripple使用跟用户资源使用成比例的最低余额为[^11]，并要求新
 
 另一方面，那些拥有50%房权的人期望未来房屋的需求增长因而他们可以以更高的价格卖掉他们的权益。 任何拥有比他们使用的房子都多权益的业主成为房地产投机者。 以这种心态，他们不是收取租金，而是获得升值。
 
-共享的价值来自于它可能授予其所有者多少时间。 拥1%的房权，并每年得到它一个周末是最权益的最低价值。 然而，如果一半的股东从来不使用他们的周末，那么时间共享的价值上升到每年2周末。 如果那些不活跃的用户选择租出他们未使用的时间，那么它就会退回到每年一个周末。 如果那些未使用的分时被出售给使用它们的人，时间共享的价值将下降50%。 Unless the rent collected is greater than the fall in share value the timeshare owners are making an economic miscalculation.
+共享的价值来自于它可能授予其所有者多少时间。 拥1%的房权，并每年得到它一个周末是最权益的最低价值。 然而，如果一半的股东从来不使用他们的周末，那么时间共享的价值上升到每年2周末。 如果那些不活跃的用户选择租出他们未使用的时间，那么它就会退回到每年一个周末。 如果那些未使用的分时被出售给使用它们的人，时间共享的价值将下降50%。 除非收取的租金大于股份价值的下跌，否则时间分享的业主就是经济上的失算。
 
-Using this rationale we can assume that a system based on fees will either be more expensive for its users or be less profitable for its collective owners. An individual small owner may profit by renting out his small time slice, but only at the expense of all other timeshare owners. In effect, the cost of the falling timeshare value is shared among all owners whereas the profits are centralized in the single owner who decided to rent his share.
+利用这一理论，我们可以假定，基于收费的系统对其用户来说要么更贵，要么对其集体业主的利润更低。 一个小的业主可以通过租出他的小时间片来获利，但只会牺牲所有其他时间共享业主的利益。 实际上，时间共享价值下降的成本由所有业主均摊，而利润会集中在决定租赁其份额的单个所有者身上。
 
-We can conclude from this that a blockchain is best served by not using usage fees at all. If a usage fee were to be charged as an alternative to rate limiting, then it should be the equivalent of buying enough timeshares and committing to hold them long enough to gain the right use it once.
+从这一点我们可以得出这样的结论，区块链最好不要用使用费。 如果将使用费用作替代速率限制，那么它应该相当于购买足够的分时，并承诺持有他们足够长的时间，以获得使用一次的权利。
 
-Stated another way, a transaction fee should be equal to the minimum account balance necessary to transact once per week and it should be refunded at the end of the week. Assume the minimum account balance is $1 and allows someone to transact once per week. If someone with a $1 balance that wishes to perform 5 transactions at once they will have to increase their balance to $5 for a week either before or after their transactions.
+换句话说，交易费应该相当于每周交易一次的最低账户余额，并在一周结束时返还。 假设最低账户余额时一美元，而且运行用户一周交易一次。 如何拥有一美元的用户希望一次做五次交易，他必须在这一周做交易前后把余额增加到五美元。
 
 In theory a market could form where users can borrow the stake required. In practice it is more efficient for users to simply buy and sell the timeshares necessary to meet their desired usage rate. In other words, the cost of negotiating micro-loans is greater than the cost of maintaining a balance suitable for your maximum weekly usage.
 
