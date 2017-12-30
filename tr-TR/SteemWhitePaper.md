@@ -122,13 +122,13 @@ Eger insanlar iki yönde de rahatlikca dönüstürme yapabilselerdi o zaman alim
 
 Nasil ve ne zaman SBD üretilecegine ve kimlerin bunu edinecegine blockchain karar verir. Bu, SBD üretim oranini sabit tutar ve istismar yollarini ortadan kaldirir.
 
-### Sürdürülebilir Borclanmadan Mülkiyet Oranlarina
+### Sürdürülebilir Borc-Mülkiyet Oranlari
 
 Tüm token arzinda, tokenin kendisi bir mülkiyet olarak degerlendirilir ise, bu durumda token tokena-dönüstürülebilir-dolar bir borclanma olarak görülebilir. Eger borcun mülkiyete orani cok yükseklere cikarsa tüm para birimi istikrarsiz hale gelebilir. Borc dönüsümleri token arzini carpici bir bicimde artirabilir ki bu da sonucunda piyasada satilmasiyla fiyati baskilar. Ardisik dönüsümler cok daha fazla sayida token basilmasini gerektirir. Kontrol edilmedigi durumlarda sistem, ardinda bir borc yiginina dayanan degersiz mülkiyetler birakarak cökebilir. Borcun mülkiyete orani arttikca yeni yatirimcilar masaya sermaye getirme konusunda daha az istekli olurlar.
 
-STEEM'in degerindeki ani bir degisim borc-mülkiyet oranini carpici sekilde degistirebilir. Blockchain, borclanma oraninin %10'u gecmesi halinde, SBD dönüsümleri sayesinde elde edilen STEEM'in meblagini düsürerek borc-mülkiyet oranininin cok yükselmesinin önüne gecer. If the amount of SBD debt ever exceeds 10% of the total STEEM market cap, the blockchain will automatically reduce the amount of STEEM generated through conversions to a maximum of 10% of the market cap. This ensures that the blockchain will never have higher than a 10% debt-to-ownership ratio.
+STEEM'in degerindeki ani bir degisim borc-mülkiyet oranini carpici sekilde degistirebilir. Blockchain, borclanma oraninin %10'u gecmesi halinde, SBD dönüsümleri sayesinde elde edilen STEEM'in meblagini düsürerek borc-mülkiyet oranininin cok yükselmesinin önüne gecer. Eger SBD borclanma miktari STEEM'in piyasa degerinin %10'u gecerse, blockchain dönüsümler yoluyla elde edilen STEEM meblagini otomatik olarak STEEM'in piyasa degerinin maksimum %10'una düsürür. Bu da blockchainin asla %10'dan fazla borc-mülkiyet oranina sahip olmamasini garantiler.
 
-The percentage floors used to compute STEEM creation are based on the supply including the STEEM value of all outstanding SBD and SP (as determined by the current rate / feed).
+STEEM'i islemek icin kullanilan bu yüzde tabanlari, tahsil edilmemis SBD ve SP (Su anki kur / yayin tarafindan belirlenir) de dahil olmak üzere, arza dayanmaktadir.
 
 ### Interest
 
