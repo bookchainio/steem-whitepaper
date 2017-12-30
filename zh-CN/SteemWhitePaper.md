@@ -356,13 +356,13 @@ Ripple使用跟用户资源使用成比例的最低余额为[^11]，并要求新
 
 ### 租赁与购买与时间共享
 
-当某人拥有一所房子时，他们期望有权免费使用房子。 如果一组人一起买房子，那么每个人都可以期望按比例来使用房子的权利。 A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
+当某人拥有一所房子时，他们期望有权免费使用房子。 如果一组人一起买房子，那么每个人都可以期望按比例来使用房子的权利。 基于费用的区块链就像从房东那里租房，而速率限制就像房主之间的时间共享。
 
-If a house is owned by multiple people then those individuals must decide how they wish to timeshare the house. Someone who owns 50% of the house but only uses it one weekend per year might expect to be paid by the individuals who take their unused time. This is the mindset of a fee based system.
+如果一座房子被多个人拥有，那么这些个人必须决定如何明智地时间共享这座房子。 那些拥有50%房权但是每年只使用一周的人期望其他使用了他的未用时间的个人付给他钱。 这是基于费用的系统心态。
 
-On the other hand, someone who owns 50% of the house is speculating that demand for the house will increase in the future and they will be able to sell their stake for more. Any owner who owns more of a house than they use becomes a real estate speculator. With this mindset rather than collecting rent, they collect appreciation.
+另一方面，那些拥有50%房权的人期望未来房屋的需求增长因而他们可以以更高的价格卖掉他们的权益。 任何拥有比他们使用的房子都多权益的业主成为房地产投机者。 以这种心态，他们不是收取租金，而是获得升值。
 
-The value of a share is derived from how much time it can potentially grant its owner. Owning 1% of a house and getting it 1 weekend per year is the lowest value of a share. However, if half of the shareholders never use their weekend, then the value per timeshare rises to 2 weekends per year. If those inactive users instead opt to rent their unused time, then it falls back to 1 weekend per year. If those unused timeshares were sold to people who would use them then the value of a timeshare would fall by 50%. Unless the rent collected is greater than the fall in share value the timeshare owners are making an economic miscalculation.
+共享的价值来自于它可能授予其所有者多少时间。 拥1%的房权，并每年得到它一个周末是最权益的最低价值。 然而，如果一半的股东从来不使用他们的周末，那么时间共享的价值上升到每年2周末。 如果那些不活跃的用户选择租出他们未使用的时间，那么它就会退回到每年一个周末。 如果那些未使用的分时被出售给使用它们的人，时间共享的价值将下降50%。 Unless the rent collected is greater than the fall in share value the timeshare owners are making an economic miscalculation.
 
 Using this rationale we can assume that a system based on fees will either be more expensive for its users or be less profitable for its collective owners. An individual small owner may profit by renting out his small time slice, but only at the expense of all other timeshare owners. In effect, the cost of the falling timeshare value is shared among all owners whereas the profits are centralized in the single owner who decided to rent his share.
 
