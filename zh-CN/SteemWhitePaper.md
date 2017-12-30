@@ -338,11 +338,11 @@ Steem的基于账户的系统余额公开化使得以带宽为基础的速率限
 
 Ripple使用跟用户资源使用成比例的最低余额为[^11]，并要求新帐户至少获得此最低余额的资金。 目前，这一最低余额约为0.15 美元，比我们估计的可以让人每周至少一次自由交易的0.10 美元多。
 
-区块链可以通过要求最小余额的简单过程来强制每个用户的最小值。 Any business that wishes to bring a new customer to the blockchain can pre-fund that user’s account with the minimum balance that would allow them to transact. Requiring a relatively large fee ($1.00) to sign up new users will naturally force anyone offering free accounts to vet the quality and uniqueness of each account before registering them with the blockchain.
+区块链可以通过要求最小余额的简单过程来强制每个用户的最小值。 任何希望将新客户带到区块链的企业都可以为该用户的帐户充值到使其能够进行交易的最小余额。 要求一个相对较大的费用 ($ 1.00) 注册新用户，自然会迫使任何提供免费账户的人，在把他们注册到区块链之前，审查每个帐户的质量和独特性。
 
-Maintaining a minimum balance is effectively the same as making users pay transaction fees with the interest they could have earned on their balance. The minimum balance is simply the balance required to earn enough interest to pay a fee in a relatively short period of time.
+维持最低限度的余额，而不能这些余额赚取利息，跟让用户付交易费是一样的。 最低余额只是在相对较短的时间内赚取足够利息以支付费用所需的余额。
 
-Fortunately, the minimum balance required can be as low as a dollar and this is something users can understand and appreciate. The opportunity cost of lost interest doesn’t incur the cognitive cost of a micro-fee and is far more acceptable to users.
+幸运的是，所需的最低余额可以低至一美元，这是用户可以理解和接受的东西。 失去利息的机会成本不会导致小额费用的认知成本，而且对用户来说更容易接受。
 
 The STEEM used to pre-fund an account is Powered Up in the new account (i.e., converted to Steem Power). A portion of the SP used to fund a new account may be delegated from the creator of the account. When a user is delegated SP, they may use the SP for voting and bandwidth purposes as if it were their own, but the ownership of the SP remains with the user who delegated it. A user may remove the delegation at any time. After a cool-down period, the SP is returned to their account.
 
