@@ -138,11 +138,11 @@ STEEM ve SP sahipleri, topluluk üyeleri ellerinde SBD tutmaya istekli oldugu m�
 
 ### Fiyat Yayinini Ayarlama
 
-Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
+Dikkatli okuyucular fark edecektir ki, kisitli arzda faiz gelirli aktifler -diger ayni varliktan faiz kazanma firsatlarina bagli olarak- dayanak varliktan daha düsük ya da yüksek ticaret yapabilir. Amerikan Dolarina sabitlenmis bir varlik üzerindeki yüksek faiz ile, bir cok insan artik onun degeri $1 olmayana kadar kisitli arzdaki Steem Dolarina ragbet edecektir. Ekonomide Imkansiz üclem[^4] olarak bilinen; asagidaki üc maddeye ayni anda sahip olunamayacagini anlatan bir ilke vardir:
 
-1. A stable exchange rate
-2. Free capital movement
-3. An independent monetary policy
+1. Sabit bir döviz kuru
+2. Özgür sermaye akisi
+3. Bagimsiz bir para politikasi
 
 If Steem feed producers aim to have an independent monetary policy allowing it to create and destroy Steem Dollars while simultaneously having full control over the interest rate then they will encounter problems. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
 
