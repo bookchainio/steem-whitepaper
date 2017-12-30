@@ -144,7 +144,7 @@ Dikkatli okuyucular fark edecektir ki, kisitli arzda faiz gelirli aktifler -dige
 2. Özgür sermaye akisi
 3. Bagimsiz bir para politikasi
 
-If Steem feed producers aim to have an independent monetary policy allowing it to create and destroy Steem Dollars while simultaneously having full control over the interest rate then they will encounter problems. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
+Eger Steem yayin üreticileri, faiz oranlari üzerinde tümüyle kontrol sahibiyken ayni zamanda onlara Steem Dolari yaratma ya da yok etme imkani taniyacak bagimsiz bir para politikasina sahip olma hedefi koyarlarsa problemlerle karsilasirlar. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
 
 The primary concern of Steem feed producers is to maintain a stable one-to-one conversion between SBD and the U.S. Dollar (USD). Any time SBD is consistently trading above $1.00 USD interest payments must be stopped. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SBD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
 
