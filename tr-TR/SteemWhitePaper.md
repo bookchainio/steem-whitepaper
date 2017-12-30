@@ -118,9 +118,9 @@ Steem dönüsüm taleplerinin üc bucuk gün bekletilmesini sart kosmak yoluyla 
 
 ### Dönüsüm Istismarmarini En Aza Indirmek
 
-Eger insanlar iki yönde de rahatlikca dönüstürme yapabilselerdi o zaman alim satimcilar, blockchainin dönüsüm oranlarindan, fiyati degistirmeden büyük hacimlerde ticaret yaparak avantaj elde edebilirlerdi. Traders who see a massive run up in price would convert to SBD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SBD to STEEM and not the other way around.
+Eger insanlar iki yönde de rahatlikca dönüstürme yapabilselerdi o zaman alim satimcilar, blockchainin dönüsüm oranlarindan, fiyati degistirmeden büyük hacimlerde ticaret yaparak avantaj elde edebilirlerdi. Fiyatta bir firlama gören alim satimcilar en yüksek fiyattan (en riskli oldugu zamanda) SBD'ye dönüsüm yapabilirler ve gelen düzeltmeden sonra tekrar (STEEM'e) dönüstürebilirler. Steem protokolü sadece SBD'den STEEM'e tek yönlü olarak dönüsüm yapmaya olanak taniyarak toplulugu bu tarz istismarlardan korur.
 
-The blockchain decides how and when to create SBD and who should get it. This keeps the rate of SBD creation stable and removes most avenues of abuse.
+Nasil ve ne zaman SBD üretilecegine ve kimlerin bunu edinecegine blockchain karar verir. Bu, SBD üretim oranini sabit tutar ve istismar yollarini ortadan kaldirir.
 
 ### Sustainable Debt to Ownership Ratios
 
