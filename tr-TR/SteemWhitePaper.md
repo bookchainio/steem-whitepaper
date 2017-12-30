@@ -162,7 +162,7 @@ STEEM/SBD dönüsümlerindeki faiz orani politikalarindaki ve/veya harhangi bir 
 
 Inancimiz odur ki bu kuralar piyasa katilimcilarina $1.00'dan aldiklari SBD'yi ellerinde tutmalari halinde para kaybetmeyecekleri hususunda güven temin edecektir. Biz normal piyasa kosullari altinda SBD icin $0.95 ve $1.05 arasinda bir alim satim araligi olmasini bekliyoruz.
 
-## Subjective Contributions
+## Öznel Katkilar
 
 Subjective Proof of Work presents an alternative approach to distributing a currency that improves upon fully *objective* Proof of Work systems such as mining. The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
 
