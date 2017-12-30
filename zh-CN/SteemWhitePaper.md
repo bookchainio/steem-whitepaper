@@ -324,11 +324,11 @@ ISP 有两个选择，运行 "完全预留" 或 "部分预留" 系统。 在一�
 
 ### 帐户创建
 
-Steem’s account-based system with publicly known balances simplifies the implementation of the bandwidth-based rate limiting algorithm. Any account with a balance below the minimum required to transact once per week would be unable to transact. This implies that all new accounts should be funded with at least this minimum balance. It also implies that users wishing to transact in smaller amounts can, so long as they hold a larger balance and reuse the account.
+Steem的基于账户的系统余额公开化使得以带宽为基础的速率限制算法的事实更近容易实现。 任何账户的余额低于每周办理一次所需的最低限额，则无法办理交易。 这意味着，所有新的账户都必须拥有这一最低余额的资金。 它还意味着用户如果希望用小额交易可以重新使用这个账户，只要拥有较大的余额。
 
-It is possible for a low-balance account created during a time of low usage to become inaccessible if the network usage picks up. The funds could be recovered at any time by temporarily delegating a larger balance to the account.
+一个在低用量时期创建的低余额的账户在网络用量增加后可能会变的无法访问。 可以在任何时候通过临时将较大的金额代理给账户来收回它的资金。
 
-In order to maintain a reasonable user experience with a minimum number of hung accounts, all new accounts should start out with a balance 10 times the minimum required to transact weekly. This way even if demand increases by a factor of 10 the account will remain viable.
+为了保持一个合理的用户体验与最低数量的冻结帐户，所有新账号必须注入每周交易最低数额十倍的余额。 This way even if demand increases by a factor of 10 the account will remain viable.
 
 Any initial account balance would have to come from the user creating the account and not from token creation due to the potential for sybil attacks.
 
