@@ -122,9 +122,9 @@ Eger insanlar iki yönde de rahatlikca dönüstürme yapabilselerdi o zaman alim
 
 Nasil ve ne zaman SBD üretilecegine ve kimlerin bunu edinecegine blockchain karar verir. Bu, SBD üretim oranini sabit tutar ve istismar yollarini ortadan kaldirir.
 
-### Sustainable Debt to Ownership Ratios
+### Sürdürülebilir Borclanmadan Mülkiyet Oranlarina
 
-If a token is viewed as ownership in the whole supply of tokens, then a token-convertible-dollar can be viewed as debt. If the debt to ownership ratio gets too high the entire currency can become unstable. Debt conversions can dramatically increase the token supply, which in turn is sold on the market suppressing the price. Subsequent conversions require the issuance of even more tokens. Left unchecked the system can collapse leaving worthless ownership backing a mountain of debt. The higher the debt to ownership ratio becomes the less willing new investors are to bring capital to the table.
+Tüm token arzinda, tokenin kendisi bir mülkiyet olarak degerlendirilir ise, bu durumda token tokena-dönüstürülebilir-dolar bir borclanma olarak görülebilir. Eger borcun mülkiyete orani cok yükseklere cikarsa tüm para birimi istikrarsiz hale gelebilir. Borc dönüsümleri token arzini carpici bir bicimde artirabilir ki bu da sonucunda piyasada satilmasiyla fiyati baskilar. Ardisik dönüsümler cok daha fazla sayida token basilmasini gerektirir. Kontrol edilmedigi durumlarda sistem, ardinda bir borc yiginina dayanan degersiz mülkiyetler birakarak cökebilir. Borcun mülkiyete orani arttikca yeni yatirimcilar masaya sermaye getirme konusunda daha az istekli olurlar.
 
 A rapid change in the value of STEEM can dramatically change the debt-to-ownership ratio. The blockchain prevents the debt-to-ownership ratio from getting too high, by reducing the amount of STEEM awarded through SBD conversions if the debt level were to exceed 10%. If the amount of SBD debt ever exceeds 10% of the total STEEM market cap, the blockchain will automatically reduce the amount of STEEM generated through conversions to a maximum of 10% of the market cap. This ensures that the blockchain will never have higher than a 10% debt-to-ownership ratio.
 
