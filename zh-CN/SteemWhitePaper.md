@@ -370,9 +370,9 @@ Ripple使用跟用户资源使用成比例的最低余额为[^11]，并要求新
 
 换句话说，交易费应该相当于每周交易一次的最低账户余额，并在一周结束时返还。 假设最低账户余额时一美元，而且运行用户一周交易一次。 如何拥有一美元的用户希望一次做五次交易，他必须在这一周做交易前后把余额增加到五美元。
 
-In theory a market could form where users can borrow the stake required. In practice it is more efficient for users to simply buy and sell the timeshares necessary to meet their desired usage rate. In other words, the cost of negotiating micro-loans is greater than the cost of maintaining a balance suitable for your maximum weekly usage.
+理论上讲，如果用户可以加到需要的股权那么就会形成一个市场 实践上说，用户购买和卖出满足他们需要的共享时间会更加有效。 用其他的话说，交涉微贷款的成本高于维护一个每周最大使用量的余额的成本。
 
-Decentralized rate limiting of transactions can enable new types of decentralized applications that were not viable when every use of the application required a micropayment. This new model gives application developers the ability to decide if and when to charge their users for transactions.
+去中心化的速率控制可以让新型的每次使用应用程序都需要微支付所不能实现的去中心化应用程序产生。 这个新模型给了应用程序的开发者决定是否以及何时收取他们的用户交易费的能力。
 
 # Performance and Scalability
 
