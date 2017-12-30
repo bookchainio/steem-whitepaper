@@ -64,7 +64,7 @@ Bu kisim, Steem'in arkasinda yatan fikirler ve onun Steem topluluguna anlamli ve
 
 ## Sermaye Katkilari
 
-Bir toplulugun sermayeyi cezbedebilmek icin sunabilecegi iki öge vardir: borc ve mülkiyet. Mülkiyet satin alanlar topluluk büyüdünde kazanirlar fakat kücüldügünde ise kaybederler. Borc verenlere ise belirli oranda bir faiz garanti edilir fakat toplulugun büyümesiyle gerceklesen kara katilmazlar. Her iki türden sermaye katkisi da toplulugun büyümesi ve onun para biriminin degeri icin kiymetlidir. Ek olarak, mülkiyetin düzenlenebilecegi iki yol vardir: Likit ve Vadeli Mevduat. Vadeli mevduat hissesi uzun vadeli bir taahhüt getirir ve mümkün olan en asagi zaman diliminde satilamaz.
+Bir toplulugun sermayeyi cezbedebilmek icin sunabilecegi iki öge vardir: borc ve öy sermaye. Mülkiyet satin alanlar topluluk büyüdünde kazanirlar fakat kücüldügünde ise kaybederler. Borc verenlere ise belirli oranda bir faiz garanti edilir fakat toplulugun büyümesiyle gerceklesen kara katilmazlar. Her iki türden sermaye katkisi da toplulugun büyümesi ve onun para biriminin degeri icin kiymetlidir. Ek olarak, mülkiyetin düzenlenebilecegi iki yol vardir: Likit ve Vadeli Mevduat. Vadeli mevduat hissesi uzun vadeli bir taahhüt getirir ve mümkün olan en asagi zaman diliminde satilamaz.
 
 Steem agi bu farkli malvarligi siniflarini Steem (STEEM), Steem Power (SP) ve Steem Dolari (SBD) olarak adlandirir.
 
@@ -148,9 +148,9 @@ Eger Steem yayin üreticileri, faiz oranlari üzerinde tümüyle kontrol sahibiy
 
 Steem yayin üreticilerinin öncelikli kaygisi SBD ile Amerikan Dolari (USD) arasinda bire-bir dönüsümü sürdürmektir. SBD'nin $1.00 USD'den fazlaya alinip satildigi her durumda faiz ödemeleri durdurulmalidir. Borclanma üzerindeki %0 faize ragmen hala kar payina ragbet olan bir piyasada, piyasanin toplulugun borclanmak istediginden dafa fazla kredi saglama egiliminde oldugunu söylemek yanlis olmaz. Eger bu gerceklesirse SBD $1.00'dan daha fazla olarak deger bulur ve toplulugun da eksi oranlarda faiz isletmekten daha fazla yapabilecegi bir sey yoktur.
 
-If the debt-to-ownership ratio is low and SBD is trading for less than $1.00, then the interest rate should be increased. This will encourage more people to hold their SBD and support the price.
+Eger borclanmanin mülkiyete orani düsükse ve SBD $1.00'dan asagiya alinip satiliyorsa, o zaman faiz oranlari artirilmalidir. Bu daha fazla insani elinde SBD tutma konusunda cesaretlendirir ve fiyati destekler.
 
-If SBD trades for less than $1.00 USD and the debt-to-ownership ratio is high, then the feeds should be adjusted upward give more STEEM per SBD. This will increase demand for SBD while also reducing the debt-to-ownership ratio and returning SBD to parity with USD.
+Eger SBD $1.00'dan daha aza alinip satilirsa ve borc-mülkiyet orani yüksekse, o zaman fiyat yayinlari yukari dogru ayarlanmali ve SBD basina daha fazla STEEM verilmelidir. This will increase demand for SBD while also reducing the debt-to-ownership ratio and returning SBD to parity with USD.
 
 Assuming the value of STEEM is growing faster than Steem is creating new SBD, the debt-to-ownership ratio should remain under the target ratio and the interest offered benefits everyone. If the value of the network is flat or falling, then any interest offered will only make the debt-to-ownership ratio worse.
 
