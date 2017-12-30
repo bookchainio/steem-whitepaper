@@ -344,7 +344,7 @@ Ripple使用跟用户资源使用成比例的最低余额为[^11]，并要求新
 
 幸运的是，所需的最低余额可以低至一美元，这是用户可以理解和接受的东西。 失去利息的机会成本不会导致小额费用的认知成本，而且对用户来说更容易接受。
 
-The STEEM used to pre-fund an account is Powered Up in the new account (i.e., converted to Steem Power). A portion of the SP used to fund a new account may be delegated from the creator of the account. When a user is delegated SP, they may use the SP for voting and bandwidth purposes as if it were their own, but the ownership of the SP remains with the user who delegated it. A user may remove the delegation at any time. After a cool-down period, the SP is returned to their account.
+用于前期投资账户的STEEM被增加能量到新账号中(即, 转换为Steem能量)。 用于为新帐户提供资金的一部分SP可以从该帐户的创建者那里代理。 当用户被代理了SP，他们可以将SP用作投票和带宽用途，就像是他们自己的一样, 但是SP的所有权仍然属于代理者。 用户可以随时删除该代理。 在冷却期间后, SP将返回到他们的帐户。
 
 ### Effectiveness Relative to Fees
 
