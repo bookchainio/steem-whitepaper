@@ -328,13 +328,13 @@ Steem的基于账户的系统余额公开化使得以带宽为基础的速率限
 
 一个在低用量时期创建的低余额的账户在网络用量增加后可能会变的无法访问。 可以在任何时候通过临时将较大的金额代理给账户来收回它的资金。
 
-为了保持一个合理的用户体验与最低数量的冻结帐户，所有新账号必须注入每周交易最低数额十倍的余额。 This way even if demand increases by a factor of 10 the account will remain viable.
+为了保持一个合理的用户体验与最低数量的冻结帐户，所有新账号必须注入每周交易最低数额十倍的余额。 这样，即使需求增加10倍，该帐户仍然可用。
 
-Any initial account balance would have to come from the user creating the account and not from token creation due to the potential for sybil attacks.
+为了防止潜在的sybil攻击，任何初始帐户余额都必须来自创建帐户的用户，而不是来自代币创建。
 
-### Justifying Minimum Balances
+### 最小余额的合理性
 
-The concept of forcing users to maintain a minimum balance flows naturally from the value of a user[^10]. Anyone running a business knows that every single user has significant value. Businesses spend anywhere from $30 to $200 to acquire a user. Sometimes they pay users directly, other times they pay for advertizing, and still other times entire companies are bought just for their user base. After a company acquires a user they often given them many *free services* just to keep them around long enough to monetize them through some other means.
+强制用户保持最小余额的概念自然来自用户的价值[^10]。 任何经营企业的人都知道每个用户都有很大的价值。 企业花费30到200美元的以获取用户。 Sometimes they pay users directly, other times they pay for advertizing, and still other times entire companies are bought just for their user base. After a company acquires a user they often given them many *free services* just to keep them around long enough to monetize them through some other means.
 
 Ripple uses a minimum balance[^11] that scales with account resource use and requires that new accounts get funded with at least this minimum balance. Currently this minimum balance is about $0.15 which is greater than the $0.10 we estimated would allow someone to transact freely at least once per week.
 
