@@ -166,11 +166,11 @@ Inancimiz odur ki bu kuralar piyasa katilimcilarina $1.00'dan aldiklari SBD'yi e
 
 Öznel Proof of Work, mining gibi tümüyle *objektif* Proof of Work sistemlerinden daha iyisini yaparak, para birimi dagitma meselesine alternatif bir yaklasim sunmaktadir. *öznel* proof of work'u hayata geciren para birimlerinin uygulanmasi herhangi bir *objektif* proof of work sisteminden cok daha fazladir cünkü onlar amacini net bir sekilde tanimlamis herhangi bir kavram etrafinda topluluk yaratmak icin uygulanabilirdir. Bireyler bir topluluga katildiklarinda belirli fikirlere ragbet ederler ve topluluk degerlerini veya amaclarini güclendirmek icin oylama yapabilirler.
 
-Fiiliyatta, work'un degerlendirildigi kriterler tümüyle özneldir ve ve onun tanimi kaynak kodunun disinda bulunur. Bir topluluk sanatcilari ödüllendirmeyi ister, bir digeri sairleri ve ötekisi ise komedyenleri. Other communities may choose to reward charitable causes or help advance political agendas.
+Fiiliyatta, work'un degerlendirildigi kriterler tümüyle özneldir ve ve onun tanimi kaynak kodunun disinda bulunur. Bir topluluk sanatcilari ödüllendirmeyi ister, bir digeri sairleri ve ötekisi ise komedyenleri. Diger topluluklar hayirseverligi ödüllendirir ya da politik hedeflere yardim eder.
 
-The value each currency achieves depends upon the demand for influence within a particular community and how large the market believes each community can get. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
+Her bir para biriminin edindigi deger, spesifik bir topluluk icerisindeki etkiye duyulan talebe ve her toplulugun ne kadar piyasa güveni kazabilecegine baglidir. Önceki sistemlerden farkli olarak, öznel proof of work bir topluluga her neyi degerli buluyorlarsa onu fonlayabilme imkani tanir ve daha öncesinde parasallasitirilmasi mümkün olmayan zamanin parasallastirilmasina izin verir.
 
-### Distributing Currency
+### Para Biriminin Dagitimi
 
 There are two ways people can get involved with a crypto-currency community: they can *buy in*, or they can *work in*. In both cases users are adding value to the currency, however, the vast majority of people have more *free time* than they do *spare cash*. Imagine the goal of bootstrapping a currency in a poor community with no actual *cash* but plenty of *time*. If people can earn money by working for one another then they will bootstrap value through mutual exchange facilitated by a fair accounting/currency system.
 
