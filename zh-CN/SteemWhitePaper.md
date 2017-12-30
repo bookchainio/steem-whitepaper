@@ -334,11 +334,11 @@ Steem的基于账户的系统余额公开化使得以带宽为基础的速率限
 
 ### 最小余额的合理性
 
-强制用户保持最小余额的概念自然来自用户的价值[^10]。 任何经营企业的人都知道每个用户都有很大的价值。 企业花费30到200美元的以获取用户。 Sometimes they pay users directly, other times they pay for advertizing, and still other times entire companies are bought just for their user base. After a company acquires a user they often given them many *free services* just to keep them around long enough to monetize them through some other means.
+强制用户保持最小余额的概念自然来自用户的价值[^10]。 任何经营企业的人都知道每个用户都有很大的价值。 企业花费30到200美元的以获取用户。 有时他们直接向用户付费，有时她们花钱做广告，而有时整个公司被购买只为了他们的用户群。 在一家公司获得用户后，他们经常给他们提供许多*免费服务*，只是为了让他们保持足够长的时间以通过其他方式赚钱。
 
-Ripple uses a minimum balance[^11] that scales with account resource use and requires that new accounts get funded with at least this minimum balance. Currently this minimum balance is about $0.15 which is greater than the $0.10 we estimated would allow someone to transact freely at least once per week.
+Ripple使用跟用户资源使用成比例的最低余额为[^11]，并要求新帐户至少获得此最低余额的资金。 目前，这一最低余额约为0.15 美元，比我们估计的可以让人每周至少一次自由交易的0.10 美元多。
 
-A blockchain can enforce a minimum value per user through the simple process of requiring a minimum balance. Any business that wishes to bring a new customer to the blockchain can pre-fund that user’s account with the minimum balance that would allow them to transact. Requiring a relatively large fee ($1.00) to sign up new users will naturally force anyone offering free accounts to vet the quality and uniqueness of each account before registering them with the blockchain.
+区块链可以通过要求最小余额的简单过程来强制每个用户的最小值。 Any business that wishes to bring a new customer to the blockchain can pre-fund that user’s account with the minimum balance that would allow them to transact. Requiring a relatively large fee ($1.00) to sign up new users will naturally force anyone offering free accounts to vet the quality and uniqueness of each account before registering them with the blockchain.
 
 Maintaining a minimum balance is effectively the same as making users pay transaction fees with the interest they could have earned on their balance. The minimum balance is simply the balance required to earn enough interest to pay a fee in a relatively short period of time.
 
