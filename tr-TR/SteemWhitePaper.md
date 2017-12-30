@@ -152,9 +152,9 @@ Eger borclanmanin mülkiyete orani düsükse ve SBD $1.00'dan asagiya alinip sat
 
 Eger SBD $1.00'dan daha aza alinip satilirsa ve borc-mülkiyet orani yüksekse, o zaman fiyat yayinlari yukari dogru ayarlanmali ve SBD basina daha fazla STEEM verilmelidir. Bu, borcun mülkiyete oranini düsürürken ve SBD'yi USD denkligine geri cekerken, SBD'ye olan talebi de artirir.
 
-STEEM'in degerinin Steem'in yeni SBD üretiminden daha hizli arttigini varsayarsak; borc-özkaynak orani hedeflenen degerden asagi olmalidir ve sunulan faizden herkes yararlanmalidir. If the value of the network is flat or falling, then any interest offered will only make the debt-to-ownership ratio worse.
+STEEM'in degerinin Steem'in yeni SBD üretiminden daha hizli arttigini varsayarsak; borc-özkaynak orani hedeflenen degerden asagi olmalidir ve sunulan faizden herkes yararlanmalidir. Eger agin degeri sabit seyirdeyse ya da düsüs halindeyse, bu durumda sunulan herhangi bir faiz borc-özkaynak oranini kötülestirmekten baska bir sey yapmaz.
 
-In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
+Fiiliyatta USD ile denklik yaratacak sekilde bir para politikasi benimsenmesi fiyat yayini üreticilerine emanet edilmistir. Bu gücün istismari STEEM'in degerini düsürür. SP sahipleri fiyat yayinini ayarlamak ve faiz oranlarini yukarida özetlenmis kurallara göre ayarlamak icin güvenilir Wittness'lari oylayacak bilgeliktedir.
 
 If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SBD.
 
