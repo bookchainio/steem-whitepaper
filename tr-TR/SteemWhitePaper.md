@@ -132,7 +132,7 @@ STEEM'i islemek icin kullanilan bu yüzde tabanlari, tahsil edilmemis SBD ve SP 
 
 ### Interest
 
-SBD onu elinde bulunduranlara faiz öder. Faiz orani fiyat yayinini yayinlayanlar ayni kisiler tarafindan belirlenir ki bu sayede degisen piyasa kosullarina adapte olabilsin. Her borclanma borc veren acisindan risk tasir. Someone who holds SBD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SBD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
+SBD onu elinde bulunduranlara faiz öder. Faiz orani fiyat yayinini yayinlayanlar ayni kisiler tarafindan belirlenir ki bu sayede degisen piyasa kosullarina adapte olabilsin. Her borclanma borc veren acisindan risk tasir. Geri ödeme yapmaksizin elinde SBD bulunduran kisi efektif bir sekilde topluluga dolar degeri ödünc vermektedir. They are trusting that at some point in the future someone will be willing to buy the SBD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
 
 STEEM and SP holders gain leverage when members of the community are willing to hold SBD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
 
