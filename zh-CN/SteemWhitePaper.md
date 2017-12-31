@@ -376,19 +376,19 @@ Ripple使用跟用户资源使用成比例的最低余额为[^11]，并要求新
 
 # 性能和可扩展性
 
-The Steem network is built upon Graphene, the same technology that powers BitShares. Graphene has been publicly demonstrated sustaining over 1000 transactions per second on a distributed test network. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
+Steem网络是建立在石墨烯上，同样的技术驱动了Bitshares。 在一个分布式测试网络上，石墨烯已被公开证明每秒可以超过1000交易。 通过对服务器容量和通信协议的相对简单的改进，石墨烯可以轻松地扩展到每秒1万或更多的交易。
 
-## Reddit Scale
+## Reddit规模
 
-Steem is capable of handling a larger userbase than Reddit. In 2015 Reddit’s 8.7 million users generated an average of 23 comments per second[^12], with an average of 83 comments per year per user. There were 73 million top-level posts, for an average of 2 new posts per second. There were about 7 billion up votes creating an average voting rate of 220 votes per second. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
+Steem能够处理比Reddit更大的用户群。 在 2015年，Reddit 的870万用户平均每秒生成23条评论 [^12]，平均每用户每年有83条评论。 有七千三百万顶层帖子，也就是平均每秒钟两个新帖子。 有七十亿个点赞被产生，平均每秒钟220个点赞。 如果Reddit运行在区块链上，那么它需要每秒平均250个交易。
 
-To achieve this industry-leading performance, Steem has borrowed lessons learned from the LMAX Exchange[^13], which is able to process 6 million transactions per second. Among these lessons are the following key points:
+为了取得行业领先性能，Steem借鉴了每秒钟处理六百万个交易的LMAX交易所[^13]的经验。 这些经验包括以下要点:
 
-1. Keep everything in memory.
-2. Keep the core business logic in a single thread.
-3. Keep cryptographic operations (hashes and signatures) out of the core business logic.
-4. Divide validation into state-dependent and state-independent checks.
-5. Use an object oriented data model.
+1. 把一切都记在内存里。
+2. 将核心业务逻辑保持在单个线程中。
+3. 将加密操作 (哈希和签名) 保持在核心业务逻辑之外。
+4. 将验证划分为依赖于状态的和独立于状态的检验。
+5. 使用面向对象的数据模型。
 
 By following these simple rules, Steem is able to process 10,000 transactions per second without any significant effort devoted to optimization.
 
