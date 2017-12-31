@@ -180,7 +180,7 @@ Herkese dahil olabilme esitligi ve para birimi kazanabilme esitligi taniyabilmek
 
 Milyonlarca insani ödüllendirmenin ilk adimi ne kadar isin yapildigindan ya da kullanicilarin nasil oyladigindan bagimsiz olarak belirli sayida para birimini insanlara dagitmaya kalkismaktir. Bu ise soruyu, *"Para ödememiz gerekiyor mu?"* dan *"kime ödememiz gerekiyor?"*a cevirir; ve piyasaya paranin dagitim asamasinda oldugunun ve kim daha fazla *is* teklif ediyorsa ona müzayede edildiginin sinyalini verir. Bitcoin'in kim en zor hashleri bulursa ona 50 BTC vaat ediyor olmasi buna benzerdir. Tipki Bitcoin gibi, tüm is ödeme öncesinde yapilmis olmalidir ve hicbir sey spekülatif bir sekilde gelecekte yapilacagi sözü verilen bir is üzerinden ödenmemelidir.
 
-The next step is to reward everyone who does anything even remotely positive with *something*. This is accomplished by ranking all work done and distributing proportionally to its value. The more competitive the market becomes, the more difficult (higher quality or quantity) it becomes to earn the same payout.
+Bir sonraki adim *herhangi bir sey*den cok az bir miktar bile olsa daha olumlu bir edimde bulunan herkesin ödüllendirilmesidir. Bu yapilmis tüm isleri siralamak ve degerlerine oranla ödül dagitarak basarilmistir. Piyasa ne kadar rekabetci hale gelirse (düsük kalite ya da yüksek kalite) ödeme kazanmak bir o kadar zor hale gelir.
 
 ### Voting on Distribution of Currency
 
