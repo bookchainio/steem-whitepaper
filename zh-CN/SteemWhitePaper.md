@@ -417,7 +417,7 @@ Steem网络始于零货币供应，根据工作证明以每分钟40个STEEM的�
 
 - SBD奖励: SBD以见证人设置的APR为比率创建SBD将会以SBD的形式付给SBD的拥有者。 
 
-The overall supply picture is complicated by the effect of SBD operations, which may result in large-scale creation or destruction of STEEM through feed rate following and SBD rewards, as discussed in the SBD section. Other, smaller-scale complicating effects also exist, including unclaimed incentives (e.g. block rewards for missed blocks), and abandoned accounts.
+整体供应情况因为SBD操作的作用而变的复杂，就像在SBD章节中讨论的，可能通过喂价率跟随和SBD奖励导致大规模的STEEM的创造或摧毁。 另外，更小规模的复杂影响也存在，包括无人认领的奖励 (例如, 错过的块的块奖励)，和废弃的帐户。
 
 ## Current Allocation & Supply
 
