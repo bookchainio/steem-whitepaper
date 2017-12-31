@@ -282,7 +282,7 @@ Micropayments, like all payments, require a comparison: *“Is this much of X wo
 
 في عالم المدفوعات المالية، الرسوم الصغيرة مقبولة لأن قيمة الصفقة مرتفعة للغاية بالنسبة للرسوم المفروضة، والتي قرر والمشتري شرائها سابقا. عالم تطبيقات بلوكشين المحتملة هو أكبر بكثير من مجرد المدفوعات المالية وتشمل العديد من المعاملات اللازمة والتي رسومها هي ببساطة غير مقبولة للمستخدمين.
 
-أنظمة مثل BitShares، Nxt، Ripple، Counter Party و Stellar الكل يتيح للمستخدمين بحد الاوامر على بلوكشين وجميعهم يكلفون رسوم رمزية لتنفيذ هذا الإجراء. في وقت لاحق إذا رغب المستخدم في إلغاء ترتيبها، يتم تكليف رسوم أخرى. الأنظمة مثل إثريوم تأخذ المدفوعات الصغرى إلى مستوى جديد كليا: فرض الرسوم لكل حساب. All of these systems struggle to attract new mainstream users for the same reasons that a decentralized search engine would struggle to attract users from Google if it charged a small fee for every search. It doesn’t matter how good the service is, people expect certain things to be free. This is true even if a user ends up paying more overall under a different fee structure.
+أنظمة مثل BitShares، Nxt، Ripple، Counter Party و Stellar الكل يتيح للمستخدمين بحد الاوامر على بلوكشين وجميعهم يكلفون رسوم رمزية لتنفيذ هذا الإجراء. في وقت لاحق إذا رغب المستخدم في إلغاء ترتيبها، يتم تكليف رسوم أخرى. الأنظمة مثل إثريوم تأخذ المدفوعات الصغرى إلى مستوى جديد كليا: فرض الرسوم لكل حساب. كل هذه الأنظمة تناضل من أجل جذب تيار المستخدمين الجدد لنفس الأسباب التي تجعل محرك البحث اللامركزي يكافح لجذب المستخدمين من Google إذا فرض رسوما بسيطة على كل عملية بحث. It doesn’t matter how good the service is, people expect certain things to be free. This is true even if a user ends up paying more overall under a different fee structure.
 
 ### Fees are a Barrier to Entry
 
