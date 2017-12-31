@@ -286,11 +286,11 @@ Micropayments, like all payments, require a comparison: *“Is this much of X wo
 
 ### الرسوم حاجز للدخول
 
-أي رسم يشكل عائقا لدخول المستخدمين الجدد. Before someone can experiment with Ethereum they must acquire some ETH tokens. Anyone wanting to build a decentralized application on Ethereum must pass on the cost to their customers. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
+أي رسم يشكل عائقا لدخول المستخدمين الجدد. قبل أن يتمكن اي شخص من خوض تجربة مع Ethereum يجب ان يحصل على بعض الرموز ETH. أي شخص يرغب في بناء تطبيق لامركزي على Ethereum يجب أن يمر على تكلفة عملائها. شراء عملة تشفير ليست مهمة سهلة ونادرا ما يكون منطقيا للمبالغ الأقل من $10. وهذا يعني أن المستخدمين الجدد الراغبين في تجربة تطبيق جديد لامركزي يجب أولا إقناعهم للإشتراك ب $10.
 
-### Changing Fees
+### تغيير الرسوم
 
-Over time a network must adjust fees. This can happen either due to an increase in the value of the token or due to a surge in capacity. Users like predictable fees and guaranteed service. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
+مع مرور الوقت يجب على الشبكة ضبط الرسوم. This can happen either due to an increase in the value of the token or due to a surge in capacity. Users like predictable fees and guaranteed service. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
 
 ### Sybil Attacks
 
