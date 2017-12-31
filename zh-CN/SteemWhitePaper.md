@@ -390,15 +390,15 @@ Steem能够处理比Reddit更大的用户群。 在 2015年，Reddit 的870万�
 4. 将验证划分为依赖于状态的和独立于状态的检验。
 5. 使用面向对象的数据模型。
 
-By following these simple rules, Steem is able to process 10,000 transactions per second without any significant effort devoted to optimization.
+通过遵循这些简单的规则，Steem能够处理每秒1万条交易，而无需花费多余精力进行优化。
 
-Keeping everything in memory is increasingly viable given the recent introduction of Optane™ technology from Intel[^14]. It should be possible for commodity hardware to handle all of the business logic associated with Steem in a single thread with all posts kept in memory for rapid indexing. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optane™ technology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
+由于最近Intel [^14] 中引入了Optane™技术，将所有内容保存在内存中越来越可行。 商品化的硬件应该能够在单个线程中处理与Steem关联的所有商业逻辑，并把所有的帖子保存在内存中以快速索引。 甚至连Google都把整个互联网的索引保存在RAM中。 区块链技术的使用使得将数据库复制到许多计算机以防止数据丢失变得微不足道。 当Optane™技术流行时，RAM将会变得更快更持久。 换句话说，Steem是为未来架构设计，而且设计的可以扩展。
 
-# Allocation & Supply
+# 分配和供应
 
-## Initial Allocation & Supply
+## 初始的分配和供应
 
-The Steem network started with a currency supply of 0 and allocated STEEM via proof of work at a rate of approximately 40 STEEM per minute to miners, with an additional 40 STEEM per minute being created to seed the content and curation reward pools (for a total of 80 STEEM per minute). Then the network started rewarding users who converted to SP. At this point, STEEM grew at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
+Steem网络始于零货币供应，根据工作证明以每分钟40个STEEM的速率向矿工分配STEEM，并以额外的每分钟40个STEEM的创建速率增加内容和点赞奖励池（总共每分钟80个STEEM）。 然后，网络开始奖励转换为SP的用户。 At this point, STEEM grew at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
 
 Contribution Rewards:
 
