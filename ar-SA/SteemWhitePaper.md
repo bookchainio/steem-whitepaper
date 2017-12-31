@@ -234,7 +234,7 @@ The impact of this voting and payout distribution is to offer large bounties for
 
 ### المدفوعات
 
-عندما يتلقى المنشور الدفع يأخذ شكل 50% SBD and 50% SP. قوة ستيم (Steem Power) تعطي المستخدم زيادة التصويت وقوة المعاملات في حين أن SBD يعطي المستخدم فائدة فورية في عملة مستقرة. كما سبق أن ناقشنا بشكل مطول، تم تصميم SP لتشجيع عقد طويل الأجل بدلا من البيع على المدى القصير. وهذا يشجع المزيد من المستخدمين على أن يكون لديهم اهتمام مرسخ في نجاح المنصة على المدى الطويل.
+عندما يتلقى المنشور الدفع يأخذ شكل 50% SBD and 50% SP. قوة ستيم (Steem Power) تعطي المستخدم زيادة التصويت وقوة المعاملات في حين أن SBD يعطي المستخدم فائدة فورية في عملة مستقرة. كما سبق أن ناقشنا بشكل مطول، تم تصميم SP لتشجيع الإمتلاك لمدة أطول بدلا من البيع على المدى القصير. وهذا يشجع المزيد من المستخدمين على أن يكون لديهم اهتمام مرسخ في نجاح المنصة على المدى الطويل.
 
 المستخدمين لديهم أيضا الخيار ليدفع لهم 100٪ SP، طالما انخفض العائد على الوظائف. عندما يرفض المستخدم الدفع عن مشاركة ما، فإن المال الذي كان سيتم دفعه له يبقى في تجمع المكافآت، ليتم توزيعه على مستخدمين آخرين.
 
@@ -254,7 +254,7 @@ The impact of this voting and payout distribution is to offer large bounties for
 
 مع ستيم، يتم إنتاج البلوك في جولات. Each round 21 witnesses are selected to create and sign blocks of transactions. Twenty (20) of these witnesses are selected by approval voting and one is timeshared by every witness that didn’t make it into the top 20 proportional to their total votes. The 21 active witnesses are shuffled every round to prevent any one witness from constantly ignoring blocks produced by the same witness placed before. Any witness who misses a block and hasn't produced in the last 24 hours will be disabled until they update their block signing key.
 
-تم تصميم هذه العملية لتوفير موثوقية أفضل مع ضمان أن كل فرد لديه القدرة على المشاركة في إنتاج البلوك بغض النظر عما إذا كانت شعبية بما فيه الكفاية للحصول على صوت إلى الأعلى. لدى الناس ثلاثة خيارات للتغلب على الرقابة من قبل أفضل 20 شهود منتخبين: الانتظار بصبر في خط مع اي احد غير موجود في 20 الاولى، أو شراء المزيد من SP لتحسين قوة التصويت. بصفة عامة، إن تطبيق الرقابة هو وسيلة جيدة للشهود المنتخبين لفقدان وظيفتهم وبالتالي، لايبدو أنها ستكون مشكلة حقيقية على شبكة ستيم.
+تم تصميم هذه العملية لتوفير موثوقية أفضل مع ضمان أن الجميع لديهم الإمكانية على المشاركة في إنتاج البلوك بغض النظر عن ما إذا كانت لديهم شعبية كافية للحصول على تصويت للأعلى. لدى الناس ثلاثة خيارات للتغلب على الرقابة من قبل أفضل 20 شهود منتخبين: الانتظار بصبر في خط مع اي احد غير موجود في 20 الاولى، أو شراء المزيد من SP لتحسين قوة التصويت. بصفة عامة، إن تطبيق الرقابة هو وسيلة جيدة للشهود المنتخبين لفقدان وظيفتهم وبالتالي، لايبدو أنها ستكون مشكلة حقيقية على شبكة ستيم.
 
 Because the active witnesses are known in advance, Steem is able to schedule witnesses to produce blocks every 3 seconds. Witnesses synchronize their block production via the NTP protocol. A variation of this algorithm has been in use by the BitShares network for over a year where it has been proven to be reliable.
 
