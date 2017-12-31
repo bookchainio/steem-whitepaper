@@ -266,11 +266,11 @@ Because the active witnesses are known in advance, Steem is able to schedule wit
 
 ## المشكلة مع الرسوم
 
-البلوكشينات هي شبكات لامركزية حيث يتم بث جميع المعاملات لجميع أقرانهم. بين الحين والآخر يتم إنتاج بلوك يتضمن بعض أو كل من المعاملات المعلقة. يجب على جميع البلوكشينات إيجاد حل لمنع المستخدمين الماكرين من استهلاك كل من سعة الشبكة المتاحة مع المعاملات التي لا قيمة لها. These worthless transactions can prevent other valuable transactions from being processed and ultimately destroy the network.
+البلوكشينات هي شبكات لامركزية حيث يتم بث جميع المعاملات لجميع أقرانهم. بين الحين والآخر يتم إنتاج بلوك يتضمن بعض أو كل من المعاملات المعلقة. يجب على جميع البلوكشينات إيجاد حل لمنع المستخدمين الماكرين من استهلاك كل من سعة الشبكة المتاحة مع المعاملات التي لا قيمة لها. هذه المعاملات التي لا قيمة لها يمكنها منع المعاملات القيمة الأخرى من معالجتها وتدمير الشبكة في نهاية المطاف.
 
-The solution adopted by most blockchains thus far is to charge a minimum transaction fee. A fee worth just a few cents is enough to make attacking the network expensive and unprofitable. While this approach solves the spam problem, it introduces new problems. Imagine solving the email spam problem by introducing a small fee on every email; people wouldn’t use email.
+الحل الذي اعتمدته معظم البلوكشينات حتى الآن هو لشحن الحد الأدنى من رسوم المعاملات. رسم يعادل فقط بضعة سنتات كافية لمهاجمة شبكة مكلفة ومربحة. في حين أن هذا النهج يحل مشكلة البريد المزعج،فإنه يطرح مشاكل جديدة. تخيل حل مشكلة البريد المزعج البريد الإلكتروني من خلال فرض رسوم رمزية على كل بريد إلكتروني: لن يستخدم الأشخاص البريد الإلكتروني.
 
-### Micropayments Don’t Work
+### المدفوعات الصغرى لا تعمل
 
 The fundamental problem with charging transaction fees is that micropayments don’t work, especially for low-value user actions. When a fee is charged on every transaction, it limits the types of transactions that a decentralized network can process. Regardless of how rational the argument for the necessity of fees, users still hate the experience of being nickeled and dimed for everything that they do.
 
