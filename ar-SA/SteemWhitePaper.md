@@ -290,7 +290,7 @@ Micropayments, like all payments, require a comparison: *“Is this much of X wo
 
 ### تغيير الرسوم
 
-مع مرور الوقت يجب على الشبكة ضبط الرسوم. This can happen either due to an increase in the value of the token or due to a surge in capacity. Users like predictable fees and guaranteed service. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
+مع مرور الوقت يجب على الشبكة ضبط الرسوم. ويمكن أن يحدث ذلك إما بسبب زيادة فقيمة الرمز المميز أو بسبب الزيادة في السعة. يحب المستخدمين الرسوم التي يمكن التنبؤ بها والخدمة المضمونة. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
 
 ### Sybil Attacks
 
