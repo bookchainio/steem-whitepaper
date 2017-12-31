@@ -374,7 +374,7 @@ Ripple使用跟用户资源使用成比例的最低余额为[^11]，并要求新
 
 去中心化的速率控制可以让新型的每次使用应用程序都需要微支付所不能实现的去中心化应用程序产生。 这个新模型给了应用程序的开发者决定是否以及何时收取他们的用户交易费的能力。
 
-# Performance and Scalability
+# 性能和可扩展性
 
 The Steem network is built upon Graphene, the same technology that powers BitShares. Graphene has been publicly demonstrated sustaining over 1000 transactions per second on a distributed test network. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
 
