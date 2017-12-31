@@ -398,24 +398,24 @@ Steem能够处理比Reddit更大的用户群。 在 2015年，Reddit 的870万�
 
 ## 初始的分配和供应
 
-Steem网络始于零货币供应，根据工作证明以每分钟40个STEEM的速率向矿工分配STEEM，并以额外的每分钟40个STEEM的创建速率增加内容和点赞奖励池（总共每分钟80个STEEM）。 然后，网络开始奖励转换为SP的用户。 At this point, STEEM grew at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
+Steem网络始于零货币供应，根据工作证明以每分钟40个STEEM的速率向矿工分配STEEM，并以额外的每分钟40个STEEM的创建速率增加内容和点赞奖励池（总共每分钟80个STEEM）。 然后，网络开始奖励转换为SP的用户。 这时，STEEM因为以下总结的不同的贡献奖励效应，以大约每分钟800个STEEM的速率增长：
 
-Contribution Rewards:
+贡献奖励
 
-- Curation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
-- Content Creation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
-- Block production rewards: 1 STEEM per block or 0.750% per year, whichever is greater
-- POW inclusion rewards before block 864,000: 1 STEEM per block (awarded as 21 STEEM per round)
-- POW inclusion rewards after block 864,000: 0.0476 STEEM per block (awarded as 1 STEEM per round) or 0.750% per year, whichever is greater.
-- Liquidity rewards: 1 STEEM per block (awarded as 1200 STEEM per hour) or 0.750% per year, whichever is greater
+- 点赞奖励：每块一个STEEM或者每年3.875%，以较大者为准。
+- 内容创作奖励：每块一个STEEM或者每年3.875%，以较大者为准。
+- 产生区块奖励：每块一个STEEM或者每年0.750%，以较大者为准。
+- 864,000区块前的包括POW奖励：每块一个STEEM（每轮奖励21个STEEM）
+- 64,000区块后的包括POW奖励：每块0.0476个STEEM（每轮奖励1个STEEM）或每年0.75%，以较大者为准。
+- 流动资金奖励：每块1个STEEM (每小时奖励1200个STEEM) 或每年0.750%，以较大者为准。
 
-### Power Rewards:
+### 能量奖励：
 
-- Steem Power rewards: For each STEEM created by the above rewards, 9 STEEM are divided among all Steem Power holders.
+- Steem能力奖励：对于上述奖励所创建的每个STEM，Steem能量持有者分析9个STEEM。
 
-### SBD operations:
+### SBD操作:
 
-- SBD rewards: A percentage of SBD value is created at an APR set by the witnesses and paid to SBD holders as SBD
+- SBD奖励: SBD以见证人设置的APR为比率创建SBD将会以SBD的形式付给SBD的拥有者。 
 
 The overall supply picture is complicated by the effect of SBD operations, which may result in large-scale creation or destruction of STEEM through feed rate following and SBD rewards, as discussed in the SBD section. Other, smaller-scale complicating effects also exist, including unclaimed incentives (e.g. block rewards for missed blocks), and abandoned accounts.
 
