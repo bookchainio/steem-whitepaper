@@ -284,9 +284,9 @@ Micropayments, like all payments, require a comparison: *“Is this much of X wo
 
 أنظمة مثل BitShares، Nxt، Ripple، Counter Party و Stellar الكل يتيح للمستخدمين بحد الاوامر على بلوكشين وجميعهم يكلفون رسوم رمزية لتنفيذ هذا الإجراء. في وقت لاحق إذا رغب المستخدم في إلغاء ترتيبها، يتم تكليف رسوم أخرى. الأنظمة مثل إثريوم تأخذ المدفوعات الصغرى إلى مستوى جديد كليا: فرض الرسوم لكل حساب. كل هذه الأنظمة تناضل من أجل جذب تيار المستخدمين الجدد لنفس الأسباب التي تجعل محرك البحث اللامركزي يكافح لجذب المستخدمين من Google إذا فرض رسوما بسيطة على كل عملية بحث. لا يهم كم هي الخدمة جيدة، يتوقع الناس بعض الأشياء لتكون حرة. This is true even if a user ends up paying more overall under a different fee structure.
 
-### Fees are a Barrier to Entry
+### الرسوم حاجز للدخول
 
-Any fee creates a barrier to entry for new users. Before someone can experiment with Ethereum they must acquire some ETH tokens. Anyone wanting to build a decentralized application on Ethereum must pass on the cost to their customers. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
+أي رسم يشكل عائقا لدخول المستخدمين الجدد. Before someone can experiment with Ethereum they must acquire some ETH tokens. Anyone wanting to build a decentralized application on Ethereum must pass on the cost to their customers. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
 
 ### Changing Fees
 
