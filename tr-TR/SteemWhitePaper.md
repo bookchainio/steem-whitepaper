@@ -184,7 +184,7 @@ Bir sonraki adim *herhangi bir sey*den cok az bir miktar bile olsa daha olumlu b
 
 ### Para Biriminin Dagilimi Üzerine Oylama
 
-Dağıtılacak belli miktarda bir paranın olduğunu ve paranın gelecekteki değeri ve yararı konusunda uzun vadeli menfaatlere sahip olanların, onun nasıl tahsis edileceğine karar vermesi gerektiğini varsayalım. Every vesting user casts their votes on who did the best work and at the end of the day the available money for that day is divided proportional to the votes such that everyone with even one net positive vote gets something.
+Dağıtılacak belli miktarda bir paranın olduğunu ve paranın gelecekteki değeri ve yararı konusunda uzun vadeli menfaatlere sahip olanların, onun nasıl tahsis edileceğine karar vermesi gerektiğini varsayalım. Her temlik sahibi kullanıcı, en iyi çalışmayı kimin yaptığına oy verir ve günün sonunda o gün elde edinilen paralar oylarla orantılı olarak paylasilir ve böylelikle birer tane bile olsa arti oy kazanmis olan herkes bir şeyler alır.
 
 The naive voting process creates a N-Person Prisoner’s Dilemma[^5] whereby each individual voter has incentive to vote for themselves at the expense of the larger community goal. If every voter defects by voting for themselves then no currency will end up distributed and the currency as a whole will fail to gain network effect. On the other hand, if only one voter defects then that voter would win undeserved profits while having minimal effect on the overall value of the currency.
 
