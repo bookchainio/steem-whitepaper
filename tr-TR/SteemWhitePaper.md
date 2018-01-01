@@ -182,7 +182,7 @@ Milyonlarca insani ödüllendirmenin ilk adimi ne kadar isin yapildigindan ya da
 
 Bir sonraki adim *herhangi bir sey*den cok az bir miktar bile olsa daha olumlu bir edimde bulunan herkesin ödüllendirilmesidir. Bu yapilmis tüm isleri siralamak ve degerlerine oranla ödül dagitarak basarilmistir. Piyasa ne kadar rekabetci hale gelirse (düsük kalite ya da yüksek kalite) ödeme kazanmak bir o kadar zor hale gelir.
 
-### Voting on Distribution of Currency
+### Para Biriminin Dagilimi Üzerine Oylama
 
 Assume there is a fixed amount of money to distribute, and that those who have a long-term vested interest in the future value and utility of the currency are the ones who must decide how to allocate it. Every vesting user casts their votes on who did the best work and at the end of the day the available money for that day is divided proportional to the votes such that everyone with even one net positive vote gets something.
 
