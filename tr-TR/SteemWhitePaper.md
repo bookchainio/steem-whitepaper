@@ -190,13 +190,13 @@ Saf oylama süreci her üyenin kendine oy vermeyi teşvik eden N-Person Prisoner
 
 #### Oy Suistimali
 
-Bir bireyin ne kadar parası olduğuna bakarsak, daima o miktara yakın başka bireyler de olacaktır. Hatta en zengin bireyler bile, onlardandan sonra gelen zenginlere nazaran nadiren çok daha fazlasına sahip olur. Ek olarak, bir topluluğa büyük bir yatırım yapanların oy sistemini kendileri için suistimal edenler, en çok kaybedenlerdendir. It would be like the CEO of a company deciding to stop paying salaries so he could pocket all of the profits. Everyone would leave to work for other companies and the company would become worthless, leaving the CEO bankrupt rather than wealthy.
+Bir bireyin ne kadar parası olduğuna bakarsak, daima o miktara yakın başka bireyler de olacaktır. Hatta en zengin bireyler bile, onlardandan sonra gelen zenginlere nazaran nadiren çok daha fazlasına sahip olur. Ek olarak, bir topluluğa büyük bir yatırım yapanların oy sistemini kendileri için suistimal edenler, en çok kaybedenlerdendir. Buna örnek olarak bir şirketin CEO'sunun hiç bir şekilde maaş ödemeyerek bütün gelirleri ceplemesini verebiliriz. Bu durumda şirkette çalışan herkes ayrılır ve başka bir şirket için çalışırdı, bunun sonucunda da şirket batar ve CEO zengin olmaktansa tamamen fakir kalırdı.
 
-Fortunately, any work that is getting a large concentration of votes is also gaining the most scrutiny (publicity). Through the addition of *negative-voting* it is possible for many smaller stakeholders to nullify the voting power of collusive groups or defecting large stakeholders. Furthermore, large-stakeholders have more to lose if the currency falls in value due to abuse than they might gain by voting for themselves. In fact, honest large stakeholders are likely to be more effective by policing abuse and using negative voting than they would be by voting for smaller contributions.
+Neyse ki, yüksek miktarda oy alan çalışmalar aynı zamanda en çok şöhreti alıyor. Through the addition of *negative-voting* it is possible for many smaller stakeholders to nullify the voting power of collusive groups or defecting large stakeholders. Furthermore, large-stakeholders have more to lose if the currency falls in value due to abuse than they might gain by voting for themselves. In fact, honest large stakeholders are likely to be more effective by policing abuse and using negative voting than they would be by voting for smaller contributions.
 
 The use of *negative-voting* to keep people from abusing the system leverages the *crab mentality* that many people have when it is perceived that one individual is profiting at the expense of everyone else. While crab mentality normally refers to short-sighted people keeping good people down, it is also what allows good people to keep bad people down. The only “problem” with crab mentality is when people *wrongly believe* someone is profiting at everyone else's expense.
 
-**The Story of the Crab Bucket**[^6]
+**Yengeç Kovasının Hikayesi**[^6]
 
 A man was walking along the beach and saw another man fishing in the surf with a bait bucket beside him. As he drew closer, he saw that the bait bucket had no lid and had live crabs inside.
 
@@ -212,11 +212,11 @@ The goal of building a community currency is to get more “crabs in the bucket�
 
 ### Rate Limited Voting
 
-A major part of minimizing abuse is the rate-limiting of voting. Individual users can only read and evaluate so many work items per day. Any attempt to vote more frequently than this is a sign of automation and potential abuse. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
+Suistimali önlemenin en büyük bölümü sayı-limitli oylamadır. Bireysel kullanıcılar günde sadece bir miktar çalışmayı okuyup oylayabilirler. Bu miktardan daha fazla oylama yapmak otomasyonun ve potansiyel suistimalin bir işaretidir. Sayı limitlemesi ile çok fazla oylama yapan hissedarların oyları onlara nazaran daha az oylama yapan hissedarlara göre daha değersizdir. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
 
-Users are allotted a fixed amount of voting power. Voting power is multiplied by a user’s vesting tokens to determine how much share in the reward pool should be allocated to a given work item. Every vote that is cast uses a percentage of remaining voting power. Users can vote for more posts, but each vote will be worth less, and it will take longer to reach full voting power again. Voting power recharges at a fixed linear rate of 20% per day.
+Kullanıcılar sabit bir oylama gücüne sabittir. Voting power is multiplied by a user’s vesting tokens to determine how much share in the reward pool should be allocated to a given work item. Kullanılan her oy toplam oy gücünü yüzdelik olarak kullanır. Kullanıcılar bir sürü mesaja oy verebilirler fakat her oy bir öncekinden daha değersiz olacak ve geri dolma süresi yükselecektir. Oylama gücü sabit bir şekilde günde 20% olarak geri dolmaktadır.
 
-### Payout Distribution
+### Gelir Dağılımı
 
 One of the primary goals of Steem’s reward system is to produce the best discussions on the internet. Each and every year 75% of the yearly inflation is distributed to users submitting, voting on, and discussing content. At the size of Bitcoin this could be several million dollars per day being given to the top contributors.
 
@@ -252,7 +252,7 @@ Conceptually, the consensus algorithm adopted by Steem is similar to the consens
 
 In the world of cryptocurrencies, the public record is commonly referred to as a *blockchain*. A *block* is a group of signed transactions.
 
-With Steem, block production is done in rounds. Each round 21 witnesses are selected to create and sign blocks of transactions. Twenty (20) of these witnesses are selected by approval voting and one is timeshared by every witness that didn’t make it into the top 20 proportional to their total votes. The 21 active witnesses are shuffled every round to prevent any one witness from constantly ignoring blocks produced by the same witness placed before. Any witness who misses a block and hasn't produced in the last 24 hours will be disabled until they update their block signing key.
+Steem ile blok üretimleri raunt bazında yapılır. Her rauntda 21 adet şahit hareketleri içeren blokları yaratmak ve imzalamak için seçilirler. Twenty (20) of these witnesses are selected by approval voting and one is timeshared by every witness that didn’t make it into the top 20 proportional to their total votes. The 21 active witnesses are shuffled every round to prevent any one witness from constantly ignoring blocks produced by the same witness placed before. Any witness who misses a block and hasn't produced in the last 24 hours will be disabled until they update their block signing key.
 
 Bu süreç, herkesin en yüksek sıralamalarda bulunmaya yetecek kadar popüler olmasına bakılmaksızın, herkesin blok üretimine katılma potansiyeli taşırken, en iyi güvenilirliği sağlamak üzere tasarlanmıştır. İnsanların top 20 seçilmiş witnessların önüne geçebilmesi için 3 ayrı yolu vardır: Herkes gibi top 20 de bulunmayanlarla beklemek veya oy gücünüzü arttırmak için SP satın almak. Genel olarak konuşursak, piyasayı sansürlemek seçilmiş witnesslar için işlerini kaybetmek için birebir, bu nedenle Steem ağında böyle bir şey olması olası değil.
 
