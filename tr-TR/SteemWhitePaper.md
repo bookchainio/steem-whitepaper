@@ -216,9 +216,9 @@ Suistimali asgariye indirmenin büyük bir kismi sayi-sinirli oylamadir. Bireyse
 
 Kullanıcılara sabit bir oylama gücü tahsis edilmektedir. Bir is parcasina ödül havuzundan ne kadar pay dagitilacagini belirlemek icin oylama gücü kullanicinin taahhüt altindaki tokenlariyla carpilir. Kullanılan her oy, oy gücü bakiyesinden belirli bir yüzde kullanir. Kullanıcılar fazla sayida paylasima icin oy kullanabilirler, fakat her oy bir öncekinden daha değersiz olacak ve tam oylama gücüne tekrar erismek icin daha fazla zaman gerektirecektir. Oylama gücü sabit bir şekilde günde 20% olarak geri dolmaktadır.
 
-### Gelir Dağılımı
+### Ödeme Dağılımı
 
-One of the primary goals of Steem’s reward system is to produce the best discussions on the internet. Each and every year 75% of the yearly inflation is distributed to users submitting, voting on, and discussing content. At the size of Bitcoin this could be several million dollars per day being given to the top contributors.
+Steem'in ödüllendirme sisteminin baslica amaclarindan birisi internet üzerindeki en iyi tartismalari üretmektir. Her yil, yillik enflasyonun %75'i icerik gönderen, icerikleri oylayan ve onlari tartisan üyelere dagitilir. At the size of Bitcoin this could be several million dollars per day being given to the top contributors.
 
 The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content.
 
