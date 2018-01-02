@@ -32,9 +32,9 @@
 2. زاتی سوالوں کا اعلٰی معیاری جواب حاصل کرنے کا زریعہ.
 3. ایک مستحکم کریپٹکوررانسی امریکی ڈالر کے لئے پیگاد ۔.
 4. مفت ادائیگی.
-5. Jobs providing above services to other members.
+5. دوسسرے ممبران کو کام کرنے کے لیے خدمات فراہم کرنا.
 
-Steem’s purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem’s incentives may result in better outcomes for most participants.
+سٹیم کی نیی تجاویز اور تجارتی انسٹیوز میں اچھے نتائج حاصل کرنے کا مادہ رکھتا ہے اور اس میں شامل تمام لوگوں کے نتائج کو شامل کرنا اور سماجی کرپٹوکرنسی پلیٹ فارم جو اس سے پہلے چلے گئے ہوں. This paper will explore the existing economic incentives and demonstrate how Steem’s incentives may result in better outcomes for most participants.
 
 ## Recognizing Contribution
 
