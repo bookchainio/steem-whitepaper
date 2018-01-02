@@ -230,7 +230,7 @@ Populerligi degerin kabataslak bir ölcüsü olarak alirsak, bu durumda her bir 
 
 Bu oylama ve ödeme dagiliminin etkisi iyi iceriklere büyük cömertlik sunarken kücük oyunculari da dolayli katkilari icin hala ödüllendirmektedir.
 
-The economic effect of this is similar to a lottery where people overestimate their probability of getting votes and thus do more work than the expected value of their reward and thereby maximize the total amount of work performed in service of the community. The fact that everyone “wins something” plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
+Bunun ekonomik etkisi piyangoya benzer. Insanlar oylanma sanslarini oldugundan fazla gördüklerinden kazanmalari beklenen ödülden daha fazla is yaparlar ve bu sayede topluluga hizmetin icin yapilmis islerin sayisini azamiye cikartirlar. "Herkesin bir seyler kazaniyor olmasi" kumarhanelerin insanlari kumarda tutmak icin kullandigi ayni psikolojik etkidir. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
 
 ### Payouts
 
