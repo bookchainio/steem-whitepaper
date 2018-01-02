@@ -34,9 +34,9 @@
 4. مفت ادائیگی.
 5. دوسسرے ممبران کو کام کرنے کے لیے خدمات فراہم کرنا.
 
-سٹیم کی نیی تجاویز اور تجارتی انسٹیوز میں اچھے نتائج حاصل کرنے کا مادہ رکھتا ہے اور اس میں شامل تمام لوگوں کے نتائج کو شامل کرنا اور سماجی کرپٹوکرنسی پلیٹ فارم جو اس سے پہلے چلے گئے ہوں. This paper will explore the existing economic incentives and demonstrate how Steem’s incentives may result in better outcomes for most participants.
+سٹیم کی نیی تجاویز اور تجارتی انسٹیوز میں اچھے نتائج حاصل کرنے کا مادہ رکھتا ہے اور اس میں شامل تمام لوگوں کے نتائج کو شامل کرنا اور سماجی کرپٹوکرنسی پلیٹ فارم جو اس سے پہلے چلے گئے ہوں. یہ کاغذ موجودہ اقتصادی مراعات کو دریافت کرنے کے علاوہ یہ نشاندہی کرتا ہے کہ کس طرح سٹیم مراعات سے اس میں بیشتر شرکاء کے لیے بہتر نتائج سامنے آئیں.
 
-## Recognizing Contribution
+## کردار کی پہچان
 
 Steem is designed from the ground up to address the major barriers to adoption and monetization of a social media based economy. Our thesis is that the same techniques used to grow major social media platforms can be used to bootstrap a successful cryptocurrency. Economic incentives enabled by cryptocurrency can dramatically facilitate the growth of a new social media platform. It is the synergy between cryptocurrency and social media that we believe may give Steem a powerful advantage in the market.
 
