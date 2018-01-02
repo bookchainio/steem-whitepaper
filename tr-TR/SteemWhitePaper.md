@@ -184,9 +184,9 @@ Bir sonraki adim *herhangi bir sey*den cok az bir miktar bile olsa daha olumlu b
 
 ### Para Biriminin Dagilimi Üzerine Oylama
 
-Dağıtılacak belli miktarda bir paranın olduğunu ve paranın gelecekteki değeri ve yararı konusunda uzun vadeli menfaatlere sahip olanların, onun nasıl tahsis edileceğine karar vermesi gerektiğini varsayalım. Her temlik sahibi kullanıcı, en iyi çalışmayı kimin yaptığına oy verir ve günün sonunda o gün elde edinilen paralar oylarla orantılı olarak paylasilir ve böylelikle birer tane bile olsa arti oy kazanmis olan herkes bir şeyler alır.
+Dağıtılacak belli miktarda bir paranın olduğunu ve paranın gelecekteki değeri ve yararı konusunda uzun vadeli menfaatlere sahip olanların, onun nasıl tahsis edileceğine karar vermesi gerektiğini varsayalım. Her temlik sahibi kullanıcı, en iyi çalışmayı kimin yaptığına oy verir ve günün sonunda o gün elde edilen paralar oylarla orantılı olarak paylasilir ve böylelikle birer tane bile olsa arti oy kazanmis olan herkes bir şeyler alır.
 
-Saf oylama süreci her üyenin kendine oy vermeyi teşvik eden N-Person Prisoner’s Dilemma'yı[^5] oluşturur. Eğer her oy veren kişi kendine oy verirse ağda hiç bir şekilde birim dağıtılmayacak ve etki kazanmada başarısız olacak. Fakat bir diğer taraftan eğer sadece bir seçmen bunu yaparsa haksız kazanç sağlarken ağa ve para biriminin değerine minimum miktarda etkisi olacaktır.
+Saf oylama süreci, büyük topluluk hedeflerinden vazgecmek pahasina, her üyeye kendisine oy vermeyi teşvik eden N-Person Prisoner’s Dilemma'yı[^5] oluşturur. Eğer oy hakki olan herkes kendisi icin oy kullanirsa bu durumda para birimi dagitilmis olmayacak ve bir bütün olarak ag etkisi yaratmak konusunda basarisiz olacaktir. Fakat bir diğer taraftan eğer sadece bir seçmen bunu yaparsa haksız kazanç sağlarken ağa ve para biriminin değerine minimum miktarda etkisi olacaktır.
 
 #### Oy Suistimali
 
@@ -344,7 +344,7 @@ Maintaining a minimum balance is effectively the same as making users pay transa
 
 Fortunately, the minimum balance required can be as low as a dollar and this is something users can understand and appreciate. The opportunity cost of lost interest doesn’t incur the cognitive cost of a micro-fee and is far more acceptable to users.
 
-The STEEM used to pre-fund an account is Powered Up in the new account (i.e., converted to Steem Power). A portion of the SP used to fund a new account may be delegated from the creator of the account. When a user is delegated SP, they may use the SP for voting and bandwidth purposes as if it were their own, but the ownership of the SP remains with the user who delegated it. A user may remove the delegation at any time. After a cool-down period, the SP is returned to their account.
+The STEEM used to pre-fund an account is Powered Up in the new account (i.e., converted to Steem Power). A portion of the SP used to fund a new account may be delegated from the creator of the account. Bir kullanıcı SP delege ettiğinde delege edilen kişi SP'yi oy verme ve trafik için kendilerininmiş gibi kullanabilir fakat SP'nin sahipliği delege eden kişide kalacaktır. Kullanıcı istediği herhangi bir zamanda delegasyonunu geri çekebilir. Delege ettikleri SP miktarı bir süre beklemenin ardından hesaplarına iade edilir.
 
 ### Effectiveness Relative to Fees
 
@@ -435,19 +435,19 @@ For the first 2 years of Bitcoin’s life the network sustained an annual inflat
 
 The price of a digital commodity, like STEEM, is driven by both supply and demand. When a long-term holder decides to exit, the supply of STEEM on the market will increase and push the price down. This downward pressure is countered when a new long-term holder decides to buy up the STEEM and convert it back into SP. Additional supply and demand may be be added due to market speculators buying and selling liquid STEEM based on their predictions of the future market price.
 
-# The Power of Steem
+# Steem'in Gücü
 
 Steem recognizes that the value of all user contributions (posts and votes) is greater than the sum of the parts. A single comment is worth next to nothing, but millions of curated posts is worth many millions (or possibly even billions) of dollars. A single vote provides little curation value, but billions of votes is very effective curation. Content without curation is of limited value. Given all the content of the Internet minus the links between it, Google would struggle to produce useful search results. It is the links between information that give it significant value.
 
-Because everyone benefits, everyone should pay. In other words, no individual user should be expected to pay for anything, but instead should be paid for everything they do that brings value to Steem. All we need to do is ascertain which user contributions bring a social network value and which ones don’t.
+Herkes yararlandığı için, herkes ödemeli. In other words, no individual user should be expected to pay for anything, but instead should be paid for everything they do that brings value to Steem. All we need to do is ascertain which user contributions bring a social network value and which ones don’t.
 
 Collectively Reddit users vote 220 times per second and make 23 posts per second. Reddit is valued between $500 million[^18] and $4 billion[^19] which means that each and every upvote and post is worth between $0.06 and $0.50 assuming the value of Reddit is mostly within the past year’s worth of activity. One could argue that most of the value of Reddit is the near-real-time discussions that have occurred within the past week which would dramatically increase the value of new activity. People go where people are today, not where people were last year.
 
 ## No Micropayments, Tips Optional
 
-Existing attempts at integrating a cryptocurrency into a social media platform have focused on enabling users to pay one another. Many services have attempted to introduce tipping. The theory is that if we make tipping simple enough then more people will do it. Other services attempt to get people to pay to promote or boost their content’s ranking. Still others attempt to build small prediction markets on how many tips an article will receive.
+Existing attempts at integrating a cryptocurrency into a social media platform have focused on enabling users to pay one another. Bir çok hizmet bahşiş vermeyi tanıtmaya çalıştı. The theory is that if we make tipping simple enough then more people will do it. Other services attempt to get people to pay to promote or boost their content’s ranking. Still others attempt to build small prediction markets on how many tips an article will receive.
 
-All of these approaches boil down to micropayments. They differ only in who is making the payment. They all suffer from insufficient engagement of people making the micropayments. In the search for incentivised content production entrepreneurs have been so focused on who should pay that they missed the obvious reality: everyone benefits from everyone’s actions so everyone should pay or no one should pay, depending on how you look at it.
+Bu yaklaşımların hepsi mikroödemelere bağlanıyor. Değişen tek şey ise ödemeyi kimin yaptığı. They all suffer from insufficient engagement of people making the micropayments. In the search for incentivised content production entrepreneurs have been so focused on who should pay that they missed the obvious reality: everyone benefits from everyone’s actions so everyone should pay or no one should pay, depending on how you look at it.
 
 Steem bypasses micropayments completely because when a user upvotes a post it is the community that pays the bill. The same amount of money will be spent whether the user upvotes a post or not and the funds will not come from the voter.
 
@@ -473,13 +473,13 @@ By incentivising curation the Steem network is able to use automated algorithms 
 
 ## Solving the Cryptocurrency Onboarding Problem
 
-It isn’t easy to get into cryptocurrency[^21]. Someone who discovers Bitcoin and wants to try it out quickly learns that they will need to sign up with an exchange and fund their account with a credit card or wire transfer. What would Facebook’s adoption rate have been like if you had to fork over money and a two forms of ID?
+Kriptoparaya giriş o kadar kolay değildir. [^21] Someone who discovers Bitcoin and wants to try it out quickly learns that they will need to sign up with an exchange and fund their account with a credit card or wire transfer. What would Facebook’s adoption rate have been like if you had to fork over money and a two forms of ID?
 
 Steem solves this problem by giving everyone a way to get paid for doing simple, but valuable, tasks. This will help to widely distribute STEEM tokens. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless.)
 
 ## Solving the Cryptocurrency Liquidation Problem
 
-A currency that is difficult to use or impossible to sell has little value. Someone who comes across $1.00 worth of Bitcoin will discover that it costs more than $1.00 to sell that Bitcoin. They have to create an account with an exchange, perform KYC validation, and pay fees. Small amounts of cryptocurrency are like small change that people are unwilling to bend over to pick up.
+A currency that is difficult to use or impossible to sell has little value. Someone who comes across $1.00 worth of Bitcoin will discover that it costs more than $1.00 to sell that Bitcoin. Bir borsada hesap açmaları, KYC (Know Your Customer) onayını gerçekleştirmeleri ve ücret ödemeleri gerekir. Small amounts of cryptocurrency are like small change that people are unwilling to bend over to pick up.
 
 Merchants give users a way to quickly convert their cryptocurrency into tangible goods and services. Merchants need a currency pegged to their unit of account, normally dollars. Accepting a volatile currency introduces significant accounting overhead.
 
