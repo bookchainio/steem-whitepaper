@@ -198,7 +198,7 @@ The use of *negative-voting* to keep people from abusing the system leverages th
 
 **Yengeç Kovasının Hikayesi**[^6]
 
-Bir adam sahil boyunca yürüyordu ve yaninda bir yem kovasiyla birlikte kiyiya vuran dalgalarda balik tutmakta olan bir adam gördü. Yakinlastikca yem kovasinin kapaginin olmadigini ve kovanin icinde canli yengeclerin oldugunu gördü.
+Bir adam sahil boyunca yürüyordu ve yaninda duran bir yem kovasiyla birlikte kiyiya vuran dalgalarda balik tutmakta olan bir adam gördü. Yakinlastikca yem kovasinin kapaginin olmadigini ve kovanin icinde canli yengeclerin oldugunu gördü.
 
 "Neden yem kovasinin üzerini örtmüyorsun bu sayede yengecler kacamaz?", dedi.
 
@@ -208,7 +208,7 @@ Bu insanlarda da böyledir. Eger birisi farkli bir sey yapmaya calisirsa, daha i
 
 "Istismarin" önüne gecmek mümkün degildir ve asla ana hedef olmamalidir. Sistemi "istismar" etmeye calisanlar bile hala bir is yapiyorlardir. Basarili istismar ya da hile girisimleri icin alacaklari herhangi bir mükafat bile, geleneksel bitcoin miningi ya da mining poollar tarafindan yapilan ittifakli miningde benimsenen angarya olarak para dagitmanin amacina uygundur. Gerekli olan tek sey ise, istismarin topluluk ve onun para birimi namina gercek isler yapmaya yönelik tesvigi bastiracak kadar yayginlasmamasini temin etmektir.
 
-The goal of building a community currency is to get more “crabs in the bucket”. Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs sufficient power to prevent others from escaping.
+Topluluga ait bir para birimi üretmenin hedefi "kovaya daha fazla yengec" getirmektir. Tüm istismarin önüne gecmeye calismak icin asiri önlemler almaya varmak tipki yengeclerin kacmasini engellemek icin kovanin üstüne bir kapak koymak gibidir. Ve bu da kovaya yeni yengecler koymayi zorlastirmak pahasina olur. Kovanin kenarlarini kayganlastirmak ve diger yengeclere yeteri kadar güc vermek digerlerinin kacmasini engellemeye yeter.
 
 ### Rate Limited Voting
 
