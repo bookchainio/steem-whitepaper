@@ -441,7 +441,7 @@ Steem认识到所有用户的贡献(帖子和投票)的价值大于各个部分�
 
 因为每个人都受益，每个人都应该付出。 换言之，任何个人用户都不应该为任何东西买单，而是应该为他们所做的一切付出代价并为Steem带来价值。 我们所要做的就是确定哪些用户的贡献带来了社会网络价值，哪些没有。
 
-所有Reddit用户每秒投票220次，产生23个帖子。 Reddit is valued between $500 million[^18] and $4 billion[^19] which means that each and every upvote and post is worth between $0.06 and $0.50 assuming the value of Reddit is mostly within the past year’s worth of activity. One could argue that most of the value of Reddit is the near-real-time discussions that have occurred within the past week which would dramatically increase the value of new activity. People go where people are today, not where people were last year.
+所有Reddit用户每秒投票220次，产生23个帖子。 Reddit值介于5亿[^18]和40亿美元[^19]之间。这意味着假定Reddit的价值主要在过去一年的活动中产生，那么每个点赞和帖子的价值介于0.06 和0.50 美元之间。 有人可能会争辩说，Reddit的大部分价值是在过去的一周内近乎实时的讨论所产生，这将极大地增加新动态的价值。 人们去人们现在所在的地方，而不是去人们去年去的地方。
 
 ## No Micropayments, Tips Optional
 
