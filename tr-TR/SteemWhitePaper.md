@@ -214,7 +214,7 @@ Topluluga ait bir para birimi üretmenin hedefi "kovaya daha fazla yengec" getir
 
 Suistimali asgariye indirmenin büyük bir kismi sayi-sinirli oylamadir. Bireysel kullanıcılar günde sadece belirli bir miktar çalışmayı okuyabilir ve degerlendirebilirler. Bu miktardan daha fazla oylama yapmak otomasyonun ve potansiyel suistimalin bir işaretidir. Sayı sinirlamasi ile, çok fazla oylama yapan hissedarların oyları onlara nazaran daha az oylama yapan hissedarlarinkine göre daha değersiz sayilir. Tokenlari cok sayida hesaba bölüstürmeye calismak ayni zamanda etkiyi de böler ve bu sebeple bu ne oylamaya konmus sayi sinirini atlatmaya yarar ne de etki gücünde net bir artisla sonuclanir.
 
-Kullanıcılara sabit bir oylama gücü tahsis edilmektedir. Voting power is multiplied by a user’s vesting tokens to determine how much share in the reward pool should be allocated to a given work item. Kullanılan her oy toplam oy gücünü yüzdelik olarak kullanır. Kullanıcılar bir sürü mesaja oy verebilirler fakat her oy bir öncekinden daha değersiz olacak ve geri dolma süresi yükselecektir. Oylama gücü sabit bir şekilde günde 20% olarak geri dolmaktadır.
+Kullanıcılara sabit bir oylama gücü tahsis edilmektedir. Bir is parcasina ödül havuzundan ne kadar pay dagitilacagini belirlemek icin oylama gücü kullanicinin taahhüt altindaki tokenlariyla carpilir. Kullanılan her oy, oy gücü bakiyesinden belirli bir yüzde kullanir. Kullanıcılar fazla sayida paylasima icin oy kullanabilirler, fakat her oy bir öncekinden daha değersiz olacak ve tam oylama gücüne tekrar erismek icin daha fazla zaman gerektirecektir. Oylama gücü sabit bir şekilde günde 20% olarak geri dolmaktadır.
 
 ### Gelir Dağılımı
 
