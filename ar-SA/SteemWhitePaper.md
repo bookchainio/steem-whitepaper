@@ -296,11 +296,11 @@ Micropayments, like all payments, require a comparison: *“Is this much of X wo
 
 تمنع مواقع الويب المركزية السبام من خلال الحد من الأسعار وبعض اشكال التحقق من الهوية. ولو كان شيء بسيط مثل reCAPTCHA [^9] تكفي للحد من إنشاء حسابات وهمية. إذا كان شخص ما يسيء إستخدام حساباتهم، فإن المواقع المركزية لديها الحق في حظر الحساب.
 
-In a decentralized system there is no direct way to ban users nor centralized provider able to host a reCAPTCHA and enforce rate limiting of accounts. In fact, the inability to censor users is one of the main selling points of blockchain technology.
+إذا كان شخص ما يسيء إستخدام حساباتهم، فإن المواقع المركزية لديها الحق في حظر الحساب. في الواقع، عدم القدرة على فرض الرقابة على المستخدمين هي واحدة من نقاط البيع الرئيسية لتكنولوجية البلوكشين.
 
 ### Full Reserve vs Fractional Reserve
 
-Let’s view a blockchain like an Internet Service Provider (ISP) co-op which owns all of the cables in the town and has a maximum amount of bandwidth that it can provide at any time. People living in the town can buy shares in the ISP and in exchange they are entitled to utilize a portion of the available bandwidth.
+Let’s view a blockchain like an Internet Service Provider (ISP) co-op which owns all of the cables in the town and has a maximum amount of bandwidth that it can provide at any time. يمكن للأشخاص الذين يعيشون في المدينة شراء أسهم في ISP وفي مقابل ذلك يحق لهم الاستفادة من جزء من عرض النطاق المتاح.
 
 The ISP has two choices, run a “full reserve” or “fractional reserve” system. Under a full reserve system each user is only allowed a fraction of the maximum bandwidth proportional to her shares. Because not everyone uses the Internet at the same time, the town’s network would be significantly underutilized.
 
