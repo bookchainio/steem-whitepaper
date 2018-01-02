@@ -28,7 +28,7 @@
 
 سٹیم کمیونٹی اپنے ممبران کو مندرجہ ذیل خدمات فراہم کرتی ہے:
 
-1. A source of curated news and commentary.
+1. تشکیل شدہ خبروں اور تبصرے کا زریعہ.
 2. A means to get high quality answers to personalized questions.
 3. A stable cryptocurrency pegged to the U.S. dollar.
 4. Free payments.
