@@ -29,9 +29,9 @@
 سٹیم کمیونٹی اپنے ممبران کو مندرجہ ذیل خدمات فراہم کرتی ہے:
 
 1. تشکیل شدہ خبروں اور تبصرے کا زریعہ.
-2. A means to get high quality answers to personalized questions.
-3. A stable cryptocurrency pegged to the U.S. dollar.
-4. Free payments.
+2. زاتی سوالوں کا اعلٰی معیاری جواب حاصل کرنے کا زریعہ.
+3. ایک مستحکم کریپٹکوررانسی امریکی ڈالر کے لئے پیگاد ۔.
+4. مفت ادائیگی.
 5. Jobs providing above services to other members.
 
 Steem’s purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem’s incentives may result in better outcomes for most participants.
