@@ -198,15 +198,15 @@ The use of *negative-voting* to keep people from abusing the system leverages th
 
 **Yengeç Kovasının Hikayesi**[^6]
 
-A man was walking along the beach and saw another man fishing in the surf with a bait bucket beside him. As he drew closer, he saw that the bait bucket had no lid and had live crabs inside.
+Bir adam sahil boyunca yürüyordu ve yaninda bir yem kovasiyla birlikte kiyiya vuran dalgalarda balik tutmakta olan bir adam gördü. Yakinlastikca yem kovasinin kapaginin olmadigini ve kovanin icinde canli yengeclerin oldugunu gördü.
 
-"Why don't you cover your bait bucket so the crabs won't escape?", he said.
+"Neden yem kovasinin üzerini örtmüyorsun bu sayede yengecler kacamaz?", dedi.
 
-"You don't understand.", the man replied, "If there is one crab in the bucket it would surely crawl out very quickly. However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
+"Anlamiyorsun,", diye yanitladi adam, "Eger kovanin icinde tek bir yengec olursa, o kesinlikle hizlica disari kacar. Ne var ki, kovanin icinde fazla sayida yengec varsa, birisi disari kacmak icin tirmanmaya yeltendiginde bir digeri hemen onu kavrayip geri ceker ki bu sayede o da diger hepsiyle ayni kaderi paylassin."
 
-So it is with people. If one tries to do something different, get better grades, improve herself, escape her environment, or dream big dreams, other people will try to drag her back down to share their fate.
+Bu insanlarda da böyledir. Eger birisi farkli bir sey yapmaya calisirsa, daha iyi notlar alirsa, kendisni gelistirirse, vasatliktan kacarsa ya da büyük düsler kurarsa diger insanlar kendileriyle ayni kaderi paylassin diye hemen onu asagi cekeceklerdir.
 
-Eliminating “abuse” is not possible and shouldn’t be the goal. Even those who are attempting to “abuse” the system are still doing work. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn’t so rampant that it undermines the incentive to do real work in support of the community and its currency.
+"Istismarin" önüne gecmek mümkün degildir ve asla ana hedef olmamalidir. Even those who are attempting to “abuse” the system are still doing work. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn’t so rampant that it undermines the incentive to do real work in support of the community and its currency.
 
 The goal of building a community currency is to get more “crabs in the bucket”. Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs sufficient power to prevent others from escaping.
 
