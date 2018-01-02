@@ -222,11 +222,11 @@ Steem'in ödüllendirme sisteminin baslica amaclarindan birisi internet üzerind
 
 Nihai dagilim kullanicilarin oylama örüntülerine baglidir fakat, zannediyoruz ki ödüllerin büyük cogunlugu en popüler icerikler arasinda dagitilacaktir.
 
-Zipf Kanunu[^7] gercek hayat görüngülerinin sasirtici menzilini cok güzel bir sekilde aciklayan ampirik kurallardan birisidir. It says that if we order some large collection by size or popularity, the second element in the collection will be about half the measure of the first one, the third one will be about one-third the measure of the first one, and so on. In general, the k th-ranked item will measure about 1/k of the first one.
+Zipf Kanunu[^7] gercek hayat görüngülerinin sasirtici menzilini cok güzel bir sekilde aciklayan ampirik kurallardan birisidir. Buna göre, bir toplami büyüklük ya da populerlige göre siralarsak, siralamadaki ikinci eleman birincinin yarisi büyüklükte olacaktir, ücüncü ise birincinin ücte biri oraninda vb. Genel olarak k'inci siradaki parca birincinin 1/k oraninda bir büyüklükte olacaktir.
 
 ![](\img_the_new_marketplace.png)
 
-Taking popularity as a rough measure of value, then the value of each individual item is given by Zipf’s Law. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
+Populerligi degerin kabataslak bir ölcüsü olarak alirsak, bu durumda her bir tekil bilesenin degeri Zipf Kanununca bellidir. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
 
 The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
 
