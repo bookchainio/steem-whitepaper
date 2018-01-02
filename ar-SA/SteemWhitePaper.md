@@ -294,7 +294,7 @@ Micropayments, like all payments, require a comparison: *“Is this much of X wo
 
 ### Sybil Attacks
 
-Centralized websites prevent spam through rate limiting and some form of ID verification. Even something as simple as reCAPTCHA[^9] is sufficient to limit the creation of fake accounts. If someone abuses their account then centralized websites are free to block the account.
+تمنع مواقع الويب المركزية السبام من خلال الحد من الأسعار وبعض اشكال التحقق من الهوية. ولو كان شيء بسيط مثل reCAPTCHA [^9] تكفي للحد من إنشاء حسابات وهمية. إذا كان شخص ما يسيء إستخدام حساباتهم، فإن المواقع المركزية لديها الحق في حظر الحساب.
 
 In a decentralized system there is no direct way to ban users nor centralized provider able to host a reCAPTCHA and enforce rate limiting of accounts. In fact, the inability to censor users is one of the main selling points of blockchain technology.
 
