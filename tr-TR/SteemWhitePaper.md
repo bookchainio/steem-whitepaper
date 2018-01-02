@@ -218,11 +218,11 @@ Kullanıcılara sabit bir oylama gücü tahsis edilmektedir. Bir is parcasina ö
 
 ### Ödeme Dağılımı
 
-Steem'in ödüllendirme sisteminin baslica amaclarindan birisi internet üzerindeki en iyi tartismalari üretmektir. Her yil, yillik enflasyonun %75'i icerik gönderen, icerikleri oylayan ve onlari tartisan üyelere dagitilir. At the size of Bitcoin this could be several million dollars per day being given to the top contributors.
+Steem'in ödüllendirme sisteminin baslica amaclarindan birisi internet üzerindeki en iyi tartismalari üretmektir. Her yil, yillik enflasyonun %75'i icerik gönderen, icerikleri oylayan ve onlari tartisan üyelere dagitilir. Bitcoin'in büyüklügünde, bu baslica katki yapanlara günde birkac milyon dolar olarak verilebilir.
 
-The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content.
+Nihai dagilim kullanicilarin oylama örüntülerine baglidir fakat, zannediyoruz ki ödüllerin büyük cogunlugu en popüler icerikler arasinda dagitilacaktir.
 
-Zipf’s Law[^7] is one of those empirical rules that characterize a surprising range of real-world phenomena remarkably well. It says that if we order some large collection by size or popularity, the second element in the collection will be about half the measure of the first one, the third one will be about one-third the measure of the first one, and so on. In general, the k th-ranked item will measure about 1/k of the first one.
+Zipf Kanunu[^7] gercek hayat görüngülerinin sasirtici menzilini cok güzel bir sekilde aciklayan ampirik kurallardan birisidir. It says that if we order some large collection by size or popularity, the second element in the collection will be about half the measure of the first one, the third one will be about one-third the measure of the first one, and so on. In general, the k th-ranked item will measure about 1/k of the first one.
 
 ![](\img_the_new_marketplace.png)
 
