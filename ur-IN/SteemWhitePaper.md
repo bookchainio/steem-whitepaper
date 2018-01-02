@@ -1,16 +1,16 @@
 # سٹیم
 
-## An incentivized, blockchain-based, public content platform.
+## ایک لاہ عمل، بلاکچین پر مبنی، عوامی مواد پلیٹ فارم.
 
-August 2017
+اگست 2017
 
-# Translator's notes
+# مترجم کا نوٹس
 
-Placeholder for translator's notes.
+مترجم کے نوٹس کے لیے جاگیر دار.
 
-# Abstract
+# خلاصہ
 
-Steem is a blockchain database that supports community building and social interaction with cryptocurrency rewards. Steem combines concepts from social media with lessons learned from building cryptocurrencies and their communities. An important key to inspiring participation in any community, currency or free market economy is a fair accounting system that consistently reflects each person's contribution. Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
+سٹیم ایک بلاکچاان ڈیٹا بیس ہے جو کمیونٹی کی تعمیر کی حمایت کرتا ہے اور کریپٹکوررانسی انعامات کے ساتھ سماجی تعامل کرتا ہے. Steem combines concepts from social media with lessons learned from building cryptocurrencies and their communities. An important key to inspiring participation in any community, currency or free market economy is a fair accounting system that consistently reflects each person's contribution. Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
 
 # Table of Contents
 
