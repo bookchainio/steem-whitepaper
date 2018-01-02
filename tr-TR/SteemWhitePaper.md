@@ -210,11 +210,11 @@ Bu insanlarda da böyledir. Eger birisi farkli bir sey yapmaya calisirsa, daha i
 
 Topluluga ait bir para birimi üretmenin hedefi "kovaya daha fazla yengec" getirmektir. Tüm istismarin önüne gecmeye calismak icin asiri önlemler almaya varmak tipki yengeclerin kacmasini engellemek icin kovanin üstüne bir kapak koymak gibidir. Ve bu da kovaya yeni yengecler koymayi zorlastirmak pahasina olur. Kovanin kenarlarini kayganlastirmak ve diger yengeclere yeteri kadar güc vermek digerlerinin kacmasini engellemeye yeter.
 
-### Rate Limited Voting
+### Sayi Sinirli Oylama
 
-Suistimali önlemenin en büyük bölümü sayı-limitli oylamadır. Bireysel kullanıcılar günde sadece bir miktar çalışmayı okuyup oylayabilirler. Bu miktardan daha fazla oylama yapmak otomasyonun ve potansiyel suistimalin bir işaretidir. Sayı limitlemesi ile çok fazla oylama yapan hissedarların oyları onlara nazaran daha az oylama yapan hissedarlara göre daha değersizdir. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
+Suistimali asgariye indirmenin büyük bir kismi sayi-sinirli oylamadir. Bireysel kullanıcılar günde sadece belirli bir miktar çalışmayı okuyabilir ve degerlendirebilirler. Bu miktardan daha fazla oylama yapmak otomasyonun ve potansiyel suistimalin bir işaretidir. Sayı sinirlamasi ile, çok fazla oylama yapan hissedarların oyları onlara nazaran daha az oylama yapan hissedarlarinkine göre daha değersiz sayilir. Tokenlari cok sayida hesaba bölüstürmeye calismak ayni zamanda etkiyi de böler ve bu sebeple bu ne oylamaya konmus sayi sinirini atlatmaya yarar ne de etki gücünde net bir artisla sonuclanir.
 
-Kullanıcılar sabit bir oylama gücüne sabittir. Voting power is multiplied by a user’s vesting tokens to determine how much share in the reward pool should be allocated to a given work item. Kullanılan her oy toplam oy gücünü yüzdelik olarak kullanır. Kullanıcılar bir sürü mesaja oy verebilirler fakat her oy bir öncekinden daha değersiz olacak ve geri dolma süresi yükselecektir. Oylama gücü sabit bir şekilde günde 20% olarak geri dolmaktadır.
+Kullanıcılara sabit bir oylama gücü tahsis edilmektedir. Voting power is multiplied by a user’s vesting tokens to determine how much share in the reward pool should be allocated to a given work item. Kullanılan her oy toplam oy gücünü yüzdelik olarak kullanır. Kullanıcılar bir sürü mesaja oy verebilirler fakat her oy bir öncekinden daha değersiz olacak ve geri dolma süresi yükselecektir. Oylama gücü sabit bir şekilde günde 20% olarak geri dolmaktadır.
 
 ### Gelir Dağılımı
 
