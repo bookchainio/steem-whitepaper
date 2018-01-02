@@ -10,13 +10,13 @@
 
 # خلاصہ
 
-سٹیم ایک بلاکچاان ڈیٹا بیس ہے جو کمیونٹی کی تعمیر کی حمایت کرتا ہے اور کریپٹکوررانسی انعامات کے ساتھ سماجی تعامل کرتا ہے. سٹیم سماجی میڈیا سے تصورات حاصل کرتا ہے کرپٹوکرنسی اور اس کی کمیونیٹی سے سیکھے ہوے اسباق سے. An important key to inspiring participation in any community, currency or free market economy is a fair accounting system that consistently reflects each person's contribution. Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
+سٹیم ایک بلاکچاان ڈیٹا بیس ہے جو کمیونٹی کی تعمیر کی حمایت کرتا ہے اور کریپٹکوررانسی انعامات کے ساتھ سماجی تعامل کرتا ہے. سٹیم سماجی میڈیا سے تصورات حاصل کرتا ہے کرپٹوکرنسی اور اس کی کمیونیٹی سے سیکھے ہوے اسباق سے. کسی کمیونیٹی میں شمولیت کے لیے ایک جزبہ ایک اہم کلید ہے کرنسی یا مفت بازار کی تجارت ہر فرد کی مسلسل اور منصفانہ اکاونٹنگ کی اکاسی کرتا ہے. سٹیم وہ پہلی کرپٹوکرنسی ہے جو کمیونٹی میں موجود تمام افراد کو درست اور شفاف طریقے سے انعامات دینے کی کوشش کرتا ہے جو اس میں سبجکٹیو مدد کرتے ہیں.
 
-# Table of Contents
+# فہرست مشمولات
 
 <!-- toc -->
 
-# Introduction
+# تعارف
 
 Collectively, user-generated content has created billions of dollars worth of value for the shareholders of social media companies, such as Reddit, Facebook, and Twitter. **In 2014, Reddit hypothesized that its platform would be improved if everyone who contributed to reddit.com by posting stories, adding comments or voting were rewarded with a fair share in Reddit, Inc.[^1]**. Steem aims to support social media and online communities by returning much of its value to the people who provide valuable contributions by rewarding them with cryptocurrency, and through this process create a currency that is able to reach a broad market, including people who have yet to participate in any cryptocurrency economy.
 
