@@ -22,9 +22,9 @@
 
 سٹیم کے ڈیزائن کی رہنمائی کے لیے بعض اہم اصول استعمال کیے گئے ہیں. سب سے اہم اصول یہ ہے کہ کوئی شخص جو وینچر میں امداد کرتا ہے اس کو پروراتا ملکیت ملنی چاہیے، یا وینچر میں سے رقم یا قرض. یہ اصول سب کے لیے یکساں ہے جو تمام شروعاتی لوگوں پر لاگو ہوتا ہے چونکہ وہ فنڈنگ کے عمل میں اپنا حصہ ڈال دیتے ہیں.
 
-دوسسرا اصول یہ ہے کہ تمام دارالحکومتیں یکساں قیمتی ہیں. اس کا مطلب یہ ہے کہ جو لوگ اپنا وقت اور اپنی توجہ دوسروں کے لیے مواد بنانے کی تشکیل میں سرف کرتے ہیں وہ اتنے ہی اہم ہے جتنے کہ اس میں کافی پیسہ ڈالنے والے. This is the sweat equity principle[^2] and is a concept that prior cryptocurrencies have often had trouble providing to more than a few dozen individuals.
+دوسسرا اصول یہ ہے کہ تمام دارالحکومتیں یکساں قیمتی ہیں. اس کا مطلب یہ ہے کہ جو لوگ اپنا وقت اور اپنی توجہ دوسروں کے لیے مواد بنانے کی تشکیل میں سرف کرتے ہیں وہ اتنے ہی اہم ہے جتنے کہ اس میں کافی پیسہ ڈالنے والے. یہ پسینہ عدل اصول [^2] اور ایک پیشگی کرپٹوکرنسی کو اکثر کچھ درجن افراد سے زیادہ لوگوں کو فراہم کرنے میں مشکل پیش آتی ہے.
 
-The third principle is that the community produces products to serve its members. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
+تیسرا اصول یہ ہے کہ کمیونیٹی اپنے ممبران کے لیے مصنوعات تیار کرتی ہے. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
 
 The Steem community provides the following services to its members:
 
