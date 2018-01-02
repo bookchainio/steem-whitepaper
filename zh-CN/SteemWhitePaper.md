@@ -437,11 +437,11 @@ Steem网络始于零货币供应，根据工作证明以每分钟40个STEEM的�
 
 # Steem的能量
 
-Steem recognizes that the value of all user contributions (posts and votes) is greater than the sum of the parts. A single comment is worth next to nothing, but millions of curated posts is worth many millions (or possibly even billions) of dollars. A single vote provides little curation value, but billions of votes is very effective curation. Content without curation is of limited value. Given all the content of the Internet minus the links between it, Google would struggle to produce useful search results. It is the links between information that give it significant value.
+Steem认识到所有用户的贡献(帖子和投票)的价值大于各个部分的总和。 一个单独的评论几乎毫无价值，但是数百万策展的帖子价值数百万(甚至数十亿)美元。 一个单独的点赞几乎没有策展价值，但是亿计的点赞是非常有效的策展。 没有策展的内容的价值是有限的。 互联网所有的内容之间如果没有链接，Google将很难产生有用搜索结果。 正是信息之间相互的链接给予了它重要的价值。
 
-Because everyone benefits, everyone should pay. In other words, no individual user should be expected to pay for anything, but instead should be paid for everything they do that brings value to Steem. All we need to do is ascertain which user contributions bring a social network value and which ones don’t.
+因为每个人都受益，每个人都应该付出。 换言之，任何个人用户都不应该为任何东西买单，而是应该为他们所做的一切付出代价并为Steem带来价值。 我们所要做的就是确定哪些用户的贡献带来了社会网络价值，哪些没有。
 
-Collectively Reddit users vote 220 times per second and make 23 posts per second. Reddit is valued between $500 million[^18] and $4 billion[^19] which means that each and every upvote and post is worth between $0.06 and $0.50 assuming the value of Reddit is mostly within the past year’s worth of activity. One could argue that most of the value of Reddit is the near-real-time discussions that have occurred within the past week which would dramatically increase the value of new activity. People go where people are today, not where people were last year.
+所有Reddit用户每秒投票220次，产生23个帖子。 Reddit is valued between $500 million[^18] and $4 billion[^19] which means that each and every upvote and post is worth between $0.06 and $0.50 assuming the value of Reddit is mostly within the past year’s worth of activity. One could argue that most of the value of Reddit is the near-real-time discussions that have occurred within the past week which would dramatically increase the value of new activity. People go where people are today, not where people were last year.
 
 ## No Micropayments, Tips Optional
 
