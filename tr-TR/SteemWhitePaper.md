@@ -226,9 +226,9 @@ Zipf Kanunu[^7] gercek hayat görüngülerinin sasirtici menzilini cok güzel bi
 
 ![](\img_the_new_marketplace.png)
 
-Populerligi degerin kabataslak bir ölcüsü olarak alirsak, bu durumda her bir tekil bilesenin degeri Zipf Kanununca bellidir. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
+Populerligi degerin kabataslak bir ölcüsü olarak alirsak, bu durumda her bir tekil bilesenin degeri Zipf Kanununca bellidir. Ki bu da, bir milyon bilesenimiz varsa en populer 100 toplam degerin ücte birini sunmaktadir. Sonraki 10,000 diger ücte biri, ve kalan 989,900 de kalan ücte biri... N sayida bilesen toplaminin degeri log(n) ile orantilidir.
 
-The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
+Bu oylama ve ödeme dagiliminin etkisi iyi iceriklere büyük cömertlik sunarken kücük oyunculari da dolayli katkilari icin hala ödüllendirmektedir.
 
 The economic effect of this is similar to a lottery where people overestimate their probability of getting votes and thus do more work than the expected value of their reward and thereby maximize the total amount of work performed in service of the community. The fact that everyone “wins something” plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
 
