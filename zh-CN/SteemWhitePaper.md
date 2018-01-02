@@ -419,15 +419,15 @@ Steem网络始于零货币供应，根据工作证明以每分钟40个STEEM的�
 
 整体供应情况因为SBD操作的作用而变的复杂，就像在SBD章节中讨论的，可能通过喂价率跟随和SBD奖励导致大规模的STEEM的创造或摧毁。 另外，更小规模的复杂影响也存在，包括无人认领的奖励 (例如, 错过的块的块奖励)，和废弃的帐户。
 
-## Current Allocation & Supply
+## 当前的分配和供应
 
-Starting with the network's 16th hard fork in December 2016, Steem began creating new tokens at a yearly inflation rate of 9.5%. The inflation rate decreases at a rate of 0.01% every 250,000 blocks, or about 0.5% per year. The inflation will continue decreasing at this pace until the overall inflation rate reaches 0.95%. This will take about 20.5 years from the time hard fork 16 went into effect.
+从 2016年12月网络的第十六次硬分叉开始，Steem开始以每年9.5%的通货膨胀率创造新的代币。 通货膨胀率每25万个区块降低0.01%，每年大约降低0.5%。 通货膨胀率将继续以这种速度下降，直到总体通货膨胀率达到0.95%。 这从硬分叉16生效开始，这将需要大约20.5年的时间。
 
-75% of the new tokens that are generated go to fund the reward pool, which is split between authors and curators. 15% of the new tokens are awarded to holders of SP. The remaining 10% pays for the witnesses to power the blockchain.
+75%的新代币是用来资助的奖励池，并由作者和点赞者分别获得。 15%的新代币奖励给SP的拥有者。 剩余的10%付给驱动区块链的见证人。
 
-### Impact of Token Creation Rate
+### 代币产生率的影响
 
-It is often said that a coin with an inflationary model is not sustainable, but we know from countless real-world examples that the quantity of money does not have a direct and immediate impact on its value, though it certainly plays a role.
+人们常说，通货膨胀模式的币是不能持续的。但是我们从数不清的真实世界中的例子知道，货币的数量虽然对它的价值有一些作用，但是并没有直接的和即时的影响。
 
 From August 2008 through January 2009 the U.S. money supply[^15] grew from $871B to $1,737B, a rate of over 100% per year and then continued to grow at about 20% per year for the next 6 years. All told the money supply in the U.S. has grown by 4.59x over less than 7 years. During that same time, the value of the dollar relative to goods and services has fallen less than 10% according to the government's price index[^16]. This real-world example demonstrates that supply is only one component of price.
 
