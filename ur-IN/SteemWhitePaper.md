@@ -18,7 +18,7 @@
 
 # تعارف
 
-Collectively, user-generated content has created billions of dollars worth of value for the shareholders of social media companies, such as Reddit, Facebook, and Twitter. **In 2014, Reddit hypothesized that its platform would be improved if everyone who contributed to reddit.com by posting stories, adding comments or voting were rewarded with a fair share in Reddit, Inc.[^1]**. Steem aims to support social media and online communities by returning much of its value to the people who provide valuable contributions by rewarding them with cryptocurrency, and through this process create a currency that is able to reach a broad market, including people who have yet to participate in any cryptocurrency economy.
+اجتماعی طور پر، صارف سے تخلیق شدہ مواد سے اربوں ڈالر مالیت کی رقم سماجی میڈیا حصہ دار جیسے، فیس بک، ریڈٹ، اور ٹیوٹر کے لیے بنائی ہے. ** سال 2014 میں، ریڈٹ نے یہ اندازہ لگایا تھا کہ پلیٹ فارم کو بہتر بنایا جائے گا اگر ہر ایک اس میں کہانیاں ڈالنے سے امداد کرے گا، ووٹ دینے یا کمنٹ کرنے پر ریڈٹ کی طرف سے اچھا خاصا انعام ملتا ہے Reddit, Inc.[^1]**. Steem aims to support social media and online communities by returning much of its value to the people who provide valuable contributions by rewarding them with cryptocurrency, and through this process create a currency that is able to reach a broad market, including people who have yet to participate in any cryptocurrency economy.
 
 There are some key principles that have been used to guide the design of Steem. The most important principle is that everyone who contributes to a venture should receive pro-rata ownership, payment or debt from the venture. This principle is the same principle that is applied to all startups as they allocate shares at founding and during subsequent funding rounds.
 
