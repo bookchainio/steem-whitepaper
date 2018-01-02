@@ -24,9 +24,9 @@
 
 دوسسرا اصول یہ ہے کہ تمام دارالحکومتیں یکساں قیمتی ہیں. اس کا مطلب یہ ہے کہ جو لوگ اپنا وقت اور اپنی توجہ دوسروں کے لیے مواد بنانے کی تشکیل میں سرف کرتے ہیں وہ اتنے ہی اہم ہے جتنے کہ اس میں کافی پیسہ ڈالنے والے. یہ پسینہ عدل اصول [^2] اور ایک پیشگی کرپٹوکرنسی کو اکثر کچھ درجن افراد سے زیادہ لوگوں کو فراہم کرنے میں مشکل پیش آتی ہے.
 
-تیسرا اصول یہ ہے کہ کمیونیٹی اپنے ممبران کے لیے مصنوعات تیار کرتی ہے. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
+تیسرا اصول یہ ہے کہ کمیونیٹی اپنے ممبران کے لیے مصنوعات تیار کرتی ہے. یہ اصول کرڈٹ یونین، food co-ops, اور ہیلتھ شیرنگ پلان، جو کمیونٹی ممبران کی خدمت کرتے ہیں بجائے خدمات یا مصنوعات باہر کی عوام کو بیجھنے سے.
 
-The Steem community provides the following services to its members:
+سٹیم کمیونٹی اپنے ممبران کو مندرجہ ذیل خدمات فراہم کرتی ہے:
 
 1. A source of curated news and commentary.
 2. A means to get high quality answers to personalized questions.
