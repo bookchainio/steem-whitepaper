@@ -20,9 +20,9 @@
 
 اجتماعی طور پر، صارف سے تخلیق شدہ مواد سے اربوں ڈالر مالیت کی رقم سماجی میڈیا حصہ دار جیسے، فیس بک، ریڈٹ، اور ٹیوٹر کے لیے بنائی ہے. ** سال 2014 میں، ریڈٹ نے یہ اندازہ لگایا تھا کہ پلیٹ فارم کو بہتر بنایا جائے گا اگر ہر ایک اس میں کہانیاں ڈالنے سے امداد کرے گا، ووٹ دینے یا کمنٹ کرنے پر ریڈٹ کی طرف سے اچھا خاصا انعام ملتا ہے Reddit, Inc.[^1]**. سٹیم کا مقصد ان تمام سماجی میڈیا اور آن لائن کمیونیٹیز کو ان کے قیمتی کام کا انعام کرپٹوکرنسی کی صورت میں دینا ہے. اور اس عمل کے زریعے وہ کرنسی پیدا کرنا جو بڈے بازار میں پہنچ سکے بشمول ان لوگوں کے جنہوں نے ابھی اس تجارت میں شمولیت نہ کی ہو.
 
-سٹیم کے ڈیزائن کی رہنمائی کے لیے بعض اہم اصول استعمال کیے گئے ہیں. سب سے اہم اصول یہ ہے کہ کوئی شخص جو وینچر میں امداد کرتا ہے اس کو پروراتا ملکیت ملنی چاہیے، یا وینچر میں سے رقم یا قرض. This principle is the same principle that is applied to all startups as they allocate shares at founding and during subsequent funding rounds.
+سٹیم کے ڈیزائن کی رہنمائی کے لیے بعض اہم اصول استعمال کیے گئے ہیں. سب سے اہم اصول یہ ہے کہ کوئی شخص جو وینچر میں امداد کرتا ہے اس کو پروراتا ملکیت ملنی چاہیے، یا وینچر میں سے رقم یا قرض. یہ اصول سب کے لیے یکساں ہے جو تمام شروعاتی لوگوں پر لاگو ہوتا ہے چونکہ وہ فنڈنگ کے عمل میں اپنا حصہ ڈال دیتے ہیں.
 
-The second principle is that all forms of capital are equally valuable. This means that those who contribute their scarce time and attention toward producing and curating content for others are just as valuable as those who contribute their scarce cash. This is the sweat equity principle[^2] and is a concept that prior cryptocurrencies have often had trouble providing to more than a few dozen individuals.
+دوسسرا اصول یہ ہے کہ تمام دارالحکومتیں یکساں قیمتی ہیں. اس کا مطلب یہ ہے کہ جو لوگ اپنا وقت اور اپنی توجہ دوسروں کے لیے مواد بنانے کی تشکیل میں سرف کرتے ہیں وہ اتنے ہی اہم ہے جتنے کہ اس میں کافی پیسہ ڈالنے والے. This is the sweat equity principle[^2] and is a concept that prior cryptocurrencies have often had trouble providing to more than a few dozen individuals.
 
 The third principle is that the community produces products to serve its members. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
 
