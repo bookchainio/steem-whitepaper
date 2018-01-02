@@ -429,11 +429,11 @@ Steem网络始于零货币供应，根据工作证明以每分钟40个STEEM的�
 
 人们常说，通货膨胀模式的币是不能持续的。但是我们从数不清的真实世界中的例子知道，货币的数量虽然对它的价值有一些作用，但是并没有直接的和即时的影响。
 
-From August 2008 through January 2009 the U.S. money supply[^15] grew from $871B to $1,737B, a rate of over 100% per year and then continued to grow at about 20% per year for the next 6 years. All told the money supply in the U.S. has grown by 4.59x over less than 7 years. During that same time, the value of the dollar relative to goods and services has fallen less than 10% according to the government's price index[^16]. This real-world example demonstrates that supply is only one component of price.
+从2008年8月到 2009年1月，美国的货币供应量 [^15]从8,710亿美元增长到17,370亿美元，年增长率超过100%，并且在接下来的6年中讲每年持续增长约20%。 大家知道美国的货币供应量在7年内增长了4.59倍。 与此同时，根据政府的价格指数[^16]，美元相对于商品和服务的价值下降了不到10%。 这个现实世界的例子表明，供应只是价格的一个组成部分。
 
-For the first 2 years of Bitcoin’s life the network sustained an annual inflation rate[^17] of over 100%. For the first 5 years it was over 30%, and for the first 8 years it was over 10%. All told the total “spending” Steem does to fund content, curation, and block production amounts to less than 10% APR.
+在比特币出现的前2年中，该网络持续了超过100%的年通货膨胀率 [^17]。 前五年，年通货膨胀率超过30%，前八年超过10%。 Steem所有的 "支出"都是用来资助内容、点赞、和块的产生，总和少于10% APR。
 
-The price of a digital commodity, like STEEM, is driven by both supply and demand. When a long-term holder decides to exit, the supply of STEEM on the market will increase and push the price down. This downward pressure is countered when a new long-term holder decides to buy up the STEEM and convert it back into SP. Additional supply and demand may be be added due to market speculators buying and selling liquid STEEM based on their predictions of the future market price.
+像Steem这样的数字商品的价格是由供需双方共同推动的。 当长期持有者决定退出时，市场上的Steem供应将会增加并推低价格。 当一个新的长期持有者决定购买Steem并将其转换为SP时，这种下行压力就会被抵消。 因为投机者根据他们对市场价格的预测买卖流动性的STEEM，更多的供给和需求将会被增加。
 
 # Steem的能量
 
