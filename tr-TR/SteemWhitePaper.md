@@ -236,9 +236,9 @@ Bunun ekonomik etkisi piyangoya benzer. Insanlar oylanma sanslarini oldugundan f
 
 Bir gönderi ödeme aldiginda bu 50% SBD ve 50% SP bicimindedir. Steem Power kullaniciya artirilmis oylama ve islem gücü verirken, SBD ise kullaniciya istikrarli bir para birimi üzerinden dogrudan bir kazanc sunar. Daha önce uzun bir sekilde acikladigimiz üzere, SP kisa vadeli satislar yerine uzun vadeli elde tutmalari tesvik etmek icin tasarlanmistir. Bu daha fazla kullaniciyi platformun uzun vadeli basarisinda menfaat sahibi olmak konusunda cesaretlendirir.
 
-Kullanicilar ödemelerini 100% SP seklinde alma secenegi ile birlikte gönderilerine yapilacak ödemeleri reddedetme hakkina da sahiptir. When a user declines payout on a post, the money that would have been paid to them remains in the rewards pool, to be distributed to other users.
+Kullanicilar ödemelerini 100% SP seklinde alma secenegi ile birlikte gönderilerine yapilacak ödemeleri reddedetme hakkina da sahiptir. Kullanici bir gönderi icin ödeme almayi reddettiginde, kendisine ödenecek olan para diger kullanicilar arasinda dagitilmak üzere ödül havuzunda kalir.
 
-# Consensus Algorithm
+# Oydasma Algoritmasi
 
 Consensus is the process by which a community comes to a universally recognized, unambiguous agreement on piece of information. There are many algorithms society has developed for reaching consensus about who owns what. Every government on earth is a primitive consensus algorithm whereby the population agrees to abide by a certain set of rules enshrined in a constitution. Governments establish courts, judges, and juries to interpret the subjective facts and render a final decision. Most of the time people abide by the decision even if it was wrong.
 
