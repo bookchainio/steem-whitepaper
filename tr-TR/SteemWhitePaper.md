@@ -232,9 +232,9 @@ Bu oylama ve ödeme dagiliminin etkisi iyi iceriklere büyük cömertlik sunarke
 
 Bunun ekonomik etkisi piyangoya benzer. Insanlar oylanma sanslarini oldugundan fazla gördüklerinden kazanmalari beklenen ödülden daha fazla is yaparlar ve bu sayede topluluga hizmetin icin yapilmis islerin sayisini azamiye cikartirlar. "Herkesin bir seyler kazaniyor olmasi" kumarhanelerin insanlari kumarda tutmak icin kullandigi ayni psikolojik etkidir. Bir baska ifadeyle, kücük ödüller daha büyüklerini de kazanmanin mümkün oldugu fikrini saglamlastirir.
 
-### Payouts
+### Ödemeler
 
-When a post receives a payout it takes the form of 50% SBD and 50% SP. The Steem Power give the user increased voting and transaction power while the SBD gives the user an immediate benefit in a stable currency. As we’ve already discussed at length, SP is designed to encourage long-term holding rather than short-term selling. This encourages more users to have a vested interest in the long-term success of the platform.
+Bir gönderi ödeme aldiginda bu 50% SBD ve 50% SP bicimindedir. Steem Power kullaniciya artirilmis oylama ve islem gücü verirken, SBD ise kullaniciya istikrarli bir para birimi üzerinden dogrudan bir kazanc sunar. Daha önce uzun bir sekilde acikladigimiz üzere, SP kisa vadeli satislar yerine uzun vadeli elde tutmalari tesvik etmek icin tasarlanmistir. This encourages more users to have a vested interest in the long-term success of the platform.
 
 Users also have the option to be paid in 100% SP, as well as decline payout on posts. When a user declines payout on a post, the money that would have been paid to them remains in the rewards pool, to be distributed to other users.
 
