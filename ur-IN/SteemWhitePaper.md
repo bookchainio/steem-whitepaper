@@ -72,9 +72,9 @@
 
 سٹیم ، سٹیم بلاکچین کی ایک بنیادی اکائی ہے. باقی تمام ٹوکن اپنی قیمت سٹیم کی قیمت میں سے نکالتے ہیں. سٹیم ایک مایع کرنسی ہے، لہذا اسے ایکسچینج پر بیچا یا خریدا جا سکتا ہے، یا دوسرے صارفین کو ادائیگی کے طور پر منتقل کیا جا سکتا ہے.
 
-## Steem Power (SP)
+## سٹیم پاور (SP)
 
-Start up companies require long-term capital commitment. Those who invest their money in a startup expect to wait years before they can sell their shares and realize their profits. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
+شروعاتی کمپنیوں کو طویل المیعاد عزم کرنے کی ضرورت ہے. وہ لوگ جو شروعات میں اپنی رقم کی سرمایہ کاری کرتے ہیں انہیں سالوں تک اپنے حصے کو بیچنے اور اس سے منافع حاصل کرنے کے لیے انتظار کرنا پڈتا ہے. طویل المعیاد وابستگی کے بغیر اضافی حصص کی فروخت کے ذریعے اضافی سرمایہ اکٹھا کرنے کی کوشش ایک آغاز کے خروج کے لیے تلاش میں موجود شاریہولڈرس کے ساتھ مقابلہ ہو گا ۔. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
 
 There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
 
