@@ -234,9 +234,9 @@ Bunun ekonomik etkisi piyangoya benzer. Insanlar oylanma sanslarini oldugundan f
 
 ### Ödemeler
 
-Bir gönderi ödeme aldiginda bu 50% SBD ve 50% SP bicimindedir. Steem Power kullaniciya artirilmis oylama ve islem gücü verirken, SBD ise kullaniciya istikrarli bir para birimi üzerinden dogrudan bir kazanc sunar. Daha önce uzun bir sekilde acikladigimiz üzere, SP kisa vadeli satislar yerine uzun vadeli elde tutmalari tesvik etmek icin tasarlanmistir. This encourages more users to have a vested interest in the long-term success of the platform.
+Bir gönderi ödeme aldiginda bu 50% SBD ve 50% SP bicimindedir. Steem Power kullaniciya artirilmis oylama ve islem gücü verirken, SBD ise kullaniciya istikrarli bir para birimi üzerinden dogrudan bir kazanc sunar. Daha önce uzun bir sekilde acikladigimiz üzere, SP kisa vadeli satislar yerine uzun vadeli elde tutmalari tesvik etmek icin tasarlanmistir. Bu daha fazla kullaniciyi platformun uzun vadeli basarisinda menfaat sahibi olmak konusunda cesaretlendirir.
 
-Users also have the option to be paid in 100% SP, as well as decline payout on posts. When a user declines payout on a post, the money that would have been paid to them remains in the rewards pool, to be distributed to other users.
+Kullanicilar ödemelerini 100% SP seklinde alma secenegi ile birlikte gönderilerine yapilacak ödemeleri reddedetme hakkina da sahiptir. When a user declines payout on a post, the money that would have been paid to them remains in the rewards pool, to be distributed to other users.
 
 # Consensus Algorithm
 
