@@ -50,7 +50,7 @@
 
 ایک ایسا سسٹم تیار کرنے کا چیلنج ہے جو اس قابل ہو کہ وہ یہ پہچان سکے کہ کیسا کام درکار ہے اور اور اس سے منسلک مال جو کمیونٹی ممبران میں شامل ہو سکتا ہے.
 
-جایزہ لینا اور کام کے لیے مشاعرہ ایک ثابت شدہ سسٹم مفت بازار ہے. مفت بازار کو ایک یکتا کمیونیٹی کے طور پر دیکھا جا سکتا ہے جہاں ایک دوسرے سے تجارت ہوتی ہے اور انعامات نفع و نقصان میں دیے جاتے ہیں. مارکیٹ سسٹم ان افراد کو انعام دیتا ہے جو دوسرے افراد کو قیمت فراہم کرتے ہیں اور ان افراد کو سزا دیتا ہے جو پیدا کرنے سے زیادہ کھاتے ہیں. The free market supports many different currencies and money is simply a commodity that everyone finds easy to exchange.
+جایزہ لینا اور کام کے لیے مشاعرہ ایک ثابت شدہ سسٹم مفت بازار ہے. مفت بازار کو ایک یکتا کمیونیٹی کے طور پر دیکھا جا سکتا ہے جہاں ایک دوسرے سے تجارت ہوتی ہے اور انعامات نفع و نقصان میں دیے جاتے ہیں. مارکیٹ سسٹم ان افراد کو انعام دیتا ہے جو دوسرے افراد کو قیمت فراہم کرتے ہیں اور ان افراد کو سزا دیتا ہے جو پیدا کرنے سے زیادہ کھاتے ہیں. مفت بازار بہت ساری رقموں کی حمایت کرتا ہے اور پیسہ صرف ایک جنس ہے جسے ایکسچینج کرنا ہر ایک کے لیے آسان ہے.
 
 Since the free market is a proven system, it is tempting to try to create a free-market system where content consumers directly pay content producers. However, direct payment is inefficient and not really viable for content creation and curation. The value of most content is so low relative to the cognitive, financial, and opportunity costs associated with making a payment that few readers choose to tip. The abundance of free alternatives means that enforcing a ‘paywall’ will drive readers elsewhere. There have been several attempts to implement per-article micropayments from readers to authors, but none have become widespread.
 
