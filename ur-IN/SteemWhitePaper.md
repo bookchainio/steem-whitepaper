@@ -56,7 +56,7 @@
 
 سٹیم کو بدلتے ہوے اقتصادی منظرنامے میں تمام قسم کی با اثر چھوٹی ادائیگیوں کے لیے ڈیزائن کیا گیا ہے. قارئین کو یہ فیصلہ لینے کی ضرورت نہیں آیاں انہی اپنے جیب سے ادائیگی کرنی ہے یا نہیں، اس کے برعکس وہ مواد کو ووٹ کرسکتے ہیں اور سٹیم انفرادی انعامات کو استعمال کرنے کا فیصلہ کرے گا. اس کا مطلب یہ ہے کہ لوگوں کو ایک مشہور اور وسیع انٹرفیس استعمال کرنے کے لیے دیتا ہے اور کسی بھی مالی، ادرک اور چھوٹی ادائیگی اور ٹپنگ پلیٹ فارم سے جڈے موقع کی لاگت کا سامنا نہیں کرنا پڈے گا.
 
-Voting input from community members is critical for Steem to accurately allocate payments to contributors. Voting can therefore be viewed as a crucial contribution and worthy of rewards on its own. Some platforms, such as Slashdot, use meta-moderation[^3] as a way to rank and reward honest moderators. Steem chooses to reward those who contribute the most to the total promotion of a piece of content and rewards the voters proportional to the ultimate reward paid to the content creator.
+سٹیم کمیونٹی ممبران کا ووٹنگ انپٹ ممبران کی صحیح ادائیگی کے لیے کافی اہم ہے. ووٹنگ کو اپنے آپ میں ایک اہم کردار کے طور پر تصور کیا جا سکتا ہے. کچھ پلیٹ فارم، جیسے کہ سلیش ڈاٹ، میٹا ماڈریشن کا استعمال n[^3] ایماندار ماڈریٹرس کو کو انعام کے لیے ایک راہ کے طور پر استعمال کرتے ہیں. سٹیم ان افراد کو انعام کے لیے منتخب کرتا ہے جو کسی مواد کے ٹکڑے کو زیادہ سے زیادہ آگے لے جانا چاہتے ہیں اور ووٹرو کو اصلی مواد کی تخلیق کرنے والے کے برابر انعام ادا کرتا ع.
 
 # Ways to Contribute
 
