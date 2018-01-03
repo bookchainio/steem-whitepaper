@@ -102,7 +102,7 @@ SP holders elect individuals, called witnesses, to publish price feeds. The elec
 
 Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
 
-Even if all feed producers are honest, it is possible for the majority of feed producers to be impacted by events beyond their control. The Steem network is designed to tolerate short-term corruption of the median price feed while the community actively works to correct the issue. One example of an issue that may take some time to correct is short-term market manipulation. Market manipulation is difficult and expensive to maintain for long periods of time. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
+Even if all feed producers are honest, it is possible for the majority of feed producers to be impacted by events beyond their control. The Steem network is designed to tolerate short-term corruption of the median price feed while the community actively works to correct the issue. أحد الأمثلة على المشكلة التي قد تستغرق بعض الوقت للتصحيح هي التلاعب في السوق على المدى القصير. Market manipulation is difficult and expensive to maintain for long periods of time. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
 
 Steem factors out short-term price fluctuations by using the median price over a period of three and a half days. The median published feed is sampled every hour on the hour.
 
@@ -148,7 +148,7 @@ If Steem feed producers aim to have an independent monetary policy allowing it t
 
 إن الشاغل الرئيسي لمنتجي سعر ستيم هو الحفاظ على تحويل واحد لواحد بين SBD والدولار الأمريكي (USD). حينما يتم تداول سبد باستمرار فوق $ 1.00 دولار أمريكي يجب توقيف مدفوعات الفائدة. في سوق حيث تكون الفائدة 0٪ على الديون لا تزال تتطلب قسط، فمن الآمن أن نقول أن السوق على استعداد لتقديم المزيد من الديون أكثر من الديون التي يرغب المجتمع في اتخاذها. إذا حدث هذا سوف يتم تقييم قيمة سبد بأكثر من 1.00 دولار، وهناك القليل ليتمكن المجتمع للقيام به دون فرض أسعار الفائدة السلبية.
 
-If the debt-to-ownership ratio is low and SBD is trading for less than $1.00, then the interest rate should be increased. This will encourage more people to hold their SBD and support the price.
+وإذا كانت نسبة الدين إلى الملكية منخفضة ويتم تداول SBD بأقل من 1 دولار، إذن يجب زيادة سعر الفائدة. وهذا سيشجع المزيد من الناس على عقد SBD ودعم السعر.
 
 إذا كانت تداولات سبد أقل من 1 دولار أمريكي ونسبة الدين إلى الملكية مرتفعة، عندئذ يجب تعديل الاسعار صعودا لإعطاء المزيد من ستيم لكل سبد. وسيؤدي ذلك إلى زيادة الطلب على شركة تنمية المنشآت الصغيرة مع تخفيض نسبة الدين إلى الملكية والعودة إلى مؤسسة التنمية الاجتماعية إلى التعادل مع الدولار الأمريكي.
 
@@ -160,7 +160,7 @@ If the debt-to-ownership ratio gets dangerously high and market participants cho
 
 Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SBD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions.
 
-It is our belief that these rules will give market participants confidence that they are unlikely lose money by holding SBD purchased at a price of $1.00. We fully expect there to be a narrow trading range between $0.95 and $1.05 for SBD under normal market conditions.
+ونحن نعتقد أن هذه القواعد سوف تعطي المشاركين في السوق الثقة على الرغم من أن يخسرو المال عن طريق امتلاك SBD الذي  تم شراؤه ب 1 دولار. نحن نتوقع تماما أن يكون هناك نطاق تداول ضيق بين 0.95 و 1.05 دولار ل SBD في ظل ظروف السوق العادية.
 
 ## المساهمات الذاتية
 
