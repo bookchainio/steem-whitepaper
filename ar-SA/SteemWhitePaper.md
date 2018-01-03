@@ -154,7 +154,7 @@ If the debt-to-ownership ratio is low and SBD is trading for less than $1.00, th
 
 على افتراض أن قيمة STEEM تنمو بشكل أسرع من إنشاء ستيم ل SBD جديد، نسبة الديون إلى الملكية يجب أن تبقى تحت النسبة المستهدفة و الفوائد المقدمة للجميع. إذا كانت قيمة الشبكة مستوية أو منحدرة، فإن أي فائدة من شأنها أن تجعل فقط نسبة الديون إلى الملكية أسوأ.
 
-In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
+وفي الواقع، يعهد إلى منتجي التعويض بمسؤولية وضع سياسة نقدية بغرض الحفاظ على ثباتية في استقرار الدولار. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
 
 If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SBD.
 
@@ -314,11 +314,11 @@ Under a fractional reserve system the individual users could utilize more bandwi
 
 في تقديرنا يجب أن يكون كافيا لقياس متوسط استخدام الترافيك الأسبوعي للمستخدمين. في كل مرة يوقع فيها المستخدم على تحويل، يتم احتساب ذلك التحويل في المتوسط المتحرك الفردي الخاص به. Any time a user’s moving average exceeds the current network limit their transaction is delayed until their average falls below the limit.
 
-### Impact of Capacity
+### تأثير القدرات
 
 Blockchain capacity isn’t necessarily capped. It is well within the technological capability of internet infrastructure to increase the Bitcoin block size to 10MB which in turn will reduce the minimum required balance by a factor of 10. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second.
 
-### Comparison to Fees
+### مقارنة الرسوم
 
 If we assume a user with $25 dollars worth of BTC transacts once per week and pays a $0.04 cent fee each time then they would pay over $2.00 in fees per year. A user would have to earn a 8% rate of return on their $25 dollars just to break even with paying fees. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
 
