@@ -74,9 +74,9 @@
 
 ## سٹیم پاور (SP)
 
-شروعاتی کمپنیوں کو طویل المیعاد عزم کرنے کی ضرورت ہے. وہ لوگ جو شروعات میں اپنی رقم کی سرمایہ کاری کرتے ہیں انہیں سالوں تک اپنے حصے کو بیچنے اور اس سے منافع حاصل کرنے کے لیے انتظار کرنا پڈتا ہے. طویل المعیاد وابستگی کے بغیر اضافی حصص کی فروخت کے ذریعے اضافی سرمایہ اکٹھا کرنے کی کوشش ایک آغاز کے خروج کے لیے تلاش میں موجود شاریہولڈرس کے ساتھ مقابلہ ہو گا ۔. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
+شروعاتی کمپنیوں کو طویل المیعاد عزم کرنے کی ضرورت ہے. وہ لوگ جو شروعات میں اپنی رقم کی سرمایہ کاری کرتے ہیں انہیں سالوں تک اپنے حصے کو بیچنے اور اس سے منافع حاصل کرنے کے لیے انتظار کرنا پڈتا ہے. طویل المعیاد وابستگی کے بغیر اضافی حصص کی فروخت کے ذریعے اضافی سرمایہ اکٹھا کرنے کی کوشش ایک آغاز کے خروج کے لیے تلاش میں موجود شاریہولڈرس کے ساتھ مقابلہ ہو گا ۔. پریمی سرمایہ کار کمپنی کو بڈھاوا دینے کے لیے اپنے بڈے شراکت داروں کا ساتھچاہتے ہیں، لیکن نئے دارالحکومت دور خروج کرنے کے لئے تلاش ان لوگوں کو دیا ہے تو ترقی ایسا نہیں ہو سکتا ۔.
 
-There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
+طویل المیعاد عزم کرنے کے کافی سارے فوائد ہیں کیونکہ یہ کمیونٹی کو طویل المیعاد منصوبے بنانے کے قابل بناتا ہے. اسٹیک ہولڈران کی طویل المیعاد عزم انہیں طویل المیعاد ووٹ کو بڈھاتا ہے بجائے قلیل مدتی بمپ کے.
 
 In the cryptocurrency space, speculators jump from cryptocurrency to cryptocurrency based mostly on which one is expected to have short-term growth. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
 
