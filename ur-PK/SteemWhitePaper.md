@@ -481,7 +481,7 @@ Placeholder for translator's notes.
 
 ایک کرنسی جو استعمال کے لئے مشکل ہو یا اس کی فروخت ناممکن ہو، اس کی بہت کم قدر ہوتی ہے. کوئی شخص جو ایک ڈالر کی مالیت کے بٹکوائن کی طرف آتا ہے وہ یہ دریافت کرے گا کہ بٹکوائن فروخت کرنے کے لئے ایک ڈالر سے زیادہ خرچ کرنا پڑتا ہے. انہیں ایک ایکسچینج کے ساتھ اپنا اندراج کروانا ہوگا، KYC سے توثیق کروانی ہوگی، اور فیس کی ادائیگی کرنی ہوگی. کرائیپٹوکرنسی کی چھوٹی مقدار چھوٹی تبدیلی کی طرح ہیں جسے لوگ اٹھانے کے لئے جھکنا نہیں چاہتے.
 
-خوردہ فروش صارفین کو انکی کرائیپٹوکرنسی ٹھوس سامان اور خدمات میں تبدیل کرنے کا راستہ فراہم کرتے ہیں. تاجروں کو ایک ایسی کرنسی کی ضرورت ہے جو ان کے کھاتے کی اکائی سے کیل شدہ ہو، عام طور پر ڈالرز. Accepting a volatile currency introduces significant accounting overhead.
+خوردہ فروش صارفین کو انکی کرائیپٹوکرنسی ٹھوس سامان اور خدمات میں تبدیل کرنے کا راستہ فراہم کرتے ہیں. تاجروں کو ایک ایسی کرنسی کی ضرورت ہے جو ان کے کھاتے کی اکائی سے کیل شدہ ہو، عام طور پر ڈالرز. ایک غیر مستحکم کرنسی کو قبول کرنا سر پر معنی خیز حساب داری کو متعارف کراتا ہے.
 
 Merchants will accept any currency if it increases their sales. Having a large user base with a stable currency such as SBD lowers the barrier to entry for merchants. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
 
