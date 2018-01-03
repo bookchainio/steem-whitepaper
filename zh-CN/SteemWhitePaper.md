@@ -447,9 +447,9 @@ Steem认识到所有用户的贡献(帖子和投票)的价值大于各个部分�
 
 现有的将加密货币集成到社交媒体平台的尝试集中在使用户能够相互支付。 许多服务试图引入小费。 理论是如果我们使付小费足够简单，那么更多的人会这样做。 其他服务试图让人们支付费用以促进或提高他们的内容的排名。 还有一些人试图建立关于文章将收到多少小费收入的小预测市场, 。
 
-所有这些方法都归结为微支付。 他们的唯一区别是谁付费。 他们都有微支付参与者不足的问题。 In the search for incentivised content production entrepreneurs have been so focused on who should pay that they missed the obvious reality: everyone benefits from everyone’s actions so everyone should pay or no one should pay, depending on how you look at it.
+所有这些方法都归结为微支付。 他们的唯一区别是谁付费。 他们都有微支付参与者不足的问题。 在寻求激励内容产生的过程中，企业家一直把重点放在谁应该付钱，他们错过了显而易见的现实：每个人都会从每个人的行为中受益，所以每个人都应该付钱，或者没有人应该付钱，这取决于你如何看待它。
 
-Steem bypasses micropayments completely because when a user upvotes a post it is the community that pays the bill. The same amount of money will be spent whether the user upvotes a post or not and the funds will not come from the voter.
+Steem完全绕过支付，因为当一个用户点赞一个帖子时，这就是社区在支付账单。 无论用户是否点赞一个帖子，同样的钱都会被花掉，而资金也不是来自点赞者。
 
 The mental energy associated with making an economic decision becomes a barrier to participation for most people.
 
