@@ -78,9 +78,9 @@
 
 طویل المیعاد عزم کرنے کے کافی سارے فوائد ہیں کیونکہ یہ کمیونٹی کو طویل المیعاد منصوبے بنانے کے قابل بناتا ہے. اسٹیک ہولڈران کی طویل المیعاد عزم انہیں طویل المیعاد ووٹ کو بڈھاتا ہے بجائے قلیل مدتی بمپ کے.
 
-کرپٹوکرنسی کی جگہ میں، سپکلیورس کرپٹوکرنسی سے کرپٹوکرنسی پر چھلانگ لگاتے ہیں جس میں قلیل بڈھاوا ہونے کی توقع ہے. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
+کرپٹوکرنسی کی جگہ میں، سپکلیورس کرپٹوکرنسی سے کرپٹوکرنسی پر چھلانگ لگاتے ہیں جس میں قلیل بڈھاوا ہونے کی توقع ہے. سٹیم ایک ایسی کمیونیٹی تشکیل دینا چاہتا ہے جو اکثر طویل المیعاد نقطہ نظر رکھنے والوں کے کنٹرول میں رہے.
 
-Users are able to commit their STEEM to a thirteen week vesting schedule, providing them with additional benefits within the platform. STEEM that has been committed to a thirteen week vesting schedule is called Steem Power (SP). SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
+صارفین سٹیم پلیٹ فارم سے زیادہ فوائد حاصل کرنے کے لیے اپنے STEEM کو تیرہ ہفتوں کے لیے جمع کرنے کا عزم کر سکتے ہیں. سٹیم جسے بدلنے کے لئے تیرہ ہفتوں کے لیے رکھنے کا عزم کرنا پڈتا ہے اسے سٹیم پاور (SP). کہتے ہیں. SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
 
 When users vote on content, their influence over the distribution of the rewards pool is directly proportional to the amount of SP that they have. Users with more SP have more influence on the distribution of rewards. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
 
