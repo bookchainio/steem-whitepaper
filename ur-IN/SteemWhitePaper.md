@@ -66,11 +66,11 @@
 
 قرض اور ملکیت، دو ایسی چیزیں ہیں جو جو کیپٹل کو اپنی طرف متوجہ کر سکتے ہیں. وہ لوگ جو ملکیتی منافع خرید لیتے ہیں جب کمیونٹی بڈھ جاتی ہے اور کمیونیٹی کے گھٹ جانے پر ہار جاتے ہیں. وہ لوگ جو قرضہ خرید لیتے ہیں ان کو ایک مخصوص منافع کی گارنٹی دی جاتی ہے مگر کمیونٹی کے بڈھاوے میں کسی بھی منافع میں شرکت نہیں کر سکتے ہیں. دونوں قسم کے اعانت دار کمیونٹی اور کرنسی کی قیمت کے بڈھاوے کے لیے کافی اہم ہے. ویسٹنگ اور مایا، اس کے علاوہ ملکیت حاصل کرنے کے دو طریقے ہیں. کسی کو ملکیت دینا ایک طویل المیعاد عزم کرتا ہے اور اسے کم وقت کے لیے نہی بیچا جا سکتا ہے.
 
-The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SBD).
+سٹیم نیٹورک میں ان تین اساسوں کے نام سٹیم (STEEM)،سٹیم پاور (SP) اور سٹیم ڈالر (SBD).
 
-## Steem (STEEM)
+## سٹیم (STEEM)
 
-Steem is the fundamental unit of account on the Steem blockchain. All other tokens derive their value from the value of STEEM. STEEM is a liquid currency, and therefore can be bought or sold on exchanges, as well as transferred to other users as a form of payment.
+سٹیم ، سٹیم بلاکچین کی ایک بنیادی اکائی ہے. باقی تمام ٹوکن اپنی قیمت سٹیم کی قیمت میں سے نکالتے ہیں. سٹیم ایک مایع کرنسی ہے، لہذا اسے ایکسچینج پر بیچا یا خریدا جا سکتا ہے، یا دوسرے صارفین کو ادائیگی کے طور پر منتقل کیا جا سکتا ہے.
 
 ## Steem Power (SP)
 
