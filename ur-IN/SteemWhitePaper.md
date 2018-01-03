@@ -82,7 +82,7 @@
 
 صارفین سٹیم پلیٹ فارم سے زیادہ فوائد حاصل کرنے کے لیے اپنے STEEM کو تیرہ ہفتوں کے لیے جمع کرنے کا عزم کر سکتے ہیں. سٹیم جسے بدلنے کے لئے تیرہ ہفتوں کے لیے رکھنے کا عزم کرنا پڈتا ہے اسے سٹیم پاور (SP). کہتے ہیں. SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
 
-When users vote on content, their influence over the distribution of the rewards pool is directly proportional to the amount of SP that they have. Users with more SP have more influence on the distribution of rewards. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
+جب صارفین مواد پر ووٹ کرتے ہیں، لہٰذا انعامات تقسیم کرنے کے عمل میں ان کے ووٹ کی قیمت براہ راست ان کے سٹیم پاور سے ہے. انعامات کی تقسیم میں ان صارفین کا زیادہ اثر رہتا ہے جن کے پاس زیادہ سٹیم پاور ہوگا. اس کا مطلب ہے کہ سٹیم پاور ایک رسائی ٹوکن ہے جو اس کے حاملین کے پلیٹ فارم پر سٹیام کے اندر خصوصی اختیارات دیتا ہے ۔.
 
 SP holders are also paid interest on the balance of SP that remains vested. 15% of the yearly inflation is paid to SP holders as interest. The amount of the interest that they receive is directly proportional to the amount of SP they hold relative to the total amount of vested SP across all users.
 
