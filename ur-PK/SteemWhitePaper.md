@@ -471,9 +471,9 @@ Placeholder for translator's notes.
 
 سرپرستی کے معاوضے کے ذریعے، مواد کی ایک بڑی مقدار میں سے سب سے قیمتی معلومات نکالنے کے لئے سٹیم نیٹ ورک خودکار الگورتھم استعمال کرنے کے قابل ہے.
 
-## Solving the Cryptocurrency Onboarding Problem
+## کرائیپٹوکرنسی سواری کے مسئلے کو حل کر رہا ہے
 
-It isn’t easy to get into cryptocurrency[^21]. Someone who discovers Bitcoin and wants to try it out quickly learns that they will need to sign up with an exchange and fund their account with a credit card or wire transfer. What would Facebook’s adoption rate have been like if you had to fork over money and a two forms of ID?
+کرائیپٹوکرنسی میں داخل ہونا آسان نہیں ہے[^21]. Someone who discovers Bitcoin and wants to try it out quickly learns that they will need to sign up with an exchange and fund their account with a credit card or wire transfer. What would Facebook’s adoption rate have been like if you had to fork over money and a two forms of ID?
 
 Steem solves this problem by giving everyone a way to get paid for doing simple, but valuable, tasks. This will help to widely distribute STEEM tokens. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless.)
 
