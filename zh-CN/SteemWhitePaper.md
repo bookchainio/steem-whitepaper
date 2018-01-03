@@ -459,7 +459,7 @@ Steem完全绕过支付，因为当一个用户点赞一个帖子时，这就是
 
 在Steem里，微支付被付给内容的创造者，但是点赞者不需要付费。 实际上，奖励的开支通过新的代币支付。 有些人可以加入这个系统，给其他人点赞，然后带着比他们当初拥有的更多的钱退出系统(假设Steem的市场价值恒定)。 换言之，微支付Steem提供的微支付解决方案提供了类似于许多广泛使用的具有用户主持内容的网站的用户体验。
 
-Furthemore, Steem pays people to figure out who should be paid! This kind of thinking is revolutionary.
+另外，Steem支付那些找出谁应该被支付的人们！这种想法是革命性的。
 
 ## 价值在链接中
 
