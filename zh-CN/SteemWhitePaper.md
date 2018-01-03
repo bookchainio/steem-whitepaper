@@ -453,11 +453,11 @@ Steem完全绕过支付，因为当一个用户点赞一个帖子时，这就是
 
 与经济决策关联的心理能量成为大多数人参与的障碍。
 
-*在这个信息爆炸的数字时代，我们每天都要面对众多的选择。而我们必须做的每一个额外的决定，都增加了我们所面临的不确定性和焦虑。 微支付的支持者认为，简化的实现可以最大限度地减少微支付的侵扰并改善用户体验，但他们的论点只为决策过程\ [2 \]创造了双重标准。 A transaction cannot simultaneously be worth enough to warrant a decision and worth so little that the decision is automatic. **The only transactions that users can approve without thought are ones that cost them nothing**, thus any micro-transaction of positive value will incur mental costs through its requiring a decision. Furthermore, mental transaction costs actually rise below a certain threshold value, a phenomenon that places micropayments at an even greater disadvantage. For instance, it is easy to think that a copy of today's newspapers costs $1, but readers face much more difficulty and anxiety in deciding on the value of each article or word. Such a dilemma will only be replicated and exacerbated if all online content were to be broken down into their components and individually valued within a micropayment system.*
+*在这个信息爆炸的数字时代，我们每天都要面对众多的选择。而我们必须做的每一个额外的决定，都增加了我们所面临的不确定性和焦虑。 微支付的支持者认为，简化的实现可以最大限度地减少微支付的侵扰并改善用户体验，但他们的论点只为决策过程\ [2 \]创造了双重标准。 一个交易不可能同时价值足够大到保障一个决定并且价值如此小以至于决定可以自动作出。 **用户无需考虑就可以批准的交易是不需要付费的交易**，因此，任何有价值的微交易都将通过其要求作出决定而招致心理代价。 此外，心理的交易成本实际上上升到一定的阈值以下，这种现象使微支付处于更大的劣势。 比如，今天的一份报纸价值一美元比价容易接受，而读者会面对更多的困难和焦虑如果他们需要决定每一篇文章或者每一个字的价值。 如果所有在线内容都被分解成它们的组成部分，并每个部分在一个微支付系统中被单独估价，那么这种两难境地只会被复制和加剧。*
 
--Micropayments: A Viable Business Model[^20]
+-微支付: 一个可行的业务模式[^20]
 
-Under Steem, micropayments are paid to content producer, but those who vote for the content do not pay. Instead, the cost of the reward is paid for via new tokens. Someone can join the system, vote to pay someone, and then exit the system with more money than they started with (assuming the market valuation of the Steem system remained constant). In other words, the micropayment solution provided by Steem provides a user-experience similar to many widely used websites that have user-moderated content.
+在Steem里，微支付被付给内容的创造者，但是点赞者不需要付费。 实际上，奖励的开支通过新的代币支付。 有些人可以加入这个系统，给其他人点赞，然后带着比他们当初拥有的更多的钱退出系统(假设Steem的市场价值恒定)。 换言之，微支付Steem提供的微支付解决方案提供了类似于许多广泛使用的具有用户主持内容的网站的用户体验。
 
 Furthemore, Steem pays people to figure out who should be paid! This kind of thinking is revolutionary.
 
