@@ -473,15 +473,15 @@ Placeholder for translator's notes.
 
 ## کرائیپٹوکرنسی سواری کے مسئلے کو حل کر رہا ہے
 
-کرائیپٹوکرنسی میں داخل ہونا آسان نہیں ہے[^21]. Someone who discovers Bitcoin and wants to try it out quickly learns that they will need to sign up with an exchange and fund their account with a credit card or wire transfer. What would Facebook’s adoption rate have been like if you had to fork over money and a two forms of ID?
+کرائیپٹوکرنسی میں داخل ہونا آسان نہیں ہے[^21]. کوئی شخص جسے بٹکوائن کا پتہ لگتا ہے اور وہ جلدی سے اسے آزمانہ چاہتا ہے وہ یہ سیکھتا ہے کہ انہیں ایکسچینج کے ساتھ اندراج اپنا اندراج کرانا ہوگا اور اپنے کھاتے کو کریڈٹ کارڈ یا وائر ٹرانسفر کے ذریعے بھرنا ہوگا. فیس بک کی اپنائیت کی شرح کتنی ہوتی اگر آپ کو اس میں پیسہ لگانا پڑتا اور دو قسم کے شناختی ثبوت دینے پڑتے?
 
-Steem solves this problem by giving everyone a way to get paid for doing simple, but valuable, tasks. This will help to widely distribute STEEM tokens. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless.)
+ہر ایک کو سادہ مگر قابل قدر کام کرنے کرنے کے بدلے معاوضہ حاصل کرنے کا راستہ فراہم کرنے کے ذریعے سٹیم اس مسئلے کو حل کرتا ہے. یہ سٹیم ٹوکن کی وسیع تقسیم میں مدد کرے گا. یہ مددگار ہے کیونکہ کرائیپٹوکرنسی کے پاس نیٹ ورک کا اثر ہے (یعنی زیادہ صارفین اسے زیادہ مفید بناتے ہیں؛ ایک انتہائی مثال کے لئے، غور کریں کہ اگر ساٹوشی ١٠٠ فیصد بٹکوائن اپنے لئے رکھتا تو بٹکوائن بیکار اور بے قیمت ہوتا۔)
 
-## Solving the Cryptocurrency Liquidation Problem
+## کرائیپٹوکرنسی ماعیت کے مسئلے کو حل کر رہا ہے
 
-A currency that is difficult to use or impossible to sell has little value. Someone who comes across $1.00 worth of Bitcoin will discover that it costs more than $1.00 to sell that Bitcoin. They have to create an account with an exchange, perform KYC validation, and pay fees. Small amounts of cryptocurrency are like small change that people are unwilling to bend over to pick up.
+ایک کرنسی جو استعمال کے لئے مشکل ہو یا اس کی فروخت ناممکن ہو، اس کی بہت کم قدر ہوتی ہے. کوئی شخص جو ایک ڈالر کی مالیت کے بٹکوائن کی طرف آتا ہے وہ یہ دریافت کرے گا کہ بٹکوائن فروخت کرنے کے لئے ایک ڈالر سے زیادہ خرچ کرنا پڑتا ہے. انہیں ایک ایکسچینج کے ساتھ اپنا اندراج کروانا ہوگا، KYC سے توثیق کروانی ہوگی، اور فیس کی ادائیگی کرنی ہوگی. کرائیپٹوکرنسی کی چھوٹی مقدار چھوٹی تبدیلی کی طرح ہیں جسے لوگ اٹھانے کے لئے جھکنا نہیں چاہتے.
 
-Merchants give users a way to quickly convert their cryptocurrency into tangible goods and services. Merchants need a currency pegged to their unit of account, normally dollars. Accepting a volatile currency introduces significant accounting overhead.
+خوردہ فروش صارفین کو انکی کرائیپٹوکرنسی ٹھوس سامان اور خدمات میں تبدیل کرنے کا راستہ فراہم کرتے ہیں. تاجروں کو ایک ایسی کرنسی کی ضرورت ہے جو ان کے کھاتے کی اکائی سے کیل شدہ ہو، عام طور پر ڈالرز. Accepting a volatile currency introduces significant accounting overhead.
 
 Merchants will accept any currency if it increases their sales. Having a large user base with a stable currency such as SBD lowers the barrier to entry for merchants. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
 
