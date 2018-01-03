@@ -64,7 +64,7 @@
 
 ## بڈی اعانت
 
-قرض اور ملکیت، دو ایسی چیزیں ہیں جو جو کیپٹل کو اپنی طرف متوجہ کر سکتے ہیں. وہ لوگ جو ملکیتی منافع خرید لیتے ہیں جب کمیونٹی بڈھ جاتی ہے اور کمیونیٹی کے گھٹ جانے پر ہار جاتے ہیں. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
+قرض اور ملکیت، دو ایسی چیزیں ہیں جو جو کیپٹل کو اپنی طرف متوجہ کر سکتے ہیں. وہ لوگ جو ملکیتی منافع خرید لیتے ہیں جب کمیونٹی بڈھ جاتی ہے اور کمیونیٹی کے گھٹ جانے پر ہار جاتے ہیں. وہ لوگ جو قرضہ خرید لیتے ہیں ان کو ایک مخصوص منافع کی گارنٹی دی جاتی ہے مگر کمیونٹی کے بڈھاوے میں کسی بھی منافع میں شرکت نہیں کر سکتے ہیں. دونوں قسم کے اعانت دار کمیونٹی اور کرنسی کی قیمت کے بڈھاوے کے لیے کافی اہم ہے. ویسٹنگ اور مایا، اس کے علاوہ ملکیت حاصل کرنے کے دو طریقے ہیں. کسی کو ملکیت دینا ایک طویل المیعاد عزم کرتا ہے اور اسے کم وقت کے لیے نہی بیچا جا سکتا ہے.
 
 The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SBD).
 
