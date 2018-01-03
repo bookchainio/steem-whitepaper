@@ -443,11 +443,11 @@ Steem认识到所有用户的贡献(帖子和投票)的价值大于各个部分�
 
 所有Reddit用户每秒投票220次，产生23个帖子。 Reddit值介于5亿[^18]和40亿美元[^19]之间。这意味着假定Reddit的价值主要在过去一年的活动中产生，那么每个点赞和帖子的价值介于0.06 和0.50 美元之间。 有人可能会争辩说，Reddit的大部分价值是在过去的一周内近乎实时的讨论所产生，这将极大地增加新动态的价值。 人们去人们现在所在的地方，而不是去人们去年去的地方。
 
-## No Micropayments, Tips Optional
+## 没有微支付，小费可选
 
-Existing attempts at integrating a cryptocurrency into a social media platform have focused on enabling users to pay one another. Many services have attempted to introduce tipping. The theory is that if we make tipping simple enough then more people will do it. Other services attempt to get people to pay to promote or boost their content’s ranking. Still others attempt to build small prediction markets on how many tips an article will receive.
+现有的将加密货币集成到社交媒体平台的尝试集中在使用户能够相互支付。 许多服务试图引入小费。 理论是如果我们使付小费足够简单，那么更多的人会这样做。 其他服务试图让人们支付费用以促进或提高他们的内容的排名。 还有一些人试图建立关于文章将收到多少小费收入的小预测市场, 。
 
-All of these approaches boil down to micropayments. They differ only in who is making the payment. They all suffer from insufficient engagement of people making the micropayments. In the search for incentivised content production entrepreneurs have been so focused on who should pay that they missed the obvious reality: everyone benefits from everyone’s actions so everyone should pay or no one should pay, depending on how you look at it.
+所有这些方法都归结为微支付。 他们的唯一区别是谁付费。 They all suffer from insufficient engagement of people making the micropayments. In the search for incentivised content production entrepreneurs have been so focused on who should pay that they missed the obvious reality: everyone benefits from everyone’s actions so everyone should pay or no one should pay, depending on how you look at it.
 
 Steem bypasses micropayments completely because when a user upvotes a post it is the community that pays the bill. The same amount of money will be spent whether the user upvotes a post or not and the funds will not come from the voter.
 
