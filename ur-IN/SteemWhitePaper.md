@@ -48,9 +48,9 @@
 
 سٹیم ایک قدر سادہ تصور پر ڈیزائن کیا گیا ہے: * ہر ایک فرد کی کمیونیٹی کے لیے با مانع اعانت کو اس انداز میں تصور کرنا چاہیے جس کا وہ حقدار ہو * جب لوگوں کو ان کی با مانع اعانت کے لیے پہچانا جاتا ہے، وہ اعانت جاری رکھتے ہیں اور کمیونیٹی بڈھ جاتی ہے. لین دین میں کوئی بھی عدم توازن غیر مستحکم ہے. آخر کار دینے والے حمایت کرتے کرتے تھک جاتے ہیں اور کمیونیٹی چھوڑ دیتے ہیں.
 
-The challenge is creating a system capable of identifying what contributions are needed and their relative worth in a way that can scale to an unbounded number of people.
+ایک ایسا سسٹم تیار کرنے کا چیلنج ہے جو اس قابل ہو کہ وہ یہ پہچان سکے کہ کیسا کام درکار ہے اور اور اس سے منسلک مال جو کمیونٹی ممبران میں شامل ہو سکتا ہے.
 
-A proven system for evaluating and rewarding contributions is the free market. The free market can be viewed as a single community where everyone trades with one another and rewards are allocated by profit and loss. The market system rewards those who provide value to others and punishes those who consume more value than they produce. The free market supports many different currencies and money is simply a commodity that everyone finds easy to exchange.
+جایزہ لینا اور کام کے لیے مشاعرہ ایک ثابت شدہ سسٹم مفت بازار ہے. مفت بازار کو ایک یکتا کمیونیٹی کے طور پر دیکھا جا سکتا ہے جہاں ایک دوسرے سے تجارت ہوتی ہے اور انعامات نفع و نقصان میں دیے جاتے ہیں. مارکیٹ سسٹم ان افراد کو انعام دیتا ہے جو دوسرے افراد کو قیمت فراہم کرتے ہیں اور ان افراد کو سزا دیتا ہے جو پیدا کرنے سے زیادہ کھاتے ہیں. The free market supports many different currencies and money is simply a commodity that everyone finds easy to exchange.
 
 Since the free market is a proven system, it is tempting to try to create a free-market system where content consumers directly pay content producers. However, direct payment is inefficient and not really viable for content creation and curation. The value of most content is so low relative to the cognitive, financial, and opportunity costs associated with making a payment that few readers choose to tip. The abundance of free alternatives means that enforcing a ‘paywall’ will drive readers elsewhere. There have been several attempts to implement per-article micropayments from readers to authors, but none have become widespread.
 
