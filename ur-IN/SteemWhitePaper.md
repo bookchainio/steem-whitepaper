@@ -84,13 +84,13 @@
 
 جب صارفین مواد پر ووٹ کرتے ہیں، لہٰذا انعامات تقسیم کرنے کے عمل میں ان کے ووٹ کی قیمت براہ راست ان کے سٹیم پاور سے ہے. انعامات کی تقسیم میں ان صارفین کا زیادہ اثر رہتا ہے جن کے پاس زیادہ سٹیم پاور ہوگا. اس کا مطلب ہے کہ سٹیم پاور ایک رسائی ٹوکن ہے جو اس کے حاملین کے پلیٹ فارم پر سٹیام کے اندر خصوصی اختیارات دیتا ہے ۔.
 
-سٹیم پاور ہولڈران اس سٹیم پاور میں بھی دلچسپی رکھتے ہیں جو جمع رہتا ہے. سالانہ بھڈوتری کا 15فیصدی حصہ سٹیم پاور ہولڈران کو سود کے طور پر دیا جاتا ہے. The amount of the interest that they receive is directly proportional to the amount of SP they hold relative to the total amount of vested SP across all users.
+سٹیم پاور ہولڈران اس سٹیم پاور میں بھی دلچسپی رکھتے ہیں جو جمع رہتا ہے. سالانہ بھڈوتری کا 15فیصدی حصہ سٹیم پاور ہولڈران کو سود کے طور پر دیا جاتا ہے. ان کو موصول ہونے والے مفاد کی براہ راست متناسبت ان کے اندر جمع سٹیم پاور کے ساتھ ہیں جو تمام صارفین میں تقسیم کی گئی ہے.
 
-Transferring from STEEM to SP is referred to as “powering up”, while transferring from SP to STEEM is referred to as “powering down.” SP that is powered down is returned to the user over a period of thirteen weeks, via 13 equal weekly payments, starting one week after the power down is initiated.
+ایس پی سے سٹیام کو منتقل کر رہا ہے کے لئے "نیچے ہی کے طور پر." کہا جاتا ہے جبکہ ایس پی کو سٹیام سے منتقل کرنے کے لئے "اپ ہی کے طور پر"، کہا جاتا ہے ایس پی کہ نیچے کی طرف سے طاقت ہے صارف کو ایک ہفتہ بعد نیچے طاقت ابتداء شروع 13 برابر ہفتہ وار ادائیگی، کے ذریعے تیرہ ماہ کے عرصہ میں واپس آ جاتا ہے ۔.
 
-## Steem Dollars (SBD)
+## سٹیم ڈالرز (SBD)
 
-Stability is an important feature of successful global economies. Without stability, individuals across the world could not have low cognitive costs while engaging in commerce and savings. Because stability is an important feature of successful economies, Steem Dollars were designed as an attempt to bring stability to the world of cryptocurrency and to the individuals who use the Steem network.
+استحکام عالمی اقتصادیات کی کامیابی کی ایک اہم خصوصیت ہے. استحکام کے بغیر، افراد دنیا بھر میں کم ادراکی اخراجات بچت و تجارت میں مشغول ہوئے نہیں کر سکتے. Because stability is an important feature of successful economies, Steem Dollars were designed as an attempt to bring stability to the world of cryptocurrency and to the individuals who use the Steem network.
 
 Steem Dollars are created by a mechanism similar to convertible notes, which are often used to fund startups. In the startup world, convertible notes are short-term debt instruments that can be converted to ownership at a rate determined in the future, typically during a future funding round. A blockchain based token can be viewed as ownership in the community whereas a convertible note can be viewed as a debt denominated in any other commodity or currency. The terms of the convertible note allow the holder to convert to the backing token with a minimum notice at the fair market price of the token. Creating token-convertible-dollars enables blockchains to grow their network effect while maximizing the return for token holders.
 
