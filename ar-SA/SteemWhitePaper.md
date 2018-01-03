@@ -102,7 +102,7 @@ SP holders elect individuals, called witnesses, to publish price feeds. The elec
 
 Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
 
-Even if all feed producers are honest, it is possible for the majority of feed producers to be impacted by events beyond their control. The Steem network is designed to tolerate short-term corruption of the median price feed while the community actively works to correct the issue. أحد الأمثلة على المشكلة التي قد تستغرق بعض الوقت للتصحيح هي التلاعب في السوق على المدى القصير. Market manipulation is difficult and expensive to maintain for long periods of time. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
+Even if all feed producers are honest, it is possible for the majority of feed producers to be impacted by events beyond their control. The Steem network is designed to tolerate short-term corruption of the median price feed while the community actively works to correct the issue. أحد الأمثلة على المشكلة التي قد تستغرق بعض الوقت للتصحيح هي التلاعب في السوق على المدى القصير. تلاعب السوق أمر صعب ومكلف  للحفاظ على لفترات طويلة من الزمن. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
 
 Steem factors out short-term price fluctuations by using the median price over a period of three and a half days. The median published feed is sampled every hour on the hour.
 
@@ -513,9 +513,9 @@ Under most content monetization models, content creators leverage advertising in
 
 Creators posting to social media outlets that are connected to Steem may monetize merely by having their work recognized (or ”liked”) by the Steem community. Blockchain-based payouts are completely digital and have no middle-man. Therefore monetization by blockchain-based content rewards should be faster and much lower barrier to use than monetization by advertisements.
 
-# Conclusion
+# استنتاج
 
-Steem is an experiment designed to address challenges in the cryptocurrency and social media industries by combining the best aspects from both. Steem presents earning opportunities to content creators and internet readers in ways that have not existed within the social media industry. Within Steem, individuals earn real rewards online that are directly correlated to their contributions. Those rewards may have dollar value due to the market price discovery and liquidity of Steem, and the people who hold Steem may have more exclusive earning powers than those who do not.
+ستيم هي تجربة مصممة لمواجهة التحديات في العملات الإفتراضية وصناعات وسائل الاعلام الاجتماعية من خلال الجمع بين أفضل جوانب من كليهما. يقدم ستيم فرص الكسب لمبدعي المحتوى وقراء الإنترنت بطرق لم تكن موجودة في صناعة وسائل الإعلام الاجتماعية. داخل ستيم، الأفراد يكسبون مكافآت حقيقية على الانترنت التي ترتبط مباشرة إلى بمساهماتهم. Those rewards may have dollar value due to the market price discovery and liquidity of Steem, and the people who hold Steem may have more exclusive earning powers than those who do not.
 
 [^1]: Reddit’s Cryptocurrency, Forbes, Erika Morphy, October 2014 http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/\#4e07b05332b9
 
