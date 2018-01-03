@@ -248,11 +248,11 @@ Ana düsünce, hangi tanikliklarin kamusal kayda gecirilmesine izin verilecegini
 
 ## Steem'de Oydasma
 
-Kavramsal olarak, Steem tarafindan benimsenmis olan oydasma algoritmasi dünyanin bircok yerindeki sirketler tarafindan kullanilan oydasma algoritmasina benzerdir. People with a vested interest in the future value of Steem vote to select individuals responsible for including testimony in the public record. Voting is weighted proportional to each individual's vested interest.
+Kavramsal olarak, Steem tarafindan benimsenmis olan oydasma algoritmasi dünyanin bircok yerindeki sirketler tarafindan kullanilan oydasma algoritmasina benzerdir. Steem'in gelecekteki degerinde taahhüt edilmis haklari bulunanlar, oylama yaparak, kamusal kayitlara tanikliklari kabul etmekle görevli kisileri secerler. Oylama her bir bireyin taahhütlü haklariyla orantili olarak agirliklandirilmistir.
 
-In the world of cryptocurrencies, the public record is commonly referred to as a *blockchain*. A *block* is a group of signed transactions.
+Kripto para birimleri dünyasinda kamusal kayit cogunlukla *blockchain* olarak adlandirilir. Bir *block* imzalanmis bir islemler grubudur.
 
-Steem ile blok üretimleri raunt bazında yapılır. Her rauntda 21 adet şahit hareketleri içeren blokları yaratmak ve imzalamak için seçilirler. Twenty (20) of these witnesses are selected by approval voting and one is timeshared by every witness that didn’t make it into the top 20 proportional to their total votes. The 21 active witnesses are shuffled every round to prevent any one witness from constantly ignoring blocks produced by the same witness placed before. Any witness who misses a block and hasn't produced in the last 24 hours will be disabled until they update their block signing key.
+Steem'de blok üretimleri rauntlar halinde yapılır. Her rauntda 21 adet şahit hareketleri içeren blokları yaratmak ve imzalamak için seçilirler. Twenty (20) of these witnesses are selected by approval voting and one is timeshared by every witness that didn’t make it into the top 20 proportional to their total votes. The 21 active witnesses are shuffled every round to prevent any one witness from constantly ignoring blocks produced by the same witness placed before. Any witness who misses a block and hasn't produced in the last 24 hours will be disabled until they update their block signing key.
 
 Bu süreç, herkesin en yüksek sıralamalarda bulunmaya yetecek kadar popüler olmasına bakılmaksızın, herkesin blok üretimine katılma potansiyeli taşırken, en iyi güvenilirliği sağlamak üzere tasarlanmıştır. İnsanların top 20 seçilmiş witnessların önüne geçebilmesi için 3 ayrı yolu vardır: Herkes gibi top 20 de bulunmayanlarla beklemek veya oy gücünüzü arttırmak için SP satın almak. Genel olarak konuşursak, piyasayı sansürlemek seçilmiş witnesslar için işlerini kaybetmek için birebir, bu nedenle Steem ağında böyle bir şey olması olası değil.
 
