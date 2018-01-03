@@ -457,19 +457,19 @@ Placeholder for translator's notes.
 
 - چھوٹی ادائیگیاں: ایک قابل کاروباری ماڈل[^20]
 
-Under Steem, micropayments are paid to content producer, but those who vote for the content do not pay. Instead, the cost of the reward is paid for via new tokens. Someone can join the system, vote to pay someone, and then exit the system with more money than they started with (assuming the market valuation of the Steem system remained constant). In other words, the micropayment solution provided by Steem provides a user-experience similar to many widely used websites that have user-moderated content.
+سٹیم کے تحت، مواد بنانے والوں کو چھوٹی ادائیگیاں کی جاتی ہیں مگر وہ لوگ ادائیگی نہیں کرتے جو ووٹ کرتے ہیں. بجائے اس کے، انعام کی قیمت نئے ٹوکن کے ذریعے ادا کی جاتی ہے. کوئی بھی نظام میں شامل ہو سکتا ہے، کسی کو ادائیگی کے لئے ووٹ کر سکتا ہے اور پھر نظام سے زیادہ پیسوں کے ساتھ نکل سکتا ہے جس سے اس نے شروعات کی تھی (یہ فرض کرتے ہوئے کہ سٹیم نظام کی مارکیٹی قدروقیمت غیرمتغیر رہی تھی). دوسرے لفظوں میں، سٹیم کی طرف سے فراہم کردہ چھوٹی ادائیگی کا حل صارف کو کئی وسیع پیمانے پر استعمال کی جانے والی ویب سائٹس کی طرح کا تجربہ فراہم کرتا ہے جس میں صارف معتدل مواد ہے.
 
-Furthemore, Steem pays people to figure out who should be paid! This kind of thinking is revolutionary.
+مزید یہ کہ سٹیم لوگوں کو یہ پتہ لگانے کے لئے ادائیگی کرتا ہے کہ کسے ادائیگی کرنی چاہئیے۔ اس طرح کی سوچ انقلابی ہے.
 
-## Value is in the Links
+## قدروقیمت روابط یا جوڑ میں ہے
 
-The Internet would lose the vast majority of its value if all links among content were removed. It is the relationship among web pages that allows Google to identify the best apple pie recipe among the 16 million results. Without the links the only information Google would have is word frequency.
+اگر مواد کے درمیان تمام جوڑ (لنکس) کو ختم کردیا جاتا تو انٹرنیت اس کی وسیع اور کثرت قدروقیمت سے محروم ہو جاتا. یہ ویب صفحات کے درمیان تعلق ہے جو گوگل کو 16 ملین کے نتائج میں سے بہترین سیب پائی نسخہ کی شناخت کرنے کی اجازت دیتا ہے. جوڑ (لنکس) کے بغیر، معلومات میں گوگل کے پاس صرف الفاظ کی تعددبندی ہوتی.
 
-Links can take many forms and have adapted over time. Every time a user votes on content in a social network they add a connection between themselves and the content. This in turn links the consumer to the producer through the content. The more connections a network has the more valuable the information becomes. It is the relative and intentional connectedness of information that gives it value.
+جوڑ (روابط یا لنکس) بہت سی شکلیں لے سکتے ہیں اور وقت کے ساتھ حسب حال ہوتے ہیں. ہر بار جب ایک صارف سوشل میڈیا پر اپنا ووٹ ڈالتا ہے وہ اپنے اور اس مواد کے درمیان ایک رابطے کا اضافہ کرتے ہیں. بدلے میں یہ مواد کے ذریعے صارف اور بنانے والے کو جوڑتے ہیں. جتنے زیادہ روابط ایک نیٹ ورک کے پاس ہوتے ہیں، معلومات اتنی ہی زیادہ قابل قدر بن جاتی ہیں. یہ معلومات کے متعلقہ اور ارادی روابط ہیں جو اسے قدروقیمت دیتے ہیں.
 
-A social network can maximize the value extracted from a set of content by maximizing the quantity and quality of connections. Curating content is expensive and time consuming while being near impossible for computers to perform in the absence of links. Steem rewards users who are among the first to find and identify new content.
+ایک سوشل نیٹ ورک روابط کی مقدار اور معیار کو زیادہ سے زیادہ کر کے مواد کے مجموعے کی قدر کو زیادہ کر سکتا ہے. مواد کی سرپرستی جوڑ کی ٍغیرحاضری میں کمپیوٹروں کے لئے یہ کام انجام دینا ناممکن ہونے کے قریب ہونے کے ساتھ ساتھ مہنگا اور بہت وقت لینے والا کام ہے. سٹیم ان صارفین کو انعامات سے نوازتا ہے جو نئے مواد کی تلاش اور شناخت میں سب سے پہلے اور آگے ہوتے ہیں.
 
-By incentivising curation the Steem network is able to use automated algorithms to extract the most valuable information from a massive amount of content.
+سرپرستی کے معاوضے کے ذریعے، مواد کی ایک بڑی مقدار میں سے سب سے قیمتی معلومات نکالنے کے لئے سٹیم نیٹ ورک خودکار الگورتھم استعمال کرنے کے قابل ہے.
 
 ## Solving the Cryptocurrency Onboarding Problem
 
