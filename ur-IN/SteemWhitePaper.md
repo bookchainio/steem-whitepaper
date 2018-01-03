@@ -60,11 +60,11 @@
 
 # کردار ادائیگی کے طریقے
 
-This section outlines the ideas behind Steem and its rewards for people who provide meaningful and measurable contributions to the Steem community.
+یہ سیکشن سٹیم کے پچھے خیال رکھنے والوں کا خاکہ اور اس لوگوں کو کے لیے اس کے انعامات کو پیش کرتا ہے جو سٹیم کمیونٹی میں بامانع اور پیمائشی اعانت فراہم کرتے ہیں.
 
-## Capital Contributions
+## بڈی اعانت
 
-There are two items a community can offer to attract capital: debt and ownership. Those who buy ownership profit when the community grows but lose if the community shrinks. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
+قرض اور ملکیت، دو ایسی چیزیں ہیں جو جو کیپٹل کو اپنی طرف متوجہ کر سکتے ہیں. وہ لوگ جو ملکیتی منافع خرید لیتے ہیں جب کمیونٹی بڈھ جاتی ہے اور کمیونیٹی کے گھٹ جانے پر ہار جاتے ہیں. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
 
 The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SBD).
 
