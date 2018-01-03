@@ -84,7 +84,7 @@
 
 جب صارفین مواد پر ووٹ کرتے ہیں، لہٰذا انعامات تقسیم کرنے کے عمل میں ان کے ووٹ کی قیمت براہ راست ان کے سٹیم پاور سے ہے. انعامات کی تقسیم میں ان صارفین کا زیادہ اثر رہتا ہے جن کے پاس زیادہ سٹیم پاور ہوگا. اس کا مطلب ہے کہ سٹیم پاور ایک رسائی ٹوکن ہے جو اس کے حاملین کے پلیٹ فارم پر سٹیام کے اندر خصوصی اختیارات دیتا ہے ۔.
 
-SP holders are also paid interest on the balance of SP that remains vested. 15% of the yearly inflation is paid to SP holders as interest. The amount of the interest that they receive is directly proportional to the amount of SP they hold relative to the total amount of vested SP across all users.
+سٹیم پاور ہولڈران اس سٹیم پاور میں بھی دلچسپی رکھتے ہیں جو جمع رہتا ہے. سالانہ بھڈوتری کا 15فیصدی حصہ سٹیم پاور ہولڈران کو سود کے طور پر دیا جاتا ہے. The amount of the interest that they receive is directly proportional to the amount of SP they hold relative to the total amount of vested SP across all users.
 
 Transferring from STEEM to SP is referred to as “powering up”, while transferring from SP to STEEM is referred to as “powering down.” SP that is powered down is returned to the user over a period of thirteen weeks, via 13 equal weekly payments, starting one week after the power down is initiated.
 
