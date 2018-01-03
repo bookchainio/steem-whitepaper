@@ -244,11 +244,11 @@ Oydasma, sayesinde bir toplulugun bir bilgi parcasi üzerinde belirsizlige mahal
 
 Kripto para birimleri tarafindan kullanilan algoritmalar oydasmaya ulasabilmek icin cok daha iyi bir yol sunar. Tüm kullanicilar tarafindan kriptografik olarak imzalalanmis tanikliklar, mutlak küresel olaylar siralamasini kuran kamuya acik bir kayit defterine kaydedilir. Bunun üzerine, belirleyici bir bilgisayar algoritmasi evrensel olarak kabul edilecek bir sonuca varmak icin bu kayit defterini isler. Toplulugun üyeleri bu isleme algoritmasi üzerinde mütabik kaldigi müddetce algoritmanin buldugu sonuc itaate yönelticidir.
 
-The primary consideration is determining what testimony is allowed to enter the public record. Systems should be designed to minimize the potential for censorship. Censorship on the public ledger is similar to preventing someone from voting in an election. In both cases an individual is prevented from impacting the global consensus.
+Ana düsünce, hangi tanikliklarin kamusal kayda gecirilmesine izin verileceginin belirlenmesidir. Sistemler muhtemel sansürleri en aza indirgeyecek sekilde tasarlanmalidir. Kamusal kayit defterinde uygulanan herhangi bir sansür, tipki birisinin secimlerde oy kullanmasinin önüne gecmek gibidir. Her iki durumda da bireyin küresel oydasmaya etki etmesinin önü kesilmistir.
 
-## Consensus in Steem
+## Steem'de Oydasma
 
-Conceptually, the consensus algorithm adopted by Steem is similar to the consensus algorithm adopted by companies throughout the world. People with a vested interest in the future value of Steem vote to select individuals responsible for including testimony in the public record. Voting is weighted proportional to each individual's vested interest.
+Kavramsal olarak, Steem tarafindan benimsenmis olan oydasma algoritmasi dünyanin bircok yerindeki sirketler tarafindan kullanilan oydasma algoritmasina benzerdir. People with a vested interest in the future value of Steem vote to select individuals responsible for including testimony in the public record. Voting is weighted proportional to each individual's vested interest.
 
 In the world of cryptocurrencies, the public record is commonly referred to as a *blockchain*. A *block* is a group of signed transactions.
 
