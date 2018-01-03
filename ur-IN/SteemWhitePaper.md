@@ -78,7 +78,7 @@
 
 طویل المیعاد عزم کرنے کے کافی سارے فوائد ہیں کیونکہ یہ کمیونٹی کو طویل المیعاد منصوبے بنانے کے قابل بناتا ہے. اسٹیک ہولڈران کی طویل المیعاد عزم انہیں طویل المیعاد ووٹ کو بڈھاتا ہے بجائے قلیل مدتی بمپ کے.
 
-In the cryptocurrency space, speculators jump from cryptocurrency to cryptocurrency based mostly on which one is expected to have short-term growth. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
+کرپٹوکرنسی کی جگہ میں، سپکلیورس کرپٹوکرنسی سے کرپٹوکرنسی پر چھلانگ لگاتے ہیں جس میں قلیل بڈھاوا ہونے کی توقع ہے. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
 
 Users are able to commit their STEEM to a thirteen week vesting schedule, providing them with additional benefits within the platform. STEEM that has been committed to a thirteen week vesting schedule is called Steem Power (SP). SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
 
