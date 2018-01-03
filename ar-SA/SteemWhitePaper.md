@@ -310,9 +310,9 @@ Under a fractional reserve system the individual users could utilize more bandwi
 
 الحل للمشاكل مع المدفوعات الصغرى في تنفيذ *احتياطات الكسور الديناميكية*. تحت هذا النموذج بلوكشين سوف تضبط تلقائيا النسبة الإحتياطية للشبكة خلال أوقات الازدحام. The blockchain will set a target utilization that leaves enough headroom for short term surges in demand. في أي وقت تستمر العواصف بلوكشين تقلل من الحد الأقصى من الترافيك لكل حصة. عندما تكون هناك زيادة مفاجئة وهناك قدرة فائضة يمكن لبلوكشين زيادة الترافيك ببطء للسهم الواحد.
 
-يجب قياس الترافيك المستعمل من قبل مستخدم فردي على مدى فترة طويلة من الزمن للسماح لهذا المستخدم بتحويل وقت استخدامه. Users tend to login, do many things at once, then logout. This means that their bandwidth over a short period of time may appear much higher than if viewed over a longer period of time. If the time window is stretched too far then the reserve ratio will not adjust fast enough to respond to short-term surges, if the window is too short then clustering usage will have too big of an impact on normal users.
+يجب قياس الترافيك المستعمل من قبل مستخدم فردي على مدى فترة طويلة من الزمن للسماح لهذا المستخدم بتحويل وقت استخدامه. المستخدمون يميلون إلى تسجيل الدخول،و يفعلون أشياء كثيرة في آن واحد، ثم يخروجون. وهذا يعني أن الترافيك على مدى فترة قصيرة قد يبدو أعلى بكثير مما لو عرض على مدى فترة طويلة من الزمن. If the time window is stretched too far then the reserve ratio will not adjust fast enough to respond to short-term surges, if the window is too short then clustering usage will have too big of an impact on normal users.
 
-In our estimate it should be sufficient to measure the average weekly bandwidth usage of users. Every time a user signs a transaction, that transaction is factored into their own individual moving average. Any time a user’s moving average exceeds the current network limit their transaction is delayed until their average falls below the limit.
+في تقديرنا يجب أن يكون كافيا لقياس متوسط استخدام الترافيك الأسبوعي للمستخدمين. في كل مرة يوقع فيها المستخدم على تحويل، يتم احتساب ذلك التحويل في المتوسط المتحرك الفردي الخاص به. Any time a user’s moving average exceeds the current network limit their transaction is delayed until their average falls below the limit.
 
 ### Impact of Capacity
 
