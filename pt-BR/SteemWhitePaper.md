@@ -202,13 +202,13 @@ Um homem estava andando pela praia e viu um outro homem pescando na maré com um
 
 "Porque você não cobre o balde de isca para que o caranguejos não escapem?", ele disse.
 
-"Você não entende.", o home respondeu, "Se existe apenas um caranguejo no balde ele com certeza iria sair de lá rapidamente. However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
+"Você não entende.", o home respondeu, "Se existe apenas um caranguejo no balde ele com certeza iria sair de lá rapidamente. Entretanto, quando existem muitos caranguejos no balde, se um tenta escalar pelo lado, os outros o seguram e o puxam de volta de forma que eles irão compartilhar o mesmo destino."
 
-So it is with people. If one tries to do something different, get better grades, improve herself, escape her environment, or dream big dreams, other people will try to drag her back down to share their fate.
+Assim é com as pessoas. Se alguém tenta fazer algo diferente, ter melhores notas, melhorar a si mesmo, escapar do seu ambiente, ou sonhar grandes sonhos, outras pessoas irão tentar puxá-las de volta para compartilhar o mesmo destino.
 
-Eliminating “abuse” is not possible and shouldn’t be the goal. Even those who are attempting to “abuse” the system are still doing work. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn’t so rampant that it undermines the incentive to do real work in support of the community and its currency.
+Eliminar o "abuso" não é possível e não deve ser o objetivo. Até aqueles que estão tentando "abusar" do sistema ainda estão realizando trabalho. Qualquer compensação que eles recebam pela tentativa bem sucedida de abuso ou coalizão é ao menos valiosa para o objetivo de distribuir a moeda assim como o sistema make-work empregado pela mineração tradicional do Bitcoin ou a mineração conspiratória realizada através dos grupos de mineração. Tudo que é necessário é garantir que o abuso não seja tão descontrolado que sabote o incentivo de realizar o trabalho real em apoio à comunidade e sua moeda.
 
-The goal of building a community currency is to get more “crabs in the bucket”. Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs sufficient power to prevent others from escaping.
+O objetivo de construir uma moeda da comunidade é colocar mais "caranguejos no balde". Utilizar medidas extremas para eliminar todo o abuso é como tentar colocar uma tampa no balde para evitar que alguns caranguejos fujam e tem o custo de tornar mais difícil adicionar novos caranguejos no balde. É suficiente que se faça as paredes escorregadias e dar aos outros caranguejos poder suficiente para evitar que outros escapem.
 
 ### Rate Limited Voting
 
