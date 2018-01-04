@@ -126,13 +126,13 @@ SBD نشان سٹیم ڈالرز کی پہچان کے لیے استعمال ہو
 
 اگر ٹوکن کو تمام ٹوکن سپلائی میں ملکیت کے طور پر تصور کیا جایے، تب ایک تبادلی ٹوکن کو قرضہ کے طور پر تصور کیا جائے گا. اگر ملکیت اور قرضے کا تناسب زیادہ ہوجائے اس صورت میں تمام کرنسی غیر مستحکم ہو سکتی ہے. متبادل قرضہ ڈرامائی انداز میں ٹوکن سپلائی بڈھا سکتا ہے، جسے بدلے میں بازار میں بیچا جا سکتا ہے اور قیمت کو دبا سکتا ہے. مزید تبادلوں کے لیے مزید ٹوکن اجراء کرنے کی ضرورت ہوگی. غیر پڑتال شدہ چھوڑ نظام پشتارہ قرض کے ایک پہاڑ بیکار کی ملکیت چھوڑ کر بوس ہو سکتے ہیں ۔. ملکیت کے تناسب میں اگر قرضہ زیادہ ہو اس صورت میں سرمایہ کار اس میں زیادہ دلچسپی نہیں لے گیں.
 
-سٹیم کی قیمت میں تیزی سے تبدیلی سے ڈرامائی طور پر قرضہ ملکیت میں تبدیل ہو سکتا ہے. بلاکچین قرضہ اور ملکیت کے تناسب کو سٹیام کی مقدار کو سٹیام ڈالرز کے زریعے کم کرنے سے روکتا ہے اگر قرضہ کی حد دس فیصد سے تجاوز کریں. If the amount of SBD debt ever exceeds 10% of the total STEEM market cap, the blockchain will automatically reduce the amount of STEEM generated through conversions to a maximum of 10% of the market cap. This ensures that the blockchain will never have higher than a 10% debt-to-ownership ratio.
+سٹیم کی قیمت میں تیزی سے تبدیلی سے ڈرامائی طور پر قرضہ ملکیت میں تبدیل ہو سکتا ہے. بلاکچین قرضہ اور ملکیت کے تناسب کو سٹیام کی مقدار کو سٹیام ڈالرز کے زریعے کم کرنے سے روکتا ہے اگر قرضہ کی حد دس فیصد سے تجاوز کریں. اگر سٹیم ڈالرز کا قرض مارکیٹ میں موجود کل سٹیام سے دس فیصد تجاوز کرتا ہے، بلاکچین خود بخود بنے ہوئے سٹیم کو کم کرے گا اور دس فیصد کی بازاری حد کو تجاوز کرنے نہی دے گا. اس سے اس بات کی تصدیق ہوتی ہے کہ قرضہ اور ملکیت میں دس فیصد سے زیادہ کا تناسب کبھی نہیں ہوگا.
 
 The percentage floors used to compute STEEM creation are based on the supply including the STEEM value of all outstanding SBD and SP (as determined by the current rate / feed).
 
-### Interest
+### سود
 
-SBD pays holders interest. The interest rate is set by the same people who publish the price feed so that it can adapt to changing market conditions. All debt carries risk to the lender. Someone who holds SBD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SBD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
+SBD ہولڈران کو سود ادا کرتا ہے. سود کی شرح ان ہی لوگوں کے زریعے طے کی جاتی ہے جو پرایز فیڈ کو شایع کرتے ہیں، جنہیں شاہد تاکہ یہ بازار کی بدلتی صورت حال کو اختیار کر سکے. All debt carries risk to the lender. Someone who holds SBD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SBD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
 
 STEEM and SP holders gain leverage when members of the community are willing to hold SBD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
 
