@@ -92,9 +92,9 @@
 
 استحکام عالمی اقتصادیات کی کامیابی کی ایک اہم خصوصیت ہے. استحکام کے بغیر، افراد دنیا بھر میں کم ادراکی اخراجات بچت و تجارت میں مشغول ہوئے نہیں کر سکتے. کیونکہ استحکام کامیاب اقتصادیات کی ایک اہم خصوصیت ہے، سٹیم ڈالرز کو کمیونٹی میں استحکام رکھنے کے غرض سے سٹیم نیٹورک میں افراد کے استعمال کے لیے رکھا گیا.
 
-سٹیم ڈالرز ردوبدل کیے ہوئے نوٹس کی طرح بنایے جاتے ہیں، لہٰذا جنہیں اکثر فنڈ سٹاٹپ کے لیے استعمال کیا جاتا ہے. شروعاتی دنیا میں، بدلنے والے نوٹس چھوٹے قرضہ والے اجزاء ہے جنہیں ملکیت کے لیے استعمال میں لایا جا سکتا ہے. ایک بلاکچین پر مبنی ٹوکن کو کمیونٹی میں ملکیت کے طور پر تصور کیا جا سکتا ہے جبکہ ایک متبادل نوٹ کو قرضہ یا کرنسی کے طور پر تصور کیا جا سکتا ہے. تبادلی نوٹ کے شرائط ٹوکن ہولڈر کو کم از کم منصفانہ بازار حاصل کرنے کے لیے ٹوکن کو پیچھے رکھنے کی اجازت دیتا ہے. Creating token-convertible-dollars enables blockchains to grow their network effect while maximizing the return for token holders.
+سٹیم ڈالرز ردوبدل کیے ہوئے نوٹس کی طرح بنایے جاتے ہیں، لہٰذا جنہیں اکثر فنڈ سٹاٹپ کے لیے استعمال کیا جاتا ہے. شروعاتی دنیا میں، بدلنے والے نوٹس چھوٹے قرضہ والے اجزاء ہے جنہیں ملکیت کے لیے استعمال میں لایا جا سکتا ہے. ایک بلاکچین پر مبنی ٹوکن کو کمیونٹی میں ملکیت کے طور پر تصور کیا جا سکتا ہے جبکہ ایک متبادل نوٹ کو قرضہ یا کرنسی کے طور پر تصور کیا جا سکتا ہے. تبادلی نوٹ کے شرائط ٹوکن ہولڈر کو کم از کم منصفانہ بازار حاصل کرنے کے لیے ٹوکن کو پیچھے رکھنے کی اجازت دیتا ہے. ڈالروں میں تبدیل ہونے والے ٹوکن بنانے سے بلاکچین کو اپنا جال بچھا نے میں مدد کرتا ہے اس دوران ٹوکن ہولڈران کی واپسی بڈھ جاتی ہے.
 
-Steem Dollars are referred to with the symbol SBD, an acronym for Steem Blockchain Dollars. Creating SBD requires a combination of a reliable price feed, and rules to prevent abuse. Providing a reliable price feed involves three factors: minimizing the impact of an incorrect feed, maximizing the cost of producing an incorrect feed, and minimizing the importance of timing.
+SBD نشان سٹیم ڈالرز کی پہچان کے لیے استعمال ہوتا ہے، سٹیم بلاکچین ڈالر کے لیے مخفف. کک سٹیم ڈالرز کو بنانے کے لیےاورغلط استعمال کو روکنے کے لیے ایک صحیح قیمت اور قواعد و ضوابط کی ضرورت ہے. Providing a reliable price feed involves three factors: minimizing the impact of an incorrect feed, maximizing the cost of producing an incorrect feed, and minimizing the importance of timing.
 
 ### Minimizing Fraudulent Feeds
 
