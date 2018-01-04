@@ -98,7 +98,7 @@ SBD نشان سٹیم ڈالرز کی پہچان کے لیے استعمال ہو
 
 ### فریبی فیڈ کو کم کرنا
 
-پرایز فیڈ کو شایع سٹیم پاور ہولڈران افراد کو منتخب کرتے ہیں، جنہیں شاہد کہتے ہیں. The elected witnesses are presumably trusted by those who have a vested interest in the quality of the feed. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
+پرایز فیڈ کو شایع سٹیم پاور ہولڈران افراد کو منتخب کرتے ہیں، جنہیں شاہد کہتے ہیں. منتخب شدہ شواہد پر ان لوگوں کی طرف سے اعتماد جتایا جاتا ہے جن کو مواد کےمعیار میں دلچسپی ہو. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
 
 Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
 
