@@ -212,9 +212,9 @@ O objetivo de construir uma moeda da comunidade é colocar mais "caranguejos no 
 
 ### Taxa de Votação Limitada
 
-A major part of minimizing abuse is the rate-limiting of voting. Individual users can only read and evaluate so many work items per day. Any attempt to vote more frequently than this is a sign of automation and potential abuse. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
+Uma parte importante para minimizar o abuso é a taxa limitante de votação. Usuários individuais apenas conseguem ler e avaliar uma certa quantidade de itens de trabalho por dia. Qualquer tentativa de votar com mais frequência é um sinal de automação e abuso em potencial. Através de uma taxa de limite, os participantes que votam com mais frequência tem a contagem de votos menor que os participantes que votam com menos frequência. Tentativa de dividir os tokens em várias contas também dividem a influência e portanto não resultam em um aumento líquido na influência nem ultrapassam a taxa-limite imposta à votação.
 
-Users are allotted a fixed amount of voting power. Voting power is multiplied by a user’s vesting tokens to determine how much share in the reward pool should be allocated to a given work item. Every vote that is cast uses a percentage of remaining voting power. Users can vote for more posts, but each vote will be worth less, and it will take longer to reach full voting power again. Voting power recharges at a fixed linear rate of 20% per day.
+Os usuários são contemplados com uma quantidade fixa de poder de votação. O poder de votação é multiplicado pelos tokens investidos do usuário para determinar qual parcela da recompensa do estoque deverá ser alocada para um determinado item de trabalho. Cada voto que é lançado utiliza um percentual do poder de votação restante. Usuários podem votar em mais publicações, mas cada voto a mais terá um valor menor, e irá demorar mais para alcançar o poder total de votação novamente. O poder de votação recarrega a uma taxa linear de 20% ao dia.
 
 ### Payout Distribution
 
