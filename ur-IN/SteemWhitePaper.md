@@ -80,7 +80,7 @@
 
 کرپٹوکرنسی کی جگہ میں، سپکلیورس کرپٹوکرنسی سے کرپٹوکرنسی پر چھلانگ لگاتے ہیں جس میں قلیل بڈھاوا ہونے کی توقع ہے. سٹیم ایک ایسی کمیونیٹی تشکیل دینا چاہتا ہے جو اکثر طویل المیعاد نقطہ نظر رکھنے والوں کے کنٹرول میں رہے.
 
-صارفین سٹیم پلیٹ فارم سے زیادہ فوائد حاصل کرنے کے لیے اپنے STEEM کو تیرہ ہفتوں کے لیے جمع کرنے کا عزم کر سکتے ہیں. سٹیم جسے بدلنے کے لئے تیرہ ہفتوں کے لیے رکھنے کا عزم کرنا پڈتا ہے اسے سٹیم پاور (SP). کہتے ہیں. SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
+صارفین سٹیم پلیٹ فارم سے زیادہ فوائد حاصل کرنے کے لیے اپنے STEEM کو تیرہ ہفتوں کے لیے جمع کرنے کا عزم کر سکتے ہیں. سٹیم جسے بدلنے کے لئے تیرہ ہفتوں کے لیے رکھنے کا عزم کرنا پڈتا ہے اسے سٹیم پاور (SP). کہتے ہیں. سٹیم پاور بیلنس کو نہ تقسیم کیا جا سکتا ہے اور نا ہی منتقل کیا جا سکتا ہے سوا ازخود ہونے والی متبادل درخواستوں سے. اس کا مطلب ہے کہ سٹیم پاور آسانی سے کریپٹکوررانسی ایکسچینج پر تجارت نہیں ہو سکتا.
 
 جب صارفین مواد پر ووٹ کرتے ہیں، لہٰذا انعامات تقسیم کرنے کے عمل میں ان کے ووٹ کی قیمت براہ راست ان کے سٹیم پاور سے ہے. انعامات کی تقسیم میں ان صارفین کا زیادہ اثر رہتا ہے جن کے پاس زیادہ سٹیم پاور ہوگا. اس کا مطلب ہے کہ سٹیم پاور ایک رسائی ٹوکن ہے جو اس کے حاملین کے پلیٹ فارم پر سٹیام کے اندر خصوصی اختیارات دیتا ہے ۔.
 
@@ -104,9 +104,9 @@ SBD نشان سٹیم ڈالرز کی پہچان کے لیے استعمال ہو
 
 تمام فیڈ بنانے والے اگر ایماندار بھی ہوں، یہ اکثر فیڈ بنانے کے لیے ممکن ہے کہ ان واقعات سے اثر انداز ہونا جو ان کے کنٹرول میں نہیں ہے. سٹیم نیٹورک کو قلیل مدتی کرپشن کو پرایز فیڈ میڈین میں برداشت کرنے کے لیے ڈیزائن کیا گیا ہے جہاں کمیونٹی فعل میں معاملات حل کرتا ہے. ایک مسئلہ جو ٹھیک کرنے کے لئے کچھ نہیں ہی وقت لگ سکتا ہے اس کی ایک مثال قلیل مدتی مارکیٹ کا استحصال ہے ۔. مارکیٹ ہیرا پھیری مشکل اور اسے طویل مدت کیلئے برقرار رکھنا مہنگا ہے ۔. ایک اور مثال کے طور پر ایک مرکزی ایکسچینج کی ناکامی یا ایکسچینج کی طرف سے شائع کردہ ڈاٹا کی کرپشن.
 
-Steem factors out short-term price fluctuations by using the median price over a period of three and a half days. The median published feed is sampled every hour on the hour.
+سٹیم قلیل مدتی قیمتی اتار چڈھاو کو میڈین پرایز کے استعمال سے باہر کرتا ہے ساڈھے تین دن میں میڈین سے شائع شدہ فیڈ ہر ایک گھنٹہ کے بعد سیمپل کیا جاتا ہے.
 
-As long as the price feed corruption lasts for less than half the moving median time window it will have minimal impact on the conversion price. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
+جب تک پرایز فیڈ کرپشن چلتی ہے چلتے ہوئے میڈین کا کم از کم اثر تبادلہ قیمت پر ہوگا. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
 
 With a three and a half day window, community members have approximately one and a half days to respond to any issues that come up.
 
