@@ -222,17 +222,17 @@ Um dos objetivos primários do sistema de recompensa do Steem é produzir a melh
 
 A distribuição atual ira depender do padrão de votação dos usuários, mas nós suspeitamos que a grande maioria das recompensas serão distribuídos para os conteúdos mais populares.
 
-Zipf’s Law[^7] is one of those empirical rules that characterize a surprising range of real-world phenomena remarkably well. It says that if we order some large collection by size or popularity, the second element in the collection will be about half the measure of the first one, the third one will be about one-third the measure of the first one, and so on. In general, the k th-ranked item will measure about 1/k of the first one.
+A Lei de Zipf[^7] é uma dessas r\egras empíricas que caracteriza uma gama surpreendente de fenômenos do mundo real notávelmente bem. Ela diz que se nós pedirmos um grande conjunto por tamanho ou popularidade, o segundo elemento no conjunto terá metade da medida do primeiro, o terceiro terá um terço da medida do primeiro, e assim sucessivamente. Em geral, o item de posição k terá uma medida de cerca de 1/k do primeiro.
 
 ![](\img_the_new_marketplace.png)
 
-Taking popularity as a rough measure of value, then the value of each individual item is given by Zipf’s Law. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
+Considerando a popularidade como uma medida bruta de valor, então o valor de cada item individual é dado pela Lei de Zipf. Isso é, se tivermos um milhão de itens, os 100 mais populares irão contribuir com um terço do valor total, os próximos 10.000 outro terço, o os 989.900 restantes com o terço final. O valor do conjunto de n itens é proporcional ao log(n).
 
-The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
+O impacto dessa distribuição de votação e pagamento é oferecer grandes recompensas para bons conteúdos enquanto ainda recompensa pequenos jogadores pela sua contribuição no final da linha.
 
-The economic effect of this is similar to a lottery where people overestimate their probability of getting votes and thus do more work than the expected value of their reward and thereby maximize the total amount of work performed in service of the community. The fact that everyone “wins something” plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
+O efeito econômico disso é similar à loteria aonde as pessoas superestimam a sua probabilidade de receber votos e assim realizam um trabalho maior que o valor esperado da sua recompensa e assim maximizam o trabalho total realizado em serviço da comunidade. O fato de que todos "ganham alguma coisa" usam a mesma psicologia que os casinos utilizam para manter as pessoas apostando. Em outras palavras, pequenas recompensas ajudam a reforçar a idéia de que é possível receber maiores recompensas.
 
-### Payouts
+### Pagamentos
 
 When a post receives a payout it takes the form of 50% SBD and 50% SP. The Steem Power give the user increased voting and transaction power while the SBD gives the user an immediate benefit in a stable currency. As we’ve already discussed at length, SP is designed to encourage long-term holding rather than short-term selling. This encourages more users to have a vested interest in the long-term success of the platform.
 
