@@ -108,11 +108,11 @@ SBD نشان سٹیم ڈالرز کی پہچان کے لیے استعمال ہو
 
 جب تک پرایز فیڈ کرپشن چلتی ہے چلتے ہوئے میڈین کا کم از کم اثر تبادلہ قیمت پر ہوگا. کبھی کبھار فیڈ کرپٹ ہوجاتا ہے، نیٹورک شراکت داروں کے پاس اسکو اپنا ووٹ نا دینے کا موقع ہوتا ہے جب تک کہ وہ اپنا اصل اثر کنورش پرایز پر ڈال دے. بےشک زیادہ اہم ہے کہ، یہ فیڈ پروڈیوسرز کو صحیح مصلح جانچ کرنے کا موقع دیتا ہے اس سے پہلے قیمت پر اپنا اثر ڈالنا شروع کریں.
 
-With a three and a half day window, community members have approximately one and a half days to respond to any issues that come up.
+ساڈھے تین دن کے وقت میں سے کمیونیٹی ممبران کے پاس ڈیڈھ دن کا وقت ہوتا ہے مسائل کا جواب دینے کے لیے.
 
-### Mitigating Timing Attacks
+### تساوی وقت کے حملوں کی شدّت کم کرنا
 
-Market participants have access to information faster than the blockchain’s three and a half day moving median conversion price can react. This information could be used to benefit of traders at the expense of the community. If there is a sudden increase in the value of STEEM traders could request conversion of their SBD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
+بلاکچاان کی معلومات تک رسائی حاصل کرنے کے لیے مارکیٹ شرکاء کو تیزی سے حرکت پذیر اوسط تبدیلی کی قیمت ساڑھے تین دن رد عمل کا اظہار کر سکتے ہیں. تجارت کاروں کو فائدہ پہنچانے کے لیے ان معلومات کو استعمال کیا جا سکتا ہے. سٹیم کی قیمت میں اچانک چڈھاو سے تجارت کار سٹیم ڈالرز کو بدلنے کی درخواست کر سکتے اور پھر بغیر کسی خطرہ کے اچھی قیمت میں بیچ سکتے ہیں.
 
 Steem levels the playing field by requiring all conversion requests to be delayed for three and a half days. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
 
