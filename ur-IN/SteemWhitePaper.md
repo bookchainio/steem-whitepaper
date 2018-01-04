@@ -114,9 +114,9 @@ SBD نشان سٹیم ڈالرز کی پہچان کے لیے استعمال ہو
 
 بلاکچاان کی معلومات تک رسائی حاصل کرنے کے لیے مارکیٹ شرکاء کو تیزی سے حرکت پذیر اوسط تبدیلی کی قیمت ساڑھے تین دن رد عمل کا اظہار کر سکتے ہیں. تجارت کاروں کو فائدہ پہنچانے کے لیے ان معلومات کو استعمال کیا جا سکتا ہے. سٹیم کی قیمت میں اچانک چڈھاو سے تجارت کار سٹیم ڈالرز کو بدلنے کی درخواست کر سکتے اور پھر بغیر کسی خطرہ کے اچھی قیمت میں بیچ سکتے ہیں.
 
-Steem levels the playing field by requiring all conversion requests to be delayed for three and a half days. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
+ساڑھے تین دنوں کی تاخیر کے لیے سٹیم کھیل کے میدان کو برابر کرتا ہے ۔. اس کا مطلب نہ تجارت کاروں کو اور نہ ہی بلاکچین کو قیمت کے تبادلے کا معلوماتی فائدہ ہے.
 
-### Minimizing Abuse of Conversions
+### مذہب کے غلط استعمال کو کم سے کم کرنا
 
 If people could freely convert in both directions then traders could take advantage of the blockchains conversion rates by trading large volumes without changing the price. Traders who see a massive run up in price would convert to SBD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SBD to STEEM and not the other way around.
 
