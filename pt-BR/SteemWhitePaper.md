@@ -210,7 +210,7 @@ Eliminar o "abuso" não é possível e não deve ser o objetivo. Até aqueles qu
 
 O objetivo de construir uma moeda da comunidade é colocar mais "caranguejos no balde". Utilizar medidas extremas para eliminar todo o abuso é como tentar colocar uma tampa no balde para evitar que alguns caranguejos fujam e tem o custo de tornar mais difícil adicionar novos caranguejos no balde. É suficiente que se faça as paredes escorregadias e dar aos outros caranguejos poder suficiente para evitar que outros escapem.
 
-### Rate Limited Voting
+### Taxa de Votação Limitada
 
 A major part of minimizing abuse is the rate-limiting of voting. Individual users can only read and evaluate so many work items per day. Any attempt to vote more frequently than this is a sign of automation and potential abuse. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
 
