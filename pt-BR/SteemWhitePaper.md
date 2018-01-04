@@ -180,13 +180,13 @@ Para permitir que todos tenham uma oportunidade igual de se envolver e ganhar a 
 
 O primeiro passo em recompensar milhares de usuários é se comprometer a distribuir uma quantidade fixa de moeda independente de quanto trabalho é realizado ou de como os usuários votam. Isso altera a questão de *"Devemos pagar?"* para *"Para quem devemos pagar?"* e sinaliza para o mercado que o dinheiro está sendo distribuído e esta em leilão para quem "der o lance" no maior *trabalho*. Isso é similar ao Bitcoin se comprometendo a recompensar 50 BTC para quem encontrar os hashes mais difíceis. Como o Bitcoin, todo o trabalho deve ser realizado antes do pagamento e nada deverá ser pago sobre a especulação da promessa de realizar trabalho no futuro.
 
-O próximo passo é recompensar todos que fizerem qualquer coisa remotamente positiva com *alguma coisa*. Isso é conseguido através da classificação de todo o trabalho realizado e a distribuição proporcional ao seu valor. The more competitive the market becomes, the more difficult (higher quality or quantity) it becomes to earn the same payout.
+O próximo passo é recompensar todos que fizerem qualquer coisa remotamente positiva com *alguma coisa*. Isso é conseguido através da classificação de todo o trabalho realizado e a distribuição proporcional ao seu valor. Quanto mais competitivo o mercado se torna, mais difícil (maior qualidade ou quantidade) se torna de receber o mesmo pagamento.
 
-### Voting on Distribution of Currency
+### Votando na Distribuição da Moeda
 
-Assume there is a fixed amount of money to distribute, and that those who have a long-term vested interest in the future value and utility of the currency are the ones who must decide how to allocate it. Every vesting user casts their votes on who did the best work and at the end of the day the available money for that day is divided proportional to the votes such that everyone with even one net positive vote gets something.
+Considere que existe uma quantidade fixa de dinheiro para ser distribuído, e aqueles que tem um interesse no investimento de longo prazo no valor futuro e utilidade da moeda são aqueles que devem decidir como aloca-lo. Todo usuário investido lança os seus votos naqueles que fizeram o melhor trabalho e no fim do dia o dinheiro disponível para aquele dia é dividido proporcionalmente aos votos de forma que todos que tenham ao menos um voto positivo líquido recebe alguma coisa.
 
-The naive voting process creates a N-Person Prisoner’s Dilemma[^5] whereby each individual voter has incentive to vote for themselves at the expense of the larger community goal. If every voter defects by voting for themselves then no currency will end up distributed and the currency as a whole will fail to gain network effect. On the other hand, if only one voter defects then that voter would win undeserved profits while having minimal effect on the overall value of the currency.
+O processo ingênuo de votação cria um Dilema do Prisioneiro de N-Pessoas[^5] aonde cada votante individual tem o incentivo de votar para eles mesmos ao custo do objetivo maior da comunidade. Se todos os votantes deserdam apenas votando para eles mesmos então nenhuma moeda será distribuída e a moeda como um todo irá falhar em ganhar um efeito de rede. Por outro lado, se apena um votante deserda então aquele votante iria ganhar lucros não merecidos enquanto tem um efeito mínimo no valor geral da moeda.
 
 #### Voting Abuse
 
