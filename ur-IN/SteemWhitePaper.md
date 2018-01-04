@@ -106,7 +106,7 @@ SBD نشان سٹیم ڈالرز کی پہچان کے لیے استعمال ہو
 
 سٹیم قلیل مدتی قیمتی اتار چڈھاو کو میڈین پرایز کے استعمال سے باہر کرتا ہے ساڈھے تین دن میں میڈین سے شائع شدہ فیڈ ہر ایک گھنٹہ کے بعد سیمپل کیا جاتا ہے.
 
-جب تک پرایز فیڈ کرپشن چلتی ہے چلتے ہوئے میڈین کا کم از کم اثر تبادلہ قیمت پر ہوگا. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
+جب تک پرایز فیڈ کرپشن چلتی ہے چلتے ہوئے میڈین کا کم از کم اثر تبادلہ قیمت پر ہوگا. کبھی کبھار فیڈ کرپٹ ہوجاتا ہے، نیٹورک شراکت داروں کے پاس اسکو اپنا ووٹ نا دینے کا موقع ہوتا ہے جب تک کہ وہ اپنا اصل اثر کنورش پرایز پر ڈال دے. بےشک زیادہ اہم ہے کہ، یہ فیڈ پروڈیوسرز کو صحیح مصلح جانچ کرنے کا موقع دیتا ہے اس سے پہلے قیمت پر اپنا اثر ڈالنا شروع کریں.
 
 With a three and a half day window, community members have approximately one and a half days to respond to any issues that come up.
 
