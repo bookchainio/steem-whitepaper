@@ -216,11 +216,11 @@ Uma parte importante para minimizar o abuso é a taxa limitante de votação. Us
 
 Os usuários são contemplados com uma quantidade fixa de poder de votação. O poder de votação é multiplicado pelos tokens investidos do usuário para determinar qual parcela da recompensa do estoque deverá ser alocada para um determinado item de trabalho. Cada voto que é lançado utiliza um percentual do poder de votação restante. Usuários podem votar em mais publicações, mas cada voto a mais terá um valor menor, e irá demorar mais para alcançar o poder total de votação novamente. O poder de votação recarrega a uma taxa linear de 20% ao dia.
 
-### Payout Distribution
+### Distribuição de Pagamento
 
-One of the primary goals of Steem’s reward system is to produce the best discussions on the internet. Each and every year 75% of the yearly inflation is distributed to users submitting, voting on, and discussing content. At the size of Bitcoin this could be several million dollars per day being given to the top contributors.
+Um dos objetivos primários do sistema de recompensa do Steem é produzir a melhor discussão na internet. A cada ano 75% da inflação anual é distribuída para usuários enviando, votando e discutindo conteúdo. No tamanho do Bitcoin isso poderia ser alguns milhões por dia sendo dados aos maiores contribuidores.
 
-The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content.
+A distribuição atual ira depender do padrão de votação dos usuários, mas nós suspeitamos que a grande maioria das recompensas serão distribuídos para os conteúdos mais populares.
 
 Zipf’s Law[^7] is one of those empirical rules that characterize a surprising range of real-world phenomena remarkably well. It says that if we order some large collection by size or popularity, the second element in the collection will be about half the measure of the first one, the third one will be about one-third the measure of the first one, and so on. In general, the k th-ranked item will measure about 1/k of the first one.
 
