@@ -120,9 +120,9 @@ SBD نشان سٹیم ڈالرز کی پہچان کے لیے استعمال ہو
 
 اگر تاجر بلاکچینس کا فائدہ اٹھاتے ہوئے تبدیلی کی شرح بڑی جلدی قیمت کو تبدیل کرے گیں بغیر کی طرف سے تجارت کر تے ہیں اور پھر لوگ آزادانہ طور پر دونوں سمتوں میں تبدیل کر سکتے ہیں ۔. تاجروں کو جو بڑے پیمانے پر دوڑ میں قیمت دیکھ رہا ہوں (یہ سب سے زیادہ خطرناک ہے جب) کو بد کی اعلی قیمت پر میں تبدیل کرے گا اور پھر تصحیح کے بعد واپس تبدیل ۔. سٹیم پروٹوکول کمیونٹی کو اس قسم کی بد تہذیبی سے بچاتا ہے یہ لوگوں کو صرف سٹیم ڈالرز کو سٹیام پاور میں تبدیل کرنے کے علاوہ اور کوئی اجازت نہیں دیتا.
 
-The blockchain decides how and when to create SBD and who should get it. This keeps the rate of SBD creation stable and removes most avenues of abuse.
+یہ بلاکچین فیصلہ کرتی ہے کہ کب اور کیسے SBD بنانے ہے اور انہیں کسے لینا چاہیے، اس سے SBD کی قیمت مستحکم رہتی ہے اور بدتہذیبی کے واقعات کو باہر نکالتا ہے.
 
-### Sustainable Debt to Ownership Ratios
+### پائیدار قرض کی ملکیت تناسب
 
 If a token is viewed as ownership in the whole supply of tokens, then a token-convertible-dollar can be viewed as debt. If the debt to ownership ratio gets too high the entire currency can become unstable. Debt conversions can dramatically increase the token supply, which in turn is sold on the market suppressing the price. Subsequent conversions require the issuance of even more tokens. Left unchecked the system can collapse leaving worthless ownership backing a mountain of debt. The higher the debt to ownership ratio becomes the less willing new investors are to bring capital to the table.
 
