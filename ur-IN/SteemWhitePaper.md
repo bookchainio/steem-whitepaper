@@ -138,11 +138,11 @@ SBD ہولڈران کو سود ادا کرتا ہے. سود کی شرح ان ہ�
 
 ### قیمت سیٹ کرنا
 
-قارئین اس بات کو پہچان لیں گے کہ محدود سپلائی کا دلچسپ اساسہ دوسرے ساتھ میں کھڈے اساسے سے کم یا زیادہ تجارت کرے گا اس کا انحصار دوسرے مواقع سے اسی اساسہ میں دلچسپی پیدا کرنا ہے. امریکی ڈالر سے منسلک سب سے زیادہ سود لوگ قطار میں کھڈے ہونگے جب تک کہ نہ سٹیم ڈالر کی قیمت ایک امریکی ڈالر تک پہنچ جایے. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
+قارئین اس بات کو پہچان لیں گے کہ محدود سپلائی کا دلچسپ اساسہ دوسرے ساتھ میں کھڈے اساسے سے کم یا زیادہ تجارت کرے گا اس کا انحصار دوسرے مواقع سے اسی اساسہ میں دلچسپی پیدا کرنا ہے. امریکی ڈالر سے منسلک سب سے زیادہ سود لوگ قطار میں کھڈے ہونگے جب تک کہ نہ سٹیم ڈالر کی قیمت ایک امریکی ڈالر تک پہنچ جایے. معاشیات میں ایک اصول جسے نا ممکن ٹرنٹی سے جانا جاتا ہے [^4] جو یہ کہتا ہے کہ مندرجہ ذیل تین چیزوں کو بیک وقت کرنا ناممکن ہے:
 
-1. A stable exchange rate
-2. Free capital movement
-3. An independent monetary policy
+1. ایک مستحکم ایکسچینج قیمت
+2. مفت کیپٹل مومنٹ
+3. ایک آزاد مونیٹری پالسی
 
 If Steem feed producers aim to have an independent monetary policy allowing it to create and destroy Steem Dollars while simultaneously having full control over the interest rate then they will encounter problems. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
 
