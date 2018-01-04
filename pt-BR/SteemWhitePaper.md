@@ -192,17 +192,17 @@ O processo ingênuo de votação cria um Dilema do Prisioneiro de N-Pessoas[^5] 
 
 Independente de quanto dinheiro um indivíduo tem, sempre haverá muitos outro indivíduos com uma riqueza semelhante. Mesmo o indivíduo mais rico raramente têm muito mais que o próximo par de riquezas combinadas. Além disso, aqueles que tem um grande investimento em uma comunidade também tem mais a perder ao tentar manipular o sistema de votação para eles mesmos. Seria como se o CEO de uma companhia decidisse parar de pagar os salários para que ele pudesse embolsar todo o lucro. Todos sairiam para trabalhar em outras empresas e a empresa se tornaria inútil, deixando o CEO na falência ao invés de mais rico.
 
-Felizmente, qualquer trabalho que está recebendo uma grande concentração de votos também está recebendo o maior escrutínio (publicidade). Through the addition of *negative-voting* it is possible for many smaller stakeholders to nullify the voting power of collusive groups or defecting large stakeholders. Furthermore, large-stakeholders have more to lose if the currency falls in value due to abuse than they might gain by voting for themselves. In fact, honest large stakeholders are likely to be more effective by policing abuse and using negative voting than they would be by voting for smaller contributions.
+Felizmente, qualquer trabalho que está recebendo uma grande concentração de votos também está recebendo o maior escrutínio (publicidade). Através da adição de *votação-negativa* é possível para um pequeno número de partes interessadas anular o poder de votação de grupos de coalisão ou partes interessadas desertoras. Além disso, grandes partes interessadas tem mais a perder se a moeda perder valor devido ao abuso do que eles tem a ganhar através de votação em si mesmo. Na verdade, grandes partes interessadas honestas provavelmente serão mais efetivos ao policiar o abuso e utilizando votação negativa do que eles teriam votando em pequenas contribuições.
 
-The use of *negative-voting* to keep people from abusing the system leverages the *crab mentality* that many people have when it is perceived that one individual is profiting at the expense of everyone else. While crab mentality normally refers to short-sighted people keeping good people down, it is also what allows good people to keep bad people down. The only “problem” with crab mentality is when people *wrongly believe* someone is profiting at everyone else's expense.
+O uso de *votação negativa* para evitar que pessoas abusem do sistema alavancam a *mentalidade do caranguejo* que muitas pessoas tem quando é percebido que um indivíduo está lucrando às custas dos outros. Enquanto a mentalidade do caranguejo normalmente se refere a pessoas com visão limitada mantendo boas pessoas por baixo, é também o que permite que boas pessoas mantenham pessoas ruins por baixo. O único problema com a mentalidade do caranguejo é quando pessoas *acreditam errôneamente* que alguém está lucrando às custas de todos os outros.
 
-**The Story of the Crab Bucket**[^6]
+**A História do balde de caranguejos**[^6]
 
-A man was walking along the beach and saw another man fishing in the surf with a bait bucket beside him. As he drew closer, he saw that the bait bucket had no lid and had live crabs inside.
+Um homem estava andando pela praia e viu um outro homem pescando na maré com um balde de iscas ao seu lado. Ao se aproximar, ele viu que o balde de iscas não tinha tampa e tinha caranguejos vivos dentro.
 
-"Why don't you cover your bait bucket so the crabs won't escape?", he said.
+"Porque você não cobre o balde de isca para que o caranguejos não escapem?", ele disse.
 
-"You don't understand.", the man replied, "If there is one crab in the bucket it would surely crawl out very quickly. However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
+"Você não entende.", o home respondeu, "Se existe apenas um caranguejo no balde ele com certeza iria sair de lá rapidamente. However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
 
 So it is with people. If one tries to do something different, get better grades, improve herself, escape her environment, or dream big dreams, other people will try to drag her back down to share their fate.
 
