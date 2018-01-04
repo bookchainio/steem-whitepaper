@@ -118,7 +118,7 @@ SBD نشان سٹیم ڈالرز کی پہچان کے لیے استعمال ہو
 
 ### مذہب کے غلط استعمال کو کم سے کم کرنا
 
-If people could freely convert in both directions then traders could take advantage of the blockchains conversion rates by trading large volumes without changing the price. Traders who see a massive run up in price would convert to SBD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SBD to STEEM and not the other way around.
+اگر تاجر بلاکچینس کا فائدہ اٹھاتے ہوئے تبدیلی کی شرح بڑی جلدی قیمت کو تبدیل کرے گیں بغیر کی طرف سے تجارت کر تے ہیں اور پھر لوگ آزادانہ طور پر دونوں سمتوں میں تبدیل کر سکتے ہیں ۔. تاجروں کو جو بڑے پیمانے پر دوڑ میں قیمت دیکھ رہا ہوں (یہ سب سے زیادہ خطرناک ہے جب) کو بد کی اعلی قیمت پر میں تبدیل کرے گا اور پھر تصحیح کے بعد واپس تبدیل ۔. سٹیم پروٹوکول کمیونٹی کو اس قسم کی بد تہذیبی سے بچاتا ہے یہ لوگوں کو صرف سٹیم ڈالرز کو سٹیام پاور میں تبدیل کرنے کے علاوہ اور کوئی اجازت نہیں دیتا.
 
 The blockchain decides how and when to create SBD and who should get it. This keeps the rate of SBD creation stable and removes most avenues of abuse.
 
