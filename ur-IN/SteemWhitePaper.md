@@ -100,9 +100,9 @@ SBD نشان سٹیم ڈالرز کی پہچان کے لیے استعمال ہو
 
 پرایز فیڈ کو شایع سٹیم پاور ہولڈران افراد کو منتخب کرتے ہیں، جنہیں شاہد کہتے ہیں. منتخب شدہ شواہد پر ان لوگوں کی طرف سے اعتماد جتایا جاتا ہے جن کو مواد کےمعیار میں دلچسپی ہو. منتخبہ افراد کو ادا کرنے سے، سٹیم بازار میں فیڈ بنانے کا مقابلہ پیدا کرتا ہے. فیڈ پرڈوسدز کو جتنا زیادہ ادا کیا جاتا ہے غلط معلومات چھاپنے سے اتنا ہی نقصان اٹھانا پڈے گا.
 
-Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
+قابل اعتبار اور منتخب فیڈ پروڈیوسرز کی ایک سیٹ دیا، تحویل کے لئے استعمال کی اصل قیمت فیڈ کی شاہراہوں کے طور پر اخذ ہو کر سکتے ہیں ۔. کسی بھی اقلیتی انفرادی فیڈ پروڈیوسرز کی اٹلاارس پیدا تو اس طرح وہ کم سے کم اثر اصل شاہراہوں پر اب بھی کی صلاحیت ان کی ساکھ پر اثر انداز ہوئے ہیں ۔.
 
-Even if all feed producers are honest, it is possible for the majority of feed producers to be impacted by events beyond their control. The Steem network is designed to tolerate short-term corruption of the median price feed while the community actively works to correct the issue. One example of an issue that may take some time to correct is short-term market manipulation. Market manipulation is difficult and expensive to maintain for long periods of time. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
+تمام فیڈ بنانے والے اگر ایماندار بھی ہوں، یہ اکثر فیڈ بنانے کے لیے ممکن ہے کہ ان واقعات سے اثر انداز ہونا جو ان کے کنٹرول میں نہیں ہے. The Steem network is designed to tolerate short-term corruption of the median price feed while the community actively works to correct the issue. One example of an issue that may take some time to correct is short-term market manipulation. Market manipulation is difficult and expensive to maintain for long periods of time. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
 
 Steem factors out short-term price fluctuations by using the median price over a period of three and a half days. The median published feed is sampled every hour on the hour.
 
