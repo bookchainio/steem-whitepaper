@@ -234,13 +234,13 @@ O efeito econômico disso é similar à loteria aonde as pessoas superestimam a 
 
 ### Pagamentos
 
-When a post receives a payout it takes the form of 50% SBD and 50% SP. The Steem Power give the user increased voting and transaction power while the SBD gives the user an immediate benefit in a stable currency. As we’ve already discussed at length, SP is designed to encourage long-term holding rather than short-term selling. This encourages more users to have a vested interest in the long-term success of the platform.
+Quando uma publicação recebe um pagamento, ele acontece na forma de 50% SBD e 50% SP. O Poder Steem dá ao usuário maior poder de voto e transação enquanto o SD dá ao usuário um beneficio imediato em uma moeda estável. Como já discutimos extensivamente, o SP é projetado para encorajar a guarda em longo prazo ao invés de venda a curto prazo. Isso encoraja mais usuários a ter interesse investido no sucesso a longo prazo da plataforma.
 
-Users also have the option to be paid in 100% SP, as well as decline payout on posts. When a user declines payout on a post, the money that would have been paid to them remains in the rewards pool, to be distributed to other users.
+Os usuários também tem a opção de ser pagos em 100% SP, assim como rejeitar o pagamento das publicações. Quando um usuário rejeita o pagamento em uma publicação, o dinheiro que seria pago a eles continua no conjunto de recompensas, para ser distribuído para outros usuários.
 
-# Consensus Algorithm
+# Algoritmo de Consenso
 
-Consensus is the process by which a community comes to a universally recognized, unambiguous agreement on piece of information. There are many algorithms society has developed for reaching consensus about who owns what. Every government on earth is a primitive consensus algorithm whereby the population agrees to abide by a certain set of rules enshrined in a constitution. Governments establish courts, judges, and juries to interpret the subjective facts and render a final decision. Most of the time people abide by the decision even if it was wrong.
+Consenso é o processo pelo qual uma comunidade chega um acordo não-ambíguo, universalmente reconhecido sobre um pedaço de informação. There are many algorithms society has developed for reaching consensus about who owns what. Every government on earth is a primitive consensus algorithm whereby the population agrees to abide by a certain set of rules enshrined in a constitution. Governments establish courts, judges, and juries to interpret the subjective facts and render a final decision. Most of the time people abide by the decision even if it was wrong.
 
 The algorithms used by cryptocurrencies provide a better way to reach consensus. Cryptographically signed testimony from individuals is recorded in a public ledger that establishes the absolute global order of events. A deterministic computer algorithm can then process this ledger to derive a universally accepted conclusion. So long as the members of a community agree on the processing algorithm, the result of the algorithm is authoritative.
 
