@@ -132,7 +132,7 @@ The percentage floors used to compute STEEM creation are based on the supply inc
 
 ### سود
 
-SBD ہولڈران کو سود ادا کرتا ہے. سود کی شرح ان ہی لوگوں کے زریعے طے کی جاتی ہے جو پرایز فیڈ کو شایع کرتے ہیں، جنہیں شاہد تاکہ یہ بازار کی بدلتی صورت حال کو اختیار کر سکے. طمام قرضہ کا خطرہ دینے والے کو ہوتا ہے. Someone who holds SBD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SBD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
+SBD ہولڈران کو سود ادا کرتا ہے. سود کی شرح ان ہی لوگوں کے زریعے طے کی جاتی ہے جو پرایز فیڈ کو شایع کرتے ہیں، جنہیں شاہد تاکہ یہ بازار کی بدلتی صورت حال کو اختیار کر سکے. طمام قرضہ کا خطرہ دینے والے کو ہوتا ہے. کوئی جس کے پاس سٹیم ڈالرز پڈے ہو وہ اسے کمیونٹی کے لیے موثر طور پر دے سکتا ہے. They are trusting that at some point in the future someone will be willing to buy the SBD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
 
 STEEM and SP holders gain leverage when members of the community are willing to hold SBD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
 
