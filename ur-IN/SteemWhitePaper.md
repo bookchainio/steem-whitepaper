@@ -94,11 +94,11 @@
 
 سٹیم ڈالرز ردوبدل کیے ہوئے نوٹس کی طرح بنایے جاتے ہیں، لہٰذا جنہیں اکثر فنڈ سٹاٹپ کے لیے استعمال کیا جاتا ہے. شروعاتی دنیا میں، بدلنے والے نوٹس چھوٹے قرضہ والے اجزاء ہے جنہیں ملکیت کے لیے استعمال میں لایا جا سکتا ہے. ایک بلاکچین پر مبنی ٹوکن کو کمیونٹی میں ملکیت کے طور پر تصور کیا جا سکتا ہے جبکہ ایک متبادل نوٹ کو قرضہ یا کرنسی کے طور پر تصور کیا جا سکتا ہے. تبادلی نوٹ کے شرائط ٹوکن ہولڈر کو کم از کم منصفانہ بازار حاصل کرنے کے لیے ٹوکن کو پیچھے رکھنے کی اجازت دیتا ہے. ڈالروں میں تبدیل ہونے والے ٹوکن بنانے سے بلاکچین کو اپنا جال بچھا نے میں مدد کرتا ہے اس دوران ٹوکن ہولڈران کی واپسی بڈھ جاتی ہے.
 
-SBD نشان سٹیم ڈالرز کی پہچان کے لیے استعمال ہوتا ہے، سٹیم بلاکچین ڈالر کے لیے مخفف. کک سٹیم ڈالرز کو بنانے کے لیےاورغلط استعمال کو روکنے کے لیے ایک صحیح قیمت اور قواعد و ضوابط کی ضرورت ہے. Providing a reliable price feed involves three factors: minimizing the impact of an incorrect feed, maximizing the cost of producing an incorrect feed, and minimizing the importance of timing.
+SBD نشان سٹیم ڈالرز کی پہچان کے لیے استعمال ہوتا ہے، سٹیم بلاکچین ڈالر کے لیے مخفف. کک سٹیم ڈالرز کو بنانے کے لیےاورغلط استعمال کو روکنے کے لیے ایک صحیح قیمت اور قواعد و ضوابط کی ضرورت ہے. ایک قابل اعتماد قیمت فیڈ فراہم کرنے کے لیے تین عوامل شامل ہیں: غلط فیڈ کے اثر کو کم کرنا، غلط فیڈ بنانے کے لیے قیمت کو بڈھانا، اور وقت کی اہمیت کو کم کرنا.
 
-### Minimizing Fraudulent Feeds
+### فریبی فیڈ کو کم کرنا
 
-SP holders elect individuals, called witnesses, to publish price feeds. The elected witnesses are presumably trusted by those who have a vested interest in the quality of the feed. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
+پرایز فیڈ کو شایع سٹیم پاور ہولڈران افراد کو منتخب کرتے ہیں، جنہیں شاہد کہتے ہیں. The elected witnesses are presumably trusted by those who have a vested interest in the quality of the feed. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
 
 Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
 
