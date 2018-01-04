@@ -102,7 +102,7 @@ SBD نشان سٹیم ڈالرز کی پہچان کے لیے استعمال ہو
 
 قابل اعتبار اور منتخب فیڈ پروڈیوسرز کی ایک سیٹ دیا، تحویل کے لئے استعمال کی اصل قیمت فیڈ کی شاہراہوں کے طور پر اخذ ہو کر سکتے ہیں ۔. کسی بھی اقلیتی انفرادی فیڈ پروڈیوسرز کی اٹلاارس پیدا تو اس طرح وہ کم سے کم اثر اصل شاہراہوں پر اب بھی کی صلاحیت ان کی ساکھ پر اثر انداز ہوئے ہیں ۔.
 
-تمام فیڈ بنانے والے اگر ایماندار بھی ہوں، یہ اکثر فیڈ بنانے کے لیے ممکن ہے کہ ان واقعات سے اثر انداز ہونا جو ان کے کنٹرول میں نہیں ہے. The Steem network is designed to tolerate short-term corruption of the median price feed while the community actively works to correct the issue. One example of an issue that may take some time to correct is short-term market manipulation. Market manipulation is difficult and expensive to maintain for long periods of time. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
+تمام فیڈ بنانے والے اگر ایماندار بھی ہوں، یہ اکثر فیڈ بنانے کے لیے ممکن ہے کہ ان واقعات سے اثر انداز ہونا جو ان کے کنٹرول میں نہیں ہے. سٹیم نیٹورک کو قلیل مدتی کرپشن کو پرایز فیڈ میڈین میں برداشت کرنے کے لیے ڈیزائن کیا گیا ہے جہاں کمیونٹی فعل میں معاملات حل کرتا ہے. ایک مسئلہ جو ٹھیک کرنے کے لئے کچھ نہیں ہی وقت لگ سکتا ہے اس کی ایک مثال قلیل مدتی مارکیٹ کا استحصال ہے ۔. مارکیٹ ہیرا پھیری مشکل اور اسے طویل مدت کیلئے برقرار رکھنا مہنگا ہے ۔. ایک اور مثال کے طور پر ایک مرکزی ایکسچینج کی ناکامی یا ایکسچینج کی طرف سے شائع کردہ ڈاٹا کی کرپشن.
 
 Steem factors out short-term price fluctuations by using the median price over a period of three and a half days. The median published feed is sampled every hour on the hour.
 
