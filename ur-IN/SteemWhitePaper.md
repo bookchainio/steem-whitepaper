@@ -136,9 +136,9 @@ SBD ہولڈران کو سود ادا کرتا ہے. سود کی شرح ان ہ�
 
 سٹیم اور سٹیم پاور ہولڈران لیوریج حاصل کرتے ہیں جب کمیونٹی کے ممبران SBD کو اپنے پاس رکھنا چاہتے ہیں ۔. یہ لیوریج حصول کو بڈھاوا دیتے ہیں اور بڈھاوا دینے میں اعانت بھی کرتے ہیں. سٹیم ہولڈران قیمت میں گراوٹ کے وقت مشکلات کا شکار ہوتے ہیں. کرپٹوکرنسی پروجیکٹوں نے دکھایا ہے کہ صارفین کے چاہنے پر کمایا ہوا منافع جو نیٹورک پر بھروسہ کرنا چاہتے ہیں آخر کار نیٹورک میں کافی قیمت جوڈتے ہیں.
 
-### Setting Price Feeds
+### قیمت سیٹ کرنا
 
-Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
+قارئین اس بات کو پہچان لیں گے کہ محدود سپلائی کا دلچسپ اساسہ دوسرے ساتھ میں کھڈے اساسے سے کم یا زیادہ تجارت کرے گا اس کا انحصار دوسرے مواقع سے اسی اساسہ میں دلچسپی پیدا کرنا ہے. امریکی ڈالر سے منسلک سب سے زیادہ سود لوگ قطار میں کھڈے ہونگے جب تک کہ نہ سٹیم ڈالر کی قیمت ایک امریکی ڈالر تک پہنچ جایے. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
 
 1. A stable exchange rate
 2. Free capital movement
