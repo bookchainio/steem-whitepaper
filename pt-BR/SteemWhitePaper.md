@@ -240,11 +240,11 @@ Os usuários também tem a opção de ser pagos em 100% SP, assim como rejeitar 
 
 # Algoritmo de Consenso
 
-Consenso é o processo pelo qual uma comunidade chega um acordo não-ambíguo, universalmente reconhecido sobre um pedaço de informação. Existe muitos algoritmos que a sociedade desenvolveu para chegar ao consenso sobre quem é dono do que. Every government on earth is a primitive consensus algorithm whereby the population agrees to abide by a certain set of rules enshrined in a constitution. Governments establish courts, judges, and juries to interpret the subjective facts and render a final decision. Most of the time people abide by the decision even if it was wrong.
+Consenso é o processo pelo qual uma comunidade chega um acordo não-ambíguo, universalmente reconhecido sobre um pedaço de informação. Existe muitos algoritmos que a sociedade desenvolveu para chegar ao consenso sobre quem é dono do que. Todo governo na terra é um algoritmo primitivo de consenso no qual a população concorda em obedecer a um determinado conjunto de regras consagradas em uma constituição. Os governos estabelecem cortes, juízes e júris para interpretar fatos subjetivos e proferir uma decisão final. A maioria das pessoas acatam a decisão mesmo que esteja errada.
 
-The algorithms used by cryptocurrencies provide a better way to reach consensus. Cryptographically signed testimony from individuals is recorded in a public ledger that establishes the absolute global order of events. A deterministic computer algorithm can then process this ledger to derive a universally accepted conclusion. So long as the members of a community agree on the processing algorithm, the result of the algorithm is authoritative.
+Os algoritmos utilizados pelas criptomoedas fornecem uma maneira melhor de alcançar o consenso. Testemunhos assinados criptograficamente por indivíduos são gravados em um livro de contabilidade público que estabelece a ordem global absoluta dos eventos. Um algoritmo determinístico de computador pode então processar esse livro para derivar uma conclusão universalmente aceitável. Enquanto os membros de uma comunidade concordam com o algoritmo de processamento, o resultado do algoritmo é autoritativo.
 
-The primary consideration is determining what testimony is allowed to enter the public record. Systems should be designed to minimize the potential for censorship. Censorship on the public ledger is similar to preventing someone from voting in an election. In both cases an individual is prevented from impacting the global consensus.
+A consideração primária é determinar qual testemunho é permitido entrar no registro público. Sistemas devem ser projetados para minimizar o potencial de censura. Censura na contabilidade pública é o mesmo que impedir alguém de votar em uma eleição. Nos dois casos um indivíduo é impedido de ter impacto no consenso global.
 
 ## Consensus in Steem
 
