@@ -150,7 +150,7 @@ If Steem feed producers aim to have an independent monetary policy allowing it t
 
 قرض کی ملکیت تناسب کم ہے اور بد سے کم $1.00 کے لئے کاروبار کر رہی ہے تو پھر اس سود کی شرح بڑھا کر دینا چاہیے ۔ یہ ان بد منعقد کرتے ہیں اور قیمت کی حمایت کے لئے زیادہ سے زیادہ لوگوں کی حوصلہ افزائی کرے گا ۔.
 
-بد USD سے کم $1.00 کے صنعتی اور فیڈ اوپر ایڈجسٹ کیا جا چاہئے اور پھر قرض کی ملکیت تناسب بلند ہے تو بد فی زیادہ سٹیام دیتے ہیں ۔. This will increase demand for SBD while also reducing the debt-to-ownership ratio and returning SBD to parity with USD.
+بد USD سے کم $1.00 کے صنعتی اور فیڈ اوپر ایڈجسٹ کیا جا چاہئے اور پھر قرض کی ملکیت تناسب بلند ہے تو بد فی زیادہ سٹیام دیتے ہیں ۔. اس سے سٹیم ڈالر کی مانگ میں اضافہ ہوگا اور اس کے ساتھ قرضے اور ملکیتی تناسب کو بھی کم کرے گا اور ڈالر کی مساوات میں سٹیم ڈالر فراہم کرے گا.
 
 Assuming the value of STEEM is growing faster than Steem is creating new SBD, the debt-to-ownership ratio should remain under the target ratio and the interest offered benefits everyone. If the value of the network is flat or falling, then any interest offered will only make the debt-to-ownership ratio worse.
 
