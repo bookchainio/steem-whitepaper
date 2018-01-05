@@ -166,7 +166,7 @@ If Steem feed producers aim to have an independent monetary policy allowing it t
 
 ساپیکش ثبوت کا کام ایک کرنسی ہے جو مکمل طور پر *مقصد* پر کان کنی جیسے ثبوت کے کام کے نظام میں بہتری کو تقسیم کرنے کے لیے ایک متبادل نقطہ نظر پیش کرتا ہے. کرنسی کو منعقد کرنے کی اپلیکیشن *subjective* کام کرنے کا ثبوت کا دائرہ کافی بڈا ہے *objective* کسی ابجکٹیو ورک سسٹم کے مقابلے میں کیونکہ انہوں کمیونیٹی کو بڈھانے میں استعمال کیا جا سکتا ہے. جب افراد کسی کمیونیٹی میں حصہ لیتے ہیں وہ کچھ خاص عقیدوں کی بنا پر خریداری کرتے ہیں اور کمیونیٹی کو مظبوط بنانے کے لیے اپنا ووٹ دے سکتے ہیں.
 
-In effect, the criteria by which work is evaluated is completely subjective and its definition lives outside the source code itself. One community may wish to reward artists, another poets, and another comedians. Other communities may choose to reward charitable causes or help advance political agendas.
+عملی طور پر، جس بنیاد پر کام کو پرکھا جاتا ہے اپنے آپ میں سورس کوڈ سے باہر اور سبجکٹیو ہے. ایک کمیونٹی ادا کاروں کو انعام دینا چاہیے گی، دوسری شاعروں کو، اور تیسری مزاحیوں کو. اور کوئی کسی سیاسی یا امدادی ادارے کو انعام کے لیے پسند کر سکتی ہے.
 
 The value each currency achieves depends upon the demand for influence within a particular community and how large the market believes each community can get. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
 
