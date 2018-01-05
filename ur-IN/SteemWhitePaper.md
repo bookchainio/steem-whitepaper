@@ -168,7 +168,7 @@ If Steem feed producers aim to have an independent monetary policy allowing it t
 
 عملی طور پر، جس بنیاد پر کام کو پرکھا جاتا ہے اپنے آپ میں سورس کوڈ سے باہر اور سبجکٹیو ہے. ایک کمیونٹی ادا کاروں کو انعام دینا چاہیے گی، دوسری شاعروں کو، اور تیسری مزاحیوں کو. اور کوئی کسی سیاسی یا امدادی ادارے کو انعام کے لیے پسند کر سکتی ہے.
 
-The value each currency achieves depends upon the demand for influence within a particular community and how large the market believes each community can get. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
+ہر ایک کرنسی کی قیمت اس بات پر منحصر ہے کہ ایک مخصوص کمیونٹی پر اس کا کیسا اثر ہے اور مارکیٹ کمیونٹی کے اوپر کتنا بھروسہ جتاتا ہے. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
 
 ### Distributing Currency
 
