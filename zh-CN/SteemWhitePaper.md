@@ -463,9 +463,9 @@ Steem完全绕过支付，因为当一个用户点赞一个帖子时，这就是
 
 ## 价值在链接中
 
-The Internet would lose the vast majority of its value if all links among content were removed. It is the relationship among web pages that allows Google to identify the best apple pie recipe among the 16 million results. Without the links the only information Google would have is word frequency.
+如果删除互联网内容之间的所有链接，互联网将失去绝大部分的价值。 正是网页之间的关系，使谷歌能够在1600万个结果中确定最好的苹果馅饼食谱。 如果没有链接，谷歌唯一的信息就是词频。
 
-Links can take many forms and have adapted over time. Every time a user votes on content in a social network they add a connection between themselves and the content. This in turn links the consumer to the producer through the content. The more connections a network has the more valuable the information becomes. It is the relative and intentional connectedness of information that gives it value.
+链接可以采取多种形式，并随着时间的推移而变化。 Every time a user votes on content in a social network they add a connection between themselves and the content. This in turn links the consumer to the producer through the content. The more connections a network has the more valuable the information becomes. It is the relative and intentional connectedness of information that gives it value.
 
 A social network can maximize the value extracted from a set of content by maximizing the quantity and quality of connections. Curating content is expensive and time consuming while being near impossible for computers to perform in the absence of links. Steem rewards users who are among the first to find and identify new content.
 
