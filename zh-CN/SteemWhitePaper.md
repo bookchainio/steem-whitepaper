@@ -465,11 +465,11 @@ Steem完全绕过支付，因为当一个用户点赞一个帖子时，这就是
 
 如果删除互联网内容之间的所有链接，互联网将失去绝大部分的价值。 正是网页之间的关系，使谷歌能够在1600万个结果中确定最好的苹果馅饼食谱。 如果没有链接，谷歌唯一的信息就是词频。
 
-链接可以采取多种形式，并随着时间的推移而变化。 Every time a user votes on content in a social network they add a connection between themselves and the content. This in turn links the consumer to the producer through the content. The more connections a network has the more valuable the information becomes. It is the relative and intentional connectedness of information that gives it value.
+链接可以采取多种形式，并随着时间的推移而进化。 每当用户对社交网络中的内容进行投票时，他们就会在自己和内容之间添加了连接。 这反过来又通过内容将消费者与生产者联系起来。 网络的连接越多，信息就越有价值。 信息的相对的和有意的连接赋予它价值。
 
-A social network can maximize the value extracted from a set of content by maximizing the quantity and quality of connections. Curating content is expensive and time consuming while being near impossible for computers to perform in the absence of links. Steem rewards users who are among the first to find and identify new content.
+社交网站可以通过最大化连接的数量和质量，让一组内容的价值最大化。 策展内容昂贵而且费时，在没有链接的情况下计算机几乎无法完成。 Steem奖励最先发现和识别新内容的用户。
 
-By incentivising curation the Steem network is able to use automated algorithms to extract the most valuable information from a massive amount of content.
+通过鼓励策略，Steem网络能够使用自动算法从大量内容中提取最有价值的信息。
 
 ## Solving the Cryptocurrency Onboarding Problem
 
