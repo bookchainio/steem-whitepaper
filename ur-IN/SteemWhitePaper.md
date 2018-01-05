@@ -152,11 +152,11 @@ If Steem feed producers aim to have an independent monetary policy allowing it t
 
 بد USD سے کم $1.00 کے صنعتی اور فیڈ اوپر ایڈجسٹ کیا جا چاہئے اور پھر قرض کی ملکیت تناسب بلند ہے تو بد فی زیادہ سٹیام دیتے ہیں ۔. اس سے سٹیم ڈالر کی مانگ میں اضافہ ہوگا اور اس کے ساتھ قرضے اور ملکیتی تناسب کو بھی کم کرے گا اور ڈالر کی مساوات میں سٹیم ڈالر فراہم کرے گا.
 
-اس بات کو مدنظر رکھتے ہوئے کہ سٹیم کی قیمت میں سٹیم ڈالر بنانے سے زیادہ ہو رہا ہے، ملکیت اور قرض کا تناسب مستحکم رہنا چاہیے وہی ہر ایک کے لیے فائدہ مند ثابت ہو گا. If the value of the network is flat or falling, then any interest offered will only make the debt-to-ownership ratio worse.
+اس بات کو مدنظر رکھتے ہوئے کہ سٹیم کی قیمت میں سٹیم ڈالر بنانے سے زیادہ ہو رہا ہے، ملکیت اور قرض کا تناسب مستحکم رہنا چاہیے وہی ہر ایک کے لیے فائدہ مند ثابت ہو گا. اگر نیٹورک کی قیمت مستحکم یا کم ہوتا ہو، پھر کوئی بھی دیا جانے والا سود قرض اور ملکیت کے تناسب کو بدتر کرے گا.
 
-In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
+عملاً، فیڈ پروڈیوسرز USD کے لئے ایک مستحکم پت کو برقرار رکھنے کے لیے مالیاتی پالیسی مرتب کی ذمہ داری کے ساتھ سومپا ہیں ۔. ایس پی کے حاملین کے گواہ ہے کہ کرنے پر شمار کیا جا سکتا ہے کے لئے فیڈ کی قیمت کو ایڈجسٹ اور ان اصولوں کے مطابق سود کی شرح میں اوپر بیان کردہ ووٹ دینے کے لئے عقل مند ہیں تو اس طاقت کا غلط استعمال سٹیام کی قدر کو نقصان پہنچا سکتی ہے ۔.
 
-If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SBD.
+اگر قرض اور ملکیت کا تناسب خطرناک طور پر اوپر چلا جایے مارکیٹ شراکت دار تبادلہ کی درخواستوں کو مسترد کرنا پسند کرتے ہیں پھر فیڈ کو سٹیم کو سٹیم ڈالر میں بدلنے کے لئے اسی حساب سے ایڈجسٹ کیا جاتا ہے.
 
 Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SBD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions.
 
