@@ -481,11 +481,11 @@ Steem解决这个问题的方法是让每个人都可以做简单但有价值的
 
 难以使用或不能卖出的货币几乎没有价值。 如果有人有价值一美元的比特币，他会发现卖掉比特币的成本超过一美元。 他们必须在交易所中创建帐户，执行KYC验证，并支付费用。 小额数字货币就像人们懒得弯腰去捡的零钱。
 
-商家为用户提供了一种将他们的加密货币快速转换为有形商品和服务的方法。 Merchants need a currency pegged to their unit of account, normally dollars. Accepting a volatile currency introduces significant accounting overhead.
+商家为用户提供了一种将他们的加密货币快速转换为有形商品和服务的方法。 商家需要一个能够绑定他们账户的货币单位，通常是美元，的货币。 接受波动的货币会引起很大的会计开销。
 
-Merchants will accept any currency if it increases their sales. Having a large user base with a stable currency such as SBD lowers the barrier to entry for merchants. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
+如果能够增加他们的销售，商家会接受任何货币。 像SBD这样的稳定货币的庞大用户群降低了商户进入的门槛。 商家的存在，为用户创建了一个退出系统的方法，而不必烦神去使用交易所，从而改善了系统。
 
-Another way that people can liquidate the small amounts of cryptocurrency they receive from participating on the Steem platform is through *tipping* others. This is like leaving the small change as a tip for your waiter. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
+另一种方式是，人们可以通过给其他人*付小费*来清算他们参与Steem平台获得的少量加密货币。 这就像把零钱留给侍者做小费一样。 当足够多的人留下小额小费，加在一起将是一个有意义的数额。 你和侍者都将从小费中受益。
 
 ## Censorship
 
