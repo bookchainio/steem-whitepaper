@@ -471,9 +471,9 @@ Steem完全绕过支付，因为当一个用户点赞一个帖子时，这就是
 
 通过鼓励策略，Steem网络能够使用自动算法从大量内容中提取最有价值的信息。
 
-## Solving the Cryptocurrency Onboarding Problem
+## 解决加密货币上位问题
 
-It isn’t easy to get into cryptocurrency[^21]. Someone who discovers Bitcoin and wants to try it out quickly learns that they will need to sign up with an exchange and fund their account with a credit card or wire transfer. What would Facebook’s adoption rate have been like if you had to fork over money and a two forms of ID?
+进入加密货币不是一件容易的事情[^21]。 发现并想尝试比特币的人很快就会发现他们需要注册一个交易所，并需要用信用卡或电汇来给他们的账户充值。 如果你不得不把钱和两种形式的 ID 分叉，那Facebook的采用率会是什么样子呢？
 
 Steem solves this problem by giving everyone a way to get paid for doing simple, but valuable, tasks. This will help to widely distribute STEEM tokens. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless.)
 
