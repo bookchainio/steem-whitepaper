@@ -158,13 +158,13 @@ If Steem feed producers aim to have an independent monetary policy allowing it t
 
 اگر قرض اور ملکیت کا تناسب خطرناک طور پر اوپر چلا جایے مارکیٹ شراکت دار تبادلہ کی درخواستوں کو مسترد کرنا پسند کرتے ہیں پھر فیڈ کو سٹیم کو سٹیم ڈالر میں بدلنے کے لئے اسی حساب سے ایڈجسٹ کیا جاتا ہے.
 
-Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SBD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions.
+سود کی شرح میں تبدیلی اوریا کسی پرمیم میں سٹیم اور سٹیم ڈالر پر ڈسکاؤنٹ کی تبدیلی قیمت ایک کم رفتار پر ناپنا چاہیے بجائے اسکے کہ جلدبازی میں کوئی قدم اٹھایا جائے.
 
-It is our belief that these rules will give market participants confidence that they are unlikely lose money by holding SBD purchased at a price of $1.00. We fully expect there to be a narrow trading range between $0.95 and $1.05 for SBD under normal market conditions.
+یہ ہمارا یقین ہے کہ یہ قواعد مارکیٹ شراکت داروں میں یہ اعتماد لایے گا کہ سٹیم ڈالر کو ایک ڈالر میں خریدنے سے پیسہ زایع ہونے کا کوئی خطرہ نہیں. ہم مکمل طور پر $0.95 اور ڈالر 1.05 بد کے لئے عام مارکیٹ کے حالات کے درمیان ایک تنگ تجارتی حد اطلاق ہونے کی تو توقع رکھتے ہیں.
 
-## Subjective Contributions
+## ساپیکش شراکت
 
-Subjective Proof of Work presents an alternative approach to distributing a currency that improves upon fully *objective* Proof of Work systems such as mining. The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
+ساپیکش ثبوت کا کام ایک کرنسی ہے جو مکمل طور پر *مقصد* پر کان کنی جیسے ثبوت کے کام کے نظام میں بہتری کو تقسیم کرنے کے لیے ایک متبادل نقطہ نظر پیش کرتا ہے. The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
 
 In effect, the criteria by which work is evaluated is completely subjective and its definition lives outside the source code itself. One community may wish to reward artists, another poets, and another comedians. Other communities may choose to reward charitable causes or help advance political agendas.
 
