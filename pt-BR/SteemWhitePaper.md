@@ -246,9 +246,9 @@ Os algoritmos utilizados pelas criptomoedas fornecem uma maneira melhor de alcan
 
 A consideração primária é determinar qual testemunho é permitido entrar no registro público. Sistemas devem ser projetados para minimizar o potencial de censura. Censura na contabilidade pública é o mesmo que impedir alguém de votar em uma eleição. Nos dois casos um indivíduo é impedido de ter impacto no consenso global.
 
-## Consensus in Steem
+## Consenso no Steem
 
-Conceptually, the consensus algorithm adopted by Steem is similar to the consensus algorithm adopted by companies throughout the world. People with a vested interest in the future value of Steem vote to select individuals responsible for including testimony in the public record. Voting is weighted proportional to each individual's vested interest.
+Conceitualmente, o algoritmo de consenso adotado pelo Steem é similar ao algoritmo de consenso adotado pelas empresas ao redor do mundo. People with a vested interest in the future value of Steem vote to select individuals responsible for including testimony in the public record. Voting is weighted proportional to each individual's vested interest.
 
 In the world of cryptocurrencies, the public record is commonly referred to as a *blockchain*. A *block* is a group of signed transactions.
 
