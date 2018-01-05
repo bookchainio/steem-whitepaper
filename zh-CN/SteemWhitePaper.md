@@ -475,13 +475,13 @@ Steem完全绕过支付，因为当一个用户点赞一个帖子时，这就是
 
 进入加密货币不是一件容易的事情[^21]。 发现并想尝试比特币的人很快就会发现他们需要注册一个交易所，并需要用信用卡或电汇来给他们的账户充值。 如果你不得不把钱和两种形式的 ID 分叉，那Facebook的采用率会是什么样子呢？
 
-Steem solves this problem by giving everyone a way to get paid for doing simple, but valuable, tasks. This will help to widely distribute STEEM tokens. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless.)
+Steem解决这个问题的方法是让每个人都可以做简单但有价值的任务而获得报酬。 这将有助于广泛分发STEEM代币。 因为加密货币有网络效应(就是说，更多的用户让它更有价值。比如，假如中本聪把100%的比特币留给他自己，比特币将没有任何价值。)，因此这样做是有帮助的。
 
-## Solving the Cryptocurrency Liquidation Problem
+## 解决加密货币的清算问题
 
-A currency that is difficult to use or impossible to sell has little value. Someone who comes across $1.00 worth of Bitcoin will discover that it costs more than $1.00 to sell that Bitcoin. They have to create an account with an exchange, perform KYC validation, and pay fees. Small amounts of cryptocurrency are like small change that people are unwilling to bend over to pick up.
+难以使用或不能卖出的货币几乎没有价值。 如果有人有价值一美元的比特币，他会发现卖掉比特币的成本超过一美元。 他们必须在交易所中创建帐户，执行KYC验证，并支付费用。 小额数字货币就像人们懒得弯腰去捡的零钱。
 
-Merchants give users a way to quickly convert their cryptocurrency into tangible goods and services. Merchants need a currency pegged to their unit of account, normally dollars. Accepting a volatile currency introduces significant accounting overhead.
+商家为用户提供了一种将他们的加密货币快速转换为有形商品和服务的方法。 Merchants need a currency pegged to their unit of account, normally dollars. Accepting a volatile currency introduces significant accounting overhead.
 
 Merchants will accept any currency if it increases their sales. Having a large user base with a stable currency such as SBD lowers the barrier to entry for merchants. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
 
