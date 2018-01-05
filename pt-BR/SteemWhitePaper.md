@@ -256,17 +256,17 @@ Com o Steem, a produção de blocos é feita em rodadas. Em cada rodada, 21 test
 
 Esse processo é projetado para fornecer a melhor confiabilidade enquanto garante que todos tenham o potencial de participar na produção de blocos independente se foi suficientemente popular para ser votado até o topo. As pessoas têm três opções para superar a censura pelas top 20 testemunhas eleitas: aguardar pacientemente na fila com todos os outros que não estão no top 20, ou comprar mais SP para aumentar o poder de voto. De forma geral, aplicar censura é uma boa forma para uma testemunha eleita perder o seu cargo, e sendo assim, é improvável que seja um problema na rede Steem.
 
-Because the active witnesses are known in advance, Steem is able to schedule witnesses to produce blocks every 3 seconds. Witnesses synchronize their block production via the NTP protocol. A variation of this algorithm has been in use by the BitShares network for over a year where it has been proven to be reliable.
+Uma vez que a testemunha ativa é conhecida com antecedência, o Steem é capaz de agendar as testemunhas para produzir blocos a cada 3 segundos. As testemunhas sincronizam a sua produção de blocos através do protocolo NTP. Uma variação desse algoritmo tem sido utilizado pela rede BitShares por cerca de um ano, no qual se provou confiável.
 
-# Eliminating Transaction Fees
+# Eliminando Taxas de Transação
 
-Steem goes to great lengths to reward people for contributing to the network. It would be counterproductive to turn around and charge people every time they attempt to interact with the community.
+O Steem tem colocado um grande esforço para recompensar as pessoas pela contribuição para a rede. Seria contraprodutivo se virar e cobrar as pessoas cada vez que eles tentassem interagir com a comunidade.
 
-Blockchain technology currently depends upon transaction fees to prevent spam. These fees suffer all of the known problems with microtransactions and prevent blockchains from being used for low-value transactions. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
+A tecnologia blockchain atualmente depende das taxas de transação para previnir o spam. Essas taxas sofrem de todos os problemas conhecidos com as microtransações e evitam que as blockchains sejam utilizadas para transações de baixo valor. Aplicações realmente descentralizadas devem oferecer aos usuários a aparência de transações sem taxas se eles quiserem competir com alternativas centralizadas. Esse documento esboça a abordagem utilizada pela Steem para eliminar a necessidade de taxas e assim permitir uma ampla gama de aplicações descentralizadas anteriormente insustentáveis.
 
-## The Problem With Fees
+## O Problema Com as Taxas
 
-Blockchains are decentralized networks where all transactions are broadcast to all peers. Every so often a block is produced that includes some or all of the pending transactions. All blockchains must find a solution to prevent malicious users from consuming all of the available network capacity with worthless transactions. These worthless transactions can prevent other valuable transactions from being processed and ultimately destroy the network.
+Blockchains são redes descentralizadas aonde todas as transações são transmitidas para todos os pontos. Every so often a block is produced that includes some or all of the pending transactions. All blockchains must find a solution to prevent malicious users from consuming all of the available network capacity with worthless transactions. These worthless transactions can prevent other valuable transactions from being processed and ultimately destroy the network.
 
 The solution adopted by most blockchains thus far is to charge a minimum transaction fee. A fee worth just a few cents is enough to make attacking the network expensive and unprofitable. While this approach solves the spam problem, it introduces new problems. Imagine solving the email spam problem by introducing a small fee on every email; people wouldn’t use email.
 
