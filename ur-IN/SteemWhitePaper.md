@@ -168,11 +168,11 @@ If Steem feed producers aim to have an independent monetary policy allowing it t
 
 عملی طور پر، جس بنیاد پر کام کو پرکھا جاتا ہے اپنے آپ میں سورس کوڈ سے باہر اور سبجکٹیو ہے. ایک کمیونٹی ادا کاروں کو انعام دینا چاہیے گی، دوسری شاعروں کو، اور تیسری مزاحیوں کو. اور کوئی کسی سیاسی یا امدادی ادارے کو انعام کے لیے پسند کر سکتی ہے.
 
-ہر ایک کرنسی کی قیمت اس بات پر منحصر ہے کہ ایک مخصوص کمیونٹی پر اس کا کیسا اثر ہے اور مارکیٹ کمیونٹی کے اوپر کتنا بھروسہ جتاتا ہے. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
+ہر ایک کرنسی کی قیمت اس بات پر منحصر ہے کہ ایک مخصوص کمیونٹی پر اس کا کیسا اثر ہے اور مارکیٹ کمیونٹی کے اوپر کتنا بھروسہ جتاتا ہے. پرانے سسٹم سے مختلف، کام کا ساپیکش سبوت کمیونٹی کو اس قابل بناتا ہے کہ مشرقہ طور پر قیمتی کام کو فنڈ کریں اور پرانے چیزوں کو پرانے وقت میں ہی ماناٹز کریں.
 
-### Distributing Currency
+### کرنسی تقسیم کرنا
 
-There are two ways people can get involved with a crypto-currency community: they can *buy in*, or they can *work in*. In both cases users are adding value to the currency, however, the vast majority of people have more *free time* than they do *spare cash*. Imagine the goal of bootstrapping a currency in a poor community with no actual *cash* but plenty of *time*. If people can earn money by working for one another then they will bootstrap value through mutual exchange facilitated by a fair accounting/currency system.
+There are two ways people can get involved with a crypto-currency community: they can *buy in*, or they can *work in*. دونوں صورتوں میں صارفین کرنسی کی قیمت میں اضافہ کرتے ہیں، مگر اکثر لوگوں کے پاس بہت سارا خالی وقت ہے جس میں وہ کافی پیسہ بنا سکتے ہیں. Imagine the goal of bootstrapping a currency in a poor community with no actual *cash* but plenty of *time*. If people can earn money by working for one another then they will bootstrap value through mutual exchange facilitated by a fair accounting/currency system.
 
 Distributing a currency to as many people as possible in a manner that is generally perceived as fair is a challenging task. The tasks that can be entirely evaluated by an objective computer algorithm are limited in nature and generally speaking have limited positive external benefits. In the case of Bitcoin-style mining, it can result in the production of specialized hardware and cause people to invest time developing more efficient algorithms. It may even help find prime numbers, but none of these things provide meaningful value to society or the currency holding community at large. More importantly, economies of scale and market forces will end up excluding everyone but experts from participating in this kind of distribution. Ultimately, computation-based mining is just another way of *buying in* because it requires money to pay the electric bill or the development of hardware necessary to do the work.
 
