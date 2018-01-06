@@ -487,7 +487,7 @@ Steem解决这个问题的方法是让每个人都可以做简单但有价值的
 
 另一种方式是，人们可以通过给其他人*付小费*来清算他们参与Steem平台获得的少量加密货币。 这就像把零钱留给侍者做小费一样。 当足够多的人留下小额小费，加在一起将是一个有意义的数额。 你和侍者都将从小费中受益。
 
-## Censorship
+## 审查
 
 Steem is a decentralized network that is operated by witnesses in jurisdictions around the world. All user actions are publicly recorded on the blockchain, and can be publicly verified. This means that there is no single entity that can censor content that is valued by STEEM holders.
 
