@@ -489,7 +489,7 @@ Steem解决这个问题的方法是让每个人都可以做简单但有价值的
 
 ## 审查
 
-Steem is a decentralized network that is operated by witnesses in jurisdictions around the world. All user actions are publicly recorded on the blockchain, and can be publicly verified. This means that there is no single entity that can censor content that is valued by STEEM holders.
+Steem是一个由位于世界各地司法管辖区的见证人经营的去中心化的网络。 所有用户操作都在区块链上公开记录，并且可以公开验证。 This means that there is no single entity that can censor content that is valued by STEEM holders.
 
 Individual websites such as steemit.com may censor content on their particular site, but content published on the blockchain is inherently broadcast traffic and mirrors all around the world may continue to make it available.
 
