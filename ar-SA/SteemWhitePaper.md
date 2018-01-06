@@ -316,11 +316,11 @@ Under a fractional reserve system the individual users could utilize more bandwi
 
 ### تأثير القدرات
 
-Blockchain capacity isn’t necessarily capped. It is well within the technological capability of internet infrastructure to increase the Bitcoin block size to 10MB which in turn will reduce the minimum required balance by a factor of 10. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second.
+قدرات بلوكشين ليست مغطات بالضرورة. إنها جيدة ضمن القدرة التكنولوجية للبنية التحتية للإنترنت لزيادة حجم بلوك البيتكوين إلى 10MB والتي بدورها سوف تقلل من الحد الأدنى للتوازن المطلوب بعامل قدره 10. في حين ان البتكوين يدعم حاليا حوالي 3 معاملات في الثانية الواحدة، والتطبيقات البديلة قادرة على أكثر من 1000 معاملة في الثانية الواحدة.
 
 ### مقارنة الرسوم
 
-If we assume a user with $25 dollars worth of BTC transacts once per week and pays a $0.04 cent fee each time then they would pay over $2.00 in fees per year. A user would have to earn a 8% rate of return on their $25 dollars just to break even with paying fees. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
+إذا افترضنا أن مستخدم بقيمة 25 دولارا أمريكيا من معاملات بتكوين مرة في كل اسبوع ويدفع رسوما قدرها $0.04 في كل مرة، فإنه سيدفع أكثر من 2 دولار في الرسوم سنويا. A user would have to earn a 8% rate of return on their $25 dollars just to break even with paying fees. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
 
 ### Account Creation
 
