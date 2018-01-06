@@ -284,11 +284,11 @@ No mundo de pagamentos financeiros, pequenas taxas são aceitáveis porque o val
 
 Sistemas como Bitshares, Nxt, Ripple, Counter Party e Stellar permitem que os usuários coloquem ordens limite na blockchain e todos eles cobram os usuários uma pequena taxa para realizar essa ação. Posteriormente, se o usuário deseja cancelar a sua ordem, uma outra taxa é cobrada. Sistemas como o Ethereum levam o micropagamento a um nível totalmente novo: cobrando por cálculo. Todos esses sistemas tem problemas ao atrair usuários em massa pelo mesmo motivo que um motor de busca descentralizado teria problemas para atrair usuários do google se eles cobrassem uma pequena taxa para cada busca. Não importa o quão bom é o serviço, pessoas esperam que certas coisas sejam gratuitas. Isso é verdade até para usuários que acabam pagando mais em média sob uma estrutura de taxas completamente diferente.
 
-### Fees are a Barrier to Entry
+### Taxas são uma Barreira de Entrada
 
-Any fee creates a barrier to entry for new users. Before someone can experiment with Ethereum they must acquire some ETH tokens. Anyone wanting to build a decentralized application on Ethereum must pass on the cost to their customers. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
+Qualquer taxa cria uma barreira de entrada para novos usuários. Antes que alguém possa experimentar utilizar o Ethereum, eles devem primeiro adquirir tokens ETH. Qualquer um que queira construir uma aplicação descentralizada sobre o Ethereum deve repassar os custos para os seus clientes. Comprar uma cripto moeda não é uma tarefa fácil e raramente faz sentido para uma quantidade menor que US$10. Isso significa que novos usuários que desejem experimentar uma nova aplicação descentralizada deve primeiro ser convencido a gastar US$10.
 
-### Changing Fees
+### Alterando Taxas
 
 Over time a network must adjust fees. This can happen either due to an increase in the value of the token or due to a surge in capacity. Users like predictable fees and guaranteed service. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
 
