@@ -240,7 +240,7 @@ The actual distribution will depend upon the voting patterns of users, but we su
 
 # اتفاق رائے کا حساب و شمار
 
-اتفاق رائے وہ عمل ہے جس کے ذریعے ایک کمیونٹی کسی معلومات کے ٹکڑے پر عالمی طور پر تسلیم شدہ اور واضح معاہدے پر اکٹھی ہوتی ہے. بہت سے حساب و شمار موجود ہیں جو سماج نے اس بات پر اتفاق حاصل کرنے کے لئے بنائے ہیں یہ جاننے کے لئے کہ کون کس کا مالک ہے. زمین پر ہر حکومت ایک ابتدائی اتفاق رائے الگورتھم (یعنی حساب و شمار) ہے جس کے تحت آبادی ایک مخصوص آئین میں شامل اصولوں کے مجموعے کے مطابق چلنے کے لئے تیار ہوتی ہے. Governments establish courts, judges, and juries to interpret the subjective facts and render a final decision. Most of the time people abide by the decision even if it was wrong.
+اتفاق رائے وہ عمل ہے جس کے ذریعے ایک کمیونٹی کسی معلومات کے ٹکڑے پر عالمی طور پر تسلیم شدہ اور واضح معاہدے پر اکٹھی ہوتی ہے. بہت سے حساب و شمار موجود ہیں جو سماج نے اس بات پر اتفاق حاصل کرنے کے لئے بنائے ہیں یہ جاننے کے لئے کہ کون کس کا مالک ہے. زمین پر ہر حکومت ایک ابتدائی اتفاق رائے الگورتھم (یعنی حساب و شمار) ہے جس کے تحت آبادی ایک مخصوص آئین میں شامل اصولوں کے مجموعے کے مطابق چلنے کے لئے تیار ہوتی ہے. حکومتیں عدالتوں، ججوں اور فقھاء کو نفسی حقائق کی ترجمانی کے لئے قائم کرتی ہیں اور حتمی فیصلہ فراہم کرتی ہیں. زیادہ تر لوگ فیصلے کی پابندی کرتے ہیں، یہاں تک کہ اگر وہ غلط بھی ہو.
 
 The algorithms used by cryptocurrencies provide a better way to reach consensus. Cryptographically signed testimony from individuals is recorded in a public ledger that establishes the absolute global order of events. A deterministic computer algorithm can then process this ledger to derive a universally accepted conclusion. So long as the members of a community agree on the processing algorithm, the result of the algorithm is authoritative.
 
