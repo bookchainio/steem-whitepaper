@@ -509,13 +509,13 @@ Steem是一个由位于世界各地司法管辖区的见证人经营的去中心
 
 ## 以区块链为基础的内容奖励代替广告
 
-在大多数内容货币化模式下，内容创作者利用这种或那种的广告形式。 许多创作者认识到广告可能会降低他们的作品对消费者的价值，但创作者往往必须通过货币化来为时间付出寻求回报。 广告是一把双刃剑：利用广告，创造者可以最容易的赚钱。 Without ads, monetization is difficult but the content is richer.
+在大多数内容货币化模式下，内容创作者利用这种或那种的广告形式。 许多创作者认识到广告可能会降低他们的作品对消费者的价值，但创作者往往必须通过货币化来为时间付出寻求回报。 广告是一把双刃剑：利用广告，创造者可以最容易的赚钱。 没有广告，赚钱困难，但是内容更加丰富。
 
-Creators posting to social media outlets that are connected to Steem may monetize merely by having their work recognized (or ”liked”) by the Steem community. Blockchain-based payouts are completely digital and have no middle-man. Therefore monetization by blockchain-based content rewards should be faster and much lower barrier to use than monetization by advertisements.
+在与Steem相关联的社交媒体上张贴的创作者可能仅通过让他们的作品被Steem社区认可（或“喜欢”）来获利。 以区块链为基础的付款是完全数字化的而且没有中间人。 因而，以区块链为基础的内容奖励的货币化应该比广告的货币化更加快捷而且门槛更低。
 
-# Conclusion
+# 总结
 
-Steem is an experiment designed to address challenges in the cryptocurrency and social media industries by combining the best aspects from both. Steem presents earning opportunities to content creators and internet readers in ways that have not existed within the social media industry. Within Steem, individuals earn real rewards online that are directly correlated to their contributions. Those rewards may have dollar value due to the market price discovery and liquidity of Steem, and the people who hold Steem may have more exclusive earning powers than those who do not.
+Steem是一个旨在通过结合两者的最佳方面来解决加密货币和社交媒体行业挑战的实验。 Steem以社交媒体行业内尚未存在的方式向内容创作者和互联网读者提供赚取机会。 在Steem内，个人在线上获得与他们的贡献直接相关的真实奖励。 由于Steem的市场价格发现和流通性，这些奖励可能具有美元价值，持有Steem的人可能比那些没有Steem的人有更多的专属收益权。
 
 [^1]: Reddit’s Cryptocurrency, Forbes, Erika Morphy, October 2014 http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/\#4e07b05332b9
 
