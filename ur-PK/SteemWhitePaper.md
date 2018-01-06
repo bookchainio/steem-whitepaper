@@ -483,27 +483,27 @@ Placeholder for translator's notes.
 
 خوردہ فروش صارفین کو انکی کرائیپٹوکرنسی ٹھوس سامان اور خدمات میں تبدیل کرنے کا راستہ فراہم کرتے ہیں. تاجروں کو ایک ایسی کرنسی کی ضرورت ہے جو ان کے کھاتے کی اکائی سے کیل شدہ ہو، عام طور پر ڈالرز. ایک غیر مستحکم کرنسی کو قبول کرنا سر پر معنی خیز حساب داری کو متعارف کراتا ہے.
 
-Merchants will accept any currency if it increases their sales. Having a large user base with a stable currency such as SBD lowers the barrier to entry for merchants. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
+خوردہ فروش کسی بھی کرنسی کو قبول کرلیں گے اگر وہ ان کی فروخت میں اضافہ کرتی ہو. ایک مستحکم کرنسی کے ساتھ صارف کی بڑی بنیاد جیسے کہ SBD کاروباری لوگوں کے داخلے میں رکاوٹ کو کم کرتا ہے. تاجروں کی موجودگی بغیر ایکسچینج کے استعمال کی پریشانی کے نظام سے باہر نکلنے کے لئے موقوف ڈھلان کی صارفین کے لئے تخلیق کر کے نظام کو بہتر بناتی ہے.
 
-Another way that people can liquidate the small amounts of cryptocurrency they receive from participating on the Steem platform is through *tipping* others. This is like leaving the small change as a tip for your waiter. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
+ایک اور طریقہ جس سے لوگ سٹیم پلیٹ فارم سے حاصل ہونے والی کرائیپٹوکرنسی کی چھوٹی مقدار کو نقد میں تبدیل کر سکتے ہیں وہ *انعام بخشش* ہے. یہ اپنے وہٹر کے لئے چھوٹا متبادل انعام بخشش کے طور پر چھوڑنے کی طرح ہے. جب کافی لوگ چھوٹا انعام دے جاتے ہیں تو وہ معنی خیز رقم بن جاتی ہے. آپ اور ویٹر ہر کوئی انعام بخشش سے فائدہ اٹھاتا ہے.
 
-## Censorship
+## احتساب
 
-Steem is a decentralized network that is operated by witnesses in jurisdictions around the world. All user actions are publicly recorded on the blockchain, and can be publicly verified. This means that there is no single entity that can censor content that is valued by STEEM holders.
+سٹیم ایک غیرمرکزی نیٹ ورک ہے جو کہ دنیا بھر میں گواہوں کے دائرہ کاروں کے ذریعے چلایا جاتا ہے. تمام صارف کے اعمال عوامی بلاکچین پر محفوظ کیے جاتے ہیں اور ان کی عوامی طور پر تصدیق کی جا سکتی ہے. اس کا مطلب یہ کہ کوئی واحد شخصیت کا وجود نہیں جو سٹیم ہولڈر کی طرف سے قدر دیے ہوئے مواد کا احتساب کرے.
 
-Individual websites such as steemit.com may censor content on their particular site, but content published on the blockchain is inherently broadcast traffic and mirrors all around the world may continue to make it available.
+انفرادی ویب سائٹ جیسے steemit.com اپنی خاص سائٹ پر مواد کا احتساب کر سکتی ہے لیکن بلاکچین پر شائع کردہ مواد جو خلقی طور پر نشر کیا جاتا ہے اور دنیا بھر میں دکھایا جاتا ہے، بلاکچین اسکی دستیابی جاری رکھ سکتا ہے.
 
-Freedom of speech is the foundation of all other liberties and any infringement upon freedom of speech undermines the only peaceful means of reaching consensus: discussion. Without free discussion voters cannot be fully informed, and uninformed voters are a greater threat to society than losing the right to vote. Censorship is a means of stealing votes through limiting public discourse. Steem is committed to enabling free speech and building a free society.
+تقریر کی آزادی دوسری تمام آزادیوں کی بنیاد ہے اور تقریر کی آزادی کو کوئی خلاف ورزی اتفاق رائے تک پہنچنے کے واحد پرامن ذریعے کو کھوکھلا کردیتی ہے یعنی: گفتگو. آزاد گفتگو کے بغیر ووٹرز پوری طرح آگاہ نہیں ہو سکتے، اور ناواقف ووٹرز سماج کے لئے ایک بڑا خطرہ ہیں بمقابل ووٹ کرنے کے حق کے کھو جانے کے. احتساب عوامی گفتگو کو محدود کرتے ہوئے ووٹ کی چوری کا ذریعہ ہے. سٹیم آزاد تقریر کو چالو کرنے اور آزاد معاشرے کی تعمیر کے لئے پرعزم ہے.
 
-## Solving Organic Discovery via Search Engine Optimization
+## تلاش انجن اصلاح کے ذریعہ صحت بخش دریافت کو حل کرنا
 
-Most cryptocurrencies generate little value for those who are not actively using the network. Steem, by contrast, generates content and encourages users to share it. This content gets indexed by search engines and ultimately will bring value to a large number of passive users. This search traffic creates organic advertising for the Steem network and grows the network effect.
+زیادہ تر کرائیپٹوکرنسیاں ان لوگوں کے لئے تھوڑی سی قدر پیدا کرتی ہیں جو نیٹ ورک کے استعمال میں فعال نہیں ہیں. سٹیم، اس کے برعکس، مواد کی پیداوار اور صارفین کو اسے بانٹنے کی حوصلہ افزائی کرتا ہے. یہ مواد تلاش انجنوں میں فہرست ہو جاتے ہیں اور بالآخر غیر فعال صارفین کی بڑی تعداد کے لئے قدر لاتے ہیں. یہ تلاش ٹریفک سٹیم نیٹ ورک کے لئے صحت بخش تشہیر کو پیدا کرتی ہے اور نیٹ ورک اثر کو بڑھاتی ہے.
 
-## Shifting Toward Blockchain-based Attribution
+## بلاکچین پر مبنی انتساب کی طرف منتقلی
 
-The internet represents the easiest medium for distributing information in the world. With that said, it can be a frightening place for content creators who would like to own their content and have it shared with proper attribution. On current social media platforms, attribution is something that can be lost overnight - a posted video or image can be replicated and re-shared without consent or regard for the creator.
+انٹرنیٹ دنیا میں معلومات تقسیم کرنے کے لئے آسان ذریعہ کی نمائندگی کرتا ہے. یہ کہنے کے ساتھ، یہ مواد ان تخلیق کاروں کے لئے ایک خوفناک جگہ ہوسکتی ہے جو اپنے مواد کی ملکیت رکھنا چاہتی ہے اور اسے مناسب انتباہ کے ساتھ اشتراک کرنا چاہتے ہیں. موجودہ سوشل میڈیا پلیٹ فارمز میں، انتساب وہ چیز ہے جو راتو رات کھو سکتی ہے - بغیر تخلیق کار کی اجازت یا رضامندی کے ایک پوسٹ کردہ ویڈیو یا تصویر کی نقل بنائی جا سکتی ہے اور اس کی دوبارہ تقسیم کی جا سکتی ہے.
 
-Under blockchain-based social media, a creator or author would always be able to point to a public record and timestamp showing proof of their content origination. In a circumstance where a creator would like to address those who have re-shared without permission or attribution, blockchain-based records provide public proof that the content was posted by a particular user at a particular time. In the future, blockchain-based attribution could come to be recognized by governments for its authenticity and could hold weight in court, which would give content creators greater powers to control their work.
+بلاکچین پر مبنی سوشل میڈیا میں، ایک خالق یا مصنف اپنے مواد کے آغاز کا ثبوت دینے کے لئے ہمیشہ عوامی ریکارڈ اور وقت کی طرف اشارہ کر سکتا ہے. ایک ایسی صورتحال میں جہاں ایک خالق یا مصنف کسی ایسے شخص کو مخاطب کرنا چاہتا ہے جس نے بغیر اجازت یا انتساب کے مواد کو دوبارہ تقسیم کیا ہے، بلاکچین پر مبنی ریکارڈ عوامی ثبوت فراہم کرتا ہے کہ مواد ایک خاص شخص کے ذریعے خاص وقت پر پوسٹ کیا گیا تھا. مستقبل میں، بلاکچین پر مبنی انتساب حکومت کی طرف سے بھی شناخت کیا جا سکتا ہے اور کورٹ میں وزن رکھ سکتا ہے، جو کہ مواد تخلیق کاروں کو ان کے مواد پر اختیار کی عظیم طاقت دے گا.
 
 While a timestamping service can be built on almost any blockchain, and several efforts exist to build this kind of service on the Bitcoin network, Steem has a useful advantage in this realm because content publishers are “first class citizens” -- the Steem blockchain is built from the ground up around the use case of content publication, which allows content creators to have the blockchain to validate their content at a certain point in time simply by writing their post using the same authoring tools used by other Steem users.
 
