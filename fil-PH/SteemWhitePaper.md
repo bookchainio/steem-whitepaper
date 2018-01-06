@@ -1,12 +1,12 @@
 # Ang steem
 
-## Isang insentibong, batay sa blockchain, pampublikong plataporma ng nilalaman.
+## Isang incentivized blockchain batay sa pang publikong content platform.
 
-Agosto 2017
+Ang Agosto 2017
 
-# Mga tala ng mga tagasalin
+# Ang talaan ng tagasalin
 
-Placeholder para sa mga tala ng mga tagasalin.
+Placeholder para sa talaan ng tagasalin.
 
 # Abstrakto
 
