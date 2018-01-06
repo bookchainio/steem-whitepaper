@@ -290,15 +290,15 @@ Qualquer taxa cria uma barreira de entrada para novos usuários. Antes que algu�
 
 ### Alterando Taxas
 
-Over time a network must adjust fees. This can happen either due to an increase in the value of the token or due to a surge in capacity. Users like predictable fees and guaranteed service. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
+Ao longo do tempo a rede deve ajustar as taxas. Isso pode ocorrer devido ao aumento do valor do token ou devido a um aumento da capacidade. Os usuários gostam de taxas previsíveis e serviço garantido. Apesar de ser possível ajustar dinamicamente as taxas durante períodos de muito uso, o resultado é uma experiência de usuário ruim.
 
-### Sybil Attacks
+### Ataques Sybil
 
-Centralized websites prevent spam through rate limiting and some form of ID verification. Even something as simple as reCAPTCHA[^9] is sufficient to limit the creation of fake accounts. If someone abuses their account then centralized websites are free to block the account.
+Websites centralizados previnem o spam através da limitação de uso e alguma forma de verificação de Identidade. Até mesmo algo simples como um reCAPCTCHA[^9] é suficiente para limitar a criação de contas falsas. Se alguém abusar com a sua conta então websites centralizados estão livres para bloquear a conta.
 
-In a decentralized system there is no direct way to ban users nor centralized provider able to host a reCAPTCHA and enforce rate limiting of accounts. In fact, the inability to censor users is one of the main selling points of blockchain technology.
+Em um sistema descentralizado não existe forma direta de banir usuários nem existe um provedor centralizado capar de hospedar um reCAPTCHA e forçar o limite de uso de contas. Na verdade, a inabilidade de censurar os usuários é um dos principais argumentos de venda da tecnologia blockchain.
 
-### Full Reserve vs Fractional Reserve
+### Reserva Total vs Reserva Fracionária
 
 Let’s view a blockchain like an Internet Service Provider (ISP) co-op which owns all of the cables in the town and has a maximum amount of bandwidth that it can provide at any time. People living in the town can buy shares in the ISP and in exchange they are entitled to utilize a portion of the available bandwidth.
 
