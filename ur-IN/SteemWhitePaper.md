@@ -226,15 +226,15 @@ The actual distribution will depend upon the voting patterns of users, but we su
 
 ![](\img_the_new_marketplace.png)
 
-اگر مقبولیت کو قدر و قیمت کی کسی نہ کسی پیمائش کے طور پر لیتے ہیں پھر ہر چیز کی قدر زپ کے قانون کی طرف سے دی جائیگی. وہ یہ ہے کہ اگر ہمارے پاس دس لاکھ اشیاء ہیں تو سب سے زیادہ مقبول ١٠٠ (100) چیزیں مجموعی قیمت کا ایک تہائی حصہ لیں گی، اگلی ١٠٠٠٠ (10,000) چیزیں مزید ایک تہائی حصہ لیں گی اور باقی ٩٨٩٩٠٠ (989,900) چیزیں آخری تہائی حصہ لیں گی. The value of the collection of n items is proportional to log(n).
+اگر مقبولیت کو قدر و قیمت کی کسی نہ کسی پیمائش کے طور پر لیتے ہیں پھر ہر چیز کی قدر زپ کے قانون کی طرف سے دی جائیگی. وہ یہ ہے کہ اگر ہمارے پاس دس لاکھ اشیاء ہیں تو سب سے زیادہ مقبول ١٠٠ (100) چیزیں مجموعی قیمت کا ایک تہائی حصہ لیں گی، اگلی ١٠٠٠٠ (10,000) چیزیں مزید ایک تہائی حصہ لیں گی اور باقی ٩٨٩٩٠٠ (989,900) چیزیں آخری تہائی حصہ لیں گی. این (n) اشیاء کے مجموعے کی قیمت لاگ ان ((log(n) کے متوازن ہے.
 
-The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
+اس ووٹنگ اور ادائیگی کی تقسیم کا اثر یہ ہے کہ جس سے اچھے اور مقبول مواد کو زیادہ انعامات دیے جائیں مگر ساتھ ہی چھوٹے کھلاڑیوں کو ان کے چھوٹے تعاون پر بھی کچھ نہ کچھ دیا جائے.
 
-The economic effect of this is similar to a lottery where people overestimate their probability of getting votes and thus do more work than the expected value of their reward and thereby maximize the total amount of work performed in service of the community. The fact that everyone “wins something” plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
+اس کا اقتصادی اثر ایک لاٹری کی طرح ہے جہاں لوگ ووٹوں کے حاصل کرنے کے امکانات کو زیادہ سے زیادہ کرتے تصور کرتے ہیں اور نتیجتا اپنی اجرت کی متوقع قدر سے زیادہ کام کر لیتے ہیں اور اس طرح کمیونٹی کی مجموعی خدمات کی تعداد میں زیادہ سے زیادہ اضافہ کر دیتے ہیں. یہ حقیقت یعنی “ہر کوئی کچھ نہ کچھ جیتتا ہے“ اسی نفسیات پر چلتا ہے جو رقص گاہ لوگوں کو جوئے میں مشغول رکھنے کے لئے استعمال کرتے ہیں. دوسرے لفظوں میں چھوٹے انعامات اس خیال کو مضبوط بنانے میں امداد کرتے ہیں دیتے ہیں کہ بڑے انعامات حاصل کرنا ممکن ہے.
 
-### Payouts
+### ادائیگیاں
 
-When a post receives a payout it takes the form of 50% SBD and 50% SP. The Steem Power give the user increased voting and transaction power while the SBD gives the user an immediate benefit in a stable currency. As we’ve already discussed at length, SP is designed to encourage long-term holding rather than short-term selling. This encourages more users to have a vested interest in the long-term success of the platform.
+جب ایک مواد کی اشاعت ادائیگی حاصل کرتی ہے، وہ ٥٠ فیصد (%50) ایس-بی-ڈی (SBD) اور ٥٠ فیصد (%50) سٹیم پاور (SP) کی شکل لیتی ہے. سٹیم پاور صارف کی ووٹنگ اور لین دین کی طاقت میں اضافہ کرتی ہے جب کہ ایس-بی-ڈی (SBD) صارف کو فوری فائدہ ایک مستحکم کرنسی کی شکل میں فوری فائدہ فراہم کرتا ہے. جیسے ہم نے پہلے بھی ایک لمبی گفتگو کی، سٹیم پاور (SP) کو طویل مدتی ہولڈنگ کو فروغ دینے کے لئے تیار کیا گیا ہے نہ کہ کم قلیل مدتی فروخت کے. یہ زیادہ صارفین کو پلیٹ فارم کی طویل مدتی کامیابی کے لئے ویسٹنگ مفاد رکھنے کی حوصلہ افزائی کرتا ہے.
 
 Users also have the option to be paid in 100% SP, as well as decline payout on posts. When a user declines payout on a post, the money that would have been paid to them remains in the rewards pool, to be distributed to other users.
 
