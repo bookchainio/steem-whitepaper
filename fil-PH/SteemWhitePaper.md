@@ -8,7 +8,7 @@ Ang Agosto 2017
 
 Placeholder para sa talaan ng tagasalin.
 
-# Abstrakto
+# Ang abstract
 
 Ang Steem ay isang blockchain database na sumusuporta sa pagtatayo ng mga komunidad at pakikipag-ugnayan sa lipunan na may mga cryptocurrency na gantimpala. Pinagsasama ng Steem ang mga konsepto ng social media kasama ang mga aral na natutunan mula sa pagtatayo ng mga cryptocurrencies at kanilang mga komunidad. Isang mahalagang susi upang magbigay inspirasyon sa paglahok sa anumang komunidad, pera o ekonomiya ng malayang merkado ay isang patas na sistema ng accounting na palaging nagpapakita ng kontribusyon ng bawat tao. Ang Steem ang unang cryptocurrency na nagtangka na tumpak at malinaw na bigyan ng pabuya ang walang-katapusang bilang ng mga indibidwal na gumagawa ng *suhetibong kontribusyon* sa komunidad.
 
