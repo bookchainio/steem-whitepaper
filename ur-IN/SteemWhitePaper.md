@@ -226,7 +226,7 @@ The actual distribution will depend upon the voting patterns of users, but we su
 
 ![](\img_the_new_marketplace.png)
 
-اگر مقبولیت کو قدر و قیمت کی کسی نہ کسی پیمائش کے طور پر لیتے ہیں پھر ہر چیز کی قدر زپ کے قانون کی طرف سے دی جائیگی. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
+اگر مقبولیت کو قدر و قیمت کی کسی نہ کسی پیمائش کے طور پر لیتے ہیں پھر ہر چیز کی قدر زپ کے قانون کی طرف سے دی جائیگی. وہ یہ ہے کہ اگر ہمارے پاس دس لاکھ اشیاء ہیں تو سب سے زیادہ مقبول ١٠٠ (100) چیزیں مجموعی قیمت کا ایک تہائی حصہ لیں گی، اگلی ١٠٠٠٠ (10,000) چیزیں مزید ایک تہائی حصہ لیں گی اور باقی ٩٨٩٩٠٠ (989,900) چیزیں آخری تہائی حصہ لیں گی. The value of the collection of n items is proportional to log(n).
 
 The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
 
