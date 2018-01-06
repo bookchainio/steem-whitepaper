@@ -320,7 +320,7 @@ Under a fractional reserve system the individual users could utilize more bandwi
 
 ### مقارنة الرسوم
 
-إذا افترضنا أن مستخدم بقيمة 25 دولارا أمريكيا من معاملات بتكوين مرة في كل اسبوع ويدفع رسوما قدرها $0.04 في كل مرة، فإنه سيدفع أكثر من 2 دولار في الرسوم سنويا. A user would have to earn a 8% rate of return on their $25 dollars just to break even with paying fees. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
+إذا افترضنا أن مستخدم بقيمة 25 دولارا أمريكيا من معاملات بتكوين مرة في كل اسبوع ويدفع رسوما قدرها $0.04 في كل مرة، فإنه سيدفع أكثر من 2 دولار في الرسوم سنويا. يجب على المستخدم كسب معدل العائد بنسبة %8 على $ 25 دولار فقط لكسره حتى ولو مع دفع الرسوم. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
 
 ### Account Creation
 
