@@ -318,11 +318,11 @@ Under a fractional reserve system the individual users could utilize more bandwi
 
 قدرات بلوكشين ليست مغطات بالضرورة. إنها جيدة ضمن القدرة التكنولوجية للبنية التحتية للإنترنت لزيادة حجم بلوك البيتكوين إلى 10MB والتي بدورها سوف تقلل من الحد الأدنى للتوازن المطلوب بعامل قدره 10. في حين ان البتكوين يدعم حاليا حوالي 3 معاملات في الثانية الواحدة، والتطبيقات البديلة قادرة على أكثر من 1000 معاملة في الثانية الواحدة.
 
-### مقارنة الرسوم
+### مقارنة للرسوم
 
-إذا افترضنا أن مستخدم بقيمة 25 دولارا أمريكيا من معاملات بتكوين مرة في كل اسبوع ويدفع رسوما قدرها $0.04 في كل مرة، فإنه سيدفع أكثر من 2 دولار في الرسوم سنويا. يجب على المستخدم كسب معدل العائد بنسبة %8 على $ 25 دولار فقط لكسره حتى ولو مع دفع الرسوم. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
+إذا افترضنا أن مستخدم بقيمة 25 دولارا أمريكيا من معاملات بتكوين مرة في كل اسبوع ويدفع رسوما قدرها $0.04 في كل مرة، فإنه سيدفع أكثر من 2 دولار في الرسوم سنويا. يجب على المستخدم كسب معدل العائد بنسبة %8 على $ 25 دولار فقط لكسره حتى ولو مع دفع الرسوم. وهناك احتمالات أن المستخدمين يرغبون بامتلاك أموالهم على بلوكشين على أي حال، لذلك هذا المستخدم بقيمة $25 من البيتكوين قد حافظ على $2 على مدى سنة من خلال اعتماد نهج يحدد معدل الفائدة بدلا من اتباع نهج قائم على الرسوم. مع $175 فقط فإنها يمكن أن تتعامل كل يوم وتوفر 14 دولارا في السنة.
 
-### Account Creation
+### إنشاء الحساب
 
 Steem’s account-based system with publicly known balances simplifies the implementation of the bandwidth-based rate limiting algorithm. Any account with a balance below the minimum required to transact once per week would be unable to transact. This implies that all new accounts should be funded with at least this minimum balance. It also implies that users wishing to transact in smaller amounts can, so long as they hold a larger balance and reuse the account.
 
