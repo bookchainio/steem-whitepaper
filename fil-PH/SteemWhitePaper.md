@@ -1,4 +1,4 @@
-# Steem
+# Ang steem
 
 ## Isang insentibong, batay sa blockchain, pampublikong plataporma ng nilalaman.
 
