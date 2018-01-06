@@ -489,15 +489,15 @@ Steem解决这个问题的方法是让每个人都可以做简单但有价值的
 
 ## 审查
 
-Steem是一个由位于世界各地司法管辖区的见证人经营的去中心化的网络。 所有用户操作都在区块链上公开记录，并且可以公开验证。 This means that there is no single entity that can censor content that is valued by STEEM holders.
+Steem是一个由位于世界各地司法管辖区的见证人经营的去中心化的网络。 所有用户操作都在区块链上公开记录，并且可以公开验证。 这意味着没有单一实体可以审查Steem持有人所珍视的内容。
 
-Individual websites such as steemit.com may censor content on their particular site, but content published on the blockchain is inherently broadcast traffic and mirrors all around the world may continue to make it available.
+个别网站，比如steemit.com，可能会审查其网站上的内容。在区块链上发布的内容本身就是广播流量，世界各地的镜像可以继续使其可用。
 
-Freedom of speech is the foundation of all other liberties and any infringement upon freedom of speech undermines the only peaceful means of reaching consensus: discussion. Without free discussion voters cannot be fully informed, and uninformed voters are a greater threat to society than losing the right to vote. Censorship is a means of stealing votes through limiting public discourse. Steem is committed to enabling free speech and building a free society.
+言论自由是所有其他自由的基础，任何侵犯言论自由的行为都破坏了达成共识的唯一和平手段: 讨论。 如果没有自由讨论，选民就不能完全知情。不知情的选民对社会的威胁比失去投票权更大。 审查是通过限制公众话语权来窃取选票的手段。 Steem致力于实现言论自由和建立自由社会。
 
-## Solving Organic Discovery via Search Engine Optimization
+## 通过搜索引擎优化解决有机发现
 
-Most cryptocurrencies generate little value for those who are not actively using the network. Steem, by contrast, generates content and encourages users to share it. This content gets indexed by search engines and ultimately will bring value to a large number of passive users. This search traffic creates organic advertising for the Steem network and grows the network effect.
+大多数加密货币对那些不积极使用网络的人产生的价值不大。 相反，Steem生成内容并鼓励用户共享。 这个内容得到搜索引擎的索引，最终将给大量的被动用户带来价值。 这些搜索流量为Steem网络创造了有机广告，并且增长了网络效应。
 
 ## Shifting Toward Blockchain-based Attribution
 
