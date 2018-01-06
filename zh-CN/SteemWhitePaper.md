@@ -503,13 +503,13 @@ Steem是一个由位于世界各地司法管辖区的见证人经营的去中心
 
 互联网是世界上最容易传播信息的媒介。 所以说，对于那些想拥有他们的内容并且希望用恰当的归属权分析内容的内容创造者来讲，互联网是一个可怕的地方。 在当前的社交媒体平台上，归属是一种可以在一夜之间丢失的东西：一个张贴的视频或图像可以未经作者同意或者未提及作者而被复制和重现分享。
 
-在基于区块链的社交媒体下，创作者或作者总是能够指向公共记录和时间戳以证明其内容创作的证据。 In a circumstance where a creator would like to address those who have re-shared without permission or attribution, blockchain-based records provide public proof that the content was posted by a particular user at a particular time. In the future, blockchain-based attribution could come to be recognized by governments for its authenticity and could hold weight in court, which would give content creators greater powers to control their work.
+在基于区块链的社交媒体下，创作者或作者总是能够指向公共记录和时间戳以证明其内容创作的证据。 在创作者想要解决未经许可或归属而重新分享这个问题的情况下，基于区块链的记录提供了内容是由特定用户在特定时间发布的公开证据。 将来区块链为基础的归属可能会被政府承认为其真实性，并可以在法庭上举足轻重，这将使内容创造者有更大的能力来控制他们的作品。
 
-While a timestamping service can be built on almost any blockchain, and several efforts exist to build this kind of service on the Bitcoin network, Steem has a useful advantage in this realm because content publishers are “first class citizens” -- the Steem blockchain is built from the ground up around the use case of content publication, which allows content creators to have the blockchain to validate their content at a certain point in time simply by writing their post using the same authoring tools used by other Steem users.
+虽然时间戳服务可以建立在几乎任何区块链上，并有几个在比特币网络创建的这种服务，但是Steem在这个领域有一个有用的优势，因为内容出版商是 "头等公民"：Steem区块链是在内容发布的用例的基础上构建的，它允许内容创建者通过使用与其他Steem用户使用的相同的创作工具，使用区块链在某一特定时间点来验证其内容。
 
-## Replacing Advertising with Blockchain-based Content Rewards
+## 以区块链为基础的内容奖励代替广告
 
-Under most content monetization models, content creators leverage advertising in one form or another. Many creators recognize how advertising may diminish their work’s value to the consumer, yet creators very often must seek returns on their time by monetizing. Advertising represents a double-edged sword: With ads, a creator can make money most easily. Without ads, monetization is difficult but the content is richer.
+在大多数内容货币化模式下，内容创作者利用这种或那种的广告形式。 许多创作者认识到广告可能会降低他们的作品对消费者的价值，但创作者往往必须通过货币化来为时间付出寻求回报。 广告是一把双刃剑：利用广告，创造者可以最容易的赚钱。 Without ads, monetization is difficult but the content is richer.
 
 Creators posting to social media outlets that are connected to Steem may monetize merely by having their work recognized (or ”liked”) by the Steem community. Blockchain-based payouts are completely digital and have no middle-man. Therefore monetization by blockchain-based content rewards should be faster and much lower barrier to use than monetization by advertisements.
 
