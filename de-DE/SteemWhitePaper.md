@@ -489,9 +489,9 @@ Another way that people can liquidate the small amounts of cryptocurrency they r
 
 ## Zensur
 
-Steem is a decentralized network that is operated by witnesses in jurisdictions around the world. Alle Aktionen der Nutzer werden öffentlich auf der Blockchain publiziert und können aus diesem Grund öffentlich nachvollzogen werden. This means that there is no single entity that can censor content that is valued by STEEM holders.
+Steem is a decentralized network that is operated by witnesses in jurisdictions around the world. Alle Aktionen der Nutzer werden öffentlich auf der Blockchain publiziert und können aus diesem Grund öffentlich nachvollzogen werden. Das bedeutet, dass es keine einzige Instanz gibt, die Inhalte zensieren kann, die von STEEM-Inhabern wertgeschätzt werden.
 
-Individual websites such as steemit.com may censor content on their particular site, but content published on the blockchain is inherently broadcast traffic and mirrors all around the world may continue to make it available.
+Einzelne Websites wie steemit.com können Inhalte auf ihrer jeweiligen Website zensieren, aber Inhalte, die auf der Blockchain veröffentlicht werden, sind von Natur aus Broadcasts und andere Seiten auf der ganzen Welt können sie weiterhin zur Verfügung stellen.
 
 Redefreiheit ist die Grundlage aller anderen Freiheiten. Somit untergräbt jede Verletzung der Redefreiheit das einzige friedliche Mittel zur Erzielung eines Konsenses: die Diskussion. Without free discussion voters cannot be fully informed, and uninformed voters are a greater threat to society than losing the right to vote. Censorship is a means of stealing votes through limiting public discourse. Steem setzt sich dafür ein freie Meinungsäußerung zu ermöglichen und eine freie Gesellschaft aufzubauen.
 
