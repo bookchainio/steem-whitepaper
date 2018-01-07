@@ -10,7 +10,7 @@ Placeholder para sa talaan ng tagasalin.
 
 # Ang abstract
 
-Ang Steem ay isang blockchain database na sumosuporta sa pag bubuo ng komunida at pakikipag-ugnayan sa lipunan upang magkaruon ng cryptocurrentce na gantimpala. Pinagsasama ng Steem ang mga konsepto ng social media kasama ang mga aral na natutunan mula sa pagtatayo ng mga cryptocurrencies at kanilang mga komunidad. Isang mahalagang susi upang magbigay inspirasyon sa paglahok sa anumang komunidad, pera o ekonomiya ng malayang merkado ay isang patas na sistema ng accounting na palaging nagpapakita ng kontribusyon ng bawat tao. Ang Steem ang unang cryptocurrency na nagtangka na tumpak at malinaw na bigyan ng pabuya ang walang-katapusang bilang ng mga indibidwal na gumagawa ng *suhetibong kontribusyon* sa komunidad.
+Ang Steem ay isang blockchain database na sumosuporta sa pag bubuo ng komunida at pakikipag-ugnayan sa lipunan upang magkaruon ng cryptocurrentce na gantimpala. Ang steem ay pinag iisa ang konsepto ng social media kasama ang aral na natutunan mula sa nabuo ng cryptocurrencies at kanilang kuminidad. Isang mahalagang susi upang magbigay inspirasyon sa paglahok sa anumang komunidad, pera o ekonomiya ng malayang merkado ay isang patas na sistema ng accounting na palaging nagpapakita ng kontribusyon ng bawat tao. Ang Steem ang unang cryptocurrency na nagtangka na tumpak at malinaw na bigyan ng pabuya ang walang-katapusang bilang ng mga indibidwal na gumagawa ng *suhetibong kontribusyon* sa komunidad.
 
 # Talaan ng mga Nilalaman
 
