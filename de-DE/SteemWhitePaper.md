@@ -487,13 +487,13 @@ Merchants will accept any currency if it increases their sales. Having a large u
 
 Another way that people can liquidate the small amounts of cryptocurrency they receive from participating on the Steem platform is through *tipping* others. This is like leaving the small change as a tip for your waiter. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
 
-## Censorship
+## Zensur
 
-Steem is a decentralized network that is operated by witnesses in jurisdictions around the world. All user actions are publicly recorded on the blockchain, and can be publicly verified. This means that there is no single entity that can censor content that is valued by STEEM holders.
+Steem is a decentralized network that is operated by witnesses in jurisdictions around the world. Alle Aktionen der Nutzer werden öffentlich auf der Blockchain publiziert und können aus diesem Grund öffentlich nachvollzogen werden. This means that there is no single entity that can censor content that is valued by STEEM holders.
 
 Individual websites such as steemit.com may censor content on their particular site, but content published on the blockchain is inherently broadcast traffic and mirrors all around the world may continue to make it available.
 
-Freedom of speech is the foundation of all other liberties and any infringement upon freedom of speech undermines the only peaceful means of reaching consensus: discussion. Without free discussion voters cannot be fully informed, and uninformed voters are a greater threat to society than losing the right to vote. Censorship is a means of stealing votes through limiting public discourse. Steem is committed to enabling free speech and building a free society.
+Redefreiheit ist die Grundlage aller anderen Freiheiten. Somit untergräbt jede Verletzung der Redefreiheit das einzige friedliche Mittel zur Erzielung eines Konsenses: die Diskussion. Without free discussion voters cannot be fully informed, and uninformed voters are a greater threat to society than losing the right to vote. Censorship is a means of stealing votes through limiting public discourse. Steem setzt sich dafür ein freie Meinungsäußerung zu ermöglichen und eine freie Gesellschaft aufzubauen.
 
 ## Solving Organic Discovery via Search Engine Optimization
 
