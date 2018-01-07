@@ -441,7 +441,7 @@ Steem recognizes that the value of all user contributions (posts and votes) is g
 
 Because everyone benefits, everyone should pay. In other words, no individual user should be expected to pay for anything, but instead should be paid for everything they do that brings value to Steem. All we need to do is ascertain which user contributions bring a social network value and which ones don’t.
 
-Collectively Reddit users vote 220 times per second and make 23 posts per second. Reddit is valued between $500 million[^18] and $4 billion[^19] which means that each and every upvote and post is worth between $0.06 and $0.50 assuming the value of Reddit is mostly within the past year’s worth of activity. One could argue that most of the value of Reddit is the near-real-time discussions that have occurred within the past week which would dramatically increase the value of new activity. People go where people are today, not where people were last year.
+Zusammengenommen bewerten Reddit-Nutzer 220 Mal pro Sekunde und verfassen 23 Beiträge pro Sekunde. Reddit is valued between $500 million[^18] and $4 billion[^19] which means that each and every upvote and post is worth between $0.06 and $0.50 assuming the value of Reddit is mostly within the past year’s worth of activity. Man könnte argumentieren, dass der größte Teil des Wertes von Reddit die sich in nahezu Echtzeit ereignenden Diskussionen der letzten Woche sind, die den Wert neuer Aktivitäten dramatisch erhöhen würden. Die Menschen gehen dahin, wo die Menschen heute sind, nicht dorthin, wo sie letztes Jahr waren.
 
 ## No Micropayments, Tips Optional
 
