@@ -12,11 +12,11 @@ Placeholder para sa talaan ng tagasalin.
 
 Ang Steem ay isang blockchain database na sumosuporta sa pag bubuo ng komunida at pakikipag-ugnayan sa lipunan upang magkaruon ng cryptocurrentce na gantimpala. Ang steem ay pinag iisa ang konsepto ng social media kasama ang aral na natutunan mula sa nabuo ng cryptocurrencies at kanilang kuminidad. Isang mahalagang susi upang magbigay inspirasyon sa pagsali sa kahit saang kumunidad, pera o ekonomiya ng malayang merkado ay isang pantay na pamamaraan ng accounting na palaging maipakita ang ambag ng bawat mamamayan. Ang Steem ang kauna unang cryptocurreny na sumobok sa Tama at malinaw na pagbibigay ng pabuya sa walang katapusang bilang ng mga tao na gumagawa ng * suhetibong kontribusyon * sa komunidad.
 
-# Talaan ng mga Nilalaman
+# Ang talaan ng nilalaman
 
 <!-- toc -->
 
-# Introduksyon
+# Ang pasimula
 
 Sama-sama, ang mga user-generated na mga nilalaman ay lumikha ng bilyun-bilyong dolyar na halaga para sa mga shareholders ng mga kompanya ng social media, tulad ng Reddit, Facebook, at Twitter. **Noong 2014, Gumawa ng teorya ang Reddit na maaring mapapabuti ang kanilang plataporma kung lahat ng mga tao na tumulong sa reddit.com sa pamamagitan ng pagpaskil ng mga kuwento, pagdaragdag ng mga komento o pagboto ay mabigyan ng makatarungan na bahagi mula sa Reddit, Inc.[^1]**. Nilalayon ng Steem na suportahan ang social media at mga online na komunidad sa pamamagitan ng pagbabalik ng halaga nito sa mga tao na nakapagbigay ng mahalagang kontribusyon sa pamamagitan ng pagbigay ng gantimpala na mga cryptocurrency, at sa pamamagitan ng prosesong ito makapaglikha ng isang pera na may kakayahan na makaabot ang malawak na merkado, kabilang ang mga tao na hindi pa sumali sa anumang ekonomiya ng cryptocurrency.
 
