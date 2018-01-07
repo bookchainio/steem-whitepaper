@@ -268,7 +268,7 @@ SBD ہولڈران کو سود ادا کرتا ہے. سود کی شرح ان ہ�
 
 بلاکچین غیرمرکزی نیٹ ورکس (Decentralized Networks) ہیں جہاں تمام لین دین یعنی ٹرانزیکشنز تمام ساتھیوں کو نشر کی جاتی ہیں. اکثر ایک بلاک پیدا کیا جاتا ہے جس میں کچھ یا پورا زیرغور ٹرانزیکشنز شامل ہوتی ہیں. تمام بلاکچین کو ایک حل تلاش کرنا ہوگا جس کے ذریعے بدنیت لوگوں کو نیٹ ورک کی دستیاب صلاحیت بیکار ٹرانزیکشنز (لین دین) کے ذریعے استعمال کرنے سے روکا جا سکتا ہو. یہ بیکار ٹرانزیکشنز قیمتی لین دین کو عملدرآمد سے روک سکتی ہیں اور بلاخر نیٹ ورک کو تباہ کر سکتی ہیں.
 
-The solution adopted by most blockchains thus far is to charge a minimum transaction fee. A fee worth just a few cents is enough to make attacking the network expensive and unprofitable. While this approach solves the spam problem, it introduces new problems. Imagine solving the email spam problem by introducing a small fee on every email; people wouldn’t use email.
+ابھی تک زیادہ تر بلاکچین نے جو حل اپنایا ہے وہ لین دین میں کم سے کم کٹوتی (فیس) ہے. A fee worth just a few cents is enough to make attacking the network expensive and unprofitable. While this approach solves the spam problem, it introduces new problems. Imagine solving the email spam problem by introducing a small fee on every email; people wouldn’t use email.
 
 ### Micropayments Don’t Work
 
