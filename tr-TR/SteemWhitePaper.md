@@ -18,7 +18,7 @@ Steem topluluk oluşturmayı ve kripto para birimi ödülleri yoluyla sosyal etk
 
 # Giriş
 
-Kollektif halde, kullanıcı tarafından yaratılmış icerik Reddit, Facebook ve Twitter gibi sosyal medya şirketlerinin hissedarları icin milyarlarca dolarlık bir değer yarattı. **2014 yilinda Reddit, reddit.com'a hikaye paylasimlari, yorum ekleme, ya da oylama yoluyla katkida bulunmus olan herkesin Reddit'ten adil bir hisse ile ödüllendirilmesi durumunda kendi platformlarinin cok daha gelisecegi varsayimini öne sürdü.<sup id="fnref:1"><a href="#fn:1" class="footnote-ref"></a></sup>**. Steem sosyal medyayi ve cevrim ici topluluklari, sahip oldugu degerin büyük bir kismini ona degerli katkilarda bulunan herkesi kripto parabirimleri ile ödüllendirmek yoluyla onlara iade ederek, desteklemeyi amaclamaktadir.
+Kollektif halde, kullanıcı tarafından yaratılmış icerik Reddit, Facebook ve Twitter gibi sosyal medya şirketlerinin hissedarları icin milyarlarca dolarlık bir değer yarattı. **2014 yılında Reddit, reddit.com'a hikaye paylaşımları, yorum ekleme, ya da oylama yoluyla katkida bulunmuş olan herkesin Reddit'ten adil bir hisse ile ödüllendirilmesi durumunda kendi platformlarının çok daha gelişeceği gelişeceği varsayımını öne sürdü.<sup id="fnref:1"><a href="#fn:1" class="footnote-ref"></a></sup>**. Steem sosyal medyayi ve cevrim ici topluluklari, sahip oldugu degerin büyük bir kismini ona degerli katkilarda bulunan herkesi kripto parabirimleri ile ödüllendirmek yoluyla onlara iade ederek, desteklemeyi amaclamaktadir.
 
 Steem'in tasarimina rehberlik etmek icin kullanilmis olan bazi ana ilkeler vardir. En önemli ilke bir girisime katkida bulunmus olan herkesin girisimden nisbi oranda hisse, ödeme ya da borc aliyor olmasidir. Bu ilke, kurulus asamasinda ve müteakip fonlama rauntlari sirasinda hisse dagitan tüm startup'larda uygulanan ilkenin aynisidir.
 
@@ -29,7 +29,7 @@ Ikinci ilke, tüm sermaye cesitlerinin esit derecede degerli olmasidir. Bu su an
 Steem toplulugu üyelerie asagida yer alan hizmetleri sunar:
 
 1. Bir kürete edilmis haber ve yorum kaynagi.
-2. Bir kisisellsetirilmis sorulara yüksek kalitede alma araci.
+2. Bir kisisellsetirilmis sorulara yüksek kalitede yanitlar alma araci.
 3. Amerikan dolarina es deger stabil bir kripto para birimi.
 4. Ücretsiz ödemeler.
 5. Yukaridaki servisleri kullanicilara saglayacak isler.
