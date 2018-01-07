@@ -1,6 +1,6 @@
 # Steem
 
-## Bir blockchain temelli, tesvikli, kamusal paylasim platformu.
+## Bir blockchain temelli, teşvikli, kamusal paylaşım platformu.
 
 Agustos 2017
 
@@ -10,15 +10,15 @@ Placeholder for translator's notes.
 
 # Özet
 
-Steem topluluk oluşturmayı ve kripto para birimi ödülleri yoluyla sosyal etkileşimi destekleyen bir blockchain veri tabanıdır. Steem sosyal medyadan bazı kavramlar ile kripto para birimi ve onların topluluklarını oluşturmak konusundan çıkarılmış dersleri bir araya getirir. Herhangi bir topluluk, para birimi ya da özgür piyasa ekonomisi icerisindeki katilimi yayginlastirmanin anahtarlarindan biri her bireyin katilimini tutarli bir sekilde yansitan bir adil muhasebe sistemidir. Steem sinirsiz sayida bireyin kendi topluluklarina *öznel katkilar* sunmasini dogru ve seffaf bir sekilde ödüllendirmeyi hedefleyen ilk kripto para birimidir.
+Steem topluluk oluşturmayı ve kripto para birimi ödülleri yoluyla sosyal etkileşimi destekleyen bir blockchain veri tabanıdır. Steem sosyal medyadan bazı kavramlar ile kripto para birimi ve onların topluluklarını oluşturmak konusundan çıkarılmış dersleri bir araya getirir. Herhangi bir topluluk, para birimi ya da özgür piyasa ekonomisi içerisindeki katılımı yaygınlastırmanın anahtarlarından biri her bireyin katılımını tutarlı bir sekilde yansıtan bir adil muhasebe sistemidir. Steem sinirsiz sayıda bireyin kendi topluluklarına *öznel katkılar* sunmasını doğru ve şeffaf bir şekilde ödüllendirmeyi hedefleyen ilk kripto para birimidir.
 
 # Icindekiler
 
 <!-- toc -->
 
-# Giris
+# Giriş
 
-Kollektif halde, kullanici tarafindan yaratilmis icerik Reddit, Facebook ve Twitter gibi sosyal medya sirketlerinin hissedarlari icin milyarlarca dolarlik bir deger yaratti. **2014 yilinda Reddit, reddit.com'a hikaye paylasimlari, yorum ekleme, ya da oylama yoluyla katkida bulunmus olan herkesin Reddit'ten adil bir hisse ile ödüllendirilmesi durumunda kendi platformlarinin cok daha gelisecegi varsayimini öne sürdü.<sup id="fnref:1"><a href="#fn:1" class="footnote-ref"></a></sup>**. Steem sosyal medyayi ve cevrim ici topluluklari, sahip oldugu degerin büyük bir kismini ona degerli katkilarda bulunan herkesi kripto parabirimleri ile ödüllendirmek yoluyla onlara iade ederek, desteklemeyi amaclamaktadir.
+Kollektif halde, kullanıcı tarafından yaratılmış icerik Reddit, Facebook ve Twitter gibi sosyal medya şirketlerinin hissedarları icin milyarlarca dolarlık bir değer yarattı. **2014 yilinda Reddit, reddit.com'a hikaye paylasimlari, yorum ekleme, ya da oylama yoluyla katkida bulunmus olan herkesin Reddit'ten adil bir hisse ile ödüllendirilmesi durumunda kendi platformlarinin cok daha gelisecegi varsayimini öne sürdü.<sup id="fnref:1"><a href="#fn:1" class="footnote-ref"></a></sup>**. Steem sosyal medyayi ve cevrim ici topluluklari, sahip oldugu degerin büyük bir kismini ona degerli katkilarda bulunan herkesi kripto parabirimleri ile ödüllendirmek yoluyla onlara iade ederek, desteklemeyi amaclamaktadir.
 
 Steem'in tasarimina rehberlik etmek icin kullanilmis olan bazi ana ilkeler vardir. En önemli ilke bir girisime katkida bulunmus olan herkesin girisimden nisbi oranda hisse, ödeme ya da borc aliyor olmasidir. Bu ilke, kurulus asamasinda ve müteakip fonlama rauntlari sirasinda hisse dagitan tüm startup'larda uygulanan ilkenin aynisidir.
 
