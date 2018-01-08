@@ -22,7 +22,7 @@ Kollektif halde, kullanıcı tarafından yaratılmış icerik Reddit, Facebook v
 
 Steem'in tasarımına rehberlik etmek için kullanılmıs olan bazı ana ilkeler vardır. En önemli ilke, bir girişime katkıda bulunmuş olan herkesin girişimden nisbi oranda hisse, ödeme ya da borc aliyor olmasidir. Bu ilke, kurulus aşamasında ve müteakip fonlama rauntları sırasında hisse dağıtan tüm startup'larda uygulanan ilkenin aynısıdır.
 
-İkinci ilke, tüm sermaye çeşitlerinin eşit derecede değerli olmasıdır. Bu şu anlama gelir: Kısıtlı zamanlarını ve dikkatlerini diğerleri için içerik üreterek ve küratörlük yaparak platforma katkı olarak sunanlar, kısıtlı nakitlerini katkı olarak sunanlarla aynı oranda değerlidir. Bu emek-yogun sermaye ilkesidir[^2] ve kripto parabirimlerinin öncesinde, cok az sayida sayida bireyden fazlasina yardim edebilmek konusunda cogunlukla sikinti yasamistir.
+İkinci ilke, tüm sermaye çeşitlerinin eşit derecede değerli olmasıdır. Bu şu anlama gelir: Kısıtlı zamanlarını ve dikkatlerini diğerleri için içerik üreterek ve küratörlük yaparak platforma katkı olarak sunanlar, kısıtlı nakitlerini katkı olarak sunanlarla aynı oranda değerlidir. Bu emek-yoğun sermaye ilkesidir[^2] ve önceki birçok kripto para birimi, sinirli sayida insandan fazlasina refah sağlamak konusunda bu kavram ile sıkıntı yasamıştır.
 
 Ücüncü ilke, toplulugun üyelerine hizmet edebilmek icin ürünler üretiyor olmasidir. Bu ilke, kendi topluluklarinin disina mal ya da hizmet satmaktansa sadece kendi üyelerine hizmet eden kredi birlikleri, yemek kooperatifleri, saglik paylasim planlari üzerinden örneklendirilebilir.
 
@@ -396,7 +396,7 @@ Yakin zamanda Intel tarafindan Optane™ teknolojisinin piyasa sürülmüs olmas
 
 # Paylasim & Arz
 
-## Nihai Paylasim & Arz
+## İlk Paylasim & Arz
 
 Steem Agi 0 para birimi arzi ile ve Miner'lara, Proof of Work araciligiyla dakikada yaklasik 40 STEEM ve icerik ve küratörlük ödül havuzunun yaratilmasi icin harcanan her bir dakika icin de ilaveten 40 STEEM (Toplamda dakika basina 80 STEEM) olmak üzere dagitilan STEEM ile basladi. Sonrasinda, ag SP'ye dönüstüren kullanicilari ödüllendirmeye basladi. Bu noktada STEEM asagida özetlenen cesitli Katki Ödüllerinin muhtelif etkilerinden ötürü dakida basina yaklasik 800 STEEM oranina yükseldi:
 
