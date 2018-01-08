@@ -24,12 +24,12 @@ Steem'in tasarımına rehberlik etmek için kullanılmıs olan bazı ana ilkeler
 
 İkinci ilke, tüm sermaye çeşitlerinin eşit derecede değerli olmasıdır. Bu şu anlama gelir: Kısıtlı zamanlarını ve dikkatlerini diğerleri için içerik üreterek ve küratörlük yaparak platforma katkı olarak sunanlar, kısıtlı nakitlerini katkı olarak sunanlarla aynı oranda değerlidir. Bu emek-yoğun sermaye ilkesidir[^2] ve önceki birçok kripto para birimi, sinirli sayida insandan fazlasina refah sağlamak konusunda bu kavram ile sıkıntı yasamıştır.
 
-Ücüncü ilke, toplulugun üyelerine hizmet edebilmek icin ürünler üretiyor olmasidir. Bu ilke, kendi topluluklarinin disina mal ya da hizmet satmaktansa sadece kendi üyelerine hizmet eden kredi birlikleri, yemek kooperatifleri, saglik paylasim planlari üzerinden örneklendirilebilir.
+Üçüncü ilke, topluluğun üyelerine hizmet edebilmek için ürünler üretiyor olmasıdır. Bu ilke, kendi topluluklarının dışına mal ya da hizmet satmaktansa sadece kendi üyelerine hizmet eden kredi birlikleri, yemek kooperatifleri, sağlık paylaşım planları üzerinden örneklendirilebilir.
 
-Steem toplulugu üyelerie asagida yer alan hizmetleri sunar:
+Steem topluluğu üyelerie aşagıda yer alan hizmetleri sunar:
 
-1. Bir kürete edilmis haber ve yorum kaynagi.
-2. Bir kisisellsetirilmis sorulara yüksek kalitede yanitlar alma araci.
+1. Bir kürete edilmiş haber ve yorum kaynağı.
+2. Kişiselleştirilmiş sorulara yüksek kalitede yanıtlar alma araçları.
 3. Amerikan dolarina es deger stabil bir kripto para birimi.
 4. Ücretsiz ödemeler.
 5. Yukaridaki servisleri kullanicilara saglayacak isler.
