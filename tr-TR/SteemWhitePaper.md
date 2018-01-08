@@ -32,7 +32,7 @@ Steem topluluğu üyelerie aşagıda yer alan hizmetleri sunar:
 2. Kişiselleştirilmiş sorulara yüksek kalitede yanıtlar alma araçları.
 3. Değeri Amerikan Doları'na sabitlenmiş, istikrarlı bir kripto para birimi.
 4. Ücretsiz ödemeler.
-5. Yukaridaki servisleri kullanicilara saglayacak isler.
+5. Yukaridaki servisleri kullanıcılara sağlayacak işler.
 
 Steem'in ekonomik tesvikleri bir amaca yönelik olarak yeniden siralamasi, ilgili herkes acisindan, kendinden önceki sosyal medya ve kripto para birimi platformlarindakinden cok daha adil ve kapsayici sonuclar üretme potansiyeline sahiptir. Bu makale mevcut ekonomik tesvikleri inceleyecek ve Steem'in tesviklerinin katilimcilarin cogunlugu icin nasil daha iyi sonuclar üretebilecegini gösterecektir.
 
