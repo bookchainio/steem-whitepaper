@@ -1,6 +1,6 @@
 # Steem
 
-## Blockchain temelli, teşvik ödüllü, kamuya açık bir içerik platformu.
+## Blockchain temelli, teşvik sistemine dayalı, kamuya açık bir içerik platformu.
 
 Ağustos 2017
 
@@ -340,7 +340,7 @@ Ripple'ın minimum bakiye miktarı [^11] hesabın kullanım oranı ile birlikte 
 
 Bir blokzinciri kullanıcıların sahip olması gereken minimum değeri, minimum bakiye gereksinimi ile zorlayabilir. Blokzincirine yeni bir kullanıcı kazandırmak isteyen herhangi bir şirket o kullanıcının hesabını daha önceden minimum bakiye ile doldurarak sistemi kullanmasını sağlar. Requiring a relatively large fee ($1.00) to sign up new users will naturally force anyone offering free accounts to vet the quality and uniqueness of each account before registering them with the blockchain.
 
-Kısaca minimum bakiye, harç ödemeye yetecek kadar faizi nispeten kısa bir süre zarfında kazanmak için gerekli olan bakiye şeklinde tanımlanabilir. The minimum balance is simply the balance required to earn enough interest to pay a fee in a relatively short period of time.
+İşin aslı, minimum bakiye tutmak, kullanıcıların işlem harçlarını kazanmış oldukları ve kendi bakiyelerine kaydettikleri faizlerle ödemelerini sağlamaya denk düşer. Kısaca minimum bakiye, harç ödemeye yetecek kadar faizi nispeten kısa bir süre zarfında kazanmak için gerekli olan bakiye şeklinde tanımlanabilir.
 
 Fortunately, the minimum balance required can be as low as a dollar and this is something users can understand and appreciate. The opportunity cost of lost interest doesn’t incur the cognitive cost of a micro-fee and is far more acceptable to users.
 
