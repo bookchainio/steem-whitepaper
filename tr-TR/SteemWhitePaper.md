@@ -30,7 +30,7 @@ Steem topluluğu üyelerie aşagıda yer alan hizmetleri sunar:
 
 1. Bir kürete edilmiş haber ve yorum kaynağı.
 2. Kişiselleştirilmiş sorulara yüksek kalitede yanıtlar alma araçları.
-3. Amerikan dolarina es deger stabil bir kripto para birimi.
+3. Değeri Amerikan Doları'na sabitlenmiş, istikrarlı bir kripto para birimi.
 4. Ücretsiz ödemeler.
 5. Yukaridaki servisleri kullanicilara saglayacak isler.
 
