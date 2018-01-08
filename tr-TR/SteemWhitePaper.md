@@ -352,13 +352,13 @@ To compare the effectiveness of rate limiting to fees we must consider how the t
 
 Daha uç bir durum düşünüp de bir saldırganın tüm coinlerin %1'ini elinde bulundurduğunu varsayacak olursak, öylesi bir durumda saldırganın 60 milyon dolara sahip olacağını kabul etmemiz gerekir. Böyle bir saldırgan, madenciler harçları veya kapasiteyi artırmadıkça Bitcoin blockchain hizmetini 16 yıl boyunca devre dışı bırakabilir. Harçlar işlem başı 15 dolara yükseltilse dahi, sözkonusu saldırgan yine de ağı 16 gün boyunca sel yönlendirmesine (flooding) maruz bırakabilir.
 
-Oran kısıtlama yaklaşımı kapsamında, tüm coinlerin %1'ini elinde tutan ve ağı sel yönlendirmesine maruz bırakmaya niyetlenen bir kişi, bu hedefine 30 saniyeden kısa bir sürede ulaşabilir.
+Kira kısıtlama yaklaşımı kapsamında, tüm coinlerin %1'ini elinde tutan ve ağı sel yönlendirmesine maruz bırakmaya niyetlenen bir kişi, bu hedefine 30 saniyeden kısa bir sürede ulaşabilir.
 
-### Renting vs. Buying vs. Time Sharing
+### Kiralama - Satın Alma - Devremülk
 
-Bir evi kendi mülkiyetine alan bir kişi, bu evi ücretsiz kullanma hakkına sahip olmayı umar. Bir grup kişi birlikte bir ev satın alırsa, o zaman bu kişilerden her biri evdeki sahiplik yüzdesi ölçüsünde bu evi kullanma hakkına sahip olmayı umar. Harç temelli blockchain, bu evi sahiplerinden kiralamak gibidir; buna karşın oran kısıtlama, sahiplerin kendi aralarındaki devremülk gibidir.
+Bir evi kendi mülkiyetine alan bir kişi, bu evi ücretsiz kullanma hakkına sahip olmayı umar. Bir grup kişi birlikte bir ev satın alırsa, o zaman bu kişilerden her biri evdeki sahiplik yüzdesi ölçüsünde bu evi kullanma hakkına sahip olmayı umar. Harç temelli blockchain, bu evi sahiplerinden kiralamak gibidir; buna karşın kirayı kısıtlama, sahiplerin kendi aralarındaki devremülk gibidir.
 
-If a house is owned by multiple people then those individuals must decide how they wish to timeshare the house. Someone who owns 50% of the house but only uses it one weekend per year might expect to be paid by the individuals who take their unused time. This is the mindset of a fee based system.
+Eğer bir evin mülkiyeti birden çok kişiye ait olursa, o zaman bu kişiler evi nasıl devremülk yapmak istediklerini kararlaştırmalıdır. Evin %50'sine sahip olan, bununla birlikte evi yılda yalnızca bir hafta kullanan bir kişi, kendi kullanmadığı zamanlarda evi kullanan kişilerin kendisine ödeme yapmasını bekleyebilir. Harç temelli sistemin işleyiş mantığı budur.
 
 On the other hand, someone who owns 50% of the house is speculating that demand for the house will increase in the future and they will be able to sell their stake for more. Any owner who owns more of a house than they use becomes a real estate speculator. With this mindset rather than collecting rent, they collect appreciation.
 
