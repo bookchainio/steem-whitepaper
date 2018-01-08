@@ -352,11 +352,11 @@ To compare the effectiveness of rate limiting to fees we must consider how the t
 
 Daha uç bir durum düşünüp de bir saldırganın tüm coinlerin %1'ini elinde bulundurduğunu varsayacak olursak, öylesi bir durumda saldırganın 60 milyon dolara sahip olacağını kabul etmemiz gerekir. Böyle bir saldırgan, madenciler harçları veya kapasiteyi artırmadıkça Bitcoin blockchain hizmetini 16 yıl boyunca devre dışı bırakabilir. Harçlar işlem başı 15 dolara yükseltilse dahi, sözkonusu saldırgan yine de ağı 16 gün boyunca sel yönlendirmesine (flooding) maruz bırakabilir.
 
-Under the rate limiting approach, someone who holds 1% of all coins with an intent to flood the network would achieve their goal for less than 30 seconds.
+Oran kısıtlama yaklaşımı kapsamında, tüm coinlerin %1'ini elinde tutan ve ağı sel yönlendirmesine maruz bırakmaya niyetlenen bir kişi, bu hedefine 30 saniyeden kısa bir sürede ulaşabilir.
 
 ### Renting vs. Buying vs. Time Sharing
 
-When someone owns a house they expect the right to use the house for free. If a group of people buy a house together then each can expect the right to use the house proportional to their percentage ownership in the house. A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
+Bir evi kendi mülkiyetine alan bir kişi, bu evi ücretsiz kullanma hakkına sahip olmayı umar. Bir grup kişi birlikte bir ev satın alırsa, o zaman bu kişilerden her biri evdeki sahiplik yüzdesi ölçüsünde bu evi kullanma hakkına sahip olmayı umar. Harç temelli blockchain, bu evi sahiplerinden kiralamak gibidir; buna karşın oran kısıtlama, sahiplerin kendi aralarındaki devremülk gibidir.
 
 If a house is owned by multiple people then those individuals must decide how they wish to timeshare the house. Someone who owns 50% of the house but only uses it one weekend per year might expect to be paid by the individuals who take their unused time. This is the mindset of a fee based system.
 
