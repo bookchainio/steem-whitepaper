@@ -350,7 +350,7 @@ Bir hesabı önceden fonlamak için kullanılan STEEM yeni hesapta aktive edilir
 
 To compare the effectiveness of rate limiting to fees we must consider how the two systems react to intentional network flooding by an attacker. Under Bitcoin an attacker with $10,000 dollars could disrupt service for an entire day by filling every single block. The same attacker would be unable to disrupt service for even a single block under the dynamic fractional reserve rate limiting approach.
 
-Daha uç bir durum düşünüp de bir saldırganın tüm coinlerin %1'ini elinde bulundurduğunu varsayacak olursak, öyle bir durumda 60 milyon dolara sahip bir saldırgan tahayyül ederiz. Böyle bir saldırgan, madenciler harçları veya kapasiteyi artırmadıkça Bitcoin blockchain hizmetini 16 yıl boyunca devre dışı bırakabilir. Harçlar işlem başı 15 dolara yükseltilse dahi, sözkonusu saldırgan yine de ağı 16 gün boyunca ağı paket yollamaya açık bırakabilir.
+Daha uç bir durum düşünüp de bir saldırganın tüm coinlerin %1'ini elinde bulundurduğunu varsayacak olursak, öylesi bir durumda saldırganın 60 milyon dolara sahip olacağını kabul etmemiz gerekir. Böyle bir saldırgan, madenciler harçları veya kapasiteyi artırmadıkça Bitcoin blockchain hizmetini 16 yıl boyunca devre dışı bırakabilir. Harçlar işlem başı 15 dolara yükseltilse dahi, sözkonusu saldırgan yine de ağı 16 gün boyunca sel yönlendirmesine (flooding) maruz bırakabilir.
 
 Under the rate limiting approach, someone who holds 1% of all coins with an intent to flood the network would achieve their goal for less than 30 seconds.
 
