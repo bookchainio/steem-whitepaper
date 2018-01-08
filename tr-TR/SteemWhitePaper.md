@@ -340,9 +340,9 @@ Ripple'ın minimum bakiye miktarı [^11] hesabın kullanım oranı ile birlikte 
 
 Bir blokzinciri kullanıcıların sahip olması gereken minimum değeri, minimum bakiye gereksinimi ile zorlayabilir. Blokzincirine yeni bir kullanıcı kazandırmak isteyen herhangi bir şirket o kullanıcının hesabını daha önceden minimum bakiye ile doldurarak sistemi kullanmasını sağlar. Requiring a relatively large fee ($1.00) to sign up new users will naturally force anyone offering free accounts to vet the quality and uniqueness of each account before registering them with the blockchain.
 
-İşin aslı, minimum bakiye tutmak, kullanıcıların işlem harçlarını kazanmış oldukları ve kendi bakiyelerine kaydettikleri faizlerle ödemelerini sağlamaya denk düşer. Kısaca minimum bakiye, harç ödemeye yetecek kadar faizi nispeten kısa bir süre zarfında kazanmak için gerekli olan bakiye şeklinde tanımlanabilir.
+İşin aslı, minimum bakiye tutmak, kullanıcıların işlem harçlarını kazanmış oldukları ve kendi bakiyelerine kaydettikleri faizlerle ödemelerini sağlamaya denk düşer. Kısaca minimum bakiye, bir harcı oldukça kısa bir süre zarfında ödemeye yetecek kadar faizi kazanmak için gerekli olan bakiye şeklinde tanımlanabilir.
 
-Fortunately, the minimum balance required can be as low as a dollar and this is something users can understand and appreciate. The opportunity cost of lost interest doesn’t incur the cognitive cost of a micro-fee and is far more acceptable to users.
+Bereket versin ki şart koşulan minimum bakiye 1 dolar kadar düşük bir meblağ olabilir; bu da kullanıcıların kabul edebileceği ve takdir edebileceği bir tutardır. The opportunity cost of lost interest doesn’t incur the cognitive cost of a micro-fee and is far more acceptable to users.
 
 The STEEM used to pre-fund an account is Powered Up in the new account (i.e., converted to Steem Power). A portion of the SP used to fund a new account may be delegated from the creator of the account. Bir kullanıcı SP delege ettiğinde delege edilen kişi SP'yi oy verme ve trafik için kendilerininmiş gibi kullanabilir fakat SP'nin sahipliği delege eden kişide kalacaktır. Kullanıcı istediği herhangi bir zamanda delegasyonunu geri çekebilir. Delege ettikleri SP miktarı bir süre beklemenin ardından hesaplarına iade edilir.
 
