@@ -463,9 +463,9 @@ Furthemore, Steem pays people to figure out who should be paid! This kind of thi
 
 ## Değer bağlantılarda
 
-Eğer içerik bünyesindeki tüm bağlantılar kaldırılsaydı, İnternet değerinin çok büyük bir bölümünü yitirirdi. It is the relationship among web pages that allows Google to identify the best apple pie recipe among the 16 million results. Without the links the only information Google would have is word frequency.
+Eğer içerik bünyesindeki tüm bağlantılar kaldırılsaydı, İnternet değerinin çok büyük bir bölümünü yitirirdi. Google'a 16 milyon sonuç arasından en iyi elma turtası tarifini saptama imkanını veren şey web sayfaları arasındaki ilişkidir. Bağlantılar olmasaydı Google'ın yalnızca sözcüklerin hangi sıklıkla kullanıldığının bilgisine sahip olabilirdi.
 
-Links can take many forms and have adapted over time. Every time a user votes on content in a social network they add a connection between themselves and the content. This in turn links the consumer to the producer through the content. The more connections a network has the more valuable the information becomes. It is the relative and intentional connectedness of information that gives it value.
+Bağlantılar birçok biçim alabilir; zaman içinde de birçok farklı biçime girmişlerdir. Herhangi bir sosyal ağda herhangi bir içeriği oylayan kullanıcı, kendisiyle içerik arasında bir bağlantı oluşturur. Bu da içerik aracılığıyla müşteriyi üreticiye bağlar. Bir ağ ne kadar fazla bağlantıya sahipse sunduğu bilgi de o kadar değerlidir. Bir bilgiye değerini bahşeden, o bilginin göreli ve kasıtlı bağlantılılığıdır.
 
 A social network can maximize the value extracted from a set of content by maximizing the quantity and quality of connections. Curating content is expensive and time consuming while being near impossible for computers to perform in the absence of links. Steem rewards users who are among the first to find and identify new content.
 
