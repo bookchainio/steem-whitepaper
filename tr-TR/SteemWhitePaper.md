@@ -515,11 +515,11 @@ Creators posting to social media outlets that are connected to Steem may monetiz
 
 # Sonuç
 
-Steem, kriptopara ve sosyal medya endüstrilerindeki güçlükleri her iki endüstrinin en iyi yönlerini bir araya getirerek irdelemek amacıyla tasarlanmış bir deneyimdir. Steem presents earning opportunities to content creators and internet readers in ways that have not existed within the social media industry. Within Steem, individuals earn real rewards online that are directly correlated to their contributions. Those rewards may have dollar value due to the market price discovery and liquidity of Steem, and the people who hold Steem may have more exclusive earning powers than those who do not.
+Steem, kriptopara ve sosyal medya endüstrilerindeki güçlükleri her iki endüstrinin en iyi yönlerini bir araya getirerek irdelemek amacıyla tasarlanmış bir deneyimdir. Steem, içerik yaratıcılarına ve internet okuyucularına sosyal medya endüstrisi içinde daha önce hiç kullanılmamış yöntemlerle para kazanma fırsatları sunar. Steem dahilinde bireyler, kendi katkılarıyla doğrudan ilintili çevrimiçi gerçek ödüller kazanırlar. Bu ödüller, Steem'in pazar fiyatı keşfi ve likiditesi nedeniyle dolar değerine sahip olabilir; ellerinde Steem bulunduran insanlar ise bunu yapmayan insanlardan daha fazla kazanım gücüne sahip olabilirler.
 
-[^1]: Reddit’s Cryptocurrency, Forbes, Erika Morphy, October 2014 http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/\#4e07b05332b9
+[^1]: Reddit'in kriptoparası, Forbes, Erika Morphy, Ekim 2014 http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/\#4e07b05332b9
 
-[^2]: Sweat Equity, Investopedia http://www.investopedia.com/terms/s/sweatequity.asp
+[^2]: Alın teriyle oluşturulmuş sermaye, Investopedia http://www.investopedia.com/terms/s/sweatequity.asp
 
 [^3]: Meta-moderation is a second level of comment moderation. Users are invited to rate a moderator's decision in order to improve moderation. https://en.wikipedia.org/wiki/Meta-moderation\_system
 
