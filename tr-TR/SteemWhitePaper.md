@@ -348,7 +348,7 @@ Bir hesabı önceden fonlamak için kullanılan STEEM yeni hesapta aktive edilir
 
 ### Harçların etkililiği
 
-Hız limitlemeyi harçlarla kıyaslamak için, bu iki sistemin bir saldırıcı tarafından ağa yönelik olarak düzenlenen sel yönlendirmesine nasıl tepki verdiklerini göz önünde bulundurmamız gerekir. Bitcoin'de, 10 bin dolara sahip bir saldırgan, her bir bloku dosyalayarak hizmeti bütün bir gün boyunca akamete uğratabilir. The same attacker would be unable to disrupt service for even a single block under the dynamic fractional reserve rate limiting approach.
+Hız limitlemeyi harçlarla kıyaslamak için, bu iki sistemin bir saldırıcı tarafından ağa yönelik olarak düzenlenen sel yönlendirmesine nasıl tepki verdiklerini göz önünde bulundurmamız gerekir. Bitcoin'de, 10 bin dolara sahip bir saldırgan, her bir bloku dosyalayarak hizmeti bütün bir gün boyunca akamete uğratabilir. Aynı saldırgan, "dinamik kısmi karşılık hız limitleme yaklaşımı" kapsamında, tek bir blok için bile hizmeti akamete uğratmayı başaramayacaktır.
 
 Daha uç bir durum düşünüp de bir saldırganın tüm coinlerin %1'ini elinde bulundurduğunu varsayacak olursak, öylesi bir durumda saldırganın 60 milyon dolara sahip olacağını kabul etmemiz gerekir. Böyle bir saldırgan, madenciler harçları veya kapasiteyi artırmadıkça Bitcoin blockchain hizmetini 16 yıl boyunca devre dışı bırakabilir. Harçlar işlem başı 15 dolara yükseltilse dahi, sözkonusu saldırgan yine de ağı 16 gün boyunca sel yönlendirmesine (flooding) maruz bırakabilir.
 
