@@ -352,13 +352,13 @@ To compare the effectiveness of rate limiting to fees we must consider how the t
 
 Daha uç bir durum düşünüp de bir saldırganın tüm coinlerin %1'ini elinde bulundurduğunu varsayacak olursak, öylesi bir durumda saldırganın 60 milyon dolara sahip olacağını kabul etmemiz gerekir. Böyle bir saldırgan, madenciler harçları veya kapasiteyi artırmadıkça Bitcoin blockchain hizmetini 16 yıl boyunca devre dışı bırakabilir. Harçlar işlem başı 15 dolara yükseltilse dahi, sözkonusu saldırgan yine de ağı 16 gün boyunca sel yönlendirmesine (flooding) maruz bırakabilir.
 
-Kira kısıtlama yaklaşımı kapsamında, tüm coinlerin %1'ini elinde tutan ve ağı sel yönlendirmesine maruz bırakmaya niyetlenen bir kişi, bu hedefine 30 saniyeden kısa bir sürede ulaşabilir.
+Hız limitleme yaklaşımı kapsamında, tüm coinlerin %1'ini elinde tutan ve ağı sel yönlendirmesine maruz bırakmaya niyetlenen bir kişi, bu hedefine 30 saniyeden kısa bir sürede ulaşabilir.
 
-### Kiralama - Satın Alma - Devremülk
+### Kiralama - Satın Alma - Devre mülk
 
-Bir evi kendi mülkiyetine alan bir kişi, bu evi ücretsiz kullanma hakkına sahip olmayı umar. Bir grup kişi birlikte bir ev satın alırsa, o zaman bu kişilerden her biri evdeki sahiplik yüzdesi ölçüsünde bu evi kullanma hakkına sahip olmayı umar. Harç temelli blockchain, bu evi sahiplerinden kiralamak gibidir; buna karşın kirayı kısıtlama, sahiplerin kendi aralarındaki devremülk gibidir.
+Bir evi kendi mülkiyetine alan bir kişi, bu evi ücretsiz kullanma hakkına sahip olmayı umar. Bir grup kişi birlikte bir ev satın alırsa, o zaman bu kişilerden her biri evdeki sahiplik yüzdesi ölçüsünde bu evi kullanma hakkına sahip olmayı umar. Harç temelli blockchain, bu evi sahiplerinden kiralamak gibidir; buna karşın hız limitleme, sahiplerin kendi aralarındaki devre mülk gibidir.
 
-Eğer bir evin mülkiyeti birden çok kişiye ait olursa, o zaman bu kişiler evi nasıl devremülk yapmak istediklerini kararlaştırmalıdır. Evin %50'sine sahip olan, bununla birlikte evi yılda yalnızca bir hafta kullanan bir kişi, kendi kullanmadığı zamanlarda evi kullanan kişilerin kendisine ödeme yapmasını bekleyebilir. Harç temelli sistemin işleyiş mantığı budur.
+Eğer bir evin mülkiyeti birden çok kişiye ait olursa, o zaman bu kişiler evi nasıl devre mülk yapmak istediklerini kararlaştırmalıdır. Evin %50'sine sahip olan, bununla birlikte evi yılda yalnızca bir hafta kullanan bir kişi, kendi kullanmadığı zamanlarda evi kullanan kişilerin kendisine ödeme yapmasını bekleyebilir. Harç temelli sistemin işleyiş mantığı budur.
 
 Diğer yandan, bir kişi evin %50'sine sahip olup eve yönelik talebin gelecekte artacağı ve kendi hissesini daha fazla bir meblağ karşılığı satabileceği yönünde spekülasyon yapıyor diyelim. Bir evin kullandığından daha fazlasına sahip olan herhangi bir mülk sahibi, emlak spekülasyoncusuna dönüşebilir. Bu kişi, kira tahsil etmek yerine bu mantığı işe koşarak değer tahsil eder.
 
@@ -366,13 +366,13 @@ Bir hissenin değeri, sahibine potansiyel olarak ne kadar süre bahşettiğine b
 
 Bu mantığı temel alarak diyebiliriz ki harç temelli bir sistem ya kullanıcıları için daha pahalı; ya da kolektif sahipleri için daha az kârlı bir sistem olacaktır. Küçük çaplı bir mülk sahibi kendi kısa zaman dilimini kiralayarak kâr edebilir; ne var ki bunu yalnızca diğer devremülk sahiplerinin zararına olacak şekilde yapabilir. Aslında, azalan devremülk değerinin maliyeti tüm mülk sahipleri arasında paylaşılır; buna karşılık kârlar, kendi payını kiralamayı kararlaştıran tek bir mülk sahibinin elinde toplanır.
 
-Buradan şu sonuca varabiliriz ki en iyi blockchain hizmeti, kullanıcılara herhangi bir kullanım harcı ödetmeden verilir. Eğer bir kullanım harcı kira kısıtlamasına alternatif olarak ödenmek zorunda olsaydı, o zaman kullanım harcının yeteri kadar devremülk satın almanın ve bunları kullanım hakkı elde etmeye yetecek kadar uzun süre elinde tutma taahhüdünde bulunmanın muadili olması gerekir.
+Buradan şu sonuca varabiliriz ki en iyi blockchain hizmeti, kullanıcılara herhangi bir kullanım harcı ödetmeden verilir. Eğer bir kullanım harcı hız limitlemeye alternatif olarak ödenmek zorunda olsaydı, o zaman kullanım harcının yeteri kadar devre mülk satın almanın ve bunları kullanım hakkı elde etmeye yetecek kadar uzun süre elinde tutma taahhüdünde bulunmanın muadili olması gerekir.
 
 Bir başka deyişle, bir işlem harcının, haftada bir kez işlem yapmak için gerekli olan minimum hesap bakiyesine eşit olması ve haftanın bitiminde geri ödenmesi gerekir. Minimum hesap bakiyesinin 1 dolar olduğunu ve bunun bir kişiye haftada bir kez işlem yapma izni tanıdığını varsayın. Eğer 1 dolar bakiyesi olan bir kişi bir kerede 5 adet işlem yapmak isterse, o kişi işlemlerden önce ya da sonra bakiyesini haftalık 5 dolara çıkarmak zorunda kalacaktır.
 
 Kuramsal olarak, kullanıcıların yatıracak parayı başkalarından borç alabildiği yerde pazar kurulacaktır. Pratikte, kendi kullanıcı oranlarını karşılamaya yetecek kadar devremülkü satın alıp satmak, kullanıcılar için daha verimlidir. Başka bir deyişle, mikro düzeyde kredi müzakeresi yapmanın bedeli, haftalık maksimum kullanımınıza denk düşen bakiyeyi sağlamanın bedelinden daha yüksektir.
 
-Decentralized rate limiting of transactions can enable new types of decentralized applications that were not viable when every use of the application required a micropayment. This new model gives application developers the ability to decide if and when to charge their users for transactions.
+Decentralized rate limiting of transactions can enable new types of decentralized applications that were not viable when every use of the application required a micropayment. Bu yeni model uygulama geliştiricilerine, kullanıcıları yaptıkları işlemlerden ötürü ücretlendirip ücretlendirmemeyi, ücretlendirecekse de ne zaman ücretlendireceğini kararlaştırma olanağı tanır.
 
 # Perfomans ve Ölçeklenebilirlik
 
