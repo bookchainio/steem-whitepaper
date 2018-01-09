@@ -370,7 +370,7 @@ Buradan şu sonuca varabiliriz ki en iyi blockchain hizmeti, kullanıcılara her
 
 Bir başka deyişle, bir işlem harcının, haftada bir kez işlem yapmak için gerekli olan minimum hesap bakiyesine eşit olması ve haftanın bitiminde geri ödenmesi gerekir. Minimum hesap bakiyesinin 1 dolar olduğunu ve bunun bir kişiye haftada bir kez işlem yapma izni tanıdığını varsayın. Eğer 1 dolar bakiyesi olan bir kişi bir kerede 5 adet işlem yapmak isterse, o kişi işlemlerden önce ya da sonra bakiyesini haftalık 5 dolara çıkarmak zorunda kalacaktır.
 
-Kuramsal olarak, kullanıcıların yatıracak parayı başkalarından borç alabildiği yerde pazar kurulacaktır. In practice it is more efficient for users to simply buy and sell the timeshares necessary to meet their desired usage rate. In other words, the cost of negotiating micro-loans is greater than the cost of maintaining a balance suitable for your maximum weekly usage.
+Kuramsal olarak, kullanıcıların yatıracak parayı başkalarından borç alabildiği yerde pazar kurulacaktır. Pratikte, kendi kullanıcı oranlarını karşılamaya yetecek kadar devremülkü satın alıp satmak, kullanıcılar için daha verimlidir. In other words, the cost of negotiating micro-loans is greater than the cost of maintaining a balance suitable for your maximum weekly usage.
 
 Decentralized rate limiting of transactions can enable new types of decentralized applications that were not viable when every use of the application required a micropayment. This new model gives application developers the ability to decide if and when to charge their users for transactions.
 
