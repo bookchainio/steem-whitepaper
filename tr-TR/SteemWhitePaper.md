@@ -463,11 +463,11 @@ Furthemore, Steem pays people to figure out who should be paid! This kind of thi
 
 ## Değer bağlantılarda
 
-Eğer içerik bünyesindeki tüm bağlantılar kaldırılsaydı, İnternet değerinin çok büyük bir bölümünü yitirirdi. Google'a 16 milyon sonuç arasından en iyi elma turtası tarifini saptama imkanını veren şey web sayfaları arasındaki ilişkidir. Bağlantılar olmasaydı Google'ın yalnızca sözcüklerin hangi sıklıkla kullanıldığının bilgisine sahip olabilirdi.
+Eğer içerik bünyesindeki tüm bağlantılar kaldırılsaydı, İnternet değerinin çok büyük bir bölümünü yitirirdi. Google'a 16 milyon sonuç arasından en iyi elma turtası tarifini saptama imkanını veren şey web sayfaları arasındaki ilişkidir. Bağlantılar olmasaydı Google yalnızca sözcüklerin hangi sıklıkla kullanıldığının bilgisine sahip olabilirdi.
 
-Bağlantılar birçok biçim alabilir; zaman içinde de birçok farklı biçime girmişlerdir. Herhangi bir sosyal ağda herhangi bir içeriği oylayan kullanıcı, kendisiyle içerik arasında bir bağlantı oluşturur. Bu da içerik aracılığıyla müşteriyi üreticiye bağlar. Bir ağ ne kadar fazla bağlantıya sahipse sunduğu bilgi de o kadar değerlidir. Bir bilgiye değerini bahşeden, o bilginin göreli ve kasıtlı bağlantılılığıdır.
+Bağlantılar birçok biçim alabilir; zaman içinde birçok farklı biçime de girmişlerdir zaten. Herhangi bir sosyal ağda herhangi bir içeriği oylayan kullanıcı, kendisiyle içerik arasında bir bağlantı oluşturur. Bu da içerik aracılığıyla müşteriyi üreticiye bağlar. Bir ağ ne kadar fazla bağlantıya sahipse sunduğu bilgi de o kadar değerlidir. Bir bilgiye değerini bahşeden, o bilginin göreli ve kasıtlı bağlantılılığıdır.
 
-A social network can maximize the value extracted from a set of content by maximizing the quantity and quality of connections. Curating content is expensive and time consuming while being near impossible for computers to perform in the absence of links. Steem rewards users who are among the first to find and identify new content.
+Bir sosyal ağ, bağlantıların niceliğini ve niteliğini maksimize ederek, bir içerik setinden süzülen değeri maksimize edebilir. Curating content is expensive and time consuming while being near impossible for computers to perform in the absence of links. Steem, yeni içerikleri bulup tespit eden ilk kullanıcıları ödüllendirir.
 
 By incentivising curation the Steem network is able to use automated algorithms to extract the most valuable information from a massive amount of content.
 
