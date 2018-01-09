@@ -461,9 +461,9 @@ Under Steem, micropayments are paid to content producer, but those who vote for 
 
 Furthemore, Steem pays people to figure out who should be paid! This kind of thinking is revolutionary.
 
-## Value is in the Links
+## Değer bağlantılarda
 
-The Internet would lose the vast majority of its value if all links among content were removed. It is the relationship among web pages that allows Google to identify the best apple pie recipe among the 16 million results. Without the links the only information Google would have is word frequency.
+Eğer içerik bünyesindeki tüm bağlantılar kaldırılsaydı, İnternet değerinin çok büyük bir bölümünü yitirirdi. It is the relationship among web pages that allows Google to identify the best apple pie recipe among the 16 million results. Without the links the only information Google would have is word frequency.
 
 Links can take many forms and have adapted over time. Every time a user votes on content in a social network they add a connection between themselves and the content. This in turn links the consumer to the producer through the content. The more connections a network has the more valuable the information becomes. It is the relative and intentional connectedness of information that gives it value.
 
@@ -521,7 +521,7 @@ Steem, kriptopara ve sosyal medya endüstrilerindeki güçlükleri her iki endü
 
 [^2]: Alın teriyle oluşturulmuş sermaye, Investopedia http://www.investopedia.com/terms/s/sweatequity.asp
 
-[^3]: Meta-moderation is a second level of comment moderation. Users are invited to rate a moderator's decision in order to improve moderation. https://en.wikipedia.org/wiki/Meta-moderation\_system
+[^3]: Metamoderasyon, yorum moderasyonunun ikinci seviyesidir. Kullanıcılar, moderasyonu geliştirmek amacıyla moderatörlerin verdiği kararları oylamaya davet edilir. https://en.wikipedia.org/wiki/Meta-moderation\_system
 
 [^4]: The Impossible Trinity, economic theory https://en.wikipedia.org/wiki/Impossible\_trinity
 
