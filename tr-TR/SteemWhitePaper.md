@@ -473,7 +473,7 @@ Steem ağı, içerik düzenlemeyi teşvik ederek, devasa bir içerik bütününd
 
 ## Solving the Cryptocurrency Onboarding Problem
 
-Kriptoparayı kullanmayı öğrenmek kolay değildir. [^21]. Bitcoin'den yeni haberdar olan ve onu deneyip görmek isteyen bir kişi çok geçmeden para bozdurarak kayıt olması ve hesabını bir kredi kartı veya banka havalesiyle fonlaması gerektiğini öğrenir. What would Facebook’s adoption rate have been like if you had to fork over money and a two forms of ID?
+Kriptoparayı kullanmayı öğrenmek kolay değildir. [^21]. Bitcoin'den yeni haberdar olan ve onu deneyip görmek isteyen bir kişi çok geçmeden para bozdurarak kayıt olması ve hesabını bir kredi kartı veya banka havalesiyle fonlaması gerektiğini öğrenir. Eğer üyelik için para ödemek ve iki çeşit kimlik belgesi arz etmek zorunda kalsaydınız Facebook kullanım oranı ne seviyede olurdu?
 
 Steem solves this problem by giving everyone a way to get paid for doing simple, but valuable, tasks. This will help to widely distribute STEEM tokens. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless.)
 
