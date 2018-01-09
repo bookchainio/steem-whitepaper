@@ -493,7 +493,7 @@ Steem is a decentralized network that is operated by witnesses in jurisdictions 
 
 Individual websites such as steemit.com may censor content on their particular site, but content published on the blockchain is inherently broadcast traffic and mirrors all around the world may continue to make it available.
 
-Freedom of speech is the foundation of all other liberties and any infringement upon freedom of speech undermines the only peaceful means of reaching consensus: discussion. Without free discussion voters cannot be fully informed, and uninformed voters are a greater threat to society than losing the right to vote. Censorship is a means of stealing votes through limiting public discourse. Steem is committed to enabling free speech and building a free society.
+İfade özgürlüğü diğer tüm özgürlüklerin temelidir; ifade özgürlüğüne yönelik herhangi bir ihlal, oydaşmayı tesis etmenin yegane barışçıl yolunun, yani tartışmanın temelini sarsar. Özgür tartışma olmaksızın, oy verenler tamamen bilgilendirilemez; bilgilendirilmemiş oy verenler de toplum için oy kullanma hakkını kaybedenlerden daha büyük bir tehdit oluştururlar. Censorship is a means of stealing votes through limiting public discourse. Steem is committed to enabling free speech and building a free society.
 
 ## Solving Organic Discovery via Search Engine Optimization
 
