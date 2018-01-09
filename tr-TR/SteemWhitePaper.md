@@ -366,7 +366,7 @@ Bir hissenin değeri, sahibine potansiyel olarak ne kadar süre bahşettiğine b
 
 Bu mantığı temel alarak diyebiliriz ki harç temelli bir sistem ya kullanıcıları için daha pahalı; ya da kolektif sahipleri için daha az kârlı bir sistem olacaktır. Küçük çaplı bir mülk sahibi kendi kısa zaman dilimini kiralayarak kâr edebilir; ne var ki bunu yalnızca diğer devremülk sahiplerinin zararına olacak şekilde yapabilir. Aslında, azalan devremülk değerinin maliyeti tüm mülk sahipleri arasında paylaşılır; buna karşılık kârlar, kendi payını kiralamayı kararlaştıran tek bir mülk sahibinin elinde toplanır.
 
-We can conclude from this that a blockchain is best served by not using usage fees at all. If a usage fee were to be charged as an alternative to rate limiting, then it should be the equivalent of buying enough timeshares and committing to hold them long enough to gain the right use it once.
+Buradan şu sonuca varabiliriz ki en iyi blockchain hizmeti, kullanıcılara herhangi bir kullanım harcı ödetmeden verilir. Eğer bir kullanım harcı kira kısıtlamasına alternatif olarak ödenmek zorunda olsaydı, o zaman kullanım harcının yeteri kadar devremülk satın almanın ve bunları kullanım hakkı elde etmeye yetecek kadar uzun süre elinde tutma taahhüdünde bulunmanın muadili olması gerekir.
 
 Stated another way, a transaction fee should be equal to the minimum account balance necessary to transact once per week and it should be refunded at the end of the week. Assume the minimum account balance is $1 and allows someone to transact once per week. If someone with a $1 balance that wishes to perform 5 transactions at once they will have to increase their balance to $5 for a week either before or after their transactions.
 
