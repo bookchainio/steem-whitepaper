@@ -457,9 +457,9 @@ The mental energy associated with making an economic decision becomes a barrier 
 
 -Mikro ödemeler: Sürdürülebilir bir Ticaret Modeli[^20]
 
-Steem'de mikro ödemeler içerik üreticisine yapılır; buna karşılık içerik için oy verenler ödeme yapmazlar. Bunun yerine, ödülün bedeli yeni tokenlar aracılığıyla ödenir. Someone can join the system, vote to pay someone, and then exit the system with more money than they started with (assuming the market valuation of the Steem system remained constant). In other words, the micropayment solution provided by Steem provides a user-experience similar to many widely used websites that have user-moderated content.
+Steem'de mikro ödemeler içerik üreticisine yapılır; buna karşılık içerik için oy verenler ödeme yapmazlar. Bunun yerine, ödülün bedeli yeni tokenlar aracılığıyla ödenir. İsteyen herkes sisteme katılabilir, birine ödeme yapılması için oy kullanabilir ve sonra başlangıçta sahip olduğundan daha fazla parayla sistemden çıkabilir (Steem sisteminin piyasadaki değerlemesinin sabit olduğunu varsayıyoruz). Bir başka deyişle, Steem'in sunduğu mikro ödeme çözümü, yaygın şekilde kullanılan web sitelerininkine benzeyen bir kullanıcı deneyimi sunar ki bu web sitelerinde içerik moderasyonu kullanıcılar tarafından yapılmaktadır.
 
-Üstelik Steeem, kime ödeme yapmak gerektiğini saptamaları için insanlara ödeme yapar! Bu devrimci bir akı yürütmedir.
+Üstelik Steeem, insanlara kime ödeme yapmak gerektiğini tespit etsinler diye ödeme yapar! Bu devrimci bir fikirdir.
 
 ## Değer bağlantılarda
 
