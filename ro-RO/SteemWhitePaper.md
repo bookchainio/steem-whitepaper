@@ -1,12 +1,12 @@
 # Steem
 
-## An incentivized, blockchain-based, public content platform.
+## O platformă stimulantă, cu conținut public, bazată pe blockchain.
 
 August 2017
 
-# Translator's notes
+# Notele traducătorului
 
-Placeholder for translator's notes.
+Susbtitut pentru notele traducătorului.
 
 # Abstract
 
