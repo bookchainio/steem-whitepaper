@@ -487,13 +487,13 @@ Merchants will accept any currency if it increases their sales. Having a large u
 
 Another way that people can liquidate the small amounts of cryptocurrency they receive from participating on the Steem platform is through *tipping* others. This is like leaving the small change as a tip for your waiter. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
 
-## Censorship
+## Sansür
 
-Steem is a decentralized network that is operated by witnesses in jurisdictions around the world. All user actions are publicly recorded on the blockchain, and can be publicly verified. This means that there is no single entity that can censor content that is valued by STEEM holders.
+Steem, tüm dünyadaki yargı sistemlerindeki witnessler tarafından işletilen desantralize bir ağdır. All user actions are publicly recorded on the blockchain, and can be publicly verified. This means that there is no single entity that can censor content that is valued by STEEM holders.
 
 Individual websites such as steemit.com may censor content on their particular site, but content published on the blockchain is inherently broadcast traffic and mirrors all around the world may continue to make it available.
 
-İfade özgürlüğü diğer tüm özgürlüklerin temelidir; ifade özgürlüğüne yönelik herhangi bir ihlal, oydaşmayı tesis etmenin yegane barışçıl yolunun, yani tartışmanın temelini sarsar. Özgür tartışma olmaksızın, oy verenler tamamen bilgilendirilemez; bilgilendirilmemiş oy verenler de toplum için oy kullanma hakkını kaybedenlerden daha büyük bir tehdit oluştururlar. Sansür, kamusal söylemi kısıtlanması aracılığıyla oy çalmanın bir biçimidir. Steem is committed to enabling free speech and building a free society.
+İfade özgürlüğü diğer tüm özgürlüklerin temelidir; ifade özgürlüğüne yönelik herhangi bir ihlal, oydaşmayı tesis etmenin yegane barışçıl yolunun, yani tartışmanın temelini sarsar. Özgür tartışma olmaksızın, oy verenler tamamen bilgilendirilemez; bilgilendirilmemiş oy verenler de toplum için oy kullanma hakkını kaybedenlerden daha büyük bir tehdit oluştururlar. Sansür, kamusal söylemi kısıtlanması aracılığıyla oy çalmanın bir biçimidir. Steem, ifade özgürlüğünü tesis etme ve özgür bir toplum inşa etme amaçlarına kendini adamıştır.
 
 ## Solving Organic Discovery via Search Engine Optimization
 
