@@ -346,7 +346,7 @@ Bereket versin ki şart koşulan minimum bakiye 1 dolar kadar düşük bir mebla
 
 Bir hesabı önceden fonlamak için kullanılan STEEM yeni hesapta aktive edilir, bir başka deyişle, Steem Power'a dönüştürülür. A portion of the SP used to fund a new account may be delegated from the creator of the account. Bir kullanıcı SP delege ettiğinde delege edilen kişi SP'yi oy verme ve trafik için kendilerininmiş gibi kullanabilir fakat SP'nin sahipliği delege eden kişide kalacaktır. Kullanıcı istediği herhangi bir zamanda delegasyonunu geri çekebilir. Delege ettikleri SP miktarı bir süre beklemenin ardından hesaplarına iade edilir.
 
-### Effectiveness Relative to Fees
+### Harçların etkililiği
 
 To compare the effectiveness of rate limiting to fees we must consider how the two systems react to intentional network flooding by an attacker. Under Bitcoin an attacker with $10,000 dollars could disrupt service for an entire day by filling every single block. The same attacker would be unable to disrupt service for even a single block under the dynamic fractional reserve rate limiting approach.
 
@@ -372,7 +372,7 @@ Bir başka deyişle, bir işlem harcının, haftada bir kez işlem yapmak için 
 
 Kuramsal olarak, kullanıcıların yatıracak parayı başkalarından borç alabildiği yerde pazar kurulacaktır. Pratikte, kendi kullanıcı oranlarını karşılamaya yetecek kadar devremülkü satın alıp satmak, kullanıcılar için daha verimlidir. Başka bir deyişle, mikro düzeyde kredi müzakeresi yapmanın bedeli, haftalık maksimum kullanımınıza denk düşen bakiyeyi sağlamanın bedelinden daha yüksektir.
 
-Decentralized rate limiting of transactions can enable new types of decentralized applications that were not viable when every use of the application required a micropayment. Bu yeni model uygulama geliştiricilerine, kullanıcıları yaptıkları işlemlerden ötürü ücretlendirip ücretlendirmemeyi, ücretlendirecekse de ne zaman ücretlendireceğini kararlaştırma olanağı tanır.
+Yeni tür desantralize uygulamalar -kullanımı için küçük çaplı bir ödeme yapmak gerektiğinde etkili çalışmayan uygulamalar-, işlemler için desantralize hız limitlemesi sayesinde etkili bir şekilde çalışır hale gelebilirler. Bu yeni model uygulama geliştiricilerine, kullanıcıları yaptıkları işlemlerden ötürü ücretlendirip ücretlendirmemeyi, ücretlendirecekse de ne zaman ücretlendireceğini kararlaştırma olanağı tanır.
 
 # Perfomans ve Ölçeklenebilirlik
 
