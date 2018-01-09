@@ -455,11 +455,11 @@ The mental energy associated with making an economic decision becomes a barrier 
 
 *We already face a multitude of choices everyday with regards to what to access online in this digital era of the information explosion, and every additional decision that we must make simply adds on to the uncertainty and anxiety we face. Micropayment supporters believe that a simplified implementation can minimize the intrusiveness of micropayments and improve user experience, but their argument only creates double standards for the decision making process \[2\]. A transaction cannot simultaneously be worth enough to warrant a decision and worth so little that the decision is automatic. **The only transactions that users can approve without thought are ones that cost them nothing**, thus any micro-transaction of positive value will incur mental costs through its requiring a decision. Furthermore, mental transaction costs actually rise below a certain threshold value, a phenomenon that places micropayments at an even greater disadvantage. For instance, it is easy to think that a copy of today's newspapers costs $1, but readers face much more difficulty and anxiety in deciding on the value of each article or word. Such a dilemma will only be replicated and exacerbated if all online content were to be broken down into their components and individually valued within a micropayment system.*
 
--Micropayments: A Viable Business Model[^20]
+-Mikro ödemeler: Sürdürülebilir bir Ticaret Modeli[^20]
 
-Under Steem, micropayments are paid to content producer, but those who vote for the content do not pay. Instead, the cost of the reward is paid for via new tokens. Someone can join the system, vote to pay someone, and then exit the system with more money than they started with (assuming the market valuation of the Steem system remained constant). In other words, the micropayment solution provided by Steem provides a user-experience similar to many widely used websites that have user-moderated content.
+Steem'de mikro ödemeler içerik üreticisine yapılır; buna karşılık içerik için oy verenler ödeme yapmazlar. Bunun yerine, ödülün bedeli yeni tokenlar aracılığıyla ödenir. Someone can join the system, vote to pay someone, and then exit the system with more money than they started with (assuming the market valuation of the Steem system remained constant). In other words, the micropayment solution provided by Steem provides a user-experience similar to many widely used websites that have user-moderated content.
 
-Furthemore, Steem pays people to figure out who should be paid! This kind of thinking is revolutionary.
+Üstelik Steeem, kime ödeme yapmak gerektiğini saptamaları için insanlara ödeme yapar! Bu devrimci bir akı yürütmedir.
 
 ## Değer bağlantılarda
 
@@ -475,7 +475,7 @@ Steem ağı, içerik düzenlemeyi teşvik ederek, devasa bir içerik bütününd
 
 Kripto parayı kullanmayı öğrenmek kolay değildir [^21]. Bitcoin'den yeni haberdar olan ve onu bir denemek isteyen bir kişi çok geçmeden para bozdurarak kayıt olması ve hesabını bir kredi kartı veya banka havalesiyle fonlaması gerektiğini öğrenir. Eğer üyelik için para ödemek ve iki çeşit kimlik belgesi arz etmek zorunda kalsaydınız Facebook kullanım oranı ne seviyede olurdu?
 
-Steem, herkese yaptığı basit ama değerli görevlerin parasal karşılığını alabilmenin imkanını sunarak bu sorunu çözmektedir. Bu STEEM tokenlarını kapsamlı bir şekilde dağıtmayı sağlayacaktır. Bu yararlı bir işlemdir zira kripto paralar ağ etkisi yaparlar (yani, kullanıcı sayısı arttıkça kripto para daha kullanışlı hale gelir; aykırı bir örnek vermek gerekirse, Satoshi Bitcoin'in %100'ünü kendisine saklamak istediğini düşünün, bu durumda Bitcoin'in hiçbir değeri kalmazdı)
+Steem, herkese yaptığı basit ama değerli görevlerin parasal karşılığını alabilmenin imkanını sunarak bu sorunu çözmektedir. Bu STEEM tokenlarını kapsamlı bir şekilde dağıtmayı sağlayacaktır. Bu yararlı bir şeydir zira kripto paralar ağ etkisi yaparlar (yani, kullanıcı sayısı arttıkça kripto para daha kullanışlı hale gelir; aykırı bir örnek vermek gerekirse, Satoshi Bitcoin'in %100'ünü kendisine saklamak istediğini düşünün, bu durumda Bitcoin'in hiçbir değeri kalmazdı)
 
 ## Solving the Cryptocurrency Liquidation Problem
 
