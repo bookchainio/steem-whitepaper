@@ -489,9 +489,9 @@ Another way that people can liquidate the small amounts of cryptocurrency they r
 
 ## Sansür
 
-Steem, tüm dünyadaki yargı sistemlerindeki witnessler tarafından işletilen desantralize bir ağdır. All user actions are publicly recorded on the blockchain, and can be publicly verified. This means that there is no single entity that can censor content that is valued by STEEM holders.
+Steem, tüm dünyadaki yargı sistemlerindeki witnessler tarafından işletilen desantralize bir ağdır. Tüm kullanıcı faaliyetleri kamuya açık bir şekilde blockchain'e kaydedilir ve kamuya tarafından denetlenebilir. Bu da STEEM paydaşlarınca kendisine değer atfedilmiş olan içeriği sansürleyebilecek hiçbir entitenin olmadığı anlamına gelir.
 
-Individual websites such as steemit.com may censor content on their particular site, but content published on the blockchain is inherently broadcast traffic and mirrors all around the world may continue to make it available.
+Steemit.com gibi bireysel web siteleri kendi sitelerinde içerik sansürlemesi yapabilirler; buna karşın blockchain'de yayınlanan içerik doğası gereği trafik neşreder ve tüm dünyadaki aynalar da bu içeriği erişilebilir kılmayı sürdürebilirler.
 
 İfade özgürlüğü diğer tüm özgürlüklerin temelidir; ifade özgürlüğüne yönelik herhangi bir ihlal, oydaşmayı tesis etmenin yegane barışçıl yolunun, yani tartışmanın temelini sarsar. Özgür tartışma olmaksızın, oy verenler tamamen bilgilendirilemez; bilgilendirilmemiş oy verenler de toplum için oy kullanma hakkını kaybedenlerden daha büyük bir tehdit oluştururlar. Sansür, kamusal söylemi kısıtlanması aracılığıyla oy çalmanın bir biçimidir. Steem, ifade özgürlüğünü tesis etme ve özgür bir toplum inşa etme amaçlarına kendini adamıştır.
 
