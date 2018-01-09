@@ -467,7 +467,7 @@ Eğer içerik bünyesindeki tüm bağlantılar kaldırılsaydı, İnternet değe
 
 Bağlantılar birçok biçim alabilir; zaman içinde birçok farklı biçime de girmişlerdir zaten. Herhangi bir sosyal ağda herhangi bir içeriği oylayan kullanıcı, kendisiyle içerik arasında bir bağlantı oluşturur. Bu da içerik aracılığıyla müşteriyi üreticiye bağlar. Bir ağ ne kadar fazla bağlantıya sahipse sunduğu bilgi de o kadar değerlidir. Bir bilgiye değerini bahşeden, o bilginin göreli ve kasıtlı bağlantılılığıdır.
 
-Bir sosyal ağ, bağlantıların niceliğini ve niteliğini maksimize ederek, bir içerik setinden süzülen değeri maksimize edebilir. Curating content is expensive and time consuming while being near impossible for computers to perform in the absence of links. Steem, yeni içerikleri bulup tespit eden ilk kullanıcıları ödüllendirir.
+Bir sosyal ağ, bağlantıların niceliğini ve niteliğini maksimize ederek, bir içerik setinden süzülen değeri maksimize edebilir. İçerik düzenlemek pahalı ve zaman alıcıdır; bunun yanında, bağlantılar olmaksızın bilgisayarların iş görmesi neredeyse imkansızdır. Steem, yeni içerikleri bulup tespit eden ilk kullanıcıları ödüllendirir.
 
 By incentivising curation the Steem network is able to use automated algorithms to extract the most valuable information from a massive amount of content.
 
