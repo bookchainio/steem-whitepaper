@@ -479,13 +479,13 @@ Steem, herkese yaptığı basit ama değerli görevlerin parasal karşılığın
 
 ## Solving the Cryptocurrency Liquidation Problem
 
-Kullanması zor olan ya da satması imkansız olan bir paranın düşük bir değeri olur. Eline 1 dolar değerinde Bitcoin geçen bir kişi, bu Bitcoin'i satmanın 1 dolardan daha fazlasına mal olacağını fark edecektir. Bir borsada hesap açmaları, KYC (Know Your Customer) onayını gerçekleştirmeleri ve ücret ödemeleri gerekir. Small amounts of cryptocurrency are like small change that people are unwilling to bend over to pick up.
+Kullanması zor olan ya da satması imkansız olan bir paranın düşük bir değeri olur. Eline 1 dolar değerinde Bitcoin geçen bir kişi, bu Bitcoin'i satmanın 1 dolardan daha fazlasına mal olacağını fark edecektir. Bu kişi, para bozdurarak bir hesap açmak, Müşterini Tanı onaylamasından geçmek ve kullanım harcı ödemek zorundadır. Küçük miktarda kripto para, insanların yerden almak için eğilmeye tenezzül etmeyeceği kadar düşük para üstleri gibidir.
 
 Merchants give users a way to quickly convert their cryptocurrency into tangible goods and services. Merchants need a currency pegged to their unit of account, normally dollars. Accepting a volatile currency introduces significant accounting overhead.
 
 Merchants will accept any currency if it increases their sales. Having a large user base with a stable currency such as SBD lowers the barrier to entry for merchants. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
 
-Another way that people can liquidate the small amounts of cryptocurrency they receive from participating on the Steem platform is through *tipping* others. This is like leaving the small change as a tip for your waiter. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
+İnsanların Steem platformuna katılmakla kazandıkları küçük miktardaki kripto paraları likide etmesinin bir diğer yolu da diğer insanlara *bahşiş* vermektir. Bu, küçük miktardaki para üstünü bahşiş olarak garsona bırakmak gibidir. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
 
 ## Sansür
 
