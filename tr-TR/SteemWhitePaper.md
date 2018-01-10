@@ -417,11 +417,11 @@ Katki Ödülleri:
 
 - SBD ödülleri: SBD değerinin bir kısmı Witness'lar tarafından belirlenmiş dönemlik faiz oranıyla yaratır ve SBD paydaşlarına SBD olarak ödenir
 
-Arzın genel görüntüsü SBD işlemlerinin etkisinden ötürü karmaşıktır. Bu da daha önce SBD kısmında açıklandığı üzere, müteakip yayın oranları ve SBD ödülleri yoluyla büyük çaplı yeni STEEM yaratımı ya da tedavülden çekimi ile sonuçlanabilir. Other, smaller-scale complicating effects also exist, including unclaimed incentives (e.g. block rewards for missed blocks), and abandoned accounts.
+Arzın genel görüntüsü SBD işlemlerinin etkisinden ötürü karmaşıktır. Bu da daha önce SBD kısmında açıklandığı üzere, müteakip yayın oranları ve SBD ödülleri yoluyla büyük çaplı yeni STEEM yaratımı ya da tedavülden çekimi ile sonuçlanabilir. Üzerinde hak talep edilmemiş teşvikler (Gözden kaçmış bloklar için konulmuş olan blok ödülleri gibi) ve terk edilmiş hesaplar da dahil olmak üzere birçok küçük ölçekli karmaşık etkiler de mevcuttur.
 
-## Current Allocation & Supply
+## Mevcut Paylaşım & Arz
 
-Starting with the network's 16th hard fork in December 2016, Steem began creating new tokens at a yearly inflation rate of 9.5%. The inflation rate decreases at a rate of 0.01% every 250,000 blocks, or about 0.5% per year. The inflation will continue decreasing at this pace until the overall inflation rate reaches 0.95%. This will take about 20.5 years from the time hard fork 16 went into effect.
+Aralık 2016'daki ağın 16. hard forkundan sonra Steem yeni tokenları yıllık %9.5 lik faiz oranında yaratmaya başladı. The inflation rate decreases at a rate of 0.01% every 250,000 blocks, or about 0.5% per year. The inflation will continue decreasing at this pace until the overall inflation rate reaches 0.95%. This will take about 20.5 years from the time hard fork 16 went into effect.
 
 75% of the new tokens that are generated go to fund the reward pool, which is split between authors and curators. 15% of the new tokens are awarded to holders of SP. The remaining 10% pays for the witnesses to power the blockchain.
 
