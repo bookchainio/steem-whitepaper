@@ -479,7 +479,7 @@ Steem, herkese yaptığı basit ama değerli görevlerin parasal karşılığın
 
 ## Solving the Cryptocurrency Liquidation Problem
 
-A currency that is difficult to use or impossible to sell has little value. Someone who comes across $1.00 worth of Bitcoin will discover that it costs more than $1.00 to sell that Bitcoin. Bir borsada hesap açmaları, KYC (Know Your Customer) onayını gerçekleştirmeleri ve ücret ödemeleri gerekir. Small amounts of cryptocurrency are like small change that people are unwilling to bend over to pick up.
+Kullanması zor olan ya da satması imkansız olan bir paranın düşük bir değeri olur. Eline 1 dolar değerinde Bitcoin geçen bir kişi, bu Bitcoin'i satmanın 1 dolardan daha fazlasına mal olacağını fark edecektir. Bir borsada hesap açmaları, KYC (Know Your Customer) onayını gerçekleştirmeleri ve ücret ödemeleri gerekir. Small amounts of cryptocurrency are like small change that people are unwilling to bend over to pick up.
 
 Merchants give users a way to quickly convert their cryptocurrency into tangible goods and services. Merchants need a currency pegged to their unit of account, normally dollars. Accepting a volatile currency introduces significant accounting overhead.
 
