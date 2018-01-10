@@ -10,7 +10,7 @@ Placeholder for translator's notes.
 
 # Özet
 
-Steem, kripto para birimi ödülleri aracılığıyla topluluk oluşturmayı ve toplumsal etkileşime girmeyi teşvik eden bir blockchain veri tabanıdır. Steem, sosyal medyaya özgü kavramları, kripto para birimlerinin ve kripto para birimi topluluklarının yaratım sürecinde öğrenilen derslerle birleştirmektedir. Bireylerin katılımını tutarlı bir şekilde temsil edecek adil bir muhasebe sisteminin varlığı, herhangi bir topluluğa, para birimine veya serbest piyasa ekonomisine katılımı teşvik etmenin kilit unsurlarından biridir. Steem, çok sayıda birey tarafından Steem topluluğuna sunulan *bireysel katkılar*ın doğru ve şeffaf bir şekilde ödüllendirilmesini hedefleyen ilk kripto para birimi olma özelliğine sahiptir.
+Steem, kripto para ödülleri aracılığıyla topluluk oluşturmayı ve toplumsal etkileşime girmeyi teşvik eden bir blockchain veri tabanıdır. Steem, sosyal medyaya özgü kavramları, kripto para birimlerinin ve kripto para birimi topluluklarının yaratım sürecinde öğrenilen derslerle birleştirmektedir. Bireylerin katılımını tutarlı bir şekilde temsil edecek adil bir muhasebe sisteminin varlığı, herhangi bir topluluğa, para birimine veya serbest piyasa ekonomisine katılımı teşvik etmenin kilit unsurlarından biridir. Steem, çok sayıda birey tarafından Steem topluluğuna sunulan *bireysel katkılar*ın doğru ve şeffaf bir şekilde ödüllendirilmesini hedefleyen ilk kripto para birimi olma özelliğine sahiptir.
 
 # İçindekiler
 
