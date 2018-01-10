@@ -415,7 +415,7 @@ Katki Ödülleri:
 
 ### SBD işlemleri:
 
-- SBD rewards: A percentage of SBD value is created at an APR set by the witnesses and paid to SBD holders as SBD
+- SBD ödülleri: SBD değerinin bir kısmı Witness'lar tarafından belirlenmiş dönemlik faiz oranıyla yaratır ve SBD paydaşlarına SBD olarak ödenir
 
 The overall supply picture is complicated by the effect of SBD operations, which may result in large-scale creation or destruction of STEEM through feed rate following and SBD rewards, as discussed in the SBD section. Other, smaller-scale complicating effects also exist, including unclaimed incentives (e.g. block rewards for missed blocks), and abandoned accounts.
 
