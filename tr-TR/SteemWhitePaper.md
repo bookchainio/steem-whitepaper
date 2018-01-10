@@ -441,7 +441,7 @@ Steem, tüm kullanıcı katkılarının (paylaşımlar ve oylar) değerinin par�
 
 Herkes yararlandığı için, herkes ödemeli. Bir başka deyişle, tek başına hiçbir kullanıcıdan herhangi bir şey için ödeme yapması beklenmez; buna karşılık kullanıcıya kendi yaptığı, Steem'e değer katan her işlem için ödeme yapılmalıdır. Tek yapmamız gereken, hangi kullanıcı katkısının sosyal ağ değeri yaratıp hangisinin değer yaratmadığını netleştirmektir.
 
-Collectively Reddit users vote 220 times per second and make 23 posts per second. Reddit is valued between $500 million[^18] and $4 billion[^19] which means that each and every upvote and post is worth between $0.06 and $0.50 assuming the value of Reddit is mostly within the past year’s worth of activity. One could argue that most of the value of Reddit is the near-real-time discussions that have occurred within the past week which would dramatically increase the value of new activity. People go where people are today, not where people were last year.
+Reddit kullanıcıları kolektif olarak saniyede 220 oylama, 23 adet de paylaşım yapmaktadır. Reddit is valued between $500 million[^18] and $4 billion[^19] which means that each and every upvote and post is worth between $0.06 and $0.50 assuming the value of Reddit is mostly within the past year’s worth of activity. One could argue that most of the value of Reddit is the near-real-time discussions that have occurred within the past week which would dramatically increase the value of new activity. People go where people are today, not where people were last year.
 
 ## Mikro Ödeme Yok, Bahşişler İsteğe Bağlı
 
