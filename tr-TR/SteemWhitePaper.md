@@ -421,9 +421,9 @@ Arzın genel görüntüsü SBD işlemlerinin etkisinden ötürü karmaşıktır.
 
 ## Mevcut Paylaşım & Arz
 
-Aralık 2016'daki ağın 16. hard forkundan sonra Steem yeni tokenları yıllık %9.5 lik faiz oranında yaratmaya başladı. The inflation rate decreases at a rate of 0.01% every 250,000 blocks, or about 0.5% per year. The inflation will continue decreasing at this pace until the overall inflation rate reaches 0.95%. This will take about 20.5 years from the time hard fork 16 went into effect.
+Aralık 2016'daki ağın 16. hard forkundan sonra Steem yeni tokenları yıllık %9.5 lik faiz oranında yaratmaya başladı. Enflasyon oranı her 250,000 blokta %0.01oranında ya da yıllık %0.5 oranında azalmaktadır. Enflasyon, genel enflasyon oranı %0.95'e erişinceye dek bu hızda azalmaya devam edecektir. Bu, hard fork 16'nın hayata geçmesinden itibaren yaklaşık 20.5 yıl sürecektir.
 
-75% of the new tokens that are generated go to fund the reward pool, which is split between authors and curators. 15% of the new tokens are awarded to holders of SP. The remaining 10% pays for the witnesses to power the blockchain.
+Yeni yaratılan tokenların %75'i yazarlar ve küratörler arasında paylaşılmakta olan ödül havuzunu fonlamaya ayrılmıştır. Yeni tokenların %15'i SP sahiplerine ödül olarak dağıtılmaktadır. Geri kalan %10 ise blockchain'i işletmeleri için Witness'lara ödenmektedir.
 
 ### Impact of Token Creation Rate
 
