@@ -451,7 +451,7 @@ Bu yaklaşımların hepsi mikroödemelere bağlanıyor. Değişen tek şey ise �
 
 Steem bypasses micropayments completely because when a user upvotes a post it is the community that pays the bill. The same amount of money will be spent whether the user upvotes a post or not and the funds will not come from the voter.
 
-The mental energy associated with making an economic decision becomes a barrier to participation for most people.
+Ekonomik bir karar vermek için gerekli olan zihinsel enerji, birçok insanın için, sisteme katılmayı engelleyen bir bariyer halini alıyor.
 
 *We already face a multitude of choices everyday with regards to what to access online in this digital era of the information explosion, and every additional decision that we must make simply adds on to the uncertainty and anxiety we face. Micropayment supporters believe that a simplified implementation can minimize the intrusiveness of micropayments and improve user experience, but their argument only creates double standards for the decision making process \[2\]. A transaction cannot simultaneously be worth enough to warrant a decision and worth so little that the decision is automatic. **The only transactions that users can approve without thought are ones that cost them nothing**, thus any micro-transaction of positive value will incur mental costs through its requiring a decision. Furthermore, mental transaction costs actually rise below a certain threshold value, a phenomenon that places micropayments at an even greater disadvantage. For instance, it is easy to think that a copy of today's newspapers costs $1, but readers face much more difficulty and anxiety in deciding on the value of each article or word. Such a dilemma will only be replicated and exacerbated if all online content were to be broken down into their components and individually valued within a micropayment system.*
 
@@ -483,7 +483,7 @@ Kullanması zor olan ya da satması imkansız olan bir paranın düşük bir de�
 
 Tacirler, kullanıcılara sahip oldukları kripto paraları çabucak maddi mal ve hizmetlere dönüştürmenin bir imkanını sunar. Tacirler, kendi hesap birimlerine sabitlenmiş bir para birimine, genellikle de dolara gereksinim duyarlar. İstikrarsız bir para birimini kabul etmek önemli muhasebe masraflarına sebep olur.
 
-Tacirler satışlarını artıran her türlü para birimini kabul edecektir. Having a large user base with a stable currency such as SBD lowers the barrier to entry for merchants. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
+Tacirler satışlarını artıran her türlü para birimini kabul edecektir. Having a large user base with a stable currency such as SBD lowers the barrier to entry for merchants. Tacirlerin varlığı, kullanıcıların sistemden para bozdurmak zorunda kalmadan çıkabilmeleri için bir çıkış şeridi yaratmak yoluyla sistemi geliştirir.
 
 İnsanların Steem platformuna katılmakla kazandıkları küçük miktardaki kripto paraları likide etmesinin bir diğer yolu da diğer insanlara *bahşiş* vermektir. Bu, küçük miktardaki para üstünü bahşiş olarak garsona bırakmak gibidir. Yeterince insan küçük bahşişler bıraktığında bu kayda değer bir miktara ulaşır. Hem siz hem de garson bahşişten yarar sağlamış olursunuz.
 
