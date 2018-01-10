@@ -451,7 +451,7 @@ Bu yaklaşımların hepsi mikroödemelere bağlanıyor. Değişen tek şey ise �
 
 Steem bypasses micropayments completely because when a user upvotes a post it is the community that pays the bill. The same amount of money will be spent whether the user upvotes a post or not and the funds will not come from the voter.
 
-Ekonomik bir karar vermek için gerekli olan zihinsel enerji, birçok insanın için, sisteme katılmayı engelleyen bir bariyer halini alıyor.
+Ekonomik bir karar vermek için gerekli olan zihinsel enerji, birçok insan için, sisteme katılmayı engelleyen bir bariyer halini alıyor.
 
 *We already face a multitude of choices everyday with regards to what to access online in this digital era of the information explosion, and every additional decision that we must make simply adds on to the uncertainty and anxiety we face. Micropayment supporters believe that a simplified implementation can minimize the intrusiveness of micropayments and improve user experience, but their argument only creates double standards for the decision making process \[2\]. A transaction cannot simultaneously be worth enough to warrant a decision and worth so little that the decision is automatic. **The only transactions that users can approve without thought are ones that cost them nothing**, thus any micro-transaction of positive value will incur mental costs through its requiring a decision. Furthermore, mental transaction costs actually rise below a certain threshold value, a phenomenon that places micropayments at an even greater disadvantage. For instance, it is easy to think that a copy of today's newspapers costs $1, but readers face much more difficulty and anxiety in deciding on the value of each article or word. Such a dilemma will only be replicated and exacerbated if all online content were to be broken down into their components and individually valued within a micropayment system.*
 
@@ -461,17 +461,17 @@ Steem'de mikro ödemeler içerik üreticisine yapılır; buna karşılık içeri
 
 Üstelik Steeem, insanlara kime ödeme yapmak gerektiğini tespit etsinler diye ödeme yapar! Bu devrimci bir fikirdir.
 
-## Değer bağlantılarda
+## Değer Linklerde
 
-Eğer içerik bünyesindeki tüm bağlantılar kaldırılsaydı, İnternet değerinin çok büyük bir bölümünü yitirirdi. Google'a 16 milyon sonuç arasından en iyi elma turtası tarifini saptama imkanını veren şey web sayfaları arasındaki ilişkidir. Bağlantılar olmasaydı Google yalnızca sözcüklerin hangi sıklıkla kullanıldığının bilgisine sahip olabilirdi.
+Eğer içerik bünyesindeki tüm linkler kaldırılsaydı, İnternet değerinin çok büyük bir bölümünü yitirirdi. Google'a 16 milyon sonuç arasından en iyi elma turtası tarifini saptama imkanını veren şey web sayfaları arasındaki ilişkidir. Linkler olmasaydı Google yalnızca sözcüklerin hangi sıklıkla kullanıldığının bilgisine sahip olabilirdi.
 
-Bağlantılar birçok biçim alabilir; zaman içinde birçok farklı biçime de girmişlerdir zaten. Herhangi bir sosyal ağda herhangi bir içeriği oylayan kullanıcı, kendisiyle içerik arasında bir bağlantı oluşturur. Bu da içerik aracılığıyla müşteriyi üreticiye bağlar. Bir ağ ne kadar fazla bağlantıya sahipse sunduğu bilgi de o kadar değerlidir. Bir bilgiye değerini bahşeden, o bilginin göreli ve kasıtlı bağlantılılığıdır.
+Linkler birçok biçim alabilir; zaman içinde birçok farklı biçime de girmişlerdir zaten. Herhangi bir sosyal ağda herhangi bir içeriği oylayan kullanıcı, kendisiyle içerik arasında bir bağlantı oluşturur. Bu da içerik aracılığıyla müşteriyi üreticiye bağlar. Bir ağ ne kadar fazla bağlantıya sahipse sunduğu bilgi de o kadar değerlidir. Bir bilgiye değerini bahşeden, o bilginin göreli ve kasıtlı bağlantılılığıdır.
 
-Bir sosyal ağ, bağlantıların niceliğini ve niteliğini maksimize ederek, bir içerik setinden süzülen değeri maksimize edebilir. İçerik düzenlemek pahalı ve zaman alıcıdır; bunun yanında, bağlantılar olmaksızın bilgisayarların iş görmesi neredeyse imkansızdır. Steem, yeni içerikleri bulup tespit eden ilk kullanıcıları ödüllendirir.
+Bir sosyal ağ, bağlantıların niceliğini ve niteliğini maksimize ederek, bir içerik setinden süzülen değeri maksimize edebilir. İçerik düzenlemek pahalı ve zaman alıcıdır; bunun yanında, linkler olmaksızın bilgisayarların iş görmesi neredeyse imkansızdır. Steem, yeni içerikleri bulup tespit eden ilk kullanıcıları ödüllendirir.
 
 Steem ağı, içerik düzenlemeyi teşvik ederek, devasa bir içerik bütününden en değerli bilgiyi süzmek için otomatik algoritmalar kullanabilmektedir.
 
-## Solving the Cryptocurrency Onboarding Problem
+## Kripto Para'nın Onboarding Sorununu Çözmek
 
 Kripto parayı kullanmayı öğrenmek kolay değildir [^21]. Bitcoin'den yeni haberdar olan ve onu bir denemek isteyen bir kişi çok geçmeden para bozdurarak kayıt olması ve hesabını bir kredi kartı veya banka havalesiyle fonlaması gerektiğini öğrenir. Eğer üyelik için para ödemek ve iki çeşit kimlik belgesi arz etmek zorunda kalsaydınız Facebook kullanım oranı ne seviyede olurdu?
 
@@ -483,7 +483,7 @@ Kullanması zor olan ya da satması imkansız olan bir paranın düşük bir de�
 
 Tacirler, kullanıcılara sahip oldukları kripto paraları çabucak maddi mal ve hizmetlere dönüştürmenin bir imkanını sunar. Tacirler, kendi hesap birimlerine sabitlenmiş bir para birimine, genellikle de dolara gereksinim duyarlar. İstikrarsız bir para birimini kabul etmek önemli muhasebe masraflarına sebep olur.
 
-Tacirler satışlarını artıran her türlü para birimini kabul edecektir. Having a large user base with a stable currency such as SBD lowers the barrier to entry for merchants. Tacirlerin varlığı, kullanıcıların sistemden para bozdurmak zorunda kalmadan çıkabilmeleri için bir çıkış şeridi yaratmak yoluyla sistemi geliştirir.
+Tacirler satışlarını artıran her türlü para birimini kabul edecektir. SBD gibi sabit bir para birimine ve geniş bir kullanıcı tabanına sahip olmak, tacirlerin sisteme girişinin önündeki engelleri azaltır. Tacirlerin varlığı, kullanıcıların sistemden para bozdurmak zorunda kalmadan çıkabilmeleri için bir çıkış şeridi yaratmak yoluyla sistemi geliştirir.
 
 İnsanların Steem platformuna katılmakla kazandıkları küçük miktardaki kripto paraları likide etmesinin bir diğer yolu da diğer insanlara *bahşiş* vermektir. Bu, küçük miktardaki para üstünü bahşiş olarak garsona bırakmak gibidir. Yeterince insan küçük bahşişler bıraktığında bu kayda değer bir miktara ulaşır. Hem siz hem de garson bahşişten yarar sağlamış olursunuz.
 
