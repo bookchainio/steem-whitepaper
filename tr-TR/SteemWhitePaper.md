@@ -425,7 +425,7 @@ Aralık 2016'daki ağın 16. hard forkundan sonra Steem yeni tokenları yıllık
 
 Yeni yaratılan tokenların %75'i yazarlar ve küratörler arasında paylaşılmakta olan ödül havuzunu fonlamaya ayrılmıştır. Yeni tokenların %15'i SP sahiplerine ödül olarak dağıtılmaktadır. Geri kalan %10 ise blockchain'i işletmeleri için Witness'lara ödenmektedir.
 
-### Impact of Token Creation Rate
+### Token Yaratım Oranının Etkisi
 
 It is often said that a coin with an inflationary model is not sustainable, but we know from countless real-world examples that the quantity of money does not have a direct and immediate impact on its value, though it certainly plays a role.
 
