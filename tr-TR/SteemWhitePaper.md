@@ -256,9 +256,9 @@ Steem'de blok üretimleri rauntlar halinde yapılır. Her rauntda 21 adet witnes
 
 Bu süreç -üst siralara cikacak kadar oylanabilmeye yetecek populerlige sahip olunmasindan bagimsiz olarak- herkese blok üretimine katilabilme potansiyeli temin ederken; en iyi güvenilirliği sağlamak üzere tasarlanmıştır. İnsanlar, seçilmiş ilk 20 Witness tarafindan uygulanan sansürü asmak için 3 ayrı yola sahiptir: Ilk 20'de bulunmayan herkesle birlikte sabirla beklemek ya da oy gücünü arttırmak için daha fazla SP satın almak. Genel olarak konuşursak, sansür uygulamak seçilmiş witnesslar acisindan işlerini kaybetmek icin iyi bir yoldur. Bu nedenle Steem ağında bunun gercek bir probleme dönüsmesi olması olası değildir.
 
-Aktif witnesslar önceden bilindiği için, Steem Witnessları her 3 saniyede bir blok üretmeleri için zaman cizelgesine oturtabilmektedir. Witness'lar blok üretimlerini NTP protokolü araciligiyla senkronize eder. Bu algoritmanın bir benzeri bir yılı aşkın süredir BitShares ağında kullanılarak güvenilirliğini kanıtlamıştır.
+Aktif witnesslar önceden bilindiği için Steem, Witnessları her 3 saniyede bir blok üretmeleri için zaman çizelgesine oturtabilmektedir. Witness'lar blok üretimlerini NTP protokolü araciligiyla senkronize eder. Bu algoritmanın bir benzeri bir yılı aşkın süredir BitShares ağında kullanılarak güvenilirliğini kanıtlamıştır.
 
-# İşlem Ücretlerini Ortadan Kaldırıyor
+# İşlem Ücretlerinin Ortadan Kaldırılması
 
 Steem ağa katkıda bulunları ödüllendirmek için çabalıyor. Katkıda bulunmak isteyenlerden her defasında ücret alınması bu düşüncenin tam tersi olurdu.
 
