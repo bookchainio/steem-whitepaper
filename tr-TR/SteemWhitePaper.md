@@ -477,7 +477,7 @@ Kripto parayı kullanmayı öğrenmek kolay değildir [^21]. Bitcoin'den yeni ha
 
 Steem, herkese yaptığı basit ama değerli görevlerin parasal karşılığını alabilmenin imkanını sunarak bu sorunu çözmektedir. Bu STEEM tokenlarını kapsamlı bir şekilde dağıtmayı sağlayacaktır. Bu yararlı bir şeydir zira kripto paralar ağ etkisi yaparlar (yani, kullanıcı sayısı arttıkça kripto para daha kullanışlı hale gelir; aykırı bir örnek vermek gerekirse, Satoshi Bitcoin'in %100'ünü kendisine saklamak istediğini düşünün, bu durumda Bitcoin'in hiçbir değeri kalmazdı)
 
-## Solving the Cryptocurrency Liquidation Problem
+## Kripto Para'nın Likidasyon Sorununu Çözmek
 
 Kullanması zor olan ya da satması imkansız olan bir paranın düşük bir değeri olur. Eline 1 dolar değerinde Bitcoin geçen bir kişi, bu Bitcoin'i satmanın 1 dolardan daha fazlasına mal olacağını fark edecektir. Bu kişi, para bozdurarak bir hesap açmak, Müşterini Tanı onaylamasından geçmek ve kullanım harcı ödemek zorundadır. Küçük miktarda kripto para, insanların yerden almak için eğilmeye tenezzül etmeyeceği kadar düşük para üstleri gibidir.
 
@@ -495,7 +495,7 @@ Steemit.com gibi bireysel web siteleri kendi sitelerinde içerik sansürlemesi y
 
 İfade özgürlüğü diğer tüm özgürlüklerin temelidir; ifade özgürlüğüne yönelik herhangi bir ihlal, oydaşmayı tesis etmenin yegane barışçıl yolunun, yani tartışmanın temelini sarsar. Özgür tartışma olmaksızın, oy verenler tamamen bilgilendirilemez; bilgilendirilmemiş oy verenler de toplum için oy kullanma hakkını kaybedenlerden daha büyük bir tehdit oluştururlar. Sansür, kamusal söylemi kısıtlanması aracılığıyla oy çalmanın bir biçimidir. Steem, ifade özgürlüğünü tesis etme ve özgür bir toplum inşa etme amaçlarına kendini adamıştır.
 
-## Solving Organic Discovery via Search Engine Optimization
+## Arama Motoru Optimizasyonu aracılığıyla Organik Keşfi Çözümlemek
 
 Kripto paraların çoğu, ağı aktif olarak kullanmayan kişiler için küçük bir değer yaratır. Buna karşın Steem, içerik üretir ve kullanıcıları bu içeriği paylaşmaya teşvik eder. Bu içerik arama motorları tarafından endekslenir; en nihayetinde de çok sayıda pasif kullanıcıya değer sağlayacaktır. Arama trafiği, Steem ağı için organik reklamlar oluşturur ve ağ etkisini büyütür.
 
@@ -507,11 +507,11 @@ Blockchain temelli sosyal medyada ise bir üretici veya yazar, içerik kaynağı
 
 Zaman damgası hizmeti hemen hemen bütün blokchain sistemlerinde kurulabilir ki Bitcoin ağında böyle bir hizmet kurmak için birtakım çabalar zaten mevcuttur. Buna mukabil Steem, bu sahada işe yarar bir avantaja sahiptir zira içerik paylaşımcıları "birinci sınıf vatandaşlar"dır -- Steem blockchain baştan aşağı içerik paylaşma senaryosu etrafında kurulmuştur ki bu içerik üreticilerine, diğer Steem kullanıcılarıyla aynı yazım araçlarını kullanarak kendi postlarını yazma ve belirli bir zaman aralığında içeriklerini blockchain sistemine onaylatma olanağı tanır.
 
-## Replacing Advertising with Blockchain-based Content Rewards
+## Reklamları Blockchain temelli İçerik Ödülleriyle İkame etmek
 
-Under most content monetization models, content creators leverage advertising in one form or another. Many creators recognize how advertising may diminish their work’s value to the consumer, yet creators very often must seek returns on their time by monetizing. Advertising represents a double-edged sword: With ads, a creator can make money most easily. Without ads, monetization is difficult but the content is richer.
+İçerikten para kazanma modellerinden çoğunda, içerik üreticileri o veya bu biçimde reklamlardan azami düzeyde yararlanmaktadır. Birçok içerik üreticisi, reklamların kendi işlerinin müşteri nezdindeki değerini nasıl düşürdüğünün bilincindedir; ne var ki içerik üreticileri çoğu zaman paraya çevirme yoluyla sarf ettikleri zamanın karşılılığını almak zorundadırlar. Reklam iki ucu keskin bir bıçaktır: reklamlar sayesinde içerik üreticisi en kolay yoldan para kazanabilir. Reklamlar olmadan paraya çevirme zordur; buna karşılık üretilen içerik daha zengindir.
 
-Creators posting to social media outlets that are connected to Steem may monetize merely by having their work recognized (or ”liked”) by the Steem community. Blockchain-based payouts are completely digital and have no middle-man. Therefore monetization by blockchain-based content rewards should be faster and much lower barrier to use than monetization by advertisements.
+Paylaşımlarının Steem topluluğu tarafından tanınmasını (veya "beğenilmesini") sağlamak, Steem ile bağlantılı olan sosyal medya platformlarında paylaşım yapan içerik üreticilerinin katkılarını paraya çevirebilmeleri için yeterlidir. Blockchain temelli ödemeler bütünüyle dijital olup komisyoncu kişi barındırmazlar. Dolayısıyla blockchain temelli içerik ödülleri aracılığıyla para kazanma daha hızlı işler hale gelmeli ve reklam aracılığıyla para kazanmaya nazaran daha kullanımı daha engelsiz olmalıdır.
 
 # Sonuç
 
