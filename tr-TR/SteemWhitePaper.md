@@ -497,11 +497,11 @@ Steemit.com gibi bireysel web siteleri kendi sitelerinde içerik sansürlemesi y
 
 ## Solving Organic Discovery via Search Engine Optimization
 
-Kripto paraların çoğu, ağı aktif olarak kullanmayan kişiler için küçük bir değer yaratır. Buna karşın Steem, içerik üretir ve kullanıcıları bu içeriği paylaşmaya teşvik eder. Bu içerik arama motorları tarafından endekslenir; en nihayetinde de çok sayıda pasif kullanıcıya değer sağlayacaktır. This search traffic creates organic advertising for the Steem network and grows the network effect.
+Kripto paraların çoğu, ağı aktif olarak kullanmayan kişiler için küçük bir değer yaratır. Buna karşın Steem, içerik üretir ve kullanıcıları bu içeriği paylaşmaya teşvik eder. Bu içerik arama motorları tarafından endekslenir; en nihayetinde de çok sayıda pasif kullanıcıya değer sağlayacaktır. Arama trafiği, Steem ağı için organik reklamlar oluşturur ve ağ etkisini büyütür.
 
 ## Shifting Toward Blockchain-based Attribution
 
-The internet represents the easiest medium for distributing information in the world. With that said, it can be a frightening place for content creators who would like to own their content and have it shared with proper attribution. On current social media platforms, attribution is something that can be lost overnight - a posted video or image can be replicated and re-shared without consent or regard for the creator.
+İnternet, dünya üzerinde bilgi paylaşımının en kolay aracıdır. Hal böyleyken İnternet, kendi içeriğine sahip olmayı ve onları kendi adlarıyla paylaşıma sokmayı arzulayan içerik üreticileri için dehşet verici bir mekan olabilir. Mevcut sosyal medya platformlarında, sahiplik bir gecede kaybedilebilecek bir şeydir: yüklenen bir video veya resim, üreticinin izni olmaksızın kopyalanıp tekrar paylaşılabilir.
 
 Under blockchain-based social media, a creator or author would always be able to point to a public record and timestamp showing proof of their content origination. In a circumstance where a creator would like to address those who have re-shared without permission or attribution, blockchain-based records provide public proof that the content was posted by a particular user at a particular time. In the future, blockchain-based attribution could come to be recognized by governments for its authenticity and could hold weight in court, which would give content creators greater powers to control their work.
 
