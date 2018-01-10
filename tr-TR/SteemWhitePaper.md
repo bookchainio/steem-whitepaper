@@ -413,7 +413,7 @@ Katki Ödülleri:
 
 - Steem Power ödülleri: Yukaridaki ödüller tarafindan yaratilan her bir STEEM icin, 9 STEEM tüm Steem Power sahipleri arasinda bölüstürülür.
 
-### SBD operations:
+### SBD işlemleri:
 
 - SBD rewards: A percentage of SBD value is created at an APR set by the witnesses and paid to SBD holders as SBD
 
