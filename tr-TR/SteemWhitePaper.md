@@ -481,11 +481,11 @@ Steem, herkese yaptığı basit ama değerli görevlerin parasal karşılığın
 
 Kullanması zor olan ya da satması imkansız olan bir paranın düşük bir değeri olur. Eline 1 dolar değerinde Bitcoin geçen bir kişi, bu Bitcoin'i satmanın 1 dolardan daha fazlasına mal olacağını fark edecektir. Bu kişi, para bozdurarak bir hesap açmak, Müşterini Tanı onaylamasından geçmek ve kullanım harcı ödemek zorundadır. Küçük miktarda kripto para, insanların yerden almak için eğilmeye tenezzül etmeyeceği kadar düşük para üstleri gibidir.
 
-Merchants give users a way to quickly convert their cryptocurrency into tangible goods and services. Merchants need a currency pegged to their unit of account, normally dollars. Accepting a volatile currency introduces significant accounting overhead.
+Tacirler, kullanıcılara sahip oldukları kripto paraları çabucak maddi mal ve hizmetlere dönüştürmenin bir imkanını sunar. Tacirler, kendi hesap birimlerine sabitlenmiş bir para birimine, genellikle de dolara gereksinim duyarlar. İstikrarsız bir para birimini kabul etmek önemli muhasebe masraflarına sebep olur.
 
-Merchants will accept any currency if it increases their sales. Having a large user base with a stable currency such as SBD lowers the barrier to entry for merchants. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
+Tacirler satışlarını artıran her türlü para birimini kabul edecektir. Having a large user base with a stable currency such as SBD lowers the barrier to entry for merchants. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
 
-İnsanların Steem platformuna katılmakla kazandıkları küçük miktardaki kripto paraları likide etmesinin bir diğer yolu da diğer insanlara *bahşiş* vermektir. Bu, küçük miktardaki para üstünü bahşiş olarak garsona bırakmak gibidir. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
+İnsanların Steem platformuna katılmakla kazandıkları küçük miktardaki kripto paraları likide etmesinin bir diğer yolu da diğer insanlara *bahşiş* vermektir. Bu, küçük miktardaki para üstünü bahşiş olarak garsona bırakmak gibidir. Yeterince insan küçük bahşişler bıraktığında bu kayda değer bir miktara ulaşır. Hem siz hem de garson bahşişten yarar sağlamış olursunuz.
 
 ## Sansür
 
