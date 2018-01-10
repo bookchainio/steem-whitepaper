@@ -497,7 +497,7 @@ Steemit.com gibi bireysel web siteleri kendi sitelerinde içerik sansürlemesi y
 
 ## Solving Organic Discovery via Search Engine Optimization
 
-Most cryptocurrencies generate little value for those who are not actively using the network. Steem, by contrast, generates content and encourages users to share it. This content gets indexed by search engines and ultimately will bring value to a large number of passive users. This search traffic creates organic advertising for the Steem network and grows the network effect.
+Kripto paraların çoğu, ağı aktif olarak kullanmayan kişiler için küçük bir değer yaratır. Buna karşın Steem, içerik üretir ve kullanıcıları bu içeriği paylaşmaya teşvik eder. Bu içerik arama motorları tarafından endekslenir; en nihayetinde de çok sayıda pasif kullanıcıya değer sağlayacaktır. This search traffic creates organic advertising for the Steem network and grows the network effect.
 
 ## Shifting Toward Blockchain-based Attribution
 
