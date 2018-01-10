@@ -489,7 +489,7 @@ Tacirler satışlarını artıran her türlü para birimini kabul edecektir. SBD
 
 ## Sansür
 
-Steem, tüm dünyadaki yargı sistemlerindeki witnessler tarafından işletilen desantralize bir ağdır. Tüm kullanıcı faaliyetleri kamuya açık bir şekilde blockchain'e kaydedilir ve kamuya tarafından denetlenebilir. Bu da STEEM paydaşlarınca kendisine değer atfedilmiş olan içeriği sansürleyebilecek hiçbir entitenin olmadığı anlamına gelir.
+Steem, tüm dünyadaki yargı sistemlerindeki witnessler tarafından işletilen desantralize bir ağdır. Tüm kullanıcı faaliyetleri kamuya açık bir şekilde blockchain'e kaydedilir ve kamu tarafından denetlenebilir. Bu da STEEM paydaşlarınca kendisine değer atfedilmiş olan içeriği sansürleyebilecek hiçbir entitenin olmadığı anlamına gelir.
 
 Steemit.com gibi bireysel web siteleri kendi sitelerinde içerik sansürlemesi yapabilirler; buna karşın blockchain'de yayınlanan içerik doğası gereği trafik neşreder ve tüm dünyadaki aynalar da bu içeriği erişilebilir kılmayı sürdürebilirler.
 
