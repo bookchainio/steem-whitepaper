@@ -4,9 +4,9 @@
 
 اگست ٢٠١٧
 
-# Translator's notes
+# ترجمہ کرنے والے کے لئے نوٹ
 
-Placeholder for translator's notes.
+ترجمہ کرنے والے کے لئے نوٹ کے لئے قائم جگہ.
 
 # خلاصہ
 
@@ -515,7 +515,7 @@ Placeholder for translator's notes.
 
 # اختتامی نتیجہ
 
-Steem is an experiment designed to address challenges in the cryptocurrency and social media industries by combining the best aspects from both. Steem presents earning opportunities to content creators and internet readers in ways that have not existed within the social media industry. Within Steem, individuals earn real rewards online that are directly correlated to their contributions. Those rewards may have dollar value due to the market price discovery and liquidity of Steem, and the people who hold Steem may have more exclusive earning powers than those who do not.
+سٹیم کرائیپٹوکرنسی اور سوشل میڈیا صنعتوں کے اندر کے مسائل دونوں کے بہترین پہلوؤں کو یکجا کرنے کے ذریعے ان مسائل کو حل کرنے کے لئے ایک آزمائش ہے. سٹیم مواد تخلیق کاروں اور قارئین کے لئے کمانے کے ایسے مواقع پیش کرتا ہے جو کبھی سوشل میڈیا صنعتوں میں موجود نہیں تھے. سٹیم کے اندر ہی، افراد آن لائن اصلی انعامات کماتے ہیں جو ان کے تعاون/شراکت کے بقدر ہے. وہ انعامات مارکیٹ قیمت دریافت کی وجہ سے ڈالر کی قدر میں ہو سکتے ہیں اور سٹیم کی ماعیت میں، اور وہ لوگ جنہوں نے سٹیم کو ہولڈ کیا، ان کے پاس زیادہ خصوصی کمائی کی طاقتیں ہو سکتی ہیں بمقابل ان کے جنہوں نے ہولڈ نہیں کیا.
 
 [^1]: Reddit’s Cryptocurrency, Forbes, Erika Morphy, October 2014 http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/\#4e07b05332b9
 
