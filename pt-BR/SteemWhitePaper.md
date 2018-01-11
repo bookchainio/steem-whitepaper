@@ -342,13 +342,13 @@ Uma blockchain pode impor um valor mínimo por usuário através do simples proc
 
 Manter um saldo mínimo é efetivamente o mesmo que fazer o usuário pagar taxas de transação com o juros que ele poderia ter ganho com o seu saldo. O saldo mínimo é simplesmente o saldo necessário para receber juros suficientes para pagar a taxa em um período relativamente curto de tempo.
 
-Felizmente, o saldo mínimo necessário pode ser tão baixo quanto um dólar e isso é algo que os usuários podem entender e apreciar. The opportunity cost of lost interest doesn’t incur the cognitive cost of a micro-fee and is far more acceptable to users.
+Felizmente, o saldo mínimo necessário pode ser tão baixo quanto um dólar e isso é algo que os usuários podem entender e apreciar. O custo de oportunidade de perda de juros não significa custo cognitivo de uma micro-taxa e é muito mais aceitável pelos usuários.
 
-The STEEM used to pre-fund an account is Powered Up in the new account (i.e., converted to Steem Power). A portion of the SP used to fund a new account may be delegated from the creator of the account. When a user is delegated SP, they may use the SP for voting and bandwidth purposes as if it were their own, but the ownership of the SP remains with the user who delegated it. A user may remove the delegation at any time. After a cool-down period, the SP is returned to their account.
+O STEEM utilizado para pré-financiar uma conta é utilizado como Power Up na nova conta (i.e. convertido em Steem Power). Uma porção do SP utilizado para financiar uma nova conta pode ser delegado do criador da conta. Quando um usuário recebe SP delegado, ele pode utilizar o SP para votar e tamanho de largura de banda como se fosse sua, mas a posse do SP é mantida pelo usuário que a delegou. Um usuário pode remover a delegação a qualquer tempo. Após um período de arrefecimento, o SP retorna para a sua conta.
 
-### Effectiveness Relative to Fees
+### Efetividade Com Relação às Taxas
 
-To compare the effectiveness of rate limiting to fees we must consider how the two systems react to intentional network flooding by an attacker. Under Bitcoin an attacker with $10,000 dollars could disrupt service for an entire day by filling every single block. The same attacker would be unable to disrupt service for even a single block under the dynamic fractional reserve rate limiting approach.
+Para comparar a efetividade de limitação de proporção com as taxas nós devemos considerar como os dois sistemas reagem a sobrecarga intencional da rede por um atacante. Sob o Bitcoin um atacante com $10.000 dólares poderia prejudicar o serviço por um dia inteiro ao preencher todos os blocos. The same attacker would be unable to disrupt service for even a single block under the dynamic fractional reserve rate limiting approach.
 
 If we go to a more extreme case and assume the attacker holds 1% of all coins then we presume an attacker with $60 million dollars. Such an attacker could deny the Bitcoin blockchain service for 16 years unless the miners increased fees or capacity. Even if fees were raised to $15 per transaction, the attacker could still keep the network flooded for 16 days.
 
