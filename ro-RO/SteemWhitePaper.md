@@ -24,21 +24,21 @@ Există câteva principii cheie care au fost folosite pentru a proiecta Steem. P
 
 Al doilea principu este că toate formele de capital sunt la fel de valoroase. Aceasta înseamnă că toți cei care contribuie prin timp și atenție la crearea de conținut și la susținerea lui, sunt la fel de valoroși ca cei care contribuie cu bani. Acesta este principiul echității [^2] și este un concept care înaintea criptomonedelor a avut adesea probleme în ceea ce privește oferirea recompenselor la mai multe câteva zeci de persoane.
 
-Al treilea principiu este că această comunitate produce produse destinate membriilor ei. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
+Al treilea principiu este că această comunitate produce produse destinate membriilor ei. Acest principiu este exemplificat de cooperative de credite, cooperativele alimentare și a caselor de sănătate, care mai degrabăn servesc membrii comunității și nu vând produse sau servicii personalelor care nu fac parte din comunitate.
 
-The Steem community provides the following services to its members:
+Comunitatea Steem oferă membrilor săi, următoarele servicii:
 
-1. A source of curated news and commentary.
-2. A means to get high quality answers to personalized questions.
-3. A stable cryptocurrency pegged to the U.S. dollar.
-4. Free payments.
+1. O sursă de știri și comentarii întreținute.
+2. Un mijloc de obținere a unor răspunsuri personalizate, de înaltă calitate.
+3. O criptomonedă stabilă, raportată la dolarul american.
+4. Plăți gratuite.
 5. Jobs providing above services to other members.
 
-Steem’s purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem’s incentives may result in better outcomes for most participants.
+Steem’s purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. Această lucrare va explora stimulentele economice existente și va demonstra felul în care stimulentele Steem pot avea rezultate mai bune pentru majoritatea participanților.
 
-## Recognizing Contribution
+## Recunoașterea Contribuției
 
-Steem is designed from the ground up to address the major barriers to adoption and monetization of a social media based economy. Our thesis is that the same techniques used to grow major social media platforms can be used to bootstrap a successful cryptocurrency. Economic incentives enabled by cryptocurrency can dramatically facilitate the growth of a new social media platform. It is the synergy between cryptocurrency and social media that we believe may give Steem a powerful advantage in the market.
+Steem is designed from the ground up to address the major barriers to adoption and monetization of a social media based economy. Teza noastră este că aceleași tehnici folosite la creșterea platformelor majore media de socializare, pot fi folosite penru a inițializa o criptomonedă de succes. Economic incentives enabled by cryptocurrency can dramatically facilitate the growth of a new social media platform. It is the synergy between cryptocurrency and social media that we believe may give Steem a powerful advantage in the market.
 
 The challenge faced by Steem is deriving an algorithm for scoring individual contributions that most community members consider to be a fair assessment of the subjective value of each contribution. In a perfect world, community members would cooperate to rate each other's contribution and derive a fair compensation. In the real world, algorithms must be designed in such a manner that they are resistant to intentional manipulation for profit. Any widespread abuse of the scoring system could cause community members to lose faith in the perceived fairness of the economic system.
 
