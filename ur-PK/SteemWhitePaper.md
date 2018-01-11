@@ -505,15 +505,15 @@ Placeholder for translator's notes.
 
 بلاکچین پر مبنی سوشل میڈیا میں، ایک خالق یا مصنف اپنے مواد کے آغاز کا ثبوت دینے کے لئے ہمیشہ عوامی ریکارڈ اور وقت کی طرف اشارہ کر سکتا ہے. ایک ایسی صورتحال میں جہاں ایک خالق یا مصنف کسی ایسے شخص کو مخاطب کرنا چاہتا ہے جس نے بغیر اجازت یا انتساب کے مواد کو دوبارہ تقسیم کیا ہے، بلاکچین پر مبنی ریکارڈ عوامی ثبوت فراہم کرتا ہے کہ مواد ایک خاص شخص کے ذریعے خاص وقت پر پوسٹ کیا گیا تھا. مستقبل میں، بلاکچین پر مبنی انتساب حکومت کی طرف سے بھی شناخت کیا جا سکتا ہے اور کورٹ میں وزن رکھ سکتا ہے، جو کہ مواد تخلیق کاروں کو ان کے مواد پر اختیار کی عظیم طاقت دے گا.
 
-While a timestamping service can be built on almost any blockchain, and several efforts exist to build this kind of service on the Bitcoin network, Steem has a useful advantage in this realm because content publishers are “first class citizens” -- the Steem blockchain is built from the ground up around the use case of content publication, which allows content creators to have the blockchain to validate their content at a certain point in time simply by writing their post using the same authoring tools used by other Steem users.
+البتہ، وقت کی چھپائی کی سروس تقریبا ہر بلاکچین پر بنائی جا سکتی ہے، اور اس قسم کی سروس کو بٹکوائن پر بنانے کی کچھ کوششیں موجود ہیں، سٹیم کے لئے اس میدان میں مفید فائدہ ہے کیونکہ مواد شائع کرنے والے “اول درجے کے شہری“ ہیں -- سٹیم بلاکچین کو بنیاد سے ہی مواد کو شائع کرنے کی سوچ کے اردگرد بنایا گیا ہے، جو مواد تخلیق کرنے والوں کو ایک بلاکچین مہیا کرتا ہے جس کے ذریعے وہ اپنے مواد کی کسی بھی وقت توثیق کر سکتے ہیں اور وہ بھی تصنیف کے ان اوزاروں کے استعمال سے جو دوسرے سٹیم کے صارفین استعمال کرتے ہیں.
 
-## Replacing Advertising with Blockchain-based Content Rewards
+## تشہیر کی بلاکچین پر مبنی مواد کے انعامات کے ساتھ تبدیلی
 
-Under most content monetization models, content creators leverage advertising in one form or another. Many creators recognize how advertising may diminish their work’s value to the consumer, yet creators very often must seek returns on their time by monetizing. Advertising represents a double-edged sword: With ads, a creator can make money most easily. Without ads, monetization is difficult but the content is richer.
+اکثر مواد سے پیسہ بنانے کے ماڈل کے تحت، مواد تخلیق کرنے والے تشہیر کو ایک یا دوسری شکل میں قوت دیتے ہیں. کافی تخلیق کار یہ پہچانتے ہیں کہ کس طرح تشہیر صارف کے پاس اس کے کام کی قدر کو گھٹا سکتی ہے، اس کے باوجود تخلیق کاروں کو لازمی طور پر اپنے وقت پر پیسہ بنانے کے عمل سے منافع حاصل کرنا ہوتا ہے. تشہیر دو دھاری تلوار کی نمائندگی کرتی ہے: اشتہارات کے ساتھ، ایک تخلیق کار آسانی سے بہت سارا مال کما سکتا ہے. اشتہارات کے بغیر، پیسہ بنانے کا عمل مشکل ہے لیکن مواد عمدہ ہے.
 
-Creators posting to social media outlets that are connected to Steem may monetize merely by having their work recognized (or ”liked”) by the Steem community. Blockchain-based payouts are completely digital and have no middle-man. Therefore monetization by blockchain-based content rewards should be faster and much lower barrier to use than monetization by advertisements.
+تخلیق کاروں کی ان سوشل میڈیا دکانوں پر پوسٹنگ (شائع کرنا) جو سٹیم سے منسلک ہے، وہ محض اپنے کام کی سٹیم کمیونٹی کے طرف سے شناختگی (یا “پسندیدگی“) کے ذریعے پیسہ بنانے کا عمل کر سکتی ہے. بلاکچین پر مبنی ادائیگیاں مکمل طور پر ڈیجیٹل ہیں اور اس میں کوئی درمیانی انسان نہیں ہے. لہذا بلاکچین پر مبنی مواد کے انعامات کے ذریعے منیٹائیزیشن بہت تیز ہونی چاہئیے اور استعمال میں بہت کم رکاوٹ ہے بمقابل اشتہارات کے زریعے پیسہ بنانے کے عمل (منیٹائیزیشن) سے.
 
-# Conclusion
+# اختتامی نتیجہ
 
 Steem is an experiment designed to address challenges in the cryptocurrency and social media industries by combining the best aspects from both. Steem presents earning opportunities to content creators and internet readers in ways that have not existed within the social media industry. Within Steem, individuals earn real rewards online that are directly correlated to their contributions. Those rewards may have dollar value due to the market price discovery and liquidity of Steem, and the people who hold Steem may have more exclusive earning powers than those who do not.
 
