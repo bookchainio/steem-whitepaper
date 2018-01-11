@@ -324,15 +324,15 @@ Se nós assumirmos que um usuário com $25 dólares de BTC realiza transações 
 
 ### Criação de Conta
 
-O sistema baseado em contas do Steem com balanços publicamente conhecidos simplifica a implementação do algoritmo baseado em limitação de largura de banda. Qualquer conta com um saldo menor que o mínimo necessário para transacionar uma vez por semana seria incapaz de realizar transações. Isso significa que todas as novas devem ser financiadas com um saldo mínimo. It also implies that users wishing to transact in smaller amounts can, so long as they hold a larger balance and reuse the account.
+O sistema baseado em contas do Steem com balanços publicamente conhecidos simplifica a implementação do algoritmo baseado em limitação de largura de banda. Qualquer conta com um saldo menor que o mínimo necessário para transacionar uma vez por semana seria incapaz de realizar transações. Isso significa que todas as novas devem ser financiadas com um saldo mínimo. Isso também significa que um usuário que deseje, poderá realizar transações em quantidades menores, desde tenham um saldo maior e reutilizem a conta.
 
-It is possible for a low-balance account created during a time of low usage to become inaccessible if the network usage picks up. The funds could be recovered at any time by temporarily delegating a larger balance to the account.
+É possível para uma conta com o saldo pequeno criada durante um período de baixo uso se torne inacessível se o uso da rede aumentar. Os fundos podem ser recuperados a qualquer momento temporariamente delegando um saldo grande para a conta.
 
-In order to maintain a reasonable user experience with a minimum number of hung accounts, all new accounts should start out with a balance 10 times the minimum required to transact weekly. This way even if demand increases by a factor of 10 the account will remain viable.
+Para manter uma experiência de utilização razoável com um número mínimo de contas travadas, todas as novas contas devem iniciar com um saldo 10 vezes maior que o mínimo necessário realizar transações semanalmente. Dessa forma, se a demanda aumentar 10 vezes, a conta permanecerá válida.
 
-Any initial account balance would have to come from the user creating the account and not from token creation due to the potential for sybil attacks.
+Qualquer saldo inicial de conta deveria vir do usuário que está criando a conta e não na criação do token devido ao potencial de ataques sybil.
 
-### Justifying Minimum Balances
+### Justificando Saldos Mínimos
 
 The concept of forcing users to maintain a minimum balance flows naturally from the value of a user[^10]. Anyone running a business knows that every single user has significant value. Businesses spend anywhere from $30 to $200 to acquire a user. Sometimes they pay users directly, other times they pay for advertizing, and still other times entire companies are bought just for their user base. After a company acquires a user they often given them many *free services* just to keep them around long enough to monetize them through some other means.
 
