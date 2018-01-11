@@ -316,15 +316,15 @@ Nas nossas estimativas deverá ser suficiente medir a média de uso semanal de b
 
 ### Impacto de Capacidade
 
-A capacidade de uma blockchain não é necessariamente limitada. It is well within the technological capability of internet infrastructure to increase the Bitcoin block size to 10MB which in turn will reduce the minimum required balance by a factor of 10. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second.
+A capacidade de uma blockchain não é necessariamente limitada. Está dentro da capacidade tecnológica da infraestrutura da internet aumentar o tamanho do bloco do Bitcoin para 10MB o que iria reduzir o equilíbrio mínimo necessário em 10 vezes. Enquanto o Bitcoin suporta atualmente cerca de 3 transações por segundo, implementações alternativas são capazes de mais de 1000 transações por segundo.
 
-### Comparison to Fees
+### Comparação com Taxas
 
-If we assume a user with $25 dollars worth of BTC transacts once per week and pays a $0.04 cent fee each time then they would pay over $2.00 in fees per year. A user would have to earn a 8% rate of return on their $25 dollars just to break even with paying fees. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
+Se nós assumirmos que um usuário com $25 dólares de BTC realiza transações uma vez por semana e paga uma taxa de $0.04 centavos a cada transação ele iria pagar $2.00 em taxas por ano. Um usuário tem que ter uma taxa de retorno de 8% sobre os seus $25 dólares apenas para atingir o ponto de equilíbrio com o pagamento de taxas. A probabilidade é que os usuários irão segurar o seu dinheiro de qualquer forma na blockchain, então esse usuário com $25 em BTC apenas economizou $2 ao longo de um ano ao adotar uma abordagem limitante ao invés de uma abordagem baseada em taxas. Com apenas $175 ele poderia realizar transações todos os dias e economizar $14 por ano.
 
-### Account Creation
+### Criação de Conta
 
-Steem’s account-based system with publicly known balances simplifies the implementation of the bandwidth-based rate limiting algorithm. Any account with a balance below the minimum required to transact once per week would be unable to transact. This implies that all new accounts should be funded with at least this minimum balance. It also implies that users wishing to transact in smaller amounts can, so long as they hold a larger balance and reuse the account.
+O sistema baseado em contas do Steem com balanços publicamente conhecidos simplifica a implementação do algoritmo baseado em limitação de largura de banda. Qualquer conta com um saldo menor que o mínimo necessário para transacionar uma vez por semana seria incapaz de realizar transações. Isso significa que todas as novas devem ser financiadas com um saldo mínimo. It also implies that users wishing to transact in smaller amounts can, so long as they hold a larger balance and reuse the account.
 
 It is possible for a low-balance account created during a time of low usage to become inaccessible if the network usage picks up. The funds could be recovered at any time by temporarily delegating a larger balance to the account.
 
