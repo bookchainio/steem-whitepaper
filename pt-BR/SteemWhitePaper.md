@@ -338,11 +338,11 @@ O conceito de forçar os usuários a manter um saldo mínimo flui naturalmente d
 
 Ripple utiliza um saldo mínimo[^11] que expande com o uso de recursos de conta e requer que novas contas sejam financiadas com pelo menos esse saldo mínimo. Atualmente esse saldo mínimo é cerca de $0.15 o que é maior que os $0.10 que nós estimamos que iria permitir a alguém realizar transações livremente ao menos uma vez por semana.
 
-Uma blockchain pode impor um valor mínimo por usuário através do simples processo de exigir um saldo mínimo. Qualquer negócio que deseje trazer um novo usuário para a blockchain pode pré-financiar a conta daquele usuário com o saldo mínimo que irá permiti-los realizar transações. Requiring a relatively large fee ($1.00) to sign up new users will naturally force anyone offering free accounts to vet the quality and uniqueness of each account before registering them with the blockchain.
+Uma blockchain pode impor um valor mínimo por usuário através do simples processo de exigir um saldo mínimo. Qualquer negócio que deseje trazer um novo usuário para a blockchain pode pré-financiar a conta daquele usuário com o saldo mínimo que irá permiti-los realizar transações. Exigindo um valor relativamente alto ($1.00) para cadastrar novos usuários irá naturalmente forçar qualquer um que ofereça contas grátis a verificar a qualidade e singularidade antes de registrá-las na blockchain.
 
-Maintaining a minimum balance is effectively the same as making users pay transaction fees with the interest they could have earned on their balance. The minimum balance is simply the balance required to earn enough interest to pay a fee in a relatively short period of time.
+Manter um saldo mínimo é efetivamente o mesmo que fazer o usuário pagar taxas de transação com o juros que ele poderia ter ganho com o seu saldo. O saldo mínimo é simplesmente o saldo necessário para receber juros suficientes para pagar a taxa em um período relativamente curto de tempo.
 
-Fortunately, the minimum balance required can be as low as a dollar and this is something users can understand and appreciate. The opportunity cost of lost interest doesn’t incur the cognitive cost of a micro-fee and is far more acceptable to users.
+Felizmente, o saldo mínimo necessário pode ser tão baixo quanto um dólar e isso é algo que os usuários podem entender e apreciar. The opportunity cost of lost interest doesn’t incur the cognitive cost of a micro-fee and is far more acceptable to users.
 
 The STEEM used to pre-fund an account is Powered Up in the new account (i.e., converted to Steem Power). A portion of the SP used to fund a new account may be delegated from the creator of the account. When a user is delegated SP, they may use the SP for voting and bandwidth purposes as if it were their own, but the ownership of the SP remains with the user who delegated it. A user may remove the delegation at any time. After a cool-down period, the SP is returned to their account.
 
