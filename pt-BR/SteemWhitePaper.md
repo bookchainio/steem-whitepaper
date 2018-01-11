@@ -348,15 +348,15 @@ O STEEM utilizado para pré-financiar uma conta é utilizado como Power Up na no
 
 ### Efetividade Com Relação às Taxas
 
-Para comparar a efetividade de limitação de proporção com as taxas nós devemos considerar como os dois sistemas reagem a sobrecarga intencional da rede por um atacante. Sob o Bitcoin um atacante com $10.000 dólares poderia prejudicar o serviço por um dia inteiro ao preencher todos os blocos. The same attacker would be unable to disrupt service for even a single block under the dynamic fractional reserve rate limiting approach.
+Para comparar a efetividade de limitação de proporção com as taxas nós devemos considerar como os dois sistemas reagem a sobrecarga intencional da rede por um atacante. Sob o Bitcoin um atacante com $10.000 dólares poderia prejudicar o serviço por um dia inteiro ao preencher todos os blocos. O mesmo atacante não conseguiria prejudicar o serviço de nem mesmo um único bloco sob a abordagem de limitação de reserva dinâmica proporcional.
 
-If we go to a more extreme case and assume the attacker holds 1% of all coins then we presume an attacker with $60 million dollars. Such an attacker could deny the Bitcoin blockchain service for 16 years unless the miners increased fees or capacity. Even if fees were raised to $15 per transaction, the attacker could still keep the network flooded for 16 days.
+Se nós formos para um caso mais extremo e assumir que o atacante possui 1% de todas as moedas então nós presumimos que o atacante tem $60 milhões de dólares. Tal atacante poderia negar o serviço da blockchain do Bitcoin por 16 anos ao menos que os mineradores aumentassem as taxas ou capacidade. Mesmo se as taxas fossem aumentadas para $15 dólares por transação, o atacante ainda poderia manter a rede congestionada por 16 dias.
 
-Under the rate limiting approach, someone who holds 1% of all coins with an intent to flood the network would achieve their goal for less than 30 seconds.
+Sob a abordagem de limitação de proporção, alguém que detenha 1% de todas as moedas com a intenção de congestionar a rede iria atingir o seu objetivo por menos de 30 segundos.
 
-### Renting vs. Buying vs. Time Sharing
+### Alugar vs. Comprar vs. Compartilhamento de Tempo
 
-When someone owns a house they expect the right to use the house for free. If a group of people buy a house together then each can expect the right to use the house proportional to their percentage ownership in the house. A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
+Quando alguém é dono de uma casa ele espera o direito de utilizar essa casa de graça. Se um grupo de pessoas compram uma casa juntos então cada pessoa espera o direito de usar a casa proporcionalmente ao seu percentual de propriedade da casa. Uma blockchain baseada em taxas é como alugar uma casa dos seus priprietários, enquanto a limitação de proporção é como um compartilhamento temporário entre os prroprietários.
 
 If a house is owned by multiple people then those individuals must decide how they wish to timeshare the house. Someone who owns 50% of the house but only uses it one weekend per year might expect to be paid by the individuals who take their unused time. This is the mindset of a fee based system.
 
