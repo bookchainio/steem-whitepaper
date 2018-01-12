@@ -76,11 +76,11 @@ Steem este unitatea fundamentală a unui cont Steem de pe blockchain. Alți toke
 
 Companiile Start up necesită un angajament de capital pe termen lung. Cei care investesc bani în companii, așteaptă ani înainte să își vândă partea și să scoată profit. Fără angajament pe termenn lung, un start up care încearcă să strângă capital adițional prin vânzarea părților ar trebui să fie în competiție cu acționarii existenți care vor să iasă din afacere. Investitorii activi vor ca contribuțiile capitalului lor să ducă la creșterea companiei, dar creșterea nu va avea loc dacă noul capital dat este o cale de ieșire pentru aceștia.
 
-Există o valoare semnificativă pentru angajamentul pe termen lung deoarece îi permite comunității să facă planuri de lungă durată. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
+Există o valoare semnificativă pentru angajamentul pe termen lung deoarece îi permite comunității să facă planuri de lungă durată. Angajamentul pe termen lung al deținătorilor, îi face să voteze pentru cauze care duc la creșterea pe termen lung și nu pe termen scurt.
 
-In the cryptocurrency space, speculators jump from cryptocurrency to cryptocurrency based mostly on which one is expected to have short-term growth. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
+În spațiu criptomonetar, speculatorii trec de la criptomonedă la criptomonedă, bazându-se în mare parte pe ceva care are creștere pe termen scurt. Steem dorește construirea comunității care este deținută în mare parte și în totalitate controlată de cei care au o perspectivă pe termen lung.
 
-Users are able to commit their STEEM to a thirteen week vesting schedule, providing them with additional benefits within the platform. STEEM that has been committed to a thirteen week vesting schedule is called Steem Power (SP). SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
+Utilizatorii au posibilitatea de a-și păstra STEEM pentru o perioadă de vesting de treisprezece săptămâni, oferindu-le beneficii adiționale în interiorul platformei. STEEM care a fost încredințat pe perioadă de vesting de treisprezece săpămâni este numi Putere Steem (SP). Soldurile SP nu sunt transferabile și nu sunt divizibile, execpție fac cererile de conversie recursivă automate. Aceasta înseamnă că SP nu poate fi ușor schimbat pe schimburile de criptomonede.
 
 When users vote on content, their influence over the distribution of the rewards pool is directly proportional to the amount of SP that they have. Users with more SP have more influence on the distribution of rewards. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
 
