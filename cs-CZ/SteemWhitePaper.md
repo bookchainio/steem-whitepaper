@@ -54,9 +54,9 @@ Vyzkoušený systém na hodnocení a odměňování příspěvků je volný trh.
 
 Protože volný trh je vyzkoušený systém, je lákavé vytvořit systém volného trhu kde konzumenti obsahu přímo platí producenty obsahu. Nicméně pro tvorbu a správu obsahu jsou přímé platby neefektivní a neživotaschopné. Hodnota většiny obsahu je tak nízká v porovnání s nefinančními náklady (tj. námahou) spojenými s provedením platby, že příspěvek pošle jen málo čtenářů. Velké množství bezplatných alternativ způsobí, že vynucování výplaty odměny by odvedlo čtenáře jinam. Bylo již několik pokusů o implementaci mikroplateb autorům, ale žádný se nerozšířil.
 
-Steem je vytvořen tak, aby umožnil efektivní mikroplatby za všechny druhy příspěvků změnou způsobu ekonomického vyrovnání. Čtenáři se již nemusí rozhodovat, zda si přejí nebo nepřejí někoho platit ze své vlastní kapsy. Místo toho mohou hlasovat pro nebo proti obsahu a Steem použije jejich hlasy k výpočtu individuální odměny. This means that people are given a familiar and widely used interface and no longer face the cognitive, financial, and opportunity costs associated traditional micropayment and tipping platforms.
+Steem je vytvořen tak, aby umožnil efektivní mikroplatby za všechny druhy příspěvků změnou způsobu ekonomického vyrovnání. Čtenáři se již nemusí rozhodovat, zda si přejí nebo nepřejí někoho platit ze své vlastní kapsy. Místo toho mohou hlasovat pro nebo proti obsahu a Steem použije jejich hlasy k výpočtu individuální odměny. To znamená, že lidé získají běžné a široce využitelné rozhraní, a nemusí tak čelit nákladům obětované příležitosti, kognitivním ani finančním, které jsou spjaty s tradičními mikroplatbami a platformami pro ohodnocování obsahu.
 
-Hlasování je pro Steem kriticky důležité, aby mohl přesně rozdělit platby přispěvatelům. Na hlasování je tedy třeba pohlížet jako na důležitý příspěvek, který je hoden odměny sám o sobě. Some platforms, such as Slashdot, use meta-moderation[^3] as a way to rank and reward honest moderators. Steem se rozhodl odměňovat ty kdo přispívají nejvíce k celkové propagaci kousku obsahu a odměňovat hlasující proporcionálně ke konečné odměně vyplacené tvůrci obsahu.
+Hlasování je pro Steem kriticky důležité, aby mohl přesně rozdělit platby přispěvatelům. Na hlasování je tedy třeba pohlížet jako na důležitý příspěvek, který je hoden odměny sám o sobě. Některé platformy, jako třeba Slashdot, využívají meta-moderování[^3] jako způsob jak ohodnotit a odměnit kvalitní moderátory. Steem se rozhodl odměňovat ty kdo přispívají nejvíce k celkové propagaci kousku obsahu a odměňovat hlasující proporcionálně ke konečné odměně vyplacené tvůrci obsahu.
 
 # Způsoby jak přispět
 
@@ -66,11 +66,11 @@ Tato sekce nastiňuje ideje za Steemem a odměny pro ty kdo smysluplně a měři
 
 Jsou dvě věci, které komunita může nabídnout, aby přilákala kapitál: Dluhopis a vlastnictví. Ti kteří kupují vlastnictví vydělávají, když komunita roste ale ztrácejí, když se komunita zmenšuje. Ti kteří kupují dluh mají zaručenu určitou sumu úroků, ale nepodílejí se na ziscích z růstu komunity. Oba druhy kapitálového příspěvku jsou hodnotné pro růst komunity a hodnotu její měny. Navíc jsou zde dva druhy vlastnického podílu: likvidní a vázaný. Vázené vlastnictví znamená dlouhodobý závazek a nemůže být po určité období prodáno.
 
-The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SBD).
+Steem nazývá tyto tři různé formy aktiv Steem (STEEM), Steem Power (SP) a Steem Dollar (SBD).
 
 ## Steem (STEEM)
 
-Je základní jednotka účtu na Steem blockchainu. Všechny ostatní jednotky odvozují svou hodnotu od hodnoty STEEM. STEEM is a liquid currency, and therefore can be bought or sold on exchanges, as well as transferred to other users as a form of payment.
+Je základní jednotka účtu na Steem blockchainu. Všechny ostatní jednotky odvozují svou hodnotu od hodnoty STEEM. Steem je likvidní měna, a proto může být koupena nebo prodána na burzách či převedena jinému uživateli ve formě platby.
 
 ## Steem Power (SP)
 
@@ -80,7 +80,7 @@ Hodnota dlouhodobého závazku je podstatná, protože umožňuje komunitě dlou
 
 V kryptoměnném prostoru spekulanti přeskakují z měny na měnu dle toho, u které se předpokládá krátkodobý růst. Steem chce vybudovat komunitu, která je většinově vlastněna a zcela kontrolována těmi s dlouhodobým závazkem.
 
-Users are able to commit their STEEM to a thirteen week vesting schedule, providing them with additional benefits within the platform. STEEM that has been committed to a thirteen week vesting schedule is called Steem Power (SP). SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
+Uživatelé mohou svůj STEEM uvázat do třináctitýdenního investičního cyklu, což jim přináší další výhody v rámci platformy. STEEM that has been committed to a thirteen week vesting schedule is called Steem Power (SP). SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
 
 When users vote on content, their influence over the distribution of the rewards pool is directly proportional to the amount of SP that they have. Users with more SP have more influence on the distribution of rewards. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
 
@@ -473,7 +473,7 @@ Tím, že podněcuje moderátorství, je síť Steem schopná použít automatiz
 
 ## Řešení problému kryptoměn s náborem uživatelů
 
-It isn’t easy to get into cryptocurrency[^21]. Někdo, kdo objeví Bitcoin a chce ho rychle vyzkoušet zjistí, že se musí zaregistrovat na nějaké burze a účet profinancovat kreditní kartou nebo převodem. What would Facebook’s adoption rate have been like if you had to fork over money and a two forms of ID?
+Není úplně snadné proniknout do problematiky kryptoměn [^21]. Někdo, kdo objeví Bitcoin a chce ho rychle vyzkoušet zjistí, že se musí zaregistrovat na nějaké burze a účet profinancovat kreditní kartou nebo převodem. What would Facebook’s adoption rate have been like if you had to fork over money and a two forms of ID?
 
 Steem řeší tento problém tím, že každému dá způsob jak být zaplacen za jednoduché, ale cenné úkony. To pomůže k široké distribuci tokenů STEEM. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless.)
 
