@@ -1,8 +1,8 @@
 # Steem
 
-## An incentivized, blockchain-based, public content platform.
+## Na blockchainu založená veřejná motivující platforma ke tvorbě obsahu.
 
-August 2017
+Srpna 2017
 
 # Poznámky překladatele
 
