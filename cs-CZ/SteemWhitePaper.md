@@ -128,11 +128,11 @@ Pokud na token (STEEM) nahlížíme jako na podíl na vlastnictví v celé záso
 
 Rychlá změna ceny STEEM může dramaticky změnit poměr dluhu k vlastnictví. Blockchain brání přílišnému růstu poměru dluhu k vlastnictví tím, že snižuje množství STEEMu uděleného skrze konverze SBD, pokud úroveň dluhu přesáhne 10 %. Pokud někdy dluh SBD přesáhne 10 % celkové tržní kapitalizace STEEMu, blockchain automaticky sníží množství STEEMu generovaného skrze konverze na maximálně 10 % celkové tržní kapitalizace. Tak je zajištěno, že v rámci blockchainu nebude nikdy poměr dluhu k vlastnictví vyšší než 10 %.
 
-The percentage floors used to compute STEEM creation are based on the supply including the STEEM value of all outstanding SBD and SP (as determined by the current rate / feed).
+Procentní stupně, které jsou využívány k výpočtu tvorby STEEMu, jsou založeny na jeho celkové zásobě a berou v potaz hodnotu veškerých SBD a SP (dle aktuální publikované sazby).
 
 ### Úrok
 
-Ze SBD je držitelům vyplácen úrok. Úroková míra je nastavena těmi samými lidmi kteří publikují ceny, takže se může přizpůsobit tržním podmínkám. Každý dluh sebou nese riziko pro věřitele. Someone who holds SBD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SBD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
+Ze SBD je držitelům vyplácen úrok. Úroková míra je nastavena těmi samými lidmi kteří publikují ceny, takže se může přizpůsobit tržním podmínkám. Každý dluh sebou nese riziko pro věřitele. Ten, kdo drží SBD, aniž by jej měnil, ve skutečnosti půjčuje komunitě hodnotu jednoho dolaru. They are trusting that at some point in the future someone will be willing to buy the SBD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
 
 STEEM and SP holders gain leverage when members of the community are willing to hold SBD. Tento pákový efekt zvyšuje zisky z růstu, přičemž též k růstu přispívá. V případě pádu cen držitelé STEEM utrpí zvýšeným naředěním. Kryptoměnné projekty ukázaly, že zisky z rozšíření členské základny ochotné důvěřovat síti kapitálem nakonec přidaly síti více hodnoty než jakékoliv naředění, které může nastat v případě poklesu.
 
