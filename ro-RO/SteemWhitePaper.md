@@ -64,15 +64,15 @@ Acestă secțiune descrie ideile din spatele Steem și recompesnele pentru oamen
 
 ## Contribuții Capitale
 
-Există două elemente pe care o comunitate le poate oferi pentru a atrage capital: datoria și dreptul de proprietate. Cei care cumpără drepturi de proprietate câștigă atunci cînd crește comunitatea dar pierd atunci când aceasta scade. Cei care cumpără datoria le este garantată o anumită sumă de interes dar nu pot participa în profitul generat de creșterea comunității. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
+Există două elemente pe care o comunitate le poate oferi pentru a atrage capital: datoria și dreptul de proprietate. Cei care cumpără drepturi de proprietate câștigă atunci cînd crește comunitatea dar pierd atunci când aceasta scade. Cei care cumpără datoria le este garantată o anumită sumă de interes dar nu pot participa în profitul generat de creșterea comunității. Ambele tipuri de contribuții de capital sunt valoroase pentru creșterea comunității și valoarea monedei sale. Adițional, există două tipuri de feluri în care proprietatea poate avea loc: lichid, în modezi și prin vesting sau intrarea în drepturi. Proprietatea vesting face un angajament pe termen lung și nu poate fi vândută pentru o periodă minimă de timp.
 
-The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SBD).
+Rețeaua Steem solicită aceste diferite clase Steem (STEEM), Steem Power (SP), și Dolari Steem (SBD).
 
 ## Steem (STEEM)
 
-Steem is the fundamental unit of account on the Steem blockchain. All other tokens derive their value from the value of STEEM. STEEM is a liquid currency, and therefore can be bought or sold on exchanges, as well as transferred to other users as a form of payment.
+Steem este unitatea fundamentală a unui cont Steem de pe blockchain. Alți tokeni sunt derivați din valoarea STEEM. STEEM este o monedă lichidă, și prin urmare poate fi vândută sau cumpărată pe case de schimburi, precum și transferată către alți utilizatori ca formă de plată.
 
-## Steem Power (SP)
+## Putere Steem (SP)
 
 Start up companies require long-term capital commitment. Those who invest their money in a startup expect to wait years before they can sell their shares and realize their profits. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
 
