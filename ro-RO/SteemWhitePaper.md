@@ -64,7 +64,7 @@ Acestă secțiune descrie ideile din spatele Steem și recompesnele pentru oamen
 
 ## Contribuții Capitale
 
-Există două elemente pe care o comunitate le poate oferi pentru a atrage capital: datoria și dreptul de proprietate. Those who buy ownership profit when the community grows but lose if the community shrinks. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
+Există două elemente pe care o comunitate le poate oferi pentru a atrage capital: datoria și dreptul de proprietate. Cei care cumpără drepturi de proprietate câștigă atunci cînd crește comunitatea dar pierd atunci când aceasta scade. Cei care cumpără datoria le este garantată o anumită sumă de interes dar nu pot participa în profitul generat de creșterea comunității. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
 
 The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SBD).
 
