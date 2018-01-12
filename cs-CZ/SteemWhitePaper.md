@@ -132,9 +132,9 @@ Procentní stupně, které jsou využívány k výpočtu tvorby STEEMu, jsou zal
 
 ### Úrok
 
-Ze SBD je držitelům vyplácen úrok. Úroková míra je nastavena těmi samými lidmi kteří publikují ceny, takže se může přizpůsobit tržním podmínkám. Každý dluh sebou nese riziko pro věřitele. Ten, kdo drží SBD, aniž by jej měnil, ve skutečnosti půjčuje komunitě hodnotu jednoho dolaru. They are trusting that at some point in the future someone will be willing to buy the SBD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
+Ze SBD je držitelům vyplácen úrok. Úroková míra je nastavena těmi samými lidmi kteří publikují ceny, takže se může přizpůsobit tržním podmínkám. Každý dluh sebou nese riziko pro věřitele. Ten, kdo drží SBD, aniž by jej měnil, ve skutečnosti půjčuje komunitě hodnotu jednoho dolaru. Věří, že někdy v budoucnosti od nich někdo bude někdo chtít jejich SBD za dolar odkoupit, nebo že se objeví spekulanti a investoři, kteří budou chtít koupit STEEM, na nějž SBD konvertují.
 
-STEEM and SP holders gain leverage when members of the community are willing to hold SBD. Tento pákový efekt zvyšuje zisky z růstu, přičemž též k růstu přispívá. V případě pádu cen držitelé STEEM utrpí zvýšeným naředěním. Kryptoměnné projekty ukázaly, že zisky z rozšíření členské základny ochotné důvěřovat síti kapitálem nakonec přidaly síti více hodnoty než jakékoliv naředění, které může nastat v případě poklesu.
+Jsou-li členové komunity ochotni držet SBD, držitelé STEEMu a SP získají pákový efekt. Tento pákový efekt zvyšuje zisky z růstu, přičemž též k růstu přispívá. V případě pádu cen držitelé STEEM utrpí zvýšeným naředěním. Kryptoměnné projekty ukázaly, že zisky z rozšíření členské základny ochotné důvěřovat síti kapitálem nakonec přidaly síti více hodnoty než jakékoliv naředění, které může nastat v případě poklesu.
 
 ### Udržitelnost poměru dluhu k vlastnictví
 
@@ -196,7 +196,7 @@ Naštěstí každá práce která dostává velkou koncentraci hlasů též zís
 
 Použití *negativního* hlasování k odrazení lidí od zneužívání systému násobí *krabí mentalitu* kterou má mnoho lidí když si uvědomí, že jednotlivec profituje na úkor někoho jiného. Zatímco krabí mentalita normálně označuje krátkozraké lidí kteří sráží dobré lidí je to též to, co umožňuje dobrým lidem srazit ty špatné. The only “problem” with crab mentality is when people *wrongly believe* someone is profiting at everyone else's expense.
 
-**The Story of the Crab Bucket**[^6]
+**Příběh vědra plného krabů**[^6]
 
 Muž kráčel po pláži a viděl jiného muže rybařit v příboji a ten za sebou měl vědro. Jak přišel blíž viděl, že vědro na nástrahu je bez víka a plné krabů.
 
@@ -392,7 +392,7 @@ To achieve this industry-leading performance, Steem has borrowed lessons learned
 
 Dodržováním těchto jednoduchých pravidel je Steem schopný zpracovávat 100.000 transakcí za sekundu bez jakéhokoliv významného úsilí věnovaného optimalizaci.
 
-Keeping everything in memory is increasingly viable given the recent introduction of Optane™ technology from Intel[^14]. Pro běžné hardware by mělo být možné obsluhovat všechnu obchodní logiku spojenou se Steemem v jednom vlákně se všemi příspěvky drženými pro rychlou indexaci v paměti. Dokonce i Google drží svůj index celého internetu v RAM. Použití blockchainové technologie činí replikaci databáze na mnoho počítačů triviální a brání ztrátě dat. As Optane™ technology takes over, RAM will become even faster while gaining persistence. Jinými slovy Steem je projektován pro architekturu budoucnosti a jako rozšiřitelný.
+Keeping everything in memory is increasingly viable given the recent introduction of Optane™ technology from Intel[^14]. Pro běžné hardware by mělo být možné obsluhovat všechnu obchodní logiku spojenou se Steemem v jednom vlákně se všemi příspěvky drženými pro rychlou indexaci v paměti. Dokonce i Google drží svůj index celého internetu v RAM. Použití blockchainové technologie činí replikaci databáze na mnoho počítačů triviální a brání ztrátě dat. Jak se technologie Optane™ prosadí, RAM se stanou ještě rychlejší a získají na trvanlivosti. Jinými slovy Steem je projektován pro architekturu budoucnosti a jako rozšiřitelný.
 
 # Alokace & zásoba
 
