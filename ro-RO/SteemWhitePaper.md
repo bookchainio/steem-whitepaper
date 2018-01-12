@@ -34,7 +34,7 @@ Comunitatea Steem oferă membrilor săi, următoarele servicii:
 4. Plăți gratuite.
 5. Jobs providing above services to other members.
 
-Steem’s purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. Această lucrare va explora stimulentele economice existente și va demonstra felul în care stimulentele Steem pot avea rezultate mai bune pentru majoritatea participanților.
+Scopul Steem de a avea stimulente economice are potențialul de a produce toată lumea implicată, rezulatea mai echitabile și inclusive decât celelalte platforme sociale și platforme din lumea criptomonedelor. Această lucrare va explora stimulentele economice existente și va demonstra felul în care stimulentele Steem pot avea rezultate mai bune pentru majoritatea participanților.
 
 ## Recunoașterea Contribuției
 
