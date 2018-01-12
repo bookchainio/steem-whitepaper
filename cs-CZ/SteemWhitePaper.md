@@ -80,9 +80,9 @@ Hodnota dlouhodobého závazku je podstatná, protože umožňuje komunitě dlou
 
 V kryptoměnném prostoru spekulanti přeskakují z měny na měnu dle toho, u které se předpokládá krátkodobý růst. Steem chce vybudovat komunitu, která je většinově vlastněna a zcela kontrolována těmi s dlouhodobým závazkem.
 
-Uživatelé mohou svůj STEEM uvázat do třináctitýdenního investičního cyklu, což jim přináší další výhody v rámci platformy. STEEM that has been committed to a thirteen week vesting schedule is called Steem Power (SP). SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
+Uživatelé mohou svůj STEEM uvázat do třináctitýdenního investičního cyklu, což jim přináší další výhody v rámci platformy. STEEM uvázaný do třináctitýdenního investičního cyklu se jmenuje Steem Power (SP). Zůstatek SP nepřevoditelný a nedělitelný, není-lo podána žádost o automaticky se opakující cyklickou konverzi. To znamená, že SP nemůže být snadno obchodován na kryptoměnových burzách.
 
-When users vote on content, their influence over the distribution of the rewards pool is directly proportional to the amount of SP that they have. Users with more SP have more influence on the distribution of rewards. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
+Když uživatelé hlasují o kvalitě obsahu, jejich vliv na rozdělení odměn je přímo úměrný množství SP, kterým disponují. Uživatelé s větším množstvím SP mají větší vliv na rozdělení odměn. To znamená, že SP je token, který garantuje svým držitelům výhradní moc v rámci platformy.
 
 SP holders are also paid interest on the balance of SP that remains vested. 15% of the yearly inflation is paid to SP holders as interest. The amount of the interest that they receive is directly proportional to the amount of SP they hold relative to the total amount of vested SP across all users.
 
