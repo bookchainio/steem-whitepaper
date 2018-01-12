@@ -34,7 +34,7 @@ Komunita Steem poskytuje svým členům tyto služby:
 4. Platby zdarma.
 5. Výdělek poskytováním těchto služeb ostatním členům.
 
-Steem’s purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem’s incentives may result in better outcomes for most participants.
+Účelné nastavení ekonomických pobídek Steemu má potenciál poskytovat rovnější a spravedlivější výstupy pro všechny zúčastněné, než jaké nabízely sociální média a kryptoměnové platformy doposud. Tento dokument zmapuje existující ekonomické pobídky a ukáže, jak mohou pobídky Steemu vyústit v lepší výstupy pro většinu účastníků.
 
 ## Rozeznání přínosu
 
@@ -44,7 +44,7 @@ Výzva které čelí Steam je vytvořit takový algoritmus na rozpis individuál
 
 Existující platformy pracují na principu jeden uživatel, jeden hlas. To vytváří prostředí, kde umístění může být manipulováno pomocí spam útoku a poskytovatelé servisu musejí proaktivně identifikovat a blokovat útočníky. Již byly pokusy o manipulaci algoritmu na Redditu, Facebooku i Twitteru, i když jediná odměna je návštěvnost webu nebo cenzura.
 
-Základní jednotkou účtu na Steem platformě je token (kryptoměnná jednotka) STEEM. Steem pracuje na základě 1 STEEM = 1 hlas. Tímto způsobem jednotlivci, kteří měřeno zůstatkem na jejich účtu přispěli platformě nejvíce, mají největší vliv na to, jak jsou příspěvky oceněny. Furthermore, Steem only allows members to vote with STEEM when it is committed to a vesting schedule. Tím mají členové finanční pobídku hlasovat tak, aby maximalizovali dlouhodobou hodnotu jejich STEEM.
+Základní jednotkou účtu na Steem platformě je token (kryptoměnná jednotka) STEEM. Steem pracuje na základě 1 STEEM = 1 hlas. Tímto způsobem jednotlivci, kteří měřeno zůstatkem na jejich účtu přispěli platformě nejvíce, mají největší vliv na to, jak jsou příspěvky oceněny. Nadto Steem umožňuje uživatelům využívat k hlasování jen STEEM, který je investován a vázán třináctitýdenním výběrovým cyklem. Tím mají členové finanční pobídku hlasovat tak, aby maximalizovali dlouhodobou hodnotu jejich STEEM.
 
 Steem is designed around a relatively simple concept: *everyone’s meaningful contribution to the community should be recognized for the value it adds.* When people are recognized for their meaningful contributions, they continue contributing and the community grows. Jakákoliv nerovnováha mezi dal a dostal je v komunitě neudržitelná. Nakonec ti kteří dávají se unaví podporou těch co berou a stáhnou se z komunity.
 
