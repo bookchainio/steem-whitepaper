@@ -84,7 +84,7 @@ Uživatelé mohou svůj STEEM uvázat do třináctitýdenního investičního cy
 
 Když uživatelé hlasují o kvalitě obsahu, jejich vliv na rozdělení odměn je přímo úměrný množství SP, kterým disponují. Uživatelé s větším množstvím SP mají větší vliv na rozdělení odměn. To znamená, že SP je token, který garantuje svým držitelům výhradní moc v rámci platformy.
 
-SP holders are also paid interest on the balance of SP that remains vested. 15% of the yearly inflation is paid to SP holders as interest. The amount of the interest that they receive is directly proportional to the amount of SP they hold relative to the total amount of vested SP across all users.
+Držitelé SP také získávají úrok za tu část SP, která zůstává investována. 15 % roční inflace je vypláceno držitelům SP ve formě úroku. The amount of the interest that they receive is directly proportional to the amount of SP they hold relative to the total amount of vested SP across all users.
 
 Transferring from STEEM to SP is referred to as “powering up”, while transferring from SP to STEEM is referred to as “powering down.” SP that is powered down is returned to the user over a period of thirteen weeks, via 13 equal weekly payments, starting one week after the power down is initiated.
 
