@@ -74,9 +74,9 @@ Steem este unitatea fundamentală a unui cont Steem de pe blockchain. Alți toke
 
 ## Putere Steem (SP)
 
-Start up companies require long-term capital commitment. Those who invest their money in a startup expect to wait years before they can sell their shares and realize their profits. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
+Companiile Start up necesită un angajament de capital pe termen lung. Cei care investesc bani în companii, așteaptă ani înainte să își vândă partea și să scoată profit. Fără angajament pe termenn lung, un start up care încearcă să strângă capital adițional prin vânzarea părților ar trebui să fie în competiție cu acționarii existenți care vor să iasă din afacere. Investitorii activi vor ca contribuțiile capitalului lor să ducă la creșterea companiei, dar creșterea nu va avea loc dacă noul capital dat este o cale de ieșire pentru aceștia.
 
-There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
+Există o valoare semnificativă pentru angajamentul pe termen lung deoarece îi permite comunității să facă planuri de lungă durată. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
 
 In the cryptocurrency space, speculators jump from cryptocurrency to cryptocurrency based mostly on which one is expected to have short-term growth. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
 
