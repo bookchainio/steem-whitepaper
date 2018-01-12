@@ -6,7 +6,7 @@ Srpna 2017
 
 # Poznámky překladatele
 
-Přeloženo **@valtr** (https://steemit.com/steem/@valtr/kompletni-preklad-steem-white-paper-ke-stazeni-internationalization-of-steem-complete-czech-translation).
+První verzi z roku 2016 přeložil @valtr (https://steemit.com/steem/@valtr/kompletni-preklad-steem-white-paper-ke-stazeni-internationalization-of-steem-complete-czech-translation). Aktualizovaný whitepaper z roku 2017 přeložil @godfish
 
 # Abstrakt
 
@@ -18,7 +18,7 @@ Steem je blockchainová databáze, která podporuje budování společenství a 
 
 # Úvod
 
-Celkově vytvořil obsah generovaný uživateli pro akcionáře společností poskytující sociální média hodnoty v ceně miliard dolarů, například Reddit, Facebook a Twitter. **In 2014, Reddit hypothesized that its platform would be improved if everyone who contributed to reddit.com by posting stories, adding comments or voting were rewarded with a fair share in Reddit, Inc.[^1]**. Steem se zaměřuje na podporu sociálních médií a online komunit tím, že vrací mnoho ze své hodnoty lidem, kteří poskytují cenné příspěvky tak, že je odměňuje kryptoměnou a v tomto procesu vytváří měnu, která je schopna dosáhnout na široký trh včetně lidí, kteří se dosud na kryptoměnném hospodářství nepodíleli.
+Celkově vytvořil obsah generovaný uživateli pro akcionáře společností poskytující sociální média hodnoty v ceně miliard dolarů, například Reddit, Facebook a Twitter. ** V roce 2014 uvažoval Reddit o tom, že by se jeho platforma zlepšila, pokud by byl každý, kdo přispívá na reddit.com publikací příspěvků, psaním komentářů a hlasováním, odměněn spravedlivým podílem akcií společnosti Reddit, Inc.<sup id="fnref:1"><a href="#fn:1" class="footnote-ref"></a></sup>**. Steem se zaměřuje na podporu sociálních médií a online komunit tím, že vrací mnoho ze své hodnoty lidem, kteří poskytují cenné příspěvky tak, že je odměňuje kryptoměnou a v tomto procesu vytváří měnu, která je schopna dosáhnout na široký trh včetně lidí, kteří se dosud na kryptoměnném hospodářství nepodíleli.
 
 Nyní některé klíčové principy, které byly použity jako vodítko při navrhování Steemu. Nejdůležitější zásadou je, že každý kdo přispívá k podniku by měl dostávat poměrný podíl vlastnictví, platbu nebo dlužní úpis podniku. Tento princip je stejný princip, který je aplikován na všechny startupech, neboť ty přidělují akcie při založení a během následných kol financování.
 
