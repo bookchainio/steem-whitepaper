@@ -56,15 +56,15 @@ Deoarece piața liberă este un sistem dovedit, este tentantă încercarea cree�
 
 Steem este proiectat să permită plăți mici eficiente pentru toate tipurile de contribuții prin schimbarea ecuației economice. Citiorii nu mai trebuie să se decidă dacă doresc sau nu să plătească din propriul buzunar, în schimb ei pot vota într-un mod pozitiv sau negativ, conținutul, iar Steem va folosi voturile lor pentru a determina recompensele individuale. Asta înseamnă că oamenilor li se dă o interfață familiară și răspândită, și nu mai trebuie să suporte costurile cognitive, financiare și de oportunitate asociate cu micro-plățile și plaformele în care poți recompensa autorii.
 
-Voturile din partea membrilor comunității au o mare importanță pentru Steem pentru a aloca exact plățile către contribuitori. Votarea poate fi văzută ca o contribuție esențială și demnă de recompensat. Unele platforme, cum ar fi Slashdot, folosesc meta-moderația [^3] ca o metodă de a clasa și recompensa cinstit moderatorii. Steem chooses to reward those who contribute the most to the total promotion of a piece of content and rewards the voters proportional to the ultimate reward paid to the content creator.
+Voturile din partea membrilor comunității au o mare importanță pentru Steem pentru a aloca exact plățile către contribuitori. Votarea poate fi văzută ca o contribuție esențială și demnă de recompensat. Unele platforme, cum ar fi Slashdot, folosesc meta-moderația [^3] ca o metodă de a clasa și recompensa cinstit moderatorii. Steem alege să îi răsplătească pe cei care contribuie cel mai mult la promovarea totală a unui părți de conținut și îi răsplătește pe cei vare votează, proporțional cu ultima recompensă plătită a autorului conținutului.
 
-# Ways to Contribute
+# Moduri în care poți contribui
 
-This section outlines the ideas behind Steem and its rewards for people who provide meaningful and measurable contributions to the Steem community.
+Acestă secțiune descrie ideile din spatele Steem și recompesnele pentru oamenii care aduc contribuții valoroase și semnificative, comunității Steem.
 
-## Capital Contributions
+## Contribuții Capitale
 
-There are two items a community can offer to attract capital: debt and ownership. Those who buy ownership profit when the community grows but lose if the community shrinks. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
+Există două elemente pe care o comunitate le poate oferi pentru a atrage capital: datoria și dreptul de proprietate. Those who buy ownership profit when the community grows but lose if the community shrinks. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
 
 The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SBD).
 
