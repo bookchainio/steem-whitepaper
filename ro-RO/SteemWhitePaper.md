@@ -82,13 +82,13 @@ Există o valoare semnificativă pentru angajamentul pe termen lung deoarece îi
 
 Utilizatorii au posibilitatea de a-și păstra STEEM pentru o perioadă de vesting de treisprezece săptămâni, oferindu-le beneficii adiționale în interiorul platformei. STEEM care a fost încredințat pe perioadă de vesting de treisprezece săpămâni este numi Putere Steem (SP). Soldurile SP nu sunt transferabile și nu sunt divizibile, execpție fac cererile de conversie recursivă automate. Aceasta înseamnă că SP nu poate fi ușor schimbat pe schimburile de criptomonede.
 
-When users vote on content, their influence over the distribution of the rewards pool is directly proportional to the amount of SP that they have. Users with more SP have more influence on the distribution of rewards. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
+Atunci când utilizatorii votează conținutul, ei influențează în mod propoțional direct distribuția recompeneselor, prin cantitatea de SP pe care o au. Utilizatorii cu mai mult SP au o influență mai mare asupra distribuției recompenselor. Aceasta însemnă că SP este un token care la permite deținătorilor să aibe mai multă putere pe pltforma Steem.
 
-SP holders are also paid interest on the balance of SP that remains vested. 15% of the yearly inflation is paid to SP holders as interest. The amount of the interest that they receive is directly proportional to the amount of SP they hold relative to the total amount of vested SP across all users.
+SP holders are also paid interest on the balance of SP that remains vested. 15% din inflația anuală este plătită deținătorilor de SP. Valoarea dobânzii pe care aceștia o primesc, este direct proporțională cu valoare de SP pe care o dețin raportată la valoarea totală de SP care le este acordată tuturor utilizatorilor.
 
-Transferring from STEEM to SP is referred to as “powering up”, while transferring from SP to STEEM is referred to as “powering down.” SP that is powered down is returned to the user over a period of thirteen weeks, via 13 equal weekly payments, starting one week after the power down is initiated.
+Transferul STEEM către SP este referit ca “powering up”, în timp ce transferarea SP în STEEM este referit ca “powering down.” SP care este powered down este returnat utilizatorului după o perioadă de treisprezece săptămâni, prin plăți egale timp de 13 săptămâni, începând de la o săptămână de când a avut loc procesul de power down.
 
-## Steem Dollars (SBD)
+## Dolari Steem (SBD)
 
 Stabilitatea este o caracteristică importantă a unei economii globale de succes. Fără stabilitate. indivizi din întreaga lume are putea să nu aibe costuri mici cognitive în timp ce se angajează în comerț și ecomonii. Deoarece stabilitatea este o caracteristică importantă a unei economii de succe, Dolarii Steem sunt concepuția ca o măsură de aduce stabilitate în lumea criptomonedelor, precum și indivizilor care folosesc rețeaua Steem.
 
