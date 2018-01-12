@@ -112,13 +112,13 @@ Se tři a půl dne dlouhým oknem mají členové komunity přibližně jeden a 
 
 ### Zmírnění načasovaných útoků
 
-Market participants have access to information faster than the blockchain’s three and a half day moving median conversion price can react. Tato informace může být použita ku prospěchu obchodníků na úkor komunity. If there is a sudden increase in the value of STEEM traders could request conversion of their SBD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
+Uživatelé trhu se dostanou k informacím dříve, než na ně tři a půl dne trvající blockchainová pohyblivá mediánová konverze stihne zareagovat. Tato informace může být použita ku prospěchu obchodníků na úkor komunity. Pokud nastane náhlý vzestup hodnoty STEEMu, obchodníci mohou požadovat výměnu jejich SBD za starou, nižší cenu a následně s minimálním rizikem prodat obdržený STEEM za novou, vyšší cenu.
 
-Steem levels the playing field by requiring all conversion requests to be delayed for three and a half days. To znamená, že ani obchodník, ani blockchain nemá žádnou informační výhodu týkající se ceny v okamžiku, kdy se konverze provádí.
+Steem zmenšuje toto pole působnosti tím, že vyžaduje, aby všechny požadavky na konverzi byly o tři a půl dne opožděny. To znamená, že ani obchodník, ani blockchain nemá žádnou informační výhodu týkající se ceny v okamžiku, kdy se konverze provádí.
 
 ### Minimalizace zneužití konverzí
 
-Kdyby lidé mohli volně konvertovat oběma směry, tak by obchodníci mohli využít konverzních sazeb blockchainu a obchodovat velká množství beze změny ceny. Traders who see a massive run up in price would convert to SBD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SBD to STEEM and not the other way around.
+Kdyby lidé mohli volně konvertovat oběma směry, tak by obchodníci mohli využít konverzních sazeb blockchainu a obchodovat velká množství beze změny ceny. Obchodníci, kteří by zaznamenali rychlý nárůst ceny, by konvertovali STEEM na SBD za vysokou cenu (když je to nejrizikovější) a následně po korekci zpět. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SBD to STEEM and not the other way around.
 
 The blockchain decides how and when to create SBD and who should get it. This keeps the rate of SBD creation stable and removes most avenues of abuse.
 
