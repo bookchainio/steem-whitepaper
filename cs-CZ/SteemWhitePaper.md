@@ -84,9 +84,9 @@ Uživatelé mohou svůj STEEM uvázat do třináctitýdenního investičního cy
 
 Když uživatelé hlasují o kvalitě obsahu, jejich vliv na rozdělení odměn je přímo úměrný množství SP, kterým disponují. Uživatelé s větším množstvím SP mají větší vliv na rozdělení odměn. To znamená, že SP je token, který garantuje svým držitelům výhradní moc v rámci platformy.
 
-Držitelé SP také získávají úrok za tu část SP, která zůstává investována. 15 % roční inflace je vypláceno držitelům SP ve formě úroku. The amount of the interest that they receive is directly proportional to the amount of SP they hold relative to the total amount of vested SP across all users.
+Držitelé SP také získávají úrok za tu část SP, která zůstává investována. 15 % roční inflace je vypláceno držitelům SP ve formě úroku. Celková částka, kterou držitelé ve formě úroku získají, je přímo úměrná podílu množství SP, které mají, na celkovém množství investované SP všech uživatelů.
 
-Transferring from STEEM to SP is referred to as “powering up”, while transferring from SP to STEEM is referred to as “powering down.” SP that is powered down is returned to the user over a period of thirteen weeks, via 13 equal weekly payments, starting one week after the power down is initiated.
+Převádění STEEMU na SP je nazýváno jako "power up", zatímco převod SP na STEEM je nazýván "power down". SP v procesu power down je uživateli připisována v průběhu třinácti týdnů ve 13 stejně vysokých týdenních platbách, první proběhne týden po zahájení power down.
 
 ## Steem Dollars (SBD)
 
@@ -94,11 +94,11 @@ Stabilita je důležitý rys úspěšných globálních ekonomik. Bez stability 
 
 Steem dolary jsou tvořeny podobným způsobem jako dlužní úpisy typu convertible notes, které se často používají na financování začínajících firem (start up). Ve světe startupů jsou convertible notes instrumenty krátkodobého dluhu, které mohou být přeměněny na vlastnictví v poměru určeném v budoucnosti, typicky během budoucího kola financování. Token založený na blockchainu můžeme považovat za vlastnictví v komunitě, zatímco na dluhopis convertible note můžeme pohlížet jako na dluh denominovaný v jiné komoditě nebo měně. Podmínky dluhopisu convertible note umožňují konverzi do podkladového aktiva z minimální výpovědní dobou a za spravedlivou tržní cenu tohoto aktiva. Vytvoření dolarů konvertovatelných do základní jednotky blockchainu (tokenu STEEM) umožňuje růst síťového efektu blockchainu, zatímco maximalizuje výnos pro držitele tokenu.
 
-Steem Dollars are referred to with the symbol SBD, an acronym for Steem Blockchain Dollars. Creating SBD requires a combination of a reliable price feed, and rules to prevent abuse. Poskytování spolehlivého zdroje cenových dat zahrnuje tři faktory: mimimalizaci vlivu chybného zdroje dat, maximalizaci ceny produkce chybného zdroje a minimalizaci důležitosti načasování.
+Steem Dollar je označován symbolem SBD, zkratkou pro Steem Blockchain Dollar. Vytváření SBD vyžaduje kombinaci spolehlivého zdroje cen a pravidel k prevenci zneužití. Poskytování spolehlivého zdroje cenových dat zahrnuje tři faktory: mimimalizaci vlivu chybného zdroje dat, maximalizaci ceny produkce chybného zdroje a minimalizaci důležitosti načasování.
 
 ### Minimalizace podvodných zdrojů cen
 
-SP holders elect individuals, called witnesses, to publish price feeds. The elected witnesses are presumably trusted by those who have a vested interest in the quality of the feed. Tím, že platí zvoleným jedincům, Steem vytváří tržní konkurenci pro získání práva na tvorbu cenových dat. Čím více jsou producenti dat placeni, tím více mohou ztratit publikováním chybné informace.
+Držitelé SP volí jednotlivce zvané svědci, kteří publikují cenová data. Lze předpokládat, že zvolení svědci mají důvěru těch, kteří mají investiční zájem o kvalitu cenových dat. Tím, že platí zvoleným jedincům, Steem vytváří tržní konkurenci pro získání práva na tvorbu cenových dat. Čím více jsou producenti dat placeni, tím více mohou ztratit publikováním chybné informace.
 
 Když máme skupinu zvolených, důvěryhodných poskytovatelů cen, skutečná cena použitá pro konverzi může být odvozena od mediánu všech zdrojů cen. V tomto případě, pokud jakákoliv menšina poskytovatelů produkuje data mimo rozsah, tato data mají minimální dopad na medián, zatímco stále mají schopnost ovlivnit jejich renomé.
 
