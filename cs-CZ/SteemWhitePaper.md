@@ -118,15 +118,15 @@ Steem zmenšuje toto pole působnosti tím, že vyžaduje, aby všechny požadav
 
 ### Minimalizace zneužití konverzí
 
-Kdyby lidé mohli volně konvertovat oběma směry, tak by obchodníci mohli využít konverzních sazeb blockchainu a obchodovat velká množství beze změny ceny. Obchodníci, kteří by zaznamenali rychlý nárůst ceny, by konvertovali STEEM na SBD za vysokou cenu (když je to nejrizikovější) a následně po korekci zpět. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SBD to STEEM and not the other way around.
+Kdyby lidé mohli volně konvertovat oběma směry, tak by obchodníci mohli využít konverzních sazeb blockchainu a obchodovat velká množství beze změny ceny. Obchodníci, kteří by zaznamenali rychlý nárůst ceny, by konvertovali STEEM na SBD za vysokou cenu (když je to nejrizikovější) a následně po korekci zpět. Protokol Steemu chrání komunitu před tímto typem zneužívání tím, že lidem dovoluje jen konverzi SBD na STEEM, ale nikoli opačným směrem.
 
-The blockchain decides how and when to create SBD and who should get it. This keeps the rate of SBD creation stable and removes most avenues of abuse.
+Blockchain rozhoduje, jak a kdy má být SBD vytvořen a kdo by jej měl dostat. To udržuje stabilní míru vzniku SBD a odstraňuje většinu možností ke zneužívání.
 
 ### Udržitelný poměr dluhu k vlastnictví
 
 Pokud na token (STEEM) nahlížíme jako na podíl na vlastnictví v celé zásobě tokenů, tak na dolar konvertibilní za token (STEEM) pohlížíme jako na dluh. Pokud se poměr dluhu k vlastnictví stane příliš vysokým, tak se celá měna stane nestabilní. Konverze dluhu může dramaticky zvýšit zásobu tokenů (STEEM), které jsou obratem prodávány na trhu a stlačují cenu. Následné konverze vyžadují vydání dokonce ještě více tokenů. Pokud by se to nezměnilo, tak systém zkolabuje a za sebou nechá bezcenné vlastnictví podpírající horu dluhů. Čím vyšší je poměr dluhu k vlastnictví, tím noví investoři méně ochotněji vkládají kapitál.
 
-Rychlá změna ceny STEEM může dramaticky změnit poměr dluhu k vlastnictví. The blockchain prevents the debt-to-ownership ratio from getting too high, by reducing the amount of STEEM awarded through SBD conversions if the debt level were to exceed 10%. If the amount of SBD debt ever exceeds 10% of the total STEEM market cap, the blockchain will automatically reduce the amount of STEEM generated through conversions to a maximum of 10% of the market cap. This ensures that the blockchain will never have higher than a 10% debt-to-ownership ratio.
+Rychlá změna ceny STEEM může dramaticky změnit poměr dluhu k vlastnictví. Blockchain brání přílišnému růstu poměru dluhu k vlastnictví tím, že snižuje množství STEEMu uděleného skrze konverze SBD, pokud úroveň dluhu přesáhne 10 %. Pokud někdy dluh SBD přesáhne 10 % celkové tržní kapitalizace STEEMu, blockchain automaticky sníží množství STEEMu generovaného skrze konverze na maximálně 10 % celkové tržní kapitalizace. Tak je zajištěno, že v rámci blockchainu nebude nikdy poměr dluhu k vlastnictví vyšší než 10 %.
 
 The percentage floors used to compute STEEM creation are based on the supply including the STEEM value of all outstanding SBD and SP (as determined by the current rate / feed).
 
