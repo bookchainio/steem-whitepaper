@@ -104,11 +104,11 @@ Když máme skupinu zvolených, důvěryhodných poskytovatelů cen, skutečná 
 
 Dokonce i když jsou všichni poskytovatelé cenových dat čestní je možné, že většina poskytovatelů bude ovlivněna událostmi mimo jejich kontrolu. Síť Steem je postavena tak, aby tolerovala krátkodobé narušení mediánového zdroje cen, zatímco komunita aktivně pracuje na nápravě. Jeden příklad problému, jehož náprava může trvat nějakou dobu, je krátkodobá manipulace trhu. Je těžké a nákladné udržet manipulaci trhu po delší dobu. Jiný příklad by bylo selhání centralizované burzy, nebo narušení dat publikovaných burzou.
 
-Steem factors out short-term price fluctuations by using the median price over a period of three and a half days. The median published feed is sampled every hour on the hour.
+Steem vyčleňuje krátkodobou cenovou fluktuaci díky využití mediánové ceny za období tří a půl dne. Publikovaná mediánová cena je počítána každou hodinu.
 
 Pokud narušení zdroje cenových dat trvá méně než polovinu doby pohybujícího se mediánového okna, tak to bude mít na konverzní cenu jen minimální vliv. V případě, že zdroj cen bude chybný, účastníci na síti budou mít příležitost hlasováním vyloučit poskytovatele chybných cen dříve, než chybná data ovlivní skutečnou konverzní cenu. Možná je ještě důležitější, že to dává producentům dat příležitost detekovat a opravit problémy před tím, než začnou ovlivňovat cenu.
 
-With a three and a half day window, community members have approximately one and a half days to respond to any issues that come up.
+Se tři a půl dne dlouhým oknem mají členové komunity přibližně jeden a půl dne k reakci na jakýkoli problém, který se objeví.
 
 ### Zmírnění načasovaných útoků
 
