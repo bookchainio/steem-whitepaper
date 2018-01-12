@@ -132,7 +132,7 @@ The percentage floors used to compute STEEM creation are based on the supply inc
 
 ### Úrok
 
-SBD pays holders interest. Úroková míra je nastavena těmi samými lidmi kteří publikují ceny, takže se může přizpůsobit tržním podmínkám. Každý dluh sebou nese riziko pro věřitele. Someone who holds SBD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SBD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
+Ze SBD je držitelům vyplácen úrok. Úroková míra je nastavena těmi samými lidmi kteří publikují ceny, takže se může přizpůsobit tržním podmínkám. Každý dluh sebou nese riziko pro věřitele. Someone who holds SBD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SBD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
 
 STEEM and SP holders gain leverage when members of the community are willing to hold SBD. Tento pákový efekt zvyšuje zisky z růstu, přičemž též k růstu přispívá. V případě pádu cen držitelé STEEM utrpí zvýšeným naředěním. Kryptoměnné projekty ukázaly, že zisky z rozšíření členské základny ochotné důvěřovat síti kapitálem nakonec přidaly síti více hodnoty než jakékoliv naředění, které může nastat v případě poklesu.
 
@@ -188,7 +188,7 @@ Předpokládejme, že existuje pevná suma peněz k distribuci a že ti kdo maj�
 
 The naive voting process creates a N-Person Prisoner’s Dilemma[^5] whereby each individual voter has incentive to vote for themselves at the expense of the larger community goal. Pokud by každý hlasující „zběhl“ a hlasoval pro sebe, tak by se nedistribuovala žádná měna a měna jako celek by nezískala síťový efekt. Na druhou stranu pokud by to dělal jen jeden hlasující, tak by získal nezasloužený zisk, zatímco by to mělo na celkovou hodnotu měny jen malý vliv.
 
-#### Voting Abuse
+#### Zneužívání hlasování
 
 Bez ohledu na to jak mnoho peněz má jakýkoliv jedinec, je vždy mnoho dalších jedinců s podobným bohatstvím. Dokonce i nejbohatší jednotlivec má málokdy více než další dva nejbohatší dohromady. Navíc ti kdo mají velkou investici v komunitě mohou též nejvíce ztratit pokusem obelstít pro sebe hlasovací systém. Bylo by to, jako kdyby se generální ředitel společnosti rozhodl přestat vyplácet mzdy, aby si mohl přivlastnit všechny zisky. Všichni by odešly pracovat pro ostatní společnosti a podnik by se stal bezcenným. Ředitel by se nestal bohatým, ale zkrachoval by.
 
@@ -268,7 +268,7 @@ Prevence spamu v současné blockchainové technologii závisí na poplatcích. 
 
 Blockchainy jsou decentralizované sítě, kde všechny transakce jsou vysílány všem účastníkům. Každou chvíli je vytvořen blok, který zahrnuje nějaké nebo všechny nevyřízené transakce. Všechny blockchainy musí najít preventivní řešení, jak zabránit uživatelům se zlými úmysly spotřebovat celou dostupnou kapacitu sítě bezcennými transakcemi. Tyto bezcenné transakce mohou zabránit ostatním hodnotným transakcím v uskutečnění a tak zcela zničit síť.
 
-Až dosud je řešení přijaté většinou blockchainů účtování minimálního transakčního poplatku. Poplatek v ceně jen několika centů je dost k tomu, aby útok na síť učinil drahým a nevýdělečným. Zatímco tento přístup řeší problém spamu, zavádí nové problémy. Imagine solving the email spam problem by introducing a small fee on every email; people wouldn’t use email.
+Až dosud je řešení přijaté většinou blockchainů účtování minimálního transakčního poplatku. Poplatek v ceně jen několika centů je dost k tomu, aby útok na síť učinil drahým a nevýdělečným. Zatímco tento přístup řeší problém spamu, zavádí nové problémy. Představte si řešení problému se spamy zavedením drobného poplatku za každý e-mail: lidé by nepoužívali e-maily.
 
 ### Micropayments Don’t Work
 
@@ -282,7 +282,7 @@ Micropayments, like all payments, require a comparison: *“Is this much of X wo
 
 Ve světě finančních plateb jsou malé poplatky akceptovatelné, protože hodnota transakce je extrémně vysoká ve srovnání s účtovaným poplatkem a kupec již učinil rozhodnutí koupit. Svět potenciálních blockchainových aplikací je mnohem větší než jen finanční platby a zahrnuje mnoho nezbytných transakcí, u kterých jsou poplatky uživatelům prostě nepřijatelné.
 
-Systémy jako BitShares, Nxt, Ripple, Counter Party a Stellar dovolují uživatelům zadat limitní objednávky na blockchainu a za to účtují uživatelům malý poplatek. Později, pokud chce uživatel zrušit svůj pokyn, je účtován další poplatek. Systémy jako Ethereum přivedly mikroplatby na zcela novou úroveň: poplatek za kalkulaci. Všechny tyto systémy mají potíže s přilákáním nových mainstreamových uživatelů z toho samého důvodu, který by měla decentralizovaná vyhledávací aplikace při lákání uživatelů Google, pokud by za každé vyhledání účtovala malý poplatek. It doesn’t matter how good the service is, people expect certain things to be free. To je pravda dokonce i když uživatel nakonec zaplatí více jiným způsobem.
+Systémy jako BitShares, Nxt, Ripple, Counter Party a Stellar dovolují uživatelům zadat limitní objednávky na blockchainu a za to účtují uživatelům malý poplatek. Později, pokud chce uživatel zrušit svůj pokyn, je účtován další poplatek. Systémy jako Ethereum přivedly mikroplatby na zcela novou úroveň: poplatek za kalkulaci. Všechny tyto systémy mají potíže s přilákáním nových mainstreamových uživatelů z toho samého důvodu, který by měla decentralizovaná vyhledávací aplikace při lákání uživatelů Google, pokud by za každé vyhledání účtovala malý poplatek. Lidé očekávají, že některé věci budou bezplatné bez ohledu na to, jak je služba kvalitní. To je pravda dokonce i když uživatel nakonec zaplatí více jiným způsobem.
 
 ### Poplatky jsou bariéry vstupu
 
@@ -294,7 +294,7 @@ Jakékoliv poplatky tvoří zábranu vstupu novým uživatelům. Než někdo mů
 
 ### Spam útoky
 
-Centralizovaná webová stránka se brání spamu omezením rychlosti a nějakou formou identifikace. Even something as simple as reCAPTCHA[^9] is sufficient to limit the creation of fake accounts. Pokud někdo svůj účet zneužívá, tak centralizované webové stránky mohou blokovat tento účet.
+Centralizovaná webová stránka se brání spamu omezením rychlosti a nějakou formou identifikace. I tak prostý nástroj jako je reCAPTCHA[^9] je dostatečně účinný k omezení tvorby falešných účtů. Pokud někdo svůj účet zneužívá, tak centralizované webové stránky mohou blokovat tento účet.
 
 V decentralizovaném systému není přímá cesta, jak zakázat uživatele, ani centralizovaný poskytovatel schopný použít reCAPTCHA a vynutit omezení přístupu jednotlivých účtů. Ve skutečnosti neschopnost cenzury uživatelů je hlavní prodejní argument blockchainové technologie.
 
@@ -316,7 +316,7 @@ Dle našeho předpokladu by mělo být dostačující měřit průměrné týden
 
 ### Dopad kapacity
 
-Blockchain capacity isn’t necessarily capped. Je zcela v technologických možnostech internetové infrastruktury zvýšit velikost Bitcoinového bloku na 10 MB, což na oplátku zredukuje minimální požadovaný zůstatek 10x. Zatímco v současnosti Bitcoin podporuje 3 transakce za vteřinu, alternativní implementace jsou schopny přes 1000 transakcí za vteřinu.
+Kapacita blockchainu není nutně omezená. Je zcela v technologických možnostech internetové infrastruktury zvýšit velikost Bitcoinového bloku na 10 MB, což na oplátku zredukuje minimální požadovaný zůstatek 10x. Zatímco v současnosti Bitcoin podporuje 3 transakce za vteřinu, alternativní implementace jsou schopny přes 1000 transakcí za vteřinu.
 
 ### Srovnání s poplatky
 
