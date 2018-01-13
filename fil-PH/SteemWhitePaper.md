@@ -56,25 +56,25 @@ Dahil ang libreng merkado ay isang napatunayan na sistema, ito ay kaakit-akit up
 
 Ang Steem ay idinisenyo upang paganahin ang epektibong mga micropayment para sa lahat ng uri ng kontribusyon sa pagbabago ng ekwasyong pang-ekonomiya. Ang mga mambabasa ay hindi na kailangang magpasiya kung gusto o hindi nila nais na bayaran ang isang tao mula sa kanilang sariling bulsa, sa halip ay maaari nilang bumoto ng pataas o pababa ng nilalaman at gagamitin ng Steem ang kanilang mga boto upang matukoy ang mga indibidwal na gantimpala. Nangangahulugan ito na ang mga tao ay binibigyan ng isang pamilyar at malawakang ginagamit na interface at hindi na nakaharap ang mga gastos sa nagbibigay-malay, pinansiyal, at pagkakataon na nauugnay sa tradisyonal na micropayment at tipping platform.
 
-Ang pag-input ng pagboto mula sa mga miyembro ng komunidad ay kritikal para kay Steem upang tumpak na maglaan ng mga pagbabayad sa mga nag-aambag. Kaya't ang pagboto ay maaaring matingnan bilang isang mahalagang kontribusyon at karapat-dapat ng mga gantimpala sa kanyang sarili. Some platforms, such as Slashdot, use meta-moderation[^3] as a way to rank and reward honest moderators. Steem chooses to reward those who contribute the most to the total promotion of a piece of content and rewards the voters proportional to the ultimate reward paid to the content creator.
+Ang pag-input ng pagboto mula sa mga miyembro ng komunidad ay kritikal para kay Steem upang tumpak na maglaan ng mga pagbabayad sa mga nag-aambag. Kaya't ang pagboto ay maaaring matingnan bilang isang mahalagang kontribusyon at karapat-dapat ng mga gantimpala sa kanyang sarili. Ang ilang mga platform, tulad ng Slashdot, ay gumagamit ng meta-moderation [^3] bilang isang paraan upang i-ranggo at gantimpalaan ang mga tapat na mga moderator. Pinipili ng Steem na gantimpalaan ang mga nag-aambag sa karamihan sa kabuuang pagsulong ng isang piraso ng nilalaman at ginagantimpalaan ang mga botante na proporsyonal sa pinakahuling gantimpala na binabayaran sa tagalikha ng nilalaman.
 
-# Ways to Contribute
+# Mga Paraan Upang Mag-ambag
 
-This section outlines the ideas behind Steem and its rewards for people who provide meaningful and measurable contributions to the Steem community.
+Ang seksyon na ito ay binabalangkas ang mga ideya sa likod ng Steem at ang mga gantimpala nito para sa mga taong nagbibigay ng makabuluhan at masusukat na kontribusyon sa komunidad ng Steem.
 
-## Capital Contributions
+## Mga Kontribusyon na Capital
 
-There are two items a community can offer to attract capital: debt and ownership. Those who buy ownership profit when the community grows but lose if the community shrinks. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
+Mayroong dalawang mga bagay na maaaring mag-alok ng isang komunidad upang maakit ang kabisera: utang at pagmamay-ari. Ang mga bumibili ng profit ng pagmamay-ari kapag ang komunidad ay lumalaki ngunit nawala kung ang komunidad ay lumiit. Ang mga bumili ng utang ay ginagarantiyahan ng isang tiyak na halaga ng interes ngunit hindi makikilahok sa anumang kita na natanto ng paglago ng komunidad. Ang parehong uri ng mga capital contribution ay mahalaga sa paglago ng komunidad at halaga ng pera nito. Bukod pa rito ay may dalawang paraan ng pagmamay-ari ang maaaring gaganapin: likido at vesting. Ang pagsasampa ng pagmamay-ari ay gumagawa ng pangmatagalang pangako at hindi maaaring ibenta para sa isang minimum na tagal ng panahon.
 
-The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SBD).
+Tinatawag ng network ng Steem ang iba't ibang mga klase ng pag-aari na Steem (STEEM), Steem Power (SP), at Steem Dollars (SBD).
 
 ## Steem (STEEM)
 
-Steem is the fundamental unit of account on the Steem blockchain. All other tokens derive their value from the value of STEEM. STEEM is a liquid currency, and therefore can be bought or sold on exchanges, as well as transferred to other users as a form of payment.
+Ang Steem ay ang pangunahing yunit ng account sa Steem blockchain. Ang lahat ng iba pang mga token ay nakakuha ng kanilang halaga mula sa halaga ng STEEM. Ang STEEM ay isang likidong pera, at sa gayon ay mabibili o mabibili sa palitan, pati na rin ilipat sa ibang mga gumagamit bilang isang paraan ng pagbabayad.
 
 ## Steem Power (SP)
 
-Start up companies require long-term capital commitment. Those who invest their money in a startup expect to wait years before they can sell their shares and realize their profits. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
+Ang pagsisimula ng mga kumpanya ay nangangailangan ng pang-matagalang kapital na commitment. Ang mga namuhunan ng kanilang pera sa isang startup ay inaasahan na maghintay ng maraming taon bago nila mabenta ang kanilang pagbabahagi at mapagtanto ang kanilang mga kita. Nang walang pangmatagalang pangako, ang isang startup na naghahangad na itaas ang karagdagang kapital sa pamamagitan ng pagbebenta ng mga karagdagang namamahagi ay nakikipagkumpitensya sa mga umiiral na shareholders na naghahanap upang lumabas. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
 
 There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
 
