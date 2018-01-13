@@ -32,7 +32,7 @@ Comunitatea Steem oferă membrilor săi, următoarele servicii:
 2. Un mijloc de obținere a unor răspunsuri personalizate, de înaltă calitate.
 3. O criptomonedă stabilă, raportată la dolarul american.
 4. Plăți gratuite.
-5. Jobs providing above services to other members.
+5. Locuri de muncă care oferă serviciile de mai sus, celorlalți membri.
 
 Scopul Steem de a avea stimulente economice are potențialul de a produce toată lumea implicată, rezulatea mai echitabile și inclusive decât celelalte platforme sociale și platforme din lumea criptomonedelor. Această lucrare va explora stimulentele economice existente și va demonstra felul în care stimulentele Steem pot avea rezultate mai bune pentru majoritatea participanților.
 
@@ -94,7 +94,7 @@ Stabilitatea este o caracteristică importantă a unei economii globale de succe
 
 Dolarii Steem sunt creați printr-un mecanism similare cu notele convertibile, care sunt adesea folosiți la finanțarea companiilor start-ups. În companiile start-up, notele convertibile sunt unelte pentr-o perioadă scurtă de timp, care pot fi convertite în proprietate la o rată determinată în viitor, de obicei în timpul unei viitoare runde de finanțare. Un token bazat be blockchain poate fi văzut ca și proprietate în comunitate, în timp ce notele convertibile pot fi văzute ca și datorie denominată, în orice alt bun sau monedă. The terms of the convertible note allow the holder to convert to the backing token with a minimum notice at the fair market price of the token. Crearea unor tokeni care poti fi convertiți în dolari, oferă blockchain-ului posibilitatea de a-și crește efectul rețelei, în timp ce ce maximizează rentabilitatea deținătorilor de tokeni.
 
-Dolarii Steem sunt referiți cu simbolul SBD, un acronim la Dolarii Steem Blockchain. Creating SBD requires a combination of a reliable price feed, and rules to prevent abuse. Providing a reliable price feed involves three factors: minimizing the impact of an incorrect feed, maximizing the cost of producing an incorrect feed, and minimizing the importance of timing.
+Dolarii Steem sunt referiți cu simbolul SBD, un acronim la Dolarii Steem Blockchain. Crearea SBD necesită o combinație de un preț fiabil și reguli care să prevină abuzul. Providing a reliable price feed involves three factors: minimizing the impact of an incorrect feed, maximizing the cost of producing an incorrect feed, and minimizing the importance of timing.
 
 ### Minimizing Fraudulent Feeds
 
