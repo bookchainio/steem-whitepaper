@@ -74,9 +74,9 @@ Ang Steem ay ang pangunahing yunit ng account sa Steem blockchain. Ang lahat ng 
 
 ## Steem Power (SP)
 
-Ang pagsisimula ng mga kumpanya ay nangangailangan ng pang-matagalang kapital na commitment. Ang mga namuhunan ng kanilang pera sa isang startup ay inaasahan na maghintay ng maraming taon bago nila mabenta ang kanilang pagbabahagi at mapagtanto ang kanilang mga kita. Nang walang pangmatagalang pangako, ang isang startup na naghahangad na itaas ang karagdagang kapital sa pamamagitan ng pagbebenta ng mga karagdagang namamahagi ay nakikipagkumpitensya sa mga umiiral na shareholders na naghahanap upang lumabas. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
+Ang pagsisimula ng mga kumpanya ay nangangailangan ng pang-matagalang kapital na commitment. Ang mga namuhunan ng kanilang pera sa isang startup ay inaasahan na maghintay ng maraming taon bago nila mabenta ang kanilang pagbabahagi at mapagtanto ang kanilang mga kita. Nang walang pangmatagalang pangako, ang isang startup na naghahangad na itaas ang karagdagang kapital sa pamamagitan ng pagbebenta ng mga karagdagang namamahagi ay nakikipagkumpitensya sa mga umiiral na shareholders na naghahanap upang lumabas. Gusto ng mga mapaglibing na mamumuhunan ang kanilang mga kontribusyon sa kapital upang palaguin ang kumpanya, ngunit ang paglago ay hindi maaaring mangyari kung ang bagong kabisera ay ibinibigay sa mga naghahanap upang lumabas.
 
-There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
+May mahalagang halaga sa pagkakaroon ng pangmatagalang pangako dahil nagbibigay-daan ito sa mga komunidad na gumawa ng mga pangmatagalang plano. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
 
 In the cryptocurrency space, speculators jump from cryptocurrency to cryptocurrency based mostly on which one is expected to have short-term growth. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
 
