@@ -86,7 +86,7 @@ Když uživatelé hlasují o kvalitě obsahu, jejich vliv na rozdělení odměn 
 
 Držitelé SP také získávají úrok za tu část SP, která zůstává investována. 15 % roční inflace je vypláceno držitelům SP ve formě úroku. Celková částka, kterou držitelé ve formě úroku získají, je přímo úměrná podílu množství SP, které mají, na celkovém množství investované SP všech uživatelů.
 
-Převádění STEEMU na SP je nazýváno jako "power up", zatímco převod SP na STEEM je nazýván "power down". SP v procesu power down je uživateli připisována v průběhu třinácti týdnů ve 13 stejně vysokých týdenních platbách, první proběhne týden po zahájení power down.
+Převádění STEEMu na SP je nazýváno jako "power up", zatímco převod SP na STEEM je nazýván "power down". SP v procesu power down je uživateli připisována v průběhu třinácti týdnů ve 13 stejně vysokých týdenních platbách, první proběhne týden po zahájení power down.
 
 ## Steem Dollars (SBD)
 
