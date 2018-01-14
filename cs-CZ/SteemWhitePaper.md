@@ -252,9 +252,9 @@ Koncepčně je algoritmus shody přijatý Steemem podobný algoritmu shody přij
 
 Ve světě kryptoměn je veřejný protokol všeobecně nazýván *blockchain*. *Blok* je skupina podepsaných transakcí.
 
-V Steem probíhá produkce bloků v kolech. V každém kole se vybere 21 svědků k vytvoření a podepsání bloku transakcí. Dvacet (20) z těchto svědků je vybráno hlasováním a o poslední místo se dělí všichni svědci, kteří nepatří mezi 20 nejsilnějších, poměrně podle celkového počtu jejich hlasů. Těch 21 svědků je v každém kole promícháno, aby se zabránilo tomu, že jeden svědek bude trvale ignorovat bloky vytvořené tím samým svědkem v řadě před ním. Any witness who misses a block and hasn't produced in the last 24 hours will be disabled until they update their block signing key.
+V Steem probíhá produkce bloků v kolech. V každém kole se vybere 21 svědků k vytvoření a podepsání bloku transakcí. Dvacet (20) z těchto svědků je vybráno hlasováním a o poslední místo se dělí všichni svědci, kteří nepatří mezi 20 nejsilnějších, poměrně podle celkového počtu jejich hlasů. Těch 21 svědků je v každém kole promícháno, aby se zabránilo tomu, že jeden svědek bude trvale ignorovat bloky vytvořené tím samým svědkem v řadě před ním. Každý svědek, který zmešká blok a v průběhu 24 hodin žádný nevyprodukuje, bude zablokovaný, dokud neaktualizuje svůj klíč k podpisu bloků.
 
-Tento systém je projektován tak, aby poskytl nejvyšší spolehlivost, zatímco by zajistil, aby každý měl možnost spolupracovat na produkci bloků bez ohledu na to, zda je dost populární na to, aby byl zvolen. People have three options to overcome censorship by the top 20 elected witnesses: patiently wait in line with everyone else not in the top 20, or purchase more SP to improve voting power. Obecně řečeno censorství je pro zvoleného svědka dobrá cesta ke ztrátě jeho práce a proto je nepravděpodobné, že by se to v síti Steem stalo opravdovým problémem.
+Tento systém je projektován tak, aby poskytl nejvyšší spolehlivost, zatímco by zajistil, aby každý měl možnost spolupracovat na produkci bloků bez ohledu na to, zda je dost populární na to, aby byl zvolen. Lidé mají tři možnosti, jak překonat cenzuru ze strany 20 zvolených svědků: Trpělivě čekat spolu s ostatními, kteří nejsou mezi 20 nejsilnějšími, nebo si pořídit více SP ke zvýšení své hlasovací síly. Obecně řečeno censorství je pro zvoleného svědka dobrá cesta ke ztrátě jeho práce a proto je nepravděpodobné, že by se to v síti Steem stalo opravdovým problémem.
 
 Protože aktivní svědci jsou známi dopředu, Steem je schopný naplánovat práci svědků tak, aby produkovali bloky každé 3 vteřiny. Svědci synchronizují svojí produkci bloků přes NTP protokol. Variace tohoto algoritmu je používána sítí BitShares již přes rok a tam se osvědčila jako spolehlivá.
 
@@ -270,9 +270,9 @@ Blockchainy jsou decentralizované sítě, kde všechny transakce jsou vysílán
 
 Až dosud je řešení přijaté většinou blockchainů účtování minimálního transakčního poplatku. Poplatek v ceně jen několika centů je dost k tomu, aby útok na síť učinil drahým a nevýdělečným. Zatímco tento přístup řeší problém spamu, zavádí nové problémy. Představte si řešení problému se spamy zavedením drobného poplatku za každý e-mail: lidé by nepoužívali e-maily.
 
-### Micropayments Don’t Work
+### Mikroplatby nefungují
 
-The fundamental problem with charging transaction fees is that micropayments don’t work, especially for low-value user actions. Když je za každou transakci účtován poplatek, limituje to druhy transakcí, které může decentralizovaná síť vykonávat. Bez ohledu na to, jak racionální je požadavek na nezbytnost poplatků, uživatelé stejně nesnášejí neustálé zpoplatňování za vše, co činí.
+Základní problém s účtováním transakčních poplatků je, že mikroplatby nefungují, a to zejména pro málo hodnotné uživatelské akce. Když je za každou transakci účtován poplatek, limituje to druhy transakcí, které může decentralizovaná síť vykonávat. Bez ohledu na to, jak racionální je požadavek na nezbytnost poplatků, uživatelé stejně nesnášejí neustálé zpoplatňování za vše, co činí.
 
 Představte si, že by nám webová stránka kterou denně používáme účtovala poplatek pokaždé, když změníme heslo našeho účtu. Uživatelé očekávají, že některé věci jsou bezplatné. Požadovat po uživatelích aby se rozhodli, jestli určitý úkon stojí za malý poplatek, způsobí odpor, který způsobí odchod uživatelů. A transaction can’t be worth so much as to require a decision but worth so little that that decision is automatic. There is a certain amount of anxiety involved in any decision to buy, no matter how small, and it derives not from the interface used or the time required, but from the very act of deciding.
 
