@@ -64,7 +64,7 @@ Bu kısım, Steem'in arkasında yatan fikirler ve onun Steem topluluğuna anlaml
 
 ## Sermaye Katkıları
 
-Bir topluluğun sermayeyi cezbedebilmek için sunabileceği iki öge vardır: borçlanma ve mülkiyet. Mülkiyet satin alanlar topluluk büyüdünde kazanirlar fakat kücüldügünde ise kaybederler. Borc verenlere ise belirli oranda bir faiz garanti edilir fakat toplulugun büyümesiyle gerceklesen kara katilmazlar. Her iki türden sermaye katkisi da toplulugun büyümesi ve onun para biriminin degeri icin kiymetlidir. Ek olarak, mülkiyetin düzenlenebilecegi iki yol vardir: Likit ve Vadeli Mevduat. Vadeli mevduat hissesi uzun vadeli bir taahhüt getirir ve mümkün olan en asagi zaman diliminde satilamaz.
+Bir topluluğun sermayeyi cezbedebilmek için sunabileceği iki öge vardır: borçlanma ve mülkiyet. Mülkiyet satın alanlar topluluk büyüdüğünde kazanır fakat küçüldüğünde ise kaybeder. Borç verenlere ise belirli oranda bir faiz garanti edilir fakat topluluğun büyümesiyle gerçekleşen kara katılmazlar. Her iki türden sermaye katkısı da topluluğun büyümesi ve onun para biriminin değeri için kıymetlidir. Ek olarak, mülkiyetin düzenlenebilecegi iki yol vardir: Likit ve Vadeli Mevduat. Vadeli mevduat hissesi uzun vadeli bir taahhüt getirir ve mümkün olan en asagi zaman diliminde satilamaz.
 
 Steem agi bu farkli malvarligi siniflarini Steem (STEEM), Steem Power (SP) ve Steem Dolari (SBD) olarak adlandirir.
 
