@@ -128,13 +128,13 @@ Tüm token arzında, tokenın kendisi bir özkaynak olarak değerlendirilir ise,
 
 STEEM'in değerindeki ani bir değişim borç-özkaynak oranını çarpıcı şekilde değiştirebilir. Blockchain, borçlanma oranının %10'u geçmesi halinde, SBD dönüşümleri sayesinde elde edilen STEEM'in meblağını düşürerek borç-özkaynak oranının çok yükselmesinin önüne geçer. Eger SBD borçlanma miktarı STEEM'in piyasa değerinin %10'unu gecerse, blockchain dönüşümler yoluyla elde edilen STEEM meblağını otomatik olarak STEEM'in piyasa değerinin maksimum %10'una düşürür. Bu da blockchainin asla %10'dan fazla borç-özkaynak oranına sahip olmamasını garantiler.
 
-STEEM'i islemek icin kullanilan bu yüzde tabanlari, tahsil edilmemis SBD ve SP (Su anki kur / yayin tarafindan belirlenir) de dahil olmak üzere, arza dayanmaktadir.
+STEEM'i işlemek için kullanılan bu yüzde tabanları, tahsil edilmemiş SBD ve SP (şu anki kur / yayin tarafından belirlenir) de dahil olmak üzere, arza dayanmaktadır.
 
 ### Faiz
 
-SBD onu elinde bulunduranlara faiz öder. Faiz orani fiyat yayinini yayinlayanlar ayni kisiler tarafindan belirlenir ki bu sayede degisen piyasa kosullarina adapte olabilsin. Her borclanma borc veren acisindan risk tasir. Geri ödeme yapmaksizin elinde SBD bulunduran kisi efektif bir sekilde topluluga dolar degeri ödünc vermektedir. Onlar gelecekte bir noktada birilerinin dolar karsiligi onlardan SBD almak isteyecegine ya da onlarin SBD'lerini dönüstürmüs olduklari STEEM'i alacak bazi spekülatör veya yatirimcilarin olacagina inanirlar.
+SBD onu elinde bulunduranlara faiz öder. Faiz oranı, fiyat yayınını yayınlayan aynı kişiler tarafından belirlenir ki bu sayede değişen piyasa koşullarına adapte olabilsin. Her borçlanma borç veren açısından risk taşır. Geri ödeme yapmaksızın elinde SBD bulunduran kişi, efektif bir şekilde topluluğa dolar değeri ödünç vermektedir. Onlar, gelecekte bir noktada birilerinin dolar karşılığı onlardan SBD almak isteyeceğine ya da onların SBD'lerini dönüştürmüş oldukları STEEM'i alacak bazı spekülatör veya yatırımcıların olacağına inanırlar.
 
-STEEM ve SP sahipleri, topluluk üyeleri ellerinde SBD tutmaya istekli oldugu müddetce kaldirac kazanirlar. Bu kaldirac büyümeye katkida bulunurken büyüme kaynakli kazanclari da artirir. STEEM sahipleri eger fiyat düserse özsermayenin azalmasindan müzdarip olurlar. Kripto para birimi projeleri göstermistir ki, sermayeleriyle aga inanmaya istekli kullanici tabanini artirmanin getirdigi gelir, aga nihayetinde, gerileme döneminde olusacak bir özsermaye kaybindan daha fazla deger katmaktadir.
+STEEM ve SP sahipleri, topluluk üyeleri ellerinde SBD tutmaya istekli olduğu müddetçe kaldiraç kazanırlar. Bu kaldıraç büyümeye katkıda bulunurken büyüme kaynaklı kazançları da artırır. STEEM sahipleri fiyatın düşmesi durumunda özsermayenin azalmasından müzdarip olur. Kripto para birimi projeleri göstermistir ki, sermayeleriyle aga inanmaya istekli kullanici tabanini artirmanin getirdigi gelir, aga nihayetinde, gerileme döneminde olusacak bir özsermaye kaybindan daha fazla deger katmaktadir.
 
 ### Fiyat Yayinini Ayarlama
 
