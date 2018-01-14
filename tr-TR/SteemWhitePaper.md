@@ -142,11 +142,11 @@ Dikkatli okuyucular fark edecektir ki, kısıtlı arzda faiz gelirli aktifler -d
 
 1. Sabit bir döviz kuru
 2. Özgür sermaye akışı
-3. Bagimsiz bir para politikasi
+3. Bağımsız bir para politikası
 
-Eger Steem yayin üreticileri, faiz oranlari üzerinde tümüyle kontrol sahibiyken ayni zamanda onlara Steem Dolari yaratma ya da yok etme imkani taniyacak bagimsiz bir para politikasina sahip olma hedefi koyarlarsa problemlerle karsilasirlar. Imkansiz üclem der ki, Steem Dolari ya sermaye akisini sinirlandirmali ve Amerikan Dolari ile dalgali kura sahip olmali ya da faiz oranlari üzerinde kisitli kontrole sahip olmali.
+Eğer Steem yayın üreticileri, faiz oranları üzerinde tümüyle kontrol sahibiyken aynı zamanda onlara Steem Doları yaratma ya da yok etme imkanı tanıyacak bağımsız bir para politikasına sahip olma hedefi koyarlarsa problemlerle karşılaşırlar. İmkansiz üçlem der ki, Steem Dolari ya sermaye akışını sınırlandırmalı ve Amerikan Doları ile dalgalı kura sahip olmalı ya da faiz oranları üzerinde kısıtlı kontrole sahip olmalı.
 
-Steem yayin üreticilerinin öncelikli kaygisi SBD ile Amerikan Dolari (USD) arasinda bire-bir dönüsümü sürdürmektir. SBD'nin $1.00 USD'den fazlaya alinip satildigi her durumda faiz ödemeleri durdurulmalidir. Borclanma üzerindeki %0 faize ragmen hala kar payina ragbet olan bir piyasada, piyasanin toplulugun borclanmak istediginden dafa fazla kredi saglama egiliminde oldugunu söylemek yanlis olmaz. Eger bu gerceklesirse SBD $1.00'dan daha fazla olarak deger bulur ve toplulugun da eksi oranlarda faiz isletmekten daha fazla yapabilecegi bir sey yoktur.
+Steem yayın üreticilerinin öncelikli kaygısı SBD ile Amerikan Doları (USD) arasında bire-bir dönüşümü sürdürmektir. SBD'nin $1.00 USD'den fazlaya alınıp satıldığı her durumda faiz ödemeleri durdurulmalıdır. Borçlanma üzerindeki %0 faize rağmen hala kar payına rağbet olan bir piyasada, piyasanın topluluğun borçlanmak istediğinden dafa fazla kredi sağlama eğiliminde olduğunu söylemek yanlış olmaz. Eğer bu gerçekleşirse SBD $1.00'dan daha fazla olarak değer bulur ve topluluğun da eksi oranlarda faiz işletmekten daha fazla yapabileceği bir şey yoktur.
 
 Eger borclanmanin mülkiyete orani düsükse ve SBD $1.00'dan asagiya alinip satiliyorsa, o zaman faiz oranlari artirilmalidir. Bu daha fazla insani elinde SBD tutma konusunda cesaretlendirir ve fiyati destekler.
 
