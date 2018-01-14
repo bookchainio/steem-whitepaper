@@ -156,11 +156,11 @@ Za předpokladu, že hodnota STEEMu poroste rychleji než Steem vydává nové S
 
 Platí, že poskytovatelům cen je svěřena zodpovědnost za nastavení monetární politiky tak, aby byla udržena stabilní vazba na USD. Zneužití této moci může způsobit škodu Steemu a tak držitelé SP hlasují pro svědky na které se mohou spolehnout, že nastaví ceny a úrokové míry v souladu s výše popsanými pravidly.
 
-If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SBD.
+Pokud se poměr dluhu k vlastnictví stane nebezpečně vysokým a účastníci trhu se rozhodnou nevyužívat konverzi, pak by měl být nastaven vyšší kurz, ve kterém se SBD na STEEM konvertuje.
 
-Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SBD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions.
+Změny v úrokových mírách a/nebo jakékoliv zásahy do kurzu STEEM/SBD by měly být pomalou a uváženou odpovědí na dlouhodobé průměrné odchylky spíše než pokusy odpovědět na krátkodobé poměry na trhu.
 
-It is our belief that these rules will give market participants confidence that they are unlikely lose money by holding SBD purchased at a price of $1.00. We fully expect there to be a narrow trading range between $0.95 and $1.05 for SBD under normal market conditions.
+Věříme, že tato pravidla dodají účastníkům trhu jistotu, že ztráta peněz při držení SBD zakoupených za cenu 1 $ je nepravděpodobná. Jsme přesvědčeni, že za normálních tržních podmínek bude SBD obchodován v úzkém rozpětí 0,95 až 1,05 $.
 
 ## Subjektivní příspěvky
 
