@@ -186,7 +186,7 @@ Další krok je odměnit každého, který dělá něco pozitivního, byť jen v
 
 Předpokládejme, že existuje pevná suma peněz k distribuci a že ti kdo mají dlouhodobý zájem na budoucí hodnotě a použitelnosti měny jsou ti kteří mají rozhodnout o jejím přidělení. Každý (steempower) uživatel přiděluje svoje hlasy tomu, kdo udělal nejlepší práci a na konci dne jsou peníze dostupné pro tento den rozděleny v poměru k hlasům tak, že každý s alespoň jedním kladným hlasem něco dostane.
 
-The naive voting process creates a N-Person Prisoner’s Dilemma[^5] whereby each individual voter has incentive to vote for themselves at the expense of the larger community goal. Pokud by každý hlasující „zběhl“ a hlasoval pro sebe, tak by se nedistribuovala žádná měna a měna jako celek by nezískala síťový efekt. Na druhou stranu pokud by to dělal jen jeden hlasující, tak by získal nezasloužený zisk, zatímco by to mělo na celkovou hodnotu měny jen malý vliv.
+Prostý hlasovací systém vytváří tzv. "vězňovo dilema s N osobami"[^5], přičemž každý jednotlivec je motivován volit sám pro sebe na úkor vyšších cílů komunity. Pokud by každý hlasující „zběhl“ a hlasoval pro sebe, tak by se nedistribuovala žádná měna a měna jako celek by nezískala síťový efekt. Na druhou stranu pokud by to dělal jen jeden hlasující, tak by získal nezasloužený zisk, zatímco by to mělo na celkovou hodnotu měny jen malý vliv.
 
 #### Zneužívání hlasování
 
@@ -194,7 +194,7 @@ Bez ohledu na to jak mnoho peněz má jakýkoliv jedinec, je vždy mnoho další
 
 Naštěstí každá práce která dostává velkou koncentraci hlasů též získává největší (publicitu). Pomocí součtu *negativních* hlasů je pro mnoho menších podílníků možné zrušit hlasovací sílu nekale soutěžících skupin nebo „zběhlých“ velkých podílníků. Dále velcí podílníci mají více co ztratit, pokud jejich měna klesne v ceně pro zneužití, než mohou získat hlasováním pro sebe. Ve skutečnosti čestní velcí podílníci budou pravděpodobně efektivnější při hlídání podvodů a používání negativního hlasování, než by byli při hlasování o menších příspěvcích.
 
-Použití *negativního* hlasování k odrazení lidí od zneužívání systému násobí *krabí mentalitu* kterou má mnoho lidí když si uvědomí, že jednotlivec profituje na úkor někoho jiného. Zatímco krabí mentalita normálně označuje krátkozraké lidí kteří sráží dobré lidí je to též to, co umožňuje dobrým lidem srazit ty špatné. The only “problem” with crab mentality is when people *wrongly believe* someone is profiting at everyone else's expense.
+Použití *negativního* hlasování k odrazení lidí od zneužívání systému násobí *krabí mentalitu* kterou má mnoho lidí když si uvědomí, že jednotlivec profituje na úkor někoho jiného. Zatímco krabí mentalita normálně označuje krátkozraké lidí kteří sráží dobré lidí je to též to, co umožňuje dobrým lidem srazit ty špatné. Jediný problém krabí mentality nastává, když lidé *chybně věří*, že někdo profituje na úkor všech ostatních.
 
 **Příběh vědra plného krabů**[^6]
 
@@ -206,7 +206,7 @@ Muž kráčel po pláži a viděl jiného muže rybařit v příboji a ten za se
 
 A tak je to i lidmi. Pokud se jeden snaží dělat něco odlišného, mít lepší známky, zlepšit se, uniknout z jejich společnosti, nebo mít velké sny, ostatní lidé se ho pokusí strhnout zpět, aby sdílel jejich osud.
 
-Eliminating “abuse” is not possible and shouldn’t be the goal. Even those who are attempting to “abuse” the system are still doing work. Jakákoliv kompenzace, kterou obdrží za jejich úspěšné pokusy zneužití nebo nekalé konkurence je přinejmenším tak cenná pro účely distribuce měny, jako systém použitý tradiční Bitcoinovou těžbou nebo těžbou přes těžařská sdružení. All that is necessary is to ensure that abuse isn’t so rampant that it undermines the incentive to do real work in support of the community and its currency.
+Eliminace "zneužívání" není možná a neměla by být ani cílem. Dokonce i ti, kteří se pokoušejí o "zneužívání" systému, stále pracují. Jakákoliv kompenzace, kterou obdrží za jejich úspěšné pokusy zneužití nebo nekalé konkurence je přinejmenším tak cenná pro účely distribuce měny, jako systém použitý tradiční Bitcoinovou těžbou nebo těžbou přes těžařská sdružení. All that is necessary is to ensure that abuse isn’t so rampant that it undermines the incentive to do real work in support of the community and its currency.
 
 The goal of building a community currency is to get more “crabs in the bucket”. Pokud použijeme extrémní opatření k eliminaci všech zneužití, je to jako používat víko na vědru k zabránění útěku několika málo krabů za cenu toho, že ztížíme přidávání nových krabů. It is sufficient to make the walls slippery and give the other crabs sufficient power to prevent others from escaping.
 
