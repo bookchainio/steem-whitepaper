@@ -64,17 +64,17 @@ Bu kısım, Steem'in arkasında yatan fikirler ve onun Steem topluluğuna anlaml
 
 ## Sermaye Katkıları
 
-Bir topluluğun sermayeyi cezbedebilmek için sunabileceği iki öge vardır: borçlanma ve mülkiyet. Mülkiyet satın alanlar topluluk büyüdüğünde kazanır fakat küçüldüğünde ise kaybeder. Borç verenlere ise belirli oranda bir faiz garanti edilir fakat topluluğun büyümesiyle gerçekleşen kara katılmazlar. Her iki türden sermaye katkısı da topluluğun büyümesi ve onun para biriminin değeri için kıymetlidir. Ek olarak, mülkiyetin düzenlenebilecegi iki yol vardir: Likit ve Vadeli Mevduat. Vadeli mevduat hissesi uzun vadeli bir taahhüt getirir ve mümkün olan en asagi zaman diliminde satilamaz.
+Bir topluluğun sermayeyi cezbedebilmek için sunabileceği iki öge vardır: borçlanma ve mülkiyet. Mülkiyet satın alanlar topluluk büyüdüğünde kazanır fakat küçüldüğünde ise kaybeder. Borç verenlere ise belirli oranda bir faiz garanti edilir fakat topluluğun büyümesiyle gerçekleşen kara katılmazlar. Her iki türden sermaye katkısı da topluluğun büyümesi ve onun para biriminin değeri için kıymetlidir. Ek olarak, mülkiyetin düzenlenebileceği iki yol vardır: Likit ve uzun vadeli yatırım. Uzun vadeli hisse uzun vadeli bir taahhüt getirir ve mümkün olan en aşağı zaman diliminde satılamaz.
 
-Steem agi bu farkli malvarligi siniflarini Steem (STEEM), Steem Power (SP) ve Steem Dolari (SBD) olarak adlandirir.
+Steem ağı bu farklı malvarlığı sınıflarını Steem (STEEM), Steem Power (SP) ve Steem Doları (SBD) olarak adlandırır.
 
 ## Steem (STEEM)
 
-Steem, Steem blockchain'i üzerindeki temel hesap birimidir. Tüm diger tokenlar kendi degerlerini STEEM'in degeri üzerinden saglarlar. STEEM likit bir para birimidir ve bu sayede diger kullanicilara bir ödeme yöntemi olarak transfer edilebilirken takaslar sirasinda da alinip satilabilir.
+Steem, Steem blockchain'i üzerindeki temel hesap birimidir. Tüm diğer tokenlar kendi değerlerini STEEM'in değeri üzerinden sağlarlar. STEEM likit bir para birimidir ve bu sayede diğer kullanıcılara bir ödeme yöntemi olarak transfer edilebilirken takaslar sırasında da alınıp satılabilir.
 
 ## Steem Power (SP)
 
-Start up firmalari uzun vadeli sermaye taahhüdüne gereksinim duyarlar. Paralarini start up'lara yatiranlar hisselerini satip karlarini paraya donusturmeden önce yillarca beklemek zorundadirlar. Uzun vadeli taahhütler olmaksizin, ilave ilave hisse satimi yoluyla fazladan sermaye yaratmaya calisan bir start up halihazirda mevcut hissedarlarin cikmaya calismasiyla bas etmek zorunda kalabilir. Idrak sahibi yatirimcilar sermaye katkilarinin sirketi büyütmesini isterler, fakat eger yeni sermaye halihazirda cikmak isteyenlere verilirse büyüme gerceklesemez.
+Start up firmaları uzun vadeli sermaye taahhüdüne gereksinim duyar. Paralarını start up'lara yatıranlar hisselerini satıp karlarını paraya dönüştürmeden önce yıllarca beklemek zorundadır. Uzun vadeli taahhütler olmaksızın, ilave hisse satımı yoluyla fazladan sermaye yaratmaya çalışan bir start up halihazırda mevcut hissedarların çıkmaya çalışmasıyla baş etmek zorunda kalabilir. Idrak sahibi yatirimcilar sermaye katkilarinin sirketi büyütmesini isterler, fakat eger yeni sermaye halihazirda cikmak isteyenlere verilirse büyüme gerceklesemez.
 
 Uzun vadeli taahhütlere sahip olmanin önemli bir degeri vardir cünkü o topluluklarin uzun vadeli planlar yapabilmelerine izin verir. Sermayedarlarin uzun vadeli taahhütleri ayni zamanda onlarin kisa vadeli sismelerden ziyade uzun vadeli büyüme icin oy vermelerine de yol acar.
 
