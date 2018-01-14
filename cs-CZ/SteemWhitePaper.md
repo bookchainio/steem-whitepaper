@@ -70,7 +70,7 @@ Steem nazývá tyto tři různé formy aktiv Steem (STEEM), Steem Power (SP) a S
 
 ## Steem (STEEM)
 
-Je základní jednotka účtu na Steem blockchainu. Všechny ostatní jednotky odvozují svou hodnotu od hodnoty STEEM. Steem je likvidní měna, a proto může být koupena nebo prodána na burzách či převedena jinému uživateli ve formě platby.
+Je základní jednotka účtu na Steem blockchainu. Všechny ostatní jednotky odvozují svou hodnotu od hodnoty STEEM. STEEM je likvidní měna, a proto může být koupen nebo prodán na burzách či převeden jinému uživateli ve formě platby.
 
 ## Steem Power (SP)
 
@@ -80,7 +80,7 @@ Hodnota dlouhodobého závazku je podstatná, protože umožňuje komunitě dlou
 
 V kryptoměnném prostoru spekulanti přeskakují z měny na měnu dle toho, u které se předpokládá krátkodobý růst. Steem chce vybudovat komunitu, která je většinově vlastněna a zcela kontrolována těmi s dlouhodobým závazkem.
 
-Uživatelé mohou svůj STEEM uvázat do třináctitýdenního investičního cyklu, což jim přináší další výhody v rámci platformy. STEEM uvázaný do třináctitýdenního investičního cyklu se jmenuje Steem Power (SP). Zůstatek SP nepřevoditelný a nedělitelný, není-lo podána žádost o automaticky se opakující cyklickou konverzi. To znamená, že SP nemůže být snadno obchodován na kryptoměnových burzách.
+Uživatelé mohou svůj STEEM uvázat do třináctitýdenního investičního cyklu, což jim přináší další výhody v rámci platformy. STEEM uvázaný do třináctitýdenního investičního cyklu se jmenuje Steem Power (SP). Zůstatek SP je nepřevoditelný a nedělitelný, není-li podána žádost o automaticky se opakující cyklickou konverzi. To znamená, že SP nemůže být snadno obchodován na kryptoměnových burzách.
 
 Když uživatelé hlasují o kvalitě obsahu, jejich vliv na rozdělení odměn je přímo úměrný množství SP, kterým disponují. Uživatelé s větším množstvím SP mají větší vliv na rozdělení odměn. To znamená, že SP je token, který garantuje svým držitelům výhradní moc v rámci platformy.
 
