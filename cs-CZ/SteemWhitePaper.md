@@ -132,7 +132,7 @@ Procentní stupně, které jsou využívány k výpočtu tvorby STEEMu, jsou zal
 
 ### Úrok
 
-Ze SBD je držitelům vyplácen úrok. Úroková míra je nastavena těmi samými lidmi kteří publikují ceny, takže se může přizpůsobit tržním podmínkám. Každý dluh sebou nese riziko pro věřitele. Ten, kdo drží SBD, aniž by jej měnil, ve skutečnosti půjčuje komunitě hodnotu jednoho dolaru. Věří, že někdy v budoucnosti od nich někdo bude někdo chtít jejich SBD za dolar odkoupit, nebo že se objeví spekulanti a investoři, kteří budou chtít koupit STEEM, na nějž SBD konvertují.
+Ze SBD je držitelům vyplácen úrok. Úroková míra je nastavena těmi samými lidmi kteří publikují ceny, takže se může přizpůsobit tržním podmínkám. Každý dluh sebou nese riziko pro věřitele. Ten, kdo drží SBD, aniž by jej měnil, ve skutečnosti půjčuje komunitě hodnotu jednoho dolaru. Věří, že někdy v budoucnosti od něj někdo bude někdo chtít jeho SBD za dolar odkoupit, nebo že se objeví spekulanti a investoři, kteří budou chtít koupit STEEM, na nějž SBD konvertují.
 
 Jsou-li členové komunity ochotni držet SBD, držitelé STEEMu a SP získají pákový efekt. Tento pákový efekt zvyšuje zisky z růstu, přičemž též k růstu přispívá. V případě pádu cen držitelé STEEM utrpí zvýšeným naředěním. Kryptoměnné projekty ukázaly, že zisky z rozšíření členské základny ochotné důvěřovat síti kapitálem nakonec přidaly síti více hodnoty než jakékoliv naředění, které může nastat v případě poklesu.
 
@@ -146,7 +146,7 @@ Chytrý čtenář rozpozná, že aktivum omezeného množství které vynáší 
 
 Pokud by poskytovatelé cen STEEM usilovali o to mít nezávislou monetární politiku umožňující tvořit a likvidovat Steem dolary a zároveň měli plnou kontrolu nad úrokovou mírou, potom by narazili na problémy. Nemožná trojice tvrdí, že Steem dolar potřebuje buď omezit pohyb kapitálu, nebo mít nestabilní kurz k $ nebo mít omezenou kontrolu nad úrokovou mírou.
 
-The primary concern of Steem feed producers is to maintain a stable one-to-one conversion between SBD and the U.S. Dollar (USD). Any time SBD is consistently trading above $1.00 USD interest payments must be stopped. Na trhu kde při 0% úroku je stále požadována prémie (za prodej SMD) můžeme bezpečně tvrdit, že trh je ochoten poskytnou více úvěru, než kolik je na sebe komunita ochotna vzít. If this happens a SBD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
+Primární starostí poskytovatelů cen v rámci Steemu je udržovat stabilní konverzní poměr mezi SBD a americkým dolarem (USD) na úrovni jedna ku jedné. Kdykoli bude SBD souvisle obchodován nad úrovní 1,00 USD, výplaty úroků musí být zastaveny. Na trhu kde při 0% úroku je stále požadována prémie (za prodej SBD) můžeme bezpečně tvrdit, že trh je ochoten poskytnou více úvěru, než kolik je na sebe komunita ochotna vzít. Pokud se tak stane, SBD bude ohodnocen na více než 1 $ a komunita bude mít jen malé možnosti s tím něco udělat bez změny záporných úrokových měr.
 
 If the debt-to-ownership ratio is low and SBD is trading for less than $1.00, then the interest rate should be increased. This will encourage more people to hold their SBD and support the price.
 
