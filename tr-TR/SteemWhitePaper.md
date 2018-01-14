@@ -202,13 +202,13 @@ Bir adam sahil boyunca yürüyordu ve yanında duran bir yem kovasıyla birlikte
 
 "Neden yem kovasının üzerini örtmüyorsun bu sayede yengecler kaçamaz?", dedi.
 
-"Anlamıyorsun,", diye yanıtladı adam, "Eğer kovanın içinde tek bir yengeç olursa, o kesinlikle hızlıca dışarı kaçar. Ne var ki, kovanin icinde fazla sayida yengec varsa, birisi disari kacmak icin tirmanmaya yeltendiginde bir digeri hemen onu kavrayip geri ceker ki bu sayede o da diger hepsiyle ayni kaderi paylassin."
+"Anlamıyorsun,", diye yanıtladı adam, "Eğer kovanın içinde tek bir yengeç olursa, o kesinlikle hızlıca dışarı kaçar. Ne var ki, kovanın içinde fazla sayıda yengeç varsa, birisi dışarı kaçmak için tırmanmaya yeltendiğinde bir diğeri hemen onu kavrayıp geri çeker ki bu sayede o da diğer hepsiyle aynı kaderi paylaşsın."
 
-Bu insanlarda da böyledir. Eger birisi farkli bir sey yapmaya calisirsa, daha iyi notlar alirsa, kendisni gelistirirse, vasatliktan kacarsa ya da büyük düsler kurarsa diger insanlar kendileriyle ayni kaderi paylassin diye hemen onu asagi cekeceklerdir.
+Bu insanlarda da böyledir. Eğer birisi farklı bir şey yapmaya çalışırsa, daha iyi notlar alırsa, kendisini geliştirirse, vasatlıktan kaçarsa ya da büyük düşler kurarsa diğer insanlar kendileriyle aynı kaderi paylaşsın diye hemen onu asağı çekeceklerdir.
 
-"Istismarin" önüne gecmek mümkün degildir ve asla ana hedef olmamalidir. Sistemi "istismar" etmeye calisanlar bile hala bir is yapiyorlardir. Basarili istismar ya da hile girisimleri icin alacaklari herhangi bir mükafat bile, geleneksel bitcoin miningi ya da mining poollar tarafindan yapilan ittifakli miningde benimsenen angarya olarak para dagitmanin amacina uygundur. Gerekli olan tek sey ise, istismarin topluluk ve onun para birimi namina gercek isler yapmaya yönelik tesvigi bastiracak kadar yayginlasmamasini temin etmektir.
+"İstismarın" önüne geçmek mümkün değildir ve asla ana hedef olmamalıdır. Sistemi "istismar" etmeye calışanlar bile hala bir iş yapıyorlardır. Başarılı istismar ya da hile girişimleri için alacakları herhangi bir mükafat bile, geleneksel bitcoin miningi ya da mining poollar tarafından yapılan ittifaklı miningde benimsenen, angarya olarak para dağıtmanın amacına uygundur. Gerekli olan tek şey ise, istismarın topluluk ve onun para birimi namına gerçek işler yapmaya yönelik teşvğii bastıracak kadar yaygınlaşmamasını temin etmektir.
 
-Topluluga ait bir para birimi üretmenin hedefi "kovaya daha fazla yengec" getirmektir. Tüm istismarin önüne gecmeye calismak icin asiri önlemler almaya varmak tipki yengeclerin kacmasini engellemek icin kovanin üstüne bir kapak koymak gibidir. Ve bu da kovaya yeni yengecler koymayi zorlastirmak pahasina olur. Kovanin kenarlarini kayganlastirmak ve diger yengeclere yeteri kadar güc vermek digerlerinin kacmasini engellemeye yeter.
+Topluluğa ait bir para birimi üretmenin hedefi "kovaya daha fazla yengeç" getirmektir. Tüm istismarın önüne geçmeye calışmak için aşırı önlemler almaya varmak, tıpkı yengeçlerin kaçmasını engellemek için kovanın üstüne bir kapak koymak gibidir. Ve bu da kovaya yeni yengeçler koymayı zorlaştırmak pahasına olur. Kovanin kenarlarini kayganlastirmak ve diger yengeclere yeteri kadar güc vermek digerlerinin kacmasini engellemeye yeter.
 
 ### Sayi Sinirli Oylama
 
