@@ -134,14 +134,14 @@ STEEM'i işlemek için kullanılan bu yüzde tabanları, tahsil edilmemiş SBD v
 
 SBD onu elinde bulunduranlara faiz öder. Faiz oranı, fiyat yayınını yayınlayan aynı kişiler tarafından belirlenir ki bu sayede değişen piyasa koşullarına adapte olabilsin. Her borçlanma borç veren açısından risk taşır. Geri ödeme yapmaksızın elinde SBD bulunduran kişi, efektif bir şekilde topluluğa dolar değeri ödünç vermektedir. Onlar, gelecekte bir noktada birilerinin dolar karşılığı onlardan SBD almak isteyeceğine ya da onların SBD'lerini dönüştürmüş oldukları STEEM'i alacak bazı spekülatör veya yatırımcıların olacağına inanırlar.
 
-STEEM ve SP sahipleri, topluluk üyeleri ellerinde SBD tutmaya istekli olduğu müddetçe kaldiraç kazanırlar. Bu kaldıraç büyümeye katkıda bulunurken büyüme kaynaklı kazançları da artırır. STEEM sahipleri fiyatın düşmesi durumunda özsermayenin azalmasından müzdarip olur. Kripto para birimi projeleri göstermistir ki, sermayeleriyle aga inanmaya istekli kullanici tabanini artirmanin getirdigi gelir, aga nihayetinde, gerileme döneminde olusacak bir özsermaye kaybindan daha fazla deger katmaktadir.
+STEEM ve SP sahipleri, topluluk üyeleri ellerinde SBD tutmaya istekli olduğu müddetçe kaldiraç kazanırlar. Bu kaldıraç büyümeye katkıda bulunurken büyüme kaynaklı kazançları da artırır. STEEM sahipleri fiyatın düşmesi durumunda özsermayenin azalmasından müzdarip olur. Kripto para birimi projeleri göstermiştir ki, sermayeleriyle ağa inanmaya istekli kullanıcı tabanını artırmanın getirdiği gelir, ağa nihayetinde, gerileme döneminde oluşacak bir özsermaye kaybından daha fazla değer katmaktadır.
 
-### Fiyat Yayinini Ayarlama
+### Fiyat Yayınını Ayarlama
 
-Dikkatli okuyucular fark edecektir ki, kisitli arzda faiz gelirli aktifler -diger ayni varliktan faiz kazanma firsatlarina bagli olarak- dayanak varliktan daha düsük ya da yüksek ticaret yapabilir. Amerikan Dolarina sabitlenmis bir varlik üzerindeki yüksek faiz ile, bir cok insan artik onun degeri $1 olmayana kadar kisitli arzdaki Steem Dolarina ragbet edecektir. Ekonomide Imkansiz üclem[^4] olarak bilinen; asagidaki üc maddeye ayni anda sahip olunamayacagini anlatan bir ilke vardir:
+Dikkatli okuyucular fark edecektir ki, kısıtlı arzda faiz gelirli aktifler -diğer aynı varlıktan faiz kazanma fırsatlarına bağlı olarak- dayanak varlıktan daha düşük ya da yüksek ticaret yapabilir. Amerikan Dolarına sabitlenmiş bir varlık üzerindeki yüksek faiz ile, birçok insan artık onun değeri $1 olmayana kadar kısıtlı arzdakı Steem Dolarına rağbet edecektir. Ekonomide imkansız üçlem[^4] olarak bilinen; aşağıdaki üç maddeye aynı anda sahip olunamayacağını anlatan bir ilke vardir:
 
 1. Sabit bir döviz kuru
-2. Özgür sermaye akisi
+2. Özgür sermaye akışı
 3. Bagimsiz bir para politikasi
 
 Eger Steem yayin üreticileri, faiz oranlari üzerinde tümüyle kontrol sahibiyken ayni zamanda onlara Steem Dolari yaratma ya da yok etme imkani taniyacak bagimsiz bir para politikasina sahip olma hedefi koyarlarsa problemlerle karsilasirlar. Imkansiz üclem der ki, Steem Dolari ya sermaye akisini sinirlandirmali ve Amerikan Dolari ile dalgali kura sahip olmali ya da faiz oranlari üzerinde kisitli kontrole sahip olmali.
