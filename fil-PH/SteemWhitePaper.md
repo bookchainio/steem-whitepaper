@@ -78,9 +78,9 @@ Ang pagsisimula ng mga kumpanya ay nangangailangan ng pang-matagalang kapital na
 
 May mahalagang halaga sa pagkakaroon ng pangmatagalang pangako dahil nagbibigay-daan ito sa mga komunidad na gumawa ng mga pangmatagalang plano. Ang pangmatagalang pangako ng mga parokyano ay nagiging sanhi din sa kanila na bumoto para sa pangmatagalang paglago sa halip na panandaliang paglago lamang.
 
-Sa espasyo ng cryptocurrency, ang mga spectator ay tumalon mula sa cryptocurrency na nagbase karamihan sa kung saan ang isa ay inaasahang magkaroon ng panandaliang paglago. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
+Sa espasyo ng cryptocurrency, ang mga spectator ay tumalon mula sa cryptocurrency na nagbase karamihan sa kung saan ang isa ay inaasahang magkaroon ng panandaliang paglago. Ang Steem ay gustong bumuo ng isang komunidad na kadalasang pinag-aari at ganap na kinokontrol ng mga may pangmatagalang pananaw.
 
-Users are able to commit their STEEM to a thirteen week vesting schedule, providing them with additional benefits within the platform. STEEM that has been committed to a thirteen week vesting schedule is called Steem Power (SP). SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
+Ang mga gumagamit ay maaaring i-commit ang kanilang STEEM sa isang labintatlong linggo na vesting iskedyul, ito ay nagbibigay sa kanila ng karagdagang mga benepisyo sa loob ng platform. Ang STEEM na nakatuon sa isang labintatlong linggo na vesting schedule ay tinatawag na Steem Power (SP). Ang mga balanseng SP ay hindi maililipat at di-nakikita maliban sa pamamagitan ng awtomatikong umuulit na mga conversion request. This means that SP cannot be easily traded on cryptocurrency exchanges.
 
 When users vote on content, their influence over the distribution of the rewards pool is directly proportional to the amount of SP that they have. Users with more SP have more influence on the distribution of rewards. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
 
