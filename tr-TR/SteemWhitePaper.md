@@ -186,7 +186,7 @@ Bir sonraki adım *herhangi bir şey*den çok az bir miktar bile olsa daha oluml
 
 Dağıtılacak belli miktarda bir paranın olduğunu ve paranın gelecekteki değeri ve yararı konusunda uzun vadeli menfaatlere sahip olanların, onun nasıl tahsis edileceğine karar vermesi gerektiğini varsayalım. Her vadeli yatırım sahibi kullanıcı, en iyi çalışmayı kimin yaptığına oy verir ve günün sonunda o gün elde edilen paralar oylarla orantılı olarak paylaşılır ve böylelikle birer tane bile olsa artı oy kazanmış olan herkes bir şeyler alır.
 
-Saf oylama süreci, büyük topluluk hedeflerinden vazgeçmek pahasına, her üyeye kendisine oy vermeyi teşvik eden N-Person Prisoner’s Dilemma'yı[^5] oluşturur. Eğer oy hakki olan herkes kendisi için oy kullanırsa bu durumda para birimi dağıtılmış olmayacak ve bir bütün olarak ağ etkisi yaratmak konusunda başarısız olacaktır. Diger yandan, eğer oylayanlardan sadece bir tanesi kusurlu davranırsa, o kişi para biriminin genel değeri üzerinde minimum miktarda etkiye sahip olurken kendisine haksız kazanç da sağlamış olur.
+Saf oylama süreci, büyük topluluk hedeflerinden vazgeçmek pahasına, her üyeye kendisine oy vermeyi teşvik eden N-Person Prisoner’s Dilemma'yı[^5] oluşturur. Eğer oy hakki olan herkes kendisi için oy kullanırsa bu durumda para birimi dağıtılmış olmayacak ve bir bütün olarak ağ etkisi yaratmak konusunda başarısız olacaktır. Diğer yandan, eğer oylayanlardan sadece bir tanesi kusurlu davranırsa, o kişi para biriminin genel değeri üzerinde minimum miktarda etkiye sahip olurken kendisine haksız kazanç da sağlamış olur.
 
 #### Oy Suistimali
 
@@ -206,7 +206,7 @@ Bir adam sahil boyunca yürüyordu ve yanında duran bir yem kovasıyla birlikte
 
 Bu insanlarda da böyledir. Eğer birisi farklı bir şey yapmaya çalışırsa, daha iyi notlar alırsa, kendisini geliştirirse, vasatlıktan kaçarsa ya da büyük düşler kurarsa diğer insanlar kendileriyle aynı kaderi paylaşsın diye hemen onu asağı çekeceklerdir.
 
-"İstismarın" önüne geçmek mümkün değildir ve asla ana hedef olmamalıdır. Sistemi "istismar" etmeye calışanlar bile hala bir iş yapıyorlardır. Başarılı istismar ya da hile girişimleri için alacakları herhangi bir mükafat bile, geleneksel bitcoin miningi ya da mining poollar tarafından yapılan ittifaklı miningde benimsenen, angarya olarak para dağıtmanın amacına uygundur. Gerekli olan tek şey ise, istismarın topluluk ve onun para birimi namına gerçek işler yapmaya yönelik teşvğii bastıracak kadar yaygınlaşmamasını temin etmektir.
+"İstismarın" önüne geçmek mümkün değildir ve asla ana hedef olmamalıdır. Sistemi "istismar" etmeye calışanlar bile hala bir iş yapıyorlardır. Başarılı istismar ya da hile girişimleri için alacakları herhangi bir mükafat bile, geleneksel bitcoin miningi ya da mining poollar tarafından yapılan ittifaklı miningde benimsenen, angarya olarak para dağıtmanın amacına uygundur. Gerekli olan tek şey ise, istismarın topluluk ve onun para birimi namına gerçek işler yapmaya yönelik teşviği bastıracak kadar yaygınlaşmamasını temin etmektir.
 
 Topluluğa ait bir para birimi üretmenin hedefi "kovaya daha fazla yengeç" getirmektir. Tüm istismarın önüne geçmeye calışmak için aşırı önlemler almaya varmak, tıpkı yengeçlerin kaçmasını engellemek için kovanın üstüne bir kapak koymak gibidir. Ve bu da kovaya yeni yengeçler koymayı zorlaştırmak pahasına olur. Kovanın kenarlarını kayganlaştırmak ve diğer yengeçlere yeteri kadar güç vermek diğerlerinin kaçmasını engellemeye yeter.
 
@@ -234,7 +234,7 @@ Bunun ekonomik etkisi piyangoya benzerdir. İnsanlar oylanma şanslarını oldu�
 
 ### Ödemeler
 
-Bir gönderi ödeme aldığında bu 50% SBD ve 50% SP biçimindedir. Steem Power kullaniciya artırılmış oylama ve işlem gücü verirken, SBD ise kullanıcıya istikrarlı bir para birimi üzerinden doğrudan bir kazanç sunar. Daha önce uzun bir şekilde açıkladığımız üzere, SP kısa vadeli satışlar yerine uzun vadeli elde tutmaları teşvik etmek icin tasarlanmıştır. Bu daha fazla kullanıcıyı platformun uzun vadeli başarısında menfaat sahibi olmak konusunda cesaretlendirir.
+Bir gönderi ödeme aldığında bu 50% SBD ve 50% SP biçimindedir. Steem Power kullanıcıya artırılmış oylama ve işlem gücü verirken, SBD ise kullanıcıya istikrarlı bir para birimi üzerinden doğrudan bir kazanç sunar. Daha önce uzun bir şekilde açıkladığımız üzere, SP kısa vadeli satışlar yerine uzun vadeli elde tutmaları teşvik etmek için tasarlanmıştır. Bu daha fazla kullanıcıyı platformun uzun vadeli başarısında menfaat sahibi olmak konusunda cesaretlendirir.
 
 Kullanıcılar ödemelerini 100% SP şeklinde alma seçeneği ile birlikte gönderilerine yapılacak ödemeleri reddedetme hakkına da sahiptir. Kullanıcı bir gönderi için ödeme almayı reddettiğinde, kendisine ödenecek olan para diğer kullanıcılar arasında dağıtılmak üzere ödül havuzunda kalır.
 
