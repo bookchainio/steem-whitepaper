@@ -148,15 +148,15 @@ Eğer Steem yayın üreticileri, faiz oranları üzerinde tümüyle kontrol sahi
 
 Steem yayın üreticilerinin öncelikli kaygısı SBD ile Amerikan Doları (USD) arasında bire-bir dönüşümü sürdürmektir. SBD'nin $1.00 USD'den fazlaya alınıp satıldığı her durumda faiz ödemeleri durdurulmalıdır. Borçlanma üzerindeki %0 faize rağmen hala kar payına rağbet olan bir piyasada, piyasanın topluluğun borçlanmak istediğinden dafa fazla kredi sağlama eğiliminde olduğunu söylemek yanlış olmaz. Eğer bu gerçekleşirse SBD $1.00'dan daha fazla olarak değer bulur ve topluluğun da eksi oranlarda faiz işletmekten daha fazla yapabileceği bir şey yoktur.
 
-Eger borclanmanin mülkiyete orani düsükse ve SBD $1.00'dan asagiya alinip satiliyorsa, o zaman faiz oranlari artirilmalidir. Bu daha fazla insani elinde SBD tutma konusunda cesaretlendirir ve fiyati destekler.
+Eger borçlanmanın özkaynağa oranı düşükse ve SBD $1.00'dan aşağıya alınıp satılıyorsa, o zaman faiz oranları artırılmalıdır. Bu daha fazla insanı elinde SBD tutma konusunda cesaretlendirir ve fiyatı destekler.
 
-Eger SBD $1.00'dan daha aza alinip satilirsa ve borc-mülkiyet orani yüksekse, o zaman fiyat yayinlari yukari dogru ayarlanmali ve SBD basina daha fazla STEEM verilmelidir. Bu, borcun mülkiyete oranini düsürürken ve SBD'yi USD denkligine geri cekerken, SBD'ye olan talebi de artirir.
+Eğer SBD $1.00'dan daha aza alınıp satılırsa ve borç-özkaynak oranı yüksekse, o zaman fiyat yayınları yukarı doğru ayarlanmalı ve SBD başına daha fazla STEEM verilmelidir. Bu, borcun özkaynağa oranını düşürüp SBD'yi USD denkliğine geri çekerken, SBD'ye olan talebi de artırır.
 
-STEEM'in degerinin Steem'in yeni SBD üretiminden daha hizli arttigini varsayarsak; borc-özkaynak orani hedeflenen degerden asagi olmalidir ve sunulan faizden herkes yararlanmalidir. Eger agin degeri sabit seyirdeyse ya da düsüs halindeyse, bu durumda sunulan herhangi bir faiz borc-özkaynak oranini kötülestirmekten baska bir sey yapmaz.
+STEEM'in değerinin, Steem'in yeni SBD üretiminden daha hızlı arttığını varsayarsak; borc-özkaynak oranı hedeflenen değerden aşağı olmalıdır ve sunulan faizden herkes yararlanmalıdır. Eger ağın değeri sabit seyirdeyse ya da düşüş halindeyse, bu durumda sunulan herhangi bir faiz borç-özkaynak oranını kötüleştirmekten başka bir şey yapmaz.
 
-Fiiliyatta USD ile denklik yaratacak sekilde bir para politikasi benimsenmesi fiyat yayini üreticilerine emanet edilmistir. Bu gücün istismari STEEM'in degerini düsürür. SP sahipleri fiyat yayinini ayarlamak ve faiz oranlarini yukarida özetlenmis kurallara göre ayarlamak icin güvenilir Wittness'lari oylayacak bilgeliktedir.
+Fiiliyatta, USD ile denklik yaratacak şekilde bir para politikasının benimsenmesi fiyat yayını üreticilerine emanet edilmiştir. Bu gücün istismarı STEEM'in değerini düşürür. SP sahipleri fiyat yayınını ayarlamak ve faiz oranlarını yukarıda özetlenmiş kurallara göre ayarlamak için güvenilir Wittness'ları oylayacak bilgeliktedir.
 
-Eger borclanma - Özkaynak orani tehlikeli seviyede yukari cikarsa ve piyasa katilimcilari dönüsüm talepleri yapmaktan kacinirlarsa, bu durumda yayin SBD'ye dönüsüm icin ödenen STEEM oranlarinda artis saglayacak sekilde ayarlanmalidir.
+Eğer borçlanma-Özkaynak oranı tehlikeli seviyede yukarı çıkarsa ve piyasa katılımcıları dönüşüm talepleri yapmaktan kaçınırlarsa, bu durumda yayın SBD'ye dönüşüm için ödenen STEEM oranlarında artış sağlayacak şekilde ayarlanmalıdır.
 
 STEEM/SBD dönüsümlerindeki faiz orani politikalarindaki ve/veya harhangi bir kar payi/iskonto'daki degisiklikler kisa vadeli piyasa sartlarina cevap vermek icin degil; yavasca ve uzun vadeli ortalama sapmalara verilen hesapli bir yanit olarak yapilmalidir.
 
