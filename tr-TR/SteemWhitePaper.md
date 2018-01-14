@@ -20,9 +20,9 @@ Steem, kripto para ödülleri aracılığıyla topluluk oluşturmayı ve toplums
 
 Kollektif halde, kullanıcı tarafından yaratılmış icerik Reddit, Facebook ve Twitter gibi sosyal medya şirketlerinin hissedarları icin milyarlarca dolarlık bir değer yarattı. **2014 yılında Reddit, reddit.com'a hikaye paylaşımları, yorum ekleme, ya da oylama yoluyla katkida bulunmuş olan herkesin Reddit'ten adil bir hisse ile ödüllendirilmesi durumunda kendi platformlarının çok daha gelişeceği gelişeceği varsayımını öne sürdü.<sup id="fnref:1"><a href="#fn:1" class="footnote-ref"></a></sup>**. Steem sosyal medyayı ve çevrim içi toplulukları, sahip olduğu değerin büyük bir kısmını ona değerli katkılarda bulunan herkesi kripto para birimleri ile ödüllendirmek yoluyla onlara iade ederek, desteklemeyi amaçlamaktadır.
 
-Steem'in tasarımına rehberlik etmek için kullanılmıs olan bazı ana ilkeler vardır. En önemli ilke, bir girişime katkıda bulunmuş olan herkesin girişimden nisbi oranda hisse, ödeme ya da borc aliyor olmasidir. Bu ilke, kurulus aşamasında ve müteakip fonlama rauntları sırasında hisse dağıtan tüm startup'larda uygulanan ilkenin aynısıdır.
+Steem'in tasarımına rehberlik etmek için kullanılmış olan bazı ana ilkeler vardır. En önemli ilke, bir girişime katkıda bulunmuş olan herkesin girişimden nisbi oranda hisse, ödeme ya da borc alıyor olmasıdır. Bu ilke, kurulus aşamasında ve müteakip fonlama rauntları sırasında hisse dağıtan tüm startup'larda uygulanan ilkenin aynısıdır.
 
-İkinci ilke, tüm sermaye çeşitlerinin eşit derecede değerli olmasıdır. Bu şu anlama gelir: Kısıtlı zamanlarını ve dikkatlerini diğerleri için içerik üreterek ve küratörlük yaparak platforma katkı olarak sunanlar, kısıtlı nakitlerini katkı olarak sunanlarla aynı oranda değerlidir. Bu emek-yoğun sermaye ilkesidir[^2] ve önceki birçok kripto para birimi, sinirli sayida insandan fazlasina refah sağlamak konusunda bu kavram ile sıkıntı yasamıştır.
+İkinci ilke, tüm sermaye çeşitlerinin eşit derecede değerli olmasıdır. Bu şu anlama gelir: Kısıtlı zamanlarını ve dikkatlerini diğerleri için içerik üreterek ve küratörlük yaparak platforma katkı olarak sunanlar, kısıtlı nakitlerini katkı olarak sunanlarla aynı oranda değerlidir. Bu emek-yoğun sermaye ilkesidir[^2] ve önceki birçok kripto para birimi, sınırlı sayıda insandan fazlasina refah sağlamak konusunda bu kavram ile sıkıntı yasamıştır.
 
 Üçüncü ilke, topluluğun üyelerine hizmet edebilmek için ürünler üretiyor olmasıdır. Bu ilke, kendi topluluklarının dışına mal ya da hizmet satmaktansa sadece kendi üyelerine hizmet eden kredi birlikleri, yemek kooperatifleri, sağlık paylaşım planları üzerinden örneklendirilebilir.
 
@@ -34,7 +34,7 @@ Steem topluluğu üyelerie aşagıda yer alan hizmetleri sunar:
 4. Ücretsiz ödemeler.
 5. Yukaridaki servisleri kullanıcılara sağlayacak işler.
 
-Steem'in ekonomik tesvikleri bir amaca yönelik olarak yeniden siralamasi, ilgili herkes acisindan, kendinden önceki sosyal medya ve kripto para birimi platformlarindakinden cok daha adil ve kapsayici sonuclar üretme potansiyeline sahiptir. Bu makale mevcut ekonomik tesvikleri inceleyecek ve Steem'in tesviklerinin katilimcilarin cogunlugu icin nasil daha iyi sonuclar üretebilecegini gösterecektir.
+Steem'in ekonomik teşvikleri bir amaca yönelik olarak yeniden düzenlemesi, ilgili herkes açısından, kendinden önceki sosyal medya ve kripto para birimi platformlarındakinden çok daha adil ve kapsayıcı sonuçlar üretme potansiyeline sahiptir. Bu makale mevcut ekonomik tesvikleri inceleyecek ve Steem'in tesviklerinin katilimcilarin cogunlugu icin nasil daha iyi sonuclar üretebilecegini gösterecektir.
 
 ## Katkiyi Takdir Etmek
 
