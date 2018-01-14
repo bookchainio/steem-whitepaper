@@ -218,7 +218,7 @@ Uživatelům je přiděleno určité množství hlasovací síly. Hlasovací sí
 
 ### Distribuce výplat
 
-Jedním z hlavních cílů systému odměn Steemu je vytvořit nejlepší diskusi na internetu. Úplně každý rok je 75 % roční inflace rozděleno mezi uživatele, kteří publikují obsah, hlasují a diskutují nad ním. At the size of Bitcoin this could be several million dollars per day being given to the top contributors.
+Jedním z hlavních cílů systému odměn Steemu je vytvořit nejlepší diskusi na internetu. Úplně každý rok je 75 % roční inflace rozděleno mezi uživatele, kteří publikují obsah, hlasují a diskutují nad ním. Při velikosti jako má Bitcoin by mohlo jít o několik milionů dolarů denně, které jsou rozdány nejlepším přispěvatelům.
 
 Skutečná distribuce bude záviset na způsobu hlasování uživatelů, ale domníváme se, že podstatná většina odměn bude rozdělena mezi nejpopulárnější obsah.
 
