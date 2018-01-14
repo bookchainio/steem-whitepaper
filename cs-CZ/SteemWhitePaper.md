@@ -150,9 +150,9 @@ Primární starostí poskytovatelů cen v rámci Steemu je udržovat stabilní k
 
 Je-li poměr dluhu k vlastnictví nízký a SBD se obchoduje za méně než 1 $, úrokovou míru je třeba zvýšit. Po podnítí více lidí k držení jejich SBD a podpoří cenu SBD.
 
-If SBD trades for less than $1.00 USD and the debt-to-ownership ratio is high, then the feeds should be adjusted upward give more STEEM per SBD. This will increase demand for SBD while also reducing the debt-to-ownership ratio and returning SBD to parity with USD.
+Pokud se SBD obchoduje za méně než 1 $ a poměr dluhu k vlastnictví je vysoký, měly by se ceny upravit tak, aby za SBD bylo vydáno více STEEMu. To zvýší poptávku po SBD a zároveň sníží poměr dluhu k vlastnictví a navrátí SBD na úroveň shodnou s USD.
 
-Assuming the value of STEEM is growing faster than Steem is creating new SBD, the debt-to-ownership ratio should remain under the target ratio and the interest offered benefits everyone. If the value of the network is flat or falling, then any interest offered will only make the debt-to-ownership ratio worse.
+Za předpokladu, že hodnota STEEMu poroste rychleji než Steem vydává nové SBD, by měl poměr dluhu k vlastnictví zůstat pod cílovou hranicí a z nabízeného úroku by tak měli prospěch všichni. Kdyby hodnota sítě zůstávala stejná nebo se snižovala, jakýkoli nabízený úrok by jen zhoršoval poměr dluhu k vlastnictví.
 
 Platí, že poskytovatelům cen je svěřena zodpovědnost za nastavení monetární politiky tak, aby byla udržena stabilní vazba na USD. Zneužití této moci může způsobit škodu Steemu a tak držitelé SP hlasují pro svědky na které se mohou spolehnout, že nastaví ceny a úrokové míry v souladu s výše popsanými pravidly.
 
