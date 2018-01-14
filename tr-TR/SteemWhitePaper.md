@@ -106,13 +106,13 @@ Tüm yayın üreticileri dürüst olsa dahi yayın üreticilerinin coğunluğu i
 
 Steem kısa dönem fiyat dalgalanmalarını üç buçuk günlük bir sürenin medyan fiyatını kullanarak hesap dışında tutar. Yayınlanmış fiyat yayını her saat için saat başlarında numulendirilir.
 
-Fiyat yayını kirliliği değişen medyan zaman aralığının yarısından kısa sürdüğü müddetçe, onun dönüşüm fiyatları üzerindeki etkisi minimal düzeyde olacaktır. Yayinin bozuk olmasi durumunda ag katilimcilarinin, bozuk yayin aktüel dönüsüm fiyatini etkilemeden önce, yozlasmis yayin üreticileri aleyhinde oy kullanma imkani olacaktir. Belkide daha önemlisi, bu, yayin üreticilerine yayinlari fiyati etkilemeye baslamadan önce tespit ve düzeltme sansi sunmaktadir.
+Fiyat yayını kirliliği değişen medyan zaman aralığının yarısından kısa sürdüğü müddetçe, onun dönüşüm fiyatları üzerindeki etkisi minimal düzeyde olacaktır. Yayının kirli olması durumunda ağ katılımcılarının, kirli yayın aktüel dönüşüm fiyatını etkilemeden önce, yozlaşmış yayın üreticileri aleyhinde oy kullanma imkanı olacaktır. Belki de daha önemlisi bu, yayın üreticilerine yayınları fiyatı etkilemeye başlamadan önce tespit ve düzeltme şansı sunmaktadır.
 
-Topluluk üyeleri -üc bucuk günlük zaman araliginda- ortaya cikan herhangi bir meseleye yanit vermek icin yaklasik olarak bir bucuk güne sahiptir.
+Topluluk üyeleri -üç buçuk günlük zaman aralığında- ortaya çıkan herhangi bir meseleye yanıt vermek için yaklaşık olarak bir buçuk güne sahiptir.
 
-### Zamanlama Saldirilarini Sönümlendirmek
+### Zamanlama Saldırılarını Sönümlendirmek
 
-Piyasa katilimcilarinin bilgiye blockchainin üc bucuk günlük hareketli medyan dönüsüm fiyatinin yansitabileceginden daha hizli bir ulasimi vardir. Bu bilgi alim-satimcilarin yarari namina toplulugun aleyhinde kullanilabilir. Eger Steem'in degerinde ani bir yükselir varsa, alim-satimcilar SBD'lerini eski, düsük dönüsüm fiyati üzerinden cevirme talebi gönderip daha sonrasinda edindikleri STEEM'lerini en ufak riskle yeni yüksek fiyat üzerinden satabilirler.
+Piyasa katılımcılarının bilgiye blockchainin üc buçuk günlük hareketli medyan dönüşüm fiyatının yansıtabileceğinden daha hızlı ulaşımı vardır. Bu bilgi al-satçıların yararı namına topluluğun aleyhinde kullanılabilir. Eğer Steem'in değerinde ani bir yükseliş varsa, al-satçılar SBD'lerini eski, düşük dönüşüm fiyatı üzerinden çevirme talebi gönderip daha sonrasında edindikleri STEEM'lerini en ufak riskle yeni yüksek fiyat üzerinden satabilirler.
 
 Steem dönüsüm taleplerinin üc bucuk gün bekletilmesini sart kosmak yoluyla oyun alanini kademelendirir. Bu demektir ki, ne alim satimcilar ne blockchain dönüsümün gerceklestigi fiyat hakkinda bir bilgi avantajina sahiptir.
 
