@@ -230,13 +230,13 @@ Pokud vezmeme popularitu jako hrubé měřítko hodnoty, pak hodnota každé jed
 
 Dopad tohoto hlasování a distribuce výplat je nabídka velkých odměn za dobrý obsah, zatímco jsou stále odměňování menší hráči za jejich dlouhodobé přispívání.
 
-The economic effect of this is similar to a lottery where people overestimate their probability of getting votes and thus do more work than the expected value of their reward and thereby maximize the total amount of work performed in service of the community. The fact that everyone “wins something” plays on the same psychology that casinos use to keep people gambling. Jinými slovy, malé odměny pomáhají utvrdit myšlenku, že je možno získat velkou odměnu.
+Ekonomický efekt je podobný loterii, v níž lidé přeceňují svou pravděpodobnost získat hlasy, a tak vykonají více práce, než je očekávaná hodnota jejich odměny, čímž maximalizují celkové množství práce vykonané ve prospěch komunity. Skutečnost, že každý „něco vyhraje“ spoléhá stejnou psychologii, jakou využívají kasina k tomu, aby udržely lidi ve hře. Jinými slovy, malé odměny pomáhají utvrdit myšlenku, že je možno získat velkou odměnu.
 
 ### Výplaty
 
-When a post receives a payout it takes the form of 50% SBD and 50% SP. The Steem Power give the user increased voting and transaction power while the SBD gives the user an immediate benefit in a stable currency. As we’ve already discussed at length, SP is designed to encourage long-term holding rather than short-term selling. This encourages more users to have a vested interest in the long-term success of the platform.
+Když příspěvek obdrží výplatu, tvoří ji z poloviny SBD a z druhé poloviny SP. Steem Power dává uživateli zvýšenou hlasovací a transakční sílu, zatímco SBD dává uživateli okamžitou výhodu stabilní měny. Jak jsme již podrobně probrali, SP je koncipována k povzbuzení dlouhodobého držení spíše než k okamžitému prodeji. To povzbuzuje více uživatelů k investování ve prospěch dlouhodobého úspěchu platformy.
 
-Users also have the option to be paid in 100% SP, as well as decline payout on posts. When a user declines payout on a post, the money that would have been paid to them remains in the rewards pool, to be distributed to other users.
+Uživatelé také mohou zvolit výplatu výhradně v SP nebo odmítnout odměnu za příspěvek. Odmítne-li uživatel odměnu za příspěvek, peníze, které by za něj byly vyplaceny, zůstanou ve fondu odměn, aby byly rozděleny mezi jiné uživatele.
 
 # Algoritmus shody
 
