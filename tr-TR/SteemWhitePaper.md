@@ -158,11 +158,11 @@ Fiiliyatta, USD ile denklik yaratacak şekilde bir para politikasının benimsen
 
 Eğer borçlanma-Özkaynak oranı tehlikeli seviyede yukarı çıkarsa ve piyasa katılımcıları dönüşüm talepleri yapmaktan kaçınırlarsa, bu durumda yayın SBD'ye dönüşüm için ödenen STEEM oranlarında artış sağlayacak şekilde ayarlanmalıdır.
 
-STEEM/SBD dönüsümlerindeki faiz orani politikalarindaki ve/veya harhangi bir kar payi/iskonto'daki degisiklikler kisa vadeli piyasa sartlarina cevap vermek icin degil; yavasca ve uzun vadeli ortalama sapmalara verilen hesapli bir yanit olarak yapilmalidir.
+STEEM/SBD dönüşümlerindeki faiz oranı politikalarındaki ve/veya harhangi bir kar payı/iskonto'daki değişiklikler, kısa vadeli piyasa şartlarına cevap vermek için degil; yavaşça ve uzun vadeli ortalama sapmalara verilen hesaplı bir yanıt olarak yapılmalıdır.
 
-Inancimiz odur ki bu kuralar piyasa katilimcilarina $1.00'dan aldiklari SBD'yi ellerinde tutmalari halinde para kaybetmeyecekleri hususunda güven temin edecektir. Biz normal piyasa kosullari altinda SBD icin $0.95 ve $1.05 arasinda bir alim satim araligi olmasini bekliyoruz.
+İnancımız odur ki bu kuralar piyasa katılımcılarına $1.00'dan aldıkları SBD'yi ellerinde tutmaları halinde para kaybetmeyecekleri hususunda güven temin edecektir. Biz normal piyasa koşulları altında SBD icin $0.95 ve $1.05 arasında bir alım satım aralığı olmasını bekliyoruz.
 
-## Öznel Katkilar
+## Öznel Katkılar
 
 Öznel Proof of Work, mining gibi tümüyle *objektif* Proof of Work sistemlerinden daha iyisini yaparak, para birimi dagitma meselesine alternatif bir yaklasim sunmaktadir. *öznel* proof of work'u hayata geciren para birimlerinin uygulanmasi herhangi bir *objektif* proof of work sisteminden cok daha fazladir cünkü onlar amacini net bir sekilde tanimlamis herhangi bir kavram etrafinda topluluk yaratmak icin uygulanabilirdir. Bireyler bir topluluga katildiklarinda belirli fikirlere ragbet ederler ve topluluk degerlerini veya amaclarini güclendirmek icin oylama yapabilirler.
 
