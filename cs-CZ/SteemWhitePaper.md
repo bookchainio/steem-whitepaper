@@ -222,7 +222,7 @@ Jedním z hlavních cílů systému odměn Steemu je vytvořit nejlepší diskus
 
 Skutečná distribuce bude záviset na způsobu hlasování uživatelů, ale domníváme se, že podstatná většina odměn bude rozdělena mezi nejpopulárnější obsah.
 
-Zipf’s Law[^7] is one of those empirical rules that characterize a surprising range of real-world phenomena remarkably well. Říká, že pokud seřadíme nějaký velký soubor podle velikosti nebo oblíbenosti, druhý prvek v souboru bude okolo poloviny velikosti prvního, třetí bude okolo třetiny velikosti prvního atd. In general, the k th-ranked item will measure about 1/k of the first one.
+Zipfův zákon[^7] je jedním z těch empirických pravidel, která pozoruhodně dobře popisují překvapivě široký rozsah fenoménů reálného světa. Říká, že pokud seřadíme nějaký velký soubor podle velikosti nebo oblíbenosti, druhý prvek v souboru bude okolo poloviny velikosti prvního, třetí bude okolo třetiny velikosti prvního atd. In general, the k th-ranked item will measure about 1/k of the first one.
 
 ![](\img_the_new_marketplace.png)
 
