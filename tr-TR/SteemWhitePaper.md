@@ -220,21 +220,21 @@ Kullanıcılara sabit bir oylama gücü tahsis edilmektedir. Bir iş parçasına
 
 Steem'in ödüllendirme sisteminin başlıca amaçlarından birisi internet üzerindeki en iyi tartışmaları üretmektir. Her yıl, yıllık enflasyonun %75'i içerik gönderen, içerikleri oylayan ve onları tartışan üyelere dağıtılır. Bitcoin'in büyüklügünde, bu başlıca katkı yapanlara günde birkaç milyon dolar olarak verilebilir.
 
-Nihai dagilim kullanicilarin oylama örüntülerine baglidir fakat, zannediyoruz ki ödüllerin büyük cogunlugu en popüler icerikler arasinda dagitilacaktir.
+Nihai dağılım kullanıcıların oylama örüntülerine bağlıdır fakat, zannediyoruz ki, ödüllerin büyük coğunlugu en popüler içerikler arasında dağıtılacaktır.
 
-Zipf Kanunu[^7] gercek hayat görüngülerinin sasirtici menzilini cok güzel bir sekilde aciklayan ampirik kurallardan birisidir. Buna göre, bir toplami büyüklük ya da populerlige göre siralarsak, siralamadaki ikinci eleman birincinin yarisi büyüklükte olacaktir, ücüncü ise birincinin ücte biri oraninda vb. Genel olarak k'inci siradaki parca birincinin 1/k oraninda bir büyüklükte olacaktir.
+Zipf Kanunu[^7] gerçek hayat görüngülerinin şaşırtıcı menzilini çok güzel bir şekilde açıklayan ampirik kurallardan birisidir. Buna göre, bir toplamı büyüklük ya da popülerliğe göre sıralarsak, sıralamadaki ikinci eleman birincinin yarısı büyüklükte olacaktır, üçüncü ise birincinin üçte biri oranında vb. Genel olarak k'ıncı sıradaki parça birincinin 1/k oranında bir büyüklükte olacaktır.
 
 ![](\img_the_new_marketplace.png)
 
-Populerligi degerin kabataslak bir ölcüsü olarak alirsak, bu durumda her bir tekil bilesenin degeri Zipf Kanununca bellidir. Ki bu da, bir milyon bilesenimiz varsa en populer 100 toplam degerin ücte birini sunmaktadir. Sonraki 10,000 diger ücte biri, ve kalan 989,900 de kalan ücte biri... N sayida bilesen toplaminin degeri log(n) ile orantilidir.
+Popülerliği değerin kabataslak bir ölçüsü olarak alırsak, bu durumda her bir tekil bileşenin değeri Zipf Kanununca bellidir. Ki bu da, bir milyon bileşenimiz varsa, en populer 100 toplam değerin üçte birini sunmaktadır. Sonraki 10,000 diger üçte biri, ve kalan 989,900 de kalan üçte biri... N sayıda bileşen toplamının değeri log(n) ile orantılıdır.
 
-Bu oylama ve ödeme dagiliminin etkisi iyi iceriklere büyük cömertlik sunarken kücük oyunculari da dolayli katkilari icin hala ödüllendirmektedir.
+Bu oylama ve ödeme dağılımının etkisi iyi içeriklere büyük cömertlik sunarken küçük oyuncuları da dolaylı katkıları için hala ödüllendirmektedir.
 
-Bunun ekonomik etkisi piyangoya benzer. Insanlar oylanma sanslarini oldugundan fazla gördüklerinden kazanmalari beklenen ödülden daha fazla is yaparlar ve bu sayede topluluga hizmetin icin yapilmis islerin sayisini azamiye cikartirlar. "Herkesin bir seyler kazaniyor olmasi" kumarhanelerin insanlari kumarda tutmak icin kullandigi ayni psikolojik etkidir. Bir baska ifadeyle, kücük ödüller daha büyüklerini de kazanmanin mümkün oldugu fikrini saglamlastirir.
+Bunun ekonomik etkisi piyangoya benzerdir. İnsanlar oylanma şanslarını olduğundan fazla gördüklerinden kazanmaları beklenen ödülden daha fazla iş yaparlar ve bu sayede topluluğa hizmetin için yapılmış işlerin sayını azamiye çıkartırlar. "Herkesin bir şeyler kazanıyor olması" kumarhanelerin insanları kumarda tutmak için kullandiğı aynı psikolojik etkidir. Bir başka ifadeyle, küçük ödüller daha büyüklerini de kazanmanın mümkün olduğu fikrini sağlamlaştırır.
 
 ### Ödemeler
 
-Bir gönderi ödeme aldiginda bu 50% SBD ve 50% SP bicimindedir. Steem Power kullaniciya artirilmis oylama ve islem gücü verirken, SBD ise kullaniciya istikrarli bir para birimi üzerinden dogrudan bir kazanc sunar. Daha önce uzun bir sekilde acikladigimiz üzere, SP kisa vadeli satislar yerine uzun vadeli elde tutmalari tesvik etmek icin tasarlanmistir. Bu daha fazla kullaniciyi platformun uzun vadeli basarisinda menfaat sahibi olmak konusunda cesaretlendirir.
+Bir gönderi ödeme aldığında bu 50% SBD ve 50% SP biçimindedir. Steem Power kullaniciya artirilmis oylama ve islem gücü verirken, SBD ise kullaniciya istikrarli bir para birimi üzerinden dogrudan bir kazanc sunar. Daha önce uzun bir sekilde acikladigimiz üzere, SP kisa vadeli satislar yerine uzun vadeli elde tutmalari tesvik etmek icin tasarlanmistir. Bu daha fazla kullaniciyi platformun uzun vadeli basarisinda menfaat sahibi olmak konusunda cesaretlendirir.
 
 Kullanicilar ödemelerini 100% SP seklinde alma secenegi ile birlikte gönderilerine yapilacak ödemeleri reddedetme hakkina da sahiptir. Kullanici bir gönderi icin ödeme almayi reddettiginde, kendisine ödenecek olan para diger kullanicilar arasinda dagitilmak üzere ödül havuzunda kalir.
 
