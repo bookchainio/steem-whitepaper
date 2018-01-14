@@ -78,7 +78,7 @@ Ang pagsisimula ng mga kumpanya ay nangangailangan ng pang-matagalang kapital na
 
 May mahalagang halaga sa pagkakaroon ng pangmatagalang pangako dahil nagbibigay-daan ito sa mga komunidad na gumawa ng mga pangmatagalang plano. Ang pangmatagalang pangako ng mga parokyano ay nagiging sanhi din sa kanila na bumoto para sa pangmatagalang paglago sa halip na panandaliang paglago lamang.
 
-In the cryptocurrency space, speculators jump from cryptocurrency to cryptocurrency based mostly on which one is expected to have short-term growth. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
+Sa espasyo ng cryptocurrency, ang mga spectator ay tumalon mula sa cryptocurrency na nagbase karamihan sa kung saan ang isa ay inaasahang magkaroon ng panandaliang paglago. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
 
 Users are able to commit their STEEM to a thirteen week vesting schedule, providing them with additional benefits within the platform. STEEM that has been committed to a thirteen week vesting schedule is called Steem Power (SP). SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
 
