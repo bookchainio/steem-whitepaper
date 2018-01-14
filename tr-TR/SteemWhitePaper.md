@@ -114,17 +114,17 @@ Topluluk üyeleri -üç buçuk günlük zaman aralığında- ortaya çıkan herh
 
 Piyasa katılımcılarının bilgiye blockchainin üc buçuk günlük hareketli medyan dönüşüm fiyatının yansıtabileceğinden daha hızlı ulaşımı vardır. Bu bilgi al-satçıların yararı namına topluluğun aleyhinde kullanılabilir. Eğer Steem'in değerinde ani bir yükseliş varsa, al-satçılar SBD'lerini eski, düşük dönüşüm fiyatı üzerinden çevirme talebi gönderip daha sonrasında edindikleri STEEM'lerini en ufak riskle yeni yüksek fiyat üzerinden satabilirler.
 
-Steem dönüsüm taleplerinin üc bucuk gün bekletilmesini sart kosmak yoluyla oyun alanini kademelendirir. Bu demektir ki, ne alim satimcilar ne blockchain dönüsümün gerceklestigi fiyat hakkinda bir bilgi avantajina sahiptir.
+Steem, dönüşüm taleplerinin üç buçuk gün bekletilmesini şart koşmak yoluyla, oyun alanını kademelendirir. Bu demektir ki, ne al-satçılar ne de blockchain dönüşümün gerçekleştiği fiyat hakkında bir bilgi avantajına sahiptir.
 
-### Dönüsüm Istismarmarini En Aza Indirmek
+### Dönüşüm İstismarlarını En Aza İndirmek
 
-Eger insanlar iki yönde de rahatlikca dönüstürme yapabilselerdi o zaman alim satimcilar, blockchainin dönüsüm oranlarindan, fiyati degistirmeden büyük hacimlerde ticaret yaparak avantaj elde edebilirlerdi. Fiyatta bir firlama gören alim satimcilar en yüksek fiyattan (en riskli oldugu zamanda) SBD'ye dönüsüm yapabilirler ve gelen düzeltmeden sonra tekrar (STEEM'e) dönüstürebilirler. Steem protokolü sadece SBD'den STEEM'e tek yönlü olarak dönüsüm yapmaya olanak taniyarak toplulugu bu tarz istismarlardan korur.
+Eğer insanlar iki yönde de rahatlıkla dönüştürme yapabilselerdi, o zaman al-satçılar, blockchainin dönüşüm oranlarından, fiyatı değiştirmeden büyük hacimlerde ticaret yaparak avantaj elde edebilirlerdi. Fiyatta bir fırlama gören al-satçılar en yüksek fiyattan (en riskli olduğu zamanda) SBD'ye dönüşüm yapabilirler ve gelen düzeltmeden sonra tekrar (STEEM'e) dönüştürebilirler. Steem protokolü sadece SBD'den STEEM'e tek yönlü olarak dönüşüm yapmaya olanak tanıyarak topluluğu bu tarz istismarlardan korur.
 
-Nasil ve ne zaman SBD üretilecegine ve kimlerin bunu edinecegine blockchain karar verir. Bu, SBD üretim oranini sabit tutar ve istismar yollarini ortadan kaldirir.
+Nasıl ve ne zaman SBD üretileceğine ve kimlerin bunu edineceğine blockchain karar verir. Bu, SBD üretim oranını sabit tutar ve istismar yollarını ortadan kaldırır.
 
-### Sürdürülebilir Borc-Mülkiyet Oranlari
+### Sürdürülebilir Borç-Özkaynak Oranları
 
-Tüm token arzinda, tokenin kendisi bir mülkiyet olarak degerlendirilir ise, bu durumda token tokena-dönüstürülebilir-dolar bir borclanma olarak görülebilir. Eger borcun mülkiyete orani cok yükseklere cikarsa tüm para birimi istikrarsiz hale gelebilir. Borc dönüsümleri token arzini carpici bir bicimde artirabilir ki bu da sonucunda piyasada satilmasiyla fiyati baskilar. Ardisik dönüsümler cok daha fazla sayida token basilmasini gerektirir. Kontrol edilmedigi durumlarda sistem, ardinda bir borc yiginina dayanan degersiz mülkiyetler birakarak cökebilir. Borcun mülkiyete orani arttikca yeni yatirimcilar masaya sermaye getirme konusunda daha az istekli olurlar.
+Tüm token arzında, tokenın kendisi bir özkaynak olarak değerlendirilir ise, bu durumda tokena-dönüştürülebilir-dolar, bir borçlanma olarak görülebilir. Eger özkaynağın mülkiyete oranı cok yükseklere çıkarsa tüm para birimi istikrarsız hale gelebilir. Borc dönüsümleri token arzini carpici bir bicimde artirabilir ki bu da sonucunda piyasada satilmasiyla fiyati baskilar. Ardisik dönüsümler cok daha fazla sayida token basilmasini gerektirir. Kontrol edilmedigi durumlarda sistem, ardinda bir borc yiginina dayanan degersiz mülkiyetler birakarak cökebilir. Borcun mülkiyete orani arttikca yeni yatirimcilar masaya sermaye getirme konusunda daha az istekli olurlar.
 
 STEEM'in degerindeki ani bir degisim borc-mülkiyet oranini carpici sekilde degistirebilir. Blockchain, borclanma oraninin %10'u gecmesi halinde, SBD dönüsümleri sayesinde elde edilen STEEM'in meblagini düsürerek borc-mülkiyet oranininin cok yükselmesinin önüne gecer. Eger SBD borclanma miktari STEEM'in piyasa degerinin %10'u gecerse, blockchain dönüsümler yoluyla elde edilen STEEM meblagini otomatik olarak STEEM'in piyasa degerinin maksimum %10'una düsürür. Bu da blockchainin asla %10'dan fazla borc-mülkiyet oranina sahip olmamasini garantiler.
 
