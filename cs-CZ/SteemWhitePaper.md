@@ -214,11 +214,11 @@ Cílem budování komunitní měny je dostat více "krabů do vědra“. Pokud p
 
 Podstatnou součástí minimalizace zneužití je omezená frekvence hlasování. Jednotlivý uživatel může číst a ocenit pouze určitý počet příspěvků denně. Pokus hlasovat častěji je příznakem automatizace a potencionálního zneužití. Pomocí omezování frekvence hlasování mají podílníci, kteří hlasují častěji menší hodnotu jednotlivého hlasu než ti, kdo hlasují méně častěji. Pokusy rozdělit podíly mezi více účtů též rozdělují vliv a proto neústí v zisk hlasovací síly, ani neobejdou omezení frekvence hlasování.
 
-Uživatelům je přiděleno určité množství hlasovací síly. Hlasovací síla je znásobena množstvím investovaných tokenů daného uživatele tak, aby byl určen podíl z fondu odměn, který má být přidělen za danou vykonanou práci. Každý udělený hlas využívá určité procento zbývající hlasovací síly. Uživatelé mohou hlasovat pro více příspěvků, ale každý hlas má nižší hodnotu a bude také trvat déle, než se znovu obnoví plná hlasovací síla. Voting power recharges at a fixed linear rate of 20% per day.
+Uživatelům je přiděleno určité množství hlasovací síly. Hlasovací síla je znásobena množstvím investovaných tokenů daného uživatele tak, aby byl určen podíl z fondu odměn, který má být přidělen za danou vykonanou práci. Každý udělený hlas využívá určité procento zbývající hlasovací síly. Uživatelé mohou hlasovat pro více příspěvků, ale každý hlas má nižší hodnotu a bude také trvat déle, než se znovu obnoví plná hlasovací síla. Hlasovací síla se dobíjí lineárně s pevně danou mírou 20 % denně.
 
 ### Distribuce výplat
 
-One of the primary goals of Steem’s reward system is to produce the best discussions on the internet. Each and every year 75% of the yearly inflation is distributed to users submitting, voting on, and discussing content. At the size of Bitcoin this could be several million dollars per day being given to the top contributors.
+Jedním z hlavních cílů systému odměn Steemu je vytvořit nejlepší diskusi na internetu. Úplně každý rok je 75 % roční inflace rozděleno mezi uživatele, kteří publikují obsah, hlasují a diskutují nad ním. At the size of Bitcoin this could be several million dollars per day being given to the top contributors.
 
 Skutečná distribuce bude záviset na způsobu hlasování uživatelů, ale domníváme se, že podstatná většina odměn bude rozdělena mezi nejpopulárnější obsah.
 
