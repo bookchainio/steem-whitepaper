@@ -222,11 +222,11 @@ Jedním z hlavních cílů systému odměn Steemu je vytvořit nejlepší diskus
 
 Skutečná distribuce bude záviset na způsobu hlasování uživatelů, ale domníváme se, že podstatná většina odměn bude rozdělena mezi nejpopulárnější obsah.
 
-Zipfův zákon[^7] je jedním z těch empirických pravidel, která pozoruhodně dobře popisují překvapivě široký rozsah fenoménů reálného světa. Říká, že pokud seřadíme nějaký velký soubor podle velikosti nebo oblíbenosti, druhý prvek v souboru bude okolo poloviny velikosti prvního, třetí bude okolo třetiny velikosti prvního atd. In general, the k th-ranked item will measure about 1/k of the first one.
+Zipfův zákon[^7] je jedním z těch empirických pravidel, která pozoruhodně dobře popisují překvapivě široký rozsah fenoménů reálného světa. Říká, že pokud seřadíme nějaký velký soubor podle velikosti nebo oblíbenosti, druhý prvek v souboru bude okolo poloviny velikosti prvního, třetí bude okolo třetiny velikosti prvního atd. Obecně řečeno bude mít prvek na k-té pozici zhruba velikost 1/k prvního prvku.
 
 ![](\img_the_new_marketplace.png)
 
-Taking popularity as a rough measure of value, then the value of each individual item is given by Zipf’s Law. To jest pokud máme milión položek, pak nejpopulárnějších 100 přispěje k celkové hodnotě 1/3, dalších 10 000 další třetinou a zbylých 989 900 poslední třetinou. Hodnota kolekce n položek je úměrná log(n).
+Pokud vezmeme popularitu jako hrubé měřítko hodnoty, pak hodnota každé jednotlivé položky je daná Zipfovým zákonem. To jest pokud máme milión položek, pak nejpopulárnějších 100 přispěje k celkové hodnotě 1/3, dalších 10 000 další třetinou a zbylých 989 900 poslední třetinou. Hodnota kolekce n položek je úměrná log(n).
 
 Dopad tohoto hlasování a distribuce výplat je nabídka velkých odměn za dobrý obsah, zatímco jsou stále odměňování menší hráči za jejich dlouhodobé přispívání.
 
