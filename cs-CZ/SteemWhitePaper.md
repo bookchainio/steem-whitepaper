@@ -148,7 +148,7 @@ Pokud by poskytovatelé cen STEEM usilovali o to mít nezávislou monetární po
 
 Primární starostí poskytovatelů cen v rámci Steemu je udržovat stabilní konverzní poměr mezi SBD a americkým dolarem (USD) na úrovni jedna ku jedné. Kdykoli bude SBD souvisle obchodován nad úrovní 1,00 USD, výplaty úroků musí být zastaveny. Na trhu kde při 0% úroku je stále požadována prémie (za prodej SBD) můžeme bezpečně tvrdit, že trh je ochoten poskytnou více úvěru, než kolik je na sebe komunita ochotna vzít. Pokud se tak stane, SBD bude ohodnocen na více než 1 $ a komunita bude mít jen malé možnosti s tím něco udělat bez změny záporných úrokových měr.
 
-If the debt-to-ownership ratio is low and SBD is trading for less than $1.00, then the interest rate should be increased. This will encourage more people to hold their SBD and support the price.
+Je-li poměr dluhu k vlastnictví nízký a SBD se obchoduje za méně než 1 $, úrokovou míru je třeba zvýšit. Po podnítí více lidí k držení jejich SBD a podpoří cenu SBD.
 
 If SBD trades for less than $1.00 USD and the debt-to-ownership ratio is high, then the feeds should be adjusted upward give more STEEM per SBD. This will increase demand for SBD while also reducing the debt-to-ownership ratio and returning SBD to parity with USD.
 
