@@ -206,15 +206,15 @@ Muž kráčel po pláži a viděl jiného muže rybařit v příboji a ten za se
 
 A tak je to i lidmi. Pokud se jeden snaží dělat něco odlišného, mít lepší známky, zlepšit se, uniknout z jejich společnosti, nebo mít velké sny, ostatní lidé se ho pokusí strhnout zpět, aby sdílel jejich osud.
 
-Eliminace "zneužívání" není možná a neměla by být ani cílem. Dokonce i ti, kteří se pokoušejí o "zneužívání" systému, stále pracují. Jakákoliv kompenzace, kterou obdrží za jejich úspěšné pokusy zneužití nebo nekalé konkurence je přinejmenším tak cenná pro účely distribuce měny, jako systém použitý tradiční Bitcoinovou těžbou nebo těžbou přes těžařská sdružení. All that is necessary is to ensure that abuse isn’t so rampant that it undermines the incentive to do real work in support of the community and its currency.
+Eliminace "zneužívání" není možná a neměla by být ani cílem. Dokonce i ti, kteří se pokoušejí o "zneužívání" systému, stále pracují. Jakákoliv kompenzace, kterou obdrží za jejich úspěšné pokusy zneužití nebo nekalé konkurence je přinejmenším tak cenná pro účely distribuce měny, jako systém použitý tradiční Bitcoinovou těžbou nebo těžbou přes těžařská sdružení. To opravdu důležité je zajistit, aby zneužívání nebylo natolik rozbujelé, aby podkopalo motivaci vykonávat opravdovou práci na podporu komunity a její měny.
 
-The goal of building a community currency is to get more “crabs in the bucket”. Pokud použijeme extrémní opatření k eliminaci všech zneužití, je to jako používat víko na vědru k zabránění útěku několika málo krabů za cenu toho, že ztížíme přidávání nových krabů. It is sufficient to make the walls slippery and give the other crabs sufficient power to prevent others from escaping.
+Cílem budování komunitní měny je dostat více "krabů do vědra“. Pokud použijeme extrémní opatření k eliminaci všech zneužití, je to jako používat víko na vědru k zabránění útěku několika málo krabů za cenu toho, že ztížíme přidávání nových krabů. Je dostatečné udělat stěny kluzké a nechat ostatním krabům dostatek síly, aby ostatním zabránili utéct.
 
 ### Omezená frekvence hlasování
 
 Podstatnou součástí minimalizace zneužití je omezená frekvence hlasování. Jednotlivý uživatel může číst a ocenit pouze určitý počet příspěvků denně. Pokus hlasovat častěji je příznakem automatizace a potencionálního zneužití. Pomocí omezování frekvence hlasování mají podílníci, kteří hlasují častěji menší hodnotu jednotlivého hlasu než ti, kdo hlasují méně častěji. Pokusy rozdělit podíly mezi více účtů též rozdělují vliv a proto neústí v zisk hlasovací síly, ani neobejdou omezení frekvence hlasování.
 
-Users are allotted a fixed amount of voting power. Voting power is multiplied by a user’s vesting tokens to determine how much share in the reward pool should be allocated to a given work item. Every vote that is cast uses a percentage of remaining voting power. Users can vote for more posts, but each vote will be worth less, and it will take longer to reach full voting power again. Voting power recharges at a fixed linear rate of 20% per day.
+Uživatelům je přiděleno určité množství hlasovací síly. Hlasovací síla je znásobena množstvím investovaných tokenů daného uživatele tak, aby byl určen podíl z fondu odměn, který má být přidělen za danou vykonanou práci. Každý udělený hlas využívá určité procento zbývající hlasovací síly. Uživatelé mohou hlasovat pro více příspěvků, ale každý hlas má nižší hodnotu a bude také trvat déle, než se znovu obnoví plná hlasovací síla. Voting power recharges at a fixed linear rate of 20% per day.
 
 ### Distribuce výplat
 
