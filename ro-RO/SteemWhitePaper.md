@@ -34,7 +34,7 @@ Comunitatea Steem oferă membrilor săi, următoarele servicii:
 4. Plăți gratuite.
 5. Locuri de muncă care oferă serviciile de mai sus, celorlalți membri.
 
-Scopul Steem de a avea stimulente economice are potențialul de a produce toată lumea implicată, rezulatea mai echitabile și inclusive decât celelalte platforme sociale și platforme din lumea criptomonedelor. Această lucrare va explora stimulentele economice existente și va demonstra felul în care stimulentele Steem pot avea rezultate mai bune pentru majoritatea participanților.
+Scopul Steem de a avea stimulente economice are potențialul de a produce pentru toată lumea implicată, rezulatea mai echitabile și inclusive decât celelalte platforme sociale și platforme din lumea criptomonedelor. Această lucrare va explora stimulentele economice existente și va demonstra felul în care stimulentele Steem pot avea rezultate mai bune pentru majoritatea participanților.
 
 ## Recunoașterea Contribuției
 
@@ -146,7 +146,7 @@ Astute readers will recognize that an interest bearing asset of limited supply m
 
 Dacă producătorii de Flux de Steem țintesc să aibe o politică monetară independentă, permițându-le să creeze și să distrugă Dolari Steem, în timp ce au control simultan asupra ratei dobânzii. întâmpinând apoi probleme. Trinitatea Imposibilă spune cu Dolarii Steem fie trebuie să își restricționeze mișcarea capitalului, să aibe o rată de schimb instabilă cu dolarul, sau să aibe control limitat asupra ratei dobânzii.
 
-The primary concern of Steem feed producers is to maintain a stable one-to-one conversion between SBD and the U.S. Dollar (USD). Any time SBD is consistently trading above $1.00 USD interest payments must be stopped. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SBD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
+Principala preocupare a producătorilor de flux Steem eate să mențină o conversie unu-la-unu între SBD și Dolarul American (USD). În orice moment în care SBD este constant tranzacționat peste $1.00 USD, dobânziile trebuie oprite. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SBD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
 
 If the debt-to-ownership ratio is low and SBD is trading for less than $1.00, then the interest rate should be increased. This will encourage more people to hold their SBD and support the price.
 
