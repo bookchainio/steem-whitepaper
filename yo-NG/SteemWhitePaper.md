@@ -38,7 +38,7 @@ Iseduro ti Steemu ni idileyin ti awon imudaniloju oro-aje ni o ni agbara lati se
 
 ## Mi mo ilowosi
 
-A se ipile Steemu ni lati ile soke lati koju awon idena pataki lati gba ati isowo owo-aje ti isowo orisun awujo. Iwe-aooka wa ni pe awon ilana kanna ti a lo lati dagba awon irufe ipolongo awujo le see lo lati bootusrapu aseyori ti ilosiwaju kryptokorensi. Awon imudaniloju aje ti a se iranlowo nipase kryptokorensi le se iseduro isoro fun idagba ti irufe ipade awujo tuntun kan. It is the synergy between cryptocurrency and social media that we believe may give Steem a powerful advantage in the market.
+A se ipile Steemu ni lati ile soke lati koju awon idena pataki lati gba ati isowo owo-aje ti isowo orisun awujo. Iwe-aooka wa ni pe awon ilana kanna ti a lo lati dagba awon irufe ipolongo awujo le see lo lati bootusrapu aseyori ti ilosiwaju kryptokorensi. Awon imudaniloju aje ti a se iranlowo nipase kryptokorensi le se iseduro isoro fun idagba ti irufe ipade awujo tuntun kan. O je imudarapo laarin iwo-oro ati awon awujo awon oun igberohinjade ti a gbagbo le fun Steemu ni anfani nla ni oja.
 
 The challenge faced by Steem is deriving an algorithm for scoring individual contributions that most community members consider to be a fair assessment of the subjective value of each contribution. In a perfect world, community members would cooperate to rate each other's contribution and derive a fair compensation. In the real world, algorithms must be designed in such a manner that they are resistant to intentional manipulation for profit. Any widespread abuse of the scoring system could cause community members to lose faith in the perceived fairness of the economic system.
 
