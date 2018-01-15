@@ -28,11 +28,11 @@ Ilana keta je wipe agbegbe n pese awon oja lati iranse fun awon egbe re. Ope yii
 
 Ipinle Steemu pese awon ise wonyi si awon omo egbe re:
 
-1. 1. Orisun ti awon iroyin ti a ti dani ati asoye.
-2. A means to get high quality answers to personalized questions.
-3. A stable cryptocurrency pegged to the U.S. dollar.
-4. Free payments.
-5. Jobs providing above services to other members.
+1. Orisun ti awon iroyin ti a ti dani ati asoye.
+2. Ona lati gba awon idahun to gaju si ibeere ti ara eni.
+3. Idurosinsin ijerisi ti o wa si awon dola Amerika.
+4. Awon sisanwo ofe.
+5. Ipese ise awon ise ti o loke si awon omo egbe miiran.
 
 Steem’s purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem’s incentives may result in better outcomes for most participants.
 
