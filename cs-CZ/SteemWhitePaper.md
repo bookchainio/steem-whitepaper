@@ -467,15 +467,15 @@ Internet by ztratil velkou většinu své hodnoty, kdyby byly odstraněny všech
 
 Odkaz může mít mnoho forem a může se časem přizpůsobit. Kdykoli uživatel hlasuje pro obsah na sociální síti, přidává spojení mezi sebou a obsahem. To naopak spojuje konzumenta s producentem prostřednictvím obsahu. Čím více spojení síť má, tím se informace stávají cennějšími. Je to relativní a úmyslná propojenost informací, které jim dává hodnotu.
 
-Sociální síť může maximalizovat hodnotu získanou z obsahu maximalizací množství a kvality spojení. Moderovat obsah je nákladné a zabírá čas, zatímco je skoro nemožné provést počítači při nepřítomnosti odkazů. Steem rewards users who are among the first to find and identify new content.
+Sociální síť může maximalizovat hodnotu získanou z obsahu maximalizací množství a kvality spojení. Moderovat obsah je nákladné a zabírá čas, zatímco je skoro nemožné provést počítači při nepřítomnosti odkazů. Steem odměňuje uživatele, kteří mezi prvními najdou a rozpoznají nový obsah.
 
 Tím, že podněcuje moderátorství, je síť Steem schopná použít automatizovaný algoritmus k získání nejcennější informace z rozsáhlého množství obsahu.
 
 ## Řešení problému kryptoměn s náborem uživatelů
 
-Není úplně snadné proniknout do problematiky kryptoměn [^21]. Někdo, kdo objeví Bitcoin a chce ho rychle vyzkoušet zjistí, že se musí zaregistrovat na nějaké burze a účet profinancovat kreditní kartou nebo převodem. What would Facebook’s adoption rate have been like if you had to fork over money and a two forms of ID?
+Není úplně snadné proniknout do problematiky kryptoměn [^21]. Někdo, kdo objeví Bitcoin a chce ho rychle vyzkoušet zjistí, že se musí zaregistrovat na nějaké burze a účet profinancovat kreditní kartou nebo převodem. Jaká by asi byla míra přijetí Facebooku, kdybyste nejdříve museli dát peníze a dva průkazy totožnosti?
 
-Steem řeší tento problém tím, že každému dá způsob jak být zaplacen za jednoduché, ale cenné úkony. To pomůže k široké distribuci tokenů STEEM. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless.)
+Steem řeší tento problém tím, že každému dá způsob jak být zaplacen za jednoduché, ale cenné úkony. To pomůže k široké distribuci tokenů STEEM. To je prospěšné, protože kryptoměny mají síťový efekt (tj. více uživatelů je činí užitečnějšími; představte si jako extrémní příklad situaci, kdy by si Satoshi nechal 100 % Bitcoinů pro sebe. Bitcoin by pak byl bezcenný.)
 
 ## Řešení problémů kryptoměn s použitím
 
@@ -483,7 +483,7 @@ Měna, kterou je těžko použít nebo ji není možno prodat, má malou cenu. N
 
 Obchodníci nabízejí cestu jak rychle proměnit kryptoměnu na skutečné zboží a služby. Obchodníci potřebují měnu vázanou na jejich zůčtovací jednotku, obvykle dolar. Přijímat volatilní měnu přináší podstatné účetní vícenáklady.
 
-Obchodník přijme jakoukoliv měnu, pokud to zvýší jeho prodej. Having a large user base with a stable currency such as SBD lowers the barrier to entry for merchants. Přítomnost obchodníků zlepšuje systém tvorbou možností pro uživatele, jak opustit systém, aniž by se museli zabývat použitím burzy.
+Obchodník přijme jakoukoliv měnu, pokud to zvýší jeho prodej. Velká uživatelská základna se stabilní měnou jako SBD snižuje vstupní náklady obchodníků. Přítomnost obchodníků zlepšuje systém tvorbou možností pro uživatele, jak opustit systém, aniž by se museli zabývat použitím burzy.
 
 Another way that people can liquidate the small amounts of cryptocurrency they receive from participating on the Steem platform is through *tipping* others. Je to stejné, jako nechat drobné číšníkovi. Když to udělá více lidí, dohromady to bude smysluplná suma. Vy i číšník z toho budete mít užitek.
 
