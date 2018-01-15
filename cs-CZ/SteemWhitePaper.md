@@ -398,7 +398,7 @@ Udržovat vše v paměti je stále více životaschopné vzhledem k nedávnému 
 
 ## Výchozí alokace a zásoba
 
-The Steem network started with a currency supply of 0 and allocated STEEM via proof of work at a rate of approximately 40 STEEM per minute to miners, with an additional 40 STEEM per minute being created to seed the content and curation reward pools (for a total of 80 STEEM per minute). Then the network started rewarding users who converted to SP. At this point, STEEM grew at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
+Síť Steem začala s počáteční zásobou měny 0 a alokovala STEEM pomocí důkazu prací s frekvencí přibližně 40 STEEM za minutu těžařům a dalších 40 STEEM za minutu do fondu odměn za tvorbu a správu obsahu (dohromady 80 STEEM za minutu). Poté začala síť odměňovat uživatele, kteří konvertovali STEEM na SP. Od tohoto bodu STEEM přibýval rychlostí přibližně 800 STEEM za minutu v důsledku kombinovaných účinků rozličných odměn za přínos:
 
 Odměny za přínos:
 
@@ -413,7 +413,7 @@ Odměny za přínos:
 
 - Odměna za Steem Power: Za každý Steem vytvořený pro výše uvedené odměny je rozděleno 9 Steem mezi držitele Steem Power.
 
-### SBD operations:
+### SBD operace:
 
 - SBD rewards: A percentage of SBD value is created at an APR set by the witnesses and paid to SBD holders as SBD
 
