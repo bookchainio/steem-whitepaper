@@ -326,7 +326,7 @@ Za předpokladu, že uživatel s 25 USD hodnoty BTC udělá jednu transakci týd
 
 Systém Steemu, založený na účtech s veřejně známými zůstatky, zjednodušuje zavedení algoritmu omezení objemu dat. Jakýkoliv účet se zůstatkem pod minimem požadovaným pro jednu transakci týdně by nebyl schopen provést transakci. To předpokládá, že všechny nové účty by měly být profinancovány alespoň minimálním zůstatkem. To zároveň znamená, že uživatelé kteří si přejí provádět malé transakce tak mohou činit, pokud mají větší zůstatek a účet používají opakovaně.
 
-U účtů s malým zůstatkem založených v době nízkého používání je možné, že se stanou nedostupnými, pokud stoupne využití sítě. The funds could be recovered at any time by temporarily delegating a larger balance to the account.
+U účtů s malým zůstatkem založených v době nízkého používání je možné, že se stanou nedostupnými, pokud stoupne využití sítě. Funkce mohou být kdykoliv obnoveny dočasným delegováním většího zůstatku na daný účet.
 
 Aby se udržela obstojná uživatelská zkušenost s minimem zamrzlých účtů, tak všechny nové účty musí být založeny se zůstatkem 10x větším, než je potřeba pro jednu transakci týdně. Takto, i když poptávka stoupne 10x, účet zůstane funkční.
 
@@ -334,17 +334,17 @@ Jakýkoliv počáteční zůstatek na účtu by měl pocházet od uživatele zak
 
 ### Opodstatněnost minimálních zůstatků
 
-The concept of forcing users to maintain a minimum balance flows naturally from the value of a user[^10]. Kdokoliv kdo podniká zná, že každý jednotlivý uživatel má podstatnou cenu. Podniky utratí něco mezi 30 až 200 USD za získání uživatele. Někdy platí uživatelům přímo, jindy platí za inzerci a jindy jsou zase nakupovány celé podniky jen pro svoji uživatelskou základnu. Po té co společnost získá uživatele, tak mu často dává řadu *služeb zadarmo*, jen aby si ho udržela dostatečně dlouho, než na něm vydělá jiným způsobem.
+Přístup nutící uživatele udržovat minimální zůstatek vyplývá přirozeně z hodnoty uživatele[^10]. Kdokoliv kdo podniká zná, že každý jednotlivý uživatel má podstatnou cenu. Podniky utratí něco mezi 30 až 200 USD za získání uživatele. Někdy platí uživatelům přímo, jindy platí za inzerci a jindy jsou zase nakupovány celé podniky jen pro svoji uživatelskou základnu. Po té co společnost získá uživatele, tak mu často dává řadu *služeb zadarmo*, jen aby si ho udržela dostatečně dlouho, než na něm vydělá jiným způsobem.
 
-Ripple uses a minimum balance[^11] that scales with account resource use and requires that new accounts get funded with at least this minimum balance. V současnosti je tento minimální zůstatek okolo 0,15 USD což je více než náš odhad 0,10 USD, který by umožňoval někomu provést alespoň jednu transakci za týden zdarma.
+Ripple využívá minimální zůstatek [^11], který roste s využíváním účtu a vyžaduje, aby byly nové účty financovány alespoň tímto minimálním zůstatkem. V současnosti je tento minimální zůstatek okolo 0,15 USD což je více než náš odhad 0,10 USD, který by umožňoval někomu provést alespoň jednu transakci za týden zdarma.
 
-Blockchain může vynutit minimální hodnotu na uživatele jednoduchým procesem požadujícím minimální zůstatek. Any business that wishes to bring a new customer to the blockchain can pre-fund that user’s account with the minimum balance that would allow them to transact. Požadavek na relativně vysoký poplatek 1 USD k založení nového uživatele bude přirozeně nutit kohokoliv nabízejícího účty zdarma kontrolovat kvalitu a jedinečnost každého účtu před jeho registrací na blockchainu.
+Blockchain může vynutit minimální hodnotu na uživatele jednoduchým procesem požadujícím minimální zůstatek. Každý podnik, který si přeje přivést nového uživatele na blockchain, může předfinancovat uživatelský účet dotyčného minimálním zůstatkem, který mu umožní provádět transakce. Požadavek na relativně vysoký poplatek 1 USD k založení nového uživatele bude přirozeně nutit kohokoliv nabízejícího účty zdarma kontrolovat kvalitu a jedinečnost každého účtu před jeho registrací na blockchainu.
 
 Vyžadování minimálního zůstatku je ve skutečnosti to samé, jako nutit uživatele platit poplatky z úroků, které mohli vydělat na jejich zůstatku. Minimální zůstatek je jednoduše zůstatek potřebný k získání dostatečného úroku pro platbu poplatku v relativně krátké době.
 
-Naštěstí může být požadovaný zůstatek tak nízký jako 1 dolar a to je něco, co mohou uživatelé pochopit a ocenit. The opportunity cost of lost interest doesn’t incur the cognitive cost of a micro-fee and is far more acceptable to users.
+Naštěstí může být požadovaný zůstatek tak nízký jako 1 dolar a to je něco, co mohou uživatelé pochopit a ocenit. Náklady obětované příležitosti za ztrátu zájmu nezpůsobují kognitivní náklady mikropoplatku a jsou pro uživatele mnohem přijatelnější.
 
-Steem použitý k přeplacení účtu je v novém účtu převeden na Steem Power. A portion of the SP used to fund a new account may be delegated from the creator of the account. When a user is delegated SP, they may use the SP for voting and bandwidth purposes as if it were their own, but the ownership of the SP remains with the user who delegated it. A user may remove the delegation at any time. After a cool-down period, the SP is returned to their account.
+Steem použitý k přeplacení účtu je v novém účtu převeden na Steem Power. Část SP použitá k financování nového účtu může být delegována tvůrcem tohoto účtu. When a user is delegated SP, they may use the SP for voting and bandwidth purposes as if it were their own, but the ownership of the SP remains with the user who delegated it. A user may remove the delegation at any time. After a cool-down period, the SP is returned to their account.
 
 ### Účinnost ve srovnání s poplatky
 
