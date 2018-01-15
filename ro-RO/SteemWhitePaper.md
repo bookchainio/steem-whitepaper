@@ -106,11 +106,11 @@ Chiar dacă toți producători de flux de preț sunt sinceri, există posiblitat
 
 Factorii Steem luptă împotriva fluctuațiilor de durată scăzută, prin folosirea prețului mediu pe o perioadă de trei zile jumătate. Fluxul mediiu publicat este eșantionat o dată pe oră.
 
-As long as the price feed corruption lasts for less than half the moving median time window it will have minimal impact on the conversion price. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
+Atât timp cât corupția fluxului prețului durează mai puțin decât jumătatea din fereastra temporală mediană în mișcare, o să aibe un impact minim în prețul de conversie. În cazul în care fluxul devine corupt, participanții rețelei vor avea oportunitatea să voteze afară producătorii de flux corupt, înainte ca acesta să aibe un impact asupra prețului de conversie actual. Poate mai important, aceasta oferă oportunitatea producătoriilor de flux, să detecteze și să corecteze problemele înainte ca fluxul lor să influențeze prețul.
 
-With a three and a half day window, community members have approximately one and a half days to respond to any issues that come up.
+Cu o fereastră de trei zile jumătate, membrii comunității au aproximativ o zi și jumătate pentru a răspunde la orice problemă apărută.
 
-### Mitigating Timing Attacks
+### Atenuarea atacurilor de temporizare
 
 Market participants have access to information faster than the blockchain’s three and a half day moving median conversion price can react. This information could be used to benefit of traders at the expense of the community. If there is a sudden increase in the value of STEEM traders could request conversion of their SBD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
 
