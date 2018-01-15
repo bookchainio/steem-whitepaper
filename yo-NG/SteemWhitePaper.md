@@ -38,7 +38,7 @@ Iseduro ti Steemu ni idileyin ti awon imudaniloju oro-aje ni o ni agbara lati se
 
 ## Mi mo ilowosi
 
-Steem is designed from the ground up to address the major barriers to adoption and monetization of a social media based economy. Our thesis is that the same techniques used to grow major social media platforms can be used to bootstrap a successful cryptocurrency. Economic incentives enabled by cryptocurrency can dramatically facilitate the growth of a new social media platform. It is the synergy between cryptocurrency and social media that we believe may give Steem a powerful advantage in the market.
+A se ipile Steemu ni lati ile soke lati koju awon idena pataki lati gba ati isowo owo-aje ti isowo orisun awujo. Iwe-aooka wa ni pe awon ilana kanna ti a lo lati dagba awon irufe ipolongo awujo le see lo lati bootusrapu aseyori ti ilosiwaju kryptokorensi. Awon imudaniloju aje ti a se iranlowo nipase kryptokorensi le se iseduro isoro fun idagba ti irufe ipade awujo tuntun kan. It is the synergy between cryptocurrency and social media that we believe may give Steem a powerful advantage in the market.
 
 The challenge faced by Steem is deriving an algorithm for scoring individual contributions that most community members consider to be a fair assessment of the subjective value of each contribution. In a perfect world, community members would cooperate to rate each other's contribution and derive a fair compensation. In the real world, algorithms must be designed in such a manner that they are resistant to intentional manipulation for profit. Any widespread abuse of the scoring system could cause community members to lose faith in the perceived fairness of the economic system.
 
