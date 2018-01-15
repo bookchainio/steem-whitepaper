@@ -10,7 +10,7 @@ Olugbero fun awon akosile onitumo.
 
 # Akopo
 
-Steemu je aaye ipamo blockuchain ti o se atileyin ile-ise agbegbe ati ajosepo awon ere pelu awon nomba kyrptokorensi. Steemu sepo awon imoran lati awon alagbegbe awujo pelu awon eko ti a ko lati kryptokorensi ati awon agbegbe won. An important key to inspiring participation in any community, currency or free market economy is a fair accounting system that consistently reflects each person's contribution. Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
+Steemu je aaye ipamo blockuchain ti o se atileyin ile-ise agbegbe ati ajosepo awon ere pelu awon nomba kyrptokorensi. Steemu sepo awon imoran lati awon alagbegbe awujo pelu awon eko ti a ko lati kryptokorensi ati awon agbegbe won. Botini pataki kan lati se ikopa ni ilowosi ni eyikeyi agbegbe, owo tabi owo-aje ti ko niyeye je eto iseduro ti o je deede ti o je afihan ipese olukuluku. Steemu je akoko kryptokorensi ti o gbiyanju lati ni pipe ati atinuriwa san awon nomba ti ko toju ti awon eni kookan ti o se awon abuda ero si awon oniwe-awujo.
 
 # Table of Contents
 
