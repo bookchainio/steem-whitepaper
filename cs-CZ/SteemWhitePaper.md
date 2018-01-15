@@ -302,17 +302,17 @@ V decentralizovaném systému není přímá cesta, jak zakázat uživatele, ani
 
 Podívejme se na blockchain jako na poskytovatele připojení internetu, který vlastní všechny kabely ve městě a má určitou maximální celkový přenosový objem dat, který může poskytnout v každém okamžiku. Lidé žijící v městě si mohou koupit akcie této firmy a na oplátku mohou užívat část dostupného objemu dat.
 
-The ISP has two choices, run a “full reserve” or “fractional reserve” system. Podle systému plné rezervy každý uživatel může používat pouze tu část maximální šířky pásma, které odpovídá jeho akciovému podílu. Because not everyone uses the Internet at the same time, the town’s network would be significantly underutilized.
+Poskytovatel má dvě možnosti. Provozovat systém "plné rezervy" nebo systém "částečné rezervy". Podle systému plné rezervy každý uživatel může používat pouze tu část maximálního objemu dat, která odpovídá jeho akciovému podílu. Protože ne každý využívá internet ve stejném čase, městská síť bude značně nevytížená.
 
-Podle systému částečných rezerv může každý individuální uživatel využít větší šířku pásma, než na jakou má právo, kdykoliv do té doby, než každý užívá internet v tu samou dobu. Problém s provozováním systému částečných rezerv je, že dojde k zahlcení, kdykoliv chce příliš mnoho lidí použít internet ve stejnou dobu. Poskytovatel potřebuje způsob, jak upřednostňovat přístup k šířce pásma během období zahlcení. V nejextrémnějším případě plně zahlcená síť se musí převést na systém plných rezerv. Výzva je stanovit správný poměr částečných rezerv.
+Podle systému částečných rezerv může každý individuální uživatel využít objem dat, než na jaký má právo, kdykoliv do té doby, než každý užívá internet ve stejném čase. Problém s provozováním systému částečných rezerv je, že dojde k zahlcení, kdykoliv chce příliš mnoho lidí použít internet ve stejnou dobu. Poskytovatel potřebuje způsob, jak upřednostňovat přístup k datovému limitu během období zahlcení. V nejextrémnějším případě plně zahlcená síť se musí převést na systém plných rezerv. Výzva je stanovit správný poměr částečných rezerv.
 
-## Šíře pásma místo mikroplatebních kanálů
+## Datový limit místo mikroplatebních kanálů
 
-Řešením problémů s mikroplatbami je implementace *dynamických částečných rezerv*. Podle tohoto modelu blockchain automaticky upraví poměr rezervy sítě během doby zahlcení. Blockchain nastaví cílové využití, které ponechá dostatek prostoru pro prudký krátkodobý nárůst požadavků. Kdykoliv je nárůst trvalý, blockchain zredukuje maximální šířku pásma na akcii. Když špička pomine a je k dispozici volná kapacita, blockchain může pomalu zvýšit šířku pásma na akcii.
+Řešením problémů s mikroplatbami je implementace *dynamických částečných rezerv*. Podle tohoto modelu blockchain automaticky upraví poměr rezervy sítě během doby zahlcení. Blockchain nastaví cílové využití, které ponechá dostatek prostoru pro prudký krátkodobý nárůst požadavků. Kdykoliv je nárůst trvalý, blockchain zredukuje maximální datový limit na akcii. Když špička pomine a je k dispozici volná kapacita, blockchain může pomalu zvýšit datový limit na akcii.
 
-Šíře pásma používaná jednotlivým uživatelem by měla být měřena po vhodně dlouhou dobu, aby umožnila tomuto uživateli posunout použití v čase. Uživatelé mají tendenci se přihlásit, dělat mnoho věcí najednou a pak se odhlásit. To znamená, že jejich šíře pásma po krátkou dobu se jeví mnohem vyšší, než když je posuzována za delší období. Pokud je časové okno roztaženo příliš daleko, tak se poměr rezervy neupraví dostatečně rychle, aby odpovídal na krátkodobé špičky. Pokud je časové okno příliš krátké, tak sdružené využití bude mít příliš velký dopad na normální uživatele.
+Datový limit používaný jednotlivým uživatelem by měl být měřen po vhodně dlouhou dobu, aby umožnia tomuto uživateli posunout použití v čase. Uživatelé mají tendenci se přihlásit, dělat mnoho věcí najednou a pak se odhlásit. To znamená, že jejich datový přenos se v krátkém období jeví mnohem vyšší, než když je posuzován za delší období. Pokud je časové okno roztaženo příliš daleko, tak se poměr rezervy neupraví dostatečně rychle, aby odpovídal na krátkodobé špičky. Pokud je časové okno příliš krátké, tak sdružené využití bude mít příliš velký dopad na normální uživatele.
 
-Dle našeho předpokladu by mělo být dostačující měřit průměrné týdenní využití šířky pásma uživateli. Pokaždé, když uživatel podepíše transakci, je tato transakce zahrnuta do jeho individuálního klouzavého průměru. Any time a user’s moving average exceeds the current network limit their transaction is delayed until their average falls below the limit.
+Dle našeho předpokladu by mělo být dostačující měřit průměrné týdenní využití datového přenosu uživatelů. Pokaždé, když uživatel podepíše transakci, je tato transakce zahrnuta do jeho individuálního klouzavého průměru. Kdykoli uživatelův klouzavý průměr přesáhne současný limit sítě, je jeho transakce odložena, dokud jeho průměr neklesne pod limit.
 
 ### Dopad kapacity
 
@@ -324,7 +324,7 @@ Za předpokladu, že uživatel s 25 USD hodnoty BTC udělá jednu transakci týd
 
 ### Vytvoření účtu
 
-Steem’s account-based system with publicly known balances simplifies the implementation of the bandwidth-based rate limiting algorithm. Jakýkoliv účet se zůstatkem pod minimem požadovaným pro jednu transakci týdně by nebyl schopen provést transakci. To předpokládá, že všechny nové účty by měly být profinancovány alespoň minimálním zůstatkem. To zároveň znamená, že uživatelé kteří si přejí provádět malé transakce tak mohou činit, pokud mají větší zůstatek a účet používají opakovaně.
+Systém Steemu, založený na účtech s veřejně známými zůstatky, zjednodušuje zavedení algoritmu omezení objemu dat. Jakýkoliv účet se zůstatkem pod minimem požadovaným pro jednu transakci týdně by nebyl schopen provést transakci. To předpokládá, že všechny nové účty by měly být profinancovány alespoň minimálním zůstatkem. To zároveň znamená, že uživatelé kteří si přejí provádět malé transakce tak mohou činit, pokud mají větší zůstatek a účet používají opakovaně.
 
 U účtů s malým zůstatkem založených v době nízkého používání je možné, že se stanou nedostupnými, pokud stoupne využití sítě. The funds could be recovered at any time by temporarily delegating a larger balance to the account.
 
