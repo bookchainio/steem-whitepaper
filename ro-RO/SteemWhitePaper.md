@@ -102,7 +102,7 @@ Titularii SP aleg indivizi numiți martori, pentru publicarea fluxurilor prețul
 
 Prețul folosit pentru conversii este un derivat al mediei fluxurilor prețurilor. În acest fel, orice minoritate al unui flux individual o să aibe un impact minim asupra mediei, având totuși impact asupra reputației celui în cauză.
 
-Chiar dacă toți producători de flux de preț sunt sinceri, există posiblitatea ca majoritatea acestora să fie afectați de evenimente care nu stau sub controlul lor. The Steem network is designed to tolerate short-term corruption of the median price feed while the community actively works to correct the issue. One example of an issue that may take some time to correct is short-term market manipulation. Market manipulation is difficult and expensive to maintain for long periods of time. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
+Chiar dacă toți producători de flux de preț sunt sinceri, există posiblitatea ca majoritatea acestora să fie afectați de evenimente care nu stau sub controlul lor. Rețeaua Steem este proiectată să tolereze corupția pe termen scurt a fluxului median al prețului, în timp ce comunitatea lucrează activ pentru a corecta problema. Un exemplu de problemă care ar putea fi rezolvată într-o anumită perioadă de timp, este manipularea pe termen scurt a pieței. Manipularea pieței este dificilă și costisitoare pentru a fi menținută pe perioade lungi de timp. Un al exemplu ar fi eșecul unui schimb monetar centralizat sau a corupției datelor publicate de către schimbul monetar.
 
 Steem factors out short-term price fluctuations by using the median price over a period of three and a half days. The median published feed is sampled every hour on the hour.
 
