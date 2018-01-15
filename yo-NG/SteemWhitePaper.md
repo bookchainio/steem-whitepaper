@@ -34,7 +34,7 @@ Ipinle Steemu pese awon ise wonyi si awon omo egbe re:
 4. Awon sisanwo ofe.
 5. Ipese ise awon ise ti o loke si awon omo egbe miiran.
 
-Iseduro ti Steemu ni idileyin ti awon imudaniloju oro-aje ni o ni agbara lati se agbejade ati die sii awon esi iyasoto fun gbogbo eniyan ti o ni ipa ju awon awoju oun igberohinjade ati awon kryptokorensi awon iru ero ti o ti lo saaju awon lo. This paper will explore the existing economic incentives and demonstrate how Steem’s incentives may result in better outcomes for most participants.
+Iseduro ti Steemu ni idileyin ti awon imudaniloju oro-aje ni o ni agbara lati se agbejade ati die sii awon esi iyasoto fun gbogbo eniyan ti o ni ipa ju awon awoju oun igberohinjade ati awon kryptokorensi awon iru ero ti o ti lo saaju awon lo. Iwe yii yoo se awari awon igbesi-aye awon isowo ti o wa tele ati ki o se afihan bi awon imudaniloju Steemu se le mu awon esi to dara julo fun opolopo awon olukopa.
 
 ## Recognizing Contribution
 
