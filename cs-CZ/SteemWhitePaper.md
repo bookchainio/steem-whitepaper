@@ -505,7 +505,7 @@ Internet představuje nejsnadnější prostředek pro distribuci informací na s
 
 V sociálních médiích založených na blockchainu bude tvůrce nebo autor vždy schopen poukázat na veřejný záznam a časové razítko dokazující vznik jejich obsahu. V situaci kdyby tvůrce chtěl oslovit ty, kdo dílo opětovně sdíleli bez souhlasu nebo přiznání autorství, záznamy založené na blockchainu poskytují veřejný důkaz, že obsah byl zveřejněn určitým uživatelem v určitý čas. V budoucnosti může být autenticita autorství založená na blockchainu uznána vládami a mít váhu před soudem, což by tvůrcům obsahu dalo větší možnosti ke kontrole jejich práce.
 
-While a timestamping service can be built on almost any blockchain, and several efforts exist to build this kind of service on the Bitcoin network, Steem has a useful advantage in this realm because content publishers are “first class citizens” -- the Steem blockchain is built from the ground up around the use case of content publication, which allows content creators to have the blockchain to validate their content at a certain point in time simply by writing their post using the same authoring tools used by other Steem users.
+Zatímco časové razítko může být zabudováno do téměř libovolného blockchainu a existují snahy o zavedení této služby do sítě Bitcoinu, Steem má v této oblasti užitečnou výhodu, protože publikující jsou "občané první třídy“. Steem blockchain je od základu koncipován pro použití v oblasti publikace obsahu, což umožňuje, aby tvůrci obsahu měli svůj obsah ověřen blockchainem v určitém čase prostým psaním svých příspěvků za použití těch samých autorských nástrojů, které využívají ostatní uživatelé Steemu.
 
 ## Nahrazení inzerce blockchainovými odměnami za obsah
 
