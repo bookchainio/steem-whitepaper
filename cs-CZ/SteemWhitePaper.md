@@ -300,7 +300,7 @@ V decentralizovaném systému není přímá cesta, jak zakázat uživatele, ani
 
 ### Plná rezerva vs částečná rezerva
 
-Let’s view a blockchain like an Internet Service Provider (ISP) co-op which owns all of the cables in the town and has a maximum amount of bandwidth that it can provide at any time. Lidé žijící v městě si mohou koupit akcie této firmy a na oplátku mohou užívat část dostupné šířky pásma.
+Podívejme se na blockchain jako na poskytovatele připojení internetu, který vlastní všechny kabely ve městě a má určitou maximální celkový přenosový objem dat, který může poskytnout v každém okamžiku. Lidé žijící v městě si mohou koupit akcie této firmy a na oplátku mohou užívat část dostupného objemu dat.
 
 The ISP has two choices, run a “full reserve” or “fractional reserve” system. Podle systému plné rezervy každý uživatel může používat pouze tu část maximální šířky pásma, které odpovídá jeho akciovému podílu. Because not everyone uses the Internet at the same time, the town’s network would be significantly underutilized.
 
