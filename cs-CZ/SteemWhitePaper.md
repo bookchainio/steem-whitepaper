@@ -429,9 +429,9 @@ Počínaje 16. hard forkem v prosinci 2016 vydává Steem nové mince s roční 
 
 Často se tvrdí, že mince s inflačním modelem není udržitelná. Z nesčetných příkladů z reálného světa však víme, že množství peněz nemá přímý a okamžitý dopad na jejich hodnotu, přestože dozajista hraje jistou roli.
 
-Od srpna 2008 do ledna 2009 vzrostla peněžní zásoba USA[^15] z 871 na 1 737 miliard $, což je více než 100% roční tempo růstu, a pak pokračovala v růstu tempem 20 % ročně po dobu dalších 6 let. Jinými slovy U.S. peněžní zásoba vzrostla 4,59x v méně než 7 letech. During that same time, the value of the dollar relative to goods and services has fallen less than 10% according to the government's price index[^16]. Tento příklad z reálného světa ukazuje, že zásoba je jen jednou součástí ceny.
+Od srpna 2008 do ledna 2009 vzrostla peněžní zásoba USA[^15] z 871 na 1 737 miliard $, což je více než 100% roční tempo růstu, a pak pokračovala v růstu tempem 20 % ročně po dobu dalších 6 let. Jinými slovy peněžní zásoba v USA vzrostla 4,59krát za méně než 7 let. Za stejné období klesla podle vládního cenového indexu[^16] hodnota dolaru v poměru ke zboží a službám o méně než 10 %. Tento příklad z reálného světa ukazuje, že zásoba je jen jednou součástí ceny.
 
-For the first 2 years of Bitcoin’s life the network sustained an annual inflation rate[^17] of over 100%. Za prvních 5 let to bylo přes 30% a za prvních 8 let přes 10%. All told the total “spending” Steem does to fund content, curation, and block production amounts to less than 10% APR.
+Po první dva roky existence Bitcoinu měla jeho síť roční míru inflace[^17] více než 100 %. Za prvních 5 let to bylo přes 30 % a za prvních 8 let přes 10 %. Jak jsme již uvedli, veškeré "výdaje" Steemu jsou určeny k financování tvorby, kurátorství a produkce bloků a jsou nižší než 10 % roční inflační míry.
 
 Cena digitální komodity jako STEEM je hnána jak zásobou, tak poptávkou. Když se dlouhodobý držitel rozhodne vystoupit, zásoba STEEM na trhu vzroste a stlačí cenu dolu. Protiváhou tohoto sestupného tlaku je, když se nový dlouhodobý držitel rozhodne koupit STEEM a konvertovat ho zpět na SP. Additional supply and demand may be be added due to market speculators buying and selling liquid STEEM based on their predictions of the future market price.
 
