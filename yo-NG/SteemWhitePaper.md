@@ -36,7 +36,7 @@ Ipinle Steemu pese awon ise wonyi si awon omo egbe re:
 
 Iseduro ti Steemu ni idileyin ti awon imudaniloju oro-aje ni o ni agbara lati se agbejade ati die sii awon esi iyasoto fun gbogbo eniyan ti o ni ipa ju awon awoju oun igberohinjade ati awon kryptokorensi awon iru ero ti o ti lo saaju awon lo. Iwe yii yoo se awari awon igbesi-aye awon isowo ti o wa tele ati ki o se afihan bi awon imudaniloju Steemu se le mu awon esi to dara julo fun opolopo awon olukopa.
 
-## Recognizing Contribution
+## Mi mo ilowosi
 
 Steem is designed from the ground up to address the major barriers to adoption and monetization of a social media based economy. Our thesis is that the same techniques used to grow major social media platforms can be used to bootstrap a successful cryptocurrency. Economic incentives enabled by cryptocurrency can dramatically facilitate the growth of a new social media platform. It is the synergy between cryptocurrency and social media that we believe may give Steem a powerful advantage in the market.
 
