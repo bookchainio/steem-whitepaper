@@ -509,13 +509,13 @@ While a timestamping service can be built on almost any blockchain, and several 
 
 ## Nahrazení inzerce blockchainovými odměnami za obsah
 
-Podle mnohých modelů monetizace obsahu používají tvůrci reklamu v různých formách. Many creators recognize how advertising may diminish their work’s value to the consumer, yet creators very often must seek returns on their time by monetizing. Reklama je dvousečná: s inzeráty může tvůrce vydělat nejsnadněji. Bez inzerátů je monetizace těžší, ale obsah bohatší.
+Podle mnohých modelů monetizace obsahu používají tvůrci reklamu v různých formách. Mnoho tvůrců chápe, jak může reklama snížit hodnotu jejich práce pro spotřebitele, avšak tvůrci musí velmi často hledat finanční ohodnocení svého času. Reklama je dvousečná: s inzeráty může tvůrce vydělat nejsnadněji. Bez inzerátů je monetizace těžší, ale obsah bohatší.
 
-Creators posting to social media outlets that are connected to Steem may monetize merely by having their work recognized (or ”liked”) by the Steem community. Výplaty založené na blokchainu jsou zcela digitální a bez prostředníka. Proto monetizace přes obsah založený na blockchainu by měla být rychlejší a mnohem přístupnější než monetizace přes inzerci.
+Tvůrci publikující na sociálních médiích propojených se Steemem mohou obsah zpeněžit už jen tím, že je jejich práce uznána (nebo "lajkována") komunitou Steem. Výplaty založené na blokchainu jsou zcela digitální a bez prostředníka. Proto monetizace přes obsah založený na blockchainu by měla být rychlejší a mnohem přístupnější než monetizace přes inzerci.
 
 # Závěr
 
-Steem je experiment projektovaný tak, aby čelil výzvám v kryptoměně a v oboru sociálních médií kombinováním nejlepších vlastností z obojích. Steem je příležitost výdělku pro tvůrce a internetové čtenáře způsobem, který dosud v sociálních médiích neexistoval. Se Steemem vydělávají jednotlivci online skutečné odměny, které jsou přímo úměrné jejich přispění. Those rewards may have dollar value due to the market price discovery and liquidity of Steem, and the people who hold Steem may have more exclusive earning powers than those who do not.
+Steem je experiment projektovaný tak, aby čelil výzvám v kryptoměně a v oboru sociálních médií kombinováním nejlepších vlastností z obojích. Steem je příležitost výdělku pro tvůrce a internetové čtenáře způsobem, který dosud v sociálních médiích neexistoval. Se Steemem vydělávají jednotlivci online skutečné odměny, které jsou přímo úměrné jejich přispění. Tyto odměny budou mít díky trhem stanovené ceně a likviditě Steemu hodnotu v dolarech a lidé, kteří drží Steem, budou mít více výlučné výdělečné síly než ti, kdo Steem nedrží.
 
 [^1]: Reddit’s Cryptocurrency, Forbes, Erika Morphy, October 2014 http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/\#4e07b05332b9
 
