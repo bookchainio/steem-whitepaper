@@ -112,11 +112,11 @@ Cu o fereastră de trei zile jumătate, membrii comunității au aproximativ o z
 
 ### Atenuarea atacurilor de temporizare
 
-Market participants have access to information faster than the blockchain’s three and a half day moving median conversion price can react. This information could be used to benefit of traders at the expense of the community. If there is a sudden increase in the value of STEEM traders could request conversion of their SBD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
+Participanții pieței au acces la informație mai rapid decât arborele blockchain și o jumătate de zi pentru a reacționa la mișcarea prețului median de conversie. Această informație ar putea fi folosită în beneficiul comercianților în detrimentul comunității. În cazul în care există o creștere bruscă a valorii STEEM, comercianții pot cere o conversie a SBD-ului lor, la vechiul preț, și apoi își pot vinde STEEM-ul lor, la un preț mai mare, cu un risc minim.
 
-Steem levels the playing field by requiring all conversion requests to be delayed for three and a half days. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
+Steem nivelează terenul, solicitând tuturor cererilor de conversie să fie întârziate cu trei zile și jumătate. Aceasta înseamnă cu nici comercianții și nici blockchain-ul nu are nici un avantaj de informație în ceea ce privește prețul la momentul execuției tranzacției.
 
-### Minimizing Abuse of Conversions
+### Minimizarea Abuzului Conversiilor
 
 If people could freely convert in both directions then traders could take advantage of the blockchains conversion rates by trading large volumes without changing the price. Traders who see a massive run up in price would convert to SBD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SBD to STEEM and not the other way around.
 
