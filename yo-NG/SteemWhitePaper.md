@@ -22,9 +22,9 @@ Lapapo, akoonu ti o ni asamulo ti seda oke aimoye ti dola iye owo fun awon onipi
 
 Awon ilana pataki kan wa ti a ti lo lati se itosona awon apere ti Steemu. Ilana pataki julo ni pe gbogbo eniyan ti o se alabapin si isowo kan ye ki o ogba agbara olohun ti pro-rata, sisan wo tabi lati inu gbese isowo naa. Opo yii je ilana kanna ti o lo fun gbogbo awon ibere bi won se pinpin awon ipinle ati ni awon igbiyanju isowo nigbamii.
 
-Ilana keji ni wipe gbogbo awon orisi awon olu-ori je o wulo. Eyi tumo si pe awon ti o se afihan akoko pupo ati ifojusi si siso ati akoonu fun awon elomiran ni o niyelori bi awon ti o se alabapin owo ti o poju. This is the sweat equity principle[^2] and is a concept that prior cryptocurrencies have often had trouble providing to more than a few dozen individuals.
+Ilana keji ni wipe gbogbo awon orisi awon olu-ori je o wulo. Eyi tumo si pe awon ti o se afihan akoko pupo ati ifojusi si siso ati akoonu fun awon elomiran ni o niyelori bi awon ti o se alabapin owo ti o poju. Eyi si isiro imudaniloju igungun ati pe o je ero ti isaaju kryptokorensi ti ni wahala nigbagbogbo lati pese si die e sii ju awon eniyan bi mejilla lo.
 
-The third principle is that the community produces products to serve its members. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
+Ilana keta je wipe agbegbe n pese awon oja lati iranse fun awon egbe re. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
 
 The Steem community provides the following services to its members:
 
