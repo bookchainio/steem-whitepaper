@@ -136,7 +136,7 @@ SBD plătește titularilor dobânzi. Rata dobânzii este stabilită de aceiași 
 
 Deținătorii STEEM și SP obțin avantaje atunci când membrii comunității sunt dispuși să țină SBD. Acest avantaj amplifică câștigurile din creșteri contribuind în același timp la creștere. În cazul în care prețul scade, deținătoriil de STEEM vor pierde. Proiectele criptomonedelor au arătat că creșterile datorate utilizatorilor care aleg să aibe încredere în rețea, aduc mai multă valoare decât orice scădere care poate apărea în urma unei recensiuni.
 
-### Setting Price Feeds
+### Setarea Fluxurilor Prețului
 
 Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. În economie există un principiu cunoscut ca Trinitatea Imposibilă[^4] care susține că este imposibil să ai următoarele trei lucruri în același timp:
 
@@ -144,7 +144,7 @@ Astute readers will recognize that an interest bearing asset of limited supply m
 2. Libera circulație a capitalui
 3. O politică monetară independentă
 
-If Steem feed producers aim to have an independent monetary policy allowing it to create and destroy Steem Dollars while simultaneously having full control over the interest rate then they will encounter problems. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
+Dacă producătorii de Flux de Steem țintesc să aibe o politică monetară independentă, permițându-le să creeze și să distrugă Dolari Steem, în timp ce au control simultan asupra ratei dobânzii. întâmpinând apoi probleme. Trinitatea Imposibilă spune cu Dolarii Steem fie trebuie să își restricționeze mișcarea capitalului, să aibe o rată de schimb instabilă cu dolarul, sau să aibe control limitat asupra ratei dobânzii.
 
 The primary concern of Steem feed producers is to maintain a stable one-to-one conversion between SBD and the U.S. Dollar (USD). Any time SBD is consistently trading above $1.00 USD interest payments must be stopped. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SBD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
 
