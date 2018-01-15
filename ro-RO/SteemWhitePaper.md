@@ -128,11 +128,11 @@ Blockchain decide când și cum să creeze SBD și cine să îl primească. Acea
 
 O schimbare rapidă în valoarea STEEM poate schimba dramatic raportul dintre datorie și proprietate. Blockchain-ul previne raportul dintre datorie și proprietate să devină prea mare, prin reducerea cantității de STEEM acordat prin conversiile de SBD, dacă nivelul datoriei a fost depășit cu 10%. Dacă cantitatea de SBD depășește vreodată 10% din totalul de STEEM de pe piață, blockchain-ul o să reducă automat cantitatea de STEEM generat prin conversii la un maxim din valoarea de pe piață. Aceasta asigură că blockchain-ul nu o să aibe un raport de datorie-proprietate mai mare decât 10%.
 
-The percentage floors used to compute STEEM creation are based on the supply including the STEEM value of all outstanding SBD and SP (as determined by the current rate / feed).
+Procentajul utilizat să calculeze crearea STEEM este bazat pe stoc, inlusiv valoarea STEEM a tuturor SBD și SP (determinat de cursul actual / flux).
 
-### Interest
+### Interes
 
-SBD pays holders interest. The interest rate is set by the same people who publish the price feed so that it can adapt to changing market conditions. All debt carries risk to the lender. Someone who holds SBD without redeeming it is effectively lending the community the value of a dollar. Aceștia au încredere că la un anumit moment dat, cineva va dori să cumpere SBD de le ei pentru un dolar, sau că vor fi speculatori și investitorii vor dori să cumpere STEEM pentru îl schimba.
+SBD plătește titularilor dobânzi. Rata dobânzii este stabilită de aceiași oameni care publică fluxul prețului astfel încât să poată fi adaptat la condiții de piață schimbătoare. Toate datoriile poartă un risc pentru creditor. Cineva care deține SBD fără să îl răscumpere, creditează în mod eficient comunitatea cu valoarea dolarului. Aceștia au încredere că la un anumit moment dat, cineva va dori să cumpere SBD de le ei pentru un dolar, sau că vor fi speculatori și investitorii vor dori să cumpere STEEM pentru îl schimba.
 
 Deținătorii STEEM și SP obțin avantaje atunci când membrii comunității sunt dispuși să țină SBD. Acest avantaj amplifică câștigurile din creșteri contribuind în același timp la creștere. În cazul în care prețul scade, deținătoriil de STEEM vor pierde. Proiectele criptomonedelor au arătat că creșterile datorate utilizatorilor care aleg să aibe încredere în rețea, aduc mai multă valoare decât orice scădere care poate apărea în urma unei recensiuni.
 
