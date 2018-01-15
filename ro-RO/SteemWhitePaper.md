@@ -94,11 +94,11 @@ Stabilitatea este o caracteristică importantă a unei economii globale de succe
 
 Dolarii Steem sunt creați printr-un mecanism similare cu notele convertibile, care sunt adesea folosiți la finanțarea companiilor start-ups. În companiile start-up, notele convertibile sunt unelte pentr-o perioadă scurtă de timp, care pot fi convertite în proprietate la o rată determinată în viitor, de obicei în timpul unei viitoare runde de finanțare. Un token bazat be blockchain poate fi văzut ca și proprietate în comunitate, în timp ce notele convertibile pot fi văzute ca și datorie denominată, în orice alt bun sau monedă. Condițiile notei convertibile permit titularului să convertească tokeni de susținere cu un preaviz minim la prețul de piață al tokenilor. Crearea unor tokeni care poti fi convertiți în dolari, oferă blockchain-ului posibilitatea de a-și crește efectul rețelei, în timp ce ce maximizează rentabilitatea deținătorilor de tokeni.
 
-Dolarii Steem sunt referiți cu simbolul SBD, un acronim la Dolarii Steem Blockchain. Crearea SBD necesită o combinație de un preț fiabil și reguli care să prevină abuzul. Providing a reliable price feed involves three factors: minimizing the impact of an incorrect feed, maximizing the cost of producing an incorrect feed, and minimizing the importance of timing.
+Dolarii Steem sunt referiți cu simbolul SBD, un acronim la Dolarii Steem Blockchain. Crearea SBD necesită o combinație de un preț fiabil și reguli care să prevină abuzul. Oferirea unui flux fiabil al prețului implică trei factori: minimizarea impactului unui flux al prețului incorect, maximizarea costurilor producerii unui flux incorect și minimizarea importanței sincronizării.
 
-### Minimizing Fraudulent Feeds
+### Minimizarea Taxelor Frauduloase
 
-SP holders elect individuals, called witnesses, to publish price feeds. The elected witnesses are presumably trusted by those who have a vested interest in the quality of the feed. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
+Titularii SP aleg indivizi numiți martori, pentru publicarea fluxurilor prețului. Se presupune, că martorii aleși sunt considerați de încredere de către cei care au un anumit interes investit în calitatea fluxului prețului. Prin plătirea celor care sunt aleși, Steem crează o piață competitivă pentru căștigarea dreptului de a produce un flux de preț. The more the feed producers are paid the more they have to lose by publishing false information.
 
 Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
 
