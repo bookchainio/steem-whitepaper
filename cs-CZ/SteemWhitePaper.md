@@ -421,15 +421,15 @@ Celkový pohled na zásobu SBD je komplikován účinkem operací, které mohou 
 
 ## Současná alokace a zásoba
 
-Starting with the network's 16th hard fork in December 2016, Steem began creating new tokens at a yearly inflation rate of 9.5%. The inflation rate decreases at a rate of 0.01% every 250,000 blocks, or about 0.5% per year. The inflation will continue decreasing at this pace until the overall inflation rate reaches 0.95%. This will take about 20.5 years from the time hard fork 16 went into effect.
+Počínaje 16. hard forkem v prosinci 2016 vydává Steem nové mince s roční inflační mírou 9.5 %. Míra roční inflace se snižuje o 0,01 % každých 250 000 bloků nebo asi o 0,5 % ročně. Inflace se bude tímto tempem snižovat, dokud celková roční míra inflace nedosáhne úrovně 0,95 %. To bude trvat zhruba 20,5 let od 16. hard forku, kdy pravidlo vešlo v platnost.
 
-75% of the new tokens that are generated go to fund the reward pool, which is split between authors and curators. 15% of the new tokens are awarded to holders of SP. The remaining 10% pays for the witnesses to power the blockchain.
+75 % nově vygenerovaných mincí je určeno do fondu odměn, z něhož se dělí mezi autory a kurátory. 15 % nových mincí je uděleno držitelům SP. Zbývajícími 10 % jsou vyplaceni svědci za provozování blockchainu.
 
 ### Dopad sazby tvorby tokenů
 
-It is often said that a coin with an inflationary model is not sustainable, but we know from countless real-world examples that the quantity of money does not have a direct and immediate impact on its value, though it certainly plays a role.
+Často se tvrdí, že mince s inflačním modelem není udržitelná. Z nesčetných příkladů z reálného světa však víme, že množství peněz nemá přímý a okamžitý dopad na jejich hodnotu, přestože dozajista hraje jistou roli.
 
-From August 2008 through January 2009 the U.S. money supply[^15] grew from $871B to $1,737B, a rate of over 100% per year and then continued to grow at about 20% per year for the next 6 years. Jinými slovy U.S. peněžní zásoba vzrostla 4,59x v méně než 7 letech. During that same time, the value of the dollar relative to goods and services has fallen less than 10% according to the government's price index[^16]. Tento příklad z reálného světa ukazuje, že zásoba je jen jednou součástí ceny.
+Od srpna 2008 do ledna 2009 vzrostla peněžní zásoba USA[^15] z 871 na 1 737 miliard $, což je více než 100% roční tempo růstu, a pak pokračovala v růstu tempem 20 % ročně po dobu dalších 6 let. Jinými slovy U.S. peněžní zásoba vzrostla 4,59x v méně než 7 letech. During that same time, the value of the dollar relative to goods and services has fallen less than 10% according to the government's price index[^16]. Tento příklad z reálného světa ukazuje, že zásoba je jen jednou součástí ceny.
 
 For the first 2 years of Bitcoin’s life the network sustained an annual inflation rate[^17] of over 100%. Za prvních 5 let to bylo přes 30% a za prvních 8 let přes 10%. All told the total “spending” Steem does to fund content, curation, and block production amounts to less than 10% APR.
 
