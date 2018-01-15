@@ -12,11 +12,11 @@ Olugbero fun awon akosile onitumo.
 
 Steemu je aaye ipamo blockuchain ti o se atileyin ile-ise agbegbe ati ajosepo awon ere pelu awon nomba kyrptokorensi. Steemu sepo awon imoran lati awon alagbegbe awujo pelu awon eko ti a ko lati kryptokorensi ati awon agbegbe won. Botini pataki kan lati se ikopa ni ilowosi ni eyikeyi agbegbe, owo tabi owo-aje ti ko niyeye je eto iseduro ti o je deede ti o je afihan ipese olukuluku. Steemu je akoko kryptokorensi ti o gbiyanju lati ni pipe ati atinuriwa san awon nomba ti ko toju ti awon eni kookan ti o se awon abuda ero si awon oniwe-awujo.
 
-# Table of Contents
+# Tabili awon Akoonu
 
 <!-- toc -->
 
-# Introduction
+# Ifihan
 
 Collectively, user-generated content has created billions of dollars worth of value for the shareholders of social media companies, such as Reddit, Facebook, and Twitter. **In 2014, Reddit hypothesized that its platform would be improved if everyone who contributed to reddit.com by posting stories, adding comments or voting were rewarded with a fair share in Reddit, Inc.[^1]**. Steem aims to support social media and online communities by returning much of its value to the people who provide valuable contributions by rewarding them with cryptocurrency, and through this process create a currency that is able to reach a broad market, including people who have yet to participate in any cryptocurrency economy.
 
