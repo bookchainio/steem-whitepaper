@@ -104,7 +104,7 @@ Prețul folosit pentru conversii este un derivat al mediei fluxurilor prețurilo
 
 Chiar dacă toți producători de flux de preț sunt sinceri, există posiblitatea ca majoritatea acestora să fie afectați de evenimente care nu stau sub controlul lor. Rețeaua Steem este proiectată să tolereze corupția pe termen scurt a fluxului median al prețului, în timp ce comunitatea lucrează activ pentru a corecta problema. Un exemplu de problemă care ar putea fi rezolvată într-o anumită perioadă de timp, este manipularea pe termen scurt a pieței. Manipularea pieței este dificilă și costisitoare pentru a fi menținută pe perioade lungi de timp. Un al exemplu ar fi eșecul unui schimb monetar centralizat sau a corupției datelor publicate de către schimbul monetar.
 
-Steem factors out short-term price fluctuations by using the median price over a period of three and a half days. The median published feed is sampled every hour on the hour.
+Factorii Steem luptă împotriva fluctuațiilor de durată scăzută, prin folosirea prețului mediu pe o perioadă de trei zile jumătate. Fluxul mediiu publicat este eșantionat o dată pe oră.
 
 As long as the price feed corruption lasts for less than half the moving median time window it will have minimal impact on the conversion price. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
 
