@@ -485,11 +485,11 @@ Obchodníci nabízejí cestu jak rychle proměnit kryptoměnu na skutečné zbo�
 
 Obchodník přijme jakoukoliv měnu, pokud to zvýší jeho prodej. Velká uživatelská základna se stabilní měnou jako SBD snižuje vstupní náklady obchodníků. Přítomnost obchodníků zlepšuje systém tvorbou možností pro uživatele, jak opustit systém, aniž by se museli zabývat použitím burzy.
 
-Another way that people can liquidate the small amounts of cryptocurrency they receive from participating on the Steem platform is through *tipping* others. Je to stejné, jako nechat drobné číšníkovi. Když to udělá více lidí, dohromady to bude smysluplná suma. Vy i číšník z toho budete mít užitek.
+Jiný způsob, kterým mohou lidé zlikvidnit malé sumy kryptoměny, kterou obdrží za účast na platformě Steem, je dát jiným přispěvatelům *spropitné*. Je to stejné, jako nechat drobné číšníkovi. Když to udělá více lidí, dohromady to bude smysluplná suma. Vy i číšník z toho budete mít užitek.
 
 ## Cenzura
 
-Steem is a decentralized network that is operated by witnesses in jurisdictions around the world. Všechny akce uživatelů jsou veřejně zaznamenané na blokchainu a mohou být veřejně ověřeny. To znamená, že neexistuje jedna entita, která by mohla cenzorovat obsah ceněný držiteli STEEM.
+Steem je decentralizovaná síť provozovaná svědky v různých jurisdikcích po celém světě. Všechny akce uživatelů jsou veřejně zaznamenané na blokchainu a mohou být veřejně ověřeny. To znamená, že neexistuje jedna entita, která by mohla cenzorovat obsah ceněný držiteli STEEM.
 
 Jednotlivé webové stránky jako je steemit.com mohou censorovat obsah na své konkrétní straně, ale obsah publikovaný na blockchainu je ve své podstatě vysílaný provoz a zrcadla po celém světě mohou pokračovat ve zpřístupňování.
 
