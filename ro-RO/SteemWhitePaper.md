@@ -98,11 +98,11 @@ Dolarii Steem sunt referiți cu simbolul SBD, un acronim la Dolarii Steem Blockc
 
 ### Minimizarea Taxelor Frauduloase
 
-Titularii SP aleg indivizi numiți martori, pentru publicarea fluxurilor prețului. Se presupune, că martorii aleși sunt considerați de încredere de către cei care au un anumit interes investit în calitatea fluxului prețului. Prin plătirea celor care sunt aleși, Steem crează o piață competitivă pentru căștigarea dreptului de a produce un flux de preț. The more the feed producers are paid the more they have to lose by publishing false information.
+Titularii SP aleg indivizi numiți martori, pentru publicarea fluxurilor prețului. Se presupune, că martorii aleși sunt considerați de încredere de către cei care au un anumit interes investit în calitatea fluxului prețului. Prin plătirea celor care sunt aleși, Steem crează o piață competitivă pentru căștigarea dreptului de a produce un flux de preț. Cu cât sunt mai mult plătiți, cei care produc fluxul de preț, cu atât au mai mult de pierdut dacă publică informații false.
 
-Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
+Prețul folosit pentru conversii este un derivat al mediei fluxurilor prețurilor. În acest fel, orice minoritate al unui flux individual o să aibe un impact minim asupra mediei, având totuși impact asupra reputației celui în cauză.
 
-Even if all feed producers are honest, it is possible for the majority of feed producers to be impacted by events beyond their control. The Steem network is designed to tolerate short-term corruption of the median price feed while the community actively works to correct the issue. One example of an issue that may take some time to correct is short-term market manipulation. Market manipulation is difficult and expensive to maintain for long periods of time. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
+Chiar dacă toți producători de flux de preț sunt sinceri, există posiblitatea ca majoritatea acestora să fie afectați de evenimente care nu stau sub controlul lor. The Steem network is designed to tolerate short-term corruption of the median price feed while the community actively works to correct the issue. One example of an issue that may take some time to correct is short-term market manipulation. Market manipulation is difficult and expensive to maintain for long periods of time. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
 
 Steem factors out short-term price fluctuations by using the median price over a period of three and a half days. The median published feed is sampled every hour on the hour.
 
