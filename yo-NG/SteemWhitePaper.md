@@ -26,9 +26,9 @@ Ilana keji ni wipe gbogbo awon orisi awon olu-ori je o wulo. Eyi tumo si pe awon
 
 Ilana keta je wipe agbegbe n pese awon oja lati iranse fun awon egbe re. Ope yii je apeere nipase awon aladani gbese, awon igbimo ounje, ati awon ipinnu ipinpin isowo, ti o nsin si awon omo egbe ti agbegbe won ju ki o ta awon oja ise si awon eneiyan ti ita ilu.
 
-The Steem community provides the following services to its members:
+Ipinle Steemu pese awon ise wonyi si awon omo egbe re:
 
-1. A source of curated news and commentary.
+1. 1. Orisun ti awon iroyin ti a ti dani ati asoye.
 2. A means to get high quality answers to personalized questions.
 3. A stable cryptocurrency pegged to the U.S. dollar.
 4. Free payments.
