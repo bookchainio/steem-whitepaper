@@ -1,4 +1,4 @@
-# Steem
+# Steemu
 
 ## An incentivized, blockchain-based, public content platform.
 
