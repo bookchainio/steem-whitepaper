@@ -344,7 +344,7 @@ Vyžadování minimálního zůstatku je ve skutečnosti to samé, jako nutit u�
 
 Naštěstí může být požadovaný zůstatek tak nízký jako 1 dolar a to je něco, co mohou uživatelé pochopit a ocenit. Náklady obětované příležitosti za ztrátu zájmu nezpůsobují kognitivní náklady mikropoplatku a jsou pro uživatele mnohem přijatelnější.
 
-Steem použitý k přeplacení účtu je v novém účtu převeden na Steem Power. Část SP použitá k financování nového účtu může být delegována tvůrcem tohoto účtu. When a user is delegated SP, they may use the SP for voting and bandwidth purposes as if it were their own, but the ownership of the SP remains with the user who delegated it. A user may remove the delegation at any time. After a cool-down period, the SP is returned to their account.
+Steem použitý k přeplacení účtu je v novém účtu převeden na Steem Power. Část SP použitá k financování nového účtu může být delegována tvůrcem tohoto účtu. Když má uživatel delegovanou SP, může ji využít k hlasování a k přístupu k datovému limitu, jako kdyby byla jeho vlastní. Ale delegovaná SP je zůstává majetkem toho, kdo ji delegoval. Uživatelé mohou delegování kdykoli zrušit. Po přechodném období je jim SP vrátí na jejich účet.
 
 ### Účinnost ve srovnání s poplatky
 
@@ -380,9 +380,9 @@ Síť Steem je postavena na Graphene, té samé technologii která pohání BitS
 
 ## Rozsah Redditu
 
-Steem je schopen obsluhovat větší uživatelskou bázi než Reddit. In 2015 Reddit’s 8.7 million users generated an average of 23 comments per second[^12], with an average of 83 comments per year per user. Bylo tam 73 miliónů příspěvků nejvyšší úrovně s průměrně 2 novými příspěvky za vteřinu. Měl 7 miliard hlasování, což je průměrná frekvence hlasování 220 hlasů za vteřinu. Pokud by tedy Reddit pracoval na blockchainu, tak by potřeboval průměrně 250 transakcí za vteřinu.
+Steem je schopen obsluhovat větší uživatelskou bázi než Reddit. V roce 2015 měl Reddit 8,7 miliónu uživatelů, kteří průměrně vytvořili 23 komentářů za vteřinu[^12] a 83 komentářů ročně na jednoho uživatele. Bylo tam 73 miliónů příspěvků nejvyšší úrovně s průměrně 2 novými příspěvky za vteřinu. Měl 7 miliard hlasování, což je průměrná frekvence hlasování 220 hlasů za vteřinu. Pokud by tedy Reddit pracoval na blockchainu, tak by potřeboval průměrně 250 transakcí za vteřinu.
 
-To achieve this industry-leading performance, Steem has borrowed lessons learned from the LMAX Exchange[^13], which is able to process 6 million transactions per second. Tyto zkušenosti zahrnují tyto následující klíčové body:
+Aby dosáhl této nejvyšší výkonnosti v oboru, Steem si vypůjčil zkušeností burzy LMAX[^13], která je schopna provést 6 miliónů transakcí za vteřinu. Tyto zkušenosti zahrnují tyto následující klíčové body:
 
 1. Udržujte vše v paměti.
 2. Udržujte základní obchodní logiku v jednom vlákně.
@@ -392,11 +392,11 @@ To achieve this industry-leading performance, Steem has borrowed lessons learned
 
 Dodržováním těchto jednoduchých pravidel je Steem schopný zpracovávat 100.000 transakcí za sekundu bez jakéhokoliv významného úsilí věnovaného optimalizaci.
 
-Keeping everything in memory is increasingly viable given the recent introduction of Optane™ technology from Intel[^14]. Pro běžné hardware by mělo být možné obsluhovat všechnu obchodní logiku spojenou se Steemem v jednom vlákně se všemi příspěvky drženými pro rychlou indexaci v paměti. Dokonce i Google drží svůj index celého internetu v RAM. Použití blockchainové technologie činí replikaci databáze na mnoho počítačů triviální a brání ztrátě dat. Jak se technologie Optane™ prosadí, RAM se stanou ještě rychlejší a získají na trvanlivosti. Jinými slovy Steem je projektován pro architekturu budoucnosti a jako rozšiřitelný.
+Udržovat vše v paměti je stále více životaschopné vzhledem k nedávnému uvedení technologie Optane™ společností Intel[^14]. Pro běžné hardware by mělo být možné obsluhovat všechnu obchodní logiku spojenou se Steemem v jednom vlákně se všemi příspěvky drženými pro rychlou indexaci v paměti. Dokonce i Google drží svůj index celého internetu v RAM. Použití blockchainové technologie činí replikaci databáze na mnoho počítačů triviální a brání ztrátě dat. Jak se technologie Optane™ prosadí, RAM se stanou ještě rychlejší a získají na trvanlivosti. Jinými slovy Steem je projektován pro architekturu budoucnosti a jako rozšiřitelný.
 
 # Alokace & zásoba
 
-## Initial Allocation & Supply
+## Výchozí alokace a zásoba
 
 The Steem network started with a currency supply of 0 and allocated STEEM via proof of work at a rate of approximately 40 STEEM per minute to miners, with an additional 40 STEEM per minute being created to seed the content and curation reward pools (for a total of 80 STEEM per minute). Then the network started rewarding users who converted to SP. At this point, STEEM grew at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
 
