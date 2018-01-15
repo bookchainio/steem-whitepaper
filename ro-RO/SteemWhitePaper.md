@@ -10,7 +10,7 @@ Susbtitut pentru notele traducătorului.
 
 # Abstract
 
-Steem este o bază de date de tip blockchain, care suportă construirea comnității și interacțiunea socială prin recompense cu criptomonede. Steem combină concepte din rețele de socializare cu lecțiile învățate prin construirea criptomonedelor și a comunității. Un element important pentru inspirarea participării în orice comunitatea, valută sau economie de piață liberă este un sistem corect, care să reflecte consistența contribuției fiecărei persoane. Steem este prima criptomonedă care încearcă în mod transparent și cât se poate de corect, să recomneseze un număr nelimitat de indivizi care aduc *contribuții subiective* în comunitatea lor.
+Steem este o bază de date de tip blockchain, care suportă construirea comunității și interacțiunea socială prin recompense cu criptomonede. Steem combină concepte din rețele de socializare cu lecțiile învățate prin construirea criptomonedelor și a comunității. Un element important pentru inspirarea participării în orice comunitatea, valută sau economie de piață liberă este un sistem corect, care să reflecte consistența contribuției fiecărei persoane. Steem este prima criptomonedă care încearcă în mod transparent și cât se poate de corect, să recomneseze un număr nelimitat de indivizi care aduc *contribuții subiective* în comunitatea lor.
 
 # Cuprins
 
@@ -18,7 +18,7 @@ Steem este o bază de date de tip blockchain, care suportă construirea comnită
 
 # Introducere
 
-Într-un mod colectiv, conținutul generat de utilizatori a generat miliarde de dolari pentru acționarii companiilor rețelelor sociale, cum ar fi Reddit, Facebook și Twitter. **În 2014, Reddit a emis ipoteza că platforma ar putea fi îmbunătățită dacă toată lumea care contribuie pe reddit.com prin postarea poveștirilor, adăugarea comentariilor sau cei care votează, ar fi recompensați cu o parte echitabilă din Reddit, Inc.[^1]**. Steem dorește să sprijine rețeaua media de socializare și comunitățiile online, prin returnarea unei părți mari din valoarea sa, persoanelor care contribuie la construirea comunității, cu criptomonede. Prin acest proces se crează o monedă capabilă să ajungă la o piață largă, care include persoanele care încă nu au participat în economia formată de criptomonede.
+Într-un mod colectiv, conținutul generat de utilizatori, a generat miliarde de dolari pentru acționarii companiilor rețelelor de socializare, cum ar fi Reddit, Facebook și Twitter. **În 2014, Reddit a emis ipoteza că platforma ar putea fi îmbunătățită dacă toată lumea care contribuie pe reddit.com prin poveștile publicate, adăugarea comentariilor sau cei care votează, ar fi recompensați cu o parte echitabilă din Reddit, Inc.[^1]**. Steem dorește să sprijine rețeaua media de socializare și comunitățiile online, prin returnarea unei părți mari din valoarea sa, persoanelor care contribuie la construirea comunității, cu criptomonede. Prin acest proces se crează o monedă capabilă să ajungă la o piață largă, care include persoanele care încă nu au participat în economia formată de criptomonede.
 
 Există câteva principii cheie care au fost folosite pentru a proiecta Steem. Principiul cel mai important este ca toată lumea care contribuie la societate, să primească o proprietate pro-rata, plată sau datorie din societate. Acest principiu este același principiu care este aplicat companiilor startup care își alocă acțiuni la fondarea și în timpul etapelor ulterioare de finanțare.
 
@@ -84,7 +84,7 @@ Utilizatorii au posibilitatea de a-și păstra STEEM pentru o perioadă de vesti
 
 Atunci când utilizatorii votează conținutul, ei influențează în mod propoțional direct distribuția recompeneselor, prin cantitatea de SP pe care o au. Utilizatorii cu mai mult SP au o influență mai mare asupra distribuției recompenselor. Aceasta însemnă că SP este un token care la permite deținătorilor să aibe mai multă putere pe pltforma Steem.
 
-SP holders are also paid interest on the balance of SP that remains vested. 15% din inflația anuală este plătită deținătorilor de SP. Valoarea dobânzii pe care aceștia o primesc, este direct proporțională cu valoare de SP pe care o dețin raportată la valoarea totală de SP care le este acordată tuturor utilizatorilor.
+Deținătorii de SP sunt, de asemenea, plătiți pentru soldul de SP care rămâne investit. 15% din inflația anuală este plătită deținătorilor de SP. Valoarea dobânzii pe care aceștia o primesc, este direct proporțională cu valoare de SP pe care o dețin raportată la valoarea totală de SP care le este acordată tuturor utilizatorilor.
 
 Transferul STEEM către SP este referit ca “powering up”, în timp ce transferarea SP în STEEM este referit ca “powering down.” SP care este powered down este returnat utilizatorului după o perioadă de treisprezece săptămâni, prin plăți egale timp de 13 săptămâni, începând de la o săptămână de când a avut loc procesul de power down.
 
