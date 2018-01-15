@@ -465,9 +465,9 @@ Navíc Steem platí lidi za vymyšlení toho, komu zaplatit! Tento způsob myšl
 
 Internet by ztratil velkou většinu své hodnoty, kdyby byly odstraněny všechny odkazy mezi obsahem. Jsou to vztahy mezi webovými stránkami, které umožňují Googlu najít nejlepší recept na jablečný koláč mezi 16 milióny výsledků. Bez odkazů by jediná informace, kterou by měl Google, byla frekvence slova.
 
-Odkaz může mít mnoho forem a může se časem přizpůsobit. Every time a user votes on content in a social network they add a connection between themselves and the content. To naopak spojuje konzumenta s producentem prostřednictvím obsahu. The more connections a network has the more valuable the information becomes. Je to relativní a úmyslná propojenost informací, které jim dává hodnotu.
+Odkaz může mít mnoho forem a může se časem přizpůsobit. Kdykoli uživatel hlasuje pro obsah na sociální síti, přidává spojení mezi sebou a obsahem. To naopak spojuje konzumenta s producentem prostřednictvím obsahu. Čím více spojení síť má, tím se informace stávají cennějšími. Je to relativní a úmyslná propojenost informací, které jim dává hodnotu.
 
-A social network can maximize the value extracted from a set of content by maximizing the quantity and quality of connections. Moderovat obsah je nákladné a zabírá čas, zatímco je skoro nemožné provést počítači při nepřítomnosti odkazů. Steem rewards users who are among the first to find and identify new content.
+Sociální síť může maximalizovat hodnotu získanou z obsahu maximalizací množství a kvality spojení. Moderovat obsah je nákladné a zabírá čas, zatímco je skoro nemožné provést počítači při nepřítomnosti odkazů. Steem rewards users who are among the first to find and identify new content.
 
 Tím, že podněcuje moderátorství, je síť Steem schopná použít automatizovaný algoritmus k získání nejcennější informace z rozsáhlého množství obsahu.
 
