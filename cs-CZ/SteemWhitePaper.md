@@ -415,11 +415,11 @@ Odměny za přínos:
 
 ### SBD operace:
 
-- SBD rewards: A percentage of SBD value is created at an APR set by the witnesses and paid to SBD holders as SBD
+- Odměny SBD: Procentní podíl hodnoty SBD je vytvořen na základě roční úrokové míry nastavené svědky a vyplacen držitelům SBD
 
-The overall supply picture is complicated by the effect of SBD operations, which may result in large-scale creation or destruction of STEEM through feed rate following and SBD rewards, as discussed in the SBD section. Other, smaller-scale complicating effects also exist, including unclaimed incentives (e.g. block rewards for missed blocks), and abandoned accounts.
+Celkový pohled na zásobu SBD je komplikován účinkem operací, které mohou vyústit v rozsáhlou tvorbu nebo likvidaci STEEMů skrze publikování cen a SBD odměny, jak bylo uvedeno v SBD sekci. Jiné efekty působící komplikace v menším měřítku také existují, včetně nevyzvednutých pobídek (např. odměny za zmeškané bloky) a opuštěných účtů.
 
-## Current Allocation & Supply
+## Současná alokace a zásoba
 
 Starting with the network's 16th hard fork in December 2016, Steem began creating new tokens at a yearly inflation rate of 9.5%. The inflation rate decreases at a rate of 0.01% every 250,000 blocks, or about 0.5% per year. The inflation will continue decreasing at this pace until the overall inflation rate reaches 0.95%. This will take about 20.5 years from the time hard fork 16 went into effect.
 
