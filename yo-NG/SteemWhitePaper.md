@@ -24,7 +24,7 @@ Awon ilana pataki kan wa ti a ti lo lati se itosona awon apere ti Steemu. Ilana 
 
 Ilana keji ni wipe gbogbo awon orisi awon olu-ori je o wulo. Eyi tumo si pe awon ti o se afihan akoko pupo ati ifojusi si siso ati akoonu fun awon elomiran ni o niyelori bi awon ti o se alabapin owo ti o poju. Eyi si isiro imudaniloju igungun ati pe o je ero ti isaaju kryptokorensi ti ni wahala nigbagbogbo lati pese si die e sii ju awon eniyan bi mejilla lo.
 
-Ilana keta je wipe agbegbe n pese awon oja lati iranse fun awon egbe re. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
+Ilana keta je wipe agbegbe n pese awon oja lati iranse fun awon egbe re. Ope yii je apeere nipase awon aladani gbese, awon igbimo ounje, ati awon ipinnu ipinpin isowo, ti o nsin si awon omo egbe ti agbegbe won ju ki o ta awon oja ise si awon eneiyan ti ita ilu.
 
 The Steem community provides the following services to its members:
 
