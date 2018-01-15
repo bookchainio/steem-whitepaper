@@ -118,9 +118,9 @@ Steem nivelează terenul, solicitând tuturor cererilor de conversie să fie în
 
 ### Minimizarea Abuzului Conversiilor
 
-If people could freely convert in both directions then traders could take advantage of the blockchains conversion rates by trading large volumes without changing the price. Traders who see a massive run up in price would convert to SBD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SBD to STEEM and not the other way around.
+Dacă oamenii ar putea să convertească liber în amblele direcții, atunci comercianții ar putea să profite de ratele de conversie din blockchain prin tranzacționarea volumelor mari fără să schimbe prețul. Comercianții care observă o creștere a prețului, pot converti SBD la un preț mare (când este cel mai riscant) și apoi să îl convertească înapoi, după corecție. Protocolul Steem protejează comunitatea de astfel de abuzuri, permiâțându-le oamenilor să cnvertească din SBD în STEMM și nu invers.
 
-The blockchain decides how and when to create SBD and who should get it. This keeps the rate of SBD creation stable and removes most avenues of abuse.
+Blockchain decide când și cum să creeze SBD și cine să îl primească. Aceasta menține cursul creări SBD stabil și înlătură mai multe căi de abuz.
 
 ### Sustainable Debt to Ownership Ratios
 
