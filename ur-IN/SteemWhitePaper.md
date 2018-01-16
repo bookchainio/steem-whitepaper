@@ -294,13 +294,13 @@ SBD ہولڈران کو سود ادا کرتا ہے. سود کی شرح ان ہ�
 
 ### سائبل (Sybil) حملے
 
-مرکزی ویب سائٹس فضولیات کو شرح کے محدود کرنے اور کسی قسم کی شناخت کی تصدیق کے ذریعے روکتی ہیں. یہاں تک کہ کچھ سادہ سے سادہ جیسے ریکیپچا (reCaptcha) بھی جعلی اکاونٹس کی تخلیق کو محدود کرنے کے لئے کافی ہے. If someone abuses their account then centralized websites are free to block the account.
+مرکزی ویب سائٹس فضولیات کو شرح کے محدود کرنے اور کسی قسم کی شناخت کی تصدیق کے ذریعے روکتی ہیں. یہاں تک کہ کچھ سادہ سے سادہ جیسے ریکیپچا (reCaptcha) بھی جعلی اکاونٹس کی تخلیق کو محدود کرنے کے لئے کافی ہے. اگر کوئی ان کے اکاونٹ کا غلط استعمال کرتا ہے تو مرکزی ویب سائٹس ان اکاونٹ کو بند کرنے کی آزادی رکھتی ہیں.
 
-In a decentralized system there is no direct way to ban users nor centralized provider able to host a reCAPTCHA and enforce rate limiting of accounts. In fact, the inability to censor users is one of the main selling points of blockchain technology.
+ایک غیرمرکزی نطام میں، صارفین کی پابندی کے لئے کوئی براہ راست راستہ نہیں ہے اور نہ ہی کوئی مرکزی خدمات دینے والا ریکیپچا کے ذریعے جعلی اکاونٹس کی شرح کو محدود کر سکتا ہے. حقیقت میں، صارفین کے احتساب کی صلاحیت کا نہ ہونا ہی بلاکچین ٹیکنالوجی کی فروخت کے مرکزی اشاروں میں سے ایک اہم اشارہ ہے.
 
-### Full Reserve vs Fractional Reserve
+### کلی مختص بمقابل جزوی مختص
 
-Let’s view a blockchain like an Internet Service Provider (ISP) co-op which owns all of the cables in the town and has a maximum amount of bandwidth that it can provide at any time. People living in the town can buy shares in the ISP and in exchange they are entitled to utilize a portion of the available bandwidth.
+چلیں ایک بلاکچین کو ایک انٹرنیٹ سروس فراہم کرنے والی کمپنی کی طرح سمجھتے ہیں جو شہر کے تمام کیبلز کی مالک ہے اور اس کے پاس اتنا زیادہ بینڈوڈتھ ہے جو وہ کسی بھی وقت فراہم کر سکتی ہے. People living in the town can buy shares in the ISP and in exchange they are entitled to utilize a portion of the available bandwidth.
 
 The ISP has two choices, run a “full reserve” or “fractional reserve” system. Under a full reserve system each user is only allowed a fraction of the maximum bandwidth proportional to her shares. Because not everyone uses the Internet at the same time, the town’s network would be significantly underutilized.
 
