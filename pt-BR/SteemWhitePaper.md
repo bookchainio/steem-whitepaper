@@ -392,22 +392,22 @@ Para alcançar essa performance líder na indústria, o Steem pegou emprestado a
 
 Seguindo essas regras simples, o Steem é capaz de processar 10.000 transações por segundo sem qualquer esforço significante focado na otimização.
 
-Manter tudo na memória é cada vez mais viável devido à recente introdução da tecnologia Optane™ da Intel[^14]. Deve ser possível para mercadorias de hardware lidar com toda a lógica de negócios associadas com o Steem em um único thread com todos os posts mantidos na memória para uma indexação rápida. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optane™ technology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
+Manter tudo na memória é cada vez mais viável devido à recente introdução da tecnologia Optane™ da Intel[^14]. Deve ser possível para mercadorias de hardware lidar com toda a lógica de negócios associadas com o Steem em um único thread com todos os posts mantidos na memória para uma indexação rápida. Até mesmo o Google mantém o seu índice totalmente na memória RAM. O uso da tecnologia blockchain torna trivial a replicação do banco de dados em muitas máquinas para prevenir a perda de dados. Assim que a tecnologia Optane™ dominar, a RAM será ainda mais rápida enquanto ganha persistência. Em outras palavras, o Steem é projetado para as arquiteturas do futuro e é projetado para expansão.
 
-# Allocation & Supply
+# Alocação & Oferta
 
-## Initial Allocation & Supply
+## Alocação Inicial & Oferta
 
-The Steem network started with a currency supply of 0 and allocated STEEM via proof of work at a rate of approximately 40 STEEM per minute to miners, with an additional 40 STEEM per minute being created to seed the content and curation reward pools (for a total of 80 STEEM per minute). Then the network started rewarding users who converted to SP. At this point, STEEM grew at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
+A rede Steem iniciou com uma oferta de 0 e alocou STEEM via prova de trabalho a uma taxa de aproximadamente 40 STEEM por minuto para os mineradores, com um adicional de 40 STEEM por minuto sendo criado para alimentar o conjunto de recompensas de conteúdo e curadoria (para um total de 80 STEEM por minuto). Então a rede iniciou a recompensar os usuários que os converteram em SP. Nesse ponto, o STEEM cresceu a uma taxa de aproximadamente 800 STEEM por minuto devido aos efeitos combinados de várias Recompensas de Contribuição resumidas abaixo:
 
-Contribution Rewards:
+Recompensas de Contribuição:
 
-- Curation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
-- Content Creation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
-- Block production rewards: 1 STEEM per block or 0.750% per year, whichever is greater
-- POW inclusion rewards before block 864,000: 1 STEEM per block (awarded as 21 STEEM per round)
-- POW inclusion rewards after block 864,000: 0.0476 STEEM per block (awarded as 1 STEEM per round) or 0.750% per year, whichever is greater.
-- Liquidity rewards: 1 STEEM per block (awarded as 1200 STEEM per hour) or 0.750% per year, whichever is greater
+- Recompensas de curadoria: 1 STEEM por bloco ou 3,875% por ano, o que for maior
+- Recompensas de Criação de Conteúdo: 1 STEEM por bloco ou 3,875% por ano, o que for maior
+- Recompensas de produção de bloco: 1 STEEM por bloco ou 0,875% por ano, o que for maior
+- Recompensas de PdT antes do bloco 864.000: 1 STEEM por bloco (recompensado como 21 STEEM por rodada)
+- Recompensas de inclusão de PdT após o bloco 864.000: 0,0476 STEEM por bloco (recompensado como 1 STEEM por rodada) ou 0,750% por ano, o que for maior.
+- Recompensa de Liquidez: 1 STEEM por bloco (recompensados como 1200 STEEM por hora) ou 0,750% por ano, o que for maior
 
 ### Power Rewards:
 
