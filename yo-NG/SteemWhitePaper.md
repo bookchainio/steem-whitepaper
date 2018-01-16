@@ -48,9 +48,9 @@ Ero akako ti akoole lori ifowo pamo Steemu je STEEM, ti an pe ni kryptokorensi t
 
 A se itoju Steemu ni ayika idanniloju to rorun: itoka ilowosi gbogbo eniyan si agbegbe ye ki a se akiyesi fun iye ti o se afikun. Iyooda ninu fifunni ati gba laarin agbegbe kan ko ni iloyemo. Nigbamii awon ti nfunni nii o kunra lati se atileyin fun awon onise ati lati yo kuro ni agbegbe.
 
-The challenge is creating a system capable of identifying what contributions are needed and their relative worth in a way that can scale to an unbounded number of people.
+Ipenija naa ni ipilese eto ti o le ni idanilojuawon igbese ti a nilo ati pe ibatan won ni ona ti o le se iwon si nomba ti a ko ni igbehin ti awon eniyan.
 
-A proven system for evaluating and rewarding contributions is the free market. The free market can be viewed as a single community where everyone trades with one another and rewards are allocated by profit and loss. The market system rewards those who provide value to others and punishes those who consume more value than they produce. The free market supports many different currencies and money is simply a commodity that everyone finds easy to exchange.
+Eto ti a fihan fun sise isiro ati awon iribun je ere ni oja ofe. Osuwon ofe ni a le bojuwo bi ara ilu kan nibiti gbogbo eniyan n se isowo pelu ara won ati awon ere ti a pin nipa idari ati pipadanu. Eto isowo naa n fun awon ti o funni ni iye fun awon elomiran ati pe o jebi awon ti o je iye die ju ti won lo. The free market supports many different currencies and money is simply a commodity that everyone finds easy to exchange.
 
 Since the free market is a proven system, it is tempting to try to create a free-market system where content consumers directly pay content producers. However, direct payment is inefficient and not really viable for content creation and curation. The value of most content is so low relative to the cognitive, financial, and opportunity costs associated with making a payment that few readers choose to tip. The abundance of free alternatives means that enforcing a ‘paywall’ will drive readers elsewhere. There have been several attempts to implement per-article micropayments from readers to authors, but none have become widespread.
 
