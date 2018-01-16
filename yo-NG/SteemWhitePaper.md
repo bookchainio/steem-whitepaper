@@ -50,7 +50,7 @@ A se itoju Steemu ni ayika idanniloju to rorun: itoka ilowosi gbogbo eniyan si a
 
 Ipenija naa ni ipilese eto ti o le ni idanilojuawon igbese ti a nilo ati pe ibatan won ni ona ti o le se iwon si nomba ti a ko ni igbehin ti awon eniyan.
 
-Eto ti a fihan fun sise isiro ati awon iribun je ere ni oja ofe. Osuwon ofe ni a le bojuwo bi ara ilu kan nibiti gbogbo eniyan n se isowo pelu ara won ati awon ere ti a pin nipa idari ati pipadanu. Eto isowo naa n fun awon ti o funni ni iye fun awon elomiran ati pe o jebi awon ti o je iye die ju ti won lo. The free market supports many different currencies and money is simply a commodity that everyone finds easy to exchange.
+Eto ti a fihan fun sise isiro ati awon iribun je ere ni oja ofe. Osuwon ofe ni a le bojuwo bi ara ilu kan nibiti gbogbo eniyan n se isowo pelu ara won ati awon ere ti a pin nipa idari ati pipadanu. Eto isowo naa n fun awon ti o funni ni iye fun awon elomiran ati pe o jebi awon ti o je iye die ju ti won lo. Osunwon ofe ko ni atileyin opolopo awon owo nina ati owo je nikan oja ti gbogbo eniyan ni o rorun lati se pasipaaro.
 
 Since the free market is a proven system, it is tempting to try to create a free-market system where content consumers directly pay content producers. However, direct payment is inefficient and not really viable for content creation and curation. The value of most content is so low relative to the cognitive, financial, and opportunity costs associated with making a payment that few readers choose to tip. The abundance of free alternatives means that enforcing a ‘paywall’ will drive readers elsewhere. There have been several attempts to implement per-article micropayments from readers to authors, but none have become widespread.
 
