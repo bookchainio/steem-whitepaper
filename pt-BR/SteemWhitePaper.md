@@ -368,17 +368,17 @@ Usando essa lógica, nós podemos assumir que um sistema baseado em taxas ou ser
 
 Nó podemos concluir disso que uma blockchain é melhor servida ao não utilizar nenhuma taxas de uso. Se uma taxa de uso fosse cobrada como uma alternativa à limitação de proporção, então deverá ser equivalente a comprar a participação de tempo suficiente e se comprometer a mantê-las por tempo suficiente para obter o direito de utilizá-las.
 
-Colocado de outra forma, uma taxa de transação deverá ser igual ao saldo mínimo de conta necessário para transacionar uma vez por semana e deverá ser reembolsado no fim da semana. Suponha que o saldo mínimo de conta é $1 e permite que alguém realize transações uma vez por semana. If someone with a $1 balance that wishes to perform 5 transactions at once they will have to increase their balance to $5 for a week either before or after their transactions.
+Colocado de outra forma, uma taxa de transação deverá ser igual ao saldo mínimo de conta necessário para transacionar uma vez por semana e deverá ser reembolsado no fim da semana. Suponha que o saldo mínimo de conta é $1 e permite que alguém realize transações uma vez por semana. Se alguém com um saldo de $1 que deseje realizar 5 transações de uma vez eles deverão aumentar o seu saldo para $5 por uma semana seja antes ou depois da transação.
 
-In theory a market could form where users can borrow the stake required. In practice it is more efficient for users to simply buy and sell the timeshares necessary to meet their desired usage rate. In other words, the cost of negotiating micro-loans is greater than the cost of maintaining a balance suitable for your maximum weekly usage.
+Teoricamente um mercado poderia se formar aonde os usuários podem emprestar a quantidade necessária. Na prática é mais eficiente para os usuários simplesmente comprar e vender participações de tempo para alcançar a sua proporção de uso desejada. Em outras palavras, o custo de negociar micro-empréstimos é maior que o custo de manter um saldo suficiente para a utilização máxima semanal.
 
-Decentralized rate limiting of transactions can enable new types of decentralized applications that were not viable when every use of the application required a micropayment. This new model gives application developers the ability to decide if and when to charge their users for transactions.
+O limite descentralizado proporcional de transações pode permitir novos tipos de aplicações descentralizadas que não eram viáveis quando toda utilização da aplicação exigia um micro pagamento. Esse novo modelo dá aos desenvolvedores de aplicações a habilidade de decidir se e quando cobrar os seus usuários pelas transações.
 
-# Performance and Scalability
+# Performance e Escalabilidade
 
-The Steem network is built upon Graphene, the same technology that powers BitShares. Graphene has been publicly demonstrated sustaining over 1000 transactions per second on a distributed test network. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
+A rede Steem é constrída sobre o Graphene, a mesma tecnologia que alimenta o BitShares. O Graphene demonstrou publicamente a capacidade de sustentar 1000 transações por segundo em uma rede distribuída de testes. O Graphene pode expandir para 10.000 ou mais transações por segundo com melhorias simples e diretas na capacidade de servidor e protocolos de comunicação.
 
-## Reddit Scale
+## A Escala Reddit
 
 Steem is capable of handling a larger userbase than Reddit. In 2015 Reddit’s 8.7 million users generated an average of 23 comments per second[^12], with an average of 83 comments per year per user. There were 73 million top-level posts, for an average of 2 new posts per second. There were about 7 billion up votes creating an average voting rate of 220 votes per second. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
 
