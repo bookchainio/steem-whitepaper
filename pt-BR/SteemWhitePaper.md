@@ -380,19 +380,19 @@ A rede Steem é constrída sobre o Graphene, a mesma tecnologia que alimenta o B
 
 ## A Escala Reddit
 
-Steem is capable of handling a larger userbase than Reddit. In 2015 Reddit’s 8.7 million users generated an average of 23 comments per second[^12], with an average of 83 comments per year per user. There were 73 million top-level posts, for an average of 2 new posts per second. There were about 7 billion up votes creating an average voting rate of 220 votes per second. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
+O Steem é capaz de lidar com uma base de usuários maior que a do Reddit. Em 2015 os 8.7 milhões de usuários do Reddit geraram uma média de 23 comentários por segundo[^12], com uma média de 83 comentários por ano por usuário. Existiam 73 milhões de posts de nível alto, para uma média de 2 novos posts por segundo. Existiam cerca de 7 bilhões de votos positivos criando uma taxa média de votação de 220 votos por segundo. Dito isso, se o Reddit estivesse operando em uma blockchain seria necessário uma média de 250 transações por segundo.
 
-To achieve this industry-leading performance, Steem has borrowed lessons learned from the LMAX Exchange[^13], which is able to process 6 million transactions per second. Among these lessons are the following key points:
+Para alcançar essa performance líder na indústria, o Steem pegou emprestado as lições aprendidas com a Exchange LMAX[^13], que é capaz de processar 6 milhões de transações por segundo. Entre essas lições estão os seguintes pontos principais:
 
-1. Keep everything in memory.
-2. Keep the core business logic in a single thread.
-3. Keep cryptographic operations (hashes and signatures) out of the core business logic.
-4. Divide validation into state-dependent and state-independent checks.
-5. Use an object oriented data model.
+1. Manter tudo na memória.
+2. Manter a lógica nuclear de negócios em um único thread.
+3. Manter operações criptográficas (hashes e assinaturas) fora da lógica nuclear de negócios.
+4. Dividir a validação em verificações dependente-de-estado e independente-de-estado.
+5. Utilizar um modelo de dados orientado a objetos.
 
-By following these simple rules, Steem is able to process 10,000 transactions per second without any significant effort devoted to optimization.
+Seguindo essas regras simples, o Steem é capaz de processar 10.000 transações por segundo sem qualquer esforço significante focado na otimização.
 
-Keeping everything in memory is increasingly viable given the recent introduction of Optane™ technology from Intel[^14]. It should be possible for commodity hardware to handle all of the business logic associated with Steem in a single thread with all posts kept in memory for rapid indexing. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optane™ technology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
+Manter tudo na memória é cada vez mais viável devido à recente introdução da tecnologia Optane™ da Intel[^14]. Deve ser possível para mercadorias de hardware lidar com toda a lógica de negócios associadas com o Steem em um único thread com todos os posts mantidos na memória para uma indexação rápida. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optane™ technology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
 
 # Allocation & Supply
 
