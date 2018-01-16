@@ -148,7 +148,7 @@ Eğer Steem yayın üreticileri, faiz oranları üzerinde tümüyle kontrol sahi
 
 Steem yayın üreticilerinin öncelikli kaygısı SBD ile Amerikan Doları (USD) arasında bire-bir dönüşümü sürdürmektir. SBD'nin $1.00 USD'den fazlaya alınıp satıldığı her durumda faiz ödemeleri durdurulmalıdır. Borçlanma üzerindeki %0 faize rağmen hala kar payına rağbet olan bir piyasada, piyasanın topluluğun borçlanmak istediğinden dafa fazla kredi sağlama eğiliminde olduğunu söylemek yanlış olmaz. Eğer bu gerçekleşirse SBD $1.00'dan daha fazla olarak değer bulur ve topluluğun da eksi oranlarda faiz işletmekten daha fazla yapabileceği bir şey yoktur.
 
-Eger borçlanmanın özkaynağa oranı düşükse ve SBD $1.00'dan aşağıya alınıp satılıyorsa, o zaman faiz oranları artırılmalıdır. Bu daha fazla insanı elinde SBD tutma konusunda cesaretlendirir ve fiyatı destekler.
+Eğer borçlanmanın özkaynağa oranı düşükse ve SBD $1.00'dan aşağıya alınıp satılıyorsa, o zaman faiz oranları artırılmalıdır. Bu daha fazla insanı elinde SBD tutma konusunda cesaretlendirir ve fiyatı destekler.
 
 Eğer SBD $1.00'dan daha aza alınıp satılırsa ve borç-özkaynak oranı yüksekse, o zaman fiyat yayınları yukarı doğru ayarlanmalı ve SBD başına daha fazla STEEM verilmelidir. Bu, borcun özkaynağa oranını düşürüp SBD'yi USD denkliğine geri çekerken, SBD'ye olan talebi de artırır.
 
@@ -158,9 +158,9 @@ Fiiliyatta, USD ile denklik yaratacak şekilde bir para politikasının benimsen
 
 Eğer borçlanma-Özkaynak oranı tehlikeli seviyede yukarı çıkarsa ve piyasa katılımcıları dönüşüm talepleri yapmaktan kaçınırlarsa, bu durumda yayın SBD'ye dönüşüm için ödenen STEEM oranlarında artış sağlayacak şekilde ayarlanmalıdır.
 
-STEEM/SBD dönüşümlerindeki faiz oranı politikalarındaki ve/veya harhangi bir kar payı/iskonto'daki değişiklikler, kısa vadeli piyasa şartlarına cevap vermek için degil; yavaşça ve uzun vadeli ortalama sapmalara verilen hesaplı bir yanıt olarak yapılmalıdır.
+STEEM/SBD dönüşümlerindeki faiz oranı politikalarındaki ve/veya herhangi bir kar payı/iskontodaki değişiklikler, kısa vadeli piyasa şartlarına cevap vermek için değil; yavaşça ve uzun vadeli ortalama sapmalara verilen hesaplı bir yanıt olarak yapılmalıdır.
 
-İnancımız odur ki bu kuralar piyasa katılımcılarına $1.00'dan aldıkları SBD'yi ellerinde tutmaları halinde para kaybetmeyecekleri hususunda güven temin edecektir. Biz normal piyasa koşulları altında SBD icin $0.95 ve $1.05 arasında bir alım satım aralığı olmasını bekliyoruz.
+İnancımız odur ki bu kuralar piyasa katılımcılarına $1.00'dan aldıkları SBD'yi ellerinde tutmaları halinde para kaybetmeyecekleri hususunda güven temin edecektir. Biz normal piyasa koşulları altında SBD için $0.95 ve $1.05 arasında bir alım satım aralığı olmasını bekliyoruz.
 
 ## Öznel Katkılar
 
@@ -168,7 +168,7 @@ STEEM/SBD dönüşümlerindeki faiz oranı politikalarındaki ve/veya harhangi b
 
 Fiiliyatta, work'ün değerlendirildigi kriterler tümüyle özneldir ve onun tanımı kaynak kodunun dışında bulunur. Bir topluluk sanatçıları ödüllendirmeyi ister, bir diğeri şairleri ve ötekisi ise komedyenleri. Diğer topluluklar hayırseverliği ödüllendirir ya da politik hedeflere yardım eder.
 
-Her bir para biriminin edindiği değer, spesifik bir topluluk içerisindeki etkiye duyulan talebe ve her topluluğun ne kadar piyasa güveni kazabileceğine bağlıdır. Önceki sistemlerden farklı olarak, öznel proof of work bir topluluğa her neyi değerli buluyorsa onu fonlayabilme imkanı tanır ve daha öncesinde parasallaştırılması mümkün olmayan zamanın parasallaştırılmasına izin verir.
+Her bir para biriminin edindiği değer, spesifik bir topluluk içerisindeki etkiye duyulan talebe ve her topluluğun ne kadar piyasa güveni kazanabileceğine bağlıdır. Önceki sistemlerden farklı olarak, öznel proof of work bir topluluğa her neyi değerli buluyorsa onu fonlayabilme imkanı tanır ve daha öncesinde parasallaştırılması mümkün olmayan zamanın parasallaştırılmasına izin verir.
 
 ### Para Biriminin Dağıtımı
 
