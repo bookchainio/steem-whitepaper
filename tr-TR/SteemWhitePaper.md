@@ -376,7 +376,7 @@ Yeni tür desantralize uygulamalar -kullanımı için küçük çaplı bir ödem
 
 # Perfomans ve Ölçeklenebilirlik
 
-Steem agi, BitShares'i calistiran ayni teknoloji olan Graphene üzerine insa edilmistir. Graphene bir dagitik test agi üzerinde saniyede 1000'den fazla islemi destekleyekleyebildigini aleni bir sekilde kanitlamistir. Graphene, sunucu kapasitesi ve iletisim protokollerine yapilacak göreli basit gelistirmeler ile birlikte, saniyede10,000 ya da daha fazla sayida islemi kolaylikla ölcekleyebilir.
+Steem ağı, BitShares'i çalıştıran aynı teknoloji olan Graphene üzerine inşa edilmiştir. Graphene bir dagitik test agi üzerinde saniyede 1000'den fazla islemi destekleyekleyebildigini aleni bir sekilde kanitlamistir. Graphene, sunucu kapasitesi ve iletisim protokollerine yapilacak göreli basit gelistirmeler ile birlikte, saniyede10,000 ya da daha fazla sayida islemi kolaylikla ölcekleyebilir.
 
 ## Reddit Ölcegi
 
