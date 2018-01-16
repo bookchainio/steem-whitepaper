@@ -358,7 +358,7 @@ Sob a abordagem de limitação de proporção, alguém que detenha 1% de todas a
 
 Quando alguém é dono de uma casa ele espera o direito de utilizar essa casa de graça. Se um grupo de pessoas compram uma casa juntos então cada pessoa espera o direito de usar a casa proporcionalmente ao seu percentual de propriedade da casa. Uma blockchain baseada em taxas é como alugar uma casa dos seus priprietários, enquanto a limitação de proporção é como um compartilhamento temporário entre os prroprietários.
 
-If a house is owned by multiple people then those individuals must decide how they wish to timeshare the house. Someone who owns 50% of the house but only uses it one weekend per year might expect to be paid by the individuals who take their unused time. This is the mindset of a fee based system.
+Se uma casa pertence a várias pessoas, então esses indivíduos devem decidir como eles desejam dividir o tempo no uso da casa. Someone who owns 50% of the house but only uses it one weekend per year might expect to be paid by the individuals who take their unused time. This is the mindset of a fee based system.
 
 On the other hand, someone who owns 50% of the house is speculating that demand for the house will increase in the future and they will be able to sell their stake for more. Any owner who owns more of a house than they use becomes a real estate speculator. With this mindset rather than collecting rent, they collect appreciation.
 
