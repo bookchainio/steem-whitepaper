@@ -46,7 +46,7 @@ Awon iru ero ti n salaye sise lori awon olumulo kan, ilana idibo-kan. Eyi n seda
 
 Ero akako ti akoole lori ifowo pamo Steemu je STEEM, ti an pe ni kryptokorensi tokini. Steemu n sise lori ipile okan-STEEMU, okan-idibo. Labe awose yi, awon eni-kookan ti o ti se pataki julo si ipile, gegebi a se ayewo nipase iseduro isowo won, ni pa pupo julo lori bi a se awon idiwon. Pelupelu, Steem nikan ngbanilaye awon omo egbe lati dibo pelu STEEMU nigbati o ba se si ose ti iseto ti a npe ni pa agbara Steemu. Labe awose yi, awon omo egbe ni igbaradi owo lati dibo ni ona ti o mu iwon iye igba pipe ti STEEMU won ga.
 
-Steem is designed around a relatively simple concept: *everyone’s meaningful contribution to the community should be recognized for the value it adds.* When people are recognized for their meaningful contributions, they continue contributing and the community grows. Any imbalance in the give and take within a community is unsustainable. Eventually the givers grow tired of supporting the takers and disengage from the community.
+A se itoju Steemu ni ayika idanniloju to rorun: itoka ilowosi gbogbo eniyan si agbegbe ye ki a se akiyesi fun iye ti o se afikun. Iyooda ninu fifunni ati gba laarin agbegbe kan ko ni iloyemo. Nigbamii awon ti nfunni nii o kunra lati se atileyin fun awon onise ati lati yo kuro ni agbegbe.
 
 The challenge is creating a system capable of identifying what contributions are needed and their relative worth in a way that can scale to an unbounded number of people.
 
