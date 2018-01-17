@@ -34,11 +34,11 @@ Spis Treści:
 4. Darmowe płatności.
 5. Jobs providing above services to other members.
 
-Celowa reorganizacja bodźców ekonomii Steem ma potencjał do produkowania bardziej kompletnych i sprawiedliwych rezultatów dla każdego zaangażowanego w media społecznościowe i platformy krytowalut bardziej niż kiedykolwiek wcześniej. This paper will explore the existing economic incentives and demonstrate how Steem’s incentives may result in better outcomes for most participants.
+Celowa reorganizacja bodźców ekonomii Steem ma potencjał do produkowania bardziej kompletnych i sprawiedliwych rezultatów dla każdego zaangażowanego w media społecznościowe i platformy krytowalut bardziej niż kiedykolwiek wcześniej. Ten dokument zgłębi istnięjące ekonomiczne bodźce i zademonstruje jak zachęty platformy Steem mogą doprowadzić do lepszych rezultatów dla większości uczestników.
 
 ## Rozpoznawanie wkładu
 
-Steem is designed from the ground up to address the major barriers to adoption and monetization of a social media based economy. Our thesis is that the same techniques used to grow major social media platforms can be used to bootstrap a successful cryptocurrency. Economic incentives enabled by cryptocurrency can dramatically facilitate the growth of a new social media platform. It is the synergy between cryptocurrency and social media that we believe may give Steem a powerful advantage in the market.
+Steem jest zaprojektowany od podstaw by przełamać większość barier w drodze do przyjęcia i monetaryzacji ekonomii opartej o media społecznościowe. Według nas techniki, które pozwoliły na rozwój największych platform mediów społecznościowych mogą zostać użyte to wystartowania kryptowaluty, która ma szansę odnieść sukces. Economic incentives enabled by cryptocurrency can dramatically facilitate the growth of a new social media platform. It is the synergy between cryptocurrency and social media that we believe may give Steem a powerful advantage in the market.
 
 The challenge faced by Steem is deriving an algorithm for scoring individual contributions that most community members consider to be a fair assessment of the subjective value of each contribution. In a perfect world, community members would cooperate to rate each other's contribution and derive a fair compensation. In the real world, algorithms must be designed in such a manner that they are resistant to intentional manipulation for profit. Any widespread abuse of the scoring system could cause community members to lose faith in the perceived fairness of the economic system.
 
