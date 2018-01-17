@@ -22,11 +22,11 @@ Razem, treść tworzona przez użytkowników wygenerowała miliardy dolarów zys
 
 Istnieje parę kluczowych kwestii, które przewodziły procesowi projektowania ekosystemu Steem. Najważniejszą zasadą jest fakt, iż każdy, kto przyczynia się do rozwoju przedsięwzięcia powinien dostać za to proporcjonalną część własności, zapłaty lub zadłużenia ze strony przedsiębiorstwa. Ta zasada jest tym samym, co jest stosowane we wszystkich startupach, które alokują udziały w funduszach oraz podczas dalszych etapów finansowania.
 
-Drugą zasadą jest fakt, iż każda forma kapitału jest tak samo wartościowa. Oznacza to, że Ci, który poświęcają ich cenny czas i uwagę na produkowanie oraz ocenianie treści dla innych są tak samo wartościowi, jak Ci, którzy przeznaczają na to swoje cenne środki. This is the sweat equity principle[^2] and is a concept that prior cryptocurrencies have often had trouble providing to more than a few dozen individuals.
+Drugą zasadą jest fakt, iż każda forma kapitału jest tak samo wartościowa. Oznacza to, że Ci, który poświęcają ich cenny czas i uwagę na produkowanie oraz ocenianie treści dla innych są tak samo wartościowi, jak Ci, którzy przeznaczają na to swoje cenne środki. Jest to nazywane "zasadą równości potu"[^2] i jest to koncept, przez który poprzednie kryptowaluty często borykały się z problemem zaopatrywania więcej niż tylko małej grupy jednostek.
 
-The third principle is that the community produces products to serve its members. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
+Trzecia zasadą jest fakt, iż społeczność produkuje wyroby, by służyć jej członkom. Ta zasada jest ilustrowana przez unie kredytowe, kooperacje żywnościowe i grupowe ubezpieczenia zdrowotne, które służą członkom ich społeczności, a nie sprzedają produkty lub usługi poza społeczność.
 
-The Steem community provides the following services to its members:
+Spis Treści:
 
 1. A source of curated news and commentary.
 2. A means to get high quality answers to personalized questions.
