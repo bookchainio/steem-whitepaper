@@ -28,13 +28,13 @@ Trzecia zasadą jest fakt, iż społeczność produkuje wyroby, by służyć jej
 
 Spis Treści:
 
-1. A source of curated news and commentary.
-2. A means to get high quality answers to personalized questions.
-3. A stable cryptocurrency pegged to the U.S. dollar.
-4. Free payments.
+1. Źródło ocenianych wiadomości i komentarzy.
+2. Środki do uzyskania wartościowych odpowiedzi do spersonalizowanych pytań.
+3. Stabilna kryptowaluta ustalana w odniesieniu do Dolara Amerykańskiego.
+4. Darmowe płatności.
 5. Jobs providing above services to other members.
 
-Steem’s purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem’s incentives may result in better outcomes for most participants.
+Celowa reorganizacja bodźców ekonomii Steem ma potencjał do produkowania bardziej kompletnych i sprawiedliwych rezultatów dla każdego zaangażowanego w media społecznościowe i platformy krytowalut bardziej niż kiedykolwiek wcześniej. This paper will explore the existing economic incentives and demonstrate how Steem’s incentives may result in better outcomes for most participants.
 
 ## Rozpoznawanie wkładu
 
