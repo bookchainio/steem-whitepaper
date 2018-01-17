@@ -20,7 +20,7 @@ Steem jest bazą danych opartą o technologię blockchain wspierającą budowani
 
 Razem, treść tworzona przez użytkowników wygenerowała miliardy dolarów zysku dla udziałowców firm, opartych o media społecznościowe, takich jak: Reddit, Facebook czy Twitter. **W 2014 roku Reddit postawił hipotezę, że ich platforma mogłaby zostać udoskonalona, jeżeli każdy, kto wniósł coś do reddit.com poprzez postowanie, komentowanie lub głosowanie byłby nagradzany odpowiednią ilością udziałów w Reddit, Inc. [^1]**. Steem stara się wspierać media społecznościowe oraz internetowe społeczności poprzez zwracanie większej części jego wartości do ludzi, którzy dostarczają wartościowego wkładu poprzez nagrodę w postaci kryptowaluty, jednocześnie tworząc kryptowalutę, która jest w stanie dotrzeć do szerokiego grona odbiorców, wliczając w to ludzi, który nigdy nie mieli styczności z ekonomią kryptowalut.
 
-Istnieje parę kluczowych kwestii, które przewodziły procesowi projektowania ekosystemu Steem. Najważniejszą zasadą jest fakt, iż każdy, kto przyczynia się do rozwoju przedsięwzięcia powinien dostać za to proporcjonalną część własności, zapłaty lub zadłużenia ze strony przedsiębiorstwa. This principle is the same principle that is applied to all startups as they allocate shares at founding and during subsequent funding rounds.
+Istnieje parę kluczowych kwestii, które przewodziły procesowi projektowania ekosystemu Steem. Najważniejszą zasadą jest fakt, iż każdy, kto przyczynia się do rozwoju przedsięwzięcia powinien dostać za to proporcjonalną część własności, zapłaty lub zadłużenia ze strony przedsiębiorstwa. Ta zasada jest tym samym, co jest stosowane we wszystkich startupach, które alokują udziały w funduszach oraz podczas dalszych etapów finansowania.
 
 The second principle is that all forms of capital are equally valuable. This means that those who contribute their scarce time and attention toward producing and curating content for others are just as valuable as those who contribute their scarce cash. This is the sweat equity principle[^2] and is a concept that prior cryptocurrencies have often had trouble providing to more than a few dozen individuals.
 
@@ -499,7 +499,7 @@ Freedom of speech is the foundation of all other liberties and any infringement 
 
 Most cryptocurrencies generate little value for those who are not actively using the network. Steem, by contrast, generates content and encourages users to share it. This content gets indexed by search engines and ultimately will bring value to a large number of passive users. This search traffic creates organic advertising for the Steem network and grows the network effect.
 
-## Shifting Toward Blockchain-based Attribution
+## Zmiana w kierunku technologii opartej na Blockchain
 
 The internet represents the easiest medium for distributing information in the world. With that said, it can be a frightening place for content creators who would like to own their content and have it shared with proper attribution. On current social media platforms, attribution is something that can be lost overnight - a posted video or image can be replicated and re-shared without consent or regard for the creator.
 
@@ -507,13 +507,13 @@ Under blockchain-based social media, a creator or author would always be able to
 
 While a timestamping service can be built on almost any blockchain, and several efforts exist to build this kind of service on the Bitcoin network, Steem has a useful advantage in this realm because content publishers are “first class citizens” -- the Steem blockchain is built from the ground up around the use case of content publication, which allows content creators to have the blockchain to validate their content at a certain point in time simply by writing their post using the same authoring tools used by other Steem users.
 
-## Replacing Advertising with Blockchain-based Content Rewards
+## Zamiana reklam na nagrody dla twórców treści oparte na technologii Blockchain
 
 Under most content monetization models, content creators leverage advertising in one form or another. Many creators recognize how advertising may diminish their work’s value to the consumer, yet creators very often must seek returns on their time by monetizing. Advertising represents a double-edged sword: With ads, a creator can make money most easily. Without ads, monetization is difficult but the content is richer.
 
 Creators posting to social media outlets that are connected to Steem may monetize merely by having their work recognized (or ”liked”) by the Steem community. Blockchain-based payouts are completely digital and have no middle-man. Therefore monetization by blockchain-based content rewards should be faster and much lower barrier to use than monetization by advertisements.
 
-# Conclusion
+# Wnioski
 
 Steem is an experiment designed to address challenges in the cryptocurrency and social media industries by combining the best aspects from both. Steem presents earning opportunities to content creators and internet readers in ways that have not existed within the social media industry. Within Steem, individuals earn real rewards online that are directly correlated to their contributions. Those rewards may have dollar value due to the market price discovery and liquidity of Steem, and the people who hold Steem may have more exclusive earning powers than those who do not.
 
