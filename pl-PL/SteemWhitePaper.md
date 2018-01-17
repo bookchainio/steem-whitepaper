@@ -400,7 +400,7 @@ Keeping everything in memory is increasingly viable given the recent introductio
 
 The Steem network started with a currency supply of 0 and allocated STEEM via proof of work at a rate of approximately 40 STEEM per minute to miners, with an additional 40 STEEM per minute being created to seed the content and curation reward pools (for a total of 80 STEEM per minute). Then the network started rewarding users who converted to SP. At this point, STEEM grew at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
 
-Contribution Rewards:
+Nagrody za wkład ze strony użytkownika:
 
 - Curation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
 - Content Creation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
@@ -409,23 +409,23 @@ Contribution Rewards:
 - POW inclusion rewards after block 864,000: 0.0476 STEEM per block (awarded as 1 STEEM per round) or 0.750% per year, whichever is greater.
 - Liquidity rewards: 1 STEEM per block (awarded as 1200 STEEM per hour) or 0.750% per year, whichever is greater
 
-### Power Rewards:
+### Nagrody oparte o Steem Power:
 
 - Steem Power rewards: For each STEEM created by the above rewards, 9 STEEM are divided among all Steem Power holders.
 
-### SBD operations:
+### Operacje na SBD:
 
 - SBD rewards: A percentage of SBD value is created at an APR set by the witnesses and paid to SBD holders as SBD
 
 The overall supply picture is complicated by the effect of SBD operations, which may result in large-scale creation or destruction of STEEM through feed rate following and SBD rewards, as discussed in the SBD section. Other, smaller-scale complicating effects also exist, including unclaimed incentives (e.g. block rewards for missed blocks), and abandoned accounts.
 
-## Current Allocation & Supply
+## Obecna alokacja i zaopatrzenie
 
 Starting with the network's 16th hard fork in December 2016, Steem began creating new tokens at a yearly inflation rate of 9.5%. The inflation rate decreases at a rate of 0.01% every 250,000 blocks, or about 0.5% per year. The inflation will continue decreasing at this pace until the overall inflation rate reaches 0.95%. This will take about 20.5 years from the time hard fork 16 went into effect.
 
 75% of the new tokens that are generated go to fund the reward pool, which is split between authors and curators. 15% of the new tokens are awarded to holders of SP. The remaining 10% pays for the witnesses to power the blockchain.
 
-### Impact of Token Creation Rate
+### Wpływ Współczynnika Tworzenia Tokenów
 
 It is often said that a coin with an inflationary model is not sustainable, but we know from countless real-world examples that the quantity of money does not have a direct and immediate impact on its value, though it certainly plays a role.
 
@@ -435,7 +435,7 @@ For the first 2 years of Bitcoin’s life the network sustained an annual inflat
 
 The price of a digital commodity, like STEEM, is driven by both supply and demand. When a long-term holder decides to exit, the supply of STEEM on the market will increase and push the price down. This downward pressure is countered when a new long-term holder decides to buy up the STEEM and convert it back into SP. Additional supply and demand may be be added due to market speculators buying and selling liquid STEEM based on their predictions of the future market price.
 
-# The Power of Steem
+# Moc Steemu
 
 Steem recognizes that the value of all user contributions (posts and votes) is greater than the sum of the parts. A single comment is worth next to nothing, but millions of curated posts is worth many millions (or possibly even billions) of dollars. A single vote provides little curation value, but billions of votes is very effective curation. Content without curation is of limited value. Given all the content of the Internet minus the links between it, Google would struggle to produce useful search results. It is the links between information that give it significant value.
 
@@ -443,7 +443,7 @@ Because everyone benefits, everyone should pay. In other words, no individual us
 
 Collectively Reddit users vote 220 times per second and make 23 posts per second. Reddit is valued between $500 million[^18] and $4 billion[^19] which means that each and every upvote and post is worth between $0.06 and $0.50 assuming the value of Reddit is mostly within the past year’s worth of activity. One could argue that most of the value of Reddit is the near-real-time discussions that have occurred within the past week which would dramatically increase the value of new activity. People go where people are today, not where people were last year.
 
-## No Micropayments, Tips Optional
+## Brak mikropłatności, napiwki wedle uznania
 
 Existing attempts at integrating a cryptocurrency into a social media platform have focused on enabling users to pay one another. Many services have attempted to introduce tipping. The theory is that if we make tipping simple enough then more people will do it. Other services attempt to get people to pay to promote or boost their content’s ranking. Still others attempt to build small prediction markets on how many tips an article will receive.
 
@@ -461,7 +461,7 @@ Under Steem, micropayments are paid to content producer, but those who vote for 
 
 Furthemore, Steem pays people to figure out who should be paid! This kind of thinking is revolutionary.
 
-## Value is in the Links
+## Wartość tkwi w Linkach
 
 The Internet would lose the vast majority of its value if all links among content were removed. It is the relationship among web pages that allows Google to identify the best apple pie recipe among the 16 million results. Without the links the only information Google would have is word frequency.
 
@@ -471,13 +471,13 @@ A social network can maximize the value extracted from a set of content by maxim
 
 By incentivising curation the Steem network is able to use automated algorithms to extract the most valuable information from a massive amount of content.
 
-## Solving the Cryptocurrency Onboarding Problem
+## Rozwiązywanie problemu Wdrażania Kryptowaluty
 
 It isn’t easy to get into cryptocurrency[^21]. Someone who discovers Bitcoin and wants to try it out quickly learns that they will need to sign up with an exchange and fund their account with a credit card or wire transfer. What would Facebook’s adoption rate have been like if you had to fork over money and a two forms of ID?
 
 Steem solves this problem by giving everyone a way to get paid for doing simple, but valuable, tasks. This will help to widely distribute STEEM tokens. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless.)
 
-## Solving the Cryptocurrency Liquidation Problem
+## Rozwiązywanie problemu upłynniania kryptowaluty
 
 A currency that is difficult to use or impossible to sell has little value. Someone who comes across $1.00 worth of Bitcoin will discover that it costs more than $1.00 to sell that Bitcoin. They have to create an account with an exchange, perform KYC validation, and pay fees. Small amounts of cryptocurrency are like small change that people are unwilling to bend over to pick up.
 
@@ -487,7 +487,7 @@ Merchants will accept any currency if it increases their sales. Having a large u
 
 Another way that people can liquidate the small amounts of cryptocurrency they receive from participating on the Steem platform is through *tipping* others. This is like leaving the small change as a tip for your waiter. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
 
-## Censorship
+## Cenzura
 
 Steem is a decentralized network that is operated by witnesses in jurisdictions around the world. All user actions are publicly recorded on the blockchain, and can be publicly verified. This means that there is no single entity that can censor content that is valued by STEEM holders.
 
@@ -495,7 +495,7 @@ Individual websites such as steemit.com may censor content on their particular s
 
 Freedom of speech is the foundation of all other liberties and any infringement upon freedom of speech undermines the only peaceful means of reaching consensus: discussion. Without free discussion voters cannot be fully informed, and uninformed voters are a greater threat to society than losing the right to vote. Censorship is a means of stealing votes through limiting public discourse. Steem is committed to enabling free speech and building a free society.
 
-## Solving Organic Discovery via Search Engine Optimization
+## Rozwiązywanie trafności wyszukiwania poprzez Optymalizację Silnika Wyszukiwania
 
 Most cryptocurrencies generate little value for those who are not actively using the network. Steem, by contrast, generates content and encourages users to share it. This content gets indexed by search engines and ultimately will bring value to a large number of passive users. This search traffic creates organic advertising for the Steem network and grows the network effect.
 
