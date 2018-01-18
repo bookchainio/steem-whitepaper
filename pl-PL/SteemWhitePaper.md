@@ -98,7 +98,7 @@ Dolary Steem odwołują się do symbolu SBD, akronimu od Steem Blockchain Dollar
 
 ### Minimalizowanie oszustw kursu notowań
 
-Posiadacze SP głosują na jednostki, zwane świadkami (z ang. witnesses), by Ci publikowali notowania kursów. Wybrani świadkowie są przypuszczalnie godni zaufania tych, którym zależy na jakości wartości kursu. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
+Posiadacze SP głosują na jednostki, zwane świadkami (z ang. witnesses), by Ci publikowali notowania kursów. Wybrani świadkowie są przypuszczalnie godni zaufania tych, którym zależy na jakości wartości kursu. Wynagradzając tych, którzy zostali wybrani, platforma Steem tworzy gospodarkową konkurencję, której celem jest zdobycie prawa do ustalania wartości kursu. Im więcej producenci wysokości kursu otrzymuj, tym więcej mogą stracić poprzez publikowanie przekłamanych informacji.
 
 Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
 
