@@ -66,7 +66,7 @@ Ten rozdział nakreśla idee idące za platformą Steem oraz możliwe wynagrodze
 
 Istenieją dwa podmioty, które społeczność może zaoferować by przyciągnąć kapitał: dług oraz własność. Ci, którzy nabywają własność zyskują, gdy społeczność się rozwija, lecz tracą, gdy społeczność zmniejsza się. Z drugiej strony Ci, którzy nabywają dług mają zapewnioną określoną część udziału, lecz tym samym nie uczestniczą w żadnym podziale zysków, gdy społeczność rośnie. Oba typy wniesienia funduszy są wartościowe dla rozwoju społeczności i jest wartością samą w sobie. Co więcej, istnieją dwie drogi, w jakie własność może być przetrzymywana: płynna oraz nadawana. Nadawana własność tworzy długofalowy wkład i nie może zostać odsprzedana w małej wartości czasu.
 
-Sieć Steem nazywa te trzy różne typy aktywów jako: Steem (STEEM), Steem Power (SP) (w woln. tłum. Siła Głosu, przyp. tłum.) oraz Steem Dollars, znane także jako Steem Based Dollars (SBD).
+Sieć Steem nazywa te trzy różne typy aktywów jako: Steem (STEEM), Steem Power (SP) oraz Steem Dollars, znane także jako Steem Based Dollars (SBD).
 
 ## Steem (STEEM)
 
@@ -80,7 +80,7 @@ Istnieje znacząca wartość posiadanie mechanizmu zachęcającego do inwestowan
 
 W przestrzeni kryptowalut, spekulanci skaczą z jednej kryptowaluty na drugą bazując głównie na tym, po której z nich można się spodziewać krótkoterminowego wzrostu. Platforma Steem chce zbudować niezależną społeczność, która podejmuje świadome decyzje, kierowane długoterminową perspektywą.
 
-Users are able to commit their STEEM to a thirteen week vesting schedule, providing them with additional benefits within the platform. STEEM that has been committed to a thirteen week vesting schedule is called Steem Power (SP). SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
+Użytkownicy są w stanie przeznaczyć ich STEEM na rzecz trzynastotygodniowego Harmonogramu Nadawania (z ang. Vesting Schedule), otrzymując przy tym dodatkowe korzyści wewnątrz platformy. Steem, który został przeznaczony na rzecz trzynastotygodniowego Harmonogramu Nadawania nazywany jest Steem Power (SP) (w woln. tłum. Siła Głosu Użytkownika, przyp. tłum.). SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
 
 When users vote on content, their influence over the distribution of the rewards pool is directly proportional to the amount of SP that they have. Users with more SP have more influence on the distribution of rewards. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
 
