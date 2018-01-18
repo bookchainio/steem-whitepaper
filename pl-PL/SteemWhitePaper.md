@@ -96,7 +96,7 @@ Dolary Steem są stworzone za pomocą mechanizmu podobnego do convertible notes,
 
 Dolary Steem odwołują się do symbolu SBD, akronimu od Steem Blockchain Dollars. Utworzenie SBD wymaga połączenia notowań godnych zaufania oraz zasad, które pozwolą uniknąć nadużyć. Zapewnienie notowań godnych zaufania wymaga trzech czyniików: minimalizowanie wpływu nieprawidłowych notowań, maksymalizowanie kosztu wyprodukowania nieprawidłowych notowań oraz minimalizowanie znaczenia czynnika zgrania w czasie.
 
-### Minimizing Fraudulent Feeds
+### Minimalizowanie oszustw kursu notowań
 
 SP holders elect individuals, called witnesses, to publish price feeds. The elected witnesses are presumably trusted by those who have a vested interest in the quality of the feed. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
 
