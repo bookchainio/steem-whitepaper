@@ -90,7 +90,7 @@ Wymiana STEEM na rzecz SP jest procesem nazywanym jako “powering up” (z ang.
 
 ## Steem Dollars (SBD)
 
-Stabilność jest ważną cechą każdej udanej globalnej gospodarki. Without stability, individuals across the world could not have low cognitive costs while engaging in commerce and savings. Because stability is an important feature of successful economies, Steem Dollars were designed as an attempt to bring stability to the world of cryptocurrency and to the individuals who use the Steem network.
+Stabilność jest ważną cechą każdej udanej globalnej gospodarki. Bez stabilności indywidua z całego świata mogłyby nie mieć niskiego kosztu poznawania podczas zajmowania się procesem rozpowszechniania platformy oraz budowania portfela. Because stability is an important feature of successful economies, Steem Dollars were designed as an attempt to bring stability to the world of cryptocurrency and to the individuals who use the Steem network.
 
 Steem Dollars are created by a mechanism similar to convertible notes, which are often used to fund startups. In the startup world, convertible notes are short-term debt instruments that can be converted to ownership at a rate determined in the future, typically during a future funding round. A blockchain based token can be viewed as ownership in the community whereas a convertible note can be viewed as a debt denominated in any other commodity or currency. The terms of the convertible note allow the holder to convert to the backing token with a minimum notice at the fair market price of the token. Creating token-convertible-dollars enables blockchains to grow their network effect while maximizing the return for token holders.
 
