@@ -98,7 +98,7 @@ Dola Steemu ni a n pe pelu ami idanimo SBD, nkan imo kekere fun Dola bulookichai
 
 ### Didekun jibiti awon feedi
 
-Awon Oludimu SP ma n yan awon eyan, ti an pe ni eleri, lati se afihan iye awon feedi. The elected witnesses are presumably trusted by those who have a vested interest in the quality of the feed. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
+Awon Oludimu SP ma n yan awon eyan, ti an pe ni eleri, lati se afihan iye awon feedi. Awon eleri t a yan lani igbekele lori nipa won ti won ni eto vesitedi ninu didara feedi. Nipa sisan owo fun awon ti won yan, Steemu ti pese idije oja lati gba agbara lati pese awon feedi. Bi won se saan owo fun awon ti won pese feedi ni won se padanu ti won ba gbe oro iro jade.
 
 Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
 
