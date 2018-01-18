@@ -86,11 +86,11 @@ Gdy użytkownicy głosują na treść, ich wpływ na dystrybujcę puli nagród j
 
 Posiadacze SP otrzymują także odsetki od nadanego kapitału. 15% rocznej inflacji jest wypłacane jako odsetki dla posiadaczy SP. Wielkość odsetek jaką otrzymają jest wprost proporcjonalna do współczynnika ilości posiadanego przez nich SP do całkowitej ilości nadanego SP dla wszystkich użytkowników.
 
-Transferring from STEEM to SP is referred to as “powering up”, while transferring from SP to STEEM is referred to as “powering down.” SP that is powered down is returned to the user over a period of thirteen weeks, via 13 equal weekly payments, starting one week after the power down is initiated.
+Wymiana STEEM na rzecz SP jest procesem nazywanym jako “powering up” (z ang. “wzmocnienie”, przyp. tłum.), podczas gdy wymiana SP na STEEM jest procesem analogicznie nazywanym “powering down” (z ang. “osłabienie”, przyp. tłum.). Proces osłabienia trwa trzynaście tygodni, a STEEM jest wyminiane w trakcie tego procesu jako 13 równych, tygodniowych wypłat, zaczynając od tygodnia po tym, jak proces został zapoczątkowany.
 
 ## Steem Dollars (SBD)
 
-Stability is an important feature of successful global economies. Without stability, individuals across the world could not have low cognitive costs while engaging in commerce and savings. Because stability is an important feature of successful economies, Steem Dollars were designed as an attempt to bring stability to the world of cryptocurrency and to the individuals who use the Steem network.
+Stabilność jest ważną cechą każdej udanej globalnej gospodarki. Without stability, individuals across the world could not have low cognitive costs while engaging in commerce and savings. Because stability is an important feature of successful economies, Steem Dollars were designed as an attempt to bring stability to the world of cryptocurrency and to the individuals who use the Steem network.
 
 Steem Dollars are created by a mechanism similar to convertible notes, which are often used to fund startups. In the startup world, convertible notes are short-term debt instruments that can be converted to ownership at a rate determined in the future, typically during a future funding round. A blockchain based token can be viewed as ownership in the community whereas a convertible note can be viewed as a debt denominated in any other commodity or currency. The terms of the convertible note allow the holder to convert to the backing token with a minimum notice at the fair market price of the token. Creating token-convertible-dollars enables blockchains to grow their network effect while maximizing the return for token holders.
 
