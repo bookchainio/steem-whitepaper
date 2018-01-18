@@ -82,7 +82,7 @@ W przestrzeni kryptowalut, spekulanci skaczą z jednej kryptowaluty na drugą ba
 
 Użytkownicy są w stanie przeznaczyć ich STEEM na rzecz trzynastotygodniowego Harmonogramu Nadawania (z ang. Vesting Schedule), otrzymując przy tym dodatkowe korzyści wewnątrz platformy. Steem, który został przeznaczony na rzecz trzynastotygodniowego Harmonogramu Nadawania nazywany jest Steem Power (SP) (w woln. tłum. Siła Głosu Użytkownika, przyp. tłum.). Środki ulokowane w SP są nietransferowalne oraz niepodzielne, za wyjątkiem powtarzających się żądań konwersji. Oznacza to, iż SP nie może być łatwo wymienione na giełdach kryptowalut.
 
-When users vote on content, their influence over the distribution of the rewards pool is directly proportional to the amount of SP that they have. Users with more SP have more influence on the distribution of rewards. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
+Gdy użytkownicy głosują na treść, ich wpływ na dystrybujcę puli nagród jest wprostproporcjonalna do ilości SP, którą posiadają. Użytkownicy, którzy posiadają więcej SP, mają większy wpływ na dystrybucję nagród. Oznacza to, że SP jest swego rodzaju kluczem dostępu, który daje jego właścicielowi ekskluzywną moc wewnątrz platformy Steem.
 
 SP holders are also paid interest on the balance of SP that remains vested. 15% of the yearly inflation is paid to SP holders as interest. The amount of the interest that they receive is directly proportional to the amount of SP they hold relative to the total amount of vested SP across all users.
 
