@@ -491,9 +491,9 @@ Outra forma que as pessoas podem liquidar pequenas quantidades de criptomoedas q
 
 O Steem é uma rede descentralizada que é operada por testemunhas em jurisdições ao redor do mundo. Todas as ações dos usuários são gravadas publicamente na blockchain, e podem ser publicamente verificadas. Isso significa que não existe uma única entidade que possa censurar o conteúdo que seja valorizado pelos proprietários de STEEM.
 
-Individual websites such as steemit.com may censor content on their particular site, but content published on the blockchain is inherently broadcast traffic and mirrors all around the world may continue to make it available.
+Websites individuais como o steemit.com podem censurar o conteúdo no seu site partibular, mas o conteúdo publicado na blockchain é inerentemente transmitido, e espelhos ao redor do mundo podem continuar a torna-lo disponível.
 
-Freedom of speech is the foundation of all other liberties and any infringement upon freedom of speech undermines the only peaceful means of reaching consensus: discussion. Without free discussion voters cannot be fully informed, and uninformed voters are a greater threat to society than losing the right to vote. Censorship is a means of stealing votes through limiting public discourse. Steem is committed to enabling free speech and building a free society.
+A liberdade de expressão é a fundação de todas as outras liberdades e qualquer violação da liberdade de expressão compromete a única forma pacífica se alcançar o consenso: discussão. Sem uma discussão livre os votantes não podem estar completamente informados, e votantes desinformados são uma maior ameaça para a sociedade do que a perda do direito ao voto. Censorship is a means of stealing votes through limiting public discourse. Steem is committed to enabling free speech and building a free society.
 
 ## Solving Organic Discovery via Search Engine Optimization
 
