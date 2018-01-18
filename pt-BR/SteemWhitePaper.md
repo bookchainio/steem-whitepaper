@@ -421,19 +421,19 @@ O quadro geral das recompensas é complicado pelo efeito das operações com SBD
 
 ## Alocação Atual & Oferta
 
-Começando no 16o hard fork da rede em Dezembro de 2016, o Steem começou a criar novos tokens a uma inflação anual de 9,5%. O índice de inflação reduz a uma taax de 0,01% a cada 250.000 blocos, ou cerca de 0,5% ao ano. The inflation will continue decreasing at this pace until the overall inflation rate reaches 0.95%. This will take about 20.5 years from the time hard fork 16 went into effect.
+Começando no 16o hard fork da rede em Dezembro de 2016, o Steem começou a criar novos tokens a uma inflação anual de 9,5%. O índice de inflação reduz a uma taax de 0,01% a cada 250.000 blocos, ou cerca de 0,5% ao ano. A inflação continuará a diminuir neste ritmo até que a taxa geral de inflação chegue a 0,95%. Isso irá levar cerca de 20,5 anos a contar do momento que o hard fork 16 entrou em vigor.
 
-75% of the new tokens that are generated go to fund the reward pool, which is split between authors and curators. 15% of the new tokens are awarded to holders of SP. The remaining 10% pays for the witnesses to power the blockchain.
+75% dos novos tokens que são gerados irão financiar o grupo de recompensas, o qual será dividido entre autores e curadores. 15% dos novos tokens são recompensados aos detentores de SP. Os 10% restantes serão pagos para as testemunhas sustentarem a blockchain.
 
-### Impact of Token Creation Rate
+### Impacto da Taxa de Criação de Tokens
 
-It is often said that a coin with an inflationary model is not sustainable, but we know from countless real-world examples that the quantity of money does not have a direct and immediate impact on its value, though it certainly plays a role.
+É comumente dito que uma moeda com um modelo inflacionário não é sustentável, mas nós sabemos de inúmeros exemplos do mundo real que a quantidade de moeda não tem um impacto imediato no seu valor, apesar de certamente ter o seu papel.
 
-From August 2008 through January 2009 the U.S. money supply[^15] grew from $871B to $1,737B, a rate of over 100% per year and then continued to grow at about 20% per year for the next 6 years. All told the money supply in the U.S. has grown by 4.59x over less than 7 years. During that same time, the value of the dollar relative to goods and services has fallen less than 10% according to the government's price index[^16]. This real-world example demonstrates that supply is only one component of price.
+De Agosto de 2008 a Janeiro de 2009 a oferta de dinheiro no Estados Unidos[^15] aumentou de $871B para $1.737B, a uma taxa de 100% por ano e então continuou a cerca de 20% por ano pelos próximos 6 anos. Dito isso, a oferta de dinheiro nos Estados Unidos aumentou em 4,59x em menos de 7 anos. Durante esse mesmo período, o valor do dólar relativo a bens e serviços caiu menos que 10% de acordo com o índice de preços do governo[^16]. Esse exemplo do mundo real demonstra que a oferta é apenas um componente do preço.
 
-For the first 2 years of Bitcoin’s life the network sustained an annual inflation rate[^17] of over 100%. For the first 5 years it was over 30%, and for the first 8 years it was over 10%. All told the total “spending” Steem does to fund content, curation, and block production amounts to less than 10% APR.
+Pelos primeiros 2 anos de vida do Bitcoin a rede manteve uma inflação taxa de inflação anual[^17] de mais de 100%. Nos primeiros 5 anos era acima de 30%, e nos primeiros 8 anos era acima de 10%. Dito isso, o total de que o Steem "gasta" para financiar conteúdo, curadoria, e produção de bloco totaliza menos que 10% APR.
 
-The price of a digital commodity, like STEEM, is driven by both supply and demand. When a long-term holder decides to exit, the supply of STEEM on the market will increase and push the price down. This downward pressure is countered when a new long-term holder decides to buy up the STEEM and convert it back into SP. Additional supply and demand may be be added due to market speculators buying and selling liquid STEEM based on their predictions of the future market price.
+O preço de uma comodite digital, como o STEEM, é derivado da oferta e da demanda. When a long-term holder decides to exit, the supply of STEEM on the market will increase and push the price down. This downward pressure is countered when a new long-term holder decides to buy up the STEEM and convert it back into SP. Additional supply and demand may be be added due to market speculators buying and selling liquid STEEM based on their predictions of the future market price.
 
 # The Power of Steem
 
