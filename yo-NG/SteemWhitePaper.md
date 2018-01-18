@@ -64,17 +64,17 @@ Abala yi se afihan awon ero to wa leyin Steemu ati ere to wa fun awon eyan ti ob
 
 ## Ojuse Isowo
 
-Awon nkan meji ti agbegbe le pese lati fa owo: gbese ati nini nkan. Awon ti won ra ere eni to ni nkan nigba ti agbegbe ba dagba sugbon won padanu ti agbegbe ba kere. Awon ti won ra gbese ni idaniloju ninu anfani die sugbon won ni kopa ninu ere kankan nipa dida gbasoke agbegbe. Orisi ojuse owo mejeji se ptaki fun didagba agbegbe ati iyi owo re. Ni afikun ona meji lowa lati di eni to ni nkan mu: omi ati vesitin. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
+Awon nkan meji ti agbegbe le pese lati fa owo: gbese ati nini nkan. Awon ti won ra ere eni to ni nkan nigba ti agbegbe ba dagba sugbon won padanu ti agbegbe ba kere. Awon ti won ra gbese ni idaniloju ninu anfani die sugbon won ni kopa ninu ere kankan nipa dida gbasoke agbegbe. Orisi ojuse owo mejeji se ptaki fun didagba agbegbe ati iyi owo re. Ni afikun ona meji lowa lati di eni to ni nkan mu: likuidi ati vesitin. Nini vestitin je ki fi aramo fun igba pipe ati ko se ta fun akoko to kere ju lo.
 
-The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SBD).
+Netiwoku Steemu pe orisirisi awon kilasi dukiya Steemu (STEEM), Agbara Steemu (SP), ati Dola Steemu (SBD).
 
-## Steem (STEEM)
+## Steemu (STEEM)
 
-Steem is the fundamental unit of account on the Steem blockchain. All other tokens derive their value from the value of STEEM. STEEM is a liquid currency, and therefore can be bought or sold on exchanges, as well as transferred to other users as a form of payment.
+Steemu ni akant to se pataki ju lo bulookichaini Steemu. Awon ipa toku mu iyi won lati iyi STEEM. STEEM ni owo likuidi, nitori na, a le ta abi kara ni oja, a si le gbe fun onilo mi gegebi ona ati sanwo.
 
-## Steem Power (SP)
+## Agbara Steemu (SP)
 
-Start up companies require long-term capital commitment. Those who invest their money in a startup expect to wait years before they can sell their shares and realize their profits. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
+Ile ise to sese bere ma ni lo owo fun akoko pipe. Awon ti won da owo won ni ibeere ni lati duro fun odun ki won to le ta sharessi wo ati ki won to ri ere. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
 
 There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
 
