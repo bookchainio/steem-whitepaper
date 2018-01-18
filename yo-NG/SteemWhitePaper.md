@@ -100,9 +100,9 @@ Dola Steemu ni a n pe pelu ami idanimo SBD, nkan imo kekere fun Dola bulookichai
 
 Awon Oludimu SP ma n yan awon eyan, ti an pe ni eleri, lati se afihan iye awon feedi. Awon eleri t a yan lani igbekele lori nipa won ti won ni eto vesitedi ninu didara feedi. Nipa sisan owo fun awon ti won yan, Steemu ti pese idije oja lati gba agbara lati pese awon feedi. Bi won se saan owo fun awon ti won pese feedi ni won se padanu ti won ba gbe oro iro jade.
 
-Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
+Fi fun awon olupese feedi ti a gbekele ati ti a yan, a le ri owo ti a fi yi pada gangan ni mediani ti awon feedi. Ni ona yi eyi keyi to ba je kekere ninu awon olupese feedi ba pese outulier won ni ipa kekere ninu mediani gangan nigba ti won si ni agbara lori oruko won.
 
-Even if all feed producers are honest, it is possible for the majority of feed producers to be impacted by events beyond their control. The Steem network is designed to tolerate short-term corruption of the median price feed while the community actively works to correct the issue. One example of an issue that may take some time to correct is short-term market manipulation. Market manipulation is difficult and expensive to maintain for long periods of time. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
+Paapa ti gbogbo olupese feedi ba je olotito, o sese ki opoplopo awon olupese feedi ni ipa nipa isele ti o ju agbara won lo. The Steem network is designed to tolerate short-term corruption of the median price feed while the community actively works to correct the issue. One example of an issue that may take some time to correct is short-term market manipulation. Market manipulation is difficult and expensive to maintain for long periods of time. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
 
 Steem factors out short-term price fluctuations by using the median price over a period of three and a half days. The median published feed is sampled every hour on the hour.
 
