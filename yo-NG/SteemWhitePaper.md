@@ -82,13 +82,13 @@ Ni aye cryptocurrency, awon sipeculator ma lo lati cryptocurrency kan lo si cryp
 
 Awon oni lo ni anfani lati fi STEEM won si vesitin ose metala, pelu pi pese awon anfani lafikun larin pulatiformu. STEEM ti a ti fi si vesitin ose metala ni a n pe ni Agbara Steemu (SP). Iwon Sp ko se gbe fun ati ko se ge ayafi nipa ibere yiypada otomatikalli. Iyen tumo si pe A le sowo cryptocurrency loke taara.
 
-Nigbati awon onilo ba di ibo fun arooko, akoso won lori ere pinpin je bakana si iye SP ti won ni. Awon onilo pelu SP to po ni akoso pupo lori pinpin ere. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
+Nigbati awon onilo ba di ibo fun arooko, akoso won lori ere pinpin je bakana si iye SP ti won ni. Awon onilo pelu SP to po ni akoso pupo lori pinpin ere. Eyi tumo si pe SP je ona ipa to fun awon awon oludimu ni agbara ninu pulatiformu Steemu.
 
-SP holders are also paid interest on the balance of SP that remains vested. 15% of the yearly inflation is paid to SP holders as interest. The amount of the interest that they receive is directly proportional to the amount of SP they hold relative to the total amount of vested SP across all users.
+Won ma sanwo fun awon oludimu SP lori iye SP won to wa vesitedi. 15% afikun ododun ni won san fun Oludimu SP pelu anfani. Iye anfani ti won gba je bakana si iye SP ti won dimu relativu si gbogbo iye SP kakiri gbogbo onilo.
 
-Transferring from STEEM to SP is referred to as “powering up”, while transferring from SP to STEEM is referred to as “powering down.” SP that is powered down is returned to the user over a period of thirteen weeks, via 13 equal weekly payments, starting one week after the power down is initiated.
+Gbigbe lati STEEM lo si SP ni a n pe ni "gbigbe agbara soke", ti gbigbe lati SP losi STEEM ni a n pe ni "gbigbe agbara si ile." SP ti a be gbe agbara si ile ma da pada si onilo ni akoko ose metala, mipase sisan owo dede ni ose metala, bere lati ose kan ti ti gbigbe agbara si ile ba ti bere.
 
-## Steem Dollars (SBD)
+## Dola Steemu (SBD)
 
 Stability is an important feature of successful global economies. Without stability, individuals across the world could not have low cognitive costs while engaging in commerce and savings. Because stability is an important feature of successful economies, Steem Dollars were designed as an attempt to bring stability to the world of cryptocurrency and to the individuals who use the Steem network.
 
