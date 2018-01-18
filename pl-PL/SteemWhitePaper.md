@@ -106,11 +106,11 @@ Nawet, jeśli wszyscy wytwórcy kursów są uczciwi, możliwym jest, iż większ
 
 Platforma Steem uwzględnia krótkoterminowe fluktuacje cen, poprzez używanie mediany cen przez okres trzech i połowy dnia. Wartość bazująca na aktualnej medianie jest publikowana co godzinę.
 
-Tak długo jak awaria ceny trwa poniżej połowy mediany czasu między jedną próbką a drugą, publikowana wartość będzie mieć minimalny wpływ na kurs. W momencie, gdy cena ulega korupcji, członkowie sieci będą mieć możliwość by oddać głos za oddaleniem skorumpowanych producentów kursu, tak, by niewłaściwy kurs nie miał możliwości wpływu na kurs wymiany. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
+Tak długo jak awaria ceny trwa poniżej połowy mediany czasu między jedną próbką a drugą, publikowana wartość będzie mieć minimalny wpływ na kurs. W momencie, gdy cena ulega korupcji, członkowie sieci będą mieć możliwość by oddać głos za oddaleniem skorumpowanych producentów kursu, tak, by niewłaściwy kurs nie miał możliwości wpływu na kurs wymiany. Prawdopodobnie najważniejszym faktem jest, iż mechanizm ten daje producentom kursu wymiany możliwość wczesnego wykrycia i skorygowania nieprawidłowości przed tym, kiedy przyczyna może wpłynąć na wartość kursu.
 
-With a three and a half day window, community members have approximately one and a half days to respond to any issues that come up.
+Z trzy i pół dniowym zapasem członkowie społeczności mają około półtora dnia, by odpowiedzieć na każdą kwestię jaka się pojawi.
 
-### Mitigating Timing Attacks
+### Łagodzenie ataków czasowych
 
 Market participants have access to information faster than the blockchain’s three and a half day moving median conversion price can react. This information could be used to benefit of traders at the expense of the community. If there is a sudden increase in the value of STEEM traders could request conversion of their SBD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
 
