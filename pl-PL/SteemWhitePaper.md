@@ -118,7 +118,7 @@ Platforma wyrównuje szanse wymagając, aby wszystkie żądania wymiany były op
 
 ### Minimalizowanie nadużyć systemu wymiany
 
-Jeżeli ludzie byliby w stanie darmowo wymieniać w obu kierunkach, wtedy inwestorzy mogliby wykorzystać na swoją korzyść współczynniki cen wymiany technologii blockchain, w celu wymiany dużych ilości bez wpływu na cenę. Traders who see a massive run up in price would convert to SBD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SBD to STEEM and not the other way around.
+Jeżeli ludzie byliby w stanie darmowo wymieniać w obu kierunkach, wtedy inwestorzy mogliby wykorzystać na swoją korzyść współczynniki cen wymiany technologii blockchain, w celu wymiany dużych ilości bez wpływu na cenę. Halndlowcy, którzy zauważyliby olbrzymi wzrost chcieliby wymienić STEEM na SBD przy wysokiej cenie (w momencie największego ryzyka spadku cen) a potem dokonać powrotnej wymiany po korekcji kursu. Protokół Steem chroni społeczność przed takim rodzajem nadużyć poprzez umożliwianie wymiany SBD na STEEM, ale tylko w jedną stronę. Innymi słowy, nie można zamienić STEEM na SBD.
 
 The blockchain decides how and when to create SBD and who should get it. This keeps the rate of SBD creation stable and removes most avenues of abuse.
 
