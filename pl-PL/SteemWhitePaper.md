@@ -134,7 +134,7 @@ The percentage floors used to compute STEEM creation are based on the supply inc
 
 SBD wypłaca posiadaczom udziały. Wysokość udziałów jest determinowana przez tych samych ludzi, który publikują cenę kursu, by mogły one dostosować się do kondycji rynku. Każdy dług niesie za sobą ryzyko dla wierzyciela. Ktoś, kto trzyma SBD bez jego wypłacenia czy zamiany tak na prawdę pożycza społeczności wartość dolara. Posiadacze wierzą, że w pewnym momencie ktoś będzie chciał od nich kupić SBD za dolara lub pojawią się spekulanci i inwestorzy, którzy zechcą kupić STEEM, by zamienić je na SBD.
 
-Posiadacze STEEM oraz SP zdobywają wpływ, kiedy człokowie społeczności chcą zatrzymywać SBD. Ten wpływ wzmacnia osiągnięcia wynikające z rozwoju, jednocześnie przyczyniając się do wzrostu. Posiadacze STEEM są narażeni na stratę w momencie, kiedy ceny spadają. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
+Posiadacze STEEM oraz SP zdobywają wpływ, kiedy człokowie społeczności chcą zatrzymywać SBD. Ten wpływ wzmacnia osiągnięcia wynikające z rozwoju, jednocześnie przyczyniając się do wzrostu. Posiadacze STEEM są narażeni na stratę w momencie, kiedy ceny spadają. Projekty oparte o kryptowaluty pokazują, że zysk wynikający z wiary użytkownika w sieć połączoną z kapitałem dodaje więcej wartości, niż wartość jakiegokolwiek zawirowania, które mogą wystapić podczas tendencji spadkowej.
 
 ### Ustalanie cen wysokości opłat
 
