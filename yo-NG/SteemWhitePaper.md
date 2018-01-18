@@ -94,11 +94,11 @@ Duro sinsin je nkan pataki ninu awon eto aje agbaye to se aseyori. Laisi duro si
 
 A se Dola Steemu nipase nkan to dabi akosile ti ko se yi pada, to a ma saba lo lati ran awon ibeere lowo. Ni Aye ibere. akosile to se yi pada je awon gbese igba-kekere ti a le yi pada si nini ratii ti a pinu lojo iwaju, paapa ni igba iran lowo lojo iwaju. Ami ida nimo bulookichaini ni a n wo gegebi nini ninu agbegbe nigba to je wipe akosile to se yipada le je gbese ni eyi keyi oja abi owo. Awon ofin akosile to se yi pada je ki oludimu le yi si ipa to feyinti ni akiyesi ranpe loju oja ipa to dara. Sise eda awon Dola ipa ti o se yipada je ki bulookichain le dagba netiwoki won ti on si mu esi to po pada fun oludimu ipa.
 
-Dola Steemu ni a n pe pelu ami idanimo SBD, nkan imo kekere fun Dola bulookichain Steemu. Sise ede SBD nilo apapo owo oja ti a gbekele, ati ofin lati dekun iwa ibaje. Pi pese owo feedi ti a gbekele da lori nkan meta: di dinku impakti ti feedi ti ko pe, mumu pipo iye ti a n fi se feedi ti ko pe, ati didekun pataki akoko.
+Dola Steemu ni a n pe pelu ami idanimo SBD, nkan imo kekere fun Dola bulookichain Steemu. Sise ede SBD nilo apapo owo feedi ti a gbekele, ati ofin lati dekun iwa ibaje. Pi pese owo feedi ti a gbekele da lori nkan meta: di dinku impakti ti feedi ti ko pe, mumu pipo iye ti a n fi se feedi ti ko pe, ati didekun pataki akoko.
 
 ### Didekun jibiti awon feedi
 
-SP holders elect individuals, called witnesses, to publish price feeds. The elected witnesses are presumably trusted by those who have a vested interest in the quality of the feed. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
+Awon Oludimu SP ma n yan awon eyan, ti an pe ni eleri, lati se afihan iye awon feedi. The elected witnesses are presumably trusted by those who have a vested interest in the quality of the feed. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
 
 Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
 
