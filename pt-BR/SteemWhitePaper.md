@@ -409,19 +409,19 @@ Recompensas de Contribuição:
 - Recompensas de inclusão de PdT após o bloco 864.000: 0,0476 STEEM por bloco (recompensado como 1 STEEM por rodada) ou 0,750% por ano, o que for maior.
 - Recompensa de Liquidez: 1 STEEM por bloco (recompensados como 1200 STEEM por hora) ou 0,750% por ano, o que for maior
 
-### Power Rewards:
+### Recompensas de "Power":
 
-- Steem Power rewards: For each STEEM created by the above rewards, 9 STEEM are divided among all Steem Power holders.
+- Recompensas de Steem Power: Para cada STEEM criado pelas recompensas acima, 9 STEEM é dividio entre todos os detentores de Steem Power.
 
-### SBD operations:
+### Operações em SBD:
 
-- SBD rewards: A percentage of SBD value is created at an APR set by the witnesses and paid to SBD holders as SBD
+- Recompensas SBD: Um percentual do calor do SBD é criado em um APR definido pelas testemunhas e pago para os detentores de SBD na forma de SBD
 
-The overall supply picture is complicated by the effect of SBD operations, which may result in large-scale creation or destruction of STEEM through feed rate following and SBD rewards, as discussed in the SBD section. Other, smaller-scale complicating effects also exist, including unclaimed incentives (e.g. block rewards for missed blocks), and abandoned accounts.
+O quadro geral das recompensas é complicado pelo efeito das operações com SBD, as quais podem resultar em uma criação ou destruição em larga escala de STEEM através da próxima taxa de indexação e recompensas em SBD, conforme discutido na seção sobre SBD. Outros efeitos complicadores de menor escala também existem, incluindo incentivos não contestados (i.e. recompensas de blocos para blocos não acertados), e contas abandonadas.
 
-## Current Allocation & Supply
+## Alocação Atual & Oferta
 
-Starting with the network's 16th hard fork in December 2016, Steem began creating new tokens at a yearly inflation rate of 9.5%. The inflation rate decreases at a rate of 0.01% every 250,000 blocks, or about 0.5% per year. The inflation will continue decreasing at this pace until the overall inflation rate reaches 0.95%. This will take about 20.5 years from the time hard fork 16 went into effect.
+Começando no 16o hard fork da rede em Dezembro de 2016, o Steem começou a criar novos tokens a uma inflação anual de 9,5%. O índice de inflação reduz a uma taax de 0,01% a cada 250.000 blocos, ou cerca de 0,5% ao ano. The inflation will continue decreasing at this pace until the overall inflation rate reaches 0.95%. This will take about 20.5 years from the time hard fork 16 went into effect.
 
 75% of the new tokens that are generated go to fund the reward pool, which is split between authors and curators. 15% of the new tokens are awarded to holders of SP. The remaining 10% pays for the witnesses to power the blockchain.
 
