@@ -70,11 +70,11 @@ Sieć Steem nazywa te trzy różne typy aktywów jako: Steem (STEEM), Steem Powe
 
 ## Steem (STEEM)
 
-Steem is the fundamental unit of account on the Steem blockchain. All other tokens derive their value from the value of STEEM. STEEM is a liquid currency, and therefore can be bought or sold on exchanges, as well as transferred to other users as a form of payment.
+Steem jest fundamentalną jednostką każdego konta opartego na Platformie Steem Blockhain. Wszystkie inne tokeny czerpią ich wartość z wartości ich odpowiednika w STEEM. STEEM jest płynną walutą, dlatego też może być wymieniany na zewnętrznych giełdach lub przekazywany innym użytkownikom w formie przelewu, jako forma zapłaty.
 
 ## Steem Power (SP)
 
-Start up companies require long-term capital commitment. Those who invest their money in a startup expect to wait years before they can sell their shares and realize their profits. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
+Nowo-założone firmy potrzebują formy otrzymywania długofalowego kapitału. Those who invest their money in a startup expect to wait years before they can sell their shares and realize their profits. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
 
 There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
 
