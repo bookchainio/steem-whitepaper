@@ -475,9 +475,9 @@ Incentivando a curadoria a rede Steem é capaz de utilizar algoritmos automatiza
 
 Não é fácil entrar nas criptomoedas[^21]. Alguém que descubra o Bitcoin e queira experimentar rapidamente descobre que eles devem se cadastras em uma bolsa e financiar suas contas com um cartão de crédito ou depósito bancário. Qual seria a taxa de adoção do Facebook se você tivesse que dividir o dinheiro e duas formas de identificação?
 
-O Steem resolve esse problema ao dar a todos uma forma de ser pago ao realizar tarefas simples, mas valiosas. This will help to widely distribute STEEM tokens. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless.)
+O Steem resolve esse problema ao dar a todos uma forma de ser pago ao realizar tarefas simples, mas valiosas. Isso ajudará a distribuit amplamente os tokens STEEM. Isso é útil porque as criptomoedas tem umefeitto de rede (i.e. mais usuários a tornam mais útil; em um exemplo extremo, considere que se Satoshi tivesse ficado com 100% do Bitcoin, o Bitcoin não teria valor.)
 
-## Solving the Cryptocurrency Liquidation Problem
+## Resolvendo o Problema da Liquidação de Criptomoedas
 
 A currency that is difficult to use or impossible to sell has little value. Someone who comes across $1.00 worth of Bitcoin will discover that it costs more than $1.00 to sell that Bitcoin. They have to create an account with an exchange, perform KYC validation, and pay fees. Small amounts of cryptocurrency are like small change that people are unwilling to bend over to pick up.
 
