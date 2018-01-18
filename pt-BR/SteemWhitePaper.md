@@ -433,9 +433,9 @@ De Agosto de 2008 a Janeiro de 2009 a oferta de dinheiro no Estados Unidos[^15] 
 
 Pelos primeiros 2 anos de vida do Bitcoin a rede manteve uma inflação taxa de inflação anual[^17] de mais de 100%. Nos primeiros 5 anos era acima de 30%, e nos primeiros 8 anos era acima de 10%. Dito isso, o total de que o Steem "gasta" para financiar conteúdo, curadoria, e produção de bloco totaliza menos que 10% APR.
 
-O preço de uma comodite digital, como o STEEM, é derivado da oferta e da demanda. When a long-term holder decides to exit, the supply of STEEM on the market will increase and push the price down. This downward pressure is countered when a new long-term holder decides to buy up the STEEM and convert it back into SP. Additional supply and demand may be be added due to market speculators buying and selling liquid STEEM based on their predictions of the future market price.
+O preço de uma comodite digital, como o STEEM, é derivado da oferta e da demanda. Quando um proprietário de longo prazo decide sair, a oferta de STEEM no mercado irá aumentar e empurrar o preço para baixo. Essa pressão para baixo é combatida quando um novo proprietário de longo prazo decide comprar o STEEM e converte-lo de volta em SP. Oferta e demanda adicional pode ser adicionada devido a especuladores de mercado comprando e vendendo STEEM baseados na previsão de preço futuro de mercado.
 
-# The Power of Steem
+# O Poder do Steem
 
 Steem recognizes that the value of all user contributions (posts and votes) is greater than the sum of the parts. A single comment is worth next to nothing, but millions of curated posts is worth many millions (or possibly even billions) of dollars. A single vote provides little curation value, but billions of votes is very effective curation. Content without curation is of limited value. Given all the content of the Internet minus the links between it, Google would struggle to produce useful search results. It is the links between information that give it significant value.
 
