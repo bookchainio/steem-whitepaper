@@ -140,9 +140,9 @@ Posiadacze STEEM oraz SP zdobywają wpływ, kiedy człokowie społeczności chc�
 
 Bystrzy czytelnicy pewnie zdali sobie sprawę z tego, że środki o limitowanej podaży przynoszące odsetki mogą mieć wyższą lub niższą wartość niż to, od czego zależą. Wpływają na to inne możliwości zarobku bazujące na tych samych aktywach. Posiadając wysoki współczynnik zysku w kapitale ściśle powiązanym z Dolarem Amerykańskim wielu ludzi będzie konkurować o Steem Dollara, czego razultatem będzie cena wyższa niż 1$. W ekonomii isnieje reguła nazywana Niemożliwą Trójcą [^4], która stwierdza, iż niemożliwym jest mieć wszystkie trzy poniższe podmioty w tym samym czasie:
 
-1. A stable exchange rate
-2. Free capital movement
-3. An independent monetary policy
+1. Stabilny kurs wymiany
+2. Swobodna kontrola przepływu
+3. Niezależna polityka piniężna
 
 If Steem feed producers aim to have an independent monetary policy allowing it to create and destroy Steem Dollars while simultaneously having full control over the interest rate then they will encounter problems. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
 
