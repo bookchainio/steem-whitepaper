@@ -6,7 +6,7 @@ Sierpień 2017
 
 # Nota od tłumacza
 
-Opisać contribution, dlaczego przetłumaczyłem jako wkład.
+Opisać contribution, dlaczego przetłumaczyłem jako wkład. Wytłumaczyć, dlaczego używam platforma steem, zamiast steem 
 
 # Streszczenie
 
@@ -54,7 +54,7 @@ Sprawdzonym systemem do oceny oraz nagradzania przyczyny jest wolny rynek. Ów w
 
 Odkąd wolny rynek dowiódł swojej wartości, kuszącym jest podjęcie próby stworzenia gospodarki wolnorynkowej, w której konsumenci są w stanie bezpośrednio nagrodzić twórców treści, którą konsumują. Jednakże, forma bezpośredniej płatności jest nieefektywna i nie jest do końca wykonalna patrząc pod kątem tworzenia i oceny treści. Wartość większości treści jest zbyt niska w porównaniu do kosztów poznania, kosztów połączonych z finansowością oraz kosztów utraty innych alternatyw, że w rezultacie niewiele osób decyduje się wesprzeć twórcę. Dostatej darmowych alternatyw oznacza, że narzucanie ‘sytemu ograniczania dostępu na rzecz płatnych treści’ (z ang. ‘paywall’, przyp. tłum.) spowoduje ucieczkę czytelników na rzecz innych alternatyw. Pojawiały się próby implementacji systemów mikropłatności, w których czytelnik płaci autorowi za dostęp do artykułu, lecz żaden z nich nie stał się szeroko powszechny.
 
-Plaforma Steem jest zaprojektowana tak, by umożliwić efektywne mikropłatności dla każdego rodzaju wkładu, poprzez zmianę zestawu czynników mających wpływ na ekonomię. Readers no longer have to decide whether or not they want to pay someone from their own pocket, instead they can vote content up or down and Steem will use their votes to determine individual rewards. This means that people are given a familiar and widely used interface and no longer face the cognitive, financial, and opportunity costs associated traditional micropayment and tipping platforms.
+Plaforma Steem jest zaprojektowana tak, by umożliwić efektywne mikropłatności dla każdego rodzaju wkładu, poprzez zmianę zestawu czynników mających wpływ na ekonomię. Czytelnicy nie muszą już decydować, czy chcą płacić komuś ciężko zarobione pieniądze. Zamiast tego mogą wyrażać negatywne lub pozytywne opinie poprzez głosowanie, a platforma Steem użyje ich głosów by ustalić wysokość nagrody dla autora. This means that people are given a familiar and widely used interface and no longer face the cognitive, financial, and opportunity costs associated traditional micropayment and tipping platforms.
 
 Voting input from community members is critical for Steem to accurately allocate payments to contributors. Voting can therefore be viewed as a crucial contribution and worthy of rewards on its own. Some platforms, such as Slashdot, use meta-moderation[^3] as a way to rank and reward honest moderators. Steem chooses to reward those who contribute the most to the total promotion of a piece of content and rewards the voters proportional to the ultimate reward paid to the content creator.
 
