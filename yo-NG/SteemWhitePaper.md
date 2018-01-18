@@ -80,9 +80,9 @@ O se pataki lati ni ifokan igba pipe nito ri pe a je ki agbegbe na le se eto igb
 
 Ni aye cryptocurrency, awon sipeculator ma lo lati cryptocurrency kan lo si cryptocurrency mi lori eyi to ba ni idagbasoke igba-die. Steemu fe ko agbegbe to je pe awon ti won ni oju igba-pipe ni won ma ni ati ni won ma se akoso e.
 
-Awon oni lo ni anfani lati fi STEEM won si vesitin ose metala, pelu pi pese awon anfani lafikun larin pulatiformu. STEEM ti a ti fi si vesitin ose metala ni a n pe ni Agbara Steemu (SP). SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
+Awon oni lo ni anfani lati fi STEEM won si vesitin ose metala, pelu pi pese awon anfani lafikun larin pulatiformu. STEEM ti a ti fi si vesitin ose metala ni a n pe ni Agbara Steemu (SP). Iwon Sp ko se gbe fun ati ko se ge ayafi nipa ibere yiypada otomatikalli. Iyen tumo si pe A le sowo cryptocurrency loke taara.
 
-When users vote on content, their influence over the distribution of the rewards pool is directly proportional to the amount of SP that they have. Users with more SP have more influence on the distribution of rewards. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
+Nigbati awon onilo ba di ibo fun arooko, akoso won lori ere pinpin je bakana si iye SP ti won ni. Awon onilo pelu SP to po ni akoso pupo lori pinpin ere. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
 
 SP holders are also paid interest on the balance of SP that remains vested. 15% of the yearly inflation is paid to SP holders as interest. The amount of the interest that they receive is directly proportional to the amount of SP they hold relative to the total amount of vested SP across all users.
 
