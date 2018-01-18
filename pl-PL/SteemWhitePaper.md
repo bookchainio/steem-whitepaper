@@ -66,7 +66,7 @@ Ten rozdział nakreśla idee idące za platformą Steem oraz możliwe wynagrodze
 
 Istenieją dwa podmioty, które społeczność może zaoferować by przyciągnąć kapitał: dług oraz własność. Ci, którzy nabywają własność zyskują, gdy społeczność się rozwija, lecz tracą, gdy społeczność zmniejsza się. Z drugiej strony Ci, którzy nabywają dług mają zapewnioną określoną część udziału, lecz tym samym nie uczestniczą w żadnym podziale zysków, gdy społeczność rośnie. Oba typy wniesienia funduszy są wartościowe dla rozwoju społeczności i jest wartością samą w sobie. Co więcej, istnieją dwie drogi, w jakie własność może być przetrzymywana: płynna oraz nadawana. Nadawana własność tworzy długofalowy wkład i nie może zostać odsprzedana w małej wartości czasu.
 
-The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SBD).
+Sieć Steem nazywa te trzy różne typy aktywów jako: Steem (STEEM), Steem Power (SP) (w woln. tłum. Siła Głosu, przyp. tłum.) oraz Steem Dollars, znane także jako Steem Based Dollars (SBD).
 
 ## Steem (STEEM)
 
