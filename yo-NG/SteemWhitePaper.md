@@ -64,7 +64,7 @@ Abala yi se afihan awon ero to wa leyin Steemu ati ere to wa fun awon eyan ti ob
 
 ## Ojuse Isowo
 
-Awon nkan meji ti agbegbe le pese lati fa owo: gbese ati nini nkan. Awon ti won ra ere eni to ni nkan nigba ti agbegbe ba dagba sugbon won padanu ti agbegbe ba kere. Awon ti won ra gbese ni idaniloju ninu anfani die sugbon won ni kopa ninu ere kankan nipa dida gbasoke agbegbe. Orisi ojuse owo mejeji se ptaki fun didagba agbegbe ati iyi owo re. Ni afikun ona meji lowa lati di eni to ni nkan mu: likuidi ati vesitin. Nini vestitin je ki fi aramo fun igba-pipe ati ko se ta fun akoko to kere ju lo.
+Awon nkan meji ti agbegbe le pese lati fa owo: gbese ati nini nkan. Awon ti won ra ere eni to ni nkan nigba ti agbegbe ba dagba sugbon won padanu ti agbegbe ba kere. Awon ti won ra gbese ni idaniloju ninu anfani die sugbon won ni kopa ninu ere kankan nipa dida gbasoke agbegbe. Orisi ojuse owo mejeji se ptaki fun didagba agbegbe ati iyi owo re. Ni afikun ona meji lowa lati di eni to ni nkan mu: likuidi ati vesitin. Nini vesitin je ki fi aramo fun igba-pipe ati ko se ta fun akoko to kere ju lo.
 
 Netiwoku Steemu pe orisirisi awon kilasi dukiya Steemu (STEEM), Agbara Steemu (SP), ati Dola Steemu (SBD).
 
@@ -78,9 +78,9 @@ Ile ise to sese bere ma ni lo owo fun igba-pipe. Awon ti won da owo won ni ibeer
 
 O se pataki lati ni ifokan igba pipe nito ri pe a je ki agbegbe na le se eto igba pipe. Ifokan igba pipe stakeholdersi ma je ki won dibo fun didagbasoke igba-pipe dipo pumpu igba-kekere.
 
-In the cryptocurrency space, speculators jump from cryptocurrency to cryptocurrency based mostly on which one is expected to have short-term growth. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
+Ni aye cryptocurrency, awon sipeculator ma lo lati cryptocurrency kan lo si cryptocurrency mi lori eyi to ba ni idagbasoke igba-die. Steemu fe ko agbegbe to je pe awon ti won ni oju igba-pipe ni won ma ni ati ni won ma se akoso e.
 
-Users are able to commit their STEEM to a thirteen week vesting schedule, providing them with additional benefits within the platform. STEEM that has been committed to a thirteen week vesting schedule is called Steem Power (SP). SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
+Awon oni lo ni anfani lati fi STEEM won si vesitin ose metala, pelu pi pese awon anfani lafikun larin pulatiformu. STEEM that has been committed to a thirteen week vesting schedule is called Steem Power (SP). SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
 
 When users vote on content, their influence over the distribution of the rewards pool is directly proportional to the amount of SP that they have. Users with more SP have more influence on the distribution of rewards. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
 
