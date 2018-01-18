@@ -479,17 +479,17 @@ O Steem resolve esse problema ao dar a todos uma forma de ser pago ao realizar t
 
 ## Resolvendo o Problema da Liquidação de Criptomoedas
 
-A currency that is difficult to use or impossible to sell has little value. Someone who comes across $1.00 worth of Bitcoin will discover that it costs more than $1.00 to sell that Bitcoin. They have to create an account with an exchange, perform KYC validation, and pay fees. Small amounts of cryptocurrency are like small change that people are unwilling to bend over to pick up.
+Uma moeda que é difícil de utilizar ou impossível de vender tem pouco valor. Alguém que se depara com um $1,00 em Bitcoin irá descobrir que custa mais do que $1,00 para vender aquele Bitcoin. Eles tem que criar uma conta com uma bolsa, executar uma validação KYC, e pagar taxas. Pequenas contas de criptomoedas são como troco que pessoas não estão dispostas a se abaixar para pegar.
 
-Merchants give users a way to quickly convert their cryptocurrency into tangible goods and services. Merchants need a currency pegged to their unit of account, normally dollars. Accepting a volatile currency introduces significant accounting overhead.
+Comerciantes dão aos usuários uma forma de converter rapidamente as suas criptomoedas em serviços e bens tangíves. Comerciantes precisam de uma moeda atrelada à sua unidade de conta, normalmente dólares. Aceitar uma moeda volátil introduz uma sobrecarga contábil significante.
 
-Merchants will accept any currency if it increases their sales. Having a large user base with a stable currency such as SBD lowers the barrier to entry for merchants. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
+Comerciantes irão aceitar qualquer moeda se isso aumentar as suas vendas. Ter uma grande base de usuários com uma moeda estável como o SBD reduz a barreira de entrada para os comerciantes. A presença de comerciantes melhora o sistema ao criar uma rampa de saída para os usuários saírem do sistema sem se dar ao trabalho de utilizar uma bolsa.
 
-Another way that people can liquidate the small amounts of cryptocurrency they receive from participating on the Steem platform is through *tipping* others. This is like leaving the small change as a tip for your waiter. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
+Outra forma que as pessoas podem liquidar pequenas quantidades de criptomoedas que eles recebem ao participar da plataforma Steem é através de *gorjetas*. Isso seria como deixar um pequeno trocado como uma gorjeta para o garçom. Quando pessoas suficientes deixam pequenas gorjetas isso se soma até um valor significativo. Você e o garçom ganham um benefício pela gorjeta.
 
-## Censorship
+## Censura
 
-Steem is a decentralized network that is operated by witnesses in jurisdictions around the world. All user actions are publicly recorded on the blockchain, and can be publicly verified. This means that there is no single entity that can censor content that is valued by STEEM holders.
+O Steem é uma rede descentralizada que é operada por testemunhas em jurisdições ao redor do mundo. Todas as ações dos usuários são gravadas publicamente na blockchain, e podem ser publicamente verificadas. Isso significa que não existe uma única entidade que possa censurar o conteúdo que seja valorizado pelos proprietários de STEEM.
 
 Individual websites such as steemit.com may censor content on their particular site, but content published on the blockchain is inherently broadcast traffic and mirrors all around the world may continue to make it available.
 
