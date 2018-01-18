@@ -132,9 +132,9 @@ The percentage floors used to compute STEEM creation are based on the supply inc
 
 ### Udziały
 
-SBD wypłaca posiadaczom udziały. Wysokość udziałów jest determinowana przez tych samych ludzi, który publikują cenę kursu, by mogły one dostosować się do kondycji rynku. Każdy dług niesie za sobą ryzyko dla wierzyciela. Ktoś, kto trzyma SBD bez jego wypłacenia czy zamiany tak na prawdę pożycza społeczności wartość dolara. They are trusting that at some point in the future someone will be willing to buy the SBD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
+SBD wypłaca posiadaczom udziały. Wysokość udziałów jest determinowana przez tych samych ludzi, który publikują cenę kursu, by mogły one dostosować się do kondycji rynku. Każdy dług niesie za sobą ryzyko dla wierzyciela. Ktoś, kto trzyma SBD bez jego wypłacenia czy zamiany tak na prawdę pożycza społeczności wartość dolara. Posiadacze wierzą, że w pewnym momencie ktoś będzie chciał od nich kupić SBD za dolara lub pojawią się spekulanci i inwestorzy, którzy zechcą kupić STEEM, by zamienić je na SBD.
 
-STEEM and SP holders gain leverage when members of the community are willing to hold SBD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
+Posiadacze STEEM oraz SP zdobywają wpływ, kiedy człokowie społeczności chcą zatrzymywać SBD. Ten wpływ wzmacnia osiągnięcia wynikające z rozwoju, jednocześnie przyczyniając się do wzrostu. Posiadacze STEEM są narażeni na stratę w momencie, kiedy ceny spadają. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
 
 ### Ustalanie cen wysokości opłat
 
