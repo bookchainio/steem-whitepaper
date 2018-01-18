@@ -515,7 +515,7 @@ Criadores publicando em centros de redes sociais que estão conectados ao Steem 
 
 # Conclusão
 
-Steem is an experiment designed to address challenges in the cryptocurrency and social media industries by combining the best aspects from both. Steem presents earning opportunities to content creators and internet readers in ways that have not existed within the social media industry. Within Steem, individuals earn real rewards online that are directly correlated to their contributions. Those rewards may have dollar value due to the market price discovery and liquidity of Steem, and the people who hold Steem may have more exclusive earning powers than those who do not.
+Steem é um experimento projetado para enfrentar os desafios nas indústrias de criptomoedas e de mídia social ao combinar o melhor aspecto das duas. Steem apresenta oportunidades de ganhos para os criadores de conteúdo e leitores da internet em formas que não existiam na indústrria das mídias sociais. Dentro do Steem, indivíduos recebem recompensas reais online que são diretamente relacionadas às suas contribuições. Essas recompensas podem ter o valor de dólar devido à descoberta de preço de mercado e liquidez do Steem, e as pessoas que possuem Steem podem ter mais poder exclusivo de ganhos do que aqueles que não tem.
 
 [^1]: Reddit’s Cryptocurrency, Forbes, Erika Morphy, October 2014 http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/\#4e07b05332b9
 
