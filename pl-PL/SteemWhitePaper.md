@@ -112,9 +112,9 @@ Z trzy i pół dniowym zapasem członkowie społeczności mają około półtora
 
 ### Łagodzenie ataków czasowych
 
-Market participants have access to information faster than the blockchain’s three and a half day moving median conversion price can react. This information could be used to benefit of traders at the expense of the community. If there is a sudden increase in the value of STEEM traders could request conversion of their SBD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
+Użytkownicy giełd mają szybszy dostęp do informacji, niż trzy i pół dniowy bufor mediany kursu wartości oparty na technologii blockchain może w ogóle zareagować. Ta informacja może zostać użyta, by zyskać na wymianie kosztem społeczności. Jeżeli pojawia się gwałtowny wzrost wartości STEEM, inwestorzy mogliby złożyć propozycję wymiany ich SBD po starszych, niższych cenach a później sprzedać STEEM po nowszej, wyższej cenie tak, by otrzymać wyższy zysk przy zachowaniu minimalnego ryzyka.
 
-Steem levels the playing field by requiring all conversion requests to be delayed for three and a half days. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
+Platforma wyrównuje szanse wymagając, aby wszystkie żądania wymiany były opóźnione o trzy i pół dnia. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
 
 ### Minimizing Abuse of Conversions
 
