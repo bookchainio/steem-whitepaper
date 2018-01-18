@@ -457,19 +457,19 @@ A energia mental associada com tomar uma decisão econômica se torna uma barrei
 
 -Micropagamentos: Um Modelo Viável de Negócios[^20]
 
-Sob o Steem, o micro pagamentos são pagos para o produtor de conteúdo, mas aqueles votam pelo conteúdo não pagam. Instead, the cost of the reward is paid for via new tokens. Someone can join the system, vote to pay someone, and then exit the system with more money than they started with (assuming the market valuation of the Steem system remained constant). In other words, the micropayment solution provided by Steem provides a user-experience similar to many widely used websites that have user-moderated content.
+Sob o Steem, o micro pagamentos são pagos para o produtor de conteúdo, mas aqueles votam pelo conteúdo não pagam. Ao invés disso, o custo da recompensa é paga através de novos tokens. Alguém pode juntar-se ao sistema, votar para pagar alguém, e sair do sistema sem nenhum dinheiro a mais do que aquele que eles iniciaram (supondo que o valor de mercado do sistema Steem se mantenha constante). Em outras palavras, a solução de micro pagamentos fornecida pelo Steem permite uma experiência de usuário similar a muitas utilizadas nos websites que tem conteúdo moderado pelos usuários.
 
-Furthemore, Steem pays people to figure out who should be paid! This kind of thinking is revolutionary.
+Além disso, Steem paga às pessoas para descobrir quem deve ser pago! Esse tipo de pensamento é revolucionário.
 
-## Value is in the Links
+## O valor está nos Links
 
-The Internet would lose the vast majority of its value if all links among content were removed. It is the relationship among web pages that allows Google to identify the best apple pie recipe among the 16 million results. Without the links the only information Google would have is word frequency.
+A Internet perderia a grande maioria do seu valor se todos os links entre os conteúdos fossem removidos. É o relacionamento entre as páginas da web que permitem ao Google identificar a melhor torta de maçã entre 16 milhões de resultados. Sem os links a única informação que o google teria é a frequência de palavras.
 
-Links can take many forms and have adapted over time. Every time a user votes on content in a social network they add a connection between themselves and the content. This in turn links the consumer to the producer through the content. The more connections a network has the more valuable the information becomes. It is the relative and intentional connectedness of information that gives it value.
+Links podem assumir muitas formas e adaptaram-se ao longo do tempo. Cada vez que um usuário vota em um conteúdo em uma rede social eles adicionam uma conexão entre eles e o conteúdo. Isso por um lado conecta o consumidor ao produtor através do conteúdo. Quanto mais conexões uma rede tem mais valiosa a informação se torna. É a conexão relativa e intencional da informação que lhe fornece valor.
 
-A social network can maximize the value extracted from a set of content by maximizing the quantity and quality of connections. Curating content is expensive and time consuming while being near impossible for computers to perform in the absence of links. Steem rewards users who are among the first to find and identify new content.
+A rede social pode maximizar o valor extraído de um conjunto de conteúdo ao maximizar a quantidade e a qualidade das conexões. A curadoria de conteúdo é cada e consome tempo sendo quase impossível para os computadores performarem na falta de links. O Steem recompensa os usuários que estão entre os primeiros a encontrar e identificar um novo conteúdo.
 
-By incentivising curation the Steem network is able to use automated algorithms to extract the most valuable information from a massive amount of content.
+Incentivando a curadoria a rede Steem é capaz de utilizar algoritmos automatizados para extrair a informação mais valiosa de uma quantidade massiva de conteúdo.
 
 ## Solving the Cryptocurrency Onboarding Problem
 
