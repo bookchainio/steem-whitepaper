@@ -493,15 +493,15 @@ O Steem é uma rede descentralizada que é operada por testemunhas em jurisdiç�
 
 Websites individuais como o steemit.com podem censurar o conteúdo no seu site partibular, mas o conteúdo publicado na blockchain é inerentemente transmitido, e espelhos ao redor do mundo podem continuar a torna-lo disponível.
 
-A liberdade de expressão é a fundação de todas as outras liberdades e qualquer violação da liberdade de expressão compromete a única forma pacífica se alcançar o consenso: discussão. Sem uma discussão livre os votantes não podem estar completamente informados, e votantes desinformados são uma maior ameaça para a sociedade do que a perda do direito ao voto. Censorship is a means of stealing votes through limiting public discourse. Steem is committed to enabling free speech and building a free society.
+A liberdade de expressão é a fundação de todas as outras liberdades e qualquer violação da liberdade de expressão compromete a única forma pacífica se alcançar o consenso: discussão. Sem uma discussão livre os votantes não podem estar completamente informados, e votantes desinformados são uma maior ameaça para a sociedade do que a perda do direito ao voto. A Censura é uma forma de roubar votos através da limitação do discurso público. O Steem está comprometido a permitir a liberdade de expressão e a construção de uma sociedade livre.
 
-## Solving Organic Discovery via Search Engine Optimization
+## Resolvendo a Descoberta Orgânica através da Otimização de Motor de Busca
 
-Most cryptocurrencies generate little value for those who are not actively using the network. Steem, by contrast, generates content and encourages users to share it. This content gets indexed by search engines and ultimately will bring value to a large number of passive users. This search traffic creates organic advertising for the Steem network and grows the network effect.
+A maioria das criptomoedas geram pouco valor para aqueles que estão utilizando ativamente a rede. Steem, ao contrário, gera conteúdo e encoraja os usuários a compartilha-los. Esse conteúdo é indexado pelos motores de busca e ao final irão trazer valor para um grande número de usuários passivos. Esse tráfego de pesquisa cria uma publicidade orgânica para a rede Steem e aumenta o efeito de rede.
 
-## Shifting Toward Blockchain-based Attribution
+## Mudando para uma Atribuição baseada em Blockchain
 
-The internet represents the easiest medium for distributing information in the world. With that said, it can be a frightening place for content creators who would like to own their content and have it shared with proper attribution. On current social media platforms, attribution is something that can be lost overnight - a posted video or image can be replicated and re-shared without consent or regard for the creator.
+A internet representa o meio mais fácil para distribuir informação ao redor do mundo. Dito isso, pode ser um lugar assustador para criadores de conteúdo que desejam possuir o seu próprio conteúdo e tê-lo copartilhado com a atribuição adequada. On current social media platforms, attribution is something that can be lost overnight - a posted video or image can be replicated and re-shared without consent or regard for the creator.
 
 Under blockchain-based social media, a creator or author would always be able to point to a public record and timestamp showing proof of their content origination. In a circumstance where a creator would like to address those who have re-shared without permission or attribution, blockchain-based records provide public proof that the content was posted by a particular user at a particular time. In the future, blockchain-based attribution could come to be recognized by governments for its authenticity and could hold weight in court, which would give content creators greater powers to control their work.
 
