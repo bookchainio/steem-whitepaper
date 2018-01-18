@@ -80,7 +80,7 @@ O se pataki lati ni ifokan igba pipe nito ri pe a je ki agbegbe na le se eto igb
 
 Ni aye cryptocurrency, awon sipeculator ma lo lati cryptocurrency kan lo si cryptocurrency mi lori eyi to ba ni idagbasoke igba-die. Steemu fe ko agbegbe to je pe awon ti won ni oju igba-pipe ni won ma ni ati ni won ma se akoso e.
 
-Awon oni lo ni anfani lati fi STEEM won si vesitin ose metala, pelu pi pese awon anfani lafikun larin pulatiformu. STEEM that has been committed to a thirteen week vesting schedule is called Steem Power (SP). SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
+Awon oni lo ni anfani lati fi STEEM won si vesitin ose metala, pelu pi pese awon anfani lafikun larin pulatiformu. STEEM ti a ti fi si vesitin ose metala ni a n pe ni Agbara Steemu (SP). SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
 
 When users vote on content, their influence over the distribution of the rewards pool is directly proportional to the amount of SP that they have. Users with more SP have more influence on the distribution of rewards. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
 
