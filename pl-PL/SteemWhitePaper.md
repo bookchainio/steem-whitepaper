@@ -138,7 +138,7 @@ Posiadacze STEEM oraz SP zdobywają wpływ, kiedy człokowie społeczności chc�
 
 ### Ustalanie cen wysokości opłat
 
-Bystrzy czytelnicy pewnie zdali sobie sprawę z tego, że środki o limitowanej podaży przynoszące odsetki mogą mieć wyższą lub niższą wartość niż to, od czego zależą. Wpływają na to inne możliwości zarobku bazujące na tych samych aktywach. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
+Bystrzy czytelnicy pewnie zdali sobie sprawę z tego, że środki o limitowanej podaży przynoszące odsetki mogą mieć wyższą lub niższą wartość niż to, od czego zależą. Wpływają na to inne możliwości zarobku bazujące na tych samych aktywach. Posiadając wysoki współczynnik zysku w kapitale ściśle powiązanym z Dolarem Amerykańskim wielu ludzi będzie konkurować o Steem Dollara, czego razultatem będzie cena wyższa niż 1$. W ekonomii isnieje reguła nazywana Niemożliwą Trójcą [^4], która stwierdza, iż niemożliwym jest mieć wszystkie trzy poniższe podmioty w tym samym czasie:
 
 1. A stable exchange rate
 2. Free capital movement
