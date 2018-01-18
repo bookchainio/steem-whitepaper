@@ -4,9 +4,9 @@
 
 Sierpień 2017
 
-# Translator's notes
+# Nota od tłumacza
 
-Placeholder for translator's notes.
+Opisać contribution, dlaczego przetłumaczyłem jako wkład.
 
 # Streszczenie
 
@@ -52,9 +52,9 @@ Wyzwaniem jest stworzenie systemu zdolnego rozróżniać faktycznie potrzebnego 
 
 Sprawdzonym systemem do oceny oraz nagradzania przyczyny jest wolny rynek. Ów wolny rynek może być postrzegany jako pojedyncza społeczność, gdzie każdy handluje z każdym, a nagrody nagrody są przydzielane pod postacią bilansu zysków i strat. System wolnorynkowy nagradza tych, którzy dostarczają wartości dla innych, a kara tych, którzy konsumują więcej niż tworzą. Wolny rynek wspiera wiele różnych walut, pieniądz jest tylko prostym towarem, który jest przez każdego uważany jako łatwy do powszechnej wymiany.
 
-Odkąd wolny rynek dowiódł swojej wartości, kuszącym jest podjęcie próby stworzenia gospodarki wolnorynkowej, w której konsumenci są w stanie bezpośrednio nagrodzić twórców treści, którą konsumują. Jednakże, forma bezpośredniej płatności jest nieefektywna i nie jest do końca wykonalna patrząc pod kątem tworzenia i oceny treści. The value of most content is so low relative to the cognitive, financial, and opportunity costs associated with making a payment that few readers choose to tip. The abundance of free alternatives means that enforcing a ‘paywall’ will drive readers elsewhere. There have been several attempts to implement per-article micropayments from readers to authors, but none have become widespread.
+Odkąd wolny rynek dowiódł swojej wartości, kuszącym jest podjęcie próby stworzenia gospodarki wolnorynkowej, w której konsumenci są w stanie bezpośrednio nagrodzić twórców treści, którą konsumują. Jednakże, forma bezpośredniej płatności jest nieefektywna i nie jest do końca wykonalna patrząc pod kątem tworzenia i oceny treści. Wartość większości treści jest zbyt niska w porównaniu do kosztów poznania, kosztów połączonych z finansowością oraz kosztów utraty innych alternatyw, że w rezultacie niewiele osób decyduje się wesprzeć twórcę. Dostatej darmowych alternatyw oznacza, że narzucanie ‘sytemu ograniczania dostępu na rzecz płatnych treści’ (z ang. ‘paywall’, przyp. tłum.) spowoduje ucieczkę czytelników na rzecz innych alternatyw. Pojawiały się próby implementacji systemów mikropłatności, w których czytelnik płaci autorowi za dostęp do artykułu, lecz żaden z nich nie stał się szeroko powszechny.
 
-Steem is designed to enable effective micropayments for all kinds of contribution by changing the economic equation. Readers no longer have to decide whether or not they want to pay someone from their own pocket, instead they can vote content up or down and Steem will use their votes to determine individual rewards. This means that people are given a familiar and widely used interface and no longer face the cognitive, financial, and opportunity costs associated traditional micropayment and tipping platforms.
+Plaforma Steem jest zaprojektowana tak, by umożliwić efektywne mikropłatności dla każdego rodzaju wkładu, poprzez zmianę zestawu czynników mających wpływ na ekonomię. Readers no longer have to decide whether or not they want to pay someone from their own pocket, instead they can vote content up or down and Steem will use their votes to determine individual rewards. This means that people are given a familiar and widely used interface and no longer face the cognitive, financial, and opportunity costs associated traditional micropayment and tipping platforms.
 
 Voting input from community members is critical for Steem to accurately allocate payments to contributors. Voting can therefore be viewed as a crucial contribution and worthy of rewards on its own. Some platforms, such as Slashdot, use meta-moderation[^3] as a way to rank and reward honest moderators. Steem chooses to reward those who contribute the most to the total promotion of a piece of content and rewards the voters proportional to the ultimate reward paid to the content creator.
 
