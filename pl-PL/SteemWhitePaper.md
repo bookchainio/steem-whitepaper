@@ -56,9 +56,9 @@ Odkąd wolny rynek dowiódł swojej wartości, kuszącym jest podjęcie próby s
 
 Plaforma Steem jest zaprojektowana tak, by umożliwić efektywne mikropłatności dla każdego rodzaju wkładu, poprzez zmianę zestawu czynników mających wpływ na ekonomię. Czytelnicy nie muszą już decydować, czy chcą płacić komuś ciężko zarobione pieniądze. Zamiast tego mogą wyrażać negatywne lub pozytywne opinie poprzez głosowanie, a platforma Steem użyje ich głosów by ustalić wysokość nagrody dla autora. Oznacza to, że użytkownicy otrzymują znajomy oraz powszechnie znany interfejs, który rozwiązuje wszystkie problemy związane z kosztami poznania, kosztami połączonymi z finansowością oraz kosztami utraty innych alternatyw, które trapią tradycyjne systemy oparte o napiwki lub mikropłatności.
 
-Otrzymywanie głosów ze stron społeczności jest niezbędne dla platformy Steem do trafnego przydzielania nagród dla twórców. W takim wypadku głosowanie samo w sobie może być postrzegane jako istotne przyczynianie się dla platformy i powinno zasługiwać na nagrodę. Niektóre platformy, takie jak Slashdot używają nadrzędnej moderacji[^3] (z ang. meta-moderation) jako procesu do klasyfikowania i nagradzania uczciwych moderatorów. Steem chooses to reward those who contribute the most to the total promotion of a piece of content and rewards the voters proportional to the ultimate reward paid to the content creator.
+Otrzymywanie głosów ze stron społeczności jest niezbędne dla platformy Steem do trafnego przydzielania nagród dla twórców. W takim wypadku głosowanie samo w sobie może być postrzegane jako istotne przyczynianie się dla platformy i powinno zasługiwać na nagrodę. Niektóre platformy, takie jak Slashdot używają nadrzędnej moderacji[^3] (z ang. meta-moderation) jako procesu do klasyfikowania i nagradzania uczciwych moderatorów. Platforma Steem postanawia nagradzać nie tylko tych, którzy najbardziej przyczyniają się do ogólnej promocji jej samej poprzez tworzenie treści. Pod postacią wydzielenia części z ostatecznej nagrody dla twórcy, nagradza także tych, którzy głosują wybierając wartościową treść.
 
-# Ways to Contribute
+# Sposoby na wniesienie swojego wkładu
 
 This section outlines the ideas behind Steem and its rewards for people who provide meaningful and measurable contributions to the Steem community.
 
