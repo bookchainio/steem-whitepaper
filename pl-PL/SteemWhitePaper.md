@@ -106,7 +106,7 @@ Nawet, jeśli wszyscy wytwórcy kursów są uczciwi, możliwym jest, iż większ
 
 Platforma Steem uwzględnia krótkoterminowe fluktuacje cen, poprzez używanie mediany cen przez okres trzech i połowy dnia. Wartość bazująca na aktualnej medianie jest publikowana co godzinę.
 
-As long as the price feed corruption lasts for less than half the moving median time window it will have minimal impact on the conversion price. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
+Tak długo jak awaria ceny trwa poniżej połowy mediany czasu między jedną próbką a drugą, publikowana wartość będzie mieć minimalny wpływ na kurs. W momencie, gdy cena ulega korupcji, członkowie sieci będą mieć możliwość by oddać głos za oddaleniem skorumpowanych producentów kursu, tak, by niewłaściwy kurs nie miał możliwości wpływu na kurs wymiany. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
 
 With a three and a half day window, community members have approximately one and a half days to respond to any issues that come up.
 
