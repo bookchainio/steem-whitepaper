@@ -84,7 +84,7 @@ Użytkownicy są w stanie przeznaczyć ich STEEM na rzecz trzynastotygodniowego 
 
 Gdy użytkownicy głosują na treść, ich wpływ na dystrybujcę puli nagród jest wprostproporcjonalna do ilości SP, którą posiadają. Użytkownicy, którzy posiadają więcej SP, mają większy wpływ na dystrybucję nagród. Oznacza to, że SP jest swego rodzaju kluczem dostępu, który daje jego właścicielowi ekskluzywną moc wewnątrz platformy Steem.
 
-SP holders are also paid interest on the balance of SP that remains vested. 15% of the yearly inflation is paid to SP holders as interest. The amount of the interest that they receive is directly proportional to the amount of SP they hold relative to the total amount of vested SP across all users.
+Posiadacze SP otrzymują także odsetki od nadanego kapitału. 15% rocznej inflacji jest wypłacane jako odsetki dla posiadaczy SP. The amount of the interest that they receive is directly proportional to the amount of SP they hold relative to the total amount of vested SP across all users.
 
 Transferring from STEEM to SP is referred to as “powering up”, while transferring from SP to STEEM is referred to as “powering down.” SP that is powered down is returned to the user over a period of thirteen weeks, via 13 equal weekly payments, starting one week after the power down is initiated.
 
