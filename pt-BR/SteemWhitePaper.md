@@ -457,7 +457,7 @@ A energia mental associada com tomar uma decisão econômica se torna uma barrei
 
 -Micropagamentos: Um Modelo Viável de Negócios[^20]
 
-Under Steem, micropayments are paid to content producer, but those who vote for the content do not pay. Instead, the cost of the reward is paid for via new tokens. Someone can join the system, vote to pay someone, and then exit the system with more money than they started with (assuming the market valuation of the Steem system remained constant). In other words, the micropayment solution provided by Steem provides a user-experience similar to many widely used websites that have user-moderated content.
+Sob o Steem, o micro pagamentos são pagos para o produtor de conteúdo, mas aqueles votam pelo conteúdo não pagam. Instead, the cost of the reward is paid for via new tokens. Someone can join the system, vote to pay someone, and then exit the system with more money than they started with (assuming the market valuation of the Steem system remained constant). In other words, the micropayment solution provided by Steem provides a user-experience similar to many widely used websites that have user-moderated content.
 
 Furthemore, Steem pays people to figure out who should be paid! This kind of thinking is revolutionary.
 
