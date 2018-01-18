@@ -64,7 +64,7 @@ Abala yi se afihan awon ero to wa leyin Steemu ati ere to wa fun awon eyan ti ob
 
 ## Ojuse Isowo
 
-Awon nkan meji ti agbegbe le pese lati fa owo: gbese ati nini nkan. Awon ti won ra ere eni to ni nkan nigba ti agbegbe ba dagba sugbon won padanu ti agbegbe ba kere. Awon ti won ra gbese ni idaniloju ninu anfani die sugbon won ni kopa ninu ere kankan nipa dida gbasoke agbegbe. Orisi ojuse owo mejeji se ptaki fun didagba agbegbe ati iyi owo re. Ni afikun ona meji lowa lati di eni to ni nkan mu: likuidi ati vesitin. Nini vestitin je ki fi aramo fun igba pipe ati ko se ta fun akoko to kere ju lo.
+Awon nkan meji ti agbegbe le pese lati fa owo: gbese ati nini nkan. Awon ti won ra ere eni to ni nkan nigba ti agbegbe ba dagba sugbon won padanu ti agbegbe ba kere. Awon ti won ra gbese ni idaniloju ninu anfani die sugbon won ni kopa ninu ere kankan nipa dida gbasoke agbegbe. Orisi ojuse owo mejeji se ptaki fun didagba agbegbe ati iyi owo re. Ni afikun ona meji lowa lati di eni to ni nkan mu: likuidi ati vesitin. Nini vestitin je ki fi aramo fun igba-pipe ati ko se ta fun akoko to kere ju lo.
 
 Netiwoku Steemu pe orisirisi awon kilasi dukiya Steemu (STEEM), Agbara Steemu (SP), ati Dola Steemu (SBD).
 
@@ -74,9 +74,9 @@ Steemu ni akant to se pataki ju lo bulookichaini Steemu. Awon ipa toku mu iyi wo
 
 ## Agbara Steemu (SP)
 
-Ile ise to sese bere ma ni lo owo fun akoko pipe. Awon ti won da owo won ni ibeere ni lati duro fun odun ki won to le ta sharessi wo ati ki won to ri ere. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
+Ile ise to sese bere ma ni lo owo fun igba-pipe. Awon ti won da owo won ni ibeere ni lati duro fun odun ki won to le ta sharessi wo ati ki won to ri ere. Laisi ifokan te igba-pipe, ibeere to ba fe wa owo si nipa tita sharessi lafikun ma dije pelu shareholdersi to wa ni ile tele to fe kuro. Awon invesito fe ki ojuse owo won dagbe ile ise, sugbon didagba ko le waye ti won ba fun awon to fe kuro ni owo titun yi.
 
-There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
+O se pataki lati ni ifokan igba pipe nito ri pe a je ki agbegbe na le se eto igba pipe. Ifokan igba pipe stakeholdersi ma je ki won dibo fun didagbasoke igba-pipe dipo pumpu igba-kekere.
 
 In the cryptocurrency space, speculators jump from cryptocurrency to cryptocurrency based mostly on which one is expected to have short-term growth. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
 
