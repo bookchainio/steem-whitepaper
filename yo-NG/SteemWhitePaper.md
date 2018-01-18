@@ -56,11 +56,11 @@ Niwon osuwon ofe je eto ti a fihan, o je idanwo lati gbiyanju lati seda aaye tit
 
 A she Steemu ni ona to je ki sisan owo kekere fun gbogbo ojuse nipa yiyipada ekuationi ise aje. Awon oluka o ni se ronu boya ki wan san owo abi ki wan ma san lati apo wan, dipo wan le dibo losi oke tabi si ile lori arooko ati Steemu yio fi ibo wan lati mo ere oni kalu ku. Eyi tumo si pe a fun awon eniyan ni intafasi ti o won ti ri ri ati ti won lo kakiri ati pe won ko dojuko isuna owo, iye anfani ti o wa pelu eto sisan owo kekere ti atijo ati pulatiformu tipini.
 
-Idibo didi lati awon eyan to wa ninu agbegbe je nkan to se koko lati je ki Steemu le san owo dede fun awon to se ojuse. A je le wo idibo gegebi ojuse to se pataki to je tun ye ere ni ti e. Awon pulatiformu, bi Slashdot, lo meta-moderation[^3] ni ona lati fun awon alakoso to se otito ni ipo ati ere. Steem chooses to reward those who contribute the most to the total promotion of a piece of content and rewards the voters proportional to the ultimate reward paid to the content creator.
+Idibo didi lati awon eyan to wa ninu agbegbe je nkan to se koko lati je ki Steemu le san owo dede fun awon to se ojuse. A je le wo idibo gegebi ojuse to se pataki to je tun ye ere ni ti e. Awon pulatiformu, bi Slashdot, lo meta-moderation[^3] ni ona lati fun awon alakoso to se otito ni ipo ati ere. Steemu yan lati fun ere fun awon to sojuse ju ni gbi gbega arooko ati lati san ere fun awon oludibo ni iye kana ere ti a san fun eni to ni aroko.
 
-# Ways to Contribute
+# Ona Lati se Ojuse
 
-This section outlines the ideas behind Steem and its rewards for people who provide meaningful and measurable contributions to the Steem community.
+Abala yi se afihan awon ero to wa leyin Steemu ati ere to wa fun awon eyan ti oba se ojuse to ni itumo ati mesurabu fun agbegbe Steemu.
 
 ## Capital Contributions
 
