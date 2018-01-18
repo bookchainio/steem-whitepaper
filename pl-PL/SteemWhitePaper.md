@@ -74,11 +74,11 @@ Steem jest fundamentalną jednostką każdego konta opartego na Platformie Steem
 
 ## Steem Power (SP)
 
-Nowo-założone firmy potrzebują formy otrzymywania długofalowego kapitału. Ci, którzy inwestują w nowo-powstałe firmy spodziewają się sprzedać swoje udziały z zyskiem dopiero po latach. Bez mechanizmu zachęcającego inwestorów do długofalowych inwestycji, nowo-powstała firma ubiegająca się o dodatkowy kapitał poprzez wyprzedawanie udziałów konkurowałaby z obecnymi akcjonariuszami chcącymi ją opuścić. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
+Nowo-założone firmy potrzebują formy otrzymywania długofalowego kapitału. Ci, którzy inwestują w nowo-powstałe firmy spodziewają się sprzedać swoje udziały z zyskiem dopiero po latach. Bez mechanizmu zachęcającego inwestorów do długofalowych inwestycji, nowo-powstała firma ubiegająca się o dodatkowy kapitał poprzez wyprzedawanie udziałów konkurowałaby z obecnymi akcjonariuszami chcącymi ją opuścić. Obyci inwestorzy chcą, by ich włożony kapitał urósł wraz z firmą, jednak rozwój nie może nastąpił, jeśli nowy kapitał jest rozdawany dla tych, którzy chcą odejść.
 
-There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
+Istnieje znacząca wartość posiadanie mechanizmu zachęcającego do inwestowania długofalowo, ponieważ pozwala to społecznościom na długofalowe planówanie. Długoterminowy wkład interesariuszy zmusza ich także do podejmowania decyzji, które powodują stabilny wzrost w dłuższej perspektywie czasu, zamiast podejmowania pochopnych decyzji, które pompują wartość tylko na chwilę.
 
-In the cryptocurrency space, speculators jump from cryptocurrency to cryptocurrency based mostly on which one is expected to have short-term growth. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
+W przestrzeni kryptowalut, spekulanci skaczą z jednej kryptowaluty na drugą bazując głównie na tym, po której z nich można się spodziewać krótkoterminowego wzrostu. Platforma Steem chce zbudować niezależną społeczność, która podejmuje świadome decyzje, kierowane długoterminową perspektywą.
 
 Users are able to commit their STEEM to a thirteen week vesting schedule, providing them with additional benefits within the platform. STEEM that has been committed to a thirteen week vesting schedule is called Steem Power (SP). SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
 
