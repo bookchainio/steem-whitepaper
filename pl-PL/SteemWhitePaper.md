@@ -158,9 +158,9 @@ W efekcie, wytwórcom kursu powierzona jest odpowiedzialność za ustalenie poli
 
 Jeżeli współczynnik długu do własności zaczyna osiągać niebezpiecznie wysoki poziom a członkowie rynku unikają wymian, wtedy powinien zostać zwiększony kurs po którym STEEM jest wypłacany za wymianę SBD.
 
-Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SBD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions.
+Zmiana polityki wydawania udziałów i/lub jakiekolwiek inne premie/przeceny na rynku STEEM/SBD powinny być powolne i mierzone pod kątem możliwych długoterminowych zysków lub odchyneń, aniżeli próbowanie zareagować na zmiany warunków rynku w krótkim odstępie czasu.
 
-It is our belief that these rules will give market participants confidence that they are unlikely lose money by holding SBD purchased at a price of $1.00. We fully expect there to be a narrow trading range between $0.95 and $1.05 for SBD under normal market conditions.
+Wierzymy, że te zasady dadzą członkom gospodarki pewność, że nie stracą pieniędzy poprzez zatrzymywanie SBD po kursie 1.00$ (USD). We fully expect there to be a narrow trading range between $0.95 and $1.05 for SBD under normal market conditions.
 
 ## Subiektywny wkład
 
