@@ -118,7 +118,7 @@ Ipele Steemu ti n sise nipase o nilo gbogbo awon ibeere iyipada lati se idaduro 
 
 ### Iyato Abukuro Awon Iyipada
 
-If people could freely convert in both directions then traders could take advantage of the blockchains conversion rates by trading large volumes without changing the price. Traders who see a massive run up in price would convert to SBD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SBD to STEEM and not the other way around.
+Ti awon enoyan le se iyipada larowoto ni awon aaye mejeji awon onisowo le lo anfani awon iyipada blockuchain nipase isowo ipele mla laisi iyipada oye owo naa. Awon onisowo ti o rii ipa ti o ga julo ni owo yoo pada si SBD ni owo to gaju (nigbati o ba jewu julo) ati lehinna pada lehin igbakeji. Ilana ilana ti n daabobo agbegbe lati iru iwa ibase nipase gbigba nikan laaye eniyan lati yipada lati SBD si STEEMU ati kii se ona miiran ni ayika.
 
 The blockchain decides how and when to create SBD and who should get it. This keeps the rate of SBD creation stable and removes most avenues of abuse.
 
