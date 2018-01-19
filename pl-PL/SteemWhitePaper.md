@@ -66,7 +66,7 @@ Ten rozdział nakreśla idee idące za platformą Steem oraz możliwe wynagrodze
 
 Istenieją dwa podmioty, które społeczność może zaoferować by przyciągnąć kapitał: dług oraz własność. Ci, którzy nabywają własność zyskują, gdy społeczność się rozwija, lecz tracą, gdy społeczność zmniejsza się. Z drugiej strony Ci, którzy nabywają dług mają zapewnioną określoną część udziału, lecz tym samym nie uczestniczą w żadnym podziale zysków, gdy społeczność rośnie. Oba typy wniesienia funduszy są wartościowe dla rozwoju społeczności i jest wartością samą w sobie. Co więcej, istnieją dwie drogi, w jakie własność może być przetrzymywana: płynna oraz nadawana. Nadawana własność tworzy długofalowy wkład i nie może zostać odsprzedana w małej wartości czasu.
 
-Sieć Steem nazywa te trzy różne typy aktywów jako: Steem (STEEM), Steem Power (SP) oraz Steem Dollars, znane także jako Steem Based Dollars (SBD).
+Sieć Steem nazywa te trzy różne typy aktywów jako: Steem (STEEM), Steem Power (SP) oraz Steem Dollars, znane także jako Steem Blockchain Dollars (SBD).
 
 ## Steem (STEEM)
 
@@ -234,7 +234,7 @@ Ekonomiczny efekt wyżej wymienionych działań jest podobny do loterii, w któr
 
 ### Wypłaty
 
-When a post receives a payout it takes the form of 50% SBD and 50% SP. The Steem Power give the user increased voting and transaction power while the SBD gives the user an immediate benefit in a stable currency. As we’ve already discussed at length, SP is designed to encourage long-term holding rather than short-term selling. This encourages more users to have a vested interest in the long-term success of the platform.
+Gdy post otrzymuje możliwość wypłaty, przyjmuje formę 50% SBD oraz 50% SP. Steem Power daje użytkownikowi zwiększoną siłę głosu oraz transakcji, podczas gdy SBD natychmiastowy zysk pod postacią stabilnej waluty. As we’ve already discussed at length, SP is designed to encourage long-term holding rather than short-term selling. This encourages more users to have a vested interest in the long-term success of the platform.
 
 Users also have the option to be paid in 100% SP, as well as decline payout on posts. When a user declines payout on a post, the money that would have been paid to them remains in the rewards pool, to be distributed to other users.
 
