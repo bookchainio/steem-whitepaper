@@ -350,13 +350,13 @@ SBD ہولڈران کو سود ادا کرتا ہے. سود کی شرح ان ہ�
 
 فیس کے ساتھ شرح محدود کی تاثیر کا موازنہ کرنے کے لئے ہمیں لازمی طور پر یہ غور کرنا ہوگا کہ کس طرح دونوں نظام ایک حملہ آور کی طرف سے ارادی نیٹ ورک سیلاب پر رد عمل کرتے ہیں. بٹکوائن کے اندر ایک حملہ آور جس کے پاس دس ہزار ڈالرز (10,000$) ہوں تو وہ ہر ایک بلاک کو بھر کے مکمل دن کے لئے خدمات میں خرابی پیدا کر سکتا ہے. وہی حملہ آور متحرک جزوی مختص شرح محدود حکمت عملی کے اندر ایک بلاک کے لئے بھی خدمات میں خرابی پیدا نہیں کر سکتا.
 
-اگر ہم ایک انتہائی شدید صورت پر جائیں گے اور فرض کریں کہ حملہ آور کے پاس تمام کوئنز کا ١ فیصد (1%) ہے پھر ہم یہ فرض کریں کہ حملہ آور کے پاس ساٹھ ملین ڈالرز ($60 million dollars) ہیں. Such an attacker could deny the Bitcoin blockchain service for 16 years unless the miners increased fees or capacity. Even if fees were raised to $15 per transaction, the attacker could still keep the network flooded for 16 days.
+اگر ہم ایک انتہائی شدید صورت پر جائیں گے اور فرض کریں کہ حملہ آور کے پاس تمام کوئنز کا ١ فیصد (1%) ہے پھر ہم یہ فرض کریں کہ حملہ آور کے پاس ساٹھ ملین ڈالرز ($60 million dollars) ہیں. ایسا حملہ آور بٹکوائن بلاکچین سروس کو سولا (١٦) سال تک کے لئے خرابی پیدا کر سکتا ہے جب تک مائنرز فیس کو بڑھاتے نہیں یا جب تک وہ صلاحیت میں اضافہ نہیں کرتے. یہاں تک کہ اگر فیس کو ١٥ ڈالرز (15$) فی ٹرانزیکشن تک بڑھا دی جائے، تو وہ حملہ آور پھر بھی ١٦ (16) دنوں تک نیٹ ورک کو بھرا ہوا رکھ سکتا ہے.
 
-Under the rate limiting approach, someone who holds 1% of all coins with an intent to flood the network would achieve their goal for less than 30 seconds.
+شرح محدود حکمت عملی کے تحت، کوئی شخص جس کے پاس تمام کوئنز کا ١ فیصد (1%) ہو تو وہ اپنا مقصد صرف ٣٠ (30) سیکنڈ سے کم تک حاصل کر سکے گا.
 
-### Renting vs. Buying vs. Time Sharing
+### کرایہ داری بمقابل خریداری بمقابل وقت کی تقسیم
 
-When someone owns a house they expect the right to use the house for free. If a group of people buy a house together then each can expect the right to use the house proportional to their percentage ownership in the house. A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
+جب کوئی شخص گھر کی ملکیت رکھتا ہے وہ گھر کو مفت استعمال کرنے کے حق کی توقع کرتا ہے. اگر لوگوں کا ایک گروہ مل کر ایک گھر خریدے پھر ان میں سے ہر شخص اپنی ملکیت کے فیصد کے متناسب گھر کو استعمال کرنے کے حق کی توقع کر سکتا ہے. A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
 
 If a house is owned by multiple people then those individuals must decide how they wish to timeshare the house. Someone who owns 50% of the house but only uses it one weekend per year might expect to be paid by the individuals who take their unused time. This is the mindset of a fee based system.
 
