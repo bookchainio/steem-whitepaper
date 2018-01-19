@@ -218,7 +218,7 @@ Użytkownicy dzielą stałą ilość siły głosu (z ang. voting power, przyp. t
 
 ### Dystrybucja wypłat
 
-One of the primary goals of Steem’s reward system is to produce the best discussions on the internet. Each and every year 75% of the yearly inflation is distributed to users submitting, voting on, and discussing content. At the size of Bitcoin this could be several million dollars per day being given to the top contributors.
+Jednym z głównych założeń nagród platformy Steem jest produkowanie najwyższej jakości dyskusji w Internecie. Każdego roku 75% rocznej inflacji jest dzielona pomiędzy użytkowników tworzących, głosujących oraz dyskutujących nad treścią. Przy wielkości porównywalnej z siecią Bitcoin, szacunkowo mogłyby to być miliony dolarów wypłacane dla tych, którzy najbardziej przyczyniają się platformie.
 
 The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content.
 
