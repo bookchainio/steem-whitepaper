@@ -108,7 +108,7 @@ Awon nkan ti o ni okunka jade ni awon isowo owo-akoko kukuru nipa lilo owo agbed
 
 Niwon igba ti oye owo feedi awon idibaje naa wa fun kere ju idaji ferese iseduro isowo ti yoo ni ipa kekere lori owo iyipada. Ni isele ti feedi naa yoo ni ibaje, awon alabasepo netiwoki yoo ni aafanni lati dibo-jade awon onisejade ti o je alaje bururu saaju ki awon ifunni ibaje le ni ipa ni owo iyipada gangan. Boya o se pataki julo, o fun awon onise feedi oja ti o ni anfani lati sawari ati satunse awon oran saaju ki awon feedi sii bere bii ikolu ti owo naa.
 
-With a three and a half day window, community members have approximately one and a half days to respond to any issues that come up.
+Pelu ferese meta ati idaji, awon eniyan agbegbe ni o ni iwon kan ati idaji kan lati dahun si awon oran ti o ba jade.
 
 ### Mitigating Timing Attacks
 
