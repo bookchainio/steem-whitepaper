@@ -154,9 +154,9 @@ Jeżeli kurs SBD stoi na poziomie niższym niż 1$ (USD) a współczynnik długu
 
 Zakładajac, że wartość STEEM rośnie szybciej niż platorma Steem tworzy nowe SBD, wartość współczynnika długu do własności powinna pozostać poniżej docelowego stosunku - wtedy oferowane udziały przynoszą korzyści każdemu. Jeżeli wartość sieci pozostaje na tym samym poziomie lub spada, wtedy każde oferowane udziały będą pogorszać współczynnik długu do własności.
 
-W efekcie, wytwórcom kursu powierzona jest odpowiedzialność za ustalenie polityki monetarnej w celu utrzymania stabilnego dostrojenia w stosunku do USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
+W efekcie, wytwórcom kursu powierzona jest odpowiedzialność za ustalenie polityki monetarnej w celu utrzymania stabilnego dostrojenia w stosunku do USD. Nadużycie tej władzy może zaszkodzić wartości STEEM, więc posiadacze SP są zobowiązanie do głosowania na świadków, na których można liczyć w kwestii dostosowywania wartości kursu oraz udziałów w odniesieniu do zasad wspomnianych wyżej.
 
-If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SBD.
+Jeżeli współczynnik długu do własności zaczyna osiągać niebezpiecznie wysoki poziom a członkowie rynku unikają wymian, wtedy powinien zostać zwiększony kurs po którym STEEM jest wypłacany za wymianę SBD.
 
 Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SBD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions.
 
