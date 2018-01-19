@@ -110,9 +110,9 @@ Niwon igba ti oye owo feedi awon idibaje naa wa fun kere ju idaji ferese iseduro
 
 Pelu ferese meta ati idaji, awon eniyan agbegbe ni o ni iwon kan ati idaji kan lati dahun si awon oran ti o ba jade.
 
-### Mitigating Timing Attacks
+### Gbigbon Awon Akoko Ijako
 
-Market participants have access to information faster than the blockchain’s three and a half day moving median conversion price can react. This information could be used to benefit of traders at the expense of the community. If there is a sudden increase in the value of STEEM traders could request conversion of their SBD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
+Awon alabasepo ti isowo ni iwole si alaye ni kiakia ju iye owo iyipada ti o wa laari agbedemeji iyato ti blockuchain naa le se. This information could be used to benefit of traders at the expense of the community. If there is a sudden increase in the value of STEEM traders could request conversion of their SBD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
 
 Steem levels the playing field by requiring all conversion requests to be delayed for three and a half days. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
 
