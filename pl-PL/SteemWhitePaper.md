@@ -152,9 +152,9 @@ Jeżeli współczynnik długu do własności jest mały, a SBD jest wymieniane p
 
 Jeżeli kurs SBD stoi na poziomie niższym niż 1$ (USD) a współczynnik długu do własności jest wysoki, wtedy kursy powinny zostać dostosowane w ten sposób, by 1 SBD był poparty większą ilością STEEM. Zwiększy to popyt na SBD, kiedy tym samym zredukuje współczynnik długu do własności oraz przywróci parytet SBD i USD.
 
-Assuming the value of STEEM is growing faster than Steem is creating new SBD, the debt-to-ownership ratio should remain under the target ratio and the interest offered benefits everyone. If the value of the network is flat or falling, then any interest offered will only make the debt-to-ownership ratio worse.
+Zakładajac, że wartość STEEM rośnie szybciej niż platorma Steem tworzy nowe SBD, wartość współczynnika długu do własności powinna pozostać poniżej docelowego stosunku - wtedy oferowane udziały przynoszą korzyści każdemu. Jeżeli wartość sieci pozostaje na tym samym poziomie lub spada, wtedy każde oferowane udziały będą pogorszać współczynnik długu do własności.
 
-In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
+W efekcie, wytwórcom kursu powierzona jest odpowiedzialność za ustalenie polityki monetarnej w celu utrzymania stabilnego dostrojenia w stosunku do USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
 
 If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SBD.
 
