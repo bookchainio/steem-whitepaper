@@ -236,7 +236,7 @@ Ekonomiczny efekt wyżej wymienionych działań jest podobny do loterii, w któr
 
 Gdy post otrzymuje możliwość wypłaty, przyjmuje formę 50% SBD oraz 50% SP. Steem Power daje użytkownikowi zwiększoną siłę głosu oraz transakcji, podczas gdy SBD natychmiastowy zysk pod postacią stabilnej waluty. Zgodnie z tym, o czym dyskutowaliśmy wcześniej, SP zostało zaprojektowane, by zachęcić do długofalowego posiadania, aniżeli szybkiej odsprzedaży. Zachęca to użytkowników do posiadania nabytego udziału, by osiągnąć sukces platformy w dłuższej perspektywy czasu.
 
-Users also have the option to be paid in 100% SP, as well as decline payout on posts. When a user declines payout on a post, the money that would have been paid to them remains in the rewards pool, to be distributed to other users.
+Użytkownicy mają też możliwość wybrania 100% SP jako opcji płatności, lub też całkowicie z niej zrezygnować. Kiedy użytkownik rezygnuje z możliwości zapłaty, pieniądze pierwotnie dla niego przeznaczone trafiają z powrotem do puli nagród, by docelowo trafić do innych użytkowników.
 
 # Algorytm Konsensusu
 
