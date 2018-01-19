@@ -248,11 +248,11 @@ Pierwszorzędnym problemem jest ustalenie, jakie świadectwo może wkroczyć do 
 
 ## Konsensus w Steem
 
-Koncepcyjnie, algorytm konsensusu zaadoptowany przez platformę Steem jest podobny do algorytmu wdrożonego przez różne firmy z całego świata. People with a vested interest in the future value of Steem vote to select individuals responsible for including testimony in the public record. Voting is weighted proportional to each individual's vested interest.
+Koncepcyjnie, algorytm konsensusu zaadoptowany przez platformę Steem jest podobny do algorytmu wdrożonego przez różne firmy z całego świata. Osoby z nabytymi udziałami w przyszłą wartość platformy Steem głosują, by wybrać jednostki odpowiedzialne za włączanie treści do rejestru publicznego. W głosowaniu liczy się waga głosu proporcjonalna do nabytych udziałów danej jednostki.
 
-In the world of cryptocurrencies, the public record is commonly referred to as a *blockchain*. A *block* is a group of signed transactions.
+W świecie kryptowalut ów publiczny rejestr znany jako *blockhain*, czyli łańcuch bloków. *Blokiem* określa się wtedy grupę podpisanych transakcji.
 
-With Steem, block production is done in rounds. Each round 21 witnesses are selected to create and sign blocks of transactions. Twenty (20) of these witnesses are selected by approval voting and one is timeshared by every witness that didn’t make it into the top 20 proportional to their total votes. The 21 active witnesses are shuffled every round to prevent any one witness from constantly ignoring blocks produced by the same witness placed before. Any witness who misses a block and hasn't produced in the last 24 hours will be disabled until they update their block signing key.
+Z platformą Steem, produkcja bloków odbywa się w rundach. Dla każdej rundy przydzielanych jest 21 strażników (a ang. witness, przyp. tłum.), by stworzyć a następnie podpisać blok transakcji. Twenty (20) of these witnesses are selected by approval voting and one is timeshared by every witness that didn’t make it into the top 20 proportional to their total votes. The 21 active witnesses are shuffled every round to prevent any one witness from constantly ignoring blocks produced by the same witness placed before. Any witness who misses a block and hasn't produced in the last 24 hours will be disabled until they update their block signing key.
 
 This process is designed to provide the best reliability while ensuring that everyone has the potential to participate in block production regardless of whether they are popular enough to get voted to the top. People have three options to overcome censorship by the top 20 elected witnesses: patiently wait in line with everyone else not in the top 20, or purchase more SP to improve voting power. Generally speaking, applying censorship is a good way for elected witnesses to lose their job and therefore, it is unlikely to be a real problem on the Steem network.
 
