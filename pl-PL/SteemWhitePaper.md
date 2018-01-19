@@ -230,7 +230,7 @@ Zdobywanie popularności jest wartością, którą ciężko zmierzyć, dlatego w
 
 Wpływem z tego głosowania oraz dystrybucji wypłat jest fakt zaoferowania dużych premii za dobrej jakości treść, jednocześnie nagradzając mniejszych graczy za ich długotrwałą przyczynę.
 
-The economic effect of this is similar to a lottery where people overestimate their probability of getting votes and thus do more work than the expected value of their reward and thereby maximize the total amount of work performed in service of the community. The fact that everyone “wins something” plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
+Ekonomiczny efekt wyżej wymienionych działań jest podobny do loterii, w której ludzie przeceniają swoje prawdopodobieństwo otrzymania głosów, w rezultacie wkładają więcej pracy w stosunku do zarobku, tym samym maksymalizując całkowitą ilość pracy wobec społeczności. Fakt, że “każdy coś wygrywa” odgrywa tutaj tą samą psychologiczną rolę, jaką kasyna używają by zachęcać odwiedzających do grania. Innymi słowy, małe nagrody pomagają zaszczepić ideę, iż możliwym jest zarabianie większych nagród.
 
 ### Wypłaty
 
