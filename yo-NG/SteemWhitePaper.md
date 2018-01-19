@@ -112,7 +112,7 @@ Pelu ferese meta ati idaji, awon eniyan agbegbe ni o ni iwon kan ati idaji kan l
 
 ### Gbigbon Awon Akoko Ijako
 
-Awon alabasepo ti isowo ni iwole si alaye ni kiakia ju iye owo iyipada ti o wa laari agbedemeji iyato ti blockuchain naa le se. This information could be used to benefit of traders at the expense of the community. If there is a sudden increase in the value of STEEM traders could request conversion of their SBD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
+Awon alabasepo ti isowo ni iwole si alaye ni kiakia ju iye owo iyipada ti o wa laari agbedemeji iyato ti blockuchain naa le se. Alaye yii le see lo lati ni anfan ti awon onisowo ni labikita fun agbegbe. Ti iseduro ilosoke ninu iye awon onisowo STEEMU le beere iyipada ti SBD ni atijo, owo kekere, ati lehinna ta STEEMU ti won gba owo tuntun ti o ga julo pelu ewu ti o kere ju.
 
 Steem levels the playing field by requiring all conversion requests to be delayed for three and a half days. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
 
