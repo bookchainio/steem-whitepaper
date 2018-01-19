@@ -214,7 +214,7 @@ Celem budowania społeczności jest sprowadzenie większej ilości “krabów do
 
 Znaczącą częścią minimalizowania nadużyć jest ograniczenie głosowania stopą (z ang. rate-limiting of voting). Indywidualni użytkownicy mogą przeczytać i ocenić ograniczoną ilość podmiotów w ciągu dnia. Jakakolwiek inna próba głosowania częściej jest oznaką automatyzacji i potencjalnego nadużycia. Poprzez ograniczenia, głos interesariuszy, którzy głosują częściej ma mniejszą siłę niż Ci, którzy oddają swój głos rzadziej. Próby podziału tokenów między wiele kont dzieli także wpływ, więc nie skutkuje w globalnym przyroście wpływu. Nie omija także limitu czasowego związanego z głosowaniem.
 
-Użytkownicy dzielą stałą ilość siły głosu (z ang. voting power, przyp. tłum.). Voting power is multiplied by a user’s vesting tokens to determine how much share in the reward pool should be allocated to a given work item. Every vote that is cast uses a percentage of remaining voting power. Users can vote for more posts, but each vote will be worth less, and it will take longer to reach full voting power again. Voting power recharges at a fixed linear rate of 20% per day.
+Użytkownicy dzielą stałą ilość siły głosu (z ang. voting power, przyp. tłum.). Siła głosu jest mnożona przez nadane użytkownikowi tokeny (z ang. vesting tokens), które determinują ile udziałów w puli nagród (z ang. reward pool) powinno zostać przydzielone do danego elementu. Every vote that is cast uses a percentage of remaining voting power. Users can vote for more posts, but each vote will be worth less, and it will take longer to reach full voting power again. Voting power recharges at a fixed linear rate of 20% per day.
 
 ### Payout Distribution
 
