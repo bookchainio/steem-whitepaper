@@ -344,7 +344,7 @@ SBD ہولڈران کو سود ادا کرتا ہے. سود کی شرح ان ہ�
 
 خوش قسمتی سے، لازمی کم از کم بیلنس کم سے کم ایک ڈالر تک بھی ہو سکتا ہے اور یہ وہ ہے جو صارفین سمجھ سکتے اور قدر کرتے ہیں. کھوئے ہوئے موقع کی لاگت فیس کی لاگت میں نہیں تبدیل ہوتی اور یہ صارفین کے لئے زیادہ قابل قبول ہے.
 
-اکاونٹ کو شروع میں بھرنے کے لئے استعمال شدہ سٹیم نئے اکاونٹ میں پاور-اپ ہوتے ہیں (یعنی سٹیم پاور میں تبدیلی). A portion of the SP used to fund a new account may be delegated from the creator of the account. When a user is delegated SP, they may use the SP for voting and bandwidth purposes as if it were their own, but the ownership of the SP remains with the user who delegated it. A user may remove the delegation at any time. After a cool-down period, the SP is returned to their account.
+اکاونٹ کو شروع میں بھرنے کے لئے استعمال شدہ سٹیم نئے اکاونٹ میں پاور-اپ ہوتے ہیں (یعنی سٹیم پاور میں تبدیلی). SP کا ایک حصہ جو اکاونٹ کے اندراج کے لئے استعمال کیا گیا تھا اکاونٹ کے مالک کی طرف سے کسی دوسرے صارف کو سونپے جا سکتے ہیں. When a user is delegated SP, they may use the SP for voting and bandwidth purposes as if it were their own, but the ownership of the SP remains with the user who delegated it. A user may remove the delegation at any time. After a cool-down period, the SP is returned to their account.
 
 ### Effectiveness Relative to Fees
 
