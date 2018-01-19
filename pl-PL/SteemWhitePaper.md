@@ -184,9 +184,9 @@ Następnym krokiem jest nagradzanie każdego, kto robi cokolwiek z *czymkolwiek*
 
 ### Głosowanie na rozprowadzaniem waluty
 
-Załóżmy, że istnieje określona ilość pieniądza do podziału i Ci, którzy posiadają długofalowe udziały oparte na przyszłej wartości i użyteczności waluty są tymi, który decydują jak rozlokować podział. Every vesting user casts their votes on who did the best work and at the end of the day the available money for that day is divided proportional to the votes such that everyone with even one net positive vote gets something.
+Załóżmy, że istnieje określona ilość pieniądza do podziału i Ci, którzy posiadają długofalowe udziały oparte na przyszłej wartości i użyteczności waluty są tymi, który decydują jak rozlokować podział. Każdy użytkownik głosujący na osobę, która wykonała najlepszą aktywność a na koniec dnia dostępna pula pieniędzy przeznaczona na ten dzień jest dzielona proporcjonalnie do głosów, w taki sposób, że nawet jeden najmniejszy głos ma znaczenie.
 
-The naive voting process creates a N-Person Prisoner’s Dilemma[^5] whereby each individual voter has incentive to vote for themselves at the expense of the larger community goal. If every voter defects by voting for themselves then no currency will end up distributed and the currency as a whole will fail to gain network effect. On the other hand, if only one voter defects then that voter would win undeserved profits while having minimal effect on the overall value of the currency.
+Trywialny system głosowania tworzy Dylemat Więźnia dla dowolnej liczby osób[^5] (z ang. N-Person Prisoner’s Dilemma, przyp. tłum), gdzie każdy indywidualny głosujący ma motywację do głosowania na samego siebie, kosztem wyższych celów społeczności. If every voter defects by voting for themselves then no currency will end up distributed and the currency as a whole will fail to gain network effect. On the other hand, if only one voter defects then that voter would win undeserved profits while having minimal effect on the overall value of the currency.
 
 #### Nadużycia Systemu Głosowania
 
