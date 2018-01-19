@@ -150,7 +150,7 @@ Pierwszorzędną kwestią producentów kursu wymiany jest utrzymywać stabilną 
 
 Jeżeli współczynnik długu do własności jest mały, a SBD jest wymieniane po kursie niższym niż 1$ (USD), wtedy kurs SBD powinien zostać podwyższony. Zachęci to większą ilość osób do trzymania SBD i wspierania ceny.
 
-If SBD trades for less than $1.00 USD and the debt-to-ownership ratio is high, then the feeds should be adjusted upward give more STEEM per SBD. This will increase demand for SBD while also reducing the debt-to-ownership ratio and returning SBD to parity with USD.
+Jeżeli kurs SBD stoi na poziomie niższym niż 1$ (USD) a współczynnik długu do własności jest wysoki, wtedy kursy powinny zostać dostosowane w ten sposób, by 1 SBD był poparty większą ilością STEEM. Zwiększy to popyt na SBD, kiedy tym samym zredukuje współczynnik długu do własności oraz przywróci parytet SBD i USD.
 
 Assuming the value of STEEM is growing faster than Steem is creating new SBD, the debt-to-ownership ratio should remain under the target ratio and the interest offered benefits everyone. If the value of the network is flat or falling, then any interest offered will only make the debt-to-ownership ratio worse.
 
