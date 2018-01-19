@@ -122,9 +122,9 @@ Ti awon enoyan le se iyipada larowoto ni awon aaye mejeji awon onisowo le lo anf
 
 Awon blockuchain pinnu bi ati nigbati lati seda SBD ati awon ti o ye ki o gbaa nbe. Eyi ntoju osuwon ti SBD eda idurosinsin ati ki o yo awon ona to julo ti ilokulo.
 
-### Sustainable Debt to Ownership Ratios
+### Gbese Alagbero Si Awon Eto Ijerisi
 
-If a token is viewed as ownership in the whole supply of tokens, then a token-convertible-dollar can be viewed as debt. If the debt to ownership ratio gets too high the entire currency can become unstable. Debt conversions can dramatically increase the token supply, which in turn is sold on the market suppressing the price. Subsequent conversions require the issuance of even more tokens. Left unchecked the system can collapse leaving worthless ownership backing a mountain of debt. The higher the debt to ownership ratio becomes the less willing new investors are to bring capital to the table.
+Ti a ba wo tokini bi nini ni gbogbo ipese ti tokin, igbana awon tokini-alayipada-dola le see bojuwo bi gbese. If the debt to ownership ratio gets too high the entire currency can become unstable. Debt conversions can dramatically increase the token supply, which in turn is sold on the market suppressing the price. Subsequent conversions require the issuance of even more tokens. Left unchecked the system can collapse leaving worthless ownership backing a mountain of debt. The higher the debt to ownership ratio becomes the less willing new investors are to bring capital to the table.
 
 A rapid change in the value of STEEM can dramatically change the debt-to-ownership ratio. The blockchain prevents the debt-to-ownership ratio from getting too high, by reducing the amount of STEEM awarded through SBD conversions if the debt level were to exceed 10%. If the amount of SBD debt ever exceeds 10% of the total STEEM market cap, the blockchain will automatically reduce the amount of STEEM generated through conversions to a maximum of 10% of the market cap. This ensures that the blockchain will never have higher than a 10% debt-to-ownership ratio.
 
