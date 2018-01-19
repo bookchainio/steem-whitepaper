@@ -160,7 +160,7 @@ Jeżeli współczynnik długu do własności zaczyna osiągać niebezpiecznie wy
 
 Zmiana polityki wydawania udziałów i/lub jakiekolwiek inne premie/przeceny na rynku STEEM/SBD powinny być powolne i mierzone pod kątem możliwych długoterminowych zysków lub odchyneń, aniżeli próbowanie zareagować na zmiany warunków rynku w krótkim odstępie czasu.
 
-Wierzymy, że te zasady dadzą członkom gospodarki pewność, że nie stracą pieniędzy poprzez zatrzymywanie SBD po kursie 1.00$ (USD). We fully expect there to be a narrow trading range between $0.95 and $1.05 for SBD under normal market conditions.
+Wierzymy, że te zasady dadzą członkom gospodarki pewność, że nie stracą pieniędzy poprzez zatrzymywanie SBD po kursie 1.00$ (USD). Jesteśmy przekonani, że przy normalnych wartościach rynkowych rynek wymiany SBD pomiędzy 0.95$ (USD) a 1.05$ (USD) będzie relatywnie niewielki.
 
 ## Subiektywny wkład
 
