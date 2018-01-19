@@ -226,9 +226,9 @@ Prawo Zipfa [^7] jest jedną z empirycznych zasad, które charakteryzują zaskak
 
 ![](\img_the_new_marketplace.png)
 
-Zdobywanie popularności jest wartością, którą ciężko zmierzyć, dlatego wartość każdego indywidualnego podmiotu jest ustalana przez Prawo Zipfa. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
+Zdobywanie popularności jest wartością, którą ciężko zmierzyć, dlatego wartość każdego indywidualnego podmiotu jest ustalana przez Prawo Zipfa. Podążając tą myślą, jeśli mamy milion podmiotów, wtedy 100 najbardziej popularnych otrzyma jedną trzecią wartości, następne 10,000 kolejną trzecią część, a pozostałe 989,900 otrzyma ostatnią trzecią część. Wartość kolekcji n elementów jest proporcjonalna do log(n).
 
-The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
+Wpływem z tego głosowania oraz dystrybucji wypłat jest fakt zaoferowania dużych premii za dobrej jakości treść, jednocześnie nagradzając mniejszych graczy za ich długotrwałą przyczynę.
 
 The economic effect of this is similar to a lottery where people overestimate their probability of getting votes and thus do more work than the expected value of their reward and thereby maximize the total amount of work performed in service of the community. The fact that everyone “wins something” plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
 
