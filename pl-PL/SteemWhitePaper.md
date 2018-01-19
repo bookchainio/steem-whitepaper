@@ -6,7 +6,7 @@ Sierpień 2017
 
 # Nota od tłumacza
 
-Opisać contribution, dlaczego przetłumaczyłem jako wkład. Wytłumaczyć, dlaczego używam platforma steem, zamiast steem 
+Opisać contribution, dlaczego przetłumaczyłem jako wkład. Wytłumaczyć, dlaczego używam platforma steem, zamiast steem Proof of work, dlaczego dowód włożonej pracy
 
 # Streszczenie
 
@@ -164,7 +164,7 @@ Wierzymy, że te zasady dadzą członkom gospodarki pewność, że nie stracą p
 
 ## Subiektywny wkład
 
-Subjective Proof of Work presents an alternative approach to distributing a currency that improves upon fully *objective* Proof of Work systems such as mining. The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
+Subiektywny Dowód Włożonej Pracy (z ang. Subjective Proof of Work, przyp. tłum.) prezentuje alternatywne podejście do dystrybucji kryptowaluty, które usprawnia całkowicie *obiektywne* systemy Dowódu Włożonej Pracy, na przykład wykopywanie (z ang. mining, przyp. tłum.). Zastosowania waluty implementującej *subiektywny* dowód włożonej pracy są o wiele szersze niż jakikolwiek system poparty *obiektywnym* dowodem pracy, ponieważ mogą być zastosowane przez społeczności wokół jakiegokolwiek konceptu, w którym można jasno sprecyzować cel. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
 
 In effect, the criteria by which work is evaluated is completely subjective and its definition lives outside the source code itself. One community may wish to reward artists, another poets, and another comedians. Other communities may choose to reward charitable causes or help advance political agendas.
 
