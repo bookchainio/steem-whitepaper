@@ -118,9 +118,9 @@ Ipele Steemu ti n sise nipase o nilo gbogbo awon ibeere iyipada lati se idaduro 
 
 ### Iyato Abukuro Awon Iyipada
 
-Ti awon enoyan le se iyipada larowoto ni awon aaye mejeji awon onisowo le lo anfani awon iyipada blockuchain nipase isowo ipele mla laisi iyipada oye owo naa. Awon onisowo ti o rii ipa ti o ga julo ni owo yoo pada si SBD ni owo to gaju (nigbati o ba jewu julo) ati lehinna pada lehin igbakeji. Ilana ilana ti n daabobo agbegbe lati iru iwa ibase nipase gbigba nikan laaye eniyan lati yipada lati SBD si STEEMU ati kii se ona miiran ni ayika.
+Ti awon enoyan le se iyipada larowoto ni awon aaye mejeji awon onisowo le lo anfani awon iyipada blockuchain nipase isowo ipele mla laisi iyipada oye owo naa. Awon onisowo ti o rii ipa ti o ga julo ni owo yoo pada si SBD ni owo to gaju (nigbati o ba jewu julo) ati lehinna pada lehin igbakeji. Isakoso Steemu naa ni aabo fun awon agbegbe lati iru iwa ibase yiinipa gbigba awon eniyan nikan lati yipada lati odo SBD si STEEMU ati pe kii se ona miiran ni ayika.
 
-The blockchain decides how and when to create SBD and who should get it. This keeps the rate of SBD creation stable and removes most avenues of abuse.
+Awon blockuchain pinnu bi ati nigbati lati seda SBD ati awon ti o ye ki o gbaa nbe. Eyi ntoju osuwon ti SBD eda idurosinsin ati ki o yo awon ona to julo ti ilokulo.
 
 ### Sustainable Debt to Ownership Ratios
 
