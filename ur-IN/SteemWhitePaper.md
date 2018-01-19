@@ -328,11 +328,11 @@ SBD ہولڈران کو سود ادا کرتا ہے. سود کی شرح ان ہ�
 
 کم بیلنس سے بھرے ہوئے اکاونٹ جسے قلیل استعمال کے وقت تخلیق کیا گیا تھا، اس کے لئے یہ ممکن ہے کہ جب نیٹ ورک پر بوجھ بڑھے تو وہ اکاونٹ ناقابل پہنچ ہو جائے. عارضی طور پر اکاؤنٹ میں بڑے توازن کو سونپ کر سرمائے کو کسی بھی وقت دوبارہ حاصل کیا جا سکتا ہے.
 
-لٹکے ہوئے اکاونٹ کی کم سے کم تعداد کے ساتھ صارف کے مناسب تجربے کو برقرار رکھنے کے لئے، تمام نئے اکاونٹ کو ہفتہ وار لین دین کے لئے درکار ضروری کم سے کم بیلنس سے ١٠ گناہ زیادہ بیلنس رکھنا ہوگا. This way even if demand increases by a factor of 10 the account will remain viable.
+لٹکے ہوئے اکاونٹ کی کم سے کم تعداد کے ساتھ صارف کے مناسب تجربے کو برقرار رکھنے کے لئے، تمام نئے اکاونٹ کو ہفتہ وار لین دین کے لئے درکار ضروری کم سے کم بیلنس سے ١٠ گناہ زیادہ بیلنس رکھنا ہوگا. اسطرح اگر طلب میں ١٠ گناہ اضافہ بھی ہو جائے تو اکاونٹ قابل پہنچ رہے گا.
 
-Any initial account balance would have to come from the user creating the account and not from token creation due to the potential for sybil attacks.
+سائبل حملوں کے امکانات کی وجہ سے کوئی بھی ابتدائی اکاونٹ توازن (بیلنس) صارف کے پاس سے آنا ہوگا نہ کہ ٹوکن کی تخلیق سے.
 
-### Justifying Minimum Balances
+### کم از کم بیلنس کی توثیق
 
 The concept of forcing users to maintain a minimum balance flows naturally from the value of a user[^10]. Anyone running a business knows that every single user has significant value. Businesses spend anywhere from $30 to $200 to acquire a user. Sometimes they pay users directly, other times they pay for advertizing, and still other times entire companies are bought just for their user base. After a company acquires a user they often given them many *free services* just to keep them around long enough to monetize them through some other means.
 
