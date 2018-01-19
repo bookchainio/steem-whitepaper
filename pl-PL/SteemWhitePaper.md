@@ -144,9 +144,9 @@ Bystrzy czytelnicy pewnie zdali sobie sprawę z tego, że środki o limitowanej 
 2. Swobodna kontrola przepływu
 3. Niezależna polityka piniężna
 
-If Steem feed producers aim to have an independent monetary policy allowing it to create and destroy Steem Dollars while simultaneously having full control over the interest rate then they will encounter problems. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
+Jeżeli producenci wysokości kursu Steem dążyliby do niezależnej polityki monetarnej, pozwalając tworzyć i usuwać Dolary Steem, jednocześnie posiadając pełną kontrolę nad kursem wymiany, okazałoby się, że w takim wypadku napotkaliby problemy. Zasadna Niemożliwej Trójcy mówi, że Dollary Steem nie muszą ograniczać wolnego przepływu kapitału, mieć niestabilnego współczynnika wymiany z dolarem, ani też ograniczonej kontroli nad wysokością kursu.
 
-The primary concern of Steem feed producers is to maintain a stable one-to-one conversion between SBD and the U.S. Dollar (USD). Any time SBD is consistently trading above $1.00 USD interest payments must be stopped. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SBD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
+Pierwszorzędną kwestią producentów kursu wymiany jest utrzymywać stabilną relację SBD do Dolara Amerykańskiego (USD) w stosunku na poziomie jeden do jednego. Za każdym razem kiedy SBD jest wymieniane po kursie wyższym niż 1$ USD, wypłata udziałów musi zostać zatrzymana. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SBD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
 
 If the debt-to-ownership ratio is low and SBD is trading for less than $1.00, then the interest rate should be increased. This will encourage more people to hold their SBD and support the price.
 
