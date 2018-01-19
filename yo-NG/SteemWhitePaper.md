@@ -104,9 +104,9 @@ Fi fun awon olupese feedi ti a gbekele ati ti a yan, a le ri owo ti a fi yi pada
 
 Paapa ti gbogbo olupese feedi ba je olotito, o sese ki opoplopo awon olupese feedi ni ipa nipa isele ti o ju agbara won lo. Alailowaya netiwoki ti Steemu ni a se lati fi aaye gba iwa ibaje kukuru ti isowo owo agbedemeji nigba ti agbede n sisie lati se atunse oro yii. Okan apeere ti oro kan ti o le gba akoko die lati se atunse je isowo oja-sise kukuru. Ifowoyi oja je gidigigi soro ati gbowolori lati setoju fun igba pipe. Apeere miiran yoo je ikuna ti pasiparo ti a se iseduro tabi ibaje ti awon data ti a se nipase pasiparo naa.
 
-Steem factors out short-term price fluctuations by using the median price over a period of three and a half days. The median published feed is sampled every hour on the hour.
+Awon nkan ti o ni okunka jade ni awon isowo owo-akoko kukuru nipa lilo owo agbedemeji ni akoko awon ojo meta ati idaji. Awon kiko sii agbedemeji feedi ti wa ni ayewo ni gbogbo wakati kan ni wakati.
 
-As long as the price feed corruption lasts for less than half the moving median time window it will have minimal impact on the conversion price. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
+Niwon igba ti oye owo feedi awon idibaje naa wa fun kere ju idaji ferese iseduro isowo ti yoo ni ipa kekere lori owo iyipada. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
 
 With a three and a half day window, community members have approximately one and a half days to respond to any issues that come up.
 
