@@ -102,7 +102,7 @@ Awon Oludimu SP ma n yan awon eyan, ti an pe ni eleri, lati se afihan iye awon f
 
 Fi fun awon olupese feedi ti a gbekele ati ti a yan, a le ri owo ti a fi yi pada gangan ni mediani ti awon feedi. Ni ona yi eyi keyi to ba je kekere ninu awon olupese feedi ba pese outulier won ni ipa kekere ninu mediani gangan nigba ti won si ni agbara lori oruko won.
 
-Paapa ti gbogbo olupese feedi ba je olotito, o sese ki opoplopo awon olupese feedi ni ipa nipa isele ti o ju agbara won lo. The Steem network is designed to tolerate short-term corruption of the median price feed while the community actively works to correct the issue. One example of an issue that may take some time to correct is short-term market manipulation. Market manipulation is difficult and expensive to maintain for long periods of time. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
+Paapa ti gbogbo olupese feedi ba je olotito, o sese ki opoplopo awon olupese feedi ni ipa nipa isele ti o ju agbara won lo. Alailowaya netiwoki ti Steemu ni a se lati fi aaye gba iwa ibaje kukuru ti isowo owo agbedemeji nigba ti agbede n sisie lati se atunse oro yii. Okan apeere ti oro kan ti o le gba akoko die lati se atunse je isowo oja-sise kukuru. Ifowoyi oja je gidigigi soro ati gbowolori lati setoju fun igba pipe. Apeere miiran yoo je ikuna ti pasiparo ti a se iseduro tabi ibaje ti awon data ti a se nipase pasiparo naa.
 
 Steem factors out short-term price fluctuations by using the median price over a period of three and a half days. The median published feed is sampled every hour on the hour.
 
