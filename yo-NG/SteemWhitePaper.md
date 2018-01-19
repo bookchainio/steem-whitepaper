@@ -106,7 +106,7 @@ Paapa ti gbogbo olupese feedi ba je olotito, o sese ki opoplopo awon olupese fee
 
 Awon nkan ti o ni okunka jade ni awon isowo owo-akoko kukuru nipa lilo owo agbedemeji ni akoko awon ojo meta ati idaji. Awon kiko sii agbedemeji feedi ti wa ni ayewo ni gbogbo wakati kan ni wakati.
 
-Niwon igba ti oye owo feedi awon idibaje naa wa fun kere ju idaji ferese iseduro isowo ti yoo ni ipa kekere lori owo iyipada. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
+Niwon igba ti oye owo feedi awon idibaje naa wa fun kere ju idaji ferese iseduro isowo ti yoo ni ipa kekere lori owo iyipada. Ni isele ti feedi naa yoo ni ibaje, awon alabasepo netiwoki yoo ni aafanni lati dibo-jade awon onisejade ti o je alaje bururu saaju ki awon ifunni ibaje le ni ipa ni owo iyipada gangan. Boya o se pataki julo, o fun awon onise feedi oja ti o ni anfani lati sawari ati satunse awon oran saaju ki awon feedi sii bere bii ikolu ti owo naa.
 
 With a three and a half day window, community members have approximately one and a half days to respond to any issues that come up.
 
