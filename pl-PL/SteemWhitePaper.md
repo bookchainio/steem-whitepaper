@@ -198,11 +198,11 @@ Użycie *negatywnych głosów* do odwodzenia ludzi od nadużywania systemu wpły
 
 **Opowieść o koszu krabów**[^6]
 
-A man was walking along the beach and saw another man fishing in the surf with a bait bucket beside him. As he drew closer, he saw that the bait bucket had no lid and had live crabs inside.
+Pewien mężczyzna spacerował po plaży i spotkał człowieka łowiącego ryby w morskiej pianie z wiadrem przynęty tuż za nim. Kiedy się zbliżył, zobaczył, że kosz na przynętę nie miał przykrycia, a w środku żyły kraby.
 
-"Why don't you cover your bait bucket so the crabs won't escape?", he said.
+"Dlaczego nie przykryjesz wiadra, żeby kraby z niego nie uciekły?", zapytał mężczyzna.
 
-"You don't understand.", the man replied, "If there is one crab in the bucket it would surely crawl out very quickly. However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
+"Nie rozumiesz.", odpowiedział wędkarz. "Jeśli byłby tam tylko jeden krab, z pewnością szybko by stamtąd uciekł. However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
 
 So it is with people. If one tries to do something different, get better grades, improve herself, escape her environment, or dream big dreams, other people will try to drag her back down to share their fate.
 
