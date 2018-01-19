@@ -222,11 +222,11 @@ Jednym z głównych założeń nagród platformy Steem jest produkowanie najwyż
 
 Aktualna dystrybucja będzie zależeć od schematu głosowania użytkowników, lecz podejrzewamy, że znaczna większość nagród będzie dzielona między najbardziej popularną treść.
 
-Prawo Zipfa [^7] jest jedną z empirycznych zasad, które charakteryzują zaskakującą większość zjawisk na świecie zadziwiające dobrze. Mówi ono o tym, iż jeśli zbierzemy dużą grupę osób według wielkości lub popularności, wtedy drugi element kolekcji będzie liczył około połowę tego co pierwszy element, trzeci będzie liczyć około jedną trzecią wartości miary co pierwszy i tak dalej. In general, the k th-ranked item will measure about 1/k of the first one.
+Prawo Zipfa [^7] jest jedną z empirycznych zasad, które charakteryzują zaskakującą większość zjawisk na świecie zadziwiające dobrze. Mówi ono o tym, iż jeśli zbierzemy dużą grupę osób według wielkości lub popularności, wtedy drugi element kolekcji będzie liczył około połowę tego co pierwszy element, trzeci będzie liczyć około jedną trzecią wartości miary co pierwszy i tak dalej. Uogólniając, k-ty element rankingu będzie mierzył 1/k tego co pierwszy.
 
 ![](\img_the_new_marketplace.png)
 
-Taking popularity as a rough measure of value, then the value of each individual item is given by Zipf’s Law. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
+Zdobywanie popularności jest wartością, którą ciężko zmierzyć, dlatego wartość każdego indywidualnego podmiotu jest ustalana przez Prawo Zipfa. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
 
 The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
 
