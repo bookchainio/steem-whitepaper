@@ -256,7 +256,7 @@ Z platformą Steem, produkcja bloków odbywa się w systemie rundowym. Dla każd
 
 Proces ten jest zaprojetowany tak, by dostarczać maksymalną wierzytelność przy jednoczesnym zachowaniu pewności, że każdy ma potencjał do produkcji bloków bez względu na jego popularność. Ludzie mają trzy opcje przezwyciężania cenzury narzuconej przez 20 wybranych strażników: cierpliwie poczekać w kolejce z każdym innym użytkownikiem, który nie należy do grupy 20 największych, lub nabyć więcej SP, by zwiększyć swoją siłę głosu. Ogólnie rzecz biorąc, stosowanie cenzury jest bardzo dobrą drogą dla wybranych strażników do utraty posady, czego konsekwencją jest ograniczenie problemu cenzury w sieci Steem do statystycznego minimum.
 
-Because the active witnesses are known in advance, Steem is able to schedule witnesses to produce blocks every 3 seconds. Witnesses synchronize their block production via the NTP protocol. A variation of this algorithm has been in use by the BitShares network for over a year where it has been proven to be reliable.
+Jako, że aktywni strażnicy znani są z wyprzedzeniem, platforma Steem jest zdolna jest do rozplanowywania procesu tworzenia przez nich bloków co 3 sekundy. Strażnicy synchronizują ich produkcję bloków poprzez protokół NTP. Odmiana tego algorytmu była używana w sieci BitShares przez ponad rok, gdzie udowodniła swoją niezawodność.
 
 # Eliminowanie Opłat Transakcyjnych
 
