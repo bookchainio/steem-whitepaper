@@ -312,7 +312,7 @@ Rozwiązaniem wyżej wymieniowych problemów z mikropłatnościami jest implemen
 
 Przepustowość używana przez pojedynczych użytkowników powinna być mierzona przez odpowiednio długi okres czasu, by umożliwić użytkownikowi na zmianę intensywności użycia. Użytkownicy zwykli logować się, robić wiele rzeczy na raz, a potem wylogowywać się. Oznacza to, że przydzielona im przepustowość w krótkim czasie znacząco wzrośnie, w stosunku to większej perspektywy. Jeśli odstęp czasu pomiędzy kolejnymi dostosowaniami przepustowości będzie zbyt duży, łącze nie zdąży zareagować wystarczająco szybko w przypadku krótkoterminowych przeciążeń, jeśli zaś odstęp będze zbyt mały nie przyniese potencjalnego zysku normalnym użytkownikom.
 
-Według naszych przybliżeń, stosownym jest mierzenie przepustowości użycia łącza co tydzień. Kiedy użytkownik podpisuje transakcję, wpływa ona na jego własną, zmienną średnią. Any time a user’s moving average exceeds the current network limit their transaction is delayed until their average falls below the limit.
+Według naszych przybliżeń, stosownym jest mierzenie przepustowości użycia łącza co tydzień. Kiedy użytkownik podpisuje transakcję, wpływa ona na jego własną, zmienną średnią. Za każdym razem kiedy owa średnia przekroczy aktualny limit sieci, jego transakcja jest wstrzymana, do momentu aż średnia spadnie poniżej limitu.
 
 ### Wpływ pojemności
 
