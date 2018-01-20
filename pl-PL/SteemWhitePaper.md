@@ -294,11 +294,11 @@ Sieć musi dostosowywać wysokości opłat z czasem. Może się to zdarzyć, ze 
 
 ### Ataki oparte na wykorzystaniu wielu podmiotów jednego użytkownika
 
-Scentralizowane strony internetowe zapobiegają ilościowym nadużyciom znanym jako spam poprzez ograniczanie ilości zapytań oraz którąś z dostępnych form identyfikacji osobowości. Nawet coś tak prostego jak reCAPTCHA[^9] jest wystarczającym środkiem do znacznego ograniczenia rejestracji fałszywych kont. If someone abuses their account then centralized websites are free to block the account.
+Scentralizowane strony internetowe zapobiegają ilościowym nadużyciom znanym jako spam poprzez ograniczanie ilości zapytań oraz którąś z dostępnych form identyfikacji osobowości. Nawet coś tak prostego jak reCAPTCHA[^9] jest wystarczającym środkiem do znacznego ograniczenia rejestracji fałszywych kont. Jeśli któryś użytkownik nadużywa systemu, wtedy scentralizowana aplikacja blokuje jego konto.
 
-In a decentralized system there is no direct way to ban users nor centralized provider able to host a reCAPTCHA and enforce rate limiting of accounts. In fact, the inability to censor users is one of the main selling points of blockchain technology.
+W zdecentralizowanym systemie nie ma ani bezpośredniej możliwości by zablokowania użytkownika, ani też scentralizowanego dostawcy mogącego wdrożyć system zabezpieczeń taki jak reCAPTCHA i ograniczyć ilość tworzonych kont. Właściwie, niemożność ocenzurowania użytkownika jest jedną z głównych cech technologii blockchain.
 
-### Full Reserve vs Fractional Reserve
+### Pełna rezerwa a częściowa rezerwa
 
 Let’s view a blockchain like an Internet Service Provider (ISP) co-op which owns all of the cables in the town and has a maximum amount of bandwidth that it can provide at any time. People living in the town can buy shares in the ISP and in exchange they are entitled to utilize a portion of the available bandwidth.
 
