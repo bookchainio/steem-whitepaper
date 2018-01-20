@@ -144,9 +144,9 @@ Awon onkawe is imoran yoo mo pe ohun ti o ni anfani ti ipese ti o lopin le se is
 2. Akoko olu-ori ofe
 3. Eto eto isowo ti ominira
 
-Ti Awon oluseto onileru feedi Steemu se itokasi lati ni eto imulo ti ominira ti o ni idaniloju lati seda ati run Awon dola owo Steemu lakoko ti o ni akoko kanna ni isakoso kikun kori iye owo osuwon nigbana won yoo ba awon isoro nibe. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
+Ti Awon oluseto onileru feedi Steemu se itokasi lati ni eto imulo ti ominira ti o ni idaniloju lati seda ati run Awon dola owo Steemu lakoko ti o ni akoko kanna ni isakoso kikun kori iye owo osuwon nigbana won yoo ba awon isoro nibe. Awon ohun aishe metalokan so wi pe Awon dola Steemu boya o nilo lati ni ihamo isagbbepo owo, ni owo pasipaaro aisedeede pelu dola, tabi ni isakoso pupo lori iye osunwon.
 
-The primary concern of Steem feed producers is to maintain a stable one-to-one conversion between SBD and the U.S. Dollar (USD). Any time SBD is consistently trading above $1.00 USD interest payments must be stopped. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SBD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
+Iseduro akoko ti Awon Oluranlowo feedi ti Steemu je lati setoju iyipada okan-si-okan laarin SBD ati dola Amerika (USD). Nigbakugba ti SBD je isowo loke awon owo sisan dola kan gbodo wa ni iduro. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SBD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
 
 If the debt-to-ownership ratio is low and SBD is trading for less than $1.00, then the interest rate should be increased. This will encourage more people to hold their SBD and support the price.
 
