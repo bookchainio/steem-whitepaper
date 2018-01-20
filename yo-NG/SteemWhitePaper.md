@@ -132,7 +132,7 @@ Awon ipile ogorun ti a lo lati se afiwe eda STEEMU da lori ipese pelu iye STEEMU
 
 ### Anfani
 
-SBD pays holders interest. The interest rate is set by the same people who publish the price feed so that it can adapt to changing market conditions. All debt carries risk to the lender. Someone who holds SBD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SBD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
+SBD sanwo awon ton dimu ni anfani. Awon osuwon anfani ni seto nipase awon eniyan kanna ti o safihan feedi sii owo naa ki o le baamu si ipo isowo iyipada. Gbogbo gbese ni o ni ewu si ayanilowo. Someone who holds SBD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SBD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
 
 STEEM and SP holders gain leverage when members of the community are willing to hold SBD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
 
