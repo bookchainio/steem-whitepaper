@@ -138,11 +138,11 @@ Awon olusakoso STEEMU ati SP n gba owo-ini nigbati awon omo egbe agbegbe wa ni s
 
 ### Sisieto Oye Owo Feedi
 
-Awon onkawe is imoran yoo mo pe ohun ti o ni anfani ti ipese ti o lopin le se isowo ti o ga julo tabi o wa le ju dukia idaniloju da lori awon anfani miiran lati gba anfani lori dukia kanna. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
+Awon onkawe is imoran yoo mo pe ohun ti o ni anfani ti ipese ti o lopin le se isowo ti o ga julo tabi o wa le ju dukia idaniloju da lori awon anfani miiran lati gba anfani lori dukia kanna. Pelu owo osuwon to gaju ti o san lori orisirisi owo kan si dola Amerika ti opolopo awon einyan yoo gba soke ipese agbara awon dola Steemu titi ti won ko ni wulo die si Dola kan. Ni awon oro-aje ni o wa opo kan ti a mo ni metalokan ti ko le se eyiti o so pe ko see se ni gbogbo awon meta ti o tele ni akoko kanna:
 
-1. A stable exchange rate
-2. Free capital movement
-3. An independent monetary policy
+1. Asise pasipaaro isowo
+2. Akoko olu-ori ofe
+3. Eto eto isowo ti ominira
 
 If Steem feed producers aim to have an independent monetary policy allowing it to create and destroy Steem Dollars while simultaneously having full control over the interest rate then they will encounter problems. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
 
