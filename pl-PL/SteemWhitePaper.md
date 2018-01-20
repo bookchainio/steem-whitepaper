@@ -272,7 +272,7 @@ Rozwiązanie stosowanym przez większość rozwiązań opartych o technologię b
 
 ### Mikropłatności się nie sprawdzają
 
-Fundamentalnym problemem naliczania opłat transakcyjnych jest to, że mikropłatności się nie sprawdzają, szczególnie dla interakcji o małej wartości ogólnej. When a fee is charged on every transaction, it limits the types of transactions that a decentralized network can process. Regardless of how rational the argument for the necessity of fees, users still hate the experience of being nickeled and dimed for everything that they do.
+Fundamentalnym problemem naliczania opłat transakcyjnych jest to, że mikropłatności się nie sprawdzają, szczególnie dla interakcji o małej wartości ogólnej. Gdy na każdą transakcję naliczana jest opłata, ogranicza to różnorodność rodzajów transakcji, które mogą zostać rentownie przetworzone przez zdecentralizowaną sieć. Regardless of how rational the argument for the necessity of fees, users still hate the experience of being nickeled and dimed for everything that they do.
 
 Imagine if the websites we use every day charged us a fee every time we modify our accounts by changing the password. Users expect certain things to be free. Requiring users to make a decision on whether or not an action is worth a small fee creates anxiety that causes users to leave. A transaction can’t be worth so much as to require a decision but worth so little that that decision is automatic. There is a certain amount of anxiety involved in any decision to buy, no matter how small, and it derives not from the interface used or the time required, but from the very act of deciding.
 
