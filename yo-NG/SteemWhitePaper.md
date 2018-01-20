@@ -132,7 +132,7 @@ Awon ipile ogorun ti a lo lati se afiwe eda STEEMU da lori ipese pelu iye STEEMU
 
 ### Anfani
 
-SBD sanwo awon ton dimu ni anfani. Awon osuwon anfani ni seto nipase awon eniyan kanna ti o safihan feedi sii owo naa ki o le baamu si ipo isowo iyipada. Gbogbo gbese ni o ni ewu si ayanilowo. Someone who holds SBD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SBD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
+SBD sanwo awon ton dimu ni anfani. Awon osuwon anfani ni seto nipase awon eniyan kanna ti o safihan feedi sii owo naa ki o le baamu si ipo isowo iyipada. Gbogbo gbese ni o ni ewu si ayanilowo. Enikan to ba di SBD laisi riropada o je n se ayanilowo fun awon eniyan ni iye ti dola. Won ni igbekele pe ni aaye kan ni ojo iwaju enikan yoo je setan lati ra SBD lati odo won fun dola kan tbai pe yoo wa awon osuwon ati awon oludokoowo fe lati re STEEMU ti won yi pada sinu.
 
 STEEM and SP holders gain leverage when members of the community are willing to hold SBD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
 
