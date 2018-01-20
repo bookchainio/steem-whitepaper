@@ -286,11 +286,11 @@ Systemy takie jak BitShares, Nxt, Ripple, Counter Party, czy Stellar pozwalają 
 
 ### Opłaty są progiem wejścia
 
-Każda opłata tworzy próg wejścia dla nowych użytkowników. Przed możliwością eksperymentowania z Ethereum każdy musi nabyć trochę tokenów ETH. Ktokolwiek chcący zbudować zdecentralizowaną aplikację na Ethereum musi przekazać dalej koszty związane z prowadzeniem platformy do użytkowników. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
+Każda opłata tworzy próg wejścia dla nowych użytkowników. Przed możliwością eksperymentowania z Ethereum każdy musi nabyć trochę tokenów ETH. Ktokolwiek chcący zbudować zdecentralizowaną aplikację na Ethereum musi przekazać dalej koszty związane z prowadzeniem platformy do użytkowników. Kupno kryptowalut nie jest relatywnie łatwym zadaniem i rzadko kiedy ma sens dla kwot poniżej 10$. Oznacza to, że nowi użytkownicy chcący wypróbować nową zdecentralizowaną aplikację musi najpierw zostać przekonany do wsparcia jej kwotą większą niż 10$.
 
 ### Zmiana wysokości opłat
 
-Over time a network must adjust fees. This can happen either due to an increase in the value of the token or due to a surge in capacity. Users like predictable fees and guaranteed service. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
+Sieć musi dostosowywać wysokości opłat z czasem. Może się to zdarzyć, ze względu na wzrost wartości żetonu, lub ze względu powiększenie pojemności sieci. Użytkownicy przychylają się do przewidywalnych opłat i gwarantowanej jakości usług. Podczas gdy istnieje możliwość dynamicznego dostosowywania wysokości opłat podczas dużego obciążenia, rezultatem takiego rozwiązania jest niski poziom doświadczenia użytkownika (z ang. user experience, przyp. tłum.).
 
 ### Sybil Attacks
 
