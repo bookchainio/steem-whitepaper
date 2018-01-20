@@ -138,7 +138,7 @@ Awon olusakoso STEEMU ati SP n gba owo-ini nigbati awon omo egbe agbegbe wa ni s
 
 ### Sisieto Oye Owo Feedi
 
-Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
+Awon onkawe is imoran yoo mo pe ohun ti o ni anfani ti ipese ti o lopin le se isowo ti o ga julo tabi o wa le ju dukia idaniloju da lori awon anfani miiran lati gba anfani lori dukia kanna. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
 
 1. A stable exchange rate
 2. Free capital movement
