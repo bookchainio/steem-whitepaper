@@ -298,11 +298,11 @@ Scentralizowane strony internetowe zapobiegają ilościowym nadużyciom znanym j
 
 W zdecentralizowanym systemie nie ma ani bezpośredniej możliwości by zablokowania użytkownika, ani też scentralizowanego dostawcy mogącego wdrożyć system zabezpieczeń taki jak reCAPTCHA i ograniczyć ilość tworzonych kont. Właściwie, niemożność ocenzurowania użytkownika jest jedną z głównych cech technologii blockchain.
 
-### Pełna rezerwa a częściowa rezerwa
+### Pełen podział kontra częściowy podział
 
-Let’s view a blockchain like an Internet Service Provider (ISP) co-op which owns all of the cables in the town and has a maximum amount of bandwidth that it can provide at any time. People living in the town can buy shares in the ISP and in exchange they are entitled to utilize a portion of the available bandwidth.
+Wyobraźmy sobie technologię blockchain jako dostawcę internetowego (ISP) posiadającego fizyczny dostęp do wszystkich łącz w mieście oraz dostęp do maksymalnej jesgo przepustowości w każdej chwili. Ludzie zamieszkujący to miasto mogą wykupywać udziały u dostawcy w zamian za uprawnienie do używania części przepustowości łącza, które dostarcza.
 
-The ISP has two choices, run a “full reserve” or “fractional reserve” system. Under a full reserve system each user is only allowed a fraction of the maximum bandwidth proportional to her shares. Because not everyone uses the Internet at the same time, the town’s network would be significantly underutilized.
+Dostawcza ma wówczas dwie opcje, wdrożyć system “pełnego podziału” (z ang. “full reserve”, przyp. tłum.), lub “częściowego podziału” (z ang. “fractional reverve”, przyp. tłum.). Under a full reserve system each user is only allowed a fraction of the maximum bandwidth proportional to her shares. Because not everyone uses the Internet at the same time, the town’s network would be significantly underutilized.
 
 Under a fractional reserve system the individual users could utilize more bandwidth than they are entitled to at any given point in time so long as not everyone uses the Internet at the same time. The problem with operating a fractional reserve is that congestion occurs anytime too many people wish to use the network at the same time. The ISP needs a way to prioritize bandwidth during congested periods. In the most extreme case, a fully congested network must revert to a full reserve system. The challenge is setting the proper fractional reserve ratio.
 
