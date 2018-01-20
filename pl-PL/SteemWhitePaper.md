@@ -316,7 +316,7 @@ Według naszych przybliżeń, stosownym jest mierzenie przepustowości użycia �
 
 ### Wpływ pojemności
 
-Blockchain capacity isn’t necessarily capped. It is well within the technological capability of internet infrastructure to increase the Bitcoin block size to 10MB which in turn will reduce the minimum required balance by a factor of 10. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second.
+Pojemność technologii blockchain niekoniecznie musi być ograniczona. Infrastruktura Internetu jest technologicznie zdolna do zwiększenia wielkości blocku sieci Bitcoin do wielkości 10MB, co poskutkuje zwiększeniem minimalnymalnego salda 10-krotnie. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second.
 
 ### Porównanie do wysokości opłat
 
