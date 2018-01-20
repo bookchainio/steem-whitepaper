@@ -320,7 +320,7 @@ Pojemność technologii blockchain niekoniecznie musi być ograniczona. Infrastr
 
 ### Porównanie do wysokości opłat
 
-Jeśli założymy, że użytkownicy z saldem BTC o wartości 25$ dokonują transakcji raz w tygodniu i w wyniku za każdym uiszczają 0.04$ opłat, wtedy rocznie traciliby około 2.00$. W takim wypadku, każdy musiałby zarobić minimum 8% z ich 25$, by wyjść na zero. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
+Jeśli założymy, że użytkownicy z saldem BTC o wartości 25$ dokonują transakcji raz w tygodniu i w wyniku za każdym uiszczają 0.04$ opłat, wtedy rocznie traciliby około 2.00$. W takim wypadku, każdy musiałby zarobić minimum 8% z ich 25$, by wyjść na zero. Istnieje szansa, że użytkownicy i tak zdecydowaliby się trzymać swoje środki wewnątrz technologii blockchain, wtedy ów użytkownik z 25$ środków zaoszczędziłby 2% w skali roku poprzez zastosowanie bazującego podejścia ograniczającego szybkość, w przeciwieństwie do zastosowania opartego o podatek. Uzytkownicy z kapitałem 175$ dokonujący transakcji codziennie mogliby zaoszczędzić 14$ rocznie.
 
 ### Tworzenie konta
 
