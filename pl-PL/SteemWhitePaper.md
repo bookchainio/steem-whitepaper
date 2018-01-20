@@ -322,7 +322,7 @@ Pojemność technologii blockchain niekoniecznie musi być ograniczona. Infrastr
 
 Jeśli założymy, że użytkownicy z saldem BTC o wartości 25$ dokonują transakcji raz w tygodniu i w wyniku za każdym uiszczają 0.04$ opłat, wtedy rocznie traciliby około 2.00$. W takim wypadku, każdy musiałby zarobić minimum 8% z ich 25$, by wyjść na zero. Istnieje szansa, że użytkownicy i tak zdecydowaliby się trzymać swoje środki wewnątrz technologii blockchain, wtedy ów użytkownik z 25$ środków zaoszczędziłby 2% w skali roku poprzez zastosowanie bazującego podejścia ograniczającego szybkość, w przeciwieństwie do zastosowania opartego o podatek. Uzytkownicy z kapitałem 175$ dokonujący transakcji codziennie mogliby zaoszczędzić 14$ rocznie.
 
-### Tworzenie konta
+### Proces tworzenie konta
 
 Steem’s account-based system with publicly known balances simplifies the implementation of the bandwidth-based rate limiting algorithm. Any account with a balance below the minimum required to transact once per week would be unable to transact. This implies that all new accounts should be funded with at least this minimum balance. It also implies that users wishing to transact in smaller amounts can, so long as they hold a larger balance and reuse the account.
 
