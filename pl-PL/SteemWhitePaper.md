@@ -260,9 +260,9 @@ Jako, że aktywni strażnicy znani są z wyprzedzeniem, platforma Steem jest zdo
 
 # Eliminowanie Opłat Transakcyjnych
 
-Steem goes to great lengths to reward people for contributing to the network. It would be counterproductive to turn around and charge people every time they attempt to interact with the community.
+Plaforma Steem dokłada wszelkich starań, by nagradzać ludzi, przyczyniających się dla platformy. Nieefektywnym byłoby nakładanie opłat transakcyjnych za każdym razem, gdy ktoś chce podjąć działanie na rzecz platformy.
 
-Blockchain technology currently depends upon transaction fees to prevent spam. These fees suffer all of the known problems with microtransactions and prevent blockchains from being used for low-value transactions. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
+Technologia blockchain rozwiązała problem niechcianych transakcji (z ang. spam, przyp. tłum.) poprzez nałożenie na każdą z nich opłat transakcyjnych. Opłaty te powielają wszystkie znane problemy z mikropłatnościami i nie pozwalają użyć technologii blockchain do przeprowadzania transakcji opartych o małe kwoty. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
 
 ## Problem z opłatami
 
