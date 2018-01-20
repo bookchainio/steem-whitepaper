@@ -316,11 +316,11 @@ Według naszych przybliżeń, stosownym jest mierzenie przepustowości użycia �
 
 ### Wpływ pojemności
 
-Pojemność technologii blockchain niekoniecznie musi być ograniczona. Infrastruktura Internetu jest technologicznie zdolna do zwiększenia wielkości blocku sieci Bitcoin do wielkości 10MB, co poskutkuje zwiększeniem minimalnymalnego salda 10-krotnie. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second.
+Pojemność technologii blockchain niekoniecznie musi być ograniczona. Infrastruktura Internetu jest technologicznie zdolna do zwiększenia wielkości blocku sieci Bitcoin do wielkości 10MB, co poskutkuje zwiększeniem minimalnymalnego salda 10-krotnie. Podczas gdy sieć Bitcoin wspiera około 3 transakcje na sekundę, jego alternatywne implementacje są zdolne obsługiwać ich ponad 1000.
 
 ### Porównanie do wysokości opłat
 
-If we assume a user with $25 dollars worth of BTC transacts once per week and pays a $0.04 cent fee each time then they would pay over $2.00 in fees per year. A user would have to earn a 8% rate of return on their $25 dollars just to break even with paying fees. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
+Jeśli założymy, że użytkownicy z saldem BTC o wartości 25$ dokonują transakcji raz w tygodniu i w wyniku za każdym uiszczają 0.04$ opłat, wtedy rocznie traciliby około 2.00$. W takim wypadku, każdy musiałby zarobić minimum 8% z ich 25$, by wyjść na zero. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
 
 ### Tworzenie konta
 
