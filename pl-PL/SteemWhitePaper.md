@@ -292,9 +292,9 @@ Każda opłata tworzy próg wejścia dla nowych użytkowników. Przed możliwoś
 
 Sieć musi dostosowywać wysokości opłat z czasem. Może się to zdarzyć, ze względu na wzrost wartości żetonu, lub ze względu powiększenie pojemności sieci. Użytkownicy przychylają się do przewidywalnych opłat i gwarantowanej jakości usług. Podczas gdy istnieje możliwość dynamicznego dostosowywania wysokości opłat podczas dużego obciążenia, rezultatem takiego rozwiązania jest niski poziom doświadczenia użytkownika (z ang. user experience, przyp. tłum.).
 
-### Sybil Attacks
+### Ataki oparte na wykorzystaniu wielu podmiotów jednego użytkownika
 
-Centralized websites prevent spam through rate limiting and some form of ID verification. Even something as simple as reCAPTCHA[^9] is sufficient to limit the creation of fake accounts. If someone abuses their account then centralized websites are free to block the account.
+Scentralizowane strony internetowe zapobiegają ilościowym nadużyciom znanym jako spam poprzez ograniczanie ilości zapytań oraz którąś z dostępnych form identyfikacji osobowości. Nawet coś tak prostego jak reCAPTCHA[^9] jest wystarczającym środkiem do znacznego ograniczenia rejestracji fałszywych kont. If someone abuses their account then centralized websites are free to block the account.
 
 In a decentralized system there is no direct way to ban users nor centralized provider able to host a reCAPTCHA and enforce rate limiting of accounts. In fact, the inability to censor users is one of the main selling points of blockchain technology.
 
