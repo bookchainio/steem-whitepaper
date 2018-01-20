@@ -324,9 +324,9 @@ Jeśli założymy, że użytkownicy z saldem BTC o wartości 25$ dokonują trans
 
 ### Proces tworzenie konta
 
-System platformy Steem bazujący na kontach użytkowników z publicznie znanymi stanami portfelów upraszcza wdrożenie algorytmu ograniczania opartego o przepustowość. Każde konto ze stanem poniżej określonego minimum wymaganego do przeprowadzenia transakcji raz na tydzień będzie niezdolne do jakiegokowiek działania. This implies that all new accounts should be funded with at least this minimum balance. It also implies that users wishing to transact in smaller amounts can, so long as they hold a larger balance and reuse the account.
+System platformy Steem bazujący na kontach użytkowników z publicznie znanymi stanami portfelów upraszcza wdrożenie algorytmu ograniczania opartego o przepustowość. Każde konto ze stanem poniżej określonego minimum wymaganego do przeprowadzenia transakcji raz na tydzień będzie niezdolne do jakiegokowiek działania. Implikuje to fakt, że wszystkie nowe konta powinny być tworzone wraz z ufundowaniem owego minimalnego balansu. Oznacza to również, że użytkownicy chcący dokonywać transakcji w mniejszych ilościach mogą to zrobić, tak długo, jak posiadają stan większy niż minimalny oraz używają konta.
 
-It is possible for a low-balance account created during a time of low usage to become inaccessible if the network usage picks up. The funds could be recovered at any time by temporarily delegating a larger balance to the account.
+Możliwym jest, by konto o niskim saldzie założone podczas czasu niskiego obciążenia stało się niezdatne do użytku, jeśli obciążenie sieci wzrośnie. W takim wypadku jego fundusze mogą zostać odzyskane poprzez tymczasowe wydelegowanie na rzecz konta większej sumy, by osiągnąć niezbędne minimum.
 
 In order to maintain a reasonable user experience with a minimum number of hung accounts, all new accounts should start out with a balance 10 times the minimum required to transact weekly. This way even if demand increases by a factor of 10 the account will remain viable.
 
