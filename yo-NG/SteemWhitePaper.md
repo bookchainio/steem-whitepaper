@@ -134,7 +134,7 @@ Awon ipile ogorun ti a lo lati se afiwe eda STEEMU da lori ipese pelu iye STEEMU
 
 SBD sanwo awon ton dimu ni anfani. Awon osuwon anfani ni seto nipase awon eniyan kanna ti o safihan feedi sii owo naa ki o le baamu si ipo isowo iyipada. Gbogbo gbese ni o ni ewu si ayanilowo. Enikan to ba di SBD laisi riropada o je n se ayanilowo fun awon eniyan ni iye ti dola. Won ni igbekele pe ni aaye kan ni ojo iwaju enikan yoo je setan lati ra SBD lati odo won fun dola kan tbai pe yoo wa awon osuwon ati awon oludokoowo fe lati re STEEMU ti won yi pada sinu.
 
-Awon olusakoso STEEMU ati SP n gba owo-ini nigbati awon omo egbe agbegbe wa ni setan lati dimu SBD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
+Awon olusakoso STEEMU ati SP n gba owo-ini nigbati awon omo egbe agbegbe wa ni setan lati dimu SBD. Irowo yii nmu awon anfani lati idagba soke nigba ti o tun se idasi si idagba soke. Awon onibara STEEMU je ipalara ti o po si ti oye owo na ba subu sile. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
 
 ### Setting Price Feeds
 
