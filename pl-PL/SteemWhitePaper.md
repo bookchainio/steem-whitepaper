@@ -467,13 +467,13 @@ Sieć Internet straciłaby zdecydowaną większość wartości, gdyby wszystkie 
 
 Odnośniki mogą przyjmować wiele form oraz dostosowywać się wraz z upływem czasu. Za każdym razem, kiedy użytkownik głosuje na treść i medium społecznościowym dodawane jest połączenie między użytkownikiem a treścią. To z kolei łączy konsumenta i twórcę poprzez zawartość. Im więcej połączeń posiada sieć, tym bardziej wartościowa staje się informacja w niej zawarta. To jest względne i celowe powiązanie informacji, które nadaje jej wartość.
 
-Platforma sieci społecznościowej może zmaksymalizować wartość wyszukanej treści poprzez maksymalizację ilości oraz jakości połączeń. Ocena treści jest droga oraz pochłania duże ilości czasu, jednocześnie prawie niemożliwym dla komputerów jest przeprowadzenie tej operacji bez obecności odnośników. Steem rewards users who are among the first to find and identify new content.
+Platforma sieci społecznościowej może zmaksymalizować wartość wyszukanej treści poprzez maksymalizację ilości oraz jakości połączeń. Ocena treści jest droga oraz pochłania duże ilości czasu, jednocześnie prawie niemożliwym dla komputerów jest przeprowadzenie tej operacji bez obecności odnośników. Steem nagradza użytkowników, którzy są pośród osób, które jako pierwsze indentyfikują nową treść.
 
-By incentivising curation the Steem network is able to use automated algorithms to extract the most valuable information from a massive amount of content.
+Poprzez zachęcanie do oceniania treści, sieć Steem jest w stanie użyć automatycznych algorytmów do rozpoznania najbardziej wartościowej informacji spośród olbrzymiej ilości treści.
 
 ## Rozwiązywanie problemu Wdrażania Kryptowaluty
 
-It isn’t easy to get into cryptocurrency[^21]. Someone who discovers Bitcoin and wants to try it out quickly learns that they will need to sign up with an exchange and fund their account with a credit card or wire transfer. What would Facebook’s adoption rate have been like if you had to fork over money and a two forms of ID?
+Nie jest łatwo zacząć przygodę z kryptowalutami[^21]. Someone who discovers Bitcoin and wants to try it out quickly learns that they will need to sign up with an exchange and fund their account with a credit card or wire transfer. What would Facebook’s adoption rate have been like if you had to fork over money and a two forms of ID?
 
 Steem solves this problem by giving everyone a way to get paid for doing simple, but valuable, tasks. This will help to widely distribute STEEM tokens. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless.)
 
