@@ -398,7 +398,7 @@ Przetrzymywanie wszystko w pamięci operacyjnej jest coraz bardziej rentowne, zw
 
 ## Początkowa alokacja i zaopatrzenie
 
-Sieć Steem wystartowała z poziomem dostarczania waluty na poziomie zera, dystrybuując wówczas STEEM przy pomocy dowodu wykonanej pracy (z ang. proof of work, przyp. tłum.) o współczynniku około 40 STEEM na minutę, razem z dodatkową ilością 40 STEEM potrzebną na zachęcanie do tworzenia treści oraz pulę nagród (z ang. reward pool, przyp. tłum.), co łącznie daje ilość 80 STEEM na minutę. Then the network started rewarding users who converted to SP. At this point, STEEM grew at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
+Sieć Steem wystartowała z poziomem dostarczania waluty na poziomie zera, dystrybuując wówczas STEEM przy pomocy dowodu wykonanej pracy (z ang. proof of work, przyp. tłum.) o współczynniku około 40 STEEM na minutę, razem z dodatkową ilością 40 STEEM potrzebną na zachęcanie do tworzenia treści oraz pulę nagród (z ang. reward pool, przyp. tłum.), co łącznie daje ilość 80 STEEM na minutę. Następnie sieć zaczęła nagradzać użytkowników, którzy konwertowali środki do SP. At this point, STEEM grew at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
 
 Nagrody za wkład ze strony użytkownika:
 
