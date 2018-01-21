@@ -194,9 +194,9 @@ Indiferent de cât de mulți bani are un individ, există întotdeauna mai mulț
 
 Din fericire, orice muncă care obține cea mai mare concentrație de voturi, obține totodată, cea mai multă publicitate. Prin adăugarea *votului-negativ* este posibil să ca mai multe părți interesate mai mici, să anuleze puterea de vot a grupurilor sau să aibe ceva de spus împotriva părților interesate mai mari. Mai mult, deținătorii de interese mari, au mai mult de pierdut dacă moneda scade datorită abuzului decât dacă ar câștiga votându-se pe sine. De fapt, deținătorii cinstiți de interese mari, sunt mai puțin probabil de a fi eficienți prin supravegherea abuzurilor și prin folosirea votului negativ decât ar fi prin votarea contribuțiilor mai mici.
 
-Folosirea *votului-negativ* care să oprească oamenii să abuzeze sistemul prin *metalitatea crab* pe care o au mulți oameni atunci când un indivit profită de pe seama celorlalți. While crab mentality normally refers to short-sighted people keeping good people down, it is also what allows good people to keep bad people down. The only “problem” with crab mentality is when people *wrongly believe* someone is profiting at everyone else's expense.
+Folosirea *votului-negativ* care să oprească oamenii să abuzeze sistemul prin *metalitatea crab* pe care o au mulți oameni atunci când un indivit profită de pe seama celorlalți. În timp ce mentalitatea crab se referă în mod normal la oameni care țin jos oamenii buni, le permite totuși și oamenilor buni să îi țină jos pe cei răi. Singura “problemă“ cu această mentalitate este atunci când oamenii *cred în mod eronat* că cineva profită pe seama tuturor.
 
-**The Story of the Crab Bucket**[^6]
+**Povestea Crab Bucket**[^6]
 
 A man was walking along the beach and saw another man fishing in the surf with a bait bucket beside him. As he drew closer, he saw that the bait bucket had no lid and had live crabs inside.
 
