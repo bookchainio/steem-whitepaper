@@ -6,7 +6,7 @@ Sierpień 2017
 
 # Nota od tłumacza
 
-Opisać contribution, dlaczego przetłumaczyłem jako wkład. Wytłumaczyć, dlaczego używam platforma steem, zamiast steem Proof of work, dlaczego dowód włożonej pracy rate limiting.
+Opisać contribution, dlaczego przetłumaczyłem jako wkład. Wytłumaczyć, dlaczego używam platforma steem, zamiast steem Proof of work, dlaczego dowód włożonej pracy rate limiting. liquidity
 
 # Streszczenie
 
@@ -407,11 +407,11 @@ Nagrody za wkład ze strony użytkownika:
 - Nagrody dotyczące produkcji bloków (z ang. Block Production Rewards, przyp. tłum): 1 STEEM na blok, lub 3.875% rocznie, zależnie od tego, co jest większe
 - Nagrody oparte o dowód wykonanej pracy (z ang. prof of work inclusion reward, przyp. tłum.) przed blokiem 864.000: 1 STEEM na block (wypłacane jako 21 STEEM na rundę)
 - Nagrody oparte o dowód wykonanej pracy (z ang. prof of work inclusion reward, przyp. tłum.) po bloku 864.000: 0.0476 STEEM na block (wypłacane jako 1 STEEM na rundę) lub 0.750%, zależnie o tego, co jest większe.
-- Liquidity rewards: 1 STEEM per block (awarded as 1200 STEEM per hour) or 0.750% per year, whichever is greater
+- Nagrody płynności (z ang. Liquidity rewards, przyp. tłum): 1 STEEM na blok (wypłacane jako 1200 STEEM na godzinę) lub 0.750% rocznie, zależnie od tego, co jest większe
 
 ### Nagrody oparte o Steem Power:
 
-- Steem Power rewards: For each STEEM created by the above rewards, 9 STEEM are divided among all Steem Power holders.
+- Nagrody oparte o Steem Power: Na każdą sztukę STEEM wytworzoną poprzez powyższe nagrody przypada 9 STEEM do podziału przez wszystkich posiadaczy Steem Power.
 
 ### Operacje na SBD:
 
