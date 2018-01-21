@@ -405,8 +405,8 @@ Nagrody za wkład ze strony użytkownika:
 - Nagrody za ocenę treści (z ang. Curation Rewards, przyp. tłum.): 1 STEEM na blok, lub 3.875% rocznie, zależnie od tego, co jest większe
 - Nagrody za tworzenie treści (z ang. Content Creation Rewards, przyp. tłum): 1 STEEM na blok, lub 3.875% rocznie, zależnie od tego, co jest większe
 - Nagrody dotyczące produkcji bloków (z ang. Block Production Rewards, przyp. tłum): 1 STEEM na blok, lub 3.875% rocznie, zależnie od tego, co jest większe
-- POW inclusion rewards before block 864,000: 1 STEEM per block (awarded as 21 STEEM per round)
-- POW inclusion rewards after block 864,000: 0.0476 STEEM per block (awarded as 1 STEEM per round) or 0.750% per year, whichever is greater.
+- Nagrody oparte o dowód wykonanej pracy (z ang. prof of work inclusion reward, przyp. tłum.) przed blokiem 864.000: 1 STEEM na block (wypłacane jako 21 STEEM na rundę)
+- Nagrody oparte o dowód wykonanej pracy (z ang. prof of work inclusion reward, przyp. tłum.) po bloku 864.000: 0.0476 STEEM na block (wypłacane jako 1 STEEM na rundę) lub 0.750%, zależnie o tego, co jest większe.
 - Liquidity rewards: 1 STEEM per block (awarded as 1200 STEEM per hour) or 0.750% per year, whichever is greater
 
 ### Nagrody oparte o Steem Power:
