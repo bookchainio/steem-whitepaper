@@ -358,9 +358,9 @@ Przy podejściu opartym o stopę ograniczającą, ktoś kto byłby gotów poświ
 
 Gdy ktoś posiada dom, oczekuje, że będzie go używać za darmo. Jeśli zaś dom grupa ludzi kupuje wspólnie, oczekują oni prawa do użytku domu proporcjonalnie do włożonej kwoty. Blockchain oparty o podatki jest jak wynajem domu od jego właścicieli, gdzie ograniczenie stopą jest analogiczne do współudziału między właścicielami.
 
-Jeżeli dom należy do wielu ludzi, wtedy muszą oni zdecydować jak chcą współdzielić dom. Someone who owns 50% of the house but only uses it one weekend per year might expect to be paid by the individuals who take their unused time. This is the mindset of a fee based system.
+Jeżeli dom należy do wielu ludzi, wtedy muszą oni zdecydować jak chcą współdzielić dom. Ktoś, kto posiada 50% domu, lecz używa go tylko przez jeden weekend w roku może oczekiwać, że jednostki, które używają go pod jego nieobecność mu zapłacą. Jest to nastawienie analogiczne do systemu opartego o opłaty.
 
-On the other hand, someone who owns 50% of the house is speculating that demand for the house will increase in the future and they will be able to sell their stake for more. Any owner who owns more of a house than they use becomes a real estate speculator. With this mindset rather than collecting rent, they collect appreciation.
+Z drugiej strony, ktoś kto posiada 50% domu może spekulować, że popyt na nieruchomość będzie z czasem wzrastać, a właściciele zdecydują się sprzedać swoje udziały po wyższej cenie. Każdy, kto ma więcej udziałów w wartości budynku staje się spekulantem nieruchomości. Z takim podejściem, zamiast koncentrować się na wynajmie, zbierają uznanie.
 
 The value of a share is derived from how much time it can potentially grant its owner. Owning 1% of a house and getting it 1 weekend per year is the lowest value of a share. However, if half of the shareholders never use their weekend, then the value per timeshare rises to 2 weekends per year. If those inactive users instead opt to rent their unused time, then it falls back to 1 weekend per year. If those unused timeshares were sold to people who would use them then the value of a timeshare would fall by 50%. Unless the rent collected is greater than the fall in share value the timeshare owners are making an economic miscalculation.
 
