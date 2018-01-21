@@ -415,9 +415,9 @@ Nagrody za wkład ze strony użytkownika:
 
 ### Operacje na SBD:
 
-- SBD rewards: A percentage of SBD value is created at an APR set by the witnesses and paid to SBD holders as SBD
+- Nagrody oparte na SBD: Procent wartości SBD wytworzony podczas ustalenia rocznej stawki oprocentowania (z ang. Annual Percentage Rate, przyp. tłum.) przez strażników, i wypłacane jako SBD posiadaczom SBD
 
-The overall supply picture is complicated by the effect of SBD operations, which may result in large-scale creation or destruction of STEEM through feed rate following and SBD rewards, as discussed in the SBD section. Other, smaller-scale complicating effects also exist, including unclaimed incentives (e.g. block rewards for missed blocks), and abandoned accounts.
+Całościowy proces dostarczania jest skomplikowany przez operacje oparte na SBD, które mogą skutkować wytwarzaniem go na dużą skalę, lub zniszczeniem STEEM poprzez szybkość dostarczania oraz rozpropagowywania SBD, co jest głębiej opisane w rozdziale traktującym o SBD. Other, smaller-scale complicating effects also exist, including unclaimed incentives (e.g. block rewards for missed blocks), and abandoned accounts.
 
 ## Obecna alokacja i zaopatrzenie
 
@@ -461,7 +461,7 @@ Under Steem, micropayments are paid to content producer, but those who vote for 
 
 Furthemore, Steem pays people to figure out who should be paid! This kind of thinking is revolutionary.
 
-## Wartość tkwi w Linkach
+## Wartość tkwi w Odnośnikach
 
 The Internet would lose the vast majority of its value if all links among content were removed. It is the relationship among web pages that allows Google to identify the best apple pie recipe among the 16 million results. Without the links the only information Google would have is word frequency.
 
