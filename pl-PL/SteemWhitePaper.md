@@ -427,9 +427,9 @@ Zaczynając od procesu nazywanego hard forkiem sieci (opisuje on najczęściej p
 
 ### Wpływ Współczynnika Tworzenia Tokenów
 
-It is often said that a coin with an inflationary model is not sustainable, but we know from countless real-world examples that the quantity of money does not have a direct and immediate impact on its value, though it certainly plays a role.
+Powszechnie mówi się, że waluty oparte o model inflacyjny, ale na podstawie niezliczonych przykładów z życia codziennego wiemy, że ilość pieniądza nie ma bezpośredniego wpływu na jego wartość, choć z pewnością ogrywa w tym ważną rolę.
 
-From August 2008 through January 2009 the U.S. money supply[^15] grew from $871B to $1,737B, a rate of over 100% per year and then continued to grow at about 20% per year for the next 6 years. All told the money supply in the U.S. has grown by 4.59x over less than 7 years. During that same time, the value of the dollar relative to goods and services has fallen less than 10% according to the government's price index[^16]. This real-world example demonstrates that supply is only one component of price.
+Od sierpnia 2008 roku do stycznia roku 2009 podaż pieniądza w Stanach Zjednoczonych [^15] wzrósł z 871 miliardów dolarów do 1,737 biliona dolarów, przy tempie ponad 100% rocznie, potem kontynuował wzrost przy tempie około 20% rocznie przez następne 6 lat. All told the money supply in the U.S. has grown by 4.59x over less than 7 years. During that same time, the value of the dollar relative to goods and services has fallen less than 10% according to the government's price index[^16]. This real-world example demonstrates that supply is only one component of price.
 
 For the first 2 years of Bitcoin’s life the network sustained an annual inflation rate[^17] of over 100%. For the first 5 years it was over 30%, and for the first 8 years it was over 10%. All told the total “spending” Steem does to fund content, curation, and block production amounts to less than 10% APR.
 
