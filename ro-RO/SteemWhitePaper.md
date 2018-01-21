@@ -202,17 +202,17 @@ Folosirea *votului-negativ* care să oprească oamenii să abuzeze sistemul prin
 
 "De ce nu acoperi găleata ta cu momeală pentru ca crabii să nu scape?", a spus.
 
-"Nu înțelegi." a răspunsul omul, "Dacă este un crab în găleată, cu siguranță s-ar cățăra rapid. Insă, atunci când sunt mulți crabi în găleată, dacă unul încearcă să fugă, ceilalți crabi se apucă de el și îl trag înapoi pentru a împărtăși aceași soartă
+"Nu înțelegi." a răspunsul omul, "Dacă este un crab în găleată, cu siguranță s-ar cățăra rapid. Însă, atunci când sunt mulți crabi în găleată, dacă unul încearcă să fugă, ceilalți crabi se apucă de el și îl trag înapoi pentru a împărtăși aceași soartă
 
 Așa este și cu oamenii. Dacă unul încearcă să facă ceva diferit, să ia note mai bune, să se îmbunătățească, să plece din mediu, sau să aibe vise mari, ceilalți oameni o să îl tragă înapoi pentru a împărtăși aceași soartă.
 
 Eliminarea "abuzului" nu este posibilă și nu acesta ar trebui să fie țelul. Chiar și cei care încearcă să "abuzeze" sistemul trebuie să muncească. Orice compensație pe care o au în urma încercărilor abuzive reușite, este cel puțin la fel de valoroasă ca scopul distribuției monedei ca și sistem angajat de Bitcoin prin minarea prin bazinele de minare. Tot ceea ce este necesar este să se asigure că abuzul nu este atât de agresiv încât să subminează stimularea unei muncii reale în sprijinul comunității și a monedei sale.
 
-The goal of building a community currency is to get more “crabs in the bucket”. Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs sufficient power to prevent others from escaping.
+Scopul construirii unei comunități în jurul unei monede este să “atragă mai mulți crabi în găleată“. Luarea de măsuri extreme care să elimine tot abuzul este ca și cum ai pune un capac pe găleată pentru a împiedica câțiva crabi să fugă, și vine în detrimentul adăugării unor noi crabi în găleată. Este suficient să facem pereții mai alunecoși pentru a le da celorlalți crabi mai multă putere pentru a îi împiedica pe cei care vor să scape.
 
 ### Rate Limited Voting
 
-A major part of minimizing abuse is the rate-limiting of voting. Individual users can only read and evaluate so many work items per day. Any attempt to vote more frequently than this is a sign of automation and potential abuse. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
+O mare parte din minimizarea abuzului este limitarea ratei de votare. Utilizatorii pot citi și evalua un anumit număr de elemente pe zi. Orice încercare de a vota mai frecvent este un semn al unei automatizări și al unui potențial abuz. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
 
 Users are allotted a fixed amount of voting power. Voting power is multiplied by a user’s vesting tokens to determine how much share in the reward pool should be allocated to a given work item. Every vote that is cast uses a percentage of remaining voting power. Users can vote for more posts, but each vote will be worth less, and it will take longer to reach full voting power again. Voting power recharges at a fixed linear rate of 20% per day.
 
