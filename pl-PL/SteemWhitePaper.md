@@ -368,9 +368,9 @@ Bazując na tych przesłankach możemy dość do wniosku, że system oparty o op
 
 Możemy więc dojść do wniosku, iż najlepszym na platformy opartej o blockchain jest zrezygnowanie ze wszystkich opłat. Jeżeli naliczanie opłat transakcyjnych byłoby naliczane jako alternatywa do ograniczeń opartych o stopę, powinno być to analogią do kupna takiej ilości udziałów oraz użycie ich w taki sposób, żeby mieć możliwość wykorzystania ich w odpowiedni, jednorazowy sposób.
 
-Innymi słowy, opłaty transakcyjne powinny być równe minimalnemu saldu konta do podjęcia transakcji, by mogła być zwrócona na koniec tygodnia. Załóżmy, że minimalne saldo konta to 1$ i pozwala ono dokonywać transakcji przez tydzień. Wówczas, jeśli ktoś z saldem 1$ chce dokonać 5 transakcji na raz, musi doładować swoje konto o 5$ na tydzień przed lub po transakcjach.
+Innymi słowy, opłaty transakcyjne powinny być równe minimalnemu saldu konta do podjęcia transakcji, by mogła być zwrócona na koniec tygodnia. Załóżmy, że minimalne saldo konta to 1$ i pozwala ono dokonywać transakcji przez tydzień. Wówczas, jeśli ktoś z saldem 1$ chciałby dokonać 5 transakcji na raz, musiałby doładować swoje konto o 5$ na tydzień przed lub po transakcjach.
 
-In theory a market could form where users can borrow the stake required. In practice it is more efficient for users to simply buy and sell the timeshares necessary to meet their desired usage rate. In other words, the cost of negotiating micro-loans is greater than the cost of maintaining a balance suitable for your maximum weekly usage.
+W teorii rynek mógłby uformować instrument pozwalający pożyczyć wymaganą kwotę. In practice it is more efficient for users to simply buy and sell the timeshares necessary to meet their desired usage rate. In other words, the cost of negotiating micro-loans is greater than the cost of maintaining a balance suitable for your maximum weekly usage.
 
 Decentralized rate limiting of transactions can enable new types of decentralized applications that were not viable when every use of the application required a micropayment. This new model gives application developers the ability to decide if and when to charge their users for transactions.
 
