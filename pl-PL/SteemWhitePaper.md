@@ -461,7 +461,7 @@ Wewnątrz platformy Steem, mikropłatności są wypłacane dla twórców treści
 
 Co więcej, platforma Steem płaci ludziom, którzy rozumieją, kto powinien zostać nagrodzony! Taki system myślenia jest rewolucyjny.
 
-## Wartość tkwi w Połączeniach
+## Wartość tkwi w połączeniach
 
 Sieć Internet straciłaby zdecydowaną większość wartości, gdyby wszystkie odnośniki (z ang. links, przyp. tłum.) łącące treść zostały usunięte. Jest to relacja między stronami internetowymi, która pozwala wyszukiwarce Google znaleźć najlepszy przepis na szarlotkę z spośród 16 milionów innych. Bez linków jedyną informacją jaką dysponowałoby Google to częstotliwość występowania danego słowa.
 
@@ -471,11 +471,11 @@ Platforma sieci społecznościowej może zmaksymalizować wartość wyszukanej t
 
 Poprzez zachęcanie do oceniania treści, sieć Steem jest w stanie użyć automatycznych algorytmów do rozpoznania najbardziej wartościowej informacji spośród olbrzymiej ilości treści.
 
-## Rozwiązywanie problemu Wdrażania Kryptowaluty
+## Rozwiązywanie problemu wdrażania kryptowaluty
 
-Nie jest łatwo zacząć przygodę z kryptowalutami[^21]. Someone who discovers Bitcoin and wants to try it out quickly learns that they will need to sign up with an exchange and fund their account with a credit card or wire transfer. What would Facebook’s adoption rate have been like if you had to fork over money and a two forms of ID?
+Nie jest łatwo zacząć przygodę z kryptowalutami[^21]. Ktoś, kto odkrył Bitcoini chce to wypróbować szybko zdaje sobie sprawę z tego, że musi założyć konto na giełdzie i zainwestować tam swoje środki poprzez kartę kredytową, czy przelew bankowy. Jak wiele osób chciałoby wypróbować Facebooka, jeśli przez zaczęciem miałby sięgnąć do kieszeni i potwierdzić swoją tożsamość?
 
-Steem solves this problem by giving everyone a way to get paid for doing simple, but valuable, tasks. This will help to widely distribute STEEM tokens. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless.)
+Platforma Steem rozwiązuje ten problem przez zapłacenie użytkownikowi za proste, lecz wartościowe czynności. Pomoże to szroko rozpowszechnić tokeny STEEM. Jest to bardzo pomocne, ponieważ kryptowaluty zależy od efektu sieci (z ang. network effect). Większa ilość użytkowników sprawia, że staje się ona bardziej użyteczna. Przytaczając skrajny przykład, zauważ, że jeśli Satoshi (twórca kryptowaluty Bitcoin, przyp. tłum.) zachowałby wszystkie Bitcoiny dla siebie, wtedy kryptowaluta nie miałaby wartości.
 
 ## Rozwiązywanie problemu upłynniania kryptowaluty
 
