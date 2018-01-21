@@ -370,13 +370,13 @@ Możemy więc dojść do wniosku, iż najlepszym na platformy opartej o blockcha
 
 Innymi słowy, opłaty transakcyjne powinny być równe minimalnemu saldu konta do podjęcia transakcji, by mogła być zwrócona na koniec tygodnia. Załóżmy, że minimalne saldo konta to 1$ i pozwala ono dokonywać transakcji przez tydzień. Wówczas, jeśli ktoś z saldem 1$ chciałby dokonać 5 transakcji na raz, musiałby doładować swoje konto o 5$ na tydzień przed lub po transakcjach.
 
-W teorii rynek mógłby uformować instrument pozwalający pożyczyć wymaganą kwotę. In practice it is more efficient for users to simply buy and sell the timeshares necessary to meet their desired usage rate. In other words, the cost of negotiating micro-loans is greater than the cost of maintaining a balance suitable for your maximum weekly usage.
+W teorii rynek mógłby uformować instrument pozwalający pożyczyć wymaganą kwotę. W praktyce, bardziej wydajnym dla użytkowników jest po prostu kupić i sprzedać niezbędne udziały by spełnić wymagany wskaźnik wykorzystania. Innymi słowy koszt negocjacji mikro pożyczek jest większy niż koszt utrzymania salda odpowiedniego do twojego tygodniowego zapotrzebowania.
 
-Decentralized rate limiting of transactions can enable new types of decentralized applications that were not viable when every use of the application required a micropayment. This new model gives application developers the ability to decide if and when to charge their users for transactions.
+Zdecentralizowane ograniczenia transakcji oparte o stopę mogą otwierają umożliwiają powstanie nowych zdecentralizowanych aplikacji, które nie byłyby wykonalne bazując na sytemie mikropłatności. Ten nowy model daje deweloperom aplikacji możliwość zadecydowania czy oraz kiedy chcą oni rozliczać za dokonywanie transakcji.
 
 # Wydajność i Skalowalność
 
-The Steem network is built upon Graphene, the same technology that powers BitShares. Graphene has been publicly demonstrated sustaining over 1000 transactions per second on a distributed test network. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
+Sieć Steem jest zbudowana na podstawie technologii Graphene, tej samej, która napędza BitShares. Graphene has been publicly demonstrated sustaining over 1000 transactions per second on a distributed test network. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
 
 ## Skala Reddita
 
