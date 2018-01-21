@@ -168,7 +168,7 @@ Subiektywny Dowód Włożonej Pracy (z ang. Subjective Proof of Work, przyp. tł
 
 W efekcie kryteria, według których praca jest oceniana jest kompletnie subiektywna, a jej definicja żyje własnym życiem, kompletnie poza kodem źródłowym platformy. Jedna społeczność może zadecydować, iż nagrodzonymi osobami będą artyści, inna społeczność wybierze poetów, jeszcze inna komików. Inne społeczności mogą wybrać nagradzanie działań charytatywnych, inne mogą skupić się na pomocy w rozwoju strategii politycznych.
 
-Wartość, jaką każda waluta osiąga zależy od popytu wewnątrz poszczególnej społeczności oraz od wiary w to, jak dużą gospodarka może się stać. W przeciwieństwie do poprzednich systemów, subiektywny dowód włożonej pracy pozwala społeczności wspólnie finansować rozwój, lub cokolwiek co uważa za wartościowe oraz na monetyzowanie wcześniej niespieniężalnego czasu.
+Wartość, jaką każda waluta osiąga zależy od popytu wewnątrz poszczególnej społeczności oraz od wiary w to, jak dużym rynek może się stać. W przeciwieństwie do poprzednich systemów, subiektywny dowód włożonej pracy pozwala społeczności wspólnie finansować rozwój, lub cokolwiek co uważa za wartościowe oraz na monetyzowanie wcześniej niespieniężalnego czasu.
 
 ### Rozprowadzanie waluty
 
@@ -366,9 +366,9 @@ Wartość udziałów jest określona tym, jak dużo potencjalnego zysku może pr
 
 Bazując na tych przesłankach możemy dość do wniosku, że system oparty o opłaty będzie albo droższy w użyciu, albo mniej dochodowy dla właścicieli. Idywidualny właściciel może zyskać poprzez wynajem domu na krótki okres czasu, lecz tylko kosztem innych udziałowców. W efekcie spadająca wartość udziałów jest dzielona między wszystkich właścicieli, podczas gdy zyski są scentralizowane wokół jednego z nich, który zadecydował się wynająć dom.
 
-Możemy więc dojść do wniosku, iż najlepszym na platformy opartej o blockchain jest zrezygnowanie ze wszystkich opłat. If a usage fee were to be charged as an alternative to rate limiting, then it should be the equivalent of buying enough timeshares and committing to hold them long enough to gain the right use it once.
+Możemy więc dojść do wniosku, iż najlepszym na platformy opartej o blockchain jest zrezygnowanie ze wszystkich opłat. Jeżeli naliczanie opłat transakcyjnych byłoby naliczane jako alternatywa do ograniczeń opartych o stopę, powinno być to analogią do kupna takiej ilości udziałów oraz użycie ich w taki sposób, żeby mieć możliwość wykorzystania ich w odpowiedni, jednorazowy sposób.
 
-Stated another way, a transaction fee should be equal to the minimum account balance necessary to transact once per week and it should be refunded at the end of the week. Assume the minimum account balance is $1 and allows someone to transact once per week. If someone with a $1 balance that wishes to perform 5 transactions at once they will have to increase their balance to $5 for a week either before or after their transactions.
+Innymi słowy, opłaty transakcyjne powinny być równe minimalnemu saldu konta do podjęcia transakcji, by mogła być zwrócona na koniec tygodnia. Załóżmy, że minimalne saldo konta to 1$ i pozwala ono dokonywać transakcji przez tydzień. Wówczas, jeśli ktoś z saldem 1$ chce dokonać 5 transakcji na raz, musi doładować swoje konto o 5$ na tydzień przed lub po transakcjach.
 
 In theory a market could form where users can borrow the stake required. In practice it is more efficient for users to simply buy and sell the timeshares necessary to meet their desired usage rate. In other words, the cost of negotiating micro-loans is greater than the cost of maintaining a balance suitable for your maximum weekly usage.
 
