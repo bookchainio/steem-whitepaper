@@ -354,9 +354,9 @@ Jeśli weźmiemy pod uwagę bardziej skrajne przypadki i założymy że atakują
 
 Przy podejściu opartym o stopę ograniczającą, ktoś kto byłby gotów poświęcić 1% całej gospodarki by zablokować sieć, osiągnąłby zamierzony cel na mniej niż 30 sekund.
 
-### Renting vs. Buying vs. Time Sharing
+### Wynajem kontra kupno kontra czasowe współdzielenie
 
-When someone owns a house they expect the right to use the house for free. If a group of people buy a house together then each can expect the right to use the house proportional to their percentage ownership in the house. A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
+Gdy ktoś posiada pod, oczekuje, że będzie go używać za darmo. Jeśli zaś dom kupuje grupa ludzi wspólnie, oczekują oni prawa do użytku domu proporcjonalnie do włożonej kwoty. A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
 
 If a house is owned by multiple people then those individuals must decide how they wish to timeshare the house. Someone who owns 50% of the house but only uses it one weekend per year might expect to be paid by the individuals who take their unused time. This is the mindset of a fee based system.
 
