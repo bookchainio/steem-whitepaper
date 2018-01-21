@@ -32,7 +32,7 @@ Spis Treści:
 2. Środki do uzyskania wartościowych odpowiedzi do spersonalizowanych pytań.
 3. Stabilna kryptowaluta ustalana w odniesieniu do Dolara Amerykańskiego.
 4. Darmowe płatności.
-5. Jobs providing above services to other members.
+5. Miejsca pracy dostarczane innym użytkownikom poprzez wyżej wymienione usługi.
 
 Celowa reorganizacja bodźców ekonomii Steem ma potencjał do produkowania bardziej kompletnych i sprawiedliwych rezultatów dla każdego zaangażowanego w media społecznościowe i platformy krytowalut bardziej niż kiedykolwiek wcześniej. Ten dokument zgłębi istnięjące ekonomiczne bodźce i zademonstruje jak zachęty platformy Steem mogą doprowadzić do lepszych rezultatów dla większości uczestników.
 
@@ -437,7 +437,7 @@ Cena dóbr cyfrowych, takich jak STEEM jest podyktowana zarówno popytem jak i p
 
 # Moc Steemu
 
-Steem recognizes that the value of all user contributions (posts and votes) is greater than the sum of the parts. A single comment is worth next to nothing, but millions of curated posts is worth many millions (or possibly even billions) of dollars. A single vote provides little curation value, but billions of votes is very effective curation. Content without curation is of limited value. Given all the content of the Internet minus the links between it, Google would struggle to produce useful search results. It is the links between information that give it significant value.
+Platforma Steem uważa, że połączona wartość wkładu użytkowników (treści i głosów) jest większa niż suma pojedynczych części. Jeden pojedynczy komentarz nic nie znaczy, lecz miliony ocenianych postów jest warte miliony (może i nawet miliardy) dolarów. Jeden głos wnosi niewielką wartość oceny, ale miliardy głosów są bardzo efektywnym systemem oceny. Zawartość bez oceny ma ograniczoną wartość. Given all the content of the Internet minus the links between it, Google would struggle to produce useful search results. It is the links between information that give it significant value.
 
 Because everyone benefits, everyone should pay. In other words, no individual user should be expected to pay for anything, but instead should be paid for everything they do that brings value to Steem. All we need to do is ascertain which user contributions bring a social network value and which ones don’t.
 
