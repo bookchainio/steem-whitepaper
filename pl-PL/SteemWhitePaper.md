@@ -398,12 +398,12 @@ Przetrzymywanie wszystko w pamięci operacyjnej jest coraz bardziej rentowne, zw
 
 ## Początkowa alokacja i zaopatrzenie
 
-Sieć Steem wystartowała z poziomem dostarczania waluty na poziomie zera, dystrybuując wówczas STEEM przy pomocy dowodu wykonanej pracy (z ang. proof of work, przyp. tłum.) o współczynniku około 40 STEEM na minutę, razem z dodatkową ilością 40 STEEM potrzebną na zachęcanie do tworzenia treści oraz pulę nagród (z ang. reward pool, przyp. tłum.), co łącznie daje ilość 80 STEEM na minutę. Następnie sieć zaczęła nagradzać użytkowników, którzy konwertowali środki do SP. At this point, STEEM grew at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
+Sieć Steem wystartowała z poziomem dostarczania waluty na poziomie zera, dystrybuując wówczas STEEM przy pomocy dowodu wykonanej pracy (z ang. proof of work, przyp. tłum.) o współczynniku około 40 STEEM na minutę, razem z dodatkową ilością 40 STEEM potrzebną na zachęcanie do tworzenia treści oraz pulę nagród (z ang. reward pool, przyp. tłum.), co łącznie daje ilość 80 STEEM na minutę. Następnie sieć zaczęła nagradzać użytkowników, którzy konwertowali środki do SP. W tym punkcie, produkcja STEEM wzrosła do około 800 STEEM na minutę z powodu połączonych Nagród z Wkład (z ang. Contribution Rewards, przyp. tłum.) opisanych poniżej:
 
 Nagrody za wkład ze strony użytkownika:
 
-- Curation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
-- Content Creation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
+- Nagrody za ocenę treści (z ang. Curation Rewards, przyp. tłum.): 1 STEEM na blok, lub 3.875% rocznie, zależnie od tego, co jest większe
+- Nagrody za tworzenie treści (z ang. Content Creation Rewards, przyp. tłum): 1 STEEM na blok, lub 3.875% rocznie, zależnie od tego, co jest większe
 - Block production rewards: 1 STEEM per block or 0.750% per year, whichever is greater
 - POW inclusion rewards before block 864,000: 1 STEEM per block (awarded as 21 STEEM per round)
 - POW inclusion rewards after block 864,000: 0.0476 STEEM per block (awarded as 1 STEEM per round) or 0.750% per year, whichever is greater.
