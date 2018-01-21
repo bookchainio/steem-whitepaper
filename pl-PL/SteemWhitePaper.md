@@ -392,7 +392,7 @@ Wy osiągnąć najlepszą wydajność w branży, platforma Steem zaczerpnęła l
 
 Podążając za tymi prostymi zasadami, sieć Steem jest w stanie przetwarzać 10.000 transakcji na sekundę bez żadnych poświęceń na rzecz optymalizacji.
 
-Keeping everything in memory is increasingly viable given the recent introduction of Optane™ technology from Intel[^14]. It should be possible for commodity hardware to handle all of the business logic associated with Steem in a single thread with all posts kept in memory for rapid indexing. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optane™ technology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
+Przetrzymywanie wszystko w pamięci operacyjnej jest coraz bardziej rentowne, zważywszy na zapowiedzi technologii Optane™ przez korporację Intel[^14]. It should be possible for commodity hardware to handle all of the business logic associated with Steem in a single thread with all posts kept in memory for rapid indexing. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optane™ technology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
 
 # Alokacja i Zaoparzenie
 
