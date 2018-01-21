@@ -461,13 +461,13 @@ Wewnątrz platformy Steem, mikropłatności są wypłacane dla twórców treści
 
 Co więcej, platforma Steem płaci ludziom, którzy rozumieją, kto powinien zostać nagrodzony! Taki system myślenia jest rewolucyjny.
 
-## Wartość tkwi w Odnośnikach
+## Wartość tkwi w Połączeniach
 
-Sieć Internet straciłaby zdecydowaną większość wartości, gdyby wszystkie linki łącące treść zostały usunięte. Jest to relacja między stronami internetowymi, która pozwala wyszukiwarce Google znaleźć najlepszy przepis na szarlotkę z spośród 16 milionów innych. Bez linków jedyną informacją jaką dysponowałoby Google to częstotliwość występowania danego słowa.
+Sieć Internet straciłaby zdecydowaną większość wartości, gdyby wszystkie odnośniki (z ang. links, przyp. tłum.) łącące treść zostały usunięte. Jest to relacja między stronami internetowymi, która pozwala wyszukiwarce Google znaleźć najlepszy przepis na szarlotkę z spośród 16 milionów innych. Bez linków jedyną informacją jaką dysponowałoby Google to częstotliwość występowania danego słowa.
 
-Links can take many forms and have adapted over time. Every time a user votes on content in a social network they add a connection between themselves and the content. This in turn links the consumer to the producer through the content. The more connections a network has the more valuable the information becomes. It is the relative and intentional connectedness of information that gives it value.
+Odnośniki mogą przyjmować wiele form oraz dostosowywać się wraz z upływem czasu. Za każdym razem, kiedy użytkownik głosuje na treść i medium społecznościowym dodawane jest połączenie między użytkownikiem a treścią. To z kolei łączy konsumenta i twórcę poprzez zawartość. Im więcej połączeń posiada sieć, tym bardziej wartościowa staje się informacja w niej zawarta. To jest względne i celowe powiązanie informacji, które nadaje jej wartość.
 
-A social network can maximize the value extracted from a set of content by maximizing the quantity and quality of connections. Curating content is expensive and time consuming while being near impossible for computers to perform in the absence of links. Steem rewards users who are among the first to find and identify new content.
+Platforma sieci społecznościowej może zmaksymalizować wartość wyszukanej treści poprzez maksymalizację ilości oraz jakości połączeń. Ocena treści jest droga oraz pochłania duże ilości czasu, jednocześnie prawie niemożliwym dla komputerów jest przeprowadzenie tej operacji bez obecności odnośników. Steem rewards users who are among the first to find and identify new content.
 
 By incentivising curation the Steem network is able to use automated algorithms to extract the most valuable information from a massive amount of content.
 
