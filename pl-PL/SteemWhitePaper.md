@@ -445,9 +445,9 @@ Ponieważ każdy zyskuje, każdy powinien płacić. Innymi słowy, nie powinno s
 
 ## Brak mikropłatności, napiwki wedle uznania
 
-Dotychczasowe próby integracji kryptowaluty w platformę mediów społecznościowych skupiały się na daniu uzytkownikom możliwości zapłaty sobie nawzajem. Wiele z tych serwisów próbowało wdrożyć system napiwków. The theory is that if we make tipping simple enough then more people will do it. Other services attempt to get people to pay to promote or boost their content’s ranking. Still others attempt to build small prediction markets on how many tips an article will receive.
+Dotychczasowe próby integracji kryptowaluty w platformę mediów społecznościowych skupiały się na daniu uzytkownikom możliwości zapłaty sobie nawzajem. Wiele z tych serwisów próbowało wdrożyć system napiwków. W teorii, jeśli sprawimy, że dawanie napiwków będzie wystarczająco proste, ludzie będą je częściej dawać. Inne serwisy tworzą system, w którym ludzie mogą płacić w celu promocji ich treści w rankingu. Jednak inni będą próbować przewidywać zachowania rynku, pod względem tego, ile napiwków otrzyma artykuł.
 
-All of these approaches boil down to micropayments. They differ only in who is making the payment. They all suffer from insufficient engagement of people making the micropayments. In the search for incentivised content production entrepreneurs have been so focused on who should pay that they missed the obvious reality: everyone benefits from everyone’s actions so everyone should pay or no one should pay, depending on how you look at it.
+Wszystkie do podejścia sprowadzają się do mikropłatności. Różnią się tylko tym, to płaci. Cierpią one na niewystarczającą zachętę ludzi, którzy mieliby podjąć się zapłaty za mikropłatności. In the search for incentivised content production entrepreneurs have been so focused on who should pay that they missed the obvious reality: everyone benefits from everyone’s actions so everyone should pay or no one should pay, depending on how you look at it.
 
 Steem bypasses micropayments completely because when a user upvotes a post it is the community that pays the bill. The same amount of money will be spent whether the user upvotes a post or not and the funds will not come from the voter.
 
