@@ -6,7 +6,7 @@ Sierpień 2017
 
 # Nota od tłumacza
 
-Opisać contribution, dlaczego przetłumaczyłem jako wkład. Wytłumaczyć, dlaczego używam platforma steem, zamiast steem Proof of work, dlaczego dowód włożonej pracy rate limiting. liquidity
+Opisać contribution, dlaczego przetłumaczyłem jako wkład. Wytłumaczyć, dlaczego używam platforma steem, zamiast steem Proof of work, dlaczego dowód włożonej pracy rate limiting. liquidity hard fork
 
 # Streszczenie
 
@@ -421,9 +421,9 @@ Całościowy proces dostarczania jest skomplikowany przez operacje oparte na SBD
 
 ## Obecna alokacja i zaopatrzenie
 
-Starting with the network's 16th hard fork in December 2016, Steem began creating new tokens at a yearly inflation rate of 9.5%. The inflation rate decreases at a rate of 0.01% every 250,000 blocks, or about 0.5% per year. The inflation will continue decreasing at this pace until the overall inflation rate reaches 0.95%. This will take about 20.5 years from the time hard fork 16 went into effect.
+Zaczynając od procesu nazywanego hard forkiem sieci (opisuje on najczęściej porzucenie jednej wersji sieci na rzecz innej, o różniącym się zestawie cech, przyp. tłum.) w grudniu 2016 roku zaczął generowanie nowych tokenów z roczną inflacją wynoszącą 9.5%. Stopa inflacji zmniejsza z szybkością 0,01%, co 250 000 bloków lub około 0,5% rocznie. Inflacja będzie się dalej zmniejszać w tym tempie, dopóki nie uzyska wartości 0.95% rocznie. To zajmie około 20,5 roku od momentu, gdy hardfork 16 wszedł w życie.
 
-75% of the new tokens that are generated go to fund the reward pool, which is split between authors and curators. 15% of the new tokens are awarded to holders of SP. The remaining 10% pays for the witnesses to power the blockchain.
+75% nowych tokenów jest generowanych na rzecz wspierania puli nagród, która jest dzielona między autorów oraz kuratorów. 15% nowych żetonów trafia do posiadaczy SP. Pozostałe 10% wypłacane jest strażnikom, którzy napędzają blockchain.
 
 ### Wpływ Współczynnika Tworzenia Tokenów
 
