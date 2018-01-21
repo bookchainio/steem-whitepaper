@@ -433,7 +433,7 @@ Od sierpnia 2008 roku do stycznia roku 2009 podaż pieniądza w Stanach Zjednocz
 
 Przez pierwsze 2 lata życia platformy Bitcoin, sieć przetrwała roczną stopę inflacyjną[^17] wynoszącą ponad 100%. Przez pierwsze 5 lat to było ponad 30%, a dla pierwszych 8 lat to było ponad 10%. Podsumowując, całkowite "wydatki" platformy Steem finansujące produkcję treści, jej ocenę a także produkcję bloków są mniejsze niż 10% rocznej stopy procentowej.
 
-The price of a digital commodity, like STEEM, is driven by both supply and demand. When a long-term holder decides to exit, the supply of STEEM on the market will increase and push the price down. This downward pressure is countered when a new long-term holder decides to buy up the STEEM and convert it back into SP. Additional supply and demand may be be added due to market speculators buying and selling liquid STEEM based on their predictions of the future market price.
+Cena dóbr cyfrowych, takich jak STEEM jest podyktowana zarówno popytem jak i podażą. Kiedy długoterminowy posiadacz postanawia odejść, podaż STEEM wzrośnie zbijając cenę. Ten biegnący w dół nacisk jest kontrowany, gdy pojawia się nowy długofalowy nabywca kupując STEEM i zamieniając je z powrotem na SP. Dodatkowe podaża i popyt, może pojawić się ze względu na spekulantów kupujących i sprzedających, płynny STEEM w oparciu o ich prognozy przyszłych cen rynkowych.
 
 # Moc Steemu
 
