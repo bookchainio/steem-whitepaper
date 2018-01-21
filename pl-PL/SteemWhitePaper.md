@@ -340,9 +340,9 @@ Ripple używa podobnego rozwiązania minimalnego salda [^11], które skaluje si�
 
 Technologia blockchain może wymagać od użytkownika minimalnej wartości jego konta poprzez prosty proces wymagania minimalnego salda. Każda firma chcąca sprowadzić nowego użytkownika do ekosystemu może w zafundować użytkownikowi kwotę minimalnego salda, by umożliwić mu dokonywanie transakcji. Wymaganie stosunkowo dużej opłaty (1.00$) w celu rejestracji zmusi serwisy oferujące założenie darmowego konta do nadzorowania jakości oraz weryfikacji użytkowników.
 
-Maintaining a minimum balance is effectively the same as making users pay transaction fees with the interest they could have earned on their balance. The minimum balance is simply the balance required to earn enough interest to pay a fee in a relatively short period of time.
+Utrzymywanie minimalnego salda jest koniec końców tym samym mechanizmem, co wprowadzanie opłat transakcyjnych które użytkownicy musieli by zapłacić od zarobionego dochodu. Minimalne saldo jest po prostu wartością wymaganą do zarobienia wystarczającej wartości, by opłacić ukrytą opłatę w relatywnie krótkim czasie.
 
-Fortunately, the minimum balance required can be as low as a dollar and this is something users can understand and appreciate. The opportunity cost of lost interest doesn’t incur the cognitive cost of a micro-fee and is far more acceptable to users.
+Na szczęście, minimalne wymagane saldo może być tak niskie jak wartość jednego dolara, co użytkownicy mogą zrozumieć. Koszt utraty innych alternatyw nie wpływa na koszt poznania tak jak w przypadku mikro opłat i jest o wiele bardziej akceptowalny przez użytkowników.
 
 The STEEM used to pre-fund an account is Powered Up in the new account (i.e., converted to Steem Power). A portion of the SP used to fund a new account may be delegated from the creator of the account. When a user is delegated SP, they may use the SP for voting and bandwidth purposes as if it were their own, but the ownership of the SP remains with the user who delegated it. A user may remove the delegation at any time. After a cool-down period, the SP is returned to their account.
 
