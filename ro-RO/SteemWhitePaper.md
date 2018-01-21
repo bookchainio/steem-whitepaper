@@ -198,15 +198,15 @@ Folosirea *votului-negativ* care să oprească oamenii să abuzeze sistemul prin
 
 **Povestea Crab Bucket**[^6]
 
-A man was walking along the beach and saw another man fishing in the surf with a bait bucket beside him. As he drew closer, he saw that the bait bucket had no lid and had live crabs inside.
+În timp ce mergea pe plajă, un om a văzut un pescar care pescuia cu o găleată cu momeală. În timp ce trăgea găleata, a observat că aceasta nu avea capac și că în interiorul ei avea crabi vii.
 
-"Why don't you cover your bait bucket so the crabs won't escape?", he said.
+"De ce nu acoperi găleata ta cu momeală pentru ca crabii să nu scape?", a spus.
 
-"You don't understand.", the man replied, "If there is one crab in the bucket it would surely crawl out very quickly. However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
+"Nu înțelegi." a răspunsul omul, "Dacă este un crab în găleată, cu siguranță s-ar cățăra rapid. Insă, atunci când sunt mulți crabi în găleată, dacă unul încearcă să fugă, ceilalți crabi se apucă de el și îl trag înapoi pentru a împărtăși aceași soartă
 
-So it is with people. If one tries to do something different, get better grades, improve herself, escape her environment, or dream big dreams, other people will try to drag her back down to share their fate.
+Așa este și cu oamenii. Dacă unul încearcă să facă ceva diferit, să ia note mai bune, să se îmbunătățească, să plece din mediu, sau să aibe vise mari, ceilalți oameni o să îl tragă înapoi pentru a împărtăși aceași soartă.
 
-Eliminating “abuse” is not possible and shouldn’t be the goal. Even those who are attempting to “abuse” the system are still doing work. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn’t so rampant that it undermines the incentive to do real work in support of the community and its currency.
+Eliminarea "abuzului" nu este posibilă și nu acesta ar trebui să fie țelul. Even those who are attempting to “abuse” the system are still doing work. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn’t so rampant that it undermines the incentive to do real work in support of the community and its currency.
 
 The goal of building a community currency is to get more “crabs in the bucket”. Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs sufficient power to prevent others from escaping.
 
