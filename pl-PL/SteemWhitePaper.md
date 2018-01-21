@@ -463,7 +463,7 @@ Co więcej, platforma Steem płaci ludziom, którzy rozumieją, kto powinien zos
 
 ## Wartość tkwi w Odnośnikach
 
-The Internet would lose the vast majority of its value if all links among content were removed. It is the relationship among web pages that allows Google to identify the best apple pie recipe among the 16 million results. Without the links the only information Google would have is word frequency.
+Sieć Internet straciłaby zdecydowaną większość wartości, gdyby wszystkie linki łącące treść zostały usunięte. Jest to relacja między stronami internetowymi, która pozwala wyszukiwarce Google znaleźć najlepszy przepis na szarlotkę z spośród 16 milionów innych. Bez linków jedyną informacją jaką dysponowałoby Google to częstotliwość występowania danego słowa.
 
 Links can take many forms and have adapted over time. Every time a user votes on content in a social network they add a connection between themselves and the content. This in turn links the consumer to the producer through the content. The more connections a network has the more valuable the information becomes. It is the relative and intentional connectedness of information that gives it value.
 
