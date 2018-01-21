@@ -328,13 +328,13 @@ System platformy Steem bazujący na kontach użytkowników z publicznie znanymi 
 
 Możliwym jest, by konto o niskim saldzie założone podczas czasu niskiego obciążenia stało się niezdatne do użytku, jeśli obciążenie sieci wzrośnie. W takim wypadku jego fundusze mogą zostać odzyskane poprzez tymczasowe wydelegowanie na rzecz konta większej sumy, by osiągnąć niezbędne minimum.
 
-By doświadczenie z użytkowania platformy pozostało na rozsądnym poziomie jednocześnie minimalizując ilość martwych kont, wszyscy nowy użytkownicy powinni zaczynać z saldem dziesięciokrotnie większym niż minimum transakcyjne. This way even if demand increases by a factor of 10 the account will remain viable.
+By doświadczenie z użytkowania platformy pozostało na rozsądnym poziomie jednocześnie minimalizując ilość martwych kont, wszyscy nowy użytkownicy powinni zaczynać z saldem dziesięciokrotnie większym niż minimum transakcyjne. Tym sposobem, nawet jeśli popyt wzrośnie dziesięciokrotnie, konto nadal będzie rentowne.
 
-Any initial account balance would have to come from the user creating the account and not from token creation due to the potential for sybil attacks.
+Owe początkowe saldo musi wywodzić się ze strony użytkownika, nie platformy, aby zapobiec nadużyciom opartym o tworzenie dużej ilości kont w celu korzyści dla jednostki.
 
-### Justifying Minimum Balances
+### Powód obecności minimalnego salda
 
-The concept of forcing users to maintain a minimum balance flows naturally from the value of a user[^10]. Anyone running a business knows that every single user has significant value. Businesses spend anywhere from $30 to $200 to acquire a user. Sometimes they pay users directly, other times they pay for advertizing, and still other times entire companies are bought just for their user base. After a company acquires a user they often given them many *free services* just to keep them around long enough to monetize them through some other means.
+Koncept zmuszenia użytkownika do zainwestowania minimalnego wkładu wywodzi się wartości użytkownika[^10]. Każdy mający styczność z biznesem wie, że każdy użytkownik ma znaczącą wartość. Firmy potrafią wydać od 30 do 200 dolarów, by przyciągnąć do siebie użytkownika. Sometimes they pay users directly, other times they pay for advertizing, and still other times entire companies are bought just for their user base. After a company acquires a user they often given them many *free services* just to keep them around long enough to monetize them through some other means.
 
 Ripple uses a minimum balance[^11] that scales with account resource use and requires that new accounts get funded with at least this minimum balance. Currently this minimum balance is about $0.15 which is greater than the $0.10 we estimated would allow someone to transact freely at least once per week.
 
