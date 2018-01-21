@@ -417,7 +417,7 @@ Nagrody za wkład ze strony użytkownika:
 
 - Nagrody oparte na SBD: Procent wartości SBD wytworzony podczas ustalenia rocznej stawki oprocentowania (z ang. Annual Percentage Rate, przyp. tłum.) przez strażników, i wypłacane jako SBD posiadaczom SBD
 
-Całościowy proces dostarczania jest skomplikowany przez operacje oparte na SBD, które mogą skutkować wytwarzaniem go na dużą skalę, lub zniszczeniem STEEM poprzez szybkość dostarczania oraz rozpropagowywania SBD, co jest głębiej opisane w rozdziale traktującym o SBD. Other, smaller-scale complicating effects also exist, including unclaimed incentives (e.g. block rewards for missed blocks), and abandoned accounts.
+Całościowy proces dostarczania jest skomplikowany przez operacje oparte na SBD, które mogą skutkować wytwarzaniem go na dużą skalę, lub zniszczeniem STEEM poprzez szybkość dostarczania oraz rozpropagowywania SBD, co jest głębiej opisane w rozdziale traktującym o SBD. Istnieją także inne efekty komplikujące proces na mniejszą skalę, wliczając w to niezebrane podmioty zachęty (na przykład nagrody za pominięte bloki), lub porzucone konta.
 
 ## Obecna alokacja i zaopatrzenie
 
