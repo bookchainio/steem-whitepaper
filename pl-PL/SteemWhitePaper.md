@@ -338,7 +338,7 @@ Koncept zmuszenia użytkownika do zainwestowania minimalnego wkładu wywodzi si�
 
 Ripple używa podobnego rozwiązania minimalnego salda [^11], które skaluje się wraz z zasobami konta i wymaga od nowych kont posiadania wcześniej wspomnianego minimalnego salda. Obecnie wynosi ono około 15 centów, co i tak jest kwotą wyższą niż oszacowane przez na 10 centów, które pozwoliłoby użytkownikowi dokonywać transakcji bez opłat co mniej raz w tygodniu.
 
-Technologia blockchain może wymagać od użytkownika minimalnej wartości jego konta poprzez prosty proces wymagania minimalnego salda. Każda firma chcąca sprowadzić nowego użytkownika do ekosystemu może w zafundować użytkownikowi kwotę minimalnego salda, by umożliwić mu dokonywanie transakcji. Requiring a relatively large fee ($1.00) to sign up new users will naturally force anyone offering free accounts to vet the quality and uniqueness of each account before registering them with the blockchain.
+Technologia blockchain może wymagać od użytkownika minimalnej wartości jego konta poprzez prosty proces wymagania minimalnego salda. Każda firma chcąca sprowadzić nowego użytkownika do ekosystemu może w zafundować użytkownikowi kwotę minimalnego salda, by umożliwić mu dokonywanie transakcji. Wymaganie stosunkowo dużej opłaty (1.00$) w celu rejestracji zmusi serwisy oferujące założenie darmowego konta do nadzorowania jakości oraz weryfikacji użytkowników.
 
 Maintaining a minimum balance is effectively the same as making users pay transaction fees with the interest they could have earned on their balance. The minimum balance is simply the balance required to earn enough interest to pay a fee in a relatively short period of time.
 
