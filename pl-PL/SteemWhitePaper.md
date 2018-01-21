@@ -328,7 +328,7 @@ System platformy Steem bazujący na kontach użytkowników z publicznie znanymi 
 
 Możliwym jest, by konto o niskim saldzie założone podczas czasu niskiego obciążenia stało się niezdatne do użytku, jeśli obciążenie sieci wzrośnie. W takim wypadku jego fundusze mogą zostać odzyskane poprzez tymczasowe wydelegowanie na rzecz konta większej sumy, by osiągnąć niezbędne minimum.
 
-In order to maintain a reasonable user experience with a minimum number of hung accounts, all new accounts should start out with a balance 10 times the minimum required to transact weekly. This way even if demand increases by a factor of 10 the account will remain viable.
+By doświadczenie z użytkowania platformy pozostało na rozsądnym poziomie jednocześnie minimalizując ilość martwych kont, wszyscy nowy użytkownicy powinni zaczynać z saldem dziesięciokrotnie większym niż minimum transakcyjne. This way even if demand increases by a factor of 10 the account will remain viable.
 
 Any initial account balance would have to come from the user creating the account and not from token creation due to the potential for sybil attacks.
 
