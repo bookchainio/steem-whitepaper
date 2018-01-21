@@ -387,14 +387,14 @@ Wy osiągnąć najlepszą wydajność w branży, platforma Steem zaczerpnęła l
 1. Przetrzymuj wszystko w pamięci operacyjnej.
 2. Główną logikę biznesową trzymaj w pojedynczym wątku procesora.
 3. Operacje kryptograficzne (hasze i sygnatury) trzymaj zdala od głównej logiki biznesowej.
-4. Podziel walidację na zależne, oraz niezależne od stanu sprawdzenia.
+4. Podziel walidację na sprawdzenia zależne, oraz niezależne od stanu.
 5. Użyj obiektowego modelu przedstawiania danych.
 
 Podążając za tymi prostymi zasadami, sieć Steem jest w stanie przetwarzać 10.000 transakcji na sekundę bez żadnych poświęceń na rzecz optymalizacji.
 
-Przetrzymywanie wszystko w pamięci operacyjnej jest coraz bardziej rentowne, zważywszy na zapowiedzi technologii Optane™ przez korporację Intel[^14]. Powszechnie dostępny sprzęt komputerowy powinien być w stanie obsługiwać całą logikę biznesową związaną z platformą Steem przez tylko jeden wątek, jednocześnie przetrzymując wszystkie dane w pamięci operacyjnej dla bardzo szybkiej indeksacji. Nawet Google trzyma wszystkie indeksy dla całego internetu w pamięci RAM. Zastosowanie technologii blockchain sprawia, iż banalnym staje się replikowanie bazy danych na wielu maszynach, aby zapobiec utracie danych. Kiedy technologia Optane™ wejdzie w życie, RAM stanie się jeszcze szybsze, zyskując przy tym trwałość danych. In other words, Steem is designed for the architectures of the future and is designed to scale.
+Przetrzymywanie wszystko w pamięci operacyjnej jest coraz bardziej rentowne, zważywszy na zapowiedzi technologii Optane™ przez korporację Intel[^14]. Powszechnie dostępny sprzęt komputerowy powinien być w stanie obsługiwać całą logikę biznesową związaną z platformą Steem przez tylko jeden wątek, jednocześnie przetrzymując wszystkie dane w pamięci operacyjnej dla bardzo szybkiej indeksacji. Nawet Google trzyma wszystkie indeksy dla całego internetu w pamięci RAM. Zastosowanie technologii blockchain sprawia, iż banalnym staje się replikowanie bazy danych na wielu maszynach, aby zapobiec utracie danych. Kiedy technologia Optane™ wejdzie w życie, RAM stanie się jeszcze szybsze, zyskując przy tym trwałość danych. Innymi słowy, sieć Steem jest zaprojektowana z myślą o architekturze przyszłości, oraz zaprojektowana dla skalowalności.
 
-# Alokacja i Zaoparzenie
+# Alokacja i Zaopatrzenie
 
 ## Początkowa alokacja i zaopatrzenie
 
