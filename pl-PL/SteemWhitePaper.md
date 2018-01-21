@@ -350,9 +350,9 @@ STEEM używany do prefinansowania nowych kont jest przekazywany poprzez proces w
 
 By porównać efektywność stopy ograniczającej do wysokości opłat musimy porównać jak oba systemy reagują na zalew sieci przez atakującego. W sieci Bitcoin atakujący z saldem 10.000 dolarów byłby w stanie zakłócić działanie serwisu przez cały dzień wypełniając każdy blok. Ten sam atakujący nie byłby jednak w stanie zakłócić działania serwisu, wspieranego ograniczeniem opartym na mechanizmie częściowego podziału.
 
-Jeśli weźmiemy pod uwagę bardziej skrajne przypadki i założymy że atakujący posiada 1% wartości całej gospodarki, wtedy zakładamy, że atakujący posiada 60 milionów dolarów. Such an attacker could deny the Bitcoin blockchain service for 16 years unless the miners increased fees or capacity. Even if fees were raised to $15 per transaction, the attacker could still keep the network flooded for 16 days.
+Jeśli weźmiemy pod uwagę bardziej skrajne przypadki i założymy że atakujący posiada 1% wartości całej gospodarki, wtedy zakładamy, że atakujący posiada 60 milionów dolarów. Wspomniany atakujący mógłby zablokować łańcuch bloków systemu Bitcoin na 16 lat, chyba że górnicy podwyższyliby opłaty lub jego pojemność. Nawet jeśli opłaty zostałyby podwyższone do 15$ za transakcję, atakujący mógłby wciąż blokować sieć przez ponad 16 dni.
 
-Under the rate limiting approach, someone who holds 1% of all coins with an intent to flood the network would achieve their goal for less than 30 seconds.
+Przy podejściu opartym o stopę ograniczającą, ktoś kto byłby gotów poświęcić 1% całej gospodarki by zablokować sieć, osiągnąłby zamierzony cel na mniej niż 30 sekund.
 
 ### Renting vs. Buying vs. Time Sharing
 
