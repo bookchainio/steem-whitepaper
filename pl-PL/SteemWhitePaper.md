@@ -457,9 +457,9 @@ Mentalna siła powiązana z odejmowaniem ekonomicznych decyzji staje się barier
 
 -Mikropłatności: opłacalny model biznesowy[^20]
 
-Wewnątrz platformy Steem, mikropłatności są wypłacane dla twórców treści, lecz Ci, którzy na nią głosują nie płacą za to. Instead, the cost of the reward is paid for via new tokens. Someone can join the system, vote to pay someone, and then exit the system with more money than they started with (assuming the market valuation of the Steem system remained constant). In other words, the micropayment solution provided by Steem provides a user-experience similar to many widely used websites that have user-moderated content.
+Wewnątrz platformy Steem, mikropłatności są wypłacane dla twórców treści, lecz Ci, którzy na nią głosują nie płacą za to. Zamiast tego, nagrody wypłacane są poprzez nowo stworzone tokeny. Ktoś może dołączyć do systemu, zagłosować na kogoś i wyjść z większą ilością pieniędzy, niż ta, z którą zaczął (zakładając, że wartość rynkowa systemu Steem pozostanie przez cały czas stabilna). Innymi słowy, rozwiązanie oparte o mikropłatności dostarczane przez Steem zapewnia podobne odczucia użytkownika do stron, które oparte są o treść moderowaną przez użytkowników.
 
-Furthemore, Steem pays people to figure out who should be paid! This kind of thinking is revolutionary.
+Co więcej, platforma Steem płaci ludziom, którzy rozumieją, kto powinien zostać nagrodzony! Taki system myślenia jest rewolucyjny.
 
 ## Wartość tkwi w Odnośnikach
 
