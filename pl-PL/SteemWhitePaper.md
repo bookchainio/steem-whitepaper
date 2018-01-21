@@ -344,11 +344,11 @@ Utrzymywanie minimalnego salda jest koniec końców tym samym mechanizmem, co wp
 
 Na szczęście, minimalne wymagane saldo może być tak niskie jak wartość jednego dolara, co użytkownicy mogą zrozumieć. Koszt utraty innych alternatyw nie wpływa na koszt poznania tak jak w przypadku mikro opłat i jest o wiele bardziej akceptowalny przez użytkowników.
 
-STEEM używany do prefinansowania nowych kont jest przekazywany poprzez proces wzmocnienia jego siły (czyli w formie Steem Power). Porcja SP użyta do ufundowania nowego konta może być wydelegowana do niego z konta twórcy. When a user is delegated SP, they may use the SP for voting and bandwidth purposes as if it were their own, but the ownership of the SP remains with the user who delegated it. A user may remove the delegation at any time. After a cool-down period, the SP is returned to their account.
+STEEM używany do prefinansowania nowych kont jest przekazywany poprzez proces wzmocnienia jego siły (czyli w formie Steem Power). Porcja SP użyta do ufundowania nowego konta może być wydelegowana do niego z konta twórcy. Kiedy użytkownik posiada wydelegowane SP, może używać go w celu głosowania lub żądania przydziały przepustowości, tak jakby było to ich SP, jednak należy ono do użytkownika, które mu je wydelegował. Właściciel może usunąć delegację w każdej chwili. Po upłynięciu odpowiedniej ilości czasu SP jest wracane właścicielowi.
 
 ### Efektywność relatywna do wysokości opłat
 
-To compare the effectiveness of rate limiting to fees we must consider how the two systems react to intentional network flooding by an attacker. Under Bitcoin an attacker with $10,000 dollars could disrupt service for an entire day by filling every single block. The same attacker would be unable to disrupt service for even a single block under the dynamic fractional reserve rate limiting approach.
+By porównać efektywność stopy ograniczającej do wysokości opłat musimy porównać jak oba systemy reagują na zalew sieci przez atakującego. Under Bitcoin an attacker with $10,000 dollars could disrupt service for an entire day by filling every single block. The same attacker would be unable to disrupt service for even a single block under the dynamic fractional reserve rate limiting approach.
 
 If we go to a more extreme case and assume the attacker holds 1% of all coins then we presume an attacker with $60 million dollars. Such an attacker could deny the Bitcoin blockchain service for 16 years unless the miners increased fees or capacity. Even if fees were raised to $15 per transaction, the attacker could still keep the network flooded for 16 days.
 
