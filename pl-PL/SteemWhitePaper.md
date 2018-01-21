@@ -380,17 +380,17 @@ Sieć Steem jest zbudowana na podstawie technologii Graphene, tej samej, która 
 
 ## Skala Reddita
 
-Platforma Steem jest zdolna pomieścić większą ilość użytkowników niż Reddit. W 2015 roku 8.7 miliona użytkowników Reddita generowało średnio 23 komentarze na sekundę [^12], ze średnią 83 komentarzy na użytkownika rocznie. Stworzonych zostało 73 miliony najwyższej jakości wpisów, ze średnią 2 nowych postów co sekundę. There were about 7 billion up votes creating an average voting rate of 220 votes per second. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
+Platforma Steem jest zdolna pomieścić większą ilość użytkowników niż Reddit. W 2015 roku 8.7 miliona użytkowników Reddita generowało średnio 23 komentarze na sekundę [^12], ze średnią 83 komentarzy na użytkownika rocznie. Stworzonych zostało 73 miliony najwyższej jakości wpisów, ze średnią 2 nowych postów co sekundę. Zagłosowano 7 milionów razy, co średnio oznacza 220 głosów na sekundę. Podsumowując, gdyby Reddit operował na technologii blockchain, potrzebowałby średnio 250 transakcji na sekundę.
 
-To achieve this industry-leading performance, Steem has borrowed lessons learned from the LMAX Exchange[^13], which is able to process 6 million transactions per second. Among these lessons are the following key points:
+Wy osiągnąć najlepszą wydajność w branży, platforma Steem zaczerpnęła lekcji od LMAX Exchange [^13], która zdolna jest utrzymać obciążenie 6 milionów transakcji na sekundę. Z lekcji tych można wynieść następujące wnioski:
 
-1. Keep everything in memory.
-2. Keep the core business logic in a single thread.
-3. Keep cryptographic operations (hashes and signatures) out of the core business logic.
-4. Divide validation into state-dependent and state-independent checks.
-5. Use an object oriented data model.
+1. Przetrzymuj wszystko w pamięci operacyjnej.
+2. Główną logikę biznesową trzymaj w pojedynczym wątku procesora.
+3. Operacje kryptograficzne (hasze i sygnatury) trzymaj zdala od głównej logiki biznesowej.
+4. Podziel walidację na zależne, oraz niezależne od stanu sprawdzenia.
+5. Użyj obiektowego modelu przedstawiania danych.
 
-By following these simple rules, Steem is able to process 10,000 transactions per second without any significant effort devoted to optimization.
+Podążając za tymi prostymi zasadami, sieć Steem jest w stanie przetwarzać 10.000 transakcji na sekundę bez żadnych poświęceń na rzecz optymalizacji.
 
 Keeping everything in memory is increasingly viable given the recent introduction of Optane™ technology from Intel[^14]. It should be possible for commodity hardware to handle all of the business logic associated with Steem in a single thread with all posts kept in memory for rapid indexing. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optane™ technology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
 
