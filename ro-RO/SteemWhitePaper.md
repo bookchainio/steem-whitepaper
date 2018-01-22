@@ -44,7 +44,7 @@ Provocarea cu care se confruntă Steem este găsirea unui algoritm pentru a răs
 
 Platformele existene operează pe principiul un-utilizator, un-vot. Aceasta crează un mediu unde clasamantul poate fi manipulat de atacuri sybil și furnizorii de servicii trebuie să identifice și să blocheze agresori, într-un mod activ. Oamenii deja au încercat să manipuleze algoritmii de pe Reddit, Facebook și Twitter, unde singura recompensă este traficul web sau cenzura.
 
-Unitatea fundamentală a unui cont de pe platforma Steem este STEEM, un token criptomonedă. Steem opereză pe bază un-STEEM, un-vot. Sub acest model, indivizii care au contribuit cel mai mult la platformă, măsurat prin soldul conturilor, au cea mai mare influență asupra felului în care sunt recompesante contribuțiile. Mai mult, Steem le permite membrilor să voteze cu STEEM atunci când aceștia se angajează la o anumită periodă. În acest fel, membrii sunt stimulați financiar să voteze într-o manieră care să le maximizeze valoarea pe termen lung a STEEM-ului lor.
+Unitatea fundamentală a unui cont de pe platforma Steem este STEEM, un token criptomonedă. Steem opereză pe bază un-STEEM, un-vot. Sub acest model, indivizii care au contribuit cel mai mult la platformă, măsurat prin soldul conturilor, au cea mai mare influență asupra felului în care sunt recompesante contribuțiile. Mai mult, Steem le permite membrilor să voteze cu STEEM atunci când aceștia se angajează la o anumită periodă de intrare în drepturi. În acest fel, membrii sunt stimulați financiar să voteze într-o manieră care să le maximizeze valoarea pe termen lung a STEEM-ului lor.
 
 Steem este proiectat pe baza unui concept simplu:*contribuția semnificativă a fiecăruia, la comunitate, ar trebui recunoscută pentru valoarea adăugată* Atunci când oamenilor le sunt recunoscute contribuțiile semnificative, ei continuă să contribuie și astfel comunitatea crește. Orice dezechilibru în ceea ce privește darea și luarea, în cadrul unei comunități nu este sustenabil. Eventual, cel care oferă comunității, obosește să sprijine beneficiarii și va pleca din comunitate.
 
@@ -64,7 +64,7 @@ Acestă secțiune descrie ideile din spatele Steem și recompesnele pentru oamen
 
 ## Contribuții Capitale
 
-Există două elemente pe care o comunitate le poate oferi pentru a atrage capital: datoria și dreptul de proprietate. Cei care cumpără drepturi de proprietate câștigă atunci cînd crește comunitatea dar pierd atunci când aceasta scade. Cei care cumpără datoria le este garantată o anumită sumă de interes dar nu pot participa în profitul generat de creșterea comunității. Ambele tipuri de contribuții de capital sunt valoroase pentru creșterea comunității și valoarea monedei sale. Adițional, există două tipuri de feluri în care proprietatea poate avea loc: lichid, în modezi și prin vesting sau intrarea în drepturi. Proprietatea vesting face un angajament pe termen lung și nu poate fi vândută pentru o periodă minimă de timp.
+Există două elemente pe care o comunitate le poate oferi pentru a atrage capital: datoria și dreptul de proprietate. Cei care cumpără drepturi de proprietate câștigă atunci cînd crește comunitatea dar pierd atunci când aceasta scade. Cei care cumpără datoria le este garantată o anumită sumă de interes dar nu pot participa în profitul generat de creșterea comunității. Ambele tipuri de contribuții de capital sunt valoroase pentru creșterea comunității și valoarea monedei sale. Adițional, există două tipuri de feluri în care proprietatea poate avea loc: lichid, în modezi și prin vesting sau intrarea în drepturi. Proprietatea de intrare în drepturi (vesting) face un angajament pe termen lung și nu poate fi vândută pentru o periodă minimă de timp.
 
 Rețeaua Steem solicită aceste diferite clase Steem (STEEM), Steem Power (SP), și Dolari Steem (SBD).
 
@@ -80,7 +80,7 @@ Există o valoare semnificativă pentru angajamentul pe termen lung deoarece îi
 
 În spațiu criptomonetar, speculatorii trec de la criptomonedă la criptomonedă, bazându-se în mare parte pe ceva care are creștere pe termen scurt. Steem dorește construirea comunității care este deținută în mare parte și în totalitate controlată de cei care au o perspectivă pe termen lung.
 
-Utilizatorii au posibilitatea de a-și păstra STEEM pentru o perioadă de vesting de treisprezece săptămâni, oferindu-le beneficii adiționale în interiorul platformei. STEEM care a fost încredințat pe perioadă de vesting de treisprezece săpămâni este numi Putere Steem (SP). Soldurile SP nu sunt transferabile și nu sunt divizibile, execpție fac cererile de conversie recursivă automate. Aceasta înseamnă că SP nu poate fi ușor schimbat pe schimburile de criptomonede.
+Utilizatorii au posibilitatea de a-și păstra STEEM pentru o perioadă de intrare în drepturi (vesting) de treisprezece săptămâni, oferindu-le beneficii adiționale în interiorul platformei. STEEM care a fost încredințat pe perioadă de intrare în drepturi (vesting) de treisprezece săpămâni este numi Putere Steem (SP). Soldurile SP nu sunt transferabile și nu sunt divizibile, execpție fac cererile de conversie recursivă automate. Aceasta înseamnă că SP nu poate fi ușor schimbat pe schimburile de criptomonede.
 
 Atunci când utilizatorii votează conținutul, ei influențează în mod propoțional direct distribuția recompeneselor, prin cantitatea de SP pe care o au. Utilizatorii cu mai mult SP au o influență mai mare asupra distribuției recompenselor. Aceasta însemnă că SP este un token care la permite deținătorilor să aibe mai multă putere pe pltforma Steem.
 
@@ -212,9 +212,9 @@ Scopul construirii unei comunități în jurul unei monede este să “atragă m
 
 ### Rate Limited Voting
 
-O mare parte din minimizarea abuzului este limitarea ratei de votare. Utilizatorii pot citi și evalua un anumit număr de elemente pe zi. Orice încercare de a vota mai frecvent este un semn al unei automatizări și al unui potențial abuz. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
+O mare parte din minimizarea abuzului este limitarea ratei de votare. Utilizatorii pot citi și evalua un anumit număr de elemente pe zi. Orice încercare de a vota mai frecvent este un semn al unei automatizări și al unui potențial abuz. Prin limitarea ratei de votare, votul deținătoriilor de interese care votează mai des, valorează mai puțin decât votul celor cărora votează mai rar. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
 
-Users are allotted a fixed amount of voting power. Voting power is multiplied by a user’s vesting tokens to determine how much share in the reward pool should be allocated to a given work item. Every vote that is cast uses a percentage of remaining voting power. Users can vote for more posts, but each vote will be worth less, and it will take longer to reach full voting power again. Voting power recharges at a fixed linear rate of 20% per day.
+Utilizatoriilor le este atribuită o sumă fixă pentru puterea votului. Voting power is multiplied by a user’s vesting tokens to determine how much share in the reward pool should be allocated to a given work item. Every vote that is cast uses a percentage of remaining voting power. Users can vote for more posts, but each vote will be worth less, and it will take longer to reach full voting power again. Voting power recharges at a fixed linear rate of 20% per day.
 
 ### Payout Distribution
 
