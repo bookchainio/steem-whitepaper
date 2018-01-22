@@ -218,7 +218,7 @@ Utilizatoriilor le este atribuită o sumă fixă pentru puterea votului. Puterea
 
 ### Payout Distribution
 
-One of the primary goals of Steem’s reward system is to produce the best discussions on the internet. Each and every year 75% of the yearly inflation is distributed to users submitting, voting on, and discussing content. At the size of Bitcoin this could be several million dollars per day being given to the top contributors.
+Unul dintre scopurile principale ale sistemului de recompensă ale Steem este să producă cele mai bune discuții pe internet. În fiecare an, 75% din inflația anuală este distribuită către utilizatorii care publică, votează și comentează conținut. At the size of Bitcoin this could be several million dollars per day being given to the top contributors.
 
 The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content.
 
