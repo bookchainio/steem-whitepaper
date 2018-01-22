@@ -226,11 +226,11 @@ Legea Zipf[^7] este una dintre regulile empirice care caracterizează o rată su
 
 ![](\img_the_new_marketplace.png)
 
-Taking popularity as a rough measure of value, then the value of each individual item is given by Zipf’s Law. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
+Luând popularitatea ca o măsură aproximativă de valoare, atunci valoarea fiecărui element individual este dat de legea Zipf. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. Valoarea colecției cu n elemente este proporțională cu log(n).
 
-The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
+Impactul acestei distribuții a votării și câștigurilor este oferirea compensațiilor contribuțiilor cu conținut bun, în timp ce se sunt recompensați și utilizatorii mai mici.
 
-The economic effect of this is similar to a lottery where people overestimate their probability of getting votes and thus do more work than the expected value of their reward and thereby maximize the total amount of work performed in service of the community. The fact that everyone “wins something” plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
+Efectul economic este similar cu o loterie unde oamenii supraestimează probabiliatea lor de a obține voturi și prin urmare muncesc mai mult pentru a-și maximiza munca totală. The fact that everyone “wins something” plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
 
 ### Payouts
 
