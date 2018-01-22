@@ -212,7 +212,7 @@ Scopul construirii unei comunități în jurul unei monede este să “atragă m
 
 ### Rate Limited Voting
 
-O mare parte din minimizarea abuzului este limitarea ratei de votare. Utilizatorii pot citi și evalua un anumit număr de elemente pe zi. Orice încercare de a vota mai frecvent este un semn al unei automatizări și al unui potențial abuz. Prin limitarea ratei de votare, votul deținătoriilor de interese care votează mai des, valorează mai puțin decât votul celor cărora votează mai rar. Încercările de a împărți tokeni între conturi multiple, duc și la împărțirea influenței și, prin urmare, nu luc la creșterea influenței și nici a ratei limită impuse prin vot.
+O mare parte din minimizarea abuzului este limitarea ratei de votare. Utilizatorii pot citi și evalua un anumit număr de elemente pe zi. Orice încercare de a vota mai frecvent este un semn al unei automatizări și al unui potențial abuz. Prin limitarea ratei de votare, votul deținătoriilor de interese care votează mai des, valorează mai puțin decât votul celor cărora votează mai rar. Încercările de a împărți tokeni între conturi multiple, duc și la împărțirea influenței și, prin urmare, nu duc la creșterea influenței și nici a ratei limită impuse prin vot.
 
 Utilizatoriilor le este atribuită o sumă fixă pentru puterea votului. Puterea de vot este multiplicată cu tokeni vesting (de intrare în drepturi) pentru a determina ce cotă este distribuită în bazinul de recompense pentru un anumit articol. Fiecare vot acordat folosește un anumit procentaj din puterea de vot rămasă. Utilizatorii pot vota pentru mai multe articole, dar votul lor o să valoreze mai puțin și o să dureze mai mult până când puterea de vot este completă. Puterea de vot se reface la o rată fixă liniară de 20%, pe zi.
 
@@ -234,9 +234,9 @@ Efectul economic este similar cu o loterie unde oamenii supraestimează probabil
 
 ### Câștiguri
 
-Când un articol primește un câștig, acesta se împarte în 50% SBD și 50% SP. Puterea Steem îi dă utilizatorului să crească puterea de votare, în timp ce SBD îi dă utilizatorului un beneficiu imediat, într-o monedă stabilă. Așa cum deja am discutat despre lungime, SP este conceput să încurajeze păstrarea monedelor pe termen lung, decât mai degrabă vinderea lor. This encourages more users to have a vested interest in the long-term success of the platform.
+Când un articol primește un câștig, acesta se împarte în 50% SBD și 50% SP. Puterea Steem îi dă utilizatorului să crească puterea de votare, în timp ce SBD îi dă utilizatorului un beneficiu imediat, într-o monedă stabilă. Așa cum deja am discutat despre lungime, SP este conceput să încurajeze păstrarea monedelor pe termen lung, decât mai degrabă vinderea lor. Acest lucru încurajează mai mulți utilizatori să investească în platformă, pe termen lung.
 
-Users also have the option to be paid in 100% SP, as well as decline payout on posts. When a user declines payout on a post, the money that would have been paid to them remains in the rewards pool, to be distributed to other users.
+Utilizatorii au, de asemenea, opțiunea să fie plătiți cu 100% SP, sau să refuze plata. Atunci când un utilizator refuză plata pentru un articol, câștigurile destinate lui se duc în bazinul de recompense, pentru a fi distrubuiți către alți utilizatori.
 
 # Consensus Algorithm
 
