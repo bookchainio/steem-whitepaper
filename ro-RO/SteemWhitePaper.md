@@ -230,11 +230,11 @@ Luând popularitatea ca o măsură aproximativă de valoare, atunci valoarea fie
 
 Impactul acestei distribuții a votării și câștigurilor este oferirea compensațiilor contribuțiilor cu conținut bun, în timp ce se sunt recompensați și utilizatorii mai mici.
 
-Efectul economic este similar cu o loterie unde oamenii supraestimează probabiliatea lor de a obține voturi și prin urmare muncesc mai mult pentru a-și maximiza munca totală. The fact that everyone “wins something” plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
+Efectul economic este similar cu o loterie unde oamenii supraestimează probabiliatea lor de a obține voturi și prin urmare muncesc mai mult pentru a-și maximiza munca totală. Faptul că toată lumea “câștigă ceva“ joacă pe aceași psihologie pe care o folosesc casinourile pentru a menține oamenii, în continuare, să parieze. Cu alte cuvinte, recompensele mici ajută la întărirea ideei că este posibil să obții recompense mai mari.
 
-### Payouts
+### Câștiguri
 
-When a post receives a payout it takes the form of 50% SBD and 50% SP. The Steem Power give the user increased voting and transaction power while the SBD gives the user an immediate benefit in a stable currency. As we’ve already discussed at length, SP is designed to encourage long-term holding rather than short-term selling. This encourages more users to have a vested interest in the long-term success of the platform.
+Când un articol primește un câștig, acesta se împarte în 50% SBD și 50% SP. Puterea Steem îi dă utilizatorului să crească puterea de votare, în timp ce SBD îi dă utilizatorului un beneficiu imediat, într-o monedă stabilă. As we’ve already discussed at length, SP is designed to encourage long-term holding rather than short-term selling. This encourages more users to have a vested interest in the long-term success of the platform.
 
 Users also have the option to be paid in 100% SP, as well as decline payout on posts. When a user declines payout on a post, the money that would have been paid to them remains in the rewards pool, to be distributed to other users.
 
