@@ -212,7 +212,7 @@ Scopul construirii unei comunități în jurul unei monede este să “atragă m
 
 ### Rate Limited Voting
 
-O mare parte din minimizarea abuzului este limitarea ratei de votare. Utilizatorii pot citi și evalua un anumit număr de elemente pe zi. Orice încercare de a vota mai frecvent este un semn al unei automatizări și al unui potențial abuz. Prin limitarea ratei de votare, votul deținătoriilor de interese care votează mai des, valorează mai puțin decât votul celor cărora votează mai rar. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
+O mare parte din minimizarea abuzului este limitarea ratei de votare. Utilizatorii pot citi și evalua un anumit număr de elemente pe zi. Orice încercare de a vota mai frecvent este un semn al unei automatizări și al unui potențial abuz. Prin limitarea ratei de votare, votul deținătoriilor de interese care votează mai des, valorează mai puțin decât votul celor cărora votează mai rar. Încercările de a împărți tokeni între conturi multiple, duc și la împărțirea influenței și, prin urmare, nu luc la creșterea influenței și nici a ratei limită impuse prin vot.
 
 Utilizatoriilor le este atribuită o sumă fixă pentru puterea votului. Voting power is multiplied by a user’s vesting tokens to determine how much share in the reward pool should be allocated to a given work item. Every vote that is cast uses a percentage of remaining voting power. Users can vote for more posts, but each vote will be worth less, and it will take longer to reach full voting power again. Voting power recharges at a fixed linear rate of 20% per day.
 
