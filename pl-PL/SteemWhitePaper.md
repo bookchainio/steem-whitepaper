@@ -497,7 +497,7 @@ Wolność słowa jest fundamentem wolności na całym świecie i jakiekolwiek na
 
 ## Rozwiązywanie trafności wyszukiwania poprzez Optymalizację Silnika Wyszukiwania
 
-Większość kryptowalut generuje małą wartość dla tych, którzy nie używają aktywnie sieci. Steem w przeciwieństwie do innych generuje treść i zachęca użytkowników do dzielenia się nią. Owa treść jest indeksowana przez silniki wyszukiwania, co wynikowo przynosi wartość dużej grupie pasywnych czytelników. Ten sieciowy ruch tworzy organiczną reklamę dla sieci Steem i wzmacnia efekt sieci.
+Większość kryptowalut generuje małą wartość dla tych, którzy nie używają aktywnie sieci. Steem w przeciwieństwie do innych generuje treść i zachęca użytkowników do dzielenia się nią. Owa treść jest indeksowana przez silniki wyszukiwania, co wynikowo przynosi wartość dużej grupie pasywnych czytelników. Ten sieciowy ruch tworzy organiczną reklamę dla sieci Steem i wzmacnia efekt sieci (z ang. network effect, przyp. tłum).
 
 ## Zmiana w kierunku technologii opartej na Blockchain
 
