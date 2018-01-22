@@ -1,16 +1,16 @@
 # Steem
 
-## An incentivized, blockchain-based, public content platform.
+## Uma plataforma de conteúdo incentivada, baseada em blockchain, pública.
 
 Agosto de 2017
 
 # Notas do Tradutor
 
-Placeholder for translator's notes.
+Espaço reservado para as notas do tradutor.
 
-# Abstract
+# Resumo
 
-Steem is a blockchain database that supports community building and social interaction with cryptocurrency rewards. Steem combines concepts from social media with lessons learned from building cryptocurrencies and their communities. An important key to inspiring participation in any community, currency or free market economy is a fair accounting system that consistently reflects each person's contribution. Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
+Steem é um blockchain banco de dados que ofereçe suporte ao desonvolvimento de uma comunidade e à interação social com cryptocurrency em recompensa. Steem combina conceitos da mídia social com lições aprendidas do desenvolvimento de criptomoedas e suas comunidades. An important key to inspiring participation in any community, currency or free market economy is a fair accounting system that consistently reflects each person's contribution. Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
 
 # Table of Contents
 
