@@ -489,15 +489,15 @@ Inną drogą, która pozwala użytkownikowi upłynnić małe ilości kryptowalut
 
 ## Cenzura
 
-Steem is a decentralized network that is operated by witnesses in jurisdictions around the world. All user actions are publicly recorded on the blockchain, and can be publicly verified. This means that there is no single entity that can censor content that is valued by STEEM holders.
+Steem jest zdecentralizowaną siecią, która kierowana jest przez strażników przez jurysdykcje z całego świata. Akcje każdego użytkownika są publicznie rejestrowane w łańcuchu blokow i mogą być zweryfikowane przez każdego. Oznacza to, że nie ma pojedynczej jednostki, która może cenzurować treść, która jest wyceniana przez posiadaczy STEEM.
 
-Individual websites such as steemit.com may censor content on their particular site, but content published on the blockchain is inherently broadcast traffic and mirrors all around the world may continue to make it available.
+Pojedyncze serwisy internetowe, takie jak steemit.com mogą cenzorować treść na konkretnie ich stronie, lecz treść publikowana do sieci blockchain jest z natury rozgłaszana do całego ruchu oraz kopii zapasowych rozsianych po całym świecie, co sprawia, że zawsze będzie dostępna.
 
-Freedom of speech is the foundation of all other liberties and any infringement upon freedom of speech undermines the only peaceful means of reaching consensus: discussion. Without free discussion voters cannot be fully informed, and uninformed voters are a greater threat to society than losing the right to vote. Censorship is a means of stealing votes through limiting public discourse. Steem is committed to enabling free speech and building a free society.
+Wolność słowa jest fundamentem wolności na całym świecie i jakiekolwiek naruszenie wolności słowa uniemożliwia jedyny pokojowy sposób osiągnięcia konsensusu: dyskusję. Bez możliwości wolnej dyskusji głosujący nie będą do końca poinformowani, a głosujący, którzy nie wiedzą na co głosują są większym zagrożeniem dla społeczeństwa niż utrata prawa głosu. Cenzura więc oznacza kradzież głosów poprzez ograniczanie publicznej dyskusji. Platforma Steem przyczynia się do rozpowszechniania wolności słowa i budowy wolnego społeczeństwa.
 
 ## Rozwiązywanie trafności wyszukiwania poprzez Optymalizację Silnika Wyszukiwania
 
-Most cryptocurrencies generate little value for those who are not actively using the network. Steem, by contrast, generates content and encourages users to share it. This content gets indexed by search engines and ultimately will bring value to a large number of passive users. This search traffic creates organic advertising for the Steem network and grows the network effect.
+Większość kryptowalut generuje małą wartość dla tych, którzy nie używają aktywnie sieci. Steem w przeciwieństwie do innych generuje treść i zachęca użytkowników do dzielenia się nią. Owa treść jest indeksowana przez silniki wyszukiwania, co wynikowo przynosi wartość dużej grupie pasywnych czytelników. Ten sieciowy ruch tworzy organiczną reklamę dla sieci Steem i wzmacnia efekt sieci.
 
 ## Zmiana w kierunku technologii opartej na Blockchain
 
