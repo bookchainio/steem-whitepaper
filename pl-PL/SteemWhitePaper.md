@@ -26,7 +26,7 @@ Drugą zasadą jest fakt, iż każda forma kapitału jest tak samo wartościowa.
 
 Trzecia zasadą jest fakt, iż społeczność produkuje wyroby, by służyć jej członkom. Ta zasada jest ilustrowana przez unie kredytowe, kooperacje żywnościowe i grupowe ubezpieczenia zdrowotne, które służą członkom ich społeczności, a nie sprzedają produkty lub usługi poza społeczność.
 
-Spis Treści:
+Społeczność Steem dostarcza jej członkom następujące usługi:
 
 1. Źródło ocenianych wiadomości i komentarzy.
 2. Środki do uzyskania wartościowych odpowiedzi do spersonalizowanych pytań.
@@ -479,7 +479,7 @@ Platforma Steem rozwiązuje ten problem przez zapłacenie użytkownikowi za pros
 
 ## Rozwiązywanie problemu upłynniania kryptowaluty
 
-A currency that is difficult to use or impossible to sell has little value. Someone who comes across $1.00 worth of Bitcoin will discover that it costs more than $1.00 to sell that Bitcoin. They have to create an account with an exchange, perform KYC validation, and pay fees. Small amounts of cryptocurrency are like small change that people are unwilling to bend over to pick up.
+Waluta której nie można, lub trudno ją sprzedać ma niską wartość. Ktoś spotka się z Bitcoinem o wartości 1.00$ szybko odkryje, że koszt sprzedaży jest większy wartość tego Bitcoina. Musi także stworzyć konto na giełdzie, potiwerdzić swoją tożsamość oraz zapłacić od tego podatek. Małe kwoty kryptowaluty są jak reszta z zakupów, której nie można odebrać.
 
 Merchants give users a way to quickly convert their cryptocurrency into tangible goods and services. Merchants need a currency pegged to their unit of account, normally dollars. Accepting a volatile currency introduces significant accounting overhead.
 
