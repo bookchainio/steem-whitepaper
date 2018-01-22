@@ -234,7 +234,7 @@ Efectul economic este similar cu o loterie unde oamenii supraestimează probabil
 
 ### Câștiguri
 
-Când un articol primește un câștig, acesta se împarte în 50% SBD și 50% SP. Puterea Steem îi dă utilizatorului să crească puterea de votare, în timp ce SBD îi dă utilizatorului un beneficiu imediat, într-o monedă stabilă. As we’ve already discussed at length, SP is designed to encourage long-term holding rather than short-term selling. This encourages more users to have a vested interest in the long-term success of the platform.
+Când un articol primește un câștig, acesta se împarte în 50% SBD și 50% SP. Puterea Steem îi dă utilizatorului să crească puterea de votare, în timp ce SBD îi dă utilizatorului un beneficiu imediat, într-o monedă stabilă. Așa cum deja am discutat despre lungime, SP este conceput să încurajeze păstrarea monedelor pe termen lung, decât mai degrabă vinderea lor. This encourages more users to have a vested interest in the long-term success of the platform.
 
 Users also have the option to be paid in 100% SP, as well as decline payout on posts. When a user declines payout on a post, the money that would have been paid to them remains in the rewards pool, to be distributed to other users.
 
