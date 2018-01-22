@@ -216,11 +216,11 @@ O mare parte din minimizarea abuzului este limitarea ratei de votare. Utilizator
 
 Utilizatoriilor le este atribuită o sumă fixă pentru puterea votului. Puterea de vot este multiplicată cu tokeni vesting (de intrare în drepturi) pentru a determina ce cotă este distribuită în bazinul de recompense pentru un anumit articol. Fiecare vot acordat folosește un anumit procentaj din puterea de vot rămasă. Utilizatorii pot vota pentru mai multe articole, dar votul lor o să valoreze mai puțin și o să dureze mai mult până când puterea de vot este completă. Puterea de vot se reface la o rată fixă liniară de 20%, pe zi.
 
-### Payout Distribution
+### Distribuția Câștigurilor
 
-Unul dintre scopurile principale ale sistemului de recompensă ale Steem este să producă cele mai bune discuții pe internet. În fiecare an, 75% din inflația anuală este distribuită către utilizatorii care publică, votează și comentează conținut. At the size of Bitcoin this could be several million dollars per day being given to the top contributors.
+Unul dintre scopurile principale ale sistemului de recompensă ale Steem este să producă cele mai bune discuții pe internet. În fiecare an, 75% din inflația anuală este distribuită către utilizatorii care publică, votează și comentează conținut. La mărimea Bitcoin, acest lucru ar putea valora, pentru contribuitorii cei mai de succes, câteva milioane de dolari pe zi.
 
-The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content.
+Distribuția actuală o să depindă de modelele de votare ale utilizatorilor, dar noi presupunem că majoritatea recompenselor va merge către conținutul cel mai popular.
 
 Zipf’s Law[^7] is one of those empirical rules that characterize a surprising range of real-world phenomena remarkably well. It says that if we order some large collection by size or popularity, the second element in the collection will be about half the measure of the first one, the third one will be about one-third the measure of the first one, and so on. In general, the k th-ranked item will measure about 1/k of the first one.
 
