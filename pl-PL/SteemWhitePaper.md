@@ -481,11 +481,11 @@ Platforma Steem rozwiązuje ten problem przez zapłacenie użytkownikowi za pros
 
 Waluta której nie można, lub trudno ją sprzedać ma niską wartość. Ktoś spotka się z Bitcoinem o wartości 1.00$ szybko odkryje, że koszt sprzedaży jest większy wartość tego Bitcoina. Musi także stworzyć konto na giełdzie, potiwerdzić swoją tożsamość oraz zapłacić od tego podatek. Małe kwoty kryptowaluty są jak reszta z zakupów, której nie można odebrać.
 
-Merchants give users a way to quickly convert their cryptocurrency into tangible goods and services. Merchants need a currency pegged to their unit of account, normally dollars. Accepting a volatile currency introduces significant accounting overhead.
+Handlowcy dają użytkownikom możliwość szybkiej konwersji ich kryptowaluty na rzeczywiste dobra i serwisy. Potrzebują więc oni waluty powiązanej z jednostką używaną przez konto, zazwyczaj dolara. Akceptowanie nieprzewidywalnej waluty prowadzi do znaczących kosztów ogólnych związanych z prowadzeniem konta.
 
-Merchants will accept any currency if it increases their sales. Having a large user base with a stable currency such as SBD lowers the barrier to entry for merchants. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
+Handlowcy zaakceptują każdą walutę, jeśli zwiększy ona ich sprzedaż. Posiadanie dużej bazy użytkowników posiadających stabilną walutę, taką jak SBD zmniejsza próg wejścia dla handlowców. Obecność handlowców polepsza system poprzez projektowania swego rodzaju łagodne zejście dla użytkowników chcących odejść, nie wprawiając systemu w kłopoty powodowane wymianą.
 
-Another way that people can liquidate the small amounts of cryptocurrency they receive from participating on the Steem platform is through *tipping* others. This is like leaving the small change as a tip for your waiter. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
+Inną drogą, która pozwala użytkownikowi upłynnić małe ilości kryptowaluty otrzymanej poprzez przyczynianie się społeczności Steem może być *dawanie napiwków* innym użytkownikom. Analogią może być zostawienie napiwku dla kelnera podczas wyjścia z restauracji. Kiedy wystarczająco wielu ludzi zostawi małe napiwki, sumują się one do znaczącej kwoty. Zarówno kelner jak i ty korzystacie z napiwku.
 
 ## Cenzura
 
