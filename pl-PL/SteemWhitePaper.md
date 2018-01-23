@@ -128,7 +128,7 @@ Jeżeli token jest postrzegany jako własność w całej podaży żetonów, wted
 
 Szybka zmiana w wartości STEEM może znacząco zmienić wartość współczynnika długu do własności. Technologia blockchain zapobiega egzystencji zbyt wysokiego współczynnika długu do własności poprzez redukowanie emisji STEEM uzyskiwanego w wyniku wymiany SBD, jeśli poziom długu przekroczy 10%. Jeżeli ilość długu SBD kiedykolwiek przekroczy 10% całkowitej wartości rynku steem, blockchain automatycznie zredukuje ilość generowanego STEEM poprzez konwersje do maksymalnie 10% wartości rynku. Instrument ten gwarantuje, że współczynnik długu do własności w blockchainie nigdy nie przekroczy 10%.
 
-The percentage floors used to compute STEEM creation are based on the supply including the STEEM value of all outstanding SBD and SP (as determined by the current rate / feed).
+Dolne limity trudności obliczania procesu wytwarzania STEEM bazowane są na aktualnej podaży, włączając w to wartość rynku STEEM, lecz wyróżniając ją spośród wartości ryków SBD oraz SP (determinowane przez aktualny współczynnik popytu/podaży).
 
 ### Udziały
 
