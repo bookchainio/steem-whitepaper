@@ -64,13 +64,13 @@ Ten rozdział nakreśla idee idące za platformą Steem oraz możliwe wynagrodze
 
 ## Wniesienie funduszy
 
-Istnieją dwa towary, które społeczność może zaoferować by przyciągnąć kapitał: wierzytelność oraz własność. Ci, którzy nabywają własność zyskują, gdy społeczność się rozwija, lecz tracą, gdy społeczność zmniejsza się. Z drugiej strony Ci, którzy nabywają dług mają zapewnioną określoną część udziału, lecz tym samym nie uczestniczą w żadnym podziale zysków, gdy społeczność rośnie. Oba typy wniesienia funduszy są wartościowe dla rozwoju społeczności i jest wartością samą w sobie. Co więcej, istnieją dwa sposoby, na który własność może być przechowywana: może być ona płynna oraz nadana. Nadawana własność tworzy długofalowy wkład i nie może zostać odsprzedana w małym okresie czasu.
+Istnieją dwa towary, które społeczność może zaoferować by przyciągnąć kapitał: wierzytelność oraz własność. Ci, którzy nabywają własność zyskują, gdy społeczność się rozwija, lecz tracą, gdy społeczność zmniejsza się. Z drugiej strony Ci, którzy nabywają wierzytelność, mają zapewnioną określoną część udziału, ale zarazem nie uczestniczą w żadnym podziale zysków uzyskanych wskutek rozwoju społeczności. Oba sposoby finansowania są wartościowe dla rozwoju społeczności i stanowią wartość samą w sobie. Co więcej, istnieją dwa sposoby, na który własność może być przechowywana: może być ona płynna oraz nadana. Nadawana własność tworzy długofalowe zobowiązanie i nie może zostać odsprzedana w krótkim okresie czasu.
 
 Sieć Steem nazywa te trzy różne typy aktywów jako: Steem (STEEM), Steem Power (SP) oraz Steem Dollars, znane także jako Steem Blockchain Dollars (SBD).
 
 ## Steem (STEEM)
 
-Steem jest fundamentalną jednostką każdego konta opartego o blockchain platformy Steem. Wszystkie inne tokeny czerpią ich wartość z wartości ich odpowiednika w STEEM. STEEM jest płynną walutą, dlatego też może być wymieniany na zewnętrznych giełdach lub przekazywany innym użytkownikom w formie przelewu, lub jako forma zapłaty.
+Steem jest fundamentalną jednostką każdego konta opartego o blockchain platformy Steem. Wszystkie inne tokeny czerpią ich wartość z wartości ich odpowiednika w STEEM. STEEM jest płynną walutą, dlatego też może być wymieniany na zewnętrznych giełdach lub przekazywany innym użytkownikom jako swoisty rodzaj zapłaty.
 
 ## Steem Power (SP)
 
@@ -78,7 +78,7 @@ Nowo-założone firmy potrzebują formy otrzymywania długofalowego kapitału. C
 
 Istnieje znacząca wartość posiadania mechanizmu zachęcającego do inwestowania na dłuższą perspektywę czasu, ponieważ pozwala to społecznościom na snucie długofalowych planowanów. Długoterminowy wkład interesariuszy zmusza ich także do podejmowania decyzji, które powodują stabilny wzrost w dłuższej perspektywie czasu, zamiast podejmowania pochopnych decyzji, które pompują wartość tylko na chwilę.
 
-W przestrzeni kryptowalut, spekulanci skaczą z jednej kryptowaluty na drugą, bazując głównie na tym, po której z nich można się spodziewać krótkoterminowego wzrostu. Platforma Steem chce zbudować niezależną społeczność, która podejmuje świadome decyzje, kierowane długoterminową perspektywą.
+W przestrzeni kryptowalut, spekulanci skaczą z jednej kryptowaluty na drugą, bazując głównie na tym, po której z nich można się spodziewać krótkoterminowego wzrostu. Platforma Steem chce zbudować niezależną społeczność, która podejmuje świadome decyzje, kierując się długoterminową perspektywą.
 
 Użytkownicy są w stanie przeznaczyć swój STEEM na rzecz trzynastotygodniowego Harmonogramu Nadawania (z ang. Vesting Schedule - przyp. tłum.), otrzymując prz tym dodatkowe korzyści wewnątrz platformy. Steem, który został przeznaczony na rzecz trzynastotygodniowego Harmonogramu Nadawania nazywany jest Steem Power (SP) (w woln. tłum. Siłą Głosu Użytkownika - przyp. tłum.). Środki ulokowane w SP są nietransferowalne oraz niepodzielne, za wyjątkiem powtarzających się żądań konwersji. Oznacza to, iż SP nie może być łatwo sprzedane na giełdach kryptowalutowych.
 
@@ -98,7 +98,7 @@ Dolary Steem odwołują się do symbolu SBD, akronimu od Steem Blockchain Dollar
 
 ### Minimalizowanie oszustw kursu notowań
 
-Posiadacze SP głosują na jednostki, zwane świadkami (z ang. witnesses), by Ci publikowali notowania kursów. Wybrani świadkowie są przypuszczalnie godni zaufania tych, którym zależy na jakości wartości kursu. Wynagradzając tych, którzy zostali wybrani, platforma Steem tworzy gospodarkową konkurencję, której celem jest zdobycie prawa do ustalania wartości kursu. Im więcej producenci wysokości kursu otrzymują, tym więcej mogą stracić poprzez publikowanie przekłamanych informacji.
+Posiadacze SP głosują na osoby zwane świadkami (z ang. witnesses), których zadaniem jest publikowanie notowania kursów. Wybrani świadkowie są przypuszczalnie godni zaufania tych, którym zależy na jakości wartości kursu. Wynagradzając tych, którzy zostali wybrani, platforma Steem tworzy gospodarkową konkurencję, której celem jest zdobycie prawa do ustalania wartości kursu. Im więcej producenci wysokości kursu otrzymują, tym więcej mogą stracić poprzez publikowanie przekłamanych informacji.
 
 Posiadając grupę zaufanych oraz demokratycznie wybranych producentów kursu, aktualna cena używana do wymiany może zostać wyznaczona jako mediana propozycji. Tym sposobem, jeżeli jakakolwiek mniejszość lub jednostka wśród producentów kursu wytworzy zaniżoną lub zawyżoną wartość ma ona minimalny wpływ na faktyczną medianę, podczas gdy cały czas posiada możliwość wpływania na swoją reputację.
 
