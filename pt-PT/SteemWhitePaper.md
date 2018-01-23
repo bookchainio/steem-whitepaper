@@ -12,11 +12,11 @@ Espaço reservado para as notas do tradutor.
 
 Steem é um blockchain banco de dados que ofereçe suporte ao desonvolvimento de uma comunidade e à interação social com cryptocurrency em recompensa. Steem combina conceitos da mídia social com lições aprendidas do desenvolvimento de criptomoedas e suas comunidades. Uma chave importante para inspirar a participação em qualquer comunidade, moeda ou economia de mercado livre é um sistema justo de contabilidade que consistentemente reflete a contribuição de cada pessoa. Steem é a primeira criptomoeda que tenta com precisão e transparentemente premiar um número indeterminado de indivíduos que fazem * contribuições subjetivas * para sua comunidade.
 
-# Table of Contents
+# Tabela de conteúdos
 
 <!-- toc -->
 
-# Introduction
+# Introdução
 
 Collectively, user-generated content has created billions of dollars worth of value for the shareholders of social media companies, such as Reddit, Facebook, and Twitter. **In 2014, Reddit hypothesized that its platform would be improved if everyone who contributed to reddit.com by posting stories, adding comments or voting were rewarded with a fair share in Reddit, Inc.[^1]**. Steem aims to support social media and online communities by returning much of its value to the people who provide valuable contributions by rewarding them with cryptocurrency, and through this process create a currency that is able to reach a broad market, including people who have yet to participate in any cryptocurrency economy.
 
