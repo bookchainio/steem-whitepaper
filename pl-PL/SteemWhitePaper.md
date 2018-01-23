@@ -509,7 +509,7 @@ Podczas gdy serwis udostępniający znaczniki czasu mógłby zostać zbudowany n
 
 ## Zamiana reklam na nagrody dla twórców treści oparte o technologię Blockchain
 
-Mając na uwadze większość modeli monetyzacji treści, twórcy uginają się pod naciskiem publikowania reklam w różnych formach. Many creators recognize how advertising may diminish their work’s value to the consumer, yet creators very often must seek returns on their time by monetizing. Advertising represents a double-edged sword: With ads, a creator can make money most easily. Without ads, monetization is difficult but the content is richer.
+Mając na uwadze większość modeli monetyzacji treści, twórcy uginają się pod naciskiem publikowania reklam w różnych formach. Wielu twórców zdaje sobie sprawę, jak reklama może zmniejszać wartość ich pracy dla konsumenta, ale i tak bardzo często muszą oni szukać zapłaty za ich pracę w takiej formie monetyzacji treści. Reklama stanowi swego rodzaju obusieczny miecz: Z reklamami, twórca może najłatwiej zarabiać pieniądze. Bez nich monetyzacja jest trudna, jednak treść bogatsza.
 
 Creators posting to social media outlets that are connected to Steem may monetize merely by having their work recognized (or ”liked”) by the Steem community. Blockchain-based payouts are completely digital and have no middle-man. Therefore monetization by blockchain-based content rewards should be faster and much lower barrier to use than monetization by advertisements.
 
