@@ -24,7 +24,7 @@ Existem alguns princípios-chave que têm sido usados para guiar o projeto Steem
 
 O segundo princípio é que todas as formas de capital são igualmente valiosas. Isto significa que aqueles que contribuem o seu escasso tempo e atenção para a produção e desenvolvimento de conteúdo para os outros são tão valiosos quanto aqueles que contribuem com seu dinheiro escasso. Este é o princípio de equidade suor [^2] e é um conceito que criptomoedas prévias frequentemente tinham problemas fornecendo a mais que algumas dezenas de indivíduos.
 
-O terceiro princípio é que a comunidade produz produtos para servir a seus membros. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
+O terceiro princípio é que a comunidade produz produtos para servir a seus membros. Este princípio é exemplificado por cooperativas de crédito, cooperativas de alimentos e partilha planos de saúde, que servem os membros de sua comunidade, ao invés de venderemm produtos ou serviços para pessoas fora da Comunidade.
 
 A Comunidade do Steem fornece os seguintes serviços aos seus membros:
 
@@ -32,9 +32,9 @@ A Comunidade do Steem fornece os seguintes serviços aos seus membros:
 2. Um meio para obter alta qualidade de respostas para perguntas personalizadas.
 3. Um criptomoeda estável, fixada ao dólar americano.
 4. Pagamentos gratuitos.
-5. Jobs providing above services to other members.
+5. Empregos, proporcionando acima de serviços a outros membros.
 
-Steem’s purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem’s incentives may result in better outcomes for most participants.
+Realinhamento de proposital do steem dos incentivos económicos tem potencial para produzir resultados mais justos e mais inclusivos para todos os envolvidos do que a mídia social e plataformas de criptomoeda que foram antes dele. Este trabalho irá explorar os incentivos económicos existentes e demonstrar como incentivos do Steem podem resultar em melhores resultados para a maioria dos participantes.
 
 ## Recognizing Contribution
 
