@@ -20,17 +20,17 @@ Steem jest bazą danych opartą o technologię blockchain. Wspiera on budowanie 
 
 Udziałówcy spółek działających w opaciu o media społecznościwe, takich jak Reddit, Facebook czy Twitter, zarobili łącznie wiele milionów dolarów dzięki materiałom wygenerowanym przez swoich użytkowników. **W 2014 roku Reddit postawił hipotezę, że ich platforma mogłaby zostać udoskonalona, gdyby każdy, kto wniósł coś do reddit.com poprzez publikowanie treści, komentowanie lub głosowanie, byłby nagradzany odpowiednią ilością udziałów w Reddit, Inc. [^1]**. Steem stara się wspierać media społecznościowe oraz internetowe społeczności poprzez zwracanie większej części jego wartości do ludzi, którzy dostarczają wartościowego wkładu poprzez nagrodę w postaci kryptowaluty, jednocześnie tworząc kryptowalutę, która jest w stanie dotrzeć do szerokiego grona odbiorców, wliczając w to ludzi, który nigdy nie mieli styczności z ekonomią kryptowalut.
 
-Istnieje parę kluczowych kwestii, które przewodziły procesowi projektowania ekosystemu Steem. Najważniejszą zasadą jest fakt, iż każdy, kto przyczynia się do rozwoju przedsięwzięcia, powinien dostać za to zapłatę, udział we współwłasności lub wierzytelność w stosunku do przedsiębiorstwa. Ta zasada jest tym samym, co jest stosowane we wszystkich startupach, które alokują udziały w funduszach oraz podczas dalszych etapów finansowania.
+Istnieje parę kluczowych kwestii, które przewodziły procesowi projektowania ekosystemu Steem. Najważniejszą zasadą jest fakt, iż każdy, kto przyczynia się do rozwoju przedsięwzięcia, powinien dostać za to zapłatę, udział we współwłasności lub wierzytelność w stosunku do przedsiębiorstwa. Ta zasada jest stosowana we wszystkich startupach poprzez właściwe alokowanie udziałów na etapie tworzenia i rozwoju przedsiębiorstw.
 
 Druga zasada brzmi, iż każda forma kapitału jest tak samo wartościowa. Oznacza to, że wkład tych ludzi, który poświęcają swój cenny czas i uwagę na tworzenie materiałów oraz ocenianie treści publikowanych przez innych, jest tak samo wartościowy, jak udziały tych osób, którzy przeznaczają na to swoje środki finansowe. Nazywa się to "zasadą równości potu"[^2] i jest to koncept, przez który poprzednie kryptowaluty często borykały się z problemem zaopatrywania więcej niż tylko małej grupy jednostek.
 
-Trzecia zasada brzmi, iż społeczność wytwarza produkty, które mają za zadanie służyć jej członkom. Ta zasada jest ilustrowana przez unie kredytowe, kooperacje żywnościowe i grupowe ubezpieczenia zdrowotne, które służą członkom ich społeczności, a nie sprzedają produków lub usług poza społeczność.
+Trzecia zasada brzmi, iż społeczność wytwarza produkty, które mają za zadanie służyć jej członkom. Ta zasada jest ilustrowana przez unie kredytowe, kooperatywy spożywcze i grupowe ubezpieczenia zdrowotne, które służą swoim członkom, zamiast sprzedawać produkty lub usługi poza społeczność.
 
 Społeczność Steem dostarcza swoim członkom następujące usługi:
 
-1. Źródło ocenianych wiadomości i komentarzy.
-2. Środki do uzyskania wartościowych odpowiedzi do spersonalizowanych pytań.
-3. Stabilną kryptowalutę, której ustalana w ścisłym odniesieniu do Dolara Amerykańskiego.
+1. - jest źródłem wiadomości i komentarzy, które podlegają ocenie innych użytkowników
+2. - dostarcza środków do uzyskania wartościowych odpowiedzi na spersonalizowane pytania
+3. - wypuszcza stabilną kryptowalutę, której wartość jest ustalana w ścisłym odniesieniu do amerykańskiego dolara
 4. Darmowe płatności.
 5. Miejsca pracy dostarczane innym użytkownikom poprzez wyżej wymienione usługi.
 
