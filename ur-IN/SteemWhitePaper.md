@@ -370,13 +370,13 @@ SBD ہولڈران کو سود ادا کرتا ہے. سود کی شرح ان ہ�
 
 دوسرے طریقے سے بیان کیا جائے تو، ایک ٹرانزیکشن کی فیس کم از کم ضروری اکاونٹ بیلنس (جو ہفتہ میں ایک بار ٹرانزیکشن کرنے کے لئے ضروری ہے) کے برابر ہونی چاہئیے اور اسے ہفتے کے اختتام پر واپسی کردینا چاہئیے. فرض کریں کہ کم از کم ضروری اکاونٹ بیلنس ایک ڈالر ہے اور یہ کسی کو ہفتے میں ایک بار ٹرانزیکشن کرنے کی اجازت دیتا ہے. اگر کوئی ایک ڈالر بیلنس کے ساتھ پانچ ٹرانزیکشن (لین دین) ایک ساتھ کرنا چاہتے ہیں تو انہیں اپنے بیلنس کو ایک ہفتے کے لئے پانچ ڈالر تک بڑھانا ہوگا یا تو لین دین سے پہلے یا پھر لین دین کے بعد.
 
-نظریے کے تحت ایک مارکیٹ تشکیل دی جا سکتی ہے جہاں صارفین اپنی ضروری رقم قرض کے طور پر لے سکتے ہیں. عملی طور پر یہ صارفین کے لئے زیادہ موثر ہے کہ وہ سادہ طور پر اپنے استفادہ کی شرح کے مطابق ضروری تقسیم وقت کے حصص کی خرید و فروخت کریں. In other words, the cost of negotiating micro-loans is greater than the cost of maintaining a balance suitable for your maximum weekly usage.
+نظریے کے تحت ایک مارکیٹ تشکیل دی جا سکتی ہے جہاں صارفین اپنی ضروری رقم قرض کے طور پر لے سکتے ہیں. عملی طور پر یہ صارفین کے لئے زیادہ موثر ہے کہ وہ سادہ طور پر اپنے استفادہ کی شرح کے مطابق ضروری تقسیم وقت کے حصص کی خرید و فروخت کریں. دوسرے لفظوں میں، چھوٹے قرضوں پر بات چیت کی لاگت اپنی ہفتہ وارمطلوبہ شرح استفادہ کے لئے مناسب بیلنس برقرار رکھنے سے زیادہ ہے.
 
-Decentralized rate limiting of transactions can enable new types of decentralized applications that were not viable when every use of the application required a micropayment. This new model gives application developers the ability to decide if and when to charge their users for transactions.
+لین دین کی غیرمرکزی شرح محدود غیرمرکزی ایپلیکیشنز کی نئی اقسام کو قابل بنا سکتی ہے جو اس وقت قابل عمل نہیں تھیں جب ایپلیکیشن کا ہر استعمال چھوٹی ادائیگی کا تقاضا کرتا تھا. یہ نیا نمونہ ایپلیکیشنز بنانے والوں کو یہ فیصلہ کرنے کی صلاحیت دیتا ہے کہ اگر اور کب صارفین سے لین دین پر کٹوتی کی جائے.
 
-# Performance and Scalability
+# کارکردگی اور پیمائش کی قابلیت
 
-The Steem network is built upon Graphene, the same technology that powers BitShares. Graphene has been publicly demonstrated sustaining over 1000 transactions per second on a distributed test network. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
+سٹیم نیٹ ورک گرافین پر بنایا گیا ہے، وہی ٹیکنالوجی جو بٹشیئرز کو چلاتی ہے. گرافین کو تقسیم شدہ ٹیسٹ نیٹ ورک پر فی سیکنڈ ہزار ٹرانزیکشن سے زیادہ برقرار رکھتے ہوئے ثابت کیا گیا ہے. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
 
 ## Reddit Scale
 
