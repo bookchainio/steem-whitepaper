@@ -31,18 +31,18 @@ Społeczność Steem dostarcza swoim członkom następujące usługi:
 1. - jest źródłem wiadomości i komentarzy, które podlegają ocenie innych użytkowników
 2. - dostarcza środków do uzyskania wartościowych odpowiedzi na spersonalizowane pytania
 3. - wypuszcza stabilną kryptowalutę, której wartość jest ustalana w ścisłym odniesieniu do amerykańskiego dolara
-4. Darmowe płatności.
-5. Miejsca pracy dostarczane innym użytkownikom poprzez wyżej wymienione usługi.
+4. - umożliwia darmowe płatności
+5. - poprzez wyżej wymienione usługi zapewnia swoim użytkownikom miejsca pracy
 
 Celowa reorganizacja bodźców ekonomii Steem ma potencjał do produkowania bardziej kompletnych i sprawiedliwych rezultatów dla każdego zaangażowanego w media społecznościowe i platformy krytowalut bardziej niż kiedykolwiek wcześniej. Ten dokument zgłębi istnięjące ekonomiczne bodźce i zademonstruje jak zachęty platformy Steem mogą doprowadzić do lepszych rezultatów dla większości uczestników.
 
 ## Rozpoznawanie wkładu
 
-Steem jest zaprojektowany od podstaw by przełamać większość barier w drodze do przyjęcia i monetaryzacji ekonomii opartej o media społecznościowe. Według nas, techniki, które pozwoliły na rozwój największych platform mediów społecznościowych mogą zostać użyte to stworzenia kryptowaluty, która ma szansę odnieść sukces. Zachęta ze strony ekonomii umożliwiona przez kryptowalutę może diametralnie ułatwić wzrost nowej platformy mediów społecznościowych. Synergia pomiędzy kryptowalutą a mediami społecznościowymi jest czymś, w co wierzymy, że może dać ekosystemowi Steem potężną przewagę na rynku.
+Steem został zaprojektowany od podstaw w ten sposób, żeby przełamać większość barier w drodze do przyjęcia i monetaryzacji ekonomii opartej o media społecznościowe. Według nas, techniki, które pozwoliły na rozwój największych serwisów społecznościowych, mogą zostać użyte do stworzenia kryptowaluty, która ma szansę odnieść sukces. Zachęta ze strony ekonomii umożliwiona przez kryptowalutę może diametralnie ułatwić wzrost nowej platformy mediów społecznościowych. Synergia pomiędzy kryptowalutą a mediami społecznościowymi jest czymś, w co wierzymy, że może dać ekosystemowi Steem potężną przewagę na rynku.
 
 Wyzwaniem, któremu Steem stawia czoła jest dostarczanie algorytmu, który nagradza indywidualny wkład, który jest poddawany sprawiedliwej ocenie większości członków społeczności, pod postacią subiektywnej wartości każdego wkładu z osobna. W idealnym świecie, członkowie społeczności współpracowaliby aby oceniać wkład innych oraz dostarczać sprawiedliwe wynagrodzenie. Jednak w prawdziwym świecie algorytmy muszą być zaprojektowane w taki sposób, by być odpornym na globalne manipulacje w celach zysku. Jakiekolwiek powszechne nadużycie systemu oceniania mógłby spowodować utratę wiary członków społeczności w zauważalną sprawiedliwość systemu ekonomicznego.
 
-Istniejące platformy bazują na systemie jeden użytkownik - jeden głos. Stwarza to środowisko, w którym rankingi mogą być manipulowane poprzez oddawanie głosów z bezużytecznych, nowo-powstałych kont, ponadto twórcy systemu muszą prewencyjnie identyfikować i blokować potencjalne osoby nadużywające system. Ludzie już teraz próbują manipulować Redditem, Facebookiem czy Twitterem tworząc algorytmy, których jedynym wynikiem jest wytworzenie sztucznego ruchu sieciowego, bądź cenzura.
+Istniejące platformy bazują na systemie jeden użytkownik - jeden głos. Stwarza to środowisko, w którym rankingi mogą być manipulowane poprzez oddawanie głosów z bezużytecznych, nowo-powstałych kont. Co więcej, twórcy systemu muszą prewencyjnie identyfikować i blokować osoby, które mogą potencjalnie nadużywać system. Ludzie już teraz próbują manipulować Redditem, Facebookiem czy Twitterem, tworząc algorytmy, których jedynym celem jest wytworzenie sztucznego ruchu sieciowego, bądź cenzurowanie treści.
 
 Fundamentalną jednostką każdego konta platformy Steem jest STEEM, token w postaci kryptowaluty. Operacje na platformie Steem są oparte o system, w którym jeden token STEEM to jeden głos. W tym modelu, indywidua, które przyczyniają się dla platformy najbardziej, co można zmierzyć poprzez saldo konta, mają największy wpływ na to, jak wysoko oceniany jest inny wkład. Co więcej, platforma Steem pozwala członkom na głosowanie za pomocą STEEM tylko i wyłącznie wtedy, gdy głos zostanie dodany do harmonogramu nadawania nagród (z ang. Vesting Schedule, przyp. tłum.). W tym modelu, członkowie mają finansową zachętę do głosowania, w sposób, który maksymalizuje długofalową wartość ich STEEM.
 
