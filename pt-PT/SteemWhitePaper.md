@@ -18,20 +18,20 @@ Steem é um blockchain banco de dados que ofereçe suporte ao desonvolvimento de
 
 # Introdução
 
-Coletivamente, conteúdo gerado pelo usuário criou bilhões de dólares de valor para os acionistas das empresas de mídia social, como o Twitter, Facebook e Reddit. **Em 2014, Reddit hipotisou de que a plataforma seria maior se todos que contribuíram para oreddit.com por postar histórias, adicionar comentários ou votação fossem recompensadas com um compartilhamento justo no Reddit, Inc. [^1]**. Steem aims to support social media and online communities by returning much of its value to the people who provide valuable contributions by rewarding them with cryptocurrency, and through this process create a currency that is able to reach a broad market, including people who have yet to participate in any cryptocurrency economy.
+Coletivamente, conteúdo gerado pelo usuário criou bilhões de dólares de valor para os acionistas das empresas de mídia social, como o Twitter, Facebook e Reddit. **Em 2014, Reddit hipotisou de que a plataforma seria maior se todos que contribuíram para oreddit.com por postar histórias, adicionar comentários ou votação fossem recompensadas com um compartilhamento justo no Reddit, Inc. [^1]**. Steem visa apoiar as mídias sociais e comunidades on-line, retornando muito do seu valor para as pessoas que fornecem contribuições valiosas recompensando-os com criptomoedas e através deste processo criar uma moeda que é capaz de atingir um mercado amplo, incluindo pessoas que ainda têm de participar em qualquer economia de criptomoeda.
 
-There are some key principles that have been used to guide the design of Steem. The most important principle is that everyone who contributes to a venture should receive pro-rata ownership, payment or debt from the venture. This principle is the same principle that is applied to all startups as they allocate shares at founding and during subsequent funding rounds.
+Existem alguns princípios-chave que têm sido usados para guiar o projeto Steem. O princípio mais importante é que todos que contribuem para um empreendimento devem receber apropriação pro-rata, pagamento ou dívida do empreendimento. Este princípio é o mesmo princípio que é aplicado a todos os iniciantes enquanto eles alocam as ações na fundação e durante rondas subsequentes de financiamento.
 
-The second principle is that all forms of capital are equally valuable. This means that those who contribute their scarce time and attention toward producing and curating content for others are just as valuable as those who contribute their scarce cash. This is the sweat equity principle[^2] and is a concept that prior cryptocurrencies have often had trouble providing to more than a few dozen individuals.
+O segundo princípio é que todas as formas de capital são igualmente valiosas. Isto significa que aqueles que contribuem o seu escasso tempo e atenção para a produção e desenvolvimento de conteúdo para os outros são tão valiosos quanto aqueles que contribuem com seu dinheiro escasso. Este é o princípio de equidade suor [^2] e é um conceito que criptomoedas prévias frequentemente tinham problemas fornecendo a mais que algumas dezenas de indivíduos.
 
-The third principle is that the community produces products to serve its members. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
+O terceiro princípio é que a comunidade produz produtos para servir a seus membros. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
 
-The Steem community provides the following services to its members:
+A Comunidade do Steem fornece os seguintes serviços aos seus membros:
 
-1. A source of curated news and commentary.
-2. A means to get high quality answers to personalized questions.
-3. A stable cryptocurrency pegged to the U.S. dollar.
-4. Free payments.
+1. Uma fonte de notícias e comentários "curados".
+2. Um meio para obter alta qualidade de respostas para perguntas personalizadas.
+3. Um criptomoeda estável, fixada ao dólar americano.
+4. Pagamentos gratuitos.
 5. Jobs providing above services to other members.
 
 Steem’s purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem’s incentives may result in better outcomes for most participants.
