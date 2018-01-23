@@ -515,7 +515,7 @@ Twórcy publikujący treść za pomocą serwisów społecznościowych połączon
 
 # Wnioski
 
-Platforma Steem jest eksperymentem zaprojektowanym, by rozwiązać problemy kryptowalut oraz mediów społecznościowych poprzez połączenie ich najlepszych. Platforma Steem prezentuje możliwości zarobku dla twórców treści i Internetowych czytelników w sposób, który nie istniał dotąd w branży mediów społecznościowych. Wewnątrz sieci Steem jednostki zarabiają pieniądze przez Internet, które stoją w bezpośrednim związku z ich wkładem dla platformy. Those rewards may have dollar value due to the market price discovery and liquidity of Steem, and the people who hold Steem may have more exclusive earning powers than those who do not.
+Platforma Steem jest eksperymentem zaprojektowanym, by rozwiązać problemy kryptowalut oraz mediów społecznościowych poprzez połączenie ich najlepszych. Platforma Steem prezentuje możliwości zarobku dla twórców treści i Internetowych czytelników w sposób, który nie istniał dotąd w branży mediów społecznościowych. Wewnątrz sieci Steem jednostki otrzymują nagrody przez Internet, których wysokość stoi w bezpośrednim związku z ich wkładem dla platformy. Those rewards may have dollar value due to the market price discovery and liquidity of Steem, and the people who hold Steem may have more exclusive earning powers than those who do not.
 
 [^1]: Reddit’s Cryptocurrency, Forbes, Erika Morphy, October 2014 http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/\#4e07b05332b9
 
