@@ -376,21 +376,21 @@ SBD ہولڈران کو سود ادا کرتا ہے. سود کی شرح ان ہ�
 
 # کارکردگی اور پیمائش کی قابلیت
 
-سٹیم نیٹ ورک گرافین پر بنایا گیا ہے، وہی ٹیکنالوجی جو بٹشیئرز کو چلاتی ہے. گرافین کو تقسیم شدہ ٹیسٹ نیٹ ورک پر فی سیکنڈ ہزار ٹرانزیکشن سے زیادہ برقرار رکھتے ہوئے ثابت کیا گیا ہے. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
+سٹیم نیٹ ورک گرافین پر بنایا گیا ہے، وہی ٹیکنالوجی جو بٹشیئرز کو چلاتی ہے. گرافین کو تقسیم شدہ ٹیسٹ نیٹ ورک پر فی سیکنڈ ہزار ٹرانزیکشن سے زیادہ برقرار رکھتے ہوئے ثابت کیا گیا ہے. گرافین آسانی سے دس ہزار یا اس سے بھی زیادہ ٹرانزیکشن فی سیکنڈ تک سرور کی صلاحیت اور مواصلاتی پروٹوکول میں نسبتا سیدھی بہتری کے ساتھ پیمائش کر سکتا ہے.
 
-## Reddit Scale
+## ریڈٹ پیمائش
 
-Steem is capable of handling a larger userbase than Reddit. In 2015 Reddit’s 8.7 million users generated an average of 23 comments per second[^12], with an average of 83 comments per year per user. There were 73 million top-level posts, for an average of 2 new posts per second. There were about 7 billion up votes creating an average voting rate of 220 votes per second. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
+سٹیم ریڈٹ کے مقابلے میں ایک بڑی بنیادصارفین کو سنبھالنے کی صلاحیت رکھتا ہے. 2015 میں ریڈت کے 8.7 ملین صارفین نے فی سیکنڈ میں 83 تبصرے فی سال فی صارف کی اوسط کے ساتھ فی سیکنڈ میں 23 تبصروں[^12] کے ایک اوسط کو وجود بخشا. وہاں فی سیکنڈ میں 2 نئے خطوط کے اوسط کے ساتھ 73 ملین خطوط تھے. وہاں فی سیکنڈ میں 220 ووٹ کی اوسط کے ساتھ 7 بلین اپ-ووٹ تھے. سب کو بتایا گیا کہ اگر ریڈٹ بلاکچین پر کام کر رہا ہوتا تو اسے فی سیکنڈ 250 ٹرانزیکشن فی سیکنڈ کی ضرورت پڑتی.
 
-To achieve this industry-leading performance, Steem has borrowed lessons learned from the LMAX Exchange[^13], which is able to process 6 million transactions per second. Among these lessons are the following key points:
+اس رہنماکن صنعتی کارکردگی کو حاصل کرنے کے لئے، سٹیم نے ایل-ایم-اے-ایکس (LMAX) ایکسچینج[^13] سے سبق لیا ہے جو فی سیکنڈ میں 6 ملین ٹرانزیکشنز پر عملدرآمد کرنے میں کامیاب ہے. ان اسباق میں مندرجہ ذیل اہم نکات ہیں:
 
-1. Keep everything in memory.
-2. Keep the core business logic in a single thread.
-3. Keep cryptographic operations (hashes and signatures) out of the core business logic.
-4. Divide validation into state-dependent and state-independent checks.
-5. Use an object oriented data model.
+1. سب کچھ یاداشت میں رکھیں.
+2. اہم کاروباری منطق کو ایک ہی موضوں میں رکھیں.
+3. کرائیپٹوگرافک کاروائیوں (آمیزوں اور دستخط) کو اہم کاروباری منطق سے باہر رکھیں.
+4. توثیق کی ریاست پر مبنی اور ریاستی خود مختار جانچ میں تقسیم کریں.
+5. مقصد کے تعین پر مبنی ایک ڈیٹا ماڈل کا استعمال کریں.
 
-By following these simple rules, Steem is able to process 10,000 transactions per second without any significant effort devoted to optimization.
+ان سادہ قواعد کی پیروی کرتے ہوئے، سٹیم فی سیکنڈ دس ہزار (10,000) ٹرانزیکشن پر بیش کارکردگی میں بغیر زیادہ کوششوں کے عملدرآمد کرنے کے قابل ہے.
 
 Keeping everything in memory is increasingly viable given the recent introduction of Optane™ technology from Intel[^14]. It should be possible for commodity hardware to handle all of the business logic associated with Steem in a single thread with all posts kept in memory for rapid indexing. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optane™ technology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
 
