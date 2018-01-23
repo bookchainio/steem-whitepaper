@@ -392,26 +392,26 @@ SBD ہولڈران کو سود ادا کرتا ہے. سود کی شرح ان ہ�
 
 ان سادہ قواعد کی پیروی کرتے ہوئے، سٹیم فی سیکنڈ دس ہزار (10,000) ٹرانزیکشن پر بیش کارکردگی میں بغیر زیادہ کوششوں کے عملدرآمد کرنے کے قابل ہے.
 
-Keeping everything in memory is increasingly viable given the recent introduction of Optane™ technology from Intel[^14]. It should be possible for commodity hardware to handle all of the business logic associated with Steem in a single thread with all posts kept in memory for rapid indexing. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optane™ technology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
+سب کچھ یاداشت میں رکھنا انٹیل کی اوپٹین ٹیکنالوجی[^14] کے متعارف ہونے کے بعد تیزی سے قابل عمل ہو گیا ہے. تجارتی اشیاء کے سازوسامان کا سٹیم کی کاروباری منطق کو تیزی سے انڈیکس کرنے لئے ایک ہی موضوع میں تمام خطوط کو جمع رکھتے ہوئے سنبھالنا ممکن ہونا چاہئیے. یہاں تک کہ گوگل بھی ریم (RAM) میں پورے انٹرنیٹ کے انڈیکس کو رکھتا ہے. بلاکچین ٹیکنالوجی کا استعمال اعدادوشمار کے نقصان کو روکنے کے لئے ڈیٹابیس کو بہت سی مشینوں میں دہرانے کو آسان بنا دیتا ہے. جیسے ہی اوپٹین ٹیکنالوجی حکومت میں آتی ہے، ریم (RAM) استقامت حاصل کرنے کے ساتھ ساتھ اور بھی زیادہ تیز ہو جائے گی. دوسرے لفظوں میں، سٹیم مستقبل کے طرز کے لئے تیار کیا گیا ہے اور پیمائش کے لئے تیار کیا گیا ہے.
 
-# Allocation & Supply
+# بٹوارہ & اور فراہمی
 
-## Initial Allocation & Supply
+## ابتدائی بٹوارہ اور فراہمی
 
-The Steem network started with a currency supply of 0 and allocated STEEM via proof of work at a rate of approximately 40 STEEM per minute to miners, with an additional 40 STEEM per minute being created to seed the content and curation reward pools (for a total of 80 STEEM per minute). Then the network started rewarding users who converted to SP. At this point, STEEM grew at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
+سٹیم نیٹ ورک کرنسی کی صفر (ZERO) فراہمی کے ساتھ شروع ہوا اور بٹوارہ مواد کا بیج بونے اور ووٹنگ کے انعامی پول کے لئے کام کے ثبوت کے نظام سے کیا جو کہ چالیس (40) سٹیم فی منٹ مائنر کے لئے، اور فی منٹ چالیس (40) سٹیم کے اضافے کی شرح سے (کل 80 سٹیم فی منٹ کے لئے) کیا گیا. پھر نیٹ ورک نے ان صارفین کو انعام دینا شروع کیا جنہوں نے SP میں تبدیلی کی. اس مرحلے پر، سٹیم کا بڑھاوا مختلف شراکت کے انعامات کے مشترکہ اثرات کی وجہ سے تقریبا ٨٠٠ سٹیم فی منٹ کی شرح سے ہوا جیسے ذیل میں خلاصہ ہے:
 
-Contribution Rewards:
+شراکت پر انعامات:
 
-- Curation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
-- Content Creation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
-- Block production rewards: 1 STEEM per block or 0.750% per year, whichever is greater
-- POW inclusion rewards before block 864,000: 1 STEEM per block (awarded as 21 STEEM per round)
-- POW inclusion rewards after block 864,000: 0.0476 STEEM per block (awarded as 1 STEEM per round) or 0.750% per year, whichever is greater.
-- Liquidity rewards: 1 STEEM per block (awarded as 1200 STEEM per hour) or 0.750% per year, whichever is greater
+- حفاظت کے انعامات: ایک سٹیم فی بلاک یا 3.875 فیصد سالانہ، جو بھی زیادہ ہو۔
+- مواد کی تخلیق کے انعامات: ایک سٹیم فی بلاک یا 3.875 فیصد سالانہ، جو بھی زیادہ ہو۔
+- بلاک کی پیداوار پر انعامات: ایک سٹیم فی بلاک یا 0.75 فیصد سالانہ، جو بھی زیادہ ہو۔
+- 864,000 بلاک سے پہلے کام کے ثبوت میں شمولیت کے انعامات: ایک سٹیم فی بلاک (21 سٹیم فی راونڈ کے طور پر انعام)
+- 864,000 بلاک کے بعد کام کے ثبوت میں شمولیت کے انعامات: 0.0476 سٹیم فی بلاک (1 سٹیم فی راونڈ کے طور پر انعام) یا سالانہ %0.75، جو بھی زیادہ ہو.
+- اماعت کے انعامات:ِ ایک سٹیم فی بلاک (1200 سٹیم فی گھنٹے کے طور پر انعام) یا سالانہ %0.75، جو بھی زیادہ ہو
 
-### Power Rewards:
+### پاور کے انعامات:
 
-- Steem Power rewards: For each STEEM created by the above rewards, 9 STEEM are divided among all Steem Power holders.
+- سٹیم پاور کے انعامات: مندرجہ بالا انعامات کی طرف سے پیدا کردہ ہر ایک سٹیم کے بدلے، 9 سٹیم تمام سٹیم پاور ہولڈرز میں تقسیم کیے جاتے ہیں.
 
 ### SBD operations:
 
