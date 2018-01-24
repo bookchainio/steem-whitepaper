@@ -118,9 +118,9 @@ Pinapantay ng Steem ang playing field sa pamamagitan ng pag hingi sa lahat ng mg
 
 ### Bawasan ang Abuso sa mga Conversion
 
-Kung ang mga tao ay malayang makapag-convert sa parehong direksyon, maaring mapakinabangan ng mga mangangalakal ang mga rate ng conversion sa blockchain sa pamamagitan ng pangangalakal ng malalaking volume na hindi binabago ang presyo. Ang mga mangangalakal na makakakita ng malalaking pag taas ng presyo ay papalitan ang kanilang SBD sa mas malaking presyo (kung hindi panganib) at papalitan muli pagkatapos ng koreksyon. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SBD to STEEM and not the other way around.
+Kung ang mga tao ay malayang makapag-convert sa parehong direksyon, maaring mapakinabangan ng mga mangangalakal ang mga rate ng conversion sa blockchain sa pamamagitan ng pangangalakal ng malalaking volume na hindi binabago ang presyo. Ang mga mangangalakal na makakakita ng malalaking pag taas ng presyo ay papalitan ang kanilang SBD sa mas malaking presyo (kung hindi panganib) at papalitan muli pagkatapos ng koreksyon. Ang Steem protokol ay pinoprotektahan ang komunidad mula sa ganitong pag-aabuso sa pamamagitan ng paghintulot sa mga tao na mag palit mula SBD patungong STEEM at hindi ang kabaligtaran.
 
-The blockchain decides how and when to create SBD and who should get it. This keeps the rate of SBD creation stable and removes most avenues of abuse.
+Ang blockchain ang nagpasya kung paano at kailan gagawa ng SBD at kung sino ang dapat makakuha nito. Ito ay nagpapatatag sa paglikha ng SBD at tinatanggal ang mga paraan ng pang-aabuso.
 
 ### Sustainable Debt to Ownership Ratios
 
@@ -140,7 +140,7 @@ STEEM and SP holders gain leverage when members of the community are willing to 
 
 Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
 
-1. A stable exchange rate
+1. Isang matatag na exchange rate
 2. Free capital movement
 3. An independent monetary policy
 
