@@ -74,9 +74,9 @@ Steem jest fundamentalną jednostką każdego konta opartego o blockchain platfo
 
 ## Steem Power (SP)
 
-Nowo-założone firmy potrzebują długofalowego finansowania. Ci, którzy inwestują w nowo-powstałe firmy, spodziewają się sprzedać swoje udziały z zyskiem dopiero po latach. Bez mechanizmu zachęcającego inwestorów do długofalowego angażowania się, nowo-powstała firma, sprzedając swoje udziały w celu uzyskania dodatkowych środków, konkurowałaby z udziałowcami, którzy także dążyliby do sprzedaży swoich udziałów. Obyci inwestorzy chcą, by ich włożony kapitał urósł wraz z firmą, jednak rozwój nie może nastąpić, jeśli nowy kapitał jest rozdawany dla tych, którzy chcą odejść.
+Nowo-założone firmy potrzebują długofalowego finansowania. Ci, którzy inwestują w nowo-powstałe firmy, spodziewają się sprzedać swoje udziały z zyskiem dopiero po latach. Bez mechanizmu zachęcającego inwestorów do długofalowego angażowania się, nowo-powstała firma, sprzedając swoje udziały w celu uzyskania dodatkowych środków, konkurowałaby z udziałowcami, którzy także dążyliby do sprzedaży swoich udziałów. Obyci inwestorzy chcą, aby kapitał, który zainwestowali, rósł wraz z firmą. Jednak ten rozwój nie może nastąpić, jeśli nowe udziały są zbywane osobom, które sprzedadzą je przy pierwszej nadażającej się ku temu okazji.
 
-Istnieje znacząca wartość posiadania mechanizmu zachęcającego do inwestowania na dłuższą perspektywę czasu, ponieważ pozwala to społecznościom na snucie długofalowych planowanów. Długoterminowy wkład interesariuszy zmusza ich także do podejmowania decyzji, które powodują stabilny wzrost w dłuższej perspektywie czasu, zamiast podejmowania pochopnych decyzji, które pompują wartość tylko na chwilę.
+Istnieje znacząca wartość posiadania mechanizmu zachęcającego do inwestowania na dłuższą perspektywę czasu, ponieważ pozwala to społecznościom na snucie długofalowych planowanów. Udziałowcy, którzy kierują się długoterminowymi celami, podejmują decyzje, które w dłuższej perspektywie czasu prowadzą do stablnego wzrostu waluty zamiast tych, które pompują jej wartość tylko na chwilę.
 
 W przestrzeni kryptowalut, spekulanci skaczą z jednej kryptowaluty na drugą, bazując głównie na tym, po której z nich można się spodziewać krótkoterminowego wzrostu. Platforma Steem chce zbudować niezależną społeczność, która podejmuje świadome decyzje, kierując się długoterminową perspektywą.
 
@@ -134,7 +134,7 @@ Dolne limity trudności obliczania procesu wytwarzania STEEM bazowane są na akt
 
 SBD wypłaca posiadaczom udziały. Wysokość udziałów jest determinowana przez tych samych ludzi, który publikują cenę kursu tak, aby mogły one dostosować się do kondycji rynku. Każdy dług niesie za sobą ryzyko dla wierzyciela. Ktoś, kto trzyma SBD bez jego wypłacenia czy zamiany tak naprawdę pożycza społeczności sumę, której wartość odpowiada jednemu dolarowi. Posiadacze wierzą, że w pewnym momencie ktoś będzie chciał od nich kupić SBD za dolara lub pojawią się spekulanci i inwestorzy, którzy zechcą kupić STEEM, by zamienić je na SBD.
 
-Posiadacze STEEM oraz SP zdobywają wpływ, kiedy człokowie społeczności chcą zatrzymywać SBD. Ten wpływ wzmacnia osiągnięcia wynikające z rozwoju, jednocześnie przyczyniając się do wzrostu. Posiadacze STEEM ponosą stratę w momencie, kiedy ceny waluty spadają. Projekty oparte o kryptowaluty pokazują, że zysk wynikający z wiary użytkownika w sieć połączoną z kapitałem dodaje więcej wartości, niż wartość jakiegokolwiek zawirowania, które mogą wystapić podczas tendencji spadkowej.
+Posiadacze STEEM oraz SP zdobywają przewagę, kiedy członkowie społeczności wolą trzymać SBD w portfelu niż je sprzedawać. Ten wpływ wzmacnia osiągnięcia wynikające z rozwoju, jednocześnie przyczyniając się do wzrostu. Posiadacze STEEM ponosą stratę w momencie, kiedy ceny waluty spadają. Projekty oparte o kryptowaluty pokazują, że zysk wynikający z wiary użytkownika w sieć połączoną z kapitałem dodaje więcej wartości, niż wartość jakiegokolwiek zawirowania, które mogą wystapić podczas tendencji spadkowej.
 
 ### Ustalanie cen wysokości opłat
 
@@ -152,7 +152,7 @@ Jeżeli współczynnik długu do własności jest mały, a SBD jest wymieniane p
 
 Jeżeli kurs SBD stoi na poziomie niższym niż 1$ (USD) a współczynnik długu do własności jest wysoki, kursy powinny zostać dostosowane w ten sposób, by 1 SBD był poparty większą ilością STEEM. Zwiększy to popyt na SBD, a tym samym zredukuje współczynnik długu do własności oraz przywróci parytet SBD i USD.
 
-Zakładajac, że wartość STEEM rośnie szybciej niż platorma Steem tworzy nowe SBD, wartość współczynnika długu do własności powinna pozostać poniżej docelowego stosunku - wtedy oferowane udziały przynoszą korzyści każdemu. Jeżeli wartość sieci pozostaje na tym samym poziomie lub spada, wtedy każde oferowane udziały będą pogorszać współczynnik długu do własności.
+Zakładajac, że wartość STEEM rośnie szybciej niż platorma Steem tworzy nowe SBD, wartość współczynnika długu do własności powinna pozostać poniżej docelowego stosunku - wtedy oferowane udziały będą przynosić korzyści każdemu. Jeżeli wartość sieci pozostaje na tym samym poziomie lub spada, wtedy każde oferowane udziały będą pogorszać współczynnik długu do własności.
 
 W efekcie, wytwórcom kursu powierzona jest odpowiedzialność za ustalenie polityki monetarnej w celu utrzymania stabilnego dostrojenia w stosunku do USD. Nadużycie tej władzy może zaszkodzić wartości STEEM, więc posiadacze SP są zobowiązanie do głosowania na świadków, na których można liczyć w kwestii dostosowywania wartości kursu oraz udziałów w odniesieniu do zasad wspomnianych wyżej.
 
