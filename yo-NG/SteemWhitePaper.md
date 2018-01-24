@@ -154,9 +154,9 @@ Ti awon isowo SBD fun kikere ju dola kan ati ipin ti gbese si-nini je giga, lehi
 
 Ti se pe iye ti STEEMU ti nyara see ju Steemu ti n selopo SBD titun, ipin gbese-si-nini ye ki o wa labe aaye afojusun ati anfani ti o se iranlowo fun gbogbo eniyan. Ti iye netiwoki je alapin tabi subu, lehinna eyikeyi anfani ti a funni yoo se nikan ni ipinnu-si-nini-ipin to buru ju.
 
-Ni ibere awon oluseto oja ti o ni awon oluranlowo ni a fi le pelu ojuse ti seto imulo owo-owo fun idi ti mimu paagi ti o duro si ile dola Amerika. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
+Ni ibere awon oluseto oja ti o ni awon oluranlowo ni a fi le pelu ojuse ti seto imulo owo-owo fun idi ti mimu paagi ti o duro si ile dola Amerika. Ilokulo ti agbara yi le se ipalara fun iye ti STEEMU ki awon olutoju agbara steemu je ologbon lati dibo funawon eleri ti a le ka si lati satunse kiko sii owo ati awon sounwon anfani gegebi awon ofin ti a se alaye loke.
 
-If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SBD.
+Ti ipin ti gbese-nini-nini ni o ga julo ti o lagbara ati pe awon alabasepo olukopa yan lati yago fun ibeere iyipada, lehinna o ye ki o tunse kiko sii lati mu osuwon sii ti a ti sanwo STEEMU fun siso SBD.
 
 Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SBD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions.
 
