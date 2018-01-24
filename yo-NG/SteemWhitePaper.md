@@ -150,11 +150,11 @@ Iseduro akoko ti Awon Oluranlowo feedi ti Steemu je lati setoju iyipada okan-si-
 
 Ti ipin nini-nini je kekere ti SBD si isowo fun ki kere ju dola kan, lehinna o ye ki o po si osuwon. Eyi yoo se iwuri fun awon eniyan die sii lati mu SBD won ati atileyin owo naa.
 
-Ti awon isowo SBD fun kikere ju dola kan ati ipin ti gbese si-nini je giga, lehinna awon kiko sii ye ki o ni atunse soke fifun die sii nipase SBD. This will increase demand for SBD while also reducing the debt-to-ownership ratio and returning SBD to parity with USD.
+Ti awon isowo SBD fun kikere ju dola kan ati ipin ti gbese si-nini je giga, lehinna awon kiko sii ye ki o ni atunse soke fifun die sii nipase SBD. Eyi yoo se alekun wiwole fun SBD lakoko to o tun dinku ipinu gbese-si-nini ati gbigba SBD padi si adejo pelu dola Amerika.
 
-Assuming the value of STEEM is growing faster than Steem is creating new SBD, the debt-to-ownership ratio should remain under the target ratio and the interest offered benefits everyone. If the value of the network is flat or falling, then any interest offered will only make the debt-to-ownership ratio worse.
+Ti se pe iye ti STEEMU ti nyara see ju Steemu ti n selopo SBD titun, ipin gbese-si-nini ye ki o wa labe aaye afojusun ati anfani ti o se iranlowo fun gbogbo eniyan. Ti iye netiwoki je alapin tabi subu, lehinna eyikeyi anfani ti a funni yoo se nikan ni ipinnu-si-nini-ipin to buru ju.
 
-In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
+Ni ibere awon oluseto oja ti o ni awon oluranlowo ni a fi le pelu ojuse ti seto imulo owo-owo fun idi ti mimu paagi ti o duro si ile dola Amerika. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
 
 If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SBD.
 
