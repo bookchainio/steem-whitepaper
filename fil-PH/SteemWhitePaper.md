@@ -60,11 +60,11 @@ Ang mga input ng pagboto ng mga miyembro ng komunidad ay kritikal para sa Steem 
 
 # Paraan upang mag Kontribyut
 
-This section outlines the ideas behind Steem and its rewards for people who provide meaningful and measurable contributions to the Steem community.
+Binabalangkas ng bahaging ito ang mga ideya sa likod ng Steem at ang mga pabuya nito para sa mga tao na nagbigay ng mga makabuluhan at nasusukat na mga kontribusyon sa komunidad ng Steem.
 
-## Capital Contributions
+## Kabisera ng Kontribusyon
 
-There are two items a community can offer to attract capital: debt and ownership. Those who buy ownership profit when the community grows but lose if the community shrinks. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
+Mayroong dalawang bagay na pwedeng i-alok ng isang komunidad upang makaakit ng mga kabisera: utang at pagmamay-ari. Doon sa mga bibili ng pagmamay-ari ay kikita kapag lumalaki ang komunidad pero malulugi kapag liliit ang komunidad. Ang mga bibili ng utang ay garantisado ng isang tiyak na halaga ng interes ngunit hindi maaaring lumahok sa anumang kita na natanto sa pamamagitan ng paglaki ng komunidad. Ang dalawang uri ng kapital na kontribusyon ay mahalaga sa pag-unlad ng komunidad at halaga ng pera nito. Bukod pa rito, mayroong dalawang paraan upang hawakan ang pagmamay-ari: likod at vesting. Ang vesting na pagmamay-ari ay gumagawa ng isang pang-matagalan na pangako at hindi pwedeng ibenta ng iilang panahon.
 
 The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SBD).
 
