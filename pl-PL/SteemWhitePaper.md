@@ -262,13 +262,13 @@ Jako, że aktywni świadkowie znani są z wyprzedzeniem, platforma Steem jest zd
 
 Plaforma Steem dokłada wszelkich starań, by nagradzać ludzi, przyczyniających się dla platformy. Nieefektywnym byłoby nakładanie opłat transakcyjnych za każdym razem, gdy ktoś chce podjąć działanie na rzecz platformy.
 
-Technologia blockchain rozwiązała problem niechcianych transakcji (z ang. spam, przyp. tłum.) poprzez nałożenie na każdą z nich opłat transakcyjnych. Opłaty te powielają wszystkie znane problemy z mikropłatnościami i nie pozwalają użyć technologii blockchain do przeprowadzania transakcji, których wartość jest zbyt niska. Prawdziwie zdecentralizowane aplikacje muszą oferować użytkownikom możliwość darmowych transakcji, jeśli chcą one konkurować ze swoimi scentralizowanymi odpowiednikami. Ten dokument nakreśla podejście platformy Steem do wyeliminowania potrzeby mikropłatności, tym samym umożliwiając tworzenie aplikacji, które wcześniej były nierentowne.
+Technologia blockchain rozwiązała problem niechcianych transakcji (z ang. spam, przyp. tłum.) poprzez nałożenie na każdą z nich opłat transakcyjnych. Opłaty te powielają wszystkie znane problemy z mikropłatnościami i nie pozwalają użyć technologii blockchain do przeprowadzania transakcji, których wartość jest zbyt niska. Prawdziwie zdecentralizowane aplikacje muszą oferować użytkownikom możliwość darmowych transakcji, jeśli chcą konkurować ze swoimi scentralizowanymi odpowiednikami. Ten dokument nakreśla podejście platformy Steem do wyeliminowania opłat za transakcje. Zaś zlikidowanie opłat umożliwia z kolei tworzenie aplikacji, które wcześniej były nierentowne.
 
 ## Problem z opłatami
 
 Blockchain to zdecentralizowana sieć, w których wszystkie transakcje są udostępniane wszystkim użytkownikom. Od czasu do czasu produkowany jest blok, który zawiera wszystkie, lub część transakcji aktualnie wymagających potwierdzenia. Wszystkie blockchainy muszą znaleźć rozwiązanie, jak uchronienić się od złośliwych użytkowników, którzy spróbują zapchać całą dostępną pojemność sieci bezużytecznymi transakcjami. Owe nieznaczące transakcje mogą blokować możliwość przetworzenia innych, wartościowych transakcji, co ostatecznie kończy się zniszczeniem sieci.
 
-Rozwiązanie stosowanym przez większość rozwiązań opartych o technologię blockchain jest naliczanie minimalnych opłat transakcyjnych. Podatek transakcyjny liczący już kilka centów jest wystarczający do sprawienia, że ataki na sieć stają się drogie i nieopłacalne. Podczas, gdy to rozwiązanie rozwiązuje powyższy problem, powoduje inne problemy. Wyobraź sobie rozwiązanie problemu spamu na poczcie elektronicznej poprzez małą opłatę naliczaną od każdego wysłanego e-maila; wówczas nikt nie korzystałby z poczty elektronicznej.
+Rozwiązanie stosowanym przez większość rozwiązań opartych o technologię blockchain jest naliczanie minimalnych opłat transakcyjnych. Podatek transakcyjny liczący już kilka centów jest wystarczający do sprawienia, że ataki na sieć stają się drogie i nieopłacalne. Mimo, że to rozwiązanie rozwiązuje powyższy problem, powoduje powstanie innych kłopotów. Wyobraź sobie, że ktoś usiłowałby rozwiązać problem spamu na poczcie elektronicznej poprzez wprowadzenie małej opłaty naliczanej od każdego wysłanego e-maila. Rezultat byłby taki, że nikt nie korzystałby z poczty elektronicznej.
 
 ### Mikropłatności się nie sprawdzają
 
@@ -290,7 +290,7 @@ Każda opłata tworzy próg wejścia dla nowych użytkowników. Przed możliwoś
 
 ### Zmiana wysokości opłat
 
-Sieć musi dostosowywać wysokości opłat z czasem. Może się to zdarzyć, ze względu na wzrost wartości żetonu, lub ze względu powiększenie pojemności sieci. Użytkownicy przychylają się do przewidywalnych opłat i gwarantowanej jakości usług. Podczas gdy istnieje możliwość dynamicznego dostosowywania wysokości opłat podczas dużego obciążenia, rezultatem takiego rozwiązania jest niski poziom doświadczenia użytkownika (z ang. user experience, przyp. tłum.).
+Z biegiem czasu sieci muszą dostosować wysokość opłat. Taka konieczność może zaistnieć z powodu wzrostu wartości żetonu lub ze względu powiększenie pojemności sieci. Użytkownicy przychylają się do przewidywalnych opłat i gwarantowanej jakości usług. Podczas gdy istnieje możliwość dynamicznego dostosowywania wysokości opłat podczas dużego obciążenia, rezultatem takiego rozwiązania jest niski poziom doświadczenia użytkownika (z ang. user experience, przyp. tłum.).
 
 ### Ataki oparte na wykorzystaniu wielu podmiotów jednego użytkownika
 
