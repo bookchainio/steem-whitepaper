@@ -158,7 +158,7 @@ Ni ibere awon oluseto oja ti o ni awon oluranlowo ni a fi le pelu ojuse ti seto 
 
 Ti ipin ti gbese-nini-nini ni o ga julo ti o lagbara ati pe awon alabasepo olukopa yan lati yago fun ibeere iyipada, lehinna o ye ki o tunse kiko sii lati mu osuwon sii ti a ti sanwo STEEMU fun siso SBD.
 
-Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SBD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions.
+Awon iyipada si eto imulo owo osuwon ati/tabi awon sisan/awon sisan eyikeyi lori iyipada STEEMU/SBD ye ki o je ilowu lora ati muwon si awon iyato ti awon igba pipe ju kukun lo lati dahun si awon ipo isowo kukuru.
 
 It is our belief that these rules will give market participants confidence that they are unlikely lose money by holding SBD purchased at a price of $1.00. We fully expect there to be a narrow trading range between $0.95 and $1.05 for SBD under normal market conditions.
 
