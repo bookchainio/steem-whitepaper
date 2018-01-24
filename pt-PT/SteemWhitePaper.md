@@ -50,15 +50,15 @@ Steem é projetado em torno de um conceito relativamente simples: *a contribuiç
 
 O desafio é criar um sistema capaz de identificar que contribuições são necessárias e o seu valor relativo de uma forma que pode ser dimensionado para um número indeterminado de pessoas.
 
-Um sistema provado de avaliar e dar recompensas de contribuição é o mercado livre. The free market can be viewed as a single community where everyone trades with one another and rewards are allocated by profit and loss. The market system rewards those who provide value to others and punishes those who consume more value than they produce. The free market supports many different currencies and money is simply a commodity that everyone finds easy to exchange.
+Um sistema provado de avaliar e dar recompensas de contribuição é o mercado livre. O mercado livre pode ser visto como uma comunidade única onde todos trocam com todos e as recompensas são alocadas por ganhos e perdas. O sistema do mercado recompensa aquela que fornecem valores aos outros e castiga aqueles que consomem mais do que produzem. O mercado livre suporta muitas moedas diferentes e dinheiro é simplesmente uma mercadoria que todos acham fácil de trocar.
 
-Since the free market is a proven system, it is tempting to try to create a free-market system where content consumers directly pay content producers. However, direct payment is inefficient and not really viable for content creation and curation. The value of most content is so low relative to the cognitive, financial, and opportunity costs associated with making a payment that few readers choose to tip. The abundance of free alternatives means that enforcing a ‘paywall’ will drive readers elsewhere. There have been several attempts to implement per-article micropayments from readers to authors, but none have become widespread.
+Visto que o mercado livro é um sistema provado, é tentador tentar criar um sistema sem mercado onde consumidores satisfeitos pagam diretamente aos produtores satisfeitos. No entanto, pagamento direto é ineficaz e não viável para a criação de conteúdo e curadoria de conteúdo. O valor da maioria do conteúdo é tão baixa relativamente à linguística, financeira, e os custos de oportunidade associados com o pagamento que poucos leitores escolhem para dar gorjeta. A abundância de alternativas livres significa que impor um "paywall" vai conduzir os leitores a outro sítio. There have been several attempts to implement per-article micropayments from readers to authors, but none have become widespread.
 
 Steem is designed to enable effective micropayments for all kinds of contribution by changing the economic equation. Readers no longer have to decide whether or not they want to pay someone from their own pocket, instead they can vote content up or down and Steem will use their votes to determine individual rewards. This means that people are given a familiar and widely used interface and no longer face the cognitive, financial, and opportunity costs associated traditional micropayment and tipping platforms.
 
 Voting input from community members is critical for Steem to accurately allocate payments to contributors. Voting can therefore be viewed as a crucial contribution and worthy of rewards on its own. Some platforms, such as Slashdot, use meta-moderation[^3] as a way to rank and reward honest moderators. Steem chooses to reward those who contribute the most to the total promotion of a piece of content and rewards the voters proportional to the ultimate reward paid to the content creator.
 
-# Ways to Contribute
+# Formas de Contribuição
 
 This section outlines the ideas behind Steem and its rewards for people who provide meaningful and measurable contributions to the Steem community.
 
