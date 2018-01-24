@@ -182,7 +182,7 @@ Piewszym krokiem do nagradzania milionów użytkowników jest przyczynianie się
 
 Następnym krokiem jest nagradzanie każdego, kto robi cokolwiek z *czymkolwiek*, nawet zdalnie. Jest to osiągnięte przez ocenianie całej pracy, ustalaniu rankingu na podstawie oceny, a następnie dystrybuowaniu proporcjonalnie do wartości. Im bardziej rynek staje się konkurencyjny, tym trudniej (przez większą wartość lub ilość) zarobić tak samo wysoką nagrodę.
 
-### Głosowanie na rozprowadzaniem waluty
+### Głosowanie nad podziałem wynagrodzenia
 
 Załóżmy, że istnieje określona ilość pieniądza do podziału i Ci, którzy posiadają długofalowe udziały oparte na przyszłej wartości i użyteczności waluty są tymi, który decydują jak rozlokować podział. Każdy użytkownik głosujący na osobę, która wykonała najlepszą aktywność a na koniec dnia dostępna pula pieniędzy przeznaczona na ten dzień jest dzielona proporcjonalnie do głosów, w taki sposób, że nawet jeden najmniejszy głos ma znaczenie.
 
@@ -222,7 +222,7 @@ Jednym z głównych założeń systemu wynagrodzeń platformy Steem jest inspiro
 
 Aktualna dystrybucja będzie zależeć od schematu głosowania użytkowników, lecz podejrzewamy, że znaczna większość nagród będzie dzielona między najbardziej popularną treść.
 
-Prawo Zipfa [^7] jest jedną z empirycznych zasad, które charakteryzują zaskakującą większość zjawisk na świecie zadziwiające dobrze. Mówi ono o tym, iż jeśli zbierzemy dużą grupę osób według wielkości lub popularności, wtedy drugi element kolekcji będzie liczył około połowę tego co pierwszy element, trzeci będzie liczyć około jedną trzecią wartości miary co pierwszy i tak dalej. Uogólniając, k-ty element rankingu będzie mierzył 1/k tego co pierwszy.
+Prawo Zipfa [^7] jest jedną z empirycznych zasad, które charakteryzują zaskakującą większość zjawisk na świecie zadziwiające dobrze. Mówi ono o tym, iż jeśli zbierzemy dużą grupę osób według wielkości lub popularności, wtedy drugi element kolekcji będzie liczył około połowę tego co pierwszy element, trzeci będzie liczyć około jedną trzecią wartości miary co pierwszy i tak dalej. Uogólniając, k-ty element rankingu będzie mierzył 1/k tego, co pierwszy.
 
 ![](\img_the_new_marketplace.png)
 
@@ -230,13 +230,13 @@ Zdobywanie popularności jest wartością, którą ciężko zmierzyć, dlatego w
 
 Wpływem z tego głosowania oraz dystrybucji wypłat jest fakt zaoferowania dużych premii za dobrej jakości treść, jednocześnie nagradzając mniejszych graczy za ich długotrwałą przyczynę.
 
-Ekonomiczny efekt wyżej wymienionych działań jest podobny do loterii, w której ludzie przeceniają swoje prawdopodobieństwo otrzymania głosów, w rezultacie wkładają więcej pracy w stosunku do zarobku, tym samym maksymalizując całkowitą ilość pracy wobec społeczności. Fakt, że “każdy coś wygrywa” odgrywa tutaj tą samą psychologiczną rolę, jaką kasyna używają by zachęcać odwiedzających do grania. Innymi słowy, małe nagrody pomagają zaszczepić ideę, iż możliwym jest zarabianie większych nagród.
+Ekonomiczny efekt wyżej wymienionych działań jest podobny do loterii, w której ludzie przeceniają swoje prawdopodobieństwo otrzymania głosów, w rezultacie wkładają więcej pracy w stosunku do zarobku, tym samym maksymalizując całkowitą ilość pracy wobec społeczności. Fakt, że “każdy coś wygrywa” wykorzystuje tę samą metodę, której kasyna używają by zachęcać odwiedzających do grania. Innymi słowy, małe nagrody pomagają zaszczepić ideę, iż możliwym jest zarabianie większych nagród.
 
 ### Wypłaty
 
-Gdy post otrzymuje możliwość wypłaty, przyjmuje formę 50% SBD oraz 50% SP. Steem Power daje użytkownikowi zwiększoną siłę głosu oraz transakcji, podczas gdy SBD natychmiastowy zysk pod postacią stabilnej waluty. Zgodnie z tym, o czym dyskutowaliśmy wcześniej, SP zostało zaprojektowane, by zachęcić do długofalowego posiadania, aniżeli szybkiej odsprzedaży. Zachęca to użytkowników do posiadania nabytego udziału, by osiągnąć sukces platformy w dłuższej perspektywy czasu.
+Nagroda za post przyjmuje formę wypłaty 50% wynagrodzenia w SBD oraz drugich 50% w SP. Steem Power daje użytkownikowi zwiększoną siłę głosu oraz transakcji, podczas gdy SBD natychmiastowy zysk pod postacią stabilnej waluty. Zgodnie z tym, o czym dyskutowaliśmy wcześniej, SP zostało tak zaprojektowane, aby zachęcić do długofalowego posiadania, aniżeli szybkiej odsprzedaży. Zachęca to użytkowników do posiadania nabytego udziału, by osiągnąć sukces platformy w dłuższej perspektywy czasu.
 
-Użytkownicy mają też możliwość wybrania 100% SP jako opcji płatności, lub też całkowicie z niej zrezygnować. Kiedy użytkownik rezygnuje z możliwości zapłaty, pieniądze pierwotnie dla niego przeznaczone trafiają z powrotem do puli nagród, by docelowo trafić do innych użytkowników.
+Użytkownicy mają też możliwość wybrania wypłaty wynagrodzenia w 100% w SP lub zrezygnować w ogóle z nagrody. Kiedy użytkownik rezygnuje z możliwości zapłaty, pieniądze, które pierwotnie były przeznaczone dla niego, lądują z powrotem do puli nagród tak, aby docelowo trafić do innych użytkowników.
 
 # Algorytm Konsensusu
 
