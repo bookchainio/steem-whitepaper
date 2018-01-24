@@ -102,7 +102,7 @@ Posiadacze SP głosują na osoby zwane świadkami (z ang. witnesses), których z
 
 Posiadając grupę zaufanych oraz demokratycznie wybranych producentów kursu, aktualna cena używana do wymiany może zostać wyznaczona jako mediana propozycji. Tym sposobem, jeżeli jakakolwiek mniejszość lub jednostka wśród producentów kursu wytworzy zaniżoną lub zawyżoną wartość ma ona minimalny wpływ na faktyczną medianę, podczas gdy cały czas posiada możliwość wpływania na swoją reputację.
 
-Nawet, jeśli wszyscy wytwórcy kursów są uczciwi, możliwym jest, iż większość producentów kursów zostanie poddana wpływom zdarzeń pozostających poza ich kontrolą. Sieć Steem jest zaprojektowana tak, by tolerować krótkoterminową korupcję mediany kursów, by w międzyczasie społeczność aktywnie pracowała nad poprawą błędu. Przykładem kwestii, która może zająć trochę czasu jest krótkoterminowa manipulacja rynkiem. Manipulacja rynkiem jest jednak droga i trudna w utrzymaniu na dłuższą metę. Innym przykładem mogłaby być awaria scentralizowanego punktu wymiany, lub uszkodzenie danych publikowanych przez platformę wymiany.
+Nawet, jeśli wszyscy wytwórcy kursów są uczciwi, możliwym jest, iż większość producentów kursów zostanie poddana wpływom zdarzeń pozostających poza ich kontrolą. Sieć Steem jest zaprojektowana tak, by tolerować krótkoterminową korupcję mediany kursów, by w międzyczasie społeczność aktywnie pracowała nad poprawą błędu. Przykładem kwestii, której omówienie może zająć trochę czasu, jest krótkoterminowa manipulacja rynkiem. Manipulacja rynkiem jest jednak droga i trudna w utrzymaniu na dłuższą metę. Innym przykładem mogłaby być awaria scentralizowanego punktu wymiany lub uszkodzenie danych publikowanych przez giełdę.
 
 Platforma Steem uwzględnia krótkoterminowe fluktuacje cen, poprzez używanie mediany cen przez okres trzech i połowy dnia. Wartość bazująca na aktualnej medianie jest publikowana co godzinę.
 
@@ -114,7 +114,7 @@ Z trzy i pół dniowym zapasem członkowie społeczności mają około półtora
 
 Użytkownicy giełd mają szybszy dostęp do informacji, niż trzy i pół dniowy bufor mediany kursu wartości oparty na technologii blockchain może w ogóle zareagować. Ta informacja może zostać użyta, by zyskać na wymianie kosztem społeczności. Jeżeli pojawia się gwałtowny wzrost wartości STEEM, inwestorzy mogliby złożyć propozycję wymiany ich SBD po starszych, niższych cenach a później sprzedać STEEM po nowszej, wyższej cenie tak, by otrzymać wyższy zysk przy zachowaniu minimalnego ryzyka.
 
-Platforma wyrównuje szanse, wymagając, aby wszystkie żądania wymiany były opóźnione o trzy i pół dnia. Oznacza to, iż ani handlowcy, ani blockchain nie posiada żadnej przewagi informacji odnośnie ceny podczas odbywania się procesu wymiany.
+Platforma wyrównuje szanse, wymagając, aby wszystkie żądania wymiany były opóźnione o trzy i pół dnia. Oznacza to, iż ani handlowcy, ani blockchain nie posiadają żadnej przewagi informacyjnej i nie są w stanie ocenić, jaka będzie wartość waluty w momencie wymiany.
 
 ### Minimalizowanie nadużyć systemu wymiany
 
@@ -132,17 +132,17 @@ Dolne limity trudności obliczania procesu wytwarzania STEEM bazowane są na akt
 
 ### Udziały
 
-SBD wypłaca posiadaczom udziały. Wysokość udziałów jest determinowana przez tych samych ludzi, który publikują cenę kursu, by mogły one dostosować się do kondycji rynku. Każdy dług niesie za sobą ryzyko dla wierzyciela. Ktoś, kto trzyma SBD bez jego wypłacenia czy zamiany tak na prawdę pożycza społeczności wartość dolara. Posiadacze wierzą, że w pewnym momencie ktoś będzie chciał od nich kupić SBD za dolara lub pojawią się spekulanci i inwestorzy, którzy zechcą kupić STEEM, by zamienić je na SBD.
+SBD wypłaca posiadaczom udziały. Wysokość udziałów jest determinowana przez tych samych ludzi, który publikują cenę kursu tak, aby mogły one dostosować się do kondycji rynku. Każdy dług niesie za sobą ryzyko dla wierzyciela. Ktoś, kto trzyma SBD bez jego wypłacenia czy zamiany tak naprawdę pożycza społeczności sumę, której wartość odpowiada jednemu dolarowi. Posiadacze wierzą, że w pewnym momencie ktoś będzie chciał od nich kupić SBD za dolara lub pojawią się spekulanci i inwestorzy, którzy zechcą kupić STEEM, by zamienić je na SBD.
 
 Posiadacze STEEM oraz SP zdobywają wpływ, kiedy człokowie społeczności chcą zatrzymywać SBD. Ten wpływ wzmacnia osiągnięcia wynikające z rozwoju, jednocześnie przyczyniając się do wzrostu. Posiadacze STEEM ponosą stratę w momencie, kiedy ceny waluty spadają. Projekty oparte o kryptowaluty pokazują, że zysk wynikający z wiary użytkownika w sieć połączoną z kapitałem dodaje więcej wartości, niż wartość jakiegokolwiek zawirowania, które mogą wystapić podczas tendencji spadkowej.
 
 ### Ustalanie cen wysokości opłat
 
-Bystrzy czytelnicy pewnie zdali sobie sprawę z tego, że środki o limitowanej podaży przynoszące odsetki mogą mieć wyższą lub niższą wartość niż to, od czego zależą. Wpływają na to inne możliwości zarobku bazujące na tych samych aktywach. Posiadając wysoki współczynnik zysku w kapitale ściśle powiązanym z Dolarem Amerykańskim wielu ludzi będzie konkurować o Steem Dollara, czego razultatem będzie cena wyższa niż 1$. W ekonomii isnieje reguła nazywana Niemożliwą Trójcą [^4], która stwierdza, iż niemożliwym jest mieć wszystkie trzy poniższe podmioty w tym samym czasie:
+Bystrzy czytelnicy pewnie zdali sobie sprawę z tego, że środki o limitowanej podaży przynoszące odsetki mogą mieć wyższą lub niższą wartość niż to, od czego zależą. Wpływają na to inne możliwości zarobku bazujące na tych samych aktywach. Posiadając wysoki współczynnik zysku w kapitale ściśle powiązanym z Dolarem Amerykańskim wielu ludzi będzie konkurować o Steem Dollara, czego razultatem będzie cena wyższa niż 1$. W ekonomii isnieje reguła nazywana Niemożliwą Trójcą [^4], która stwierdza, że nie można mieć wszystkich trzech poniższych elementów w tym samym czasie:
 
-1. Stabilny kurs wymiany
-2. Swobodna kontrola przepływu
-3. Niezależna polityka piniężna
+1. - stabilnego kursu wymiany
+2. - swobodnego przepływu środków pieniężnych
+3. - niezależnej polityki pieniężnej
 
 Jeżeli producenci wysokości kursu Steem dążyliby do niezależnej polityki monetarnej, pozwalając tworzyć i usuwać Dolary Steem, jednocześnie posiadając pełną kontrolę nad kursem wymiany, okazałoby się, że w takim wypadku napotkaliby problemy. Zasadna Niemożliwej Trójcy mówi, że Dollary Steem nie muszą ograniczać wolnego przepływu kapitału, mieć niestabilnego współczynnika wymiany z dolarem, ani też ograniczonej kontroli nad wysokością kursu.
 
