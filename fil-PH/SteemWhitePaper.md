@@ -66,11 +66,11 @@ Binabalangkas ng bahaging ito ang mga ideya sa likod ng Steem at ang mga pabuya 
 
 Mayroong dalawang bagay na pwedeng i-alok ng isang komunidad upang makaakit ng mga kabisera: utang at pagmamay-ari. Doon sa mga bibili ng pagmamay-ari ay kikita kapag lumalaki ang komunidad pero malulugi kapag liliit ang komunidad. Ang mga bibili ng utang ay garantisado ng isang tiyak na halaga ng interes ngunit hindi maaaring lumahok sa anumang kita na natanto sa pamamagitan ng paglaki ng komunidad. Ang dalawang uri ng kapital na kontribusyon ay mahalaga sa pag-unlad ng komunidad at halaga ng pera nito. Bukod pa rito, mayroong dalawang paraan upang hawakan ang pagmamay-ari: likod at vesting. Ang vesting na pagmamay-ari ay gumagawa ng isang pang-matagalan na pangako at hindi pwedeng ibenta ng iilang panahon.
 
-The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SBD).
+Ang Steem network ay tumatawag ng iba't ibang klase ng mga asset. Steem (STEEM), Steem Power(SP), at Steem Dollars(SBD).
 
 ## Steem (STEEM)
 
-Steem is the fundamental unit of account on the Steem blockchain. All other tokens derive their value from the value of STEEM. STEEM is a liquid currency, and therefore can be bought or sold on exchanges, as well as transferred to other users as a form of payment.
+Ang steem ang pangunahing yunit ng akawnt sa Steem blockchain. Lahat ng ibang uri ng mga token ay kinukuha ang kanilang halaga mula sa halaga ng STEEM. Ang STEEM ay isang likido na pera, at samakatuwid ay maaaring bilhin o ibenta sa mga kalakalan, pati na rin ang pag lipat sa ibang mga user bilang isang paraan na pagbayad.
 
 ## Steem Power (SP)
 
