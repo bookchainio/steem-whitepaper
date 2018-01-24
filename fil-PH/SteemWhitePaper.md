@@ -56,9 +56,9 @@ Dahil napatunayan na ang sistema ng libreng merkado, ito ay kaakit-akit na subuk
 
 Ang Steem ay dinesenyo upang paganahin ang mabisa na mga micropayments para sa lahat ng uri ng kontribusyon sa pamamagitan ng pagbago ng equation ng ekonomiya. Hindi na kailangan pumili ang mga mambabasa kung gusto nilang bayaran ang isang tao mula sa kanilang sariling bulas, sa halip maaari nilang iboto pataas o pababa ang nilalaman at ang Steem ay gagamit ng kanilang mga boto upang matukoy ang indibidwal na mga pabuya. Ito ay nangangahulugan na ang tao binigyan ng isang pamilyar at malawak na ginagamit na interaface at hindi na kailangan harapin ang mga gasto ng nagbibigay-malay, pinansiyal, at oportunidad na naguugnay sa tradisyonal micropayment at mga plataporma sa pag-tip.
 
-Voting input from community members is critical for Steem to accurately allocate payments to contributors. Voting can therefore be viewed as a crucial contribution and worthy of rewards on its own. Some platforms, such as Slashdot, use meta-moderation[^3] as a way to rank and reward honest moderators. Steem chooses to reward those who contribute the most to the total promotion of a piece of content and rewards the voters proportional to the ultimate reward paid to the content creator.
+Ang mga input ng pagboto ng mga miyembro ng komunidad ay kritikal para sa Steem na tama ang paglaan ng mga bayad sa mga kontributor. Samakatuwid, ang mga pagboto ay maaring tingnan bilang isang mahalagan kontribusyon at karapat-dapat na gantimpalaan sa sarili. Ang mga ilang plataporma, tulad ng Slashdot, ay gumagamit ng meta-moderation[^3]bilang isang paraan na pag-rank at pag bigay pabuya sa mga matatapat na mga moderator. Pinili ng Steem na gantimpalaan ang mga nagbibigay ng karamihan sa kontribusyon sa kabuuan nito at ang gantimapalaan ng proporsyonal sa totoong pabuya na binayad sa mga tagapaggawa ng nilalaman ang mga tagapagboto.
 
-# Ways to Contribute
+# Paraan upang mag Kontribyut
 
 This section outlines the ideas behind Steem and its rewards for people who provide meaningful and measurable contributions to the Steem community.
 
