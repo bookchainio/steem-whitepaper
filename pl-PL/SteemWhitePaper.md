@@ -204,9 +204,9 @@ Pewien mężczyzna spacerując po plaży, spotkał człowieka łowiącego ryby w
 
 "Nie rozumiesz.", odpowiedział wędkarz. "Jeśli byłby tam tylko jeden krab, z pewnością szybko by stamtąd uciekł. Jednak gdy w koszu jest wiele krabów, kiedy jeden z nich zacznie wspinać się ku górze, inny krab złapie go i zacznie ciągnąć w dół, tak, by podzielił on los pozostałych."
 
-Podobnie jest z ludźmi. Gdy jeden z nich próbuje zrobić coś innego, poprawić się, uciec z otoczenia, marzyć o wielkich rzeczach, inni ludzie spróbują go sprowadzić do ich poziomu, by ten podzielił ich los.
+Podobnie jest z ludźmi. Gdy jeden z nich próbuje zrobić coś innego (udoskonalić się, uciec z nieprzyjemnego otoczenia, marzyć o wielkich rzeczach), inne osoby spróbują go sprowadzić do swojego poziomu tak, aby ten podzielił ich los.
 
-Eliminowanie “nadużycia” (z ang. “abuse”, przyp. tłum.) nie powinno być celem samym w sobie. Nawet Ci, którzy “nadużywają” systemu wciąż wykonują pracę. Jakiekolwiek wynagrodzenie za ich pomyślną próbę nadużycia lub zmowy jest przynajmniej tak wartościowa dla zastosowania dystrybucji waluty jak działające systemy wdrożone w tradycyjnych kopalniach kryptowaluty Bitcoin, lub “zmówione” kopalnie, znane także jako baseny (z ang. mining pools, przyp. tłum.). Wszystko to jest konieczne, by upewnić się, że możliwe nadużycie nie jest na tyle niepohamowane żeby podważało zachętnę do prawdziwej pracy we wspieraniu społeczności i waluty.
+Eliminowanie “nadużyć” (z ang. “abuse”, przyp. tłum.) nie powinno być celem samym w sobie. Nawet Ci, którzy “nadużywają” systemu wciąż wykonują pracę. Jakiekolwiek wynagrodzenie za ich pomyślną próbę nadużycia lub zmowy jest przynajmniej tak wartościowa dla zastosowania dystrybucji waluty jak działające systemy wdrożone w tradycyjnych kopalniach kryptowaluty Bitcoin, lub “zmówione” kopalnie, znane także jako baseny (z ang. mining pools, przyp. tłum.). Wszystko to jest konieczne, by upewnić się, że możliwe nadużycie nie jest na tyle niepohamowane żeby podważało zachętnę do prawdziwej pracy we wspieraniu społeczności i waluty.
 
 Celem budowania społeczności jest sprowadzenie większej ilości “krabów do koszyka”. Zachłanność w dążeniu do eliminacji całego globalnego nadużycia jest jak próba zasłonięcia koszyka, by uwięzić parę krabów - znacząco utrudnia to dodawanie nowych krabów do koszyka. Wystarczy stworzyć śliskie ściany i dać innym krabom odpowiednią moc zapobiegania ucieczki przez innych.
 
@@ -218,7 +218,7 @@ Użytkownicy dzielą stałą ilość siły głosu (z ang. voting power, przyp. t
 
 ### Dystrybucja wypłat
 
-Jednym z głównych założeń nagród platformy Steem jest produkowanie najwyższej jakości dyskusji w Internecie. Każdego roku 75% rocznej inflacji jest dzielona pomiędzy użytkowników tworzących, głosujących oraz dyskutujących nad treścią. Przy wielkości porównywalnej z siecią Bitcoin, szacunkowo mogłyby to być miliony dolarów wypłacane dla tych, którzy najbardziej przyczyniają się platformie.
+Jednym z głównych założeń systemu wynagrodzeń platformy Steem jest inspirowanie do prowadzenia dyskusji, której jakość jest najwyższa w całym Internecie. Każdego roku 75% rocznej inflacji jest dzielona pomiędzy użytkowników tworzących, głosujących oraz dyskutujących nad treścią. Gdyby sieć osiągnęła wielkość porównywalną do Bitcoina, mogłyby to doprowadzić do wypłaty wynagrodzeń w kwocie kilku milionów dolarów. Pieniądze te otrzymywałyby osoby, które wnoszą największy wkład w rozwój platformy.
 
 Aktualna dystrybucja będzie zależeć od schematu głosowania użytkowników, lecz podejrzewamy, że znaczna większość nagród będzie dzielona między najbardziej popularną treść.
 
