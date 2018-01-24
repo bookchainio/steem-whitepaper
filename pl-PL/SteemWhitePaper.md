@@ -10,7 +10,7 @@ Opisać contribution, dlaczego przetłumaczyłem jako wkład. Wytłumaczyć, dla
 
 # Streszczenie
 
-Steem jest bazą danych opartą o technologię blockchain. Wspiera on budowanie społeczności i kontaktów towarzystkich, zaś jego użytkownicy otrzymują nagrodę w postaci kryptowaluty. Steem łączy w sobie ideę mediów społecznościowych z lekcjami zaczerpniętymi z wiedzy uzyskanej wskutek wytworzenia się kryptowalut i związanych z nimi społeczności. Ważnym czynnikiem inspirującym do czynnego udzielania się w społeczności, walucie, bądź gospodarce wolnorynkowej jest uczciwy system finansowy, w którym zysk dokładnie opowiada wkładowi danej osoby. Steem jest pierwszą kryptowalutą, która próbuje w sposób trafny i transparentny nagradzać wszystkich ludzi, którzy wnoszą *subiektywny wkład* do swoich społeczności.
+Steem jest bazą danych opartą na technologii blockchain. Wspiera on budowanie społeczności i kontaktów towarzystkich, zaś jego użytkownicy otrzymują nagrodę w postaci kryptowaluty. Steem łączy w sobie ideę mediów społecznościowych z lekcjami zaczerpniętymi z wiedzy uzyskanej wskutek wytworzenia się kryptowalut i związanych z nimi społeczności. Ważnym czynnikiem inspirującym do czynnego udzielania się w społeczności, walucie, bądź gospodarce wolnorynkowej jest uczciwy system finansowy, w którym zysk dokładnie opowiada wkładowi danej osoby. Steem jest pierwszą kryptowalutą, która próbuje w sposób trafny i transparentny nagradzać wszystkich ludzi, którzy wnoszą *subiektywny wkład* do swoich społeczności.
 
 # Spis treści
 
