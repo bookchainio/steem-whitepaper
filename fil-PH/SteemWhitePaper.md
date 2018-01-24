@@ -114,11 +114,11 @@ With a three and a half day window, community members have approximately one and
 
 Market participants have access to information faster than the blockchain’s three and a half day moving median conversion price can react. Ang mga impormasyon na ito ay maaring magamit sa kapakanan ng mga negosyante sa kapalit ng komunidad. Kung mayroong biglaang pagtaas sa halaga ng STEEM maaaring hilingin ng mga mangangalakal na palitan ang kanilang SBD sa lumang halaga, mas mababang presyo, at ibenta ang STEEM na natanggap nila sa bagong mas mataas na presyo sa kaunting panganib.
 
-Steem levels the playing field by requiring all conversion requests to be delayed for three and a half days. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
+Pinapantay ng Steem ang playing field sa pamamagitan ng pag hingi sa lahat ng mga hiling ng kombersyon na maantala ng tatlo at kalahating araw. Ang ibig sabihin nito ay hindi ang mga mangangalakal o ang blockchain ay may kalamangan sa impormasyon tungkol sa presyo na sa oras na isinagawa ang conversion.
 
-### Minimizing Abuse of Conversions
+### Bawasan ang Abuso sa mga Conversion
 
-If people could freely convert in both directions then traders could take advantage of the blockchains conversion rates by trading large volumes without changing the price. Traders who see a massive run up in price would convert to SBD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SBD to STEEM and not the other way around.
+Kung ang mga tao ay malayang makapag-convert sa parehong direksyon, maaring mapakinabangan ng mga mangangalakal ang mga rate ng conversion sa blockchain sa pamamagitan ng pangangalakal ng malalaking volume na hindi binabago ang presyo. Ang mga mangangalakal na makakakita ng malalaking pag taas ng presyo ay papalitan ang kanilang SBD sa mas malaking presyo (kung hindi panganib) at papalitan muli pagkatapos ng koreksyon. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SBD to STEEM and not the other way around.
 
 The blockchain decides how and when to create SBD and who should get it. This keeps the rate of SBD creation stable and removes most avenues of abuse.
 
