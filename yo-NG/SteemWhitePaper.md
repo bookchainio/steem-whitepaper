@@ -148,9 +148,9 @@ Ti Awon oluseto onileru feedi Steemu se itokasi lati ni eto imulo ti ominira ti 
 
 Iseduro akoko ti Awon Oluranlowo feedi ti Steemu je lati setoju iyipada okan-si-okan laarin SBD ati dola Amerika (USD). Nigbakugba ti SBD je isowo loke awon owo sisan dola kan gbodo wa ni iduro. Ni oja ti o wan ni odo ogorun anfani lori gbese si nbeere kan ere, o je ailewu lati so oja je setan lati fa siwaju sii kirediti ju awon gbese ti awujo je setan lati ya lori. Bi eyi ba sele SBD yoo ni iye die sii ju dola kan lo ati pe o wa die ti awon awujo le se laisi gbigba agbara awon idiwon odi.
 
-If the debt-to-ownership ratio is low and SBD is trading for less than $1.00, then the interest rate should be increased. This will encourage more people to hold their SBD and support the price.
+Ti ipin nini-nini je kekere ti SBD si isowo fun ki kere ju dola kan, lehinna o ye ki o po si osuwon. Eyi yoo se iwuri fun awon eniyan die sii lati mu SBD won ati atileyin owo naa.
 
-If SBD trades for less than $1.00 USD and the debt-to-ownership ratio is high, then the feeds should be adjusted upward give more STEEM per SBD. This will increase demand for SBD while also reducing the debt-to-ownership ratio and returning SBD to parity with USD.
+Ti awon isowo SBD fun kikere ju dola kan ati ipin ti gbese si-nini je giga, lehinna awon kiko sii ye ki o ni atunse soke fifun die sii nipase SBD. This will increase demand for SBD while also reducing the debt-to-ownership ratio and returning SBD to parity with USD.
 
 Assuming the value of STEEM is growing faster than Steem is creating new SBD, the debt-to-ownership ratio should remain under the target ratio and the interest offered benefits everyone. If the value of the network is flat or falling, then any interest offered will only make the debt-to-ownership ratio worse.
 
