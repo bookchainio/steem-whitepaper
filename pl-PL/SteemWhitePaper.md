@@ -296,7 +296,7 @@ Z biegiem czasu sieci muszą dostosować wysokość opłat. Taka konieczność m
 
 Scentralizowane strony internetowe zapobiegają ilościowym nadużyciom znanym jako spam poprzez ograniczanie ilości zapytań oraz którąś z dostępnych form identyfikacji osobowości. Nawet coś tak prostego jak reCAPTCHA[^9] jest wystarczającym środkiem do znacznego ograniczenia rejestracji fałszywych kont. Jeśli któryś użytkownik nadużywa systemu, wtedy scentralizowana aplikacja blokuje jego konto.
 
-W zdecentralizowanym systemie nie ma ani bezpośredniej możliwości by zablokowania użytkownika, ani też scentralizowanego dostawcy mogącego wdrożyć system zabezpieczeń taki jak reCAPTCHA i ograniczyć ilość tworzonych kont. Właściwie, niemożność ocenzurowania użytkownika jest jedną z głównych cech technologii blockchain.
+W zdecentralizowanym systemie nie ma ani bezpośredniej możliwości by zablokowania użytkownika, ani też scentralizowanego dostawcy mogącego wdrożyć system zabezpieczeń taki jak reCAPTCHA i ograniczyć ilość tworzonych kont. Tak naprawdę to właśnie brak cenzury jest jednym z głównych powdów, które sprawiają, że technologia blochain jest tak popularna.
 
 ### Pełen podział kontra częściowy podział
 
@@ -368,7 +368,7 @@ Bazując na tych przesłankach możemy dość do wniosku, że system oparty o op
 
 Możemy więc dojść do wniosku, iż najlepszym na platformy opartej o blockchain jest zrezygnowanie ze wszystkich opłat. Jeżeli naliczanie opłat transakcyjnych byłoby naliczane jako alternatywa do ograniczeń opartych o stopę, powinno być to analogią do kupna takiej ilości udziałów oraz użycie ich w taki sposób, żeby mieć możliwość wykorzystania ich w odpowiedni, jednorazowy sposób.
 
-Innymi słowy, opłaty transakcyjne powinny być równe minimalnemu saldu konta do podjęcia transakcji, by mogła być zwrócona na koniec tygodnia. Załóżmy, że minimalne saldo konta to 1$ i pozwala ono dokonywać transakcji przez tydzień. Wówczas, jeśli ktoś z saldem 1$ chciałby dokonać 5 transakcji na raz, musiałby doładować swoje konto o 5$ na tydzień przed lub po transakcjach.
+Innymi słowy, opłaty transakcyjne powinny być równe minimalnemu saldu konta do podjęcia transakcji, by mogła być zwrócona na koniec tygodnia. Załóżmy, że minimalne saldo konta to 1$ i pozwala ono użytkownikowi dokonywać transakcji raz na tydzień. Wówczas, jeśli ktoś z saldem 1$ chciałby dokonać pięciu transakcji na raz, musiałby doładować swoje konto o 5$ przed lub po dokonaniu transakcji.
 
 W teorii rynek mógłby uformować instrument pozwalający pożyczyć wymaganą kwotę. W praktyce, bardziej wydajnym dla użytkowników jest po prostu kupić i sprzedać niezbędne udziały by spełnić wymagany wskaźnik wykorzystania. Innymi słowy koszt negocjacji mikro pożyczek jest większy niż koszt utrzymania salda odpowiedniego do twojego tygodniowego zapotrzebowania.
 
@@ -376,11 +376,11 @@ Zdecentralizowane ograniczenia transakcji oparte o stopę mogą otwierają umoż
 
 # Wydajność i Skalowalność
 
-Sieć Steem jest zbudowana na podstawie technologii Graphene, tej samej, która napędza BitShares. Technologia graphene udowodniła, że może wytrzymać obciążenie ponad 1000 transakcji na sekundę w rozproszoną sieć testową. Graphene może być łatwo przeskalowany na 10.000 lub więcej transakcji na sekundę z relatywnie prostymi usprawnieniami protokołów komunikacyjnych lub pojemności serwera.
+Sieć Steem jest zbudowana w oparciu o technologię Graphene. Tę samą, która napędza BitShares. Technologia graphene udowodniła, że może wytrzymać obciążenie ponad 1000 transakcji na sekundę w rozproszoną sieć testową. Graphene może być łatwo przeskalowany na 10.000 lub więcej transakcji na sekundę z relatywnie prostymi usprawnieniami protokołów komunikacyjnych lub pojemności serwera.
 
 ## Skala Reddita
 
-Platforma Steem jest zdolna pomieścić większą ilość użytkowników niż Reddit. W 2015 roku 8.7 miliona użytkowników Reddita generowało średnio 23 komentarze na sekundę [^12], ze średnią 83 komentarzy na użytkownika rocznie. Stworzonych zostało 73 miliony najwyższej jakości wpisów, ze średnią 2 nowych postów co sekundę. Zagłosowano 7 milionów razy, co średnio oznacza 220 głosów na sekundę. Podsumowując, gdyby Reddit operował na technologii blockchain, potrzebowałby średnio 250 transakcji na sekundę.
+Platforma Steem jest zdolna obsługiwać większą ilość użytkowników niż Reddit. W 2015 roku 8.7 miliona użytkowników Reddita generowało średnio 23 komentarze na sekundę [^12], ze średnią 83 komentarzy na użytkownika rocznie. Stworzonych zostało 73 miliony najwyższej jakości wpisów. Co sekundę były publikowane średnio 2 nowych posty. Zagłosowano 7 milionów razy, co oznacza średnio 220 głosów na sekundę. Podsumowując, gdyby Reddit operował na technologii blockchain, potrzebowałby on średnio 250 transakcji na sekundę.
 
 Wy osiągnąć najlepszą wydajność w branży, platforma Steem zaczerpnęła lekcji od LMAX Exchange [^13], która zdolna jest utrzymać obciążenie 6 milionów transakcji na sekundę. Z lekcji tych można wynieść następujące wnioski:
 
@@ -392,7 +392,7 @@ Wy osiągnąć najlepszą wydajność w branży, platforma Steem zaczerpnęła l
 
 Podążając za tymi prostymi zasadami, sieć Steem jest w stanie przetwarzać 10.000 transakcji na sekundę bez żadnych poświęceń na rzecz optymalizacji.
 
-Przetrzymywanie wszystko w pamięci operacyjnej jest coraz bardziej rentowne, zważywszy na zapowiedzi technologii Optane™ przez firmę Intel[^14]. Powszechnie dostępny sprzęt komputerowy powinien być w stanie obsługiwać całą logikę biznesową związaną z platformą Steem przez tylko jeden wątek, jednocześnie przetrzymując wszystkie dane w pamięci operacyjnej dla bardzo szybkiej indeksacji. Nawet Google trzyma wszystkie indeksy dla całego internetu w pamięci RAM. Zastosowanie technologii blockchain sprawia, iż banalnym staje się replikowanie bazy danych na wielu maszynach, aby zapobiec utracie danych. Kiedy technologia Optane™ wejdzie w życie, RAM stanie się jeszcze szybsze, zyskując przy tym trwałość danych. Innymi słowy, sieć Steem jest zaprojektowana z myślą o architekturze przyszłości, oraz zaprojektowana dla skalowalności.
+Przetrzymywanie wszystko w pamięci operacyjnej jest coraz bardziej rentowne, zważywszy na zapowiedzi technologii Optane™ przez firmę Intel[^14]. Powszechnie dostępny sprzęt komputerowy powinien być w stanie obsługiwać całą logikę biznesową związaną z platformą Steem przez tylko jeden wątek, jednocześnie przetrzymując wszystkie dane w pamięci operacyjnej dla bardzo szybkiej indeksacji. Nawet Google trzyma wszystkie indeksy dla całego internetu w pamięci RAM. Zastosowanie technologii blockchain sprawia, iż banalnym staje się replikowanie bazy danych na wielu maszynach, aby zapobiec utracie danych. Kiedy technologia Optane™ wejdzie w życie, RAM stanie się jeszcze szybszy, zyskując przy tym trwałość danych. Innymi słowy, sieć Steem jest zaprojektowana z myślą o architekturze przyszłości, oraz zaprojektowana dla skalowalności.
 
 # Alokacja i Zaopatrzenie
 
