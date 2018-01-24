@@ -36,9 +36,9 @@ A Comunidade do Steem fornece os seguintes serviços aos seus membros:
 
 Realinhamento de proposital do steem dos incentivos económicos tem potencial para produzir resultados mais justos e mais inclusivos para todos os envolvidos do que a mídia social e plataformas de criptomoeda que foram antes dele. Este trabalho irá explorar os incentivos económicos existentes e demonstrar como incentivos do Steem podem resultar em melhores resultados para a maioria dos participantes.
 
-## Recognizing Contribution
+## Reconhecendo a contribuição
 
-Steem is designed from the ground up to address the major barriers to adoption and monetization of a social media based economy. Our thesis is that the same techniques used to grow major social media platforms can be used to bootstrap a successful cryptocurrency. Economic incentives enabled by cryptocurrency can dramatically facilitate the growth of a new social media platform. It is the synergy between cryptocurrency and social media that we believe may give Steem a powerful advantage in the market.
+Steem é desenvolvida do zero para abordar as principais barreiras para adoção e monetização de uma mídia social com base em economia. Nossa tese é que as mesmas técnicas usadas para crescer as plataformas de mídia social podem ser usadas para inicializar uma criptomoeda bem sucedida. Economic incentives enabled by cryptocurrency can dramatically facilitate the growth of a new social media platform. It is the synergy between cryptocurrency and social media that we believe may give Steem a powerful advantage in the market.
 
 The challenge faced by Steem is deriving an algorithm for scoring individual contributions that most community members consider to be a fair assessment of the subjective value of each contribution. In a perfect world, community members would cooperate to rate each other's contribution and derive a fair compensation. In the real world, algorithms must be designed in such a manner that they are resistant to intentional manipulation for profit. Any widespread abuse of the scoring system could cause community members to lose faith in the perceived fairness of the economic system.
 
