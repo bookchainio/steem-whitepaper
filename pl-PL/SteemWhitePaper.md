@@ -74,7 +74,7 @@ Steem jest fundamentalną jednostką każdego konta opartego o blockchain platfo
 
 ## Steem Power (SP)
 
-Nowo-założone firmy potrzebują formy otrzymywania długofalowego kapitału. Ci, którzy inwestują w nowo-powstałe firmy, spodziewają się sprzedać swoje udziały z zyskiem dopiero po latach. Bez mechanizmu zachęcającego inwestorów do długofalowych inwestycji, nowo-powstała firma ubiegająca się o dodatkowy kapitał poprzez wyprzedawanie udziałów konkurowałaby z obecnymi akcjonariuszami chcącymi ją opuścić. Obyci inwestorzy chcą, by ich włożony kapitał urósł wraz z firmą, jednak rozwój nie może nastąpić, jeśli nowy kapitał jest rozdawany dla tych, którzy chcą odejść.
+Nowo-założone firmy potrzebują długofalowego finansowania. Ci, którzy inwestują w nowo-powstałe firmy, spodziewają się sprzedać swoje udziały z zyskiem dopiero po latach. Bez mechanizmu zachęcającego inwestorów do długofalowego angażowania się, nowo-powstała firma, sprzedając swoje udziały w celu uzyskania dodatkowych środków, konkurowałaby z udziałowcami, którzy także dążyliby do sprzedaży swoich udziałów. Obyci inwestorzy chcą, by ich włożony kapitał urósł wraz z firmą, jednak rozwój nie może nastąpić, jeśli nowy kapitał jest rozdawany dla tych, którzy chcą odejść.
 
 Istnieje znacząca wartość posiadania mechanizmu zachęcającego do inwestowania na dłuższą perspektywę czasu, ponieważ pozwala to społecznościom na snucie długofalowych planowanów. Długoterminowy wkład interesariuszy zmusza ich także do podejmowania decyzji, które powodują stabilny wzrost w dłuższej perspektywie czasu, zamiast podejmowania pochopnych decyzji, które pompują wartość tylko na chwilę.
 
