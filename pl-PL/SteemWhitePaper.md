@@ -34,7 +34,7 @@ Społeczność Steem dostarcza swoim członkom następujące usługi:
 4. - umożliwia darmowe płatności
 5. - poprzez wyżej wymienione usługi zapewnia swoim użytkownikom miejsca pracy
 
-Celowa reorganizacja bodźców ekonomii Steem ma potencjał do produkowania bardziej kompletnych i sprawiedliwych rezultatów dla każdego zaangażowanego w media społecznościowe i platformy krytowalut bardziej niż kiedykolwiek wcześniej. Ten dokument zgłębi istnięjące ekonomiczne bodźce i zademonstruje jak zachęty platformy Steem mogą doprowadzić do lepszych rezultatów dla większości uczestników.
+Celowa reorganizacja bodźców ekonomii Steem ma potencjał do produkowania bardziej kompletnych i sprawiedliwych rezultatów dla każdego zaangażowanego w media społecznościowe i platformy krytowalut bardziej niż kiedykolwiek wcześniej. Ten dokument zgłębi istnięjące ekonomiczne bodźce i zademonstruje, jak cechy platformy Steem mogą doprowadzić do osiągnicia pozytywnych rezultatów przez użytkowników serwisu.
 
 ## Rozpoznawanie wkładu
 
@@ -56,11 +56,11 @@ Wolny rynek dowiódł już swojej wartości, dlatego warto byłoby podjąć pró
 
 Plaforma Steem jest zaprojektowana tak, by poprzez zmianę zestawu czynników ekonomicznych umożliwić dokonywanie efektywnych mikropłatności w celu wynagradzania różnego rodzaju wkładów wnoszonych przez użytkowników. Czytelnicy nie muszą już decydować, czy chcą oddawać komuś swoje ciężko zarobione pieniądze. Zamiast tego mogą wyrażać negatywne lub pozytywne opinie poprzez głosowanie, a platforma Steem użyje ich głosów by ustalić wysokość wynagrodzenia autora. Oznacza to, że użytkownicy otrzymują znajomy oraz powszechnie znany interfejs, który rozwiązuje wszystkie problemy związane z kosztami poznania, kosztami połączonymi z finansowością oraz kosztami utraty innych alternatyw, które trapią tradycyjne systemy oparte o napiwki lub mikropłatności.
 
-Otrzymywanie głosów ze stron społeczności jest niezbędne dla platformy Steem do trafnego przydzielania nagród dla twórców. W takim wypadku głosowanie samo w sobie może być postrzegane jako istotne przyczynianie się dla platformy i powinno zasługiwać na nagrodę. Niektóre platformy, takie jak Slashdot używają nadrzędnej moderacji[^3] (z ang. meta-moderation, przyp. tłum.) jako procesu do klasyfikowania i nagradzania uczciwych moderatorów. Platforma Steem postanawia nagradzać nie tylko tych, którzy najbardziej przyczyniają się do ogólnej promocji jej samej poprzez tworzenie treści. Pod postacią wydzielenia części z ostatecznej nagrody dla twórcy, nagradza także tych, którzy głosują wybierając wartościową treść.
+Otrzymywanie głosów ze stron społeczności jest niezbędne dla platformy Steem do trafnego przydzielania nagród dla twórców. W takim wypadku głosowanie samo w sobie może być postrzegane jako istotne przyczynianie się dla platformy i powinno zasługiwać na nagrodę. Niektóre platformy, takie jak Slashdot używają nadrzędnej moderacji[^3] (z ang. meta-moderation, przyp. tłum.) jako procesu do klasyfikowania i nagradzania uczciwych moderatorów. Platforma Steem nagradza tych, którzy poprzez tworzenie materiałów przyczyniają się do ogólnej promocji serwisu. Pod postacią wydzielenia części z ostatecznej nagrody dla twórcy, nagradza jednak także tych, którzy głosując, wybierają wartościową treść.
 
 # Sposoby na wniesienie swojego wkładu
 
-Ten rozdział nakreśla idee idące za platformą Steem oraz możliwe wynagrodzenie dla ludzi, którzy przyczyniają się społeczności Steem poprzez wymowny oraz mierzalny wkład.
+Ten rozdział nakreśla idee platformy Steem oraz opisuje, w jaki sposób wynagradzani są ludzie, którzy wnoszą do społeczności Steem wartościowy oraz mierzalny wkład.
 
 ## Wniesienie funduszy
 
@@ -70,11 +70,11 @@ Sieć Steem nazywa te trzy różne typy aktywów jako: Steem (STEEM), Steem Powe
 
 ## Steem (STEEM)
 
-Steem jest fundamentalną jednostką każdego konta opartego o blockchain platformy Steem. Wszystkie inne tokeny czerpią ich wartość z wartości ich odpowiednika w STEEM. STEEM jest płynną walutą, dlatego też może być wymieniany na zewnętrznych giełdach lub przekazywany innym użytkownikom jako swoisty rodzaj zapłaty.
+Steem jest fundamentalną jednostką każdego konta opartego o blockchain platformy Steem. Wartość wszystkich innych tokenów odpowiada wartości ich odpowiednika w postaci STEEM. STEEM jest płynną walutą, dlatego też może być wymieniany na zewnętrznych giełdach lub przekazywany innym użytkownikom jako swoisty rodzaj zapłaty.
 
 ## Steem Power (SP)
 
-Nowo-założone firmy potrzebują formy otrzymywania długofalowego kapitału. Ci, którzy inwestują w nowo-powstałe firmy spodziewają się sprzedać swoje udziały z zyskiem dopiero po latach. Bez mechanizmu zachęcającego inwestorów do długofalowych inwestycji, nowo-powstała firma ubiegająca się o dodatkowy kapitał poprzez wyprzedawanie udziałów konkurowałaby z obecnymi akcjonariuszami chcącymi ją opuścić. Obyci inwestorzy chcą, by ich włożony kapitał urósł wraz z firmą, jednak rozwój nie może nastąpić, jeśli nowy kapitał jest rozdawany dla tych, którzy chcą odejść.
+Nowo-założone firmy potrzebują formy otrzymywania długofalowego kapitału. Ci, którzy inwestują w nowo-powstałe firmy, spodziewają się sprzedać swoje udziały z zyskiem dopiero po latach. Bez mechanizmu zachęcającego inwestorów do długofalowych inwestycji, nowo-powstała firma ubiegająca się o dodatkowy kapitał poprzez wyprzedawanie udziałów konkurowałaby z obecnymi akcjonariuszami chcącymi ją opuścić. Obyci inwestorzy chcą, by ich włożony kapitał urósł wraz z firmą, jednak rozwój nie może nastąpić, jeśli nowy kapitał jest rozdawany dla tych, którzy chcą odejść.
 
 Istnieje znacząca wartość posiadania mechanizmu zachęcającego do inwestowania na dłuższą perspektywę czasu, ponieważ pozwala to społecznościom na snucie długofalowych planowanów. Długoterminowy wkład interesariuszy zmusza ich także do podejmowania decyzji, które powodują stabilny wzrost w dłuższej perspektywie czasu, zamiast podejmowania pochopnych decyzji, które pompują wartość tylko na chwilę.
 
@@ -114,7 +114,7 @@ Z trzy i pół dniowym zapasem członkowie społeczności mają około półtora
 
 Użytkownicy giełd mają szybszy dostęp do informacji, niż trzy i pół dniowy bufor mediany kursu wartości oparty na technologii blockchain może w ogóle zareagować. Ta informacja może zostać użyta, by zyskać na wymianie kosztem społeczności. Jeżeli pojawia się gwałtowny wzrost wartości STEEM, inwestorzy mogliby złożyć propozycję wymiany ich SBD po starszych, niższych cenach a później sprzedać STEEM po nowszej, wyższej cenie tak, by otrzymać wyższy zysk przy zachowaniu minimalnego ryzyka.
 
-Platforma wyrównuje szanse wymagając, aby wszystkie żądania wymiany były opóźnione o trzy i pół dnia. Oznacza to, iż ani handlowcy, ani blockchain nie posiada żadnej przewagi informacji odnośnie ceny podczas odbywania się procesu wymiany.
+Platforma wyrównuje szanse, wymagając, aby wszystkie żądania wymiany były opóźnione o trzy i pół dnia. Oznacza to, iż ani handlowcy, ani blockchain nie posiada żadnej przewagi informacji odnośnie ceny podczas odbywania się procesu wymiany.
 
 ### Minimalizowanie nadużyć systemu wymiany
 
