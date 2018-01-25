@@ -413,9 +413,9 @@ SBD ہولڈران کو سود ادا کرتا ہے. سود کی شرح ان ہ�
 
 - سٹیم پاور کے انعامات: مندرجہ بالا انعامات کی طرف سے پیدا کردہ ہر ایک سٹیم کے بدلے، 9 سٹیم تمام سٹیم پاور ہولڈرز میں تقسیم کیے جاتے ہیں.
 
-### SBD operations:
+### ایس-بی-ڈی کاروائیاں:
 
-- SBD rewards: A percentage of SBD value is created at an APR set by the witnesses and paid to SBD holders as SBD
+- SBD انعامات: SBD قدر کا فیصد اس شرح پر تخلیق کیا جاتا ہے جو گواہوں کی طرف سے طے کیا جاتا ہے اور SBD ہولڈرز کو SBD کے طور پر ادا کیا جاتا ہے۔
 
 The overall supply picture is complicated by the effect of SBD operations, which may result in large-scale creation or destruction of STEEM through feed rate following and SBD rewards, as discussed in the SBD section. Other, smaller-scale complicating effects also exist, including unclaimed incentives (e.g. block rewards for missed blocks), and abandoned accounts.
 
