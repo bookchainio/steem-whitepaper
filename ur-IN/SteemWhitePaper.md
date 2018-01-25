@@ -435,7 +435,7 @@ SBD ہولڈران کو سود ادا کرتا ہے. سود کی شرح ان ہ�
 
 عددی اشیاء کی قیمت، جیسے سٹیم، فراہمی اور طلب دونوں سے چلتی ہے. جب ایک طویل مدتی ہولڈر نکلنے کا فیصلہ کرتا ہے تو ماکیٹ میں سٹیم کی فراہمی بڑھ جائے گی اور قیمت کو نیچے کی طرف دھکا دے گی. یہ نیچے کا دباو ختم ہو جاتا ہے جب ایک طویل مدتی ہولڈر سٹیم کو خریدنے کا فیصلہ کرتا ہے اور اسے ایس-پی میں واپس تبدیل کر لیتا ہے. اضافی فراہمی اور طلب مارکیٹ میں مارکیٹ کے سٹےبازوں کی انکی مستقبل قیمت کی پیشن گوئیوں پر مبنی مائع سٹیم خریدنے اور فروخت کرنے کی وجہ سے شامل ہو سکتی ہے.
 
-# The Power of Steem
+# سٹیم کی طاقت
 
 Steem recognizes that the value of all user contributions (posts and votes) is greater than the sum of the parts. A single comment is worth next to nothing, but millions of curated posts is worth many millions (or possibly even billions) of dollars. A single vote provides little curation value, but billions of votes is very effective curation. Content without curation is of limited value. Given all the content of the Internet minus the links between it, Google would struggle to produce useful search results. It is the links between information that give it significant value.
 
