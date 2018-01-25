@@ -417,15 +417,15 @@ SBD ہولڈران کو سود ادا کرتا ہے. سود کی شرح ان ہ�
 
 - SBD انعامات: SBD قدر کا فیصد اس شرح پر تخلیق کیا جاتا ہے جو گواہوں کی طرف سے طے کیا جاتا ہے اور SBD ہولڈرز کو SBD کے طور پر ادا کیا جاتا ہے۔
 
-The overall supply picture is complicated by the effect of SBD operations, which may result in large-scale creation or destruction of STEEM through feed rate following and SBD rewards, as discussed in the SBD section. Other, smaller-scale complicating effects also exist, including unclaimed incentives (e.g. block rewards for missed blocks), and abandoned accounts.
+مجموعی فراہمی کی تصویر ایس-بی-ڈی کاروائیوں کے اثر سے پیچیدہ ہے جس کا نتیجہ بڑے پیمانے پر تخلیق ہو سکتا ہے یا فیڈ کی شرح کی پیروی کے ذریعے سٹیم کی تباہی اور SBD انعامات کی بھی، جیسا کہ ایس-بی-ڈی کے حصے میں بحث کی تھی. دیگر چھوٹے پیمانے کے پیچیدہ اثرات بھی موجود ہیں بشمول بنا مطالبہ کیے گے معاوضے۔ (مثلا۔ غیرحاضر بلاک کے انعامات)، اور ترک کردہ اکاونٹ.
 
-## Current Allocation & Supply
+## موجودہ مختص اور & فراہمی
 
-Starting with the network's 16th hard fork in December 2016, Steem began creating new tokens at a yearly inflation rate of 9.5%. The inflation rate decreases at a rate of 0.01% every 250,000 blocks, or about 0.5% per year. The inflation will continue decreasing at this pace until the overall inflation rate reaches 0.95%. This will take about 20.5 years from the time hard fork 16 went into effect.
+دسمبر 2016 میں نیٹ ورک کے 16 ہارڈفورک کی ابتداء سے، سٹیم نے 9.5% کی سالانہ افراط زر کی شرح سے ٹوکن بنانا شروع کر دیا. افراط زر کی شرح ہر 250,000 بلاک پر 0.01% کے حساب سے کم ہوتی ہے، یا 0.5% سالانہ. اس رفتار پر افراط میں کمی جاری رہے گی جب تک کہ مجموعی افراط کی شرح 0.95% تک نہ پہنچ جائے. یہ ہارڈفورک کے عمل میں آنے کے وقت سے 20.5 سالوں کا وقت لے گی.
 
-75% of the new tokens that are generated go to fund the reward pool, which is split between authors and curators. 15% of the new tokens are awarded to holders of SP. The remaining 10% pays for the witnesses to power the blockchain.
+نئے پیدا کیے گئے 75% ٹوکن انعام پول کو فنڈ کرنے میں جائینگے، جو مصنفین اور محافظین میں تقسیم کی جاتی ہے. ئے ٹوکن کا 15% ایس-پی ہولڈرز کو عطا کیا جاتا ہے. باقی 10% گواہوں کو بلاکچین چلانے کے لئے دیا جاتا ہے.
 
-### Impact of Token Creation Rate
+### تخلیق ٹوکن کی شرح کا اثر
 
 It is often said that a coin with an inflationary model is not sustainable, but we know from countless real-world examples that the quantity of money does not have a direct and immediate impact on its value, though it certainly plays a role.
 
