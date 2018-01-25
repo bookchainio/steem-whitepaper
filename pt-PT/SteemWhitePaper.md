@@ -56,7 +56,7 @@ Visto que o mercado livro é um sistema provado, é tentador tentar criar um sis
 
 Steem visa permitir micropagamentos eficazes para todos os tipos de contribuição, alterando a equação económica. Leitores já não têm de decidir se quem ou não pagar a alguém do seu próprio bolso, em vez disso eles podem votar conteúdo positivamente ou negativamente e o Steem vai usar os seus votos para determinar recompensas individuais. Isto significa que as pessoas recebem uma interface familiar e amplamente utilizada e não têm mais de enfrentar o cognitivo, financeiro, e os custos de oportunidade associados a micropagamentos tradicionais e plataformas de gorjetas.
 
-O voto dos membros da comunidade é crítico para o Steem alocar com precisão os pagamentos para os contribuidores. Voto, portanto, pode ser visco como uma contribuição crucial e merecedora de recompensas por si mesmo. Algumas plataformas, como o Slashdot, usam meta-moderação [^3] como uma maneira de classificar e premiar moderadores honestos. Steem chooses to reward those who contribute the most to the total promotion of a piece of content and rewards the voters proportional to the ultimate reward paid to the content creator.
+O voto dos membros da comunidade é crítico para o Steem alocar com precisão os pagamentos para os contribuidores. Voto, portanto, pode ser visco como uma contribuição crucial e merecedora de recompensas por si mesmo. Algumas plataformas, como o Slashdot, usam meta-moderação [^3] como uma maneira de classificar e premiar moderadores honestos. Steem escolhe recompensar aqueles que mais contribuem para a promoção total de uma porção de conteúdo e recompensa os eleitores proporcionalmente à recompensa final paga ao criador do conteúdo.
 
 # Formas de Contribuição
 
