@@ -168,7 +168,7 @@ Ijerisi Agbeklae ti ise se afihan ona miiran lati se pinpin owo kan ti o da lori
 
 Ni abajade, awon abawon ti ise ti ayewo ni kikun je pataki ati awon alaye itumo re ni ita si koodu orisun ara re. Agbegbe kan le fe lati san awon osere, awon oludawe mirran, ati awon elegbe apanilerin miiran. Awon agbgbe miiran le yan latisan esan awon idiyan tabi iranlowo awon eto isagbesiwaju isaju.
 
-The value each currency achieves depends upon the demand for influence within a particular community and how large the market believes each community can get. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
+Iye owo iyorisi owo kookan da lori idaniloju fun ipa laarin agbegbe kan ati bi o tobi oja ti gbogbo pe agbegbe kookan le gba. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
 
 ### Distributing Currency
 
