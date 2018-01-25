@@ -164,7 +164,7 @@ O je igbagbo wa pe awon ofin wonyi yoo fun awon alabasepo ti isowo ni igbekele p
 
 ## Ipese Asayan
 
-Subjective Proof of Work presents an alternative approach to distributing a currency that improves upon fully *objective* Proof of Work systems such as mining. The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
+Ijerisi Agbeklae ti ise se afihan ona miiran lati se pinpin owo kan ti o da lori ni kikun ipinnu Awon iseduro ise bii iwakusa. Awon ohun eloti owo kan ti n se imudaniloju ise-sise ti ero-inu ti o ni anfani ju ti eyikeyi ohun idaniloju ti eto ise nitori a le lo won lati ko agbegbe kan ni ayika ti o ni idi ti o niye to. Nigbati awon eni-kookan ba darapo mo agbegbe kan ti won ra sinu irufe igbagbo kan ti o si le dibo lati se afihan awon ifilele ti agbegbe tabi idi kan.
 
 In effect, the criteria by which work is evaluated is completely subjective and its definition lives outside the source code itself. One community may wish to reward artists, another poets, and another comedians. Other communities may choose to reward charitable causes or help advance political agendas.
 
