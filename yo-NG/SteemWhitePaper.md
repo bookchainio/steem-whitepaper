@@ -166,7 +166,7 @@ O je igbagbo wa pe awon ofin wonyi yoo fun awon alabasepo ti isowo ni igbekele p
 
 Ijerisi Agbeklae ti ise se afihan ona miiran lati se pinpin owo kan ti o da lori ni kikun ipinnu Awon iseduro ise bii iwakusa. Awon ohun eloti owo kan ti n se imudaniloju ise-sise ti ero-inu ti o ni anfani ju ti eyikeyi ohun idaniloju ti eto ise nitori a le lo won lati ko agbegbe kan ni ayika ti o ni idi ti o niye to. Nigbati awon eni-kookan ba darapo mo agbegbe kan ti won ra sinu irufe igbagbo kan ti o si le dibo lati se afihan awon ifilele ti agbegbe tabi idi kan.
 
-In effect, the criteria by which work is evaluated is completely subjective and its definition lives outside the source code itself. One community may wish to reward artists, another poets, and another comedians. Other communities may choose to reward charitable causes or help advance political agendas.
+Ni abajade, awon abawon ti ise ti ayewo ni kikun je pataki ati awon alaye itumo re ni ita si koodu orisun ara re. Agbegbe kan le fe lati san awon osere, awon oludawe mirran, ati awon elegbe apanilerin miiran. Awon agbgbe miiran le yan latisan esan awon idiyan tabi iranlowo awon eto isagbesiwaju isaju.
 
 The value each currency achieves depends upon the demand for influence within a particular community and how large the market believes each community can get. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
 
