@@ -286,17 +286,17 @@ Systemy takie jak BitShares, Nxt, Ripple, Counter Party, czy Stellar pozwalają 
 
 ### Opłaty są progiem wejścia
 
-Każda opłata tworzy próg wejścia dla nowych użytkowników. Przed możliwością eksperymentowania z Ethereum każdy musi nabyć trochę tokenów ETH. Ktokolwiek chcący zbudować zdecentralizowaną aplikację na Ethereum musi przekazać dalej koszty związane z prowadzeniem platformy do użytkowników. Kupno kryptowalut nie jest relatywnie łatwym zadaniem i rzadko kiedy ma sens dla kwot poniżej 10$. Oznacza to, że nowi użytkownicy chcący wypróbować nową zdecentralizowaną aplikację musi najpierw zostać przekonany do wsparcia jej kwotą większą niż 10$.
+Każda opłata tworzy próg wejścia dla nowych użytkowników. Przed możliwością eksperymentowania z Ethereum każdy musi nabyć trochę tokenów ETH. Ktokolwiek chcący zbudować zdecentralizowaną aplikację na Ethereum musi przekazać dalej koszty związane z prowadzeniem platformy do użytkowników. Kupno kryptowalut nie jest relatywnie łatwym zadaniem i rzadko kiedy ma sens dla kwot poniżej 10$. Oznacza to, że nowi użytkownicy chcący wypróbować nową zdecentralizowaną aplikację muszą najpierw zostać przekonani do wsparcia jej kwotą 10$.
 
 ### Zmiana wysokości opłat
 
-Z biegiem czasu sieci muszą dostosować wysokość opłat. Taka konieczność może zaistnieć z powodu wzrostu wartości żetonu lub ze względu powiększenie pojemności sieci. Użytkownicy lubią, kiedy opłaty są przewidywalne, zaś usługi świadczone przez dany serwis mają charakter stały. Podczas gdy istnieje możliwość dynamicznego dostosowywania wysokości opłat podczas dużego obciążenia, rezultatem takiego rozwiązania jest niski poziom doświadczenia użytkownika (z ang. user experience, przyp. tłum.).
+Z biegiem czasu sieci muszą dostosować wysokość opłat. Taka konieczność może zaistnieć z powodu wzrostu wartości żetonu lub ze względu powiększenie pojemności sieci. Użytkownicy lubią, kiedy opłaty są przewidywalne, zaś usługi świadczone przez dany serwis mają charakter stały. Podczas gdy istnieje możliwość dynamicznego dostosowywania wysokości opłat podczas dużego obciążenia, rezultatem takiego rozwiązania jest niski poziom doświadczenia użytkownika (z ang. user experience - przyp. tłum.)
 
 ### Ataki oparte na wykorzystaniu wielu podmiotów jednego użytkownika
 
 Scentralizowane strony internetowe zapobiegają ilościowym nadużyciom znanym jako spam poprzez ograniczanie ilości zapytań oraz którąś z dostępnych form identyfikacji osobowości. Nawet coś tak prostego jak reCAPTCHA[^9] jest wystarczającym środkiem do znacznego ograniczenia rejestracji fałszywych kont. Jeśli któryś użytkownik nadużywa systemu, wtedy scentralizowana aplikacja blokuje jego konto.
 
-W zdecentralizowanym systemie nie ma ani bezpośredniej możliwości by zablokowania użytkownika, ani też scentralizowanego dostawcy mogącego wdrożyć system zabezpieczeń taki jak reCAPTCHA i ograniczyć ilość tworzonych kont. Tak naprawdę to właśnie brak cenzury jest jednym z głównych powdów, które sprawiają, że technologia blochain jest tak popularna.
+W zdecentralizowanym systemie nie ma bezpośredniej możliwości by zablokowania użytkownika. Nie istnieje też scentralizowany dostawca, który mógłby wdrożyć system zabezpieczeń taki jak reCAPTCHA i ograniczyć ilość tworzonych kont. Tak naprawdę to właśnie brak cenzury jest jednym z głównych powdów, które sprawiają, że technologia blochain jest tak popularna.
 
 ### Pełen podział kontra częściowy podział
 
