@@ -168,9 +168,9 @@ Ijerisi Agbeklae ti ise se afihan ona miiran lati se pinpin owo kan ti o da lori
 
 Ni abajade, awon abawon ti ise ti ayewo ni kikun je pataki ati awon alaye itumo re ni ita si koodu orisun ara re. Agbegbe kan le fe lati san awon osere, awon oludawe mirran, ati awon elegbe apanilerin miiran. Awon agbgbe miiran le yan latisan esan awon idiyan tabi iranlowo awon eto isagbesiwaju isaju.
 
-Iye owo iyorisi owo kookan da lori idaniloju fun ipa laarin agbegbe kan ati bi o tobi oja ti gbogbo pe agbegbe kookan le gba. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
+Iye owo iyorisi owo kookan da lori idaniloju fun ipa laarin agbegbe kan ati bi o tobi oja ti gbogbo pe agbegbe kookan le gba. Kii awon ilana isaaju, eri imudaniloju ti ise n jeki awon awujo kan alti sajopo ni idagbasoke ti ohunkohun ti o ri niyeloru ati ki o se iranlowo fun iseduro owo ti akoko ti kii se owo ti ati yipada kiakia tele.
 
-### Distributing Currency
+### Pinpin Owo
 
 There are two ways people can get involved with a crypto-currency community: they can *buy in*, or they can *work in*. In both cases users are adding value to the currency, however, the vast majority of people have more *free time* than they do *spare cash*. Imagine the goal of bootstrapping a currency in a poor community with no actual *cash* but plenty of *time*. If people can earn money by working for one another then they will bootstrap value through mutual exchange facilitated by a fair accounting/currency system.
 
