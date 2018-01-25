@@ -356,7 +356,7 @@ Przy podejściu opartym o stopę ograniczającą, ktoś kto byłby gotów poświ
 
 ### Wynajem, kupno czy umowa timeshare
 
-Gdy ktoś posiada dom, oczekuje, że będzie mu wolno go używać za darmo. Jeśli zaś dom grupa ludzi kupuje wspólnie, oczekują oni prawa do użytku domu proporcjonalnie do włożonej kwoty. Blockchain oparty o podatki jest jak wynajem domu od jego właścicieli, gdzie ograniczenie stopą jest analogiczne do współudziału między właścicielami.
+Gdy ktoś posiada dom, oczekuje, że będzie mu wolno go używać za darmo. Jeśli zaś jakaś grupa ludzi kupi dom wspólnie, spodziewają się oni, że będą mogli korzystać z budynku, proporcjonalnie do kwoty, którą wyłożyli na zakup. Blockchain oparty o podatki jest jak wynajem domu od jego właścicieli, gdzie ograniczenie stopą jest analogiczne do współudziału między właścicielami.
 
 Jeżeli dom należy do wielu ludzi, wtedy muszą oni zdecydować jak chcą współdzielić dom. Ktoś, kto posiada 50% domu, lecz używa go tylko przez jeden weekend w roku może oczekiwać, że jednostki, które używają go pod jego nieobecność mu zapłacą. Jest to nastawienie analogiczne do systemu opartego o opłaty.
 
@@ -366,11 +366,11 @@ Wartość udziałów jest określona tym, jak dużo potencjalnego zysku może pr
 
 Bazując na tych przesłankach możemy dość do wniosku, że system oparty o opłaty będzie albo droższy w użyciu, albo mniej dochodowy dla właścicieli. Idywidualny właściciel może zyskać poprzez wynajem domu na krótki okres czasu, lecz tylko kosztem innych udziałowców. W efekcie spadająca wartość udziałów jest dzielona między wszystkich właścicieli, podczas gdy zyski są scentralizowane wokół jednego z nich, który zadecydował się wynająć dom.
 
-Możemy więc dojść do wniosku, iż najlepszym na platformy opartej o blockchain jest zrezygnowanie ze wszystkich opłat. Jeżeli naliczanie opłat transakcyjnych byłoby naliczane jako alternatywa do ograniczeń opartych o stopę, powinno być to analogią do kupna takiej ilości udziałów oraz użycie ich w taki sposób, żeby mieć możliwość wykorzystania ich w odpowiedni, jednorazowy sposób.
+Możemy więc dojść do wniosku, iż najlepszym rozwiązaniem dla platformy opartej o blockchain jest zrezygnowanie ze wszystkich opłat. Jeżeli naliczanie opłat transakcyjnych byłoby naliczane jako alternatywa do ograniczeń opartych o stopę, powinno być to analogią do kupna takiej ilości udziałów oraz użycie ich w taki sposób, żeby mieć możliwość wykorzystania ich w odpowiedni, jednorazowy sposób.
 
 Innymi słowy, opłaty transakcyjne powinny być równe minimalnemu saldu konta do podjęcia transakcji, by mogła być zwrócona na koniec tygodnia. Załóżmy, że minimalne saldo konta to 1$ i pozwala ono użytkownikowi dokonywać transakcji raz na tydzień. Wówczas, jeśli ktoś z saldem 1$ chciałby dokonać pięciu transakcji na raz, musiałby doładować swoje konto o 5$ przed lub po dokonaniu transakcji.
 
-W teorii rynek mógłby uformować instrument pozwalający pożyczyć wymaganą kwotę. W praktyce, bardziej wydajnym dla użytkowników jest po prostu kupić i sprzedać niezbędne udziały by spełnić wymagany wskaźnik wykorzystania. Innymi słowy koszt negocjacji mikro pożyczek jest większy niż koszt utrzymania salda odpowiedniego do twojego tygodniowego zapotrzebowania.
+W teorii rynek mógłby uformować instrument pozwalający na pożyczenie wymaganej kwoty. W praktyce, bardziej wydajnym dla użytkowników jest po prostu kupić i sprzedać niezbędne udziały by spełnić wymagany wskaźnik wykorzystania. Innymi słowy koszt negocjacji mikro pożyczek jest większy niż koszt utrzymania salda odpowiedniego do twojego tygodniowego zapotrzebowania.
 
 Zdecentralizowane ograniczenia transakcji oparte o stopę mogą otwierają umożliwiają powstanie nowych zdecentralizowanych aplikacji, które nie byłyby wykonalne bazując na sytemie mikropłatności. Ten nowy model daje deweloperom aplikacji możliwość zadecydowania czy oraz kiedy chcą oni rozliczać za dokonywanie transakcji.
 
@@ -421,15 +421,15 @@ Całościowy proces dostarczania jest skomplikowany przez operacje oparte na SBD
 
 ## Obecna alokacja i zaopatrzenie
 
-Zaczynając od procesu nazywanego hard forkiem sieci (opisuje on najczęściej porzucenie jednej wersji sieci na rzecz innej, o różniącym się zestawie cech, przyp. tłum.) w grudniu 2016 roku zaczął generowanie nowych tokenów z roczną inflacją wynoszącą 9.5%. Stopa inflacji zmniejsza z szybkością 0,01%, co 250 000 bloków lub około 0,5% rocznie. Inflacja będzie się dalej zmniejszać w tym tempie, dopóki nie uzyska wartości 0.95% rocznie. To zajmie około 20,5 roku od momentu, gdy hardfork 16 wszedł w życie.
+Zaczynając od procesu nazywanego hard forkiem sieci (opisuje on najczęściej porzucenie jednej wersji sieci na rzecz innej, o różniącym się zestawie cech - przyp. tłum.). W grudniu 2016 roku Steem zaczął generowanie nowych tokenów z roczną inflacją wynoszącą 9.5%. Stopa inflacji zmniejsza z szybkością 0,01%, co 250 000 bloków. Rocnie wnosi to około 0,5%. Inflacja będzie się dalej zmniejszać w tym tempie, dopóki nie uzyska wartości 0.95% rocznie. To zajmie około 20,5 roku, licząc od momentu, gdy hardfork 16 wszedł w życie.
 
-75% nowych tokenów jest generowanych na rzecz wspierania puli nagród, która jest dzielona między autorów oraz kuratorów. 15% nowych żetonów trafia do posiadaczy SP. Pozostałe 10% wypłacane jest świadkom, którzy napędzają blockchain.
+75% nowych tokenów trafia do puli nagród, która jest dzielona między autorów oraz kuratorów. 15% nowych żetonów trafia do posiadaczy SP. Pozostałe 10% wypłacane jest świadkom, którzy napędzają blockchain.
 
 ### Wpływ Współczynnika Tworzenia Tokenów
 
 Powszechnie mówi się, że waluty oparte o model inflacyjny, ale na podstawie niezliczonych przykładów z życia codziennego wiemy, że ilość pieniądza nie ma bezpośredniego wpływu na jego wartość, choć z pewnością ogrywa w tym ważną rolę.
 
-Od sierpnia 2008 roku do stycznia roku 2009 podaż pieniądza w Stanach Zjednoczonych [^15] wzrósł z 871 miliardów dolarów do 1,737 biliona dolarów, przy tempie ponad 100% rocznie, potem kontynuował wzrost przy tempie około 20% rocznie przez następne 6 lat. Podsumowując, podaż pieniądza w Stanach Zjednoczonych wzrosła 4.58 raza przez mniej niż 7 lat. W tym samym czasie, wartość dolara w stosunku do dóbr i usług spała o mniej niż 10% w odniesieniu do rządowego wskaźnika cen towarów i usług konsumpcyjnych [^16] (z ang. government's price index, przyp. tłum.). Przykład z życia codziennego pokazuje, że podaż jest tylko jednym z komponentów wpływających na cenę.
+Od sierpnia 2008 roku do stycznia roku 2009 podaż pieniądza w Stanach Zjednoczonych [^15] wzrósł z 871 miliardów dolarów do 1,737 biliona dolarów, przy tempie ponad 100% rocznie, potem kontynuował wzrost przy tempie około 20% rocznie przez następne 6 lat. Podsumowując, w ciągu niecałych7 lat podaż pieniądza w Stanach Zjednoczonych wzrosła 4.58 raza. W tym samym czasie, wartość dolara w stosunku do dóbr i usług spała o mniej niż 10% w odniesieniu do rządowego wskaźnika cen towarów i usług konsumpcyjnych [^16] (z ang. government's price index, przyp. tłum.). Przykład z życia codziennego pokazuje, że podaż jest tylko jednym z komponentów wpływających na cenę.
 
 Przez pierwsze 2 lata życia platformy Bitcoin, sieć przetrwała roczną stopę inflacyjną[^17] wynoszącą ponad 100%. Przez pierwsze 5 lat to było ponad 30%, a dla pierwszych 8 lat to było ponad 10%. Podsumowując, całkowite "wydatki" platformy Steem finansujące produkcję treści, jej ocenę a także produkcję bloków są mniejsze niż 10% rocznej stopy procentowej.
 
