@@ -160,9 +160,9 @@ Ti ipin ti gbese-nini-nini ni o ga julo ti o lagbara ati pe awon alabasepo oluko
 
 Awon iyipada si eto imulo owo osuwon ati/tabi awon sisan/awon sisan eyikeyi lori iyipada STEEMU/SBD ye ki o je ilowu lora ati muwon si awon iyato ti awon igba pipe ju kukun lo lati dahun si awon ipo isowo kukuru.
 
-O je igbagbo wa pe awon ofin wonyi yoo fun awon alabasepo ti isowo ni igbekele pe won ko padanu owo won nipa diduro SBD ti won ra ni owo ti dola kan. We fully expect there to be a narrow trading range between $0.95 and $1.05 for SBD under normal market conditions.
+O je igbagbo wa pe awon ofin wonyi yoo fun awon alabasepo ti isowo ni igbekele pe won ko padanu owo won nipa diduro SBD ti won ra ni owo ti dola kan. A ni kikun reti nibe lati wa ni isowo isowo to wa laari owo dola odo. aadorun marun ati owo dola kan. odo marun fun SBD labe ipo isowo deede.
 
-## Subjective Contributions
+## Ipese Asayan
 
 Subjective Proof of Work presents an alternative approach to distributing a currency that improves upon fully *objective* Proof of Work systems such as mining. The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
 
