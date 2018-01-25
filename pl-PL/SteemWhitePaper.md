@@ -348,15 +348,15 @@ STEEM używany do prefinansowania nowych kont jest przekazywany poprzez proces w
 
 ### Efektywność relatywna do wysokości opłat
 
-By porównać efektywność stopy ograniczającej do wysokości opłat musimy porównać jak oba systemy reagują na zalew sieci przez atakującego. W sieci Bitcoin atakujący z saldem 10.000 dolarów byłby w stanie zakłócić działanie serwisu przez cały dzień wypełniając każdy blok. Ten sam atakujący nie byłby jednak w stanie zakłócić działania serwisu, wspieranego ograniczeniem opartym na mechanizmie częściowego podziału.
+By porównać efektywność stopy ograniczającej do wysokości opłat musimy porównać jak oba systemy reagują na zalew sieci przez atakującego. W sieci Bitcoin atakujący z saldem 10.000 dolarów byłby w stanie zakłócić działanie serwisu przez cały dzień, wypełniając każdy blok sieci. Ten sam atakujący nie byłby jednak w stanie zakłócić działania serwisu, wspieranego ograniczeniem opartym na mechanizmie częściowego podziału.
 
-Jeśli weźmiemy pod uwagę bardziej skrajne przypadki i założymy że atakujący posiada 1% wartości całej gospodarki, wtedy zakładamy, że atakujący posiada 60 milionów dolarów. Wspomniany atakujący mógłby zablokować łańcuch bloków systemu Bitcoin na 16 lat, chyba że górnicy podwyższyliby opłaty lub jego pojemność. Nawet jeśli opłaty zostałyby podwyższone do 15$ za transakcję, atakujący mógłby wciąż blokować sieć przez ponad 16 dni.
+Jeśli weźmiemy pod uwagę bardziej skrajne przypadki i założymy że atakujący posiada 1% wartości całej gospodarki, wtedy musimy uznać, e dysponuje on kwotą 60 milionów dolarów. Wspomniany atakujący mógłby zablokować łańcuch bloków systemu Bitcoin na 16 lat, chyba że górnicy podwyższyliby opłaty lub jego pojemność. Nawet jeśli opłaty zostałyby podwyższone do 15$ za transakcję, atakujący mógłby wciąż blokować sieć przez ponad 16 dni.
 
 Przy podejściu opartym o stopę ograniczającą, ktoś kto byłby gotów poświęcić 1% całej gospodarki by zablokować sieć, osiągnąłby zamierzony cel na mniej niż 30 sekund.
 
-### Wynajem, kupno czy współudział?
+### Wynajem, kupno czy umowa timeshare
 
-Gdy ktoś posiada dom, oczekuje, że będzie go używać za darmo. Jeśli zaś dom grupa ludzi kupuje wspólnie, oczekują oni prawa do użytku domu proporcjonalnie do włożonej kwoty. Blockchain oparty o podatki jest jak wynajem domu od jego właścicieli, gdzie ograniczenie stopą jest analogiczne do współudziału między właścicielami.
+Gdy ktoś posiada dom, oczekuje, że będzie mu wolno go używać za darmo. Jeśli zaś dom grupa ludzi kupuje wspólnie, oczekują oni prawa do użytku domu proporcjonalnie do włożonej kwoty. Blockchain oparty o podatki jest jak wynajem domu od jego właścicieli, gdzie ograniczenie stopą jest analogiczne do współudziału między właścicielami.
 
 Jeżeli dom należy do wielu ludzi, wtedy muszą oni zdecydować jak chcą współdzielić dom. Ktoś, kto posiada 50% domu, lecz używa go tylko przez jeden weekend w roku może oczekiwać, że jednostki, które używają go pod jego nieobecność mu zapłacą. Jest to nastawienie analogiczne do systemu opartego o opłaty.
 
