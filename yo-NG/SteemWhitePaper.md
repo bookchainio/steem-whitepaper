@@ -160,7 +160,7 @@ Ti ipin ti gbese-nini-nini ni o ga julo ti o lagbara ati pe awon alabasepo oluko
 
 Awon iyipada si eto imulo owo osuwon ati/tabi awon sisan/awon sisan eyikeyi lori iyipada STEEMU/SBD ye ki o je ilowu lora ati muwon si awon iyato ti awon igba pipe ju kukun lo lati dahun si awon ipo isowo kukuru.
 
-It is our belief that these rules will give market participants confidence that they are unlikely lose money by holding SBD purchased at a price of $1.00. We fully expect there to be a narrow trading range between $0.95 and $1.05 for SBD under normal market conditions.
+O je igbagbo wa pe awon ofin wonyi yoo fun awon alabasepo ti isowo ni igbekele pe won ko padanu owo won nipa diduro SBD ti won ra ni owo ti dola kan. We fully expect there to be a narrow trading range between $0.95 and $1.05 for SBD under normal market conditions.
 
 ## Subjective Contributions
 
