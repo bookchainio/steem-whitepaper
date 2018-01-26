@@ -186,7 +186,7 @@ Igbese ti o tele ni lati san fun gbogbo awon aniyan ti o se ohunkohun paapaa lat
 
 Se akiyesi pe iye owo ti o wa titi lati safihan, ati pe awon ti o ni eto ti o ni igba pipe ni iye iwaju ati ise-sise ti owo naa ni awon tio gbodo pinnu bi a se le sokoto re. Olukuluku olumulo ti o nfun o fi idi won si awon ti o se ise ti o dara ju ati ni opin ojo ti owo ti o wa fun ojo naa pin ni iwon si awon idibo gegebi gbogbo awon eniyan ti o ni ani okan ninu idibo ti o wa ni ipile ti n ni nkankan.
 
-The naive voting process creates a N-Person Prisoner’s Dilemma[^5] whereby each individual voter has incentive to vote for themselves at the expense of the larger community goal. If every voter defects by voting for themselves then no currency will end up distributed and the currency as a whole will fail to gain network effect. On the other hand, if only one voter defects then that voter would win undeserved profits while having minimal effect on the overall value of the currency.
+Ilana oludibo ti o rorun ni o seda iwon Awon elewon ti N-Eniyan ti o je pe olukuluku oluluku kookna ni ipa lati dibo fun ara won laibikita fun ipinnu agbalagba nla. If every voter defects by voting for themselves then no currency will end up distributed and the currency as a whole will fail to gain network effect. On the other hand, if only one voter defects then that voter would win undeserved profits while having minimal effect on the overall value of the currency.
 
 #### Voting Abuse
 
