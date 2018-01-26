@@ -82,11 +82,11 @@ Sa pagitan ng cryptocurrency, karamihan sa mga mananapalaran ay tumatalon mula s
 
 Ang mga gumagamit ay maaring ipagkatiwala ang kanilang STEEM sa isang labingtatlong linggo na vesting, at binibigyan ng mga karagdagang benepisyo sa loob ng plataporma. Ang STEEM na napagkatiwala sa labintatlong linggon na vesting ay tinatawag na Steem Power (SP). Ang mga SP na balanse ay di-transferable at di-mahahati maliban sa pamamagitan ng awtomatikong umuulit na mga kahilingan na kombersyon. Nangangahulugan na ang SP ay hindi madaling mapalitan sa mga pagpalitan ng cryptocurrency.
 
-When users vote on content, their influence over the distribution of the rewards pool is directly proportional to the amount of SP that they have. Users with more SP have more influence on the distribution of rewards. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
+Kapag ang mga gumagamit ay nagboto sa mga nilalaman, ang kanilang impluwensiya sa pamamahagi ng pool ng mga gantimpala ay direktang proporsyonal sa halaga ng SP na mayroon sila. Ang mga gumagamit na may mas maraming SP ay may higit na impluwensya sa distribusyon ng mga gantimpala. Nangangahulugan na ang SP ay isang access token na nagbibigay daan sa mga tagapaghawak nito ng eksklusibong kapangyarihan sa loob ng plataporma ng Steem.
 
-SP holders are also paid interest on the balance of SP that remains vested. 15% of the yearly inflation is paid to SP holders as interest. The amount of the interest that they receive is directly proportional to the amount of SP they hold relative to the total amount of vested SP across all users.
+Ang mayhawak ng SP ay binabayaran rin ng iteres sa balanse ng SP na nananatiling vested. 15% ng taunang implasyon ay binabayad sa mga mayhawak ng SP bilang interes. Ang halaga ng interes na natatanggap nila ay direktang proporsyonal sa dami ng SP na hawak nila kaugnay sa kabuuang halaga ng SP na vested sa kabuuan ng lahat ng mga gumagamit.
 
-Transferring from STEEM to SP is referred to as “powering up”, while transferring from SP to STEEM is referred to as “powering down.” SP that is powered down is returned to the user over a period of thirteen weeks, via 13 equal weekly payments, starting one week after the power down is initiated.
+Ang paglilipat ng STEEM sa SP ay tintawag ang "powering up", habang ang paglilipat mula sa SP sa STEEM ay tinatawag na "powering down." Ang SP na powered down ay binabalik sa gumagamit sa loob ng labingtatlong linggo, via 13 pantay na lingguhang pagbayad, na nagsisimula isang linggo pagktapos ng pag simula ang pag power down.
 
 ## Steem Dollars (SBD)
 
