@@ -106,13 +106,13 @@ Kahit na lahat ng mga tagapagbuo ng feed ay matapat, posible parin para sa karam
 
 Tinatanggal ng Steem ang mga panandaliang pagbago sa presyo sa pamamagitan ng paggamit ng panggitna na presyo sa loob ng tatlo at kalahitang araw. Ang panggitna na na-publish ay sinusuri bawat oras.
 
-Habang ang katawalian sa feed ng presyo ay tumatagal ng mas mababa pa sa kalahati sa gumagalaw na oras na window ng panggitna ito ay magkakaroon ng maliit na epekto sa presyo ng kombersyon. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
+Habang ang katawalian sa feed ng presyo ay tumatagal ng mas mababa pa sa kalahati sa gumagalaw na oras na window ng panggitna ito ay magkakaroon ng maliit na epekto sa presyo ng kombersyon. Sa mga kaganapan na masisira ang feed, ang mga kalahok ng network ay magkakaroon ng oportunidad na iboto na tanggalin ang mga tiwaliong tagapagbuo ng mga feed bago pa makaapekto ang sira na feed sa aktwal na presyo ng kombersyon. Marahil na mas mahalaga pa, ito ay nagbibigay oportunidad sa mga tagapagbuo ng feed na matukoy at ayusin ang mga isyu bago pa maapektuhan ng mga feed nila ang presyo.
 
-With a three and a half day window, community members have approximately one and a half days to respond to any issues that come up.
+Sa tatlo at kalahating araw na bintana, ang mga miyembro ng komunidad ay may higit-kumulang isa at kalahiting aray upang sagutin ang anumang mga isyu na magpakita.
 
-### Mitigating Timing Attacks
+### Pagbawas sa mga Atake sa Panahon
 
-Market participants have access to information faster than the blockchain’s three and a half day moving median conversion price can react. Ang mga impormasyon na ito ay maaring magamit sa kapakanan ng mga negosyante sa kapalit ng komunidad. Kung mayroong biglaang pagtaas sa halaga ng STEEM maaaring hilingin ng mga mangangalakal na palitan ang kanilang SBD sa lumang halaga, mas mababang presyo, at ibenta ang STEEM na natanggap nila sa bagong mas mataas na presyo sa kaunting panganib.
+Ang mga kalahok sa merkado ay may access sa impormasyon na mas mabilis kaysa sa tatlo at kalahating araw na maka epekto ang paglipat ng panggitna na presyo ng kombersyon. Ang mga impormasyon na ito ay maaring magamit sa kapakanan ng mga negosyante sa kapalit ng komunidad. Kung mayroong biglaang pagtaas sa halaga ng STEEM maaaring hilingin ng mga mangangalakal na palitan ang kanilang SBD sa lumang halaga, mas mababang presyo, at ibenta ang STEEM na natanggap nila sa bagong mas mataas na presyo sa kaunting panganib.
 
 Pinapantay ng Steem ang playing field sa pamamagitan ng pag hingi sa lahat ng mga hiling ng kombersyon na maantala ng tatlo at kalahating araw. Ang ibig sabihin nito ay hindi ang mga mangangalakal o ang blockchain ay may kalamangan sa impormasyon tungkol sa presyo na sa oras na isinagawa ang conversion.
 
@@ -130,9 +130,9 @@ A rapid change in the value of STEEM can dramatically change the debt-to-ownersh
 
 The percentage floors used to compute STEEM creation are based on the supply including the STEEM value of all outstanding SBD and SP (as determined by the current rate / feed).
 
-### Interest
+### Interes
 
-SBD pays holders interest. The interest rate is set by the same people who publish the price feed so that it can adapt to changing market conditions. All debt carries risk to the lender. Someone who holds SBD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SBD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
+Ang SBD ay bumabayad sa mayhawak ng interes. Ang bilis ng interes ay itinakda ng parehong tao na nag-publish sa feed ng presyo upang maangkop sa pagbabago ng kondisyon ng merkado. All debt carries risk to the lender. Someone who holds SBD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SBD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
 
 STEEM and SP holders gain leverage when members of the community are willing to hold SBD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
 
