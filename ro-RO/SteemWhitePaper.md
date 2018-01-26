@@ -248,7 +248,7 @@ Considerentul primar este determinarea mărturiei permisă să intre în raportu
 
 ## Consesnsul în Steem
 
-La nivel conceptual, algoritmul de consens este adoptat de Steem într-o manieră similară cu adoptarea algoritmului adoptat de companii din întreaga lume. People with a vested interest in the future value of Steem vote to select individuals responsible for including testimony in the public record. Voting is weighted proportional to each individual's vested interest.
+La nivel conceptual, algoritmul de consens este adoptat de Steem într-o manieră similară cu adoptarea algoritmului adoptat de companii din întreaga lume. Persoanele care au un investit în viitoarea valoare a Steem, votează pentru a selecta indivizi responsabili pentru includerea mărturiei în registrul public. Ponderea votului este proporțională cu interesul individual investit.
 
 In the world of cryptocurrencies, the public record is commonly referred to as a *blockchain*. A *block* is a group of signed transactions.
 
