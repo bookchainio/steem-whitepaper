@@ -244,11 +244,11 @@ Consensul este un proces prin care o comunitate ajunge la un acord recunoscut ge
 
 The algorithms used by cryptocurrencies provide a better way to reach consensus. Cryptographically signed testimony from individuals is recorded in a public ledger that establishes the absolute global order of events. A deterministic computer algorithm can then process this ledger to derive a universally accepted conclusion. So long as the members of a community agree on the processing algorithm, the result of the algorithm is authoritative.
 
-Considerentul primar este determinarea mărturiei permisă să intre în raporturile publice. Sistemele are trebuie proiectate să minimizeze potețialitatea cenzurării. Cenzura pe registru public este similară cu prevenirea unei persoane de a vota la alegeri. In both cases an individual is prevented from impacting the global consensus.
+Considerentul primar este determinarea mărturiei permisă să intre în raporturile publice. Sistemele are trebuie proiectate să minimizeze potețialitatea cenzurării. Cenzura pe registru public este similară cu prevenirea unei persoane de a vota la alegeri. În ambele cazuri un idivid este împiedicat să aibe un impact asupra consensului global.
 
-## Consensus in Steem
+## Consesnsul în Steem
 
-Conceptually, the consensus algorithm adopted by Steem is similar to the consensus algorithm adopted by companies throughout the world. People with a vested interest in the future value of Steem vote to select individuals responsible for including testimony in the public record. Voting is weighted proportional to each individual's vested interest.
+La nivel conceptual, algoritmul de consens este adoptat de Steem într-o manieră similară cu adoptarea algoritmului adoptat de companii din întreaga lume. People with a vested interest in the future value of Steem vote to select individuals responsible for including testimony in the public record. Voting is weighted proportional to each individual's vested interest.
 
 In the world of cryptocurrencies, the public record is commonly referred to as a *blockchain*. A *block* is a group of signed transactions.
 
