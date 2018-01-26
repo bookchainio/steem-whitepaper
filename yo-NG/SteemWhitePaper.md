@@ -182,7 +182,7 @@ Igbese akoko ni fifun awon millionu ti awon olumulo ni lati se si pinpin owo ti 
 
 Igbese ti o tele ni lati san fun gbogbo awon aniyan ti o se ohunkohun paapaa latona jijin pelu ohun kan. Eyi ni aseyori nipase ogo gbogbo ise ti o se ati pin pin-an si iye re. Awon die ifigagbaga awon oja di awon nira sii (didara to gaju tabi opoiye) o di lati jojuto isan jade kaana.
 
-### Voting on Distribution of Currency
+### Idbo lori Pinpin Owo
 
 Assume there is a fixed amount of money to distribute, and that those who have a long-term vested interest in the future value and utility of the currency are the ones who must decide how to allocate it. Every vesting user casts their votes on who did the best work and at the end of the day the available money for that day is divided proportional to the votes such that everyone with even one net positive vote gets something.
 
