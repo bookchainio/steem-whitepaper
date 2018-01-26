@@ -60,9 +60,9 @@ O voto dos membros da comunidade é crítico para o Steem alocar com precisão o
 
 # Formas de Contribuição
 
-This section outlines the ideas behind Steem and its rewards for people who provide meaningful and measurable contributions to the Steem community.
+Esta secção descreve as ideias por detrás do Steem e as suas recompensas para as pessoas que fornecem contribuições significativas e mensuráveis para a comunidade do Steem.
 
-## Capital Contributions
+## Contribuições de Capital
 
 There are two items a community can offer to attract capital: debt and ownership. Those who buy ownership profit when the community grows but lose if the community shrinks. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
 
