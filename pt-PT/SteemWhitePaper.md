@@ -82,13 +82,13 @@ No espaço da criptomoeda, os especuladores saltam de criptomoeda em criptomoeda
 
 Usuários são capazes de comprometer a sua STEEM para um período de aquisição de treze semanas, proporcionando-lhes benefícios adicionais dentro da plataforma. STEEM que comprometeu-se para um período de aquisição de treze semanas é chamada Steem Power (SP). Saldos SP são intransferíveis e não-divisíveis excepto através das solicitações de conversão automaticamente recorrentes. Isto significa que SP não pode ser facilmente trocada em trocas de criptomoedas.
 
-Quando os usuários votam sobre o conteúdo, a sua influência sobre a distribuição dos reservatórios de recompensas é directamente proporcional à quantidade de SP que eles têm. Users with more SP have more influence on the distribution of rewards. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
+Quando os usuários votam sobre o conteúdo, a sua influência sobre a distribuição dos reservatórios de recompensas é directamente proporcional à quantidade de SP que eles têm. Usuários com mais SP têm mais influência na distribuição de recompensas. Isto significa que SP é um símbolo de acesso que garante os detentores poderes exclusivos dentro da plataforma Steem.
 
-SP holders are also paid interest on the balance of SP that remains vested. 15% of the yearly inflation is paid to SP holders as interest. The amount of the interest that they receive is directly proportional to the amount of SP they hold relative to the total amount of vested SP across all users.
+Os detentores de SP também são pagos juros no saldo de SP que continua a ser aquirido. 15% da inflação anual é paga aos detentores de SP como interesse. A quantidade de interesse que eles recebem é directamente proporcional à quantidade de SP que mantém relativamente ao montante total de SP adquirido por todos os usuários.
 
-Transferring from STEEM to SP is referred to as “powering up”, while transferring from SP to STEEM is referred to as “powering down.” SP that is powered down is returned to the user over a period of thirteen weeks, via 13 equal weekly payments, starting one week after the power down is initiated.
+Transferir de STEEM para SP é referido como "powering up", enquanto que transferir de SP para STEEM é referido como "powering down". SP que é "powered down" é retornada ao usuário durante um período de treze semanas, através de 13 pagamentos iguais semanais, começando uma semana depois do "power down" ser iniciado.
 
-## Steem Dollars (SBD)
+## Steem dólares (SBD)
 
 Stability is an important feature of successful global economies. Without stability, individuals across the world could not have low cognitive costs while engaging in commerce and savings. Because stability is an important feature of successful economies, Steem Dollars were designed as an attempt to bring stability to the world of cryptocurrency and to the individuals who use the Steem network.
 
