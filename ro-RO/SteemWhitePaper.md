@@ -244,7 +244,7 @@ Consensul este un proces prin care o comunitate ajunge la un acord recunoscut ge
 
 The algorithms used by cryptocurrencies provide a better way to reach consensus. Cryptographically signed testimony from individuals is recorded in a public ledger that establishes the absolute global order of events. A deterministic computer algorithm can then process this ledger to derive a universally accepted conclusion. So long as the members of a community agree on the processing algorithm, the result of the algorithm is authoritative.
 
-Considerentul primar este determinarea mărturiei permisă să intre în raporturile publice. Sistemele are trebuie proiectate să minimizeze potețialitatea cenzurării. Censorship on the public ledger is similar to preventing someone from voting in an election. In both cases an individual is prevented from impacting the global consensus.
+Considerentul primar este determinarea mărturiei permisă să intre în raporturile publice. Sistemele are trebuie proiectate să minimizeze potețialitatea cenzurării. Cenzura pe registru public este similară cu prevenirea unei persoane de a vota la alegeri. In both cases an individual is prevented from impacting the global consensus.
 
 ## Consensus in Steem
 
