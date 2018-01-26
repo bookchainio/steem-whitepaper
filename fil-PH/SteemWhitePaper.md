@@ -196,13 +196,13 @@ Fortunately, any work that is getting a large concentration of votes is also gai
 
 The use of *negative-voting* to keep people from abusing the system leverages the *crab mentality* that many people have when it is perceived that one individual is profiting at the expense of everyone else. While crab mentality normally refers to short-sighted people keeping good people down, it is also what allows good people to keep bad people down. The only “problem” with crab mentality is when people *wrongly believe* someone is profiting at everyone else's expense.
 
-**The Story of the Crab Bucket**[^6]
+**Ang Kuwento ng Balde na Alimango**[^6]
 
-A man was walking along the beach and saw another man fishing in the surf with a bait bucket beside him. As he drew closer, he saw that the bait bucket had no lid and had live crabs inside.
+Mayroong isang lalake na naglalakad sa baybayin at nakakakita ng isa pang lalake na nangingisda sa surf na may balde ng bait sa tabi niya. Habang lumalapit siya, nakita niya na ang balde ng bait ay walang takip at mayroong buhat na mga alimango sa loob.
 
-"Why don't you cover your bait bucket so the crabs won't escape?", he said.
+"Bakit hindi mo takpan ang iyong balde ng bait upang hindi makalabas ang mga alimango?", sabi niya.
 
-"You don't understand.", the man replied, "If there is one crab in the bucket it would surely crawl out very quickly. However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
+"Hindi mo naiintindihan.", sagot ng lalake, "Kapag isa lang ang alimango sa balde tiyak na mabilis ito makakagapang palabas. However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
 
 So it is with people. If one tries to do something different, get better grades, improve herself, escape her environment, or dream big dreams, other people will try to drag her back down to share their fate.
 
