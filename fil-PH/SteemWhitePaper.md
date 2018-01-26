@@ -132,13 +132,13 @@ The percentage floors used to compute STEEM creation are based on the supply inc
 
 ### Interes
 
-Ang SBD ay bumabayad sa mayhawak ng interes. Ang bilis ng interes ay itinakda ng parehong tao na nag-publish sa feed ng presyo upang maangkop sa pagbabago ng kondisyon ng merkado. All debt carries risk to the lender. Someone who holds SBD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SBD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
+Ang SBD ay bumabayad sa mayhawak ng interes. Ang bilis ng interes ay itinakda ng parehong tao na nag-publish sa feed ng presyo upang maangkop sa pagbabago ng kondisyon ng merkado. Lahat ng utang ay nagdadala ng panganib sa mga tagapagpahiram. Someone who holds SBD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SBD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
 
-STEEM and SP holders gain leverage when members of the community are willing to hold SBD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
+Ang mga mayhawak ng STEEM at SP ay makakuha ng pagkilos kapag ang mga miyembro ng komunidad ay handa humawak ng SBD. Ang pagkilos na ito ay pinapalakas ang kita mula sa paglago habang nag-aambag sa paglago. Ang mga mayhawak ng STEEM ay nagdudusa mula sa pagtaas ng pagbabanto kapag bumababa ang presyo. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
 
 ### Setting Price Feeds
 
-Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
+Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. Sa ekonomiks may isang alintuntunin na kilala bilang Impossible Trinity[^4] na nagsasaad na imposible na lahat ng tatlo ay magkaroon sa parehong oras:
 
 1. Isang matatag na exchange rate
 2. Free capital movement
