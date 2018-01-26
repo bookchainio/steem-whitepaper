@@ -238,9 +238,9 @@ Când un articol primește un câștig, acesta se împarte în 50% SBD și 50% S
 
 Utilizatorii au, de asemenea, opțiunea să fie plătiți cu 100% SP, sau să refuze plata. Atunci când un utilizator refuză plata pentru un articol, câștigurile destinate lui se duc în bazinul de recompense, pentru a fi distrubuiți către alți utilizatori.
 
-# Consensus Algorithm
+# Algoritm de Consens
 
-Consensus is the process by which a community comes to a universally recognized, unambiguous agreement on piece of information. There are many algorithms society has developed for reaching consensus about who owns what. Every government on earth is a primitive consensus algorithm whereby the population agrees to abide by a certain set of rules enshrined in a constitution. Governments establish courts, judges, and juries to interpret the subjective facts and render a final decision. Most of the time people abide by the decision even if it was wrong.
+Consensul este un proces prin care o comunitate ajunge la un acord recunoscut general, fără ambiguitate în ceea ce privește informația. There are many algorithms society has developed for reaching consensus about who owns what. Every government on earth is a primitive consensus algorithm whereby the population agrees to abide by a certain set of rules enshrined in a constitution. Governments establish courts, judges, and juries to interpret the subjective facts and render a final decision. Most of the time people abide by the decision even if it was wrong.
 
 The algorithms used by cryptocurrencies provide a better way to reach consensus. Cryptographically signed testimony from individuals is recorded in a public ledger that establishes the absolute global order of events. A deterministic computer algorithm can then process this ledger to derive a universally accepted conclusion. So long as the members of a community agree on the processing algorithm, the result of the algorithm is authoritative.
 
