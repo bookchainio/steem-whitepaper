@@ -74,9 +74,9 @@ Ang steem ang pangunahing yunit ng akawnt sa Steem blockchain. Lahat ng ibang ur
 
 ## Steem Power (SP)
 
-Ang mga start up na kompanya ay nangangailangan ng pang-matagalang pangako sa puhunana. Aasahan ng mga mamuhunan ng pera sa isang startup na iilang taon pa maghihintay bago pwedeng ibenta ang kanilang bahagi at kumita. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
+Ang mga start up na kompanya ay nangangailangan ng pang-matagalang pangako sa puhunana. Aasahan ng mga mamuhunan ng pera sa isang startup na iilang taon pa maghihintay bago pwedeng ibenta ang kanilang bahagi at kumita. Kapag walang pang-matagalang pangako, ang isang startup na naghahanap ng karagdagang kapital sa pamamagitan ng pag benta ng karagdagang bahagi ay makikipagkumpitensya sa mga umiiral na shareholders na gustong lumabas. Ang mga matalinong mamuhunan ay gusto na ang kanilang iniambag na kapital ay ma gamit upang mapalaki ang kompanya, pero hindi maaaring mangyari ang paglago kapag ang bagong kapital ay mabibigay sa mga gustong lumabas.
 
-There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
+Malaking halaga ang pagkakaroon ng pang-matagalang pangako dahil nagbibigay-daan ito sa mga komunidad na gumawa ng mga pang-matagalang mga plano. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
 
 In the cryptocurrency space, speculators jump from cryptocurrency to cryptocurrency based mostly on which one is expected to have short-term growth. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
 
