@@ -74,7 +74,7 @@ Ang steem ang pangunahing yunit ng akawnt sa Steem blockchain. Lahat ng ibang ur
 
 ## Steem Power (SP)
 
-Start up companies require long-term capital commitment. Those who invest their money in a startup expect to wait years before they can sell their shares and realize their profits. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
+Ang mga start up na kompanya ay nangangailangan ng pang-matagalang pangako sa puhunana. Aasahan ng mga mamuhunan ng pera sa isang startup na iilang taon pa maghihintay bago pwedeng ibenta ang kanilang bahagi at kumita. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
 
 There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
 
