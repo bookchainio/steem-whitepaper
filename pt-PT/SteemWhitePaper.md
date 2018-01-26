@@ -78,11 +78,11 @@ Empresas iniciantes necessitam um investimento de capital a longo termo. Quem in
 
 Há um valor significativo para ter um compromisso a longo prazo, pois permite que às comunidades fazerem planos a longo prazo. Os participantes interessados em compromissos em longo prazo também os vai causar votar para crescimento a longo prazo ao invés de bombas a curto prazo.
 
-No espaço da criptomoeda, os especuladores saltam de criptomoeda em criptomoeda baseados principalmente em qual é esperada ter um crescimento a curto prazo. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
+No espaço da criptomoeda, os especuladores saltam de criptomoeda em criptomoeda baseados principalmente em qual é esperada ter um crescimento a curto prazo. Steem quer construir uma comunidade que na maior parte pertence e é inteiramente controlada por aqueles que têm uma perspectiva de longo prazo.
 
-Users are able to commit their STEEM to a thirteen week vesting schedule, providing them with additional benefits within the platform. STEEM that has been committed to a thirteen week vesting schedule is called Steem Power (SP). SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
+Usuários são capazes de comprometer a sua STEEM para um período de aquisição de treze semanas, proporcionando-lhes benefícios adicionais dentro da plataforma. STEEM que comprometeu-se para um período de aquisição de treze semanas é chamada Steem Power (SP). Saldos SP são intransferíveis e não-divisíveis excepto através das solicitações de conversão automaticamente recorrentes. Isto significa que SP não pode ser facilmente trocada em trocas de criptomoedas.
 
-When users vote on content, their influence over the distribution of the rewards pool is directly proportional to the amount of SP that they have. Users with more SP have more influence on the distribution of rewards. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
+Quando os usuários votam sobre o conteúdo, a sua influência sobre a distribuição dos reservatórios de recompensas é directamente proporcional à quantidade de SP que eles têm. Users with more SP have more influence on the distribution of rewards. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
 
 SP holders are also paid interest on the balance of SP that remains vested. 15% of the yearly inflation is paid to SP holders as interest. The amount of the interest that they receive is directly proportional to the amount of SP they hold relative to the total amount of vested SP across all users.
 
