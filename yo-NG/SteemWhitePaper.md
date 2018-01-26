@@ -180,7 +180,7 @@ Lati le fun gbogbo awon eniyan ni anfani kanna lati darapo si ati lati gba owo a
 
 Igbese akoko ni fifun awon millionu ti awon olumulo ni lati se si pinpin owo ti o wa titi laiwo iru ise ti a se gangan tabi bi awon olumulo se dibo. Eyi n yi ibere naa pada lati wa O ye ki a sanwo? si Tani lo ye ki a sanswo? ati awon ifihan gbara si oja ti a pin pin owo ati pe a ti n tita fun enikeni ti o "se atileyin ise julo. Eyi ni iru Bitcoinu se lati gba aadota BTC si eniti o ba ri awon isiro ti o nira julo. Bi Bitcoinu, gbogbo ise gbodo see se saaju-lati sanwo ati pe ohunkohun ko ye ki o san sanwoye lori ileri lati se ise ni ojo iwaju.
 
-The next step is to reward everyone who does anything even remotely positive with *something*. This is accomplished by ranking all work done and distributing proportionally to its value. The more competitive the market becomes, the more difficult (higher quality or quantity) it becomes to earn the same payout.
+Igbese ti o tele ni lati san fun gbogbo awon aniyan ti o se ohunkohun paapaa latona jijin pelu ohun kan. This is accomplished by ranking all work done and distributing proportionally to its value. The more competitive the market becomes, the more difficult (higher quality or quantity) it becomes to earn the same payout.
 
 ### Voting on Distribution of Currency
 
