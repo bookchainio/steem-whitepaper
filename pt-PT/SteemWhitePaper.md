@@ -64,13 +64,13 @@ Esta secção descreve as ideias por detrás do Steem e as suas recompensas para
 
 ## Contribuições de Capital
 
-There are two items a community can offer to attract capital: debt and ownership. Those who buy ownership profit when the community grows but lose if the community shrinks. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
+Existem dois item que uma comunidade pode oferecer para atrair capital: dívida e posse. Quem comprar propriedade lucra quando a comunidade cresce... mas perdem se a comunidade encolhe. Quem compra dívidas são garantidas uma certa quantidade de interesses mas não podem participar em quaisquer lucros obtidos pelo crescimento da comunidade. Ambos tipos de contribuições de capital são valiosas para o crescimento da comunidade e o valor da sua moeda. Adicionalmente existem duas maneiras de apropriação: líquido e aquirindo. Adquirindo posse estabelece um compromisso a longo prazo e não pode ser vendido por um período mínimo de tempo.
 
-The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SBD).
+A rede Steem chama a estas classes de ativos Steem (Steem), Steem Power (SP), and Steem Dollars (SBD).
 
 ## Steem (STEEM)
 
-Steem is the fundamental unit of account on the Steem blockchain. All other tokens derive their value from the value of STEEM. STEEM is a liquid currency, and therefore can be bought or sold on exchanges, as well as transferred to other users as a form of payment.
+Steem é a unidade fundamental de conta no blockchain Steem. Todos os outros símbolos derivam o seu valor do valor do STEEM. STEEM is a liquid currency, and therefore can be bought or sold on exchanges, as well as transferred to other users as a form of payment.
 
 ## Steem Power (SP)
 
