@@ -70,15 +70,15 @@ A rede Steem chama a estas classes de ativos Steem (Steem), Steem Power (SP), an
 
 ## Steem (STEEM)
 
-Steem é a unidade fundamental de conta no blockchain Steem. Todos os outros símbolos derivam o seu valor do valor do STEEM. STEEM is a liquid currency, and therefore can be bought or sold on exchanges, as well as transferred to other users as a form of payment.
+Steem é a unidade fundamental de conta no blockchain Steem. Todos os outros símbolos derivam o seu valor do valor do STEEM. STEEM é uma moeda líquida, e, por isso, pode ser comprada ou vendida em nas bolsas, bem como transferida para outros usuários como forma de pagamento.
 
 ## Steem Power (SP)
 
-Start up companies require long-term capital commitment. Those who invest their money in a startup expect to wait years before they can sell their shares and realize their profits. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
+Empresas iniciantes necessitam um investimento de capital a longo termo. Quem investe o seu dinheiro numa empresa iniciante, ficasse na expectativa que esperam anos antes que vendam as suas acções e tomem consciência dos seus lucros. Sem o comprometimento a longo prazo, uma empresa iniciante que procura obter capital adicional através da venda de acções adicionais, estaria a competir com accionistas existentes à procura de sair. Os investidores experientes querem as suas contribuições de capital façam crescer a empresa, mas o crescimento não pode acontecer se o capital é dado aqueles que procuram sair.
 
-There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
+Há um valor significativo para ter um compromisso a longo prazo, pois permite que às comunidades fazerem planos a longo prazo. Os participantes interessados em compromissos em longo prazo também os vai causar votar para crescimento a longo prazo ao invés de bombas a curto prazo.
 
-In the cryptocurrency space, speculators jump from cryptocurrency to cryptocurrency based mostly on which one is expected to have short-term growth. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
+No espaço da criptomoeda, os especuladores saltam de criptomoeda em criptomoeda baseados principalmente em qual é esperada ter um crescimento a curto prazo. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
 
 Users are able to commit their STEEM to a thirteen week vesting schedule, providing them with additional benefits within the platform. STEEM that has been committed to a thirteen week vesting schedule is called Steem Power (SP). SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
 
