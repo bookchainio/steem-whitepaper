@@ -344,7 +344,7 @@ Utrzymywanie minimalnego salda jest koniec końców tym samym mechanizmem, co wp
 
 Na szczęście, minimalne wymagane saldo może być tak niskie jak wartość jednego dolara, co użytkownicy mogą zrozumieć. Koszt utraty innych alternatyw nie wpływa na koszt poznania tak jak w przypadku mikro opłat i jest o wiele bardziej akceptowalny przez użytkowników.
 
-STEEM używany do prefinansowania nowych kont jest przekazywany poprzez proces wzmocnienia jego siły (czyli w formie Steem Power). Porcja SP użyta do ufundowania nowego konta może być wydelegowana do niego z konta twórcy. Kiedy użytkownik posiada wydelegowane SP, może używać go w celu głosowania lub żądania przydziały przepustowości, tak jakby było to ich SP, jednak należy ono do użytkownika, które mu je wydelegował. Właściciel może usunąć delegację w każdej chwili. Po upłynięciu odpowiedniej ilości czasu SP jest wracane właścicielowi.
+STEEM używany do prefinansowania nowych kont jest przekazywany poprzez proces wzmocnienia jego siły (czyli w formie Steem Power). Porcja SP użyta do ufundowania nowego konta może być wydelegowana do niego z konta twórcy. Kiedy użytkownik posiada wydelegowane SP, może używać go w celu głosowania lub żądania przydziały przepustowości, tak jakby było to ich SP, jednak należy ono do użytkownika, które mu je wydelegował. Właściciel może usunąć delegację w każdej chwili. Kiedy upłynie wystarczająca ilość czasu SP jest zwracane właścicielowi.
 
 ### Efektywność relatywna do wysokości opłat
 
