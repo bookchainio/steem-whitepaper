@@ -200,11 +200,11 @@ Awon Itan ti Akan Garawa
 
 Okurin kan nrin ni eti okun ti o si ri okurin kan ti npa eja ni sisan pelu isawe kan pelu re. Bi o ti n summo odo, o ri pe garawa ti o ba ti ko ni ideri ati pe o ni awon akan ti o wa le ye wa ni inu re.
 
-"Why don't you cover your bait bucket so the crabs won't escape?", he said.
+Ese bo isawe garawa yin kin awon akan yin ma le saa lo?", o so.
 
-"You don't understand.", the man replied, "If there is one crab in the bucket it would surely crawl out very quickly. However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
+"Ko ye e ni.", Okurin naa dahun pe, "ti akan kan ba wa ninu garawa, yoo le tete rin jade ni kia kia. Sibesibe, nigba ti opolopo awon akan ninu garawa ti o ba je okan gbiyanju lati ra awon elomiiran mu idaduro re ki o si fa o sokale ki o le pin ipinju kanna ni awon iyoku won."
 
-So it is with people. If one tries to do something different, get better grades, improve herself, escape her environment, or dream big dreams, other people will try to drag her back down to share their fate.
+Nitorina o pelu awon eniyan. If one tries to do something different, get better grades, improve herself, escape her environment, or dream big dreams, other people will try to drag her back down to share their fate.
 
 Eliminating “abuse” is not possible and shouldn’t be the goal. Even those who are attempting to “abuse” the system are still doing work. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn’t so rampant that it undermines the incentive to do real work in support of the community and its currency.
 
