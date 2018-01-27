@@ -84,9 +84,9 @@ Użytkownicy są w stanie przeznaczyć swój STEEM na rzecz trzynastotygodnioweg
 
 Gdy użytkownicy głosują na materiały publikowane na platformie, ich wpływ na dystrybujcę puli nagród jest wprost proporcjonalny do ilości SP, którą posiadają. Użytkownicy, którzy posiadają więcej SP, mają większy wpływ na dystrybucję wynagrodzenia. Oznacza to, że SP jest swego rodzaju kluczem dostępu, który daje swojemu właścicielowi wyjątkowe uprawnienia na platformie Steem.
 
-Posiadacze SP otrzymują także odsetki od nadanego kapitału. 15% rocznej inflacji jest wypłacane jako odsetki dla posiadaczy SP. Wielkość odsetek jaką otrzymają jest wprost proporcjonalna do współczynnika ilości posiadanego przez nich SP do całkowitej ilości nadanego SP dla wszystkich użytkowników.
+Posiadacze SP otrzymują także odsetki od nadanego kapitału. 15% rocznej inflacji jest wypłacane jako odsetki dla posiadaczy SP. Wysokość odsetek, jaką otrzymają, jest wprost proporcjonalna do współczynnika ilości posiadanego przez nich SP i całkowitej ilości SP nadanego dla wszystkich użytkowników.
 
-Wymiana STEEM na rzecz SP jest procesem nazywanym jako “powering up” (z ang. “wzmocnienie”, przyp. tłum.), podczas gdy wymiana SP na STEEM jest procesem analogicznie nazywanym “powering down” (z ang. “osłabienie”, przyp. tłum.). Proces osłabienia trwa trzynaście tygodni, a STEEM jest wymieniane w trakcie tego procesu jako 13 równych, tygodniowych wypłat, zaczynając od tygodnia po tym, jak proces został zapoczątkowany.
+Wymianę STEEM na rzecz SP nazywamy “powering up” (z ang. “wzmocnienie” - przyp. tłum.) Wymiana SP na STEEM jest to natomiast “powering down” (z ang. “osłabienie” - przyp. tłum.) Powering down trwa trzynaście tygodni, poczas których STEEM jest zwracany użytkownikowi w formie13 równych, co tygodniowych wypłat, poczynając od tygodnia po tym, jak proces ten został zapoczątkowany.
 
 ## Steem Dollars (SBD)
 
