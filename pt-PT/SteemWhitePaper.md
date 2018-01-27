@@ -94,7 +94,7 @@ Estabilidade é uma característica importante das economias globais bem sucedid
 
 Steem dólares são criados por um mecanismo semelhante às notas conversíveis, que muitas vezes são usadas para financiar startups. No mundo startup, notas conversíveis são intrumentos de dívida a curto prazo que podem ser convertidos em propriedade a uma velocidade determinada no futuro, normalmente durante um financiamente futuro redondo. Um token de blockchain com base pode ser visto como propriedade na Comunidade, Considerando que uma nota conversível pode ser vista como uma dívida denominados em qualquer outra mercadoria ou moeda. Os termos da nota convencional permitem ao titular converter para o token de apoio com uma antecedência mínima ao preço do mercado justo do token. A criação de tokens conversíveis a dólares permite ás blockchains crescer o seu efeito de rede enquanto maximizam o retorno para os titulares de token.
 
-Steem dólares são referidos com o símbolo SBD, um acrónimo para Steem Blockchain dólares. Criar SBD requer uma combinação de um preço confiável de alimentação e regras para evitar abusos. Providing a reliable price feed involves three factors: minimizing the impact of an incorrect feed, maximizing the cost of producing an incorrect feed, and minimizing the importance of timing.
+Steem dólares são referidos com o símbolo SBD, um acrónimo para Steem Blockchain dólares. Criar SBD requer uma combinação de um preço confiável de alimentação e regras para evitar abusos. Proporcionar um preço confiável feed envolve três fatores: minimizando o impacto de uma alimentação incorreta, maximizando o custo de produzir uma alimentação incorreta e minimizando a importância do sincronismo.
 
 ### Minimizing Fraudulent Feeds
 
