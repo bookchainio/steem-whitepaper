@@ -194,7 +194,7 @@ Niezależnie od tego ile pieniędzy ma dana jednostka, zawsze można znaleźć i
 
 Na szczęście, każdy wpis, który otrzymuje duże skoncentrowanie głosów, uzyskuje także największy rozgłos, a tym samym jest poddany dużemu nadzorowi. Dzięki dodaniu możliwości oddawania *negatywnego głosu* wielu mniejszych udziałowcówe może wspólnymi siłami odebrać władzę zmówionym, dużym jednostkom. Co więcej, to właśnie duzi udziałowcy mają najwięcej do stracenia, jeżeli wartość waluty zacznie spadać z powodu ich nadużyć. Takie działania są więc dla nich nieopłacalne. Właściwie rzecz ujmując, wielcy, uczciwi użytkownicy mają większe predyspozycje do kontrolowania i zwalczania nadużyć poprzeć oddanie głosów negatywnych, niż gdyby mieli wspierać mały wkład.
 
-Użycie *negatywnych głosów* do odwodzenia ludzi od nadużywania systemu wpływa na *mentalność kraba* (z ang. crab mentality, przyp. tłum.), której wielu ludzi doświadcza, kiedy jedna jednostka bogaci się kosztem wszystkich innych. Podczas gdy mentalność kraba zazwyczaj odnosi się do zapatrzonych w siebie ludzi, którzy działają na niekorzyść dobrych ludzi, jej mechanizm pozwala także dobrym ludziom trzymać tych złych na niskim poziomie wpływu. Jedynym “problemem” z mentalnością kraba jest sytuacja, w której ludzie *błędnie wierzą* w to, że ktoś bogaci się kosztem innych.
+Użycie *negatywnych głosów* do odwodzenia ludzi od nadużywania systemu wpływa na *mentalność kraba* (z ang. crab mentality, przyp. tłum.), której wielu ludzi doświadcza, kiedy jedna jednostka bogaci się kosztem wszystkich innych. Podczas gdy mentalność kraba zazwyczaj odnosi się do zapatrzonych w siebie ludzi, którzy działają na niekorzyść dobrych ludzi, jej mechanizm pozwala także dobrym ludziom trzymać tych złych na niskim poziomie wpływu. Mentalność kraba ujawnia się w sytuacji, w której ludzie *błędnie wierzą* w to, że ktoś bogaci się kosztem innych.
 
 **Opowieść o koszu krabów**[^6]
 
@@ -212,7 +212,7 @@ Budowanie społeczności ma na celu jest sprowadzenie jak większej ilości “k
 
 ### Głosowanie ograniczone stopą
 
-Znaczącą częścią minimalizowania nadużyć jest ograniczenie głosowania stopą (z ang. rate-limiting of voting). Indywidualni użytkownicy mogą w ciągu dnia przeczytać i ocenić tylko ograniczoną ilość wpisów. Próba głosowania częściej jest oznaką automatyzacji i potencjalnego nadużycia. Poprzez ograniczenia, głos interesariuszy, którzy głosują częściej ma mniejszą siłę niż Ci, którzy oddają swój głos rzadziej. Próby podziału tokenów między wiele kont dzieli także wpływ, więc nie skutkuje w globalnym przyroście wpływu. Nie omija także limitu czasowego związanego z głosowaniem.
+Znaczącą częścią minimalizowania nadużyć jest ograniczenie głosowania stopą (z ang. rate-limiting of voting). Indywidualni użytkownicy mogą w ciągu dnia przeczytać i ocenić tylko ograniczoną ilość wpisów. Próba głosowania częściej jest oznaką automatyzacji i potencjalnego nadużycia. Poprzez ograniczenia, głos udziałowców, którzy głosują częściej ma mniejszą siłę niż tych, którzy oddają swój głos rzadziej. Próby podziału tokenów między wiele kont dzieli także wpływ, więc nie skutkuje w globalnym przyroście wpływu. Nie omija także limitu czasowego związanego z głosowaniem.
 
 Użytkownicy dzielą stałą ilość siły głosu (z ang. voting power - przyp. tłum.). Siła głosu jest mnożona przez nadane użytkownikowi tokeny (z ang. vesting tokens), które determinują ile udziałów w puli nagród (z ang. reward pool) powinno zostać przydzielone do danego elementu. Ky głos zużywa części siły głosu (z ang. voting power - przyp. tłum.). Użytkownicy mogą głosować na wiele wpisów (z ang. post - przyp. tłum.), jednak każdy każdy kolejny głos będzie wart coraz mniej, a proces przywracania pełnej siły głosu będzie zajmował coraz więcej czasu. Siła głosu doładowuje się każdego dnia o 20%.
 
@@ -220,7 +220,7 @@ Użytkownicy dzielą stałą ilość siły głosu (z ang. voting power - przyp. 
 
 Jednym z głównych założeń systemu wynagrodzeń platformy Steem jest inspirowanie do prowadzenia dyskusji, której jakość jest najwyższa w całym Internecie. Każdego roku 75% rocznej inflacji jest dzielona pomiędzy użytkowników tworzących, głosujących oraz dyskutujących nad treścią. Gdyby sieć osiągnęła wielkość porównywalną do Bitcoina, mogłyby to doprowadzić do wypłaty wynagrodzeń w kwocie kilku milionów dolarów. Pieniądze te otrzymywałyby osoby, które wnoszą największy wkład w rozwój platformy.
 
-Aktualna dystrybucja będzie zależeć od schematu głosowania użytkowników, lecz podejrzewamy, że znaczna większość nagród będzie dzielona między najbardziej popularną treść.
+Aktualna dystrybucja będzie zależeć od schematu głosowania użytkowników. Wydaje nam się jednak, że większość nagród będzie dzielona między najbardziej popularne wpisy.
 
 Prawo Zipfa [^7] jest jedną z empirycznych zasad, które charakteryzują zaskakującą większość zjawisk na świecie zadziwiające dobrze. Mówi ono o tym, iż jeśli zbierzemy dużą grupę osób według wielkości lub popularności, wtedy drugi element kolekcji będzie liczył około połowę tego co pierwszy element, trzeci będzie liczyć około jedną trzecią wartości miary co pierwszy i tak dalej. Uogólniając, k-ty element rankingu będzie mierzył 1/k tego, co pierwszy.
 
