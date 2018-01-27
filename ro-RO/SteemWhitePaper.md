@@ -266,7 +266,7 @@ Blockchain technology currently depends upon transaction fees to prevent spam. T
 
 ## Problema Taxelor
 
-Blockchain-urile sunt rețele descentralizate, unde toate tranzațiile sunt transmise către toți membrii rețelei. Every so often a block is produced that includes some or all of the pending transactions. All blockchains must find a solution to prevent malicious users from consuming all of the available network capacity with worthless transactions. These worthless transactions can prevent other valuable transactions from being processed and ultimately destroy the network.
+Blockchain-urile sunt rețele descentralizate, unde toate tranzațiile sunt transmise către toți membrii rețelei. Odată la ceva timp, este produs un block care include o parte sau toate tranzacțiile în așteptare. Toate blockchain-urile trebuie să găsească o soluție pentru a împiedica utilizatorii rău voitori să consume toată capacitatea disponibilă a rețelei împotriva tranzațiilor nevaloroase. Aceste tranzacții nevaloroase pot să stea în calea procesării altor tranzacții valoroase, distrugând astfel rețeaua.
 
 The solution adopted by most blockchains thus far is to charge a minimum transaction fee. A fee worth just a few cents is enough to make attacking the network expensive and unprofitable. While this approach solves the spam problem, it introduces new problems. Imagine solving the email spam problem by introducing a small fee on every email; people wouldn’t use email.
 
