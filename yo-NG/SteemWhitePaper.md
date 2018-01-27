@@ -204,9 +204,9 @@ Ese bo isawe garawa yin kin awon akan yin ma le saa lo?", o so.
 
 "Ko ye e ni.", Okurin naa dahun pe, "ti akan kan ba wa ninu garawa, yoo le tete rin jade ni kia kia. Sibesibe, nigba ti opolopo awon akan ninu garawa ti o ba je okan gbiyanju lati ra awon elomiiran mu idaduro re ki o si fa o sokale ki o le pin ipinju kanna ni awon iyoku won."
 
-Nitorina o pelu awon eniyan. If one tries to do something different, get better grades, improve herself, escape her environment, or dream big dreams, other people will try to drag her back down to share their fate.
+Nitorina o pelu awon eniyan. Ti enikan ba gbiyanju lati se nkan ti o yato, gba awo ipele to dara julo, se igbaradi ara re, sa fun ayika re, tabi la awon alala nla, awon eniyan miiran yoo gbiyanju lati fa won pada lati pin ayannmo won.
 
-Eliminating “abuse” is not possible and shouldn’t be the goal. Even those who are attempting to “abuse” the system are still doing work. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn’t so rampant that it undermines the incentive to do real work in support of the community and its currency.
+Yiyo "ilokulo" ko see se ki o ye ki o je ipinnu. Paapa awon ti o n gbiyanju lati se "ilokulo" eto naa n se ise. Awon iyooda ti won gba fun awon igbiyanju aseyori ninu inaje tabi ijakadi je o kere julo bi o se pataki fun idi ti pinpin owo naa gegebi ise-sise ise ti a nlo nipase iwakusa Bitcoinu ti o wa tabi ise iwakusa ti o se nipase awon iwakusa ikun poolu. All that is necessary is to ensure that abuse isn’t so rampant that it undermines the incentive to do real work in support of the community and its currency.
 
 The goal of building a community currency is to get more “crabs in the bucket”. Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs sufficient power to prevent others from escaping.
 
