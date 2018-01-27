@@ -280,9 +280,9 @@ Microplățiile, ca toate celelalte plăți, necesită o comparație: *“Este a
 
 – Clay Shirky[^8]
 
-În lumea plăților financiare, taxele mici sunt acceptabile deoarece valoarea tranzacției este mult mai mare decât taxa percepută, iar cumpărătorul a luat deja deciza de cumpărare. The world of potential blockchain applications is far greater than just financial payments and includes many necessary transactions for which fees are simply unacceptable to users.
+În lumea plăților financiare, taxele mici sunt acceptabile deoarece valoarea tranzacției este mult mai mare decât taxa percepută, iar cumpărătorul a luat deja deciza de cumpărare. Lumea potențialelor aplicații blockchain este mult mai largă decât plățiile, și include foarte multe tranzacții necesare ale căror taxe nu sunt acceptate de utilizatori.
 
-Systems like BitShares, Nxt, Ripple, Counter Party and Stellar all allow users to place limit orders on the blockchain and all of them charge users a small fee to perform this action. Later if the user wishes to cancel their order, another fee is charged. Systems like Ethereum take micropayments to a whole new level: charging per calculation. All of these systems struggle to attract new mainstream users for the same reasons that a decentralized search engine would struggle to attract users from Google if it charged a small fee for every search. It doesn’t matter how good the service is, people expect certain things to be free. This is true even if a user ends up paying more overall under a different fee structure.
+Sisteme ca BitShares, Nxt, Ripple, Counter Party și Stellar le oferă utilizatorilor să plaseze comenzi pe blockchain și toate percep o taxă mică pentru a efectua aceste acțiuni. Mai târziu, în cazul în care utilizatorul dorește anularea comenzii, o nouă taxă este percepută. Systems like Ethereum take micropayments to a whole new level: charging per calculation. All of these systems struggle to attract new mainstream users for the same reasons that a decentralized search engine would struggle to attract users from Google if it charged a small fee for every search. It doesn’t matter how good the service is, people expect certain things to be free. This is true even if a user ends up paying more overall under a different fee structure.
 
 ### Fees are a Barrier to Entry
 
