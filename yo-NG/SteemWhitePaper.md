@@ -194,7 +194,7 @@ Laibikita iye owo ti olukuluku kan ti nii, opolopo awon eniyan miiran ni o ni aw
 
 Loriire, eyikeyi ise ti o n gbe awon ifojusi pipadii ti o poju tun ni igbadun julo si (ipolongo). Nipase afikun awon idbo odiwon o see se fun opolopo awon alaranlowo ti o kere julo lati fagilee agbara idibo ti awon egbe etan tabi awon asise pataki. Pelupelu, awon oluranlowo ti o tobi pupo ni die see lati padanu ti owo ba subu ni iye nitori ibaje ju ti won le jere nipa idibo fun ara won. Ni pato, awon onigbowo ti o tobi julo ni o le se die nii ipa nipase ilokulo ati lilo awon idibo ti ko dara ju ti won yoo je nipa idibo fun awon ise kekere.
 
-The use of *negative-voting* to keep people from abusing the system leverages the *crab mentality* that many people have when it is perceived that one individual is profiting at the expense of everyone else. While crab mentality normally refers to short-sighted people keeping good people down, it is also what allows good people to keep bad people down. The only “problem” with crab mentality is when people *wrongly believe* someone is profiting at everyone else's expense.
+Lilo awon idibo asise ti kojopo lati pa awon eniyan kuro lati lilo eto naa nmu agbara-ara odaran ti opolopo awon eniyan ni nigba ti a ba rii pe eni kookan n ni ireti laibikita fun gbogbo awon eniyan. While crab mentality normally refers to short-sighted people keeping good people down, it is also what allows good people to keep bad people down. The only “problem” with crab mentality is when people *wrongly believe* someone is profiting at everyone else's expense.
 
 **The Story of the Crab Bucket**[^6]
 
