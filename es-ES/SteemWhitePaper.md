@@ -24,7 +24,7 @@ Hay algunos principios clave que han sido utilizados para guiar el diseño de St
 
 El segundo principio es que todas las formas de capital son igualmente valiosas. Esto significa que aquellos que contribuyen su escaso tiempo y atención en producir y curar contenido para otros, son tan valiosos como quienes contribuyen con su capital. Este es el principio de equidad de sudor[^2] y es un concepto que previo a las criptomonedas ha tenido problemas para proveer a no más de algunas docenas de individuos.
 
-El tercer principio es que la comunidad produce productos para servir a sus miembors. Esto se ejemplifica con las uniones de crédito, coperativas de alimentos, planes de salud compartidos, que sirven a los miembros de sus comunidades mas que vender productos o servicios a la gente fuera de la comunidad.
+El tercer principio es que la comunidad produce productos para servir a sus miembros. Esto se ejemplifica con las uniones de crédito, coperativas de alimentos, planes de salud compartidos, que sirven a los miembros de sus comunidades mas que vender productos o servicios a la gente fuera de la comunidad.
 
 La comunidad de Steem provee los siguientes servicios a sus miembros:
 
@@ -38,11 +38,11 @@ El útil realineamiento de incentivos económicos de Steem tiene el potencial de
 
 ## Reconociendo las contribuciones
 
-Steem está diseñado desde cero para resolver las mayores barreras para su adopción y monetizaciones de una economías basada en *social media*. Nuestra tésis es que las mismas técnicas usadas para hacer crecer las mas grandes plataformas de *social media* pueden ser utilizadas para iniciar una criptomoneda existosa. Incentivos económicos habilitados por criptomoneda pueden facilitar dramáticamente el crecimientod de una nueva plataforma de *social media*. Es la sinergía entre criptomoneda y *social media* lo que creemos que puede dar a Steem una poderosa ventaja en el mercado.
+Steem está diseñado desde cero para resolver las mayores barreras para su adopción y monetizaciones de una economías basada en *social media*. Nuestra tésis es que las mismas técnicas usadas para hacer crecer las mas grandes plataformas de *social media* pueden ser utilizadas para iniciar una criptomoneda existosa. Incentivos económicos habilitados por criptomoneda pueden facilitar dramáticamente el crecimiento de una nueva plataforma de *social media*. Es la sinergía entre criptomoneda y *social media* lo que creemos que puede dar a Steem una poderosa ventaja en el mercado.
 
 El reto afrontado por Steem es derivar un algoritmo para tasar contribuciones individuales que la mayor parte de los miembros de la comunidad consideren una evaluación justa del valor subjetivo de cada contribución. En un mundo perfecto, los miembros de la comunidad coperarían para valuar la contribución de cada par y devolver una justa compensación. En el mundo real, deben diseñarse algoritmos de tal forma que sean resistentes a manipulación intencional con fines de lucro. Cualquier abuso del sistema de tasación podría causar la pérdida de fe en la percepción de justicia del sistema económico por parte de sus miembros.
 
-Las plataformas existentes operan en un principio de un usuario, un voto. Esto crea un ambiente donde los rankings pueden ser manipulados por ataques de profeta y los proveedores de servicio deben proactivamente identificar y bloquar abusadores. La gente actualmente intenta manipular los sistemas de tasacipon de Reddit, Twitter y Facebook siendo la única ganancia el tráfico web o la censura.
+Las plataformas existentes operan en un principio de un usuario, un voto. Esto crea un ambiente donde los rankings pueden ser manipulados por ataques de profeta y los proveedores de servicio deben proactivamente identificar y bloquar abusadores. La gente actualmente intenta manipular los sistemas de tasación de Reddit, Twitter y Facebook siendo la única ganancia el tráfico web o la censura.
 
 La unidad fundamental de contabilidad en la plataforma de Steem es STEEM, un token de criptomoneda. Steem opera sobre la base de un-Steem, un-Voto. Bajo este modelo, los individuos que más han contribuido a la plataforma, medidos por el saldo de su cuenta, tienen la mayor influencia sobre la forma en que se califican las contribuciones. Además, Steem solo permite a los miembros votar con STEEM cuando este es sujeto a un esquema de adjudicación. Bajo este modelo, los miembros tienen un incentivo financiero para votar de una manera que maximiza el valor a largo plazo de su STEEM.
 
@@ -64,7 +64,7 @@ Esta sección delínea las ideas detrás de Steem y sus recompenzas para la gent
 
 ## Contribuciones de capital
 
-Hay dos items que una comunidad puede ofrecer para atraer capital: deuda y propiedad. Quienes compran propiedad ganan cuando la comunidad crece pero pierden si la misma decrece. Quienes compran deuda obtienen la garantia de un cierto monto de interpes pero no llegan a participar de las ganancias realizadas por el crecimiento de la comunidad. Ambos tipos de contribuciones de capital son valiosas para el crecimiento de la comunidad y la valuación de su moneda. Adicionalmente hay dos formas en que la propiedad puede conservarse: liquidez y colocación. La colocación de propiedad genera un compromiso de largo plazo y no puede ser vendida por un determinado período de tiempo.
+Hay dos items que una comunidad puede ofrecer para atraer capital: deuda y propiedad. Quienes compran propiedad ganan cuando la comunidad crece pero pierden si la misma decrece. Quienes compran deuda obtienen la garantía de un cierto monto de interés pero no llegan a participar de las ganancias realizadas por el crecimiento de la comunidad. Ambos tipos de contribuciones de capital son valiosas para el crecimiento de la comunidad y la valuación de su moneda. Adicionalmente hay dos formas en que la propiedad puede conservarse: liquidez y colocación. La colocación de propiedad genera un compromiso de largo plazo y no puede ser vendida por un determinado período de tiempo.
 
 La red Steem denomina a estas diferentes clases de *assets* Steem (STEEM), Steem Power (SP), y Steem Dollars (SBD).
 
@@ -94,7 +94,7 @@ La estabilidad es un componente importante en las economías globales exitosas. 
 
 Los Steem Dollars (SMD) son creados por un mecanismo similar a las notas convertibles, que son usualmente utilizadas para financias *startups*. En el mundo de las *startups*, las notas convertibles son instrumentos de deuda a corto plazo que pueden ser convertidos a propiedad a un ritmo determinado en el futuro, típicamente durante una futura ronda de inversión. Un *token* basado en blockchain puede ser visto como propiedad mientras una nota convertible puede ser vista como deuda con denominación en otra *commodity* o moneda. Los términos de la nota convertible permiten a su dueño convertirla al *token* que la respalda con una antelación mínima al precio justo del mercado del *token*. Crear dólares convertibles a *tokens* habilita a los blockchains a aumentar su efecto de red mientras se maximiza el retorno a los poseedores de *tokens*.
 
-Los *Steem Dollars* son nomenclados con el símbolo SBD, acrónimo de "Steem Blockchain Dollars". Para crear los SBD se requiere una combinación entre un indicador de precio confiable, y reglas para prevenir el abuso. Proveer un indicador de precio confiable implica tres factores: minimizar el impacto de un indicador incorrecto, maximizar el costo de producir un indicador incorrecto, y minimazar la importancia de la cadencia.
+Los *Steem Dollars* son nomenclados con el símbolo SBD, acrónimo de "Steem Blockchain Dollars". Para crear los SBD se requiere una combinación entre un indicador de precio confiable, y reglas para prevenir el abuso. Proveer un indicador de precio confiable implica tres factores: minimizar el impacto de un indicador incorrecto, maximizar el costo de producir un indicador incorrecto, y minimizar la importancia de la cadencia.
 
 ### Minimizando comisiones fraudulentas
 
@@ -118,13 +118,13 @@ Steem nivela el juego al imponer a todos los pedidos de conversión un retardo d
 
 ### Minimizando el abuso de conversiones
 
-Si los usuarios puediesen convertir libremente en ambas direcciones, los operadores podrían tomar ventaja de las medidas de conversión del blockchain al intercambiar grandes volúmenes sin modificar el precio. Los operadores que ven un aumento masivo en el precio podrían convertir a SBD al mayor precio (cuando hay mas riesgo) y luego reconvertir luego de la corrección. El protocolo de Steem proteje a la comunidad de este tipo de abusos al permitir únicamente la conversión de SBD a STEEM y no al revés.
+Si los usuarios pudiesen convertir libremente en ambas direcciones, los operadores podrían tomar ventaja de las medidas de conversión del blockchain al intercambiar grandes volúmenes sin modificar el precio. Los operadores que ven un aumento masivo en el precio podrían convertir a SBD al mayor precio (cuando hay mas riesgo) y luego reconvertir luego de la corrección. El protocolo de Steem proteje a la comunidad de este tipo de abusos al permitir únicamente la conversión de SBD a STEEM y no al revés.
 
 El blockchain decide cómo y cuándo crear SBD y quién debe recibirlos. Esto mantiene estable el ritmo de creación de SBD y elimina formas de abuso.
 
 ### Deuda sostenible a relaciones de propiedad
 
-Si un *token* es considerado propiedad en el total de provisión de *tokens*, entonces un *token* convertible a dólar puede ser considerado como deuda. Si la deuda de propiedad tiene una relación muy alta, la moneda entera puede volverse inestable. Las conversiones de deuda pueden incrementar dramaticamente la provisión de *tokens*, los cuales por su parte pueden ser vendidos en el mercado suprimiendo el precio. Las conversiones subseuentes requieren la emisión de aún más *tokens*. Si no se comprueba el sistema puede colapsar dejando una montaña de deuda respaldada por propiedad sin valor. A mayor relación entre deuda a propiedad, menos inversores nuevos desearán aportar capital a la mesa.
+Si un *token* es considerado propiedad en el total de provisión de *tokens*, entonces un *token* convertible a dólar puede ser considerado como deuda. Si la deuda de propiedad tiene una relación muy alta, la moneda entera puede volverse inestable. Las conversiones de deuda pueden incrementar dramaticamente la provisión de *tokens*, los cuales por su parte pueden ser vendidos en el mercado suprimiendo el precio. Las conversiones subsecuentes requieren la emisión de aún más *tokens*. Si no se comprueba el sistema puede colapsar dejando una montaña de deuda respaldada por propiedad sin valor. A mayor relación entre deuda a propiedad, menos inversores nuevos desearán aportar capital a la mesa.
 
 Un cambio repentino en el valor de STEEM puede cambiar dramáticamente la relación deuda/propiedad. El blockchain impide que la relación deuda-propiedad llegue demasiado alta, reduciendo la cantidad de STEEM otorgado a través de conversiones de SBD, si el nivel de deuda superó el 10%. Si el monto de la deuda de SBD nunca supera el 10% de la PAC de mercado total de STEEM, el blockchain automáticamente reducirá la cantidad de STEEM generado a través de conversiones hasta un máximo de 10% de la capa del mercado. Esto asegura que el blockchain nunca tendrá más de 10% de una relación de deuda a la posesión.
 
@@ -198,7 +198,7 @@ El uso de *votos negativos* para evitar que la gente abuse el sistema apalanca l
 
 **La Historia de la cubeta de cangrejos**[^6]
 
-*Un hombre se encontraba caminando por la playa y vió a otro hombre pescando en el muelle con una cubeta a su lado. A medida que se acercaba, vió que la misma estaba destapada y tenía cangrejos vivos en su interior.
+*Un hombre se encontraba caminando por la playa y vió a otro hombre pescando en el muelle con una cubeta a su lado. A medida que se acercaba, vio que la misma estaba destapada y tenía cangrejos vivos en su interior.
 
 "¿Por qué no tapa su cubeta para que no escapen los cangrejos?", preguntó.
 
@@ -206,13 +206,13 @@ El uso de *votos negativos* para evitar que la gente abuse el sistema apalanca l
 
 También sucede con las personas. Si uno intenta hacer algo diferente, obtener mejores notas, mejorarse, escapar a su entorno, soñar en grande, otras personas intentarán arrastrarlo abajo y compartir su destino.
 
-Eliminar el "abuso" no es posible y tampoco debería ser el objetivo. Incluso aquellos quienes intentan "abusar" del sistema también están trabajando. Cualquier compsensación que obtengan por sus intentos satisfactorios de abusar o confabularse es cuando menos valioso para el propósito de de distribuír la moneda como en el sistema de trabajo empleado por la minería tradicional de *Bitcoin* o de minería confabulada a través de *pools* de minado. Todo eso es necesario para asegurar que el abuso no sea tan rampante como para socavar el incentivo para realizar verdadero trabajo de soporte de la comunidad y su moneda.
+Eliminar el "abuso" no es posible y tampoco debería ser el objetivo. Incluso aquellos quienes intentan "abusar" del sistema también están trabajando. Cualquier compensación que obtengan por sus intentos satisfactorios de abusar o confabularse es cuando menos valioso para el propósito de de distribuir la moneda como en el sistema de trabajo empleado por la minería tradicional de *Bitcoin* o de minería confabulada a través de *pools* de minado. Todo eso es necesario para asegurar que el abuso no sea tan rampante como para socavar el incentivo para realizar verdadero trabajo de soporte de la comunidad y su moneda.
 
 La meta de desarrollar una moneda comunitaria es obtener mas "cangrejos en la cubeta". Tomar medidas extremas para eliminar todo abuso es como intentar poner una tapa en la cubeta para prevenir que se escapen algunos cangrejos y viene a expensas de hacerlo mas difícil de agregar nuevos integrantes. Alcanza con hacer las paredes resbaladizas y dar a otros "cangrejos" el suficiente poder para prevenir que otros "escapen".
 
 ### Tasa limitada de voto
 
-Una mayor parte de minimizar el abuso es limitar la tasa de voto. Los usuarios individuales sólo pueden leer y evaluar tántos items de trabajo diarios. Cualquier intento de votar mas frecuentemente que ésto es una señal de automatización y potencial abuso. A través del límite de tasa de voto, los participantes que voten más frecuentemente tienen su voto menos valioso que los participantes que votan con menos frecuencia. Los intentos de dividir *tokens* entre múltiples cuentas también divide la influencia y por ende no resulta en un incremento neto en influencia ni saltea el límite de tasa impuesto en el voto.
+Una mayor parte de minimizar el abuso es limitar la tasa de voto. Los usuarios individuales sólo pueden leer y evaluar tantos items de trabajo diarios. Cualquier intento de votar mas frecuentemente que ésto es una señal de automatización y potencial abuso. A través del límite de tasa de voto, los participantes que voten más frecuentemente tienen su voto menos valioso que los participantes que votan con menos frecuencia. Los intentos de dividir *tokens* entre múltiples cuentas también divide la influencia y por ende no resulta en un incremento neto en influencia ni saltea el límite de tasa impuesto en el voto.
 
 A los usuarios se asigna una cantidad fija de poder de voto. El poder de voto es multiplicado por los *tokens* invertidos de un usuario para determinar la parte que debería ser colocada en el *pool* de pagos para determinado ítem. Cada voto utiliza un porcentaje del poder de voto restante. Los usuarios pueden votar por más posts, pero cada voto valdrá menos y tardará más en llegar a la plena potencia de voto otra vez. El poder de voto se recarga a una tasa lineal fija del 20% por día.
 
@@ -244,7 +244,7 @@ El consenso es el proceso por el cual una comunidad llega a un acuerdo no ambigu
 
 Los algoritmos utilizados por las criptomonedas proveen una mejor forma para alcanzar consenso. Testimonios criptográficamente firmados por individuos son registrados en un registro público que establece un orden global absoluto de eventos. Una algoritmo computacional determinístico puede procesar este registro para derivar una conclusión universalmente aceptada. En tanto los miembros de una comunidad estén de acuerdo en el algoritmo de proceso, el resultado de dicho algoritmo es autoritario.
 
-La consideración primaria es determinar qué testimonio es permitido para entrear el registro público. Los sistemas deberían ser diseñados para minimizar el potencial para su censura. La censura en el registro público es similar a prevenir que alguien vote en una elección. En ambos casos un individuo tiene su impacto en el consenso global imposibilitado.
+La consideración primaria es determinar qué testimonio es permitido para entrar el registro público. Los sistemas deberían ser diseñados para minimizar el potencial para su censura. La censura en el registro público es similar a prevenir que alguien vote en una elección. En ambos casos un individuo tiene su impacto en el consenso global imposibilitado.
 
 ## Consenso en Steem
 
@@ -280,7 +280,7 @@ Igual que todos los pagos, los micropagos, requieren de una comparación: *"¿Va
 
 – Clay Shirky[^8]
 
-En el mundo de los pagos financieros, pequeñas comisiones son aceptables debido a que el valor de la transacción es extremadamente alto en relación a la comisión cobrada, y el comprador ya ha tomado la decisión de comprar. El mundo de aplicaciones potenciales de blockchai es mucho mas grande que simplemente el de pagos financieros e incluye muchas transacciones necesarias para las cuales las comisiones son simplemente inaceptables para los usuarios.
+En el mundo de los pagos financieros, pequeñas comisiones son aceptables debido a que el valor de la transacción es extremadamente alto en relación a la comisión cobrada, y el comprador ya ha tomado la decisión de comprar. El mundo de aplicaciones potenciales de blockchain es mucho mas grande que simplemente el de pagos financieros e incluye muchas transacciones necesarias para las cuales las comisiones son simplemente inaceptables para los usuarios.
 
 Sistemas como BitShares, Nxt, Ripple, Counterparty y Stellar permiten a los usuarios colocar órdenes de límite en el blockchain y todos cobran a los usuarios una pequeña comisión para realizar esta acción. Luego si el usuario desea cancelar su orden, se le cobra otra comisión. Sistemas como Ethereum llevan los micropagos a un nivel completamente nuevo: cobrar por cálculo. Todos estos sistemas luchan para atraer nuevos usuarios *mainstream* por la misma razón por la que un motor de búsqueda se esforzaría para atraer nuevos usuarios desde google si cobrara una pequeña comisión por cada búsqueda. No importa cuan bueno sea el servicio, la gente espera que ciertas cosas sean gratuitas. Esto es cierto incluso si un usuario finalmente termina pagando más en una estructura diferente.
 
@@ -296,7 +296,7 @@ Con el tiempo una red debe ajustar las comisiones. Esto puede suceder tanto por 
 
 Los sitios web centralizados previenen el spam limitando la frecuencia o alguna forma de verificación de identidad. Incluso algo tan simple como un *CAPTCHA* [^9] es suficiente para limitar la creación de cuentas falsas. Si alguien abusa de su cuenta, los sitios web centralizados tienen la libertad de bloquear la cuenta.
 
-En un sistema descentralziado no hay forma directa de prohibir usuarios ni un proveedor centralizado que pueda alojar un *CAPTCHA* para imponer un límite de frecuencia de creación de cuentas. De hecho, la falta de habilidad para censurar usuarios es un de los principales puntos atractivos de la tecnología del blockchain.
+En un sistema descentralizado no hay forma directa de prohibir usuarios ni un proveedor centralizado que pueda alojar un *Captcha* para imponer un límite de frecuencia de creación de cuentas. De hecho, la falta de habilidad para censurar usuarios es un de los principales puntos atractivos de la tecnología del blockchain.
 
 ### Reserva completa vs. reserva fraccionada
 
@@ -312,11 +312,11 @@ La solución a los problemas de los micropagos es implementar *reservas fraccion
 
 El ancho de banda utilizado por un usuario individual debería ser medido sobre un período de tiempo apropiadamente largo para permitir que el usuario puede invertir el horario de su uso. Los usuarios tienen a acceder, hacer varias cosas al mismo tiempo, y luego salir. Esto significa que su ancho de banda durante un período de tiempo corto puede parecer mucho mas alto que si es visto sobre un período mas largo. Si la ventana de tiempo se estira demasiado entonces la proporcion de reserva no se ajustará lo suficientemente rápido para responder al incremento a corto plazo, si la ventana es demasiado estrecha entonces agrupar el uso tendrá un impacto muy grande en usuarios normales.
 
-En nuestra estimación debería ser suficiente medir el promedio semanal de ancho de banda de los usuarios. Cada vez que un usuario firma una transacción, ésta es ténida en cuenta en el promedio móvil individual del usuario. En el momento en que el promedio móvil de un usuario excede el límite actual de la red, su transacción es retrasada hasta que su promedio se acomode debajo de ese punto.
+En nuestra estimación debería ser suficiente medir el promedio semanal de ancho de banda de los usuarios. Cada vez que un usuario firma una transacción, ésta es tenida en cuenta en el promedio móvil individual del usuario. En el momento en que el promedio móvil de un usuario excede el límite actual de la red, su transacción es retrasada hasta que su promedio se acomode debajo de ese punto.
 
 ### Impacto de capacidad
 
-La capacidad del blockchain no está necesariamente limitada. Está bien dentro de la capacidad tecnológia de la infraestructura internet incrementar el tamaño de bloque de Bitcoin a 10MB lo que en cambio reducirá el balance mínimo requerido por un factor de 10. Mientras Bitcoin actualmente soporta aproximadamente 3 transacciones por segundo, implementaciones alternativas pueden permitir mas de 1000 transacciones por segundo.
+La capacidad del blockchain no está necesariamente limitada. Está bien dentro de la capacidad tecnología de la infraestructura internet incrementar el tamaño de bloque de Bitcoin a 10MB lo que en cambio reducirá el balance mínimo requerido por un factor de 10. Mientras Bitcoin actualmente soporta aproximadamente 3 transacciones por segundo, implementaciones alternativas pueden permitir mas de 1000 transacciones por segundo.
 
 ### Comparación de comisiones
 
@@ -366,7 +366,7 @@ El valor de una acción procede de cuanto tiempo tiempo puede potencialmente oto
 
 Usando esta racional podemos asumir que un sistema basado en comisiones será mas caro para sus usuarios o ser menos redituable para sus propietarios colectivos. Un propietario individual pequeño puede obtener ganancias al rentar su pequeña porción de tiempo, pero solo a expensa de todos los demás dueños. En efecto, el costo del decreciente valor del tiempo compartido es repartido entre todos los propietarios donde las ganancias son centralizadas en el dueño singular que decidió rentar su parte.
 
-Podemos concluír de ésto que un blockchain es mejor servido si no se usa ninguna comisión. Si una comisión de uso fuese cobrada como una alternativa de tasa limitante, entonces debería ser equivalente a comprar el tiempo compartido suficiente y disponerse a mantenerlo el tiempo suficiente para ganar el derecho a usarlo una sola vez.
+Podemos concluir de ésto que un blockchain es mejor servido si no se usa ninguna comisión. Si una comisión de uso fuese cobrada como una alternativa de tasa limitante, entonces debería ser equivalente a comprar el tiempo compartido suficiente y disponerse a mantenerlo el tiempo suficiente para ganar el derecho a usarlo una sola vez.
 
 Dicho de otra forma, una comisión de transacción debería equivaler al balance mínimo de cuenta necesario para transaccionar una vez por semana y debería ser recargado al final de la semana. Asumamos que el mínimo balance de cuenta es $1 y permite a alguien transaccionar una vez por semana. Si alguien con un balance de $1 desea concretar 5 transacciones de una sola vez, tendrá que incrementar su balance a $5 por semana tanto antes o después de sus transacciones.
 
@@ -376,13 +376,13 @@ La limitación de tasa descentralizada puede habilitar nuevos tipos de aplicacio
 
 # Performance y escalabilidad
 
-La red Steem está construpida sobre *Graphene*, la misma tecnología que empodera BitShares. Graphene ha sido públicamente demostrado sustentando mas de 1000 transacciones por segundo en una red de pruebas distribuída. *Graphene* puede fácilmente escalar a 10.000 o mas transacciones por segundo con mejoras relativamente directas a la capacidad de servidores y protocolos de comunicación.
+La red Steem está construida sobre *Graphene*, la misma tecnología que empodera BitShares. Graphene ha sido públicamente demostrado sustentando mas de 1000 transacciones por segundo en una red de pruebas distribuída. *Graphene* puede fácilmente escalar a 10.000 o mas transacciones por segundo con mejoras relativamente directas a la capacidad de servidores y protocolos de comunicación.
 
 ## Escala Reddit
 
-Steem puede manejar una base de usuarios mas grande que Reddit. En 2015 los 8,7 millones de usuarios de Reddit generaron un promedio de 23 comentarios por segundo[^12], con un promedio de 83 comentarios anuales por usuario. Hubieron 73 millones de posts de primer nivel, para un promedio de 2 nuevos posts por segundo. 7 mil millones de votos positivos creando un promedio de velocidad de 220 votos por segundo. Dicho todo ésto, si Reddit estuviese operando en un blockchain requerirpia un promedio de 250 transacciones por segundo.
+Steem puede manejar una base de usuarios mas grande que Reddit. En 2015 los 8,7 millones de usuarios de Reddit generaron un promedio de 23 comentarios por segundo[^12], con un promedio de 83 comentarios anuales por usuario. Hubieron 73 millones de posts de primer nivel, para un promedio de 2 nuevos posts por segundo. 7 mil millones de votos positivos creando un promedio de velocidad de 220 votos por segundo. Dicho todo ésto, si Reddit estuviese operando en un blockchain requeriría un promedio de 250 transacciones por segundo.
 
-Para lograr este rendimiento de líder de la industria, Steem ha juntado lecciones aprendidas del *LMAX Exchange*[^13], que puede procesar 6 millones de transacciones por segundo. Entre estas lecciones se encuentras los sigueintes puntos clave:
+Para lograr este rendimiento de líder de la industria, Steem ha juntado lecciones aprendidas del *LMAX Exchange*[^13], que puede procesar 6 millones de transacciones por segundo. Entre estas lecciones se encuentras los siguientes puntos clave:
 
 1. Mantener todo en memoria.
 2. Mantener el núcleo de la logica de negocio en un sólo hilo.
@@ -433,11 +433,11 @@ Desde agosto de 2008 hacia enero de 2009 el suministro de dinero Estadounidense 
 
 Durante los primeros 2 años de vida de la red de Bitcoin, se sostuvo una tasa de inflación anual[^17] sobre el 100%. Durante los primeros 5 años estaba sobre el 30%, y por los primeros 8 años se encontraba sobre el 10%. Dicho esto, el total de "gasto" de Steem no financia contenido, curación y cantidad de producción de bloques a menos de 10% de APR.
 
-El precio de un *commodity* digital, como STEEM, es conducido tanto por el suministro y la demanda. Cuando un poseedor a largo plazo decida salir, el suministro de STEEM en el mercado se incrementará y empujará el precio hacia abajo. Esta presión es contrarresetada cuando un nuevo poseedor a largo plazo decide comprar STEEM y convertilo de nuevo a SP. Oferta y la demanda adicional puede ser agregada debido a los especuladores del mercado de compra y venta de STEEM líquido basado en sus predicciones del futuro precio de mercado.
+El precio de un *commodity* digital, como STEEM, es conducido tanto por el suministro y la demanda. Cuando un poseedor a largo plazo decida salir, el suministro de STEEM en el mercado se incrementará y empujará el precio hacia abajo. Esta presión es contrarrestada cuando un nuevo poseedor a largo plazo decide comprar STEEM y convertirlo de nuevo a SP. Oferta y la demanda adicional puede ser agregada debido a los especuladores del mercado de compra y venta de STEEM líquido basado en sus predicciones del futuro precio de mercado.
 
 # El poder de Steem
 
-Steem reconoce que el valor de todas las contribuciones de los usuarios (posts y votos) es mayor que la suma de sus partes. Un simple comentario vale casi nada, pero millones de posts curados vale muchos millones (o incluso miles de millones) de dólares. Un solo voto provee poco valor de curado, pero mil millones de votos es un curado efectovo. El contenido sin curado es de valor limitado. Dado todo el contenido de internet menos los enlaces entre éstos, Google lucharía para producir resultados de búsqueda útiles. Son los enlaces entre informaciones que le dan valor significativo.
+Steem reconoce que el valor de todas las contribuciones de los usuarios (posts y votos) es mayor que la suma de sus partes. Un simple comentario vale casi nada, pero millones de posts curados vale muchos millones (o incluso miles de millones) de dólares. Un solo voto provee poco valor de curado, pero mil millones de votos es un curado efectivo. El contenido sin curado es de valor limitado. Dado todo el contenido de internet menos los enlaces entre éstos, Google lucharía para producir resultados de búsqueda útiles. Son los enlaces entre informaciones que le dan valor significativo.
 
 Por el hecho de que todos se benefician, todos deberían pagar. En otras palabras, ningún usuario individual debería esperar pagar por nada, pero en cambio debería recibir un pago por todo lo que hacen que de valor a Steem. Todo lo que necesitamos hacer es cerciorarnos qué contribuciones de usuario traen un valor de red social y cuales no.
 
@@ -453,7 +453,7 @@ Steem se salta los micropagos por completo porque cuando un usuario vota un post
 
 La energía mental asociada a tomar una desición económica se vuelve una barrera para la participacion para la mayoría de las personas.
 
-*Ya enfrentamos una multitudo de opiciones a diario con respecto a qué acceder en línea en esta era digital de la explosión de información, y cada decisión adicional que debemos hacer simplemente se agrega a la incertidumbre y ansiedad que enfrentamos. Quienes apoyan los micropagos creen que una implementación simplificada puede minimizar la intrusividiad de los micropagos y mejorar la experiencia de usuarios, pero su argumento solo crea doble estándares para el proceso de toma de decisión \[2\]. Una transacción no puede simultáneamente ser suficientemente valiosa para garantizar una desición y valer tan poco que la desición es automática. **Las únicas transacciones que los usuarios pueden aprobar sin pensarlo son aquellas que no cuestan nada**, en consecuencia cualquier microtransacción de valor positivo incurrirá en costos mentales a través de su requerimiento de tomar una desición. Además, el costo de transacción mental de hecho crece bajo cierto umbral de valor, un fenómeno que ubica los micropagos en aún mayor desventaja. Por ejemplo, es muy fácil pensar que una copia de los periódicos actuales cuestan $1, pero los lectores enfrentan mucha mas dificultad y ansiedad en decidir el valor de cada artículo o palabra. Tal dilema solo será replicado y exsacervado si todo el contenido en línea fuese desglosado en sus componentes e individualmente cotizado dentro de un sistema de micropagos.*
+*Ya enfrentamos una multitud de opciones a diario con respecto a qué acceder en línea en esta era digital de la explosión de información, y cada decisión adicional que debemos hacer simplemente se agrega a la incertidumbre y ansiedad que enfrentamos. Quienes apoyan los micropagos creen que una implementación simplificada puede minimizar la intrusividiad de los micropagos y mejorar la experiencia de usuarios, pero su argumento solo crea doble estándares para el proceso de toma de decisión \[2\]. Una transacción no puede simultáneamente ser suficientemente valiosa para garantizar una desición y valer tan poco que la desición es automática. **Las únicas transacciones que los usuarios pueden aprobar sin pensarlo son aquellas que no cuestan nada**, en consecuencia cualquier microtransacción de valor positivo incurrirá en costos mentales a través de su requerimiento de tomar una desición. Además, el costo de transacción mental de hecho crece bajo cierto umbral de valor, un fenómeno que ubica los micropagos en aún mayor desventaja. Por ejemplo, es muy fácil pensar que una copia de los periódicos actuales cuestan $1, pero los lectores enfrentan mucha mas dificultad y ansiedad en decidir el valor de cada artículo o palabra. Tal dilema solo será replicado y exsacervado si todo el contenido en línea fuese desglosado en sus componentes e individualmente cotizado dentro de un sistema de micropagos.*
 
 - Micropagos: Un modelo de negocios viable[^20]
 
@@ -481,7 +481,7 @@ Steem resuelve este problema dándole a cada uno una forma de recibir pagos por 
 
 Una moneda que es difícil de usar o imposible de vender tiene poco valor. Alguien que viene con $1,00 en Bitcoin descubrirá que cuesta mas de $1,00 vender ese Bitcoin. Tendrá que crear una cuenta en un *exchange*, llevar a cabo una validación KYC, y pagar comisiones. Pequeños montos de criptomoneda son como el cambio chico que la gente no está dispuesta a agacharse a juntar del piso.
 
-Los mercaderes dan a los usuarios un camino para convertir rápidamente su criptmoneda en bienes tangibles y servicios. Estos mercaderes necesitan una moneda vinculada a su unidad de cuenta, normalmente dólares. Aceptar una moneda volátil introduce una carga significativa de contabilidad.
+Los mercaderes dan a los usuarios un camino para convertir rápidamente su criptomoneda en bienes tangibles y servicios. Estos mercaderes necesitan una moneda vinculada a su unidad de cuenta, normalmente dólares. Aceptar una moneda volátil introduce una carga significativa de contabilidad.
 
 Los mercaderes aceptarán cualquier moneda si ésta incrementa sus ventas. Tener una gran base de usuarios con una moneda estable tal como SBD baja la barrera de entrada para los mercaderes. La presencia de mercaderes mejora el sistema al crear una salida del sistema para los usuarios sin tener que entrar en problemas de utilizar un *exchange*.
 
