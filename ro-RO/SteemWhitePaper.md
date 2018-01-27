@@ -268,7 +268,7 @@ Blockchain technology currently depends upon transaction fees to prevent spam. T
 
 Blockchain-urile sunt rețele descentralizate, unde toate tranzațiile sunt transmise către toți membrii rețelei. Odată la ceva timp, este produs un block care include o parte sau toate tranzacțiile în așteptare. Toate blockchain-urile trebuie să găsească o soluție pentru a împiedica utilizatorii rău voitori să consume toată capacitatea disponibilă a rețelei împotriva tranzațiilor nevaloroase. Aceste tranzacții nevaloroase pot să stea în calea procesării altor tranzacții valoroase, distrugând astfel rețeaua.
 
-The solution adopted by most blockchains thus far is to charge a minimum transaction fee. A fee worth just a few cents is enough to make attacking the network expensive and unprofitable. While this approach solves the spam problem, it introduces new problems. Imagine solving the email spam problem by introducing a small fee on every email; people wouldn’t use email.
+Soluția adoptată de majoritatea blockchain-urile, este de a percepe o taxă minimă pe tranzacție. A fee worth just a few cents is enough to make attacking the network expensive and unprofitable. While this approach solves the spam problem, it introduces new problems. Imagine solving the email spam problem by introducing a small fee on every email; people wouldn’t use email.
 
 ### Micropayments Don’t Work
 
