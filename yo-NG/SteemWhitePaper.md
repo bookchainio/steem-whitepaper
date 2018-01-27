@@ -196,9 +196,9 @@ Loriire, eyikeyi ise ti o n gbe awon ifojusi pipadii ti o poju tun ni igbadun ju
 
 Lilo awon idibo asise ti kojopo lati pa awon eniyan kuro lati lilo eto naa nmu agbara-ara odaran ti opolopo awon eniyan ni nigba ti a ba rii pe eni kookan n ni ireti laibikita fun gbogbo awon eniyan. Lakoko ti o je pe ison-ara isioro n toka si awon eniyan ti o ni oju-ewe ti o n gbe awon eniyan rer sile, o tun je eyiti o fun laaye awon eniyan rere lati pa awon eniyan buburu mole. "Isoro" kan to wa pelu ison-ara isiro ni nigbati awon eniyan ba gbagbo pe enikan n se ireti fun gbogbo awon elomiran.
 
-**The Story of the Crab Bucket**[^6]
+Awon Itan ti Akan Garawa
 
-A man was walking along the beach and saw another man fishing in the surf with a bait bucket beside him. As he drew closer, he saw that the bait bucket had no lid and had live crabs inside.
+Okurin kan nrin ni eti okun ti o si ri okurin kan ti npa eja ni sisan pelu isawe kan pelu re. Bi o ti n summo odo, o ri pe garawa ti o ba ti ko ni ideri ati pe o ni awon akan ti o wa le ye wa ni inu re.
 
 "Why don't you cover your bait bucket so the crabs won't escape?", he said.
 
