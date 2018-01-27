@@ -256,9 +256,9 @@ Cu Steem, producția de block-uri este făcută în runde. În fiecare rundă, 2
 
 Acest proces este conceput să ofere fiabiliatea cea mai bună, asigurând faptul că oricine are potențialul de a participa în producerea block-urilor, indiferent dacă sunt populari sau nu pentru a fi votați în fruntea clasamentului. Oameni au trei opțiuni pentru a depăți cenzura celor 20 de martori alesi: că aștepte împreună cu toți ceilalți care nu sunt în clasamentul primilor 20, să achiziționeze mai mult SP sau să își îmbunătățească puterea de votare. Generally speaking, applying censorship is a good way for elected witnesses to lose their job and therefore, it is unlikely to be a real problem on the Steem network.
 
-Because the active witnesses are known in advance, Steem is able to schedule witnesses to produce blocks every 3 seconds. Witnesses synchronize their block production via the NTP protocol. A variation of this algorithm has been in use by the BitShares network for over a year where it has been proven to be reliable.
+Deoarece martorii activi sunt cunoscuți în avans, Steem poate să programeze martorii să producă block-uri la fiecare 3 secunde. Martorii își sincronizează producția de blocuri prin protocolul NTP. O variație a acestui algoritm a fost folosită de rețeaua BitShares de mai bine de un an și a fost dovedită de încredre.
 
-# Eliminating Transaction Fees
+# Eliminarea taxelor tranzacțiilor
 
 Steem goes to great lengths to reward people for contributing to the network. It would be counterproductive to turn around and charge people every time they attempt to interact with the community.
 
