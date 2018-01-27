@@ -210,9 +210,9 @@ Yiyo "ilokulo" ko see se ki o ye ki o je ipinnu. Paapa awon ti o n gbiyanju lati
 
 Awon ipinnu lati ko isowo owo ni lati gbe die "Awon akan ninu garawa". Lilo si awon ilana ti o poju lati se imukuro gbogbo iwa-ipa je bi igbiyanju lati fi ideri kan sori garawa lati dabobo awon akan die lati saakiri ati pe o wa laibikita fun sise ki o le safikun lati fi awon akan tuntun si inu garawa. O ti to lati se awon odi ti o ni irorun ati ki o fun awon akan miiran to lagbara lati dabobo awon elomiran lati yo kuro.
 
-### Rate Limited Voting
+### Se Ipinnu Idibo Lopin
 
-A major part of minimizing abuse is the rate-limiting of voting. Individual users can only read and evaluate so many work items per day. Any attempt to vote more frequently than this is a sign of automation and potential abuse. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
+Apa pataki kan ti dinku je isiro-idiwon idibo. Awon olumulo kookan le nikan ka ati o se ayewo awon ise pupo ni ojo kan. Eyikeyi igbiyanju alti dibo die sii nigbagbogbo ju eyi je ami ti adasise ati ilokulo. Nipase osuwon ididwon ti o niise ti o dibo die sii nigbagbogbo ni awon idibo kookan fun kere ju awon alafarakan ti o se idibo nigbagbogbo. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
 
 Users are allotted a fixed amount of voting power. Voting power is multiplied by a user’s vesting tokens to determine how much share in the reward pool should be allocated to a given work item. Every vote that is cast uses a percentage of remaining voting power. Users can vote for more posts, but each vote will be worth less, and it will take longer to reach full voting power again. Voting power recharges at a fixed linear rate of 20% per day.
 
