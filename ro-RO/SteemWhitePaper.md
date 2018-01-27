@@ -240,7 +240,7 @@ Utilizatorii au, de asemenea, opțiunea să fie plătiți cu 100% SP, sau să re
 
 # Algoritm de Consens
 
-Consensul este un proces prin care o comunitate ajunge la un acord recunoscut general, fără ambiguitate în ceea ce privește informația. Există o multitudine de algoritmi la care societatea a ajuns la un consens, despre ce deține fiecare. Fiecare guvern de pe pământ este un algoritm de conses primitiv, în care populația este de acord cu un anumit set de reguli, promulgate de constituție. Guvernele lasă în seama judecătorilor, juriului și a curți să interpreteze fapte subiective pentru a lua o decizie finală. Most of the time people abide by the decision even if it was wrong.
+Consensul este un proces prin care o comunitate ajunge la un acord recunoscut general, fără ambiguitate în ceea ce privește informația. Există o multitudine de algoritmi la care societatea a ajuns la un consens, despre ce deține fiecare. Fiecare guvern de pe pământ este un algoritm de conses primitiv, în care populația este de acord cu un anumit set de reguli, promulgate de constituție. Guvernele lasă în seama judecătorilor, juriului și a curți să interpreteze fapte subiective pentru a lua o decizie finală. În cele mai multe cazuri, oamenii respecta decizia luată, chiar dacă este nedreaptă.
 
 The algorithms used by cryptocurrencies provide a better way to reach consensus. Cryptographically signed testimony from individuals is recorded in a public ledger that establishes the absolute global order of events. A deterministic computer algorithm can then process this ledger to derive a universally accepted conclusion. So long as the members of a community agree on the processing algorithm, the result of the algorithm is authoritative.
 
