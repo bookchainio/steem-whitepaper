@@ -184,9 +184,9 @@ Następnym krokiem jest nagradzanie każdego, kto robi coś choć odrobinę pozy
 
 ### Głosowanie nad podziałem wynagrodzenia
 
-Załóżmy, że istnieje określona ilość pieniądza do podziału i to właśnie te osoby, które posiadają interes w tym, aby dana waluta zyskiwała w przyszłości na wartości i użyteczności są tymi, którzy decydują jak je rozdzielić. Każdy użytkownik głosujący na osobę, która wykonała najlepszą aktywność a na koniec dnia dostępna pula pieniędzy przeznaczona na ten dzień jest dzielona proporcjonalnie do głosów, w taki sposób, że nawet jeden najmniejszy głos ma znaczenie.
+Załóżmy, że istnieje określona ilość pieniądza do podziału i to właśnie te osoby, które posiadają interes w tym, aby dana waluta zyskiwała w przyszłości na wartości i użyteczności są tymi, którzy decydują jak je rozdzielić. Każdy użytkownik ma prawo zagłosować na osobę, która jego zdaniem stworzyła najlepszy wpis. Na koniec dnia pula pieniędzy przeznaczona na ten dzień jest dzielona proporacjonalnie do otrzymanych głosów. Każdy, to otrzymał choćby jeden pozytywny głos o dodatniej watości netto otrzymuje nagrodę.
 
-Trywialny system głosowania tworzy Dylemat Więźnia dla dowolnej liczby osób[^5] (z ang. N-Person Prisoner’s Dilemma, przyp. tłum), gdzie każdy indywidualny głosujący ma motywację do głosowania na samego siebie, kosztem wyższych celów społeczności. Jeżeli każdy oddający głos uciekałby do głosowania na siebie, wówczas żaden pieniądz nie zostałby rozdystrybuowany, ponieważ całość zawiedzie w osiągnięciu efektu sieci (z ang. network effect). Z drugiej strony, jeśli tylko jeden głosujący uciekłby się do takiego rozwiązania, wtedy otrzymałby niezasłużony przychód, mając minimalny wpływ na ogólne zachowanie waluty.
+Gdyby głosujący zdecydowali się dzialać w naiwny sposób i zamiast kierować się dobrem większośc, głosowaliby na siebie, doprowadziłoby to do powstanie Dylematu Więżnia (z ang. N-Person Prisoner's Dillema - przyp. tłum.) Jeżeli każdy oddający głos uciekałby do głosowania na siebie, wówczas żaden pieniądz nie zostałby rozdystrybuowany, ponieważ całość zawiedzie w osiągnięciu efektu sieci (z ang. network effect). Z drugiej strony, jeśli tylko jeden głosujący uciekłby się do takiego rozwiązania, otrzymałby niezasłużony przychód, ale jego wpływ na ogólne zachowanie waluty byłby minimalny.
 
 #### Nadużycia Systemu Głosowania
 
