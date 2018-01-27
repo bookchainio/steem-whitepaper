@@ -268,11 +268,11 @@ Blockchain technology currently depends upon transaction fees to prevent spam. T
 
 Blockchain-urile sunt rețele descentralizate, unde toate tranzațiile sunt transmise către toți membrii rețelei. Odată la ceva timp, este produs un block care include o parte sau toate tranzacțiile în așteptare. Toate blockchain-urile trebuie să găsească o soluție pentru a împiedica utilizatorii rău voitori să consume toată capacitatea disponibilă a rețelei împotriva tranzațiilor nevaloroase. Aceste tranzacții nevaloroase pot să stea în calea procesării altor tranzacții valoroase, distrugând astfel rețeaua.
 
-Soluția adoptată de majoritatea blockchain-urile, este de a percepe o taxă minimă pe tranzacție. O taxă în valoare de câțiva cenți face ca atacul asupra rețelei să fie scump și nerentabil. While this approach solves the spam problem, it introduces new problems. Imagine solving the email spam problem by introducing a small fee on every email; people wouldn’t use email.
+Soluția adoptată de majoritatea blockchain-urile, este de a percepe o taxă minimă pe tranzacție. O taxă în valoare de câțiva cenți face ca atacul asupra rețelei să fie scump și nerentabil. În timp ce această abordare rezolvă problema spam-ului, apar noi probleme. Este ca și cum am rezolva problema spam-ului din email prin introducerea unei taxe modice pentru fiecare email; oamenii nu ar mai folosi email-ul.
 
-### Micropayments Don’t Work
+### Microplățiile nu funcționează
 
-The fundamental problem with charging transaction fees is that micropayments don’t work, especially for low-value user actions. When a fee is charged on every transaction, it limits the types of transactions that a decentralized network can process. Regardless of how rational the argument for the necessity of fees, users still hate the experience of being nickeled and dimed for everything that they do.
+Problema fundamentală cu perceperea acestor taxe tranzacționale este faptul că microplățiile nu funcționează, mai ales în cazurile unde este vorba de acțiuniile utilizatorului. Atunci când se percepe o taxă pentru fiecare tranzacție, limitează tipurile de tranzacții pe care le poate procesa o rețea descentralizată. Indiferent de cât de rațional este argumentul pentru necesitatea acestor taxe, utilizatorii urăsc să plătească taxe pentru orice fel de activitatea, fie ea oricât de mică.
 
 Imagine if the websites we use every day charged us a fee every time we modify our accounts by changing the password. Users expect certain things to be free. Requiring users to make a decision on whether or not an action is worth a small fee creates anxiety that causes users to leave. A transaction can’t be worth so much as to require a decision but worth so little that that decision is automatic. There is a certain amount of anxiety involved in any decision to buy, no matter how small, and it derives not from the interface used or the time required, but from the very act of deciding.
 
