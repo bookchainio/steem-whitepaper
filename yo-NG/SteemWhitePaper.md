@@ -206,9 +206,9 @@ Ese bo isawe garawa yin kin awon akan yin ma le saa lo?", o so.
 
 Nitorina o pelu awon eniyan. Ti enikan ba gbiyanju lati se nkan ti o yato, gba awo ipele to dara julo, se igbaradi ara re, sa fun ayika re, tabi la awon alala nla, awon eniyan miiran yoo gbiyanju lati fa won pada lati pin ayannmo won.
 
-Yiyo "ilokulo" ko see se ki o ye ki o je ipinnu. Paapa awon ti o n gbiyanju lati se "ilokulo" eto naa n se ise. Awon iyooda ti won gba fun awon igbiyanju aseyori ninu inaje tabi ijakadi je o kere julo bi o se pataki fun idi ti pinpin owo naa gegebi ise-sise ise ti a nlo nipase iwakusa Bitcoinu ti o wa tabi ise iwakusa ti o se nipase awon iwakusa ikun poolu. All that is necessary is to ensure that abuse isn’t so rampant that it undermines the incentive to do real work in support of the community and its currency.
+Yiyo "ilokulo" ko see se ki o ye ki o je ipinnu. Paapa awon ti o n gbiyanju lati se "ilokulo" eto naa n se ise. Awon iyooda ti won gba fun awon igbiyanju aseyori ninu inaje tabi ijakadi je o kere julo bi o se pataki fun idi ti pinpin owo naa gegebi ise-sise ise ti a nlo nipase iwakusa Bitcoinu ti o wa tabi ise iwakusa ti o se nipase awon iwakusa ikun poolu. Gbogbo ohun ti o je dandan ni lati rii daju pe iwa-ipa ko ni igbadun pupo pe o dekun igbiyanju lati se ise gidi ni atileyin ti agbegbe ati owo re.
 
-The goal of building a community currency is to get more “crabs in the bucket”. Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs sufficient power to prevent others from escaping.
+Awon ipinnu lati ko isowo owo ni lati gbe die "Awon akan ninu garawa". Lilo si awon ilana ti o poju lati se imukuro gbogbo iwa-ipa je bi igbiyanju lati fi ideri kan sori garawa lati dabobo awon akan die lati saakiri ati pe o wa laibikita fun sise ki o le safikun lati fi awon akan tuntun si inu garawa. O ti to lati se awon odi ti o ni irorun ati ki o fun awon akan miiran to lagbara lati dabobo awon elomiran lati yo kuro.
 
 ### Rate Limited Voting
 
