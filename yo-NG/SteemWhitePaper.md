@@ -226,7 +226,7 @@ Ofin Zipf je okan ninu ofin imudaniloju ti o se afihan opolopo awon iyalenu ti g
 
 ![](\img_the_new_marketplace.png)
 
-Ti o gba iyasoto gege bi iye owo, lehinna iye ti eni kookan ni a fun nipase ofin zipf. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
+Ti o gba iyasoto gege bi iye owo, lehinna iye ti eni kookan ni a fun nipase ofin zipf. Iyeni ni, ti a ba ni awon ohun kan millionu kan, lehinna julo ti o gbajumo julo ogorun kan yoo see alabapin keta kan ti apapo iye, mewa egberun miiran keta, ati awon ti o ku 989,900 ni ikehin keta. Iwon ti gbigba awon ohun elo n je ti o ye lati safihan (n).
 
 The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
 
