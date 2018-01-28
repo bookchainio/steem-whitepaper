@@ -214,9 +214,9 @@ Awon ipinnu lati ko isowo owo ni lati gbe die "Awon akan ninu garawa". Lilo si a
 
 Apa pataki kan ti dinku je isiro-idiwon idibo. Awon olumulo kookan le nikan ka ati o se ayewo awon ise pupo ni ojo kan. Eyikeyi igbiyanju alti dibo die sii nigbagbogbo ju eyi je ami ti adasise ati ilokulo. Nipase osuwon ididwon ti o niise ti o dibo die sii nigbagbogbo ni awon idibo kookan fun kere ju awon alafarakan ti o se idibo nigbagbogbo. Awon igbiyanju lati pin awon owo ami laarin awon akoole pupo tun pin ipa ati nitorina ko ni idasi ilosoke ibiti o ni ipa tabi se idiwo iye tosuwon ti a fi pase lori idibo.
 
-Awon onibara ni a fun ni iye ti o wa titi ti agbara idibo. Agbara idibo po sii nipase awon asise eda atoko awon olumulo lati mo iye ti o ni ipin ninu poolu ere ye ki o soto si ise ti a fi fun. Gbogbo idibo ti o je simenti nlo ida ogorun ti agbara idibo ti o ku. Awon olumulo le dibo fun awon die sii ipo won sugbon iyoola lookan yoo je to kere, ati ki o yoo gun die lati gba agbara kikun idibo leekansi. Voting power recharges at a fixed linear rate of 20% per day.
+Awon onibara ni a fun ni iye ti o wa titi ti agbara idibo. Agbara idibo po sii nipase awon asise eda atoko awon olumulo lati mo iye ti o ni ipin ninu poolu ere ye ki o soto si ise ti a fi fun. Gbogbo idibo ti o je simenti nlo ida ogorun ti agbara idibo ti o ku. Awon olumulo le dibo fun awon die sii ipo won sugbon iyoola lookan yoo je to kere, ati ki o yoo gun die lati gba agbara kikun idibo leekansi. Agbara idibo n gbe pada ni iwon ila ti o wa titi ti ogun ogorun fun ojo kan.
 
-### Payout Distribution
+### Isanwo Pinpin
 
 One of the primary goals of Steem’s reward system is to produce the best discussions on the internet. Each and every year 75% of the yearly inflation is distributed to users submitting, voting on, and discussing content. At the size of Bitcoin this could be several million dollars per day being given to the top contributors.
 
