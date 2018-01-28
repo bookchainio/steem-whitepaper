@@ -214,7 +214,7 @@ Awon ipinnu lati ko isowo owo ni lati gbe die "Awon akan ninu garawa". Lilo si a
 
 Apa pataki kan ti dinku je isiro-idiwon idibo. Awon olumulo kookan le nikan ka ati o se ayewo awon ise pupo ni ojo kan. Eyikeyi igbiyanju alti dibo die sii nigbagbogbo ju eyi je ami ti adasise ati ilokulo. Nipase osuwon ididwon ti o niise ti o dibo die sii nigbagbogbo ni awon idibo kookan fun kere ju awon alafarakan ti o se idibo nigbagbogbo. Awon igbiyanju lati pin awon owo ami laarin awon akoole pupo tun pin ipa ati nitorina ko ni idasi ilosoke ibiti o ni ipa tabi se idiwo iye tosuwon ti a fi pase lori idibo.
 
-Users are allotted a fixed amount of voting power. Voting power is multiplied by a user’s vesting tokens to determine how much share in the reward pool should be allocated to a given work item. Every vote that is cast uses a percentage of remaining voting power. Users can vote for more posts, but each vote will be worth less, and it will take longer to reach full voting power again. Voting power recharges at a fixed linear rate of 20% per day.
+Awon onibara ni a fun ni iye ti o wa titi ti agbara idibo. Voting power is multiplied by a user’s vesting tokens to determine how much share in the reward pool should be allocated to a given work item. Every vote that is cast uses a percentage of remaining voting power. Users can vote for more posts, but each vote will be worth less, and it will take longer to reach full voting power again. Voting power recharges at a fixed linear rate of 20% per day.
 
 ### Payout Distribution
 
