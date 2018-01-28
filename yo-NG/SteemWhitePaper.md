@@ -222,11 +222,11 @@ Okan ninu awon afojusun akoko ti ona ere Steemu je lati gbe awon ijiroro to dara
 
 Imuposi gangan yoo dale lori awon idibo ti awon asoju, sugbon a fura pe opolopo awon ere yoo pin si akoonu ti o gbajumo julo.
 
-Zipf’s Law[^7] is one of those empirical rules that characterize a surprising range of real-world phenomena remarkably well. It says that if we order some large collection by size or popularity, the second element in the collection will be about half the measure of the first one, the third one will be about one-third the measure of the first one, and so on. In general, the k th-ranked item will measure about 1/k of the first one.
+Ofin Zipf je okan ninu ofin imudaniloju ti o se afihan opolopo awon iyalenu ti gidi-aye ti o se kedere daradara. O so pe ti a ba pase fun titobi nla nipase iwon tabi gbaye-gbale, iwon keji ni gbigba ni yio je iwon idaji ti akoko, eni keta yoo je nipa iwon-eeta-eekeji ti iwon akoko ati be be lo. Ni iwon gbogbo awon ohun-akore-k ti o wa ni ipo ti yoo ni iwon nipa okan/ leta k = ti akoko okan.
 
 ![](\img_the_new_marketplace.png)
 
-Taking popularity as a rough measure of value, then the value of each individual item is given by Zipf’s Law. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
+Ti o gba iyasoto gege bi iye owo, lehinna iye ti eni kookan ni a fun nipase ofin zipf. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
 
 The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
 
