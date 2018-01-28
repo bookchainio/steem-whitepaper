@@ -96,7 +96,7 @@ Dolarii Steem sunt creați printr-un mecanism similare cu notele convertibile, c
 
 Dolarii Steem sunt referiți cu simbolul SBD, un acronim la Dolarii Steem Blockchain. Crearea SBD necesită o combinație de un preț fiabil și reguli care să prevină abuzul. Oferirea unui flux fiabil al prețului implică trei factori: minimizarea impactului unui flux al prețului incorect, maximizarea costurilor producerii unui flux incorect și minimizarea importanței sincronizării.
 
-### Minimizarea Taxelor Frauduloase
+### Minimizarea Fluxurilor Frauduloase
 
 Titularii SP aleg indivizi numiți martori, pentru publicarea fluxurilor prețului. Se presupune, că martorii aleși sunt considerați de încredere de către cei care au un anumit interes investit în calitatea fluxului prețului. Prin plătirea celor care sunt aleși, Steem crează o piață competitivă pentru căștigarea dreptului de a produce un flux de preț. Cu cât sunt mai mult plătiți, cei care produc fluxul de preț, cu atât au mai mult de pierdut dacă publică informații false.
 
@@ -128,7 +128,7 @@ Blockchain decide când și cum să creeze SBD și cine să îl primească. Acea
 
 O schimbare rapidă în valoarea STEEM poate schimba dramatic raportul dintre datorie și proprietate. Blockchain-ul previne raportul dintre datorie și proprietate să devină prea mare, prin reducerea cantității de STEEM acordat prin conversiile de SBD, dacă nivelul datoriei a fost depășit cu 10%. Dacă cantitatea de SBD depășește vreodată 10% din totalul de STEEM de pe piață, blockchain-ul o să reducă automat cantitatea de STEEM generat prin conversii la un maxim din valoarea de pe piață. Aceasta asigură că blockchain-ul nu o să aibe un raport de datorie-proprietate mai mare decât 10%.
 
-Procentajul utilizat să calculeze crearea STEEM este bazat pe stoc, inlusiv valoarea STEEM a tuturor SBD și SP (determinat de cursul actual / flux).
+Procentajul utilizat pentru calcularea creării STEEM este bazat pe stoc, inlusiv valoarea STEEM a tuturor SBD și SP (determinat de cursul actual / flux).
 
 ### Interes
 
@@ -258,7 +258,7 @@ Acest proces este conceput să ofere fiabiliatea cea mai bună, asigurând faptu
 
 Deoarece martorii activi sunt cunoscuți în avans, Steem poate să programeze martorii să producă block-uri la fiecare 3 secunde. Martorii își sincronizează producția de blocuri prin protocolul NTP. O variație a acestui algoritm a fost folosită de rețeaua BitShares de mai bine de un an și a fost dovedită de încredre.
 
-# Eliminarea taxelor tranzacțiilor
+# Eliminarea costurilor tranzacțiilor
 
 Steem goes to great lengths to reward people for contributing to the network. It would be counterproductive to turn around and charge people every time they attempt to interact with the community.
 
