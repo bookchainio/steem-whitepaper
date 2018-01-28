@@ -320,7 +320,7 @@ Blokzinciri kapasitesi aslında limitli değildir. Şu anki internet altyapısı
 
 ### Ücretler ile Karşılaştırma
 
-Eğer bir kullanıcının her hafta sadece 25$ dolar değerinde BTC gönderimi yaptığını ve her ödediklerinde 0.04$ cent ücret öderse, yılda 2 doların üstünde bir ücret ödeyecektir. Kullanıcı o 25$ doların sadece 8%ini kazanarak ücretleri ödemek için harcadığı miktarı amorti edebilir. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
+Eğer bir kullanıcının her hafta sadece 25$ dolar değerinde BTC gönderimi yaptığını ve her ödediklerinde 0.04$ cent ücret öderse, yılda 2 doların üstünde bir ücret ödeyecektir. Kullanıcı o 25$ doların sadece 8%ini kazanarak ücretleri ödemek için harcadığı miktarı amorti edebilir. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. Sadece 175$ ile her gün işlem yapabilir ve günlük 14$ tasarruf edebilirler.
 
 ### Hesap Oluşturma
 
@@ -334,7 +334,7 @@ Hesap oluştururken gelen herhangi bir bakiye başka bir kullanıcıdan gelmeli 
 
 ### Minimum Bakiyeleri Kararlaştırma
 
-Kullanıcıların minimum bir bakiye bulundurmaya zorlama konsepti kullanıcının kendi değerinden gelir. [^10]. Herhangi bir işletme yürüten bilir ki her kullanıcının mutlak bir değeri vardır. İşletmeler yeni bir kullanıcıya sahip olmak için 30$ dan 200$'a kadar ücret ödeyebilirler. Bazen kullanıcılara direk ödeme yaparken bazen reklamlara öderler, ve yine bazı zamanlarda bazı işletmeler tüm kullanıcılarını satın almışlardır. Bir şirket kullanıcıyı kazandıktan sonra genel olarak onlara *ücretsiz hizmetler* sağlayarak başka yollar sayesinde üzerlerinden para kazanmak için kullanıcıları tutmalarını sağlar.
+Kullanıcıları minimum bakiye bulundurmaya zorlama fikri, haliyle, kullanıcının kendi değerinden kaynaklanır. [^10]. Herhangi bir işletme yürüten bilir ki her kullanıcının mutlak bir değeri vardır. İşletmeler yeni bir kullanıcıya sahip olmak için 30$ dan 200$'a kadar ücret ödeyebilirler. Bazen kullanıcılara direk ödeme yaparken bazen reklamlara öderler, ve yine bazı zamanlarda bazı işletmeler tüm kullanıcılarını satın almışlardır. Bir şirket kullanıcıyı kazandıktan sonra genel olarak onlara *ücretsiz hizmetler* sağlayarak başka yollar sayesinde üzerlerinden para kazanmak için kullanıcıları tutmalarını sağlar.
 
 Ripple'ın minimum bakiye miktarı [^11] hesabın kullanım oranı ile birlikte yükselir ve yeni hesapların minimum o miktarda bakiye bulundurmasını gerektirir. Şu an için bu minimum bakiye miktarı yaklaşık 0.15$ cent'dir bu miktarda bizim daha öncesinde haftada bir kez özgürce hareket edilebilir olarak düşündüğümüz miktardan 0.10$ cent fazladır.
 
