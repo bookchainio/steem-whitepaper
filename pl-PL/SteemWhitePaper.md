@@ -473,13 +473,13 @@ Poprzez zachęcanie do oceniania treści, sieć Steem jest w stanie użyć autom
 
 ## Rozwiązywanie problemu wdrażania kryptowaluty
 
-Nie jest łatwo zacząć przygodę z kryptowalutami[^21]. Ktoś, kto odkrył Bitcoini chce to wypróbować szybko zdaje sobie sprawę z tego, że musi założyć konto na giełdzie i zainwestować tam swoje środki poprzez kartę kredytową, czy przelew bankowy. Jak wiele osób chciałoby wypróbować Facebooka, jeśli przez zaczęciem miałby sięgnąć do kieszeni i potwierdzić swoją tożsamość?
+Nie jest łatwo zacząć przygodę z kryptowalutami[^21]. Ktoś, kto odkrył Bitcoini chce to wypróbować szybko zdaje sobie sprawę z tego, że musi założyć konto na giełdzie i zainwestować tam swoje środki poprzez kartę kredytową, czy przelew bankowy. Jak wiele osób chciałoby wypróbować Facebooka, jeśli założenie konta wiązałoby się z koniecznością zarówno sięgnięcia do kieszeni, jak i przesłania kopii dwóch dokumentów tożsamości?
 
-Platforma Steem rozwiązuje ten problem przez zapłacenie użytkownikowi za proste, lecz wartościowe czynności. Pomoże to szroko rozpowszechnić tokeny STEEM. Jest to bardzo pomocne, ponieważ kryptowaluty zależy od efektu sieci (z ang. network effect). Większa ilość użytkowników sprawia, że staje się ona bardziej użyteczna. Przytaczając skrajny przykład, zauważ, że jeśli Satoshi (twórca kryptowaluty Bitcoin, przyp. tłum.) zachowałby wszystkie Bitcoiny dla siebie, wtedy kryptowaluta nie miałaby wartości.
+Platforma Steem rozwiązuje ten problem dając każdemu użytkownikowi możliwość zarobienia pieniędzy w drodze wykonywania prostych, lecz cennych zadań. Pomoże to szeroko rozpowszechnić tokeny STEEM. Jest to bardzo pomocne, ponieważ na popularność kryptowaluty ma wpływ efekt sieci (z ang. network effect). Im więcej użytkowników, tym bardziej staje się ona użyteczna. Skrajny przykład - gdyby Satoshi (twórca kryptowaluty Bitcoin - przyp. tłum.) zachował wszystkie Bitcoiny dla siebie, ta waluta nie miałaby żadnej wartości
 
 ## Rozwiązywanie problemu upłynniania kryptowaluty
 
-Waluta której nie można, lub trudno ją sprzedać ma niską wartość. Ktoś spotka się z Bitcoinem o wartości 1.00$ szybko odkryje, że koszt sprzedaży jest większy wartość tego Bitcoina. Musi także stworzyć konto na giełdzie, potiwerdzić swoją tożsamość oraz zapłacić od tego podatek. Małe kwoty kryptowaluty są jak reszta z zakupów, której nie można odebrać.
+Waluta, która jest niemożliwa lub trudno do zbycia, ma niską wartość. Gdyby ktoś chciał sprzedać część Bitcoina o wartości 1.00$, szybko zorientowałby się, że koszt sprzedaży jest większy wartość tego Bitcoina. Co więcej, taka osoba musiałaby także stworzyć konto na giełdzie, potwierdzić swoją tożsamość oraz zapłacić opłaty transakcyjne. Małe kwoty kryptowaluty są jak reszta z zakupów, której nie można odebrać.
 
 Handlowcy dają użytkownikom możliwość szybkiej konwersji ich kryptowaluty na rzeczywiste dobra i serwisy. Potrzebują więc oni waluty powiązanej z jednostką używaną przez konto, zazwyczaj dolara. Akceptowanie nieprzewidywalnej waluty prowadzi do znaczących kosztów ogólnych związanych z prowadzeniem konta.
 
