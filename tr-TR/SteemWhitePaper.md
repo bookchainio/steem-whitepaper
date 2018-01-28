@@ -334,7 +334,7 @@ Hesap oluştururken gelen herhangi bir bakiye başka bir kullanıcıdan gelmeli 
 
 ### Minimum Bakiyeleri Kararlaştırma
 
-Kullanıcıları minimum bakiye bulundurmaya zorlama fikri, haliyle, kullanıcının kendi değerinden kaynaklanır. [^10]. Herhangi bir işletme yürüten bilir ki her kullanıcının mutlak bir değeri vardır. İşletmeler yeni bir kullanıcıya sahip olmak için 30$ dan 200$'a kadar ücret ödeyebilirler. Bazen kullanıcılara direk ödeme yaparken bazen reklamlara öderler, ve yine bazı zamanlarda bazı işletmeler tüm kullanıcılarını satın almışlardır. Bir şirket kullanıcıyı kazandıktan sonra genel olarak onlara *ücretsiz hizmetler* sağlayarak başka yollar sayesinde üzerlerinden para kazanmak için kullanıcıları tutmalarını sağlar.
+Kullanıcıları minimum bakiye bulundurmaya zorlama fikri, haliyle, kullanıcının kendi değerinden kaynaklanır. [^10]. Bir işletme yöneten herkes, her kullanıcının önemli bir değeri olduğunu bilir. İşletmeler yeni bir kullanıcıya sahip olmak için 30$ dan 200$'a kadar ücret ödeyebilirler. Bazen kullanıcılara direk ödeme yaparken bazen reklamlara öderler, ve yine bazı zamanlarda bazı işletmeler tüm kullanıcılarını satın almışlardır. Bir şirket kullanıcıyı kazandıktan sonra genel olarak onlara *ücretsiz hizmetler* sağlayarak başka yollar sayesinde üzerlerinden para kazanmak için kullanıcıları tutmalarını sağlar.
 
 Ripple'ın minimum bakiye miktarı [^11] hesabın kullanım oranı ile birlikte yükselir ve yeni hesapların minimum o miktarda bakiye bulundurmasını gerektirir. Şu an için bu minimum bakiye miktarı yaklaşık 0.15$ cent'dir bu miktarda bizim daha öncesinde haftada bir kez özgürce hareket edilebilir olarak düşündüğümüz miktardan 0.10$ cent fazladır.
 
