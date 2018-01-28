@@ -340,9 +340,9 @@ Ripple'ın minimum bakiye miktarı [^11] hesabın kullanım oranı ile birlikte 
 
 Bir blokzinciri kullanıcıların sahip olması gereken minimum değeri, minimum bakiye gereksinimi ile zorlayabilir. Blokzincirine yeni bir kullanıcı kazandırmak isteyen herhangi bir şirket o kullanıcının hesabını daha önceden minimum bakiye ile doldurarak sistemi kullanmasını sağlar. Yeni kullanıcı kayıtları için nispeten yüksek bir harç bedeli (1 dolar) talep etmek, ücretsiz hesap hizmeti sunan birini, hesapları blockchain'e kaydetmeden önce, her bir hesabın niteliğini ve özgünlüğünü titiz bir şekilde denetlemeye zorlayacaktır ister istemez.
 
-İşin aslı, minimum bakiye tutmak, kullanıcıların işlem harçlarını kazanmış oldukları ve kendi bakiyelerine kaydettikleri faizlerle ödemelerini sağlamaya denk düşer. Kısaca minimum bakiye, bir harcı oldukça kısa bir süre zarfında ödemeye yetecek kadar faizi kazanmak için gerekli olan bakiye şeklinde tanımlanabilir.
+İşin aslı, minimum bakiye tutmak, kullanıcıların işlem ücretlerini kazanmış oldukları ve kendi bakiyelerine kaydettikleri faizlerle ödemelerini sağlamaya denk düşer. Kısaca minimum bakiye, bir ücreti oldukça kısa bir süre zarfında ödemeye yetecek kadar faizi kazanmak için gerekli olan bakiye şeklinde tanımlanabilir.
 
-Bereket versin ki şart koşulan minimum bakiye 1 dolar kadar düşük bir meblağ olabilir; bu da kullanıcıların kabul edebileceği ve hoşnut olabileceği bir tutardır. Kaybedilen faizin fırsat maliyeti, bir mikro harcın bilişsel maliyetini karşılamaz. Bu ise kullanıcılar için çok daha makul olan bir durumdur.
+Bereket versin ki şart koşulan minimum bakiye 1 dolar kadar düşük bir meblağ olabilir; bu da kullanıcıların kabul edebileceği ve hoşnut olabileceği bir tutardır. Kaybedilen faizin fırsat maliyeti, bir mikro ücretin bilişsel maliyetini karşılamaz. Bu ise kullanıcılar için çok daha makul olan bir durumdur.
 
 Bir hesabı önceden fonlamak için kullanılan STEEM yeni hesapta aktive edilir, bir başka deyişle, Steem Power'a dönüştürülür. A portion of the SP used to fund a new account may be delegated from the creator of the account. Bir kullanıcı SP delege ettiğinde delege edilen kişi SP'yi oy verme ve trafik için kendilerininmiş gibi kullanabilir fakat SP'nin sahipliği delege eden kişide kalacaktır. Kullanıcı istediği herhangi bir zamanda delegasyonunu geri çekebilir. Delege ettikleri SP miktarı bir süre beklemenin ardından hesaplarına iade edilir.
 
@@ -427,9 +427,9 @@ Yeni yaratılan tokenların %75'i yazarlar ve küratörler arasında paylaşılm
 
 ### Token Yaratım Oranının Etkisi
 
-It is often said that a coin with an inflationary model is not sustainable, but we know from countless real-world examples that the quantity of money does not have a direct and immediate impact on its value, though it certainly plays a role.
+Enflasyon modelli herhangi bir coinin sürdürülebilir olmadığı sıklıkla söylenir. Fakat biz gerçek dünyadaki sayısız örnekten biliyoruz ki, belirli bir rolü kesinlikle olsa da, paranın niceliğinin onun değeri üzerinde doğrudan ve ivedi bir etkisi bulunmamaktadır.
 
-From August 2008 through January 2009 the U.S. money supply[^15] grew from $871B to $1,737B, a rate of over 100% per year and then continued to grow at about 20% per year for the next 6 years. All told the money supply in the U.S. has grown by 4.59x over less than 7 years. During that same time, the value of the dollar relative to goods and services has fallen less than 10% according to the government's price index[^16]. This real-world example demonstrates that supply is only one component of price.
+From August 2008 through January 2009 the U.S. money supply[^15] grew from $871B to $1,737B, a rate of over 100% per year and then continued to grow at about 20% per year for the next 6 years. Toplam olarak, Abd deki para arzı 7 yıldan kısa bir süre içerisinde 4.59 kat artmıştır. During that same time, the value of the dollar relative to goods and services has fallen less than 10% according to the government's price index[^16]. This real-world example demonstrates that supply is only one component of price.
 
 For the first 2 years of Bitcoin’s life the network sustained an annual inflation rate[^17] of over 100%. For the first 5 years it was over 30%, and for the first 8 years it was over 10%. All told the total “spending” Steem does to fund content, curation, and block production amounts to less than 10% APR.
 
