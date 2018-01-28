@@ -96,11 +96,11 @@ Steem美元是根据类似于可转换债券的机制创建。这种机制常被
 
 Steem美元的符号是SBD，即Steem Blockchain Dollor (Steem区块链美元)的缩写。 创建SBD需要一个可靠的喂价和防止滥用的规则。 提供可靠喂价涉及三因素：减少不正确喂价的影响，最大化产生不正确喂价的成本，和最小化定时的重要性。
 
-### 最小化欺馈送
+### 最小化欺诈性喂价
 
-SP持有人选举的个人，作为见证人，公布喂价。 可以认为喂价质量的既得利益者信任被选出的见证人。 通过向当选者支付费用，Steem创造了市场竞争以取得喂价的的权利。 喂价创造者获得的报酬越多，他们发布虚假信息的损失就越多。
+SP持有人选举的个人，作为见证人，公布喂价。 可以认为，喂价质量的既得利益者，信任被选出的见证人。 通过向当选者支付费用，Steem创造了市场竞争以取得喂价的权利。 喂价创造者获得的报酬越多，他们发布虚假信息的损失就越多。
 
-给定一组被信任和当选的喂价创造者，用于转换的实际价格可以衍生为喂价中位数。 这样，如果任何少数的个体喂价创造者产生的异常对实际中位数的影响最小，同时还会影响他们的声誉。
+给定一组被信任和当选的喂价创造者，用于转换的实际价格可以衍生为喂价中位数。 这样，如果任何少数的个体喂价创造者产生异常，他们对实际中位数的影响最小，同时还会影响他们的声誉。
 
 即使所有喂价创造者都是诚实的，也可能大多数喂价创造者会被他们无法控制的事件影响。 Steem网络的设计是为了在社区积极工作修正问题时容忍短期喂价中位数的损坏。 一个可以通过一些时间来纠正问题的例子是短期市场操纵。 长期的市场操纵是困难和昂贵的。 另一个例子是中央交易所的失败，或交易所公布的数据的损坏。
 
@@ -154,368 +154,368 @@ Steem喂价创造者的主要关注是保持SBD和美元 (USD) 之间稳定的�
 
 假设STEEM的价值增长快于Steem创造新的SBD，债务对所有权比率应该保持在目标比率之下，并且利息为大家提供好处。 如果网络的价值是平的或下降的，任何利息的提供只会使债务对所有权比率变得更糟。
 
-In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
+实际上，喂价创造者负有制定货币政策的责任以维持与美元的稳定绑定。 滥用这种权力会损害STEEM的价值，所以SP持有人会明智地给那些可以根据上述规则调整喂价和利率的见证人。
 
-If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SBD.
+如果债务对所有权比率达到危险的高度，市场参与者会选择避免转换请求，因而喂价会调整从而增加支付STEEM以转换SBD的比率。
 
-Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SBD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions.
+利率政策的变动和/或STEEM/SBD转换汇率的任何溢价/折扣应该是对长期平均偏差的一个缓慢的和有分寸的反应而不是试图对短期市场状况作出反应。
 
-It is our belief that these rules will give market participants confidence that they are unlikely lose money by holding SBD purchased at a price of $1.00. We fully expect there to be a narrow trading range between $0.95 and $1.05 for SBD under normal market conditions.
+我们相信这些规则将使市场参与者有信心认为他们持有以$1.00的价格购买的SBD不太可能赔钱。 我们充分预计，在正常市场条件下SBD会在$0.95和$1.05一个窄范围内交易。
 
-## Subjective Contributions
+## 主观贡献
 
-Subjective Proof of Work presents an alternative approach to distributing a currency that improves upon fully *objective* Proof of Work systems such as mining. The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
+主观工作量证明提供了另外一种方法以分配货币并改进了像挖矿这样的 *客观*工作量证明系统。 实施*主观*工作量证明的货币的应用比任何*客观*工作量证明的系统都要宽广的得多，因为前者可以应用于围绕任何具有充分足够定义宗旨的概念构建一个社区。 当个人加入一个社区时，他们会购入一组特定的信仰，并可以投票来强化社区的价值观或宗旨。
 
-In effect, the criteria by which work is evaluated is completely subjective and its definition lives outside the source code itself. One community may wish to reward artists, another poets, and another comedians. Other communities may choose to reward charitable causes or help advance political agendas.
+实际上，评估工作的标准完全是主观的，其定义在源代码之外。 一个社区可能希望奖励艺术家、诗人、喜剧演员。 其他社区可能会选择奖励慈善事业或帮助推进政治议程。
 
-The value each currency achieves depends upon the demand for influence within a particular community and how large the market believes each community can get. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
+每种货币所达到的价值取决于特定社区内对影响力的需求，以及市场相信每个社区能得到多大的影响。 与以前的系统不同，主管工作量证明使社区能够共同资助任何它发现有价值的事物的发展，并使以前非货币时代的事物货币化。
 
-### Distributing Currency
+### 分发货币
 
-There are two ways people can get involved with a crypto-currency community: they can *buy in*, or they can *work in*. In both cases users are adding value to the currency, however, the vast majority of people have more *free time* than they do *spare cash*. Imagine the goal of bootstrapping a currency in a poor community with no actual *cash* but plenty of *time*. If people can earn money by working for one another then they will bootstrap value through mutual exchange facilitated by a fair accounting/currency system.
+有两种方法可以让人们参与到加密货币社区中：他们可以*购买*也可以*做工 *。 在这两种情况下，用户都在向货币增添价值。但绝大多数人*空闲时间*多于* 闲置资金*。 设想在一个没有实际*现金*但有大量*时间* 的贫穷社区中引导货币的目标。 如果人们可以通过为彼此工作而赚钱，那么他们将通过相互交易体系利用公平的会计/货币促进价值。
 
-Distributing a currency to as many people as possible in a manner that is generally perceived as fair is a challenging task. The tasks that can be entirely evaluated by an objective computer algorithm are limited in nature and generally speaking have limited positive external benefits. In the case of Bitcoin-style mining, it can result in the production of specialized hardware and cause people to invest time developing more efficient algorithms. It may even help find prime numbers, but none of these things provide meaningful value to society or the currency holding community at large. More importantly, economies of scale and market forces will end up excluding everyone but experts from participating in this kind of distribution. Ultimately, computation-based mining is just another way of *buying in* because it requires money to pay the electric bill or the development of hardware necessary to do the work.
+以公认公平的方式向尽可能多的人分发货币是一项具有挑战性的任务。 可由客观的计算机算法完全评估的任务在本质上是有限的，并且一般来说具有有限的正面外延效益。 比特币式的开采产生了专门硬件的生产，让人们投入时间开发更有效的算法。 它甚至可以帮助找到质数，但这些都没有为社会或者持有货币的社区提供有意义的价值。 更重要的是，规模经济和市场力量最终将排除除了专家以外的所有人参与这种分配。 最终，计算采矿只是另一种*购买方式*，因为它需要资金支付电费或硬件开发费用来完成这项工作。
 
-In order to give everyone an equal opportunity to get involved and earn the currency people must be given an opportunity to work. The challenge is how to judge the relative quality and quantity of work that individuals provide and to do so in a way that efficiently allocates rewards to millions of users. This requires the introduction of a scalable voting process. In particular it requires that authority to allocate funds must be as distributed and decentralized as possible.
+为了给每个人一个平等的参与和赚取货币的机会，人们必须得到工作的机会。 面临的挑战是如何判断个人所做工作的相对质量和数量，并以一种有效的方式分配给数百万用户奖励。 这需要引入可扩展的投票过程。 特别是它要求分配资金的权力必须尽可能分散和分权。
 
-The first step in rewarding millions of users is to commit to distributing a fixed amount of currency regardless of how much work is actually done or how users vote. This changes the question from being *“Should we pay?”* to *“Whom should we pay?”* and signals to the market that money is being distributed and is being auctioned off to whoever “bids” the most *work*. This is similar to Bitcoin committing to award 50 BTC to whoever finds the most difficult hashes. Like Bitcoin, all work must be done prior-to payout and nothing should be paid speculatively on the promise to do work in the future.
+奖励数百万用户的第一步是无论实际完成了多少工作或用户如何投票都要承诺分配固定的货币数量。 这会将问题从*"我们是否该付钱？"*变成*"我们该付给谁钱？"*，从而向市场发出信号表明资金正在被分发，并被拍卖给任何 "出价" 最多的*工作*。 这是类似于比特币承诺授予50BTC给能够找到最困难的哈希值的人。 就像比特币一样，所有的工作都必须在支付之前完成，而不是付给承诺的未来工作。
 
-The next step is to reward everyone who does anything even remotely positive with *something*. This is accomplished by ranking all work done and distributing proportionally to its value. The more competitive the market becomes, the more difficult (higher quality or quantity) it becomes to earn the same payout.
+下一步是奖励那些对*某事*做了任何正面事情的人。 这是通过对所有完成的工作进行排名并按价值比例分配。 市场竞争越激烈，就越难 (更高的质量或数量) 获得同样的回报。
 
-### Voting on Distribution of Currency
+### 关于货币分发的投票
 
-Assume there is a fixed amount of money to distribute, and that those who have a long-term vested interest in the future value and utility of the currency are the ones who must decide how to allocate it. Every vesting user casts their votes on who did the best work and at the end of the day the available money for that day is divided proportional to the votes such that everyone with even one net positive vote gets something.
+假设有一个固定数额的分发资金分配，必须由那些对未来的价值和货币效用有长期归属利益的人来决定如何分配。 每个归属用户为谁做了最好的工作投下了他们的票，在一天结束时可用资金按照投票比例分配，从而每个做了正面贡献的人都会得到一定回报。
 
-The naive voting process creates a N-Person Prisoner’s Dilemma[^5] whereby each individual voter has incentive to vote for themselves at the expense of the larger community goal. If every voter defects by voting for themselves then no currency will end up distributed and the currency as a whole will fail to gain network effect. On the other hand, if only one voter defects then that voter would win undeserved profits while having minimal effect on the overall value of the currency.
+简单的投票过程造成了一个N人囚犯困境[^5]，即每个选民有动机投票为自己的牺牲更大的社区目标。 如果每一个选民都有问题，给自己投票，最终将没有货币分配，整体将无法获得网络效应。 另一方面，如果只有一个投票者有问题，那么这个投票者将赢得不应得的利润，而对货币的整体价值影响很小。
 
-#### Voting Abuse
+#### 投票滥用
 
-Regardless of how much money any one individual has, there are always many other individuals with similar wealth. Even the wealthiest individual rarely has much more than the next couple wealthiest combined. Furthermore, those who have a large investment in a community also have the most to lose by attempting to game the voting system for themselves. It would be like the CEO of a company deciding to stop paying salaries so he could pocket all of the profits. Everyone would leave to work for other companies and the company would become worthless, leaving the CEO bankrupt rather than wealthy.
+不管一个人有多少钱，总有很多其他人有着相似的财富。 即使是最富有的人，也很少会比其他几个人财富总和更多。 此外，那些在一个社区最大的投资者，如果试图玩弄投票系统他们自己的损失也将最大。 就象一个公司的CEO停止发放工资而把所有的利润拿走。 每个人将会辞职，公司将会变得一钱不值，而CEO会破产而不是会发财。
 
-Fortunately, any work that is getting a large concentration of votes is also gaining the most scrutiny (publicity). Through the addition of *negative-voting* it is possible for many smaller stakeholders to nullify the voting power of collusive groups or defecting large stakeholders. Furthermore, large-stakeholders have more to lose if the currency falls in value due to abuse than they might gain by voting for themselves. In fact, honest large stakeholders are likely to be more effective by policing abuse and using negative voting than they would be by voting for smaller contributions.
+幸运的是，任何获得大量投票的工作也得到最严格的（公开的）审查。 通过添加*负投票*，许多较小的利益相关者可能会抵消利益集团或者背叛的较大的利益相关者的投票能量。 此外，如果货币因滥用而贬值，那么大的利益相关者的损失会超过通过给自己投票获得的收益。 事实上, 诚实的大的利益相关者通过管辖滥用和使用负投票，可能比投票较小的贡献会更有效。
 
-The use of *negative-voting* to keep people from abusing the system leverages the *crab mentality* that many people have when it is perceived that one individual is profiting at the expense of everyone else. While crab mentality normally refers to short-sighted people keeping good people down, it is also what allows good people to keep bad people down. The only “problem” with crab mentality is when people *wrongly believe* someone is profiting at everyone else's expense.
+使用*负投票*来制约很多人具有的一个人的利益是以牺牲他人为代价的*螃蟹心态*来滥用系统。 螃蟹心态通常是指短视的人让好人吃亏，同样它也使好人让坏人吃亏。 螃蟹心态唯一的 "问题" 是当人们*错误地相信*有人正在以他人为代价获利时。
 
-**The Story of the Crab Bucket**[^6]
+** 螃蟹桶的故事 **[^6]
 
-A man was walking along the beach and saw another man fishing in the surf with a bait bucket beside him. As he drew closer, he saw that the bait bucket had no lid and had live crabs inside.
+一个男人正沿着海滩散步，看到一个钓鱼的人旁边放着一个鱼饵桶。当他靠近的时，他看到鱼饵桶没有盖子，里面有活蟹。
 
-"Why don't you cover your bait bucket so the crabs won't escape?", he said.
+他问: "你为什么不盖上你的鱼饵桶，防止螃蟹逃走呢？
 
-"You don't understand.", the man replied, "If there is one crab in the bucket it would surely crawl out very quickly. However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
+"你不明白", 该名男子回答说, "如果有一只螃蟹在水桶里，它肯定会很快爬出来。 然而，当有许多螃蟹在桶里时，如果一直螃蟹试图爬出来，其他螃蟹就会把它拉下来让它们分享共同的命运。
 
-So it is with people. If one tries to do something different, get better grades, improve herself, escape her environment, or dream big dreams, other people will try to drag her back down to share their fate.
+人们也这样。 如果一个人试图做一些不同的事情，以获取更好的成绩，改善自己，逃离她的环境，或者追寻更远大的梦想，别人会试图把她拖下来分享他们的命运。
 
-Eliminating “abuse” is not possible and shouldn’t be the goal. Even those who are attempting to “abuse” the system are still doing work. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn’t so rampant that it undermines the incentive to do real work in support of the community and its currency.
+消除 "滥用" 是不可能的，也不应该成为目标。 即使是那些试图 "滥用" 该系统的人仍在工作。 他们成功地通过滥用或者共谋获得的任何报酬至少跟作为传统的比特币采矿或通过采矿池进行串通采矿的制造工作系统分发货币的目的一样有价值。 所必要的是要确保滥用不那么猖獗，从而破坏了为支持社区及其货币而做真正工作的积极性。
 
-The goal of building a community currency is to get more “crabs in the bucket”. Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs sufficient power to prevent others from escaping.
+建立社区货币的目的是为了得到更多的"螃蟹在桶里"。 要采取极端措施以消除所有的滥用，就像试图给水桶加一个盖子上以防止一些螃蟹逃脱。它的代价是往桶里放进更多的螃蟹会更加困难。 使墙壁滑，并给予其他螃蟹足够的权力以防止他人逃脱就足够了。
 
-### Rate Limited Voting
+### 限制投票率
 
-A major part of minimizing abuse is the rate-limiting of voting. Individual users can only read and evaluate so many work items per day. Any attempt to vote more frequently than this is a sign of automation and potential abuse. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
+减少滥用的主要方式是限制投票率。 单个用户只能每天读取和评估一定数量的工作。 任何比这更频繁地投票的尝试都是自动化和潜在滥用的信号。 通过投票率限制，投票更频繁的利益相关者的每票权重要比较少投票的利益相关者少。 在多个账户之间分割代币的企图也会分割其影响力，因而不会增加其净影响力，也不会绕过投票率的限制。
 
-Users are allotted a fixed amount of voting power. Voting power is multiplied by a user’s vesting tokens to determine how much share in the reward pool should be allocated to a given work item. Every vote that is cast uses a percentage of remaining voting power. Users can vote for more posts, but each vote will be worth less, and it will take longer to reach full voting power again. Voting power recharges at a fixed linear rate of 20% per day.
+用户被分配了固定数量的投票权。 投票权乘以用户的归属代笔用以决定在奖励池中分配给某一工作项目的份额的多少。 每一次投票都使用剩余投票权的百分比。 用户可以投票支持更多的帖子, 但每票的价值将会更少, 而且将需要更长的时间才能恢复投票权。 投票权每天以固定的20%线性率恢复。
 
-### Payout Distribution
+### 支付分配
 
-One of the primary goals of Steem’s reward system is to produce the best discussions on the internet. Each and every year 75% of the yearly inflation is distributed to users submitting, voting on, and discussing content. At the size of Bitcoin this could be several million dollars per day being given to the top contributors.
+Steem的奖励制度的主要目标之一是在互联网上进行最佳的讨论。 每75%的通货膨胀率都分配给用户提交、投票和讨论内容。 以比特币的规模，这将是每天给最高贡献者数百万美元的回报。
 
-The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content.
+实际的分配将取决于用户的投票方式。但我们认为，绝大多数的奖励将被分配到最受欢迎的内容。
 
-Zipf’s Law[^7] is one of those empirical rules that characterize a surprising range of real-world phenomena remarkably well. It says that if we order some large collection by size or popularity, the second element in the collection will be about half the measure of the first one, the third one will be about one-third the measure of the first one, and so on. In general, the k th-ranked item will measure about 1/k of the first one.
+齐夫定律[^7] 是这些经验法则中的一种。它能显著地刻画出一个令人惊讶的真实世界现象的范围。 它说，如果我们按大小或知名度排列一些大规模藏品，第二位将大约是第一位的一半，第三个将大约是第一位的三分之一，等等。 一般来说, 第k名的项目将是第一名的1/k。
 
 ![](\img_the_new_marketplace.png)
 
-Taking popularity as a rough measure of value, then the value of each individual item is given by Zipf’s Law. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
+把知名度作为一个粗略的衡量，每个单项的价值是由齐夫定律给出的。 也就是说，如果我们有100万个物件，那么最流行的100件将是总价值的三分之一，接下来的一万件是总价值的三分之一，其余的的989,900是总价值的三分之一。 n项集合的值与log(n)成正比。
 
-The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
+这一投票和支付分配的效果是给好内容提供高报酬，同时因为长尾分布仍然可以奖励较小用户。
 
-The economic effect of this is similar to a lottery where people overestimate their probability of getting votes and thus do more work than the expected value of their reward and thereby maximize the total amount of work performed in service of the community. The fact that everyone “wins something” plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
+这种经济效应类似于彩票，人们高估了他们赢得彩排的可能性，因而比预期的报酬更努力工作, 从而使为社区服务的工作总量最大化。 事实上，每个人都 "赢得某种东西" 的作用与赌场用来保持人们赌博的心理相同。 换言之，小的奖励有助于加强这个想法，即有可能获得更大的回报。
 
-### Payouts
+### 支付
 
-When a post receives a payout it takes the form of 50% SBD and 50% SP. The Steem Power give the user increased voting and transaction power while the SBD gives the user an immediate benefit in a stable currency. As we’ve already discussed at length, SP is designed to encourage long-term holding rather than short-term selling. This encourages more users to have a vested interest in the long-term success of the platform.
+当一个帖子收到付款时是以50%SBD和50%SP的形式。 Steem能量给用户更多的投票和交易权利，而SBD给用户一个稳定货币的即时收益。 正如我们已经详细讨论过的，SP的目的是鼓励长期持有，而不是短期出售。 这会鼓励更多的用户对该平台的长期成功有相关利益。
 
-Users also have the option to be paid in 100% SP, as well as decline payout on posts. When a user declines payout on a post, the money that would have been paid to them remains in the rewards pool, to be distributed to other users.
+用户也可以选择100% SP支付，以及拒绝收益。 当一个用户拒绝一个帖子的收益时，应该付给他们的钱仍然留在奖金池中，将会被分配给其他用户。
 
-# Consensus Algorithm
+# 共识算法
 
-Consensus is the process by which a community comes to a universally recognized, unambiguous agreement on piece of information. There are many algorithms society has developed for reaching consensus about who owns what. Every government on earth is a primitive consensus algorithm whereby the population agrees to abide by a certain set of rules enshrined in a constitution. Governments establish courts, judges, and juries to interpret the subjective facts and render a final decision. Most of the time people abide by the decision even if it was wrong.
+共识是一个社区对一项信息达成公认的、明确的协议的过程。 社会已经开发了许多有关达成谁拥有什么的共识的算法。 地球上的每个政府都是一个原始的共识算法，人们同意遵守宪法中所铭记的那一套法规。 政府建立法院、法官和陪审团来解释主观事实并作出最终决定。 大多数时候，即使是错误的，人们也会遵守这个决定。
 
-The algorithms used by cryptocurrencies provide a better way to reach consensus. Cryptographically signed testimony from individuals is recorded in a public ledger that establishes the absolute global order of events. A deterministic computer algorithm can then process this ledger to derive a universally accepted conclusion. So long as the members of a community agree on the processing algorithm, the result of the algorithm is authoritative.
+加密货币所使用的算法为达成共识提供了更好的方法。 个体用密码签名的证词被记录在公开的账本里，从而建立了事件的绝对全球秩序。 一个确定性的计算机算法能够处理这个账本以得出一个普遍接受的结论。 只要社区成员同意处理算法，算法的结果就是权威性的。
 
-The primary consideration is determining what testimony is allowed to enter the public record. Systems should be designed to minimize the potential for censorship. Censorship on the public ledger is similar to preventing someone from voting in an election. In both cases an individual is prevented from impacting the global consensus.
+首要的考虑是决定什么证词被允许载入公开记录。 系统的设计应尽量减少潜在的审查。 对公共账本的审查类似于阻止某人在选举中投票。 在这两种情况下，个人被阻止队全球共识产生影响。
 
-## Consensus in Steem
+## Steem里的共识
 
-Conceptually, the consensus algorithm adopted by Steem is similar to the consensus algorithm adopted by companies throughout the world. People with a vested interest in the future value of Steem vote to select individuals responsible for including testimony in the public record. Voting is weighted proportional to each individual's vested interest.
+从概念上讲，Steem采用的共识算法类似于世界各地公司采用的共识算法。 对于未来Steem价值有既得利益的人投票选出一些个人来负责在公开记录中收录证词的个人。 投票权与每一个人的既得利益成正比。
 
-In the world of cryptocurrencies, the public record is commonly referred to as a *blockchain*. A *block* is a group of signed transactions.
+在加密货币的世界里，公共记录通常称为*区块链*。*区块* 是一组已签名的交易。
 
-With Steem, block production is done in rounds. Each round 21 witnesses are selected to create and sign blocks of transactions. Twenty (20) of these witnesses are selected by approval voting and one is timeshared by every witness that didn’t make it into the top 20 proportional to their total votes. The 21 active witnesses are shuffled every round to prevent any one witness from constantly ignoring blocks produced by the same witness placed before. Any witness who misses a block and hasn't produced in the last 24 hours will be disabled until they update their block signing key.
+在Steem里，区块在回合中产生。 每个回合中，21名见证人被选出来创建和签署交易区块。 这些证人的二十个 (20)被赞成投票选出，一个名额在那些没有成为前20名的见证人中按照他们总投票的比例分时。 21活跃的见证人每轮都被洗牌，以防止任何一个证人不断忽略同一证人所产生的区块。 任何未在过去24小时内未生成区块或者丢失区块的见证人将被禁止，知道他们更新了他们的区块签名密钥。
 
-This process is designed to provide the best reliability while ensuring that everyone has the potential to participate in block production regardless of whether they are popular enough to get voted to the top. People have three options to overcome censorship by the top 20 elected witnesses: patiently wait in line with everyone else not in the top 20, or purchase more SP to improve voting power. Generally speaking, applying censorship is a good way for elected witnesses to lose their job and therefore, it is unlikely to be a real problem on the Steem network.
+这个过程的目的是提供最佳的可靠性，同时确保每个人都有参与块生产的可能，不管他们是否有人缘以至于被投牌到最高。 人们有三选择以克服前20位当选见证人的审查：与其他人不在前20的一起耐心等待，或购买更多的SP以提高投票权。 一般而言，采用审查是当选见证人失去工作的一个好方法。因此，在Steem网络上这不太是个真正的问题。
 
-Because the active witnesses are known in advance, Steem is able to schedule witnesses to produce blocks every 3 seconds. Witnesses synchronize their block production via the NTP protocol. A variation of this algorithm has been in use by the BitShares network for over a year where it has been proven to be reliable.
+由于活跃的见证人事先已知，Steem能够安排证人每3秒产生区块。 见证人通过NTP协议同步他们的区块生产。 这个算法的变体已经被BitShares网络使用了一年多，并在那里证明是可靠的。
 
-# Eliminating Transaction Fees
+# 取消交易费
 
-Steem goes to great lengths to reward people for contributing to the network. It would be counterproductive to turn around and charge people every time they attempt to interact with the community.
+Steem会不遗余力地奖励人们对网络的贡献。当他们每次试图与社区进行互动时都被收费会适得其反的。
 
-Blockchain technology currently depends upon transaction fees to prevent spam. These fees suffer all of the known problems with microtransactions and prevent blockchains from being used for low-value transactions. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
+区块链技术目前依赖于用交易费用来防止垃圾。 这些费用遭受到所有与微消费和阻止区块链被用于低金额交易有关已知的问题。 真正的去中心化应用程序如果试图与其他去中心化的替代品，必须向用户提供貌似免费的交易。 本文概述了Steem所采用的方法以消除对费用的需求，从而使以前难以维持的去中心化应用程序有广泛的应用。
 
-## The Problem With Fees
+## 收费的问题
 
-Blockchains are decentralized networks where all transactions are broadcast to all peers. Every so often a block is produced that includes some or all of the pending transactions. All blockchains must find a solution to prevent malicious users from consuming all of the available network capacity with worthless transactions. These worthless transactions can prevent other valuable transactions from being processed and ultimately destroy the network.
+区块链是去中心化网络，所有的交易都被广播到所有的对等方。 每隔一段时间一个保护一些或者所有待定交易的区块被创建。 所有区块链必须找到一个解决方案，以防止恶意用户用无价值的交易消耗所有可用的网络容量。 这些无价值的交易能够阻止其他有价值的交易被处理从而最终破坏网络。
 
-The solution adopted by most blockchains thus far is to charge a minimum transaction fee. A fee worth just a few cents is enough to make attacking the network expensive and unprofitable. While this approach solves the spam problem, it introduces new problems. Imagine solving the email spam problem by introducing a small fee on every email; people wouldn’t use email.
+迄今为止，大多数区块链采用收取低交易费用的办法解决这个问题。 只需几美分的费用就足以使攻击网络的成本高昂且无利可图。 这种方法解决了垃圾的问题，同时也带来了新的问题。 假设通过在每封电子邮件中引入少量费用以解决垃圾邮件的问题，人们将不会使用电子邮件。
 
-### Micropayments Don’t Work
+### 微支付不可行
 
-The fundamental problem with charging transaction fees is that micropayments don’t work, especially for low-value user actions. When a fee is charged on every transaction, it limits the types of transactions that a decentralized network can process. Regardless of how rational the argument for the necessity of fees, users still hate the experience of being nickeled and dimed for everything that they do.
+收取交易费用的根本问题是微支付不可行，特别是对于低金额用户操作。 当每个交易都收取费用时，它会限制去中心网络可以处理的交易类型。 不管收取费用的论证多么合情合理，用户还是讨厌到处都是鸡毛蒜皮的收费的体验。
 
-Imagine if the websites we use every day charged us a fee every time we modify our accounts by changing the password. Users expect certain things to be free. Requiring users to make a decision on whether or not an action is worth a small fee creates anxiety that causes users to leave. A transaction can’t be worth so much as to require a decision but worth so little that that decision is automatic. There is a certain amount of anxiety involved in any decision to buy, no matter how small, and it derives not from the interface used or the time required, but from the very act of deciding.
+设想一下一个网站在我们每次修改密码都收取费用。 用户希望有些事情是免费的。 要求用户决定一件事情是否者的付小额费用增加的用户的忧虑，从而会使用户离开。 一个交易没有做一个决定有价值，但是比自动决定更有价值。 决定购买的时候总有一定的焦虑，不管多小。他不是派生于使用的界面或者需要的时间，而是来源于做决定这个行为。
 
-Micropayments, like all payments, require a comparison: *“Is this much of X worth that much of Y?”* There is a minimum mental transaction cost created by this fact that cannot be optimized away, because the only transaction a user will be willing to approve with no thought will be one that costs them nothing, which is no transaction at all.
+与所有支付一样，微支付需要进行比较：* "这么多的X是否值得这么多的Y？" *这一事实所产生的最低心理交易成本是无法被优化的，因为只有免费的交易才是用户唯一不需要考虑就愿意批准的，而这根本不是交易。
 
 – Clay Shirky[^8]
 
-In the world of financial payments, small fees are acceptable because the value of the transaction is extremely high relative to the fee charged, and the buyer has already made a decision to buy. The world of potential blockchain applications is far greater than just financial payments and includes many necessary transactions for which fees are simply unacceptable to users.
+在金融支付领域，小额费用是可以接受的，因为交易的价值比所收取的费用高的多，而买方已经作出了购买的决定。 潜在的区块链应用程序的世界远不仅仅是财务支付，还包括许多用户根本无法接受交易费的必要交易。
 
-Systems like BitShares, Nxt, Ripple, Counter Party and Stellar all allow users to place limit orders on the blockchain and all of them charge users a small fee to perform this action. Later if the user wishes to cancel their order, another fee is charged. Systems like Ethereum take micropayments to a whole new level: charging per calculation. All of these systems struggle to attract new mainstream users for the same reasons that a decentralized search engine would struggle to attract users from Google if it charged a small fee for every search. It doesn’t matter how good the service is, people expect certain things to be free. This is true even if a user ends up paying more overall under a different fee structure.
+像BitShares、Nxt、Ripple、Counter Party和Stellar等系统都允许用户将限制订单放在 区块链上，所有这些都向用户收取少许费用以执行操作。 稍后如果用户希望取消他们的订单，则另外收费。 像以太坊这样的系统将微支付带到一个全新的水平：每次计算皆收费。 所有这些系统都在争取吸引新的主流用户。因为同样的原因，如果每项搜索都收取少量费用，去中心化的搜索引擎将很难吸引谷歌用户。 不管服务有多好，人们期望某些东西是免费的。 即使用户最终在不同的收费结构下支付更多的费用，这也是事实。
 
-### Fees are a Barrier to Entry
+### 费用是进入的障碍
 
-Any fee creates a barrier to entry for new users. Before someone can experiment with Ethereum they must acquire some ETH tokens. Anyone wanting to build a decentralized application on Ethereum must pass on the cost to their customers. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
+任何费用都会给新用户进入带来障碍。 在人们可以试验以太坊之前，他们必须获得一些ETH代币。 任何想在以太坊上构建去中心化应用程序的人都必须将成本转嫁给他们的客户。 购买加密货币不是一件容易的事情，对于少于10美元的金额来说更不值得。 这意味着想要尝试新去中心化应用程序的新用户必须首先被说服花去10美元。
 
-### Changing Fees
+### 费用更改
 
-Over time a network must adjust fees. This can happen either due to an increase in the value of the token or due to a surge in capacity. Users like predictable fees and guaranteed service. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
+随着时间的推移，网络必须调整费用。 这可能是由于代币的价值增加或由于容量激增而引起。 用户喜欢可预知的费用和有保障的服务。 虽然在大量使用时可以动态调整费用，但结果却是用户体验不佳。
 
-### Sybil Attacks
+### Sybil攻击
 
-Centralized websites prevent spam through rate limiting and some form of ID verification. Even something as simple as reCAPTCHA[^9] is sufficient to limit the creation of fake accounts. If someone abuses their account then centralized websites are free to block the account.
+中心化的网站通过速率限制和某种形式的ID验证来防止垃圾。 甚至像reCAPTCHA[^9]这样简单的东西也足以限制假帐户的创建。 如果有人滥用他们的帐户，中心化的网站可以关闭帐户。
 
-In a decentralized system there is no direct way to ban users nor centralized provider able to host a reCAPTCHA and enforce rate limiting of accounts. In fact, the inability to censor users is one of the main selling points of blockchain technology.
+在去中心化的系统中，没有直接的方法禁止用户，也没有中心化的提供商能够托管reCAPTCHA和强制限制帐户的速率。 事实上，不能审查用户是区块链技术的主要卖点之一。
 
-### Full Reserve vs Fractional Reserve
+### 完全预留与部分预留
 
-Let’s view a blockchain like an Internet Service Provider (ISP) co-op which owns all of the cables in the town and has a maximum amount of bandwidth that it can provide at any time. People living in the town can buy shares in the ISP and in exchange they are entitled to utilize a portion of the available bandwidth.
+让我们来把一个区块链看作一个互联网服务提供商 (ISP) 合作社。它拥镇上有所有的电缆 并有一个可以在任何时候提供的最大的带宽。 住在镇上的人可以购买ISP的股票，作为交换他们有权使用一部分带宽。
 
-The ISP has two choices, run a “full reserve” or “fractional reserve” system. Under a full reserve system each user is only allowed a fraction of the maximum bandwidth proportional to her shares. Because not everyone uses the Internet at the same time, the town’s network would be significantly underutilized.
+ISP 有两个选择，运行 "完全预留" 或 "部分预留" 系统。 在一个完全预留系统下，每个用户只允许使用最大带宽的与他的股票成正比的一小部分。 由于不是每个人都在同一时间使用互联网，该镇的网络将被利用非常不充分。
 
-Under a fractional reserve system the individual users could utilize more bandwidth than they are entitled to at any given point in time so long as not everyone uses the Internet at the same time. The problem with operating a fractional reserve is that congestion occurs anytime too many people wish to use the network at the same time. The ISP needs a way to prioritize bandwidth during congested periods. In the most extreme case, a fully congested network must revert to a full reserve system. The challenge is setting the proper fractional reserve ratio.
+在一个部分预留系统下，只要不是每个人都同时使用互联网，单个用户就可以使用比他们应得的更多的带宽。 操作一个部分预留的问题是，当太多人希望同时使用网络时，就会出现堵塞。 ISP需要一种在拥塞期间优先带宽分配的方法。 在最极端的情况下，一个完全拥挤的网络必须恢复到一个完全预留系统。 挑战在于设定适当的部分预留率。
 
-## Bandwidth Instead of Micropayment Channels
+## 带宽而不是微支付通道
 
-The solution to the problems with micropayments is in implementing *dynamic fractional reserves*. Under this model the blockchain will automatically adjust the reserve ratio for the network during times of congestion. The blockchain will set a target utilization that leaves enough headroom for short term surges in demand. Any time the surges are sustained the blockchain reduces the maximum bandwidth-per-share. When a surge is over and there is surplus capacity the blockchain can slowly increase the bandwidth-per-share.
+微支付问题的解决方案是实现*动态部分预留*。 在该模型下，区块链在堵塞时自动调节预留比率。 区块链将设定一个目标应用，为短期激增的需求留出足够的余量。 每当高峰持续时，区块链会降低每个股份的最大带宽。 当高峰结束，并有过剩的容量时，区块链可以慢慢增加每股带宽。
 
-Bandwidth used by an individual user should be measured over a suitably long period of time to allow that user to time-shift their usage. Users tend to login, do many things at once, then logout. This means that their bandwidth over a short period of time may appear much higher than if viewed over a longer period of time. If the time window is stretched too far then the reserve ratio will not adjust fast enough to respond to short-term surges, if the window is too short then clustering usage will have too big of an impact on normal users.
+单个用户使用的带宽应在适当长的时间内进行测量，以允许该用户时间转移用量。 用户倾向于登录，一次做很多事情，然后登出。 这意味着它们在短时间内的带宽可能会比在较长时间平均高得多。 如果时间窗口过大，则预留比率将无法快速调整以响应短期激增。如果窗口太短，则群集使用将对普通用户产生太多影响。
 
-In our estimate it should be sufficient to measure the average weekly bandwidth usage of users. Every time a user signs a transaction, that transaction is factored into their own individual moving average. Any time a user’s moving average exceeds the current network limit their transaction is delayed until their average falls below the limit.
+我们估计，它应该足以衡量用户每周平均带宽使用率。 每当用户签署一个交易时，该交易就会被分解成各自的移动平均。 每次一个用户的移动平均超过了当前的网络限制后，他们的交易将会被延迟到他们的平均值下降到限制范围。
 
-### Impact of Capacity
+### 容量影响
 
-Blockchain capacity isn’t necessarily capped. It is well within the technological capability of internet infrastructure to increase the Bitcoin block size to 10MB which in turn will reduce the minimum required balance by a factor of 10. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second.
+区块链的容量未必需要封顶。 互联网设施完全允许比特币区块大小增加到10MB，从而将需要的最小余额减少十倍。 虽然比特币目前支持每秒约3个交易，但是替代实现可以每秒进行超过1000交易。
 
-### Comparison to Fees
+### 费用对比
 
-If we assume a user with $25 dollars worth of BTC transacts once per week and pays a $0.04 cent fee each time then they would pay over $2.00 in fees per year. A user would have to earn a 8% rate of return on their $25 dollars just to break even with paying fees. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
+如果我们假设一个用户每周用价值25美元的比特币办理业务，每次支付4美分的费用，他们每年付费将超过2美元。 用户将必须为他们的25美元赚取8%的回报率，才能跟支付的费用收支平衡。 用户将会把他们的钱保存在区块链上，这样如果使用速率限制的方法而不是收费的方法，这个用户将有价值25美元的比特币并能在一年中节省2美元。 如果有175美元，他们可以每天进行交易而且每年节省14美元。
 
-### Account Creation
+### 帐户创建
 
-Steem’s account-based system with publicly known balances simplifies the implementation of the bandwidth-based rate limiting algorithm. Any account with a balance below the minimum required to transact once per week would be unable to transact. This implies that all new accounts should be funded with at least this minimum balance. It also implies that users wishing to transact in smaller amounts can, so long as they hold a larger balance and reuse the account.
+Steem的基于账户的系统余额公开化使得以带宽为基础的速率限制算法的事实更近容易实现。 任何账户的余额低于每周办理一次所需的最低限额，则无法办理交易。 这意味着，所有新的账户都必须拥有这一最低余额的资金。 它还意味着用户如果希望用小额交易可以重新使用这个账户，只要拥有较大的余额。
 
-It is possible for a low-balance account created during a time of low usage to become inaccessible if the network usage picks up. The funds could be recovered at any time by temporarily delegating a larger balance to the account.
+一个在低用量时期创建的低余额的账户在网络用量增加后可能会变的无法访问。 可以在任何时候通过临时将较大的金额代理给账户来收回它的资金。
 
-In order to maintain a reasonable user experience with a minimum number of hung accounts, all new accounts should start out with a balance 10 times the minimum required to transact weekly. This way even if demand increases by a factor of 10 the account will remain viable.
+为了保持一个合理的用户体验与最低数量的冻结帐户，所有新账号必须注入每周交易最低数额十倍的余额。 这样，即使需求增加10倍，该帐户仍然可用。
 
-Any initial account balance would have to come from the user creating the account and not from token creation due to the potential for sybil attacks.
+为了防止潜在的sybil攻击，任何初始帐户余额都必须来自创建帐户的用户，而不是来自代币创建。
 
-### Justifying Minimum Balances
+### 最小余额的合理性
 
-The concept of forcing users to maintain a minimum balance flows naturally from the value of a user[^10]. Anyone running a business knows that every single user has significant value. Businesses spend anywhere from $30 to $200 to acquire a user. Sometimes they pay users directly, other times they pay for advertizing, and still other times entire companies are bought just for their user base. After a company acquires a user they often given them many *free services* just to keep them around long enough to monetize them through some other means.
+强制用户保持最小余额的概念自然来自用户的价值[^10]。 任何经营企业的人都知道每个用户都有很大的价值。 企业花费30到200美元的以获取用户。 有时他们直接向用户付费，有时她们花钱做广告，而有时整个公司被购买只为了他们的用户群。 在一家公司获得用户后，他们经常给他们提供许多*免费服务*，只是为了让他们保持足够长的时间以通过其他方式赚钱。
 
-Ripple uses a minimum balance[^11] that scales with account resource use and requires that new accounts get funded with at least this minimum balance. Currently this minimum balance is about $0.15 which is greater than the $0.10 we estimated would allow someone to transact freely at least once per week.
+Ripple使用跟用户资源使用成比例的最低余额为[^11]，并要求新帐户至少获得此最低余额的资金。 目前，这一最低余额约为0.15 美元，比我们估计的可以让人每周至少一次自由交易的0.10 美元多。
 
-A blockchain can enforce a minimum value per user through the simple process of requiring a minimum balance. Any business that wishes to bring a new customer to the blockchain can pre-fund that user’s account with the minimum balance that would allow them to transact. Requiring a relatively large fee ($1.00) to sign up new users will naturally force anyone offering free accounts to vet the quality and uniqueness of each account before registering them with the blockchain.
+区块链可以通过要求最小余额的简单过程来强制每个用户的最小值。 任何希望将新客户带到区块链的企业都可以为该用户的帐户充值到使其能够进行交易的最小余额。 要求一个相对较大的费用 ($ 1.00) 注册新用户，自然会迫使任何提供免费账户的人，在把他们注册到区块链之前，审查每个帐户的质量和独特性。
 
-Maintaining a minimum balance is effectively the same as making users pay transaction fees with the interest they could have earned on their balance. The minimum balance is simply the balance required to earn enough interest to pay a fee in a relatively short period of time.
+维持最低限度的余额，而不能这些余额赚取利息，跟让用户付交易费是一样的。 最低余额只是在相对较短的时间内赚取足够利息以支付费用所需的余额。
 
-Fortunately, the minimum balance required can be as low as a dollar and this is something users can understand and appreciate. The opportunity cost of lost interest doesn’t incur the cognitive cost of a micro-fee and is far more acceptable to users.
+幸运的是，所需的最低余额可以低至一美元，这是用户可以理解和接受的东西。 失去利息的机会成本不会导致小额费用的认知成本，而且对用户来说更容易接受。
 
-The STEEM used to pre-fund an account is Powered Up in the new account (i.e., converted to Steem Power). A portion of the SP used to fund a new account may be delegated from the creator of the account. When a user is delegated SP, they may use the SP for voting and bandwidth purposes as if it were their own, but the ownership of the SP remains with the user who delegated it. A user may remove the delegation at any time. After a cool-down period, the SP is returned to their account.
+用于前期投资账户的STEEM被增加能量到新账号中(即, 转换为Steem能量)。 用于为新帐户提供资金的一部分SP可以从该帐户的创建者那里代理。 当用户被代理了SP，他们可以将SP用作投票和带宽用途，就像是他们自己的一样, 但是SP的所有权仍然属于代理者。 用户可以随时删除该代理。 在冷却期间后, SP将返回到他们的帐户。
 
-### Effectiveness Relative to Fees
+### 关于费用的有效性
 
-To compare the effectiveness of rate limiting to fees we must consider how the two systems react to intentional network flooding by an attacker. Under Bitcoin an attacker with $10,000 dollars could disrupt service for an entire day by filling every single block. The same attacker would be unable to disrupt service for even a single block under the dynamic fractional reserve rate limiting approach.
+为了比较速率限制和费用的有效性，我们必须考虑两个系统如何对攻击者蓄意的网络泛滥作出反应。 对于比特币，攻击者可以使用一万美元通过填满每一个区块来扰乱一整天的服务。 同一攻击者甚至无法在动态的部分预留速率限制方法下中断单个区块的服务。
 
-If we go to a more extreme case and assume the attacker holds 1% of all coins then we presume an attacker with $60 million dollars. Such an attacker could deny the Bitcoin blockchain service for 16 years unless the miners increased fees or capacity. Even if fees were raised to $15 per transaction, the attacker could still keep the network flooded for 16 days.
+如果我们考虑一个更极端的情况，假设攻击者持有所有币的1%，那么我们假定攻击者拥有6千万美元。 这样的攻击者可以拒绝比特币区块链服务16年，除非矿工增加费用或容量。 即使费用提高到每笔交易15美元，攻击者仍然可以将网络淹没16天。
 
-Under the rate limiting approach, someone who holds 1% of all coins with an intent to flood the network would achieve their goal for less than 30 seconds.
+在限速方法下，持有所有币1%的人，如果意图淹没网络，紧紧可以得逞不到30秒的时间。
 
-### Renting vs. Buying vs. Time Sharing
+### 租赁与购买与时间共享
 
-When someone owns a house they expect the right to use the house for free. If a group of people buy a house together then each can expect the right to use the house proportional to their percentage ownership in the house. A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
+当某人拥有一所房子时，他们期望有权免费使用房子。 如果一组人一起买房子，那么每个人都可以期望按比例来使用房子的权利。 基于费用的区块链就像从房东那里租房，而速率限制就像房主之间的时间共享。
 
-If a house is owned by multiple people then those individuals must decide how they wish to timeshare the house. Someone who owns 50% of the house but only uses it one weekend per year might expect to be paid by the individuals who take their unused time. This is the mindset of a fee based system.
+如果一座房子被多个人拥有，那么这些个人必须决定如何明智地时间共享这座房子。 那些拥有50%房权但是每年只使用一周的人期望其他使用了他的未用时间的个人付给他钱。 这是基于费用的系统心态。
 
-On the other hand, someone who owns 50% of the house is speculating that demand for the house will increase in the future and they will be able to sell their stake for more. Any owner who owns more of a house than they use becomes a real estate speculator. With this mindset rather than collecting rent, they collect appreciation.
+另一方面，那些拥有50%房权的人期望未来房屋的需求增长因而他们可以以更高的价格卖掉他们的权益。 任何拥有比他们使用的房子都多权益的业主成为房地产投机者。 以这种心态，他们不是收取租金，而是获得升值。
 
-The value of a share is derived from how much time it can potentially grant its owner. Owning 1% of a house and getting it 1 weekend per year is the lowest value of a share. However, if half of the shareholders never use their weekend, then the value per timeshare rises to 2 weekends per year. If those inactive users instead opt to rent their unused time, then it falls back to 1 weekend per year. If those unused timeshares were sold to people who would use them then the value of a timeshare would fall by 50%. Unless the rent collected is greater than the fall in share value the timeshare owners are making an economic miscalculation.
+共享的价值来自于它可能授予其所有者多少时间。 拥1%的房权，并每年得到它一个周末是最权益的最低价值。 然而，如果一半的股东从来不使用他们的周末，那么时间共享的价值上升到每年2周末。 如果那些不活跃的用户选择租出他们未使用的时间，那么它就会退回到每年一个周末。 如果那些未使用的分时被出售给使用它们的人，时间共享的价值将下降50%。 除非收取的租金大于股份价值的下跌，否则时间分享的业主就是经济上的失算。
 
-Using this rationale we can assume that a system based on fees will either be more expensive for its users or be less profitable for its collective owners. An individual small owner may profit by renting out his small time slice, but only at the expense of all other timeshare owners. In effect, the cost of the falling timeshare value is shared among all owners whereas the profits are centralized in the single owner who decided to rent his share.
+利用这一理论，我们可以假定，基于收费的系统对其用户来说要么更贵，要么对其集体业主的利润更低。 一个小的业主可以通过租出他的小时间片来获利，但只会牺牲所有其他时间共享业主的利益。 实际上，时间共享价值下降的成本由所有业主均摊，而利润会集中在决定租赁其份额的单个所有者身上。
 
-We can conclude from this that a blockchain is best served by not using usage fees at all. If a usage fee were to be charged as an alternative to rate limiting, then it should be the equivalent of buying enough timeshares and committing to hold them long enough to gain the right use it once.
+从这一点我们可以得出这样的结论，区块链最好不要用使用费。 如果将使用费用作替代速率限制，那么它应该相当于购买足够的分时，并承诺持有他们足够长的时间，以获得使用一次的权利。
 
-Stated another way, a transaction fee should be equal to the minimum account balance necessary to transact once per week and it should be refunded at the end of the week. Assume the minimum account balance is $1 and allows someone to transact once per week. If someone with a $1 balance that wishes to perform 5 transactions at once they will have to increase their balance to $5 for a week either before or after their transactions.
+换句话说，交易费应该相当于每周交易一次的最低账户余额，并在一周结束时返还。 假设最低账户余额时一美元，而且运行用户一周交易一次。 如何拥有一美元的用户希望一次做五次交易，他必须在这一周做交易前后把余额增加到五美元。
 
-In theory a market could form where users can borrow the stake required. In practice it is more efficient for users to simply buy and sell the timeshares necessary to meet their desired usage rate. In other words, the cost of negotiating micro-loans is greater than the cost of maintaining a balance suitable for your maximum weekly usage.
+理论上讲，如果用户可以加到需要的股权那么就会形成一个市场 实践上说，用户购买和卖出满足他们需要的共享时间会更加有效。 用其他的话说，交涉微贷款的成本高于维护一个每周最大使用量的余额的成本。
 
-Decentralized rate limiting of transactions can enable new types of decentralized applications that were not viable when every use of the application required a micropayment. This new model gives application developers the ability to decide if and when to charge their users for transactions.
+去中心化的速率控制可以让新型的每次使用应用程序都需要微支付所不能实现的去中心化应用程序产生。 这个新模型给了应用程序的开发者决定是否以及何时收取他们的用户交易费的能力。
 
-# Performance and Scalability
+# 性能和可扩展性
 
-The Steem network is built upon Graphene, the same technology that powers BitShares. Graphene has been publicly demonstrated sustaining over 1000 transactions per second on a distributed test network. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
+Steem网络是建立在石墨烯上，同样的技术驱动了Bitshares。 在一个分布式测试网络上，石墨烯已被公开证明每秒可以超过1000交易。 通过对服务器容量和通信协议的相对简单的改进，石墨烯可以轻松地扩展到每秒1万或更多的交易。
 
-## Reddit Scale
+## Reddit规模
 
-Steem is capable of handling a larger userbase than Reddit. In 2015 Reddit’s 8.7 million users generated an average of 23 comments per second[^12], with an average of 83 comments per year per user. There were 73 million top-level posts, for an average of 2 new posts per second. There were about 7 billion up votes creating an average voting rate of 220 votes per second. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
+Steem能够处理比Reddit更大的用户群。 在 2015年，Reddit 的870万用户平均每秒生成23条评论 [^12]，平均每用户每年有83条评论。 有七千三百万顶层帖子，也就是平均每秒钟两个新帖子。 有七十亿个点赞被产生，平均每秒钟220个点赞。 如果Reddit运行在区块链上，那么它需要每秒平均250个交易。
 
-To achieve this industry-leading performance, Steem has borrowed lessons learned from the LMAX Exchange[^13], which is able to process 6 million transactions per second. Among these lessons are the following key points:
+为了取得行业领先性能，Steem借鉴了每秒钟处理六百万个交易的LMAX交易所[^13]的经验。 这些经验包括以下要点:
 
-1. Keep everything in memory.
-2. Keep the core business logic in a single thread.
-3. Keep cryptographic operations (hashes and signatures) out of the core business logic.
-4. Divide validation into state-dependent and state-independent checks.
-5. Use an object oriented data model.
+1. 把一切都记在内存里。
+2. 将核心业务逻辑保持在单个线程中。
+3. 将加密操作 (哈希和签名) 保持在核心业务逻辑之外。
+4. 将验证划分为依赖于状态的和独立于状态的检验。
+5. 使用面向对象的数据模型。
 
-By following these simple rules, Steem is able to process 10,000 transactions per second without any significant effort devoted to optimization.
+通过遵循这些简单的规则，Steem能够处理每秒1万条交易，而无需花费多余精力进行优化。
 
-Keeping everything in memory is increasingly viable given the recent introduction of Optane™ technology from Intel[^14]. It should be possible for commodity hardware to handle all of the business logic associated with Steem in a single thread with all posts kept in memory for rapid indexing. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optane™ technology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
+由于最近Intel [^14] 中引入了Optane™技术，将所有内容保存在内存中越来越可行。 商品化的硬件应该能够在单个线程中处理与Steem关联的所有商业逻辑，并把所有的帖子保存在内存中以快速索引。 甚至连Google都把整个互联网的索引保存在RAM中。 区块链技术的使用使得将数据库复制到许多计算机以防止数据丢失变得微不足道。 当Optane™技术流行时，RAM将会变得更快更持久。 换句话说，Steem是为未来架构设计，而且设计的可以扩展。
 
-# Allocation & Supply
+# 分配和供应
 
-## Initial Allocation & Supply
+## 初始的分配和供应
 
-The Steem network started with a currency supply of 0 and allocated STEEM via proof of work at a rate of approximately 40 STEEM per minute to miners, with an additional 40 STEEM per minute being created to seed the content and curation reward pools (for a total of 80 STEEM per minute). Then the network started rewarding users who converted to SP. At this point, STEEM grew at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
+Steem网络始于零货币供应，根据工作证明以每分钟40个STEEM的速率向矿工分配STEEM，并以额外的每分钟40个STEEM的创建速率增加内容和点赞奖励池（总共每分钟80个STEEM）。 然后，网络开始奖励转换为SP的用户。 这时，STEEM因为以下总结的不同的贡献奖励效应，以大约每分钟800个STEEM的速率增长：
 
-Contribution Rewards:
+贡献奖励
 
-- Curation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
-- Content Creation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
-- Block production rewards: 1 STEEM per block or 0.750% per year, whichever is greater
-- POW inclusion rewards before block 864,000: 1 STEEM per block (awarded as 21 STEEM per round)
-- POW inclusion rewards after block 864,000: 0.0476 STEEM per block (awarded as 1 STEEM per round) or 0.750% per year, whichever is greater.
-- Liquidity rewards: 1 STEEM per block (awarded as 1200 STEEM per hour) or 0.750% per year, whichever is greater
+- 点赞奖励：每块一个STEEM或者每年3.875%，以较大者为准。
+- 内容创作奖励：每块一个STEEM或者每年3.875%，以较大者为准。
+- 产生区块奖励：每块一个STEEM或者每年0.750%，以较大者为准。
+- 864,000区块前的包括POW奖励：每块一个STEEM（每轮奖励21个STEEM）
+- 64,000区块后的包括POW奖励：每块0.0476个STEEM（每轮奖励1个STEEM）或每年0.75%，以较大者为准。
+- 流动资金奖励：每块1个STEEM (每小时奖励1200个STEEM) 或每年0.750%，以较大者为准。
 
-### Power Rewards:
+### 能量奖励：
 
-- Steem Power rewards: For each STEEM created by the above rewards, 9 STEEM are divided among all Steem Power holders.
+- Steem能力奖励：对于上述奖励所创建的每个STEM，Steem能量持有者分析9个STEEM。
 
-### SBD operations:
+### SBD操作:
 
-- SBD rewards: A percentage of SBD value is created at an APR set by the witnesses and paid to SBD holders as SBD
+- SBD奖励: SBD以见证人设置的APR为比率创建SBD将会以SBD的形式付给SBD的拥有者。 
 
-The overall supply picture is complicated by the effect of SBD operations, which may result in large-scale creation or destruction of STEEM through feed rate following and SBD rewards, as discussed in the SBD section. Other, smaller-scale complicating effects also exist, including unclaimed incentives (e.g. block rewards for missed blocks), and abandoned accounts.
+整体供应情况因为SBD操作的作用而变的复杂，就像在SBD章节中讨论的，可能通过喂价率跟随和SBD奖励导致大规模的STEEM的创造或摧毁。 另外，更小规模的复杂影响也存在，包括无人认领的奖励 (例如, 错过的块的块奖励)，和废弃的帐户。
 
-## Current Allocation & Supply
+## 当前的分配和供应
 
-Starting with the network's 16th hard fork in December 2016, Steem began creating new tokens at a yearly inflation rate of 9.5%. The inflation rate decreases at a rate of 0.01% every 250,000 blocks, or about 0.5% per year. The inflation will continue decreasing at this pace until the overall inflation rate reaches 0.95%. This will take about 20.5 years from the time hard fork 16 went into effect.
+从 2016年12月网络的第十六次硬分叉开始，Steem开始以每年9.5%的通货膨胀率创造新的代币。 通货膨胀率每25万个区块降低0.01%，每年大约降低0.5%。 通货膨胀率将继续以这种速度下降，直到总体通货膨胀率达到0.95%。 这从硬分叉16生效开始，这将需要大约20.5年的时间。
 
-75% of the new tokens that are generated go to fund the reward pool, which is split between authors and curators. 15% of the new tokens are awarded to holders of SP. The remaining 10% pays for the witnesses to power the blockchain.
+75%的新代币是用来资助的奖励池，并由作者和点赞者分别获得。 15%的新代币奖励给SP的拥有者。 剩余的10%付给驱动区块链的见证人。
 
-### Impact of Token Creation Rate
+### 代币产生率的影响
 
-It is often said that a coin with an inflationary model is not sustainable, but we know from countless real-world examples that the quantity of money does not have a direct and immediate impact on its value, though it certainly plays a role.
+人们常说，通货膨胀模式的币是不能持续的。但是我们从数不清的真实世界中的例子知道，货币的数量虽然对它的价值有一些作用，但是并没有直接的和即时的影响。
 
-From August 2008 through January 2009 the U.S. money supply[^15] grew from $871B to $1,737B, a rate of over 100% per year and then continued to grow at about 20% per year for the next 6 years. All told the money supply in the U.S. has grown by 4.59x over less than 7 years. During that same time, the value of the dollar relative to goods and services has fallen less than 10% according to the government's price index[^16]. This real-world example demonstrates that supply is only one component of price.
+从2008年8月到 2009年1月，美国的货币供应量 [^15]从8,710亿美元增长到17,370亿美元，年增长率超过100%，并且在接下来的6年中讲每年持续增长约20%。 大家知道美国的货币供应量在7年内增长了4.59倍。 与此同时，根据政府的价格指数[^16]，美元相对于商品和服务的价值下降了不到10%。 这个现实世界的例子表明，供应只是价格的一个组成部分。
 
-For the first 2 years of Bitcoin’s life the network sustained an annual inflation rate[^17] of over 100%. For the first 5 years it was over 30%, and for the first 8 years it was over 10%. All told the total “spending” Steem does to fund content, curation, and block production amounts to less than 10% APR.
+在比特币出现的前2年中，该网络持续了超过100%的年通货膨胀率 [^17]。 前五年，年通货膨胀率超过30%，前八年超过10%。 Steem所有的 "支出"都是用来资助内容、点赞、和块的产生，总和少于10% APR。
 
-The price of a digital commodity, like STEEM, is driven by both supply and demand. When a long-term holder decides to exit, the supply of STEEM on the market will increase and push the price down. This downward pressure is countered when a new long-term holder decides to buy up the STEEM and convert it back into SP. Additional supply and demand may be be added due to market speculators buying and selling liquid STEEM based on their predictions of the future market price.
+像Steem这样的数字商品的价格是由供需双方共同推动的。 当长期持有者决定退出时，市场上的Steem供应将会增加并推低价格。 当一个新的长期持有者决定购买Steem并将其转换为SP时，这种下行压力就会被抵消。 因为投机者根据他们对市场价格的预测买卖流动性的STEEM，更多的供给和需求将会被增加。
 
 # Steem的能量
 
-Steem recognizes that the value of all user contributions (posts and votes) is greater than the sum of the parts. A single comment is worth next to nothing, but millions of curated posts is worth many millions (or possibly even billions) of dollars. A single vote provides little curation value, but billions of votes is very effective curation. Content without curation is of limited value. Given all the content of the Internet minus the links between it, Google would struggle to produce useful search results. It is the links between information that give it significant value.
+Steem认识到所有用户的贡献(帖子和投票)的价值大于各个部分的总和。 一个单独的评论几乎毫无价值，但是数百万策展的帖子价值数百万(甚至数十亿)美元。 一个单独的点赞几乎没有策展价值，但是亿计的点赞是非常有效的策展。 没有策展的内容的价值是有限的。 互联网所有的内容之间如果没有链接，Google将很难产生有用搜索结果。 正是信息之间相互的链接给予了它重要的价值。
 
-Because everyone benefits, everyone should pay. In other words, no individual user should be expected to pay for anything, but instead should be paid for everything they do that brings value to Steem. All we need to do is ascertain which user contributions bring a social network value and which ones don’t.
+因为每个人都受益，每个人都应该付出。 换言之，任何个人用户都不应该为任何东西买单，而是应该为他们所做的一切付出代价并为Steem带来价值。 我们所要做的就是确定哪些用户的贡献带来了社会网络价值，哪些没有。
 
-Collectively Reddit users vote 220 times per second and make 23 posts per second. Reddit is valued between $500 million[^18] and $4 billion[^19] which means that each and every upvote and post is worth between $0.06 and $0.50 assuming the value of Reddit is mostly within the past year’s worth of activity. One could argue that most of the value of Reddit is the near-real-time discussions that have occurred within the past week which would dramatically increase the value of new activity. People go where people are today, not where people were last year.
+所有Reddit用户每秒投票220次，产生23个帖子。 Reddit值介于5亿[^18]和40亿美元[^19]之间。这意味着假定Reddit的价值主要在过去一年的活动中产生，那么每个点赞和帖子的价值介于0.06 和0.50 美元之间。 有人可能会争辩说，Reddit的大部分价值是在过去的一周内近乎实时的讨论所产生，这将极大地增加新动态的价值。 人们去人们现在所在的地方，而不是去人们去年去的地方。
 
-## No Micropayments, Tips Optional
+## 没有微支付，小费可选
 
-Existing attempts at integrating a cryptocurrency into a social media platform have focused on enabling users to pay one another. Many services have attempted to introduce tipping. The theory is that if we make tipping simple enough then more people will do it. Other services attempt to get people to pay to promote or boost their content’s ranking. Still others attempt to build small prediction markets on how many tips an article will receive.
+现有的将加密货币集成到社交媒体平台的尝试集中在使用户能够相互支付。 许多服务试图引入小费。 理论是如果我们使付小费足够简单，那么更多的人会这样做。 其他服务试图让人们支付费用以促进或提高他们的内容的排名。 还有一些人试图建立关于文章将收到多少小费收入的小预测市场, 。
 
-All of these approaches boil down to micropayments. They differ only in who is making the payment. They all suffer from insufficient engagement of people making the micropayments. In the search for incentivised content production entrepreneurs have been so focused on who should pay that they missed the obvious reality: everyone benefits from everyone’s actions so everyone should pay or no one should pay, depending on how you look at it.
+所有这些方法都归结为微支付。 他们的唯一区别是谁付费。 他们都有微支付参与者不足的问题。 在寻求激励内容产生的过程中，企业家一直把重点放在谁应该付钱，他们错过了显而易见的现实：每个人都会从每个人的行为中受益，所以每个人都应该付钱，或者没有人应该付钱，这取决于你如何看待它。
 
-Steem bypasses micropayments completely because when a user upvotes a post it is the community that pays the bill. The same amount of money will be spent whether the user upvotes a post or not and the funds will not come from the voter.
+Steem完全绕过支付，因为当一个用户点赞一个帖子时，这就是社区在支付账单。 无论用户是否点赞一个帖子，同样的钱都会被花掉，而资金也不是来自点赞者。
 
-The mental energy associated with making an economic decision becomes a barrier to participation for most people.
+与经济决策关联的心理能量成为大多数人参与的障碍。
 
-*We already face a multitude of choices everyday with regards to what to access online in this digital era of the information explosion, and every additional decision that we must make simply adds on to the uncertainty and anxiety we face. Micropayment supporters believe that a simplified implementation can minimize the intrusiveness of micropayments and improve user experience, but their argument only creates double standards for the decision making process \[2\]. A transaction cannot simultaneously be worth enough to warrant a decision and worth so little that the decision is automatic. **The only transactions that users can approve without thought are ones that cost them nothing**, thus any micro-transaction of positive value will incur mental costs through its requiring a decision. Furthermore, mental transaction costs actually rise below a certain threshold value, a phenomenon that places micropayments at an even greater disadvantage. For instance, it is easy to think that a copy of today's newspapers costs $1, but readers face much more difficulty and anxiety in deciding on the value of each article or word. Such a dilemma will only be replicated and exacerbated if all online content were to be broken down into their components and individually valued within a micropayment system.*
+*在这个信息爆炸的数字时代，我们每天都要面对众多的选择。而我们必须做的每一个额外的决定，都增加了我们所面临的不确定性和焦虑。 微支付的支持者认为，简化的实现可以最大限度地减少微支付的侵扰并改善用户体验，但他们的论点只为决策过程\ [2 \]创造了双重标准。 一个交易不可能同时价值足够大到保障一个决定并且价值如此小以至于决定可以自动作出。 **用户无需考虑就可以批准的交易是不需要付费的交易**，因此，任何有价值的微交易都将通过其要求作出决定而招致心理代价。 此外，心理的交易成本实际上上升到一定的阈值以下，这种现象使微支付处于更大的劣势。 比如，今天的一份报纸价值一美元比价容易接受，而读者会面对更多的困难和焦虑如果他们需要决定每一篇文章或者每一个字的价值。 如果所有在线内容都被分解成它们的组成部分，并每个部分在一个微支付系统中被单独估价，那么这种两难境地只会被复制和加剧。*
 
--Micropayments: A Viable Business Model[^20]
+-微支付: 一个可行的业务模式[^20]
 
-Under Steem, micropayments are paid to content producer, but those who vote for the content do not pay. Instead, the cost of the reward is paid for via new tokens. Someone can join the system, vote to pay someone, and then exit the system with more money than they started with (assuming the market valuation of the Steem system remained constant). In other words, the micropayment solution provided by Steem provides a user-experience similar to many widely used websites that have user-moderated content.
+在Steem里，微支付被付给内容的创造者，但是点赞者不需要付费。 实际上，奖励的开支通过新的代币支付。 有些人可以加入这个系统，给其他人点赞，然后带着比他们当初拥有的更多的钱退出系统(假设Steem的市场价值恒定)。 换言之，微支付Steem提供的微支付解决方案提供了类似于许多广泛使用的具有用户主持内容的网站的用户体验。
 
-Furthemore, Steem pays people to figure out who should be paid! This kind of thinking is revolutionary.
+另外，Steem支付那些找出谁应该被支付的人们！这种想法是革命性的。
 
 ## 价值在链接中
 
-The Internet would lose the vast majority of its value if all links among content were removed. It is the relationship among web pages that allows Google to identify the best apple pie recipe among the 16 million results. Without the links the only information Google would have is word frequency.
+如果删除互联网内容之间的所有链接，互联网将失去绝大部分的价值。 正是网页之间的关系，使谷歌能够在1600万个结果中确定最好的苹果馅饼食谱。 如果没有链接，谷歌唯一的信息就是词频。
 
-Links can take many forms and have adapted over time. Every time a user votes on content in a social network they add a connection between themselves and the content. This in turn links the consumer to the producer through the content. The more connections a network has the more valuable the information becomes. It is the relative and intentional connectedness of information that gives it value.
+链接可以采取多种形式，并随着时间的推移而进化。 每当用户对社交网络中的内容进行投票时，他们就会在自己和内容之间添加了连接。 这反过来又通过内容将消费者与生产者联系起来。 网络的连接越多，信息就越有价值。 信息的相对的和有意的连接赋予它价值。
 
-A social network can maximize the value extracted from a set of content by maximizing the quantity and quality of connections. Curating content is expensive and time consuming while being near impossible for computers to perform in the absence of links. Steem rewards users who are among the first to find and identify new content.
+社交网站可以通过最大化连接的数量和质量，让一组内容的价值最大化。 策展内容昂贵而且费时，在没有链接的情况下计算机几乎无法完成。 Steem奖励最先发现和识别新内容的用户。
 
-By incentivising curation the Steem network is able to use automated algorithms to extract the most valuable information from a massive amount of content.
+通过鼓励策略，Steem网络能够使用自动算法从大量内容中提取最有价值的信息。
 
-## Solving the Cryptocurrency Onboarding Problem
+## 解决加密货币上位问题
 
-It isn’t easy to get into cryptocurrency[^21]. Someone who discovers Bitcoin and wants to try it out quickly learns that they will need to sign up with an exchange and fund their account with a credit card or wire transfer. What would Facebook’s adoption rate have been like if you had to fork over money and a two forms of ID?
+进入加密货币不是一件容易的事情[^21]。 发现并想尝试比特币的人很快就会发现他们需要注册一个交易所，并需要用信用卡或电汇来给他们的账户充值。 如果你不得不把钱和两种形式的 ID 分叉，那Facebook的采用率会是什么样子呢？
 
-Steem solves this problem by giving everyone a way to get paid for doing simple, but valuable, tasks. This will help to widely distribute STEEM tokens. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless.)
+Steem解决这个问题的方法是让每个人都可以做简单但有价值的任务而获得报酬。 这将有助于广泛分发STEEM代币。 因为加密货币有网络效应(就是说，更多的用户让它更有价值。比如，假如中本聪把100%的比特币留给他自己，比特币将没有任何价值。)，因此这样做是有帮助的。
 
-## Solving the Cryptocurrency Liquidation Problem
+## 解决加密货币的清算问题
 
-A currency that is difficult to use or impossible to sell has little value. Someone who comes across $1.00 worth of Bitcoin will discover that it costs more than $1.00 to sell that Bitcoin. They have to create an account with an exchange, perform KYC validation, and pay fees. Small amounts of cryptocurrency are like small change that people are unwilling to bend over to pick up.
+难以使用或不能卖出的货币几乎没有价值。 如果有人有价值一美元的比特币，他会发现卖掉比特币的成本超过一美元。 他们必须在交易所中创建帐户，执行KYC验证，并支付费用。 小额数字货币就像人们懒得弯腰去捡的零钱。
 
-Merchants give users a way to quickly convert their cryptocurrency into tangible goods and services. Merchants need a currency pegged to their unit of account, normally dollars. Accepting a volatile currency introduces significant accounting overhead.
+商家为用户提供了一种将他们的加密货币快速转换为有形商品和服务的方法。 商家需要一个能够绑定他们账户的货币单位，通常是美元，的货币。 接受波动的货币会引起很大的会计开销。
 
-Merchants will accept any currency if it increases their sales. Having a large user base with a stable currency such as SBD lowers the barrier to entry for merchants. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
+如果能够增加他们的销售，商家会接受任何货币。 像SBD这样的稳定货币的庞大用户群降低了商户进入的门槛。 商家的存在，为用户创建了一个退出系统的方法，而不必烦神去使用交易所，从而改善了系统。
 
-Another way that people can liquidate the small amounts of cryptocurrency they receive from participating on the Steem platform is through *tipping* others. This is like leaving the small change as a tip for your waiter. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
+另一种方式是，人们可以通过给其他人*付小费*来清算他们参与Steem平台获得的少量加密货币。 这就像把零钱留给侍者做小费一样。 当足够多的人留下小额小费，加在一起将是一个有意义的数额。 你和侍者都将从小费中受益。
 
-## Censorship
+## 审查
 
-Steem is a decentralized network that is operated by witnesses in jurisdictions around the world. All user actions are publicly recorded on the blockchain, and can be publicly verified. This means that there is no single entity that can censor content that is valued by STEEM holders.
+Steem是一个由位于世界各地司法管辖区的见证人经营的去中心化的网络。 所有用户操作都在区块链上公开记录，并且可以公开验证。 这意味着没有单一实体可以审查Steem持有人所珍视的内容。
 
-Individual websites such as steemit.com may censor content on their particular site, but content published on the blockchain is inherently broadcast traffic and mirrors all around the world may continue to make it available.
+个别网站，比如steemit.com，可能会审查其网站上的内容。在区块链上发布的内容本身就是广播流量，世界各地的镜像可以继续使其可用。
 
-Freedom of speech is the foundation of all other liberties and any infringement upon freedom of speech undermines the only peaceful means of reaching consensus: discussion. Without free discussion voters cannot be fully informed, and uninformed voters are a greater threat to society than losing the right to vote. Censorship is a means of stealing votes through limiting public discourse. Steem is committed to enabling free speech and building a free society.
+言论自由是所有其他自由的基础，任何侵犯言论自由的行为都破坏了达成共识的唯一和平手段: 讨论。 如果没有自由讨论，选民就不能完全知情。不知情的选民对社会的威胁比失去投票权更大。 审查是通过限制公众话语权来窃取选票的手段。 Steem致力于实现言论自由和建立自由社会。
 
-## Solving Organic Discovery via Search Engine Optimization
+## 通过搜索引擎优化解决有机发现
 
-Most cryptocurrencies generate little value for those who are not actively using the network. Steem, by contrast, generates content and encourages users to share it. This content gets indexed by search engines and ultimately will bring value to a large number of passive users. This search traffic creates organic advertising for the Steem network and grows the network effect.
+大多数加密货币对那些不积极使用网络的人产生的价值不大。 相反，Steem生成内容并鼓励用户共享。 这个内容得到搜索引擎的索引，最终将给大量的被动用户带来价值。 这些搜索流量为Steem网络创造了有机广告，并且增长了网络效应。
 
-## Shifting Toward Blockchain-based Attribution
+## 转到基于区块链的归属
 
-The internet represents the easiest medium for distributing information in the world. With that said, it can be a frightening place for content creators who would like to own their content and have it shared with proper attribution. On current social media platforms, attribution is something that can be lost overnight - a posted video or image can be replicated and re-shared without consent or regard for the creator.
+互联网是世界上最容易传播信息的媒介。 所以说，对于那些想拥有他们的内容并且希望用恰当的归属权分析内容的内容创造者来讲，互联网是一个可怕的地方。 在当前的社交媒体平台上，归属是一种可以在一夜之间丢失的东西：一个张贴的视频或图像可以未经作者同意或者未提及作者而被复制和重现分享。
 
-Under blockchain-based social media, a creator or author would always be able to point to a public record and timestamp showing proof of their content origination. In a circumstance where a creator would like to address those who have re-shared without permission or attribution, blockchain-based records provide public proof that the content was posted by a particular user at a particular time. In the future, blockchain-based attribution could come to be recognized by governments for its authenticity and could hold weight in court, which would give content creators greater powers to control their work.
+在基于区块链的社交媒体下，创作者或作者总是能够指向公共记录和时间戳以证明其内容创作的证据。 在创作者想要解决未经许可或归属而重新分享这个问题的情况下，基于区块链的记录提供了内容是由特定用户在特定时间发布的公开证据。 将来区块链为基础的归属可能会被政府承认为其真实性，并可以在法庭上举足轻重，这将使内容创造者有更大的能力来控制他们的作品。
 
-While a timestamping service can be built on almost any blockchain, and several efforts exist to build this kind of service on the Bitcoin network, Steem has a useful advantage in this realm because content publishers are “first class citizens” -- the Steem blockchain is built from the ground up around the use case of content publication, which allows content creators to have the blockchain to validate their content at a certain point in time simply by writing their post using the same authoring tools used by other Steem users.
+虽然时间戳服务可以建立在几乎任何区块链上，并有几个在比特币网络创建的这种服务，但是Steem在这个领域有一个有用的优势，因为内容出版商是 "头等公民"：Steem区块链是在内容发布的用例的基础上构建的，它允许内容创建者通过使用与其他Steem用户使用的相同的创作工具，使用区块链在某一特定时间点来验证其内容。
 
-## Replacing Advertising with Blockchain-based Content Rewards
+## 以区块链为基础的内容奖励代替广告
 
-Under most content monetization models, content creators leverage advertising in one form or another. Many creators recognize how advertising may diminish their work’s value to the consumer, yet creators very often must seek returns on their time by monetizing. Advertising represents a double-edged sword: With ads, a creator can make money most easily. Without ads, monetization is difficult but the content is richer.
+在大多数内容货币化模式下，内容创作者利用这种或那种的广告形式。 许多创作者认识到广告可能会降低他们的作品对消费者的价值，但创作者往往必须通过货币化来为时间付出寻求回报。 广告是一把双刃剑：利用广告，创造者可以最容易的赚钱。 没有广告，赚钱困难，但是内容更加丰富。
 
-Creators posting to social media outlets that are connected to Steem may monetize merely by having their work recognized (or ”liked”) by the Steem community. Blockchain-based payouts are completely digital and have no middle-man. Therefore monetization by blockchain-based content rewards should be faster and much lower barrier to use than monetization by advertisements.
+在与Steem相关联的社交媒体上张贴的创作者可能仅通过让他们的作品被Steem社区认可（或“喜欢”）来获利。 以区块链为基础的付款是完全数字化的而且没有中间人。 因而，以区块链为基础的内容奖励的货币化应该比广告的货币化更加快捷而且门槛更低。
 
-# Conclusion
+# 总结
 
-Steem is an experiment designed to address challenges in the cryptocurrency and social media industries by combining the best aspects from both. Steem presents earning opportunities to content creators and internet readers in ways that have not existed within the social media industry. Within Steem, individuals earn real rewards online that are directly correlated to their contributions. Those rewards may have dollar value due to the market price discovery and liquidity of Steem, and the people who hold Steem may have more exclusive earning powers than those who do not.
+Steem是一个旨在通过结合两者的最佳方面来解决加密货币和社交媒体行业挑战的实验。 Steem以社交媒体行业内尚未存在的方式向内容创作者和互联网读者提供赚取机会。 在Steem内，个人在线上获得与他们的贡献直接相关的真实奖励。 由于Steem的市场价格发现和流通性，这些奖励可能具有美元价值，持有Steem的人可能比那些没有Steem的人有更多的专属收益权。
 
 [^1]: Reddit’s Cryptocurrency, Forbes, Erika Morphy, October 2014 http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/\#4e07b05332b9
 

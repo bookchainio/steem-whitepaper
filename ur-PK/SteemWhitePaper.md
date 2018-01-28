@@ -4,9 +4,9 @@
 
 اگست ٢٠١٧
 
-# Translator's notes
+# ترجمہ کرنے والے کے لئے نوٹ
 
-Placeholder for translator's notes.
+ترجمہ کرنے والے کے لئے نوٹ کے لئے قائم جگہ.
 
 # خلاصہ
 
@@ -419,103 +419,103 @@ Placeholder for translator's notes.
 
 مجموعی فراہمی کی تصویر ایس-بی-ڈی کاروائیوں کے اثر سے پیچیدہ ہے جس کا نتیجہ بڑے پیمانے پر تخلیق ہو سکتا ہے یا فیڈ کی شرح کی پیروی کے ذریعے سٹیم کی تباہی اور SBD انعامات کی بھی، جیسا کہ ایس-بی-ڈی کے حصے میں بحث کی تھی. دیگر چھوٹے پیمانے کے پیچیدہ اثرات بھی موجود ہیں بشمول بنا مطالبہ کیے گے معاوضے۔ (مثلا۔ غیرحاضر بلاک کے انعامات)، اور ترک کردہ اکاونٹ.
 
-## Current Allocation & Supply
+## موجودہ مختص اور & فراہمی
 
-Starting with the network's 16th hard fork in December 2016, Steem began creating new tokens at a yearly inflation rate of 9.5%. The inflation rate decreases at a rate of 0.01% every 250,000 blocks, or about 0.5% per year. The inflation will continue decreasing at this pace until the overall inflation rate reaches 0.95%. This will take about 20.5 years from the time hard fork 16 went into effect.
+دسمبر 2016 میں نیٹ ورک کے 16 ہارڈفورک کی ابتداء سے، سٹیم نے 9.5% کی سالانہ افراط زر کی شرح سے ٹوکن بنانا شروع کر دیا. افراط زر کی شرح ہر 250,000 بلاک پر 0.01% کے حساب سے کم ہوتی ہے، یا 0.5% سالانہ. اس رفتار پر افراط میں کمی جاری رہے گی جب تک کہ مجموعی افراط کی شرح 0.95% تک نہ پہنچ جائے. یہ ہارڈفورک کے عمل میں آنے کے وقت سے 20.5 سالوں کا وقت لے گی.
 
-75% of the new tokens that are generated go to fund the reward pool, which is split between authors and curators. 15% of the new tokens are awarded to holders of SP. The remaining 10% pays for the witnesses to power the blockchain.
+نئے پیدا کیے گئے 75% ٹوکن انعام پول کو فنڈ کرنے میں جائینگے، جو مصنفین اور محافظین میں تقسیم کی جاتی ہے. ئے ٹوکن کا 15% ایس-پی ہولڈرز کو عطا کیا جاتا ہے. باقی 10% گواہوں کو بلاکچین چلانے کے لئے دیا جاتا ہے.
 
-### Impact of Token Creation Rate
+### تخلیق ٹوکن کی شرح کا اثر
 
-It is often said that a coin with an inflationary model is not sustainable, but we know from countless real-world examples that the quantity of money does not have a direct and immediate impact on its value, though it certainly plays a role.
+اکثر یہ کہا جاتا ہے کہ افراطی موڈل والا کوائن پائیدار نہیں ہوتا، لیکن ہم بے شمار حقیقی دنیا کی مثالوں کی روشنی میں یہ جانتے ہیں کہ زر کی مقدار کا اس کی قیمت پر براہ راست اور فوری اثر نہیں ہوتا، اگرچہ یہ یقینی طور پر ایک کردار ادا کرتا ہے.
 
-From August 2008 through January 2009 the U.S. money supply[^15] grew from $871B to $1,737B, a rate of over 100% per year and then continued to grow at about 20% per year for the next 6 years. All told the money supply in the U.S. has grown by 4.59x over less than 7 years. During that same time, the value of the dollar relative to goods and services has fallen less than 10% according to the government's price index[^16]. This real-world example demonstrates that supply is only one component of price.
+اگست 2008 سے جنوری 2009 تک امریکی زر کی [^15]فراہمی 871 بلین ڈالرز سے بڑھ کر 1737 بلین ڈالرز ہو گئی جو کہ سالانہ 100% فیصد سے زائد کی شرح ہے اور پھر اگلے ٦ سالوں میں فی سال تقریبا20% کی شرح پر بڑھتی رہی. سب کو معلوم ہوگیا کہ 7 سال سے کم کے عرصے میں امریکہ میں زر کی فراہمی 4.59x گنا تک بڑھ گئی. اسی وقت کے دوران ڈالر کی قدر بمقابل اشیاء اور خدمات کے، حکومت کی قیمت انڈیکس کے مطابق ١٠ فیصد سے کم گری۔[^16]. یہ حقیقی دنیا کی مثال ظاہر کرتی ہے کہ فراہمی قیمت کا صرف ایک حصہ ہے.
 
-For the first 2 years of Bitcoin’s life the network sustained an annual inflation rate[^17] of over 100%. For the first 5 years it was over 30%, and for the first 8 years it was over 10%. All told the total “spending” Steem does to fund content, curation, and block production amounts to less than 10% APR.
+بٹکوائن کی ابتدائی دو سالوں کی زندگی کے لئے نیٹ ورک نے 100% فیصد سے زائد سالانہ افراط کی شرح[^17] کو برقرار رکھا. ابتدائی پانچ سالوں کی زندگی کے لئے یہ 30% فیصد سے زیادہ تھا اور ابتدائی آٹھ سالوں کی زندگی کے لئے یہ 10% سے زیادہ تھا. سب کو معلوم ہوگیا کہ کل اخراجات جو سٹیم مواد، حفاظت اور بلاک کی پیداوار کے لئے کرتی ہے وہ سالانہ 10% فیصد کی شرح سے کم کی مقدار تک بنتے ہیں.
 
-The price of a digital commodity, like STEEM, is driven by both supply and demand. When a long-term holder decides to exit, the supply of STEEM on the market will increase and push the price down. This downward pressure is countered when a new long-term holder decides to buy up the STEEM and convert it back into SP. Additional supply and demand may be be added due to market speculators buying and selling liquid STEEM based on their predictions of the future market price.
+عددی اشیاء کی قیمت، جیسے سٹیم، فراہمی اور طلب دونوں سے چلتی ہے. جب ایک طویل مدتی ہولڈر نکلنے کا فیصلہ کرتا ہے تو ماکیٹ میں سٹیم کی فراہمی بڑھ جائے گی اور قیمت کو نیچے کی طرف دھکا دے گی. یہ نیچے کا دباو ختم ہو جاتا ہے جب ایک طویل مدتی ہولڈر سٹیم کو خریدنے کا فیصلہ کرتا ہے اور اسے ایس-پی میں واپس تبدیل کر لیتا ہے. اضافی فراہمی اور طلب مارکیٹ میں مارکیٹ کے سٹےبازوں کی انکی مستقبل قیمت کی پیشن گوئیوں پر مبنی مائع سٹیم خریدنے اور فروخت کرنے کی وجہ سے شامل ہو سکتی ہے.
 
-# The Power of Steem
+# سٹیم کی طاقت
 
-Steem recognizes that the value of all user contributions (posts and votes) is greater than the sum of the parts. A single comment is worth next to nothing, but millions of curated posts is worth many millions (or possibly even billions) of dollars. A single vote provides little curation value, but billions of votes is very effective curation. Content without curation is of limited value. Given all the content of the Internet minus the links between it, Google would struggle to produce useful search results. It is the links between information that give it significant value.
+سٹیم یہ تسلیم کرتی ہے کہ تمام صارفین کی شراکت کی قدروقیمت (اشاعت اور ووٹ) حصوں کی کل تعداد سے زیادہ ہے. ایک واحد رائے کی قدر تقریبا کچھ نہیں لیکن کئی ملین سرپرست شدہ اشاعتیں بہت سے ملین (یا ممکنہ طور پر بلین) ڈالرز کے برابر ہیں. ایک واحد ووٹ سرپرستی کی چھوٹی سے قدر فراہم کرتا ہے لیکن کئی بلین ووٹ بہت موثر سرپرستی ہے. سرپرستی کے بغیر مواد محدود قدر کا ہے. مفروضہ انٹرنیٹ پر تمام مواد کو ان کے درمیان لنکس سے ضرب دیں تو، گوگل مفید نتائج تلاش کرنے میں جدوجہد کرے گا. یہ معلومات کے درمیان روابط ہیں جو اسے معنی خیز قدر دیتے ہیں.
 
-Because everyone benefits, everyone should pay. In other words, no individual user should be expected to pay for anything, but instead should be paid for everything they do that brings value to Steem. All we need to do is ascertain which user contributions bring a social network value and which ones don’t.
+چونکہ سبھی فوائد حاصل کرتے ہیں، اس لئے سب کو ادائیگی کرنی چاہئیے. دوسرے لفظوں میں، کسی انفرادی صارف سے کسی بھی چیز کے لئے ادائیگی کی توقع نہیں کی جانی چاہئیے لیکن بجائے اس کے، انہیں ان تمام کاموں کے لئے ادائیگی کی جانی چاہئیے جو سٹیم کی قدر میں اضافہ کرتے ہیں. ہیں۔ ہم سب کو جو کرنے کی ضرورت ہے وہ یہ ہے کہ اس بات کا تعین کیا جائے کہ کس صارف کی شراکتیں (تعاون) اس سوشل نیٹ ورک کے لئے قدر لاتی ہیں اور کس صارف کی نہیں.
 
-Collectively Reddit users vote 220 times per second and make 23 posts per second. Reddit is valued between $500 million[^18] and $4 billion[^19] which means that each and every upvote and post is worth between $0.06 and $0.50 assuming the value of Reddit is mostly within the past year’s worth of activity. One could argue that most of the value of Reddit is the near-real-time discussions that have occurred within the past week which would dramatically increase the value of new activity. People go where people are today, not where people were last year.
+مجموعی طور پر ریڈٹ کے صارفین فی سیکنڈ میں 220 مرتبہ ووٹ کرتے ہیں اور فی سیکنڈ میں 23 اشاعتیں کرتے ہیں. ریڈٹ کی قدر 500 ملین ڈالرز[^18] سے 4 بلین ڈالرز[^19] کے درمیان ہے جس کا مطلب یہ ہے کہ ہر ایک ووٹ اور اشاعت کی قدر $0.06 سے $0.50 کے درمیان ہے اس بات کو فرض کرتے ہوئے کہ ریڈٹ کی قدر زیادہ تر گزشتہ سال کی قابل سرگرمی کے اندر اندر ہے. کوئی یہ بحث کر سکتا ہے کہ ریڈٹ کی زیادہ تر قدر اس کی قریبی حقیقی وقت کی بات چیت ہے جو گزشتہ ہفتے کے اندر واقع ہوئی ہیں جو نئی سرگرمیوں کی قدر میں ڈرامائی طور پر اضافہ کرتی ہیں۔ لوگ وہیں جاتے ہیں جہاں لوگ آج ہیں. لوگ وہیں جاتے ہیں جہاں لوگ آج ہیں، وہاں نہیں جہاں گزشتہ سال لوگ تھے.
 
-## No Micropayments, Tips Optional
+## چھوٹی ادائیگیاں نہیں، اختیاری بخشش
 
-Existing attempts at integrating a cryptocurrency into a social media platform have focused on enabling users to pay one another. Many services have attempted to introduce tipping. The theory is that if we make tipping simple enough then more people will do it. Other services attempt to get people to pay to promote or boost their content’s ranking. Still others attempt to build small prediction markets on how many tips an article will receive.
+سوشل میڈیا پلیٹ فارم میں کرائیپٹوکرنسی کو ضم کرنے کی موجودہ کوششوں نے صارفین کو ایک دوسرے کو ادا کرنے کے قابل بنانے پر توجہ مرکوز کردی ہے. بہت سی سروسز نے بخشش کے نظام کو متعارف کروانے کی کوششیں کیں. ان کا نظریہ یہ ہے کہ اگر ہم بخشش کے نظام کو کافی آسان بنادیں تو پھر زیادہ لوگ بخشش نظام کا استعمال کرینگے. دیگر سروسز نے لوگوں کو ان کے مواد یا اشاعت کی درجہ بندی کو فروغ دینے کے لئے ادائیگی حاصل کرنے کی کوششیں کیں. پھر دوسروں نے چھوٹی پیشن گوئی مارکیٹوں کی تعمیر کے لئے کوششیں کیں جو یہ پیشن گوئی کر سکے کہ ایک اشاعت کتنی بخشش حاصل کرے گی.
 
-All of these approaches boil down to micropayments. They differ only in who is making the payment. They all suffer from insufficient engagement of people making the micropayments. In the search for incentivised content production entrepreneurs have been so focused on who should pay that they missed the obvious reality: everyone benefits from everyone’s actions so everyone should pay or no one should pay, depending on how you look at it.
+یہ تمام نقطہ نظر چھوٹی ادائیگیوں کے نتیجے پر پہنچتے ہیں. وہ صرف اس بات پر اختلاف کرتے ہیں کہ ادائیگی کون کر رہا ہے. وہ سب لوگوں کے چھوٹی ادئیگیاں کرنے میں ناکافی مصروفیت کا شکار ہوتے ہیں. حوصلہ افزا مواد کی پیداوار کے لئے تلاش میں کاروباری افراد توجہ مرکوز کیے ہوئے ہیں کہ کسے ادائیگی کرنے چاہئیے اور یہ واضح حقیقت بھلا بیٹھے کہ: ہر شخص ہر ایک کے اعمال سے فائدہ اٹھاتا ہے تو ہر کسی کو ادئیگی کرنی چاہئیے یا پھر کسی کو بھی ادئیگی نہیں کرنی چاہیئے، اس پر منحصر ہے کہ آپ اسے کس طرح دیکھتے ہیں.
 
-Steem bypasses micropayments completely because when a user upvotes a post it is the community that pays the bill. The same amount of money will be spent whether the user upvotes a post or not and the funds will not come from the voter.
+سٹیم چھوٹی ادئیگیوں کو مکمل گول کردیتا ہے کیونکہ جب ایک صارف ایک اشاعت پر ووٹ کرتا ہے تو وہ کمیونٹی ہے جو بل ادا کرتی ہے. رقم کی اتنی وہی مقدار خرچ کی جائیگی چاہے صارف اپ-ووٹ کرے یا نہ کرے اور یہ رقم ووٹ کرنے والوں کی طرف سے نہیں آئے گی.
 
-The mental energy associated with making an economic decision becomes a barrier to participation for most people.
+اقتصادی فیصلہ کرنے کے ساتھ منسلک ذہنی توانائی زیادہ تر لوگوں کے لئے شرکت کرنے میں رکاوٹ بنتی ہے.
 
-*We already face a multitude of choices everyday with regards to what to access online in this digital era of the information explosion, and every additional decision that we must make simply adds on to the uncertainty and anxiety we face. Micropayment supporters believe that a simplified implementation can minimize the intrusiveness of micropayments and improve user experience, but their argument only creates double standards for the decision making process \[2\]. A transaction cannot simultaneously be worth enough to warrant a decision and worth so little that the decision is automatic. **The only transactions that users can approve without thought are ones that cost them nothing**, thus any micro-transaction of positive value will incur mental costs through its requiring a decision. Furthermore, mental transaction costs actually rise below a certain threshold value, a phenomenon that places micropayments at an even greater disadvantage. For instance, it is easy to think that a copy of today's newspapers costs $1, but readers face much more difficulty and anxiety in deciding on the value of each article or word. Such a dilemma will only be replicated and exacerbated if all online content were to be broken down into their components and individually valued within a micropayment system.*
+*معلوماتی دھماکے والے اس ڈیجیٹل دور میں ہم پہلے ہی سے انتخاب کی ایک بڑی تعداد کا روزانہ سامنا کر رہے ہیں اس حوالے سے کہ آن لائن کس چیز تک رسائی حاصل کی جائے اور ہر اضافی فیصلہ جو ہمیں ضرور کرنا ہو، شک اور پریشانی میں اضافہ کر دیتا ہے جس کا ہم ویسے ہی سامنا کر رہے ہیں. چھوٹی ادائیگی کے حامیوں کا یقین ہے کہ ایک آسان عمل درآمد چھوٹی ادئیگیوں کی بےجا دخل اندازی کو کم سے کم کردیتا ہے اور صارف کے تجربے کو بہتر بناتا ہے, لیکن ان کے دلائل فیصلہ سازی کے عمل میں صرف دہرا معیار تخلیق کرتے ہیں. ایک ٹرانزیکشن اتنی قابل قدر نہیں ہوسکتی جو فیصلے کی ضمانت دے سکے اور نہ ہی وہ اتنی کم قابل قدر ہو سکتی ہے جو فیصلے کو ہی خودکار بنا دے. **صارف صرف اور صرف وہ ٹرانزیکشن بغیر سوچے سمجھے منظور کرے گا جس میں کوئی لاگت نہ آئے**, اس طرح مثبت قدر والی کوئی بھی چھوٹی ٹرانزیکشن فیصلے کی ضرورت کی وجہ سے دماغی اخراجات میں اضافہ کرے گی. اس کے علاوہ، ذہنی ٹرانزیکشن کے اخراجات میں ایک مخصوص حد قدر کے نیچے ہی اضافہ ہوتا ہے، ایک ایسا رجحان جو چھوٹی ادئیگیوں کو بھی زیادہ نقصان پہنچاتا ہے. مثال کے طور پر، یہ سوچنا آسان ہے کہ آج کے اخبارات کی ایک نقل کی قیمت ایک ڈالر ہے، لیکن قارئین مضمون یا لفظ کی قدروقیمت بات کا فیصلہ کرنے میں زیادہ مشکلات اور تشویش کا سامنا کرتے ہیں. اس طرح کا تذبذب صرف دہرایا اور بگاڑا جائے گا اگر تمام آن لائن مواد ان کے اجزاء میں ٹوٹ جائیں اور چھوٹی ادائیگی کے نظام میں انفرادی طور پر قابل قدر ہوں.*
 
--Micropayments: A Viable Business Model[^20]
+- چھوٹی ادائیگیاں: ایک قابل کاروباری ماڈل[^20]
 
-Under Steem, micropayments are paid to content producer, but those who vote for the content do not pay. Instead, the cost of the reward is paid for via new tokens. Someone can join the system, vote to pay someone, and then exit the system with more money than they started with (assuming the market valuation of the Steem system remained constant). In other words, the micropayment solution provided by Steem provides a user-experience similar to many widely used websites that have user-moderated content.
+سٹیم کے تحت، مواد بنانے والوں کو چھوٹی ادائیگیاں کی جاتی ہیں مگر وہ لوگ ادائیگی نہیں کرتے جو ووٹ کرتے ہیں. بجائے اس کے، انعام کی قیمت نئے ٹوکن کے ذریعے ادا کی جاتی ہے. کوئی بھی نظام میں شامل ہو سکتا ہے، کسی کو ادائیگی کے لئے ووٹ کر سکتا ہے اور پھر نظام سے زیادہ پیسوں کے ساتھ نکل سکتا ہے جس سے اس نے شروعات کی تھی (یہ فرض کرتے ہوئے کہ سٹیم نظام کی مارکیٹی قدروقیمت غیرمتغیر رہی تھی). دوسرے لفظوں میں، سٹیم کی طرف سے فراہم کردہ چھوٹی ادائیگی کا حل صارف کو کئی وسیع پیمانے پر استعمال کی جانے والی ویب سائٹس کی طرح کا تجربہ فراہم کرتا ہے جس میں صارف معتدل مواد ہے.
 
-Furthemore, Steem pays people to figure out who should be paid! This kind of thinking is revolutionary.
+مزید یہ کہ سٹیم لوگوں کو یہ پتہ لگانے کے لئے ادائیگی کرتا ہے کہ کسے ادائیگی کرنی چاہئیے۔ اس طرح کی سوچ انقلابی ہے.
 
-## Value is in the Links
+## قدروقیمت روابط یا جوڑ میں ہے
 
-The Internet would lose the vast majority of its value if all links among content were removed. It is the relationship among web pages that allows Google to identify the best apple pie recipe among the 16 million results. Without the links the only information Google would have is word frequency.
+اگر مواد کے درمیان تمام جوڑ (لنکس) کو ختم کردیا جاتا تو انٹرنیت اس کی وسیع اور کثرت قدروقیمت سے محروم ہو جاتا. یہ ویب صفحات کے درمیان تعلق ہے جو گوگل کو 16 ملین کے نتائج میں سے بہترین سیب پائی نسخہ کی شناخت کرنے کی اجازت دیتا ہے. جوڑ (لنکس) کے بغیر، معلومات میں گوگل کے پاس صرف الفاظ کی تعددبندی ہوتی.
 
-Links can take many forms and have adapted over time. Every time a user votes on content in a social network they add a connection between themselves and the content. This in turn links the consumer to the producer through the content. The more connections a network has the more valuable the information becomes. It is the relative and intentional connectedness of information that gives it value.
+جوڑ (روابط یا لنکس) بہت سی شکلیں لے سکتے ہیں اور وقت کے ساتھ حسب حال ہوتے ہیں. ہر بار جب ایک صارف سوشل میڈیا پر اپنا ووٹ ڈالتا ہے وہ اپنے اور اس مواد کے درمیان ایک رابطے کا اضافہ کرتے ہیں. بدلے میں یہ مواد کے ذریعے صارف اور بنانے والے کو جوڑتے ہیں. جتنے زیادہ روابط ایک نیٹ ورک کے پاس ہوتے ہیں، معلومات اتنی ہی زیادہ قابل قدر بن جاتی ہیں. یہ معلومات کے متعلقہ اور ارادی روابط ہیں جو اسے قدروقیمت دیتے ہیں.
 
-A social network can maximize the value extracted from a set of content by maximizing the quantity and quality of connections. Curating content is expensive and time consuming while being near impossible for computers to perform in the absence of links. Steem rewards users who are among the first to find and identify new content.
+ایک سوشل نیٹ ورک روابط کی مقدار اور معیار کو زیادہ سے زیادہ کر کے مواد کے مجموعے کی قدر کو زیادہ کر سکتا ہے. مواد کی سرپرستی جوڑ کی ٍغیرحاضری میں کمپیوٹروں کے لئے یہ کام انجام دینا ناممکن ہونے کے قریب ہونے کے ساتھ ساتھ مہنگا اور بہت وقت لینے والا کام ہے. سٹیم ان صارفین کو انعامات سے نوازتا ہے جو نئے مواد کی تلاش اور شناخت میں سب سے پہلے اور آگے ہوتے ہیں.
 
-By incentivising curation the Steem network is able to use automated algorithms to extract the most valuable information from a massive amount of content.
+سرپرستی کے معاوضے کے ذریعے، مواد کی ایک بڑی مقدار میں سے سب سے قیمتی معلومات نکالنے کے لئے سٹیم نیٹ ورک خودکار الگورتھم استعمال کرنے کے قابل ہے.
 
-## Solving the Cryptocurrency Onboarding Problem
+## کرائیپٹوکرنسی سواری کے مسئلے کو حل کر رہا ہے
 
-It isn’t easy to get into cryptocurrency[^21]. Someone who discovers Bitcoin and wants to try it out quickly learns that they will need to sign up with an exchange and fund their account with a credit card or wire transfer. What would Facebook’s adoption rate have been like if you had to fork over money and a two forms of ID?
+کرائیپٹوکرنسی میں داخل ہونا آسان نہیں ہے[^21]. کوئی شخص جسے بٹکوائن کا پتہ لگتا ہے اور وہ جلدی سے اسے آزمانہ چاہتا ہے وہ یہ سیکھتا ہے کہ انہیں ایکسچینج کے ساتھ اندراج اپنا اندراج کرانا ہوگا اور اپنے کھاتے کو کریڈٹ کارڈ یا وائر ٹرانسفر کے ذریعے بھرنا ہوگا. فیس بک کی اپنائیت کی شرح کتنی ہوتی اگر آپ کو اس میں پیسہ لگانا پڑتا اور دو قسم کے شناختی ثبوت دینے پڑتے?
 
-Steem solves this problem by giving everyone a way to get paid for doing simple, but valuable, tasks. This will help to widely distribute STEEM tokens. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless.)
+ہر ایک کو سادہ مگر قابل قدر کام کرنے کرنے کے بدلے معاوضہ حاصل کرنے کا راستہ فراہم کرنے کے ذریعے سٹیم اس مسئلے کو حل کرتا ہے. یہ سٹیم ٹوکن کی وسیع تقسیم میں مدد کرے گا. یہ مددگار ہے کیونکہ کرائیپٹوکرنسی کے پاس نیٹ ورک کا اثر ہے (یعنی زیادہ صارفین اسے زیادہ مفید بناتے ہیں؛ ایک انتہائی مثال کے لئے، غور کریں کہ اگر ساٹوشی ١٠٠ فیصد بٹکوائن اپنے لئے رکھتا تو بٹکوائن بیکار اور بے قیمت ہوتا۔)
 
-## Solving the Cryptocurrency Liquidation Problem
+## کرائیپٹوکرنسی ماعیت کے مسئلے کو حل کر رہا ہے
 
-A currency that is difficult to use or impossible to sell has little value. Someone who comes across $1.00 worth of Bitcoin will discover that it costs more than $1.00 to sell that Bitcoin. They have to create an account with an exchange, perform KYC validation, and pay fees. Small amounts of cryptocurrency are like small change that people are unwilling to bend over to pick up.
+ایک کرنسی جو استعمال کے لئے مشکل ہو یا اس کی فروخت ناممکن ہو، اس کی بہت کم قدر ہوتی ہے. کوئی شخص جو ایک ڈالر کی مالیت کے بٹکوائن کی طرف آتا ہے وہ یہ دریافت کرے گا کہ بٹکوائن فروخت کرنے کے لئے ایک ڈالر سے زیادہ خرچ کرنا پڑتا ہے. انہیں ایک ایکسچینج کے ساتھ اپنا اندراج کروانا ہوگا، KYC سے توثیق کروانی ہوگی، اور فیس کی ادائیگی کرنی ہوگی. کرائیپٹوکرنسی کی چھوٹی مقدار چھوٹی تبدیلی کی طرح ہیں جسے لوگ اٹھانے کے لئے جھکنا نہیں چاہتے.
 
-Merchants give users a way to quickly convert their cryptocurrency into tangible goods and services. Merchants need a currency pegged to their unit of account, normally dollars. Accepting a volatile currency introduces significant accounting overhead.
+خوردہ فروش صارفین کو انکی کرائیپٹوکرنسی ٹھوس سامان اور خدمات میں تبدیل کرنے کا راستہ فراہم کرتے ہیں. تاجروں کو ایک ایسی کرنسی کی ضرورت ہے جو ان کے کھاتے کی اکائی سے کیل شدہ ہو، عام طور پر ڈالرز. ایک غیر مستحکم کرنسی کو قبول کرنا سر پر معنی خیز حساب داری کو متعارف کراتا ہے.
 
-Merchants will accept any currency if it increases their sales. Having a large user base with a stable currency such as SBD lowers the barrier to entry for merchants. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
+خوردہ فروش کسی بھی کرنسی کو قبول کرلیں گے اگر وہ ان کی فروخت میں اضافہ کرتی ہو. ایک مستحکم کرنسی کے ساتھ صارف کی بڑی بنیاد جیسے کہ SBD کاروباری لوگوں کے داخلے میں رکاوٹ کو کم کرتا ہے. تاجروں کی موجودگی بغیر ایکسچینج کے استعمال کی پریشانی کے نظام سے باہر نکلنے کے لئے موقوف ڈھلان کی صارفین کے لئے تخلیق کر کے نظام کو بہتر بناتی ہے.
 
-Another way that people can liquidate the small amounts of cryptocurrency they receive from participating on the Steem platform is through *tipping* others. This is like leaving the small change as a tip for your waiter. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
+ایک اور طریقہ جس سے لوگ سٹیم پلیٹ فارم سے حاصل ہونے والی کرائیپٹوکرنسی کی چھوٹی مقدار کو نقد میں تبدیل کر سکتے ہیں وہ *انعام بخشش* ہے. یہ اپنے وہٹر کے لئے چھوٹا متبادل انعام بخشش کے طور پر چھوڑنے کی طرح ہے. جب کافی لوگ چھوٹا انعام دے جاتے ہیں تو وہ معنی خیز رقم بن جاتی ہے. آپ اور ویٹر ہر کوئی انعام بخشش سے فائدہ اٹھاتا ہے.
 
-## Censorship
+## احتساب
 
-Steem is a decentralized network that is operated by witnesses in jurisdictions around the world. All user actions are publicly recorded on the blockchain, and can be publicly verified. This means that there is no single entity that can censor content that is valued by STEEM holders.
+سٹیم ایک غیرمرکزی نیٹ ورک ہے جو کہ دنیا بھر میں گواہوں کے دائرہ کاروں کے ذریعے چلایا جاتا ہے. تمام صارف کے اعمال عوامی بلاکچین پر محفوظ کیے جاتے ہیں اور ان کی عوامی طور پر تصدیق کی جا سکتی ہے. اس کا مطلب یہ کہ کوئی واحد شخصیت کا وجود نہیں جو سٹیم ہولڈر کی طرف سے قدر دیے ہوئے مواد کا احتساب کرے.
 
-Individual websites such as steemit.com may censor content on their particular site, but content published on the blockchain is inherently broadcast traffic and mirrors all around the world may continue to make it available.
+انفرادی ویب سائٹ جیسے steemit.com اپنی خاص سائٹ پر مواد کا احتساب کر سکتی ہے لیکن بلاکچین پر شائع کردہ مواد جو خلقی طور پر نشر کیا جاتا ہے اور دنیا بھر میں دکھایا جاتا ہے، بلاکچین اسکی دستیابی جاری رکھ سکتا ہے.
 
-Freedom of speech is the foundation of all other liberties and any infringement upon freedom of speech undermines the only peaceful means of reaching consensus: discussion. Without free discussion voters cannot be fully informed, and uninformed voters are a greater threat to society than losing the right to vote. Censorship is a means of stealing votes through limiting public discourse. Steem is committed to enabling free speech and building a free society.
+تقریر کی آزادی دوسری تمام آزادیوں کی بنیاد ہے اور تقریر کی آزادی کو کوئی خلاف ورزی اتفاق رائے تک پہنچنے کے واحد پرامن ذریعے کو کھوکھلا کردیتی ہے یعنی: گفتگو. آزاد گفتگو کے بغیر ووٹرز پوری طرح آگاہ نہیں ہو سکتے، اور ناواقف ووٹرز سماج کے لئے ایک بڑا خطرہ ہیں بمقابل ووٹ کرنے کے حق کے کھو جانے کے. احتساب عوامی گفتگو کو محدود کرتے ہوئے ووٹ کی چوری کا ذریعہ ہے. سٹیم آزاد تقریر کو چالو کرنے اور آزاد معاشرے کی تعمیر کے لئے پرعزم ہے.
 
-## Solving Organic Discovery via Search Engine Optimization
+## تلاش انجن اصلاح کے ذریعہ صحت بخش دریافت کو حل کرنا
 
-Most cryptocurrencies generate little value for those who are not actively using the network. Steem, by contrast, generates content and encourages users to share it. This content gets indexed by search engines and ultimately will bring value to a large number of passive users. This search traffic creates organic advertising for the Steem network and grows the network effect.
+زیادہ تر کرائیپٹوکرنسیاں ان لوگوں کے لئے تھوڑی سی قدر پیدا کرتی ہیں جو نیٹ ورک کے استعمال میں فعال نہیں ہیں. سٹیم، اس کے برعکس، مواد کی پیداوار اور صارفین کو اسے بانٹنے کی حوصلہ افزائی کرتا ہے. یہ مواد تلاش انجنوں میں فہرست ہو جاتے ہیں اور بالآخر غیر فعال صارفین کی بڑی تعداد کے لئے قدر لاتے ہیں. یہ تلاش ٹریفک سٹیم نیٹ ورک کے لئے صحت بخش تشہیر کو پیدا کرتی ہے اور نیٹ ورک اثر کو بڑھاتی ہے.
 
-## Shifting Toward Blockchain-based Attribution
+## بلاکچین پر مبنی انتساب کی طرف منتقلی
 
-The internet represents the easiest medium for distributing information in the world. With that said, it can be a frightening place for content creators who would like to own their content and have it shared with proper attribution. On current social media platforms, attribution is something that can be lost overnight - a posted video or image can be replicated and re-shared without consent or regard for the creator.
+انٹرنیٹ دنیا میں معلومات تقسیم کرنے کے لئے آسان ذریعہ کی نمائندگی کرتا ہے. یہ کہنے کے ساتھ، یہ مواد ان تخلیق کاروں کے لئے ایک خوفناک جگہ ہوسکتی ہے جو اپنے مواد کی ملکیت رکھنا چاہتی ہے اور اسے مناسب انتباہ کے ساتھ اشتراک کرنا چاہتے ہیں. موجودہ سوشل میڈیا پلیٹ فارمز میں، انتساب وہ چیز ہے جو راتو رات کھو سکتی ہے - بغیر تخلیق کار کی اجازت یا رضامندی کے ایک پوسٹ کردہ ویڈیو یا تصویر کی نقل بنائی جا سکتی ہے اور اس کی دوبارہ تقسیم کی جا سکتی ہے.
 
-Under blockchain-based social media, a creator or author would always be able to point to a public record and timestamp showing proof of their content origination. In a circumstance where a creator would like to address those who have re-shared without permission or attribution, blockchain-based records provide public proof that the content was posted by a particular user at a particular time. In the future, blockchain-based attribution could come to be recognized by governments for its authenticity and could hold weight in court, which would give content creators greater powers to control their work.
+بلاکچین پر مبنی سوشل میڈیا میں، ایک خالق یا مصنف اپنے مواد کے آغاز کا ثبوت دینے کے لئے ہمیشہ عوامی ریکارڈ اور وقت کی طرف اشارہ کر سکتا ہے. ایک ایسی صورتحال میں جہاں ایک خالق یا مصنف کسی ایسے شخص کو مخاطب کرنا چاہتا ہے جس نے بغیر اجازت یا انتساب کے مواد کو دوبارہ تقسیم کیا ہے، بلاکچین پر مبنی ریکارڈ عوامی ثبوت فراہم کرتا ہے کہ مواد ایک خاص شخص کے ذریعے خاص وقت پر پوسٹ کیا گیا تھا. مستقبل میں، بلاکچین پر مبنی انتساب حکومت کی طرف سے بھی شناخت کیا جا سکتا ہے اور کورٹ میں وزن رکھ سکتا ہے، جو کہ مواد تخلیق کاروں کو ان کے مواد پر اختیار کی عظیم طاقت دے گا.
 
-While a timestamping service can be built on almost any blockchain, and several efforts exist to build this kind of service on the Bitcoin network, Steem has a useful advantage in this realm because content publishers are “first class citizens” -- the Steem blockchain is built from the ground up around the use case of content publication, which allows content creators to have the blockchain to validate their content at a certain point in time simply by writing their post using the same authoring tools used by other Steem users.
+البتہ، وقت کی چھپائی کی سروس تقریبا ہر بلاکچین پر بنائی جا سکتی ہے، اور اس قسم کی سروس کو بٹکوائن پر بنانے کی کچھ کوششیں موجود ہیں، سٹیم کے لئے اس میدان میں مفید فائدہ ہے کیونکہ مواد شائع کرنے والے “اول درجے کے شہری“ ہیں -- سٹیم بلاکچین کو بنیاد سے ہی مواد کو شائع کرنے کی سوچ کے اردگرد بنایا گیا ہے، جو مواد تخلیق کرنے والوں کو ایک بلاکچین مہیا کرتا ہے جس کے ذریعے وہ اپنے مواد کی کسی بھی وقت توثیق کر سکتے ہیں اور وہ بھی تصنیف کے ان اوزاروں کے استعمال سے جو دوسرے سٹیم کے صارفین استعمال کرتے ہیں.
 
-## Replacing Advertising with Blockchain-based Content Rewards
+## تشہیر کی بلاکچین پر مبنی مواد کے انعامات کے ساتھ تبدیلی
 
-Under most content monetization models, content creators leverage advertising in one form or another. Many creators recognize how advertising may diminish their work’s value to the consumer, yet creators very often must seek returns on their time by monetizing. Advertising represents a double-edged sword: With ads, a creator can make money most easily. Without ads, monetization is difficult but the content is richer.
+اکثر مواد سے پیسہ بنانے کے ماڈل کے تحت، مواد تخلیق کرنے والے تشہیر کو ایک یا دوسری شکل میں قوت دیتے ہیں. کافی تخلیق کار یہ پہچانتے ہیں کہ کس طرح تشہیر صارف کے پاس اس کے کام کی قدر کو گھٹا سکتی ہے، اس کے باوجود تخلیق کاروں کو لازمی طور پر اپنے وقت پر پیسہ بنانے کے عمل سے منافع حاصل کرنا ہوتا ہے. تشہیر دو دھاری تلوار کی نمائندگی کرتی ہے: اشتہارات کے ساتھ، ایک تخلیق کار آسانی سے بہت سارا مال کما سکتا ہے. اشتہارات کے بغیر، پیسہ بنانے کا عمل مشکل ہے لیکن مواد عمدہ ہے.
 
-Creators posting to social media outlets that are connected to Steem may monetize merely by having their work recognized (or ”liked”) by the Steem community. Blockchain-based payouts are completely digital and have no middle-man. Therefore monetization by blockchain-based content rewards should be faster and much lower barrier to use than monetization by advertisements.
+تخلیق کاروں کی ان سوشل میڈیا دکانوں پر پوسٹنگ (شائع کرنا) جو سٹیم سے منسلک ہے، وہ محض اپنے کام کی سٹیم کمیونٹی کے طرف سے شناختگی (یا “پسندیدگی“) کے ذریعے پیسہ بنانے کا عمل کر سکتی ہے. بلاکچین پر مبنی ادائیگیاں مکمل طور پر ڈیجیٹل ہیں اور اس میں کوئی درمیانی انسان نہیں ہے. لہذا بلاکچین پر مبنی مواد کے انعامات کے ذریعے منیٹائیزیشن بہت تیز ہونی چاہئیے اور استعمال میں بہت کم رکاوٹ ہے بمقابل اشتہارات کے زریعے پیسہ بنانے کے عمل (منیٹائیزیشن) سے.
 
-# Conclusion
+# اختتامی نتیجہ
 
-Steem is an experiment designed to address challenges in the cryptocurrency and social media industries by combining the best aspects from both. Steem presents earning opportunities to content creators and internet readers in ways that have not existed within the social media industry. Within Steem, individuals earn real rewards online that are directly correlated to their contributions. Those rewards may have dollar value due to the market price discovery and liquidity of Steem, and the people who hold Steem may have more exclusive earning powers than those who do not.
+سٹیم کرائیپٹوکرنسی اور سوشل میڈیا صنعتوں کے اندر کے مسائل دونوں کے بہترین پہلوؤں کو یکجا کرنے کے ذریعے ان مسائل کو حل کرنے کے لئے ایک آزمائش ہے. سٹیم مواد تخلیق کاروں اور قارئین کے لئے کمانے کے ایسے مواقع پیش کرتا ہے جو کبھی سوشل میڈیا صنعتوں میں موجود نہیں تھے. سٹیم کے اندر ہی، افراد آن لائن اصلی انعامات کماتے ہیں جو ان کے تعاون/شراکت کے بقدر ہے. وہ انعامات مارکیٹ قیمت دریافت کی وجہ سے ڈالر کی قدر میں ہو سکتے ہیں اور سٹیم کی ماعیت میں، اور وہ لوگ جنہوں نے سٹیم کو ہولڈ کیا، ان کے پاس زیادہ خصوصی کمائی کی طاقتیں ہو سکتی ہیں بمقابل ان کے جنہوں نے ہولڈ نہیں کیا.
 
 [^1]: Reddit’s Cryptocurrency, Forbes, Erika Morphy, October 2014 http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/\#4e07b05332b9
 

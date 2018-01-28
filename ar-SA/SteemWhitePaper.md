@@ -102,13 +102,13 @@ SP holders elect individuals, called witnesses, to publish price feeds. The elec
 
 Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
 
-Even if all feed producers are honest, it is possible for the majority of feed producers to be impacted by events beyond their control. The Steem network is designed to tolerate short-term corruption of the median price feed while the community actively works to correct the issue. One example of an issue that may take some time to correct is short-term market manipulation. Market manipulation is difficult and expensive to maintain for long periods of time. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
+Even if all feed producers are honest, it is possible for the majority of feed producers to be impacted by events beyond their control. The Steem network is designed to tolerate short-term corruption of the median price feed while the community actively works to correct the issue. أحد الأمثلة على المشكلة التي قد تستغرق بعض الوقت للتصحيح هي التلاعب في السوق على المدى القصير. تلاعب السوق أمر صعب ومكلف  للحفاظ على لفترات طويلة من الزمن. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
 
 Steem factors out short-term price fluctuations by using the median price over a period of three and a half days. The median published feed is sampled every hour on the hour.
 
 As long as the price feed corruption lasts for less than half the moving median time window it will have minimal impact on the conversion price. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
 
-With a three and a half day window, community members have approximately one and a half days to respond to any issues that come up.
+مع وجود نافذة لمدة ثلاثة أيام ونصف، يكون لدى أعضاء المجتمع حوالي يوم ونصف للرد على أية قضايا قد تنشأ.
 
 ### توقيت التخفيف من الهجمات
 
@@ -122,7 +122,7 @@ With a three and a half day window, community members have approximately one and
 
 بلوكشين يقرر كيف ومتى ينشئ SBD ومن الذي يجب ان يحصل عليه. هذا يحافظ على معدل إنشاء SBD مستقر ويزيل معظم سبل سوء المعاملة.
 
-### نسبة الدين المستدام إلى الملكية
+### الديون المستدامة لنسب الملكية
 
 إذا كان النظر إلى الرمزية على أنها ملكية في العرض الكامل من الرموز، إذن يمكن النظر إلى الرمزية القابلة للتحويل إلى دولار كدين. وإذا كانت نسبة الدين إلى الملكية مرتفعة جدا فإن العملة بأكملها يمكن أن تصبح غير مستقرة. تحويل الديون يمكن أن تزيد بشكل كبير من تزويد الرمزية، والتي تباع بدورها في السوق وتقمع السعر. تتطلب التحويلات اللاحقة إصدار المزيد من الرموز المميزة. Left unchecked the system can collapse leaving worthless ownership backing a mountain of debt. وكلما ارتفعت نسبة الدين إلى الملكية يصبح المستثمرون الجدد الأقل رغبة في جلب رأس المال إلى الجدول.
 
@@ -148,19 +148,19 @@ If Steem feed producers aim to have an independent monetary policy allowing it t
 
 إن الشاغل الرئيسي لمنتجي سعر ستيم هو الحفاظ على تحويل واحد لواحد بين SBD والدولار الأمريكي (USD). حينما يتم تداول سبد باستمرار فوق $ 1.00 دولار أمريكي يجب توقيف مدفوعات الفائدة. في سوق حيث تكون الفائدة 0٪ على الديون لا تزال تتطلب قسط، فمن الآمن أن نقول أن السوق على استعداد لتقديم المزيد من الديون أكثر من الديون التي يرغب المجتمع في اتخاذها. إذا حدث هذا سوف يتم تقييم قيمة سبد بأكثر من 1.00 دولار، وهناك القليل ليتمكن المجتمع للقيام به دون فرض أسعار الفائدة السلبية.
 
-If the debt-to-ownership ratio is low and SBD is trading for less than $1.00, then the interest rate should be increased. This will encourage more people to hold their SBD and support the price.
+وإذا كانت نسبة الدين إلى الملكية منخفضة ويتم تداول SBD بأقل من 1 دولار، إذن يجب زيادة سعر الفائدة. وهذا سيشجع المزيد من الناس على عقد SBD ودعم السعر.
 
 إذا كانت تداولات سبد أقل من 1 دولار أمريكي ونسبة الدين إلى الملكية مرتفعة، عندئذ يجب تعديل الاسعار صعودا لإعطاء المزيد من ستيم لكل سبد. وسيؤدي ذلك إلى زيادة الطلب على شركة تنمية المنشآت الصغيرة مع تخفيض نسبة الدين إلى الملكية والعودة إلى مؤسسة التنمية الاجتماعية إلى التعادل مع الدولار الأمريكي.
 
 على افتراض أن قيمة STEEM تنمو بشكل أسرع من إنشاء ستيم ل SBD جديد، نسبة الديون إلى الملكية يجب أن تبقى تحت النسبة المستهدفة و الفوائد المقدمة للجميع. إذا كانت قيمة الشبكة مستوية أو منحدرة، فإن أي فائدة من شأنها أن تجعل فقط نسبة الديون إلى الملكية أسوأ.
 
-In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
+وفي الواقع، يعهد إلى منتجي التعويض بمسؤولية وضع سياسة نقدية بغرض الحفاظ على ثباتية في استقرار الدولار. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
 
 If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SBD.
 
 Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SBD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions.
 
-It is our belief that these rules will give market participants confidence that they are unlikely lose money by holding SBD purchased at a price of $1.00. We fully expect there to be a narrow trading range between $0.95 and $1.05 for SBD under normal market conditions.
+ونحن نعتقد أن هذه القواعد سوف تعطي المشاركين في السوق الثقة على الرغم من أن يخسرو المال عن طريق امتلاك SBD الذي  تم شراؤه ب 1 دولار. نحن نتوقع تماما أن يكون هناك نطاق تداول ضيق بين 0.95 و 1.05 دولار ل SBD في ظل ظروف السوق العادية.
 
 ## المساهمات الذاتية
 
@@ -182,147 +182,147 @@ It is our belief that these rules will give market participants confidence that 
 
 الخطوة التالية هي مكافأة كل من يفعل أي شيء حتى ولو كان بعيد المدى إيجابيا* بشيء*. ويتم ذلك عن طريق ترتيب جميع الأعمال المنجزة وتوزيعها بالتناسب مع قيمتها. كلما أصبح السوق أكثر تنافسية، كلما زادت الصعوبة (الجودة العالية أو الكمية) يكسب نفس العائد.
 
-### Voting on Distribution of Currency
+### التصويت على توزيع العملة
 
-Assume there is a fixed amount of money to distribute, and that those who have a long-term vested interest in the future value and utility of the currency are the ones who must decide how to allocate it. Every vesting user casts their votes on who did the best work and at the end of the day the available money for that day is divided proportional to the votes such that everyone with even one net positive vote gets something.
+افترض أن هناك مبلغا ثابتا من المال لتوزيعه، وأن أولئك الذين لديهم مصلحة طويلة الأجل في قيمة وفائدة العملة في المستقبل هم الذين يجب أن يقرروا كيفية تخصيصه. كل مستخدم مستحق يلقي أصواته على من فعل أفضل عمل وفي نهاية اليوم تنقسم الأموال المتاحة لذلك اليوم بالتناسب مع الأصوات بحيث يحصل الجميع مع صوت واحد إيجابي على شيء.
 
-The naive voting process creates a N-Person Prisoner’s Dilemma[^5] whereby each individual voter has incentive to vote for themselves at the expense of the larger community goal. If every voter defects by voting for themselves then no currency will end up distributed and the currency as a whole will fail to gain network effect. On the other hand, if only one voter defects then that voter would win undeserved profits while having minimal effect on the overall value of the currency.
+عملية التصويت الساذجة تخلق معضلة السجين [^5] حيث يكون لكل ناخب فردي حافز للتصويت لنفسه على حساب الهدف المجتمعي الأكبر. إذا كان كل ناخب من الناخبين انسحب عن طريق التصويت لنفسه إذن أي عملة سوف تنتهي في نهاية المطاف  وستفشل العملة ككل في الحصول على تأثير الشبكة. On the other hand, if only one voter defects then that voter would win undeserved profits while having minimal effect on the overall value of the currency.
 
-#### Voting Abuse
+#### إساءة استخدام التصويت
 
-Regardless of how much money any one individual has, there are always many other individuals with similar wealth. Even the wealthiest individual rarely has much more than the next couple wealthiest combined. Furthermore, those who have a large investment in a community also have the most to lose by attempting to game the voting system for themselves. It would be like the CEO of a company deciding to stop paying salaries so he could pocket all of the profits. Everyone would leave to work for other companies and the company would become worthless, leaving the CEO bankrupt rather than wealthy.
+بغض النظر عن مقدار المال لكل فرد واحد، هناك دائما العديد من الأفراد الآخرين مع ثروة مماثلة. حتى أغنى فرد نادرا ما  لديه أكثر بكثير من الزوجين المقبلين الأكثر ثراء. وعلاوة على ذلك، فإن أولئك الذين لديهم استثمارات كبيرة في المجتمع أيضا لديهم أكثر من يخسر من خلال محاولة لعب نظام التصويت لأنفسهم. سيكون مثل الرئيس التنفيذي لشركة تقرر وقف دفع الرواتب حتى يتمكن من جني جميع الأرباح. الجميع سوف يغادر للعمل لشركات أخرى وستصبح الشركة لا قيمة لها، مع ترك الرئيس التنفيذي المفلس بدلا من الأثرياء.
 
-Fortunately, any work that is getting a large concentration of votes is also gaining the most scrutiny (publicity). Through the addition of *negative-voting* it is possible for many smaller stakeholders to nullify the voting power of collusive groups or defecting large stakeholders. Furthermore, large-stakeholders have more to lose if the currency falls in value due to abuse than they might gain by voting for themselves. In fact, honest large stakeholders are likely to be more effective by policing abuse and using negative voting than they would be by voting for smaller contributions.
+ولحسن الحظ، فإن أي عمل يحصل على تركيز كبير من الأصوات يكتسب أيضا أكبر قدر من التدقيق (الدعاية). من خلال إضافة *تصويت سلبي* يمكن للعديد من أصحاب المصلحة الأصغر حجب السلطة التصويتية للمجموعات المتآلفة أو تخريب أصحاب المصلحة الكبار. وعلاوة على ذلك، فإن أصحاب المصلحة الكبار لديهم المزيد ليخسرونه إذا انخفضت قيمة العملة بسبب سوء المعاملة مما قد يحصلون عليه من خلال التصويت لأنفسهم. في الواقع، من المرجح أن يكون أصحاب المصلحة الصادقين أكثر فعالية من خلال ضبط سوء المعاملة واستخدام التصويت السلبي مما سيكون عن طريق التصويت للمساهمات الأصغر حجما.
 
-The use of *negative-voting* to keep people from abusing the system leverages the *crab mentality* that many people have when it is perceived that one individual is profiting at the expense of everyone else. While crab mentality normally refers to short-sighted people keeping good people down, it is also what allows good people to keep bad people down. The only “problem” with crab mentality is when people *wrongly believe* someone is profiting at everyone else's expense.
+استخدام *التصويت السلبي* للحفاظ على النظام من إساءة استخدام الناس إليه يعزز *عقلية السلطعون* التي لدى العديد من الناس عندما ينظر إلى أن الفرد واحد هو الرابح على حساب الجميع. في حين أن عقلية السلطعون عادة ما تشير إلى الأشخاص ذوي النظر القصير الذين يحافظون على الناس الطيبين في الأسفل، بل هو أيضا ما يسمح للناس الجيدين للحفاظ على الناس السيئين في الأسفل. "المشكلة" الوحيدة مع عقلية السلطعون هو عندما * يعتقدون الناس بالخطأ * أن شخص ما يستفيد على حساب الجميع.
 
-**The Story of the Crab Bucket**[^6]
+** قصة دلو السرطان ** [^6]
 
-A man was walking along the beach and saw another man fishing in the surf with a bait bucket beside him. As he drew closer, he saw that the bait bucket had no lid and had live crabs inside.
+كان رجل يمشي على طول الشاطئ ورأى رجل آخر يصطاد في الأمواج مع دلو الطعم بجانبه. ومع اقترابه، رأى أن دلو الطعم ليس له غطاء ولديه سرطان حي بداخله.
 
-"Why don't you cover your bait bucket so the crabs won't escape?", he said.
+"لماذا لا تغطي دلو الطعم الخاص بك حتى لا يتمكن سرطان البحر من الهرب؟"، قال.
 
-"You don't understand.", the man replied, "If there is one crab in the bucket it would surely crawl out very quickly. However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
+"أنت لا تفهم"، أجاب الرجل، "إذا كان هناك سلطعون واحد في الدلو  فمن المؤكد انه سيزحف إلى الخارج بسرعة كبيرة. ومع ذلك، حينما يكون العديد من السرطانات في الدلو، إذا حاول أحدهم الزحف إلى الجانب الأعلى، الآخرين سيمسكونه وسحبونه إلى الوراء بحيث سوف يشارك نفس مصير البقية منهم. "
 
-So it is with people. If one tries to do something different, get better grades, improve herself, escape her environment, or dream big dreams, other people will try to drag her back down to share their fate.
+لذلك هو مع الناس. إذا حاول المرء أن يفعل شيئا مختلفا، الحصول على درجات أفضل، تحسين نفسه، الهروب من بيئته، أو حلم الأحلام الكبيرة،الناس الآخرين سيحاولون سحبه للعودة ليشارك مصيرهم.
 
-Eliminating “abuse” is not possible and shouldn’t be the goal. Even those who are attempting to “abuse” the system are still doing work. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn’t so rampant that it undermines the incentive to do real work in support of the community and its currency.
+والقضاء على "سوء المعاملة" ليس ممكنا ولا ينبغي أن يكون الهدف. وحتى أولئك الذين يحاولون "إساءة استخدام" النظام لا يزالون يعملون. أي تعويض يحصلون عليه لمحاولاتهم الناجحة في سوء المعاملة أو التواطؤ هو على الأقل ذو قيمة من أجل توزيع العملة كنظام العمل الذي يستخدمه تعدين البيتكوين التقليدي أو التعدين التواطؤي المنتهي عن طريق منطقة التعدين. كل ما هو ضروري هو التأكد من أن إساءة الاستخدام ليست متفشية بحيث تقضي تدريجيا على الحافز للقيام بعمل حقيقي لدعم المجتمع وعملته.
 
-The goal of building a community currency is to get more “crabs in the bucket”. Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs sufficient power to prevent others from escaping.
+الهدف من بناء عملة المجتمع هو الحصول على المزيد من "سرطانات البحر في الدلو". الذهاب إلى التدابير المتطرفة للقضاء على كل سوء المعاملة هو مثل محاولة لوضع غطاء على دلو لمنع عدد قليل من سرطانات البحر من الهروب ويأتي على حساب جعله أكثر صعوبة لإضافة سرطان بحر جديدة إلى الدلو. ويكفي جعل الجدران زلقة وإعطاء السرطانات الأخرى قوة كافية لمنع الآخرين من الفرار.
 
-### Rate Limited Voting
+### معدل التصويت المحدودة
 
-A major part of minimizing abuse is the rate-limiting of voting. Individual users can only read and evaluate so many work items per day. Any attempt to vote more frequently than this is a sign of automation and potential abuse. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
+الجزء الرئيسي من التقليل من سوء المعاملة هو الحد من معدل التصويت. يمكن للمستخدمين الفرديين فقط قراءة وتقييم الكثير من بنود العمل في يوم واحد. Any attempt to vote more frequently than this is a sign of automation and potential abuse. ومن خلال تحديد الأسعار، فإن أصحاب المصلحة الذين يصوتون بشكل أكثر تكرارا يكون عدد الأصوات لكل واحد منهم أقل من أصحاب المصلحة الذين يصوتون بشكل أقل تواترا. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
 
-Users are allotted a fixed amount of voting power. Voting power is multiplied by a user’s vesting tokens to determine how much share in the reward pool should be allocated to a given work item. Every vote that is cast uses a percentage of remaining voting power. Users can vote for more posts, but each vote will be worth less, and it will take longer to reach full voting power again. Voting power recharges at a fixed linear rate of 20% per day.
+ويخصص للمستخدمين مبلغ ثابت من قوة التصويت. Voting power is multiplied by a user’s vesting tokens to determine how much share in the reward pool should be allocated to a given work item. كل تصويت تم توزيعه  يستخدم نسبة مئوية من قوة التصويت المتبقية. يمكن للمستخدمين التصويت لمزيد من المنشورات، ولكن كل صوت سيكون أقل قيمة، وسوف يستغرق وقتا أطول للوصول إلى قوة التصويت الكاملة مرة أخرى. يتم إعادة شحن طاقة التصويت بمعدل خطي ثابت بنسبة 20٪ يوميا.
 
-### Payout Distribution
+### توزيع العائد
 
-One of the primary goals of Steem’s reward system is to produce the best discussions on the internet. Each and every year 75% of the yearly inflation is distributed to users submitting, voting on, and discussing content. At the size of Bitcoin this could be several million dollars per day being given to the top contributors.
+أحد الأهداف الرئيسية لنظام مكافأة ستيم هو إنتاج أفضل المناقشات على شبكة الإنترنت. يتم توزيع 75٪ كل سنة من الإرتفاع السنوي على المستخدمين الذين يقدمون ويصوتون ويناقشون المحتوى. في حجم بيتكوين هذا يمكن أن يكون عدة ملايين من الدولارات يوميا تعطى للمساهمين الأوائل.
 
-The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content.
+التوزيع الحالي سيعتمد على أنماط تصويت المستخدمين، ولكننا نشك في أن الغالبية العظمى من المكافآت ستوزع على المحتوى الأكثر شعبية.
 
-Zipf’s Law[^7] is one of those empirical rules that characterize a surprising range of real-world phenomena remarkably well. It says that if we order some large collection by size or popularity, the second element in the collection will be about half the measure of the first one, the third one will be about one-third the measure of the first one, and so on. In general, the k th-ranked item will measure about 1/k of the first one.
+قانون Zipf [^7] هو واحد من تلك القواعد التجريبية التي تميز مجموعة مفاجئة من الظواهر في العالم الحقيقي بشكل ملحوظ. يقال أنه إذا كنا نطلب مجموعة كبيرة من حيث الحجم أو شعبية، العنصر الثاني في المجموعة سيكون حوالي نصف مقياس أول واحد، والثالث سيكون حوالي ثلث قياس أول واحد، وما إلى ذلك. In general, the k th-ranked item will measure about 1/k of the first one.
 
 ![](\img_the_new_marketplace.png)
 
-Taking popularity as a rough measure of value, then the value of each individual item is given by Zipf’s Law. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
+أخذ الشعبية كمقياس تقريبي للقيمة، ثم يتم إعطاء قيمة كل بند على حدة من قبل قانون Zipf. وهذا هو، إذا كان لدينا مليون من البنود، و 100 الأكثر شعبية، سيساهمون ثلث القيمة الإجمالية، و 10،000 المقبلة الثلث الآخر، والباقي 9890000 الثلث الأخير. قيمة جمع العناصر n  يتناسب مع السجل (log(n.
 
 The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
 
-The economic effect of this is similar to a lottery where people overestimate their probability of getting votes and thus do more work than the expected value of their reward and thereby maximize the total amount of work performed in service of the community. The fact that everyone “wins something” plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
+الأثر الاقتصادي لهذا يشبه اليانصيب حيث الناس المبالغة في تقدير احتمال الحصول على الأصوات وبالتالي القيام بعمل أكثر من القيمة المتوقعة من مكافأتهم و بهذه الطريقة يزداد المبلغ الإجمالي للعمل المنجز لخدمة المجتمع الى الحد الاعلى. The fact that everyone “wins something” plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
 
-### Payouts
+### المدفوعات
 
-When a post receives a payout it takes the form of 50% SBD and 50% SP. The Steem Power give the user increased voting and transaction power while the SBD gives the user an immediate benefit in a stable currency. As we’ve already discussed at length, SP is designed to encourage long-term holding rather than short-term selling. This encourages more users to have a vested interest in the long-term success of the platform.
+عندما يتلقى المنشور الدفع يأخذ شكل 50% SBD and 50% SP. قوة ستيم (Steem Power) تعطي المستخدم زيادة التصويت وقوة المعاملات في حين أن SBD يعطي المستخدم فائدة فورية في عملة مستقرة. كما سبق أن ناقشنا بشكل مطول، تم تصميم SP لتشجيع الإمتلاك لمدة أطول بدلا من البيع على المدى القصير. وهذا يشجع المزيد من المستخدمين على أن يكون لديهم اهتمام مرسخ في نجاح المنصة على المدى الطويل.
 
-Users also have the option to be paid in 100% SP, as well as decline payout on posts. When a user declines payout on a post, the money that would have been paid to them remains in the rewards pool, to be distributed to other users.
+المستخدمين لديهم أيضا الخيار ليدفع لهم 100٪ SP، طالما انخفض العائد على الوظائف. عندما يرفض المستخدم الدفع عن مشاركة ما، فإن المال الذي كان سيتم دفعه له يبقى في تجمع المكافآت، ليتم توزيعه على مستخدمين آخرين.
 
-# Consensus Algorithm
+# خوارزمية التوافق
 
-Consensus is the process by which a community comes to a universally recognized, unambiguous agreement on piece of information. There are many algorithms society has developed for reaching consensus about who owns what. Every government on earth is a primitive consensus algorithm whereby the population agrees to abide by a certain set of rules enshrined in a constitution. Governments establish courts, judges, and juries to interpret the subjective facts and render a final decision. Most of the time people abide by the decision even if it was wrong.
+التوافق هو العملية التي من خلالها يأتي المجتمع إلى اتفاق معترف به عالميا، الاتفاق على قطعة من المعلومات خالية من الغموض. هناك العديد من خوارزميات المجتمع التي تم تطويرها من أجل التوصل إلى توافق في الآراء حول من يملك ما. كل حكومة على وجه الأرض هي خوارزمية بدائية التوافق حيث يوافق السكان على الالتزام بمجموعة معينة من القواعد المنصوص عليها في الدستور. وتنشئ الحكومات المحاكم، والقضاة، والمحلفين لتفسير الحقائق الذاتية واتخاذ قرار نهائي. في معظم الوقت يلتزم الناس بالقرار حتى ولو كان خطأ.
 
-The algorithms used by cryptocurrencies provide a better way to reach consensus. Cryptographically signed testimony from individuals is recorded in a public ledger that establishes the absolute global order of events. A deterministic computer algorithm can then process this ledger to derive a universally accepted conclusion. So long as the members of a community agree on the processing algorithm, the result of the algorithm is authoritative.
+الخوارزميات المستخدمة من قبل العملات الإفتراضية توفر وسيلة أفضل للوصول إلى توافق في الآراء. يتم تسجيل شهادة توقيع مشفرة من الأفراد في دفتر الأستاذ العام الذي يحدد النظام العالمي المطلق للأحداث. يمكن بعد ذلك أن تقوم خوارزمية حاسوبية حاسمة بمعالجة، هذا الكتاب لاستخلاص نتيجة مقبولة عالميا. وطالما أن أعضاء المجتمع يتفقون على خوارزمية المعالجة، فإن نتيجة الخوارزمية موثوقة.
 
-The primary consideration is determining what testimony is allowed to enter the public record. Systems should be designed to minimize the potential for censorship. Censorship on the public ledger is similar to preventing someone from voting in an election. In both cases an individual is prevented from impacting the global consensus.
+ويتمثل الاعتبار الرئيسي في تحديد ما يسمح للشهادة بدخول السجل العام. وينبغي تصميم الانظمة لتقليل إمكانية الرقابة. المراقبة على دفتر الأستاذ العام مماثلة لمنع شخص من التصويت في الانتخابات. وفي كلتا الحالتين، يمنع الفرد من الإعتراض على توافق الآراء العالمي.
 
-## Consensus in Steem
+## التوافق في ستيم
 
-Conceptually, the consensus algorithm adopted by Steem is similar to the consensus algorithm adopted by companies throughout the world. People with a vested interest in the future value of Steem vote to select individuals responsible for including testimony in the public record. Voting is weighted proportional to each individual's vested interest.
+من الناحية النظرية، خوارزمية التوافق التي اعتمدها ستيم تشبه خوارزمية التوافق التي اعتمدتها الشركات في جميع أنحاء العالم. الناس الذين لديهم مصلحة في القيمة المستقبلية ستيم يصوتون لاختيار الأفراد المسؤولين عن إدراج الشهادة في السجل العام. ويكون التصويت مرجح نسبيا مع المصالح الفردية لكل فرد.
 
-In the world of cryptocurrencies, the public record is commonly referred to as a *blockchain*. A *block* is a group of signed transactions.
+في عالم العملات الإفتراضية،يشار إلى السجل العام عادة باسم *بلوكشين*. *البلوك* هو مجموعة من المعاملات الموقعة.
 
-With Steem, block production is done in rounds. Each round 21 witnesses are selected to create and sign blocks of transactions. Twenty (20) of these witnesses are selected by approval voting and one is timeshared by every witness that didn’t make it into the top 20 proportional to their total votes. The 21 active witnesses are shuffled every round to prevent any one witness from constantly ignoring blocks produced by the same witness placed before. Any witness who misses a block and hasn't produced in the last 24 hours will be disabled until they update their block signing key.
+مع ستيم، يتم إنتاج البلوك في جولات. Each round 21 witnesses are selected to create and sign blocks of transactions. Twenty (20) of these witnesses are selected by approval voting and one is timeshared by every witness that didn’t make it into the top 20 proportional to their total votes. The 21 active witnesses are shuffled every round to prevent any one witness from constantly ignoring blocks produced by the same witness placed before. Any witness who misses a block and hasn't produced in the last 24 hours will be disabled until they update their block signing key.
 
-This process is designed to provide the best reliability while ensuring that everyone has the potential to participate in block production regardless of whether they are popular enough to get voted to the top. People have three options to overcome censorship by the top 20 elected witnesses: patiently wait in line with everyone else not in the top 20, or purchase more SP to improve voting power. Generally speaking, applying censorship is a good way for elected witnesses to lose their job and therefore, it is unlikely to be a real problem on the Steem network.
+تم تصميم هذه العملية لتوفير موثوقية أفضل مع ضمان أن الجميع لديهم الإمكانية على المشاركة في إنتاج البلوك بغض النظر عن ما إذا كانت لديهم شعبية كافية للحصول على تصويت للأعلى. لدى الناس ثلاثة خيارات للتغلب على الرقابة من قبل أفضل 20 شهود منتخبين: الانتظار بصبر في خط مع اي احد غير موجود في 20 الاولى، أو شراء المزيد من SP لتحسين قوة التصويت. بصفة عامة، إن تطبيق الرقابة هو وسيلة جيدة للشهود المنتخبين لفقدان وظيفتهم وبالتالي، لايبدو أنها ستكون مشكلة حقيقية على شبكة ستيم.
 
 Because the active witnesses are known in advance, Steem is able to schedule witnesses to produce blocks every 3 seconds. Witnesses synchronize their block production via the NTP protocol. A variation of this algorithm has been in use by the BitShares network for over a year where it has been proven to be reliable.
 
-# Eliminating Transaction Fees
+# إلغاء رسوم المعاملة
 
-Steem goes to great lengths to reward people for contributing to the network. It would be counterproductive to turn around and charge people every time they attempt to interact with the community.
+ستيم يذهب إلى ابعاد كبيرة لمكافأة الناس للمساهمة في الشبكة. سيكون من العكسي تحويل الناس وتكليفهم في كل مرة يحاولون فيها التفاعل مع المجتمع.
 
-Blockchain technology currently depends upon transaction fees to prevent spam. These fees suffer all of the known problems with microtransactions and prevent blockchains from being used for low-value transactions. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
+تقنية بلوكشين تعتمد حاليا على رسوم المعاملات لمنع السبام. هذه الرسوم تعاني من جميع المشاكل المعروفة مع المعاملات الصغيرة وتمنع بلوكشين من استخدامها في المعاملات ذات القيمة المنخفضة. وفي الحقيقة يجب أن توفر التطبيقات اللامركزية للمستخدمين مظهر المعاملات الحرة إذا كانوا يرغبون في التنافس مع بدائلهم المركزية. وتحدد هذه الورقة أسلوب التعامل الذي اتبعه ستيم للقضاء على الحاجة إلى الرسوم وبالتالي تمكين مجموعة واسعة من التطبيقات اللامركزية التي لا يمكن الدفاع عنها سابقا.
 
-## The Problem With Fees
+## المشكلة مع الرسوم
 
-Blockchains are decentralized networks where all transactions are broadcast to all peers. Every so often a block is produced that includes some or all of the pending transactions. All blockchains must find a solution to prevent malicious users from consuming all of the available network capacity with worthless transactions. These worthless transactions can prevent other valuable transactions from being processed and ultimately destroy the network.
+البلوكشينات هي شبكات لامركزية حيث يتم بث جميع المعاملات لجميع أقرانهم. بين الحين والآخر يتم إنتاج بلوك يتضمن بعض أو كل من المعاملات المعلقة. يجب على جميع البلوكشينات إيجاد حل لمنع المستخدمين الماكرين من استهلاك كل من سعة الشبكة المتاحة مع المعاملات التي لا قيمة لها. هذه المعاملات التي لا قيمة لها يمكنها منع المعاملات القيمة الأخرى من معالجتها وتدمير الشبكة في نهاية المطاف.
 
-The solution adopted by most blockchains thus far is to charge a minimum transaction fee. A fee worth just a few cents is enough to make attacking the network expensive and unprofitable. While this approach solves the spam problem, it introduces new problems. Imagine solving the email spam problem by introducing a small fee on every email; people wouldn’t use email.
+الحل الذي اعتمدته معظم البلوكشينات حتى الآن هو لشحن الحد الأدنى من رسوم المعاملات. رسم يعادل فقط بضعة سنتات كافية لمهاجمة شبكة مكلفة ومربحة. في حين أن هذا النهج يحل مشكلة البريد المزعج،فإنه يطرح مشاكل جديدة. تخيل حل مشكلة البريد المزعج البريد الإلكتروني من خلال فرض رسوم رمزية على كل بريد إلكتروني: لن يستخدم الأشخاص البريد الإلكتروني.
 
-### Micropayments Don’t Work
+### المدفوعات الصغرى لا تعمل
 
-The fundamental problem with charging transaction fees is that micropayments don’t work, especially for low-value user actions. When a fee is charged on every transaction, it limits the types of transactions that a decentralized network can process. Regardless of how rational the argument for the necessity of fees, users still hate the experience of being nickeled and dimed for everything that they do.
+والمشكلة الأساسية في فرض رسوم المعاملات هي أن المدفوعات الصغيرة لا تعمل، ولا سيما بالنسبة للإجراءات ذات القيمة المنخفضة للمستخدم. عندما يتم فرض رسوم على كل معاملة، فإنه يحد من انواع المعاملات التي يمكن أن تعالجها الشبكة اللامركزية. Regardless of how rational the argument for the necessity of fees, users still hate the experience of being nickeled and dimed for everything that they do.
 
-Imagine if the websites we use every day charged us a fee every time we modify our accounts by changing the password. Users expect certain things to be free. Requiring users to make a decision on whether or not an action is worth a small fee creates anxiety that causes users to leave. A transaction can’t be worth so much as to require a decision but worth so little that that decision is automatic. There is a certain amount of anxiety involved in any decision to buy, no matter how small, and it derives not from the interface used or the time required, but from the very act of deciding.
+تخيل إذا المواقع التي نستخدمها كل يوم تكلفنا رسوم في كل مرة نقوم بتعديل حساباتنا عن طريق تغيير كلمة المرور. يتوقع المستخدمون أن تكون بعض الأشياء مجانية. مطالبة المستخدمين باتخاذ قرار على ما إذا كان أو لم يكن العمل يستحق رسوما صغيرة يثير القلق الذي يسبب مغادرة المستخدمين. لا يمكن أن تكون قيمة الصفقة بقدر ما يتطلب القرارا ولكن يستحق القليل ليكون هذا القرار تلقائي. هناك قدر معين من القلق الذي ينطوي عليه أي قرار شراء، مهما كان صغيرا، ولا يستمد من الواجهة المستخدمة أو الوقت اللازم، ولكن من الفعل نفسه من اتخاذ قرار.
 
 Micropayments, like all payments, require a comparison: *“Is this much of X worth that much of Y?”* There is a minimum mental transaction cost created by this fact that cannot be optimized away, because the only transaction a user will be willing to approve with no thought will be one that costs them nothing, which is no transaction at all.
 
 – Clay Shirky[^8]
 
-In the world of financial payments, small fees are acceptable because the value of the transaction is extremely high relative to the fee charged, and the buyer has already made a decision to buy. The world of potential blockchain applications is far greater than just financial payments and includes many necessary transactions for which fees are simply unacceptable to users.
+في عالم المدفوعات المالية، الرسوم الصغيرة مقبولة لأن قيمة الصفقة مرتفعة للغاية بالنسبة للرسوم المفروضة، والتي قرر والمشتري شرائها سابقا. عالم تطبيقات بلوكشين المحتملة هو أكبر بكثير من مجرد المدفوعات المالية وتشمل العديد من المعاملات اللازمة والتي رسومها هي ببساطة غير مقبولة للمستخدمين.
 
-Systems like BitShares, Nxt, Ripple, Counter Party and Stellar all allow users to place limit orders on the blockchain and all of them charge users a small fee to perform this action. Later if the user wishes to cancel their order, another fee is charged. Systems like Ethereum take micropayments to a whole new level: charging per calculation. All of these systems struggle to attract new mainstream users for the same reasons that a decentralized search engine would struggle to attract users from Google if it charged a small fee for every search. It doesn’t matter how good the service is, people expect certain things to be free. This is true even if a user ends up paying more overall under a different fee structure.
+أنظمة مثل BitShares، Nxt، Ripple، Counter Party و Stellar الكل يتيح للمستخدمين بحد الاوامر على بلوكشين وجميعهم يكلفون رسوم رمزية لتنفيذ هذا الإجراء. في وقت لاحق إذا رغب المستخدم في إلغاء ترتيبها، يتم تكليف رسوم أخرى. الأنظمة مثل إثريوم تأخذ المدفوعات الصغرى إلى مستوى جديد كليا: فرض الرسوم لكل حساب. كل هذه الأنظمة تناضل من أجل جذب تيار المستخدمين الجدد لنفس الأسباب التي تجعل محرك البحث اللامركزي يكافح لجذب المستخدمين من Google إذا فرض رسوما بسيطة على كل عملية بحث. لا يهم كم هي الخدمة جيدة، يتوقع الناس بعض الأشياء لتكون حرة. This is true even if a user ends up paying more overall under a different fee structure.
 
-### Fees are a Barrier to Entry
+### الرسوم حاجز للدخول
 
-Any fee creates a barrier to entry for new users. Before someone can experiment with Ethereum they must acquire some ETH tokens. Anyone wanting to build a decentralized application on Ethereum must pass on the cost to their customers. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
+أي رسم يشكل عائقا لدخول المستخدمين الجدد. قبل أن يتمكن اي شخص من خوض تجربة مع Ethereum يجب ان يحصل على بعض الرموز ETH. أي شخص يرغب في بناء تطبيق لامركزي على Ethereum يجب أن يمر على تكلفة عملائها. شراء عملة تشفير ليست مهمة سهلة ونادرا ما يكون منطقيا للمبالغ الأقل من $10. وهذا يعني أن المستخدمين الجدد الراغبين في تجربة تطبيق جديد لامركزي يجب أولا إقناعهم للإشتراك ب $10.
 
-### Changing Fees
+### تغيير الرسوم
 
-Over time a network must adjust fees. This can happen either due to an increase in the value of the token or due to a surge in capacity. Users like predictable fees and guaranteed service. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
+مع مرور الوقت يجب على الشبكة ضبط الرسوم. ويمكن أن يحدث ذلك إما بسبب زيادة فقيمة الرمز المميز أو بسبب الزيادة في السعة. يحب المستخدمين الرسوم التي يمكن التنبؤ بها والخدمة المضمونة. في حين أنه من الممكن أن يتم ضبط الرسوم حيويا خلال أوقات الإستخدام الكثيف، والنتيجة هي تجربة المستخدم السيئة.
 
 ### Sybil Attacks
 
-Centralized websites prevent spam through rate limiting and some form of ID verification. Even something as simple as reCAPTCHA[^9] is sufficient to limit the creation of fake accounts. If someone abuses their account then centralized websites are free to block the account.
+تمنع مواقع الويب المركزية السبام من خلال الحد من الأسعار وبعض اشكال التحقق من الهوية. ولو كان شيء بسيط مثل reCAPTCHA [^9] تكفي للحد من إنشاء حسابات وهمية. إذا كان شخص ما يسيء إستخدام حساباتهم، فإن المواقع المركزية لديها الحق في حظر الحساب.
 
-In a decentralized system there is no direct way to ban users nor centralized provider able to host a reCAPTCHA and enforce rate limiting of accounts. In fact, the inability to censor users is one of the main selling points of blockchain technology.
+إذا كان شخص ما يسيء إستخدام حساباتهم، فإن المواقع المركزية لديها الحق في حظر الحساب. في الواقع، عدم القدرة على فرض الرقابة على المستخدمين هي واحدة من نقاط البيع الرئيسية لتكنولوجية البلوكشين.
 
 ### Full Reserve vs Fractional Reserve
 
-Let’s view a blockchain like an Internet Service Provider (ISP) co-op which owns all of the cables in the town and has a maximum amount of bandwidth that it can provide at any time. People living in the town can buy shares in the ISP and in exchange they are entitled to utilize a portion of the available bandwidth.
+دعونا نرى بلوكشين مثل مزود خدمة الإنترنت (ISP) التعاونية التي تمتلك جميع الكابلات في المدينة والتي لديها أقصى قدر من الترافيك الذي يمكن أن يتوفر في أي وقت. يمكن للأشخاص الذين يعيشون في المدينة شراء أسهم في ISP وفي مقابل ذلك يحق لهم الاستفادة من جزء من عرض النطاق المتاح.
 
-The ISP has two choices, run a “full reserve” or “fractional reserve” system. Under a full reserve system each user is only allowed a fraction of the maximum bandwidth proportional to her shares. Because not everyone uses the Internet at the same time, the town’s network would be significantly underutilized.
+لدى ISP خيارين، تشغيل "احتياط كامل" أو "احتياط جزئي". وفي ظل نظام الإحتياط الكامل، لا يسمح لكل مستخدم سوى بجزء من الترافيك الأقصى المتناسب مع اسهمه. ونظرا لإن الجميع لا يستخدمون الانترنت في الوقت نفسه، فإن شبكة المدينة سوف تكون غير مستغلّة بشكل كبير.
 
 Under a fractional reserve system the individual users could utilize more bandwidth than they are entitled to at any given point in time so long as not everyone uses the Internet at the same time. The problem with operating a fractional reserve is that congestion occurs anytime too many people wish to use the network at the same time. The ISP needs a way to prioritize bandwidth during congested periods. In the most extreme case, a fully congested network must revert to a full reserve system. The challenge is setting the proper fractional reserve ratio.
 
 ## Bandwidth Instead of Micropayment Channels
 
-The solution to the problems with micropayments is in implementing *dynamic fractional reserves*. Under this model the blockchain will automatically adjust the reserve ratio for the network during times of congestion. The blockchain will set a target utilization that leaves enough headroom for short term surges in demand. Any time the surges are sustained the blockchain reduces the maximum bandwidth-per-share. When a surge is over and there is surplus capacity the blockchain can slowly increase the bandwidth-per-share.
+الحل للمشاكل مع المدفوعات الصغرى في تنفيذ *احتياطات الكسور الديناميكية*. تحت هذا النموذج بلوكشين سوف تضبط تلقائيا النسبة الإحتياطية للشبكة خلال أوقات الازدحام. The blockchain will set a target utilization that leaves enough headroom for short term surges in demand. في أي وقت تستمر العواصف بلوكشين تقلل من الحد الأقصى من الترافيك لكل حصة. عندما تكون هناك زيادة مفاجئة وهناك قدرة فائضة يمكن لبلوكشين زيادة الترافيك ببطء للسهم الواحد.
 
-Bandwidth used by an individual user should be measured over a suitably long period of time to allow that user to time-shift their usage. Users tend to login, do many things at once, then logout. This means that their bandwidth over a short period of time may appear much higher than if viewed over a longer period of time. If the time window is stretched too far then the reserve ratio will not adjust fast enough to respond to short-term surges, if the window is too short then clustering usage will have too big of an impact on normal users.
+يجب قياس الترافيك المستعمل من قبل مستخدم فردي على مدى فترة طويلة من الزمن للسماح لهذا المستخدم بتحويل وقت استخدامه. المستخدمون يميلون إلى تسجيل الدخول،و يفعلون أشياء كثيرة في آن واحد، ثم يخروجون. وهذا يعني أن الترافيك على مدى فترة قصيرة قد يبدو أعلى بكثير مما لو عرض على مدى فترة طويلة من الزمن. If the time window is stretched too far then the reserve ratio will not adjust fast enough to respond to short-term surges, if the window is too short then clustering usage will have too big of an impact on normal users.
 
-In our estimate it should be sufficient to measure the average weekly bandwidth usage of users. Every time a user signs a transaction, that transaction is factored into their own individual moving average. Any time a user’s moving average exceeds the current network limit their transaction is delayed until their average falls below the limit.
+في تقديرنا يجب أن يكون كافيا لقياس متوسط استخدام الترافيك الأسبوعي للمستخدمين. في كل مرة يوقع فيها المستخدم على تحويل، يتم احتساب ذلك التحويل في المتوسط المتحرك الفردي الخاص به. Any time a user’s moving average exceeds the current network limit their transaction is delayed until their average falls below the limit.
 
-### Impact of Capacity
+### تأثير القدرات
 
-Blockchain capacity isn’t necessarily capped. It is well within the technological capability of internet infrastructure to increase the Bitcoin block size to 10MB which in turn will reduce the minimum required balance by a factor of 10. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second.
+قدرات بلوكشين ليست مغطات بالضرورة. إنها جيدة ضمن القدرة التكنولوجية للبنية التحتية للإنترنت لزيادة حجم بلوك البيتكوين إلى 10MB والتي بدورها سوف تقلل من الحد الأدنى للتوازن المطلوب بعامل قدره 10. في حين ان البتكوين يدعم حاليا حوالي 3 معاملات في الثانية الواحدة، والتطبيقات البديلة قادرة على أكثر من 1000 معاملة في الثانية الواحدة.
 
-### Comparison to Fees
+### مقارنة للرسوم
 
-If we assume a user with $25 dollars worth of BTC transacts once per week and pays a $0.04 cent fee each time then they would pay over $2.00 in fees per year. A user would have to earn a 8% rate of return on their $25 dollars just to break even with paying fees. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
+إذا افترضنا أن مستخدم بقيمة 25 دولارا أمريكيا من معاملات بتكوين مرة في كل اسبوع ويدفع رسوما قدرها $0.04 في كل مرة، فإنه سيدفع أكثر من 2 دولار في الرسوم سنويا. يجب على المستخدم كسب معدل العائد بنسبة %8 على $ 25 دولار فقط لكسره حتى ولو مع دفع الرسوم. وهناك احتمالات أن المستخدمين يرغبون بامتلاك أموالهم على بلوكشين على أي حال، لذلك هذا المستخدم بقيمة $25 من البيتكوين قد حافظ على $2 على مدى سنة من خلال اعتماد نهج يحدد معدل الفائدة بدلا من اتباع نهج قائم على الرسوم. مع $175 فقط فإنها يمكن أن تتعامل كل يوم وتوفر 14 دولارا في السنة.
 
-### Account Creation
+### إنشاء الحساب
 
 Steem’s account-based system with publicly known balances simplifies the implementation of the bandwidth-based rate limiting algorithm. Any account with a balance below the minimum required to transact once per week would be unable to transact. This implies that all new accounts should be funded with at least this minimum balance. It also implies that users wishing to transact in smaller amounts can, so long as they hold a larger balance and reuse the account.
 
@@ -513,9 +513,9 @@ Under most content monetization models, content creators leverage advertising in
 
 Creators posting to social media outlets that are connected to Steem may monetize merely by having their work recognized (or ”liked”) by the Steem community. Blockchain-based payouts are completely digital and have no middle-man. Therefore monetization by blockchain-based content rewards should be faster and much lower barrier to use than monetization by advertisements.
 
-# Conclusion
+# استنتاج
 
-Steem is an experiment designed to address challenges in the cryptocurrency and social media industries by combining the best aspects from both. Steem presents earning opportunities to content creators and internet readers in ways that have not existed within the social media industry. Within Steem, individuals earn real rewards online that are directly correlated to their contributions. Those rewards may have dollar value due to the market price discovery and liquidity of Steem, and the people who hold Steem may have more exclusive earning powers than those who do not.
+ستيم هي تجربة مصممة لمواجهة التحديات في العملات الإفتراضية وصناعات وسائل الاعلام الاجتماعية من خلال الجمع بين أفضل جوانب من كليهما. يقدم ستيم فرص الكسب لمبدعي المحتوى وقراء الإنترنت بطرق لم تكن موجودة في صناعة وسائل الإعلام الاجتماعية. داخل ستيم، الأفراد يكسبون مكافآت حقيقية على الانترنت التي ترتبط مباشرة إلى بمساهماتهم. Those rewards may have dollar value due to the market price discovery and liquidity of Steem, and the people who hold Steem may have more exclusive earning powers than those who do not.
 
 [^1]: Reddit’s Cryptocurrency, Forbes, Erika Morphy, October 2014 http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/\#4e07b05332b9
 

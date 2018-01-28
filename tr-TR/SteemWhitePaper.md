@@ -1,527 +1,527 @@
 # Steem
 
-## Teşvikli, blok zinciri kökenli, genel içerik platformu.
+## Blockchain temelli, teşvik sistemine dayalı, kamuya açık bir içerik platformu.
 
 Ağustos 2017
 
-# Tercüman'ın notları
+# Çevirmenin Notları
 
-Çevirmenin notaları için yer tutucu.
+Placeholder for translator's notes.
 
 # Özet
 
-Steem, cryptocurrency ödülleri ile topluluk oluşturmayı ve sosyal etkileşimi destekleyen bir blok zinciri veritabanıdır. Steem, sosyal medya araçlarındaki kavramları kripto para birimlerini ve topluluklarını oluşturmakla öğrenilen derslerle birleştirir. Herhangi bir topluluğa, para birimine ya da serbest piyasa ekonomisine katılımı arttırmanın önemli bir anahtarı, her bir kişinin katkısını sürekli olarak yansıtan adil bir muhasebe sistemidir. Steem, topluluğuna * öznel katkı yapan * kişileri sınırsız sayıda doğru ve şeffaf bir şekilde ödüllendirmeye çalışan ilk şifreleme sırasıdır.
+Steem, kripto para ödülleri aracılığıyla topluluk oluşturmayı ve toplumsal etkileşime girmeyi teşvik eden bir blockchain veri tabanıdır. Steem, sosyal medyaya özgü kavramları, kripto para birimlerinin ve kripto para birimi topluluklarının yaratım sürecinde öğrenilen derslerle birleştirmektedir. Bireylerin katılımını tutarlı bir şekilde temsil edecek adil bir muhasebe sisteminin varlığı, herhangi bir topluluğa, para birimine veya serbest piyasa ekonomisine katılımı teşvik etmenin kilit unsurlarından biridir. Steem, çok sayıda birey tarafından Steem topluluğuna sunulan *bireysel katkılar*ın doğru ve şeffaf bir şekilde ödüllendirilmesini hedefleyen ilk kripto para birimi olma özelliğine sahiptir.
 
-# İçindekiler Tablosu
+# İçindekiler
 
 <!-- toc -->
 
-# Tanıtım
+# Giriş
 
-Topluca kullanıcı tarafından üretilen içerik, Reddit, Facebook ve Twitter gibi sosyal medya şirketlerinin hissedarları için milyarlarca dolar değer yarattı. **Reddit, 2014 yılında Reddit.com'a hikayeler göndererek, yorumlar ekleyerek veya oylamaya katarak katkıda bulunan herkesin Reddit, Inc.'de adil bir pay ile ödüllendirilmesi durumunda platformunun geliştirileceğini önermişti.[^1]**. Steem, değerini büyük bir kısmını cryptocurrency ile ödüllendirerek değerli katkılar sağlayanlara geri vererek sosyal medyayı ve çevrim içi toplulukları desteklemeyi ve bu süreç hakkında henüz sahip olmayan, herhangi bir kripto para ekonomisine katılmamış insanları da dahil etmek üzere, geniş bir pazara erişebilen bir para birimi oluşturmayı amaçlıyor.
+Kolektif halde, kullanıcı tarafından yaratılmış içerik Reddit, Facebook ve Twitter gibi sosyal medya şirketlerinin hissedarları için milyarlarca dolarlık bir değer yarattı. **2014 yılında Reddit, reddit.com'a hikaye paylaşımları, yorum ekleme, ya da oylama yoluyla katkıda bulunmuş olan herkesin Reddit'ten adil bir hisse ile ödüllendirilmesi durumunda kendi platformlarının çok daha gelişeceği gelişeceği varsayımını öne sürdü.<sup id="fnref:1"><a href="#fn:1" class="footnote-ref"></a></sup>**. Steem sosyal medyayı ve çevrim içi toplulukları, sahip olduğu değerin büyük bir kısmını ona değerli katkılarda bulunan herkesi kripto para birimleri ile ödüllendirmek yoluyla onlara iade ederek, desteklemeyi amaçlamaktadır.
 
-Steem tasarımına rehberlik etmek için kullanılan bazı temel ilkeler vardır. En önemli ilke, bir girişime katkıda bulunan herkesin, girişimden önce sahiplik, ödeme veya borç almasıdır. Bu ilke, kurucularda ve sonraki fonlama turlarında payları tahsis edeceği için tüm start-uplara uygulananla aynı ilkedir.
+Steem'in tasarımına rehberlik etmek için kullanılmış olan bazı ana ilkeler vardır. En önemli ilke, bir girişime katkıda bulunmuş olan herkesin girişimden nisbi oranda hisse, ödeme ya da borç alıyor olmasıdır. Bu ilke, kuruluş aşamasında ve müteakip fonlama rauntları sırasında hisse dağıtan tüm startup'larda uygulanan ilkenin aynısıdır.
 
-İkinci ilke, her sermayenin eşit derecede değerli olmasıdır. Bu, belirli zamanlarını ve dikkatini, başkaları için içerik üretmek ve küratöre etme yönünde katkıda bulunanların, kıt nakitleriyle katkıda bulunanlar kadar değerli olduğu anlamına gelir. Bu, "ter eşitlik prensibi" [^2] olan ve kripto paraların daha önce birkaç düzineden fazla kişiyle sorun yaşadığı bir kavramdır.
+İkinci ilke, tüm sermaye çeşitlerinin eşit derecede değerli olmasıdır. Bu şu anlama gelir: Kısıtlı zamanlarını ve dikkatlerini diğerleri için içerik üreterek ve küratörlük yaparak platforma katkı olarak sunanlar, kısıtlı nakitlerini katkı olarak sunanlarla aynı oranda değerlidir. Bu emek-yoğun sermaye ilkesidir[^2] ve önceki birçok kripto para birimi, sınırlı sayıda insandan fazlasına refah sağlamak konusunda bu kavram ile sıkıntı yasamıştır.
 
-Üçüncü ilke, topluluğun üyelerine hizmet etmek için ürünler üretmesidir. Bu ilke, toplum dışındaki kişilere ürün ya da hizmet satmak yerine, topluluk üyelerine hizmet eden kredi birlikleri, gıda işbirliği birimleri ve sağlık paylaşımı planları ile örneklenmektedir.
+Üçüncü ilke, topluluğun üyelerine hizmet edebilmek için ürünler üretiyor olmasıdır. Bu ilke, kendi topluluklarının dışına mal ya da hizmet satmaktansa sadece kendi üyelerine hizmet eden kredi birlikleri, yemek kooperatifleri, sağlık paylaşım planları üzerinden örneklendirilebilir.
 
-Steem topluluğu üyelerine aşağıdaki hizmetleri sunmaktadır:
+Steem topluluğu üyelerine aşağıda yer alan hizmetleri sunar:
 
-1. Seçilmiş bir haber ve yorum kaynağı.
-2. Kişiselleştirilmiş sorularla yüksek kaliteli yanıtlar almak için bir araç.
-3. Abd dolarına sabitlenmiş istikrarlı bir kripto para.
-4. Ücretsiz ödeme işlemleri.
-5. Yukarıdaki hizmetleri diğer üyelere sağlayan işler.
+1. Bir kürete edilmiş haber ve yorum kaynağı.
+2. Kişiselleştirilmiş sorulara yüksek kalitede yanıtlar alma araçları.
+3. Değeri Amerikan Doları'na sabitlenmiş, istikrarlı bir kripto para birimi.
+4. Ücretsiz ödemeler.
+5. Yukarıdaki servisleri kullanıcılara sağlayacak işler.
 
-Steem'in ekonomik teşvikleri amaçlayan hale getirmesi, daha önce gitmiş olan sosyal medya ve cryptocurrency platformlarından çok, herkes için daha adil ve kapsamlı sonuçlar üretme potansiyeline sahiptir. Bu yazı, mevcut ekonomik teşvikleri inceleyecek ve Steem'in teşviklerinin katılımcıların çoğunun daha iyi sonuçlar doğurabileceğini gösterecektir.
+Steem'in ekonomik teşvikleri bir amaca yönelik olarak yeniden düzenlemesi, ilgili herkes açısından, kendinden önceki sosyal medya ve kripto para birimi platformlarındakinden çok daha adil ve kapsayıcı sonuçlar üretme potansiyeline sahiptir. Bu makale mevcut ekonomik teşvikleri inceleyecek ve Steem'in teşviklerinin katılımcıların çoğunlugu için nasıl daha iyi sonuçlar üretebileceğini gösterecektir.
 
-## Katkı Sağlama
+## Katkıyı Takdir Etmek
 
-Steem, toplumsal medya tabanlı bir ekonominin benimsenmesi ve para kazanılmasının önündeki en büyük engelleri ortadan kaldırmak için tasarlanmıştır. Tezimiz, önemli sosyal medya platformlarını büyütmek için kullanılan tekniklerle, başarılı bir kripto parayı önyüklemek için kullanılabilir. Cryptocurrency'den yararlanan ekonomik teşvikler, yeni bir sosyal medya platformunun büyümesini önemli ölçüde kolaylaştırabilir. Steem'e pazarda güçlü bir avantaj sağlayabileceğine inandığımız cryptocurrency ve sosyal medya arasındaki sinerjidir.
+Steem sosyal medya temelli ekonominin bensimsenmesinin ve parasallaştırılmasının önündeki engelleri ortadan kaldırmaya yönelik olarak temelden tasarlanmıştır. Bizim tezimiz sosyal medya platformlarının büyütülmesi için kullanılan aynı tekniklerin başarılı bir kripto para birimine ön ayak olmak için de kullanılabileceğidir. Kripto para biriminin mümkün kıldığı ekonomik teşvikler yeni bir sosyal medya platformunun büyümesine çarpıcı bir şekilde olanak sağlayabilir. Biz inanıyoruz ki kripto bara birimi ve sosyal medya arasındaki sinerji Steem'e piyasada güçlü bir avantaj sağlayabilir.
 
-Steem'in karşılaştığı zorluk, topluluk üyelerinin çoğunun her bir katkının öznel değerinin adil bir değerlendirmesi olduğu düşünülen bireysel katkıların puanlanması için bir algoritma türetmektir. Mükemmel bir dünyada, toplum üyeleri birbirlerinin katkısını değerlendirmek ve adil bir tazminat elde etmek için işbirliği yaparlar. Gerçek dünyada, algoritmalar kar amaçlı manipüle edilmeye karşı dirençli olacak şekilde tasarlanmalıdır. Puanlama sisteminin yaygın bir şekilde kötüye kullanımı, topluluk üyelerinin ekonomik sistemin algılanan adaletine olan inançlarını kaybetmesine neden olabilir.
+Steem tarafından yüklenilmiş zorlu görev; bireysel katkıları, üyelerin çoğunun her katkının öznel değerinin adil bir şekilde yansıtıldığını düşünmesini sağlayacak bir şekilde puanlayacak bir algoritma geliştirmekti. İdeal bir dünyada, topluluk üyeleri birbirlerinin katkılarını değerlendirme hususunda işbirliği yaparlar ve adil bir mükafat elde ederler. Gerçek dünyada ise algoritmaların kar elde etmek için yapılan kasti manipülasyonlara karşı dirençli olacak şekilde tasarlanmaları gerekir. Puanlama sisteminin yaygın bir şekilde istismar edildiği herhangi bir durum, topluluk üyelerinin ekonomik sistemin algılarındaki hakkaniyetine olan inançlarının düşmesine sebep olabilir.
 
-Mevcut platformlar tek kullanıcılık, tek oyla çalışır. Bu, sıralamanın sivil saldırıları ile manipüle edilebildiği ve servis sağlayıcıların istismara neden olan kişileri proaktif olarak tanımlamaları ve engellemeleri gereken bir ortam yaratmaktadır. Tek ödül web trafiği veya sansür olduğunda insanlar zaten Reddit, Facebook ve Twitter puanlama algoritmalarını değiştirmeye çalışıyorlar.
+Mevcut platformlar bir kullanıcı, bir oy ilkesi üzerine çalışır. Bu, sıralamaların sybil saldırıları tarafından manipüle edilebileceği ve sunucu sağlayıcılarının suistimal edenleri proaktif bir şekilde tespit edip engellemesini gerektiren bir ortam yaratır. İnsanlar halihazırda Reddit, Facebook ya da Twitter sıralama algoritmalarını ortadaki tek ödül internet trafiği ya da sansürken bile manipüle etmeye çalışmaktadır.
 
-Steem platformundaki temel para birimi, kripto para birimi göstergesi olan STEEM'dir. Steem, "bir STEEM-bir oy" ile çalışır. Bu modelde, hesap bakiyesiyle ölçülen platforma en çok katkıda bulunan kişilerin katkı paylarının nasıl atıldığı üzerinde çok etkisi vardır. Dahası Steem, üyelere hak sahipliği planına bağlı olduğu zaman STEEM ile oy kullanmalarını sağlar. Bu modele göre, üyelerin STEEM'in uzun vadeli değerini en üst düzeye çıkaracak şekilde oy kullanmaları için maddi bir teşvik vardır.
+Steem platformu üzerindeki temel hesap birimi, bir kripto para birimi olan STEEM'dir. Steem bir-STEEM, bir-oy temelinde çalışır. Bu modelde, hesap bakiyesiyle ölçüldüğü şekliyle, platforma en çok katkıda bulunan kişiler katkıların nasıl puanlandığı üzerinde çok fazla etkiye sahiptir. Dahası, Steem kullanıcılarına sadece vadeli temlik çizelgesine oturtulmuş olan STEEM ile oy kullanma hakki tanır. Bu modele göre, üyelere kendi STEEM'lerinin uzun vadeli değerini en üst düzeye çıkartacak şekilde oy kullanmaları için maddi bir teşvik vardır.
 
-Steem nispeten basit bir konsept etrafında tasarlanmıştır: * topluluğa herkesin katkısı kattığı değer için tanınmalıdır. * İnsanlar anlamlı katkılarından dolayı topluma katkıda bulunur ve topluluk büyür. Topluluk içinde vermek ve almakta herhangi bir dengesizlik sürdürülemez. Sonuçta, katılımcılar, katılımcıları desteklemekten ve topluluktan ayrılmaktan bıkarlar.
+Steem çok basit bir kavramın çevresinde tasarlanmıştır: *herkesin topluluğa yaptığı anlamlı katkıları, yarattığı değer kadar takdir görmelidir.* İnsanlar anlamlı katkıları için takdir gördüklerinde katkı yapmaya devam ederler ve topluluk büyür. Bir topluluk içerisindeki alma ve verme arasındaki herhangi bir dengesizlik hali sürdürülebilir değildir. Nihayetinde, verenler almakta olanları desteklemekten yorulur ve topluluktan ayrılır.
 
-Zorluk, hangi katkıların gerekli olduğunu ve sınırsız sayıda kişiye ölçeklenebilecek şekilde bağıl değerlerini belirleyebilen bir sistem yaratmaktır.
+Zorlu görev ise, sınırsız sayıda insana ölçeklenebilecek şekilde, hangi katkıların gerekli olduğuna ve onların göreli değerine karar verebilme kapasitesine sahip bir sistem yaratmaktır.
 
-Katkıyı değerlendirmek ve ödüllendirmek için kanıtlanmış bir sistem serbest piyasadır. Serbest piyasa, herkesin birbiriyle ticaret yaptığı tek bir cemaat olarak görülebilir ve ödüller kâr ve zarar ile tahsis edilir. Piyasa sistemi, başkalarına değer verenleri ödüllendirir ve ürettikleri değerden fazlasını tüketenleri cezalandırır. Serbest piyasa birçok farklı para birimini destekliyor ve para, herkesin alışveriş yapmayı kolay bulduğu bir metadır.
+Katkıların değerlendirilmesi ve ödüllendirilmesi konusunda rüşdünü ispatlamış sistem ise serbest piyasadır. Serbest piyasa herkesin bir diğeriyle ticaret yaptığı ve ödüllerin kar ve zarara göre paylaşıldığı tekil bir topluluk olarak görülebilir. Piyasa sistemi diğerlerine değer sağlayanları ödüllendirir ve ürettiği değerden fazlasını tüketenleri ise cezalandırır. Serbest piyasa birçok para birimini destekler ve para ise sadece herkesin takas etmeyi kolay bulduğu bir metadır.
 
-Serbest piyasa kanıtlanmış bir sistem olduğundan, içerik tüketicilerinin doğrudan içerik üreticilerine ödeme yapacakları serbest piyasa sistemi yaratmaya çalışmak caziptir. Bununla birlikte, doğrudan ödeme, verimsizdir ve içerik oluşturma ve küratörlük için gerçekten uygun değildir. Çoğu içeriğin değeri, az sayıda okuyucunun ipucu vermeyi seçtiği bir ödeme yapmakla ilişkili bilişsel, finansal ve fırsat maliyetlerine göre çok düşüktür. Ücretsiz alternatiflerin bolluğu, bir 'paywall' uygulamasının, okuyucuları başka yerlere götüreceği anlamına geliyor. Okuyuculardan yazarlara makale bazında mikro para ödemeleri gerçekleştirmek için birkaç girişim yapılmıştır, ancak bunların hiçbiri yaygınlaşmamıştır.
+Serbest piyasa rüşdünü ispat etmiş bir sistem olduğundan, içerik tüketicilerinin içerik üreticilerine doğrudan ödeme yaptığı bir serbest piyasa sistemi yaratmaya çalışmak cezbedicidir. Ne var ki, doğrudan ödeme içerik üretimi ve küratörlük için işlevsizdir ve çok da uygulanabilir değildir. İçeriklerin çoğunun değeri, bilişsel, finansal ve fırsat maliyetlerine ilintili olarak çok az okuyucu bahşiş bırakmayı tercih edeceğinden, göreli olarak çok düşüktür. Bedava alternatiflerin çokluğu, bir 'ödeme duvarı'nı zorunlu tutmanın okuyucuları başka mecralara sürükleyeceği anlamına gelir. Okuyucudan yazara yapılacak mikro ödemeleri hayata geçirmeye çalışmış olan birçok deneme vardı fakat hiçbiri yaygın hale gelemedi.
 
-Steem, ekonomik denklemi değiştirerek her türlü katkıda etkili mikro ödemeleri mümkün kılmak için tasarlanmıştır. Okuyucular artık kendi cebinden birini ödemek isteyip istemediklerine karar vermek zorunda kalmazlar; bunun yerine içeriği yukarı veya aşağı oylayabilirler ve Steem, bireysel ödülleri belirlemek için oylarını kullanır. Bu, insanlara tanıdık ve yaygın olarak kullanılan bir arayüz verilir ve artık geleneksel mikro ödeme ve devrilme platformlarıyla ilişkili bilişsel, finansal ve fırsat maliyetleriyle yüzleşilmeyeceği anlamına gelir.
+Steem ekonomik denklemi değiştirerek, her türden katkı için yapılacak mikro ödemelere imkan tanıyabilmek için tasarlandı. Okuyucular bundan böyle kimseye kendi ceplerinden para ödeyip ödemeyeceklerinin kararını vermek zorunda değil. Bunun yerine, onlar sadece bir içeriği aşağı ya da yukarı oylayabilir ve Steem bireysel ödülleri belirlemek için onların oylarını kullanır. Bu ise, insanlara çokça kullanılan ve tanıdık bir arayüz verilmesi; ve onların geleneksel mikro ödeme ve bahşiş platformlarıyla ilintili bilişsel, mali ve fırsat maliyetleri ile yüzleşmek zorunda kalmamaları anlamına gelir.
 
-Topluluk üyelerinden gelen oylama girişi, Steem'in katılımcılara ödemeleri doğru şekilde tahsis etmesi için kritik öneme sahiptir. Bu nedenle, oylama, kendi başına önemli bir katkı ve ödüllere layık görülebilir. Slashdot gibi bazı platformlar, dürüst moderatörleri sıralamak ve ödüllendirmek için bir yol olarak meta denetimi [^3] kullanır. Steem, bir içeriği tamamen tanıtmak için en çok katkıda bulunanları ödüllendirmeyi seçer ve seçmenleri, içerik oluşturana ödenen nihai ödülle orantılı olarak ödüllendirir.
+Topluluk üyelerinden gelen oy girdisi, Steem'in katkı sunanlara yapılacak ödemeleri isabetli bir şekilde dağıtması için çok önemlidir. Bundan ötürü oylama mühim bir katkı sunma biçimi olarak görülebilir ve kendisi, başlı başına, bir ödülü hak etmektedir. Slashdot gibi bazı platformlar dürüst moderatörleri sıralamak ve ödüllendirmek için meta-moderation'u[^3] kullanır. Steem ise, bir içerik parçasının toplam tanıtımına en fazla katkıda bulunanları ödüllendirmeyi tercih eder. Ve oylayanları da yazara ödenmiş nihai ödül üzerinden orantılı olarak ödüllendirir.
 
-# Katkıda bulunmak için yollar
+# Katkıda Bulunma Yolları
 
-Bu bölüm, Steem'in arkasındaki fikirleri ve Steem topluluğuna anlamlı ve ölçülebilir katkılar sağlayan kişiler için sağladığı ödülleri özetlemektedir.
+Bu kısım, Steem'in arkasında yatan fikirler ve onun Steem topluluğuna anlamlı ve ölçülebilir katkılarda bulunan üyelerine sunduğu ödüller hakkında genel bir çerçeve çizer.
 
-## Sermaye katkıları
+## Sermaye Katkıları
 
-Topluluğun sermaye çekmek için sunabileceği iki öğe vardır: borç ve mülkiyet. Topluluk azaldığında sahiplik karı alanlar topluluk küçülürse kaybeder. Borç alanlar belli miktarda faiz garantilidir ancak topluluğun büyümesiyle gerçekleşen karlara katılmazlar. Her iki sermaye katkısı topluluğun gelişimi ve para biriminin değeri için değerlidir. Buna ek olarak, sahipliğin düzenlenmesinin iki yolu vardır: sıvı ve hakediş. Sahipliği elde etmek uzun vadeli bir taahhütte bulunur ve minimum bir süre satılamaz.
+Bir topluluğun sermayeyi cezbedebilmek için sunabileceği iki öge vardır: borçlanma ve mülkiyet. Mülkiyet satın alanlar topluluk büyüdüğünde kazanır fakat küçüldüğünde ise kaybeder. Borç verenlere ise belirli oranda bir faiz garanti edilir fakat topluluğun büyümesiyle gerçekleşen kara katılmazlar. Her iki türden sermaye katkısı da topluluğun büyümesi ve onun para biriminin değeri için kıymetlidir. Ek olarak, mülkiyetin düzenlenebileceği iki yol vardır: Likit ve uzun vadeli yatırım. Uzun vadeli hisse uzun vadeli bir taahhüt getirir ve mümkün olan en aşağı zaman diliminde satılamaz.
 
-Steem ağı bu farklı varlık sınıflarını Steem (STEEM), Steem Power (SP) ve Steem Dolar (SBD) olarak adlandırıyor.
+Steem ağı bu farklı malvarlığı sınıflarını Steem (STEEM), Steem Power (SP) ve Steem Doları (SBD) olarak adlandırır.
 
 ## Steem (STEEM)
 
-Steem, Steem'in blok zincirindeki temel birimdir. Diğer tüm token'ler değerlerini STEEM değerinden türetir. STEEM likit bir para birimidir ve borsalarda satın alınabilir veya satılabilir; ayrıca bir ödeme şekli olarak diğer kullanıcılara aktarılabilir.
+Steem, Steem blockchain'i üzerindeki temel hesap birimidir. Tüm diğer tokenlar kendi değerlerini STEEM'in değeri üzerinden sağlarlar. STEEM likit bir para birimidir ve bu sayede diğer kullanıcılara bir ödeme yöntemi olarak transfer edilebilirken takaslar sırasında da alınıp satılabilir.
 
 ## Steem Power (SP)
 
-Başlangıç şirketleri, uzun vadeli sermaye taahhüdü gerektirir. Paralarını bir startup'a yatırım yapanlar hisselerini satıp kazançlarını görmeden önce yıllarca beklemeleri gerektiklerini tahmin ediyorlardır. Uzun vadeli taahhütler olmadan, ek hisse satışı yoluyla ek sermaye yaratmaya çalışan bir girişim, çıkmak isteyen mevcut hissedarlar ile rekabet edecektir. Savvy yatırımcılar, sermaye katkılarının ve şirketin büyümesini istiyor ancak yeni sermaye çıkmak isteyenlere verilirse büyüme gerçekleşmez.
+Start up firmaları uzun vadeli sermaye taahhüdüne gereksinim duyar. Paralarını start up'lara yatıranlar hisselerini satıp karlarını paraya dönüştürmeden önce yıllarca beklemek zorundadır. Uzun vadeli taahhütler olmaksızın, ilave hisse satımı yoluyla fazladan sermaye yaratmaya çalışan bir start up halihazırda mevcut hissedarların çıkmaya çalışmasıyla baş etmek zorunda kalabilir. İdrak sahibi yatırımcılar sermaye katkılarının şirketi büyütmesini isterler, fakat eğer yeni sermaye halihazırda çıkmak isteyenlere verilirse büyüme gerçekleşemez.
 
-Uzun vadeli plan yapmak yatırımların uzun vadeli taahhüt olması için önemli bir değere sahiptir. Uzun vadeli taahhüt paydaşlar kısa vadeli pompalar yerine uzun vadeli büyüme için oy alırlar.
+Uzun vadeli taahhütlere sahip olmanın önemli bir değeri vardır çünkü o, toplulukların uzun vadeli planlar yapabilmelerine izin verir. Sermayedarların uzun vadeli taahhütleri ayni zamanda onların kısa vadeli şişmelerden ziyade uzun vadeli büyüme için oy vermelerine de yol açar.
 
-Kripto para dünyasında, spekülatörler kripto paradan kripto paraya atlar ve çoğunlukla hangisinin kısa vadeli bir büyümeye sahip olacağı düşünülür. Steem, çoğunlukla sahip olduğu ve tamamen uzun vadeli bir perspektifle denetlenen bir topluluk inşa etmek istiyor.
+Kripto para birimi alanında spekülatörler çoğunlukla, hangisinin kısa vadede daha fazla büyüme beklentisine sahip olduğu temelinde, bir kripto para biriminden diğerine zıplarlar. Steem, uzun vadeli bakış açısına sahip olanların mülkiyetinde olan ve tümüyle onlar tarafından kontrol edilen bir topluluk inşa etmeyi arzu eder.
 
-Kullanıcılar STEEM'i on üç haftalık hak ediş programına katlayarak platformda ek avantajlar sağlıyor. Onüç haftalık hakediş programına bağlı STEEM'e Steem Power (SP) denir. SP bakiyeleri, otomatik olarak tekrarlanan dönüşüm talepleri hariç olmak üzere, devredilemez ve bölünemezdir. Bu SP, şifreleme borsaları üzerinde kolayca değiştirilemediği anlamına gelir.
+Kullanıcılar Steem'lerini, platform içerisinde kendilerine ilave faydalar da sağlayan, on üç haftalık bir vadeli yatırım çizelgesine taahhüt edebilirler. On üç haftalık vadeli yatırım çizelgesinde taahhüt edilmiş olan STEEM, Steem Power (SP) olarak adlandırılır. SP bakiyeleri, otomatik olarak tekrar eden dönüşüm talepleri haricinde, transfer ve taksim edilemez. Bu da demektir ki, SP kolaylıkla kripto para birimi takasları sırasında alınıp satılamaz.
 
-Kullanıcılar içeriğe oy verdiklerinde, ödül havuzunun dağılımı üzerindeki etkileri olur ve bu SP'lerinin miktarı ile orantılıdır. Daha fazla SP'ye sahip olan kullanıcılar, ödül dağılımı üzerinde daha fazla etkiye sahiptir. Bu SP'nin, sahiplerine Steem platformunda özel güçler kazandıran bir token olduğu anlamına gelir.
+Kullanıcılar içerikleri oyladığında, onların ödüllerin dağıtımı üzerindeki etkileri sahip oldukları SP ile doğru orantılıdır. Daha fazla SP'ye sahip olan kullanıcılar ödüllerin dağıtımı üzerinde daha fazla etkiye sahiptir. Bu da demektir ki, SP ona sahip olanlara Steem platformu içerisinde münhasır yetkiler sağlayan bir giriş tokenıdır.
 
-SP mükelleflerine, elde kalan kalıntıların SP dengesine de faiz ödenmektedir. Yıllık enflasyonun %15'i SP sahiplerine faiz olarak ödenmektedir. Alınan faiz tutarı, tüm kullanıcılar arasındaki hak kazanılmış SP'nin toplamına göre tuttuğu SP'nin miktarı ile doğru orantılıdır.
+SP sahiplerine vadeli yatırımlarında duran SP bakiyesi üzerinden ayrıyetten faiz ödenir. Yıllık enflasyonun %15'i SP sahiplerine faiz olarak ödenir. Aldıkları faiz meblağı, tüm kullanıcılar arasında vadeli yatırım olarak tutulan SP meblağına nispi olarak, kendi tuttukları SP ile doğru orantılıdır.
 
-SP'den STEEM'e aktarma işlemi "power down" olarak adlandırılırken, STEEM'den SP'ye aktarma "power up" olarak adlandırılır. Kapatılmış olan SP, 13 haftalık bir süre boyunca haftalık 13 eşit sürede kullanıcıya geri gönderilir ödemelerin başlatılmasından bir hafta sonra başlayacaktır.
+STEEM'den SP'ye aktarım yapmak ''Powering Up'' olarak adlandırılırken, SP'den STEEM'e aktarım yapmak ise ''Powering Down'' olarak adlandırılır. Power Down edilmiş olan SP, power down'un başlatılmasından bir hafta sonra, haftalık eşit ödemeler yoluyla 13 hafta içerisinde kullanıcıya ödenir.
 
-## Steem dolar (SBD)
+## Steem Doları (SBD)
 
-İstikrar, başarılı küresel ekonomilerin önemli bir özelliğidir. İstikrar olmadan, ticaret ve tasarruf yaparken dünyadaki bireylerin düşük bilişsel maliyetleri olamaz. Çünkü istikrar başarılı ekonomilerin önemli bir özelliğidir, Steem Dolar'ı, kripto para dünyasına ve Steem ağı kullanan kişilere istikrar getirme girişimi olarak tasarlanmıştır.
+İstikrar başarılı küresel ekonomilerin önemli bir özelliğidir. İstikrar olmaksızın, dünya genelinde bireyler ticarete ve tasarrufa yönelirken düşük bilişsel maliyetlere sahip olamazlar. İstikrar başarılı küresel ekonomilerin önemli bir özelliği olduğundan Steem Doları Steem ağını kullanan kullanıcılara ve kripto para birimi dünyasına istikrar getirmeyi amaçlayan bir hamle olarak tasarlandı.
 
-Steem Dolar'ı, başlangıçları finanse etmek için sıklıkla kullanılan dönüştürülebilir notlara benzer bir mekanizma ile oluşturulur. Startup dünyasında, çevrilebilir notlar gelecekte belirlenecek bir oranda, genellikle gelecekteki bir fonlama turunda sahipliğe dönüştürülebilen kısa vadeli borçlanma araçlarından oluşur. Bir blok zincirine dayanan para, toplulukta mülkiyet olarak görülebilirken çevrilebilir not, herhangi bir başka emtia veya para biriminde gösterilen bir borç olarak görülebilir. Cabrio notunun şartları, sahibinin token'ini uygun fiyatında minimum bildirimle destekleyici simgeye dönüşmesine izin verir. Token'leri dönüştürülebilir-dolarlar oluşturmak, blok zincirlerinin ağ efektlerini büyütmesini ve token sahiplerine dönüşü en üst düzeye çıkarmasını sağlar.
+Steem Doları, Start up'ları fonlamak için sıklıkla kullanılan dönüştürülebilir senetlere benzeyen bir mekanizma tarafından yaratıldı. Dönüştürülebilir senetler, start up dünyasında -sıklıkla ileriki fonlama rauntları sırasında- gelecekte belirlenen bir oranda özkaynağa dönüştürülebilecek kısa dönem borçlanma araçlarıdır. Bir blockchain temelli token, toplulukta bir mülkiyet olarak değerlendirebilecekken; dönüştürülebilir senet ise herhangi bir metaya ya da para birimine bağlı bir borç olarak görülebilir. Dönüştürülebilir senedin koşulları onu, kendisini elinde bulundurana en az çabayla bağlı olduğu tokena -tokenın adil piyasa fiyatında- dönüştürebilme imkanı tanır. Tokena dönüştürülebilir dolarlar yaratmak, token sahiplerin kazançlarını maksimize ederken blockchainlere de kendi ağ etklilerini büyütme imkanı tanır.
 
-Steem Dolarları, Steem Blockchain Dollars'ın kısaltması olan SBD sembolüyle anılır. SBD oluşturmak, güvenilir bir fiyat sunumu ve kötüye kullanımı önlemek için gereken kuralların bir kombinasyonunu gerektirir. Güvenilir fiyat sunumunun sağlanması üç faktörü içerir: yanlış beslemenin etkisini en aza indirgemek, yanlış besleme üretme maliyetini en üst düzeye çıkarmak ve zamanlamanın önemini en aza indirgemek.
+Steem Doları, Steem Backed Dollar'ın kısaltması olan SBD sembolü ile gösterilir. SBD yaratmak güvenli bir fiyat yayınının ve istismarın önüne geçecek kuralların bir araya getirilmesini gerektirir. Güvenilir bir fiyat yayını üretimi üç unsuru barındırır: Doğru olmayan yayının etkisinin minimize edilmesi, doğru olmayan yayının sonuçlarının maksimize edilmesi ve zamanlamanın öneminin minimize edilmesi.
 
-### Hileli Beslemeleri Azaltmak
+### Hileli Yayınları En Aza İndirmek
 
-SP sahipleri, fiyat tekliflerini yayınlamak için witness olarak adlandırılan kişileri seçerler. Seçilen witness'lar, besin kalitesiyle ilgili menfaat sahibi olanlar tarafından muhtemelen güvenilir. Steem, seçilenleri ödeyerek yem üretme hakkını kazanmak için pazar rekabeti yaratır. Yem üreticilerine ne kadar ödenecek olursa, yanlış bilgi yayınlayarak kaybetmek zorunda oldukları miktar da o kadar artar.
+SP sahipleri fiyat yayınlarını paylaşmaları için Witness'lar olarak adlandırılan bireyleri seçer. Seçilmiş Witness'lar, muhtemelen, yayının kalitesinde nemalı menfaatleri olanlar nezdinde güvenilirdir. Steem, bu seçilmişlere ödeme yapmak yoluyla, yayın yapmak için hak kazanmaya yönelik bir piyasa rekabeti yaratmaktadır. Yayın üreticilerine yapılan ödemedeki artış, onların yanlış bilgi paylaşımı durumundaki kayıplarını artırır.
 
-Güvenilir ve seçilmiş yem üreticileri göz önüne alındığında, dönüşümler için kullanılan gerçek fiyat, yayınların ortanca değeri olarak türetilebilir. Bu şekilde, bireysel yem üreticilerinden herhangi bir azınlık aşırsı üretirse, gerçek medyan üzerinde en ufak bir etkiye sahip olurken, yine de itibarı itme kabiliyetine sahip olurlar.
+Güvenilir ve seçilmiş yayın üreticileri göz önünde bulundurulduğunda, dönüşümler için kullanılan aktüel fiyat, onların yaptıkları yayınların medyanından sağlanabilir. Bu yolla, eğer yayın üreticilerinden bir azınlık uç değerler üretirse, kendi ünlerine tesir edecek etkiye hala sahip olmakla birlikte aktüel medyan üzerinde minimal etkiye sahip olurlar.
 
-Tüm yem üreticileri dürüst olsalar bile, yem üreticilerinin çoğunun kendi kontrolü dışında olan olaylardan etkilenmesini sağlamak mümkündür. Steem ağı, topluluğun sorunu düzeltmek için aktif olarak çalıştığı sürece medyan fiyat fiyatının kısa vadeli yolsuzluğunu tolere edecek şekilde tasarlanmıştır. Düzeltmek biraz zaman alabilir meselenin bir örneği, kısa vadeli piyasa manipülasyonu. Piyasa manipülasyonu uzun süreler boyunca sürdürülmek zor ve pahalıdır. Başka bir örnek merkezi bir değişimin başarısız olması veya döviz tarafından yayınlanan verilerin bozulması olabilir.
+Tüm yayın üreticileri dürüst olsa dahi yayın üreticilerinin çoğunluğu için kendi kontrollerinin ötesinde olan bazı gelişmelerden etkilenmek hala mümkündür. Steem ağı, topluluk aktif olarak sorunu düzeltmek için çalışırken, medyan fiyat yayınındaki kısa dönemlik yozlaşmaları tolere edebilmek için tasarlanmıştır. Düzeltmek için biraz zaman gerektirecek meselelere bir örnek, kısa dönemlik piyasa manipülasyonlarıdır. Piyasa manipülasyonun uzun zaman dilimleri boyunca sürdürülebilmesi zor ve pahalıdır. Başka bir örnek de, merkezi exchange'in bir hatası ya da exchange'in yayınladığı verilerin kirlenmesi olabilir.
 
-Steem, üç buçuk gün boyunca medyan fiyat kullanarak kısa vadeli fiyat dalgalanmalarını etkiliyor. Ortaya çıkan yayın, saat başı her saat örnek alınır.
+Steem kısa dönem fiyat dalgalanmalarını üç buçuk günlük bir sürenin medyan fiyatını kullanarak hesap dışında tutar. Yayınlanmış fiyat yayını her saat için saat başlarında numulendirilir.
 
-Fiyat arzı yolsuzluğunun, hareketli medyan zaman aralığının yarısından daha az sürdüğü sürece, dönüşüm fiyatını en düşük düzeyde etkileyecektir. Yemin bozulması durumunda, ağ katılımcıları bozuk yemlerin gerçek dönüşüm fiyatını etkilemesinden önce bozuk yem üreticilerine oy kullanma imkânı bulacaklardır. Belki de daha da önemlisi, yem üreticileri, feed'leri fiyatı etkilemeye başlamadan önce algılama ve düzeltme fırsatı verir.
+Fiyat yayını kirliliği değişen medyan zaman aralığının yarısından kısa sürdüğü müddetçe, onun dönüşüm fiyatları üzerindeki etkisi minimal düzeyde olacaktır. Yayının kirli olması durumunda ağ katılımcılarının, kirli yayın aktüel dönüşüm fiyatını etkilemeden önce, yozlaşmış yayın üreticileri aleyhinde oy kullanma imkanı olacaktır. Belki de daha önemlisi bu, yayın üreticilerine yayınları fiyatı etkilemeye başlamadan önce tespit ve düzeltme şansı sunmaktadır.
 
-Üç buçuk gün süren bir pencereyle, topluluk üyeleri ortaya çıkan sorunlara yanıt vermek için yaklaşık bir buçuk gün sürüyor.
+Topluluk üyeleri -üç buçuk günlük zaman aralığında- ortaya çıkan herhangi bir meseleye yanıt vermek için yaklaşık olarak bir buçuk güne sahiptir.
 
-### Zamanlama Saldırılarını Azaltma
+### Zamanlama Saldırılarını Sönümlendirmek
 
-Piyasa katılımcıları bilgiye blok zinciri'nin üç buçuk günde hareket eden medyan dönüşüm fiyatından daha hızlı erişebilirler. Bu bilgi, topluluğun pahasına tüccarların yararına kullanılabilir. STEEM'in değerinde ani bir artış olması durumunda, tüccarlar SBD'sini eski, daha düşük fiyata dönüştürme talebinde bulunabilir ve daha sonra STEEM'i satabilir; en düşük riski ile yeni bir yüksek fiyat alırlar.
+Piyasa katılımcılarının bilgiye blockchainin üç buçuk günlük hareketli medyan dönüşüm fiyatının yansıtabileceğinden daha hızlı ulaşımı vardır. Bu bilgi al-satçıların yararı namına topluluğun aleyhinde kullanılabilir. Eğer Steem'in değerinde ani bir yükseliş varsa, al-satçılar SBD'lerini eski, düşük dönüşüm fiyatı üzerinden çevirme talebi gönderip daha sonrasında edindikleri STEEM'lerini en ufak riskle yeni yüksek fiyat üzerinden satabilirler.
 
-Steem, tüm dönüşüm taleplerinin üç buçuk gün boyunca ertelenmesini gerektirerek oyun alanını düzleştirir. Bu, ne tüccarların ne de blokaj zincirinin, dönüşüm gerçekleştirildiğinde fiyat konusunda herhangi bir avantajı bulunmadığı anlamına gelir.
+Steem, dönüşüm taleplerinin üç buçuk gün bekletilmesini şart koşmak yoluyla, oyun alanını kademelendirir. Bu demektir ki, ne al-satçılar ne de blockchain dönüşümün gerçekleştiği fiyat hakkında bir bilgi avantajına sahiptir.
 
-### Dönüşümlerin Kötüye Kullanılmasının Azaltılması
+### Dönüşüm İstismarlarını En Aza İndirmek
 
-İnsanlar serbestçe her iki yönde de dönüşebilecek olsaydı, tüccarlar fiyat değiştirmeden büyük miktarlarda işlem yaparak blok zincir dönüşüm oranlarından yararlanabilirlerdi. Büyük bir fiyat artışına sahip olan tüccarlar yüksek fiyata (en riskli olduğu zaman) SBD'ye dönüşecek ve düzeltildikten sonra geri dönüş yapacaklardır. Buhar protokolü, toplumu bu tür istismardan yalnızca bir insanın SGD'den BUHAR'a dönüştürmesine izin veriyor ve tersi değil de koruyor.
+Eğer insanlar iki yönde de rahatlıkla dönüştürme yapabilselerdi, o zaman al-satçılar, blockchainin dönüşüm oranlarından, fiyatı değiştirmeden büyük hacimlerde ticaret yaparak avantaj elde edebilirlerdi. Fiyatta bir fırlama gören al-satçılar en yüksek fiyattan (en riskli olduğu zamanda) SBD'ye dönüşüm yapabilirler ve gelen düzeltmeden sonra tekrar (STEEM'e) dönüştürebilirler. Steem protokolü sadece SBD'den STEEM'e tek yönlü olarak dönüşüm yapmaya olanak tanıyarak topluluğu bu tarz istismarlardan korur.
 
-Blockchain, SBD nasıl ve ne zaman oluşturulması gerektiğini ve kimin alması gerektiğine karar verir. Bu, SBD oluşturma oranını sabit tutar ve kötüye kullanma yollarının çoğunu ortadan kaldırır.
+Nasıl ve ne zaman SBD üretileceğine ve kimlerin bunu edineceğine blockchain karar verir. Bu, SBD üretim oranını sabit tutar ve istismar yollarını ortadan kaldırır.
 
-### Sürdürülebilir Borç Sahiplik Oranları
+### Sürdürülebilir Borç-Özkaynak Oranları
 
-Bir token, tokenların tamamında mülkiyet olarak görülüyorsa, bir gösterge dönüştürülebilir-dolar borcu olarak görülebilir. Sahiplik oranı borcu çok yüksek olursa, tüm para birimi kararsız hale gelebilir. Borç dönüşümleri, toptancı arzını çarpıcı biçimde artırabilir; bu da arzı fiyat baskısı ile piyasada satılır. Sonraki dönüşümler, daha fazla belirteç verilmesini gerektirir. Sistemin kontrolsüz bırakılması, bir dağ dağını destekleyerek değersiz mülkiyet bırakarak çökebilir. Sahiplik oranının yüksek olması, yeni yatırımcıların sermayeyi masaya getirme isteğidir.
+Tüm token arzında, tokenın kendisi bir özkaynak olarak değerlendirilir ise, bu durumda tokena-dönüştürülebilir-dolar, bir borçlanma olarak görülebilir. Eger özkaynağın mülkiyete oranı cok yükseklere çıkarsa tüm para birimi istikrarsız hale gelebilir. Borç dönüşümleri token arzını çarpıcı bir biçimde artırabilir ki bu da, sonucunda, piyasada satılmasiyla fiyatı baskılar. Ardışık dönüşümler çok daha fazla sayıda token basılmasını gerektirir. Kontrol edilmediği durumlarda sistem, ardında bir borç yığınına dayanan değersiz özkaynak bırakarak çökebilir. Borcun özkaynağa olan oranı arttıkça yeni yatırımcılar masaya sermaye getirme konusunda daha az istekli olur.
 
-STEEM'in değerinde hızlı bir değişim, borç-sahiplik oranını önemli ölçüde değiştirebilir. Blok zinciri, borç seviyesi% 10'u aşarsa SBD dönüşümleri yoluyla verilen STEEM miktarını azaltarak, borcun sahiplik oranının çok yüksek olmasını engeller. SBD borcu miktarı, toplam STEEM piyasa kapağının% 10'unu aşarsa, blok zinciri otomatik olarak dönüşümler yoluyla üretilen STEEM miktarını piyasa değerinin maksimum% 10'una düşürecektir. Bu, blok zincirinin asla borcun sahiplik oranının% 10'undan fazla olmayacağını garanti eder.
+STEEM'in değerindeki ani bir değişim borç-özkaynak oranını çarpıcı şekilde değiştirebilir. Blockchain, borçlanma oranının %10'u geçmesi halinde, SBD dönüşümleri sayesinde elde edilen STEEM'in meblağını düşürerek borç-özkaynak oranının çok yükselmesinin önüne geçer. Eger SBD borçlanma miktarı STEEM'in piyasa değerinin %10'unu gecerse, blockchain dönüşümler yoluyla elde edilen STEEM meblağını otomatik olarak STEEM'in piyasa değerinin maksimum %10'una düşürür. Bu da blockchainin asla %10'dan fazla borç-özkaynak oranına sahip olmamasını garantiler.
 
-STEEM yaratımını hesaplamak için kullanılan yüzde katlar, bekleyen tüm SBD ve SP'nin STEEM değerini (geçerli oran / feed ile belirlendiği gibi) arz temelindedir.
+STEEM'i işlemek için kullanılan bu yüzde tabanları, tahsil edilmemiş SBD ve SP (şu anki kur / yayin tarafından belirlenir) de dahil olmak üzere, arza dayanmaktadır.
 
 ### Faiz
 
-SBD sahipleri ilgilendirmektedir. Faiz oranı, değişen piyasa koşullarına uyum sağlamak için fiyat arzını yayınlayan aynı kişiler tarafından belirlenir. Borçların tamamı borç alanına risk taşır. SBD'yi itfa olmadan elinde tutan biri, topluma bir doların değerini etkili biçimde ödünç vermekte. Gelecekte bir noktada birilerinin SBD'yi bir dolar karşılığında satın almaya istekli olacağına ya da spekülatörlerin ve yatırımcıların STEEM'i satın almaya istekli olacağına güveniyorlar.
+SBD onu elinde bulunduranlara faiz öder. Faiz oranı, fiyat yayınını yayınlayan aynı kişiler tarafından belirlenir ki bu sayede değişen piyasa koşullarına adapte olabilsin. Her borçlanma borç veren açısından risk taşır. Geri ödeme yapmaksızın elinde SBD bulunduran kişi, efektif bir şekilde topluluğa dolar değeri ödünç vermektedir. Onlar, gelecekte bir noktada birilerinin dolar karşılığı onlardan SBD almak isteyeceğine ya da onların SBD'lerini dönüştürmüş oldukları STEEM'i alacak bazı spekülatör veya yatırımcıların olacağına inanırlar.
 
-STEEM ve SP sahipleri, topluluk üyeleri SBD'yi hazır bulundurmaya hazır olduklarında kaldıraç elde ederler. Bu kaldıraç, büyümeye katkıda bulunurken, büyümeyle elde edilen kazançları da yükseltir. Fiyat düşerse STEEM sahipleri artan seyreltmeden muzdarip. Cryptocurrency projeleri, kullanıcı tabanını artırmanın kazançlarının, sermaye ile ağa güvenmeye istekli olduğunu, nihai olarak bir düşüş sırasında ortaya çıkabilecek herhangi bir seyreltmeden daha ağa değer kattığını göstermiştir.
+STEEM ve SP sahipleri, topluluk üyeleri ellerinde SBD tutmaya istekli olduğu müddetçe kaldıraç kazanırlar. Bu kaldıraç büyümeye katkıda bulunurken büyüme kaynaklı kazançları da artırır. STEEM sahipleri fiyatın düşmesi durumunda özsermayenin azalmasından müzdarip olur. Kripto para birimi projeleri göstermiştir ki, sermayeleriyle ağa inanmaya istekli kullanıcı tabanını artırmanın getirdiği gelir, ağa nihayetinde, gerileme döneminde oluşacak bir özsermaye kaybından daha fazla değer katmaktadır.
 
-### Ayar fiyat beslemeleri
+### Fiyat Yayınını Ayarlama
 
-Astut okuyucular, sınırlı kaynağı olan faiz getiren bir varlığın, aynı varlık üzerinde faiz kazanmak için diğer fırsatlara bağlı olarak alttaki varlıktan daha yüksek veya daha düşük ticaret yapabileceğini kabul edecektir. ABD dolarına sabitlenen bir varlık üzerinde yüksek bir faiz oranı ödenmesiyle, birçok kişi Steem Dolarının sınırlı arzını 1 dolarla değerlenene kadar teklifte bulunacaklar. Ekonomide, İmkansız Üçleme olarak bilinen ve aynı zamanda üçünün de aynı anda olmasının imkansız olduğunu belirten bir ilke vardır [^4]:
+Dikkatli okuyucular fark edecektir ki, kısıtlı arzda faiz gelirli aktifler -diğer aynı varlıktan faiz kazanma fırsatlarına bağlı olarak- dayanak varlıktan daha düşük ya da yüksek ticaret yapabilir. Amerikan Dolarına sabitlenmiş bir varlık üzerindeki yüksek faiz ile, birçok insan artık onun değeri $1 olmayana kadar kısıtlı arzdakı Steem Dolarına rağbet edecektir. Ekonomide imkansız üçlem[^4] olarak bilinen; aşağıdaki üç maddeye aynı anda sahip olunamayacağını anlatan bir ilke vardir:
 
-1. İstikrarlı bir döviz kuru
-2. Serbest sermaye dolaşımı
+1. Sabit bir döviz kuru
+2. Özgür sermaye akışı
 3. Bağımsız bir para politikası
 
-Steem üreticileri, Steem Dolarını yaratma ve yok etme imkânı veren bağımsız bir para politikasına sahip olmayı ve faiz oranını tam kontrol edebilmeyi hedefledikleri takdirde sorunlarla karşılaşacaklardır. İmkansız Üçlü, Steem Dolar'ın sermaye hareketini kısıtlamaya, dolar ile istikrarsız bir döviz kuruna veya faiz oranını kontrol etmeye ihtiyacı olduğunu söylüyor.
+Eğer Steem yayın üreticileri, faiz oranları üzerinde tümüyle kontrol sahibiyken aynı zamanda onlara Steem Doları yaratma ya da yok etme imkanı tanıyacak bağımsız bir para politikasına sahip olma hedefi koyarlarsa problemlerle karşılaşırlar. İmkansiz üçlem der ki, Steem Dolari ya sermaye akışını sınırlandırmalı ve Amerikan Doları ile dalgalı kura sahip olmalı ya da faiz oranları üzerinde kısıtlı kontrole sahip olmalı.
 
-Steem üreticilerinin başlıca kaygıları, SBD ile ABD Doları (USD) arasında istikrarlı bire bir dönüşüm sağlamaktır. SBD sürekli olarak 1,00 ABD Dolarının üzerinde işlem görürse faiz ödemelerinin durdurulması gerekir. Borcun% 0 faizinin hâlâ bir prim talep ettiği bir pazarda, piyasanın topluluğun üstlenmek istediğinden daha fazla kredi vermeye istekli olduğunu söylemek güvenlidir. Bu gerçekleşirse, SBD'nin 1.00 dolardan fazla değerlendireceği ve topluluğun olumsuz faiz oranlarını ödemeden yapabileceği az şey var.
+Steem yayın üreticilerinin öncelikli kaygısı SBD ile Amerikan Doları (USD) arasında bire-bir dönüşümü sürdürmektir. SBD'nin $1.00 USD'den fazlaya alınıp satıldığı her durumda faiz ödemeleri durdurulmalıdır. Borçlanma üzerindeki %0 faize rağmen hala kar payına rağbet olan bir piyasada, piyasanın topluluğun borçlanmak istediğinden dafa fazla kredi sağlama eğiliminde olduğunu söylemek yanlış olmaz. Eğer bu gerçekleşirse SBD $1.00'dan daha fazla olarak değer bulur ve topluluğun da eksi oranlarda faiz işletmekten daha fazla yapabileceği bir şey yoktur.
 
-Borç / mülkiyet oranı düşükse ve SBD 1.00 $ 'dan düşük bir miktarda işlem yapıyorsa, faiz oranı artırılmalıdır. Bu daha fazla insanı SBD'yi tutup fiyatını desteklemeye teşvik edecektir.
+Eğer borçlanmanın özkaynağa oranı düşükse ve SBD $1.00'dan aşağıya alınıp satılıyorsa, o zaman faiz oranları artırılmalıdır. Bu daha fazla insanı elinde SBD tutma konusunda cesaretlendirir ve fiyatı destekler.
 
-SBD'nin 1,00 USD'den daha düşük bir miktarda işlem görmesi ve sahiplik oranı yüksekse, feed'lerin yukarı doğru ayarlanması SBD başına daha fazla STEEM verecektir. Bu, SBD'ye olan talebi artıracak ve aynı zamanda borcu sahiplik oranını azaltacak ve SBD'yi USD ile eşdeğer hale getirecektir.
+Eğer SBD $1.00'dan daha aza alınıp satılırsa ve borç-özkaynak oranı yüksekse, o zaman fiyat yayınları yukarı doğru ayarlanmalı ve SBD başına daha fazla STEEM verilmelidir. Bu, borcun özkaynağa oranını düşürüp SBD'yi USD denkliğine geri çekerken, SBD'ye olan talebi de artırır.
 
-STEEM'in değeri, Steem'in yeni SBD'si yaratmaktan daha hızlı bir şekilde arttığını varsayarsak, borç sahipliği oranı hedef oranının altında kalacak ve sunulan faiz herkese fayda sağlıyor. Şebekenin değeri düz veya düşme durumunda, sunulan herhangi bir faiz sadece borç-mülkiyet oranını daha da kötüleştirecektir.
+STEEM'in değerinin, Steem'in yeni SBD üretiminden daha hızlı arttığını varsayarsak; borc-özkaynak oranı hedeflenen değerden aşağı olmalıdır ve sunulan faizden herkes yararlanmalıdır. Eger ağın değeri sabit seyirdeyse ya da düşüş halindeyse, bu durumda sunulan herhangi bir faiz borç-özkaynak oranını kötüleştirmekten başka bir şey yapmaz.
 
-Aslında, yem üreticileri, USD'ye istikrarlı bir seyir izlemesi amacıyla para politikası belirleme sorumluluğunu üstlenirler. Bu gücün kötüye kullanımı, STEEM'in değerine zarar verebilir; böylece SP sahipleri, yukarıda belirtilen kurallara göre fiyat arzını ve faiz oranlarını ayarlamak için kullanılabilecek witnesslara oy vermekle akıllıca davranmış olacaktır.
+Fiiliyatta, USD ile denklik yaratacak şekilde bir para politikasının benimsenmesi fiyat yayını üreticilerine emanet edilmiştir. Bu gücün istismarı STEEM'in değerini düşürür. SP sahipleri fiyat yayınını ayarlamak ve faiz oranlarını yukarıda özetlenmiş kurallara göre ayarlamak için güvenilir Wittness'ları oylayacak bilgeliktedir.
 
-Borç / mülkiyet oranı tehlikeli bir şekilde yükselir ve piyasa katılımcıları dönüşüm taleplerini önlemeyi seçerse, feed, STEEM'in SBD'yi dönüştürmek için ne kadar para ödediğini artırmak için ayarlanmalıdır.
+Eğer borçlanma-Özkaynak oranı tehlikeli seviyede yukarı çıkarsa ve piyasa katılımcıları dönüşüm talepleri yapmaktan kaçınırlarsa, bu durumda yayın SBD'ye dönüşüm için ödenen STEEM oranlarında artış sağlayacak şekilde ayarlanmalıdır.
 
-Kısa vadeli piyasa koşullarına tepki vermeye çalışmak yerine, faiz politikası ve / veya STEEM / SBD dönüşüm oranındaki indirimler için yapılan değişiklikler uzun vadeli ortalama sapmalara karşı yavaş ve ölçülü bir cevap olmalıdır.
+STEEM/SBD dönüşümlerindeki faiz oranı politikalarındaki ve/veya herhangi bir kar payı/iskontodaki değişiklikler, kısa vadeli piyasa şartlarına cevap vermek için değil; yavaşça ve uzun vadeli ortalama sapmalara verilen hesaplı bir yanıt olarak yapılmalıdır.
 
-Bu kuralların piyasa katılımcılarına 1.00 dolarlık bir fiyatla satın alarak SBD'yi kaybetmeleri olasılığının düşük olduğuna dair güven verecekleri inancındayız. SBD için normal piyasa koşullarında 0.95 $ ve 1.05 $ arasında dar bir ticaret aralığı bekliyoruz.
+İnancımız odur ki bu kuralar piyasa katılımcılarına $1.00'dan aldıkları SBD'yi ellerinde tutmaları halinde para kaybetmeyecekleri hususunda güven temin edecektir. Biz normal piyasa koşulları altında SBD için $0.95 ve $1.05 arasında bir alım satım aralığı olmasını bekliyoruz.
 
-## Öznel Katkı
+## Öznel Katkılar
 
-Subjektif İşyeri Kanıtı, madencilik gibi tamamen * objektif * İş güvencesi sistemini geliştiren bir para biriminin dağıtımına alternatif bir yaklaşım sunar. * Sübjektif * iş kanıtını uygulayan bir para birimi uygulaması, iş sisteminin herhangi bir * hedefi * kanıtından çok daha geniştir; çünkü yeterince bir konsepte sahip herhangi bir kavram etrafında bir topluluk oluşturmak üzere uygulanabilir tanımlanmış amaç. Bireyler bir topluluğa katıldığında belirli bir inanç grubuna girerler ve topluluk değerlerini veya amaçlarını güçlendirmek için oy kullanabilirler.
+Öznel Proof of Work, mining gibi tümüyle *objektif* Proof of Work sistemlerinden daha iyisini yaparak, para birimi dağıtma meselesine alternatif bir yaklaşım sunmaktadır. *öznel* proof of work'ü hayata geçiren para birimlerinin uygulanması herhangi bir *objektif* proof of work sisteminden çok daha yaygındır çünkü onlar amacını net bir şekilde tanımlamış herhangi bir kavram etrafında topluluk yaratmak için uygulanabilirdir. Bireyler bir topluluğa katıldıklarıda belirli fikirlere rağbet ederler ve topluluk değerlerini veya amaçlarını güçlendirmek için oylama yapabilirler.
 
-Gerçekte, çalışmanın değerlendirildiği ölçütler tamamen özneldir ve tanımı kaynak kodun dışında yaşar. Bir topluluk sanatçıları, bir başka şairi ve diğer komedyenleri ödüllendirmek isteyebilir. Diğer topluluklar, hayırsever nedenleri ödüllendirmeyi veya siyasi gündemlerin geliştirilmesine yardımcı olabilir.
+Fiiliyatta, work'ün değerlendirildigi kriterler tümüyle özneldir ve onun tanımı kaynak kodunun dışında bulunur. Bir topluluk sanatçıları ödüllendirmeyi ister, bir diğeri şairleri ve ötekisi ise komedyenleri. Diğer topluluklar hayırseverliği ödüllendirir ya da politik hedeflere yardım eder.
 
-Her bir dövizin elde ettiği değer, belirli bir topluluk içindeki nüfuz talebine ve piyasanın her bir topluluğa ne kadar inandığına inanmasına bağlıdır. Önceki sistemlerin aksine, subjektif çalışma belgesi, bir topluluğun değerli bulduğu her şeyin gelişmesini topluca finanse etmesini ve önceden para kazanılmayan zamanın para kazanılmasını sağlar.
+Her bir para biriminin edindiği değer, spesifik bir topluluk içerisindeki etkiye duyulan talebe ve her topluluğun ne kadar piyasa güveni kazanabileceğine bağlıdır. Önceki sistemlerden farklı olarak, öznel proof of work bir topluluğa her neyi değerli buluyorsa onu fonlayabilme imkanı tanır ve daha öncesinde parasallaştırılması mümkün olmayan zamanın parasallaştırılmasına izin verir.
 
-### Dağıtım Para Birimi
+### Para Biriminin Dağıtımı
 
-İnsanların kripto para birimi topluluğuyla etkileşime girmesinin iki yolu vardır: * satın alabilirsiniz * ya da * çalışabilirler*. Her iki durumda da kullanıcılar için para birimi değeri eklemiş olursunuz, ancak, insanların büyük çoğunluğu *yedek nakit* onlardan daha daha fazla *boş zaman* sahip. Zavallı bir topluluk içerisinde hiçbir gerçek *para* ama bol *zaman* bir para birimi önyükleme amacı düşünün. İnsanlar birbirleriyle çalışarak para kazanabiliyorsa, adil bir muhasebe / para birimi sistemi ile kolaylaştırılan karşılıklı değişim yoluyla değerleri ön plana çıkaracaklardır.
+Insanların kripto para birimi topluluğuna dahil olabileceği iki yol vardır: *satın alabilirler* ya da *üretiminde çalısabilirler*. Her iki durumda da, kullanıcılar para biriminin değerine katkıda bulunurlar, ne var ki, insanlarin büyük coğunlugunun *harcayacak nakitten* cok *harcayacak vakti* vardır. Hiç gerçek *nakdi* olmayan fakat bolca *zamanı* olan bir toplulukta bir para birimini yükseltmeye çalıstığınızı hayal edin. Eğer insanlar birbirleri için çalışarak para kazabilirlerse o zaman değeri, adil bir para birimi/ maliye sistemini kullanarak, karşılıklı takas yoluyla yükseltirler.
 
-Bir paranın genel olarak adil sayıldığı şekilde mümkün olduğunca çok kişiye dağıtılması zor bir görevdir. Tamamen objektif bir bilgisayar algoritması tarafından değerlendirilebilen görevlerin nitelikleri sınırlıdır ve genel olarak konuşmanın sınırlı dış yardımları vardır. Bitcoin tarzı madencilik durumunda, özel donanımın üretilmesine ve insanların daha verimli algoritmalar geliştirecek zamana neden olmasına neden olabilir. Hatta asal sayılar bulmaya yardımcı olabilir, ancak bunların hiçbiri topluma ya da toplumun genelinde toplulukta anlamlı bir değere sahip değildir. Daha da önemlisi, ölçek ekonomileri ve piyasa güçleri, uzmanları değil, bu tür dağıtımlara katılmayı engelleyerek sona erecek. Sonuçta, elektrik faturası veya işi yapmak gerekli donanım geliştirme ödemek için para gerektirdiğinden hesaplama dayalı madenciliği satın alma ** sadece başka bir yol olduğunu.
+Bir para birimini çoğunlukla adilane olduğu düşünülecek şekilde, alabildiğine fazla sayıda insana dağıtmak zorlu bir iştir. Tümüyle objektif bilgisayar algoritmaları tarafından değerlendirilecek görevler doğaları itibariyle sınırlıdır ve genel anlamda sınırlı dışsal yararları vardır. Bitcoin-tarzı miningde bu, özelleştirilmiş donanımların üretilmesine sebep olabilir ve insanların daha gelişmiş algoritmalar üretmek için vakit harcamasına sebebiyet verebilir. Hatta bu asal sayıları bulmaya bile yardımcı olabilir fakat bunların hiçbirisi büyük planda topluma ya da para birimi bulunduran topluluğa anlamlı değerler katmaz. Daha da önemlisi, ölçek ekonomileri ve piyasa koşulları experler haricinde herkesin bu tarz bir paylaşımdan dışlanması sonucunu bile getirebilir. Nihayetinde bilgi-işlem temelli mining *satın almanın* sadece başka bir yoludur. Çünkü o, elektrik faturası için ya da işi yapabilecek yetkinlikte donanımın geliştirilebilmesi için para ödenmesini gerektirir.
 
-Herkese, katılmak ve para kazanmak için eşit fırsatlar sunmak için insanlara bir çalışma fırsatı verilmelidir. Karşılaşılan zorluk, bireylerin sağladığı göreceli kaliteyi ve miktarı değerlendirmek ve bunu, milyonlarca kullanıcıya verimli bir şekilde ayıran bir şekilde nasıl yapacaklarını nasıl değerlendireceğinizdir. Bu, ölçeklenebilir bir oylama sürecinin başlatılmasını gerektirir. Özellikle fon ayırma yetkisinin mümkün olduğunca dağıtılmış ve merkezden uzaklaştırılmış olmasını gerektirir.
+Herkese dahil olabilme eşitliği ve para birimi kazanabilme eşitliği tanıyabilmek adına insanlara çalışma eşitliği sağlanmalıdır. Zor olan, bireylerin ürettiği işin göreli niceliğinin ve niteliğinin nasıl değerlendirileceğidir. Ve bu öyle bir yolla yapılmalıdır ki milyonlarca üyeye ödüller efektif bir şekilde dağıtılsın. Bu da ölçeklenebilir oylama sürecinin piyasaya sunulmasını gerektirir. Bilhassa bu, fonları dağıtacak olan otoritenin olabildiği kadar dağıtık yapılı ve merkezsiz olmasını gerektirir.
 
-Milyonlarca kullanıcıyı ödüllendirmenin ilk adımı, ne kadar işin yapıldığı veya kullanıcıların oy verme durumuna bakılmaksızın sabit bir miktar para dağıtmaya karar vermektir. Bu soru *"Kime edelim?"* için *"biz ödemek gerekir?"* ve sinyalleri için kim "çoğu *iş* tekliflerini" para dağıtılır ve ihalesi Pazar olmaktan değiştirir. Bu, Bitcoin'in en zor karmaları bulan kişiye 50 BTC ödüllendirmeyi taahhüt ettiği gibi. Bitcoin gibi, tüm işler ödemeden önce yapılmalıdır ve gelecekte iş yapmak için hiçbir şey spekülatif olarak ödenmemelidir.
+Milyonlarca insanı ödüllendirmenin ilk adımı ne kadar işin yapıldığından ya da kullanıcıların nasıl oyladığından bağımsız olarak belirli sayıda para birimini insanlara dağıtmaya kalkışmaktır. Bu ise soruyu, *"Para ödememiz gerekiyor mu?"* dan *"kime ödememiz gerekiyor?"*a çevirir; ve piyasaya paranın dağıtım aşamasında olduğunun ve kim daha fazla *iş* teklif ediyorsa ona müzayede edildiğinin sinyalini verir. Bitcoin'in kim en zor hashleri bulursa ona 50 BTC vermeyi vaat ediyor olması buna benzerdir. Tıpkı Bitcoin gibi, tüm iş ödeme öncesinde yapılmış olmalıdır ve hiçbir şey spekülatif bir şekilde gelecekte yapılacağı sözü verilen bir iş üzerinden ödenmemelidir.
 
-*Bir şey* ile uzaktan bile olumlu bir şey bilen herkes ödül sonraki adımdır. Bu, yapılan tüm çalışmaları sıralayıp değerine orantılı olarak dağıtarak gerçekleştirilir. Pazar ne kadar rekabetçi olursa, aynı ödemeyi kazanmak o kadar zor olur (yüksek kalite veya miktar).
+Bir sonraki adım *herhangi bir şey*den çok az bir miktar bile olsa daha olumlu bir edimde bulunan herkesin ödüllendirilmesidir. Bu yapılmış tüm işleri sıralayarak ve değerlerine oranla ödül dağıtarak başarılmıştır. Piyasa ne kadar rekabetçi hale gelirse (yüksek kalite ya da yüksek miktar) ödeme kazanmak bir o kadar zor hale gelir.
 
-### Para Birimi Dağılımı Üzerine Oy Verme
+### Para Biriminin Dağılımı Üzerine Oylama
 
-Dağıtılacak belli miktarda bir paranın olduğunu ve paranın gelecekteki değeri ve yararına uzun vadeli menfaate sahip olanların, nasıl tahsis edileceğine karar vermesi gerekenler olduğunu varsayalım. Her hakkı olan kullanıcı en iyi çalışmayı kimin yaptığına oy verir ve günün sonunda elde ettiği paralar oylarla orantılı olarak bölünür ve böylelikle birer net olumlu oy kullanan herkes bir şeyler alır.
+Dağıtılacak belli miktarda bir paranın olduğunu ve paranın gelecekteki değeri ve yararı konusunda uzun vadeli menfaatlere sahip olanların, onun nasıl tahsis edileceğine karar vermesi gerektiğini varsayalım. Her vadeli yatırım sahibi kullanıcı, en iyi çalışmayı kimin yaptığına oy verir ve günün sonunda o gün elde edilen paralar oylarla orantılı olarak paylaşılır ve böylelikle birer tane bile olsa artı oy kazanmış olan herkes bir şeyler alır.
 
-Saf oylama işlemi sayede her bireysel seçmen kendileri için daha büyük topluluk hedef pahasına oy için teşvik vardır N-kişi tutsak ikilemi oluşturur[^5]. Her seçmen kendiliğinden oylar atarak kusurlarsa, hiçbir para birimi dağıtılamaz ve para birimi ağ etkisini kazanamaz. Öte yandan, eğer bir seçmen kusurluyorsa, o seçmen para birimi genelinde az bir etkiye sahipken haksız kazanç kazanacaktır.
+Saf oylama süreci, büyük topluluk hedeflerinden vazgeçmek pahasına, her üyeye kendisine oy vermeyi teşvik eden N-Person Prisoner’s Dilemma'yı[^5] oluşturur. Eğer oy hakki olan herkes kendisi için oy kullanırsa bu durumda para birimi dağıtılmış olmayacak ve bir bütün olarak ağ etkisi yaratmak konusunda başarısız olacaktır. Diğer yandan, eğer oylayanlardan sadece bir tanesi kusurlu davranırsa, o kişi para biriminin genel değeri üzerinde minimum miktarda etkiye sahip olurken kendisine haksız kazanç da sağlamış olur.
 
-#### Oylama İstismarı
+#### Oy Suistimali
 
-Herhangi bir kişinin ne kadar para harcadığına bakılmaksızın, benzer zenginlikle birçok kişi bulunur. En zengin olan kişi dahi, birleşmiş en iyi çiftin nadiren çok daha fazlasına sahip olur. Dahası, bir topluluğa büyük bir yatırım yapanların oy sistemini kendi başlarına oynamaya teşebbüs ederek en fazla payı kendileri kaybederler. Bu maaş ödemelerini durdurmaya karar veren bir şirketin CEO'suydu, böylece tüm kazançlarını cebine aktarabilirdi. Herkes diğer şirketler için çalışmak üzere ayrılması ile, şirketin değersizleşeceği ve CEO'yu zengin olmaktan çok iflas edeceği söylenebilir.
+Bir bireyin ne kadar parası olduğundan bağımsız olarak, benzer refah seviyesinde birçok başka birey vardır. Hatta en zengin bireyler bile, nadiren, onları takip eden zenginlerin birleşiminden çok daha fazlasına sahiptir. Ek olarak, toplulukta fazla yatırımı olanlar, oylama sisteminde kendi çıkarlarına yönelik oynamaya çalışmaları durumunda en fazla kaybebedecek olanlardır. Bu, bir şirketin CEO'sunun tüm karı cebe atabilmek adına maaşları ödemeyi kesmeye karar vermesi gibidir. Bu durumda, şirkette çalışan herkes ayrılıp başka bir şirketler için çalışırdı ve şirket değersiz hale gelirken CEO'sunu da zengin değil iflas etmiş halde bırakırdı.
 
-Neyse ki, büyük bir konsantrasyona sahip olan herhangi bir çalışma da en çok incelemeyi (tanıtım) kazanmaktadır. *Negatif oy* ilavesi ile oy gücü kendi gruplarının etkisiz hale getirmek birçok daha küçük hissedarlara veya büyük paydaşların iltica için mümkündür. Dahası, büyük paydaşlar, para birimi oy birliğiyle kendileri için oy kullandıklarından daha değerli olursa kaybedecek daha çok şeyin var. Aslında, dürüst büyük paydaşların, daha küçük katkılar için oy kullanacağından daha kötüye kullanma ve olumsuz oy kullanmaları ile daha etkili olacağı muhtemeldir.
+Neyse ki, büyük yoğunlukta oy alan herhangi bir çalışma aynı zamanda en çok denetimi de kazanıyor (aleniyet). *Aleyhte oylama*nın da eklenmesiyle, birçok küçük hisse sahibi için gizli ittifak halinde bulunan grupların ya da kusurlu davranan büyük hisse sahiplerinin oylama gücünü etkisiz kılmak mümkün hale gelmiştir. Buna ilaveten, büyük hissedarlar istismara bağlı olarak para biriminin değerinin düşmesi durumunda kendilerine oy atarak kazanacaklarından çok daha fazlasını kaybederler. Esasında, dürüst büyük hissedarların küçük katkılarda bulunmak için oylama yapmalarındansa; istismarı denetlemeleri ve gerektiğinde aleyhte oy kullanmaları muhtemelen daha efektiftir.
 
-Sistemi kötüye insanları tutmak için *negatif oy* kullanımı bir tek tek herkes pahasına kazanç algılandığı zaman bu birçok kişi *zihniyet Yengeç* güçlendirir. Yengeç zihniyet normalde, insanları iyi durumda tutan kısa görüşlü insanlar anlamına gelirken, aynı zamanda iyi insanların kötü insanları tutmasına izin veren şey de budur. Yengeç zihniyet ile tek "sorun" olduğunda insanlar *yanlış inanıyorum* biri başkalarının pahasına kazanç.
+Insanları sistemi istirmar etmekten alıkoymak için kullanılan *Aleyhte oylama*, bir bireyin diğer herkesin çıkarı pahasına kar ettiği fark edildiği zaman birçok insanın geliştirdiği *yengeç zihniyeti*ni kaldıraç olarak kullanır. Yengeç zihniyeti normalde iyi insanları aşağı çekmeye çalışan dar görüşlü insanları tanımlamak için kullanılıyor olsa da bu aynı zamanda iyi insanların kötüleri zaptetmesine de izin veren şeydir. Yengeç zihniyetiyle ilgili tek sorun, insanların, birinin diğer herkesin çıkarı pahasına kar ediyor olduğuna *yanlış bir şekilde inanmaları* durumundadır.
 
-**Yengeç Kovasının Hikayesi** [^6]
+**Yengeç Kovasının Hikayesi**[^6]
 
-Bir adam sahil boyunca yürüyordu ve yanındaki bir yem kovalı sörfte başka bir adamın balık tuttuğunu gördü. Daha yaklaşırken, yem kovasının kapağı olmadığını ve içindeki canlı yengeçleri olduğunu gördü.
+Bir adam sahil boyunca yürüyordu ve yanında duran bir yem kovasıyla birlikte kıyıya vuran dalgalarda balık tutmakta olan bir adam gördü. Yakınlaştıkça yem kovasının kapağının olmadığını ve kovanın içinde canlı yengeçlerin olduğunu gördü.
 
-"Neden yengeçler kaçmayacak şekilde yem kovasını kapatmıyorsun?" dedi.
+"Neden yem kovasının üzerini örtmüyorsun bu sayede yengeçler kaçamaz?", dedi.
 
-"Anlamıyorsun" diye yanıtladı adam, "Kova içinde bir yengeç varsa mutlaka çok çabucak dışarı çıkacaktı. Bununla birlikte, kovada çok sayıda yengeç olduğunda, biri etrafı taramaya çalışırsa, diğerleri yandan tutarsa diğerleri onu tutup geri çekerek geri kalanıyla aynı kaderi paylaşır. "
+"Anlamıyorsun,", diye yanıtladı adam, "Eğer kovanın içinde tek bir yengeç olursa, o kesinlikle hızlıca dışarı kaçar. Ne var ki, kovanın içinde fazla sayıda yengeç varsa, birisi dışarı kaçmak için tırmanmaya yeltendiğinde bir diğeri hemen onu kavrayıp geri çeker ki bu sayede o da diğer hepsiyle aynı kaderi paylaşsın."
 
-Yani insanlarla birlikte. Farklı bir şey yapmaya, daha iyi dereceler elde etmeye, kendisini geliştirmeye, çevreden çıkmaya veya hayaller kurmaya çalışmaya kalkarsanız, diğer insanlar kaderlerini paylaşmak için geri çekmeye çalışacaktır.
+Bu insanlarda da böyledir. Eğer birisi farklı bir şey yapmaya çalışırsa, daha iyi notlar alırsa, kendisini geliştirirse, vasatlıktan kaçarsa ya da büyük düşler kurarsa diğer insanlar kendileriyle aynı kaderi paylaşsın diye hemen onu aşağı çekeceklerdir.
 
-"Kötüye kullanma" nın ortadan kaldırılması mümkün değildir ve bir amaç olmamalıdır. Sistemi "kötüye kullanmaya" çalışan kişiler bile hala iş yapıyor. Kötüye kullanım ya da gizli anlaşma için başarılı girişimlerinden ötürü aldıkları tazminat, para birimini, geleneksel Bitcoin madenciliği ya da madencilik havuzları yoluyla yapılan gizli yakma madenciliği tarafından kullanılan işlerlik sistemi olarak dağıtmak açısından en azından değerlidir. Gerekli olan tek şey, kötüye kullanımın yaygın olmamasını, topluluk ve para birimini desteklemek için gerçek bir iş yapmak için teşviki zayıflatmamasını sağlamaktır.
+"İstismarın" önüne geçmek mümkün değildir ve asla ana hedef olmamalıdır. Sistemi "istismar" etmeye çalışanlar bile hala bir iş yapıyorlardır. Başarılı istismar ya da hile girişimleri için alacakları herhangi bir mükafat bile, geleneksel bitcoin miningi ya da mining poollar tarafından yapılan ittifaklı miningde benimsenen, angarya olarak para dağıtmanın amacına uygundur. Gerekli olan tek şey ise, istismarın topluluk ve onun para birimi namına gerçek işler yapmaya yönelik teşviği bastıracak kadar yaygınlaşmamasını temin etmektir.
 
-Bir topluluk para birimi kurmanın amacı, "kovada yengeç almak" 'dan daha fazla. Tüm kötüye kullanımı ortadan kaldırmak için aşırı tedbirlere başvurmak, birkaç yengeçin kaçmasını önlemek için kovaya bir kapak koymaya çalışmak gibidir ve kepçeye yeni yengeçler gelmesini zorlaştırmak gibidir. Duvarları kaygan hale getirmek ve diğer yengeçlere başkalarının kaçmasını önlemek için yeterli gücü vermek yeterlidir.
+Topluluğa ait bir para birimi üretmenin hedefi "kovaya daha fazla yengeç" getirmektir. Tüm istismarın önüne geçmeye çalışmak için aşırı önlemler almaya varmak, tıpkı yengeçlerin kaçmasını engellemek için kovanın üstüne bir kapak koymak gibidir. Ve bu da kovaya yeni yengeçler koymayı zorlaştırmak pahasına olur. Kovanın kenarlarını kayganlaştırmak ve diğer yengeçlere yeteri kadar güç vermek diğerlerinin kaçmasını engellemeye yeter.
 
-### Oranı Sınırlı Oylama
+### Oran Sınırlı Oylama
 
-Kötüye kullanımı en aza indirmenin önemli bir kısmı oyların oran sınırlamalarıdır. Bireysel kullanıcılar günlük yalnızca pek çok iş parçasını okuyabilir ve değerlendirebilirler. Bundan daha sık oy kullanmak için yapılan herhangi bir girişim, otomasyon ve potansiyel istismarın bir işaretidir. Oran sınırlamayla, daha sık oy kullanan paydaşlar her oy için daha az oy alan paydaşlardan daha azını sayarlar. Birden fazla hesap arasında token'leri bölme girişimleri de etkiyi böler ve dolayısıyla etki üzerinde net bir artışa neden olmaz ve oylamaya uygulanan oran sınırını ortadan kaldırmaz.
+Suistimali asgariye indirmenin büyük bir kısmı oran-sınırlı oylamadır. Bireysel kullanıcılar günde sadece belirli bir miktar çalışmayı okuyabilir ve değerlendirebilirler. Bu miktardan daha fazla oylama yapmak otomasyonun ve potansiyel suistimalin bir işaretidir. Oran sınırlaması ile, çok fazla oylama yapan hissedarların oyları onlara nazaran daha az oylama yapan hissedarlarınkine göre daha değersiz sayılır. Tokenları çok sayıda hesaba bölüştürmeye çalışmak aynı zamanda etkiyi de böler ve bu sebeple bu ne oylamaya konmuş oran sınırını atlatmaya yarar ne de etki gücünde net bir artışla sonuçlanır.
 
-Kullanıcılara sabit bir oy hakkı tahsis edilmektedir. Ödül havuzunda ne kadar payın belirli bir iş kalemine tahsis edilmesi gerektiğini belirlemek için oylama gücü bir kullanıcının imtiyaz niteliği ile çarpılır. Aktarılan her oy, kalan oy gücü yüzdesini kullanır. Kullanıcılar daha fazla içerik için oy kullanabilir, ancak her oy daha az değerde olacak ve tekrar tam oy gücüne ulaşma süresi uzayacaktır. Oylama gücü, günde% 20'lik sabit bir doğrusal oranda yeniden artar.
+Kullanıcılara sabit bir oylama gücü tahsis edilmektedir. Bir iş parçasına ödül havuzundan ne kadar pay dağıtılacağını belirlemek için oylama gücü kullanıcının taahhüt altındaki tokenlarıyla çarpılır. Kullanılan her oy, oy gücü bakiyesinden belirli bir yüzde kullanır. Kullanıcılar fazla sayıda paylaşım için oy kullanabilirler, fakat her oy bir öncekinden daha değersiz olacak ve tam oylama gücüne tekrar erişmek için daha fazla zaman gerektirecektir. Oylama gücü sabit bir şekilde günde 20% olarak geri dolmaktadır.
 
-### Ödeme Dağıtımı
+### Ödeme Dağılımı
 
-Steem'in ödül sisteminin ana hedeflerinden biri, internet üzerinden en iyi tartışmaları üretmektir. Yıllık enflasyonun her yıl %75'i içeriği gönderen, oy veren ve tartışan kullanıcılara dağıtılır. Bitcoin'in büyüklüğünde bu, en çok katkıda bulunan kişilere günde birkaç milyon dolar verilebilir.
+Steem'in ödüllendirme sisteminin başlıca amaçlarından birisi internet üzerindeki en iyi tartışmaları üretmektir. Her yıl, yıllık enflasyonun %75'i içerik gönderen, içerikleri oylayan ve onları tartışan üyelere dağıtılır. Bitcoin'in büyüklüğünde, bu başlıca katkı yapanlara günde birkaç milyon dolar olarak verilebilir.
 
-Gerçek dağıtım, kullanıcıların oylama modellerine bağlı olacaktır, ancak ödüllerin büyük çoğunluğunun en popüler içeriğe dağıtıldığından şüpheleniyoruz.
+Nihai dağılım kullanıcıların oylama örüntülerine bağlıdır fakat, zannediyoruz ki, ödüllerin büyük çoğunlugu en popüler içerikler arasında dağıtılacaktır.
 
-Zipf Yasası [^7], gerçek dünyadaki şaşırtıcı bir fenomeni karakterize eden ampirik kurallardan biridir. Büyüklük ya da popülerlik bakımından büyük bir koleksiyon sipariş edersek, koleksiyonun ikinci öğesi birincinin ölçüsünün yaklaşık yarısı, üçüncü birincil ölçütün yaklaşık üçte biri olacak ve bu şekilde. Genel olarak, k. sıradaki öğe birincisinin yaklaşık 1/k'sini ölçer.
+Zipf Kanunu[^7] gerçek hayat görüngülerinin şaşırtıcı menzilini çok güzel bir şekilde açıklayan ampirik kurallardan birisidir. Buna göre, bir toplamı büyüklük ya da popülerliğe göre sıralarsak, sıralamadaki ikinci eleman birincinin yarısı büyüklükte olacaktır, üçüncü ise birincinin üçte biri oranında vb. Genel olarak k'ıncı sıradaki parça birincinin 1/k oranında bir büyüklükte olacaktır.
 
 ![](\img_the_new_marketplace.png)
 
-Popülerlik değerinin kaba bir ölçüsü olarak popülerlik kazandığında, her bir öğenin değeri Zipf Yasası tarafından verilir. Yani, bir milyon öğe sahibiysek, en popüler 100 toplam değerin üçte birine, bir sonraki 10.000 diğer üçüncü, sonraki 989.900 ise final üçüncüye katkıda bulunacaktır. N öğe toplama değeri log(n) ile orantılıdır.
+Popülerliği değerin kabataslak bir ölçüsü olarak alırsak, bu durumda her bir tekil bileşenin değeri Zipf Kanununca bellidir. Ki bu da, bir milyon bileşenimiz varsa, en popüler 100 toplam değerin üçte birini sunmaktadır. Sonraki 10,000 diğer üçte biri, ve kalan 989,900 de kalan üçte biri... N sayıda bileşen toplamının değeri log(n) ile orantılıdır.
 
-Bu oylama ve ödeme dağıtımının etkisi, küçük oyunculara uzun vadeli katkılarından ödün vermeden, iyi içeriklere büyük ikramiyeler sunmaktır.
+Bu oylama ve ödeme dağılımının etkisi iyi içeriklere büyük cömertlik sunarken küçük oyuncuları da dolaylı katkıları için hala ödüllendirmektedir.
 
-Bunun ekonomik etkisi, insanlar oy alma ihtimalini fazla tahmin ettiği ve dolayısıyla ödülünün beklenen değerinden daha fazla iş yürüttüğü ve böylece topluluk hizmetinde gerçekleştirilen toplam iş miktarını en yükseğe çıkaran bir piyangoya benzer. Herkesin "bir şeyler kazanması" durumu, casinoların kumar oynatmak için kullandıkları psikoloji ile aynıdır. Başka bir deyişle, küçük ödüller, daha büyük ödüller kazanmanın mümkün olduğunu düşünmeye yardımcı olur.
+Bunun ekonomik etkisi piyangoya benzerdir. İnsanlar oylanma şanslarını olduğundan fazla gördüklerinden kazanmaları beklenen ödülden daha fazla iş yaparlar ve bu sayede topluluğa hizmetin için yapılmış işlerin sayını azamiye çıkartırlar. "Herkesin bir şeyler kazanıyor olması" kumarhanelerin insanları kumarda tutmak için kullandığı aynı psikolojik etkidir. Bir başka ifadeyle, küçük ödüller daha büyüklerini de kazanmanın mümkün olduğu fikrini sağlamlaştırır.
 
 ### Ödemeler
 
-Bir içerik ödeme aldığında %50 SBD ve %50 SP şeklini alır. Steem Power kullanıcıya artan oy verme ve işlem gücü verirken, SBD kullanıcıya istikrarlı bir para birimi ile hemen bir fayda sağlıyor. Daha önce de tartıştığımız gibi, SP kısa vadeli satışlardan ziyade uzun vadede tutmayı teşvik etmek için tasarlandı. Bu, daha fazla kullanıcıyı platformun uzun vadeli başarısı konusunda ilgili olmaya teşvik eder.
+Bir gönderi ödeme aldığında bu 50% SBD ve 50% SP biçimindedir. Steem Power kullanıcıya artırılmış oylama ve işlem gücü verirken, SBD ise kullanıcıya istikrarlı bir para birimi üzerinden doğrudan bir kazanç sunar. Daha önce uzun bir şekilde açıkladığımız üzere, SP kısa vadeli satışlar yerine uzun vadeli elde tutmaları teşvik etmek için tasarlanmıştır. Bu daha fazla kullanıcıyı platformun uzun vadeli başarısında menfaat sahibi olmak konusunda cesaretlendirir.
 
-Kullanıcılar ayrıca, %100 SP'de ödeme alma ve yayınlarda ödeme almama seçeneğine sahiptir. Bir kullanıcı, bir yayınla ilgili ödemeyi reddettiğinde, diğer kullanıcılara dağıtılmak üzere kendisine ödenecek para ödül havuzunda kalır.
+Kullanıcılar ödemelerini 100% SP şeklinde alma seçeneği ile birlikte gönderilerine yapılacak ödemeleri reddetme hakkına da sahiptir. Kullanıcı bir gönderi için ödeme almayı reddettiğinde, kendisine ödenecek olan para diğer kullanıcılar arasında dağıtılmak üzere ödül havuzunda kalır.
 
-# Uzlaşma Algoritması
+# Oydaşma Algoritması
 
-Konsensüs, bir topluluğun bilgi bölümünde evrensel olarak tanınmış, net bir anlaşmaya varıldığı süreçtir. Toplumun neyin sahibi olduğu hakkında fikir birliğine varmak için geliştirdiği birçok algoritma vardır. Yeryüzündeki her hükümet, ilkel bir fikir birliği algoritmasıdır. Bu sayede, nüfus bir anayasada güvence altına alınan belirli bir kurallar kümesine uymayı kabul eder. Hükümetler, öznel gerçekleri yorumlamak ve nihai bir karar vermek için mahkemeleri, hakimleri ve jürileri kurarlar. Çoğu zaman insan yanlış olduğu halde kararını korur.
+Oydaşma, sayesinde bir topluluğun bir bilgi parçası üzerinde belirsizliğe mahal bırakmayan ve evrensel bir şekilde tanınan bir anlaşmaya vardığı bir süreçtir. Toplumun kimin neye sahip olacağı hakkında bir oydaşmaya varabilmek için geliştirmiş olduğu birçok algoritma vardır. Dünya üzerindeki her hükümet, kendisi vasıtasıyla nüfusun anayasa tarafından teminat altına alınan bir takım kurallar bütününe uymayı kabul ettiği, birer ilkel oydaşma algoritmasıdır. Hükümetler, öznel olguları yorumlamak ve haklarında nihai hükümler verebilmek için mahkemeler, hakimler ve jüriler tesis eder. Çoğunlukla insanlar verilen karar yanlış olsa bile karara uyar.
 
-Kripto para birimleri tarafından kullanılan algoritmalar, fikir birliğine ulaşmak için daha iyi bir yol sağlar. Kişilerden şifreleme yoluyla imzalanmış ifadeler, mutlak küresel olay düzenini belirleyen bir kamu defterine kaydedilir. Daha sonra deterministik bir bilgisayar algoritması evrensel olarak kabul edilen bir sonuç elde etmek için bu defteri işleyebilir. Bir topluluğun üyeleri işlem algoritması üzerinde anlaşmaya vardığı sürece, algoritmanın sonucu yetkili olur.
+Kripto para birimleri tarafından kullanılan algoritmalar oydaşmaya ulaşabilmek için çok daha iyi bir yol sunar. Tüm kullanıcılar tarafından kriptografik olarak imzalalanmış tanıklıklar, mutlak küresel olaylar sıralamasını kuran, kamuya açık bir kayıt defterine kaydedilir. Bunun üzerine, belirleyici bir bilgisayar algoritması evrensel olarak kabul edilecek bir sonuca varmak için bu kayıt defterini işler. Topluluğun üyeleri bu işleme algoritması üzerinde mutabık kaldığı müddetçe algoritmanın bulduğu sonuç üyelerin buna uymasını gerektirir.
 
-Birincil düşünce hangi tanıkların kamunun kayıtlarına girmesine izin verildiğini belirlemektir. Sistemler, sansür potansiyelini en aza indirgemek üzere tasarlanmalıdır. Kamu defterindeki sansür, birinin seçimlerde oy vermesini önlemeye benzer. Her iki durumda da, bir bireyin küresel konsensüsü etkilemesi engellenmektedir.
+Ana düşünce, hangi tanıklıkların kamusal kayda geçirilmesine izin verileceğinin belirlenmesidir. Sistemler muhtemel sansürleri en aza indirgeyecek şekilde tasarlanmalıdır. Kamusal kayıt defterinde uygulanan herhangi bir sansür, tıpkı birisinin seçimlerde oy kullanmasının önüne geçmek gibidir. Her iki durumda da bireyin genel oydaşmaya etki etmesinin önü kesilmiştir.
 
-## Steem'de fikir birliği
+## Steem'de Oydaşma
 
-Kavramsal olarak Steem tarafından benimsenen fikir birliği algoritması, şirketler tarafından tüm dünyada benimsenen fikir birliği algoritmasına benzemektedir. Steem'in gelecekteki değeri ile ilgili menfaate sahip kişiler, kamuya açık tanıklıkdan sorumlu kişileri seçmek için oy kullanıyor. Oylama, her bireyin çıkarı ile orantılıdır.
+Kavramsal olarak, Steem tarafından benimsenmiş olan oydaşma algoritması dünyanın birçok yerindeki şirketler tarafından kullanılan oydaşma algoritmasına benzerdir. Steem'in gelecekteki değerinde taahhüt edilmiş yatırımları bulunanlar, oylama yaparak, kamusal kayıtlara tanıklıkları kabul etmekle görevli kişileri seçerler. Oylama her bir bireyin taahhütlü hisseleriyle orantılı olarak ağırlıklandırılmıştır.
 
-Kripto dövizleri dünyasında, kamu kayıtlarına genellikle bir * blok zinciri * adı verilir. Bir * blok *, imzalı işlemlerden oluşan bir gruptur.
+Kripto para birimleri dünyasında kamusal kayıt çoğunlukla *blockchain* olarak adlandırılır. Bir *block*, imzalanmış işlemler grubudur.
 
-Steem ile blok üretimi turlarla yapılır. Her turda 21 tanık, işlem blokları oluşturmak ve imzalamak için seçilir. Bu tanıklardan yirmisi (20) onay oyuyla seçilirken biri, toplam oylarıyla orantılı olarak ilk 20'ye girmeyen her tanık tarafından paylaşılır. Bir tanıktan önceki tanık tarafından üretilen blokların sürekli olarak görmezden gelinmesini önlemek için 21 aktif tanık her tur karıştırılır. Bir bloğu özleyen ve son 24 saat içinde üretilmeyen herhangi bir tanık, blok imzalama anahtarını güncelleyene kadar devre dışı kalır.
+Steem'de blok üretimleri rauntlar halinde yapılır. Her rauntda 21 adet Witness, işlem bloklarını yaratmak ve imzalamak için seçilir. Bu Witnessların yirmi (20) tanesi onay oyu ile seçilir ve bir tanesi ise oylamada ilk 20'ye giremeyenler tarafından, aldıkları oylarla orantılı olarak, devremülk olarak paylaşılır. Aktif haldeki 21 Witness, herhangi bir Witness'ın kendisi tarafından üretilmiş ve yerleştirilmiş herhangi bir bloğu sürekli olarak görmezden gelmesinin önüne geçmek için her rauntta yeniden karılır. Herhangi bir bloğu ıskalayan ve son 24 saat içerisinde de üretimde bulunmamış olan herhangi bir Witness, Blok İmzalama Anahtarı'nı güncelleyene dek (sistemden) engellenir.
 
-This process is designed to provide the best reliability while ensuring that everyone has the potential to participate in block production regardless of whether they are popular enough to get voted to the top. People have three options to overcome censorship by the top 20 elected witnesses: patiently wait in line with everyone else not in the top 20, or purchase more SP to improve voting power. Generally speaking, applying censorship is a good way for elected witnesses to lose their job and therefore, it is unlikely to be a real problem on the Steem network.
+Bu süreç -üst sıralara çıkacak kadar oylanabilmeye yetecek popülerliğe sahip olunmasından bağımsız olarak- herkese blok üretimine katılabilme potansiyeli temin ederken; en yüksek güvenilirliği sağlamak üzere tasarlanmıştır. İnsanlar, seçilmiş ilk 20 Witness tarafından uygulanan sansürü aşmak için 3 ayrı yola sahiptir: Ilk 20'de bulunmayan herkesle birlikte sabırla beklemek ya da oy gücünü arttırmak için daha fazla SP satın almak. Genel olarak konuşursak, sansür uygulamak seçilmiş Witnesslarların işlerini kaybetmeleri için iyi bir yoldur. Bu nedenle, Steem ağında bunun gerçek bir probleme dönüşmesi olası değildir.
 
-Because the active witnesses are known in advance, Steem is able to schedule witnesses to produce blocks every 3 seconds. Witnesses synchronize their block production via the NTP protocol. A variation of this algorithm has been in use by the BitShares network for over a year where it has been proven to be reliable.
+Aktif Witnesslar önceden bilindiği için Steem, Witnessları her 3 saniyede 1 blok üretmelerini sağlayacak şekilde bir zaman çizelgesine oturtabilmektedir. Witness'lar blok üretimlerini NTP protokolü aracılığıyla senkronize eder. Bu algoritmanın bir benzeri bir yılı aşkın süredir BitShares ağında kullanılarak güvenilirliğini kanıtlamıştır.
 
-# Eliminating Transaction Fees
+# İşlem Ücretlerinin Ortadan Kaldırılması
 
-Steem goes to great lengths to reward people for contributing to the network. It would be counterproductive to turn around and charge people every time they attempt to interact with the community.
+Steem ağa katkıda bulunları ödüllendirmek için çabalıyor. Katkıda bulunmak isteyenlerden her defasında ücret alınması bu düşüncenin tam tersi olurdu.
 
-Blockchain technology currently depends upon transaction fees to prevent spam. These fees suffer all of the known problems with microtransactions and prevent blockchains from being used for low-value transactions. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
+Blokzinciri teknolojisi şu an için spam önlemek için işlem ücretlerine dayalıdır. Bu ücretler bilinen mikroödeme sorunlarından dolayı sıkıntı yaşıyor ve blokzincirlerinin değeri düşük hareketler için kullanılmasını engelliyor. Gerçekten merkezsiz uygulamalar kullanıcılarına ücretsiz hareket sunarak merkezi alternatiflerin önüne geçmelidir. Bu kağıt Steem'in bu konuya ilişkin ücretlere olan bağlantısını ortadan kaldırarak daha önceden mümkünatı olmayan merkezsiz işlemlerin mümkün olmasını vurguluyor.
 
-## The Problem With Fees
+## İşlem Ücretleri Sorunu
 
-Blockchains are decentralized networks where all transactions are broadcast to all peers. Every so often a block is produced that includes some or all of the pending transactions. All blockchains must find a solution to prevent malicious users from consuming all of the available network capacity with worthless transactions. These worthless transactions can prevent other valuable transactions from being processed and ultimately destroy the network.
+Blokzincirleri bütün hareketlerin, eşlere gönderildiği merkezsiz ağlardır. Her bir blok üretildiğinde bu blok beklemede olan hareketlerin çoğunu ya da hepsini içerebilir. Tüm blokzincirleri zararlı kullanıcıların mevcut ağın kapasitesini değersiz hareketlerle tüketmemesi için bir çözüm bulmalıdır. Bu değersiz hareketler değeri olan hareketlerin ağdaki işlemini engelleyerek uzun vadede ağı yok edebilir.
 
-The solution adopted by most blockchains thus far is to charge a minimum transaction fee. A fee worth just a few cents is enough to make attacking the network expensive and unprofitable. While this approach solves the spam problem, it introduces new problems. Imagine solving the email spam problem by introducing a small fee on every email; people wouldn’t use email.
+Şu zamana kadar blokzincirleri tarafından kabullenilen çözüm ise minimum işletim ücretleridir. Sadece bir kaç sent ağa saldırmayı pahalı ve değersiz kılabilir. Bu yaklaşım spam problemlerini çözerken, yenilerini tanıtmaktadır. E-posta spam problemini her eposta gönderildiğinde alınan bir ücret ile çözdüğünüzü düşünün: Kimse eposta göndermezdi.
 
-### Micropayments Don’t Work
+### Mikroödemeler Çalışmıyor
 
-The fundamental problem with charging transaction fees is that micropayments don’t work, especially for low-value user actions. When a fee is charged on every transaction, it limits the types of transactions that a decentralized network can process. Regardless of how rational the argument for the necessity of fees, users still hate the experience of being nickeled and dimed for everything that they do.
+İşlem ücreti almanın ana problemi mikroödemelerin işe yaramamasıdır, özellikle düşük değerli kullanıcı hareketleri için. Her bir harekette işlem ücreti alındığında, merkezsiz bir ağın işleyebileceği hareket tiplerini sınırlamaktadır. İşlem ücretlerinin gerekliliği her ne kadar kabul edilebilir bir argüman olsa da, kullanıcılar hala yaptıkları en küçük işlem için ücret ödemekten nefret ediyor.
 
-Imagine if the websites we use every day charged us a fee every time we modify our accounts by changing the password. Users expect certain things to be free. Requiring users to make a decision on whether or not an action is worth a small fee creates anxiety that causes users to leave. A transaction can’t be worth so much as to require a decision but worth so little that that decision is automatic. There is a certain amount of anxiety involved in any decision to buy, no matter how small, and it derives not from the interface used or the time required, but from the very act of deciding.
+Düşünün, her gün kullandığımız web siteleri şifremizi değiştirmek istediğimiz her sefer bizden ücret isteseydi. Kullanıcılar bazı şeylerin ücretsiz olmasını bekliyor. Kullanıcıların eylemlerinin küçük bir ücrete tabi olup olmadığına karar verdirmek bir süre sonra vazgeçmelerine sebep olacak bir durum oluşturuyor. Bazı hareketler bir karar gerektirmeyecek kadar değersiz olabilir fakat aynı zamanda otomatik karar verilecek değerde de olabilir. Her satın alma işleminde belli bi miktarda kaygı vardır. Ne kadar küçük olursa olsun, ve bu kullanılan arayüz veya gereken zamandan değil de, genel olarak karar vermedendir.
 
-Micropayments, like all payments, require a comparison: *“Is this much of X worth that much of Y?”* There is a minimum mental transaction cost created by this fact that cannot be optimized away, because the only transaction a user will be willing to approve with no thought will be one that costs them nothing, which is no transaction at all.
+Mikroödemeler, diğer her ödeme türleri gibi bir karşılaştırmaya ihtiyaç duyarlar. *"Bu kadar X bu kadar Y'ye değer mi?* bu durumunu yaratacağı değiştirilemeyecek minimum zihinsel bir düşünce vardır. Çünkü kullanıcının hiç düşünmeden onaylayacağı tek hareket, hiç bir zararı olmayacak olan bir harekettir bu da... hiç bir harekete eşittir.
 
-– Clay Shirky[^8]
+- Clay Shirky[^8]
 
-In the world of financial payments, small fees are acceptable because the value of the transaction is extremely high relative to the fee charged, and the buyer has already made a decision to buy. The world of potential blockchain applications is far greater than just financial payments and includes many necessary transactions for which fees are simply unacceptable to users.
+Finansal ödemeler dünyasında küçük ücretler kabul edilebilirdir çünkü, hareketin değeri ücretin değerine nazaran daha yüksektir ve alıcı zaten satın almada kararını kılmıştır. Potansiyel blokzinciri uygulamalarının dünyası sadece finansal ödemelerden çok daha büyüktür ve kullanıcılar tarafından kabul edilmeyecek ücretler içeren önemli hareketleri içerir.
 
-Systems like BitShares, Nxt, Ripple, Counter Party and Stellar all allow users to place limit orders on the blockchain and all of them charge users a small fee to perform this action. Later if the user wishes to cancel their order, another fee is charged. Systems like Ethereum take micropayments to a whole new level: charging per calculation. All of these systems struggle to attract new mainstream users for the same reasons that a decentralized search engine would struggle to attract users from Google if it charged a small fee for every search. It doesn’t matter how good the service is, people expect certain things to be free. This is true even if a user ends up paying more overall under a different fee structure.
+BitShares, NXT, Ripple, Counter Party ve Stellar gibi sistemlerin hepsi kullanıcıların blokzinciri üzerinde emirlerini kullanmasına izin verir ve kullanıcılarından bu eylemleri için küçük bir ücret alır. Daha sonra eğer kullanıcı emrini iptal etmek isterse, başka bir ücret daha ödemek zorundadır. Ethereum gibi sistemler ise mikrooödemeleri bir sonraki seviyeye taşırlar: her hesaplama için ücret almak. Bütün bu sistemler sanki merkezsiz bir arama motorunun her arama için ücret alması ve Google'dan kullanıcı çekememesi gibi nedenlerle aynı sebepten kullanıcıları etkilemekte zorlanırlar. Hizmetin ne kadar iyi olduğu önemli değildir, kullanıcılar bazı şeylerin ücretsiz olmasını bekler. Kullanıcı farklı bir ücret yapısıyla genel anlamda daha fazla ödese bile, bu geçerlidir.
 
-### Fees are a Barrier to Entry
+### Ücretler Girişlere Engeldir
 
-Any fee creates a barrier to entry for new users. Before someone can experiment with Ethereum they must acquire some ETH tokens. Anyone wanting to build a decentralized application on Ethereum must pass on the cost to their customers. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
+Her türlü ücret yeni kullanıcıların girişine engel olur. Birisi Ethereum'u ilgilendiren herhangi bir işlem yapmak istediğinde öncelikle biraz ETH'ye ihtiyaç duyacaktır. Ethereum sistemi üzerinde merkezsiz bir uygulama yapmak isteyen herhangi birisi uygulama ücretini kullanıcılara yıkmak zorundadır. Kripto para birimi satın almak kolay bir iş değildir ve genel olarak 10$ altı miktarlar için mantıklı değildir. Bu da yeni çıkan bir merkezsiz uygulamayı denemek isteyen yeni bir kullanıcı 10$'dan ayrılmak istediğine karar vermiş olmalıdır.
 
-### Changing Fees
+### Değişken Ücretler
 
-Over time a network must adjust fees. This can happen either due to an increase in the value of the token or due to a surge in capacity. Users like predictable fees and guaranteed service. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
+Zaman içinde ağın ücretleri ayarlaması gerekir. Bu kapasitedeki bir oynama veya zaman içerisinde değer artışı nedeniyle kaynaklanabilir. Kullanıcılar tahmin edilebilir ücretleri ve garantilenmiş hizmeti severler. Yüksek kullanım durumlarında dinamik bir biçimde ücretleri arttırmak mümkün olmakla beraber, kötü bir kullanıcı tecrübesine yol açar.
 
-### Sybil Attacks
+### Sybil Saldırıları
 
-Centralized websites prevent spam through rate limiting and some form of ID verification. Even something as simple as reCAPTCHA[^9] is sufficient to limit the creation of fake accounts. If someone abuses their account then centralized websites are free to block the account.
+Bazı merkezi websiteleri spamı önlemek için bir nevi kimlik onayı ve hız sınırlaması kullanır. reCAPTCHA [^9] gibi basit bir şey bile sahte hesapların yaratılmasını engelleyebilir. Eğer birisi hesabını kötüye kullanıyorsa merkezi websiteler hesabı kapatma özgürlüğüne sahiptir.
 
-In a decentralized system there is no direct way to ban users nor centralized provider able to host a reCAPTCHA and enforce rate limiting of accounts. In fact, the inability to censor users is one of the main selling points of blockchain technology.
+Merkezsiz bir sistemde kullanıcıları yasaklamanın direkt bir yolu olmadığı gibi reCAPTCHA ve hız sınırlaması da mümkün değildir. Aslında, bu mümküniyetsizlik blokzinciri teknolojisin ana satış noktalarından biridir.
 
-### Full Reserve vs Fractional Reserve
+### Rezerv ve Kısmı Rezerv
 
-Let’s view a blockchain like an Internet Service Provider (ISP) co-op which owns all of the cables in the town and has a maximum amount of bandwidth that it can provide at any time. People living in the town can buy shares in the ISP and in exchange they are entitled to utilize a portion of the available bandwidth.
+Blokzinciri sistemini bir İnternet Servis Sağlayıcısı (ISS) gibi inceleyelim, şehirdeki tüm kablolara sahip olan ve bir zamanda verebileceği maksimum trafik limiti olan bir ISS. Şehirde yaşayan insanlar ISS'den pay alarak mevcut olan trafiğin bir kısmından yararlanabilirler.
 
-The ISP has two choices, run a “full reserve” or “fractional reserve” system. Under a full reserve system each user is only allowed a fraction of the maximum bandwidth proportional to her shares. Because not everyone uses the Internet at the same time, the town’s network would be significantly underutilized.
+ISS'in iki seçeneği vardır. "rezerv" ya da "kısmi rezerv" sistemini kullanmak. Rezerv sisteminde kullanıcı mevcut olan maksimum trafiğin sadece payını aldığı kadarını alabilmesidir. Çünkü herkes aynı anda interneti kullanmaz, şehrin ağı önemli ölçüde az kullanılır.
 
-Under a fractional reserve system the individual users could utilize more bandwidth than they are entitled to at any given point in time so long as not everyone uses the Internet at the same time. The problem with operating a fractional reserve is that congestion occurs anytime too many people wish to use the network at the same time. The ISP needs a way to prioritize bandwidth during congested periods. In the most extreme case, a fully congested network must revert to a full reserve system. The challenge is setting the proper fractional reserve ratio.
+Kısmi rezerv sisteminde ise kullanıcılar satın aldıkları payın değerindeki trafikten daha fazla trafik alabilirler, şehirdeki herkesin aynı anda internet kullanmadığı sürece tabii. Kısmi rezerve sahip olmanın sorunu ise herkesin aynı anda ağa bağlanıp internet kullanmak istediğinde oluşan tıkanıklılıktır. ISS bu tür durumlarda trafiklere öncelik vermek için bir yol bulmalıdır. Aşırı durumlarda, tamamen tıkanmış bir ağ tekrardan rezerv sistemine geçmelidir. Zor olan şey ise, doğru kısmi rezerv oranını bulmaktır.
 
-## Bandwidth Instead of Micropayment Channels
+## Mikroödeme Kanalları yerine Trafik
 
-The solution to the problems with micropayments is in implementing *dynamic fractional reserves*. Under this model the blockchain will automatically adjust the reserve ratio for the network during times of congestion. The blockchain will set a target utilization that leaves enough headroom for short term surges in demand. Any time the surges are sustained the blockchain reduces the maximum bandwidth-per-share. When a surge is over and there is surplus capacity the blockchain can slowly increase the bandwidth-per-share.
+Mikroödemelere çare *dinamik kısmi rezerv* implemetasyonudur. Bu model altında blokzinciri rezerv oranını tıkanılılığa göre otomatik olarak ayarlayabilr. Blokzinciri oranı ayarlarken kısa süreli dalgalanmalar için pay bırakarak bir hedef belirler. Dalgalanmalar olduğunda blokzinciri pay-başına-trafik oranını düşürür. Dalgalanma bittiğinde ve ekstra kapasite olduğunda blokzinciri tekrardan yavaşça pay-başına-trafiği yükseltebilir.
 
-Bandwidth used by an individual user should be measured over a suitably long period of time to allow that user to time-shift their usage. Users tend to login, do many things at once, then logout. This means that their bandwidth over a short period of time may appear much higher than if viewed over a longer period of time. If the time window is stretched too far then the reserve ratio will not adjust fast enough to respond to short-term surges, if the window is too short then clustering usage will have too big of an impact on normal users.
+Bir kullanıcı tarafından kullanılan trafik kullanıcının kullanım zamanının değişeceği göz önüne alınarak uzun süreli periyodlar ile hesaplanmalıdır. Kullanıcı oturum açıp, aynı anda bir sürü şey yapıp, çıkmaya meyillidirler. Bu da kısa süreli incelendiğinde fazla gözüken trafiğin aslında uzun süre olarak tam tersi olması anlamına gelir. Eğer süreç çok fazla uzuyorsa sistem kısa sürekli patlamalar için rezerv oranını yeteri kadar hızlı ayarlayamayabilir. Eğer süreç çok kısa ve toplu kullanım varsa normal kullanıcılar için büyük bir etkisi olacaktır.
 
-In our estimate it should be sufficient to measure the average weekly bandwidth usage of users. Every time a user signs a transaction, that transaction is factored into their own individual moving average. Any time a user’s moving average exceeds the current network limit their transaction is delayed until their average falls below the limit.
+Tahminlerimize göre, kullanıcıların trafik hesaplamalarını haftalık yapmak yeterlidir. Kullanıcı her hareketi imzaladığında, imzaladıkları hareket kullanıcının geçmiş hareketlerinin ortalaması alınarak hesaplanır. Kullanıcıların hareketleri genel ortalamasının üzerine çıktığında, tekrar düşene kadar gecikmeli olacaktır.
 
-### Impact of Capacity
+### Kapasitenin Önemi
 
-Blockchain capacity isn’t necessarily capped. It is well within the technological capability of internet infrastructure to increase the Bitcoin block size to 10MB which in turn will reduce the minimum required balance by a factor of 10. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second.
+Blokzinciri kapasitesi aslında limitli değildir. Şu anki internet altyapısının teknolojik kapasitesi Bitcoin blok boyutunu 10MB'e arttırmak için yeterlidir, bu da gerekli bakiye miktarını faktörel olarak 10 kat azaltacaktır. Bitcoin şuanda saniyede 3 hareketi desteklerken, alternatif implementasyonlar saniyede 1000'in üzerinde hareketi destekleyecek kapasitedelerdir.
 
-### Comparison to Fees
+### Ücretler ile Karşılaştırma
 
-If we assume a user with $25 dollars worth of BTC transacts once per week and pays a $0.04 cent fee each time then they would pay over $2.00 in fees per year. A user would have to earn a 8% rate of return on their $25 dollars just to break even with paying fees. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
+Eğer bir kullanıcının her hafta sadece 25$ dolar değerinde BTC gönderimi yaptığını ve her ödediklerinde 0.04$ cent ücret öderse, yılda 2 doların üstünde bir ücret ödeyecektir. Kullanıcı o 25$ doların sadece 8%ini kazanarak ücretleri ödemek için harcadığı miktarı amorti edebilir. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. Sadece 175$ ile her gün işlem yapabilir ve günlük 14$ tasarruf edebilirler.
 
-### Account Creation
+### Hesap Oluşturma
 
-Steem’s account-based system with publicly known balances simplifies the implementation of the bandwidth-based rate limiting algorithm. Any account with a balance below the minimum required to transact once per week would be unable to transact. This implies that all new accounts should be funded with at least this minimum balance. It also implies that users wishing to transact in smaller amounts can, so long as they hold a larger balance and reuse the account.
+Steem'in hesap bazlı sistemi ve genel olarak bilinen bakiyeleri trafik bazlı hız limitleme algoritmasının implementasyonunu kolaylaştırıyor. Minimum gerekli miktarın altında bakiyesi olan hesapların haftada en az bir hesap hareketi gerçekleştirmesi gerekmektedir. Bu da bütün yeni hesapların en az minimum bakiye miktarını bulundurmaları gerektiğini vurgular. Aynı zamanda daha küçük miktarlarda hareket sağlamak isteyen kullanıcılar bakiyeleri fazla olduğu ve hesabı kullanabilecekleri sürece bu işlemi gerçekleştriebilirler.
 
-It is possible for a low-balance account created during a time of low usage to become inaccessible if the network usage picks up. The funds could be recovered at any time by temporarily delegating a larger balance to the account.
+Kullanımın az olduğu zamanlarda oluşturulan minimum bakiyeleri hesapların ağ kullanımı arttığında kullanılamayan duruma düşme ihtimali bulunmaktadır. Bu bakiyeler istenildiği zaman büyük bir hesaba delege edilerek kullanılabilir.
 
-In order to maintain a reasonable user experience with a minimum number of hung accounts, all new accounts should start out with a balance 10 times the minimum required to transact weekly. This way even if demand increases by a factor of 10 the account will remain viable.
+Minimum bakiyenin altında ve kullanılamaz olan hesapların sayısını kontrol edebilmek için bütün yeni hesaplar minimum gereken tutarın en az 10 katı ile başlamalıdır. Bu şekilde eğer ağ kullanımı talebe oranla 10 kat artsa bile, hesap geçerli ve kullanılabilir kalacaktır.
 
-Any initial account balance would have to come from the user creating the account and not from token creation due to the potential for sybil attacks.
+Hesap oluştururken gelen herhangi bir bakiye başka bir kullanıcıdan gelmeli ve potansiyel sybil saldırılarını önlemek için token olarak oluşturulmamalıdır.
 
-### Justifying Minimum Balances
+### Minimum Bakiyeleri Kararlaştırma
 
-The concept of forcing users to maintain a minimum balance flows naturally from the value of a user[^10]. Anyone running a business knows that every single user has significant value. Businesses spend anywhere from $30 to $200 to acquire a user. Sometimes they pay users directly, other times they pay for advertizing, and still other times entire companies are bought just for their user base. After a company acquires a user they often given them many *free services* just to keep them around long enough to monetize them through some other means.
+Kullanıcıları minimum bakiye bulundurmaya zorlama fikri, haliyle, kullanıcının kendi değerinden kaynaklanır. [^10]. Bir işletme yöneten herkes, her kullanıcının önemli bir değeri olduğunu bilir. İşletmeler yeni bir kullanıcıya sahip olmak için 30$ dan 200$'a kadar ücret ödeyebilirler. Bazen kullanıcılara direk ödeme yaparken bazen reklamlara öderler, ve yine bazı zamanlarda bazı işletmeler tüm kullanıcılarını satın almışlardır. Bir şirket kullanıcıyı kazandıktan sonra genel olarak onlara *ücretsiz hizmetler* sağlayarak başka yollar sayesinde üzerlerinden para kazanmak için kullanıcıları tutmalarını sağlar.
 
-Ripple uses a minimum balance[^11] that scales with account resource use and requires that new accounts get funded with at least this minimum balance. Currently this minimum balance is about $0.15 which is greater than the $0.10 we estimated would allow someone to transact freely at least once per week.
+Ripple'ın minimum bakiye miktarı [^11] hesabın kullanım oranı ile birlikte yükselir ve yeni hesapların minimum o miktarda bakiye bulundurmasını gerektirir. Şu an için bu minimum bakiye miktarı yaklaşık 0.15$ cent'dir bu miktarda bizim daha öncesinde haftada bir kez özgürce hareket edilebilir olarak düşündüğümüz miktardan 0.10$ cent fazladır.
 
-A blockchain can enforce a minimum value per user through the simple process of requiring a minimum balance. Any business that wishes to bring a new customer to the blockchain can pre-fund that user’s account with the minimum balance that would allow them to transact. Requiring a relatively large fee ($1.00) to sign up new users will naturally force anyone offering free accounts to vet the quality and uniqueness of each account before registering them with the blockchain.
+Bir blokzinciri kullanıcıların sahip olması gereken minimum değeri, minimum bakiye gereksinimi ile zorlayabilir. Blokzincirine yeni bir kullanıcı kazandırmak isteyen herhangi bir şirket o kullanıcının hesabını daha önceden minimum bakiye ile doldurarak sistemi kullanmasını sağlar. Yeni kullanıcı kayıtları için nispeten yüksek bir ücret bedeli (1 dolar) talep etmek, ücretsiz hesap hizmeti sunan birini, hesapları blockchain'e kaydetmeden önce, her bir hesabın niteliğini ve özgünlüğünü titiz bir şekilde denetlemeye zorlayacaktır ister istemez.
 
-Maintaining a minimum balance is effectively the same as making users pay transaction fees with the interest they could have earned on their balance. The minimum balance is simply the balance required to earn enough interest to pay a fee in a relatively short period of time.
+İşin aslı, minimum bakiye tutmak, kullanıcıların işlem ücretlerini kazanmış oldukları ve kendi bakiyelerine kaydettikleri faizlerle ödemelerini sağlamaya denk düşer. Kısaca minimum bakiye, bir ücreti oldukça kısa bir süre zarfında ödemeye yetecek kadar faizi kazanmak için gerekli olan bakiye şeklinde tanımlanabilir.
 
-Fortunately, the minimum balance required can be as low as a dollar and this is something users can understand and appreciate. The opportunity cost of lost interest doesn’t incur the cognitive cost of a micro-fee and is far more acceptable to users.
+Bereket versin ki şart koşulan minimum bakiye 1 dolar kadar düşük bir meblağ olabilir; bu da kullanıcıların kabul edebileceği ve hoşnut olabileceği bir tutardır. Kaybedilen faizin fırsat maliyeti, bir mikro ücretin bilişsel maliyetini karşılamaz. Bu ise kullanıcılar için çok daha makul olan bir durumdur.
 
-The STEEM used to pre-fund an account is Powered Up in the new account (i.e., converted to Steem Power). A portion of the SP used to fund a new account may be delegated from the creator of the account. When a user is delegated SP, they may use the SP for voting and bandwidth purposes as if it were their own, but the ownership of the SP remains with the user who delegated it. A user may remove the delegation at any time. After a cool-down period, the SP is returned to their account.
+Bir hesabı önceden fonlamak için kullanılan STEEM yeni hesapta aktive edilir, bir başka deyişle, Steem Power'a dönüştürülür. A portion of the SP used to fund a new account may be delegated from the creator of the account. Bir kullanıcı SP delege ettiğinde delege edilen kişi SP'yi oy verme ve trafik için kendilerininmiş gibi kullanabilir fakat SP'nin sahipliği delege eden kişide kalacaktır. Kullanıcı istediği herhangi bir zamanda delegasyonunu geri çekebilir. Delege ettikleri SP miktarı bir süre beklemenin ardından hesaplarına iade edilir.
 
-### Effectiveness Relative to Fees
+### Ücretlerin etkililiği
 
-To compare the effectiveness of rate limiting to fees we must consider how the two systems react to intentional network flooding by an attacker. Under Bitcoin an attacker with $10,000 dollars could disrupt service for an entire day by filling every single block. The same attacker would be unable to disrupt service for even a single block under the dynamic fractional reserve rate limiting approach.
+Hız limitlemeyi ücretlerle kıyaslamak için, bu iki sistemin bir saldırıcı tarafından ağa yönelik olarak düzenlenen sel yönlendirmesine nasıl tepki verdiklerini göz önünde bulundurmamız gerekir. Bitcoin'de, 10 bin dolara sahip bir saldırgan, her bir bloku dosyalayarak hizmeti bütün bir gün boyunca akamete uğratabilir. Aynı saldırgan, "dinamik kısmi karşılık hız limitleme yaklaşımı" kapsamında, tek bir blok için bile hizmeti akamete uğratmayı başaramayacaktır.
 
-If we go to a more extreme case and assume the attacker holds 1% of all coins then we presume an attacker with $60 million dollars. Such an attacker could deny the Bitcoin blockchain service for 16 years unless the miners increased fees or capacity. Even if fees were raised to $15 per transaction, the attacker could still keep the network flooded for 16 days.
+Daha uç bir durum düşünüp de bir saldırganın tüm coinlerin %1'ini elinde bulundurduğunu varsayacak olursak, öylesi bir durumda saldırganın 60 milyon dolara sahip olacağını kabul etmemiz gerekir. Böyle bir saldırgan, madenciler ücretleri veya kapasiteyi artırmadıkça Bitcoin blockchain hizmetini 16 yıl boyunca devre dışı bırakabilir. Ücretler işlem başı 15 dolara yükseltilse dahi, sözkonusu saldırgan yine de ağı 16 gün boyunca sel yönlendirmesine (flooding) maruz bırakabilir.
 
-Under the rate limiting approach, someone who holds 1% of all coins with an intent to flood the network would achieve their goal for less than 30 seconds.
+Hız limitleme yaklaşımı kapsamında, tüm coinlerin %1'ini elinde tutan ve ağı sel yönlendirmesine maruz bırakmaya niyetlenen bir kişi, bu hedefine 30 saniyeden kısa bir sürede ulaşabilir.
 
-### Renting vs. Buying vs. Time Sharing
+### Kiralama - Satın Alma - Devre mülk
 
-When someone owns a house they expect the right to use the house for free. If a group of people buy a house together then each can expect the right to use the house proportional to their percentage ownership in the house. A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
+Bir evi kendi mülkiyetine alan bir kişi, bu evi ücretsiz kullanma hakkına sahip olmayı umar. Bir grup kişi birlikte bir ev satın alırsa, o zaman bu kişilerden her biri evdeki sahiplik yüzdesi ölçüsünde bu evi kullanma hakkına sahip olmayı umar. Ücret temelli blockchain, bu evi sahiplerinden kiralamak gibidir; buna karşın hız limitleme, sahiplerin kendi aralarındaki devre mülk gibidir.
 
-If a house is owned by multiple people then those individuals must decide how they wish to timeshare the house. Someone who owns 50% of the house but only uses it one weekend per year might expect to be paid by the individuals who take their unused time. This is the mindset of a fee based system.
+Eğer bir evin mülkiyeti birden çok kişiye ait olursa, o zaman bu kişiler evi nasıl devre mülk yapmak istediklerini kararlaştırmalıdır. Evin %50'sine sahip olan, bununla birlikte evi yılda yalnızca bir hafta kullanan bir kişi, kendi kullanmadığı zamanlarda evi kullanan kişilerin kendisine ödeme yapmasını bekleyebilir. Ücret temelli sistemin işleyiş mantığı budur.
 
-On the other hand, someone who owns 50% of the house is speculating that demand for the house will increase in the future and they will be able to sell their stake for more. Any owner who owns more of a house than they use becomes a real estate speculator. With this mindset rather than collecting rent, they collect appreciation.
+Diğer yandan, bir kişi evin %50'sine sahip olup eve yönelik talebin gelecekte artacağı ve kendi hissesini daha fazla bir meblağ karşılığı satabileceği yönünde spekülasyon yapıyor diyelim. Bir evin kullandığından daha fazlasına sahip olan herhangi bir mülk sahibi, emlak spekülasyoncusuna dönüşebilir. Bu kişi, kira tahsil etmek yerine bu mantığı işe koşarak değer tahsil eder.
 
-The value of a share is derived from how much time it can potentially grant its owner. Owning 1% of a house and getting it 1 weekend per year is the lowest value of a share. However, if half of the shareholders never use their weekend, then the value per timeshare rises to 2 weekends per year. If those inactive users instead opt to rent their unused time, then it falls back to 1 weekend per year. If those unused timeshares were sold to people who would use them then the value of a timeshare would fall by 50%. Unless the rent collected is greater than the fall in share value the timeshare owners are making an economic miscalculation.
+Bir hissenin değeri, sahibine potansiyel olarak ne kadar süre bahşettiğine bağımlı olarak oluşur. Bir evin %1'ine sahip olup bu evi yılda bir hafta kullanmak, en düşük değerli hissedir. Yine de, hisse sahiplerinin yarısı evi bir haftalığına kullanma haklarını hiç kullanmazlarsa şayet, o zaman devremülk başı değer yılda iki haftaya yükselir. Eğer o faal olmayan kullanıcılar daha ziyade kullanmadıkları zamanı kiralamaya yönelirlerse, o zaman değer tekrar yılda bir haftaya düşer. Eğer o kullanılmamış devremülkler onları kullanabilecek olan insanlara satılsalardı, o zaman da bir devremülkün değeri %50 azalırdı. Tahsil edilen kira bedeli hisse değerindeki azalmadan daha büyük değilse, devremülk sahipleri ekonomik bir yanlış hesap yapıyorlar demektir.
 
-Using this rationale we can assume that a system based on fees will either be more expensive for its users or be less profitable for its collective owners. An individual small owner may profit by renting out his small time slice, but only at the expense of all other timeshare owners. In effect, the cost of the falling timeshare value is shared among all owners whereas the profits are centralized in the single owner who decided to rent his share.
+Bu mantığı temel alarak diyebiliriz ki ücret temelli bir sistem ya kullanıcıları için daha pahalı; ya da kolektif sahipleri için daha az kârlı bir sistem olacaktır. Küçük çaplı bir mülk sahibi kendi kısa zaman dilimini kiralayarak kâr edebilir; ne var ki bunu yalnızca diğer devremülk sahiplerinin zararına olacak şekilde yapabilir. Aslında, azalan devremülk değerinin maliyeti tüm mülk sahipleri arasında paylaşılır; buna karşılık kârlar, kendi payını kiralamayı kararlaştıran tek bir mülk sahibinin elinde toplanır.
 
-We can conclude from this that a blockchain is best served by not using usage fees at all. If a usage fee were to be charged as an alternative to rate limiting, then it should be the equivalent of buying enough timeshares and committing to hold them long enough to gain the right use it once.
+Buradan şu sonuca varabiliriz ki en iyi blockchain hizmeti, kullanıcılara herhangi bir kullanım ücreti ödetmeden verilir. Eğer bir kullanım ücreti hız limitlemeye alternatif olarak ödenmek zorunda olsaydı, o zaman kullanım ücretinin yeteri kadar devre mülk satın almanın ve bunları kullanım hakkı elde etmeye yetecek kadar uzun süre elinde tutma taahhüdünde bulunmanın muadili olması gerekir.
 
-Stated another way, a transaction fee should be equal to the minimum account balance necessary to transact once per week and it should be refunded at the end of the week. Assume the minimum account balance is $1 and allows someone to transact once per week. If someone with a $1 balance that wishes to perform 5 transactions at once they will have to increase their balance to $5 for a week either before or after their transactions.
+Bir başka deyişle, bir işlem harcının, haftada bir kez işlem yapmak için gerekli olan minimum hesap bakiyesine eşit olması ve haftanın bitiminde geri ödenmesi gerekir. Minimum hesap bakiyesinin 1 dolar olduğunu ve bunun bir kişiye haftada bir kez işlem yapma izni tanıdığını varsayın. Eğer 1 dolar bakiyesi olan bir kişi bir kerede 5 adet işlem yapmak isterse, o kişi işlemlerden önce ya da sonra bakiyesini haftalık 5 dolara çıkarmak zorunda kalacaktır.
 
-In theory a market could form where users can borrow the stake required. In practice it is more efficient for users to simply buy and sell the timeshares necessary to meet their desired usage rate. In other words, the cost of negotiating micro-loans is greater than the cost of maintaining a balance suitable for your maximum weekly usage.
+Kuramsal olarak, kullanıcıların yatıracak parayı başkalarından borç alabildiği yerde pazar kurulacaktır. Pratikte, kendi kullanıcı oranlarını karşılamaya yetecek kadar devremülkü satın alıp satmak, kullanıcılar için daha verimlidir. Başka bir deyişle, mikro düzeyde kredi müzakeresi yapmanın bedeli, haftalık maksimum kullanımınıza denk düşen bakiyeyi sağlamanın bedelinden daha yüksektir.
 
-Decentralized rate limiting of transactions can enable new types of decentralized applications that were not viable when every use of the application required a micropayment. This new model gives application developers the ability to decide if and when to charge their users for transactions.
+Yeni tür desantralize uygulamalar -kullanımı için küçük çaplı bir ödeme yapmak gerektiğinde etkili çalışmayan uygulamalar-, işlemler için desantralize hız limitlemesi sayesinde etkili bir şekilde çalışır hale gelebilirler. Bu yeni model uygulama geliştiricilerine, kullanıcıları yaptıkları işlemlerden ötürü ücretlendirip ücretlendirmemeyi, ücretlendirecekse de ne zaman ücretlendireceğini kararlaştırma olanağı tanır.
 
-# Performance and Scalability
+# Perfomans ve Ölçeklenebilirlik
 
-The Steem network is built upon Graphene, the same technology that powers BitShares. Graphene has been publicly demonstrated sustaining over 1000 transactions per second on a distributed test network. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
+Steem ağı, BitShares'i çalıştıran aynı teknoloji olan Graphene üzerine inşa edilmiştir. Graphene bir dagitik test agi üzerinde saniyede 1000'den fazla islemi destekleyekleyebildigini aleni bir sekilde kanitlamistir. Graphene, sunucu kapasitesi ve iletisim protokollerine yapilacak göreli basit gelistirmeler ile birlikte, saniyede10,000 ya da daha fazla sayida islemi kolaylikla ölcekleyebilir.
 
-## Reddit Scale
+## Reddit Ölcegi
 
-Steem is capable of handling a larger userbase than Reddit. In 2015 Reddit’s 8.7 million users generated an average of 23 comments per second[^12], with an average of 83 comments per year per user. There were 73 million top-level posts, for an average of 2 new posts per second. There were about 7 billion up votes creating an average voting rate of 220 votes per second. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
+Steem Reddit'ten daha büyük bir kullanici tabani ile bas edebilmeye muktedirdir. 2015 yilinda Reddit'in 8.7 milyon üyesi genel ortalama olarak saniyede 23 yorum[^12]; üye basina da yilda 83 yorum üretmistir. Saniye basina iki paylasim ortalamasiyla, 73 milyon üst seviye paylasim mevcuttu. 7 milyara yakin begeni oyunun yarattigi, saniye basina 220 oy sekilde, bir ortalama oylama orani vardi. Tüm bunlar söylendiginde, eger Reddit blockhain üzerinde calisiyor olsaydi saniye basina 250 islem ortalamasina ihtiyac duyardi.
 
-To achieve this industry-leading performance, Steem has borrowed lessons learned from the LMAX Exchange[^13], which is able to process 6 million transactions per second. Among these lessons are the following key points:
+Steem bu sektör-öncüsü performansa erismek icin, saniyede 6 milyon islemi isleyebilen LMAX Exchange'den[^13] cikarilan dersleri ödünc almistir. Bu dersler icindeki anahtar noktalar:
 
-1. Keep everything in memory.
-2. Keep the core business logic in a single thread.
-3. Keep cryptographic operations (hashes and signatures) out of the core business logic.
-4. Divide validation into state-dependent and state-independent checks.
-5. Use an object oriented data model.
+1. Herseyi hafizada tut.
+2. Cekirdek isletme mantigini tek bir dizide tut.
+3. Kriptografik operasyonlari (hashler ve imzalar) cekirdek isletme mantiginin disinda tut.
+4. Teyidi duruma-bagimli ve durumdan-bagimsiz denetlemelere böl.
+5. Nesneye yönelik veri modeli kullan.
 
-By following these simple rules, Steem is able to process 10,000 transactions per second without any significant effort devoted to optimization.
+Steem bu basit kurallari takip ederek, optimizasyona adanmis önemli bir olmaksizin, saniyede 10,000 islemi isleyebilmektedir.
 
-Keeping everything in memory is increasingly viable given the recent introduction of Optane™ technology from Intel[^14]. It should be possible for commodity hardware to handle all of the business logic associated with Steem in a single thread with all posts kept in memory for rapid indexing. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optane™ technology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
+Yakin zamanda Intel tarafindan Optane™ teknolojisinin piyasa sürülmüs olmasi[^14] da göz önünde tutuldugunda herseyi hafizada tutmak artan bir sekilde uygulanabilirdir. Standart bir donanimin, hizli bir indexleme icin, Steem ile ilintili tüm isletme mantiginin -tüm postlar hafizada kayitli bir sekilde- tek bir dizide tutuluyor olmasi ile bas edebiliyor olmasi gerekir. Google bile tüm internete dair kendi indexlerini RAM'in icinde tutar. Blockchain teknolojisinin kullanilmasi veri kaybinin önüne gecmek icin verilerin baska makinalara kopyalanmasini gereksiz hale getirir. Optane™ teknolojisi benimsendikce RAM, direnç kazaniyorken daha da hizli hale gelecek. Bir diger deyisle, Steem ölçeklendirme icin ve gelecegin mimarisi icin tasarlanmistir.
 
-# Allocation & Supply
+# Paylasim & Arz
 
-## Initial Allocation & Supply
+## İlk Paylasim & Arz
 
-The Steem network started with a currency supply of 0 and allocated STEEM via proof of work at a rate of approximately 40 STEEM per minute to miners, with an additional 40 STEEM per minute being created to seed the content and curation reward pools (for a total of 80 STEEM per minute). Then the network started rewarding users who converted to SP. At this point, STEEM grew at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
+Steem Agi 0 para birimi arzi ile ve Miner'lara, Proof of Work araciligiyla dakikada yaklasik 40 STEEM ve icerik ve küratörlük ödül havuzunun yaratilmasi icin harcanan her bir dakika icin de ilaveten 40 STEEM (Toplamda dakika basina 80 STEEM) olmak üzere dagitilan STEEM ile basladi. Sonrasinda, ag SP'ye dönüstüren kullanicilari ödüllendirmeye basladi. Bu noktada STEEM asagida özetlenen cesitli Katki Ödüllerinin muhtelif etkilerinden ötürü dakida basina yaklasik 800 STEEM oranina yükseldi:
 
-Contribution Rewards:
+Katki Ödülleri:
 
-- Curation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
-- Content Creation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
-- Block production rewards: 1 STEEM per block or 0.750% per year, whichever is greater
-- POW inclusion rewards before block 864,000: 1 STEEM per block (awarded as 21 STEEM per round)
-- POW inclusion rewards after block 864,000: 0.0476 STEEM per block (awarded as 1 STEEM per round) or 0.750% per year, whichever is greater.
-- Liquidity rewards: 1 STEEM per block (awarded as 1200 STEEM per hour) or 0.750% per year, whichever is greater
+- Küratörlük ödülleri: Hangisi daha büyük ise, blok basinda 1 STEEM ya da yilda 3.875%
+- Icerik Yaratimi ödülleri: Hangisi daha büyük ise, blok basina 1 STEEM ya da yilda 3.875%
+- Blok üretimi ödülleri: Hangisi daha büyük ise, blok basina 1 STEEM ya da yilda 0.750%
+- 864,00. blok öncesi POW kapsama ödülleri: Blok basina 1STEEM (raunt basina 21 STEEM olarak ödüllendirilir)
+- 864,00. blok sonrasi POW kapsama ödülleri: Hangisi daha büyük ise, blok basina 0.0476 STEEM (raunt basina 1 STEEM olarak ödüllendirilir) ya da yilda 0.750%.
+- Likidite ödülleri: Hangisi daha büyük ise, blok basina 1 STEEM (saat basina 1200 STEEM olarak ödüllendirilir) ya da yilda 0.750%
 
-### Power Rewards:
+### Power ödülleri:
 
-- Steem Power rewards: For each STEEM created by the above rewards, 9 STEEM are divided among all Steem Power holders.
+- Steem Power ödülleri: Yukaridaki ödüller tarafindan yaratilan her bir STEEM icin, 9 STEEM tüm Steem Power sahipleri arasinda bölüstürülür.
 
-### SBD operations:
+### SBD işlemleri:
 
-- SBD rewards: A percentage of SBD value is created at an APR set by the witnesses and paid to SBD holders as SBD
+- SBD ödülleri: SBD değerinin bir kısmı Witness'lar tarafından belirlenmiş dönemlik faiz oranıyla yaratır ve SBD paydaşlarına SBD olarak ödenir
 
-The overall supply picture is complicated by the effect of SBD operations, which may result in large-scale creation or destruction of STEEM through feed rate following and SBD rewards, as discussed in the SBD section. Other, smaller-scale complicating effects also exist, including unclaimed incentives (e.g. block rewards for missed blocks), and abandoned accounts.
+Arzın genel görüntüsü SBD işlemlerinin etkisinden ötürü karmaşıktır. Bu da daha önce SBD kısmında açıklandığı üzere, müteakip yayın oranları ve SBD ödülleri yoluyla büyük çaplı yeni STEEM yaratımı ya da tedavülden çekimi ile sonuçlanabilir. Üzerinde hak talep edilmemiş teşvikler (Gözden kaçmış bloklar için konulmuş olan blok ödülleri gibi) ve terk edilmiş hesaplar da dahil olmak üzere birçok küçük ölçekli karmaşık etkiler de mevcuttur.
 
-## Current Allocation & Supply
+## Mevcut Paylaşım & Arz
 
-Starting with the network's 16th hard fork in December 2016, Steem began creating new tokens at a yearly inflation rate of 9.5%. The inflation rate decreases at a rate of 0.01% every 250,000 blocks, or about 0.5% per year. The inflation will continue decreasing at this pace until the overall inflation rate reaches 0.95%. This will take about 20.5 years from the time hard fork 16 went into effect.
+Aralık 2016'daki ağın 16. hard forkundan sonra Steem yeni tokenları yıllık %9.5 lik faiz oranında yaratmaya başladı. Enflasyon oranı her 250,000 blokta %0.01oranında ya da yıllık %0.5 oranında azalmaktadır. Enflasyon, genel enflasyon oranı %0.95'e erişinceye dek bu hızda azalmaya devam edecektir. Bu, hard fork 16'nın hayata geçmesinden itibaren yaklaşık 20.5 yıl sürecektir.
 
-75% of the new tokens that are generated go to fund the reward pool, which is split between authors and curators. 15% of the new tokens are awarded to holders of SP. The remaining 10% pays for the witnesses to power the blockchain.
+Yeni yaratılan tokenların %75'i yazarlar ve küratörler arasında paylaşılmakta olan ödül havuzunu fonlamaya ayrılmıştır. Yeni tokenların %15'i SP sahiplerine ödül olarak dağıtılmaktadır. Geri kalan %10 ise blockchain'i işletmeleri için Witness'lara ödenmektedir.
 
-### Impact of Token Creation Rate
+### Token Yaratım Oranının Etkisi
 
-It is often said that a coin with an inflationary model is not sustainable, but we know from countless real-world examples that the quantity of money does not have a direct and immediate impact on its value, though it certainly plays a role.
+Enflasyon modelli herhangi bir coinin sürdürülebilir olmadığı sıklıkla söylenir. Fakat biz gerçek dünyadaki sayısız örnekten biliyoruz ki, belirli bir rolü kesinlikle olsa da, paranın niceliğinin onun değeri üzerinde doğrudan ve ivedi bir etkisi bulunmamaktadır.
 
-From August 2008 through January 2009 the U.S. money supply[^15] grew from $871B to $1,737B, a rate of over 100% per year and then continued to grow at about 20% per year for the next 6 years. All told the money supply in the U.S. has grown by 4.59x over less than 7 years. During that same time, the value of the dollar relative to goods and services has fallen less than 10% according to the government's price index[^16]. This real-world example demonstrates that supply is only one component of price.
+From August 2008 through January 2009 the U.S. money supply[^15] grew from $871B to $1,737B, a rate of over 100% per year and then continued to grow at about 20% per year for the next 6 years. Toplam olarak, Abd deki para arzı 7 yıldan kısa bir süre içerisinde 4.59 kat artmıştır. During that same time, the value of the dollar relative to goods and services has fallen less than 10% according to the government's price index[^16]. This real-world example demonstrates that supply is only one component of price.
 
 For the first 2 years of Bitcoin’s life the network sustained an annual inflation rate[^17] of over 100%. For the first 5 years it was over 30%, and for the first 8 years it was over 10%. All told the total “spending” Steem does to fund content, curation, and block production amounts to less than 10% APR.
 
 The price of a digital commodity, like STEEM, is driven by both supply and demand. When a long-term holder decides to exit, the supply of STEEM on the market will increase and push the price down. This downward pressure is countered when a new long-term holder decides to buy up the STEEM and convert it back into SP. Additional supply and demand may be be added due to market speculators buying and selling liquid STEEM based on their predictions of the future market price.
 
-# The Power of Steem
+# Steem'in Gücü
 
-Steem recognizes that the value of all user contributions (posts and votes) is greater than the sum of the parts. A single comment is worth next to nothing, but millions of curated posts is worth many millions (or possibly even billions) of dollars. A single vote provides little curation value, but billions of votes is very effective curation. Content without curation is of limited value. Given all the content of the Internet minus the links between it, Google would struggle to produce useful search results. It is the links between information that give it significant value.
+Steem, tüm kullanıcı katkılarının (paylaşımlar ve oylar) değerinin parçaların toplamından daha değerli olduğunu kabul eder. Bir yorumun tek başına değeri sıfıra yakındır; ancak içerik kürasyonu yapılmış milyonlarca paylaşım, milyonlarca (belki de milyarlarca) dolar eder. Bir oy tek başına küçük bir değer yaratır; ancak milyarlarca oy oldukça etkili bir kürasyondur. Kürasyonsuz içeriğin değeri kısıtlıdır. İnternetin bütün içeriğini verin fakat bu içerikleri birbirine bağlayan linkleri kaldırın, Google böyle bir durumda işe yarayacak arama sonuçları üretmekte zorlanacaktır. Bilgilere asıl değerini veren, o bilgileri birbirlerine bağlayan linklerdir.
 
-Because everyone benefits, everyone should pay. In other words, no individual user should be expected to pay for anything, but instead should be paid for everything they do that brings value to Steem. All we need to do is ascertain which user contributions bring a social network value and which ones don’t.
+Herkes yararlandığı için, herkes ödemeli. Bir başka deyişle, tek başına hiçbir kullanıcıdan herhangi bir şey için ödeme yapması beklenmez; buna karşılık kullanıcıya kendi yaptığı, Steem'e değer katan her işlem için ödeme yapılmalıdır. Tek yapmamız gereken, hangi kullanıcı katkısının sosyal ağ değeri yaratıp hangisinin değer yaratmadığını netleştirmektir.
 
-Collectively Reddit users vote 220 times per second and make 23 posts per second. Reddit is valued between $500 million[^18] and $4 billion[^19] which means that each and every upvote and post is worth between $0.06 and $0.50 assuming the value of Reddit is mostly within the past year’s worth of activity. One could argue that most of the value of Reddit is the near-real-time discussions that have occurred within the past week which would dramatically increase the value of new activity. People go where people are today, not where people were last year.
+Reddit kullanıcıları kolektif olarak saniyede 220 oylama, 23 adet de paylaşım yapmaktadır. Reddit'e 500 milyon dolar[^18] ilâ 4 milyar dolar[^19] değer biçilmektedir; bunun anlamı da şudur ki, Reddit'in değerinin büyük oranda geçen yılın faaliyetine eşdeğer olduğunu varsayarsak, oy ve paylaşımların her biri 0.06 ilâ 0.50 dolar değerindedir. Reddit'in değerinin büyük bir kısmının geçtiğimiz hafta süresince gerçekleşen gerçeğe yakın zamanlı tartışmalardan ibaret olduğu ve bu tartışmaların yeni faaliyetin değerini önemli ölçüde artıracağı iddia edilebilir. İnsanlar, diğer insanlar bugün neredeyse oraya giderler; diğer insanların geçen sene bulundukları yere değil.
 
-## No Micropayments, Tips Optional
+## Mikro Ödeme Yok, Bahşişler İsteğe Bağlı
 
-Existing attempts at integrating a cryptocurrency into a social media platform have focused on enabling users to pay one another. Many services have attempted to introduce tipping. The theory is that if we make tipping simple enough then more people will do it. Other services attempt to get people to pay to promote or boost their content’s ranking. Still others attempt to build small prediction markets on how many tips an article will receive.
+Kripto parayı sosyal medya platformlarıyla bütünleştirmeye dönük mevcut teşebbüsler, kullanıcıların birbirlerine ödeme yapmasını sağlamaya odaklandı bugüne kadar. Birçok hizmet bahşiş yöntemini sisteme dahil etmeyi denedi. Teoriye göre, bahşiş vermeyi yeterince kolay hale getirdiğimizde güya daha fazla insan bahşiş verecekti. Diğer hizmetler, insanları kendi içeriklerinin tanıtımını yapmak ve sıralamadaki yerini yükseltmek için ödemeye yapmaya ikna etmeye çalışıyorlar. Hâlâ başka hizmetler, bir makalenin he kadar bahşiş alacağı hakkında küçük boyutlu tahmin piyasaları kurmayı denemektedirler.
 
-All of these approaches boil down to micropayments. They differ only in who is making the payment. They all suffer from insufficient engagement of people making the micropayments. In the search for incentivised content production entrepreneurs have been so focused on who should pay that they missed the obvious reality: everyone benefits from everyone’s actions so everyone should pay or no one should pay, depending on how you look at it.
+Bu yaklaşımların hepsinin temelinde mikro ödemeler yatmaktadır. Bu yaklaşımlar yalnızca ödemeyi kimin yapacağı hususunda birbirinden ayrışırlar. Sözkonusu yaklaşımların hepsinin malûl olduğu sorun, mikro ödeme yapacak kişilerin taahhütlerini gerektiği gibi yerine getirmemesidir. Teşvik sistemine dayalı bir içerik üretimi arayışındaki girişimciler kimin ödeme yapması gerektiği üzerine o kadar fazla kafa yordular ki apaçık bir hakikati gözden kaçırdılar: herkes herkesin faaliyetinden fayda sağlar; öyle ki ya herkes ödeme yapmalı ya da kimse ödeme yapmamalıdır; nereden baktığınıza bağlı.
 
-Steem bypasses micropayments completely because when a user upvotes a post it is the community that pays the bill. The same amount of money will be spent whether the user upvotes a post or not and the funds will not come from the voter.
+Steem mikro ödemeleri tamamen devre dışı bırakmıştır zira bir kullanıcı bir paylaşıma destekleyici nitelikte oy verdiği zaman faturayı topluluğun tümü ödemektedir. Kullanıcı bir paylaşımı destekleyici nitelikte oylasın veya oylamasın aynı miktarda para yine ödenecek, fonlar da kaynağını oy kullanan kişilerden almayacaktır.
 
-The mental energy associated with making an economic decision becomes a barrier to participation for most people.
+Ekonomik bir karar vermek için gerekli olan zihinsel enerji, birçok insan için, sisteme katılmayı engelleyen bir bariyer halini alıyor.
 
-*We already face a multitude of choices everyday with regards to what to access online in this digital era of the information explosion, and every additional decision that we must make simply adds on to the uncertainty and anxiety we face. Micropayment supporters believe that a simplified implementation can minimize the intrusiveness of micropayments and improve user experience, but their argument only creates double standards for the decision making process \[2\]. A transaction cannot simultaneously be worth enough to warrant a decision and worth so little that the decision is automatic. **The only transactions that users can approve without thought are ones that cost them nothing**, thus any micro-transaction of positive value will incur mental costs through its requiring a decision. Furthermore, mental transaction costs actually rise below a certain threshold value, a phenomenon that places micropayments at an even greater disadvantage. For instance, it is easy to think that a copy of today's newspapers costs $1, but readers face much more difficulty and anxiety in deciding on the value of each article or word. Such a dilemma will only be replicated and exacerbated if all online content were to be broken down into their components and individually valued within a micropayment system.*
+*Bilginin yaygınlaştığı bu dijital çağda neye çevrimiçi erişip neye erişmeyeceğimize dair günlük yaşamımızda zaten birçok seçim yapmak zorunda kalıyoruz; üstelik vermek zorunda kaldığımız her bir ilave karar maruz kaldığımız belirsizliği ve kaygıyı artırıyor yalnızca. Mikro ödeme taraftarları, basitleştirilmiş bir uygulamanın mikro ödemelerin kullanışsızlığını azaltabileceğine ve kullanıcı deneyimini iyileştirebileceğine inanıyor; ne var ki bu kişilerin ileri sürdüğü sav, karar alım sürecinde çifte standart üretmekten başka bir sonuç vermiyor. Bir işlem, verilen bir kararı meşrulaştıracak kadar değerli olamaz; işlemin değeri o kadar azdır ki karar otomatik olarak verilir. ** Kullanıcıların hiç düşünmeden onaylayacağı tek işlem, onlara maliyet çıkarmayan işlemdir**; bu yüzden pozitif değere sahip herhangi bir mikro işlem, bir karar vermeyi gerektirdiği için zihinsel maliyetler yaratacaktır. Dolayısıyla, zihinsel işlem maliyetleri aslında belirli bir eşik değerinin altında artış göstermektedirler; bu da mikro ödemeleri daha da dezavantajlı kılan bir olgudur. Sözgelimi, bugünün gazetelerinin bir nüshasının 1 dolar ettiğini düşünmek kolaydır; gelgelelim okuyucular makalelerin ve sözcüklerin değeri hakkında hüküm verirken çok daha fazla güçlükle ve kaygıyla baş başa kalmaktadır. Çevrimiçi içeriklerin tümü bileşenlerine ayrıştırılsaydı ve bir mikro ödeme sistemi ile bireysel bazda değerlendirilseydi, böyle bir ikilem ancak pekiştirilmiş ve şiddetlendirilmiş olurdu.*
 
--Micropayments: A Viable Business Model[^20]
+-Mikro ödemeler: Sürdürülebilir bir Ticaret Modeli[^20]
 
-Under Steem, micropayments are paid to content producer, but those who vote for the content do not pay. Instead, the cost of the reward is paid for via new tokens. Someone can join the system, vote to pay someone, and then exit the system with more money than they started with (assuming the market valuation of the Steem system remained constant). In other words, the micropayment solution provided by Steem provides a user-experience similar to many widely used websites that have user-moderated content.
+Steem'de mikro ödemeler içerik üreticisine yapılır; buna karşılık içerik için oy verenler ödeme yapmazlar. Bunun yerine, ödülün bedeli yeni tokenlar aracılığıyla ödenir. İsteyen herkes sisteme katılabilir, birine ödeme yapılması için oy kullanabilir ve sonra başlangıçta sahip olduğundan daha fazla parayla sistemden çıkabilir (Steem sisteminin piyasadaki değerlemesinin sabit olduğunu varsayıyoruz). Bir başka deyişle, Steem'in sunduğu mikro ödeme çözümü, yaygın şekilde kullanılan web sitelerininkine benzeyen bir kullanıcı deneyimi sunar ki bu web sitelerinde içerik moderasyonu kullanıcılar tarafından yapılmaktadır.
 
-Furthemore, Steem pays people to figure out who should be paid! This kind of thinking is revolutionary.
+Üstelik Steeem, insanlara kime ödeme yapmak gerektiğini tespit etsinler diye ödeme yapar! Bu devrimci bir fikirdir.
 
-## Value is in the Links
+## Değer Linklerde
 
-The Internet would lose the vast majority of its value if all links among content were removed. It is the relationship among web pages that allows Google to identify the best apple pie recipe among the 16 million results. Without the links the only information Google would have is word frequency.
+Eğer içerik bünyesindeki tüm linkler kaldırılsaydı, İnternet değerinin çok büyük bir bölümünü yitirirdi. Google'a 16 milyon sonuç arasından en iyi elma turtası tarifini saptama imkanını veren şey web sayfaları arasındaki ilişkidir. Linkler olmasaydı Google yalnızca sözcüklerin hangi sıklıkla kullanıldığının bilgisine sahip olabilirdi.
 
-Links can take many forms and have adapted over time. Every time a user votes on content in a social network they add a connection between themselves and the content. This in turn links the consumer to the producer through the content. The more connections a network has the more valuable the information becomes. It is the relative and intentional connectedness of information that gives it value.
+Linkler birçok biçim alabilir; zaman içinde birçok farklı biçime de girmişlerdir zaten. Herhangi bir sosyal ağda herhangi bir içeriği oylayan kullanıcı, kendisiyle içerik arasında bir bağlantı oluşturur. Bu da içerik aracılığıyla müşteriyi üreticiye bağlar. Bir ağ ne kadar fazla bağlantıya sahipse sunduğu bilgi de o kadar değerlidir. Bir bilgiye değerini bahşeden, o bilginin göreli ve kasıtlı bağlantılılığıdır.
 
-A social network can maximize the value extracted from a set of content by maximizing the quantity and quality of connections. Curating content is expensive and time consuming while being near impossible for computers to perform in the absence of links. Steem rewards users who are among the first to find and identify new content.
+Bir sosyal ağ, bağlantıların niceliğini ve niteliğini maksimize ederek, bir içerik setinden süzülen değeri maksimize edebilir. İçerik düzenlemek pahalı ve zaman alıcıdır; bunun yanında, linkler olmaksızın bilgisayarların iş görmesi neredeyse imkansızdır. Steem, yeni içerikleri bulup tespit eden ilk kullanıcıları ödüllendirir.
 
-By incentivising curation the Steem network is able to use automated algorithms to extract the most valuable information from a massive amount of content.
+Steem ağı, içerik düzenlemeyi teşvik ederek, devasa bir içerik bütününden en değerli bilgiyi süzmek için otomatik algoritmalar kullanabilmektedir.
 
-## Solving the Cryptocurrency Onboarding Problem
+## Kripto Para'nın Onboarding Sorununu Çözmek
 
-It isn’t easy to get into cryptocurrency[^21]. Someone who discovers Bitcoin and wants to try it out quickly learns that they will need to sign up with an exchange and fund their account with a credit card or wire transfer. What would Facebook’s adoption rate have been like if you had to fork over money and a two forms of ID?
+Kripto parayı kullanmayı öğrenmek kolay değildir [^21]. Bitcoin'den yeni haberdar olan ve onu bir denemek isteyen bir kişi çok geçmeden para bozdurarak kayıt olması ve hesabını bir kredi kartı veya banka havalesiyle fonlaması gerektiğini öğrenir. Eğer üyelik için para ödemek ve iki çeşit kimlik belgesi arz etmek zorunda kalsaydınız Facebook kullanım oranı ne seviyede olurdu?
 
-Steem solves this problem by giving everyone a way to get paid for doing simple, but valuable, tasks. This will help to widely distribute STEEM tokens. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless.)
+Steem, herkese yaptığı basit ama değerli görevlerin parasal karşılığını alabilmenin imkanını sunarak bu sorunu çözmektedir. Bu STEEM tokenlarını kapsamlı bir şekilde dağıtmayı sağlayacaktır. Bu yararlı bir şeydir zira kripto paralar ağ etkisi yaparlar (yani, kullanıcı sayısı arttıkça kripto para daha kullanışlı hale gelir; aykırı bir örnek vermek gerekirse, Satoshi Bitcoin'in %100'ünü kendisine saklamak istediğini düşünün, bu durumda Bitcoin'in hiçbir değeri kalmazdı)
 
-## Solving the Cryptocurrency Liquidation Problem
+## Kripto Para'nın Likidasyon Sorununu Çözmek
 
-A currency that is difficult to use or impossible to sell has little value. Someone who comes across $1.00 worth of Bitcoin will discover that it costs more than $1.00 to sell that Bitcoin. They have to create an account with an exchange, perform KYC validation, and pay fees. Small amounts of cryptocurrency are like small change that people are unwilling to bend over to pick up.
+Kullanması zor olan ya da satması imkansız olan bir paranın düşük bir değeri olur. Eline 1 dolar değerinde Bitcoin geçen bir kişi, bu Bitcoin'i satmanın 1 dolardan daha fazlasına mal olacağını fark edecektir. Bu kişi, para bozdurarak bir hesap açmak, Müşterini Tanı onaylamasından geçmek ve kullanım harcı ödemek zorundadır. Küçük miktarda kripto para, insanların yerden almak için eğilmeye tenezzül etmeyeceği kadar düşük para üstleri gibidir.
 
-Merchants give users a way to quickly convert their cryptocurrency into tangible goods and services. Merchants need a currency pegged to their unit of account, normally dollars. Accepting a volatile currency introduces significant accounting overhead.
+Tacirler, kullanıcılara sahip oldukları kripto paraları çabucak maddi mal ve hizmetlere dönüştürmenin bir imkanını sunar. Tacirler, kendi hesap birimlerine sabitlenmiş bir para birimine, genellikle de dolara gereksinim duyarlar. İstikrarsız bir para birimini kabul etmek önemli muhasebe masraflarına sebep olur.
 
-Merchants will accept any currency if it increases their sales. Having a large user base with a stable currency such as SBD lowers the barrier to entry for merchants. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
+Tacirler satışlarını artıran her türlü para birimini kabul edecektir. SBD gibi sabit bir para birimine ve geniş bir kullanıcı tabanına sahip olmak, tacirlerin sisteme girişinin önündeki engelleri azaltır. Tacirlerin varlığı, kullanıcıların sistemden para bozdurmak zorunda kalmadan çıkabilmeleri için bir çıkış şeridi yaratmak yoluyla sistemi geliştirir.
 
-Another way that people can liquidate the small amounts of cryptocurrency they receive from participating on the Steem platform is through *tipping* others. This is like leaving the small change as a tip for your waiter. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
+İnsanların Steem platformuna katılmakla kazandıkları küçük miktardaki kripto paraları likide etmesinin bir diğer yolu da diğer insanlara *bahşiş* vermektir. Bu, küçük miktardaki para üstünü bahşiş olarak garsona bırakmak gibidir. Yeterince insan küçük bahşişler bıraktığında bu kayda değer bir miktara ulaşır. Hem siz hem de garson bahşişten yarar sağlamış olursunuz.
 
-## Censorship
+## Sansür
 
-Steem is a decentralized network that is operated by witnesses in jurisdictions around the world. All user actions are publicly recorded on the blockchain, and can be publicly verified. This means that there is no single entity that can censor content that is valued by STEEM holders.
+Steem, tüm dünyadaki yargı sistemlerindeki witnessler tarafından işletilen desantralize bir ağdır. Tüm kullanıcı faaliyetleri kamuya açık bir şekilde blockchain'e kaydedilir ve kamu tarafından denetlenebilir. Bu da STEEM paydaşlarınca kendisine değer atfedilmiş olan içeriği sansürleyebilecek hiçbir entitenin olmadığı anlamına gelir.
 
-Individual websites such as steemit.com may censor content on their particular site, but content published on the blockchain is inherently broadcast traffic and mirrors all around the world may continue to make it available.
+Steemit.com gibi bireysel web siteleri kendi sitelerinde içerik sansürlemesi yapabilirler; buna karşın blockchain'de yayınlanan içerik doğası gereği trafik neşreder ve tüm dünyadaki aynalar da bu içeriği erişilebilir kılmayı sürdürebilirler.
 
-Freedom of speech is the foundation of all other liberties and any infringement upon freedom of speech undermines the only peaceful means of reaching consensus: discussion. Without free discussion voters cannot be fully informed, and uninformed voters are a greater threat to society than losing the right to vote. Censorship is a means of stealing votes through limiting public discourse. Steem is committed to enabling free speech and building a free society.
+İfade özgürlüğü diğer tüm özgürlüklerin temelidir; ifade özgürlüğüne yönelik herhangi bir ihlal, oydaşmayı tesis etmenin yegane barışçıl yolunun, yani tartışmanın temelini sarsar. Özgür tartışma olmaksızın, oy verenler tamamen bilgilendirilemez; bilgilendirilmemiş oy verenler de toplum için oy kullanma hakkını kaybedenlerden daha büyük bir tehdit oluştururlar. Sansür, kamusal söylemi kısıtlanması aracılığıyla oy çalmanın bir biçimidir. Steem, ifade özgürlüğünü tesis etme ve özgür bir toplum inşa etme amaçlarına kendini adamıştır.
 
-## Solving Organic Discovery via Search Engine Optimization
+## Arama Motoru Optimizasyonu aracılığıyla Organik Keşfi Çözümlemek
 
-Most cryptocurrencies generate little value for those who are not actively using the network. Steem, by contrast, generates content and encourages users to share it. This content gets indexed by search engines and ultimately will bring value to a large number of passive users. This search traffic creates organic advertising for the Steem network and grows the network effect.
+Kripto paraların çoğu, ağı aktif olarak kullanmayan kişiler için küçük bir değer yaratır. Buna karşın Steem, içerik üretir ve kullanıcıları bu içeriği paylaşmaya teşvik eder. Bu içerik arama motorları tarafından endekslenir; en nihayetinde de çok sayıda pasif kullanıcıya değer sağlayacaktır. Arama trafiği, Steem ağı için organik reklamlar oluşturur ve ağ etkisini büyütür.
 
-## Shifting Toward Blockchain-based Attribution
+## Blockchain temelli Atıfa geçiş
 
-The internet represents the easiest medium for distributing information in the world. With that said, it can be a frightening place for content creators who would like to own their content and have it shared with proper attribution. On current social media platforms, attribution is something that can be lost overnight - a posted video or image can be replicated and re-shared without consent or regard for the creator.
+İnternet, dünya üzerinde bilgi paylaşımının en kolay aracıdır. Hal böyleyken İnternet, kendi içeriğine sahip olmayı ve onları kendi adlarına atıfla paylaşıma sokmayı arzulayan içerik üreticileri için korkunç bir mekana dönüşebilir. Mevcut sosyal medya platformlarında atıf bir gecede kaybedilebilecek bir şeydir: yüklenen bir video veya resim, üreticinin izni olmaksızın kopyalanıp tekrar paylaşılabilir.
 
-Under blockchain-based social media, a creator or author would always be able to point to a public record and timestamp showing proof of their content origination. In a circumstance where a creator would like to address those who have re-shared without permission or attribution, blockchain-based records provide public proof that the content was posted by a particular user at a particular time. In the future, blockchain-based attribution could come to be recognized by governments for its authenticity and could hold weight in court, which would give content creators greater powers to control their work.
+Blockchain temelli sosyal medyada ise bir üretici veya yazar, içerik kaynağının ispatını gösteren herkese açık bir kayda ve zaman damgasına gönderme yapabilir. Herhangi bir içerik yaratıcısının kendi içeriğini izin almadan veya atıf yapmadan tekrar paylaşanlara hitap etmek istemesi durumunda, blockchain temelli kayıtlar sözkonusu içeriğin belirli bir kullanıcı tarafından belirli bir tarihte paylaşıldığına dair kamuya açık delil sunarlar. Gelecekte, blockchain temelli atıf özgünlüğü dolayısıyla hükümetler tarafından tanınacak, hukuki davalarda işe yarayabilecektir ki bunlar kendi çalışmalarını denetlemek için içerik yaratıcılarına daha fazla güç bahşedecektir.
 
-While a timestamping service can be built on almost any blockchain, and several efforts exist to build this kind of service on the Bitcoin network, Steem has a useful advantage in this realm because content publishers are “first class citizens” -- the Steem blockchain is built from the ground up around the use case of content publication, which allows content creators to have the blockchain to validate their content at a certain point in time simply by writing their post using the same authoring tools used by other Steem users.
+Zaman damgası hizmeti hemen hemen bütün blokchain sistemlerinde kurulabilir ki Bitcoin ağında böyle bir hizmet kurmak için birtakım çabalar zaten mevcuttur. Buna mukabil Steem, bu sahada işe yarar bir avantaja sahiptir zira içerik paylaşımcıları "birinci sınıf vatandaşlar"dır -- Steem blockchain baştan aşağı içerik paylaşma senaryosu etrafında kurulmuştur ki bu içerik üreticilerine, diğer Steem kullanıcılarıyla aynı yazım araçlarını kullanarak kendi postlarını yazma ve belirli bir zaman aralığında içeriklerini blockchain sistemine onaylatma olanağı tanır.
 
-## Replacing Advertising with Blockchain-based Content Rewards
+## Reklamları Blockchain temelli İçerik Ödülleriyle İkame etmek
 
-Under most content monetization models, content creators leverage advertising in one form or another. Many creators recognize how advertising may diminish their work’s value to the consumer, yet creators very often must seek returns on their time by monetizing. Advertising represents a double-edged sword: With ads, a creator can make money most easily. Without ads, monetization is difficult but the content is richer.
+İçerikten para kazanma modellerinden çoğunda, içerik üreticileri o veya bu biçimde reklamlardan azami düzeyde yararlanmaktadır. Birçok içerik üreticisi, reklamların kendi işlerinin müşteri nezdindeki değerini nasıl düşürdüğünün bilincindedir; ne var ki içerik üreticileri çoğu zaman paraya çevirme yoluyla sarf ettikleri zamanın karşılılığını almak zorundadırlar. Reklam iki ucu keskin bir bıçaktır: reklamlar sayesinde içerik üreticisi en kolay yoldan para kazanabilir. Reklamlar olmadan paraya çevirme zordur; buna karşılık üretilen içerik daha zengindir.
 
-Creators posting to social media outlets that are connected to Steem may monetize merely by having their work recognized (or ”liked”) by the Steem community. Blockchain-based payouts are completely digital and have no middle-man. Therefore monetization by blockchain-based content rewards should be faster and much lower barrier to use than monetization by advertisements.
+Paylaşımlarının Steem topluluğu tarafından tanınmasını (veya "beğenilmesini") sağlamak, Steem ile bağlantılı olan sosyal medya platformlarında paylaşım yapan içerik üreticilerinin katkılarını paraya çevirebilmeleri için yeterlidir. Blockchain temelli ödemeler bütünüyle dijital olup komisyoncu kişi barındırmazlar. Dolayısıyla blockchain temelli içerik ödülleri aracılığıyla para kazanma daha hızlı işler hale gelmeli ve reklam aracılığıyla para kazanmaya nazaran daha kullanımı daha engelsiz olmalıdır.
 
 # Sonuç
 
-Steem is an experiment designed to address challenges in the cryptocurrency and social media industries by combining the best aspects from both. Steem presents earning opportunities to content creators and internet readers in ways that have not existed within the social media industry. Within Steem, individuals earn real rewards online that are directly correlated to their contributions. Those rewards may have dollar value due to the market price discovery and liquidity of Steem, and the people who hold Steem may have more exclusive earning powers than those who do not.
+Steem, kriptopara ve sosyal medya endüstrilerindeki güçlükleri her iki endüstrinin en iyi yönlerini bir araya getirerek irdelemek amacıyla tasarlanmış bir deneyimdir. Steem, içerik yaratıcılarına ve internet okuyucularına sosyal medya endüstrisi içinde daha önce hiç kullanılmamış yöntemlerle para kazanma fırsatları sunar. Steem dahilinde bireyler, kendi katkılarıyla doğrudan ilintili çevrimiçi gerçek ödüller kazanırlar. Bu ödüller, Steem'in pazar fiyatı keşfi ve likiditesi nedeniyle dolar değerine sahip olabilir; ellerinde Steem bulunduran insanlar ise bunu yapmayan insanlardan daha fazla kazanım gücüne sahip olabilirler.
 
-[^1]: Reddit’s Cryptocurrency, Forbes, Erika Morphy, October 2014 http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/\#4e07b05332b9
+[^1]: Reddit'in kriptoparası, Forbes, Erika Morphy, Ekim 2014 http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/\#4e07b05332b9
 
-[^2]: Sweat Equity, Investopedia http://www.investopedia.com/terms/s/sweatequity.asp
+[^2]: Alın teriyle oluşturulmuş sermaye, Investopedia http://www.investopedia.com/terms/s/sweatequity.asp
 
-[^3]: Meta-moderation is a second level of comment moderation. Users are invited to rate a moderator's decision in order to improve moderation. https://en.wikipedia.org/wiki/Meta-moderation\_system
+[^3]: Metamoderasyon, yorum moderasyonunun ikinci seviyesidir. Kullanıcılar, moderasyonu geliştirmek amacıyla moderatörlerin verdiği kararları oylamaya davet edilir. https://en.wikipedia.org/wiki/Meta-moderation\_system
 
 [^4]: The Impossible Trinity, economic theory https://en.wikipedia.org/wiki/Impossible\_trinity
 

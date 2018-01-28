@@ -1,126 +1,126 @@
 # Steem
 
-## An incentivized, blockchain-based, public content platform.
+## Isang incentivized blockchain batay sa pang publikong content platform.
 
-August 2017
+Ang Agosto 2017
 
-# Translator's notes
+# Ang talaan ng tagasalin
 
-Placeholder for translator's notes.
+Placeholder para sa talaan ng tagasalin.
 
-# Abstract
+# Ang abstract
 
-Steem is a blockchain database that supports community building and social interaction with cryptocurrency rewards. Steem combines concepts from social media with lessons learned from building cryptocurrencies and their communities. An important key to inspiring participation in any community, currency or free market economy is a fair accounting system that consistently reflects each person's contribution. Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
+Ang Steem ay isang blockchain database na sumosuporta sa pag bubuo ng komunida at pakikipag-ugnayan sa lipunan upang magkaruon ng cryptocurrentce na gantimpala. Ang steem ay pinag iisa ang konsepto ng social media kasama ang aral na natutunan mula sa nabuo ng cryptocurrencies at kanilang kuminidad. Isang mahalagang susi upang magbigay inspirasyon sa pagsali sa kahit saang kumunidad, pera o ekonomiya ng malayang merkado ay isang pantay na pamamaraan ng accounting na palaging maipakita ang ambag ng bawat mamamayan. Ang Steem ang kauna unang cryptocurreny na sumobok sa Tama at malinaw na pagbibigay ng pabuya sa walang katapusang bilang ng mga tao na gumagawa ng * suhetibong kontribusyon * sa komunidad.
 
-# Table of Contents
+# Ang talaan ng nilalaman
 
 <!-- toc -->
 
-# Introduction
+# Ang pasimula
 
-Collectively, user-generated content has created billions of dollars worth of value for the shareholders of social media companies, such as Reddit, Facebook, and Twitter. **In 2014, Reddit hypothesized that its platform would be improved if everyone who contributed to reddit.com by posting stories, adding comments or voting were rewarded with a fair share in Reddit, Inc.[^1]**. Steem aims to support social media and online communities by returning much of its value to the people who provide valuable contributions by rewarding them with cryptocurrency, and through this process create a currency that is able to reach a broad market, including people who have yet to participate in any cryptocurrency economy.
+Nag sama Sama ang mga user-generated na mga nilalaman upang makalikha ng bilyon dalars na halaga para sa mga magkakasamang kompanya sa social media tulad ng Reddit, facebookat twitter. **Noong 2014, Gumawa ng teorya ang Reddit na maaring mapapabuti ang kanilang plataporma kung lahat ng mga tao na tumulong sa reddit.com sa pamamagitan ng pagpaskil ng mga kuwento, pagdaragdag ng mga komento o pagboto ay mabigyan ng makatarungan na bahagi mula sa Reddit, Inc.[^1]**. Nilalayon ng Steem na suportahan ang social media at mga online na komunidad sa pamamagitan ng pagbabalik ng halaga nito sa mga tao na nakapagbigay ng mahalagang kontribusyon sa pamamagitan ng pagbigay ng gantimpala na mga cryptocurrency, at sa pamamagitan ng prosesong ito makapaglikha ng isang pera na may kakayahan na makaabot ang malawak na merkado, kabilang ang mga tao na hindi pa sumali sa anumang ekonomiya ng cryptocurrency.
 
-There are some key principles that have been used to guide the design of Steem. The most important principle is that everyone who contributes to a venture should receive pro-rata ownership, payment or debt from the venture. This principle is the same principle that is applied to all startups as they allocate shares at founding and during subsequent funding rounds.
+May mga ilang mahahalagang prinsipyo na ginamit upang gabayan ang pagdisenyo ng Steem. Ang pinakamahalagang prinsipyo ay lahat ng tao na nag-aambag sa pakikipagsapalaran ay dapat makatanggap ng pro-rata na pagmamay-ari, pagbayad o utang mula sa pakikipagsapalaran. Ang prinsipyong ito ay parehong prinsipyo na ginagamit ng lahat ng mga startup habang sila ay naglaan ng mga shares sa pagtatatag at sa panahon ng susunod na rounds ng pagpondo.
 
-The second principle is that all forms of capital are equally valuable. This means that those who contribute their scarce time and attention toward producing and curating content for others are just as valuable as those who contribute their scarce cash. This is the sweat equity principle[^2] and is a concept that prior cryptocurrencies have often had trouble providing to more than a few dozen individuals.
+Ang ikalawang prinsipyo ay ang lahat ng mga anyo ng kapital ay pantay-pantay ang halaga. Ito ay nangangahulugan na ang mga yaong mag-ambag ng kanilang mga kakaunting panahon at atensyon papunta sa paggawa at pag curate ng mga nilalaman para sa iba ay kasing halaga lamang tulad ng mga tao na nag-ambag ng kanilang kakaunting pera. Ito ang sweat equality priciple [^2] at isang konsepto ng bago ng mga cryptocurrency na madalas magka problema sa pagbigay sa ilang higit sa anim na mga indibidwal.
 
-The third principle is that the community produces products to serve its members. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
+Ang pangatlong prinsipyo ay ang komunidad ay gumagawa ng mga produkto upang malingkuran ang mga miyembro nito. Ang prisipyong ito ay ipinakita sa pamamagitan ng mga unyon ng kredito, ko-op ng mga pagkain, at pagbabahagi ng planong kalusugan, na paglingkuran ang mga miyembro ng kanilang komunidad sa halip na ipagbili ang mga produkto o serbisyo sa mga tao sa labas ng komunidad.
 
-The Steem community provides the following services to its members:
+Ang Steem na komunidad ay nagbibigay ng mga sumusunod na serbisyo sa kanilang mga miyembro:
 
-1. A source of curated news and commentary.
-2. A means to get high quality answers to personalized questions.
-3. A stable cryptocurrency pegged to the U.S. dollar.
-4. Free payments.
-5. Jobs providing above services to other members.
+1. Ang pinagmumulan ng curated na mga balita at komentaryo.
+2. Isang paraan upang makakuha ng mataas na kalidad na sagot sa mga gawang pansarili na tanong.
+3. Isang matatag na cryptocurrency na naka-peg sa U.S. dollar.
+4. Libre na mga pagbabayad.
+5. Mga trabaho na nagbibigay ng mataas na serbisyo sa iba pang mga miyembro.
 
-Steem’s purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem’s incentives may result in better outcomes for most participants.
+Ang layunin ng Steem at pagbabago ng mga hangganan ng insentibong pang-ekonomya ay maaaring magbunga ng tama at mas inklusibong resulta para sa lahat ng kabahagi kaysa sa social media at plataporma ng cryptocurrency na nauna nito. Ang papel na ito ay galugarin ang mga umiiral na insentibong pang-ekonomiya at ipapakita kung paano ang mga insentibo ni Steem ay maaring magresulta ng mas mahusay na kinalabasan para sa karamihan ng mga kalahok.
 
-## Recognizing Contribution
+## Pagkilala sa Kontribusyon
 
-Steem is designed from the ground up to address the major barriers to adoption and monetization of a social media based economy. Our thesis is that the same techniques used to grow major social media platforms can be used to bootstrap a successful cryptocurrency. Economic incentives enabled by cryptocurrency can dramatically facilitate the growth of a new social media platform. It is the synergy between cryptocurrency and social media that we believe may give Steem a powerful advantage in the market.
+Dinisenyo ang Steem mula sa lupa pataas upang tugunan ang mga pangunahing hadlang sa pag-ampon at monetization ng mga ekonomiya batay sa social media. Ang aming thesis ay ang mga parehong paraan na ginagamit upang palaguin ang mga pangunahing plataporma ng social media ay maaring gamitin upang i-bootstrap ang isang matagumpay na cryptocurrency. Kapansin-pansing mapapadali ng mga pang-ekonomiyang instentibo na pinagana ng cryptocurrency ang pag-unlad ng mga bagong social media platform. Sa synergy ng cryptocurrency at social media na naniniwala kami na maaring magbigay sa Steem ng isang malaking kalamangan sa merkado.
 
-The challenge faced by Steem is deriving an algorithm for scoring individual contributions that most community members consider to be a fair assessment of the subjective value of each contribution. In a perfect world, community members would cooperate to rate each other's contribution and derive a fair compensation. In the real world, algorithms must be designed in such a manner that they are resistant to intentional manipulation for profit. Any widespread abuse of the scoring system could cause community members to lose faith in the perceived fairness of the economic system.
+Ang hamon na hinaharap ng Steem ay paggawa ng isang algorithm para sa pagmamarka ng mga indibidwal na kontribusyon na para sa karamihan ng mga miyembro ng komunidad ay makatarungan ang subjective na halaga ng bawat kontribusyon. Sa isang perkpektong mundo, ang mga miyembro ng komunidad ay makipagtulungan upang i-rate ang kontribusyon ng bawat isa at makapaggawa ng isang patas na kabayaran. Sa tunay na mundo, ang mga algorithm ay dapat dinesenyo sa paraan na sila ay lumalaban ng mga sadyang maniuplasyon at pansariling kita. Anumang laganap na pang-aabuso sa sistema ng pagmamarka ay maaaring maging sanhi na mawalan ng tiwala ang mga miyembro ng komunidad sa paghihinalaang pagkamatarungan ng sistema ng ekonomiya.
 
-Existing platforms operate on a one-user, one-vote principle. This creates an environment where rankings can be manipulated by sybil attacks and the service providers must pro-actively identify and block abusers. People already attempt to manipulate the Reddit, Facebook, and Twitter scoring algorithms when the only reward is web traffic or censorship.
+Ang mga umiiral na mga plataporma ay nagpapatakbo ng isang-user, isang boto na alituntunin. Ito ay lumilikha ng isang environment na kung saan maaaring manipulahin ang mga ranggo sa pamamagitan ng sybil na pag-atake at ang mga service provider ay dapat aktibong tukuyin at i-block ang mga nang aabuso. Nagtangka na ang mga tao na manipulahin ang mga scoring algorithm ng Reddit, Facebook, at Twitter na ang tanging gantimpala ay web traffic o pagsensura.
 
-The fundamental unit of account on the Steem platform is STEEM, a crypto currency token. Steem operates on the basis of one-STEEM, one-vote. Under this model, individuals who have contributed the most to the platform, as measured by their account balance, have the most influence over how contributions are scored. Furthermore, Steem only allows members to vote with STEEM when it is committed to a vesting schedule. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
+Ang pangunahing yunit ng akawnt sa plataporma ng Steem ay STEEM, isang cryptocurrency na token. Ang Steem ay nag-ooperate batay sa isang-STEEM, isang-boto. Sa ilalim ng modelong ito, ang mga indibidwal na pinaka maraming nai-ambag sa plataporma, na sukat ng balanse ng kanilang akawnt, ay mas malaki ang katumbas kung ilan ang marka ng bawat kontribusyon. Bukod pa rito, ang Steem ay pinapayagan lamang ang mga miyembro na mag boto gamit ang STEEM kapag ito ay nakatuon sa isang vesting. Sa ilalalim ng modelong ito, ang mga miyembro ay mayroong pinansiyal na insentibo upang bumoto sa paraang magpapakinabang sa pagmatagalang halaga ng kanilang STEEM.
 
-Steem is designed around a relatively simple concept: *everyone’s meaningful contribution to the community should be recognized for the value it adds.* When people are recognized for their meaningful contributions, they continue contributing and the community grows. Any imbalance in the give and take within a community is unsustainable. Eventually the givers grow tired of supporting the takers and disengage from the community.
+Dinesenyo ang Steem sa paligid ng isang relatibong konseptpo: *lahat ng makabuluhang kontribusyon sa komunidad ay dapat kilanlanin ang halaga na nadagdag nito. * Kapag nakilala ang mga tao para sa kanilang makabuluhang kontribusyon, sila ay magpapatuloy mag-ambag at lalaki ang komunidad. Anumang liblib sa pagbigay o pagkuha sa loob ng isang komunidad ay hindi sustainable. Sa huli ang mga tagapagbigay ay mapapagod sa pagsuporta ng mga tagapagkuha at aalis sa komunidad.
 
-The challenge is creating a system capable of identifying what contributions are needed and their relative worth in a way that can scale to an unbounded number of people.
+Ang hamon ay pag likha ng isang sistema na may kakayahang tukuyin kung ano ang mga kailangang kontribusyon at mga halaga nito sa isang paraan na maaaring masukat sa walang-katapusang bilang ng mga tao.
 
-A proven system for evaluating and rewarding contributions is the free market. The free market can be viewed as a single community where everyone trades with one another and rewards are allocated by profit and loss. The market system rewards those who provide value to others and punishes those who consume more value than they produce. The free market supports many different currencies and money is simply a commodity that everyone finds easy to exchange.
+Isang sistema na napatunayan ang pagsuri at pagbigay ng pabuya sa mga nag-ambag ay ang libreng merkado. Ang libreng merkado ay maaring tingnan bilang isang komunidad na kung saan ang lahat ay nakikipag-trade sa isa't isa at ang mga pabuya ay inilalaan sa kita at lugi. Ang sistema ng merkado ay binibigyan ng pabuya ang mga nagbibigay ng halaga sa iba at pinaparusahan ang mga kumakain ng mas malaking halaga na ginagawa nila. Ang libreng merkado ay sumusuporta ng maraming iba't ibang mga pera at ang pera ay isang simpleng komodity na para sa lahat ay madali palitan.
 
-Since the free market is a proven system, it is tempting to try to create a free-market system where content consumers directly pay content producers. However, direct payment is inefficient and not really viable for content creation and curation. The value of most content is so low relative to the cognitive, financial, and opportunity costs associated with making a payment that few readers choose to tip. The abundance of free alternatives means that enforcing a ‘paywall’ will drive readers elsewhere. There have been several attempts to implement per-article micropayments from readers to authors, but none have become widespread.
+Dahil napatunayan na ang sistema ng libreng merkado, ito ay kaakit-akit na subukan na gumawa ng isang sistema na free-market na kung saan ang mga mamimili ng nilalaman ay direktang babayad sa mga tagapaggawa ng nilalaman. Subalit, ang direktang pagbayad ay hindi mahusay at hindi talaga viable para sa mga paggawa at curation sa mga nilalaman. Ang halaga ng karamihan ng nilalaman ay sobrang liit kumpara sa mga gasto ng cognitive, pinansyal, at opportunidad na nauugnay sa pagbayad na pinipiling i-tip ng iilang mambabasa. Ang ibig sabihin ng kasaganaan ng mga libreng alternatibo ay ang pagpapatupad ng isang 'paywall' ay magdadala ng mga mambabasa sa ibang lugar. Nagkaroon na ng ilang pagtatangka na ipatupad ang micropayments sa bawat artikulo mula sa mga mambabasa patungo sa may-akda, ngunit wala ang naging laganap.
 
-Steem is designed to enable effective micropayments for all kinds of contribution by changing the economic equation. Readers no longer have to decide whether or not they want to pay someone from their own pocket, instead they can vote content up or down and Steem will use their votes to determine individual rewards. This means that people are given a familiar and widely used interface and no longer face the cognitive, financial, and opportunity costs associated traditional micropayment and tipping platforms.
+Ang Steem ay dinesenyo upang paganahin ang mabisa na mga micropayments para sa lahat ng uri ng kontribusyon sa pamamagitan ng pagbago ng equation ng ekonomiya. Hindi na kailangan pumili ang mga mambabasa kung gusto nilang bayaran ang isang tao mula sa kanilang sariling bulas, sa halip maaari nilang iboto pataas o pababa ang nilalaman at ang Steem ay gagamit ng kanilang mga boto upang matukoy ang indibidwal na mga pabuya. Ito ay nangangahulugan na ang tao binigyan ng isang pamilyar at malawak na ginagamit na interaface at hindi na kailangan harapin ang mga gasto ng nagbibigay-malay, pinansiyal, at oportunidad na naguugnay sa tradisyonal micropayment at mga plataporma sa pag-tip.
 
-Voting input from community members is critical for Steem to accurately allocate payments to contributors. Voting can therefore be viewed as a crucial contribution and worthy of rewards on its own. Some platforms, such as Slashdot, use meta-moderation[^3] as a way to rank and reward honest moderators. Steem chooses to reward those who contribute the most to the total promotion of a piece of content and rewards the voters proportional to the ultimate reward paid to the content creator.
+Ang mga input ng pagboto ng mga miyembro ng komunidad ay kritikal para sa Steem na tama ang paglaan ng mga bayad sa mga kontributor. Samakatuwid, ang mga pagboto ay maaring tingnan bilang isang mahalagan kontribusyon at karapat-dapat na gantimpalaan sa sarili. Ang mga ilang plataporma, tulad ng Slashdot, ay gumagamit ng meta-moderation[^3]bilang isang paraan na pag-rank at pag bigay pabuya sa mga matatapat na mga moderator. Pinili ng Steem na gantimpalaan ang mga nagbibigay ng karamihan sa kontribusyon sa kabuuan nito at ang gantimapalaan ng proporsyonal sa totoong pabuya na binayad sa mga tagapaggawa ng nilalaman ang mga tagapagboto.
 
-# Ways to Contribute
+# Paraan upang mag Kontribyut
 
-This section outlines the ideas behind Steem and its rewards for people who provide meaningful and measurable contributions to the Steem community.
+Binabalangkas ng bahaging ito ang mga ideya sa likod ng Steem at ang mga pabuya nito para sa mga tao na nagbigay ng mga makabuluhan at nasusukat na mga kontribusyon sa komunidad ng Steem.
 
-## Capital Contributions
+## Kabisera ng Kontribusyon
 
-There are two items a community can offer to attract capital: debt and ownership. Those who buy ownership profit when the community grows but lose if the community shrinks. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
+Mayroong dalawang bagay na pwedeng i-alok ng isang komunidad upang makaakit ng mga kabisera: utang at pagmamay-ari. Doon sa mga bibili ng pagmamay-ari ay kikita kapag lumalaki ang komunidad pero malulugi kapag liliit ang komunidad. Ang mga bibili ng utang ay garantisado ng isang tiyak na halaga ng interes ngunit hindi maaaring lumahok sa anumang kita na natanto sa pamamagitan ng paglaki ng komunidad. Ang dalawang uri ng kapital na kontribusyon ay mahalaga sa pag-unlad ng komunidad at halaga ng pera nito. Bukod pa rito, mayroong dalawang paraan upang hawakan ang pagmamay-ari: likod at vesting. Ang vesting na pagmamay-ari ay gumagawa ng isang pang-matagalan na pangako at hindi pwedeng ibenta ng iilang panahon.
 
-The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SBD).
+Ang Steem network ay tumatawag ng iba't ibang klase ng mga asset. Steem (STEEM), Steem Power(SP), at Steem Dollars(SBD).
 
 ## Steem (STEEM)
 
-Steem is the fundamental unit of account on the Steem blockchain. All other tokens derive their value from the value of STEEM. STEEM is a liquid currency, and therefore can be bought or sold on exchanges, as well as transferred to other users as a form of payment.
+Ang steem ang pangunahing yunit ng akawnt sa Steem blockchain. Lahat ng ibang uri ng mga token ay kinukuha ang kanilang halaga mula sa halaga ng STEEM. Ang STEEM ay isang likido na pera, at samakatuwid ay maaaring bilhin o ibenta sa mga kalakalan, pati na rin ang pag lipat sa ibang mga user bilang isang paraan na pagbayad.
 
 ## Steem Power (SP)
 
-Start up companies require long-term capital commitment. Those who invest their money in a startup expect to wait years before they can sell their shares and realize their profits. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
+Ang mga start up na kompanya ay nangangailangan ng pang-matagalang pangako sa puhunana. Aasahan ng mga mamuhunan ng pera sa isang startup na iilang taon pa maghihintay bago pwedeng ibenta ang kanilang bahagi at kumita. Kapag walang pang-matagalang pangako, ang isang startup na naghahanap ng karagdagang kapital sa pamamagitan ng pag benta ng karagdagang bahagi ay makikipagkumpitensya sa mga umiiral na shareholders na gustong lumabas. Ang mga matalinong mamuhunan ay gusto na ang kanilang iniambag na kapital ay ma gamit upang mapalaki ang kompanya, pero hindi maaaring mangyari ang paglago kapag ang bagong kapital ay mabibigay sa mga gustong lumabas.
 
-There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
+Malaking halaga ang pagkakaroon ng pang-matagalang pangako dahil nagbibigay-daan ito sa mga komunidad na gumawa ng mga pang-matagalang mga plano. Ang mga pang-matagalang pangako ng mga stakeholder ay nagiging sanhi rin para iboto nila ang pang-matagalang paglago sa halip na panandaliang mga pump.
 
-In the cryptocurrency space, speculators jump from cryptocurrency to cryptocurrency based mostly on which one is expected to have short-term growth. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
+Sa pagitan ng cryptocurrency, karamihan sa mga mananapalaran ay tumatalon mula sa isang cryptocurrency patungo sa ibang cryptocurrency batay kung asan ang may panandaliang paglago. Gusto ng Steem na gumawa ng isang komunidad na karamihan sa mga nagmamayari ay mga may pang-matagalang pananaw.
 
-Users are able to commit their STEEM to a thirteen week vesting schedule, providing them with additional benefits within the platform. STEEM that has been committed to a thirteen week vesting schedule is called Steem Power (SP). SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
+Ang mga gumagamit ay maaring ipagkatiwala ang kanilang STEEM sa isang labingtatlong linggo na vesting, at binibigyan ng mga karagdagang benepisyo sa loob ng plataporma. Ang STEEM na napagkatiwala sa labintatlong linggon na vesting ay tinatawag na Steem Power (SP). Ang mga SP na balanse ay di-transferable at di-mahahati maliban sa pamamagitan ng awtomatikong umuulit na mga kahilingan na kombersyon. Nangangahulugan na ang SP ay hindi madaling mapalitan sa mga pagpalitan ng cryptocurrency.
 
-When users vote on content, their influence over the distribution of the rewards pool is directly proportional to the amount of SP that they have. Users with more SP have more influence on the distribution of rewards. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
+Kapag ang mga gumagamit ay nagboto sa mga nilalaman, ang kanilang impluwensiya sa pamamahagi ng pool ng mga gantimpala ay direktang proporsyonal sa halaga ng SP na mayroon sila. Ang mga gumagamit na may mas maraming SP ay may higit na impluwensya sa distribusyon ng mga gantimpala. Nangangahulugan na ang SP ay isang access token na nagbibigay daan sa mga tagapaghawak nito ng eksklusibong kapangyarihan sa loob ng plataporma ng Steem.
 
-SP holders are also paid interest on the balance of SP that remains vested. 15% of the yearly inflation is paid to SP holders as interest. The amount of the interest that they receive is directly proportional to the amount of SP they hold relative to the total amount of vested SP across all users.
+Ang mayhawak ng SP ay binabayaran rin ng iteres sa balanse ng SP na nananatiling vested. 15% ng taunang implasyon ay binabayad sa mga mayhawak ng SP bilang interes. Ang halaga ng interes na natatanggap nila ay direktang proporsyonal sa dami ng SP na hawak nila kaugnay sa kabuuang halaga ng SP na vested sa kabuuan ng lahat ng mga gumagamit.
 
-Transferring from STEEM to SP is referred to as “powering up”, while transferring from SP to STEEM is referred to as “powering down.” SP that is powered down is returned to the user over a period of thirteen weeks, via 13 equal weekly payments, starting one week after the power down is initiated.
+Ang paglilipat ng STEEM sa SP ay tintawag ang "powering up", habang ang paglilipat mula sa SP sa STEEM ay tinatawag na "powering down." Ang SP na powered down ay binabalik sa gumagamit sa loob ng labingtatlong linggo, via 13 pantay na lingguhang pagbayad, na nagsisimula isang linggo pagktapos ng pag simula ang pag power down.
 
 ## Steem Dollars (SBD)
 
-Stability is an important feature of successful global economies. Without stability, individuals across the world could not have low cognitive costs while engaging in commerce and savings. Because stability is an important feature of successful economies, Steem Dollars were designed as an attempt to bring stability to the world of cryptocurrency and to the individuals who use the Steem network.
+Ang katatagan ay isang mahalagang katangian ng matagumpay ng mga pandaigdigang ekonomiya. Kapag walang katatagan, ang mga indibidwal sa buong mundo ay maaring hindi magkaroon ng mga mababang nagbibigay-malay na mga gasto sa kalakal at ipon. Dahil ang katatagan ay isang mahalagan katangian ng isang matagumpay na ekonomiya, Dinisenyo ang mga Steem Dollar bilang isang paraan na pagtanka na magdala ng katatagan sa mundo ng cryptocurrency at sa mga indibidwal na gumagamit ng Steem network.
 
-Steem Dollars are created by a mechanism similar to convertible notes, which are often used to fund startups. In the startup world, convertible notes are short-term debt instruments that can be converted to ownership at a rate determined in the future, typically during a future funding round. A blockchain based token can be viewed as ownership in the community whereas a convertible note can be viewed as a debt denominated in any other commodity or currency. The terms of the convertible note allow the holder to convert to the backing token with a minimum notice at the fair market price of the token. Creating token-convertible-dollars enables blockchains to grow their network effect while maximizing the return for token holders.
+Ang mga Steem Dollar ay nilikha ng mga mekanismo na katulad sa mga mapapalitan na mga tala, na kung saan ay madalas na ginagamit bilang pondo ng mga startup. Sa mundo ng startup, ang mga mapapalitan na mga tala ay mga panandalian na mga instrumento ng utang na pwede palitan ang pagmamayari sa bilis na tinutukoy ng hinaharap, kadalasan sa panahon ng pagpopondo. Ang isang token na batay sa blockchain ay maaaring makita bilang pagmamayari sa komunidad samantalang ang isang mapapalitan na tala ay maaring makita bilang isang utang na denominated sa anumang bagay or pera. Ang mga tuntunin ng mga napapalitan na mga tala ay nagbibigay daan sa mga may-ari na palitan sa backing token na may pinakamababa na pagunawa sa makatarungan na presyo sa merkado ng token. Ang paglika ng token-convertible-dollars ay nagbibigay-daan sa mga blockchain na mapaunlad ang kanilang mga eprekto sa network habang pagmamaksimisa ang kita ng mga mayhawak ng token.
 
-Steem Dollars are referred to with the symbol SBD, an acronym for Steem Blockchain Dollars. Creating SBD requires a combination of a reliable price feed, and rules to prevent abuse. Providing a reliable price feed involves three factors: minimizing the impact of an incorrect feed, maximizing the cost of producing an incorrect feed, and minimizing the importance of timing.
+Ang mga Steem Dollar ay tinutukoy sa simbolo ng SBD, isang acronym para sa mga Steem Blockchain Dollar. Ang paglikha ng SBD ay nangangailangan ng isang kumbinasyon ng maaasahang feed ng presyo, at mga patakaran upang maiwasan ang pang-aabuso. Ang pagbibigay ng isang maaasahang feed ng presyo ay nangangailangan ng tatlong dahilan: bawasan ang epekto ng maling feed, palakihin ang gasto ng paggawa ng isang maling feed, at pagbawas sa halaga ng panahon.
 
-### Minimizing Fraudulent Feeds
+### Pagbawas ng Mapanlinlang na mga Feed
 
-SP holders elect individuals, called witnesses, to publish price feeds. The elected witnesses are presumably trusted by those who have a vested interest in the quality of the feed. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
+Ang mga mayhawak ng SP ay pipili ng mga tao, tinatawag na mga saksi, upang mag-publish ng feed ng mga presyo. Ang mga napili na mga witness ay malamang na pinagkakatiwalaan ng mga tao na nag-vest ng interes sa kalidad ng feed. Sa pamamagitan ng pagbayad sa mga taong napili, Ang Steem ay lumilikha ng kumpetisyon sa merkado para makamit ang karapatan upang makabuo ng mga feed. Kapag higit binabayaran ang mga bumubuo ng mga feed higit pa ang mawawala sa kanila kapag mali ang binigay na impormasyon sa feed.
 
-Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
+Nagbigay ng isang set ng mga pagkakatiwalaan at pinili na mga tagapagbuo ng feed, ang aktwal na presyo na ginagamit para sa mga kombersyon ay maaaring gamitin bilang panggitna na mga feed. Sa ganitong paraan kung ang minorya ng mga indibidwal ng mga tagapagbuo ng mga feed ay bumuo ng mga outliers sila ay may maliit na epekto sa aktwal na panggitna habang mayroon parin silang kakayahan na maapektohan ang kanilang reputasyon.
 
-Even if all feed producers are honest, it is possible for the majority of feed producers to be impacted by events beyond their control. The Steem network is designed to tolerate short-term corruption of the median price feed while the community actively works to correct the issue. One example of an issue that may take some time to correct is short-term market manipulation. Market manipulation is difficult and expensive to maintain for long periods of time. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
+Kahit na lahat ng mga tagapagbuo ng feed ay matapat, posible parin para sa karamihan ng mga tagapagbuo ng feed na maapektohan ng mga kaganapan na hindi nila kontrolado. Dinesenyo ang Steem network na kunsintihin ang mga panandaliang katiwalian sa panggitna ng feed ng presyo habang ang komunidad ay aktibong gumagana upang maayos ang isyu. Ang isang halimbawa ng isang isyu na maaaring tumagal upang maayos ay ang panandaliang pagmamanipula sa merkado. Ang pagmamanipula ng merkado ay mahirap at magastos panatilihin ng mahabang panahon. Isa pang halimbawa ay ang kabiguan ng isang sentralisadong pamilihan o ang katiwalian ng mga datos na nai-publish ng pamilihan.
 
-Steem factors out short-term price fluctuations by using the median price over a period of three and a half days. The median published feed is sampled every hour on the hour.
+Tinatanggal ng Steem ang mga panandaliang pagbago sa presyo sa pamamagitan ng paggamit ng panggitna na presyo sa loob ng tatlo at kalahitang araw. Ang panggitna na na-publish ay sinusuri bawat oras.
 
-As long as the price feed corruption lasts for less than half the moving median time window it will have minimal impact on the conversion price. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
+Habang ang katawalian sa feed ng presyo ay tumatagal ng mas mababa pa sa kalahati sa gumagalaw na oras na window ng panggitna ito ay magkakaroon ng maliit na epekto sa presyo ng kombersyon. Sa mga kaganapan na masisira ang feed, ang mga kalahok ng network ay magkakaroon ng oportunidad na iboto na tanggalin ang mga tiwaliong tagapagbuo ng mga feed bago pa makaapekto ang sira na feed sa aktwal na presyo ng kombersyon. Marahil na mas mahalaga pa, ito ay nagbibigay oportunidad sa mga tagapagbuo ng feed na matukoy at ayusin ang mga isyu bago pa maapektuhan ng mga feed nila ang presyo.
 
-With a three and a half day window, community members have approximately one and a half days to respond to any issues that come up.
+Sa tatlo at kalahating araw na bintana, ang mga miyembro ng komunidad ay may higit-kumulang isa at kalahiting aray upang sagutin ang anumang mga isyu na magpakita.
 
-### Mitigating Timing Attacks
+### Pagbawas sa mga Atake sa Panahon
 
-Market participants have access to information faster than the blockchain’s three and a half day moving median conversion price can react. This information could be used to benefit of traders at the expense of the community. If there is a sudden increase in the value of STEEM traders could request conversion of their SBD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
+Ang mga kalahok sa merkado ay may access sa impormasyon na mas mabilis kaysa sa tatlo at kalahating araw na maka epekto ang paglipat ng panggitna na presyo ng kombersyon. Ang mga impormasyon na ito ay maaring magamit sa kapakanan ng mga negosyante sa kapalit ng komunidad. Kung mayroong biglaang pagtaas sa halaga ng STEEM maaaring hilingin ng mga mangangalakal na palitan ang kanilang SBD sa lumang halaga, mas mababang presyo, at ibenta ang STEEM na natanggap nila sa bagong mas mataas na presyo sa kaunting panganib.
 
-Steem levels the playing field by requiring all conversion requests to be delayed for three and a half days. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
+Pinapantay ng Steem ang playing field sa pamamagitan ng pag hingi sa lahat ng mga hiling ng kombersyon na maantala ng tatlo at kalahating araw. Ang ibig sabihin nito ay hindi ang mga mangangalakal o ang blockchain ay may kalamangan sa impormasyon tungkol sa presyo na sa oras na isinagawa ang conversion.
 
-### Minimizing Abuse of Conversions
+### Bawasan ang Abuso sa mga Conversion
 
-If people could freely convert in both directions then traders could take advantage of the blockchains conversion rates by trading large volumes without changing the price. Traders who see a massive run up in price would convert to SBD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SBD to STEEM and not the other way around.
+Kung ang mga tao ay malayang makapag-convert sa parehong direksyon, maaring mapakinabangan ng mga mangangalakal ang mga rate ng conversion sa blockchain sa pamamagitan ng pangangalakal ng malalaking volume na hindi binabago ang presyo. Ang mga mangangalakal na makakakita ng malalaking pag taas ng presyo ay papalitan ang kanilang SBD sa mas malaking presyo (kung hindi panganib) at papalitan muli pagkatapos ng koreksyon. Ang Steem protokol ay pinoprotektahan ang komunidad mula sa ganitong pag-aabuso sa pamamagitan ng paghintulot sa mga tao na mag palit mula SBD patungong STEEM at hindi ang kabaligtaran.
 
-The blockchain decides how and when to create SBD and who should get it. This keeps the rate of SBD creation stable and removes most avenues of abuse.
+Ang blockchain ang nagpasya kung paano at kailan gagawa ng SBD at kung sino ang dapat makakuha nito. Ito ay nagpapatatag sa paglikha ng SBD at tinatanggal ang mga paraan ng pang-aabuso.
 
 ### Sustainable Debt to Ownership Ratios
 
@@ -130,17 +130,17 @@ A rapid change in the value of STEEM can dramatically change the debt-to-ownersh
 
 The percentage floors used to compute STEEM creation are based on the supply including the STEEM value of all outstanding SBD and SP (as determined by the current rate / feed).
 
-### Interest
+### Interes
 
-SBD pays holders interest. The interest rate is set by the same people who publish the price feed so that it can adapt to changing market conditions. All debt carries risk to the lender. Someone who holds SBD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SBD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
+Ang SBD ay bumabayad sa mayhawak ng interes. Ang bilis ng interes ay itinakda ng parehong tao na nag-publish sa feed ng presyo upang maangkop sa pagbabago ng kondisyon ng merkado. Lahat ng utang ay nagdadala ng panganib sa mga tagapagpahiram. Someone who holds SBD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SBD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
 
-STEEM and SP holders gain leverage when members of the community are willing to hold SBD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
+Ang mga mayhawak ng STEEM at SP ay makakuha ng pagkilos kapag ang mga miyembro ng komunidad ay handa humawak ng SBD. Ang pagkilos na ito ay pinapalakas ang kita mula sa paglago habang nag-aambag sa paglago. Ang mga mayhawak ng STEEM ay nagdudusa mula sa pagtaas ng pagbabanto kapag bumababa ang presyo. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
 
 ### Setting Price Feeds
 
-Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
+Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. Sa ekonomiks may isang alintuntunin na kilala bilang Impossible Trinity[^4] na nagsasaad na imposible na lahat ng tatlo ay magkaroon sa parehong oras:
 
-1. A stable exchange rate
+1. Isang matatag na exchange rate
 2. Free capital movement
 3. An independent monetary policy
 
@@ -176,7 +176,7 @@ There are two ways people can get involved with a crypto-currency community: the
 
 Distributing a currency to as many people as possible in a manner that is generally perceived as fair is a challenging task. The tasks that can be entirely evaluated by an objective computer algorithm are limited in nature and generally speaking have limited positive external benefits. In the case of Bitcoin-style mining, it can result in the production of specialized hardware and cause people to invest time developing more efficient algorithms. It may even help find prime numbers, but none of these things provide meaningful value to society or the currency holding community at large. More importantly, economies of scale and market forces will end up excluding everyone but experts from participating in this kind of distribution. Ultimately, computation-based mining is just another way of *buying in* because it requires money to pay the electric bill or the development of hardware necessary to do the work.
 
-In order to give everyone an equal opportunity to get involved and earn the currency people must be given an opportunity to work. The challenge is how to judge the relative quality and quantity of work that individuals provide and to do so in a way that efficiently allocates rewards to millions of users. This requires the introduction of a scalable voting process. In particular it requires that authority to allocate funds must be as distributed and decentralized as possible.
+In order to give everyone an equal opportunity to get involved and earn the currency people must be given an opportunity to work. The challenge is how to judge the relative quality and quantity of work that individuals provide and to do so in a way that efficiently allocates rewards to millions of users. Ito ay nangangailangan ng introduksyon ng isang nasusukat na proseso ng pagboto. In particular it requires that authority to allocate funds must be as distributed and decentralized as possible.
 
 The first step in rewarding millions of users is to commit to distributing a fixed amount of currency regardless of how much work is actually done or how users vote. This changes the question from being *“Should we pay?”* to *“Whom should we pay?”* and signals to the market that money is being distributed and is being auctioned off to whoever “bids” the most *work*. This is similar to Bitcoin committing to award 50 BTC to whoever finds the most difficult hashes. Like Bitcoin, all work must be done prior-to payout and nothing should be paid speculatively on the promise to do work in the future.
 
@@ -188,7 +188,7 @@ Assume there is a fixed amount of money to distribute, and that those who have a
 
 The naive voting process creates a N-Person Prisoner’s Dilemma[^5] whereby each individual voter has incentive to vote for themselves at the expense of the larger community goal. If every voter defects by voting for themselves then no currency will end up distributed and the currency as a whole will fail to gain network effect. On the other hand, if only one voter defects then that voter would win undeserved profits while having minimal effect on the overall value of the currency.
 
-#### Voting Abuse
+#### Pag-aabuso sa pagboto
 
 Regardless of how much money any one individual has, there are always many other individuals with similar wealth. Even the wealthiest individual rarely has much more than the next couple wealthiest combined. Furthermore, those who have a large investment in a community also have the most to lose by attempting to game the voting system for themselves. It would be like the CEO of a company deciding to stop paying salaries so he could pocket all of the profits. Everyone would leave to work for other companies and the company would become worthless, leaving the CEO bankrupt rather than wealthy.
 
@@ -196,17 +196,17 @@ Fortunately, any work that is getting a large concentration of votes is also gai
 
 The use of *negative-voting* to keep people from abusing the system leverages the *crab mentality* that many people have when it is perceived that one individual is profiting at the expense of everyone else. While crab mentality normally refers to short-sighted people keeping good people down, it is also what allows good people to keep bad people down. The only “problem” with crab mentality is when people *wrongly believe* someone is profiting at everyone else's expense.
 
-**The Story of the Crab Bucket**[^6]
+**Ang Kuwento ng Balde na Alimango**[^6]
 
-A man was walking along the beach and saw another man fishing in the surf with a bait bucket beside him. As he drew closer, he saw that the bait bucket had no lid and had live crabs inside.
+Mayroong isang lalake na naglalakad sa baybayin at nakakakita ng isa pang lalake na nangingisda sa surf na may balde ng bait sa tabi niya. Habang lumalapit siya, nakita niya na ang balde ng bait ay walang takip at mayroong buhat na mga alimango sa loob.
 
-"Why don't you cover your bait bucket so the crabs won't escape?", he said.
+"Bakit hindi mo takpan ang iyong balde ng bait upang hindi makalabas ang mga alimango?", sabi niya.
 
-"You don't understand.", the man replied, "If there is one crab in the bucket it would surely crawl out very quickly. However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
+"Hindi mo naiintindihan.", sagot ng lalake, "Kapag isa lang ang alimango sa balde tiyak na mabilis ito makakagapang palabas. Gayunman, kapag marami na ang mga alimango sa balde, kung ang isa ay magtatangka na gumapang sa gilid, ihihila ng iba pababa ang gumagapang upang mapareho ang kapalaran niya sa iba."
 
-So it is with people. If one tries to do something different, get better grades, improve herself, escape her environment, or dream big dreams, other people will try to drag her back down to share their fate.
+Pareho lang sa mga tao. Kapag ang isa ay magtatangka na gumawa ng iba, kumuha ng mas mataas na grado, pabutihin ang sarili, tumakas sa kanilang kapiligiran, o mangarap ng malaki, mayroong ibang tao na itatangka na hilain siya pababa upang pareho sila ng kapalaran.
 
-Eliminating “abuse” is not possible and shouldn’t be the goal. Even those who are attempting to “abuse” the system are still doing work. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn’t so rampant that it undermines the incentive to do real work in support of the community and its currency.
+Ang pagtanggal ng "pag-aabuso" ay hindi posible at hindi dapat layunin. Kahit na ang mga nagtatangka "abusuhin" ang sistema ay gumagawa parin ng trabaho. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn’t so rampant that it undermines the incentive to do real work in support of the community and its currency.
 
 The goal of building a community currency is to get more “crabs in the bucket”. Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs sufficient power to prevent others from escaping.
 

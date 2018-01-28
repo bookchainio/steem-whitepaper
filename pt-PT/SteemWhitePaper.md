@@ -1,100 +1,100 @@
 # Steem
 
-## Eine incentivierte, auf Blockchain basierende öffentliche Content-Plattform.
+## Uma plataforma de conteúdo incentivada, baseada em blockchain, pública.
 
-August 2017
+Agosto de 2017
 
-# Anmerkungen des Übersetzers
+# Notas do Tradutor
 
-Platzhalter für die Anmerkungen des Übersetzers.
+Espaço reservado para as notas do tradutor.
 
-# Kurzfassung
+# Resumo
 
-Steem ist eine Blockchain-Datenbank, die Community Building und soziale Interaktion mit Kryptowährungen unterstützt. Steem verbindet Konzepte aus sozialen Medien mit den Lehren aus dem Aufbau von Kryptowährungen und ihren Communities. Ein wichtiger Schlüssel zur inspirierenden Teilnahme in jeder Gemeinschaft, Währung oder freie Marktwirtschaft ist ein faires Abrechnungssystem, das konsequent den Beitrag jeder Person widerspiegelt. Steem ist die erste Kryptowährung das versucht, eine unbegrenzte Anzahl von Individuen, die machen, genau und transparent zu belohnen *subjektive Beiträge* zu ihrer Gemeinschaft zu leisten.
+Steem é um blockchain banco de dados que ofereçe suporte ao desonvolvimento de uma comunidade e à interação social com cryptocurrency em recompensa. Steem combina conceitos da mídia social com lições aprendidas do desenvolvimento de criptomoedas e suas comunidades. Uma chave importante para inspirar a participação em qualquer comunidade, moeda ou economia de mercado livre é um sistema justo de contabilidade que consistentemente reflete a contribuição de cada pessoa. Steem é a primeira criptomoeda que tenta com precisão e transparentemente premiar um número indeterminado de indivíduos que fazem * contribuições subjetivas * para sua comunidade.
 
-# Inhaltsverzeichnis
+# Tabela de conteúdos
 
 <!-- toc -->
 
-# Einführung
+# Introdução
 
-Gemeinsam haben nutzergenerierte Inhalte einen Wert von Milliarden von Dollar für die Aktionäre von Social-Media-Unternehmen geschaffen, sowie Reddit, Facebook, and Twitter. **Im Jahr 2014, Reddit stellte die Hypothese auf, dass seine Plattform verbessert würde, wenn jeder, der zu reddit.com beigetragen hätte, Geschichten gepostet hätte, Kommentare oder Abstimmungen wurden mit einem fairen Anteil an in Reddit, Inc.[^1]**. Steem will soziale Medien und Online-Communities unterstützen, indem es einen großen Teil seines Wertes an die Leute zurückgibt, die wertvolle Beiträge leisten, indem sie diese mit Kryptowährung belohnen und durch diesen Prozess eine Währung schaffen, die einen breiten Markt erreichen kann, einschließlich derer, die es noch tun müssen Teilnahme an irgendeiner Kryptowährungswirtschaft.
+Coletivamente, conteúdo gerado pelo usuário criou bilhões de dólares de valor para os acionistas das empresas de mídia social, como o Twitter, Facebook e Reddit. **Em 2014, Reddit hipotisou de que a plataforma seria maior se todos que contribuíram para oreddit.com por postar histórias, adicionar comentários ou votação fossem recompensadas com um compartilhamento justo no Reddit, Inc. [^1]**. Steem visa apoiar as mídias sociais e comunidades on-line, retornando muito do seu valor para as pessoas que fornecem contribuições valiosas recompensando-os com criptomoedas e através deste processo criar uma moeda que é capaz de atingir um mercado amplo, incluindo pessoas que ainda têm de participar em qualquer economia de criptomoeda.
 
-Es gibt einige wichtige Prinzipien, die verwendet wurden, um das Design von Steem zu leiten. Der wichtigste Grundsatz ist, dass jeder, der an einem Unternehmen beteiligt ist, anteilig Eigentum, Zahlung oder Schulden von dem Unternehmen erhalten sollte. Dieses Prinzip ist das gleiche Prinzip, das für alle Startups gilt, da sie ihre Aktien bei der Gründung und während der folgenden Finanzierungsrunden zuweisen.
+Existem alguns princípios-chave que têm sido usados para guiar o projeto Steem. O princípio mais importante é que todos que contribuem para um empreendimento devem receber apropriação pro-rata, pagamento ou dívida do empreendimento. Este princípio é o mesmo princípio que é aplicado a todos os iniciantes enquanto eles alocam as ações na fundação e durante rondas subsequentes de financiamento.
 
-Das zweite Prinzip ist dass alle Formen des Kapitals sind gleichermaßen wertvoll. Das bedeutet, dass diejenigen, die ihre knappe Zeit und Aufmerksamkeit darauf verwenden, Inhalte für andere zu produzieren und zu kuratieren, genauso wertvoll sind wie diejenigen, die ihr knappes Geld beisteuern. Dies ist das Prinzip der Schweißgerechtigkeit[^2] und ist ein Konzept, das frühere Kryptowährungen oft Probleme hatten, mehr als ein paar Dutzend Individuen zu versorgen.
+O segundo princípio é que todas as formas de capital são igualmente valiosas. Isto significa que aqueles que contribuem o seu escasso tempo e atenção para a produção e desenvolvimento de conteúdo para os outros são tão valiosos quanto aqueles que contribuem com seu dinheiro escasso. Este é o princípio de equidade suor [^2] e é um conceito que criptomoedas prévias frequentemente tinham problemas fornecendo a mais que algumas dezenas de indivíduos.
 
-Das dritte Prinzip ist, dass die Gemeinschaft Produkte produziert, um ihren Mitgliedern zu dienen. Dieses Prinzip wird von Kreditgenossenschaften, Essenskooperationen und Gesundheitsteilungsprogrammen veranschaulicht, die den Mitgliedern ihrer Gemeinschaft dienen, anstatt Produkte oder Dienstleistungen an Menschen außerhalb der Gemeinschaft zu verkaufen.
+O terceiro princípio é que a comunidade produz produtos para servir a seus membros. Este princípio é exemplificado por cooperativas de crédito, cooperativas de alimentos e partilha planos de saúde, que servem os membros de sua comunidade, ao invés de venderemm produtos ou serviços para pessoas fora da Comunidade.
 
-Die Steem-Gemeinschaft bietet ihren Mitgliedern folgende Dienste an:
+A Comunidade do Steem fornece os seguintes serviços aos seus membros:
 
-1. Eine Quelle von kuratierten Nachrichten und Kommentaren.
-2. Ein Mittel, um qualitativ hochwertige Antworten auf personalisierte Fragen zu erhalten.
-3. Eine stabile Kryptowährung, die an den Us-Dollar gebunden ist.
-4. Kostenlose Zahlungen.
-5. Jobs, die anderen Mitgliedern Dienste anbieten.
+1. Uma fonte de notícias e comentários "curados".
+2. Um meio para obter alta qualidade de respostas para perguntas personalizadas.
+3. Um criptomoeda estável, fixada ao dólar americano.
+4. Pagamentos gratuitos.
+5. Empregos, proporcionando acima de serviços a outros membros.
 
-Steems zielgerichtete Neuausrichtung der wirtschaftlichen Anreize hat das Potenzial, gerechtere und umfassendere Ergebnisse für alle Beteiligten zu erzielen als die Social-Media- und Kryptowährungsplattformen, die davor gegangen sind. Dieses Papier wird die bestehenden wirtschaftlichen Anreize untersuchen und zeigen, wie Steems Anreize zu besseren Ergebnissen für die meisten Teilnehmer führen können.
+Realinhamento de proposital do steem dos incentivos económicos tem potencial para produzir resultados mais justos e mais inclusivos para todos os envolvidos do que a mídia social e plataformas de criptomoeda que foram antes dele. Este trabalho irá explorar os incentivos económicos existentes e demonstrar como incentivos do Steem podem resultar em melhores resultados para a maioria dos participantes.
 
-## Beitrag erkennen
+## Reconhecendo a contribuição
 
-Steem is designed from the ground up to address the major barriers to adoption and monetization of a social media based economy. Our thesis is that the same techniques used to grow major social media platforms can be used to bootstrap a successful cryptocurrency. Economic incentives enabled by cryptocurrency can dramatically facilitate the growth of a new social media platform. It is the synergy between cryptocurrency and social media that we believe may give Steem a powerful advantage in the market.
+Steem é desenvolvida do zero para abordar as principais barreiras para adoção e monetização de uma mídia social com base em economia. Nossa tese é que as mesmas técnicas usadas para crescer as plataformas de mídia social podem ser usadas para inicializar uma criptomoeda bem sucedida. Incentivos económicos habilitados por criptomoeda podem facilitar o crescimento de uma nova plataforma de mídia social. É a sinergia entre criptomoedas e meios de comunicação sociais que acreditamos que pode dar ao Steem uma poderosa vantagem no mercado.
 
-The challenge faced by Steem is deriving an algorithm for scoring individual contributions that most community members consider to be a fair assessment of the subjective value of each contribution. In a perfect world, community members would cooperate to rate each other's contribution and derive a fair compensation. In the real world, algorithms must be designed in such a manner that they are resistant to intentional manipulation for profit. Any widespread abuse of the scoring system could cause community members to lose faith in the perceived fairness of the economic system.
+O desafio enfrentado pela Steem é derivar um algoritmo para marcar as contribuições individuais que a maioria dos membros da comunidade consideram uma avaliação justa do valor subjetivo de cada contribuição. Em um mundo perfeito, membros da comunidade cooperariam para avaliarem a contribuição de cada um dos outros para auferir uma compensação justa. No mundo real, algoritmos devem ser concebidos de forma a que sejam resistentes à manipulação intencional para o lucro. Qualquer abuso generalizado do sistema de pontuação pode causar a membros da Comunidade a perder a fé na equidade percebida do sistema econômico.
 
-Existing platforms operate on a one-user, one-vote principle. This creates an environment where rankings can be manipulated by sybil attacks and the service providers must pro-actively identify and block abusers. People already attempt to manipulate the Reddit, Facebook, and Twitter scoring algorithms when the only reward is web traffic or censorship.
+As plataformas existentes operam em um princípio de um usuário, princípio do um voto. Isso cria um ambiente onde rankings podem ser manipulados por ataques sybil e os prestadores de serviços devem pro-ativamente identificar e bloquear os abusadores. As pessoas já tentam manipular o Reddit, Facebook e Twitter, marcando algoritmos quando a única recompensa é o tráfego na web ou censura.
 
-The fundamental unit of account on the Steem platform is STEEM, a crypto currency token. Steem arbeitet auf der Basis ein Steem, ein Vote. Mit diesem Modell haben Personen die am meisten zur Plattform beigetragen haben, gemessen an ihrem Kontostand, den meisten Einfluss darauf, wie hoch Beiträge bewertet werden. Furthermore, Steem only allows members to vote with STEEM when it is committed to a vesting schedule. Mit diesem Modell haben Benutzer einen finanziellen Anreiz ihre Votes in einer Weise einzusetzen, die zur Maximierung des Langzeitwertes ihres STEEM beiträgt.
+A unidade fundamental da conta na plataforma Steem é STEEM, um símbolo de moeda de criptografia. O Steem opera com base em, um STEEM, um voto. Sob este modelo, os indivíduos que mais contribuíram para a plataforma, medido pelo saldo da sua conta, têm maior influência sobre a forma como as contribuições são pontuadas. Além disso, Steem só permite que membros votem com STEEM, quando ele é comprometido com uma agenda de aquisição. Sob este modelo, os membros têm um incentivo financeiro para votar de forma a maximizar o valor de longo prazo de seu STEEM.
 
-Steem is designed around a relatively simple concept: *everyone’s meaningful contribution to the community should be recognized for the value it adds.* When people are recognized for their meaningful contributions, they continue contributing and the community grows. Any imbalance in the give and take within a community is unsustainable. Eventually the givers grow tired of supporting the takers and disengage from the community.
+Steem é projetado em torno de um conceito relativamente simples: *a contribuição significativa de todos para a Comunidade deve ser reconhecida para o valor que adiciona.* Quando as pessoas são reconhecidas por suas contribuições significativas, elas continuam a contribuir e a comunidade cresce. Qualquer desequilíbrio no dar e receber, dentro de uma comunidade é insustentável. Eventualmente os doadores vão se cansar de apoiar os recebedores e desencaixam da Comunidade.
 
-The challenge is creating a system capable of identifying what contributions are needed and their relative worth in a way that can scale to an unbounded number of people.
+O desafio é criar um sistema capaz de identificar que contribuições são necessárias e o seu valor relativo de uma forma que pode ser dimensionado para um número indeterminado de pessoas.
 
-A proven system for evaluating and rewarding contributions is the free market. The free market can be viewed as a single community where everyone trades with one another and rewards are allocated by profit and loss. The market system rewards those who provide value to others and punishes those who consume more value than they produce. The free market supports many different currencies and money is simply a commodity that everyone finds easy to exchange.
+Um sistema provado de avaliar e dar recompensas de contribuição é o mercado livre. O mercado livre pode ser visto como uma comunidade única onde todos trocam com todos e as recompensas são alocadas por ganhos e perdas. O sistema do mercado recompensa aquela que fornecem valores aos outros e castiga aqueles que consomem mais do que produzem. O mercado livre suporta muitas moedas diferentes e dinheiro é simplesmente uma mercadoria que todos acham fácil de trocar.
 
-Since the free market is a proven system, it is tempting to try to create a free-market system where content consumers directly pay content producers. However, direct payment is inefficient and not really viable for content creation and curation. The value of most content is so low relative to the cognitive, financial, and opportunity costs associated with making a payment that few readers choose to tip. The abundance of free alternatives means that enforcing a ‘paywall’ will drive readers elsewhere. There have been several attempts to implement per-article micropayments from readers to authors, but none have become widespread.
+Visto que o mercado livro é um sistema provado, é tentador tentar criar um sistema sem mercado onde consumidores satisfeitos pagam diretamente aos produtores satisfeitos. No entanto, pagamento direto é ineficaz e não viável para a criação de conteúdo e curadoria de conteúdo. O valor da maioria do conteúdo é tão baixa relativamente à linguística, financeira, e os custos de oportunidade associados com o pagamento que poucos leitores escolhem para dar gorjeta. A abundância de alternativas livres significa que impor um "paywall" vai conduzir os leitores a outro sítio. Têm havido várias tentativas para implementar micro-pagamentos por artigo, de leitores para autores, mas nenhum se tornou generalizado.
 
-Steem is designed to enable effective micropayments for all kinds of contribution by changing the economic equation. Readers no longer have to decide whether or not they want to pay someone from their own pocket, instead they can vote content up or down and Steem will use their votes to determine individual rewards. This means that people are given a familiar and widely used interface and no longer face the cognitive, financial, and opportunity costs associated traditional micropayment and tipping platforms.
+Steem visa permitir micropagamentos eficazes para todos os tipos de contribuição, alterando a equação económica. Leitores já não têm de decidir se quem ou não pagar a alguém do seu próprio bolso, em vez disso eles podem votar conteúdo positivamente ou negativamente e o Steem vai usar os seus votos para determinar recompensas individuais. Isto significa que as pessoas recebem uma interface familiar e amplamente utilizada e não têm mais de enfrentar o cognitivo, financeiro, e os custos de oportunidade associados a micropagamentos tradicionais e plataformas de gorjetas.
 
-Voting input from community members is critical for Steem to accurately allocate payments to contributors. Voting can therefore be viewed as a crucial contribution and worthy of rewards on its own. Some platforms, such as Slashdot, use meta-moderation[^3] as a way to rank and reward honest moderators. Steem chooses to reward those who contribute the most to the total promotion of a piece of content and rewards the voters proportional to the ultimate reward paid to the content creator.
+O voto dos membros da comunidade é crítico para o Steem alocar com precisão os pagamentos para os contribuidores. Voto, portanto, pode ser visco como uma contribuição crucial e merecedora de recompensas por si mesmo. Algumas plataformas, como o Slashdot, usam meta-moderação [^3] como uma maneira de classificar e premiar moderadores honestos. Steem escolhe recompensar aqueles que mais contribuem para a promoção total de uma porção de conteúdo e recompensa os eleitores proporcionalmente à recompensa final paga ao criador do conteúdo.
 
-# Wege zum Mitmachen
+# Formas de Contribuição
 
-Dieser Abschnitt umreißt die Ideen hinter Steem und seine Belohnungen für Leute, die bedeutungsvolle und messbare Beiträge zur Steem Gemeinschaft zur Verfügung stellen.
+Esta secção descreve as ideias por detrás do Steem e as suas recompensas para as pessoas que fornecem contribuições significativas e mensuráveis para a comunidade do Steem.
 
-## Kapitalbeiträge
+## Contribuições de Capital
 
-There are two items a community can offer to attract capital: debt and ownership. Those who buy ownership profit when the community grows but lose if the community shrinks. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
+Existem dois item que uma comunidade pode oferecer para atrair capital: dívida e posse. Quem comprar propriedade lucra quando a comunidade cresce... mas perdem se a comunidade encolhe. Quem compra dívidas são garantidas uma certa quantidade de interesses mas não podem participar em quaisquer lucros obtidos pelo crescimento da comunidade. Ambos tipos de contribuições de capital são valiosas para o crescimento da comunidade e o valor da sua moeda. Adicionalmente existem duas maneiras de apropriação: líquido e aquirindo. Adquirindo posse estabelece um compromisso a longo prazo e não pode ser vendido por um período mínimo de tempo.
 
-Das Steem-Netzwerk nennt diese verschiedenen Asset-Klassen Steem (STEEM) Steem Power (SP) und Steam Dollars (SBD).
+A rede Steem chama a estas classes de ativos Steem (Steem), Steem Power (SP), and Steem Dollars (SBD).
 
 ## Steem (STEEM)
 
-Steem ist die grundlegende Recheneinheit der Steem Blockchain. Alle anderen Token beziehen ihren Wert vom Wert von STEEM. STEEM is a liquid currency, and therefore can be bought or sold on exchanges, as well as transferred to other users as a form of payment.
+Steem é a unidade fundamental de conta no blockchain Steem. Todos os outros símbolos derivam o seu valor do valor do STEEM. STEEM é uma moeda líquida, e, por isso, pode ser comprada ou vendida em nas bolsas, bem como transferida para outros usuários como forma de pagamento.
 
 ## Steem Power (SP)
 
-Start up companies require long-term capital commitment. Those who invest their money in a startup expect to wait years before they can sell their shares and realize their profits. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
+Empresas iniciantes necessitam um investimento de capital a longo termo. Quem investe o seu dinheiro numa empresa iniciante, ficasse na expectativa que esperam anos antes que vendam as suas acções e tomem consciência dos seus lucros. Sem o comprometimento a longo prazo, uma empresa iniciante que procura obter capital adicional através da venda de acções adicionais, estaria a competir com accionistas existentes à procura de sair. Os investidores experientes querem as suas contribuições de capital façam crescer a empresa, mas o crescimento não pode acontecer se o capital é dado aqueles que procuram sair.
 
-There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
+Há um valor significativo para ter um compromisso a longo prazo, pois permite que às comunidades fazerem planos a longo prazo. Os participantes interessados em compromissos em longo prazo também os vai causar votar para crescimento a longo prazo ao invés de bombas a curto prazo.
 
-In the cryptocurrency space, speculators jump from cryptocurrency to cryptocurrency based mostly on which one is expected to have short-term growth. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
+No espaço da criptomoeda, os especuladores saltam de criptomoeda em criptomoeda baseados principalmente em qual é esperada ter um crescimento a curto prazo. Steem quer construir uma comunidade que na maior parte pertence e é inteiramente controlada por aqueles que têm uma perspectiva de longo prazo.
 
-Users are able to commit their STEEM to a thirteen week vesting schedule, providing them with additional benefits within the platform. STEEM that has been committed to a thirteen week vesting schedule is called Steem Power (SP). SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
+Usuários são capazes de comprometer a sua STEEM para um período de aquisição de treze semanas, proporcionando-lhes benefícios adicionais dentro da plataforma. STEEM que comprometeu-se para um período de aquisição de treze semanas é chamada Steem Power (SP). Saldos SP são intransferíveis e não-divisíveis excepto através das solicitações de conversão automaticamente recorrentes. Isto significa que SP não pode ser facilmente trocada em trocas de criptomoedas.
 
-When users vote on content, their influence over the distribution of the rewards pool is directly proportional to the amount of SP that they have. Users with more SP have more influence on the distribution of rewards. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
+Quando os usuários votam sobre o conteúdo, a sua influência sobre a distribuição dos reservatórios de recompensas é directamente proporcional à quantidade de SP que eles têm. Usuários com mais SP têm mais influência na distribuição de recompensas. Isto significa que SP é um símbolo de acesso que garante os detentores poderes exclusivos dentro da plataforma Steem.
 
-SP holders are also paid interest on the balance of SP that remains vested. 15% of the yearly inflation is paid to SP holders as interest. The amount of the interest that they receive is directly proportional to the amount of SP they hold relative to the total amount of vested SP across all users.
+Os detentores de SP também são pagos juros no saldo de SP que continua a ser aquirido. 15% da inflação anual é paga aos detentores de SP como interesse. A quantidade de interesse que eles recebem é directamente proporcional à quantidade de SP que mantém relativamente ao montante total de SP adquirido por todos os usuários.
 
-Transferring from STEEM to SP is referred to as “powering up”, while transferring from SP to STEEM is referred to as “powering down.” SP that is powered down is returned to the user over a period of thirteen weeks, via 13 equal weekly payments, starting one week after the power down is initiated.
+Transferir de STEEM para SP é referido como "powering up", enquanto que transferir de SP para STEEM é referido como "powering down". SP que é "powered down" é retornada ao usuário durante um período de treze semanas, através de 13 pagamentos iguais semanais, começando uma semana depois do "power down" ser iniciado.
 
-## Steem Dollars (SBD)
+## Steem dólares (SBD)
 
-Stability is an important feature of successful global economies. Without stability, individuals across the world could not have low cognitive costs while engaging in commerce and savings. Because stability is an important feature of successful economies, Steem Dollars were designed as an attempt to bring stability to the world of cryptocurrency and to the individuals who use the Steem network.
+Estabilidade é uma característica importante das economias globais bem sucedidas. Sem estabilidade, indivíduos por todo o mundo não conseguiam ter baixos custos cognitivos ao envolver-se em comércio e economia. Devido à estabilidade ser uma característica importante das economias bem sucedidas, Steem dólares foram projectados como uma tentativa de trazer estabilidade ao mundo das criptomoedas e para os indivíduos que usam a rede Steem.
 
-Steem Dollars are created by a mechanism similar to convertible notes, which are often used to fund startups. In the startup world, convertible notes are short-term debt instruments that can be converted to ownership at a rate determined in the future, typically during a future funding round. A blockchain based token can be viewed as ownership in the community whereas a convertible note can be viewed as a debt denominated in any other commodity or currency. The terms of the convertible note allow the holder to convert to the backing token with a minimum notice at the fair market price of the token. Creating token-convertible-dollars enables blockchains to grow their network effect while maximizing the return for token holders.
+Steem dólares são criados por um mecanismo semelhante às notas conversíveis, que muitas vezes são usadas para financiar startups. No mundo startup, notas conversíveis são intrumentos de dívida a curto prazo que podem ser convertidos em propriedade a uma velocidade determinada no futuro, normalmente durante um financiamente futuro redondo. Um token de blockchain com base pode ser visto como propriedade na Comunidade, Considerando que uma nota conversível pode ser vista como uma dívida denominados em qualquer outra mercadoria ou moeda. Os termos da nota convencional permitem ao titular converter para o token de apoio com uma antecedência mínima ao preço do mercado justo do token. A criação de tokens conversíveis a dólares permite ás blockchains crescer o seu efeito de rede enquanto maximizam o retorno para os titulares de token.
 
-Steem Dollars are referred to with the symbol SBD, an acronym for Steem Blockchain Dollars. Creating SBD requires a combination of a reliable price feed, and rules to prevent abuse. Providing a reliable price feed involves three factors: minimizing the impact of an incorrect feed, maximizing the cost of producing an incorrect feed, and minimizing the importance of timing.
+Steem dólares são referidos com o símbolo SBD, um acrónimo para Steem Blockchain dólares. Criar SBD requer uma combinação de um preço confiável de alimentação e regras para evitar abusos. Proporcionar um preço confiável feed envolve três fatores: minimizando o impacto de uma alimentação incorreta, maximizando o custo de produzir uma alimentação incorreta e minimizando a importância do sincronismo.
 
 ### Minimizing Fraudulent Feeds
 
@@ -441,7 +441,7 @@ Steem recognizes that the value of all user contributions (posts and votes) is g
 
 Because everyone benefits, everyone should pay. In other words, no individual user should be expected to pay for anything, but instead should be paid for everything they do that brings value to Steem. All we need to do is ascertain which user contributions bring a social network value and which ones don’t.
 
-Zusammengenommen bewerten Reddit-Nutzer 220 Mal pro Sekunde und verfassen 23 Beiträge pro Sekunde. Reddit is valued between $500 million[^18] and $4 billion[^19] which means that each and every upvote and post is worth between $0.06 and $0.50 assuming the value of Reddit is mostly within the past year’s worth of activity. Man könnte argumentieren, dass der größte Teil des Wertes von Reddit die sich in nahezu Echtzeit ereignenden Diskussionen der letzten Woche sind, die den Wert neuer Aktivitäten dramatisch erhöhen würden. Die Menschen gehen dahin, wo die Menschen heute sind, nicht dorthin, wo sie letztes Jahr waren.
+Collectively Reddit users vote 220 times per second and make 23 posts per second. Reddit is valued between $500 million[^18] and $4 billion[^19] which means that each and every upvote and post is worth between $0.06 and $0.50 assuming the value of Reddit is mostly within the past year’s worth of activity. One could argue that most of the value of Reddit is the near-real-time discussions that have occurred within the past week which would dramatically increase the value of new activity. People go where people are today, not where people were last year.
 
 ## No Micropayments, Tips Optional
 
@@ -487,13 +487,13 @@ Merchants will accept any currency if it increases their sales. Having a large u
 
 Another way that people can liquidate the small amounts of cryptocurrency they receive from participating on the Steem platform is through *tipping* others. This is like leaving the small change as a tip for your waiter. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
 
-## Zensur
+## Censorship
 
-Steem is a decentralized network that is operated by witnesses in jurisdictions around the world. Alle Aktionen der Nutzer werden öffentlich auf der Blockchain publiziert und können aus diesem Grund öffentlich nachvollzogen werden. Das bedeutet, dass es keine einzige Instanz gibt, die Inhalte zensieren kann, die von STEEM-Inhabern wertgeschätzt werden.
+Steem is a decentralized network that is operated by witnesses in jurisdictions around the world. All user actions are publicly recorded on the blockchain, and can be publicly verified. This means that there is no single entity that can censor content that is valued by STEEM holders.
 
-Einzelne Websites wie steemit.com können Inhalte auf ihrer jeweiligen Website zensieren, aber Inhalte, die auf der Blockchain veröffentlicht werden, sind von Natur aus Broadcasts und andere Seiten auf der ganzen Welt können sie weiterhin zur Verfügung stellen.
+Individual websites such as steemit.com may censor content on their particular site, but content published on the blockchain is inherently broadcast traffic and mirrors all around the world may continue to make it available.
 
-Redefreiheit ist die Grundlage aller anderen Freiheiten. Somit untergräbt jede Verletzung der Redefreiheit das einzige friedliche Mittel zur Erzielung eines Konsenses: die Diskussion. Without free discussion voters cannot be fully informed, and uninformed voters are a greater threat to society than losing the right to vote. Censorship is a means of stealing votes through limiting public discourse. Steem setzt sich dafür ein freie Meinungsäußerung zu ermöglichen und eine freie Gesellschaft aufzubauen.
+Freedom of speech is the foundation of all other liberties and any infringement upon freedom of speech undermines the only peaceful means of reaching consensus: discussion. Without free discussion voters cannot be fully informed, and uninformed voters are a greater threat to society than losing the right to vote. Censorship is a means of stealing votes through limiting public discourse. Steem is committed to enabling free speech and building a free society.
 
 ## Solving Organic Discovery via Search Engine Optimization
 
@@ -513,7 +513,7 @@ Under most content monetization models, content creators leverage advertising in
 
 Creators posting to social media outlets that are connected to Steem may monetize merely by having their work recognized (or ”liked”) by the Steem community. Blockchain-based payouts are completely digital and have no middle-man. Therefore monetization by blockchain-based content rewards should be faster and much lower barrier to use than monetization by advertisements.
 
-# Fazit
+# Conclusion
 
 Steem is an experiment designed to address challenges in the cryptocurrency and social media industries by combining the best aspects from both. Steem presents earning opportunities to content creators and internet readers in ways that have not existed within the social media industry. Within Steem, individuals earn real rewards online that are directly correlated to their contributions. Those rewards may have dollar value due to the market price discovery and liquidity of Steem, and the people who hold Steem may have more exclusive earning powers than those who do not.
 

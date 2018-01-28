@@ -1,459 +1,459 @@
 # سٹیم
 
-## An incentivized, blockchain-based, public content platform.
+## ایک لاہ عمل، بلاکچین پر مبنی، عوامی مواد پلیٹ فارم.
 
-August 2017
+اگست 2017
 
-# Translator's notes
+# مترجم کا نوٹس
 
-Placeholder for translator's notes.
+مترجم کے نوٹس کے لیے جاگیر دار.
 
-# Abstract
+# خلاصہ
 
-Steem is a blockchain database that supports community building and social interaction with cryptocurrency rewards. Steem combines concepts from social media with lessons learned from building cryptocurrencies and their communities. An important key to inspiring participation in any community, currency or free market economy is a fair accounting system that consistently reflects each person's contribution. Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
+سٹیم ایک بلاکچاان ڈیٹا بیس ہے جو کمیونٹی کی تعمیر کی حمایت کرتا ہے اور کریپٹکوررانسی انعامات کے ساتھ سماجی تعامل کرتا ہے. سٹیم سماجی میڈیا سے تصورات حاصل کرتا ہے کرپٹوکرنسی اور اس کی کمیونیٹی سے سیکھے ہوے اسباق سے. کسی کمیونیٹی میں شمولیت کے لیے ایک جزبہ ایک اہم کلید ہے کرنسی یا مفت بازار کی تجارت ہر فرد کی مسلسل اور منصفانہ اکاونٹنگ کی اکاسی کرتا ہے. سٹیم وہ پہلی کرپٹوکرنسی ہے جو کمیونٹی میں موجود تمام افراد کو درست اور شفاف طریقے سے انعامات دینے کی کوشش کرتا ہے جو اس میں سبجکٹیو مدد کرتے ہیں.
 
-# Table of Contents
+# فہرست مشمولات
 
 <!-- toc -->
 
-# Introduction
+# تعارف
 
-Collectively, user-generated content has created billions of dollars worth of value for the shareholders of social media companies, such as Reddit, Facebook, and Twitter. **In 2014, Reddit hypothesized that its platform would be improved if everyone who contributed to reddit.com by posting stories, adding comments or voting were rewarded with a fair share in Reddit, Inc.[^1]**. Steem aims to support social media and online communities by returning much of its value to the people who provide valuable contributions by rewarding them with cryptocurrency, and through this process create a currency that is able to reach a broad market, including people who have yet to participate in any cryptocurrency economy.
+اجتماعی طور پر، صارف سے تخلیق شدہ مواد سے اربوں ڈالر مالیت کی رقم سماجی میڈیا حصہ دار جیسے، فیس بک، ریڈٹ، اور ٹیوٹر کے لیے بنائی ہے. ** سال 2014 میں، ریڈٹ نے یہ اندازہ لگایا تھا کہ پلیٹ فارم کو بہتر بنایا جائے گا اگر ہر ایک اس میں کہانیاں ڈالنے سے امداد کرے گا، ووٹ دینے یا کمنٹ کرنے پر ریڈٹ کی طرف سے اچھا خاصا انعام ملتا ہے Reddit, Inc.[^1]**. سٹیم کا مقصد ان تمام سماجی میڈیا اور آن لائن کمیونیٹیز کو ان کے قیمتی کام کا انعام کرپٹوکرنسی کی صورت میں دینا ہے. اور اس عمل کے زریعے وہ کرنسی پیدا کرنا جو بڈے بازار میں پہنچ سکے بشمول ان لوگوں کے جنہوں نے ابھی اس تجارت میں شمولیت نہ کی ہو.
 
-There are some key principles that have been used to guide the design of Steem. The most important principle is that everyone who contributes to a venture should receive pro-rata ownership, payment or debt from the venture. This principle is the same principle that is applied to all startups as they allocate shares at founding and during subsequent funding rounds.
+سٹیم کے ڈیزائن کی رہنمائی کے لیے بعض اہم اصول استعمال کیے گئے ہیں. سب سے اہم اصول یہ ہے کہ کوئی شخص جو وینچر میں امداد کرتا ہے اس کو پروراتا ملکیت ملنی چاہیے، یا وینچر میں سے رقم یا قرض. یہ اصول سب کے لیے یکساں ہے جو تمام شروعاتی لوگوں پر لاگو ہوتا ہے چونکہ وہ فنڈنگ کے عمل میں اپنا حصہ ڈال دیتے ہیں.
 
-The second principle is that all forms of capital are equally valuable. This means that those who contribute their scarce time and attention toward producing and curating content for others are just as valuable as those who contribute their scarce cash. This is the sweat equity principle[^2] and is a concept that prior cryptocurrencies have often had trouble providing to more than a few dozen individuals.
+دوسسرا اصول یہ ہے کہ تمام دارالحکومتیں یکساں قیمتی ہیں. اس کا مطلب یہ ہے کہ جو لوگ اپنا وقت اور اپنی توجہ دوسروں کے لیے مواد بنانے کی تشکیل میں سرف کرتے ہیں وہ اتنے ہی اہم ہے جتنے کہ اس میں کافی پیسہ ڈالنے والے. یہ پسینہ عدل اصول [^2] اور ایک پیشگی کرپٹوکرنسی کو اکثر کچھ درجن افراد سے زیادہ لوگوں کو فراہم کرنے میں مشکل پیش آتی ہے.
 
-The third principle is that the community produces products to serve its members. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
+تیسرا اصول یہ ہے کہ کمیونیٹی اپنے ممبران کے لیے مصنوعات تیار کرتی ہے. یہ اصول کرڈٹ یونین، food co-ops, اور ہیلتھ شیرنگ پلان، جو کمیونٹی ممبران کی خدمت کرتے ہیں بجائے خدمات یا مصنوعات باہر کی عوام کو بیجھنے سے.
 
-The Steem community provides the following services to its members:
+سٹیم کمیونٹی اپنے ممبران کو مندرجہ ذیل خدمات فراہم کرتی ہے:
 
-1. A source of curated news and commentary.
-2. A means to get high quality answers to personalized questions.
-3. A stable cryptocurrency pegged to the U.S. dollar.
-4. Free payments.
-5. Jobs providing above services to other members.
+1. تشکیل شدہ خبروں اور تبصرے کا زریعہ.
+2. زاتی سوالوں کا اعلٰی معیاری جواب حاصل کرنے کا زریعہ.
+3. ایک مستحکم کریپٹکوررانسی امریکی ڈالر کے لئے پیگاد ۔.
+4. مفت ادائیگی.
+5. دوسسرے ممبران کو کام کرنے کے لیے خدمات فراہم کرنا.
 
-Steem’s purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem’s incentives may result in better outcomes for most participants.
+سٹیم کی نیی تجاویز اور تجارتی انسٹیوز میں اچھے نتائج حاصل کرنے کا مادہ رکھتا ہے اور اس میں شامل تمام لوگوں کے نتائج کو شامل کرنا اور سماجی کرپٹوکرنسی پلیٹ فارم جو اس سے پہلے چلے گئے ہوں. یہ کاغذ موجودہ اقتصادی مراعات کو دریافت کرنے کے علاوہ یہ نشاندہی کرتا ہے کہ کس طرح سٹیم مراعات سے اس میں بیشتر شرکاء کے لیے بہتر نتائج سامنے آئیں.
 
-## Recognizing Contribution
+## کردار کی پہچان
 
-Steem is designed from the ground up to address the major barriers to adoption and monetization of a social media based economy. Our thesis is that the same techniques used to grow major social media platforms can be used to bootstrap a successful cryptocurrency. Economic incentives enabled by cryptocurrency can dramatically facilitate the growth of a new social media platform. It is the synergy between cryptocurrency and social media that we believe may give Steem a powerful advantage in the market.
+سٹیم کو زمینی سطح پر ڈیزائن کیا جاتا ہے اس ایڈریس تک پہنچنے کے لئے بڈی رکاوٹوں سے نمٹنا پڈتا ہے اور سوشل میڈیا کے مدریقرن پر مبنی اقتصادیات. ہمارا ماننا یےکہ بڈے سوشل میڈیا پلیٹفارم کو بڈھاوا دینے کے لیے استعمال ہونے والی تکنیک کرپٹوکرنسی کو بڈھاوا دینے کے لیے بھی کامیاب ہو سکتی ہے. کرپٹوکرنسی کی طرف سے فعل بناے گیے مراعات نیے سوشل میڈیا پلیٹفارم کو بڈھاوا دینے کے لیے ڈرامائی کردار ادا کد سکتا ہے. یہ کرپٹوکرنسی اور سوشل میڈیا کے درمیان شراکت ہے جو ہمیں یہ بھروسہ دیتی ہے کہ یہ سٹیم کو بازار میں طاقتور فائدہ دے سکتا ہے.
 
-The challenge faced by Steem is deriving an algorithm for scoring individual contributions that most community members consider to be a fair assessment of the subjective value of each contribution. In a perfect world, community members would cooperate to rate each other's contribution and derive a fair compensation. In the real world, algorithms must be designed in such a manner that they are resistant to intentional manipulation for profit. Any widespread abuse of the scoring system could cause community members to lose faith in the perceived fairness of the economic system.
+سٹیام کی طرف سے چیلنج انفرادی شراکت کہ زیادہ تر کمیونٹی کے ارکان ایک منصفانہ ضروریات کا ہر کردار کی ساپیکش قدر ہوں پر غور کرنے کے لئے ایک الگورتھم پایا ہے ۔. ایک کامل دنیا کے اندر، کمیونٹی ممبران ایک دوسرے کی شراکت سے ایک دوسرے کے کام کی حوصلہ افزائی کریں گے اور ایک اچھا خاصا منافع ہوگا. کامل دنیا میں، الگورزم کو لاضروری اس انداز میں ڈیزائن کرنا چاہیے کہ وہ دانستہ ہیرا پھیری کے مزاحم ہو فائدہ کے لیے. کسی بڈے پیمانے پر سکورنگ سسٹم کی بےعزتی کمیونٹی ممبران کے تعین بھروسے کی کمی اور اقتصادی سسٹم میں کم شفافیت پیدا کرتا ہے.
 
-Existing platforms operate on a one-user, one-vote principle. This creates an environment where rankings can be manipulated by sybil attacks and the service providers must pro-actively identify and block abusers. People already attempt to manipulate the Reddit, Facebook, and Twitter scoring algorithms when the only reward is web traffic or censorship.
+موجودہ پلیٹ فارم ایک صارف، ایک ووٹ کے اصول پر کام کرتے ہیں ۔. یہ ایک ایسا ماحول تیار کرتا ہے جہاں رینکنگ کو سایبل حملے سے مینوپلیٹ کیا جا سکتا ہے اور خدمات فراہم کرنے والوں کو فعال میں بلاک کی بےعزتی کرنے والوں کی نشاندہی کرنی چاہیے. لوگ پہلے سے ہی ریڈٹ، فیس بک، ٹیوٹر سکورنگ الگورزم میں ملاوٹ کرنے کی کوشش کرتے ہیں جب واحد انعام ویب ٹرافک یا سنسرشپ ہے.
 
-The fundamental unit of account on the Steem platform is STEEM, a crypto currency token. Steem operates on the basis of one-STEEM, one-vote. Under this model, individuals who have contributed the most to the platform, as measured by their account balance, have the most influence over how contributions are scored. Furthermore, Steem only allows members to vote with STEEM when it is committed to a vesting schedule. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
+سٹیم پلیٹ فارم پر اکاونٹ کا بنیادی یونٹ سٹیم ہے، ایک کرپٹوکرنسی ٹوکن. سٹیام ایک-سٹیام کی بنیاد پر، ایک ووٹ پالیسی پر عمل پیرا ہے ۔. اس ماڈل کے تحت وہ افراد جنہوں نے پلیٹ فارم کو کافی امداد کیا ہو، جسے ان کے اکاونٹ میں جمع رقم سے ناپا جاتا ہے، امداد پر ان کا سب سے زیادہ اثر رہتا ہے. علاوہ ازیں، سٹیم اپنے ممبران کو ایک مخصوص شڈول کے اندر ووٹ کرنے کی اجازت دیتا ہے. اس ماڈل کے تحت، ممبران کو ووٹ کرنے کے لیے مالی مراعات اس انداز سے دینی ہوتی ہے جو طویل مدت میں سٹیم کی قیمت کو بڈھاتا ہے.
 
-Steem is designed around a relatively simple concept: *everyone’s meaningful contribution to the community should be recognized for the value it adds.* When people are recognized for their meaningful contributions, they continue contributing and the community grows. Any imbalance in the give and take within a community is unsustainable. Eventually the givers grow tired of supporting the takers and disengage from the community.
+سٹیم ایک قدر سادہ تصور پر ڈیزائن کیا گیا ہے: * ہر ایک فرد کی کمیونیٹی کے لیے با مانع اعانت کو اس انداز میں تصور کرنا چاہیے جس کا وہ حقدار ہو * جب لوگوں کو ان کی با مانع اعانت کے لیے پہچانا جاتا ہے، وہ اعانت جاری رکھتے ہیں اور کمیونیٹی بڈھ جاتی ہے. لین دین میں کوئی بھی عدم توازن غیر مستحکم ہے. آخر کار دینے والے حمایت کرتے کرتے تھک جاتے ہیں اور کمیونیٹی چھوڑ دیتے ہیں.
 
-The challenge is creating a system capable of identifying what contributions are needed and their relative worth in a way that can scale to an unbounded number of people.
+ایک ایسا سسٹم تیار کرنے کا چیلنج ہے جو اس قابل ہو کہ وہ یہ پہچان سکے کہ کیسا کام درکار ہے اور اور اس سے منسلک مال جو کمیونٹی ممبران میں شامل ہو سکتا ہے.
 
-A proven system for evaluating and rewarding contributions is the free market. The free market can be viewed as a single community where everyone trades with one another and rewards are allocated by profit and loss. The market system rewards those who provide value to others and punishes those who consume more value than they produce. The free market supports many different currencies and money is simply a commodity that everyone finds easy to exchange.
+جایزہ لینا اور کام کے لیے مشاعرہ ایک ثابت شدہ سسٹم مفت بازار ہے. مفت بازار کو ایک یکتا کمیونیٹی کے طور پر دیکھا جا سکتا ہے جہاں ایک دوسرے سے تجارت ہوتی ہے اور انعامات نفع و نقصان میں دیے جاتے ہیں. مارکیٹ سسٹم ان افراد کو انعام دیتا ہے جو دوسرے افراد کو قیمت فراہم کرتے ہیں اور ان افراد کو سزا دیتا ہے جو پیدا کرنے سے زیادہ کھاتے ہیں. مفت بازار بہت ساری رقموں کی حمایت کرتا ہے اور پیسہ صرف ایک جنس ہے جسے ایکسچینج کرنا ہر ایک کے لیے آسان ہے.
 
-Since the free market is a proven system, it is tempting to try to create a free-market system where content consumers directly pay content producers. However, direct payment is inefficient and not really viable for content creation and curation. The value of most content is so low relative to the cognitive, financial, and opportunity costs associated with making a payment that few readers choose to tip. The abundance of free alternatives means that enforcing a ‘paywall’ will drive readers elsewhere. There have been several attempts to implement per-article micropayments from readers to authors, but none have become widespread.
+چونکہ مفت بازار ایک ثابت شدہ سسٹم ہے، یہ صحیح نہیں ہے کہ مفت بازار بنانے کی کوشش کی جائے جائے مواد لینے والے براہ راست مواد بنانے والوں کی ادائیگی کریں. تاہم، براہ راست ادائیگی مواد بنانے کی تشکیل کے لیے قطعاً صحیح نہیں ہے. ادراک کے مقابلے میں اکثر مواد کی قیمت کم ہے، مالی اور مواقع کی قیمت اور مواقاتی قیمت جو اس ادائیگی سے منسلک ہے جسے کچھ بڈھ نے والے اختیار کرتے ہیں. مفت متبادلات کی فراہمی جو پیوال نافز کرنے کے لیے قارئین کو کہی اور دھکیلے گا. پری آٹکل چھوٹی ادائیگی کو لاگو کرنے کے لیے کیی کوششیں قارئین اور مصنفین کی طرف سے، مگر کوئی بھی زیادہ مقبول نہیں ہوا.
 
-Steem is designed to enable effective micropayments for all kinds of contribution by changing the economic equation. Readers no longer have to decide whether or not they want to pay someone from their own pocket, instead they can vote content up or down and Steem will use their votes to determine individual rewards. This means that people are given a familiar and widely used interface and no longer face the cognitive, financial, and opportunity costs associated traditional micropayment and tipping platforms.
+سٹیم کو بدلتے ہوے اقتصادی منظرنامے میں تمام قسم کی با اثر چھوٹی ادائیگیوں کے لیے ڈیزائن کیا گیا ہے. قارئین کو یہ فیصلہ لینے کی ضرورت نہیں آیاں انہی اپنے جیب سے ادائیگی کرنی ہے یا نہیں، اس کے برعکس وہ مواد کو ووٹ کرسکتے ہیں اور سٹیم انفرادی انعامات کو استعمال کرنے کا فیصلہ کرے گا. اس کا مطلب یہ ہے کہ لوگوں کو ایک مشہور اور وسیع انٹرفیس استعمال کرنے کے لیے دیتا ہے اور کسی بھی مالی، ادرک اور چھوٹی ادائیگی اور ٹپنگ پلیٹ فارم سے جڈے موقع کی لاگت کا سامنا نہیں کرنا پڈے گا.
 
-Voting input from community members is critical for Steem to accurately allocate payments to contributors. Voting can therefore be viewed as a crucial contribution and worthy of rewards on its own. Some platforms, such as Slashdot, use meta-moderation[^3] as a way to rank and reward honest moderators. Steem chooses to reward those who contribute the most to the total promotion of a piece of content and rewards the voters proportional to the ultimate reward paid to the content creator.
+سٹیم کمیونٹی ممبران کا ووٹنگ انپٹ ممبران کی صحیح ادائیگی کے لیے کافی اہم ہے. ووٹنگ کو اپنے آپ میں ایک اہم کردار کے طور پر تصور کیا جا سکتا ہے. کچھ پلیٹ فارم، جیسے کہ سلیش ڈاٹ، میٹا ماڈریشن کا استعمال n[^3] ایماندار ماڈریٹرس کو کو انعام کے لیے ایک راہ کے طور پر استعمال کرتے ہیں. سٹیم ان افراد کو انعام کے لیے منتخب کرتا ہے جو کسی مواد کے ٹکڑے کو زیادہ سے زیادہ آگے لے جانا چاہتے ہیں اور ووٹرو کو اصلی مواد کی تخلیق کرنے والے کے برابر انعام ادا کرتا ع.
 
-# Ways to Contribute
+# کردار ادائیگی کے طریقے
 
-This section outlines the ideas behind Steem and its rewards for people who provide meaningful and measurable contributions to the Steem community.
+یہ سیکشن سٹیم کے پچھے خیال رکھنے والوں کا خاکہ اور اس لوگوں کو کے لیے اس کے انعامات کو پیش کرتا ہے جو سٹیم کمیونٹی میں بامانع اور پیمائشی اعانت فراہم کرتے ہیں.
 
-## Capital Contributions
+## بڈی اعانت
 
-There are two items a community can offer to attract capital: debt and ownership. Those who buy ownership profit when the community grows but lose if the community shrinks. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
+قرض اور ملکیت، دو ایسی چیزیں ہیں جو جو کیپٹل کو اپنی طرف متوجہ کر سکتے ہیں. وہ لوگ جو ملکیتی منافع خرید لیتے ہیں جب کمیونٹی بڈھ جاتی ہے اور کمیونیٹی کے گھٹ جانے پر ہار جاتے ہیں. وہ لوگ جو قرضہ خرید لیتے ہیں ان کو ایک مخصوص منافع کی گارنٹی دی جاتی ہے مگر کمیونٹی کے بڈھاوے میں کسی بھی منافع میں شرکت نہیں کر سکتے ہیں. دونوں قسم کے اعانت دار کمیونٹی اور کرنسی کی قیمت کے بڈھاوے کے لیے کافی اہم ہے. ویسٹنگ اور مایا، اس کے علاوہ ملکیت حاصل کرنے کے دو طریقے ہیں. کسی کو ملکیت دینا ایک طویل المیعاد عزم کرتا ہے اور اسے کم وقت کے لیے نہی بیچا جا سکتا ہے.
 
-The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SBD).
+سٹیم نیٹورک میں ان تین اساسوں کے نام سٹیم (STEEM)،سٹیم پاور (SP) اور سٹیم ڈالر (SBD).
 
-## Steem (STEEM)
+## سٹیم (STEEM)
 
-Steem is the fundamental unit of account on the Steem blockchain. All other tokens derive their value from the value of STEEM. STEEM is a liquid currency, and therefore can be bought or sold on exchanges, as well as transferred to other users as a form of payment.
+سٹیم ، سٹیم بلاکچین کی ایک بنیادی اکائی ہے. باقی تمام ٹوکن اپنی قیمت سٹیم کی قیمت میں سے نکالتے ہیں. سٹیم ایک مایع کرنسی ہے، لہذا اسے ایکسچینج پر بیچا یا خریدا جا سکتا ہے، یا دوسرے صارفین کو ادائیگی کے طور پر منتقل کیا جا سکتا ہے.
 
-## Steem Power (SP)
+## سٹیم پاور (SP)
 
-Start up companies require long-term capital commitment. Those who invest their money in a startup expect to wait years before they can sell their shares and realize their profits. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
+شروعاتی کمپنیوں کو طویل المیعاد عزم کرنے کی ضرورت ہے. وہ لوگ جو شروعات میں اپنی رقم کی سرمایہ کاری کرتے ہیں انہیں سالوں تک اپنے حصے کو بیچنے اور اس سے منافع حاصل کرنے کے لیے انتظار کرنا پڈتا ہے. طویل المعیاد وابستگی کے بغیر اضافی حصص کی فروخت کے ذریعے اضافی سرمایہ اکٹھا کرنے کی کوشش ایک آغاز کے خروج کے لیے تلاش میں موجود شاریہولڈرس کے ساتھ مقابلہ ہو گا ۔. پریمی سرمایہ کار کمپنی کو بڈھاوا دینے کے لیے اپنے بڈے شراکت داروں کا ساتھچاہتے ہیں، لیکن نئے دارالحکومت دور خروج کرنے کے لئے تلاش ان لوگوں کو دیا ہے تو ترقی ایسا نہیں ہو سکتا ۔.
 
-There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
+طویل المیعاد عزم کرنے کے کافی سارے فوائد ہیں کیونکہ یہ کمیونٹی کو طویل المیعاد منصوبے بنانے کے قابل بناتا ہے. اسٹیک ہولڈران کی طویل المیعاد عزم انہیں طویل المیعاد ووٹ کو بڈھاتا ہے بجائے قلیل مدتی بمپ کے.
 
-In the cryptocurrency space, speculators jump from cryptocurrency to cryptocurrency based mostly on which one is expected to have short-term growth. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
+کرپٹوکرنسی کی جگہ میں، سپکلیورس کرپٹوکرنسی سے کرپٹوکرنسی پر چھلانگ لگاتے ہیں جس میں قلیل بڈھاوا ہونے کی توقع ہے. سٹیم ایک ایسی کمیونیٹی تشکیل دینا چاہتا ہے جو اکثر طویل المیعاد نقطہ نظر رکھنے والوں کے کنٹرول میں رہے.
 
-Users are able to commit their STEEM to a thirteen week vesting schedule, providing them with additional benefits within the platform. STEEM that has been committed to a thirteen week vesting schedule is called Steem Power (SP). SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
+صارفین سٹیم پلیٹ فارم سے زیادہ فوائد حاصل کرنے کے لیے اپنے STEEM کو تیرہ ہفتوں کے لیے جمع کرنے کا عزم کر سکتے ہیں. سٹیم جسے بدلنے کے لئے تیرہ ہفتوں کے لیے رکھنے کا عزم کرنا پڈتا ہے اسے سٹیم پاور (SP). کہتے ہیں. سٹیم پاور بیلنس کو نہ تقسیم کیا جا سکتا ہے اور نا ہی منتقل کیا جا سکتا ہے سوا ازخود ہونے والی متبادل درخواستوں سے. اس کا مطلب ہے کہ سٹیم پاور آسانی سے کریپٹکوررانسی ایکسچینج پر تجارت نہیں ہو سکتا.
 
-When users vote on content, their influence over the distribution of the rewards pool is directly proportional to the amount of SP that they have. Users with more SP have more influence on the distribution of rewards. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
+جب صارفین مواد پر ووٹ کرتے ہیں، لہٰذا انعامات تقسیم کرنے کے عمل میں ان کے ووٹ کی قیمت براہ راست ان کے سٹیم پاور سے ہے. انعامات کی تقسیم میں ان صارفین کا زیادہ اثر رہتا ہے جن کے پاس زیادہ سٹیم پاور ہوگا. اس کا مطلب ہے کہ سٹیم پاور ایک رسائی ٹوکن ہے جو اس کے حاملین کے پلیٹ فارم پر سٹیام کے اندر خصوصی اختیارات دیتا ہے ۔.
 
-SP holders are also paid interest on the balance of SP that remains vested. 15% of the yearly inflation is paid to SP holders as interest. The amount of the interest that they receive is directly proportional to the amount of SP they hold relative to the total amount of vested SP across all users.
+سٹیم پاور ہولڈران اس سٹیم پاور میں بھی دلچسپی رکھتے ہیں جو جمع رہتا ہے. سالانہ بھڈوتری کا 15فیصدی حصہ سٹیم پاور ہولڈران کو سود کے طور پر دیا جاتا ہے. ان کو موصول ہونے والے مفاد کی براہ راست متناسبت ان کے اندر جمع سٹیم پاور کے ساتھ ہیں جو تمام صارفین میں تقسیم کی گئی ہے.
 
-Transferring from STEEM to SP is referred to as “powering up”, while transferring from SP to STEEM is referred to as “powering down.” SP that is powered down is returned to the user over a period of thirteen weeks, via 13 equal weekly payments, starting one week after the power down is initiated.
+ایس پی سے سٹیام کو منتقل کر رہا ہے کے لئے "نیچے ہی کے طور پر." کہا جاتا ہے جبکہ ایس پی کو سٹیام سے منتقل کرنے کے لئے "اپ ہی کے طور پر"، کہا جاتا ہے ایس پی کہ نیچے کی طرف سے طاقت ہے صارف کو ایک ہفتہ بعد نیچے طاقت ابتداء شروع 13 برابر ہفتہ وار ادائیگی، کے ذریعے تیرہ ماہ کے عرصہ میں واپس آ جاتا ہے ۔.
 
-## Steem Dollars (SBD)
+## سٹیم ڈالرز (SBD)
 
-Stability is an important feature of successful global economies. Without stability, individuals across the world could not have low cognitive costs while engaging in commerce and savings. Because stability is an important feature of successful economies, Steem Dollars were designed as an attempt to bring stability to the world of cryptocurrency and to the individuals who use the Steem network.
+استحکام عالمی اقتصادیات کی کامیابی کی ایک اہم خصوصیت ہے. استحکام کے بغیر، افراد دنیا بھر میں کم ادراکی اخراجات بچت و تجارت میں مشغول ہوئے نہیں کر سکتے. کیونکہ استحکام کامیاب اقتصادیات کی ایک اہم خصوصیت ہے، سٹیم ڈالرز کو کمیونٹی میں استحکام رکھنے کے غرض سے سٹیم نیٹورک میں افراد کے استعمال کے لیے رکھا گیا.
 
-Steem Dollars are created by a mechanism similar to convertible notes, which are often used to fund startups. In the startup world, convertible notes are short-term debt instruments that can be converted to ownership at a rate determined in the future, typically during a future funding round. A blockchain based token can be viewed as ownership in the community whereas a convertible note can be viewed as a debt denominated in any other commodity or currency. The terms of the convertible note allow the holder to convert to the backing token with a minimum notice at the fair market price of the token. Creating token-convertible-dollars enables blockchains to grow their network effect while maximizing the return for token holders.
+سٹیم ڈالرز ردوبدل کیے ہوئے نوٹس کی طرح بنایے جاتے ہیں، لہٰذا جنہیں اکثر فنڈ سٹاٹپ کے لیے استعمال کیا جاتا ہے. شروعاتی دنیا میں، بدلنے والے نوٹس چھوٹے قرضہ والے اجزاء ہے جنہیں ملکیت کے لیے استعمال میں لایا جا سکتا ہے. ایک بلاکچین پر مبنی ٹوکن کو کمیونٹی میں ملکیت کے طور پر تصور کیا جا سکتا ہے جبکہ ایک متبادل نوٹ کو قرضہ یا کرنسی کے طور پر تصور کیا جا سکتا ہے. تبادلی نوٹ کے شرائط ٹوکن ہولڈر کو کم از کم منصفانہ بازار حاصل کرنے کے لیے ٹوکن کو پیچھے رکھنے کی اجازت دیتا ہے. ڈالروں میں تبدیل ہونے والے ٹوکن بنانے سے بلاکچین کو اپنا جال بچھا نے میں مدد کرتا ہے اس دوران ٹوکن ہولڈران کی واپسی بڈھ جاتی ہے.
 
-Steem Dollars are referred to with the symbol SBD, an acronym for Steem Blockchain Dollars. Creating SBD requires a combination of a reliable price feed, and rules to prevent abuse. Providing a reliable price feed involves three factors: minimizing the impact of an incorrect feed, maximizing the cost of producing an incorrect feed, and minimizing the importance of timing.
+SBD نشان سٹیم ڈالرز کی پہچان کے لیے استعمال ہوتا ہے، سٹیم بلاکچین ڈالر کے لیے مخفف. کک سٹیم ڈالرز کو بنانے کے لیےاورغلط استعمال کو روکنے کے لیے ایک صحیح قیمت اور قواعد و ضوابط کی ضرورت ہے. ایک قابل اعتماد قیمت فیڈ فراہم کرنے کے لیے تین عوامل شامل ہیں: غلط فیڈ کے اثر کو کم کرنا، غلط فیڈ بنانے کے لیے قیمت کو بڈھانا، اور وقت کی اہمیت کو کم کرنا.
 
-### Minimizing Fraudulent Feeds
+### فریبی فیڈ کو کم کرنا
 
-SP holders elect individuals, called witnesses, to publish price feeds. The elected witnesses are presumably trusted by those who have a vested interest in the quality of the feed. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
+پرایز فیڈ کو شایع سٹیم پاور ہولڈران افراد کو منتخب کرتے ہیں، جنہیں شاہد کہتے ہیں. منتخب شدہ شواہد پر ان لوگوں کی طرف سے اعتماد جتایا جاتا ہے جن کو مواد کےمعیار میں دلچسپی ہو. منتخبہ افراد کو ادا کرنے سے، سٹیم بازار میں فیڈ بنانے کا مقابلہ پیدا کرتا ہے. فیڈ پرڈوسدز کو جتنا زیادہ ادا کیا جاتا ہے غلط معلومات چھاپنے سے اتنا ہی نقصان اٹھانا پڈے گا.
 
-Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
+قابل اعتبار اور منتخب فیڈ پروڈیوسرز کی ایک سیٹ دیا، تحویل کے لئے استعمال کی اصل قیمت فیڈ کی شاہراہوں کے طور پر اخذ ہو کر سکتے ہیں ۔. کسی بھی اقلیتی انفرادی فیڈ پروڈیوسرز کی اٹلاارس پیدا تو اس طرح وہ کم سے کم اثر اصل شاہراہوں پر اب بھی کی صلاحیت ان کی ساکھ پر اثر انداز ہوئے ہیں ۔.
 
-Even if all feed producers are honest, it is possible for the majority of feed producers to be impacted by events beyond their control. The Steem network is designed to tolerate short-term corruption of the median price feed while the community actively works to correct the issue. One example of an issue that may take some time to correct is short-term market manipulation. Market manipulation is difficult and expensive to maintain for long periods of time. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
+تمام فیڈ بنانے والے اگر ایماندار بھی ہوں، یہ اکثر فیڈ بنانے کے لیے ممکن ہے کہ ان واقعات سے اثر انداز ہونا جو ان کے کنٹرول میں نہیں ہے. سٹیم نیٹورک کو قلیل مدتی کرپشن کو پرایز فیڈ میڈین میں برداشت کرنے کے لیے ڈیزائن کیا گیا ہے جہاں کمیونٹی فعل میں معاملات حل کرتا ہے. ایک مسئلہ جو ٹھیک کرنے کے لئے کچھ نہیں ہی وقت لگ سکتا ہے اس کی ایک مثال قلیل مدتی مارکیٹ کا استحصال ہے ۔. مارکیٹ ہیرا پھیری مشکل اور اسے طویل مدت کیلئے برقرار رکھنا مہنگا ہے ۔. ایک اور مثال کے طور پر ایک مرکزی ایکسچینج کی ناکامی یا ایکسچینج کی طرف سے شائع کردہ ڈاٹا کی کرپشن.
 
-Steem factors out short-term price fluctuations by using the median price over a period of three and a half days. The median published feed is sampled every hour on the hour.
+سٹیم قلیل مدتی قیمتی اتار چڈھاو کو میڈین پرایز کے استعمال سے باہر کرتا ہے ساڈھے تین دن میں میڈین سے شائع شدہ فیڈ ہر ایک گھنٹہ کے بعد سیمپل کیا جاتا ہے.
 
-As long as the price feed corruption lasts for less than half the moving median time window it will have minimal impact on the conversion price. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
+جب تک پرایز فیڈ کرپشن چلتی ہے چلتے ہوئے میڈین کا کم از کم اثر تبادلہ قیمت پر ہوگا. کبھی کبھار فیڈ کرپٹ ہوجاتا ہے، نیٹورک شراکت داروں کے پاس اسکو اپنا ووٹ نا دینے کا موقع ہوتا ہے جب تک کہ وہ اپنا اصل اثر کنورش پرایز پر ڈال دے. بےشک زیادہ اہم ہے کہ، یہ فیڈ پروڈیوسرز کو صحیح مصلح جانچ کرنے کا موقع دیتا ہے اس سے پہلے قیمت پر اپنا اثر ڈالنا شروع کریں.
 
-With a three and a half day window, community members have approximately one and a half days to respond to any issues that come up.
+ساڈھے تین دن کے وقت میں سے کمیونیٹی ممبران کے پاس ڈیڈھ دن کا وقت ہوتا ہے مسائل کا جواب دینے کے لیے.
 
-### Mitigating Timing Attacks
+### تساوی وقت کے حملوں کی شدّت کم کرنا
 
-Market participants have access to information faster than the blockchain’s three and a half day moving median conversion price can react. This information could be used to benefit of traders at the expense of the community. If there is a sudden increase in the value of STEEM traders could request conversion of their SBD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
+بلاکچاان کی معلومات تک رسائی حاصل کرنے کے لیے مارکیٹ شرکاء کو تیزی سے حرکت پذیر اوسط تبدیلی کی قیمت ساڑھے تین دن رد عمل کا اظہار کر سکتے ہیں. تجارت کاروں کو فائدہ پہنچانے کے لیے ان معلومات کو استعمال کیا جا سکتا ہے. سٹیم کی قیمت میں اچانک چڈھاو سے تجارت کار سٹیم ڈالرز کو بدلنے کی درخواست کر سکتے اور پھر بغیر کسی خطرہ کے اچھی قیمت میں بیچ سکتے ہیں.
 
-Steem levels the playing field by requiring all conversion requests to be delayed for three and a half days. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
+ساڑھے تین دنوں کی تاخیر کے لیے سٹیم کھیل کے میدان کو برابر کرتا ہے ۔. اس کا مطلب نہ تجارت کاروں کو اور نہ ہی بلاکچین کو قیمت کے تبادلے کا معلوماتی فائدہ ہے.
 
-### Minimizing Abuse of Conversions
+### مذہب کے غلط استعمال کو کم سے کم کرنا
 
-If people could freely convert in both directions then traders could take advantage of the blockchains conversion rates by trading large volumes without changing the price. Traders who see a massive run up in price would convert to SBD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SBD to STEEM and not the other way around.
+اگر تاجر بلاکچینس کا فائدہ اٹھاتے ہوئے تبدیلی کی شرح بڑی جلدی قیمت کو تبدیل کرے گیں بغیر کی طرف سے تجارت کر تے ہیں اور پھر لوگ آزادانہ طور پر دونوں سمتوں میں تبدیل کر سکتے ہیں ۔. تاجروں کو جو بڑے پیمانے پر دوڑ میں قیمت دیکھ رہا ہوں (یہ سب سے زیادہ خطرناک ہے جب) کو بد کی اعلی قیمت پر میں تبدیل کرے گا اور پھر تصحیح کے بعد واپس تبدیل ۔. سٹیم پروٹوکول کمیونٹی کو اس قسم کی بد تہذیبی سے بچاتا ہے یہ لوگوں کو صرف سٹیم ڈالرز کو سٹیام پاور میں تبدیل کرنے کے علاوہ اور کوئی اجازت نہیں دیتا.
 
-The blockchain decides how and when to create SBD and who should get it. This keeps the rate of SBD creation stable and removes most avenues of abuse.
+یہ بلاکچین فیصلہ کرتی ہے کہ کب اور کیسے SBD بنانے ہے اور انہیں کسے لینا چاہیے، اس سے SBD کی قیمت مستحکم رہتی ہے اور بدتہذیبی کے واقعات کو باہر نکالتا ہے.
 
-### Sustainable Debt to Ownership Ratios
+### پائیدار قرض کی ملکیت تناسب
 
-If a token is viewed as ownership in the whole supply of tokens, then a token-convertible-dollar can be viewed as debt. If the debt to ownership ratio gets too high the entire currency can become unstable. Debt conversions can dramatically increase the token supply, which in turn is sold on the market suppressing the price. Subsequent conversions require the issuance of even more tokens. Left unchecked the system can collapse leaving worthless ownership backing a mountain of debt. The higher the debt to ownership ratio becomes the less willing new investors are to bring capital to the table.
+اگر ٹوکن کو تمام ٹوکن سپلائی میں ملکیت کے طور پر تصور کیا جایے، تب ایک تبادلی ٹوکن کو قرضہ کے طور پر تصور کیا جائے گا. اگر ملکیت اور قرضے کا تناسب زیادہ ہوجائے اس صورت میں تمام کرنسی غیر مستحکم ہو سکتی ہے. متبادل قرضہ ڈرامائی انداز میں ٹوکن سپلائی بڈھا سکتا ہے، جسے بدلے میں بازار میں بیچا جا سکتا ہے اور قیمت کو دبا سکتا ہے. مزید تبادلوں کے لیے مزید ٹوکن اجراء کرنے کی ضرورت ہوگی. غیر پڑتال شدہ چھوڑ نظام پشتارہ قرض کے ایک پہاڑ بیکار کی ملکیت چھوڑ کر بوس ہو سکتے ہیں ۔. ملکیت کے تناسب میں اگر قرضہ زیادہ ہو اس صورت میں سرمایہ کار اس میں زیادہ دلچسپی نہیں لے گیں.
 
-A rapid change in the value of STEEM can dramatically change the debt-to-ownership ratio. The blockchain prevents the debt-to-ownership ratio from getting too high, by reducing the amount of STEEM awarded through SBD conversions if the debt level were to exceed 10%. If the amount of SBD debt ever exceeds 10% of the total STEEM market cap, the blockchain will automatically reduce the amount of STEEM generated through conversions to a maximum of 10% of the market cap. This ensures that the blockchain will never have higher than a 10% debt-to-ownership ratio.
+سٹیم کی قیمت میں تیزی سے تبدیلی سے ڈرامائی طور پر قرضہ ملکیت میں تبدیل ہو سکتا ہے. بلاکچین قرضہ اور ملکیت کے تناسب کو سٹیام کی مقدار کو سٹیام ڈالرز کے زریعے کم کرنے سے روکتا ہے اگر قرضہ کی حد دس فیصد سے تجاوز کریں. اگر سٹیم ڈالرز کا قرض مارکیٹ میں موجود کل سٹیام سے دس فیصد تجاوز کرتا ہے، بلاکچین خود بخود بنے ہوئے سٹیم کو کم کرے گا اور دس فیصد کی بازاری حد کو تجاوز کرنے نہی دے گا. اس سے اس بات کی تصدیق ہوتی ہے کہ قرضہ اور ملکیت میں دس فیصد سے زیادہ کا تناسب کبھی نہیں ہوگا.
 
-The percentage floors used to compute STEEM creation are based on the supply including the STEEM value of all outstanding SBD and SP (as determined by the current rate / feed).
+سٹیام تخلیق کو گننے کے لئے استعمال کیا تناسب کے فرش سمیت تمام بقایا بد اور ایس پی کی سٹیام قدر کی فراہمی پر مبنی ہوتے ہیں (جیسا کہ موجودہ شرح کی طرف سے متعین کی جاتی / کھانا کھلانا) ۔.
 
-### Interest
+### سود
 
-SBD pays holders interest. The interest rate is set by the same people who publish the price feed so that it can adapt to changing market conditions. All debt carries risk to the lender. Someone who holds SBD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SBD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
+SBD ہولڈران کو سود ادا کرتا ہے. سود کی شرح ان ہی لوگوں کے زریعے طے کی جاتی ہے جو پرایز فیڈ کو شایع کرتے ہیں، جنہیں شاہد تاکہ یہ بازار کی بدلتی صورت حال کو اختیار کر سکے. طمام قرضہ کا خطرہ دینے والے کو ہوتا ہے. کوئی جس کے پاس سٹیم ڈالرز پڈے ہو وہ اسے کمیونٹی کے لیے موثر طور پر دے سکتا ہے. ان کو یہ بھروسہ ہے کہ کسی موقع پر کوئی SBD کو ان سے ڈالروں میں خریدے گا یا اس کو سٹیام میں بدلنے کے لئے سرمایہ کار اس کو خریدنا چاہے گیں.
 
-STEEM and SP holders gain leverage when members of the community are willing to hold SBD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
+سٹیم اور سٹیم پاور ہولڈران لیوریج حاصل کرتے ہیں جب کمیونٹی کے ممبران SBD کو اپنے پاس رکھنا چاہتے ہیں ۔. یہ لیوریج حصول کو بڈھاوا دیتے ہیں اور بڈھاوا دینے میں اعانت بھی کرتے ہیں. سٹیم ہولڈران قیمت میں گراوٹ کے وقت مشکلات کا شکار ہوتے ہیں. کرپٹوکرنسی پروجیکٹوں نے دکھایا ہے کہ صارفین کے چاہنے پر کمایا ہوا منافع جو نیٹورک پر بھروسہ کرنا چاہتے ہیں آخر کار نیٹورک میں کافی قیمت جوڈتے ہیں.
 
-### Setting Price Feeds
+### قیمت سیٹ کرنا
 
-Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
+قارئین اس بات کو پہچان لیں گے کہ محدود سپلائی کا دلچسپ اساسہ دوسرے ساتھ میں کھڈے اساسے سے کم یا زیادہ تجارت کرے گا اس کا انحصار دوسرے مواقع سے اسی اساسہ میں دلچسپی پیدا کرنا ہے. امریکی ڈالر سے منسلک سب سے زیادہ سود لوگ قطار میں کھڈے ہونگے جب تک کہ نہ سٹیم ڈالر کی قیمت ایک امریکی ڈالر تک پہنچ جایے. معاشیات میں ایک اصول جسے نا ممکن ٹرنٹی سے جانا جاتا ہے [^4] جو یہ کہتا ہے کہ مندرجہ ذیل تین چیزوں کو بیک وقت کرنا ناممکن ہے:
 
-1. A stable exchange rate
-2. Free capital movement
-3. An independent monetary policy
+1. ایک مستحکم ایکسچینج قیمت
+2. مفت کیپٹل مومنٹ
+3. ایک آزاد مونیٹری پالسی
 
-If Steem feed producers aim to have an independent monetary policy allowing it to create and destroy Steem Dollars while simultaneously having full control over the interest rate then they will encounter problems. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
+اگر سٹیم فیڈ کو بنانے والے سٹیم ڈالر کے اجراء اور انہیں ختم کرنے کی اجازت کے ذریعے ایک آزاد مالیاتی پالیسی حاصل کرنا چاہتے ہیں اور اسی کے ساتھ سود کی شرح پر مکمل اختیار چاہتے ہیں تو وہ مسائل کا سامنا کرینگے. ناممکن ثلیس کہتے ہیں کہ سٹیم ڈالر یا بڈی حرکات روکنا چاہتا ہے، ڈالر کے ساتھ اس کا غیر مستحکم تبادلہ یا سود کی شرح پر اس کا تھوڈا سا عبور.
 
-The primary concern of Steem feed producers is to maintain a stable one-to-one conversion between SBD and the U.S. Dollar (USD). Any time SBD is consistently trading above $1.00 USD interest payments must be stopped. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SBD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
+سٹیم فیڈ بنانے والوں کا بنیادی مقصد امریکی ڈالر اور سٹیم ڈالر کے درمیان مستحکم توازن برقرار رکھنا ہے. کسی بھی وقت بد مسلسل اوپر $1.00 ڈالر سود کی ادائیگی کے ساتھ تجارت بند نہیں کرنا چاہئے ۔. بازار میں جہاں صفر فیصدی قرضے کے لئے بھی پرمیم کا مطالبہ ہو، یہ کہنا مناسب ہوگا کہ مارکیٹ مزید دینے کی چاہ رکھتا ہے قرضے کو کمیونیٹی سے لینے کے لیے. ایسا ہونے پر سٹیم ڈالر کی قیمت امریکی ڈالر سے تجاوز کرے گی اور کمیونیٹی ممبران منفی چارجرز لگانے کے علاوہ کچھ نہیں کر سکتے ہیں.
 
-If the debt-to-ownership ratio is low and SBD is trading for less than $1.00, then the interest rate should be increased. This will encourage more people to hold their SBD and support the price.
+قرض کی ملکیت تناسب کم ہے اور بد سے کم $1.00 کے لئے کاروبار کر رہی ہے تو پھر اس سود کی شرح بڑھا کر دینا چاہیے ۔ یہ ان بد منعقد کرتے ہیں اور قیمت کی حمایت کے لئے زیادہ سے زیادہ لوگوں کی حوصلہ افزائی کرے گا ۔.
 
-If SBD trades for less than $1.00 USD and the debt-to-ownership ratio is high, then the feeds should be adjusted upward give more STEEM per SBD. This will increase demand for SBD while also reducing the debt-to-ownership ratio and returning SBD to parity with USD.
+بد USD سے کم $1.00 کے صنعتی اور فیڈ اوپر ایڈجسٹ کیا جا چاہئے اور پھر قرض کی ملکیت تناسب بلند ہے تو بد فی زیادہ سٹیام دیتے ہیں ۔. اس سے سٹیم ڈالر کی مانگ میں اضافہ ہوگا اور اس کے ساتھ قرضے اور ملکیتی تناسب کو بھی کم کرے گا اور ڈالر کی مساوات میں سٹیم ڈالر فراہم کرے گا.
 
-Assuming the value of STEEM is growing faster than Steem is creating new SBD, the debt-to-ownership ratio should remain under the target ratio and the interest offered benefits everyone. If the value of the network is flat or falling, then any interest offered will only make the debt-to-ownership ratio worse.
+اس بات کو مدنظر رکھتے ہوئے کہ سٹیم کی قیمت میں سٹیم ڈالر بنانے سے زیادہ ہو رہا ہے، ملکیت اور قرض کا تناسب مستحکم رہنا چاہیے وہی ہر ایک کے لیے فائدہ مند ثابت ہو گا. اگر نیٹورک کی قیمت مستحکم یا کم ہوتا ہو، پھر کوئی بھی دیا جانے والا سود قرض اور ملکیت کے تناسب کو بدتر کرے گا.
 
-In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
+عملاً، فیڈ پروڈیوسرز USD کے لئے ایک مستحکم پت کو برقرار رکھنے کے لیے مالیاتی پالیسی مرتب کی ذمہ داری کے ساتھ سومپا ہیں ۔. ایس پی کے حاملین کے گواہ ہے کہ کرنے پر شمار کیا جا سکتا ہے کے لئے فیڈ کی قیمت کو ایڈجسٹ اور ان اصولوں کے مطابق سود کی شرح میں اوپر بیان کردہ ووٹ دینے کے لئے عقل مند ہیں تو اس طاقت کا غلط استعمال سٹیام کی قدر کو نقصان پہنچا سکتی ہے ۔.
 
-If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SBD.
+اگر قرض اور ملکیت کا تناسب خطرناک طور پر اوپر چلا جایے مارکیٹ شراکت دار تبادلہ کی درخواستوں کو مسترد کرنا پسند کرتے ہیں پھر فیڈ کو سٹیم کو سٹیم ڈالر میں بدلنے کے لئے اسی حساب سے ایڈجسٹ کیا جاتا ہے.
 
-Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SBD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions.
+سود کی شرح میں تبدیلی اوریا کسی پرمیم میں سٹیم اور سٹیم ڈالر پر ڈسکاؤنٹ کی تبدیلی قیمت ایک کم رفتار پر ناپنا چاہیے بجائے اسکے کہ جلدبازی میں کوئی قدم اٹھایا جائے.
 
-It is our belief that these rules will give market participants confidence that they are unlikely lose money by holding SBD purchased at a price of $1.00. We fully expect there to be a narrow trading range between $0.95 and $1.05 for SBD under normal market conditions.
+یہ ہمارا یقین ہے کہ یہ قواعد مارکیٹ شراکت داروں میں یہ اعتماد لایے گا کہ سٹیم ڈالر کو ایک ڈالر میں خریدنے سے پیسہ زایع ہونے کا کوئی خطرہ نہیں. ہم مکمل طور پر $0.95 اور ڈالر 1.05 بد کے لئے عام مارکیٹ کے حالات کے درمیان ایک تنگ تجارتی حد اطلاق ہونے کی تو توقع رکھتے ہیں.
 
-## Subjective Contributions
+## ساپیکش شراکت
 
-Subjective Proof of Work presents an alternative approach to distributing a currency that improves upon fully *objective* Proof of Work systems such as mining. The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
+ساپیکش ثبوت کا کام ایک کرنسی ہے جو مکمل طور پر *مقصد* پر کان کنی جیسے ثبوت کے کام کے نظام میں بہتری کو تقسیم کرنے کے لیے ایک متبادل نقطہ نظر پیش کرتا ہے. کرنسی کو منعقد کرنے کی اپلیکیشن *subjective* کام کرنے کا ثبوت کا دائرہ کافی بڈا ہے *objective* کسی ابجکٹیو ورک سسٹم کے مقابلے میں کیونکہ انہوں کمیونیٹی کو بڈھانے میں استعمال کیا جا سکتا ہے. جب افراد کسی کمیونیٹی میں حصہ لیتے ہیں وہ کچھ خاص عقیدوں کی بنا پر خریداری کرتے ہیں اور کمیونیٹی کو مظبوط بنانے کے لیے اپنا ووٹ دے سکتے ہیں.
 
-In effect, the criteria by which work is evaluated is completely subjective and its definition lives outside the source code itself. One community may wish to reward artists, another poets, and another comedians. Other communities may choose to reward charitable causes or help advance political agendas.
+عملی طور پر، جس بنیاد پر کام کو پرکھا جاتا ہے اپنے آپ میں سورس کوڈ سے باہر اور سبجکٹیو ہے. ایک کمیونٹی ادا کاروں کو انعام دینا چاہیے گی، دوسری شاعروں کو، اور تیسری مزاحیوں کو. اور کوئی کسی سیاسی یا امدادی ادارے کو انعام کے لیے پسند کر سکتی ہے.
 
-The value each currency achieves depends upon the demand for influence within a particular community and how large the market believes each community can get. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
+ہر ایک کرنسی کی قیمت اس بات پر منحصر ہے کہ ایک مخصوص کمیونٹی پر اس کا کیسا اثر ہے اور مارکیٹ کمیونٹی کے اوپر کتنا بھروسہ جتاتا ہے. پرانے سسٹم سے مختلف، کام کا ساپیکش سبوت کمیونٹی کو اس قابل بناتا ہے کہ مشرقہ طور پر قیمتی کام کو فنڈ کریں اور پرانے چیزوں کو پرانے وقت میں ہی ماناٹز کریں.
 
-### Distributing Currency
+### کرنسی تقسیم کرنا
 
-There are two ways people can get involved with a crypto-currency community: they can *buy in*, or they can *work in*. In both cases users are adding value to the currency, however, the vast majority of people have more *free time* than they do *spare cash*. Imagine the goal of bootstrapping a currency in a poor community with no actual *cash* but plenty of *time*. If people can earn money by working for one another then they will bootstrap value through mutual exchange facilitated by a fair accounting/currency system.
+دو طریقوں سے لوگ کرپٹوکرنسی کے ساتھ جڈ سکتے ہیں یا اس میں خریداری کرنے سے یا اس میں کام کرنے سے. دونوں صورتوں میں صارفین کرنسی کی قیمت میں اضافہ کرتے ہیں، مگر اکثر لوگوں کے پاس بہت سارا خالی وقت ہے جس میں وہ کافی پیسہ بنا سکتے ہیں. ایک غریب کمیونٹی جس کے پاس کوئی اصل *نقد* نہ ہو بلکہ بہت زیادہ *فاضل وقت* میسر ہو، ایسی کمیونٹی میں کرنسی کو فروغ دینے کے مقصد کا تصور کریں. اگر لوگ ایک دوسرے کے لئے کام کر کے پیسہ کما سکتے ہوں تو منصفانہ اکاؤنٹنگ / کرنسی کے نظام کی طرف سے سہولت کے تحت وہ باہمی تبادلے کے ذریعے کرنسی کی قدر کو فروغ دینگے.
 
-Distributing a currency to as many people as possible in a manner that is generally perceived as fair is a challenging task. The tasks that can be entirely evaluated by an objective computer algorithm are limited in nature and generally speaking have limited positive external benefits. In the case of Bitcoin-style mining, it can result in the production of specialized hardware and cause people to invest time developing more efficient algorithms. It may even help find prime numbers, but none of these things provide meaningful value to society or the currency holding community at large. More importantly, economies of scale and market forces will end up excluding everyone but experts from participating in this kind of distribution. Ultimately, computation-based mining is just another way of *buying in* because it requires money to pay the electric bill or the development of hardware necessary to do the work.
+کرنسی کی زیادہ سے زیادہ لوگوں میں ممکنہ حد تک تقسیم اس انداز سے کہ جسے عام طور پر منصفانہ سمجھا جاتا ہو، ایک مشکل کام ہے. وہ کام جن کا ہدفی حسابی اعداد و شمار کے ذریعے مکمل جائزہ لیا جا سکتا ہے وہ قدرتی طور پر محدود ہیں اور عام طور پر یہ کہا جا سکتا ہے کہ ان میں بہت محدود مثبت بیرونی فوائد ہیں. بٹکوائن-سٹائل مائننگ کی صورت میں اس کا نتیجہ دھاتی اشیاء کی پیداوار مین نکل سکتا ہے اور لوگوں سے زیادہ موثر اعداد و شمار بنوانے کے لئے وقت کی سرمایہ کاری کا سبب بن سکتا ہے. یہ مفرر اعداد کو تلاش کرنے میں بھی مدد فراہم کر سکتا ہے لیکن ان میں سے کوئی بھی چیز سماج کے لئے یا اس کرنسی کو بڑی مقدار میں ہولڈ کرنے والی جماعت کے لئے معنی خیز قدر فراہم نہیں کرتی. مزید اہم بات یہ کہ وسیع پیمانے پر مصنوعات پیدا کرنے والی معیشتیں اور بازاری قوتیں تمام لوگوں کو کرنسی کی تقسیم میں حصہ لینے سے روک دیتی ہیں سوائے ماہر لوگوں کے. آخرکار، کمپیوٹر کی بنیاد پر مائننگ کرنسی کو *خریدنے* کا ایک اور راستہ ہے کیونکہ اس میں برقی بل ادا کرنے کے لئے رقم کی ضرورت ہوتی ہے یا پھر کرنسی کی ترقی اور پیداوار کے لئے ضروری دھاتی اشیاء بنانے پر رقم کی ضرورت ہوتی ہے.
 
-In order to give everyone an equal opportunity to get involved and earn the currency people must be given an opportunity to work. The challenge is how to judge the relative quality and quantity of work that individuals provide and to do so in a way that efficiently allocates rewards to millions of users. This requires the introduction of a scalable voting process. In particular it requires that authority to allocate funds must be as distributed and decentralized as possible.
+سب کو شامل ہونے اور کرنسی کمانے کا ایک برابر موقع دینے کے لئے لوگوں کو کام کرنے کا ایک موقع دینا چاہئیے. مشکل یہ ہے کہ دوسرے افراد کے مقابلے میں کس طرح کام کی مقدار اور معیار کا فیصلہ کیا جائے اور ایسے طریقے سے کیا جائے جس کے ذریعے لاکھوں صارفین کے لئے انعامات مختص کیے جا سکیں. یہ ایک ایسا قابل پیمائش ووٹنگ کے عمل کو متعارف کراتا ہے. خاص طور پر یہ اس بات کو طلب کرتا ہے کہ انعامات کو مختص کرنے کے اختیار کو مرکزیت ختم کرتے ہوئے ممکنہ حد تک تقسیم ہونا چاہئیے.
 
-The first step in rewarding millions of users is to commit to distributing a fixed amount of currency regardless of how much work is actually done or how users vote. This changes the question from being *“Should we pay?”* to *“Whom should we pay?”* and signals to the market that money is being distributed and is being auctioned off to whoever “bids” the most *work*. This is similar to Bitcoin committing to award 50 BTC to whoever finds the most difficult hashes. Like Bitcoin, all work must be done prior-to payout and nothing should be paid speculatively on the promise to do work in the future.
+لاکھوں لوگوں کو انعام دینے میں پہلا قدم کرنسی کی ایک مقررہ رقم کو تقسیم کرنے کا عہد ہے اس بات سے قطع نظر کرتے ہوئے کہ اصل میں کتنا کام کیا گیا ہے یا صارفین کیسے ووٹ ڈال رہے ہیں. یہ *“کیا ہمیں انعام دینا چاہئیے“* کے سوال کو تبدیل کر کے *“کس کو انعام دینا چاہئیے“* میں تبدیل کرتا ہے اور مارکیٹ میں یہ اشارہ دیتا ہے کہ کرنسی کو نیلامی کے ذریعے اس بنیاد پر کہ جو بھی زیادہ بولیاں کسی *کام* پر لگائے گا، ان کاموں پر تقسیم کی جا رہی ہے. یہ نظام بٹکوائن کے نظام یعنی جو کوئی سب سے زیادہ مشکل ہیشز کو ڈھونڈے گا اسے پچاس بٹکوائن ملینگے، سے ملتا جلتا ہے. بٹکوائن-کی طرح پیسہ وصولی سے پہلے تمام کام کرنا ضروری ہے اور مستقبل میں کام کرنے کی یقین دہانی کرنے پر کوئی ادائیگی نہی ہونی چاہیے.
 
-The next step is to reward everyone who does anything even remotely positive with *something*. This is accomplished by ranking all work done and distributing proportionally to its value. The more competitive the market becomes, the more difficult (higher quality or quantity) it becomes to earn the same payout.
+اگلا قدم ہر ایسے شخص کو انعام دینا ہے جو *کچھ بھی* مثبت کام کرے چاہے وہ دور سے ہیکیوں نہ کیا گیا ہو. یہ مقصد تمام کاموں کی درجہ بندی اور اس کام کی قدر کے تناسب کے مطابق کرنسی کی تقسیم کے ذریعے حاصل کیا جاتا ہے. مارکیٹ میں مقابلہ جتنا زیادہ بڑھے گا، اتنا ہی زیادہ مشکل (اعلی معیار یا مقدار) پہلے جیسی رقم کو حاصل کرنا بن جائے گا.
 
-### Voting on Distribution of Currency
+### کرنسی کی تقسیم پر ووٹنگ
 
-Assume there is a fixed amount of money to distribute, and that those who have a long-term vested interest in the future value and utility of the currency are the ones who must decide how to allocate it. Every vesting user casts their votes on who did the best work and at the end of the day the available money for that day is divided proportional to the votes such that everyone with even one net positive vote gets something.
+فرض کریں کہ تقسیم کے لئے رقم کی مقدار مقررہ ہے اور لوگ جو طویل مدتی ویسٹڈ کے ذریعے کرنسی کی افادیت اور اس کی مستقبل کی قدر میں دلچسپی رکھتے ہیں، یہ وہ لوگ ہیں جن کو یہ فیصلہ کرنا ہے کہ کرنسی کو کس طرح مختص کیا جائے. ہر ویسٹنگ صارف اپنا ووٹ ان لوگوں کے لئے ڈالتے ہیں جنہوں نے بہترین کام کیا ہو اور دن کے آخر میں اس دن کے لئے دستیاب رقم ووٹس کے تناسب کے مطابق تقسیم تقسیم کی جاتی ہے کہ ہر ایسے شخص کو جسے صرف ایک خالص مثبت ووٹ ملا ہو، اسے بھی کچھ نہ کچھ دیا جاتا ہے.
 
-The naive voting process creates a N-Person Prisoner’s Dilemma[^5] whereby each individual voter has incentive to vote for themselves at the expense of the larger community goal. If every voter defects by voting for themselves then no currency will end up distributed and the currency as a whole will fail to gain network effect. On the other hand, if only one voter defects then that voter would win undeserved profits while having minimal effect on the overall value of the currency.
+بھولا بھالا ووٹنگ کا عمل این-شخص قیدی مشکوکیت[^5] کی تخلیق کرتا ہے جس کے تحت تمام ووٹ کرنے والے افراد اجتماعی مقصد کی قیمت پر خود کو ووٹ دے کر فائدہ حاصل کر سکتے ہیں. اگر ہر ووٹ دینے والا خود کو ووٹ کر کے خرابی پیدا کرینگے تو کوئی کرنسی تقسیم نہیں ہو پائے گی اور کرنسی مجموعی طور پر نیٹ ورک کا اثر حاصل کرنے میں ناکام ہو جائے گی. دوسری جانب اگر صرف ایک ووٹ کرنے والا یہ خرابی پیدا کرے تو وہ ناحق فائدہ تو جیت جائے گا مگر کرنسی کی مجموعی قیمت پر کم سے کم اثر پڑے گا.
 
-#### Voting Abuse
+#### ووٹنگ میں بدعنوانی
 
-Regardless of how much money any one individual has, there are always many other individuals with similar wealth. Even the wealthiest individual rarely has much more than the next couple wealthiest combined. Furthermore, those who have a large investment in a community also have the most to lose by attempting to game the voting system for themselves. It would be like the CEO of a company deciding to stop paying salaries so he could pocket all of the profits. Everyone would leave to work for other companies and the company would become worthless, leaving the CEO bankrupt rather than wealthy.
+اس بات سے قطع نظر کہ کسی ایک فرد کے پاس کتنا پیسہ ہے، وہاں ہمیشہ دوسرے افراد بھی ہوتے ہیں جن کے پاس یکساں پیسہ ہوتا ہے. یہاں تک کہ سب سے امیر شخص کے پاس بھی شاید ہی اتنا پیسہ ہو جتنا ایک جوڑے کے پاس ہے. اس کے علاوہ، وہ لوگ جو کمیونٹی کے بڑے سرمایہ کار ہیں ان کے پاس ووٹنگ کے نظام میں پیدا کرنے کی وجہ سے ہارنے کے لئے بہت کچھ ہے. یہ ایک کمپنی کے سی-ای-او (CEO) کی طرح ہوگا جہاں وہ ملازمین کو تنخواہ دینا بند کر دیتا ہے تاکہ وہ سارا نفع اپنی جیب میں بھر لے. اس طرح تمام ملازمین کو اس کمپنی سے نکل کر دوسری کمپنیوں میں ملازمت کرنی پڑے گی اور وہ کمپنی سی-ای-او کو امیر بنانے کے بجائے اس کا دیوالیہ کر کے چھوڑے گی.
 
-Fortunately, any work that is getting a large concentration of votes is also gaining the most scrutiny (publicity). Through the addition of *negative-voting* it is possible for many smaller stakeholders to nullify the voting power of collusive groups or defecting large stakeholders. Furthermore, large-stakeholders have more to lose if the currency falls in value due to abuse than they might gain by voting for themselves. In fact, honest large stakeholders are likely to be more effective by policing abuse and using negative voting than they would be by voting for smaller contributions.
+خوش قسمتی سے، کوئی بھی کام جو بڑی تعداد میں ووٹ حاصل کر رہا ہے وہ سب سے زیادہ مقبولیت بھی حاصل کر رہا ہے. *منفی ووٹنگ* کے اضافے کے ذریعے، بہت سے چھوٹے سرمایہ کار کے لئے یہ ممکن ہے کہ وہ سازش کرنے والے گروپوں کی طاقت کو منسوخ کردیں. اس کے علاوہ بڑے سرمایہ کاروں کے پاس ہارنے کے لئے بہت کچھ ہے اگر کرنسی ووٹنگ میں بدسلوکی کی وجہ سے قدر میں گرنے لگتی ہے اس سے زیادہ جتنا وہ ووٹنگ کے ذریعے فائدہ اٹھا سکتے تھے. حقیقت میں، بڑے سرمایہ کار جو ایماندار ہیں ان کا بدسلوکی کو پکڑنے اور منفی ووٹنگ کے ذریعے موثر ثابت ہونا زیادہ ممکن ہے بجائے اس کے کہ وہ چھوٹے تعاون کے لئے ووٹ ڈالیں.
 
-The use of *negative-voting* to keep people from abusing the system leverages the *crab mentality* that many people have when it is perceived that one individual is profiting at the expense of everyone else. While crab mentality normally refers to short-sighted people keeping good people down, it is also what allows good people to keep bad people down. The only “problem” with crab mentality is when people *wrongly believe* someone is profiting at everyone else's expense.
+لوگوں کی نظام کی بدسلوکی کی روک تھام کے لئے *منفی ووٹنگ* کا استعمال *کیکڑے کی ذہنیت* کو قابو میں رکھتا ہے جو بہت سے لوگوں میں یہ دیکھ کر پیدا ہو جاتی ہے کہ ایک فرد دوسرے تمام لوگوں کی قیمت پر فائدہ اٹھا رہا ہے. حالانکہ کیکڑے کی ذہنیت سے مراد عام طور پر مختصر نظر رکھنے والوں کی ہے جو اچھے لوگوں کو اچھائی I کرنے سے باز رکھتی ہے مگر یہ وہ بھی ہے جس سے اچھے لوگوں کو برے لوگوں سے دور رہنے کی اجازت دیتی ہے. کیکڑے کی ذہنیت کے ساتھ صرف ایک مسئلہ ہے اور وہ یہ کہ جب لوگوں کو *غلط فہمی* ہو جاتی ہے کہ کوئی شخص دوسروں کے اخراجات پر منافع حاصل کر رہا ہے.
 
-**The Story of the Crab Bucket**[^6]
+**کیکڑوں سے بھری بالٹی کی کہانی**[^6]
 
-A man was walking along the beach and saw another man fishing in the surf with a bait bucket beside him. As he drew closer, he saw that the bait bucket had no lid and had live crabs inside.
+ایک آدمی ساحل سمندر پر چل رہا تھا۔ اس نے ایک شخص کو دیکھا جو پانی کی موجوں میں ماہی مچھلیاں پکڈ رہا تھا اور اس کے پاس شکار کو جمع کرنے کے لئے بالٹی تھی۔ جیسے ہی وہ آدمی قریب آیا، اس نے دیکھا کہ اس بالٹی کا ڈھکن نہیں تھا اور اس بالٹی میں زندہ کیکڑے تھے.
 
-"Why don't you cover your bait bucket so the crabs won't escape?", he said.
+“آپ اپنی بالٹی کو ڈھکتے کیوں نہیں تاکہ کیکڑے باہر نہ بھاگ سکیں؟“، اس آدمی نے کہا.
 
-"You don't understand.", the man replied, "If there is one crab in the bucket it would surely crawl out very quickly. However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
+“تم نہیں سمجھوگے"، اس شخص نے جواب دیا, "اگر بالٹی میں ایک کیکڑا ہوتا تو وہ یقینی طور پر رینگتے ہوئے باہر آجاتا. تاہم، جب بالٹی میں بہت سے کیکڑے ہوں اور ان میں سے ایک اوپر کی طرف رینگنے کی کوشش کرے تو دوسرے اسے پکڑ لیتے ہیں اور نیچے کی طرف کھینچ لیتے ہیں تاکہ وہ کیکڑا بھی ان کی طرح اسی تقدیر کا حصہ بنے."
 
-So it is with people. If one tries to do something different, get better grades, improve herself, escape her environment, or dream big dreams, other people will try to drag her back down to share their fate.
+یہی لوگوں کے ساتھ بھی ہے. اگر کوئی کچھ مختلف کرنے کی کوشش کرے، بہتر گریڈ حاصل کرے، خود میں بہتری لائے، برے حالات سے باہر آئے یا بڑے خواب دیکھے تو دوسرے لوگ اسے دوبارہ نیچے کی طرف لانے کی کوشش کرتے ہیں تاکہ وہ شخص بھی اسی تقدیر کا شریک بنے.
 
-Eliminating “abuse” is not possible and shouldn’t be the goal. Even those who are attempting to “abuse” the system are still doing work. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn’t so rampant that it undermines the incentive to do real work in support of the community and its currency.
+بدتہذیبی کو ختم کرنا ممکن نہیں ہے اور نہ ہی یہ مقصد ہونا چاہئیے. یہاں تک کہ وہ لوگ جو نظام کے غلط استعمال کی کوشش کر رہے ہیں وہ پھر بھی کام کر رہے ہیں. کوئی بھی معاوضہ جو انہیں غلط استعمال کی کامیاب کوشش پر حاصل ہوتا ہے وہ کم سے کم کرنسی کی تقسیم کے لئے اتنا ہی قابل قدر ہے جیسے روایتی بٹکوائن مائننگ کے کام کا نظام. مجموعی طور پر جو ضروری ہے وہ اس بات کا یقینی بنانا ہے کہ بدعنوانی اور غلط استعمال اتنا زیادہ نہ ہوجائے کہ جو کمیونٹی اور کرنسی کی حمایت میں ہونے والے کاموں کے معاوضے کی جڑ کاٹ دے یا اسے کم کردے.
 
-The goal of building a community currency is to get more “crabs in the bucket”. Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs sufficient power to prevent others from escaping.
+ایک کرنسی کی کی کمیونیٹی کی تعمیر کا مقصد “بالٹی میں مزید کیکڑے“ حاصل کرنا ہے. تمام بدعنوانی کو ختم کرنے کے لئے کافی اقدامات کی طرف جانا ایک بالٹی پر کیکڑوں کو باہر نکلنے سے باز رکھنے کے لئے ڈھکن لگانے کی طرح ہے جو نئے کیکڑوں کو بالٹی میں داخل کرنے میں مشکلات کی قیمت پر آتا ہے. بلکہ پھسلنے والی دیواروں کا بنانا اور دوسرے کیکڑوں کو دوسروں کو باہر نکلنے سے باز رکھنے کے لئے اچھی مقدار میں طاقت دینا کافی ہے.
 
-### Rate Limited Voting
+### شرح محدود ووٹنگ
 
-A major part of minimizing abuse is the rate-limiting of voting. Individual users can only read and evaluate so many work items per day. Any attempt to vote more frequently than this is a sign of automation and potential abuse. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
+بدعنوانی کو کم کرنے کا ایک بڑا حصہ ووٹنگ کی شرح کو محدود کرنا ہے. انفرادی صارفین ایک دن میں کافی مواد کو پڑھ سکتے ہیں اور ان کا اندازہ لگا سکتے ہیں. در زیادہ ووٹ کرنے کی کوئی بھی کوشش خودکار نظام اور ممکنہ بدعنوانی کی نشاندہی کرتی ہے. شرح محدود کے ذریعے وہ سرمایہ کار جو زیادہ ووٹ ڈالتے ہیں ان کے ووٹ کا شمار بمقابل ان سرمایہ کاروں کے جو کم ووٹ ڈالتے ہیں، ان سے کم ہوگا. ٹوکن کی ایک سے زیادہ لوگوں میں تقسیم اثراندازی کو بھی تقسیم کرتی ہے اور اس طرح اس کا نتیجہ نہ ہی اثر اندازی کے خالص اضافے میں نکلتا ہے اور نہ ہی ووٹنگ پر عائد شرح کی حد کے تجاوز میں نکلتا ہے.
 
-Users are allotted a fixed amount of voting power. Voting power is multiplied by a user’s vesting tokens to determine how much share in the reward pool should be allocated to a given work item. Every vote that is cast uses a percentage of remaining voting power. Users can vote for more posts, but each vote will be worth less, and it will take longer to reach full voting power again. Voting power recharges at a fixed linear rate of 20% per day.
+صارفین کو ووٹ کی ایک مقررہ قوت مختص کردی جاتی ہے. ووٹنگ قوت کو صارف کے ویسٹنگ ٹوکن سے ضرب دیا جاتا ہے یہ جاننے کے لئے کہ انعامات کے پول میں سے کتنا حصہ کسی کام کے لیے درکار اشیاء کے لئے مختص کیا جانا چاہئیے. ہر ووٹ جو کہ ڈالا جاتا ہے وہ باقی ووٹنگ قوت کا کچھ فیصد استعمال کرتا ہے. صارفین زیادہ مواد کے لئے ووٹ ڈال سکتے ہیں لیکن ہر ووٹ کی قیمت بپہلے ووٹ سے کم ہوگی اور مکمل ووٹنگ پاور کو دوبارہ حاصل کرنے لئے زیادہ وقت لگے گا. ووٹنگ قوت فی دن بیس فیصد(%20) کی ایک لکیری شرح پر ریچارج ہوتا ہے.
 
-### Payout Distribution
+### ادائیگی کی تقسیم
 
-One of the primary goals of Steem’s reward system is to produce the best discussions on the internet. Each and every year 75% of the yearly inflation is distributed to users submitting, voting on, and discussing content. At the size of Bitcoin this could be several million dollars per day being given to the top contributors.
+سٹیم کے انعامات کے نظام کے بنیادی مقاصد میں سے ایک مقصد انٹرنیت پر بہترین گفتگو پیدا کرنا ہے. ہر سال سالانہ افراط کا ٧٥ فیصد (%75) ان لوگوں میں تقسیم کر دیا جاتا ہے جو مواد کو جمع کرواتے ہیں، مواد پر ووٹ ڈالتے ہیں اور مواد پر گفتگو کرتے اور کرواتے ہیں. بٹکوائن کے حجم میں یہ فی دن کئی ملین ڈالر ہو سکتے ہیں جو بہترین تعاون کرنے والوں کو دیے جاتے ہیں.
 
-The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content.
+حقیقی تقسیم صارفین کے ووٹنگ کے نمونے پر منحصر ہے لیکن ہمیں شک ہے کہ انعامات کی کثیر مقدار سب سے زیادہ مقبول مواد میں تقسیم کی جائے گی.
 
-Zipf’s Law[^7] is one of those empirical rules that characterize a surprising range of real-world phenomena remarkably well. It says that if we order some large collection by size or popularity, the second element in the collection will be about half the measure of the first one, the third one will be about one-third the measure of the first one, and so on. In general, the k th-ranked item will measure about 1/k of the first one.
+زپ کا قانون[^7] ان تجرباتی قوانین میں سے ایک ہے جو حقیقی دنیا کے واقعے کی حیرت انگیز رینج کی خاصیت کو قابل ذکر انداز سے بیان کرتا ہے. یہ کہتا ہے کہ اگر ہم ناپ یا مقبولیت کے ذریعہ کچھ بڑے مجموعہ کا حکم دیتے ہیں تو مجموعہ میں دوسرا عنصر سب سے پہلے کا نصف ہوگا، مجموعہ میں تیسرا عنصر سب سے پہلے کا ایک تہائی ہوگا اور اسی طرح یہ چلتا رہے گا. عام طور پر مجموعہ میں ہزاروا عنصر سب سے پہلے کا ہزاروا ہوگا.
 
 ![](\img_the_new_marketplace.png)
 
-Taking popularity as a rough measure of value, then the value of each individual item is given by Zipf’s Law. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
+اگر مقبولیت کو قدر و قیمت کی کسی نہ کسی پیمائش کے طور پر لیتے ہیں پھر ہر چیز کی قدر زپ کے قانون کی طرف سے دی جائیگی. وہ یہ ہے کہ اگر ہمارے پاس دس لاکھ اشیاء ہیں تو سب سے زیادہ مقبول ١٠٠ (100) چیزیں مجموعی قیمت کا ایک تہائی حصہ لیں گی، اگلی ١٠٠٠٠ (10,000) چیزیں مزید ایک تہائی حصہ لیں گی اور باقی ٩٨٩٩٠٠ (989,900) چیزیں آخری تہائی حصہ لیں گی. این (n) اشیاء کے مجموعے کی قیمت لاگ ان ((log(n) کے متوازن ہے.
 
-The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
+اس ووٹنگ اور ادائیگی کی تقسیم کا اثر یہ ہے کہ جس سے اچھے اور مقبول مواد کو زیادہ انعامات دیے جائیں مگر ساتھ ہی چھوٹے کھلاڑیوں کو ان کے چھوٹے تعاون پر بھی کچھ نہ کچھ دیا جائے.
 
-The economic effect of this is similar to a lottery where people overestimate their probability of getting votes and thus do more work than the expected value of their reward and thereby maximize the total amount of work performed in service of the community. The fact that everyone “wins something” plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
+اس کا اقتصادی اثر ایک لاٹری کی طرح ہے جہاں لوگ ووٹوں کے حاصل کرنے کے امکانات کو زیادہ سے زیادہ کرتے تصور کرتے ہیں اور نتیجتا اپنی اجرت کی متوقع قدر سے زیادہ کام کر لیتے ہیں اور اس طرح کمیونٹی کی مجموعی خدمات کی تعداد میں زیادہ سے زیادہ اضافہ کر دیتے ہیں. یہ حقیقت یعنی “ہر کوئی کچھ نہ کچھ جیتتا ہے“ اسی نفسیات پر چلتا ہے جو رقص گاہ لوگوں کو جوئے میں مشغول رکھنے کے لئے استعمال کرتے ہیں. دوسرے لفظوں میں چھوٹے انعامات اس خیال کو مضبوط بنانے میں امداد کرتے ہیں دیتے ہیں کہ بڑے انعامات حاصل کرنا ممکن ہے.
 
-### Payouts
+### ادائیگیاں
 
-When a post receives a payout it takes the form of 50% SBD and 50% SP. The Steem Power give the user increased voting and transaction power while the SBD gives the user an immediate benefit in a stable currency. As we’ve already discussed at length, SP is designed to encourage long-term holding rather than short-term selling. This encourages more users to have a vested interest in the long-term success of the platform.
+جب ایک مواد کی اشاعت ادائیگی حاصل کرتی ہے، وہ ٥٠ فیصد (%50) ایس-بی-ڈی (SBD) اور ٥٠ فیصد (%50) سٹیم پاور (SP) کی شکل لیتی ہے. سٹیم پاور صارف کی ووٹنگ اور لین دین کی طاقت میں اضافہ کرتی ہے جب کہ ایس-بی-ڈی (SBD) صارف کو فوری فائدہ ایک مستحکم کرنسی کی شکل میں فوری فائدہ فراہم کرتا ہے. جیسے ہم نے پہلے بھی ایک لمبی گفتگو کی، سٹیم پاور (SP) کو طویل مدتی ہولڈنگ کو فروغ دینے کے لئے تیار کیا گیا ہے نہ کہ کم قلیل مدتی فروخت کے. یہ زیادہ صارفین کو پلیٹ فارم کی طویل مدتی کامیابی کے لئے ویسٹنگ مفاد رکھنے کی حوصلہ افزائی کرتا ہے.
 
-Users also have the option to be paid in 100% SP, as well as decline payout on posts. When a user declines payout on a post, the money that would have been paid to them remains in the rewards pool, to be distributed to other users.
+صارفین کو ١٠٠ فیصد سٹیم پاور (SP 100%) میں ادائیگی لینے کا بھی اختیار ہے اور اس کے علاوہ اپنے مواد پر ادائیگی نہ لینے کا بھی اختیار ہے. جب ایک صارف اپنے مواد پر ادائیگی لینے سے انکار کرتا ہے تو وہ انعام دوبارہ انعامی پول میں چلا جاتا ہے جو کہ دوسرے صارفین میں ان کے تعاون کے عوض تقسیم ہو جاتا ہے.
 
-# Consensus Algorithm
+# اتفاق رائے کا حساب و شمار
 
-Consensus is the process by which a community comes to a universally recognized, unambiguous agreement on piece of information. There are many algorithms society has developed for reaching consensus about who owns what. Every government on earth is a primitive consensus algorithm whereby the population agrees to abide by a certain set of rules enshrined in a constitution. Governments establish courts, judges, and juries to interpret the subjective facts and render a final decision. Most of the time people abide by the decision even if it was wrong.
+اتفاق رائے وہ عمل ہے جس کے ذریعے ایک کمیونٹی کسی معلومات کے ٹکڑے پر عالمی طور پر تسلیم شدہ اور واضح معاہدے پر اکٹھی ہوتی ہے. بہت سے حساب و شمار موجود ہیں جو سماج نے اس بات پر اتفاق حاصل کرنے کے لئے بنائے ہیں یہ جاننے کے لئے کہ کون کس کا مالک ہے. زمین پر ہر حکومت ایک ابتدائی اتفاق رائے الگورتھم (یعنی حساب و شمار) ہے جس کے تحت آبادی ایک مخصوص آئین میں شامل اصولوں کے مجموعے کے مطابق چلنے کے لئے تیار ہوتی ہے. حکومتیں عدالتوں، ججوں اور فقھاء کو نفسی حقائق کی ترجمانی کے لئے قائم کرتی ہیں اور حتمی فیصلہ فراہم کرتی ہیں. زیادہ تر لوگ فیصلے کی پابندی کرتے ہیں، یہاں تک کہ اگر وہ غلط بھی ہو.
 
-The algorithms used by cryptocurrencies provide a better way to reach consensus. Cryptographically signed testimony from individuals is recorded in a public ledger that establishes the absolute global order of events. A deterministic computer algorithm can then process this ledger to derive a universally accepted conclusion. So long as the members of a community agree on the processing algorithm, the result of the algorithm is authoritative.
+کرائیپٹوکرنسی کے استعمال کردہ الگورتھم اتفاق رائے تک پہنچنے کے لئے ایک بہتر طریقہ فراہم کرتے ہیں. افراد کی طرف سے خفیہ طور پر دستخط کی جانے والی گواہی ایک عوامی کھاتے میں ریکارڈ کیے جاتے ہیں جو واقعات کا مطلق عالمی حکم قائم کرتا ہے. ایک تعینی کمپیوٹر الگورتھم پھر اس کھاتے کو عالمی طور پر قبول شدہ نتیجہ حاصل کرنے کے لئے عمل میں لا سکتا ہے. جب تک ایک کمیونٹی کے ارکان اس الگورتھم پر اتفاق رکھیں جو عمل میں ہے، الگورتھم کا نتیجہ معتبر ہے.
 
-The primary consideration is determining what testimony is allowed to enter the public record. Systems should be designed to minimize the potential for censorship. Censorship on the public ledger is similar to preventing someone from voting in an election. In both cases an individual is prevented from impacting the global consensus.
+بنیادی توجہ طلب اس بات کا تعین ہے کہ کس گواہی کی عوامی کھاتے میں درج کرنے کی اجازت ہے. ایسے نظامات تیار کرنے چاہئیں جن کا مقصد ممکنہ پابندیوں کو کم کرنا ہو. عوامی کھاتے پر پابندیاں انتخاب میں کسی کو روکنے کی طرح ہے. دونوں صورتوں میں ایک فرد کو عالمی اتفاق رائے پر اثر انداز ہونے سے روکا جاتا ہے.
 
-## Consensus in Steem
+## سٹیم میں اتفاق رائے
 
-Conceptually, the consensus algorithm adopted by Steem is similar to the consensus algorithm adopted by companies throughout the world. People with a vested interest in the future value of Steem vote to select individuals responsible for including testimony in the public record. Voting is weighted proportional to each individual's vested interest.
+تصوراتی طور پر، سٹیم سے تسلیم شدہ اتفاق رائے الگورتھم دنیا بھر میں کمپنیوں کی طرف سے اپنائے جانے والے اتفاق رائے الگورتھم کی طرح ہے. سٹیم کے مستقبل کی قدر میں سرمایہ کاری کے ذریعے دلچسپی رکھنے والے لوگ ان لوگوں کو منتخب کرنے کے لئے ووٹ دیتے ہیں جو عوامی کھاتے میں گواہیوں کو درج کرنے کی ذمہ داری اٹھا سکیں. ہر فرد کے ووٹ کا موازنہ اس کے سٹیم میں ویسٹنگ مفاد (یعنی سرمایہ کاری کے ذریعے دلچسپی) کے فرق سے کیا جاتا ہے.
 
-In the world of cryptocurrencies, the public record is commonly referred to as a *blockchain*. A *block* is a group of signed transactions.
+کرائیپٹوکرنسی کی دنیا میں عوامی کھاتے کو عام طور پر *بلاکچین* کہا جاتا ہے۔ ایک *بلاک* دستخط کے ذریعے کیے جانے والے لین دین کا گروپ ہے.
 
-With Steem, block production is done in rounds. Each round 21 witnesses are selected to create and sign blocks of transactions. Twenty (20) of these witnesses are selected by approval voting and one is timeshared by every witness that didn’t make it into the top 20 proportional to their total votes. The 21 active witnesses are shuffled every round to prevent any one witness from constantly ignoring blocks produced by the same witness placed before. Any witness who misses a block and hasn't produced in the last 24 hours will be disabled until they update their block signing key.
+سٹیم سے بلاک کی پیداوار چکروں میں ہوتی ہے. ہر ایک گردش میں ٢١ (21) گواہوں کو لین دین کے بلاک بنانے اور ان پر دستخط کے لئے منتخب کیا جاتا ہے. ان میں سے ٢٠ (20) گواہوں کو منظوری کی ووٹنگ کے ذریعے منتخب کیا جاتا ہے اور ایک ایسے گواہ کو وقتی طور پر شریک بنایا جاتا ہے جو ان ٢٠ میں سے منتخب نہ ہو سکے. یہ ٢١ (21) فعال گواہ ہر گردش میں اوپر نیچے بدلے جاتے ہیں اور یہ عمل کسی ایک گواہ کو بلاک کی پیداوار کو نظرانداز کرنے سے روکنے کے لئے کیا جاتا ہے. کوئی بھی شاہد جو ایک بلاک کو چھوڑ دیتا ہے اور جس نے پچھلے ٢٤ گھنٹوں میں کچھ بھی پیداوار نہیں کی، اسے ناقابل کیا جائے گا اس وقت تک کہ وہ اپنی بلاک دستخط کی چابی (بلاک سائننگ کیی) کو تازہ نہ کر لیں.
 
-This process is designed to provide the best reliability while ensuring that everyone has the potential to participate in block production regardless of whether they are popular enough to get voted to the top. People have three options to overcome censorship by the top 20 elected witnesses: patiently wait in line with everyone else not in the top 20, or purchase more SP to improve voting power. Generally speaking, applying censorship is a good way for elected witnesses to lose their job and therefore, it is unlikely to be a real problem on the Steem network.
+یہ عمل بہترین اعتماد فراہم کرنے کے لئے تیار کیا گیا ہے اور اس بات کا یقین دلاتے ہوئے کہ ہر ایک شخص بلاک کی پیداوار میں حصہ لینے کی قابلیت رکھتا ہے قطع نظر کہ وہ اتنے مشہور ہیں کہ اوپر آنے کے لئے ووٹ حاصل کر سکیں. لوگوں کے پاس ٢٠ منتخب کیے گئے شاہدوں کی طرف سے پابندیوں پر قابو پانے لئے تین اختیارات ہیں: صبر سے لاین میں ان لوگوں کے ساتھ انتظار کریں جو ٢٠ مشہور گواہوں میں نہ منتخب ہو سکے، یا اپنی ووٹنگ طاقت بڑھانے کے لئے مزید سٹیم پاور خریدے. عام طور پر، پابندیاں لگانا منتخب گواہوں کے لئے اپنی نوکری سے محروم ہونے کا ایک اچھو طریقہ ہے اور اس وجہ سے سٹیم نیٹ ورک کے لئے ایک ایسے مسئلہ کے حقیقی ہونے کا امکان نہیں ہے.
 
-Because the active witnesses are known in advance, Steem is able to schedule witnesses to produce blocks every 3 seconds. Witnesses synchronize their block production via the NTP protocol. A variation of this algorithm has been in use by the BitShares network for over a year where it has been proven to be reliable.
+چونکہ فعال گواہوں کو پہلے ہی سے جان لیا جاتا ہے، اسلئے سٹیم ہر تین سیکنڈ (seconds) میں گواہوں کو بلاک کی پیداوار کے لئے شیڈول کیا جایے گا. شاہد ان بلاک کی پیداوار کی مطابقت پذیری این-ٹی-پی(NTP) پروٹوکول کے ذریعے کرتے ہیں. اس الگورتھم سے جڈا ایک الگورتھم ایک سال یا اس سے پہلے زیادہ سے بٹ شیئرز نیٹ ورک میں استعمال میں ہے جہاں یہ قابل بھروسہ ثابت ہوا ہے.
 
-# Eliminating Transaction Fees
+# لین دین میں کٹوتی (فیس) کا خاتمہ
 
-Steem goes to great lengths to reward people for contributing to the network. It would be counterproductive to turn around and charge people every time they attempt to interact with the community.
+سٹیم لوگوں کو نیٹ ورک میں ان کے تعاون کے بدلےمیں انعامات دینے میں بہت لمبی حدود تک جاتا ہے۔ یہ مقصد ختم کرنے والی بات ہوگی کہ پلٹا جائے اور لوگوں سے ہر اس وقت فیس وصول کی جائے جب وہ کمیونٹی سے جڈ جانے کی کوشش کریں (یا دوسرے لفظوں میں میل ملاپ کریں).
 
-Blockchain technology currently depends upon transaction fees to prevent spam. These fees suffer all of the known problems with microtransactions and prevent blockchains from being used for low-value transactions. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
+بلاکچین ٹیکنالوجی اس وقت غیر ضروری مواد کو روکنے کے لئے لین دین کی فیس پر انحصار کرتی ہے. یہ فیس چھوٹی ادائیگیوں میں ہونے والے مسائل کی وجہ ہے اور کم ادائیگیوں کے لئے بلاکچین کو استعمال ہونے سے روکتی ہے. واقعی غیر مرکزی اپلیکیشنز کو صارفین کے لئے مفت لین دین کی صورت پیش کرنا ضروری ہے اگر وہ مرکزی متبادل کے ساتھ مقابلہ کرنا چاہتے ہیں. یہ کاغذ سٹیم کی طرف سے فیس کی ضرورت کو ختم کرنے کے لئے استعمال کیے جانے والے نظریہ کی وضاحت کرتا ہے اور اس طرح پہلے کی غیر مستحکم غیر مرکزی ایپلی کیشنز کو قابل بناتا ہے.
 
-## The Problem With Fees
+## فیس کے ساتھ مسائل
 
-Blockchains are decentralized networks where all transactions are broadcast to all peers. Every so often a block is produced that includes some or all of the pending transactions. All blockchains must find a solution to prevent malicious users from consuming all of the available network capacity with worthless transactions. These worthless transactions can prevent other valuable transactions from being processed and ultimately destroy the network.
+بلاکچین غیرمرکزی نیٹ ورکس (Decentralized Networks) ہیں جہاں تمام لین دین یعنی ٹرانزیکشنز تمام ساتھیوں کو نشر کی جاتی ہیں. اکثر ایک بلاک پیدا کیا جاتا ہے جس میں کچھ یا پورا زیرغور ٹرانزیکشنز شامل ہوتی ہیں. تمام بلاکچین کو ایک حل تلاش کرنا ہوگا جس کے ذریعے بدنیت لوگوں کو نیٹ ورک کی دستیاب صلاحیت بیکار ٹرانزیکشنز (لین دین) کے ذریعے استعمال کرنے سے روکا جا سکتا ہو. یہ بیکار ٹرانزیکشنز قیمتی لین دین کو عملدرآمد سے روک سکتی ہیں اور بلاخر نیٹ ورک کو تباہ کر سکتی ہیں.
 
-The solution adopted by most blockchains thus far is to charge a minimum transaction fee. A fee worth just a few cents is enough to make attacking the network expensive and unprofitable. While this approach solves the spam problem, it introduces new problems. Imagine solving the email spam problem by introducing a small fee on every email; people wouldn’t use email.
+ابھی تک زیادہ تر بلاکچین نے جو حل اپنایا ہے وہ لین دین میں کم سے کم کٹوتی (فیس) ہے. چند روپیوں (Us cents) کی فیس نیٹ ورک پر حملوں کو مہنگا اور غیر منافع بخش بنانے کے لئے کافی ہے. اگرچہ یہ طریقہ غیرضروری مواد یا استعمال کے مسئلہ کو حل کرتا ہے، یہ دوسرے مسائل متعارف کرتا ہے. اس بات کا تصور کرتے ہوئے کہ غیرضروری ای-میل کو روکنے کے لئے چھوٹی فیس متعارف کی جائے؛ لوگ ای-میل کا استعمال ہی بند کردینگے.
 
-### Micropayments Don’t Work
+### چھوٹی ادائیگیاں کام نہیں کرتی
 
-The fundamental problem with charging transaction fees is that micropayments don’t work, especially for low-value user actions. When a fee is charged on every transaction, it limits the types of transactions that a decentralized network can process. Regardless of how rational the argument for the necessity of fees, users still hate the experience of being nickeled and dimed for everything that they do.
+ٹرانزیکشن فیس کی کٹوتی کرنے کے ساتھ بنیادی مسئلہ یہ ہے کہ چھوٹی ادائیگیاں کام نہیں کرتیں، خاص طور پر صارف کے کسی کم-قدر عمل پر. جب ہر ٹرانزیکشن پر کٹوتی (فیس) لی جائے، تو یہ ٹرانزیکشنز کی اقسام کو محدود کر دیتی ہیں جس پر ایک غیرمرکزی نیٹ ورک عمل درآمد کر سکتا ہے. اس کے باوجود کہ فیس کی ضرورت کے لئے دلیل کتنی عقلی ہے، صارفین ہر اس کام کے لئے جو وہ کرتے ہیں، اب بھی فیس کے لئے جانے کے تجربے سے نفرت کرتے ہیں.
 
-Imagine if the websites we use every day charged us a fee every time we modify our accounts by changing the password. Users expect certain things to be free. Requiring users to make a decision on whether or not an action is worth a small fee creates anxiety that causes users to leave. A transaction can’t be worth so much as to require a decision but worth so little that that decision is automatic. There is a certain amount of anxiety involved in any decision to buy, no matter how small, and it derives not from the interface used or the time required, but from the very act of deciding.
+تصور کریں کہ وہ ویب سائٹس جنہیں ہم ہر روز استعمال کرتے ہیں اگر وہ ہم سے ہر اس وقت فیس وصول کریں جب بھی ہم اپنے اکاونٹ کے پاس ورڈ کو تبدیل کرکے اس میں ترمیم کریں. صارفین کچھ چیزوں کے مفت ہونے کی توقع رکھتے ہیں. صارفین کو اس بات کا فیصلہ کرنے کی مشکل میں ڈال کر کہ کیا ان کا عمل اس قابل ہے کہ اس کے عوض چھوٹی فیس وصول کی جائے، تشویش پیدا کرتی ہے جو صارفین کے استعمال کو چھوڑنے کا سبب بنتی ہے. ایک ٹرانزیکشن کی اتنی زیادہ قدر نہیں ہوسکتی جو فیصلہ کی ضرورت کا تقاضہ کرے مگر نہ اتنی کم قدر کہ جو فیصلہ ہی خودکار بنادے. خرید کے کسی بھی فیصلے میں تشویش کی کچھ مقدار شامل ہوتی ہے، اس سے فرق نہیں پڑتا کہ کتنی چھوٹی، جو نہ استعمال کے ڈھانچے سے اور نہ ہی وقت کی ضرورت سے حاصل ہوتی ہے بلکہ یہ فیصلے کرنے کے عمل سے حاصل ہوتی ہے.
 
-Micropayments, like all payments, require a comparison: *“Is this much of X worth that much of Y?”* There is a minimum mental transaction cost created by this fact that cannot be optimized away, because the only transaction a user will be willing to approve with no thought will be one that costs them nothing, which is no transaction at all.
+چھوٹی ادائیگیاں، تمام ادائیگیوں کی طرح، موازنے کا تقاضہ کرتی ہیں کہ: *“کیا الف کی یہ قدر ب کی قدر سے زیادہ ہے“*۔ اس حقیقت کی وجہ سے کم سے کم ذہنی ٹرانزیکشن لاگت کی ضرورت تو پڑتی ہے جسے بہتر نہیں بنایا جا سکتا کیونکہ ایک صارف صرف اور صرف وہ ٹرانزیکشن بغیر سوچے سمجھے منظور کرے گا جس میں کوئی لاگت نہ آئے اور اس معاملے میں اس کا مطلب کسی ٹرانزیکشن کا ہی نہ کرنا ہے.
 
-– Clay Shirky[^8]
+- کلے شرکی [^8]
 
-In the world of financial payments, small fees are acceptable because the value of the transaction is extremely high relative to the fee charged, and the buyer has already made a decision to buy. The world of potential blockchain applications is far greater than just financial payments and includes many necessary transactions for which fees are simply unacceptable to users.
+مالی ادائیگیوں کی دنیا میں چھوٹی فیس قابل قبول ہیں کیونکہ اس ٹرانزیکشن (لین دین) کی قدر بمقابل لی ہوئی فیس سے کئی زیادہ ہوتی ہے اور خریدار پہلے ہی خریدنے کا فیصلہ کر چکا ہوتا ہے. ممکنہ بلاکچین بلاکچین ایپلیکیشنز کی دنیا صرف مالی ادائیگیوں کی دنیا سے کئی زیادہ ہے جس میں بہت سے ایسی ضروری ٹرانزیکشنز شامل ہیں جس کے بدلے فیس وصول کرنا صارفین کے لئے ناقابل قبول ہے.
 
-Systems like BitShares, Nxt, Ripple, Counter Party and Stellar all allow users to place limit orders on the blockchain and all of them charge users a small fee to perform this action. Later if the user wishes to cancel their order, another fee is charged. Systems like Ethereum take micropayments to a whole new level: charging per calculation. All of these systems struggle to attract new mainstream users for the same reasons that a decentralized search engine would struggle to attract users from Google if it charged a small fee for every search. It doesn’t matter how good the service is, people expect certain things to be free. This is true even if a user ends up paying more overall under a different fee structure.
+سسٹم جیسے بٹشیئرز، این-ایکس-ٹی، ریپپل، کاونٹرپارٹی، اور سٹیلر یہ سب تمام صارفین کو بلاکچین پر لمٹ آرڈرز لگانے کی اجازت دیتے ہیں اور یہ سب نظامات اس عمل کے عوض چھوٹی فیس وصول کرتے ہیں. بعد میں اگر صارف اپنے آرڈر کو منسوخ کرنا چاہتا ہو تو اس پر مزید فیس وصول کی جاتی ہے. نظامات جیسے ایتھیریم چھوٹی ادائیگیوں کو ایک بلکل ہی نئے مقام پر لے گئے ہیں؛ کٹوتی فی حساب. ایسے تمام نطامات نئے صارفین کو متوجہ کرنے کے لئے ان ہی وجوہات کی بناء پر جدوجہد کرتے ہیں جس بناء پر ایک غیرمرکزی تلاش کا انجن (سرچ انجن) گوگل کے صارفین کو اپنی طرف متوجہ کرنے کے لئے کوشش کرتا ہو اگر گوگل بھی صارف کی ہر تلاش پر چھوٹی فیس وصول کرتا ہو. اس سے کوئی فرق نہیں پڑتا کہ سروس کتنی اچھی ہے، لوگ کچھ چیزوں کے مفت ہونے کی توقع رکھتے ہیں. یہ اس معاملے میں بھی سچ ہے جہاں ایک صارف کسی دوسرے فیس کے ڈھانچے کے تحت زیادہ ادائیگی پر مجبور ہو جائے.
 
-### Fees are a Barrier to Entry
+### فیس اندراج میں رکاوٹ ہیں
 
-Any fee creates a barrier to entry for new users. Before someone can experiment with Ethereum they must acquire some ETH tokens. Anyone wanting to build a decentralized application on Ethereum must pass on the cost to their customers. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
+کوئی بھی فیس نئے صارفین کے اندراج میں رکاوٹ پیدا کرتی ہیں. اس سے پہلے کہ کوئی ایتھریم کو استعمال کر کے تجربہ کر سکے، انہیں کچھ ای-ٹی-ایچ ٹوکن حاصل کرنا لازمی ہے. کوئی بھی شخص جو ایتھریم کے بلاکچین پر غیرمرکزی ایپلیکیشن بنانا چاہتا ہے، انہیں اپنے گاہکوں تک پہنچنے کے لیے خرچے سے گزرنا لازمی ہے. کرائیپٹوکرنسی کو خریدنا ایک آسان کام نہیں اور دس ڈالر (10$) سے کم کی خرید بہت کم ہی سمجھ آتی ہے. اس کا یہ مطلب کہ نئے صارفین جو نئی ایپلیکیشن کو استعمال کرنا چاہتے ہیں، ان کا کم سے کم دس ڈالر (10$) کے ساتھ حصہ لینے پر قائل ہونا لازمی ہے.
 
-### Changing Fees
+### فیس میں تبدیلی
 
-Over time a network must adjust fees. This can happen either due to an increase in the value of the token or due to a surge in capacity. Users like predictable fees and guaranteed service. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
+وقت کے ساتھ ایک نیٹ ورک فیس میں لازمی تبدیلی کرتا رہے. یا تو یہ ٹوکن کی قدروقیمت میں اضافے یا صلاحیت میں اضافے کی وجہ سے ہو سکتا ہے. صارفین متوقع فیس اور ضمانت شدہ خدمات کو پسند کرتے ہیں. اگرچہ بھاری استعمال کے اوقات میں فیس کو متحرک طور پر تبدیل کرنا ممکن ہے، نتیجہ صارف کا خراب تجربہ ہے.
 
-### Sybil Attacks
+### سائبل (Sybil) حملے
 
-Centralized websites prevent spam through rate limiting and some form of ID verification. Even something as simple as reCAPTCHA[^9] is sufficient to limit the creation of fake accounts. If someone abuses their account then centralized websites are free to block the account.
+مرکزی ویب سائٹس فضولیات کو شرح کے محدود کرنے اور کسی قسم کی شناخت کی تصدیق کے ذریعے روکتی ہیں. یہاں تک کہ کچھ سادہ سے سادہ جیسے ریکیپچا (reCaptcha) بھی جعلی اکاونٹس کی تخلیق کو محدود کرنے کے لئے کافی ہے. اگر کوئی ان کے اکاونٹ کا غلط استعمال کرتا ہے تو مرکزی ویب سائٹس ان اکاونٹ کو بند کرنے کی آزادی رکھتی ہیں.
 
-In a decentralized system there is no direct way to ban users nor centralized provider able to host a reCAPTCHA and enforce rate limiting of accounts. In fact, the inability to censor users is one of the main selling points of blockchain technology.
+ایک غیرمرکزی نطام میں، صارفین کی پابندی کے لئے کوئی براہ راست راستہ نہیں ہے اور نہ ہی کوئی مرکزی خدمات دینے والا ریکیپچا کے ذریعے جعلی اکاونٹس کی شرح کو محدود کر سکتا ہے. حقیقت میں، صارفین کے احتساب کی صلاحیت کا نہ ہونا ہی بلاکچین ٹیکنالوجی کی فروخت کے مرکزی اشاروں میں سے ایک اہم اشارہ ہے.
 
-### Full Reserve vs Fractional Reserve
+### کلی مختص بمقابل جزوی مختص
 
-Let’s view a blockchain like an Internet Service Provider (ISP) co-op which owns all of the cables in the town and has a maximum amount of bandwidth that it can provide at any time. People living in the town can buy shares in the ISP and in exchange they are entitled to utilize a portion of the available bandwidth.
+چلیں ایک بلاکچین کو ایک انٹرنیٹ سروس فراہم کرنے والی کمپنی کی طرح سمجھتے ہیں جو شہر کے تمام کیبلز کی مالک ہے اور اس کے پاس اتنا زیادہ بینڈوڈتھ ہے جو وہ کسی بھی وقت فراہم کر سکتی ہے. اس شہر کے رہنے والے لوگ اس کمپنی سے دستیاب بینڈوڈتھ کا کچھ حصہ خرید سکتے ہیں.
 
-The ISP has two choices, run a “full reserve” or “fractional reserve” system. Under a full reserve system each user is only allowed a fraction of the maximum bandwidth proportional to her shares. Because not everyone uses the Internet at the same time, the town’s network would be significantly underutilized.
+انٹرنیٹ سروس فراہم کرنے والی کمپنی کے پاس ان دونوں میں سے ایک اتنخاب کرنے کا اختیار ہے: یا تو وہ کلی مختص نظام کا انتخاب کریں یا پھر جزوی مختص کا. کلی مختص نظام کے تحت ہر صارف کو زیادہ سے زیادہ بینڈوڈتھ کے کچھ حصے کے استعمال کی اجازت دی جاتی ہے جو صارف کے حصص کی خرید کے متناسب ہوتا ہے. کیونکہ ہر ایک صارف ایک ہی وقت میں انٹرنیٹ کا استعمال نہیں کرتے، اس لئے شہر کا نیٹ معنی خیز طور پر کم استعمال ہوگا.
 
-Under a fractional reserve system the individual users could utilize more bandwidth than they are entitled to at any given point in time so long as not everyone uses the Internet at the same time. The problem with operating a fractional reserve is that congestion occurs anytime too many people wish to use the network at the same time. The ISP needs a way to prioritize bandwidth during congested periods. In the most extreme case, a fully congested network must revert to a full reserve system. The challenge is setting the proper fractional reserve ratio.
+جزوی مختص نطام کے تحت انفرادی صارفین زیادہ بینڈوڈتھ کا استعمال کر سکتے ہیں بمقابل اس کے جس کے وہ ایک مخصوص وقت میں حقدار ہیں لیکن صرف اس وقت تک جب تک کہ ہر ایک صارف انٹرنیٹ کو ایک ہی وقت میں استعمال نہیں کرتا. جزوی مختص نظام چلانے میں مسئلہ یہ ہے کہ بھیڑ (رش) کسی بھی وقت لگ جاتی ہے جب بہت سے لوگ ایک ہی وقت میں انٹرنیٹ استعمال کرنا چاہتے ہیں۔ بھیڑ کے اوقات میں بینڈوڈتھ کی ترجیح کے لئے انٹرنیٹ سروس فراہم کرنے والے کو کسی راستے کی ضرورت ہے. بھیڑ کے اوقات میں بینڈوڈتھ کی ترجیح کے لئے انٹرنیٹ سروس فراہم کرنے والے کو کسی راستے کی ضرورت ہ. بہت زیادہ انتہائی صورت میں، مکمل بھیڑ والا نیٹ ورک لازمی طور پر کلی مختص نظام کی طرف واپس لوٹتا ہے. مشکل کام ایک مناسب جزوی مختص کے تناسب کو قائم کرنا ہے.
 
-## Bandwidth Instead of Micropayment Channels
+## چھوٹی ادائیگیوں کے تنگ راستے کے بجائے بینڈوڈتھ
 
-The solution to the problems with micropayments is in implementing *dynamic fractional reserves*. Under this model the blockchain will automatically adjust the reserve ratio for the network during times of congestion. The blockchain will set a target utilization that leaves enough headroom for short term surges in demand. Any time the surges are sustained the blockchain reduces the maximum bandwidth-per-share. When a surge is over and there is surplus capacity the blockchain can slowly increase the bandwidth-per-share.
+چھوٹی ادائیگیوں کے مسائل کا حل *متحرک جزوی مختص نظام* کو لاگو کرنے میں ہے. اس نمونے کے تحت بلاکچین بھیڑ کے اوقات میں خودکار طریقے سے مختص کے تناسب کو ترتیب دیتا رہے گا. بلاکچین ایک ہدف کے استعمال کو قائم کرے گا جو قلیل مدتی طلب کے اضافے کے لئے کافی جگہ چھوڑے گا. کسی بھی وقت اگر یہ اضافہ برقرار رہے، بلاکچین زیادہ سے زیادہ بینڈوڈتھ فی حصہ کو کم کردیتا ہے. جب وہ بڑھتا ہوا اضافہ ختم ہو گیا ہو اور اضافی صلاحیت باقی ہو تو بلاکچین آہستہ آہستہ بینڈوڈتھ فی حصہ میں اضافہ کردیتا ہے.
 
-Bandwidth used by an individual user should be measured over a suitably long period of time to allow that user to time-shift their usage. Users tend to login, do many things at once, then logout. This means that their bandwidth over a short period of time may appear much higher than if viewed over a longer period of time. If the time window is stretched too far then the reserve ratio will not adjust fast enough to respond to short-term surges, if the window is too short then clustering usage will have too big of an impact on normal users.
+ایک انفرادی صارف کی طرف سے استعمال شدہ بینڈوڈتھ مناسب وقت کی حد تک ماپا جانا چاہئیے تاکہ صارف کو استعمال کے اوقات میں تبدیلی کی اجازت مل سکے. صارفین لاگن ہوتے ہیں، بہت سی چیزیں ایک وقت میں کرتے ہیں اور پھر لاگ آوٹ ہو جاتے ہیں. اسکا مطلب یہ کہ ان کے استعمال شدہ بینڈوڈتھ کو کم عرصے میں ماپا جائے تو وہ بمقابل زیادہ عرصے کے بہت زیادہ دکھے گا. اگر وقت کے دورانیے کو زیادہ دور تک کھینچا گیا تو مختص کا تناسب قلیل مدتی اضافے کے جواب میں تیزی سے ترتیب نہیں پا سکے گا۔ اگر وقت کا دورانیہ بہت کم ہو تو عام صارفین پر استعمال کے جھنڈ کا بہت زیادہ اثر پڑے گا.
 
-In our estimate it should be sufficient to measure the average weekly bandwidth usage of users. Every time a user signs a transaction, that transaction is factored into their own individual moving average. Any time a user’s moving average exceeds the current network limit their transaction is delayed until their average falls below the limit.
+ہمارے اندازے میں صارفین کے اوسط ہفتہ وار استعمال کو ماپا جانا کافی ہے. ہر بار جب ایک صارف ایک ٹرانزیکشن کی تصدیق کرتا ہے، تو وہ ٹرانزیکشن ان کے انفرادی حرکت پذیری اوسط کا جز بن جاتی ہے. کسی بھی وقت جب ایک صارف کی حرکت پذیری کا اوسط موجودہ نیٹ ورک کی حد سے تجاوز کر جائے، ان کے لین دین میں تاخیر پیدا ہو جاتی ہے جب تک ان کا اوسط موجودہ حد سے نیچے نہیں آجاتا.
 
-### Impact of Capacity
+### گنجائش کا اثر
 
-Blockchain capacity isn’t necessarily capped. It is well within the technological capability of internet infrastructure to increase the Bitcoin block size to 10MB which in turn will reduce the minimum required balance by a factor of 10. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second.
+ضروری نہیں کہ بلاکچین کی گنجائش محدود ہے. یہ انٹرنیٹ کے بنیادی ڈھانچے کی تکنیکی صلاحیت کے اندر بٹکوائن بلاک کے حجم کو ١٠ایم-بی (10MB) تک بڑھانے کے لئے اچھی ہے جو نتیجے میں کم از کم ضروری توازن (بیلنس) کو دس کے عنصر سے کم کردے گی. جبکہ بٹکوائن فی الحال ایک سیکنڈ میں تین ٹرانزیکشن کی صلاحیت رکھتا ہے، متبادل عملدرآمد فی سیکنڈ ہزار ٹرانزیکشن کی صلاحیت رکھتے ہیں.
 
-### Comparison to Fees
+### فیس کا موازنہ
 
-If we assume a user with $25 dollars worth of BTC transacts once per week and pays a $0.04 cent fee each time then they would pay over $2.00 in fees per year. A user would have to earn a 8% rate of return on their $25 dollars just to break even with paying fees. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
+اگر ہم فرض کریں کہ ایک صارف جس کے پاس ٢٥(25$) ڈالرز کی قدر کے متناسب بٹکوائن ہیں وہ ہفتہ میں ایک بار ٹرانزیکشن (لین دین) کرتا ہے اور ہر بار ٤ سینٹ فیس کے طور پر دیتا ہے تو وہ ایک سال میں فیس کے طور پر ٢ ڈالر (2$) ادا کرے گا. ایک صارف کو فیس کے نقصان کو مٹانے لئے٢٥ ڈالرز (25$) پر ٨ (8) فیصد منافع کمانا پڑے گا. امکانات یہ ہیں کہ صارفین ویسے بھی اپنے پیسوں کو بلاکچین پر ہی رکھنا چاہتے ہیں (یعنی ہولڈ کرنا چاہتے ہیں) تو اس ٢٥ (25$) ڈالرز والے صارف نے فیس کی حکمت عملی کے بجائے محدود شرح کی حکمت عملی استعمال کر کے ایک سال کے عرصے میں ٢ (2$) ڈالرز کی بچت کی. صرف ١٧٥ ڈالرز (175$) کے ساتھ یہ صارفین ہر دن لین دین کر سکتے اور سالانہ ١٤ ڈالرز (14$) کی بچت کر سکتے.
 
-### Account Creation
+### اکاونٹ کی تخلیق
 
-Steem’s account-based system with publicly known balances simplifies the implementation of the bandwidth-based rate limiting algorithm. Any account with a balance below the minimum required to transact once per week would be unable to transact. This implies that all new accounts should be funded with at least this minimum balance. It also implies that users wishing to transact in smaller amounts can, so long as they hold a larger balance and reuse the account.
+عوامی طور پر جانے ہوئے توازن (بیلنس) کے ساتھ سٹیم کا اکاؤنٹ پر مبنی نظام بینڈوڈتھ پر مبنی محدود شرح کے الگورتھم کے نفاذ کو آسان بناتا ہے. کوئی بھی اکاونٹ جس کا توازن (بیلنس) کم سے کم لازمی بیلنس سے کم ہو، وہ ٹرانزیکشن نہیں کر پائے گا. اس کا مطلب یہ ہے کہ تمام نئے اکاونٹ کم سے کم اس ضروری بیلنس سے بھرپور ہونے چاہئیں. اس کا یہ بھی مطلب ہے کہ وہ صارفین جو چھوٹی ادائیگیوں کی لین دین کرنا چاہتے ہیں،جب تک ان کے اکاونٹ میں بڑا بیلنس موجود ہے وہ اس اکاونٹ کو دوبارہ بھی استعمال کر سکتے ہیں.
 
-It is possible for a low-balance account created during a time of low usage to become inaccessible if the network usage picks up. The funds could be recovered at any time by temporarily delegating a larger balance to the account.
+کم بیلنس سے بھرے ہوئے اکاونٹ جسے قلیل استعمال کے وقت تخلیق کیا گیا تھا، اس کے لئے یہ ممکن ہے کہ جب نیٹ ورک پر بوجھ بڑھے تو وہ اکاونٹ ناقابل پہنچ ہو جائے. عارضی طور پر اکاؤنٹ میں بڑے توازن کو سونپ کر سرمائے کو کسی بھی وقت دوبارہ حاصل کیا جا سکتا ہے.
 
-In order to maintain a reasonable user experience with a minimum number of hung accounts, all new accounts should start out with a balance 10 times the minimum required to transact weekly. This way even if demand increases by a factor of 10 the account will remain viable.
+لٹکے ہوئے اکاونٹ کی کم سے کم تعداد کے ساتھ صارف کے مناسب تجربے کو برقرار رکھنے کے لئے، تمام نئے اکاونٹ کو ہفتہ وار لین دین کے لئے درکار ضروری کم سے کم بیلنس سے ١٠ گناہ زیادہ بیلنس رکھنا ہوگا. اسطرح اگر طلب میں ١٠ گناہ اضافہ بھی ہو جائے تو اکاونٹ قابل پہنچ رہے گا.
 
-Any initial account balance would have to come from the user creating the account and not from token creation due to the potential for sybil attacks.
+سائبل حملوں کے امکانات کی وجہ سے کوئی بھی ابتدائی اکاونٹ توازن (بیلنس) صارف کے پاس سے آنا ہوگا نہ کہ ٹوکن کی تخلیق سے.
 
-### Justifying Minimum Balances
+### کم از کم بیلنس کی توثیق
 
-The concept of forcing users to maintain a minimum balance flows naturally from the value of a user[^10]. Anyone running a business knows that every single user has significant value. Businesses spend anywhere from $30 to $200 to acquire a user. Sometimes they pay users directly, other times they pay for advertizing, and still other times entire companies are bought just for their user base. After a company acquires a user they often given them many *free services* just to keep them around long enough to monetize them through some other means.
+صارفین کو کم از کم توازن برقرار رکھنے پر مجبور کرنے کا تصور قدرتی طور پر صارف[^10] کی قدر سے نکلتا ہے. کوئی بھی شخص جو کاروباری ہے وہ جانتا ہے کہ ہر صارف کی خاصی قدر ہے. کاروبار ایک صارف کو حاصل کرنے کے لئے تیس ڈالرز(30$) سے دو سو ڈالرز (200$) تک بھی خرچ کر دیتے ہیں. کبھی کبھی وہ صارف کو براہ راست ادائیگی کرتے ہیں، کبھی وہ اشتہارات کے لئے خرچہ کرتے ہیں اور کبھی تو پوری کمپنیاں ہی ان کے صارفین کی بنیاد پر خرید لی جاتی ہیں. کمپنی صارف کو حاصل کرنے کے بعد صرف انہیں کافی عرصے تک رکھنے کے لئے انہیں اکثر *مفت خدمات* فراہم کرتی ہے تاکہ ان سے کسی دوسرے وسائل سے پیسہ حاصل کیا جاسکے.
 
-Ripple uses a minimum balance[^11] that scales with account resource use and requires that new accounts get funded with at least this minimum balance. Currently this minimum balance is about $0.15 which is greater than the $0.10 we estimated would allow someone to transact freely at least once per week.
+ریپپل کم از کم بیلنس[^11] کا استعمال کرتا ہے جو اکاونٹ کا وسائل کے استعمال کے ساتھ پیمائش کیا جاتا ہے اور یہ تقاضا کرتا ہے کہ نئے اکاونٹ اس کم از کم بیلنس کو اپنے اکاونٹ میں رکھیں. فی الحال یہ کم از کم بیلنس تقریبا 0.15$ ہے جو ہمارے اندازے والے بیلنس 0.10$ سے زیادہ ہے جو کسی ہفتہ میں کم از کم ایک دفعہ مفت لین دین کی اجازت دیتا ہے.
 
-A blockchain can enforce a minimum value per user through the simple process of requiring a minimum balance. Any business that wishes to bring a new customer to the blockchain can pre-fund that user’s account with the minimum balance that would allow them to transact. Requiring a relatively large fee ($1.00) to sign up new users will naturally force anyone offering free accounts to vet the quality and uniqueness of each account before registering them with the blockchain.
+ایک بلاچین کم از کم بیلنس کے تقاضے کے سادہ طریقے کے ذریعے فی صارف کم از کم قیمت کو نافذ کر سکتا ہے. کوئی بھی کاروبار جو ایک نئے گاہک کو بلاکچین میں لانا چاہتا ہے وہ اس صارف کے اکاونٹ کو پہلے سے کم از کم بیلنس سے بھر سکتا ہے جو ان صارفین کو لین دین کے قابل بنائے گا. نئے صارفین کے اندراج کے لئے نسبتا زیادہ فیس کا تقاضہ کرنا (1.00$) قدرتی طور پر ان لوگوں کو جو مفت اکاونٹ فراہم کر رہے ہیں، ہر اکاونٹ کے معیار اور انوکھےپن کو اس کا بلاکچین پر اندراج سے قبل جانچنے پر مجبور کرے گا.
 
-Maintaining a minimum balance is effectively the same as making users pay transaction fees with the interest they could have earned on their balance. The minimum balance is simply the balance required to earn enough interest to pay a fee in a relatively short period of time.
+کم از کم توازن کو برقرار رکھنا موثر طور پر صارفین کو لین دین پر اس بیلنس سے فیس دینے پر مجبور کرنا جس کے اوپر وہ منافع کما سکتے تھے. کم از کم بیلنس سادہ طور پر ایک بیلنس ہے جسکے ذریعے نسبتا کم عرصے میں کافی سود کمایا جا سکے جو فیس کے طور پر استعمال ہو سکے.
 
-Fortunately, the minimum balance required can be as low as a dollar and this is something users can understand and appreciate. The opportunity cost of lost interest doesn’t incur the cognitive cost of a micro-fee and is far more acceptable to users.
+خوش قسمتی سے، لازمی کم از کم بیلنس کم سے کم ایک ڈالر تک بھی ہو سکتا ہے اور یہ وہ ہے جو صارفین سمجھ سکتے اور قدر کرتے ہیں. کھوئے ہوئے موقع کی لاگت فیس کی لاگت میں نہیں تبدیل ہوتی اور یہ صارفین کے لئے زیادہ قابل قبول ہے.
 
-The STEEM used to pre-fund an account is Powered Up in the new account (i.e., converted to Steem Power). A portion of the SP used to fund a new account may be delegated from the creator of the account. When a user is delegated SP, they may use the SP for voting and bandwidth purposes as if it were their own, but the ownership of the SP remains with the user who delegated it. A user may remove the delegation at any time. After a cool-down period, the SP is returned to their account.
+اکاونٹ کو شروع میں بھرنے کے لئے استعمال شدہ سٹیم نئے اکاونٹ میں پاور-اپ ہوتے ہیں (یعنی سٹیم پاور میں تبدیلی). SP کا ایک حصہ جو اکاونٹ کے اندراج کے لئے استعمال کیا گیا تھا اکاونٹ کے مالک کی طرف سے کسی دوسرے صارف کو سونپے جا سکتے ہیں. جب صارف کو ایس-پی سونپا گیا ہو، وہ یہ ایس-پی ووٹنگ اور بینڈوڈتھ کے مقصد کے لئے استعمال کیا جا سکتا ہے اسی طرح جیسے کہ وہ ایس-پی اس کا اپنا ہو، لیکن اس ایس-پی کی ملکیت اس ہی شخص کے پاس رہتی ہے جس نے اسے سونپا ہے. یک صارف سونپے ہوئے Sp کو کسی بھی وقت دوبارہ لے سکتا ہے. ٹھندا ہونے کی مدت کے بعد، SP ان کے اکاونٹ میں واپسی آ جاتا ہے.
 
-### Effectiveness Relative to Fees
+### فیس کے نسبتا کارگری
 
-To compare the effectiveness of rate limiting to fees we must consider how the two systems react to intentional network flooding by an attacker. Under Bitcoin an attacker with $10,000 dollars could disrupt service for an entire day by filling every single block. The same attacker would be unable to disrupt service for even a single block under the dynamic fractional reserve rate limiting approach.
+فیس کے ساتھ شرح محدود کی تاثیر کا موازنہ کرنے کے لئے ہمیں لازمی طور پر یہ غور کرنا ہوگا کہ کس طرح دونوں نظام ایک حملہ آور کی طرف سے ارادی نیٹ ورک سیلاب پر رد عمل کرتے ہیں. بٹکوائن کے اندر ایک حملہ آور جس کے پاس دس ہزار ڈالرز (10,000$) ہوں تو وہ ہر ایک بلاک کو بھر کے مکمل دن کے لئے خدمات میں خرابی پیدا کر سکتا ہے. وہی حملہ آور متحرک جزوی مختص شرح محدود حکمت عملی کے اندر ایک بلاک کے لئے بھی خدمات میں خرابی پیدا نہیں کر سکتا.
 
-If we go to a more extreme case and assume the attacker holds 1% of all coins then we presume an attacker with $60 million dollars. Such an attacker could deny the Bitcoin blockchain service for 16 years unless the miners increased fees or capacity. Even if fees were raised to $15 per transaction, the attacker could still keep the network flooded for 16 days.
+اگر ہم ایک انتہائی شدید صورت پر جائیں گے اور فرض کریں کہ حملہ آور کے پاس تمام کوئنز کا ١ فیصد (1%) ہے پھر ہم یہ فرض کریں کہ حملہ آور کے پاس ساٹھ ملین ڈالرز ($60 million dollars) ہیں. ایسا حملہ آور بٹکوائن بلاکچین سروس کو سولا (١٦) سال تک کے لئے خرابی پیدا کر سکتا ہے جب تک مائنرز فیس کو بڑھاتے نہیں یا جب تک وہ صلاحیت میں اضافہ نہیں کرتے. یہاں تک کہ اگر فیس کو ١٥ ڈالرز (15$) فی ٹرانزیکشن تک بڑھا دی جائے، تو وہ حملہ آور پھر بھی ١٦ (16) دنوں تک نیٹ ورک کو بھرا ہوا رکھ سکتا ہے.
 
-Under the rate limiting approach, someone who holds 1% of all coins with an intent to flood the network would achieve their goal for less than 30 seconds.
+شرح محدود حکمت عملی کے تحت، کوئی شخص جس کے پاس تمام کوئنز کا ١ فیصد (1%) ہو تو وہ اپنا مقصد صرف ٣٠ (30) سیکنڈ سے کم تک حاصل کر سکے گا.
 
-### Renting vs. Buying vs. Time Sharing
+### کرایہ داری بمقابل خریداری بمقابل وقت کی تقسیم
 
-When someone owns a house they expect the right to use the house for free. If a group of people buy a house together then each can expect the right to use the house proportional to their percentage ownership in the house. A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
+جب کوئی شخص گھر کی ملکیت رکھتا ہے وہ گھر کو مفت استعمال کرنے کے حق کی توقع کرتا ہے. اگر لوگوں کا ایک گروہ مل کر ایک گھر خریدے پھر ان میں سے ہر شخص اپنی ملکیت کے فیصد کے متناسب گھر کو استعمال کرنے کے حق کی توقع کر سکتا ہے. ایک فیس پر مبنی بلاکچین مالکان سے کرائے پر گھر لینے کی طرح ہے جبکہ شرح محدود مالکان کے درمیان وقت کی تقسیم کی طرح ہے.
 
-If a house is owned by multiple people then those individuals must decide how they wish to timeshare the house. Someone who owns 50% of the house but only uses it one weekend per year might expect to be paid by the individuals who take their unused time. This is the mindset of a fee based system.
+اگر گھر ایک سے زیادہ لوگوں کی ملکیت ہے پھر ان افراد کو یہ فیصلہ کرنا ضروری ہے کہ وہ کس طرح گھر میں وقت کی تقسیم کرنا چاہتے ہیں. کوئی ایک جو آدھے گھر کی ملکیت رکھتا ہے لیکن سال میں صرف ایک اختتام ہفتہ اسے استعمال کرتا ہے، اسے ان افراد کی طرف سے ادائیگی کی توقع ہو سکتی ہے جو اسکا غیر استعمال شدہ وقت لیتے ہیں. یہ فیس پر مبنی نظام کی ذہنیت ہے.
 
-On the other hand, someone who owns 50% of the house is speculating that demand for the house will increase in the future and they will be able to sell their stake for more. Any owner who owns more of a house than they use becomes a real estate speculator. With this mindset rather than collecting rent, they collect appreciation.
+دوسری جانب، کوئی شخص جو آدھے گھر کی ملکیت رکھتا ہے وہ اندازہ لگاتا ہے کہ مستقبل میں گھر کی طلب میں اضافہ ہوگا اور وہ اپنی ملکیت کو زیادہ کے عوض فروخت کرنے کے قابل ہو جائینگے. کوئی بھی مالک جو گھر کی اپنے استعمال سے زیادہ ملکیت رکھتا ہے وہ جائیداد کو فروخت کرنے والا سٹےباز بن جاتا ہے. اس ذہنیت کے ساتھ بجائے اس کے کہ وہ کرایہ جمع کریں، وہ تعریف اور قدر جمع کرتے ہیں.
 
-The value of a share is derived from how much time it can potentially grant its owner. Owning 1% of a house and getting it 1 weekend per year is the lowest value of a share. However, if half of the shareholders never use their weekend, then the value per timeshare rises to 2 weekends per year. If those inactive users instead opt to rent their unused time, then it falls back to 1 weekend per year. If those unused timeshares were sold to people who would use them then the value of a timeshare would fall by 50%. Unless the rent collected is greater than the fall in share value the timeshare owners are making an economic miscalculation.
+ایک حصہ کی قدر اس سے حاصل کی جاتی ہے کہ کتنا وقت وہ اختیاری طور پر مالکان کو عطیہ کر سکتے ہیں. گھر کے ایک حصے کی ملکیت ہو اور سال میں صرف ایک اختتام ہفتہ گھر کو لے تو یہ حصص کی سب سے کم قدر ہے. البتہ، اگر نصف حصہ دار اپنے اختتام ہفتہ کو کبھی استعمال نہیں کرتے، پھر قدر فی تقسیم وقت میں دو اختتام ہفتہ(weekend) اضافہ ہوتا ہے. اگر وہ غیرفعال صارفین اپنے غیر استعمال شدہ وقت کا کرایہ لینے کا انتخاب کریں، پھر قدر گرتے ہوئے دوبارہ ایک اختتام ہفتہ فی سال تک پہنچ جاتی ہے. اگر وہ غیراستعمال شدہ تقسیم وقت لوگوں کو فروخت کیے گئے جو انہیں استعمال کریں گے تو پھر تقسیم وقت کی قدر نصف مزید گر جائے گی. جب تک جمع کیا ہوا کرایہ حصہ کی قدر کے گرنے سے زیادہ ہو تو تقسیم وقت کے مالکان معاشی حساب میں غلطی کر رہے ہیں.
 
-Using this rationale we can assume that a system based on fees will either be more expensive for its users or be less profitable for its collective owners. An individual small owner may profit by renting out his small time slice, but only at the expense of all other timeshare owners. In effect, the cost of the falling timeshare value is shared among all owners whereas the profits are centralized in the single owner who decided to rent his share.
+اس منطق کا استعمال کرتے ہوئے ہم یہ فرض کر سکتے ہیں کہ فیس پر مبنی نظام اس کے صارفین کے لئے یا تو زیادہ مہنگا ہوگا یا پھر مجموعی مالکان کے لئے کم منافع بخش ہوگا. ایک انفرادی چھوٹا مالک اپنا چھوٹ وقت کا ٹکڑا کرائے پر دے کر فائدہ اٹھا سکتا ہے لیکن صرف دوسرے تمام تقسیم وقت مالکان کی قیمت پر. اس کے اثر میں، گرتی ہوئی تقسیم وقت کی قدر کی لاگت تمام مالکان کے درمیان بانٹ دیا جاتا ہے جبکہ منافع مرکزی طور پر صرف ایک مالک کے پاس رہتا ہے جس نے اپنے وقت تا ٹکڑا کرائے پر دیا تھا.
 
-We can conclude from this that a blockchain is best served by not using usage fees at all. If a usage fee were to be charged as an alternative to rate limiting, then it should be the equivalent of buying enough timeshares and committing to hold them long enough to gain the right use it once.
+ہم اس سے نتیجہ اخذ کرسکتے ہیں کہ ایک بلاکچین استفادہ کی فیس کو استعمال کیے بغیر ہی بہترین کردار ادا کرتا ہے. اگر استفادہ کی فیس شرح محدود کے متبادل کے طور پر کاٹی جانی ہے تو یہ کافی تقسیم وقت کے حصص خریدنے کے برابر ہونا چاہئیے اور اسے ایک بار استعمال کا حق لینے کے لیے لمبے عرصے تک گرفت میں رکھنا چاہئیے.
 
-Stated another way, a transaction fee should be equal to the minimum account balance necessary to transact once per week and it should be refunded at the end of the week. Assume the minimum account balance is $1 and allows someone to transact once per week. If someone with a $1 balance that wishes to perform 5 transactions at once they will have to increase their balance to $5 for a week either before or after their transactions.
+دوسرے طریقے سے بیان کیا جائے تو، ایک ٹرانزیکشن کی فیس کم از کم ضروری اکاونٹ بیلنس (جو ہفتہ میں ایک بار ٹرانزیکشن کرنے کے لئے ضروری ہے) کے برابر ہونی چاہئیے اور اسے ہفتے کے اختتام پر واپسی کردینا چاہئیے. فرض کریں کہ کم از کم ضروری اکاونٹ بیلنس ایک ڈالر ہے اور یہ کسی کو ہفتے میں ایک بار ٹرانزیکشن کرنے کی اجازت دیتا ہے. اگر کوئی ایک ڈالر بیلنس کے ساتھ پانچ ٹرانزیکشن (لین دین) ایک ساتھ کرنا چاہتے ہیں تو انہیں اپنے بیلنس کو ایک ہفتے کے لئے پانچ ڈالر تک بڑھانا ہوگا یا تو لین دین سے پہلے یا پھر لین دین کے بعد.
 
-In theory a market could form where users can borrow the stake required. In practice it is more efficient for users to simply buy and sell the timeshares necessary to meet their desired usage rate. In other words, the cost of negotiating micro-loans is greater than the cost of maintaining a balance suitable for your maximum weekly usage.
+نظریے کے تحت ایک مارکیٹ تشکیل دی جا سکتی ہے جہاں صارفین اپنی ضروری رقم قرض کے طور پر لے سکتے ہیں. عملی طور پر یہ صارفین کے لئے زیادہ موثر ہے کہ وہ سادہ طور پر اپنے استفادہ کی شرح کے مطابق ضروری تقسیم وقت کے حصص کی خرید و فروخت کریں. دوسرے لفظوں میں، چھوٹے قرضوں پر بات چیت کی لاگت اپنی ہفتہ وارمطلوبہ شرح استفادہ کے لئے مناسب بیلنس برقرار رکھنے سے زیادہ ہے.
 
-Decentralized rate limiting of transactions can enable new types of decentralized applications that were not viable when every use of the application required a micropayment. This new model gives application developers the ability to decide if and when to charge their users for transactions.
+لین دین کی غیرمرکزی شرح محدود غیرمرکزی ایپلیکیشنز کی نئی اقسام کو قابل بنا سکتی ہے جو اس وقت قابل عمل نہیں تھیں جب ایپلیکیشن کا ہر استعمال چھوٹی ادائیگی کا تقاضا کرتا تھا. یہ نیا نمونہ ایپلیکیشنز بنانے والوں کو یہ فیصلہ کرنے کی صلاحیت دیتا ہے کہ اگر اور کب صارفین سے لین دین پر کٹوتی کی جائے.
 
-# Performance and Scalability
+# کارکردگی اور پیمائش کی قابلیت
 
-The Steem network is built upon Graphene, the same technology that powers BitShares. Graphene has been publicly demonstrated sustaining over 1000 transactions per second on a distributed test network. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
+سٹیم نیٹ ورک گرافین پر بنایا گیا ہے، وہی ٹیکنالوجی جو بٹشیئرز کو چلاتی ہے. گرافین کو تقسیم شدہ ٹیسٹ نیٹ ورک پر فی سیکنڈ ہزار ٹرانزیکشن سے زیادہ برقرار رکھتے ہوئے ثابت کیا گیا ہے. گرافین آسانی سے دس ہزار یا اس سے بھی زیادہ ٹرانزیکشن فی سیکنڈ تک سرور کی صلاحیت اور مواصلاتی پروٹوکول میں نسبتا سیدھی بہتری کے ساتھ پیمائش کر سکتا ہے.
 
-## Reddit Scale
+## ریڈٹ پیمائش
 
-Steem is capable of handling a larger userbase than Reddit. In 2015 Reddit’s 8.7 million users generated an average of 23 comments per second[^12], with an average of 83 comments per year per user. There were 73 million top-level posts, for an average of 2 new posts per second. There were about 7 billion up votes creating an average voting rate of 220 votes per second. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
+سٹیم ریڈٹ کے مقابلے میں ایک بڑی بنیادصارفین کو سنبھالنے کی صلاحیت رکھتا ہے. 2015 میں ریڈت کے 8.7 ملین صارفین نے فی سیکنڈ میں 83 تبصرے فی سال فی صارف کی اوسط کے ساتھ فی سیکنڈ میں 23 تبصروں[^12] کے ایک اوسط کو وجود بخشا. وہاں فی سیکنڈ میں 2 نئے خطوط کے اوسط کے ساتھ 73 ملین خطوط تھے. وہاں فی سیکنڈ میں 220 ووٹ کی اوسط کے ساتھ 7 بلین اپ-ووٹ تھے. سب کو بتایا گیا کہ اگر ریڈٹ بلاکچین پر کام کر رہا ہوتا تو اسے فی سیکنڈ 250 ٹرانزیکشن فی سیکنڈ کی ضرورت پڑتی.
 
-To achieve this industry-leading performance, Steem has borrowed lessons learned from the LMAX Exchange[^13], which is able to process 6 million transactions per second. Among these lessons are the following key points:
+اس رہنماکن صنعتی کارکردگی کو حاصل کرنے کے لئے، سٹیم نے ایل-ایم-اے-ایکس (LMAX) ایکسچینج[^13] سے سبق لیا ہے جو فی سیکنڈ میں 6 ملین ٹرانزیکشنز پر عملدرآمد کرنے میں کامیاب ہے. ان اسباق میں مندرجہ ذیل اہم نکات ہیں:
 
-1. Keep everything in memory.
-2. Keep the core business logic in a single thread.
-3. Keep cryptographic operations (hashes and signatures) out of the core business logic.
-4. Divide validation into state-dependent and state-independent checks.
-5. Use an object oriented data model.
+1. سب کچھ یاداشت میں رکھیں.
+2. اہم کاروباری منطق کو ایک ہی موضوں میں رکھیں.
+3. کرائیپٹوگرافک کاروائیوں (آمیزوں اور دستخط) کو اہم کاروباری منطق سے باہر رکھیں.
+4. توثیق کی ریاست پر مبنی اور ریاستی خود مختار جانچ میں تقسیم کریں.
+5. مقصد کے تعین پر مبنی ایک ڈیٹا ماڈل کا استعمال کریں.
 
-By following these simple rules, Steem is able to process 10,000 transactions per second without any significant effort devoted to optimization.
+ان سادہ قواعد کی پیروی کرتے ہوئے، سٹیم فی سیکنڈ دس ہزار (10,000) ٹرانزیکشن پر بیش کارکردگی میں بغیر زیادہ کوششوں کے عملدرآمد کرنے کے قابل ہے.
 
-Keeping everything in memory is increasingly viable given the recent introduction of Optane™ technology from Intel[^14]. It should be possible for commodity hardware to handle all of the business logic associated with Steem in a single thread with all posts kept in memory for rapid indexing. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optane™ technology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
+سب کچھ یاداشت میں رکھنا انٹیل کی اوپٹین ٹیکنالوجی[^14] کے متعارف ہونے کے بعد تیزی سے قابل عمل ہو گیا ہے. تجارتی اشیاء کے سازوسامان کا سٹیم کی کاروباری منطق کو تیزی سے انڈیکس کرنے لئے ایک ہی موضوع میں تمام خطوط کو جمع رکھتے ہوئے سنبھالنا ممکن ہونا چاہئیے. یہاں تک کہ گوگل بھی ریم (RAM) میں پورے انٹرنیٹ کے انڈیکس کو رکھتا ہے. بلاکچین ٹیکنالوجی کا استعمال اعدادوشمار کے نقصان کو روکنے کے لئے ڈیٹابیس کو بہت سی مشینوں میں دہرانے کو آسان بنا دیتا ہے. جیسے ہی اوپٹین ٹیکنالوجی حکومت میں آتی ہے، ریم (RAM) استقامت حاصل کرنے کے ساتھ ساتھ اور بھی زیادہ تیز ہو جائے گی. دوسرے لفظوں میں، سٹیم مستقبل کے طرز کے لئے تیار کیا گیا ہے اور پیمائش کے لئے تیار کیا گیا ہے.
 
-# Allocation & Supply
+# بٹوارہ & اور فراہمی
 
-## Initial Allocation & Supply
+## ابتدائی بٹوارہ اور فراہمی
 
-The Steem network started with a currency supply of 0 and allocated STEEM via proof of work at a rate of approximately 40 STEEM per minute to miners, with an additional 40 STEEM per minute being created to seed the content and curation reward pools (for a total of 80 STEEM per minute). Then the network started rewarding users who converted to SP. At this point, STEEM grew at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
+سٹیم نیٹ ورک کرنسی کی صفر (ZERO) فراہمی کے ساتھ شروع ہوا اور بٹوارہ مواد کا بیج بونے اور ووٹنگ کے انعامی پول کے لئے کام کے ثبوت کے نظام سے کیا جو کہ چالیس (40) سٹیم فی منٹ مائنر کے لئے، اور فی منٹ چالیس (40) سٹیم کے اضافے کی شرح سے (کل 80 سٹیم فی منٹ کے لئے) کیا گیا. پھر نیٹ ورک نے ان صارفین کو انعام دینا شروع کیا جنہوں نے SP میں تبدیلی کی. اس مرحلے پر، سٹیم کا بڑھاوا مختلف شراکت کے انعامات کے مشترکہ اثرات کی وجہ سے تقریبا ٨٠٠ سٹیم فی منٹ کی شرح سے ہوا جیسے ذیل میں خلاصہ ہے:
 
-Contribution Rewards:
+شراکت پر انعامات:
 
-- Curation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
-- Content Creation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
-- Block production rewards: 1 STEEM per block or 0.750% per year, whichever is greater
-- POW inclusion rewards before block 864,000: 1 STEEM per block (awarded as 21 STEEM per round)
-- POW inclusion rewards after block 864,000: 0.0476 STEEM per block (awarded as 1 STEEM per round) or 0.750% per year, whichever is greater.
-- Liquidity rewards: 1 STEEM per block (awarded as 1200 STEEM per hour) or 0.750% per year, whichever is greater
+- حفاظت کے انعامات: ایک سٹیم فی بلاک یا 3.875 فیصد سالانہ، جو بھی زیادہ ہو۔
+- مواد کی تخلیق کے انعامات: ایک سٹیم فی بلاک یا 3.875 فیصد سالانہ، جو بھی زیادہ ہو۔
+- بلاک کی پیداوار پر انعامات: ایک سٹیم فی بلاک یا 0.75 فیصد سالانہ، جو بھی زیادہ ہو۔
+- 864,000 بلاک سے پہلے کام کے ثبوت میں شمولیت کے انعامات: ایک سٹیم فی بلاک (21 سٹیم فی راونڈ کے طور پر انعام)
+- 864,000 بلاک کے بعد کام کے ثبوت میں شمولیت کے انعامات: 0.0476 سٹیم فی بلاک (1 سٹیم فی راونڈ کے طور پر انعام) یا سالانہ %0.75، جو بھی زیادہ ہو.
+- اماعت کے انعامات:ِ ایک سٹیم فی بلاک (1200 سٹیم فی گھنٹے کے طور پر انعام) یا سالانہ %0.75، جو بھی زیادہ ہو
 
-### Power Rewards:
+### پاور کے انعامات:
 
-- Steem Power rewards: For each STEEM created by the above rewards, 9 STEEM are divided among all Steem Power holders.
+- سٹیم پاور کے انعامات: مندرجہ بالا انعامات کی طرف سے پیدا کردہ ہر ایک سٹیم کے بدلے، 9 سٹیم تمام سٹیم پاور ہولڈرز میں تقسیم کیے جاتے ہیں.
 
-### SBD operations:
+### ایس-بی-ڈی کاروائیاں:
 
-- SBD rewards: A percentage of SBD value is created at an APR set by the witnesses and paid to SBD holders as SBD
+- SBD انعامات: SBD قدر کا فیصد اس شرح پر تخلیق کیا جاتا ہے جو گواہوں کی طرف سے طے کیا جاتا ہے اور SBD ہولڈرز کو SBD کے طور پر ادا کیا جاتا ہے۔
 
-The overall supply picture is complicated by the effect of SBD operations, which may result in large-scale creation or destruction of STEEM through feed rate following and SBD rewards, as discussed in the SBD section. Other, smaller-scale complicating effects also exist, including unclaimed incentives (e.g. block rewards for missed blocks), and abandoned accounts.
+مجموعی فراہمی کی تصویر ایس-بی-ڈی کاروائیوں کے اثر سے پیچیدہ ہے جس کا نتیجہ بڑے پیمانے پر تخلیق ہو سکتا ہے یا فیڈ کی شرح کی پیروی کے ذریعے سٹیم کی تباہی اور SBD انعامات کی بھی، جیسا کہ ایس-بی-ڈی کے حصے میں بحث کی تھی. دیگر چھوٹے پیمانے کے پیچیدہ اثرات بھی موجود ہیں بشمول بنا مطالبہ کیے گے معاوضے۔ (مثلا۔ غیرحاضر بلاک کے انعامات)، اور ترک کردہ اکاونٹ.
 
-## Current Allocation & Supply
+## موجودہ مختص اور & فراہمی
 
-Starting with the network's 16th hard fork in December 2016, Steem began creating new tokens at a yearly inflation rate of 9.5%. The inflation rate decreases at a rate of 0.01% every 250,000 blocks, or about 0.5% per year. The inflation will continue decreasing at this pace until the overall inflation rate reaches 0.95%. This will take about 20.5 years from the time hard fork 16 went into effect.
+دسمبر 2016 میں نیٹ ورک کے 16 ہارڈفورک کی ابتداء سے، سٹیم نے 9.5% کی سالانہ افراط زر کی شرح سے ٹوکن بنانا شروع کر دیا. افراط زر کی شرح ہر 250,000 بلاک پر 0.01% کے حساب سے کم ہوتی ہے، یا 0.5% سالانہ. اس رفتار پر افراط میں کمی جاری رہے گی جب تک کہ مجموعی افراط کی شرح 0.95% تک نہ پہنچ جائے. یہ ہارڈفورک کے عمل میں آنے کے وقت سے 20.5 سالوں کا وقت لے گی.
 
-75% of the new tokens that are generated go to fund the reward pool, which is split between authors and curators. 15% of the new tokens are awarded to holders of SP. The remaining 10% pays for the witnesses to power the blockchain.
+نئے پیدا کیے گئے 75% ٹوکن انعام پول کو فنڈ کرنے میں جائینگے، جو مصنفین اور محافظین میں تقسیم کی جاتی ہے. ئے ٹوکن کا 15% ایس-پی ہولڈرز کو عطا کیا جاتا ہے. باقی 10% گواہوں کو بلاکچین چلانے کے لئے دیا جاتا ہے.
 
-### Impact of Token Creation Rate
+### تخلیق ٹوکن کی شرح کا اثر
 
-It is often said that a coin with an inflationary model is not sustainable, but we know from countless real-world examples that the quantity of money does not have a direct and immediate impact on its value, though it certainly plays a role.
+اکثر یہ کہا جاتا ہے کہ افراطی موڈل والا کوائن پائیدار نہیں ہوتا، لیکن ہم بے شمار حقیقی دنیا کی مثالوں کی روشنی میں یہ جانتے ہیں کہ زر کی مقدار کا اس کی قیمت پر براہ راست اور فوری اثر نہیں ہوتا، اگرچہ یہ یقینی طور پر ایک کردار ادا کرتا ہے.
 
-From August 2008 through January 2009 the U.S. money supply[^15] grew from $871B to $1,737B, a rate of over 100% per year and then continued to grow at about 20% per year for the next 6 years. All told the money supply in the U.S. has grown by 4.59x over less than 7 years. During that same time, the value of the dollar relative to goods and services has fallen less than 10% according to the government's price index[^16]. This real-world example demonstrates that supply is only one component of price.
+اگست 2008 سے جنوری 2009 تک امریکی زر کی [^15]فراہمی 871 بلین ڈالرز سے بڑھ کر 1737 بلین ڈالرز ہو گئی جو کہ سالانہ 100% فیصد سے زائد کی شرح ہے اور پھر اگلے ٦ سالوں میں فی سال تقریبا20% کی شرح پر بڑھتی رہی. سب کو معلوم ہوگیا کہ 7 سال سے کم کے عرصے میں امریکہ میں زر کی فراہمی 4.59x گنا تک بڑھ گئی. اسی وقت کے دوران ڈالر کی قدر بمقابل اشیاء اور خدمات کے، حکومت کی قیمت انڈیکس کے مطابق ١٠ فیصد سے کم گری۔[^16]. یہ حقیقی دنیا کی مثال ظاہر کرتی ہے کہ فراہمی قیمت کا صرف ایک حصہ ہے.
 
-For the first 2 years of Bitcoin’s life the network sustained an annual inflation rate[^17] of over 100%. For the first 5 years it was over 30%, and for the first 8 years it was over 10%. All told the total “spending” Steem does to fund content, curation, and block production amounts to less than 10% APR.
+بٹکوائن کی ابتدائی دو سالوں کی زندگی کے لئے نیٹ ورک نے 100% فیصد سے زائد سالانہ افراط کی شرح[^17] کو برقرار رکھا. ابتدائی پانچ سالوں کی زندگی کے لئے یہ 30% فیصد سے زیادہ تھا اور ابتدائی آٹھ سالوں کی زندگی کے لئے یہ 10% سے زیادہ تھا. سب کو معلوم ہوگیا کہ کل اخراجات جو سٹیم مواد، حفاظت اور بلاک کی پیداوار کے لئے کرتی ہے وہ سالانہ 10% فیصد کی شرح سے کم کی مقدار تک بنتے ہیں.
 
-The price of a digital commodity, like STEEM, is driven by both supply and demand. When a long-term holder decides to exit, the supply of STEEM on the market will increase and push the price down. This downward pressure is countered when a new long-term holder decides to buy up the STEEM and convert it back into SP. Additional supply and demand may be be added due to market speculators buying and selling liquid STEEM based on their predictions of the future market price.
+عددی اشیاء کی قیمت، جیسے سٹیم، فراہمی اور طلب دونوں سے چلتی ہے. جب ایک طویل مدتی ہولڈر نکلنے کا فیصلہ کرتا ہے تو ماکیٹ میں سٹیم کی فراہمی بڑھ جائے گی اور قیمت کو نیچے کی طرف دھکا دے گی. یہ نیچے کا دباو ختم ہو جاتا ہے جب ایک طویل مدتی ہولڈر سٹیم کو خریدنے کا فیصلہ کرتا ہے اور اسے ایس-پی میں واپس تبدیل کر لیتا ہے. اضافی فراہمی اور طلب مارکیٹ میں مارکیٹ کے سٹےبازوں کی انکی مستقبل قیمت کی پیشن گوئیوں پر مبنی مائع سٹیم خریدنے اور فروخت کرنے کی وجہ سے شامل ہو سکتی ہے.
 
-# The Power of Steem
+# سٹیم کی طاقت
 
-Steem recognizes that the value of all user contributions (posts and votes) is greater than the sum of the parts. A single comment is worth next to nothing, but millions of curated posts is worth many millions (or possibly even billions) of dollars. A single vote provides little curation value, but billions of votes is very effective curation. Content without curation is of limited value. Given all the content of the Internet minus the links between it, Google would struggle to produce useful search results. It is the links between information that give it significant value.
+سٹیم یہ تسلیم کرتی ہے کہ تمام صارفین کی شراکت کی قدروقیمت (اشاعت اور ووٹ) حصوں کی کل تعداد سے زیادہ ہے. ایک واحد رائے کی قدر تقریبا کچھ نہیں لیکن کئی ملین سرپرست شدہ اشاعتیں بہت سے ملین (یا ممکنہ طور پر بلین) ڈالرز کے برابر ہیں. ایک واحد ووٹ سرپرستی کی چھوٹی سے قدر فراہم کرتا ہے لیکن کئی بلین ووٹ بہت موثر سرپرستی ہے. سرپرستی کے بغیر مواد محدود قدر کا ہے. مفروضہ انٹرنیٹ پر تمام مواد کو ان کے درمیان لنکس سے ضرب دیں تو، گوگل مفید نتائج تلاش کرنے میں جدوجہد کرے گا. یہ معلومات کے درمیان روابط ہیں جو اسے معنی خیز قدر دیتے ہیں.
 
-Because everyone benefits, everyone should pay. In other words, no individual user should be expected to pay for anything, but instead should be paid for everything they do that brings value to Steem. All we need to do is ascertain which user contributions bring a social network value and which ones don’t.
+چونکہ سبھی فوائد حاصل کرتے ہیں، اس لئے سب کو ادائیگی کرنی چاہئیے. دوسرے لفظوں میں، کسی انفرادی صارف سے کسی بھی چیز کے لئے ادائیگی کی توقع نہیں کی جانی چاہئیے لیکن بجائے اس کے، انہیں ان تمام کاموں کے لئے ادائیگی کی جانی چاہئیے جو سٹیم کی قدر میں اضافہ کرتے ہیں. ہیں۔ ہم سب کو جو کرنے کی ضرورت ہے وہ یہ ہے کہ اس بات کا تعین کیا جائے کہ کس صارف کی شراکتیں (تعاون) اس سوشل نیٹ ورک کے لئے قدر لاتی ہیں اور کس صارف کی نہیں.
 
-Collectively Reddit users vote 220 times per second and make 23 posts per second. Reddit is valued between $500 million[^18] and $4 billion[^19] which means that each and every upvote and post is worth between $0.06 and $0.50 assuming the value of Reddit is mostly within the past year’s worth of activity. One could argue that most of the value of Reddit is the near-real-time discussions that have occurred within the past week which would dramatically increase the value of new activity. People go where people are today, not where people were last year.
+مجموعی طور پر ریڈٹ کے صارفین فی سیکنڈ میں 220 مرتبہ ووٹ کرتے ہیں اور فی سیکنڈ میں 23 اشاعتیں کرتے ہیں. ریڈٹ کی قدر 500 ملین ڈالرز[^18] سے 4 بلین ڈالرز[^19] کے درمیان ہے جس کا مطلب یہ ہے کہ ہر ایک ووٹ اور اشاعت کی قدر $0.06 سے $0.50 کے درمیان ہے اس بات کو فرض کرتے ہوئے کہ ریڈٹ کی قدر زیادہ تر گزشتہ سال کی قابل سرگرمی کے اندر اندر ہے. کوئی یہ بحث کر سکتا ہے کہ ریڈٹ کی زیادہ تر قدر اس کی قریبی حقیقی وقت کی بات چیت ہے جو گزشتہ ہفتے کے اندر واقع ہوئی ہیں جو نئی سرگرمیوں کی قدر میں ڈرامائی طور پر اضافہ کرتی ہیں۔ لوگ وہیں جاتے ہیں جہاں لوگ آج ہیں. لوگ وہیں جاتے ہیں جہاں لوگ آج ہیں، وہاں نہیں جہاں گزشتہ سال لوگ تھے.
 
-## No Micropayments, Tips Optional
+## چھوٹی ادائیگیاں نہیں، اختیاری بخشش
 
-Existing attempts at integrating a cryptocurrency into a social media platform have focused on enabling users to pay one another. Many services have attempted to introduce tipping. The theory is that if we make tipping simple enough then more people will do it. Other services attempt to get people to pay to promote or boost their content’s ranking. Still others attempt to build small prediction markets on how many tips an article will receive.
+سوشل میڈیا پلیٹ فارم میں کرائیپٹوکرنسی کو ضم کرنے کی موجودہ کوششوں نے صارفین کو ایک دوسرے کو ادا کرنے کے قابل بنانے پر توجہ مرکوز کردی ہے. بہت سی سروسز نے بخشش کے نظام کو متعارف کروانے کی کوششیں کیں. ان کا نظریہ یہ ہے کہ اگر ہم بخشش کے نظام کو کافی آسان بنادیں تو پھر زیادہ لوگ بخشش نظام کا استعمال کرینگے. دیگر سروسز نے لوگوں کو ان کے مواد یا اشاعت کی درجہ بندی کو فروغ دینے کے لئے ادائیگی حاصل کرنے کی کوششیں کیں. پھر دوسروں نے چھوٹی پیشن گوئی مارکیٹوں کی تعمیر کے لئے کوششیں کیں جو یہ پیشن گوئی کر سکے کہ ایک اشاعت کتنی بخشش حاصل کرے گی.
 
-All of these approaches boil down to micropayments. They differ only in who is making the payment. They all suffer from insufficient engagement of people making the micropayments. In the search for incentivised content production entrepreneurs have been so focused on who should pay that they missed the obvious reality: everyone benefits from everyone’s actions so everyone should pay or no one should pay, depending on how you look at it.
+یہ تمام نقطہ نظر چھوٹی ادائیگیوں کے نتیجے پر پہنچتے ہیں. وہ صرف اس بات پر اختلاف کرتے ہیں کہ ادائیگی کون کر رہا ہے. وہ سب لوگوں کے چھوٹی ادئیگیاں کرنے میں ناکافی مصروفیت کا شکار ہوتے ہیں. حوصلہ افزا مواد کی پیداوار کے لئے تلاش میں کاروباری افراد توجہ مرکوز کیے ہوئے ہیں کہ کسے ادائیگی کرنے چاہئیے اور یہ واضح حقیقت بھلا بیٹھے کہ: ہر شخص ہر ایک کے اعمال سے فائدہ اٹھاتا ہے تو ہر کسی کو ادئیگی کرنی چاہئیے یا پھر کسی کو بھی ادئیگی نہیں کرنی چاہیئے، اس پر منحصر ہے کہ آپ اسے کس طرح دیکھتے ہیں.
 
-Steem bypasses micropayments completely because when a user upvotes a post it is the community that pays the bill. The same amount of money will be spent whether the user upvotes a post or not and the funds will not come from the voter.
+سٹیم چھوٹی ادئیگیوں کو مکمل گول کردیتا ہے کیونکہ جب ایک صارف ایک اشاعت پر ووٹ کرتا ہے تو وہ کمیونٹی ہے جو بل ادا کرتی ہے. رقم کی اتنی وہی مقدار خرچ کی جائیگی چاہے صارف اپ-ووٹ کرے یا نہ کرے اور یہ رقم ووٹ کرنے والوں کی طرف سے نہیں آئے گی.
 
-The mental energy associated with making an economic decision becomes a barrier to participation for most people.
+اقتصادی فیصلہ کرنے کے ساتھ منسلک ذہنی توانائی زیادہ تر لوگوں کے لئے شرکت کرنے میں رکاوٹ بنتی ہے.
 
-*We already face a multitude of choices everyday with regards to what to access online in this digital era of the information explosion, and every additional decision that we must make simply adds on to the uncertainty and anxiety we face. Micropayment supporters believe that a simplified implementation can minimize the intrusiveness of micropayments and improve user experience, but their argument only creates double standards for the decision making process \[2\]. A transaction cannot simultaneously be worth enough to warrant a decision and worth so little that the decision is automatic. **The only transactions that users can approve without thought are ones that cost them nothing**, thus any micro-transaction of positive value will incur mental costs through its requiring a decision. Furthermore, mental transaction costs actually rise below a certain threshold value, a phenomenon that places micropayments at an even greater disadvantage. For instance, it is easy to think that a copy of today's newspapers costs $1, but readers face much more difficulty and anxiety in deciding on the value of each article or word. Such a dilemma will only be replicated and exacerbated if all online content were to be broken down into their components and individually valued within a micropayment system.*
+*معلوماتی دھماکے والے اس ڈیجیٹل دور میں ہم پہلے ہی سے انتخاب کی ایک بڑی تعداد کا روزانہ سامنا کر رہے ہیں اس حوالے سے کہ آن لائن کس چیز تک رسائی حاصل کی جائے اور ہر اضافی فیصلہ جو ہمیں ضرور کرنا ہو، شک اور پریشانی میں اضافہ کر دیتا ہے جس کا ہم ویسے ہی سامنا کر رہے ہیں. چھوٹی ادائیگی کے حامیوں کا یقین ہے کہ ایک آسان عمل درآمد چھوٹی ادئیگیوں کی بےجا دخل اندازی کو کم سے کم کردیتا ہے اور صارف کے تجربے کو بہتر بناتا ہے, لیکن ان کے دلائل فیصلہ سازی کے عمل میں صرف دہرا معیار تخلیق کرتے ہیں. ایک ٹرانزیکشن اتنی قابل قدر نہیں ہوسکتی جو فیصلے کی ضمانت دے سکے اور نہ ہی وہ اتنی کم قابل قدر ہو سکتی ہے جو فیصلے کو ہی خودکار بنا دے. **صارف صرف اور صرف وہ ٹرانزیکشن بغیر سوچے سمجھے منظور کرے گا جس میں کوئی لاگت نہ آئے**, اس طرح مثبت قدر والی کوئی بھی چھوٹی ٹرانزیکشن فیصلے کی ضرورت کی وجہ سے دماغی اخراجات میں اضافہ کرے گی. اس کے علاوہ، ذہنی ٹرانزیکشن کے اخراجات میں ایک مخصوص حد قدر کے نیچے ہی اضافہ ہوتا ہے، ایک ایسا رجحان جو چھوٹی ادئیگیوں کو بھی زیادہ نقصان پہنچاتا ہے. For instance, it is easy to think that a copy of today's newspapers costs $1, but readers face much more difficulty and anxiety in deciding on the value of each article or word. Such a dilemma will only be replicated and exacerbated if all online content were to be broken down into their components and individually valued within a micropayment system.*
 
 -Micropayments: A Viable Business Model[^20]
 

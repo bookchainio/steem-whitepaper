@@ -1,220 +1,220 @@
-# Steem
+# Steemu
 
-## Eine incentivierte, auf Blockchain basierende öffentliche Content-Plattform.
+## Ohun ajeseku, orisun blockuchain, agbaye itewogba ti ilu.
 
-August 2017
+Osu kejo 2017
 
-# Anmerkungen des Übersetzers
+# Awon itumo onitumo
 
-Platzhalter für die Anmerkungen des Übersetzers.
+Olugbero fun awon akosile onitumo.
 
-# Kurzfassung
+# Akopo
 
-Steem ist eine Blockchain-Datenbank, die Community Building und soziale Interaktion mit Kryptowährungen unterstützt. Steem verbindet Konzepte aus sozialen Medien mit den Lehren aus dem Aufbau von Kryptowährungen und ihren Communities. Ein wichtiger Schlüssel zur inspirierenden Teilnahme in jeder Gemeinschaft, Währung oder freie Marktwirtschaft ist ein faires Abrechnungssystem, das konsequent den Beitrag jeder Person widerspiegelt. Steem ist die erste Kryptowährung das versucht, eine unbegrenzte Anzahl von Individuen, die machen, genau und transparent zu belohnen *subjektive Beiträge* zu ihrer Gemeinschaft zu leisten.
+Steemu je aaye ipamo blockuchain ti o se atileyin ile-ise agbegbe ati ajosepo awon ere pelu awon nomba kyrptokorensi. Steemu sepo awon imoran lati awon alagbegbe awujo pelu awon eko ti a ko lati kryptokorensi ati awon agbegbe won. Botini pataki kan lati se ikopa ni ilowosi ni eyikeyi agbegbe, owo tabi owo-aje ti ko niyeye je eto iseduro ti o je deede ti o je afihan ipese olukuluku. Steemu je akoko kryptokorensi ti o gbiyanju lati ni pipe ati atinuriwa san awon nomba ti ko toju ti awon eni kookan ti o se awon abuda ero si awon oniwe-awujo.
 
-# Inhaltsverzeichnis
+# Tabili awon Akoonu
 
 <!-- toc -->
 
-# Einführung
+# Ifihan
 
-Gemeinsam haben nutzergenerierte Inhalte einen Wert von Milliarden von Dollar für die Aktionäre von Social-Media-Unternehmen geschaffen, sowie Reddit, Facebook, and Twitter. **Im Jahr 2014, Reddit stellte die Hypothese auf, dass seine Plattform verbessert würde, wenn jeder, der zu reddit.com beigetragen hätte, Geschichten gepostet hätte, Kommentare oder Abstimmungen wurden mit einem fairen Anteil an in Reddit, Inc.[^1]**. Steem will soziale Medien und Online-Communities unterstützen, indem es einen großen Teil seines Wertes an die Leute zurückgibt, die wertvolle Beiträge leisten, indem sie diese mit Kryptowährung belohnen und durch diesen Prozess eine Währung schaffen, die einen breiten Markt erreichen kann, einschließlich derer, die es noch tun müssen Teilnahme an irgendeiner Kryptowährungswirtschaft.
+Lapapo, akoonu ti o ni asamulo ti seda oke aimoye ti dola iye owo fun awon onipindoje ti awon ile-ise ajosepo, bi Redditi, pelu Facebuuku, Ati Twita. Ni odun 2014, Reditti loye pe o je ilosiwaju ti o je pe ti gbogbo awon eniyan ti o ba se alabapin si reddit.com nipa fifiranse awon itan, fifi oro kun tabi awon idibo ni a san nyi pelu ipinle daradara Redditi, Inc. Steemu ni ifojusi lati se atileyin fun awon onibara awujo ati awon agbegbe ayelujara nipa gbigba opolopo iye re pada si awon eniyan ti o pese awon iranlowo pataki nipase fifun ere won pelu kryptokorensi, ati nipase ilana yii seda owo kan ti o le ni anfani lati de odo oja to gaju, pelu awon eniyan ti o ni sibesibe lati kopa ninu isowo kryptokorensi.
 
-Es gibt einige wichtige Prinzipien, die verwendet wurden, um das Design von Steem zu leiten. Der wichtigste Grundsatz ist, dass jeder, der an einem Unternehmen beteiligt ist, anteilig Eigentum, Zahlung oder Schulden von dem Unternehmen erhalten sollte. Dieses Prinzip ist das gleiche Prinzip, das für alle Startups gilt, da sie ihre Aktien bei der Gründung und während der folgenden Finanzierungsrunden zuweisen.
+Awon ilana pataki kan wa ti a ti lo lati se itosona awon apere ti Steemu. Ilana pataki julo ni pe gbogbo eniyan ti o se alabapin si isowo kan ye ki o ogba agbara olohun ti pro-rata, sisan wo tabi lati inu gbese isowo naa. Opo yii je ilana kanna ti o lo fun gbogbo awon ibere bi won se pinpin awon ipinle ati ni awon igbiyanju isowo nigbamii.
 
-Das zweite Prinzip ist dass alle Formen des Kapitals sind gleichermaßen wertvoll. Das bedeutet, dass diejenigen, die ihre knappe Zeit und Aufmerksamkeit darauf verwenden, Inhalte für andere zu produzieren und zu kuratieren, genauso wertvoll sind wie diejenigen, die ihr knappes Geld beisteuern. Dies ist das Prinzip der Schweißgerechtigkeit[^2] und ist ein Konzept, das frühere Kryptowährungen oft Probleme hatten, mehr als ein paar Dutzend Individuen zu versorgen.
+Ilana keji ni wipe gbogbo awon orisi awon olu-ori je o wulo. Eyi tumo si pe awon ti o se afihan akoko pupo ati ifojusi si siso ati akoonu fun awon elomiran ni o niyelori bi awon ti o se alabapin owo ti o poju. Eyi si isiro imudaniloju igungun ati pe o je ero ti isaaju kryptokorensi ti ni wahala nigbagbogbo lati pese si die e sii ju awon eniyan bi mejilla lo.
 
-Das dritte Prinzip ist, dass die Gemeinschaft Produkte produziert, um ihren Mitgliedern zu dienen. Dieses Prinzip wird von Kreditgenossenschaften, Essenskooperationen und Gesundheitsteilungsprogrammen veranschaulicht, die den Mitgliedern ihrer Gemeinschaft dienen, anstatt Produkte oder Dienstleistungen an Menschen außerhalb der Gemeinschaft zu verkaufen.
+Ilana keta je wipe agbegbe n pese awon oja lati iranse fun awon egbe re. Ope yii je apeere nipase awon aladani gbese, awon igbimo ounje, ati awon ipinnu ipinpin isowo, ti o nsin si awon omo egbe ti agbegbe won ju ki o ta awon oja ise si awon eneiyan ti ita ilu.
 
-Die Steem-Gemeinschaft bietet ihren Mitgliedern folgende Dienste an:
+Ipinle Steemu pese awon ise wonyi si awon omo egbe re:
 
-1. Eine Quelle von kuratierten Nachrichten und Kommentaren.
-2. Ein Mittel, um qualitativ hochwertige Antworten auf personalisierte Fragen zu erhalten.
-3. Eine stabile Kryptowährung, die an den Us-Dollar gebunden ist.
-4. Kostenlose Zahlungen.
-5. Jobs, die anderen Mitgliedern Dienste anbieten.
+1. Orisun ti awon iroyin ti a ti dani ati asoye.
+2. Ona lati gba awon idahun to gaju si ibeere ti ara eni.
+3. Idurosinsin ijerisi ti o wa si awon dola Amerika.
+4. Awon sisanwo ofe.
+5. Ipese ise awon ise ti o loke si awon omo egbe miiran.
 
-Steems zielgerichtete Neuausrichtung der wirtschaftlichen Anreize hat das Potenzial, gerechtere und umfassendere Ergebnisse für alle Beteiligten zu erzielen als die Social-Media- und Kryptowährungsplattformen, die davor gegangen sind. Dieses Papier wird die bestehenden wirtschaftlichen Anreize untersuchen und zeigen, wie Steems Anreize zu besseren Ergebnissen für die meisten Teilnehmer führen können.
+Iseduro ti Steemu ni idileyin ti awon imudaniloju oro-aje ni o ni agbara lati se agbejade ati die sii awon esi iyasoto fun gbogbo eniyan ti o ni ipa ju awon awoju oun igberohinjade ati awon kryptokorensi awon iru ero ti o ti lo saaju awon lo. Iwe yii yoo se awari awon igbesi-aye awon isowo ti o wa tele ati ki o se afihan bi awon imudaniloju Steemu se le mu awon esi to dara julo fun opolopo awon olukopa.
 
-## Beitrag erkennen
+## Mi mo ilowosi
 
-Steem is designed from the ground up to address the major barriers to adoption and monetization of a social media based economy. Our thesis is that the same techniques used to grow major social media platforms can be used to bootstrap a successful cryptocurrency. Economic incentives enabled by cryptocurrency can dramatically facilitate the growth of a new social media platform. It is the synergy between cryptocurrency and social media that we believe may give Steem a powerful advantage in the market.
+A se ipile Steemu ni lati ile soke lati koju awon idena pataki lati gba ati isowo owo-aje ti isowo orisun awujo. Iwe-aooka wa ni pe awon ilana kanna ti a lo lati dagba awon irufe ipolongo awujo le see lo lati bootusrapu aseyori ti ilosiwaju kryptokorensi. Awon imudaniloju aje ti a se iranlowo nipase kryptokorensi le se iseduro isoro fun idagba ti irufe ipade awujo tuntun kan. O je imudarapo laarin iwo-oro ati awon awujo awon oun igberohinjade ti a gbagbo le fun Steemu ni anfani nla ni oja.
 
-The challenge faced by Steem is deriving an algorithm for scoring individual contributions that most community members consider to be a fair assessment of the subjective value of each contribution. In a perfect world, community members would cooperate to rate each other's contribution and derive a fair compensation. In the real world, algorithms must be designed in such a manner that they are resistant to intentional manipulation for profit. Any widespread abuse of the scoring system could cause community members to lose faith in the perceived fairness of the economic system.
+Ipenija ti duro Steemu ti n se awari alugoridimu kan fun fifita awon ayanfe olukuluku ti o je pe opolopo awon eniyan agbegbe n ka lati je imoran ti o dara lori iye-oro ti ipinu kookan. Ni aye pipe, awon omo egbe agbagbe yoo sisepo lati se iyasoto ipinnu kookan ati lati gba iyooda ti o to. Ninu aye gidi, alugoridimu gbodo wa ni apere ni iru ona ti won ni o lodi si ifowoyi idaniloju fun ere. Eyikeyi ibalapo ti o ni ibiti o se le je ki awon eniyan agbegbe le padanu igbagbo ninu ona ti o daju fun eto aje.
 
-Existing platforms operate on a one-user, one-vote principle. This creates an environment where rankings can be manipulated by sybil attacks and the service providers must pro-actively identify and block abusers. People already attempt to manipulate the Reddit, Facebook, and Twitter scoring algorithms when the only reward is web traffic or censorship.
+Awon iru ero ti n salaye sise lori awon olumulo kan, ilana idibo-kan. Eyi n seda ayika ti awon ipo lesee ni owo nipase awon igbepo sybili ati awon olupese ise naa gbodo je ki won ni idaniloju idanimo ati dena awon asigbese. Awon eniyan tin gbiyanju lati se riboribo awon Reditti, Facebooku, ati Twita asayan alugoridimu ti o ni ifowokan nigbati osan kan nikan je ijabo oju-iwe ayelujara tabi igbehin.
 
-The fundamental unit of account on the Steem platform is STEEM, a crypto currency token. Steem arbeitet auf der Basis ein Steem, ein Vote. Mit diesem Modell haben Personen die am meisten zur Plattform beigetragen haben, gemessen an ihrem Kontostand, den meisten Einfluss darauf, wie hoch Beiträge bewertet werden. Furthermore, Steem only allows members to vote with STEEM when it is committed to a vesting schedule. Mit diesem Modell haben Benutzer einen finanziellen Anreiz ihre Votes in einer Weise einzusetzen, die zur Maximierung des Langzeitwertes ihres STEEM beiträgt.
+Ero akako ti akoole lori ifowo pamo Steemu je STEEM, ti an pe ni kryptokorensi tokini. Steemu n sise lori ipile okan-STEEMU, okan-idibo. Labe awose yi, awon eni-kookan ti o ti se pataki julo si ipile, gegebi a se ayewo nipase iseduro isowo won, ni pa pupo julo lori bi a se awon idiwon. Pelupelu, Steem nikan ngbanilaye awon omo egbe lati dibo pelu STEEMU nigbati o ba se si ose ti iseto ti a npe ni pa agbara Steemu. Labe awose yi, awon omo egbe ni igbaradi owo lati dibo ni ona ti o mu iwon iye igba pipe ti STEEMU won ga.
 
-Steem is designed around a relatively simple concept: *everyone’s meaningful contribution to the community should be recognized for the value it adds.* When people are recognized for their meaningful contributions, they continue contributing and the community grows. Any imbalance in the give and take within a community is unsustainable. Eventually the givers grow tired of supporting the takers and disengage from the community.
+A se itoju Steemu ni ayika idanniloju to rorun: itoka ilowosi gbogbo eniyan si agbegbe ye ki a se akiyesi fun iye ti o se afikun. Iyooda ninu fifunni ati gba laarin agbegbe kan ko ni iloyemo. Nigbamii awon ti nfunni nii o kunra lati se atileyin fun awon onise ati lati yo kuro ni agbegbe.
 
-The challenge is creating a system capable of identifying what contributions are needed and their relative worth in a way that can scale to an unbounded number of people.
+Ipenija naa ni ipilese eto ti o le ni idanilojuawon igbese ti a nilo ati pe ibatan won ni ona ti o le se iwon si nomba ti a ko ni igbehin ti awon eniyan.
 
-A proven system for evaluating and rewarding contributions is the free market. The free market can be viewed as a single community where everyone trades with one another and rewards are allocated by profit and loss. The market system rewards those who provide value to others and punishes those who consume more value than they produce. The free market supports many different currencies and money is simply a commodity that everyone finds easy to exchange.
+Eto ti a fihan fun sise isiro ati awon iribun je ere ni oja ofe. Osuwon ofe ni a le bojuwo bi ara ilu kan nibiti gbogbo eniyan n se isowo pelu ara won ati awon ere ti a pin nipa idari ati pipadanu. Eto isowo naa n fun awon ti o funni ni iye fun awon elomiran ati pe o jebi awon ti o je iye die ju ti won lo. Osunwon ofe ko ni atileyin opolopo awon owo nina ati owo je nikan oja ti gbogbo eniyan ni o rorun lati se pasipaaro.
 
-Since the free market is a proven system, it is tempting to try to create a free-market system where content consumers directly pay content producers. However, direct payment is inefficient and not really viable for content creation and curation. The value of most content is so low relative to the cognitive, financial, and opportunity costs associated with making a payment that few readers choose to tip. The abundance of free alternatives means that enforcing a ‘paywall’ will drive readers elsewhere. There have been several attempts to implement per-article micropayments from readers to authors, but none have become widespread.
+Niwon osuwon ofe je eto ti a fihan, o je idanwo lati gbiyanju lati seda aaye tita-ofe nibiti awon onibara taara sanawon onise akoonu. Sibesibe, ifunni taara je aise-aseyori ati pe ko see se dada fun awon eda akoonu ati igbadura. Iwon ti akoonu julo je kekere ti o ni ibatan i soro si isoro, owo, ati wow-anfani ti o ni nkan se pelu sise owo sisan ti die awon onkawe fe yan. Opolopo awon iyooda ti o ni ofe miiran si pe sise kan 'paywallu' yoo sawari awon onkaweni ibomiran. Opolopo awon igbyanju ti wa lati se awon iseduro awon isaju-tele lati awon onkawe si awon onkowe, sugbon ko si si ti di igbigbogbo.
 
-Steem is designed to enable effective micropayments for all kinds of contribution by changing the economic equation. Readers no longer have to decide whether or not they want to pay someone from their own pocket, instead they can vote content up or down and Steem will use their votes to determine individual rewards. This means that people are given a familiar and widely used interface and no longer face the cognitive, financial, and opportunity costs associated traditional micropayment and tipping platforms.
+A she Steemu ni ona to je ki sisan owo kekere fun gbogbo ojuse nipa yiyipada ekuationi ise aje. Awon oluka o ni se ronu boya ki wan san owo abi ki wan ma san lati apo wan, dipo wan le dibo losi oke tabi si ile lori arooko ati Steemu yio fi ibo wan lati mo ere oni kalu ku. Eyi tumo si pe a fun awon eniyan ni intafasi ti o won ti ri ri ati ti won lo kakiri ati pe won ko dojuko isuna owo, iye anfani ti o wa pelu eto sisan owo kekere ti atijo ati pulatiformu tipini.
 
-Voting input from community members is critical for Steem to accurately allocate payments to contributors. Voting can therefore be viewed as a crucial contribution and worthy of rewards on its own. Some platforms, such as Slashdot, use meta-moderation[^3] as a way to rank and reward honest moderators. Steem chooses to reward those who contribute the most to the total promotion of a piece of content and rewards the voters proportional to the ultimate reward paid to the content creator.
+Idibo didi lati awon eyan to wa ninu agbegbe je nkan to se koko lati je ki Steemu le san owo dede fun awon to se ojuse. A je le wo idibo gegebi ojuse to se pataki to je tun ye ere ni ti e. Awon pulatiformu, bi Slashdot, lo meta-moderation[^3] ni ona lati fun awon alakoso to se otito ni ipo ati ere. Steemu yan lati fun ere fun awon to sojuse ju ni gbi gbega arooko ati lati san ere fun awon oludibo ni iye kana ere ti a san fun eni to ni aroko.
 
-# Wege zum Mitmachen
+# Ona Lati se Ojuse
 
-Dieser Abschnitt umreißt die Ideen hinter Steem und seine Belohnungen für Leute, die bedeutungsvolle und messbare Beiträge zur Steem Gemeinschaft zur Verfügung stellen.
+Abala yi se afihan awon ero to wa leyin Steemu ati ere to wa fun awon eyan ti oba se ojuse to ni itumo ati mesurabu fun agbegbe Steemu.
 
-## Kapitalbeiträge
+## Ojuse Isowo
 
-There are two items a community can offer to attract capital: debt and ownership. Those who buy ownership profit when the community grows but lose if the community shrinks. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
+Awon nkan meji ti agbegbe le pese lati fa owo: gbese ati nini nkan. Awon ti won ra ere eni to ni nkan nigba ti agbegbe ba dagba sugbon won padanu ti agbegbe ba kere. Awon ti won ra gbese ni idaniloju ninu anfani die sugbon won ni kopa ninu ere kankan nipa dida gbasoke agbegbe. Orisi ojuse owo mejeji se ptaki fun didagba agbegbe ati iyi owo re. Ni afikun ona meji lowa lati di eni to ni nkan mu: likuidi ati vesitin. Nini vesitin je ki fi aramo fun igba-pipe ati ko se ta fun akoko to kere ju lo.
 
-Das Steem-Netzwerk nennt diese verschiedenen Asset-Klassen Steem (STEEM) Steem Power (SP) und Steam Dollars (SBD).
+Netiwoku Steemu pe orisirisi awon kilasi dukiya Steemu (STEEM), Agbara Steemu (SP), ati Dola Steemu (SBD).
 
-## Steem (STEEM)
+## Steemu (STEEM)
 
-Steem ist die grundlegende Recheneinheit der Steem Blockchain. Alle anderen Token beziehen ihren Wert vom Wert von STEEM. STEEM is a liquid currency, and therefore can be bought or sold on exchanges, as well as transferred to other users as a form of payment.
+Steemu ni akant to se pataki ju lo bulookichaini Steemu. Awon ipa toku mu iyi won lati iyi STEEM. STEEM ni owo likuidi, nitori na, a le ta abi kara ni oja, a si le gbe fun onilo mi gegebi ona ati sanwo.
 
-## Steem Power (SP)
+## Agbara Steemu (SP)
 
-Start up companies require long-term capital commitment. Those who invest their money in a startup expect to wait years before they can sell their shares and realize their profits. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
+Ile ise to sese bere ma ni lo owo fun igba-pipe. Awon ti won da owo won ni ibeere ni lati duro fun odun ki won to le ta sharessi wo ati ki won to ri ere. Laisi ifokan te igba-pipe, ibeere to ba fe wa owo si nipa tita sharessi lafikun ma dije pelu shareholdersi to wa ni ile tele to fe kuro. Awon invesito fe ki ojuse owo won dagbe ile ise, sugbon didagba ko le waye ti won ba fun awon to fe kuro ni owo titun yi.
 
-There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
+O se pataki lati ni ifokan igba pipe nito ri pe a je ki agbegbe na le se eto igba pipe. Ifokan igba pipe stakeholdersi ma je ki won dibo fun didagbasoke igba-pipe dipo pumpu igba-kekere.
 
-In the cryptocurrency space, speculators jump from cryptocurrency to cryptocurrency based mostly on which one is expected to have short-term growth. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
+Ni aye cryptocurrency, awon sipeculator ma lo lati cryptocurrency kan lo si cryptocurrency mi lori eyi to ba ni idagbasoke igba-die. Steemu fe ko agbegbe to je pe awon ti won ni oju igba-pipe ni won ma ni ati ni won ma se akoso e.
 
-Users are able to commit their STEEM to a thirteen week vesting schedule, providing them with additional benefits within the platform. STEEM that has been committed to a thirteen week vesting schedule is called Steem Power (SP). SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
+Awon oni lo ni anfani lati fi STEEM won si vesitin ose metala, pelu pi pese awon anfani lafikun larin pulatiformu. STEEM ti a ti fi si vesitin ose metala ni a n pe ni Agbara Steemu (SP). Iwon Sp ko se gbe fun ati ko se ge ayafi nipa ibere yiypada otomatikalli. Iyen tumo si pe A le sowo cryptocurrency loke taara.
 
-When users vote on content, their influence over the distribution of the rewards pool is directly proportional to the amount of SP that they have. Users with more SP have more influence on the distribution of rewards. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
+Nigbati awon onilo ba di ibo fun arooko, akoso won lori ere pinpin je bakana si iye SP ti won ni. Awon onilo pelu SP to po ni akoso pupo lori pinpin ere. Eyi tumo si pe SP je ona ipa to fun awon awon oludimu ni agbara ninu pulatiformu Steemu.
 
-SP holders are also paid interest on the balance of SP that remains vested. 15% of the yearly inflation is paid to SP holders as interest. The amount of the interest that they receive is directly proportional to the amount of SP they hold relative to the total amount of vested SP across all users.
+Won ma sanwo fun awon oludimu SP lori iye SP won to wa vesitedi. 15% afikun ododun ni won san fun Oludimu SP pelu anfani. Iye anfani ti won gba je bakana si iye SP ti won dimu relativu si gbogbo iye SP kakiri gbogbo onilo.
 
-Transferring from STEEM to SP is referred to as “powering up”, while transferring from SP to STEEM is referred to as “powering down.” SP that is powered down is returned to the user over a period of thirteen weeks, via 13 equal weekly payments, starting one week after the power down is initiated.
+Gbigbe lati STEEM lo si SP ni a n pe ni "gbigbe agbara soke", ti gbigbe lati SP losi STEEM ni a n pe ni "gbigbe agbara si ile." SP ti a be gbe agbara si ile ma da pada si onilo ni akoko ose metala, mipase sisan owo dede ni ose metala, bere lati ose kan ti ti gbigbe agbara si ile ba ti bere.
 
-## Steem Dollars (SBD)
+## Dola Steemu (SBD)
 
-Stability is an important feature of successful global economies. Without stability, individuals across the world could not have low cognitive costs while engaging in commerce and savings. Because stability is an important feature of successful economies, Steem Dollars were designed as an attempt to bring stability to the world of cryptocurrency and to the individuals who use the Steem network.
+Duro sinsin je nkan pataki ninu awon eto aje agbaye to se aseyori. Laisi duro sinsin, awon eran kakiri aye ko le ni iye owo to kere ti won ba n kopa ninu isowo ati fi fi pamo. Nitoripe duro sinsin je nkan pataki eto aje to se aseyori, a se Dola Steemu gegebi lati mu duro sinsin ba aye cryptocurrency ati fun awon eyan to n lo netiwoki Steemu.
 
-Steem Dollars are created by a mechanism similar to convertible notes, which are often used to fund startups. In the startup world, convertible notes are short-term debt instruments that can be converted to ownership at a rate determined in the future, typically during a future funding round. A blockchain based token can be viewed as ownership in the community whereas a convertible note can be viewed as a debt denominated in any other commodity or currency. The terms of the convertible note allow the holder to convert to the backing token with a minimum notice at the fair market price of the token. Creating token-convertible-dollars enables blockchains to grow their network effect while maximizing the return for token holders.
+A se Dola Steemu nipase nkan to dabi akosile ti ko se yi pada, to a ma saba lo lati ran awon ibeere lowo. Ni Aye ibere. akosile to se yi pada je awon gbese igba-kekere ti a le yi pada si nini ratii ti a pinu lojo iwaju, paapa ni igba iran lowo lojo iwaju. Ami ida nimo bulookichaini ni a n wo gegebi nini ninu agbegbe nigba to je wipe akosile to se yipada le je gbese ni eyi keyi oja abi owo. Awon ofin akosile to se yi pada je ki oludimu le yi si ipa to feyinti ni akiyesi ranpe loju oja ipa to dara. Sise eda awon Dola ipa ti o se yipada je ki bulookichain le dagba netiwoki won ti on si mu esi to po pada fun oludimu ipa.
 
-Steem Dollars are referred to with the symbol SBD, an acronym for Steem Blockchain Dollars. Creating SBD requires a combination of a reliable price feed, and rules to prevent abuse. Providing a reliable price feed involves three factors: minimizing the impact of an incorrect feed, maximizing the cost of producing an incorrect feed, and minimizing the importance of timing.
+Dola Steemu ni a n pe pelu ami idanimo SBD, nkan imo kekere fun Dola bulookichain Steemu. Sise ede SBD nilo apapo owo feedi ti a gbekele, ati ofin lati dekun iwa ibaje. Pi pese owo feedi ti a gbekele da lori nkan meta: di dinku impakti ti feedi ti ko pe, mumu pipo iye ti a n fi se feedi ti ko pe, ati didekun pataki akoko.
 
-### Minimizing Fraudulent Feeds
+### Didekun jibiti awon feedi
 
-SP holders elect individuals, called witnesses, to publish price feeds. The elected witnesses are presumably trusted by those who have a vested interest in the quality of the feed. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
+Awon Oludimu SP ma n yan awon eyan, ti an pe ni eleri, lati se afihan iye awon feedi. Awon eleri t a yan lani igbekele lori nipa won ti won ni eto vesitedi ninu didara feedi. Nipa sisan owo fun awon ti won yan, Steemu ti pese idije oja lati gba agbara lati pese awon feedi. Bi won se saan owo fun awon ti won pese feedi ni won se padanu ti won ba gbe oro iro jade.
 
-Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
+Fi fun awon olupese feedi ti a gbekele ati ti a yan, a le ri owo ti a fi yi pada gangan ni mediani ti awon feedi. Ni ona yi eyi keyi to ba je kekere ninu awon olupese feedi ba pese outulier won ni ipa kekere ninu mediani gangan nigba ti won si ni agbara lori oruko won.
 
-Even if all feed producers are honest, it is possible for the majority of feed producers to be impacted by events beyond their control. The Steem network is designed to tolerate short-term corruption of the median price feed while the community actively works to correct the issue. One example of an issue that may take some time to correct is short-term market manipulation. Market manipulation is difficult and expensive to maintain for long periods of time. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
+Paapa ti gbogbo olupese feedi ba je olotito, o sese ki opoplopo awon olupese feedi ni ipa nipa isele ti o ju agbara won lo. Alailowaya netiwoki ti Steemu ni a se lati fi aaye gba iwa ibaje kukuru ti isowo owo agbedemeji nigba ti agbede n sisie lati se atunse oro yii. Okan apeere ti oro kan ti o le gba akoko die lati se atunse je isowo oja-sise kukuru. Ifowoyi oja je gidigigi soro ati gbowolori lati setoju fun igba pipe. Apeere miiran yoo je ikuna ti pasiparo ti a se iseduro tabi ibaje ti awon data ti a se nipase pasiparo naa.
 
-Steem factors out short-term price fluctuations by using the median price over a period of three and a half days. The median published feed is sampled every hour on the hour.
+Awon nkan ti o ni okunka jade ni awon isowo owo-akoko kukuru nipa lilo owo agbedemeji ni akoko awon ojo meta ati idaji. Awon kiko sii agbedemeji feedi ti wa ni ayewo ni gbogbo wakati kan ni wakati.
 
-As long as the price feed corruption lasts for less than half the moving median time window it will have minimal impact on the conversion price. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
+Niwon igba ti oye owo feedi awon idibaje naa wa fun kere ju idaji ferese iseduro isowo ti yoo ni ipa kekere lori owo iyipada. Ni isele ti feedi naa yoo ni ibaje, awon alabasepo netiwoki yoo ni aafanni lati dibo-jade awon onisejade ti o je alaje bururu saaju ki awon ifunni ibaje le ni ipa ni owo iyipada gangan. Boya o se pataki julo, o fun awon onise feedi oja ti o ni anfani lati sawari ati satunse awon oran saaju ki awon feedi sii bere bii ikolu ti owo naa.
 
-With a three and a half day window, community members have approximately one and a half days to respond to any issues that come up.
+Pelu ferese meta ati idaji, awon eniyan agbegbe ni o ni iwon kan ati idaji kan lati dahun si awon oran ti o ba jade.
 
-### Mitigating Timing Attacks
+### Gbigbon Awon Akoko Ijako
 
-Market participants have access to information faster than the blockchain’s three and a half day moving median conversion price can react. This information could be used to benefit of traders at the expense of the community. If there is a sudden increase in the value of STEEM traders could request conversion of their SBD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
+Awon alabasepo ti isowo ni iwole si alaye ni kiakia ju iye owo iyipada ti o wa laari agbedemeji iyato ti blockuchain naa le se. Alaye yii le see lo lati ni anfan ti awon onisowo ni labikita fun agbegbe. Ti iseduro ilosoke ninu iye awon onisowo STEEMU le beere iyipada ti SBD ni atijo, owo kekere, ati lehinna ta STEEMU ti won gba owo tuntun ti o ga julo pelu ewu ti o kere ju.
 
-Steem levels the playing field by requiring all conversion requests to be delayed for three and a half days. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
+Ipele Steemu ti n sise nipase o nilo gbogbo awon ibeere iyipada lati se idaduro ojo meta ati ojo idaji. Eyi tumo si pe awon onisowo tabi blockuchain ni eyikeyi alaye anfani nipa owo ni akoko ti a ti se iyipada.
 
-### Minimizing Abuse of Conversions
+### Iyato Abukuro Awon Iyipada
 
-If people could freely convert in both directions then traders could take advantage of the blockchains conversion rates by trading large volumes without changing the price. Traders who see a massive run up in price would convert to SBD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SBD to STEEM and not the other way around.
+Ti awon enoyan le se iyipada larowoto ni awon aaye mejeji awon onisowo le lo anfani awon iyipada blockuchain nipase isowo ipele mla laisi iyipada oye owo naa. Awon onisowo ti o rii ipa ti o ga julo ni owo yoo pada si SBD ni owo to gaju (nigbati o ba jewu julo) ati lehinna pada lehin igbakeji. Isakoso Steemu naa ni aabo fun awon agbegbe lati iru iwa ibase yiinipa gbigba awon eniyan nikan lati yipada lati odo SBD si STEEMU ati pe kii se ona miiran ni ayika.
 
-The blockchain decides how and when to create SBD and who should get it. This keeps the rate of SBD creation stable and removes most avenues of abuse.
+Awon blockuchain pinnu bi ati nigbati lati seda SBD ati awon ti o ye ki o gbaa nbe. Eyi ntoju osuwon ti SBD eda idurosinsin ati ki o yo awon ona to julo ti ilokulo.
 
-### Sustainable Debt to Ownership Ratios
+### Gbese Alagbero Si Awon Eto Ijerisi
 
-If a token is viewed as ownership in the whole supply of tokens, then a token-convertible-dollar can be viewed as debt. If the debt to ownership ratio gets too high the entire currency can become unstable. Debt conversions can dramatically increase the token supply, which in turn is sold on the market suppressing the price. Subsequent conversions require the issuance of even more tokens. Left unchecked the system can collapse leaving worthless ownership backing a mountain of debt. The higher the debt to ownership ratio becomes the less willing new investors are to bring capital to the table.
+Ti a ba wo tokini bi nini ni gbogbo ipese ti tokin, igbana awon tokini-alayipada-dola le see bojuwo bi gbese. Ti o ba je gbese si ipinu oniwun ni o ga ju gbogbo owo lo le di riru. Awon iyipada ti gbese le se alekun ibiti a fin ipese tokini naa se, eyi ti o wa ni tita ta ni oja o dinku owo naa. Awon iyipada ti o se afeyinti nilo iseduro pupo fun tokini. Ti o bawa ni aifowoyi eto naa le subu kuro ni eto ti ko ni eto ti o nse atileyin oke kan ti gbese. Eyi Ti o ga ju gbese naa lo lo si ipinnu onisowo di die ti o feran awon oludokoowo titun lati mu olu wa si tabilli.
 
-A rapid change in the value of STEEM can dramatically change the debt-to-ownership ratio. The blockchain prevents the debt-to-ownership ratio from getting too high, by reducing the amount of STEEM awarded through SBD conversions if the debt level were to exceed 10%. If the amount of SBD debt ever exceeds 10% of the total STEEM market cap, the blockchain will automatically reduce the amount of STEEM generated through conversions to a maximum of 10% of the market cap. This ensures that the blockchain will never have higher than a 10% debt-to-ownership ratio.
+Iyipada ayipada ninu iye STEEMU le se iyipada pupo si ipinnu gbese-si-nini. Awon blockuchain dena idiyele gbese-lati-nini lati ga julo, nipa didin ti STEEMU fun nipase awon iyipada SBD ti o ba je pe ipo idiyele koja ogorun mewa. Ti iye SBD ba ti koja ju ogorun mewa ti iye owo STEEMU ti o wa nipo olu oja, blockuchain yoo dinku iye ti STEEMU ti ipilese nipase awon iyipada si iwon ti o poju ogorun mewa olu oja. Eyi ni idaniloju pe blockuchain kii yoo ni giga ju ipinnu-fifun-si-nini ogorun mewa.
 
-The percentage floors used to compute STEEM creation are based on the supply including the STEEM value of all outstanding SBD and SP (as determined by the current rate / feed).
+Awon ipile ogorun ti a lo lati se afiwe eda STEEMU da lori ipese pelu iye STEEMU ti gbogbo SBD ati SP (ti a se ippinu nipase osuwon/feedi).
 
-### Interest
+### Anfani
 
-SBD pays holders interest. The interest rate is set by the same people who publish the price feed so that it can adapt to changing market conditions. All debt carries risk to the lender. Someone who holds SBD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SBD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
+SBD sanwo awon ton dimu ni anfani. Awon osuwon anfani ni seto nipase awon eniyan kanna ti o safihan feedi sii owo naa ki o le baamu si ipo isowo iyipada. Gbogbo gbese ni o ni ewu si ayanilowo. Enikan to ba di SBD laisi riropada o je n se ayanilowo fun awon eniyan ni iye ti dola. Won ni igbekele pe ni aaye kan ni ojo iwaju enikan yoo je setan lati ra SBD lati odo won fun dola kan tbai pe yoo wa awon osuwon ati awon oludokoowo fe lati re STEEMU ti won yi pada sinu.
 
-STEEM and SP holders gain leverage when members of the community are willing to hold SBD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
+Awon olusakoso STEEMU ati SP n gba owo-ini nigbati awon omo egbe agbegbe wa ni setan lati dimu SBD. Irowo yii nmu awon anfani lati idagba soke nigba ti o tun se idasi si idagba soke. Awon onibara STEEMU je ipalara ti o po si ti oye owo na ba subu sile. Awon ise akanse kryptokorensi ti o salaye ti o ti han ni pe awon anfani lati jije asise olumulo wa lati gbekele netiwoki pelu olu se afikun iye die si netiwoki ju eyikeyi isiro ti o le waye lakoko gbadun.
 
-### Setting Price Feeds
+### Sisieto Oye Owo Feedi
 
-Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
+Awon onkawe is imoran yoo mo pe ohun ti o ni anfani ti ipese ti o lopin le se isowo ti o ga julo tabi o wa le ju dukia idaniloju da lori awon anfani miiran lati gba anfani lori dukia kanna. Pelu owo osuwon to gaju ti o san lori orisirisi owo kan si dola Amerika ti opolopo awon einyan yoo gba soke ipese agbara awon dola Steemu titi ti won ko ni wulo die si Dola kan. Ni awon oro-aje ni o wa opo kan ti a mo ni metalokan ti ko le se eyiti o so pe ko see se ni gbogbo awon meta ti o tele ni akoko kanna:
 
-1. A stable exchange rate
-2. Free capital movement
-3. An independent monetary policy
+1. Asise pasipaaro isowo
+2. Akoko olu-ori ofe
+3. Eto eto isowo ti ominira
 
-If Steem feed producers aim to have an independent monetary policy allowing it to create and destroy Steem Dollars while simultaneously having full control over the interest rate then they will encounter problems. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
+Ti Awon oluseto onileru feedi Steemu se itokasi lati ni eto imulo ti ominira ti o ni idaniloju lati seda ati run Awon dola owo Steemu lakoko ti o ni akoko kanna ni isakoso kikun kori iye owo osuwon nigbana won yoo ba awon isoro nibe. Awon ohun aishe metalokan so wi pe Awon dola Steemu boya o nilo lati ni ihamo isagbbepo owo, ni owo pasipaaro aisedeede pelu dola, tabi ni isakoso pupo lori iye osunwon.
 
-The primary concern of Steem feed producers is to maintain a stable one-to-one conversion between SBD and the U.S. Dollar (USD). Any time SBD is consistently trading above $1.00 USD interest payments must be stopped. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SBD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
+Iseduro akoko ti Awon Oluranlowo feedi ti Steemu je lati setoju iyipada okan-si-okan laarin SBD ati dola Amerika (USD). Nigbakugba ti SBD je isowo loke awon owo sisan dola kan gbodo wa ni iduro. Ni oja ti o wan ni odo ogorun anfani lori gbese si nbeere kan ere, o je ailewu lati so oja je setan lati fa siwaju sii kirediti ju awon gbese ti awujo je setan lati ya lori. Bi eyi ba sele SBD yoo ni iye die sii ju dola kan lo ati pe o wa die ti awon awujo le se laisi gbigba agbara awon idiwon odi.
 
-If the debt-to-ownership ratio is low and SBD is trading for less than $1.00, then the interest rate should be increased. This will encourage more people to hold their SBD and support the price.
+Ti ipin nini-nini je kekere ti SBD si isowo fun ki kere ju dola kan, lehinna o ye ki o po si osuwon. Eyi yoo se iwuri fun awon eniyan die sii lati mu SBD won ati atileyin owo naa.
 
-If SBD trades for less than $1.00 USD and the debt-to-ownership ratio is high, then the feeds should be adjusted upward give more STEEM per SBD. This will increase demand for SBD while also reducing the debt-to-ownership ratio and returning SBD to parity with USD.
+Ti awon isowo SBD fun kikere ju dola kan ati ipin ti gbese si-nini je giga, lehinna awon kiko sii ye ki o ni atunse soke fifun die sii nipase SBD. Eyi yoo se alekun wiwole fun SBD lakoko to o tun dinku ipinu gbese-si-nini ati gbigba SBD padi si adejo pelu dola Amerika.
 
-Assuming the value of STEEM is growing faster than Steem is creating new SBD, the debt-to-ownership ratio should remain under the target ratio and the interest offered benefits everyone. If the value of the network is flat or falling, then any interest offered will only make the debt-to-ownership ratio worse.
+Ti se pe iye ti STEEMU ti nyara see ju Steemu ti n selopo SBD titun, ipin gbese-si-nini ye ki o wa labe aaye afojusun ati anfani ti o se iranlowo fun gbogbo eniyan. Ti iye netiwoki je alapin tabi subu, lehinna eyikeyi anfani ti a funni yoo se nikan ni ipinnu-si-nini-ipin to buru ju.
 
-In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
+Ni ibere awon oluseto oja ti o ni awon oluranlowo ni a fi le pelu ojuse ti seto imulo owo-owo fun idi ti mimu paagi ti o duro si ile dola Amerika. Ilokulo ti agbara yi le se ipalara fun iye ti STEEMU ki awon olutoju agbara steemu je ologbon lati dibo funawon eleri ti a le ka si lati satunse kiko sii owo ati awon sounwon anfani gegebi awon ofin ti a se alaye loke.
 
-If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SBD.
+Ti ipin ti gbese-nini-nini ni o ga julo ti o lagbara ati pe awon alabasepo olukopa yan lati yago fun ibeere iyipada, lehinna o ye ki o tunse kiko sii lati mu osuwon sii ti a ti sanwo STEEMU fun siso SBD.
 
-Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SBD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions.
+Awon iyipada si eto imulo owo osuwon ati/tabi awon sisan/awon sisan eyikeyi lori iyipada STEEMU/SBD ye ki o je ilowu lora ati muwon si awon iyato ti awon igba pipe ju kukun lo lati dahun si awon ipo isowo kukuru.
 
-It is our belief that these rules will give market participants confidence that they are unlikely lose money by holding SBD purchased at a price of $1.00. We fully expect there to be a narrow trading range between $0.95 and $1.05 for SBD under normal market conditions.
+O je igbagbo wa pe awon ofin wonyi yoo fun awon alabasepo ti isowo ni igbekele pe won ko padanu owo won nipa diduro SBD ti won ra ni owo ti dola kan. A ni kikun reti nibe lati wa ni isowo isowo to wa laari owo dola odo. aadorun marun ati owo dola kan. odo marun fun SBD labe ipo isowo deede.
 
-## Subjective Contributions
+## Ipese Asayan
 
-Subjective Proof of Work presents an alternative approach to distributing a currency that improves upon fully *objective* Proof of Work systems such as mining. The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
+Ijerisi Agbeklae ti ise se afihan ona miiran lati se pinpin owo kan ti o da lori ni kikun ipinnu Awon iseduro ise bii iwakusa. Awon ohun eloti owo kan ti n se imudaniloju ise-sise ti ero-inu ti o ni anfani ju ti eyikeyi ohun idaniloju ti eto ise nitori a le lo won lati ko agbegbe kan ni ayika ti o ni idi ti o niye to. Nigbati awon eni-kookan ba darapo mo agbegbe kan ti won ra sinu irufe igbagbo kan ti o si le dibo lati se afihan awon ifilele ti agbegbe tabi idi kan.
 
-In effect, the criteria by which work is evaluated is completely subjective and its definition lives outside the source code itself. One community may wish to reward artists, another poets, and another comedians. Other communities may choose to reward charitable causes or help advance political agendas.
+Ni abajade, awon abawon ti ise ti ayewo ni kikun je pataki ati awon alaye itumo re ni ita si koodu orisun ara re. Agbegbe kan le fe lati san awon osere, awon oludawe mirran, ati awon elegbe apanilerin miiran. Awon agbgbe miiran le yan latisan esan awon idiyan tabi iranlowo awon eto isagbesiwaju isaju.
 
-The value each currency achieves depends upon the demand for influence within a particular community and how large the market believes each community can get. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
+Iye owo iyorisi owo kookan da lori idaniloju fun ipa laarin agbegbe kan ati bi o tobi oja ti gbogbo pe agbegbe kookan le gba. Kii awon ilana isaaju, eri imudaniloju ti ise n jeki awon awujo kan alti sajopo ni idagbasoke ti ohunkohun ti o ri niyeloru ati ki o se iranlowo fun iseduro owo ti akoko ti kii se owo ti ati yipada kiakia tele.
 
-### Distributing Currency
+### Pinpin Owo
 
-There are two ways people can get involved with a crypto-currency community: they can *buy in*, or they can *work in*. In both cases users are adding value to the currency, however, the vast majority of people have more *free time* than they do *spare cash*. Imagine the goal of bootstrapping a currency in a poor community with no actual *cash* but plenty of *time*. If people can earn money by working for one another then they will bootstrap value through mutual exchange facilitated by a fair accounting/currency system.
+Awon ona meji ni awon eniyan le ni ipa pelu agbegbe ilu owo-krypto: won le ra ni, tabi won le sise ni. Ni awon mejeji awon olumulo n se afikun iye si owo, sisbesibe, opolopo eniyan ni o ni akoko ofe die ju ti won se idaniloju owo. Fojuinu awon ifojusi ti owo isowo ni owo talaka ni agbegbe ti ko ni owo gangan sugbon ni opolopo igba. Ti awon eniyan ba le sagbe owo nipa sise fun ara won lehinna won yoo je iye bootstrapu nipase iyipada pasipaaro ti iseto nipase owo iseduro/owo isowo.
 
-Distributing a currency to as many people as possible in a manner that is generally perceived as fair is a challenging task. The tasks that can be entirely evaluated by an objective computer algorithm are limited in nature and generally speaking have limited positive external benefits. In the case of Bitcoin-style mining, it can result in the production of specialized hardware and cause people to invest time developing more efficient algorithms. It may even help find prime numbers, but none of these things provide meaningful value to society or the currency holding community at large. More importantly, economies of scale and market forces will end up excluding everyone but experts from participating in this kind of distribution. Ultimately, computation-based mining is just another way of *buying in* because it requires money to pay the electric bill or the development of hardware necessary to do the work.
+Pinpin owo kan si opolopo awon eniyan bi o ti see se ni ona ti a se akiyesi ni deede ni ise-sise ti o nija. Awon ise-sise ti a le ni iyewo patapata nipase ohun elo alugoridimu komputa to ni opin ni iseda ati ni gbogbo oro ti lopin awon anfani ita itagbangba. Ni oran ti iwakusa ara-Bitcoinu ti o le ja si ni iselopo ti hadiwareri patakiati ki o fa ki awon eniyan se idokowo akoko to ndagbasoke alugoridimu daradara siwaju sii. O le se iranlowo paapaa latiwa awon nomba, sugbon ko si okan ninu awon nkan wonyi n pese iye ti o niyeye si awujo tabi owo to o mu agbegbe ni agbegbe. Pataki julo, awon isowo-owo ati awon agbara oja yoo pari titi lai gbogbo eniyan sugbon awon amoye lati kopa ninu iru ifipin yi. Nigbamii, isiro isowo ti isowo je ona miiran ti ife si n nitori pe o nilo owo lati san owo-ina monamona tabi idagbasoke eroja pataki lati se ise naa.
 
-In order to give everyone an equal opportunity to get involved and earn the currency people must be given an opportunity to work. The challenge is how to judge the relative quality and quantity of work that individuals provide and to do so in a way that efficiently allocates rewards to millions of users. This requires the introduction of a scalable voting process. In particular it requires that authority to allocate funds must be as distributed and decentralized as possible.
+Lati le fun gbogbo awon eniyan ni anfani kanna lati darapo si ati lati gba owo awon eniyan ni owo gbodo ni anfani lati sise. Ipenija ni bi o se le se idajo didara ati opolopo ise ti awon alailegbe ti pese ati lati se be ni ona ti o fi ipinnu daradara fun awon millionu eda ti awon Olumulo. Eyi nilo ifihan, ifihan ilana idibo kan. Ni pato o nilo ki ase lati fi owo kun owo gbdo je bi pinpin ati bi o ti see se.
 
-The first step in rewarding millions of users is to commit to distributing a fixed amount of currency regardless of how much work is actually done or how users vote. This changes the question from being *“Should we pay?”* to *“Whom should we pay?”* and signals to the market that money is being distributed and is being auctioned off to whoever “bids” the most *work*. This is similar to Bitcoin committing to award 50 BTC to whoever finds the most difficult hashes. Like Bitcoin, all work must be done prior-to payout and nothing should be paid speculatively on the promise to do work in the future.
+Igbese akoko ni fifun awon millionu ti awon olumulo ni lati se si pinpin owo ti o wa titi laiwo iru ise ti a se gangan tabi bi awon olumulo se dibo. Eyi n yi ibere naa pada lati wa O ye ki a sanwo? si Tani lo ye ki a sanswo? ati awon ifihan gbara si oja ti a pin pin owo ati pe a ti n tita fun enikeni ti o "se atileyin ise julo. Eyi ni iru Bitcoinu se lati gba aadota BTC si eniti o ba ri awon isiro ti o nira julo. Bi Bitcoinu, gbogbo ise gbodo see se saaju-lati sanwo ati pe ohunkohun ko ye ki o san sanwoye lori ileri lati se ise ni ojo iwaju.
 
-The next step is to reward everyone who does anything even remotely positive with *something*. This is accomplished by ranking all work done and distributing proportionally to its value. The more competitive the market becomes, the more difficult (higher quality or quantity) it becomes to earn the same payout.
+Igbese ti o tele ni lati san fun gbogbo awon aniyan ti o se ohunkohun paapaa latona jijin pelu ohun kan. Eyi ni aseyori nipase ogo gbogbo ise ti o se ati pin pin-an si iye re. Awon die ifigagbaga awon oja di awon nira sii (didara to gaju tabi opoiye) o di lati jojuto isan jade kaana.
 
-### Voting on Distribution of Currency
+### Idbo lori Pinpin Owo
 
-Assume there is a fixed amount of money to distribute, and that those who have a long-term vested interest in the future value and utility of the currency are the ones who must decide how to allocate it. Every vesting user casts their votes on who did the best work and at the end of the day the available money for that day is divided proportional to the votes such that everyone with even one net positive vote gets something.
+Se akiyesi pe iye owo ti o wa titi lati safihan, ati pe awon ti o ni eto ti o ni igba pipe ni iye iwaju ati ise-sise ti owo naa ni awon tio gbodo pinnu bi a se le sokoto re. Olukuluku olumulo ti o nfun o fi idi won si awon ti o se ise ti o dara ju ati ni opin ojo ti owo ti o wa fun ojo naa pin ni iwon si awon idibo gegebi gbogbo awon eniyan ti o ni ani okan ninu idibo ti o wa ni ipile ti n ni nkankan.
 
-The naive voting process creates a N-Person Prisoner’s Dilemma[^5] whereby each individual voter has incentive to vote for themselves at the expense of the larger community goal. If every voter defects by voting for themselves then no currency will end up distributed and the currency as a whole will fail to gain network effect. On the other hand, if only one voter defects then that voter would win undeserved profits while having minimal effect on the overall value of the currency.
+Ilana oludibo ti o rorun ni o seda iwon Awon elewon ti N-Eniyan ti o je pe olukuluku oluluku kookna ni ipa lati dibo fun ara won laibikita fun ipinnu agbalagba nla. Ti gbogbo awon abawon idibo nipa idibo fun ara won lehinna ko ni si owo ni ipari fun pinpin ati pe owo gegebi ti gbogbo yoo kuna lati ni ipa si netiwoki. Ni apa keji, ti o ba je pe awon idibaje asoju kan nikan ni o je pe oludibo yoo gba awon ere ti ko ye fun lakoko ti o ni ipa kekere lori iye owo ti owo naa.
 
-#### Voting Abuse
+#### Idibo Ilokulo
 
-Regardless of how much money any one individual has, there are always many other individuals with similar wealth. Even the wealthiest individual rarely has much more than the next couple wealthiest combined. Furthermore, those who have a large investment in a community also have the most to lose by attempting to game the voting system for themselves. It would be like the CEO of a company deciding to stop paying salaries so he could pocket all of the profits. Everyone would leave to work for other companies and the company would become worthless, leaving the CEO bankrupt rather than wealthy.
+Laibikita iye owo ti olukuluku kan ti nii, opolopo awon eniyan miiran ni o ni awon iru oro kanna. Paapa eni-oro oloro ti ko ni irora ni opolopo die sii ju idajo julo ti o poju lopolopo. Pelupelu, awon ti o ni ikoko-owo nla ni agbegbe kan ni o ni awon to julo lati padanu nipa sise pinnu lati se ere eto idibo fun ara won. Yoo dabi Oludari Alakoso ti ile-ise kan ti pinnu lati da awon owo sisan pada ki o le ni apo gbogbo awon ere. Gbogbo eniyan yoo lo kuro ni ise fun awon ile-ise miiran ati ile-ise naa yoo di asan, nlo kuro ni Oludari Alakoso ju awon oloro lo.
 
-Fortunately, any work that is getting a large concentration of votes is also gaining the most scrutiny (publicity). Through the addition of *negative-voting* it is possible for many smaller stakeholders to nullify the voting power of collusive groups or defecting large stakeholders. Furthermore, large-stakeholders have more to lose if the currency falls in value due to abuse than they might gain by voting for themselves. In fact, honest large stakeholders are likely to be more effective by policing abuse and using negative voting than they would be by voting for smaller contributions.
+Loriire, eyikeyi ise ti o n gbe awon ifojusi pipadii ti o poju tun ni igbadun julo si (ipolongo). Nipase afikun awon idbo odiwon o see se fun opolopo awon alaranlowo ti o kere julo lati fagilee agbara idibo ti awon egbe etan tabi awon asise pataki. Pelupelu, awon oluranlowo ti o tobi pupo ni die see lati padanu ti owo ba subu ni iye nitori ibaje ju ti won le jere nipa idibo fun ara won. Ni pato, awon onigbowo ti o tobi julo ni o le se die nii ipa nipase ilokulo ati lilo awon idibo ti ko dara ju ti won yoo je nipa idibo fun awon ise kekere.
 
-The use of *negative-voting* to keep people from abusing the system leverages the *crab mentality* that many people have when it is perceived that one individual is profiting at the expense of everyone else. While crab mentality normally refers to short-sighted people keeping good people down, it is also what allows good people to keep bad people down. The only “problem” with crab mentality is when people *wrongly believe* someone is profiting at everyone else's expense.
+Lilo awon idibo asise ti kojopo lati pa awon eniyan kuro lati lilo eto naa nmu agbara-ara odaran ti opolopo awon eniyan ni nigba ti a ba rii pe eni kookan n ni ireti laibikita fun gbogbo awon eniyan. Lakoko ti o je pe ison-ara isioro n toka si awon eniyan ti o ni oju-ewe ti o n gbe awon eniyan rer sile, o tun je eyiti o fun laaye awon eniyan rere lati pa awon eniyan buburu mole. "Isoro" kan to wa pelu ison-ara isiro ni nigbati awon eniyan ba gbagbo pe enikan n se ireti fun gbogbo awon elomiran.
 
-**The Story of the Crab Bucket**[^6]
+Awon Itan ti Akan Garawa
 
-A man was walking along the beach and saw another man fishing in the surf with a bait bucket beside him. As he drew closer, he saw that the bait bucket had no lid and had live crabs inside.
+Okurin kan nrin ni eti okun ti o si ri okurin kan ti npa eja ni sisan pelu isawe kan pelu re. Bi o ti n summo odo, o ri pe garawa ti o ba ti ko ni ideri ati pe o ni awon akan ti o wa le ye wa ni inu re.
 
-"Why don't you cover your bait bucket so the crabs won't escape?", he said.
+Ese bo isawe garawa yin kin awon akan yin ma le saa lo?", o so.
 
-"You don't understand.", the man replied, "If there is one crab in the bucket it would surely crawl out very quickly. However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
+"Ko ye e ni.", Okurin naa dahun pe, "ti akan kan ba wa ninu garawa, yoo le tete rin jade ni kia kia. Sibesibe, nigba ti opolopo awon akan ninu garawa ti o ba je okan gbiyanju lati ra awon elomiiran mu idaduro re ki o si fa o sokale ki o le pin ipinju kanna ni awon iyoku won."
 
-So it is with people. If one tries to do something different, get better grades, improve herself, escape her environment, or dream big dreams, other people will try to drag her back down to share their fate.
+Nitorina o pelu awon eniyan. Ti enikan ba gbiyanju lati se nkan ti o yato, gba awo ipele to dara julo, se igbaradi ara re, sa fun ayika re, tabi la awon alala nla, awon eniyan miiran yoo gbiyanju lati fa won pada lati pin ayannmo won.
 
-Eliminating “abuse” is not possible and shouldn’t be the goal. Even those who are attempting to “abuse” the system are still doing work. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn’t so rampant that it undermines the incentive to do real work in support of the community and its currency.
+Yiyo "ilokulo" ko see se ki o ye ki o je ipinnu. Paapa awon ti o n gbiyanju lati se "ilokulo" eto naa n se ise. Awon iyooda ti won gba fun awon igbiyanju aseyori ninu inaje tabi ijakadi je o kere julo bi o se pataki fun idi ti pinpin owo naa gegebi ise-sise ise ti a nlo nipase iwakusa Bitcoinu ti o wa tabi ise iwakusa ti o se nipase awon iwakusa ikun poolu. Gbogbo ohun ti o je dandan ni lati rii daju pe iwa-ipa ko ni igbadun pupo pe o dekun igbiyanju lati se ise gidi ni atileyin ti agbegbe ati owo re.
 
-The goal of building a community currency is to get more “crabs in the bucket”. Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs sufficient power to prevent others from escaping.
+Awon ipinnu lati ko isowo owo ni lati gbe die "Awon akan ninu garawa". Lilo si awon ilana ti o poju lati se imukuro gbogbo iwa-ipa je bi igbiyanju lati fi ideri kan sori garawa lati dabobo awon akan die lati saakiri ati pe o wa laibikita fun sise ki o le safikun lati fi awon akan tuntun si inu garawa. O ti to lati se awon odi ti o ni irorun ati ki o fun awon akan miiran to lagbara lati dabobo awon elomiran lati yo kuro.
 
-### Rate Limited Voting
+### Se Ipinnu Idibo Lopin
 
-A major part of minimizing abuse is the rate-limiting of voting. Individual users can only read and evaluate so many work items per day. Any attempt to vote more frequently than this is a sign of automation and potential abuse. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
+Apa pataki kan ti dinku je isiro-idiwon idibo. Awon olumulo kookan le nikan ka ati o se ayewo awon ise pupo ni ojo kan. Eyikeyi igbiyanju alti dibo die sii nigbagbogbo ju eyi je ami ti adasise ati ilokulo. Nipase osuwon ididwon ti o niise ti o dibo die sii nigbagbogbo ni awon idibo kookan fun kere ju awon alafarakan ti o se idibo nigbagbogbo. Awon igbiyanju lati pin awon owo ami laarin awon akoole pupo tun pin ipa ati nitorina ko ni idasi ilosoke ibiti o ni ipa tabi se idiwo iye tosuwon ti a fi pase lori idibo.
 
-Users are allotted a fixed amount of voting power. Voting power is multiplied by a user’s vesting tokens to determine how much share in the reward pool should be allocated to a given work item. Every vote that is cast uses a percentage of remaining voting power. Users can vote for more posts, but each vote will be worth less, and it will take longer to reach full voting power again. Voting power recharges at a fixed linear rate of 20% per day.
+Awon onibara ni a fun ni iye ti o wa titi ti agbara idibo. Voting power is multiplied by a user’s vesting tokens to determine how much share in the reward pool should be allocated to a given work item. Every vote that is cast uses a percentage of remaining voting power. Users can vote for more posts, but each vote will be worth less, and it will take longer to reach full voting power again. Voting power recharges at a fixed linear rate of 20% per day.
 
 ### Payout Distribution
 
@@ -441,7 +441,7 @@ Steem recognizes that the value of all user contributions (posts and votes) is g
 
 Because everyone benefits, everyone should pay. In other words, no individual user should be expected to pay for anything, but instead should be paid for everything they do that brings value to Steem. All we need to do is ascertain which user contributions bring a social network value and which ones don’t.
 
-Zusammengenommen bewerten Reddit-Nutzer 220 Mal pro Sekunde und verfassen 23 Beiträge pro Sekunde. Reddit is valued between $500 million[^18] and $4 billion[^19] which means that each and every upvote and post is worth between $0.06 and $0.50 assuming the value of Reddit is mostly within the past year’s worth of activity. Man könnte argumentieren, dass der größte Teil des Wertes von Reddit die sich in nahezu Echtzeit ereignenden Diskussionen der letzten Woche sind, die den Wert neuer Aktivitäten dramatisch erhöhen würden. Die Menschen gehen dahin, wo die Menschen heute sind, nicht dorthin, wo sie letztes Jahr waren.
+Collectively Reddit users vote 220 times per second and make 23 posts per second. Reddit is valued between $500 million[^18] and $4 billion[^19] which means that each and every upvote and post is worth between $0.06 and $0.50 assuming the value of Reddit is mostly within the past year’s worth of activity. One could argue that most of the value of Reddit is the near-real-time discussions that have occurred within the past week which would dramatically increase the value of new activity. People go where people are today, not where people were last year.
 
 ## No Micropayments, Tips Optional
 
@@ -487,13 +487,13 @@ Merchants will accept any currency if it increases their sales. Having a large u
 
 Another way that people can liquidate the small amounts of cryptocurrency they receive from participating on the Steem platform is through *tipping* others. This is like leaving the small change as a tip for your waiter. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
 
-## Zensur
+## Censorship
 
-Steem is a decentralized network that is operated by witnesses in jurisdictions around the world. Alle Aktionen der Nutzer werden öffentlich auf der Blockchain publiziert und können aus diesem Grund öffentlich nachvollzogen werden. Das bedeutet, dass es keine einzige Instanz gibt, die Inhalte zensieren kann, die von STEEM-Inhabern wertgeschätzt werden.
+Steem is a decentralized network that is operated by witnesses in jurisdictions around the world. All user actions are publicly recorded on the blockchain, and can be publicly verified. This means that there is no single entity that can censor content that is valued by STEEM holders.
 
-Einzelne Websites wie steemit.com können Inhalte auf ihrer jeweiligen Website zensieren, aber Inhalte, die auf der Blockchain veröffentlicht werden, sind von Natur aus Broadcasts und andere Seiten auf der ganzen Welt können sie weiterhin zur Verfügung stellen.
+Individual websites such as steemit.com may censor content on their particular site, but content published on the blockchain is inherently broadcast traffic and mirrors all around the world may continue to make it available.
 
-Redefreiheit ist die Grundlage aller anderen Freiheiten. Somit untergräbt jede Verletzung der Redefreiheit das einzige friedliche Mittel zur Erzielung eines Konsenses: die Diskussion. Without free discussion voters cannot be fully informed, and uninformed voters are a greater threat to society than losing the right to vote. Censorship is a means of stealing votes through limiting public discourse. Steem setzt sich dafür ein freie Meinungsäußerung zu ermöglichen und eine freie Gesellschaft aufzubauen.
+Freedom of speech is the foundation of all other liberties and any infringement upon freedom of speech undermines the only peaceful means of reaching consensus: discussion. Without free discussion voters cannot be fully informed, and uninformed voters are a greater threat to society than losing the right to vote. Censorship is a means of stealing votes through limiting public discourse. Steem is committed to enabling free speech and building a free society.
 
 ## Solving Organic Discovery via Search Engine Optimization
 
@@ -513,7 +513,7 @@ Under most content monetization models, content creators leverage advertising in
 
 Creators posting to social media outlets that are connected to Steem may monetize merely by having their work recognized (or ”liked”) by the Steem community. Blockchain-based payouts are completely digital and have no middle-man. Therefore monetization by blockchain-based content rewards should be faster and much lower barrier to use than monetization by advertisements.
 
-# Fazit
+# Conclusion
 
 Steem is an experiment designed to address challenges in the cryptocurrency and social media industries by combining the best aspects from both. Steem presents earning opportunities to content creators and internet readers in ways that have not existed within the social media industry. Within Steem, individuals earn real rewards online that are directly correlated to their contributions. Those rewards may have dollar value due to the market price discovery and liquidity of Steem, and the people who hold Steem may have more exclusive earning powers than those who do not.
 
