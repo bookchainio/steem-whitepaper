@@ -1,6 +1,6 @@
 # Steem
 
-## Een gestimuleerd, blockchain gebaseerd platform voor openbare inhoud.
+## Een gestimuleerd, blockchain gebaseerd platform voor publiekelijk toegankelijke content.
 
 Augustus 2017
 
@@ -10,7 +10,7 @@ Vertaling door @minersean op basis van eerder werk van @stino-san.
 
 # Samenvatting
 
-Steem is een blockchain databank die het vormen van gemeenschappen en sociale interactie ondersteund met cryptogeld beloningen. Steem combineert concepten van sociale media met lessen uit het bouwen van cryptogeld en hun gemeenschappen. Een belangrijk onderdeel bij het inspireren van deelname in elke gemeenschap, valuta of vrije markteconomie is een eerlijk boekhoudkundig systeem dat de bijdrage van elke persoon consequent weerspiegelt. Steem is de eerste cryptovaluta dat probeert om op nauwkeurige en transparante wijze een onbegrensd aantal personen te belonen die *subjectief bijdragen* aan de gemeenschap.
+Steem is een blockchain databank die het vormen van gemeenschappen en sociale interactie ondersteund met cryptogeld beloningen. Steem combineert concepten van sociale media met lessen uit het bouwen van cryptogeld en hun gemeenschappen. Een belangrijk onderdeel bij het inspireren van deelname in elke gemeenschap, valuta of vrije markteconomie is een eerlijk boekhoudkundig systeem dat de bijdrage van elke persoon consistent weerspiegelt. Steem is de eerste cryptovaluta dat probeert om op nauwkeurige en transparante wijze een onbegrensd aantal personen te belonen die *subjectief bijdragen* aan de gemeenschap leveren.
 
 # Inhoudsopgave
 
@@ -18,7 +18,7 @@ Steem is een blockchain databank die het vormen van gemeenschappen en sociale in
 
 # Introductie
 
-Collectief, heeft gebruikers gegenereerde inhoud miljarden dollars waarde gecreëerd voor de aandeelhouders van sociale media bedrijven zoals Reddit, Facebook en Twitter. **In 2014, Reddit hypothesized that its platform would be improved if everyone who contributed to reddit.com by posting stories, adding comments or voting were rewarded with a fair share in Reddit, Inc.[^1]**. Steem is gericht op het ondersteunen van sociale media en online gemeenschappen door veel van zijn waarde terug te keren aan mensen die waardevolle bijdragen maken door hen te belonen met cryptogeld, en door dit process een valuta te creëren die in staat is om een brede markt te bereiken, met begrip voor mensen die nog moeten deelnemen aan een cryptogeld economie.
+Alles bij elkaar heeft door gebruikers gegenereerde content miljarden dollars aan waarde opgeleverd voor aandeelhouders van sociale media bedrijven zoals Reddit, Facebook en Twitter. **In 2014 veronderstelde Reddit dat het platform zou verbeteren indien het iedereen die bijdroeg tot reddit.com door het plaatsen van verhalen, toevoegen van opmerkingen en stemmen, zou belonen met een eerlijk aandeel in Reddit. Inc. [^1]**. Steem is gericht op het ondersteunen van sociale media en online gemeenschappen door veel van zijn waarde terug te keren aan mensen die waardevolle bijdragen maken door hen te belonen met cryptogeld, en door dit process een valuta te creëren die in staat is om een brede markt te bereiken, met begrip voor mensen die nog moeten deelnemen aan een cryptogeld economie.
 
 Er zijn een aantal belangrijke principes gebruikt om het ontwerp van Steem te leiden. Het meest belangrijke uitgangspunt is dat, iedereen die bijdraagt aan een onderneming, pro-rata eigendom, betaling of schuld moet krijgen van de onderneming. Dit principe is hetzelfde principe dat van toepassing is bij alle startups wanneer deze aandelen toewijzen bij het oprichten of tijdens de daaropvolgende financiering rondes.
 
