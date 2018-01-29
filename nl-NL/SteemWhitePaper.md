@@ -22,11 +22,11 @@ Alles bij elkaar heeft door gebruikers gegenereerde content miljarden dollars aa
 
 Er zijn een aantal belangrijke principes gebruikt om het ontwerp van Steem te leiden. Het meest belangrijke uitgangspunt is dat iedereen die bijdraagt aan een onderneming, pro-rata eigendom, betaling of schuld moet krijgen van de onderneming. Dit principe is hetzelfde principe dat van toepassing is bij alle startups wanneer deze aandelen toewijzen bij het oprichten of tijdens de daaropvolgende financieringsrondes.
 
-Het tweede principe is dat alle vormen van kapitaal even waardevol zijn. Dit betekent dat degenen die hun schaarse tijd en aandacht leveren door het produceren en selecteren van content voor anderen even waardevol zijn als degenen die hun schaarse geld bijdragen. Dit is het zweet eigen vermogen principe[^2] en is een concept waar voorafgaande cryptovaluta’s vaak moeite mee hadden met het te verstrekken aan meer dan enkele tientallen individuen.
+Het tweede principe is dat alle vormen van kapitaal even waardevol zijn. Dit betekent dat degenen die hun schaarse tijd en aandacht leveren door het produceren en selecteren van content voor anderen even waardevol zijn als degenen die hun schaarse geld bijdragen. Dit is het "sweat equity" principe[^2], een concept waar voorgaande cryptovaluta’s vaak moeite mee hadden bij de verstrekking aan meer dan enkele tientallen individuen.
 
-Het derde principe is dat de gemeenschap producten produceert om haar leden te dienen. Dit principe word geïllustreerd door credit unions, voedsel co-ops, en het delen van gezondheid plannen, welke hun leden dienen in plaats van het verkopen van producten en diensten aan mensen buiten de gemeenschap.
+Het derde principe is dat de gemeenschap producten produceert om haar leden te dienen. Dit principe word geïllustreerd door kredietverenigingen, voedselcoöperaties, en gedeelde gezondheidsplannen, die hun leden dienen in plaats van producten of diensten te verkopen naar mensen buiten de gemeenschap.
 
-De Steem gemeenschap bied de volgende diensten aan haar leden:
+De Steem gemeenschap biedt de volgende diensten aan haar leden:
 
 1. Een bron van geselecteerd nieuws en commentaar.
 2. Een middel om kwalitatieve antwoorden te krijgen op gepersonaliseerde vragen.
