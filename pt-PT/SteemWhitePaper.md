@@ -116,9 +116,9 @@ Market participants have access to information faster than the blockchain’s th
 
 Steem levels the playing field by requiring all conversion requests to be delayed for three and a half days. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
 
-### Minimizing Abuse of Conversions
+### Minimizando o abuso de conversões
 
-If people could freely convert in both directions then traders could take advantage of the blockchains conversion rates by trading large volumes without changing the price. Traders who see a massive run up in price would convert to SBD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SBD to STEEM and not the other way around.
+Se as pessoas podessem converter livremente em ambas as direções. então os comerciantes poderiam tirar vantagem das taxas de conversação por grandes volumes de negociação sem alterar o preço. Os comerciantes que vêm uma subida substancial no preço iriam converter para SBD no pico(quando é mais arriscado) e então voltar a converter após a correção. O protocolo Steem protege a comunidade deste tipo de abuso permitindo apenas as pessoas de converter de SBD para STEEM e não o contrário.
 
 The blockchain decides how and when to create SBD and who should get it. This keeps the rate of SBD creation stable and removes most avenues of abuse.
 
