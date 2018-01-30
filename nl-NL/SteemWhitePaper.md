@@ -32,9 +32,9 @@ De Steem gemeenschap biedt de volgende diensten aan haar leden:
 2. Een middel om kwalitatieve antwoorden te krijgen op gepersonaliseerde vragen.
 3. Een stabiele cryptovaluta gekoppeld aan de Amerikaanse dollar.
 4. Gratis betalingen.
-5. Jobs die bovenstaande diensten verstrekken aan andere leden.
+5. Banen die bovenstaande diensten verstrekken aan andere leden.
 
-Steem’s purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem’s incentives may result in better outcomes for most participants.
+Steem’s doelbewuste herschikking van economische stimulans heeft de potentie om eerlijker en meer inclusieve resultaten te produceren voor alle betrokkenen, dan de sociale media en cryptogeld platformen die het voorafgegaan zijn. This paper will explore the existing economic incentives and demonstrate how Steem’s incentives may result in better outcomes for most participants.
 
 ## Bijdrage Herkennen
 
