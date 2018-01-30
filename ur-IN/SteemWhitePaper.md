@@ -485,13 +485,13 @@ SBD ہولڈران کو سود ادا کرتا ہے. سود کی شرح ان ہ�
 
 خوردہ فروش کسی بھی کرنسی کو قبول کرلیں گے اگر وہ ان کی فروخت میں اضافہ کرتی ہو. ایک مستحکم کرنسی کے ساتھ صارف کی بڑی بنیاد جیسے کہ SBD کاروباری لوگوں کے داخلے میں رکاوٹ کو کم کرتا ہے. تاجروں کی موجودگی بغیر ایکسچینج کے استعمال کی پریشانی کے نظام سے باہر نکلنے کے لئے موقوف ڈھلان کی صارفین کے لئے تخلیق کر کے نظام کو بہتر بناتی ہے.
 
-Another way that people can liquidate the small amounts of cryptocurrency they receive from participating on the Steem platform is through *tipping* others. This is like leaving the small change as a tip for your waiter. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
+ایک اور طریقہ جس سے لوگ سٹیم پلیٹ فارم سے حاصل ہونے والی کرائیپٹوکرنسی کی چھوٹی مقدار کو نقد میں تبدیل کر سکتے ہیں وہ *انعام بخشش* ہے. یہ اپنے وہٹر کے لئے چھوٹا متبادل انعام بخشش کے طور پر چھوڑنے کی طرح ہے. جب کافی لوگ چھوٹا انعام دے جاتے ہیں تو وہ معنی خیز رقم بن جاتی ہے. آپ اور ویٹر ہر کوئی انعام بخشش سے فائدہ اٹھاتا ہے.
 
-## Censorship
+## احتساب
 
-Steem is a decentralized network that is operated by witnesses in jurisdictions around the world. All user actions are publicly recorded on the blockchain, and can be publicly verified. This means that there is no single entity that can censor content that is valued by STEEM holders.
+سٹیم ایک غیرمرکزی نیٹ ورک ہے جو کہ دنیا بھر میں گواہوں کے دائرہ کاروں کے ذریعے چلایا جاتا ہے. تمام صارف کے اعمال عوامی بلاکچین پر محفوظ کیے جاتے ہیں اور ان کی عوامی طور پر تصدیق کی جا سکتی ہے. اس کا مطلب یہ کہ کوئی واحد شخصیت کا وجود نہیں جو سٹیم ہولڈر کی طرف سے قدر دیے ہوئے مواد کا احتساب کرے.
 
-Individual websites such as steemit.com may censor content on their particular site, but content published on the blockchain is inherently broadcast traffic and mirrors all around the world may continue to make it available.
+انفرادی ویب سائٹ جیسے steemit.com اپنی خاص سائٹ پر مواد کا احتساب کر سکتی ہے لیکن بلاکچین پر شائع کردہ مواد جو خلقی طور پر نشر کیا جاتا ہے اور دنیا بھر میں دکھایا جاتا ہے، بلاکچین اسکی دستیابی جاری رکھ سکتا ہے.
 
 Freedom of speech is the foundation of all other liberties and any infringement upon freedom of speech undermines the only peaceful means of reaching consensus: discussion. Without free discussion voters cannot be fully informed, and uninformed voters are a greater threat to society than losing the right to vote. Censorship is a means of stealing votes through limiting public discourse. Steem is committed to enabling free speech and building a free society.
 
