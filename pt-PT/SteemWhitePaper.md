@@ -120,7 +120,7 @@ Steem levels the playing field by requiring all conversion requests to be delaye
 
 Se as pessoas podessem converter livremente em ambas as direções. então os comerciantes poderiam tirar vantagem das taxas de conversação por grandes volumes de negociação sem alterar o preço. Os comerciantes que vêm uma subida substancial no preço iriam converter para SBD no pico(quando é mais arriscado) e então voltar a converter após a correção. O protocolo Steem protege a comunidade deste tipo de abuso permitindo apenas as pessoas de converter de SBD para STEEM e não o contrário.
 
-The blockchain decides how and when to create SBD and who should get it. This keeps the rate of SBD creation stable and removes most avenues of abuse.
+O blockchain decide como e quando criar SBD e quem deve recebê-lo. Isto mantêm a taxa de criação de SBD estável e remove a maioria das vias de abuso.
 
 ### Sustainable Debt to Ownership Ratios
 
@@ -188,11 +188,11 @@ Assume there is a fixed amount of money to distribute, and that those who have a
 
 The naive voting process creates a N-Person Prisoner’s Dilemma[^5] whereby each individual voter has incentive to vote for themselves at the expense of the larger community goal. If every voter defects by voting for themselves then no currency will end up distributed and the currency as a whole will fail to gain network effect. On the other hand, if only one voter defects then that voter would win undeserved profits while having minimal effect on the overall value of the currency.
 
-#### Voting Abuse
+#### Abuso de voto
 
-Regardless of how much money any one individual has, there are always many other individuals with similar wealth. Even the wealthiest individual rarely has much more than the next couple wealthiest combined. Furthermore, those who have a large investment in a community also have the most to lose by attempting to game the voting system for themselves. It would be like the CEO of a company deciding to stop paying salaries so he could pocket all of the profits. Everyone would leave to work for other companies and the company would become worthless, leaving the CEO bankrupt rather than wealthy.
+Independentemente de quanto dinheiro um indivíduo tem, existem sempre outros indivíduos com uma riqueza semelhante. Mesmo o indivíduo mais rico raramente tem muito mais do que os seguintes indivíduos mais abastecidos juntos. Além disso, aqueles que têm um investimento amplo numa comunidade também têm mais a perder por tentar jogar o sistema de votação para eles. Seria como se o CEO de uma empresa decidisse parar de pagar salários para que ele podesse ficar com todos os lucros. Todos iriam sair para trabalhar noutras empresas e a empresa ficava sem valor, deixando o CEO falido em vez de rico.
 
-Fortunately, any work that is getting a large concentration of votes is also gaining the most scrutiny (publicity). Through the addition of *negative-voting* it is possible for many smaller stakeholders to nullify the voting power of collusive groups or defecting large stakeholders. Furthermore, large-stakeholders have more to lose if the currency falls in value due to abuse than they might gain by voting for themselves. In fact, honest large stakeholders are likely to be more effective by policing abuse and using negative voting than they would be by voting for smaller contributions.
+Felizmente, qualquer trabalho que está a ter uma grande concentração de votos também está a ganhar a maioria do escrutínio (publicidade). Through the addition of *negative-voting* it is possible for many smaller stakeholders to nullify the voting power of collusive groups or defecting large stakeholders. Furthermore, large-stakeholders have more to lose if the currency falls in value due to abuse than they might gain by voting for themselves. In fact, honest large stakeholders are likely to be more effective by policing abuse and using negative voting than they would be by voting for smaller contributions.
 
 The use of *negative-voting* to keep people from abusing the system leverages the *crab mentality* that many people have when it is perceived that one individual is profiting at the expense of everyone else. While crab mentality normally refers to short-sighted people keeping good people down, it is also what allows good people to keep bad people down. The only “problem” with crab mentality is when people *wrongly believe* someone is profiting at everyone else's expense.
 
