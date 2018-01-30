@@ -34,11 +34,11 @@ De Steem gemeenschap biedt de volgende diensten aan haar leden:
 4. Gratis betalingen.
 5. Banen die bovenstaande diensten verstrekken aan andere leden.
 
-Steem’s doelbewuste herschikking van economische stimulans heeft de potentie om eerlijker en meer inclusieve resultaten te produceren voor alle betrokkenen, dan de sociale media en cryptogeld platformen die het voorafgegaan zijn. This paper will explore the existing economic incentives and demonstrate how Steem’s incentives may result in better outcomes for most participants.
+Steem’s doelbewuste herschikking van economische stimulans heeft de potentie om eerlijker en meer inclusieve resultaten te produceren voor alle betrokkenen, dan de sociale media en cryptogeld platformen die het voorafgegaan zijn. Dit artikel zal de huidige economische stimulans verkennen, en demonstreren hoe Steem's stimulans kan zorgen voor betere resultaten voor de meeste deelnemers.
 
-## Bijdrage Herkennen
+## Bijdragen Erkennen
 
-Steem is van de grond af aan ontworpen om de belangrijkste belemmeringen voor adoptie en het maken van geld van een sociaal media gebaseerde economie aan te pakken. Onze stelling is dat dezelfde technieken die gebruikt worden voor de groei van grote sociale media platformen gebruikt kunnen worden om een succesvolle cryptovaluta op te starten. Economische stimulans mogelijk gemaakt door cryptogeld kan de groei van een nieuw sociaal media platform drastisch vergemakkelijken. Wij geloven dat het de synergie is tussen cryptogeld en sociale media dat Steem een krachtig voordeel kan geven in de markt.
+Steem is van de grond af aan ontworpen om de belangrijkste belemmeringen voor de adoptie en het maken van geld via een op sociale media gebaseerde economie, aan te pakken. Onze stelling is dat dezelfde technieken die gebruikt worden voor de groei van grote sociale media platformen gebruikt kunnen worden om een succesvolle cryptovaluta op te starten. Economische stimulans mogelijk gemaakt door cryptogeld kan de groei van een nieuw sociaal media platform drastisch versimpelen. Wij geloven dat het de synergie is tussen cryptogeld en sociale media dat Steem een krachtig voordeel kan geven in de markt.
 
 De uitdaging voor Steem is het afleiden van een algoritme voor het bijhouden van individuele bijdragen dat door de meeste leden van de gemeenschap word aanzien als een eerlijke overweging van de subjectieve waarde van elke bijdrage. In een perfecte wereld zouden leden van de gemeenschap samenwerken om elkaars bijdrage te beoordelen en een eerlijke compensatie af te leiden. In de echte wereld, moeten algoritmen ontworpen worden op een manier dat deze resistent zijn voor opzettelijke manipulatie voor winst. Elk wijdverspreid misbruik van het score systeem can leiden tot gemeenschapsleden die het geloof verliezen in de gepercipieerde eerlijkheid van het economisch systeem.
 
