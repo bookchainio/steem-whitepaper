@@ -106,7 +106,7 @@ Zelfs wanneer alle feed producenten eerlijk zijn, is het onmogelijk voor de meer
 
 Steem elimineert korte termijn prijsschommelingen door gebruik te maken van de gemiddelde prijs over een periode van drie en een halve dag. De gemiddelde gepubliceerde feed wordt elk uur op het uur beproeft.
 
-Zolang de prijs feed corruptie duurt voor minder dan de helft van het bewegend gemiddelde tijdsverloop zal het een minimale invloed hebben op de conversie prijs. In het geval dat de feed toch corrumpeert, zullen netwerk participanten de kans krijgen producenten van corrupte feed weg te stemmen voor de corrupte feed in staat is de werkelijke conversie prijs te beïnvloeden. Misschien van nog groter belang is dat het feed producers een kans geeft om problemen te detecteren en corrigeren nog voor hun feed de prijs begint te beïnvloeden.
+Zolang de prijs feed corruptie voor minder dan de helft van het bewegend gemiddelde tijdsverloop zal het en minimale impact op de omzetprijs hebben. In het geval dat de feed toch corrupt raakt, zullen netwerk participanten de kans krijgen producenten van corrupte feed weg te stemmen voor de corrupte feed in staat is de werkelijke omzetprijs te beïnvloeden. Misschien van nog groter belang is dat het feed producers een kans geeft om problemen te detecteren en corrigeren nog voor hun feed de prijs begint te beïnvloeden.
 
 With a three and a half day window, community members have approximately one and a half days to respond to any issues that come up.
 
