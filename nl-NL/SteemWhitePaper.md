@@ -82,9 +82,9 @@ In de cryptogeld wereld springen speculanten van valuta naar valuta, voornamelij
 
 Gebruikers zijn in staat hun STEEM in een dertien weken durende vestingsplan te stoppen, wat hen extra voordelen op het platform oplevert. STEEM dat in een dertien weken durend vestingsplan is gestopt, wordt Steem Power (SP) genoemd. SP saldi zijn niet overdraagbaar en niet deelbaar behalve via de automatisch terugkerende omzettingsaanvragen. Dit betekent dat SP niet gemakkelijk kan worden verhandeld op cryptogeld beurzen.
 
-When users vote on content, their influence over the distribution of the rewards pool is directly proportional to the amount of SP that they have. Users with more SP have more influence on the distribution of rewards. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
+Wanneer gebruikers op inhoud stemmen, is hun invloed op de distributie van de beloningen poel proportioneel met het aantal SP dat ze hebben. Gebruikers met meer SP hebben meer invloed op de verdeling van beloningen. Dit betekent dat SP een toegang token is dat de eigenaars exclusieve bevoegdheden geeft binnen het Steem platform.
 
-SP holders are also paid interest on the balance of SP that remains vested. 15% of the yearly inflation is paid to SP holders as interest. The amount of the interest that they receive is directly proportional to the amount of SP they hold relative to the total amount of vested SP across all users.
+SP houders worden tevens rente betaald over het SP saldo dat gevest blijft. 15% van de jaarlijkse inflatie wordt aan de SP houders betaald als rente. The amount of the interest that they receive is directly proportional to the amount of SP they hold relative to the total amount of vested SP across all users.
 
 Transferring from STEEM to SP is referred to as “powering up”, while transferring from SP to STEEM is referred to as “powering down.” SP that is powered down is returned to the user over a period of thirteen weeks, via 13 equal weekly payments, starting one week after the power down is initiated.
 
