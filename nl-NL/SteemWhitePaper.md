@@ -56,21 +56,21 @@ Omdat de vrije markt een bewezen systeem is, is het verleidelijk om te proberen 
 
 Steem is ontworpen om effectieve microbetalingen voor alle soorten bijdragen mogelijk te maken door het veranderen van de economische vergelijking. Lezers hoeven niet langer te beslissen of zij wel of niet iemand willen betalen uit hun eigen zak, in plaats daarvan kunnen ze inhoud omhoog of omlaag stemmen en Steem zal hun stemmen gebruiken om individuele beloningen te bepalen. Dit betekent dat mensen een bekende en veel gebruikte interface krijgen, en niet meer de cognitieve, financiële en alternatieve kosten die geassocieerd worden met traditionele microbetalingen en fooi platformen.
 
-Stemmen inbreng van leden van de gemeenschap is van cruciaal belang voor Steem om nauwkeurige betalingen toe te wijzen aan medewerkers. Stemmen kan daarom worden gezien als een cruciale bijdrage en zelf waardig voor beloningen. Some platforms, such as Slashdot, use meta-moderation[^3] as a way to rank and reward honest moderators. Steem kiest er voor degenen te belonen die het meest bijdragen aan de totale promotie van een stuk inhoud en beloond de kiezers proportioneel aan de ultieme beloning betaald aan de maker van de inhoud.
+Stemmen inbreng van leden van de gemeenschap is van cruciaal belang voor Steem om nauwkeurige betalingen toe te wijzen aan medewerkers. Stemmen kan daarom worden gezien als een cruciale bijdrage en zelf waardig voor beloningen. Sommige platformen, zoals Slashdot, gebruiken meta-moderatie [^3] als manier om rangorde te betalen en eerlijke moderatoren te belonen. Steem kiest er voor degenen te belonen die het meest bijdragen aan de totale promotie van een stuk inhoud en beloont de stemmers proportioneel aan de uiteindelijk betaalde beloning aan de maker van de inhoud.
 
 # Manieren Om Bij Te Dragen
 
-In dit gedeelte worden de ideeën achter Steem en de beloningen voor mensen die zorgen voor zinvolle en meetbare bijdrage van de Steem gemeenschap beschreven.
+In dit gedeelte worden de ideeën achter Steem en de beloningen voor mensen die zorgen voor zinvolle en meetbare bijdragen aan de Steem gemeenschap beschreven.
 
-## Bijdragen In Kapitaal
+## Bijdragen van Kapitaal
 
-Er zijn twee items dat een gemeenschap kan aanbieden voor het aantrekken van kapitaal: schuld en eigendom. Degenen die eigendom kopen genereren winst wanneer de gemeenschap groeit, maar verliezen wanneer de gemeenschap krimpt. Degenen die schuld kopen word een zekere mate van belang verzekerd maar kunnen niet deelnemen aan een winst gerealiseerd door de groei van de gemeenschap. Beide soorten bijdragen van kapitaal zijn waardevol voor de groei van de gemeenschap en de waarde van zijn munt. Daarnaast zijn er twee manieren hoe eigendom kan worden gehouden: liquiditeit en vestiging. Vestigingseigendom maakt een verbintenis op lange termijn en kan niet worden verkocht voor een minimale periode.
+Er zijn twee items die een gemeenschap kan aanbieden voor het aantrekken van kapitaal: schuld en eigendom. Degenen die eigendom kopen genereren winst wanneer de gemeenschap groeit, maar maken verlies wanneer de gemeenschap krimpt. Degenen die schuld kopen zijn verzekerd van een bepaald percentage rente maar kunnen geen deel nemen aan winst die ontstaat door groei van de gemeenschap. Beide soorten bijdragen van kapitaal zijn waardevol voor de groei van de gemeenschap en de waarde van zijn munt. Daarnaast zijn er twee manieren hoe eigendom kan worden gehouden: liquiditeit en vestiging. Vestigingseigendom maakt een verbintenis op lange termijn en kan niet worden verkocht tot na een bepaalde periode.
 
-The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SBD).
+Het Steem netwerk noemt deze verschillende bezitsklassen Steem (STEEM), Steem Power (SP) en Steem Dollars (SBD).
 
 ## Steem (STEEM)
 
-Steem is de fundamentele rekeneenheid op de Steem blockchain. Alle andere tokens ontlenen hun waarde aan de waarde van STEEM. STEEM is a liquid currency, and therefore can be bought or sold on exchanges, as well as transferred to other users as a form of payment.
+Steem is de fundamentele rekeneenheid op de Steem blockchain. Alle andere tokens ontlenen hun waarde aan de waarde van STEEM. STEEM is een liquide valuta en kan daarom worden gekocht of verkocht op beurzen, evenals overgedragen aan andere gebruikers als een vorm van betaling.
 
 ## Steem Power (SP)
 
