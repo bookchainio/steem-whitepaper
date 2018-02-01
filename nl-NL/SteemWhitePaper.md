@@ -24,7 +24,7 @@ Er zijn een aantal belangrijke principes gebruikt om het ontwerp van Steem te le
 
 Het tweede principe is dat alle vormen van kapitaal even waardevol zijn. Dit betekent dat degenen die hun schaarse tijd en aandacht leveren door het produceren en selecteren van content voor anderen even waardevol zijn als degenen die hun schaarse geld bijdragen. Dit is het "sweat equity" principe[^2], een concept waar voorgaande cryptovaluta’s vaak moeite mee hadden bij de verstrekking aan meer dan enkele tientallen individuen.
 
-Het derde principe is dat de gemeenschap producten produceert om haar leden te dienen. Dit principe word geïllustreerd door kredietverenigingen, voedselcoöperaties, en gedeelde gezondheidsplannen, die hun leden dienen in plaats van producten of diensten te verkopen naar mensen buiten de gemeenschap.
+Het derde principe is dat de gemeenschap producten produceert om haar leden te dienen. Dit principe wordt geïllustreerd door kredietverenigingen, voedselcoöperaties, en gedeelde gezondheidsplannen, die hun leden dienen in plaats van producten of diensten te verkopen naar mensen buiten de gemeenschap.
 
 De Steem gemeenschap biedt de volgende diensten aan haar leden:
 
@@ -50,9 +50,9 @@ Steem is ontworpen rondom een relatief eenvoudig concept: *Iedereens zinvolle bi
 
 De uitdaging is het creëren van een systeem dat in staat is te identificeren welke bijdragen nodig zijn en wat hun relatieve waarde is, op een manier die geschaald kan worden naar een oneindig aantal mensen.
 
-Een bewezen systeem voor het evalueren en belonen van bijdragen is de vrije markt. De vrije markt kan beschouwd worden als een enkele gemeenschap waar iedereen met elkaar handelt en beloningen worden toegewezen door winst en verlies. Het markt systeem beloont degenen die waarde leveren aan anderen en straft degenen die meer waarde verbruiken dan ze produceren. De vrije markt ondersteunt veel verschillende valuta en geld is simpelweg een product dat iedereen gemakkelijk vindt om uit te wisselen.
+Een bewezen systeem voor het evalueren en belonen van bijdragen is de vrije markt. De vrije markt kan beschouwd worden als een enkele gemeenschap waar iedereen met elkaar handelt en beloningen worden toegewezen door winst en verlies. Het marktsysteem beloont degenen die waarde leveren aan anderen en straft degenen die meer waarde verbruiken dan ze produceren. De vrije markt ondersteunt veel verschillende valuta en geld is simpelweg een product dat iedereen gemakkelijk vindt om uit te wisselen.
 
-Omdat de vrije markt een bewezen systeem is, is het verleidelijk om te proberen een vrije markt systeem te creëren waar consumenten van inhoud, producenten van inhoud rechtstreeks betalen. Echter, rechtstreekse betaling is inefficiënt en niet haalbaar voor het creëren van inhoud en selectie. De waarde van de meeste inhoud is zo laag ten opzichte van de cognitieve, financiële en alternatieve kosten geassocieerd met het maken van een betaling dat weinig lezers er voor kiezen om een fooi te geven. De overvloed aan gratis alternatieven betekent dat een 'paywall' gebruikers elders zal drijven. Er zijn verscheidene pogingen geweest per-artikel microbetalingen te implementeren van lezers naar gebruikers, maar geen daar van zijn wijdverspreid.
+Omdat de vrije markt een bewezen systeem is, is het verleidelijk om te proberen een vrije markt systeem te creëren waar consumenten van inhoud, producenten van inhoud rechtstreeks betalen. Echter, rechtstreekse betaling is inefficiënt en niet haalbaar voor het creëren van inhoud en selectie. De waarde van de meeste inhoud is zo laag ten opzichte van de cognitieve, financiële en alternatieve kosten geassocieerd met het maken van een betaling, dat weinig lezers er voor kiezen om een fooi te geven. De overvloed aan gratis alternatieven betekent dat een 'paywall' gebruikers elders zal drijven. Er zijn verscheidene pogingen geweest per-artikel microbetalingen te implementeren van lezers naar gebruikers, maar geen daar van zijn wijdverspreid.
 
 Steem is ontworpen om effectieve microbetalingen voor alle soorten bijdragen mogelijk te maken door het veranderen van de economische vergelijking. Lezers hoeven niet langer te beslissen of zij wel of niet iemand willen betalen uit hun eigen zak, in plaats daarvan kunnen ze inhoud omhoog of omlaag stemmen en Steem zal hun stemmen gebruiken om individuele beloningen te bepalen. Dit betekent dat mensen een bekende en veel gebruikte interface krijgen, en niet meer de cognitieve, financiële en alternatieve kosten die geassocieerd worden met traditionele microbetalingen en fooi platformen.
 
@@ -108,7 +108,7 @@ Steem elimineert korte termijn prijsschommelingen door gebruik te maken van de g
 
 Zolang de prijs feed corruptie voor minder dan de helft van het bewegend gemiddelde tijdsverloop zal het en minimale impact op de omzetprijs hebben. In het geval dat de feed toch corrupt raakt, zullen netwerk participanten de kans krijgen producenten van corrupte feed weg te stemmen voor de corrupte feed in staat is de werkelijke omzetprijs te beïnvloeden. Misschien nog van groter belang is dat het feed producers een kans geeft om problemen te detecteren en corrigeren nog voor hun feed de prijs begint te beïnvloeden.
 
-With a three and a half day window, community members have approximately one and a half days to respond to any issues that come up.
+Met een tijdvenster van drie en een halve dag hebben gemeenschapsleden ongeveer anderhalve dag om te reageren op eventuele problemen die ontstaan.
 
 ### Timing Aanvallen Matigen
 
