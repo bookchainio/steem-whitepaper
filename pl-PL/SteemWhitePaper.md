@@ -108,11 +108,11 @@ Platforma Steem uwzględnia krótkoterminowe fluktuacje cen uwzględniając medi
 
 Tak długo jak awaria ceny trwa poniżej połowy mediany czasu między jedną próbką a drugą, publikowana wartość będzie mieć minimalny wpływ na kurs. W momencie, gdy cena ulegnie korupcji, członkowie sieci będą mieć możliwość oddania głosu za oddaleniem skorumpowanych producentów kursu tak, aby niewłaściwy kurs nie miał możliwości wpływu na kurs wymiany. Mechanizm ten daje producentom kursu wymiany możliwość wczesnego wykrycia i skorygowania nieprawidłowości, zanim wpłyną one na wartość kursu.
 
-Z trzy i pół dniowym zapasem członkowie społeczności mają około półtora dnia, by odpowiedzieć na każdą kwestię jaka się pojawi.
+W ciągu trzech i pół dnia członkowie społeczności mają około półtora dnia, aby wypowiedzieć się w zakresie każdej kwestii.
 
 ### Łagodzenie ataków czasowych
 
-Użytkownicy giełd mają szybszy dostęp do informacji, niż trzy i pół dniowy bufor mediany kursu wartości oparty na technologii blockchain może w ogóle zareagować. Ta informacja może zostać użyta, by zyskać na wymianie kosztem społeczności. Jeżeli pojawia się gwałtowny wzrost wartości STEEM, inwestorzy mogliby złożyć propozycję wymiany ich SBD po starszych, niższych cenach a później sprzedać STEEM po nowszej, wyższej cenie tak, by otrzymać wyższy zysk przy zachowaniu minimalnego ryzyka.
+Użytkownicy giełd mają szybszy dostęp do informacji, dlatego trzy i pół dniowy bufor mediany kursu wartości oparty na technologii blockchain może nie zdążyć zareagować. Ta informacja może zostać użyta przez spekulantów, by wzbogacić się kosztem społeczności. W przypadku gwałtownego wzrostu wartości STEEM, inwestorzy mogliby złożyć propozycję wymiany ich SBD po starszych, niższych cenach. W ten sposób mogliby później sprzedać STEEM po nowszej, wyższej cenie tak, aby otrzymać wyższy zysk przy zachowaniu minimalnego ryzyka.
 
 Platforma wyrównuje szanse, wymagając, aby wszystkie żądania wymiany były opóźnione o trzy i pół dnia. Oznacza to, iż ani handlowcy, ani blockchain nie posiadają żadnej przewagi informacyjnej i nie są w stanie ocenić, jaka będzie wartość waluty w momencie wymiany.
 
