@@ -182,11 +182,11 @@ The first step in rewarding millions of users is to commit to distributing a fix
 
 The next step is to reward everyone who does anything even remotely positive with *something*. This is accomplished by ranking all work done and distributing proportionally to its value. The more competitive the market becomes, the more difficult (higher quality or quantity) it becomes to earn the same payout.
 
-### Voting on Distribution of Currency
+### Voto na distribuição da moeda
 
-Assume there is a fixed amount of money to distribute, and that those who have a long-term vested interest in the future value and utility of the currency are the ones who must decide how to allocate it. Every vesting user casts their votes on who did the best work and at the end of the day the available money for that day is divided proportional to the votes such that everyone with even one net positive vote gets something.
+Assuma que há uma quantia fixa de dinheiro para distribuir, e aqueles que têm um interesse a longo prazo no futuro valor e utilidade da moeda, são estes que devem decidir como alocá-la. Cada usuário de aquisição projeta seus votos em quem fez o melhor trabalho e no final do dia o dinheiro disponível para esse dia é dividido proporcional aos votos tal que todos, até os que só têm um voto positivo líquido obtém algo.
 
-The naive voting process creates a N-Person Prisoner’s Dilemma[^5] whereby each individual voter has incentive to vote for themselves at the expense of the larger community goal. If every voter defects by voting for themselves then no currency will end up distributed and the currency as a whole will fail to gain network effect. On the other hand, if only one voter defects then that voter would win undeserved profits while having minimal effect on the overall value of the currency.
+The naive voting process creates a N-Person Prisoner’s Dilemma[^5] whereby each individual voter has incentive to vote for themselves at the expense of the larger community goal. Se cada eleitor vota em si mesmo então nenhuma moeda vai acabar sendo distribuída e a moeda como um todo vai falhar em obter efeito na rede. On the other hand, if only one voter defects then that voter would win undeserved profits while having minimal effect on the overall value of the currency.
 
 #### Abuso de voto
 
