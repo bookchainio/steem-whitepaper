@@ -276,7 +276,7 @@ Fundamentalnym problemem naliczania opłat transakcyjnych jest to, że mikropła
 
 Wyobraźcie sobie sytuację, w której serwisy, których używamy codziennie, naliczałyby opłaty za każdym razem, gdy podejmujemy jakąś akcję, np. zmieniamy hasło. Użytkownicy oczekują, że pewne rzeczy pozostaną darmowe. Jeśli użytkownik musi za każdym razem zastanawiać się, czy podjęcie danego działania jest warte zapłacenia opłaty transakcyjnej, szybko opuści on platformę. Transakcja nie może być warta tak wiele, by użytkownik musiał się zastanawiać, czy warto ją podjąć, ale też nie nie może być warta zbyt mało, by mogła być ona podejmowana automatycznie. Zawsze Istnieje pewna obawa związana z kupowaniem czegoś. Wartość transakcji nie ma znaczenia. Ten strach nie nie ma żadnego związku z czasem czy sposobem przeprowadzenia transakcji, lecz z faktu podjęcia decyzji samej w sobie.
 
-Mikropłatności, jak wszystkie płatności wymagają porównania: *“Jak wiele X jest warte Y?”* Wszędzie istnieje minimalny mentalny koszt transakcji (z ang. minimum mental trasaction cost, przyp. tłum.) powodowany przez fakt, że transakcja nie może być zoptymalizowana, ponieważ jedyną transakcją jaką użytkownik zaakceptuje bez namysłu jest taka, która nic go nie kosztuje, co z kolei nie może być nazwane transakcją.
+Mikropłatności, podobnie jak wszystkie inne płatności, wymagają porównania: *“Ile X jest warte Y?”* Wszędzie istnieje minimalny mentalny koszt transakcji (z ang. minimum mental trasaction cost - przyp. tłum.). Wynika to z faktu, że transakcja nie może być zoptymalizowana, ponieważ jedyną transakcją jaką użytkownik zaakceptuje bez namysłu jest taka, która nic go nie kosztuje. Taka czynność z kolei nie może być nazwana transakcją.
 
 – Clay Shirky[^8]
 
@@ -344,15 +344,15 @@ Utrzymywanie minimalnego salda jest koniec końców tym samym mechanizmem, co wp
 
 Na szczęście, możemy ograniczyć wysokość minimalnego salda do wartości jednego dolara. Wydaje nam się, że jest to kwota, na którą użytkownicy mogą się zgodzić. Koszt utraty dochodu nie wpływa na koszt poznania tak jak w przypadku mikro opłat i jest o wiele bardziej akceptowalny dla użytkowników.
 
-STEEM używany do prefinansowania nowych kont jest przekazywany poprzez proces wzmocnienia jego siły (czyli w formie Steem Power). Porcja SP użyta do ufundowania nowego konta może być wydelegowana do niego z konta twórcy. Kiedy użytkownik posiada wydelegowane SP, może używać go w celu głosowania lub żądania przydziały przepustowości, tak jakby było to ich SP, jednak należy ono do użytkownika, które mu je wydelegował. Właściciel może usunąć delegację w każdej chwili. Kiedy upłynie wystarczająca ilość czasu SP jest zwracane właścicielowi.
+STEEM używany do finansowania nowych kont jest dokonywany poprzez oddelegowanie nowym użytkownikom pewnej ilości Steem Power. Porcja SP użyta do ufundowania nowego konta może być oddelegowana do niego z konta twórcy. Kiedy użytkownik posiada oddelegowane SP, może go używać w celu głosowania lub żądania przydziału przepustowości, tak jakby było to jego SP. W rzeczywistości jednak należy ono do użytkownika, które mu je oddelegował. Właściciel może usunąć delegację w każdej chwili. Kiedy upłynie wystarczająca ilość czasu SP jest zwracane właścicielowi.
 
 ### Efektywność relatywna do wysokości opłat
 
-By porównać efektywność stopy ograniczającej do wysokości opłat musimy porównać jak oba systemy reagują na zalew sieci przez atakującego. W sieci Bitcoin atakujący z saldem 10.000 dolarów byłby w stanie zakłócić działanie serwisu przez cały dzień, wypełniając każdy blok sieci. Ten sam atakujący nie byłby jednak w stanie zakłócić działania serwisu, wspieranego ograniczeniem opartym na mechanizmie częściowego podziału.
+By porównać efektywność dwóch mechanizmów: stopy ograniczającej i wysokości opłat, musimy sprawdzić, jak oba te systemy reagują na zalewanie sieci przez atakującego. W sieci Bitcoin atakujący z saldem 10.000 dolarów byłby w stanie zakłócić działanie serwisu przez cały dzień, wypełniając każdy blok sieci. Ten sam atakujący nie byłby jednak w stanie zakłócić działania serwisu, wspieranego ograniczeniem opartym na mechanizmie częściowego podziału.
 
-Jeśli weźmiemy pod uwagę bardziej skrajne przypadki i założymy że atakujący posiada 1% wartości całej gospodarki, wtedy musimy uznać, e dysponuje on kwotą 60 milionów dolarów. Wspomniany atakujący mógłby zablokować łańcuch bloków systemu Bitcoin na 16 lat, chyba że górnicy podwyższyliby opłaty lub jego pojemność. Nawet jeśli opłaty zostałyby podwyższone do 15$ za transakcję, atakujący mógłby wciąż blokować sieć przez ponad 16 dni.
+Jeśli weźmiemy pod uwagę bardziej skrajne przypadki i założymy że atakujący posiada 1% wartości całej gospodarki, wtedy musimy uznać, e dysponuje on kwotą 60 milionów dolarów. Wspomniany atakujący mógłby zablokować łańcuch bloków systemu Bitcoin na 16 lat, chyba że górnicy podwyższyliby opłaty lub przepustowość sieci. Nawet jeśli opłaty zostałyby podwyższone do 15$ za transakcję, atakujący mógłby wciąż blokować sieć przez ponad 16 dni.
 
-Przy podejściu opartym o stopę ograniczającą, ktoś kto byłby gotów poświęcić 1% całej gospodarki by zablokować sieć, osiągnąłby zamierzony cel na mniej niż 30 sekund.
+Przy podejściu opartym o stopę ograniczającą osoba, która nabyła 1% wszystkich coinów tylko po to, żeby zablokować sieć, byłaby w stanie zrobić to w czasie mniejszym niż 30 sekund.
 
 ### Wynajem, kupno czy umowa timeshare
 
