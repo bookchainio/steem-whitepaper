@@ -186,7 +186,7 @@ The next step is to reward everyone who does anything even remotely positive wit
 
 Assuma que há uma quantia fixa de dinheiro para distribuir, e aqueles que têm um interesse a longo prazo no futuro valor e utilidade da moeda, são estes que devem decidir como alocá-la. Cada usuário de aquisição projeta seus votos em quem fez o melhor trabalho e no final do dia o dinheiro disponível para esse dia é dividido proporcional aos votos tal que todos, até os que só têm um voto positivo líquido obtém algo.
 
-The naive voting process creates a N-Person Prisoner’s Dilemma[^5] whereby each individual voter has incentive to vote for themselves at the expense of the larger community goal. Se cada eleitor vota em si mesmo então nenhuma moeda vai acabar sendo distribuída e a moeda como um todo vai falhar em obter efeito na rede. On the other hand, if only one voter defects then that voter would win undeserved profits while having minimal effect on the overall value of the currency.
+The naive voting process creates a N-Person Prisoner’s Dilemma[^5] whereby each individual voter has incentive to vote for themselves at the expense of the larger community goal. Se cada eleitor vota em si mesmo então nenhuma moeda vai acabar sendo distribuída e a moeda como um todo vai falhar em obter efeito na rede. Por outro lado, se só um eleitor votar deficientemente então esse eleitor teria lucros não merecidos isso tendo efeitos mínimos sobre o valor global da moeda.
 
 #### Abuso de voto
 
