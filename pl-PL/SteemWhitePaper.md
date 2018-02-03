@@ -324,17 +324,17 @@ Jeśli założymy, że użytkownicy z saldem BTC o wartości 25$ dokonują trans
 
 ### Proces tworzenie konta
 
-Fakt, że na platformie Steem wartość portfela wszystkich użytkowników jest powszechnie znana, upraszcza wdrażanie algorytmu ograniczania opartego o przepustowość. Każde konto z portfelem poniżej określonego minimum wymaganego do przeprowadzenia transakcji raz na tydzień będzie niezdolne do jakiegokolwiek działania. Powoduje to, że wszystkie nowe konta powinny być tworzone wraz z ufundowaniem owego minimalnego balansu. Oznacza to również, że użytkownicy chcący dokonywać transakcji w mniejszych ilościach mogą to zrobić, tak długo, jak posiadają stan większy niż minimalny oraz używają konta.
+Fakt, że na platformie Steem wartość portfela wszystkich użytkowników jest powszechnie znana, upraszcza wdrażanie algorytmu ograniczania opartego o przepustowość. Każde konto z portfelem poniżej określonego minimum wymaganego do przeprowadzenia transakcji raz na tydzień będzie niezdolne do jakiegokolwiek działania. Powoduje to, że wszystkie nowe konta powinny być tworzone wraz z ufundowaniem owego minimalnego balansu. Oznacza to również, że użytkownicy, którzy chcą dokonywać transakcji w mniejszych ilościach, mogą to zrobić tak długo, jak używają konta, zaś stan ich portfela jest wyższy niż minimalny.
 
-Możliwym jest, by konto o niskim saldzie założone podczas czasu niskiego obciążenia stało się niezdatne do użytku, jeśli obciążenie sieci wzrośnie. W takim wypadku jego fundusze mogą zostać odzyskane poprzez tymczasowe wydelegowanie na rzecz konta większej sumy, by osiągnąć niezbędne minimum.
+Moża też wyobrazić sobie sytuację, w której konto o niskim saldzie założone podczas czasu niskiego obciążenia, stało się niezdatne do użytku w przypadku wzrostu obciążenia sieci. W takim wypadku można będzie odzyskać fundusze zgromadzone na takim koncie poprzez tymczasowe oddelegowanie na jego rzecz większej sumy po to, aby osiągnąć niezbędne minimum.
 
-By doświadczenie z użytkowania platformy pozostało na rozsądnym poziomie jednocześnie minimalizując ilość martwych kont, wszyscy nowy użytkownicy powinni zaczynać z saldem dziesięciokrotnie większym niż minimum transakcyjne. Tym sposobem, nawet jeśli popyt wzrośnie dziesięciokrotnie, konto nadal będzie rentowne.
+Aby dać użytkownikowi czas na nabycie doświadczenia na platformie, jednocześnie minimalizując ilość martwych kont, wszyscy nowy użytkownicy powinni zaczynać z saldem dziesięciokrotnie większym niż minimum transakcyjne. Tym sposobem, nawet jeśli popyt wzrośnie dziesięciokrotnie, konto nadal będzie rentowne.
 
 Owe początkowe saldo musi wywodzić się ze strony użytkownika, nie platformy, aby zapobiec nadużyciom opartym o tworzenie dużej ilości kont w celu korzyści dla jednostki.
 
 ### Powód obecności minimalnego salda
 
-Koncept zmuszenia użytkownika do zainwestowania minimalnego wkładu wywodzi się wartości użytkownika[^10]. Każdy mający styczność z biznesem wie, że każdy użytkownik ma znaczącą wartość. Firmy potrafią wydać od 30 do 200 dolarów, by przyciągnąć do siebie użytkownika. Czasem płacą nam bezpośrednio, czasem poprzez reklamę, lecz wciąż inwestują swój wkład byśmy przekonali się do ich platformy. Po tym, jak firma zdobywa użytkownika, często oferuje mu wiele *darmowych usług* tylko po to, by zatrzymać go wystarczająco długo, żeby zmonetyzować go w inny sposób.
+Koncept zmuszenia użytkownika do zachowania minimalnego salda na platformie wywodzi się wartości użytkownika[^10]. Każdy mający styczność z biznesem wie, że każdy użytkownik ma znaczącą wartość. Firmy potrafią wydać od 30 do 200 dolarów, by przyciągnąć do siebie użytkownika. Czasem płacą oni użytkownikom bezpośrednio, czasem w formie reklamie reklamę, a czasami kupują całe firmy tylko po to, żeby wykorzystywać należące do nich bazy użytkowników. Po tym, jak firma zdobywa użytkownika, często oferuje mu wiele *darmowych usług* tylko po to, by zatrzymać go wystarczająco długo, żeby zmonetyzować go w inny sposób.
 
 Ripple używa podobnego rozwiązania minimalnego salda [^11], które skaluje się wraz z zasobami konta i wymaga od nowych kont posiadania wcześniej wspomnianego minimalnego salda. Obecnie wynosi ono około 15 centów, co i tak jest kwotą wyższą niż oszacowane przez na 10 centów, które pozwoliłoby użytkownikowi dokonywać transakcji bez opłat co mniej raz w tygodniu.
 
