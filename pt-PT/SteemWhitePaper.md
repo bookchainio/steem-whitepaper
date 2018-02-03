@@ -515,7 +515,7 @@ Creators posting to social media outlets that are connected to Steem may monetiz
 
 # Conclusão
 
-Steem é uma experiência feita para enfrentar desafios nas indústrias de criptomoedas e meios de comunicação por combinar os melhores aspetos de ambos. Steem apresenta oportunidades de ganhos para criadores de conteúdo e leitores da internet em maneiras que não existem dentro da indústria dos meios de comunicação. Dentro da Steem, indivíduos ganham verdadeiras recompensas online que são diretamente proporcionais ás suas contribuições. Those rewards may have dollar value due to the market price discovery and liquidity of Steem, and the people who hold Steem may have more exclusive earning powers than those who do not.
+Steem é uma experiência feita para enfrentar desafios nas indústrias de criptomoedas e meios de comunicação por combinar os melhores aspetos de ambos. Steem apresenta oportunidades de ganhos para criadores de conteúdo e leitores da internet em maneiras que não existem dentro da indústria dos meios de comunicação. Dentro da Steem, indivíduos ganham verdadeiras recompensas online que são diretamente proporcionais ás suas contribuições. Essas recompensas podem ter valor em dólar devido á descoberta do preço de mercado e liquidez do Steem, e as pessoas que detêm Steem podem ter mais ganhos potenciais exclusivos do que aqueles que não detêm Steem.
 
 [^1]: Reddit’s Cryptocurrency, Forbes, Erika Morphy, October 2014 http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/\#4e07b05332b9
 
