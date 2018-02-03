@@ -471,11 +471,11 @@ A social network can maximize the value extracted from a set of content by maxim
 
 By incentivising curation the Steem network is able to use automated algorithms to extract the most valuable information from a massive amount of content.
 
-## Solving the Cryptocurrency Onboarding Problem
+## Resolvendo o problema de integração em Criptomoedas
 
-It isn’t easy to get into cryptocurrency[^21]. Someone who discovers Bitcoin and wants to try it out quickly learns that they will need to sign up with an exchange and fund their account with a credit card or wire transfer. What would Facebook’s adoption rate have been like if you had to fork over money and a two forms of ID?
+Não é fácil entrar em cryptocurrency[^21]. Alguém que descobre a Bitcoin e quer experimentá-la rapidamente aprende que precisam de se inscrever com um intercâmbio e depositar fundos na sua conta com cartão de crédito ou transferência bancária. What would Facebook’s adoption rate have been like if you had to fork over money and a two forms of ID?
 
-Steem solves this problem by giving everyone a way to get paid for doing simple, but valuable, tasks. This will help to widely distribute STEEM tokens. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless.)
+Steem resolve este problema dando a todos uma maneira de serem pagas por fazerem tarefas simples, mas valiosas. Isto vai ajudar a distribuir amplamente STEEM tokens. Isto é útil porque criptomoedas têm um efeito de rede(ou seja, mais usuários fazem-na mais útil, por exemplo, considera que se Satoshi ficasse com 100% da Bitcoin para ele mesmo, a Bitcoin seria inútil.)
 
 ## Solving the Cryptocurrency Liquidation Problem
 
@@ -513,9 +513,9 @@ Under most content monetization models, content creators leverage advertising in
 
 Creators posting to social media outlets that are connected to Steem may monetize merely by having their work recognized (or ”liked”) by the Steem community. Blockchain-based payouts are completely digital and have no middle-man. Therefore monetization by blockchain-based content rewards should be faster and much lower barrier to use than monetization by advertisements.
 
-# Conclusion
+# Conclusão
 
-Steem is an experiment designed to address challenges in the cryptocurrency and social media industries by combining the best aspects from both. Steem presents earning opportunities to content creators and internet readers in ways that have not existed within the social media industry. Within Steem, individuals earn real rewards online that are directly correlated to their contributions. Those rewards may have dollar value due to the market price discovery and liquidity of Steem, and the people who hold Steem may have more exclusive earning powers than those who do not.
+Steem é uma experiência feita para enfrentar desafios nas indústrias de criptomoedas e meios de comunicação por combinar os melhores aspetos de ambos. Steem apresenta oportunidades de ganhos para criadores de conteúdo e leitores da internet em maneiras que não existem dentro da indústria dos meios de comunicação. Dentro da Steem, indivíduos ganham verdadeiras recompensas online que são diretamente proporcionais ás suas contribuições. Those rewards may have dollar value due to the market price discovery and liquidity of Steem, and the people who hold Steem may have more exclusive earning powers than those who do not.
 
 [^1]: Reddit’s Cryptocurrency, Forbes, Erika Morphy, October 2014 http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/\#4e07b05332b9
 
