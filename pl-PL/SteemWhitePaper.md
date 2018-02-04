@@ -28,17 +28,17 @@ Trzecia zasada brzmi, iż społeczność wytwarza produkty, które mają za zada
 
 Społeczność Steem dostarcza swoim członkom następujące usługi:
 
-1. - jest źródłem wiadomości i komentarzy, które podlegają ocenie innych użytkowników
-2. - dostarcza środków do uzyskania wartościowych odpowiedzi na spersonalizowane pytania
-3. - wypuszcza stabilną kryptowalutę, której wartość jest ustalana w ścisłym odniesieniu do amerykańskiego dolara
-4. - umożliwia darmowe płatności
-5. - poprzez wyżej wymienione usługi zapewnia swoim użytkownikom miejsca pracy
+1. Jest źródłem wiadomości i komentarzy, które podlegają ocenie innych użytkowników.
+2. Dostarcza środków do uzyskania wartościowych odpowiedzi na spersonalizowane pytania.
+3. Wypuszcza stabilną kryptowalutę, której wartość jest ustalana w ścisłym odniesieniu do amerykańskiego dolara.
+4. Umożliwia darmowe płatności.
+5. Poprzez wyżej wymienione usługi zapewnia swoim użytkownikom miejsca pracy.
 
-Dzięki wykorzystaniu bodźców ekonomicznych, Steem ma potencjał, aby przynieść swoim użytkownikom dużo większe i bardziej sprawiedliwe korzyści niż wszystkie wcześniejsze serwisy społecznościowe i platformy kryptowalut. Ten dokument zgłębi istnięjące ekonomiczne bodźce i zademonstruje, jak cechy platformy Steem mogą doprowadzić do osiągnicia pozytywnych rezultatów przez użytkowników serwisu.
+Dzięki wykorzystaniu bodźców ekonomicznych, Steem ma potencjał, aby przynieść swoim użytkownikom dużo większe i bardziej sprawiedliwe korzyści niż wszystkie wcześniejsze serwisy społecznościowe i platformy kryptowalut. W tym dokumencie zastanowimy się, jakie bodźce ekonomiczne wpływają na pochodzenie danego projektu. Zaprezentujemy także cechy platformy Steem, które mogą doprowadzić do osiągnięcia pozytywnych rezultatów przez użytkowników serwisu.
 
 ## Rozpoznawanie wkładu
 
-Steem został zaprojektowany od podstaw w ten sposób, żeby przełamać większość barier w drodze do przyjęcia i monetaryzacji ekonomii opartej o media społecznościowe. Według nas, techniki, które pozwoliły na rozwój największych serwisów społecznościowych, mogą zostać użyte do stworzenia kryptowaluty, która ma szansę odnieść sukces. Wynagradzanie użytkowników poprzez wypłacanie im ngród w postaci kryptowaluty może diametralnie ułatwić rozwój nowej platformy społecznościowej. Synergia pomiędzy kryptowalutą a mediami społecznościowymi jest czymś, co może według nas dać ekosystemowi Steem potężną przewagę na rynku.
+Steem został zaprojektowany od podstaw w ten sposób, żeby przełamać większość barier w drodze do przyjęcia i monetyzacji ekonomii opartej o media społecznościowe. Według nas, techniki, które pozwoliły na rozwój największych serwisów społecznościowych, mogą zostać użyte do stworzenia kryptowaluty, która ma szansę odnieść sukces. Wynagradzanie użytkowników poprzez wypłacanie im nagród w postaci kryptowaluty może diametralnie ułatwić rozwój nowej platformy społecznościowej. Synergia pomiędzy kryptowalutą i mediami społecznościowymi jest czymś, co może według nas dać ekosystemowi Steem potężną przewagę na rynku.
 
 Wyzwaniem, przed którym stoi Steem jest stworzenie takiego algorytmu oceniającego wkład, który zdaniem większości członków społeczności były sprawiedliwy i oddający wysiłek, który został rzeczywiście wniesiony w stworzenie danego wpisu. W idealnym świecie, członkowie społeczności współpracowaliby ze sobą, oceniając wkład innych osób oraz zapewniając im sprawiedliwe wynagrodzenie za ich pracę. Jednak w prawdziwym świecie należy zaprojektować algorytmy, które będą odporne na międzynarodowe manipulacje finansowe. Powszechne nadużywanie systemu oceniania mógłby spowodować, że członkowie społeczności utraciliby wiarę w realną sprawiedliwość systemu ekonomicznego.
 
