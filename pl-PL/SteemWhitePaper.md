@@ -34,7 +34,7 @@ Społeczność Steem dostarcza swoim członkom następujące usługi:
 4. - umożliwia darmowe płatności
 5. - poprzez wyżej wymienione usługi zapewnia swoim użytkownikom miejsca pracy
 
-Celowa reorganizacja bodźców ekonomii Steem ma potencjał do produkowania bardziej kompletnych i sprawiedliwych rezultatów dla każdego zaangażowanego w media społecznościowe i platformy krytowalut bardziej niż kiedykolwiek wcześniej. Ten dokument zgłębi istnięjące ekonomiczne bodźce i zademonstruje, jak cechy platformy Steem mogą doprowadzić do osiągnicia pozytywnych rezultatów przez użytkowników serwisu.
+Dzięki wykorzystaniu bodźców ekonomicznych, Steem ma potencjał, aby przynieść swoim użytkownikom dużo większe i bardziej sprawiedliwe korzyści niż wszystkie wcześniejsze serwisy społecznościowe i platformy kryptowalut. Ten dokument zgłębi istnięjące ekonomiczne bodźce i zademonstruje, jak cechy platformy Steem mogą doprowadzić do osiągnicia pozytywnych rezultatów przez użytkowników serwisu.
 
 ## Rozpoznawanie wkładu
 
