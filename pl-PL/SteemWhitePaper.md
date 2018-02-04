@@ -457,13 +457,13 @@ Podejmowanie decyzji ekonomicznych stanowi dla większości ludzi swojego rodzaj
 
 -Mikropłatności: opłacalny model biznesowy[^20]
 
-Wewnątrz platformy Steem, mikropłatności są dokonywane na rzecz twórców treści, lecz użytkownicy nie płacą za to, że głosują na dane wpisy. Zamiast tego, nagrody wypłacane są poprzez nowo stworzone tokeny. Każdy może dołączyć do systemu, zagłosować na jakiś wpis i zrezygnować z używania platformy, wynosząc z niej większą ilość pieniędzy, niż ta, z którą zaczął (zakładając, że wartość rynkowa systemu Steem pozostanie przez cały czas stabilna). Innymi słowy, rozwiązanie oparte o mikropłatności dostarczane przez Steem zapewnia podobne odczucia użytkownika do stron, które oparte są o treść moderowaną przez użytkowników.
+Wewnątrz platformy Steem, mikropłatności są dokonywane na rzecz twórców treści, lecz użytkownicy nie płacą za to, że głosują na dane wpisy. Zamiast tego, nagrody wypłacane są poprzez nowo stworzone tokeny. Każdy może dołączyć do systemu, zagłosować na jakiś wpis i zrezygnować z używania platformy, wynosząc z niej większą ilość pieniędzy, niż ta, z którą zaczął (zakładając, że wartość rynkowa systemu Steem pozostanie przez cały czas stabilna). Innymi słowy, dostarczane przez Steem rozwiązanie, oparte o mikropłatności, zapewnia odczucia podobne do tych, których doświadczają internauci korzystający ze stron moderowanych przez użytkowników.
 
-Co więcej, platforma Steem płaci ludziom, którzy rozumieją, kto powinien zostać nagrodzony! Taki system myślenia jest rewolucyjny.
+Co więcej, platforma Steem płaci ludziom za to, że oceniają, to powinien zostać nagrodzony. Ten system myślenia jest rewolucyjny.
 
 ## Wartość tkwi w połączeniach
 
-Sieć Internet straciłaby zdecydowaną większość wartości, gdyby wszystkie odnośniki (z ang. links, przyp. tłum.) łącące treść zostały usunięte. Jest to relacja między stronami internetowymi, która pozwala wyszukiwarce Google znaleźć najlepszy przepis na szarlotkę z spośród 16 milionów innych. Bez linków jedyną informacją jaką dysponowałoby Google to częstotliwość występowania danego słowa.
+Internet straciłby zdecydowaną większość swojej wartości, gdyby wszystkie linki zostały z niego usunięte. Jest to relacja między stronami internetowymi, która pozwala wyszukiwarce Google znaleźć najlepszy przepis na szarlotkę z spośród 16 milionów innych. Bez linków jedyną informacją jaką dysponowałoby Google to częstotliwość występowania danego słowa.
 
 Odnośniki mogą przyjmować wiele form oraz dostosowywać się wraz z upływem czasu. Za każdym razem, kiedy użytkownik głosuje na treść i medium społecznościowym dodawane jest połączenie między użytkownikiem a treścią. To z kolei łączy konsumenta i twórcę poprzez zawartość. Im więcej połączeń posiada sieć, tym bardziej wartościowa staje się informacja w niej zawarta. To jest względne i celowe powiązanie informacji, które nadaje jej wartość.
 
@@ -515,7 +515,7 @@ Twórcy publikujący treść za pomocą serwisów społecznościowych połączon
 
 # Wnioski
 
-Platforma Steem jest eksperymentem zaprojektowanym, by rozwiązać problemy kryptowalut oraz mediów społecznościowych poprzez połączenie ich najlepszych. Platforma Steem prezentuje możliwości zarobku dla twórców treści i Internetowych czytelników w sposób, który nie istniał dotąd w branży mediów społecznościowych. Wewnątrz sieci Steem jednostki otrzymują nagrody przez Internet, których wysokość stoi w bezpośrednim związku z ich wkładem dla platformy. Nagrody te mogą mieć wartość wartość dolara z powodu ceny rynkowej oraz płynności waluty Steem. Wpływa na to także fakt, że ludzie, którzy posiadają ową walutę mają więcej ekskluzywnych możliwości, niż Ci, którzy jej nie posiadają.
+Platforma Steem jest eksperymentem zaprojektowanym, by rozwiązać problemy kryptowalut oraz mediów społecznościowych poprzez połączenie ich najlepszych. Platforma Steem daje twórcom i czytelnikom możliwość zarobienia pieniędzy w sposób, który nie istniał dotąd w branży mediów społecznościowych. Wewnątrz sieci Steem jednostki zarabiają przez internet realne pieniądze, których wysokość stoi w bezpośrednim związku z ich wkładem na rzecz platformy. Nagrody te mogą mieć wartość wartość dolara z powodu ceny rynkowej oraz płynności waluty Steem. Ludzie, którzy posiadają ową walutę mają także więcej ekskluzywnych możliwości zarobkowych, niż Ci, którzy jej nie posiadają.
 
 [^1]: Reddit’s Cryptocurrency, Forbes, Erika Morphy, October 2014 http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/\#4e07b05332b9
 
