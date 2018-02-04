@@ -411,11 +411,11 @@ Nagrody za wkład ze strony użytkownika:
 
 ### Nagrody oparte o Steem Power:
 
-- Nagrody oparte o Steem Power: Na każdą sztukę STEEM wytworzoną poprzez powyższe nagrody przypada 9 STEEM do podziału przez wszystkich posiadaczy Steem Power.
+- Nagrody oparte o Steem Power: Na każdą sztukę STEEM wytworzoną poprzez powyższe nagrody przypada 9 STEEM do podziału pomiędzy wszystkich posiadaczy Steem Power.
 
 ### Operacje na SBD:
 
-- Nagrody oparte na SBD: Procent wartości SBD wytworzony podczas ustalenia rocznej stawki oprocentowania (z ang. Annual Percentage Rate, przyp. tłum.) przez strażników, i wypłacane jako SBD posiadaczom SBD
+- Nagrody oparte na SBD: Procent wartości SBD wytworzony podczas ustalenia rocznej stawki oprocentowania (z ang. Annual Percentage Rate -przyp. tłum.) przez świadków i wypłacane jako SBD posiadaczom SBD
 
 Całościowy proces dostarczania jest skomplikowany przez operacje oparte na SBD, które mogą skutkować wytwarzaniem go na dużą skalę, lub zniszczeniem STEEM poprzez szybkość dostarczania oraz rozpropagowywania SBD, co jest głębiej opisane w rozdziale traktującym o SBD. Istnieją także inne efekty komplikujące proces na mniejszą skalę, wliczając w to niezebrane podmioty zachęty (na przykład nagrody za pominięte bloki), lub porzucone konta.
 
@@ -437,11 +437,11 @@ Cena dóbr cyfrowych, takich jak STEEM jest podyktowana zarówno popytem jak i p
 
 # Moc Steemu
 
-Platforma Steem uważa, że połączona wartość wkładu użytkowników (treści i głosów) jest większa niż suma pojedynczych części. Jeden pojedynczy komentarz nic nie znaczy, lecz miliony ocenianych postów jest warte miliony (może i nawet miliardy) dolarów. Jeden głos wnosi niewielką wartość oceny, ale miliardy głosów są bardzo efektywnym systemem oceny. Zawartość bez oceny ma ograniczoną wartość. Gdyby Google dostało całą zawartość Internetu, odejmując od tego odnośniki łączące treść, firma miałaby olbrzymi problem z wyprodukowaniem wartościowych wyników wyszukiwania. To linki łączące informacje odgrywają tutaj kluczową kwestię.
+Platforma Steem przyjmuje, że połączona wartość wszystkich wkładów wniesionych przez użytkowników, a więc stworzonych przez nich wpisów i oddanych przez nich głosów, jest większa niż suma pojedynczych części. Jeden pojedynczy komentarz nic nie znaczy, lecz miliony ocenianych postów jest warte miliony (może i nawet miliardy) dolarów. Jeden głos nie przesądza o niczym, ale miliardy głosów są bardzo efektywnym systemem oceny wpisów. Zawartość bez oceny ma ograniczoną wartość. W internecie znajduje się tak dużo danych, że gdyby nagle zlikwidować linki, Google nie byłoby w stanie dostarczyć ludziom użytecznych wyników wyszukiwania. To linki łączące informacje odgrywają tutaj kluczową rolę.
 
-Ponieważ każdy zyskuje, każdy powinien płacić. Innymi słowy, nie powinno się oczekiwać od indywidualnego użytkownika Steem zapłaty za cokolwiek, zamiast tego powinno się płacić mu za wszystko co wprowadza wartość do platformy Steem. Wszystko czego potrzebujemy do sprawdzenia, którzy urzytkownicy przyczyniają się społeczności, a którzy nie.
+Ponieważ każdy zyskuje, każdy powinien płacić. Innymi słowy, nie powinno się oczekiwać od indywidualnego użytkownika Steem zapłaty za cokolwiek. Zamiast tego powinno się płacić mu za wszystko to, robi i co przynosi korzyść platformie. Wszystko, czego potrzebujemy, to sprawdzenie, którzy użytkownicy przyczyniają się do rozwoju społeczności, a którzy nie.
 
-Łącznie, użytkownicy Reddita głosują 220 razy i tworzą 23 posty na sekundę. Reddit jest wart między 500 milionów[^18] a 4 miliardy dolarów[^19], co oznacza, że każdy aprobujący głos z osobna jest warty między 0.06$ a 0.50$ zakładając, że wartość platformy Reddit wywodzi się głównie z aktywności z ostatniego roku. Niektórzy mogliby twierdzić, że wartość serwisu Reddit wynika z dyskusji prowadzonych niemalże w czasie rzeczywistym, które pojawiły się w ciągu ostatniego tygodnia, znacząco zwiększając wartość nowo-powstałej treści. Ludzie chodzą tam, gdzie inni są dzisiaj, a nie tam, gdzie byli w zeszłym roku.
+Łącznie, użytkownicy Reddita głosują 220 razy w ciągu sekundy i tworzą 23 posty na sekundę. Reddit jest wart między 500 milionów[^18] a 4 miliardy dolarów[^19], co oznacza, że każdy aprobujący głos z osobna jest warty między 0.06$ a 0.50$ zakładając, że wartość platformy Reddit wywodzi się głównie z aktywności z ostatniego roku. Niektórzy mogliby twierdzić, że wartość serwisu Reddit wynika z dyskusji prowadzonych niemalże w czasie rzeczywistym, które pojawiły się w ciągu ostatniego tygodnia, znacząco zwiększając wartość nowo-powstałej treści. Ludzie chodzą tam, gdzie inni są dzisiaj, a nie tam, gdzie byli w zeszłym roku.
 
 ## Brak mikropłatności, napiwki wedle uznania
 
