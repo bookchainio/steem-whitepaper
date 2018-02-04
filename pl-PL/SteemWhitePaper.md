@@ -212,7 +212,7 @@ Budowanie społeczności ma na celu jest sprowadzenie jak większej ilości “k
 
 ### Ograniczona częstotliwość głosowania
 
-Znaczącą częścią minimalizowania nadużyć jest ograniczenie głosowania stopą (z ang. rate-limiting of voting). Indywidualni użytkownicy mogą w ciągu dnia przeczytać i ocenić tylko ograniczoną ilość wpisów. Próba głosowania częściej jest oznaką automatyzacji i potencjalnego nadużycia. Poprzez ograniczenia, głos udziałowców, którzy głosują częściej ma mniejszą siłę niż tych, którzy oddają swój głos rzadziej. Próby podziału tokenów między wiele kont dzieli także wpływ, więc nie skutkuje w globalnym przyroście wpływu. Nie omija także limitu czasowego związanego z głosowaniem.
+Możliwość nadużywania systemu zmniejszona poprzez czasowe ograniczenie możliwości głosowania (z ang. rate-limiting of voting), które przynosi dochód innym użytkownikom. Indywidualni użytkownicy mogą w ciągu dnia przeczytać i ocenić tylko ograniczoną ilość wpisów. Próba głosowania częściej jest oznaką automatyzacji i potencjalnego nadużycia. Poprzez ograniczenia, głos udziałowców, którzy głosują częściej ma mniejszą siłę niż tych, którzy oddają swój głos rzadziej. Próby podziału tokenów między wiele kont dzieli także wpływ, więc nie skutkuje w globalnym przyroście wpływu. Nie omija także limitu czasowego związanego z głosowaniem.
 
 Użytkownicy dzielą stałą ilość siły głosu (z ang. voting power - przyp. tłum.). Siła głosu jest mnożona przez nadane użytkownikowi tokeny (z ang. vesting tokens), które determinują ile udziałów w puli nagród (z ang. reward pool) powinno zostać przydzielone do danego elementu. Ky głos zużywa części siły głosu (z ang. voting power - przyp. tłum.). Użytkownicy mogą głosować na wiele wpisów (z ang. post - przyp. tłum.), jednak każdy każdy kolejny głos będzie wart coraz mniej, a proces przywracania pełnej siły głosu będzie zajmował coraz więcej czasu. Siła głosu doładowuje się każdego dnia o 20%.
 
@@ -256,7 +256,7 @@ Na platformie Steem produkcja bloków odbywa się w systemie rundowym. Dla każd
 
 Proces ten jest zaprojetowany tak, by dostarczać maksymalną wierzytelność przy jednoczesnym zachowaniu pewności, że każdy ma potencjał do produkcji bloków bez względu na jego popularność. Ludzie mają trzy opcje przezwyciężania cenzury narzuconej przez 20 wybranych świadków: cierpliwie poczekać w kolejce z każdym innym użytkownikiem, który nie należy do grupy 20 największych, lub nabyć więcej SP, by zwiększyć swoją siłę głosu. Ogólnie rzecz biorąc, stosowanie cenzury jest bardzo dobrą drogą dla wybranych świadków do utraty posady, czego konsekwencją jest ograniczenie problemu cenzury w sieci Steem do statystycznego minimum.
 
-Jako, że aktywni świadkowie znani są z wyprzedzeniem, platforma Steem jest zdolna jest do rozplanowywania procesu tworzenia przez nich bloków co 3 sekundy. Świadkowie synchronizują swoją produkcję bloków poprzez protokół NTP. Odmiana tego algorytmu była używana w sieci BitShares przez ponad rok, gdzie udowodniła swoją niezawodność.
+Jako, że z wyprzedzeniem wiadomo, kim są aktywni świadkowie, platforma Steem może tak rozplanować proces tworzenia przez nich bloków, że ma on miejsce co 3 sekundy. Świadkowie synchronizują swoją produkcję bloków poprzez protokół NTP. Odmiana tego algorytmu była używana w sieci BitShares przez ponad rok, gdzie udowodniła swoją niezawodność.
 
 # Eliminowanie Opłat Transakcyjnych
 
@@ -427,13 +427,13 @@ Zaczynając od procesu nazywanego hard forkiem sieci (opisuje on najczęściej p
 
 ### Wpływ Współczynnika Tworzenia Tokenów
 
-Powszechnie mówi się, że waluty oparte o model inflacyjny, ale na podstawie niezliczonych przykładów z życia codziennego wiemy, że ilość pieniądza nie ma bezpośredniego wpływu na jego wartość, choć z pewnością ogrywa w tym ważną rolę.
+Powszechnie mówi się, że waluty oparte o model inflacyjny nie mają stałej wartości, ale na podstawie niezliczonych przykładów z życia codziennego wiemy, że ilość pieniądza nie ma bezpośredniego wpływu na jego wartość, choć z pewnością ogrywa w tym ważną rolę.
 
-Od sierpnia 2008 roku do stycznia roku 2009 podaż pieniądza w Stanach Zjednoczonych [^15] wzrósł z 871 miliardów dolarów do 1,737 biliona dolarów, przy tempie ponad 100% rocznie, potem kontynuował wzrost przy tempie około 20% rocznie przez następne 6 lat. Podsumowując, w ciągu niecałych7 lat podaż pieniądza w Stanach Zjednoczonych wzrosła 4.58 raza. W tym samym czasie, wartość dolara w stosunku do dóbr i usług spała o mniej niż 10% w odniesieniu do rządowego wskaźnika cen towarów i usług konsumpcyjnych [^16] (z ang. government's price index, przyp. tłum.). Ten przykład pokazuje, że podaż jest tylko jednym z komponentów wpływających na cenę.
+Od sierpnia 2008 roku do stycznia roku 2009 podaż pieniądza w Stanach Zjednoczonych [^15] wzrosła z 871 miliardów dolarów do 1,737 biliona dolarów, przy tempie ponad 100% rocznie, potem przez następne 6 lat kontynuowała wzrost przy tempie około 20% rocznie. Podsumowując, w ciągu niecałych7 lat podaż pieniądza w Stanach Zjednoczonych wzrosła 4.58 raza. W tym samym czasie, wartość dolara w stosunku do dóbr i usług spała o mniej niż 10% w odniesieniu do rządowego wskaźnika cen towarów i usług konsumpcyjnych [^16] (z ang. government's price index, przyp. tłum.). Ten przykład pokazuje, że podaż jest tylko jednym z komponentów wpływających na cenę.
 
-Przez pierwsze 2 lata życia platformy Bitcoin, sieć przetrwała roczną stopę inflacyjną[^17] wynoszącą ponad 100%. Przez pierwsze 5 lat to było ponad 30%, a dla pierwszych 8 lat to było ponad 10%. Podsumowując, całkowite "wydatki" platformy Steem finansujące produkcję treści, jej ocenę a także produkcję bloków są mniejsze niż 10% rocznej stopy procentowej.
+Przez pierwsze 2 lata życia platformy Bitcoin, sieć przetrwała roczną stopę inflacyjną[^17] wynoszącą ponad 100%. Przez pierwsze 5 lat to było ponad 30%, zaś w skali pierwszych 8 lat to było ponad 10%. Podsumowując, całkowite "wydatki" platformy Steem finansujące produkcję treści, jej ocenę a także produkcję bloków są mniejsze niż 10% rocznej stopy procentowej.
 
-Cena dóbr cyfrowych, takich jak STEEM jest podyktowana zarówno popytem jak i podażą. Kiedy długoterminowy posiadacz postanawia odejść, podaż STEEM wzrośnie zbijając cenę. Ten biegnący w dół nacisk jest kontrowany, gdy pojawia się nowy długofalowy nabywca kupując STEEM i zamieniając je z powrotem na SP. Dodatkowe podaża i popyt, może pojawić się ze względu na spekulantów kupujących i sprzedających, płynny STEEM w oparciu o ich prognozy przyszłych cen rynkowych.
+Cena dóbr cyfrowych, takich jak STEEM, jest podyktowana zarówno popytem jak i podażą. Kiedy długoterminowy posiadacz postanowi sprzedać walutę, podaż STEEM wzrośnie, zbijając cenę. Ten spadek wartości zatrzymuje się, gdy pojawia się nowy długofalowy nabywca, który kupuje STEEM i zamienia je z powrotem na SP. Dodatkowa podaż i popyt może wynikać ze względu na pojawienie się osób, które kupują i sprzedają płynny STEEM w oparciu o prognozy ich przyszłych cen rynkowych.
 
 # Moc Steemu
 
@@ -441,7 +441,7 @@ Platforma Steem przyjmuje, że połączona wartość wszystkich wkładów wniesi
 
 Ponieważ każdy zyskuje, każdy powinien płacić. Innymi słowy, nie powinno się oczekiwać od indywidualnego użytkownika Steem zapłaty za cokolwiek. Zamiast tego powinno się płacić mu za wszystko to, robi i co przynosi korzyść platformie. Wszystko, czego potrzebujemy, to sprawdzenie, którzy użytkownicy przyczyniają się do rozwoju społeczności, a którzy nie.
 
-Łącznie, użytkownicy Reddita głosują 220 razy w ciągu sekundy i tworzą 23 posty na sekundę. Reddit jest wart między 500 milionów[^18] a 4 miliardy dolarów[^19], co oznacza, że każdy aprobujący głos z osobna jest warty między 0.06$ a 0.50$ zakładając, że wartość platformy Reddit wywodzi się głównie z aktywności z ostatniego roku. Niektórzy mogliby twierdzić, że wartość serwisu Reddit wynika z dyskusji prowadzonych niemalże w czasie rzeczywistym, które pojawiły się w ciągu ostatniego tygodnia, znacząco zwiększając wartość nowo-powstałej treści. Ludzie chodzą tam, gdzie inni są dzisiaj, a nie tam, gdzie byli w zeszłym roku.
+Łącznie, użytkownicy Reddita głosują 220 razy w ciągu sekundy i tworzą 23 posty na sekundę. Reddit jest wart pomiędzy 500 milionów[^18] a 4 miliardów dolarów[^19]. Oznacza to, że każdy pozytywny głos z osobna jest warty między 0.06$ a 0.50$ przy założeniu wartość platformy Reddit wynika głównie z aktywności z ostatniego roku. Niektórzy mogliby twierdzić, że wartość serwisu Reddit wynika z dyskusji prowadzonych niemalże w czasie rzeczywistym, które pojawiły się w ciągu ostatniego tygodnia, znacząco zwiększając wartość nowo-powstałej treści. Ludzie chodzą tam, gdzie inni są dzisiaj, a nie tam, gdzie byli w zeszłym roku.
 
 ## Brak mikropłatności, napiwki wedle uznania
 
