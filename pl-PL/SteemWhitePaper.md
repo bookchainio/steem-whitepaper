@@ -118,7 +118,7 @@ Platforma wyrównuje szanse, wymagając, aby wszystkie żądania wymiany były o
 
 ### Minimalizowanie nadużyć systemu wymiany
 
-Jeżeli ludzie byliby w stanie swobodnie wymieniać jedną walutę na drugą, inwestorzy mogliby wykorzystać na swoją korzyść współczynniki cen wymiany technologii blockchain w celu wymiany dużych ilości waluty w taki sposób, żeby nie miało to wpływu na cenę. Spekulanci, którzy zauważyliby olbrzymi wzrost próbowaliby wymienić STEEM na SBD przy wysokiej cenie (w momencie największego ryzyka spadku cen) a potem dokonać powrotnej wymiany po korekcji kursu. Protokół Steem chroni społeczność przed takim rodzajem nadużyć poprzez umożliwianie wymiany SBD na STEEM, ale nie odwrotnie.
+Jeżeli ludzie byliby w stanie swobodnie wymieniać jedną walutę na drugą, inwestorzy mogliby wykorzystać na swoją korzyść współczynniki cen wymiany technologii blockchain w celu wymiany dużych ilości waluty w taki sposób, żeby nie miało to wpływu na cenę. Spekulanci, którzy zauważyliby olbrzymi wzrost cen, próbowaliby wymienić STEEM na SBD przy wysokiej cenie (w momencie największego ryzyka spadku cen), a potem dokonać powrotnej wymiany po korekcji kursu. Protokół Steem chroni społeczność przed takim rodzajem nadużyć poprzez umożliwianie wymiany SBD na STEEM, ale nie odwrotnie.
 
 Technologia blockchain decyduje jak i kiedy wygenerować SBD, oraz kto powinien je otrzymać. Mechanizm ten utrzymuje poziom generowania SBD na stablinym poziomie oraz usuwa większość możliwości nadużyć.
 
@@ -126,22 +126,22 @@ Technologia blockchain decyduje jak i kiedy wygenerować SBD, oraz kto powinien 
 
 Jeżeli token jest postrzegany jako własność w całej podaży żetonów, wtedy dolar konwertowalny do tokena może być uznany za dług. W momencie gdy współczynnik długu do własności staje się zbyt wysoki, cała kryptowaluta staje się niestabilna. Konwersja długu może dramatycznie zwiększyć podaż tokenów, co z kolei prowadzi do obniżki cen. Następujące po sobie wymiany wymagają emisji jeszcze większej ilości tokenów. System, pozostawiony samemu sobie, może zawalić się, zostawiając za sobą bezużyteczną własność wspierającą gigantyczną ilość długu. Im wyższy staje się współczynnik długu do posiadania, tym mniej inwestorów będzie decydować się na wsparcie platformy swoim kapitałem.
 
-Szybka zmiana wartości STEEM może znacząco zmienić wartość współczynnika długu do własności. Technologia blockchain zapobiega sytuacji, w której współczynnik długu do własności jest zbyt wysoki poprzez redukowanie emisji STEEM wypuszczanego w formie SBD w w momencie, gdy poziom długu przekroczy 10%. Jeżeli ilość długu SBD kiedykolwiek przekroczy 10% całkowitej wartości rynku steem, blockchain automatycznie zredukuje ilość generowanego STEEM poprzez konwersje do maksymalnie 10% wartości rynku. Instrument ten gwarantuje, że współczynnik długu do własności w blockchainie nigdy nie przekroczy 10%.
+Szybka zmiana wartości STEEM może znacząco zmienić wartość współczynnika długu do własności. Technologia blockchain zapobiega sytuacji, w której współczynnik długu do własności jest zbyt wysoki. Robi to poprzez redukowanie emisji STEEM wypuszczanego w formie SBD w w momencie, gdy poziom długu przekroczy 10%. Jeżeli ilość długu SBD kiedykolwiek przekroczy 10% całkowitej wartości rynku steem, blockchain automatycznie zredukuje ilość generowanego STEEM poprzez konwersje do maksymalnie 10% wartości rynku. Instrument ten gwarantuje, że współczynnik długu do własności w blockchainie nigdy nie przekroczy 10%.
 
 Dolne limity trudności obliczania procesu wytwarzania STEEM bazowane są na aktualnej podaży, włączając w to wartość rynku STEEM, lecz wyróżniając ją spośród wartości ryków SBD oraz SP (determinowane przez aktualny współczynnik popytu/podaży).
 
 ### Udziały
 
-SBD wypłaca posiadaczom udziały. Wysokość udziałów jest determinowana przez tych samych ludzi, który publikują cenę kursu tak, aby mogły one dostosować się do kondycji rynku. Każdy dług niesie za sobą ryzyko dla wierzyciela. Ktoś, kto trzyma SBD bez jego wypłacenia czy zamiany tak naprawdę pożycza społeczności sumę, której wartość odpowiada jednemu dolarowi. Właścieile SBD wierzą w to, że zawsze znajdzie się ktoś, kto będzie chciał od nich kupić SBD za dolara lub w to, że pojawią się spekulanci i inwestorzy, którzy zechcą odkupić od nich STEEM, na który zamienili swoje SBD.
+SBD wypłaca posiadaczom udziały. Wysokość udziałów jest determinowana przez tych samych ludzi, który publikują cenę kursu tak, aby mogły one dostosować się do kondycji rynku. Każdy dług niesie za sobą ryzyko dla wierzyciela. Ktoś, kto trzyma SBD bez jego wypłacenia czy zamiany, tak naprawdę pożycza społeczności sumę, której wartość odpowiada jednemu dolarowi. Właściciele SBD wierzą w to, że zawsze znajdzie się ktoś, kto będzie chciał od nich kupić SBD za dolara lub w to, że pojawią się spekulanci i inwestorzy, którzy zechcą odkupić od nich STEEM, na który zamienili swoje SBD.
 
-Posiadacze STEEM oraz SP zdobywają przewagę, kiedy członkowie społeczności wolą trzymać SBD w portfelu niż je sprzedawać. To właśnie dzięki temu przekonaniu można wyciągać cora większe zyski z platformy. Jest to zarazem podstawa jej rozwoju. Posiadacze STEEM ponosą stratę w momencie, kiedy ceny waluty spadają. Doświadczenia z innymi kryptowalutami pokazują, że to zyski wynikające zwiększania ilości użytkowników, którzy wierzą w daną technologię są większe niż straty, które mogą wystąpić podczas tendencji spadkowej.
+Posiadacze STEEM oraz SP zdobywają przewagę, kiedy członkowie społeczności wolą trzymać SBD w portfelu niż je sprzedawać. To właśnie dzięki temu przekonaniu można ciągnąć coraz większe zyski z platformy. Jest to zarazem podstawa jej rozwoju. Posiadacze STEEM poniosą stratę w momencie, kiedy ceny waluty spadają. Doświadczenia z innymi kryptowalutami pokazują, że zyski wynikające zwiększania ilości użytkowników, którzy wierzą w daną technologię, są większe niż straty, które mogą wystąpić podczas tendencji spadkowej.
 
 ### Ustalanie cen wysokości opłat
 
 Bystrzy czytelnicy pewnie zdali sobie sprawę z tego, że środki o limitowanej podaży przynoszące odsetki mogą mieć wyższą lub niższą wartość niż to, od czego zależą. Wpływają na to inne możliwości zarobku bazujące na tych samych aktywach. Posiadając wysoki współczynnik zysku w kapitale ściśle powiązanym z Dolarem Amerykańskim wielu ludzi będzie konkurować o Steem Dollara, czego razultatem będzie cena wyższa niż 1$. W ekonomii isnieje reguła nazywana Niemożliwą Trójcą [^4], która stwierdza, że nie można mieć wszystkich trzech poniższych elementów w tym samym czasie:
 
-1. - stabilnego kursu wymiany
-2. - swobodnego przepływu środków pieniężnych
+1. Stabilnego kursu wymiany.
+2. Swobodnego przepływu środków pieniężnych.
 3. - niezależnej polityki pieniężnej
 
 Jeżeli producenci wysokości kursu Steem dążyliby do niezależnej polityki monetarnej, pozwalając tworzyć i usuwać Dolary Steem, jednocześnie posiadając pełną kontrolę nad kursem wymiany, okazałoby się, że w takim wypadku napotkaliby problemy. Zasadna Niemożliwej Trójcy mówi, że Dollary Steem nie muszą ograniczać wolnego przepływu kapitału, mieć niestabilnego współczynnika wymiany z dolarem, ani też ograniczonej kontroli nad wysokością kursu.
