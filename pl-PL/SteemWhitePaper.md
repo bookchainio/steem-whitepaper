@@ -372,11 +372,11 @@ Innymi słowy, opłaty transakcyjne powinny być równe minimalnemu saldu konta 
 
 W teorii rynek mógłby uformować instrument pozwalający na pożyczenie wymaganej kwoty. W praktyce, bardziej wydajnym dla użytkowników jest po prostu kupić i sprzedać niezbędne udziały by spełnić wymagany wskaźnik wykorzystania. Innymi słowy koszt negocjacji mikro pożyczek jest większy niż koszt utrzymania salda odpowiedniego do twojego tygodniowego zapotrzebowania.
 
-Zdecentralizowane ograniczenia transakcji oparte o stopę mogą otwierają umożliwiają powstanie nowych zdecentralizowanych aplikacji, które nie byłyby wykonalne bazując na sytemie mikropłatności. Ten nowy model daje deweloperom aplikacji możliwość zadecydowania czy oraz kiedy chcą oni rozliczać za dokonywanie transakcji.
+Zdecentralizowane ograniczenia transakcji oparte o stopę mogą otwierają umożliwiają powstanie nowych zdecentralizowanych aplikacji, które nie byłyby wykonalne bazując na sytemie mikropłatności. Ten nowy model daje deweloperom aplikacji możliwość zadecydowania czy oraz kiedy, chcą oni rozliczać swoich użytkowników transakcje, których dokonują.
 
 # Wydajność i Skalowalność
 
-Sieć Steem jest zbudowana w oparciu o technologię Graphene. Tę samą, która napędza BitShares. Technologia graphene udowodniła, że może wytrzymać obciążenie ponad 1000 transakcji na sekundę w rozproszoną sieć testową. Graphene może być łatwo przeskalowany na 10.000 lub więcej transakcji na sekundę z relatywnie prostymi usprawnieniami protokołów komunikacyjnych lub pojemności serwera.
+Sieć Steem jest zbudowana w oparciu o technologię Graphene. Tę samą, która napędza BitShares. Technologia graphene udowodniła, że może wytrzymać obciążenie ponad 1000 transakcji na sekundę w rozproszonej sieci testowej. Graphene może być łatwo przeskalowana na 10.000 lub więcej transakcji na sekundę, dzięki relatywnie prostym usprawnieniom protokołów komunikacyjnych lub pojemności serwera.
 
 ## Skala Reddita
 
@@ -398,16 +398,16 @@ Przetrzymywanie wszystko w pamięci operacyjnej jest coraz bardziej rentowne. Sz
 
 ## Początkowa alokacja i zaopatrzenie
 
-Sieć Steem wystartowała z poziomem dostarczania waluty na poziomie zera, dystrybuując wówczas STEEM przy pomocy dowodu wykonanej pracy (z ang. proof of work, przyp. tłum.) o współczynniku około 40 STEEM na minutę, razem z dodatkową ilością 40 STEEM potrzebną na zachęcanie do tworzenia treści oraz pulę nagród (z ang. reward pool, przyp. tłum.), co łącznie daje ilość 80 STEEM na minutę. Następnie sieć zaczęła nagradzać użytkowników, którzy konwertowali środki do SP. W tym punkcie, produkcja STEEM wzrosła do około 800 STEEM na minutę z powodu połączonych Nagród z Wkład (z ang. Contribution Rewards, przyp. tłum.) opisanych poniżej:
+Sieć Steem wystartowała z poziomem dostarczania waluty na poziomie zera, dystrybuując wówczas STEEM przy pomocy dowodu wykonanej pracy (z ang. proof of work - przyp. tłum.) o współczynniku około 40 STEEM na minutę, co razem z dodatkową ilością 40 STEEM potrzebną na zachęcanie do tworzenia treści oraz pulę nagród (z ang. reward pool, przyp. tłum.), łącznie dawało to ilość 80 STEEM na minutę. Następnie sieć zaczęła nagradzać użytkowników, którzy konwertowali środki do SP. W tym punkcie, produkcja STEEM wzrosła do około 800 STEEM na minutę dzięki połączeniu skutków różnych, opisanych poniżej, Nagród z Wkład (z ang. Contribution Rewards, przyp. tłum.):
 
 Nagrody za wkład ze strony użytkownika:
 
 - Nagrody za ocenę treści (z ang. Curation Rewards, przyp. tłum.): 1 STEEM na blok, lub 3.875% rocznie, zależnie od tego, co jest większe
-- Nagrody za tworzenie treści (z ang. Content Creation Rewards, przyp. tłum): 1 STEEM na blok, lub 3.875% rocznie, zależnie od tego, co jest większe
-- Nagrody dotyczące produkcji bloków (z ang. Block Production Rewards, przyp. tłum): 1 STEEM na blok, lub 3.875% rocznie, zależnie od tego, co jest większe
-- Nagrody oparte o dowód wykonanej pracy (z ang. prof of work inclusion reward, przyp. tłum.) przed blokiem 864.000: 1 STEEM na block (wypłacane jako 21 STEEM na rundę)
-- Nagrody oparte o dowód wykonanej pracy (z ang. prof of work inclusion reward, przyp. tłum.) po bloku 864.000: 0.0476 STEEM na block (wypłacane jako 1 STEEM na rundę) lub 0.750%, zależnie o tego, co jest większe.
-- Nagrody płynności (z ang. Liquidity rewards, przyp. tłum): 1 STEEM na blok (wypłacane jako 1200 STEEM na godzinę) lub 0.750% rocznie, zależnie od tego, co jest większe
+- Nagrody za tworzenie treści (z ang. Content Creation Rewards - przyp. tłum): 1 STEEM na blok, lub 3.875% rocznie, zależnie od tego, co jest większe
+- Nagrody za tworzenie treści (z ang. Content Creation Rewards - przyp. tłum): 1 STEEM na blok, lub 3.875% rocznie, zależnie od tego, co jest większe
+- Nagrody oparte o dowód wykonanej pracy (z ang. prof of work inclusion reward, -przyp. tłum.) przed blokiem 864.000: 1 STEEM na block (wypłacane jako 21 STEEM na rundę)
+- Nagrody oparte o dowód wykonanej pracy (z ang. prof of work inclusion reward - przyp. tłum.) po bloku 864.000: 0.0476 STEEM na block (wypłacane jako 1 STEEM na rundę) lub 0.750%, zależnie o tego, co jest większe.
+- Nagrody płynności (z ang. Liquidity rewards - przyp. tłum): 1 STEEM na blok (wypłacane jako 1200 STEEM na godzinę) lub 0.750% rocznie, zależnie od tego, co jest większe.
 
 ### Nagrody oparte o Steem Power:
 
