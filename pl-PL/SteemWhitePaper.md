@@ -463,11 +463,11 @@ Co więcej, platforma Steem płaci ludziom za to, że oceniają, to powinien zos
 
 ## Wartość tkwi w połączeniach
 
-Internet straciłby zdecydowaną większość swojej wartości, gdyby wszystkie linki zostały z niego usunięte. Jest to relacja między stronami internetowymi, która pozwala wyszukiwarce Google znaleźć najlepszy przepis na szarlotkę z spośród 16 milionów innych. Bez linków jedyną informacją jaką dysponowałoby Google to częstotliwość występowania danego słowa.
+Internet straciłby zdecydowaną większość swojej wartości, gdyby wszystkie linki zostały z niego usunięte. To właśnie wzajemne powiązania pomiędzy stronami internetowymi pozwalają wyszukiwarce Google znaleźć najlepszy przepis na szarlotkę pośród 16 milionów wyników. Bez linków jedyną informacją, jaką dysponowałoby Google, byłaby częstotliwość występowania danego słowa.
 
-Odnośniki mogą przyjmować wiele form oraz dostosowywać się wraz z upływem czasu. Za każdym razem, kiedy użytkownik głosuje na treść i medium społecznościowym dodawane jest połączenie między użytkownikiem a treścią. To z kolei łączy konsumenta i twórcę poprzez zawartość. Im więcej połączeń posiada sieć, tym bardziej wartościowa staje się informacja w niej zawarta. To jest względne i celowe powiązanie informacji, które nadaje jej wartość.
+Odnośniki mogą przyjmować wiele form oraz dostosowywać się wraz z upływem czasu. Za każdym razem, kiedy użytkownik głosuje na wpis na danym portalu społecznościowym, dodawane jest połączenie między użytkownikiem a treścią. To z kolei łączy konsumenta i twórcę. Im więcej połączeń posiada sieć, tym bardziej wartościowa staje się informacja w niej zawarta. To właśnie te relatywne i celowo powiązania pomiędzy informacjami nadają jej wartość.
 
-Platforma sieci społecznościowej może zmaksymalizować wartość wyszukanej treści poprzez maksymalizację ilości oraz jakości połączeń. Ocena treści jest droga oraz pochłania duże ilości czasu, jednocześnie prawie niemożliwym dla komputerów jest przeprowadzenie tej operacji bez obecności odnośników. Steem nagradza użytkowników, którzy są pośród osób, które jako pierwsze indentyfikują nową treść.
+Platforma społecznościowa może zmaksymalizować wartość wyszukanej treści poprzez maksymalizację ilości oraz jakości połączeń. Ocena treści jest droga oraz pochłania duże ilości czasu. Zarazem komputery nie są prawie w stanie przeprowadzić tej operacji bez obecności linków. Steem nagradza użytkowników, którzy jako pierwsi identyfikują i znajdują nowe treści.
 
 Poprzez zachęcanie do oceniania treści, sieć Steem jest w stanie użyć automatycznych algorytmów do rozpoznania najbardziej wartościowej informacji spośród olbrzymiej ilości treści.
 
@@ -483,13 +483,13 @@ Waluta, która jest niemożliwa lub trudno do zbycia, ma niską wartość. Gdyby
 
 Handlowcy dają użytkownikom możliwość szybkiej konwersji kryptowaluty na rzeczywiste dobra i usługi. Potrzebują więc oni waluty powiązanej z jednostką używaną przez dane konto. Zazwyczaj jest to dolar. Akceptowanie nieprzewidywalnej waluty prowadzi do znaczących kosztów ogólnych związanych z prowadzeniem konta.
 
-Handlowcy zaakceptują każdą walutę, jeśli zwiększy ona ich sprzedaż. Posiadanie dużej bazy użytkowników posiadających stabilną walutę, taką jak SBD zmniejsza próg wejścia dla handlowców. Obecność handlowców polepsza system poprzez projektowania swego rodzaju łagodne zejście dla użytkowników chcących odejść, nie wprawiając systemu w kłopoty powodowane wymianą.
+Handlowcy zaakceptują każdą walutę, jeśli zwiększy ona ich sprzedaż. Posiadanie dużej bazy użytkowników posiadających stabilną walutę, taką jak SBD, zmniejsza próg wejścia dla handlowców. Obecność handlowców polepsza system poprzez projektowania swego rodzaju łagodne zejście dla użytkowników chcących odejść, nie wprawiając systemu w kłopoty powodowane wymianą.
 
-Inną drogą, która pozwala użytkownikowi upłynnić małe ilości kryptowaluty otrzymanej poprzez przyczynianie się społeczności Steem może być *dawanie napiwków* innym użytkownikom. Analogią może być zostawienie napiwku dla kelnera podczas wyjścia z restauracji. Kiedy wystarczająco wielu ludzi zostawi małe napiwki, sumują się one do znaczącej kwoty. Zarówno kelner jak i ty korzystacie z napiwku.
+Inną drogą, która pozwala użytkownikowi upłynnić małe ilości kryptowaluty otrzymanej poprzez przyczynianie się społeczności Steem może być *dawanie napiwków* innym użytkownikom. Analogią może być zostawienie napiwku dla kelnera. Kiedy wystarczająco wielu ludzi zostawi małe napiwki, razem zsumują się one do znaczącej kwoty. Zarówno kelner jak i ty skorzystacie na daniu napiwku.
 
 ## Cenzura
 
-Steem jest zdecentralizowaną siecią, która kierowana jest przez świadków przez jurysdykcje z całego świata. Akcje każdego użytkownika są publicznie rejestrowane w łańcuchu blokow i mogą być zweryfikowane przez każdego. Oznacza to, że nie ma pojedynczej jednostki, która może cenzurować treść, która jest wyceniana przez posiadaczy STEEM.
+Steem jest zdecentralizowaną siecią, która kierowana jest przez świadków przez jurysdykcje z całego świata. Akcje każdego użytkownika są publicznie rejestrowane w łańcuchu blokow i mogą być zweryfikowane przez każdego. Oznacza to, że nie ma pojedynczej jednostki, która może cenzurować treść, która została wysoko oceniona przez posiadaczy STEEM.
 
 Pojedyncze serwisy internetowe, takie jak steemit.com mogą cenzorować treść na konkretnie ich stronie, lecz treść publikowana do sieci blockchain jest z natury rozgłaszana do całego ruchu oraz kopii zapasowych rozsianych po całym świecie, co sprawia, że zawsze będzie dostępna.
 
@@ -515,7 +515,7 @@ Twórcy publikujący treść za pomocą serwisów społecznościowych połączon
 
 # Wnioski
 
-Platforma Steem jest eksperymentem zaprojektowanym, by rozwiązać problemy kryptowalut oraz mediów społecznościowych poprzez połączenie ich najlepszych. Platforma Steem daje twórcom i czytelnikom możliwość zarobienia pieniędzy w sposób, który nie istniał dotąd w branży mediów społecznościowych. Wewnątrz sieci Steem jednostki zarabiają przez internet realne pieniądze, których wysokość stoi w bezpośrednim związku z ich wkładem na rzecz platformy. Nagrody te mogą mieć wartość wartość dolara z powodu ceny rynkowej oraz płynności waluty Steem. Ludzie, którzy posiadają ową walutę mają także więcej ekskluzywnych możliwości zarobkowych, niż Ci, którzy jej nie posiadają.
+Platforma Steem jest eksperymentem zaprojektowanym tak, aby rozwiązać problemy kryptowalut oraz mediów społecznościowych poprzez połączenie ich najlepszych cech. Platforma Steem daje twórcom i czytelnikom możliwość zarobienia pieniędzy w sposób, który nie istniał dotąd w branży mediów społecznościowych. Wewnątrz sieci Steem jednostki zarabiają przez internet realne pieniądze, których wysokość stoi w bezpośrednim związku z ich wkładem na rzecz platformy. Nagrody te mogą mieć wartość wartość dolara z powodu ceny rynkowej oraz płynności waluty Steem. Ludzie, którzy posiadają ową walutę mają także więcej ekskluzywnych możliwości zarobkowych, niż Ci, którzy jej nie posiadają.
 
 [^1]: Reddit’s Cryptocurrency, Forbes, Erika Morphy, October 2014 http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/\#4e07b05332b9
 
