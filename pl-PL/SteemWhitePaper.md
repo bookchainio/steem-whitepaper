@@ -441,7 +441,7 @@ Platforma Steem uważa, że połączona wartość wkładu użytkowników (treśc
 
 Ponieważ każdy zyskuje, każdy powinien płacić. Innymi słowy, nie powinno się oczekiwać od indywidualnego użytkownika Steem zapłaty za cokolwiek, zamiast tego powinno się płacić mu za wszystko co wprowadza wartość do platformy Steem. Wszystko czego potrzebujemy do sprawdzenia, którzy urzytkownicy przyczyniają się społeczności, a którzy nie.
 
-Łącznie, użytkownicy Reddita głosują 220 razy i tworzą 23 posty na sekundę. Reddit jest wart między 500 milionów[^18] a 4 miliardy dolarów[^19], co oznacza, że każdy aprobujący głos z osobna jest warty między 0.06$ a 0.50$ zakładając, że wartość platformy Reddit wywodzi się głównie z aktywności z ostatniego roku. Niektórzy mogliby twierdzić, że większość wartości serwisu Reddit pochodzi z dyskusji prowadzonych niemalże w czasie rzeczywistym, które pojawiły się w ciągu ostatniego tygodnia, znacząco zwiększając wartość nowo-powstałej treści. Ludzie chodzą, tam gdzie inni są dzisiaj, nie gdzie byli w zeszłym roku.
+Łącznie, użytkownicy Reddita głosują 220 razy i tworzą 23 posty na sekundę. Reddit jest wart między 500 milionów[^18] a 4 miliardy dolarów[^19], co oznacza, że każdy aprobujący głos z osobna jest warty między 0.06$ a 0.50$ zakładając, że wartość platformy Reddit wywodzi się głównie z aktywności z ostatniego roku. Niektórzy mogliby twierdzić, że wartość serwisu Reddit wynika z dyskusji prowadzonych niemalże w czasie rzeczywistym, które pojawiły się w ciągu ostatniego tygodnia, znacząco zwiększając wartość nowo-powstałej treści. Ludzie chodzą tam, gdzie inni są dzisiaj, a nie tam, gdzie byli w zeszłym roku.
 
 ## Brak mikropłatności, napiwki wedle uznania
 
