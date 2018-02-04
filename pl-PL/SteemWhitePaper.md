@@ -485,13 +485,13 @@ Handlowcy dają użytkownikom możliwość szybkiej konwersji kryptowaluty na rz
 
 Handlowcy zaakceptują każdą walutę, jeśli zwiększy ona ich sprzedaż. Posiadanie dużej bazy użytkowników posiadających stabilną walutę, taką jak SBD, zmniejsza próg wejścia dla handlowców. Obecność handlowców polepsza system poprzez projektowania swego rodzaju łagodne zejście dla użytkowników chcących odejść, nie wprawiając systemu w kłopoty powodowane wymianą.
 
-Inną drogą, która pozwala użytkownikowi upłynnić małe ilości kryptowaluty otrzymanej poprzez przyczynianie się społeczności Steem może być *dawanie napiwków* innym użytkownikom. Analogią może być zostawienie napiwku dla kelnera. Kiedy wystarczająco wielu ludzi zostawi małe napiwki, razem zsumują się one do znaczącej kwoty. Zarówno kelner jak i ty skorzystacie na daniu napiwku.
+Innym sposobem, która pozwala użytkownikowi na upłynnienie małej ilości kryptowaluty otrzymanej dzięki wkładowi w rozwój społeczności Steem, może być *dawanie napiwków* innym użytkownikom. Analogią może być zostawienie napiwku dla kelnera. Kiedy wystarczająco wielu ludzi zostawi małe napiwki, razem zsumują się one do znaczącej kwoty. Zarówno kelner jak i ty skorzystacie na daniu napiwku.
 
 ## Cenzura
 
-Steem jest zdecentralizowaną siecią, która kierowana jest przez świadków przez jurysdykcje z całego świata. Akcje każdego użytkownika są publicznie rejestrowane w łańcuchu blokow i mogą być zweryfikowane przez każdego. Oznacza to, że nie ma pojedynczej jednostki, która może cenzurować treść, która została wysoko oceniona przez posiadaczy STEEM.
+Steem jest zdecentralizowaną siecią, która kierowana jest przez świadków z całego świata. Akcje każdego użytkownika są publicznie rejestrowane w łańcuchu blokow i mogą być zweryfikowane przez każdego. Oznacza to, że nie ma pojedynczej jednostki, która może cenzurować treść, która została wysoko oceniona przez posiadaczy STEEM.
 
-Pojedyncze serwisy internetowe, takie jak steemit.com mogą cenzorować treść na konkretnie ich stronie, lecz treść publikowana do sieci blockchain jest z natury rozgłaszana do całego ruchu oraz kopii zapasowych rozsianych po całym świecie, co sprawia, że zawsze będzie dostępna.
+Pojedyncze serwisy internetowe, takie jak steemit.com, mogą cenzorować treść na konkretnie ich stronie, lecz treść publikowana do sieci blockchain jest z natury rozgłaszana w sieci. Na całym świecie tworzone są kopie zapasowe, co sprawia, że dany wpis już zawsze będzie dostępny.
 
 Wolność słowa jest fundamentem wolności na całym świecie i jakiekolwiek naruszenie wolności słowa uniemożliwia jedyny pokojowy sposób osiągnięcia konsensusu: dyskusję. Bez możliwości wolnej dyskusji głosujący nie będą do końca poinformowani, a głosujący, którzy nie wiedzą na co głosują są większym zagrożeniem dla społeczeństwa niż utrata prawa głosu. Cenzura więc oznacza kradzież głosów poprzez ograniczanie publicznej dyskusji. Platforma Steem przyczynia się do rozpowszechniania wolności słowa i budowy wolnego społeczeństwa.
 
@@ -509,9 +509,9 @@ Podczas gdy serwis udostępniający znaczniki czasu mógłby zostać zbudowany n
 
 ## Zamiana reklam na oparte na technologii Blockchain nagrody dla twórców
 
-Mając na uwadze większość modeli monetyzacji treści, twórcy uginają się pod naciskiem publikowania reklam w różnych formach. Wielu twórców zdaje sobie sprawę, jak reklama może zmniejszać wartość ich pracy dla konsumenta, ale i tak bardzo często muszą oni szukać zapłaty za ich pracę w takiej formie monetyzacji treści. Reklama stanowi swego rodzaju obusieczny miecz: Z reklamami, twórca może najłatwiej zarabiać pieniądze. Bez nich monetyzacja jest trudna, jednak treść bogatsza.
+Mając na uwadze większość modeli monetyzacji treści, twórcy uginają się pod naciskiem publikowania reklam w różnych formach. Wielu twórców zdaje sobie sprawę, jak bardzo reklama może zmniejszać wartość ich pracy dla konsumenta, ale i tak bardzo często muszą z nich korzystać, żeby otrzymać wynagrodzenie za swoją pracę. Reklama stanowi swego rodzaju obusieczny miecz: dzięki reklamom twórca może łatwo zarabiać pieniądze. Bez nich monetyzacja jest trudna, jednak artykuły są ciekawsze.
 
-Twórcy publikujący treść za pomocą serwisów społecznościowych połączonych z siecią Steem mogą monetyzować swoją treść tylko poprzez uznanie i aprobatę jakości ich pracy przez społeczność Steem. Wypłaty oparte o technologię blockchain są w pełni cyfrowe i nie mają żadnych pośredników. Z tego powodu monetyzacja oparta o nagrody technologii blockchain powinny być szybsze oraz powodować mniej przeszkód monetyzacji niż ta oparta o reklamy.
+Twórcy publikujący treść za pomocą serwisów społecznościowych połączonych z siecią Steem, mogą monetyzować swoje wpisy tylko poprzez uznanie i aprobatę jakości ich pracy przez społeczność Steem. Wypłaty oparte o technologię blockchain są w pełni cyfrowe i nie mają żadnych pośredników. Z tego powodu monetyzacja oparta o nagrody, stosowana w technologii blockchain, powinna być szybsza i łatwiejsza niż ta oparta o reklamy.
 
 # Wnioski
 
