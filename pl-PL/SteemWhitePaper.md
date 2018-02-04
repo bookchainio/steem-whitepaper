@@ -194,7 +194,7 @@ Niezależnie od tego ile pieniędzy ma dana jednostka, zawsze można znaleźć i
 
 Na szczęście, każdy wpis, który otrzymuje duże skoncentrowanie głosów, uzyskuje także największy rozgłos, a tym samym jest poddany dużemu nadzorowi. Dzięki dodaniu możliwości oddawania *negatywnego głosu* wielu mniejszych udziałowcówe może wspólnymi siłami odebrać władzę zmówionym, dużym jednostkom. Co więcej, to właśnie duzi udziałowcy mają najwięcej do stracenia, jeżeli wartość waluty zacznie spadać z powodu ich nadużyć. Takie działania są więc dla nich nieopłacalne. Właściwie rzecz ujmując, wielcy, uczciwi użytkownicy mają większe predyspozycje do kontrolowania i zwalczania nadużyć poprzeć oddanie głosów negatywnych, niż gdyby mieli wspierać mały wkład.
 
-Użycie *negatywnych głosów* do odwodzenia ludzi od nadużywania systemu wpływa na *mentalność kraba* (z ang. crab mentality, przyp. tłum.), której wielu ludzi doświadcza, kiedy jedna jednostka bogaci się kosztem wszystkich innych. Podczas gdy mentalność kraba zazwyczaj odnosi się do zapatrzonych w siebie ludzi, którzy działają na niekorzyść dobrych ludzi, jej mechanizm pozwala także dobrym ludziom trzymać tych złych na niskim poziomie wpływu. Mentalność kraba ujawnia się w sytuacji, w której ludzie *błędnie wierzą* w to, że ktoś bogaci się kosztem innych.
+Użycie *negatywnych głosów* do odwodzenia ludzi od nadużywania systemu równoważy *mentalność kraba* (z ang. crab mentality - przyp. tłum.), której wiele osób doświadcza, kiedy wydaje im się, że jedna jednostka bogaci się kosztem wszystkich innych. Podczas gdy mentalność kraba zazwyczaj odnosi się do zapatrzonych w siebie ludzi, którzy działają na niekorzyść dobrych ludzi, jej mechanizm pozwala także dobrym ludziom trzymać tych złych na niskim poziomie wpływu. Mentalność kraba ujawnia się w sytuacji, w której ludzie *błędnie wierzą* w to, że ktoś bogaci się kosztem innych.
 
 **Opowieść o koszu krabów**[^6]
 
@@ -208,9 +208,9 @@ Podobnie jest z ludźmi. Gdy jeden z nich próbuje zrobić coś innego (udoskona
 
 Eliminowanie “nadużyć” (z ang. “abuse”, przyp. tłum.) nie powinno być celem samym w sobie. Nawet Ci, którzy “nadużywają” systemu wciąż wykonują pracę. Jakiekolwiek wynagrodzenie za ich pomyślną próbę nadużycia lub zmowy jest przynajmniej tak wartościowa dla zastosowania dystrybucji waluty jak działające systemy wdrożone w tradycyjnych kopalniach kryptowaluty Bitcoin, lub “zmówione” kopalnie, znane także jako baseny (z ang. mining pools, przyp. tłum.). Wszystko to jest konieczne, by upewnić się, że możliwe nadużycie nie jest na tyle niepohamowane żeby podważało zachętnę do prawdziwej pracy we wspieraniu społeczności i waluty.
 
-Budowanie społeczności ma na celu jest sprowadzenie jak większej ilości “krabów do koszyka”. Zachłanność w dążeniu do eliminacji całego globalnego nadużycia jest jak próba zasłonięcia koszyka, by uwięzić parę krabów - znacząco utrudnia to dodawanie nowych krabów do koszyka. Wystarczy stworzyć śliskie ściany i dać innym krabom odpowiednią moc zapobiegania ucieczki przez innych.
+Budowanie społeczności ma na celu jest sprowadzenie jak większej ilości “krabów do koszyka”. Zachłanność w dążeniu do eliminacji całego globalnego nadużycia jest jak próba zasłonięcia koszyka, by uwięzić parę krabów - znacząco utrudnia to dodawanie nowych krabów do koszyka. Wystarczy stworzyć śliskie ściany i dać innym krabom możliwość przeciwdziałania ucieczce pozostałym.
 
-### Głosowanie ograniczone stopą
+### Ograniczona częstotliwość głosowania
 
 Znaczącą częścią minimalizowania nadużyć jest ograniczenie głosowania stopą (z ang. rate-limiting of voting). Indywidualni użytkownicy mogą w ciągu dnia przeczytać i ocenić tylko ograniczoną ilość wpisów. Próba głosowania częściej jest oznaką automatyzacji i potencjalnego nadużycia. Poprzez ograniczenia, głos udziałowców, którzy głosują częściej ma mniejszą siłę niż tych, którzy oddają swój głos rzadziej. Próby podziału tokenów między wiele kont dzieli także wpływ, więc nie skutkuje w globalnym przyroście wpływu. Nie omija także limitu czasowego związanego z głosowaniem.
 
