@@ -344,7 +344,7 @@ Utrzymywanie minimalnego salda jest koniec końców tym samym mechanizmem, co wp
 
 Na szczęście, możemy ograniczyć wysokość minimalnego salda do wartości jednego dolara. Wydaje nam się, że jest to kwota, na którą użytkownicy mogą się zgodzić. Koszt utraty dochodu nie wpływa na koszt poznania tak jak w przypadku mikro opłat i jest o wiele bardziej akceptowalny dla użytkowników.
 
-STEEM używany do finansowania nowych kont jest dokonywany poprzez oddelegowanie nowym użytkownikom pewnej ilości Steem Power. Porcja SP użyta do ufundowania nowego konta może być oddelegowana do niego z konta twórcy. Kiedy użytkownik posiada oddelegowane SP, może go używać w celu głosowania lub żądania przydziału przepustowości, tak jakby było to jego SP. W rzeczywistości jednak należy ono do użytkownika, które mu je oddelegował. Właściciel może usunąć delegację w każdej chwili. Kiedy upłynie wystarczająca ilość czasu SP jest zwracane właścicielowi.
+STEEM używany do finansowania nowych kont jest dokonywany poprzez oddelegowanie nowym użytkownikom pewnej ilości Steem Power. Porcja SP użyta do ufundowania nowego konta może być oddelegowana do niego z konta twórcy. Kiedy użytkownik, który posiada oddelegowane SP, może go używać w celu głosowania lub żądania przydziału przepustowości tak, jakby było to jego SP. W rzeczywistości jednak należy ono do użytkownika, które mu je oddelegował. Właściciel może usunąć delegację w każdej chwili. Kiedy upłynie wystarczająca ilość czasu SP jest zwracane właścicielowi.
 
 ### Efektywność relatywna do wysokości opłat
 
