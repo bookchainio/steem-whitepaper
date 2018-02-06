@@ -122,7 +122,7 @@ Wanneer mensen vrij zouden kunnen converteren in beide richtingen zouden handela
 
 De blockchain bepaalt hoe en wanneer SBD gemaakt moeten worden en wie het moet krijgen. Dit houdt het tempo van SBD creatie stabiel en verwijdert de meeste mogelijke misbruikmanieren.
 
-### Duurzame Schuld tot Eigenaarschap Ratio's
+### Duurzame Schuld tot Eigendom Ratio's
 
 Als een token wordt beschouwd als eigendom in de hele token voorraad, kan dan een token-wissel-dollar worden beschouwd als schuld. Als de verhouding van schuld tot eigendom te hoog wordt kan de gehele munt onstabiel worden. Schuldconversies kunnen het aanbod van tokens drastisch verhogen, welke op hun beurt weer worden verkocht op de markt om de prijs te onderdrukken. Latere conversies vereisen de uitgifte van nog meer tokens. Zonder controle kan het systeem in elkaar storten, waarbij het waardeloos eigendom achterlaat met een berg schulden. Hoe hoger de schuld-eigendom ratio wordt, des te minder zullen nieuwe investeerders willen beleggen.
 
@@ -144,13 +144,13 @@ Oplettende lezers zullen erkennen dat een rentedragende bezit met beperkte oplag
 2. Vrij kapitaalverkeer
 3. Een onafhankelijke financiële richtlijn
 
-Als Steem feed producenten proberen om een onafhankelijke financiële richtlijn te hebben die toegestaan is om Steem Dollars te maken en vernietigen terwijl het volledige controle heeft over de rente, dan zullen ze problemen krijgen. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
+Als Steem feed producenten proberen om een onafhankelijke financiële richtlijn te hebben die toegestaan is om Steem Dollars te maken en vernietigen terwijl het volledige controle heeft over de rente, dan zullen ze problemen krijgen. De Onmogelijke Drievuldigheid stelt dat Steem Dollars of het kapitaalverkeer moeten beperken, of een onstabiele wisselkoers met de dollar moeten hebben, of een beperkte controle over de rente.
 
-The primary concern of Steem feed producers is to maintain a stable one-to-one conversion between SBD and the U.S. Dollar (USD). Any time SBD is consistently trading above $1.00 USD interest payments must be stopped. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SBD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
+De grootste zorg van de Steem feed producenten is om een stabiele overgang tussen SBD en de U.S. Dollar (USD) te behouden. Elke keer dat SBD consistent wordt verhandeld voor meer dan $1.00 USD moet de uitbetaling van rente worden gestopt. In een markt waar 0% rente op schuld nog steeds een premie vereist, is het veilig om te zeggen dat de markt er open voor staat om meer krediet te verstrekken dan de gemeenschap wil accepteren. Als dit gebeurt zal een SBD meer waard zijn dan $1.00 en dan is er weinig dat de gemeenschap kan doen behalve negatieve rente te eisen.
 
-If the debt-to-ownership ratio is low and SBD is trading for less than $1.00, then the interest rate should be increased. This will encourage more people to hold their SBD and support the price.
+Als de schuld tot eigendom ratio lager is dan 10% en de SBD wordt verhandeld voor minder dan $1.00, moet de rente verhoogd worden. Dit zal mensen aanmoedigen om hun SBD te behouden en zo de prijst te ondersteunen.
 
-If SBD trades for less than $1.00 USD and the debt-to-ownership ratio is high, then the feeds should be adjusted upward give more STEEM per SBD. This will increase demand for SBD while also reducing the debt-to-ownership ratio and returning SBD to parity with USD.
+Als SBD verhandelt voor minder dan $1.00 USD en de schuld tot eigendom ratio hoog is, moeten de feeds naar boven worden bijgesteld om meer STEEM per SBD te geven. Dit zal de vraag naar SBD doen stijgen terwijl het ook het schuld tot eigendom ratio verminderd en de SBD terugbrengt naar de gelijkheid met de USD.
 
 Assuming the value of STEEM is growing faster than Steem is creating new SBD, the debt-to-ownership ratio should remain under the target ratio and the interest offered benefits everyone. If the value of the network is flat or falling, then any interest offered will only make the debt-to-ownership ratio worse.
 
