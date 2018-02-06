@@ -10,13 +10,13 @@
 
 # सारांश
 
-सिटीम एक आईसा बूलाकचेन डेटाबेस है जो पुरस्कार के ज़रिए समुदाय निर्माण और सामाजिक सहभागिता का समर्थन करता है । सिटीम सामाजिक मिडया को क्रिपटो करंसी और उनके समुदाय के साथ अवधारणाओं को जोड़ता है । An important key to inspiring participation in any community, currency or free market economy is a fair accounting system that consistently reflects each person's contribution. Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
+सिटीम एक आईसा बूलाकचेन डेटाबेस है जो पुरस्कार के ज़रिए समुदाय निर्माण और सामाजिक सहभागिता का समर्थन करता है । सिटीम सामाजिक मिडया को क्रिपटो करंसी और उनके समुदाय के साथ अवधारणाओं को जोड़ता है । किसी भी समुदाय मे मुद्रा या मुक्त बाजार अर्थव्यवस्था में प्रेरणादायक भागीदारी के लिए एक महत्वपूर्ण कुंजी एक निष्पक्ष लेखांकन प्रणाली है जो लगातार प्रत्येक व्यक्ति के योगदान को दर्शाता है । स्टीम पहली क्रिप्टोकरेंसी है जो अपने समुदाय के लिए *व्यक्तिपरक योगदान* करने वाले व्यक्तियों की एक असीम संख्या को सही और पारदर्शी रूप से पुरस्कृत करने का प्रयास करती है ।
 
-# Table of Contents
+# सामग्री तालिका
 
 <!-- toc -->
 
-# Introduction
+# परिचय
 
 Collectively, user-generated content has created billions of dollars worth of value for the shareholders of social media companies, such as Reddit, Facebook, and Twitter. **In 2014, Reddit hypothesized that its platform would be improved if everyone who contributed to reddit.com by posting stories, adding comments or voting were rewarded with a fair share in Reddit, Inc.[^1]**. Steem aims to support social media and online communities by returning much of its value to the people who provide valuable contributions by rewarding them with cryptocurrency, and through this process create a currency that is able to reach a broad market, including people who have yet to participate in any cryptocurrency economy.
 
