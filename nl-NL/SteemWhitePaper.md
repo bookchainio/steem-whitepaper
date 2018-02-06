@@ -132,19 +132,19 @@ De percentages die worden gebruikt om STEEM creatie te berekenen zijn gebaseerd 
 
 ### Rente
 
-SBD betaalt rente aan de houders. De hoogte van de rente is ingesteld door dezelfde mensen die de prijs feed publiceren, zodat het kan worden aangepast aan de veranderende marktomstandigheden. Alle schuld draagt een risico voor de kredietgever. Iemand die SBD in het bezig heeft zonder het om te zetten, leent effectief de waarde van een dollar aan de gemeenschap. They are trusting that at some point in the future someone will be willing to buy the SBD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
+SBD betaalt rente aan de houders. De hoogte van de rente is ingesteld door dezelfde mensen die de prijs feed publiceren, zodat het kan worden aangepast aan de veranderende marktomstandigheden. Alle schuld draagt een risico voor de kredietgever. Iemand die SBD in het bezig heeft zonder het om te zetten, leent effectief de waarde van een dollar aan de gemeenschap. Ze vertrouwen erop dat op een bepaald punt in de toekomst iemand bereid zal zijn de SBD van hen te kopen voor een dollar, of dat er speculanten en investeerders bereid zullen zijn om STEEM waar ze het in om kunnen zetten, te kopen.
 
-STEEM and SP holders gain leverage when members of the community are willing to hold SBD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
+STEEM en SP houders krijgen invloed wanneer gemeenschapsleden bereid zijn om SBD vast te houden. Deze macht versterkt de groeivoordelen en draagt ook bij aan groei. STEEM houders hebben last van verhoogde verdunning mocht de prijs dalen. Cryptogeld projecten hebben aangetoond dat de voordelen van de groei van gebruikers bereid om het netwerk te vertrouwen met kapitaal, uiteindelijk meer waarde voor het netwerk oplevert dan mogelijke verdunning die kan optreden tijdens een recessie.
 
-### Setting Price Feeds
+### Prijs Feeds Instellen
 
-Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
+Oplettende lezers zullen erkennen dat een rentedragende bezit met beperkte oplage hoger of lager verhandeld kan worden dan de onderliggende waarde, afhankelijk van andere mogelijkheden om rente te verdienen over hetzelfde bezit. Met een hoge rentie die betaald wordt over een bezit gekoppeld aan de USD, zullen veel mensen het beperkte aantal Steem Dollars willen opbieden totdat ze niet langer gelijk staan aan $1. In de economie is er een principe bekend als de Onmogelijke Drievuldigheid[^4] welke stelt dat het onmogelijk is om de volgende drie dingen tegelijkertijd te hebben:
 
-1. A stable exchange rate
-2. Free capital movement
-3. An independent monetary policy
+1. Een stabiele wisselkoers
+2. Vrij kapitaalverkeer
+3. Een onafhankelijke financiële richtlijn
 
-If Steem feed producers aim to have an independent monetary policy allowing it to create and destroy Steem Dollars while simultaneously having full control over the interest rate then they will encounter problems. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
+Als Steem feed producenten proberen om een onafhankelijke financiële richtlijn te hebben die toegestaan is om Steem Dollars te maken en vernietigen terwijl het volledige controle heeft over de rente, dan zullen ze problemen krijgen. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
 
 The primary concern of Steem feed producers is to maintain a stable one-to-one conversion between SBD and the U.S. Dollar (USD). Any time SBD is consistently trading above $1.00 USD interest payments must be stopped. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SBD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
 
