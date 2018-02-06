@@ -112,15 +112,15 @@ Met een tijdvenster van drie en een halve dag hebben gemeenschapsleden ongeveer 
 
 ### Timing Aanvallen Matigen
 
-Market participants have access to information faster than the blockchain’s three and a half day moving median conversion price can react. Deze informatie kan gebruikt worden in het voordeel van handelaren op kosten van de gemeenschap. If there is a sudden increase in the value of STEEM traders could request conversion of their SBD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
+Marktdeelnemers hebben sneller toegang tot informatie dan dat de blockchain's drie en een halve dag bewegende, gemiddelde conversie prijs kan weergeven. Deze informatie kan gebruikt worden in het voordeel van handelaren op kosten van de gemeenschap. Als er een plotselinge stijging plaatsvind in de waarde van Steem, zouden handelaren de omzetting van hun SBD in de oude, lagere prijs kunnen aanvragen en vervolgens de STEEM die ze ontvangen tegen de nieuwe, hogere prijs verkopen met minimaal risico.
 
-Steem levels the playing field by requiring all conversion requests to be delayed for three and a half days. Dit betekent dat noch de handelaren, noch de blockchain enig informatie voordeel heeft betreffende de prijs op het moment dat de conversie word uitgevoerd.
+Steem creëert gelijke kansen door te eisen dat alle conversie verzoeken worden vertraagd met drie en een halve dag. Dit betekent dat noch de handelaren, noch de blockchain enig informatie voordeel heeft betreffende de prijs op het moment dat de conversie word uitgevoerd.
 
 ### Misbruik Van Conversies Minimaliseren
 
-Wanneer mensen vrij zouden kunnen converteren in beide richtingen zouden handelaren kunnen profiteren van de blockchains conversiepercentages door te handelen in grote volumes zonder het veranderen van de prijs. Traders who see a massive run up in price would convert to SBD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SBD to STEEM and not the other way around.
+Wanneer mensen vrij zouden kunnen converteren in beide richtingen zouden handelaren kunnen profiteren van de blockchains conversiepercentages door te handelen in grote volumes zonder het veranderen van de prijs. Handelaren die een enorme aanloop zien in prijs zouden converteren naar SBD tegen de hoge prijs (wanneer het risico hoogst is) en vervolgens terug converteren na de correctie. Het Steem protocol beschermt de gemeenschap van dit soort misbruik door mensen alleen van SBD naar STEEM te laten converteren en niet andersom.
 
-The blockchain decides how and when to create SBD and who should get it. This keeps the rate of SBD creation stable and removes most avenues of abuse.
+De blockchain bepaalt hoe en wanneer SBD gemaakt moeten worden en wie het moet krijgen. Dit houdt het tempo van SBD creatie stabiel en verwijdert de meeste mogelijke misbruikmanieren.
 
 ### Sustainable Debt to Ownership Ratios
 
