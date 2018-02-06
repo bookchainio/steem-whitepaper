@@ -22,7 +22,7 @@
 
 वहां कुछ प्रमुख सिद्धांत है जिस को स्टीम केक बनाने में इस्तेमाल किया गया है| सबसे महत्वपूर्ण सिद्धांत यह है कि हर कोई जो इस उद्यम के लिए योगदान करता है उसको अपने योगदान के हिसाब से मालिकाना हक या भुगतान या इस उद्यम से कर्जा मिलना चाहिए | यह वैसा ही सिद्धांत है जैसा कोई कंपनी शुरू करने पर उनके शेर पर लागू किया जाता है जब वह अपने शहर बनाते और उसके बाद खर्च करते हैं|
 
-The second principle is that all forms of capital are equally valuable. This means that those who contribute their scarce time and attention toward producing and curating content for others are just as valuable as those who contribute their scarce cash. This is the sweat equity principle[^2] and is a concept that prior cryptocurrencies have often had trouble providing to more than a few dozen individuals.
+दूसरा सिद्धांत यह है कि हर प्रकार का धन सभी रूपों में सामान्य रूप से मूल्यवान है| इसका मतलब यह है कि जो लोग दूसरों के लिए अपने दुर्लभ समय और ध्यान से दूसरों के लिए उत्पाद और सामग्री उपचारातमक करते हैं वह वैसे ही मूल्यवान है जैसे कोई अपने दुर्लभ धन का योगदान करता हो This is the sweat equity principle[^2] and is a concept that prior cryptocurrencies have often had trouble providing to more than a few dozen individuals.
 
 The third principle is that the community produces products to serve its members. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
 
