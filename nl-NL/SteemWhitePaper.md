@@ -94,13 +94,13 @@ Stabiliteit is een belangrijke eigenschap van succesvolle, globale economieën. 
 
 Steem Dollars werden gemaakt door een mechanisme vergelijkbaar met dat van converteerbare obligaties, welke vaak gebruikt worden om start-ups te financieren. In de start-up wereld zijn converteerbare obligaties instrumenten van korte termijn schuld die kunnen worden omgezet naar eigendom met een tarief dat beslist wordt in de toekomst, meestal tijdens een volgende subsidieronde. Een blockchain gebaseerd token kan worden gezien als eigendom in de gemeenschap terwijl een converteerbare obligatie gezien kan worden als een aangewezen schuld in een andere grondstof of valuta. De voorwaarden van de converteerbare obligatie stellen de eigenaar in staat om de ondersteunde token te converteren met een minimale wachttijd tegen de eerlijke marktprijs van de token. Het creëren van token-converteerbare-dollars stelt blockchains in staat hun netwerk effect te laten groeien, terwijl het het rendement van token houders maximaliseert.
 
-Steem Dollars worden aangeduid met de afkorting SBD, een acroniem voor Steem Blockchain Dollars. Het creëren van SBD vereist een combinatie van een betrouwbare prijs feed en regels voor het voorkomen van misbruik. Het verstrekken van een betrouwbare prijs feed bestaat uit drie factoren: de impact van een onjuiste feed minimaliseren, de kost van het maken van een onjuiste feed maximaliseren, en het belang van timing minimaliseren.
+Steem Dollars worden aangeduid met de afkorting SBD, een acroniem voor Steem Blockchain Dollars. Het creëren van SBD vereist een combinatie van een betrouwbare prijs feed en regels voor het voorkomen van misbruik. Het verstrekken van een betrouwbare prijs feed bestaat uit drie factoren: de impact van een onjuiste feed minimaliseren, de kosten voor het maken van een onjuiste feed maximaliseren, en het belang van timing minimaliseren.
 
 ### Minimaliseren van Frauduleuze Feeds
 
 SP eigenaren kiezen individuen, getuigen genaamd, om prijs feeds te publiceren. De verkozen getuigen worden vermoedelijk vertrouwd door degenen met gevestigde belangen in de kwaliteit van de feed. Door degenen die verkozen zijn te betalen, creëert Steem markt concurrentie om het recht te verdienen feeds te produceren. Hoe meer de producenten van feeds betaald worden, hoe meer ze te verliezen hebben door het publiceren van valse informatie.
 
-Dankzij een reeks vertrouwde en verkozen feed producenten kan de actuele prijs die gebruikt wordt voor omzetten worden afgeleid van het gemiddelde van de feeds. Op deze manier is het zo dat als een minderheid van individuele feed producenten uitschieters produceert, deze een minimale impact hebben op het werkelijke gemiddelde, terwijl het vermogen om hun reputatie te beïnvloeden behouden wordt.
+Dankzij een reeks vertrouwde en verkozen feed producenten kan de actuele prijs die gebruikt wordt voor omzetten, worden afgeleid van het gemiddelde van de feeds. Op deze manier is het zo dat als een minderheid van individuele feed producenten uitschieters produceert, deze een minimale impact hebben op het werkelijke gemiddelde, terwijl het vermogen om hun reputatie te beïnvloeden behouden wordt.
 
 Zelfs wanneer alle feed producenten eerlijk zijn, is het onmogelijk voor de meerderheid van feed producenten om beïnvloed te worden door gebeurtenissen buiten hun controle. Het Steem netwerk is ontworpen om de korte termijn corruptie van de gemiddelde prijs feed te tolereren, terwijl de gemeenschap actief werkt om de kwestie te corrigeren. Een voorbeeld van een probleem dat enige tijd kan duren om te corrigeren is korte termijn marktmanipulatie. Marktmanipulatie is moeilijk en duur om te onderhouden voor langere perioden. Een ander voorbeeld is het falen van een gecentraliseerd wisselplatform of de corruptie van de data gepubliceerd door het wisselplatform.
 
@@ -152,9 +152,9 @@ Als de schuld tot eigendom ratio lager is dan 10% en de SBD wordt verhandeld voo
 
 Als SBD verhandelt voor minder dan $1.00 USD en de schuld tot eigendom ratio hoog is, moeten de feeds naar boven worden bijgesteld om meer STEEM per SBD te geven. Dit zal de vraag naar SBD doen stijgen terwijl het ook het schuld tot eigendom ratio verminderd en de SBD terugbrengt naar de gelijkheid met de USD.
 
-Ervan uitgaande dat de waarde van STEEM sneller groeit dan dat Steem nieuwe SBD maakt, zou het schuld tot eigendom ratio onder het doelratio moeten blijven en zou iedereen van de rente moeten profiteren. If the value of the network is flat or falling, then any interest offered will only make the debt-to-ownership ratio worse.
+Ervan uitgaande dat de waarde van STEEM sneller groeit dan dat Steem nieuwe SBD maakt, zou het schuld tot eigendom ratio onder het doelratio moeten blijven en zou iedereen van de rente moeten profiteren. Als de waarde van het netwerk plat of dalende is, zal alle rente die wordt aangeboden de schuld tot eigendom ratio alleen maar erger maken.
 
-In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
+In de praktijk zijn feed producenten vertrouwd met de verantwoordelijkheid van het instellen van monetair beleid met als doel het behouden van een stabiele pin aan de USD. Misbruik van deze bevoegdheid kan schade toebrengen aan de waarde van STEEM, dus SP houders doen er verstandig aan om te stemmen voor getuigen die vertrouwd kunnen worden om de prijs feed en rente volgens de bovenstaande regels aan te passen.
 
 If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SBD.
 
@@ -513,9 +513,9 @@ Under most content monetization models, content creators leverage advertising in
 
 Creators posting to social media outlets that are connected to Steem may monetize merely by having their work recognized (or ”liked”) by the Steem community. Blockchain-based payouts are completely digital and have no middle-man. Therefore monetization by blockchain-based content rewards should be faster and much lower barrier to use than monetization by advertisements.
 
-# Conclusion
+# Conclusie
 
-Steem is an experiment designed to address challenges in the cryptocurrency and social media industries by combining the best aspects from both. Steem presents earning opportunities to content creators and internet readers in ways that have not existed within the social media industry. Within Steem, individuals earn real rewards online that are directly correlated to their contributions. Those rewards may have dollar value due to the market price discovery and liquidity of Steem, and the people who hold Steem may have more exclusive earning powers than those who do not.
+Steem is een experiment ontworpen om de uitdagingen van de cryptogeld en sociale media industrieën aan te gaan door de beste aspecten van beide te combineren. Steem zorgt voor mogelijkheden voor content makers en internet lezers om geld te verdienen op manieren die nog niet bestonden in de social media industrie. Binnen Steem ontvangen individuen echte beloningen online die rechtstreeks verbonden zijn met hun bijdragen. Deze beloningen hebben dollar waarde dankzij de markt prijs bevindingen en liquiditeit van Steem, en de mensen die Steem vasthouden hebben meer exclusieve verdien krachten dan zij die dat niet doen.
 
 [^1]: Reddit’s Cryptocurrency, Forbes, Erika Morphy, October 2014 http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/\#4e07b05332b9
 
