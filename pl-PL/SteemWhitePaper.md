@@ -206,7 +206,7 @@ Pewien mężczyzna spacerując po plaży, spotkał człowieka łowiącego ryby w
 
 Podobnie jest z ludźmi. Gdy jeden z nich próbuje zrobić coś innego (udoskonalić się, uciec z nieprzyjemnego otoczenia, marzyć o wielkich rzeczach), inne osoby spróbują go sprowadzić do swojego poziomu tak, aby ten podzielił ich los.
 
-Eliminowanie “nadużyć” (z ang. “abuse”, przyp. tłum.) nie powinno być celem samym w sobie. Nawet Ci, którzy “nadużywają” systemu wciąż wykonują pracę. Jakiekolwiek wynagrodzenie za ich pomyślną próbę nadużycia lub zmowy jest przynajmniej tak wartościowa dla zastosowania dystrybucji waluty jak działające systemy wdrożone w tradycyjnych kopalniach kryptowaluty Bitcoin, lub “zmówione” kopalnie, znane także jako baseny (z ang. mining pools, przyp. tłum.). Wszystko to jest konieczne, by upewnić się, że możliwe nadużycie nie jest na tyle duże, żeby zniechęcało ludzi do prawdziwej pracy we wspieraniu społeczności i jej waluty.
+Eliminowanie “nadużyć” (z ang. “abuse”, przyp. tłum.) nie powinno być celem samym w sobie. Nawet Ci, którzy “nadużywają” systemu wciąż wykonują pracę. Wynagrodzenie, które otrzymaliby za pomyślną próbę nadużycia lub zmowy, jest przynajmniej tak samo wartościowe dla dystrybucji waluty jak systemy wdrożone w tradycyjnych kopalniach kryptowaluty Bitcoin lub “zmówione” kopalnie, znane także jako baseny (z ang. mining pools, przyp. tłum.). Wszystko to jest konieczne, by upewnić się, że możliwe nadużycie nie jest na tyle duże, żeby zniechęcało ludzi do prawdziwej pracy we wspieraniu społeczności i jej waluty.
 
 Budowanie społeczności ma na celu jest sprowadzenie jak większej ilości “krabów do koszyka”. Zachłanność w dążeniu do eliminacji całego globalnego nadużycia jest jak próba zasłonięcia koszyka, by uwięzić parę krabów - znacząco utrudnia to dodawanie nowych krabów do koszyka. Wystarczy stworzyć śliskie ściany i dać innym krabom możliwość przeciwdziałania ucieczce pozostałym.
 
@@ -372,7 +372,7 @@ Innymi słowy, opłaty transakcyjne powinny być równe minimalnemu saldu konta 
 
 W teorii rynek mógłby uformować instrument pozwalający na pożyczenie wymaganej kwoty. W praktyce, wydaje się, że użytkownikom będzie proście po protu kupować i sprzedawać udziały po to, żeby zapewniać sobie wymagany wskaźnik wykorzystania. Innymi słowy, koszt negocjacji mikro pożyczek jest większy niż koszt utrzymania salda odpowiedniego do twojego tygodniowego zapotrzebowania.
 
-Zdecentralizowane ograniczenia transakcji oparte o stopę mogą otwierają umożliwiają powstanie nowych zdecentralizowanych aplikacji, które nie byłyby wykonalne bazując na sytemie mikropłatności. Ten nowy model daje deweloperom aplikacji możliwość zadecydowania "czy" i "kiedy", chcą oni rozliczać swoich użytkowników za transakcje, których ci dokonują.
+Zdecentralizowane ograniczenia transakcji oparte o stopę umożliwiają powstanie nowych zdecentralizowanych aplikacji, których powstanie nie byłoby możliwe w systemie stosującym mikropłatności. Ten nowy model daje deweloperom aplikacji możliwość zadecydowania "czy" i "kiedy", chcą oni rozliczać swoich użytkowników za transakcje, których ci dokonują.
 
 # Wydajność i Skalowalność
 
