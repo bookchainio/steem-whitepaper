@@ -46,7 +46,7 @@
 
 स्टीम मंच पर खाते की मौलिक इकाई स्टीम, एक क्रिप्टो मुद्रा टोकन है । स्टीम, एक-स्टीम, एक-वोट, के आधार पर संचालित होता है । इस मॉडल के हिसाब से, जिस व्यक्ती ने इस मंच के लिए सबसे अधिक योगदान दिया है उसका मतदान मै सबसे अधिक प्रभाव होता है, और इसका हिसाब उसके अपने खाते की शेष राशि से लगाया जाता हैं। इसके अलावा स्टीम उन्हीं सदस्यों को वोट करने देता है जिन सदस्यों ने अपनी स्टीम को अधिकारयुक्ती अनुसूची के लिए प्रतिबंध किया हो। इस मॉडल के तहत, सदस्यों को एक तरह से मतदान करने के लिए एक वित्तीय प्रोत्साहन होता है जो उनके स्टीम के दीर्घकालिक मूल्य को अधिकतम करता है ।
 
-Steem is designed around a relatively simple concept: *everyone’s meaningful contribution to the community should be recognized for the value it adds.* When people are recognized for their meaningful contributions, they continue contributing and the community grows. Any imbalance in the give and take within a community is unsustainable. Eventually the givers grow tired of supporting the takers and disengage from the community.
+सटीम का अवधारण काफ़ी आसान है: *समुदाय में हर किसी सदस्य को उसकी योगदान के हिसाब से मान्यता प्राप्त होनी चाहिए।*जब लोगों को उनके योगदान के हिसाब से मान्यता प्राप्त होती है तो वो अपना योगदान जारी रखते हैं जिसकी वजह से समुदाई बढ़ता है । एक समुदाय में किसी भी लेन देन मैं असंतुलन स्थाई है । Eventually the givers grow tired of supporting the takers and disengage from the community.
 
 The challenge is creating a system capable of identifying what contributions are needed and their relative worth in a way that can scale to an unbounded number of people.
 
