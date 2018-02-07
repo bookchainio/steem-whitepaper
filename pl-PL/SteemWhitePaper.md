@@ -144,7 +144,7 @@ Bystrzy czytelnicy pewnie zdali sobie sprawę z tego, że środki o limitowanej 
 2. Swobodnego przepływu środków pieniężnych.
 3. Niezależnej polityki pieniężnej.
 
-Jeżeli producenci wysokości kursu Steem dążyliby do niezależnej polityki monetarnej, pozwalając tworzyć i usuwać Dolary Steem, jednocześnie posiadając pełną kontrolę nad kursem wymiany, okazałoby się, że w takim wypadku napotkaliby problemy. Zasadna Niemożliwej Trójcy mówi, że Dollary Steem nie muszą ograniczać wolnego przepływu kapitału, mieć niestabilnego współczynnika wymiany z dolarem, ani też ograniczonej kontroli nad wysokością kursu.
+Jeżeli producenci wysokości kursu Steem próbowaliby prowadzić niezależną politykę monetarnej, która pozwoliłaby im tworzyć i niszczyć Dolary Steem przy jednoczesnym zachowaniu pełnej kontroli nad kursem wymiany, napotkaliby problemy. Zasadna Niemożliwej Trójcy mówi, że Dollary Steem nie muszą ograniczać wolnego przepływu kapitału, mieć niestabilnego współczynnika wymiany z dolarem, ani też ograniczonej kontroli nad wysokością kursu.
 
 Pierwszorzędnym celem producentów kursu wymiany jest utrzymywanie stabilnej relacji SBD do Dolara Amerykańskiego (USD) w stosunku jeden do jednego. Za każdym razem, kiedy SBD jest wymieniane po kursie wyższym niż 1$ USD, wypłata udziałów musi zostać zatrzymana. W rynku, gdzie 0% udziałów długu dalej pozostaje pożądanym produktem, można powiedzieć, iż rynek jest chętny wesprzeć go w ilości większej, niż ilość długu możliwa do zaciągnięcia przez społeczność. W takiej sytuacji SBD będzie warte więcej niż 1$ (USD) oraz oznacza to, że grupa osób chcąca tak zwanego ujemnego interesu umownego jest tak mała, że się nie liczy.
 
@@ -358,7 +358,7 @@ Przy podejściu opartym o stopę ograniczającą osoba, która nabyła 1% wszyst
 
 Gdy ktoś posiada dom, oczekuje, że będzie mu wolno go używać za darmo. Jeśli zaś jakaś grupa ludzi kupi dom wspólnie, spodziewają się oni, że będą mogli korzystać z budynku, proporcjonalnie do kwoty, którą wyłożyli na zakup. Blockchain, w którym wprowadzono opłaty, przypomina wynajem domu od jego właścicieli, podczas gdy ograniczenie stopą działa podobnie do współkorzystania z domu przez współwłaścicieli.
 
-Jeżeli dom należy do wielu ludzi, wtedy muszą oni zgodnie zdecydować, w jakim zakresie każdy z nich może korzystać z budynku. Ktoś, kto posiada 50% udziałów w domu, lecz mieszka w nim tylko przez jeden weekend w roku, może oczekiwać, że osoby, które korzystają pod jego nieobecność z nieruchomości, mu zapłacą. Taki sposób myślenia jest podstawą wprowadzania systemu opłat.
+Jeżeli dom należy do wielu ludzi, wtedy muszą oni zgodnie zdecydować, w jakim zakresie każdy z nich może korzystać z budynku. Ktoś, kto posiada 50% udziałów w domu, lecz mieszka w nim tylko przez jeden weekend w roku, może oczekiwać, że osoby, które korzystają pod jego nieobecność z nieruchomości, zapłacą mu za to. Taki sposób myślenia jest podstawą wprowadzania systemu opłat.
 
 Z drugiej strony, ktoś kto posiada 50% udziałów w domu, może założyć, że popyt na nieruchomość będzie wzrastać, a w rezultacie po jakimś czasie będzie można sprzedać ją po wyższej cenie. Każdy, kto posiada więcej domów niż jest to mu potrzebne na zaspokojenie własnych potrzeb, staje się spekulantem na rynku nieruchomości. Dzięki takiemu sposobowi myślenia, właściciele zamiast koncentrować się na samym zbieraniu czynszu, starają się raczej rozsławić swój budynek wokoło tak, aby zyskał on pozytywną reputację.
 
