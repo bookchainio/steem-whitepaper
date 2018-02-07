@@ -38,7 +38,7 @@
 
 ## योगदान की मान्यता
 
-स्टीम को मुख्य रूप से इस काम के लिए बनाया गया है कि वो सामाजिक मीडीया आधारित अर्थव्यवस्था को अपनाने और मुद्राकरण के प्रमुख बाधाओं को हटाएँ । Our thesis is that the same techniques used to grow major social media platforms can be used to bootstrap a successful cryptocurrency. Economic incentives enabled by cryptocurrency can dramatically facilitate the growth of a new social media platform. It is the synergy between cryptocurrency and social media that we believe may give Steem a powerful advantage in the market.
+स्टीम को मुख्य रूप से इस काम के लिए बनाया गया है कि वो सामाजिक मीडीया आधारित अर्थव्यवस्था को अपनाने और मुद्राकरण के प्रमुख बाधाओं को हटाएँ । हमारी मान्यता है कि जो तकनीके सामाजिक मीडीया मंच को बढ़ावा देने में सक्षम हैं वह क्रपटो कारनसी को सफल बना सकती है । क्रिप्टोकरेंसी द्वारा सक्षम आर्थिक प्रोत्साहन नाटकीय रूप से एक नए सामाजिक मीडिया मंच के विकास को सुगम कर सकता है । यह क्रिप्टोकरेंसी और सामाजिक मीडिया के बीच तालमेल है जिसे हम स्टीम को बाजार में एक शक्तिशाली लाभ मिल सकता हैं ।
 
 The challenge faced by Steem is deriving an algorithm for scoring individual contributions that most community members consider to be a fair assessment of the subjective value of each contribution. In a perfect world, community members would cooperate to rate each other's contribution and derive a fair compensation. In the real world, algorithms must be designed in such a manner that they are resistant to intentional manipulation for profit. Any widespread abuse of the scoring system could cause community members to lose faith in the perceived fairness of the economic system.
 
