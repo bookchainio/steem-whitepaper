@@ -164,11 +164,11 @@ Het is onze overtuiging dat deze regels marktdeelnemers vertrouwen zal geven dat
 
 ## Subjectieve Contributies
 
-Subjective Proof of Work presents an alternative approach to distributing a currency that improves upon fully *objective* Proof of Work systems such as mining. The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
+Subjectief Bewijs van Werk (Proof of Work) presenteert een alternatieve benadering tot het verdelen van een munteenheid die verbeteringen brengt ten opzichte van volledig *objectieve* Bewijs van Werk systemen zoals mijnen (mining). De toepassing van een munteenheid die *subjectief* bewijs van werk implementeert gaan verder dan *objectieve* bewijs van werk systemen omdat ze kunnen worden toegepast om een gemeenschap te bouwen rond een concept dat een voldoende omschreven doel heeft. Wanneer individuen deelnemen aan een gemeenschap gaan ze meedoen met een bepaalde set overtuigingen en kunnen ze stemmen om de waarden of het doel van de gemeenschap te versterken.
 
-In effect, the criteria by which work is evaluated is completely subjective and its definition lives outside the source code itself. One community may wish to reward artists, another poets, and another comedians. Other communities may choose to reward charitable causes or help advance political agendas.
+In feite zijn de criteria waaraan werk wordt geëvalueerd volledig subjectief en leeft haar definitie buiten de source code zelf. Een bepaalde gemeenschap kan er voor kiezen kunstenaars te belonen, een andere gemeenschap dichters en weer een andere komieken. Andere gemeenschappen kunnen er voor kiezen om goede doelen te belonen, of politieke agenda's te steunen.
 
-The value each currency achieves depends upon the demand for influence within a particular community and how large the market believes each community can get. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
+De waarde van elke valuta is afhankelijk van de vraag voor invloed binnen een bepaalde gemeenschap en hoe groot de markt gelooft dat de gemeenschap kan worden. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
 
 ### Valuta Distribueren
 
