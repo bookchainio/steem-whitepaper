@@ -156,9 +156,9 @@ Ervan uitgaande dat de waarde van STEEM sneller groeit dan dat Steem nieuwe SBD 
 
 In de praktijk zijn feed producenten vertrouwd met de verantwoordelijkheid van het instellen van monetair beleid met als doel het behouden van een stabiele pin aan de USD. Misbruik van deze bevoegdheid kan schade toebrengen aan de waarde van STEEM, dus SP houders doen er verstandig aan om te stemmen voor getuigen die vertrouwd kunnen worden om de prijs feed en rente volgens de bovenstaande regels aan te passen.
 
-If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SBD.
+Als de verhouding tussen schuld en eigendom gevaarlijk hoog wordt en marktdeelnemers er voor kiezen om omzettingsaanvragen te voorkomen, zou de feed aangepast moeten worden om de hoeveelheid STEEM die uitbetaald wordt bij het converteren vanuit SBD, te verhogen.
 
-Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SBD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions.
+Wijzigingen in het rentebeleid en/of bij premies/kortingen op de omrekeningskoers van STEEM/SBD moeten een langzaam en afgemeten antwoord zijn op lange termijn afwijkingen in plaats van te proberen op korte termijn marktomstandigheden te reageren.
 
 It is our belief that these rules will give market participants confidence that they are unlikely lose money by holding SBD purchased at a price of $1.00. We gaan volledig uit van een nauwe ruilwaarde tussen de $0,95 en $1,00 voor SBD onder normale marktomstandigheden.
 
