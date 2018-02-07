@@ -34,9 +34,9 @@
 4. मुफ्त भुगतान ।
 5. अंय सदस्यों को उपरोक्त सेवाएं प्रदान करने वाली नौकरियां ।
 
-Steem’s purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem’s incentives may result in better outcomes for most participants.
+स्टीम अपने पहले सामाजिक मीडीया और क्रपटो कारनसी मंच के मुक़ाबले में आर्थिक प्रोत्साहन के उद्देश्यपूर्ण पुनर्निर्माण में सबके लिए निष्पक्ष नतीजे निकालने की क्षमता है। यहाँ हम मौजूदा आर्थिक सुविधाओं का विश्लेषण करेंगे और दिखाएंगे कैसे स्टीम प्रोत्साहन से काफ़ी सदस्यों का विकास हो सकता है।
 
-## Recognizing Contribution
+## योगदान की मान्यता
 
 Steem is designed from the ground up to address the major barriers to adoption and monetization of a social media based economy. Our thesis is that the same techniques used to grow major social media platforms can be used to bootstrap a successful cryptocurrency. Economic incentives enabled by cryptocurrency can dramatically facilitate the growth of a new social media platform. It is the synergy between cryptocurrency and social media that we believe may give Steem a powerful advantage in the market.
 
