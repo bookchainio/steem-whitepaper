@@ -160,7 +160,7 @@ Als de verhouding tussen schuld en eigendom gevaarlijk hoog wordt en marktdeelne
 
 Wijzigingen in het rentebeleid en/of bij premies/kortingen op de omrekeningskoers van STEEM/SBD moeten een langzaam en afgemeten antwoord zijn op lange termijn afwijkingen in plaats van te proberen op korte termijn marktomstandigheden te reageren.
 
-It is our belief that these rules will give market participants confidence that they are unlikely lose money by holding SBD purchased at a price of $1.00. We gaan volledig uit van een nauwe ruilwaarde tussen de $0,95 en $1,00 voor SBD onder normale marktomstandigheden.
+Het is onze overtuiging dat deze regels marktdeelnemers vertrouwen zal geven dat het onwaarschijnlijk is dat ze geld zullen verliezen door SBD te houden wat gekocht is voor een prijs van $1,00. We gaan volledig uit van een nauwe ruilwaarde tussen de $0,95 en $1,00 voor SBD onder normale marktomstandigheden.
 
 ## Subjectieve Contributies
 
