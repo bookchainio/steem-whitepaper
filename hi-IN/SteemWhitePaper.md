@@ -42,7 +42,7 @@
 
 स्टीम चुनौतियों का सामना कर के व्यक्तिगत योगदान कलन विधि करता है जिसको अधिक समुदाय के सदस्य अपने प्रतीक योगदान का मूल्य निष्पक्ष समझते हैं। एक आदर्श दुनिया में, समुदाय के सदस्य एक दूसरे के सहयोग से वो अपने योगदान की जाँच करके निष्पक्ष मुआवज़ा लेते हैं । असल दुनिया में कलन विधि को इस प्रकार से बनाया जाना चाहिए कि वो जान बूझ की हेर फेर से किए जाने वाले मुनाफ़े को रोक पाऐ। Any widespread abuse of the scoring system could cause community members to lose faith in the perceived fairness of the economic system.
 
-Existing platforms operate on a one-user, one-vote principle. This creates an environment where rankings can be manipulated by sybil attacks and the service providers must pro-actively identify and block abusers. People already attempt to manipulate the Reddit, Facebook, and Twitter scoring algorithms when the only reward is web traffic or censorship.
+मौजूदा प्लेटफार्मों एक उपयोगकर्ता, एक वोट सिद्धांत पर काम करते हैं । This creates an environment where rankings can be manipulated by sybil attacks and the service providers must pro-actively identify and block abusers. People already attempt to manipulate the Reddit, Facebook, and Twitter scoring algorithms when the only reward is web traffic or censorship.
 
 The fundamental unit of account on the Steem platform is STEEM, a crypto currency token. Steem operates on the basis of one-STEEM, one-vote. Under this model, individuals who have contributed the most to the platform, as measured by their account balance, have the most influence over how contributions are scored. Furthermore, Steem only allows members to vote with STEEM when it is committed to a vesting schedule. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
 
