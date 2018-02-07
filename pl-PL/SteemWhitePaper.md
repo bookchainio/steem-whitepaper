@@ -128,7 +128,7 @@ Jeżeli token jest postrzegany jako własność w całej podaży żetonów, wted
 
 Szybka zmiana wartości STEEM może znacząco zmienić wartość współczynnika długu do własności. Technologia blockchain zapobiega sytuacji, w której współczynnik długu do własności jest zbyt wysoki. Robi to poprzez redukowanie emisji STEEM wypuszczanego w formie SBD w w momencie, gdy poziom długu przekroczy 10%. Jeżeli ilość długu SBD kiedykolwiek przekroczy 10% całkowitej wartości rynku steem, blockchain automatycznie zredukuje ilość generowanego STEEM poprzez konwersje do maksymalnie 10% wartości rynku. Instrument ten gwarantuje, że współczynnik długu do własności w blockchainie nigdy nie przekroczy 10%.
 
-Dolne limity trudności obliczania procesu wytwarzania STEEM bazowane są na aktualnej podaży, włączając w to wartość rynku STEEM, lecz wyróżniając ją spośród wartości ryków SBD oraz SP (determinowane przez aktualny współczynnik popytu/podaży).
+Dolne limity trudności używanie do obliczenia procesu wytwarzania STEEMb bazują na aktualnej podaży, wliczając w to wartość rynku SBD i SP obliczaną w STEEM na podstawie aktualnego współczynnik wysokości kursu walut.
 
 ### Udziały
 
@@ -138,15 +138,15 @@ Posiadacze STEEM oraz SP zdobywają przewagę, kiedy członkowie społeczności 
 
 ### Ustalanie cen wysokości opłat
 
-Bystrzy czytelnicy pewnie zdali sobie sprawę z tego, że środki o limitowanej podaży przynoszące odsetki mogą mieć wyższą lub niższą wartość niż to, od czego zależą. Wpływają na to inne możliwości zarobku bazujące na tych samych aktywach. Posiadając wysoki współczynnik zysku w kapitale ściśle powiązanym z Dolarem Amerykańskim wielu ludzi będzie konkurować o Steem Dollara, czego razultatem będzie cena wyższa niż 1$. W ekonomii isnieje reguła nazywana Niemożliwą Trójcą [^4], która stwierdza, że nie można mieć wszystkich trzech poniższych elementów w tym samym czasie:
+Bystrzy czytelnicy pewnie zdali sobie sprawę z tego, że produkty, które przynoszą odsetki, mogą kosztować więcej lub mniej od towaru, na którym bazują. Ta cena zależy w dużej mierze na tym, czy dany produkt może przynieść dodatkowe możliwości zarobku. W przypadku jeśli współczynnik zysku będzie bardzo wysoki, wielu ludzi będzie konkurować o Steem Dolara, aż w końcu będzie on wart więcej niż 1$. W ekonomii isnieje reguła nazywana Niemożliwą Trójcą [^4], która stwierdza, że nie można mieć wszystkich trzech poniższych elementów w tym samym czasie:
 
 1. Stabilnego kursu wymiany.
 2. Swobodnego przepływu środków pieniężnych.
 3. Niezależnej polityki pieniężnej.
 
-Jeżeli producenci wysokości kursu Steem próbowaliby prowadzić niezależną politykę monetarnej, która pozwoliłaby im tworzyć i niszczyć Dolary Steem przy jednoczesnym zachowaniu pełnej kontroli nad kursem wymiany, napotkaliby problemy. Zasadna Niemożliwej Trójcy mówi, że Dollary Steem nie muszą ograniczać wolnego przepływu kapitału, mieć niestabilnego współczynnika wymiany z dolarem, ani też ograniczonej kontroli nad wysokością kursu.
+Jeżeli producenci wysokości kursu Steem próbowaliby prowadzić niezależną politykę monetarnej, która pozwoliłaby im tworzyć i niszczyć Dolary Steem przy jednoczesnym zachowaniu pełnej kontroli nad kursem wymiany, napotkaliby problemy. Zasadna Niemożliwej Trójcy powoduje, że Dolary Steem muszą wprowadzić jedną z trzech poniższych zasad: ograniczyć wolny przepływ kapitału, mieć niestabilny współczynnik wymiany z dolarem lub wprowadzić ograniczoną kontrolę nad wysokością kursu.
 
-Pierwszorzędnym celem producentów kursu wymiany jest utrzymywanie stabilnej relacji SBD do Dolara Amerykańskiego (USD) w stosunku jeden do jednego. Za każdym razem, kiedy SBD jest wymieniane po kursie wyższym niż 1$ USD, wypłata udziałów musi zostać zatrzymana. W rynku, gdzie 0% udziałów długu dalej pozostaje pożądanym produktem, można powiedzieć, iż rynek jest chętny wesprzeć go w ilości większej, niż ilość długu możliwa do zaciągnięcia przez społeczność. W takiej sytuacji SBD będzie warte więcej niż 1$ (USD) oraz oznacza to, że grupa osób chcąca tak zwanego ujemnego interesu umownego jest tak mała, że się nie liczy.
+Pierwszorzędnym celem producentów kursu wymiany jest utrzymywanie stabilnej relacji SBD do Dolara Amerykańskiego (USD) w stosunku jeden do jednego. Za każdym razem, kiedy SBD jest wymieniane po kursie wyższym niż 1$ USD, wypłata udziałów musi zostać zatrzymana. W rynku, gdzie 0% udziałów długu dalej pozostaje pożądanym produktem, można powiedzieć, iż rynek jest chętny wesprzeć go w ilości większej, niż ilość długu możliwa do zaciągnięcia przez społeczność. W takiej sytuacji SBD będzie warte więcej niż 1$ (USD) oraz oznacza to, że społeczność nie będzie mogła zbyt wiele zrobić bez wprowadzenia ujemnej stopy procentowej.
 
 Jeżeli współczynnik długu do własności jest mały, a SBD jest wymieniane po kursie niższym niż 1$ (USD), wtedy kurs SBD powinien zostać podwyższony. Zachęci to większą ilość osób do trzymania SBD i wspierania ceny.
 
@@ -320,7 +320,7 @@ Pojemność technologii blockchain niekoniecznie musi być ograniczona. Infrastr
 
 ### Porównanie z wysokością opłat
 
-Jeśli założymy, że użytkownicy z saldem BTC o wartości 25$ dokonują transakcji raz w tygodniu i za każdym uiszczają 0.04$ opłat, wtedy rocznie na same opłaty traciliby około 2.00$. W takim wypadku, każdy musiałby zarobić minimum 8% z ich 25$, by wyjść na zero. Istnieje szansa, że użytkownicy i tak zdecydowaliby się trzymać swoje środki wewnątrz technologii blockchain, wtedy ów użytkownik z 25$ środków zaoszczędziłby 2% w skali roku poprzez zastosowanie bazującego podejścia ograniczającego szybkość, w przeciwieństwie do zastosowania opartego o podatek. Uzytkownicy z kapitałem 175$ dokonujący transakcji codziennie mogliby w ten sposób zaoszczędzić 14$ rocznie.
+Jeśli założymy, że użytkownicy z saldem BTC o wartości 25$ dokonują transakcji raz w tygodniu i za każdym uiszczają 0.04$ opłat, wtedy rocznie na same opłaty traciliby około 2.00$. W takim wypadku, każdy musiałby zarobić minimum 8% z ich 25$, by wyjść na zero. Istnieje szansa, że użytkownicy i tak zdecydowaliby się trzymać swoje środki wewnątrz technologii blockchain. W takim wypadku w przypadku zastosowania rozwiązania opartego o stopę prawa głosu użytkownik, który posiada 25$ środków na koncie, zaoszczędziły 2$ w ciągu roku. Uzytkownicy z kapitałem 175$ dokonujący transakcji codziennie mogliby w ten sposób zaoszczędzić 14$ rocznie.
 
 ### Proces tworzenie konta
 
@@ -330,7 +330,7 @@ Moża też wyobrazić sobie sytuację, w której konto o niskim saldzie założo
 
 Aby dać użytkownikowi czas na nabycie doświadczenia na platformie, jednocześnie minimalizując ilość martwych kont, wszyscy nowy użytkownicy powinni zaczynać z saldem dziesięciokrotnie większym niż minimum transakcyjne. Tym sposobem, nawet jeśli popyt wzrośnie dziesięciokrotnie, konto nadal będzie rentowne.
 
-Owe początkowe saldo musi wywodzić się ze strony użytkownika, nie platformy, aby zapobiec nadużyciom opartym o tworzenie dużej ilości kont w celu korzyści dla jednostki.
+Owe początkowe saldo musi wynikać z samego faktu założenia nowego konta. Nie może ono wymagać tworzenia nowych tokenów, ponieważ w innym wypadku skłaniałoby to do prób nadużywania platformy poprzez tworzenie dużych ilości fałszywych kont.
 
 ### Powód obecności minimalnego salda
 
