@@ -1,6 +1,6 @@
 # Steem
 
-## Platforma oparta o technologię blockchain, zachęcająca to publikowania treści.
+## Zdecentralizowana, publiczna platforma oparta o technologię blockchain, zachęcająca to publikowania materiałów.
 
 Sierpień 2017
 
@@ -334,13 +334,13 @@ Owe początkowe saldo musi wywodzić się ze strony użytkownika, nie platformy,
 
 ### Powód obecności minimalnego salda
 
-Koncept zmuszenia użytkownika do zachowania minimalnego salda na platformie wywodzi się wartości użytkownika[^10]. Każdy, kto ma styczność z biznesem, wie, że użytkownik ma znaczącą wartość. Firmy potrafią wydać od 30 do 200 dolarów, by przyciągnąć do siebie użytkowników. Czasem płacą im one bezpośrednio, czasem w formie reklamy, a czasami kupują całe firmy tylko po to, żeby wykorzystywać należące do nich bazy użytkowników. Po tym, jak firma zdobywa użytkownika, często oferuje mu wiele *darmowych usług* tylko po to, by zatrzymać go wystarczająco długo, żeby zmonetyzować go w inny sposób.
+Zmuszanie użytkownika do zachowania minimalnego salda na platformie wywodzi się z konceptu wartości użytkownika[^10]. Każdy, kto ma styczność z biznesem, wie, że użytkownicy mają znaczącą wartość. Firmy potrafią wydać od 30 do 200 dolarów, by przyciągnąć do siebie użytkowników. Czasem płacą im one bezpośrednio, czasem w formie reklamy, a czasami kupują całe firmy tylko po to, żeby wykorzystywać należące do nich bazy użytkowników. Po tym, jak firma zdobywa użytkownika, często oferuje mu wiele *darmowych usług* tylko po to, by zatrzymać go wystarczająco długo, żeby zmonetyzować go w inny sposób.
 
 Ripple używa podobnego rozwiązania minimalnego salda [^11], które skaluje się wraz z zasobami konta i wymaga od nowych kont posiadania wcześniej wspomnianego minimalnego salda. Obecnie wynosi ono około 15 centów, co i tak jest kwotą wyższą niż 10 centów, które naszym zdaniem pozwoliłoby użytkownikowi na swobodne dokonywanie transakcji co najmniej raz w tygodniu.
 
 Technologia blockchain wymaga zachowania minimalnej wartości konta użytkownika, co wiąże się z wymuszeniem na nim zachowania minimalnej wysokości salda. Jeśli jakaś firma chce sprowadzić nowego użytkownika do ekosystemu, może ufundować mu założenie konta, finansując minimalną wysokość salda, która pozwoli mu na dokonywanie transakcji. Wymaganie stosunkowo dużej opłaty (1.00$) w celu rejestracji zmusi serwisy oferujące założenie darmowego konta do nadzorowania jakości oraz weryfikacji użytkowników.
 
-Utrzymywanie minimalnego salda jest koniec końców tym samym mechanizmem, co wprowadzanie opłat transakcyjnych, które użytkownicy musieli by zapłacić od zarobionego dochodu. Minimalne saldo odpowiada wartości, która pozwala zarob wystarczająco dużo, aby opłacić ukrytą opłatę w relatywnie krótkim czasie.
+Utrzymywanie minimalnego salda jest koniec końców tym samym mechanizmem, co wprowadzanie opłat transakcyjnych, które użytkownicy muszą płacić od zarobionego dochodu. Minimalne saldo odpowiada wartości, która pozwala zarobić wystarczająco dużo, aby opłacić w relatywnie krótkim czasie ukrytą opłatę.
 
 Na szczęście, możemy ograniczyć wysokość minimalnego salda do wartości jednego dolara. Wydaje nam się, że jest to kwota, na którą użytkownicy mogą się zgodzić. Koszt utraty dochodu nie wpływa na koszt poznania tak jak w przypadku mikro opłat i jest o wiele bardziej akceptowalny dla użytkowników.
 
