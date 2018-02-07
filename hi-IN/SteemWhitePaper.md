@@ -1,6 +1,6 @@
 # स्टीम
 
-## एक प्रोत्साहित, ब्लॉकचैन आधारित, सार्वजनिक सामग्री मंच ।
+## An incentivized, blockchain-based, public content platform.
 
 अगस्त २०१७
 
