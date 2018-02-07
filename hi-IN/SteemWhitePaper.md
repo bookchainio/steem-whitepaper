@@ -24,11 +24,11 @@
 
 दूसरा सिद्धांत यह है कि हर प्रकार का धन सभी रूपों में सामान्य रूप से मूल्यवान है| इसका मतलब यह है कि जो लोग दूसरों के लिए अपने दुर्लभ समय और ध्यान से दूसरों के लिए उत्पाद और सामग्री उपचारातमक करते हैं वह वैसे ही मूल्यवान है जैसे कोई अपने दुर्लभ धन का योगदान करता हो इसको हम मेहनत बराबर सिद्धांत[^2] बोलते हैं और इस अवधारणा को पहली वाली सारी क्रिप्टो करेंसी 1 दर्जन से अधिक व्यक्तियों में लागू करने में अक्सर परेशानी होती थी|
 
-तीसरा सिद्धांत यह है कि समुदाय अपने सदस्यों की सेवा के लिए उत्पादों का उत्पादन करता है । This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
+तीसरा सिद्धांत यह है कि समुदाय अपने सदस्यों की सेवा के लिए उत्पादों का उत्पादन करता है । इस सिद्धांत की मिसाल हम क्रेडिट यून्यन, ख़ान पान की चीज़ें और सेहत की योजनायें दे सकते हैं जो एक समुदाय के सदस्यों की सेवा के लिए बने हैं और समुदाय के बाहर इन चीज़ों और सुविधाओं को नहीं बेचते ।
 
-The Steem community provides the following services to its members:
+सटीम समुदाई अपने सदस्यों को यही ये सेवाएँ प्रदान करते हैं:
 
-1. A source of curated news and commentary.
+1. उपचारात्मक समाचार और कमेंटरी के एक स्रोत ।
 2. A means to get high quality answers to personalized questions.
 3. A stable cryptocurrency pegged to the U.S. dollar.
 4. Free payments.
