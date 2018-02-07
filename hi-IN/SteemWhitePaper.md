@@ -29,10 +29,10 @@
 सटीम समुदाई अपने सदस्यों को यही ये सेवाएँ प्रदान करते हैं:
 
 1. उपचारात्मक समाचार और कमेंटरी के एक स्रोत ।
-2. A means to get high quality answers to personalized questions.
-3. A stable cryptocurrency pegged to the U.S. dollar.
-4. Free payments.
-5. Jobs providing above services to other members.
+2. व्यक्तिगत प्रश्नों का उच्च और गुणवान उत्तर प्राप्त करने का साधन देता है ।
+3. एक स्थिर क्रिप्टोकरेंसी अमेरिकी डॉलर के साथ आंकी गई ।
+4. मुफ्त भुगतान ।
+5. अंय सदस्यों को उपरोक्त सेवाएं प्रदान करने वाली नौकरियां ।
 
 Steem’s purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem’s incentives may result in better outcomes for most participants.
 
