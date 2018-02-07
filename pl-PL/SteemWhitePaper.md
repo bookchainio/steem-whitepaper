@@ -154,11 +154,11 @@ Jeżeli kurs SBD stoi na poziomie niższym niż 1$ (USD), a współczynnik dług
 
 Zakładajac, że wartość STEEM rośnie szybciej niż platorma Steem tworzy nowe SBD, wartość współczynnika długu do własności powinna pozostać poniżej docelowego stosunku - wtedy oferowane udziały będą przynosić korzyści każdemu. Jeżeli wartość sieci pozostaje na tym samym poziomie lub spada, każde oferowane udziały będą pogarszać współczynnik długu do własności.
 
-W efekcie, wytwórcom kursu powierzona jest odpowiedzialność za ustalenie polityki monetarnej mającej na celu utrzymania stabilnego kursu SBD w stosunku do USD. Nadużycie tej władzy może zaszkodzić wartości STEEM, więc posiadacze SP są zobowiązanie do głosowania na świadków, na których można liczyć w kwestii dostosowywania wartości kursu oraz udziałów w odniesieniu do zasad wspomnianych wyżej.
+W efekcie, wytwórcom kursu powierzona jest odpowiedzialność za ustalenie polityki monetarnej mającej na celu utrzymania stabilnego kursu SBD w stosunku do USD. Nadużycie tej władzy może zaszkodzić wartości STEEM, więc posiadacze SP powinni głosować na świadków, na których można liczyć w kwestii dostosowywania wartości kursu oraz udziałów zgodnie z zasadami wspomnianymi wyżej.
 
 Jeżeli współczynnik długu do własności zaczyna osiągać niebezpiecznie wysoki poziom a członkowie rynku unikają wymian, kurs po którym STEEM jest wypłacany za wymianę SBD powinien zostać zwiększony.
 
-Zmiana polityki wydawania udziałów i/lub jakiekolwiek inne premie/przeceny na rynku STEEM/SBD powinny być powolne i mierzone pod kątem możliwych długoterminowych zysków lub odchyneń, aniżeli próbowanie zareagować na zmiany warunków rynku w krótkim odstępie czasu.
+Zmiana polityki wydawania udziałów i/lub jakiekolwiek inne premie/przeceny na rynku STEEM/SBD powinny być powolne i mierzone pod kątem możliwych długoterminowych zysków lub długofalowych przeobrażeń sytuacji. Nie powinny one być reakcję na krótkoterminowe zmiany warunków rynku.
 
 Wierzymy, że te zasady dadzą członkom gospodarki pewność, że nie stracą pieniędzy, jeśli zatrzymają w swoim potfelu SB, które kupili po kursie 1.00$ (USD). Jesteśmy przekonani, że w normalnych warunkach rynkowych kurs wymiany SBD będzie oscylował pomiędzy 0.95$ (USD) a 1.05$ (USD).
 
