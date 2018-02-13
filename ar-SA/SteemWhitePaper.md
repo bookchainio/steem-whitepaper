@@ -98,7 +98,7 @@
 
 ### تقليل التغدية الاحتيالية
 
-SP holders elect individuals, called witnesses, to publish price feeds. The elected witnesses are presumably trusted by those who have a vested interest in the quality of the feed. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
+اصحاب ستيم باور ينتخبون ، اشخاص يسمون شهود ، لنشر تغدية السعر. The elected witnesses are presumably trusted by those who have a vested interest in the quality of the feed. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
 
 Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
 
@@ -521,13 +521,13 @@ Creators posting to social media outlets that are connected to Steem may monetiz
 
 [^2]: Sweat Equity, Investopedia http://www.investopedia.com/terms/s/sweatequity.asp
 
-[^3]: Meta-moderation is a second level of comment moderation. Users are invited to rate a moderator's decision in order to improve moderation. https://en.wikipedia.org/wiki/Meta-moderation\_system
+[^3]: يعد الإشراف الثانوي مستوى ثان من الإشراف على التعليقات. يرجى من المستخدمين تقييم قرار المشرف من أجل تحسين الإشراف. https://en.wikipedia.org/wiki/Meta-moderation\_system
 
 [^4]: The Impossible Trinity, economic theory https://en.wikipedia.org/wiki/Impossible\_trinity
 
 [^5]: N-Person Prisoner’s Dilemma https://cs.stanford.edu/people/eroberts/courses/soco/projects/1998-99/game-theory/npd.html
 
-[^6]: The Story of the Crab Bucket http://guidezone.e-guiding.com/jmstory\_crabs.htm
+[^6]: قصة دلو السلطعون http://guidezone.e-guiding.com/jmstory\_crabs.htm
 
 [^7]: Zipf’s Law https://en.wikipedia.org/wiki/Zipf%27s\_law
 
@@ -545,16 +545,16 @@ Creators posting to social media outlets that are connected to Steem may monetiz
 
 [^14]: Introducing Intel Optane Technology – Bringing 3D XPoint Memory to Storage and Memory Products https://newsroom.intel.com/press-kits/introducing-intel-optane-technology-bringing-3d-xpoint-memory-to-storage-and-memory-products/
 
-[^15]: United States Money Supply, 2009 https://research.stlouisfed.org/fred2/graph/?s%5B1%5D%5Bid%5D=AMBNS
+[^15]: عرض النقود في الولايات المتحدة، 2009 https://research.stlouisfed.org/fred2/graph/?s%5B1%5D%5Bid%5D=AMBNS
 
-[^16]: CPI Inflation Index, United States Dollar 2008-2016 http://data.bls.gov/cgi-bin/cpicalc.pl?cost1=1&year1=2008&year2=2016
+[^16]: مؤشر التضخم CPI، "الولايات المتحدة" الدولار 2008-2016 http://data.bls.gov/cgi-bin/cpicalc.pl?cost1=1&year1=2008&year2=2016
 
-[^17]: Bitcoin Annual Inflation Rate, Bitcoin Talk Forum https://bitcointalk.org/index.php?topic=130619.0
+[^17]: معدل التضخم السنوي بيتكوين، "منتدى نقاش بيتكوين" https://bitcointalk.org/index.php?topic=130619.0
 
-[^18]: Reddit Valuaton, Newsweek, 2014 http://www.newsweek.com/investors-think-reddit-worth-500-million-26
+[^18]: فالواتون Reddit، مجلة نيوزويك، 2014 http://www.newsweek.com/investors-think-reddit-worth-500-million-26
 
-[^19]: Worth of Web, March 2016 http://www.worthofweb.com/website-value/reddit.com/
+[^19]: قيمت ويب، آذار/مارس 2016 http://www.worthofweb.com/website-value/reddit.com/
 
-[^20]: Micropayments: A Viable Business Model http://www.openp2p.com/pub/a/p2p/2000/12/19/micropayments.html
+[^20]: Micropayments: "نموذج الأعمال التجارية قابلة للتطبيق" http://www.openp2p.com/pub/a/p2p/2000/12/19/micropayments.html
 
-[^21]: Dailydot, Jon Southurt, April 2015 http://www.dailydot.com/opinion/bitcoin-cryptocurrency-adoption-hard
+[^21]: ديليدوت، جون ستورت، نيسان/أبريل 2015 http://www.dailydot.com/opinion/bitcoin-cryptocurrency-adoption-hard
