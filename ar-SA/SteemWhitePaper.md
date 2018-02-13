@@ -98,11 +98,11 @@
 
 ### تقليل التغدية الاحتيالية
 
-اصحاب ستيم باور ينتخبون ، اشخاص يسمون شهود ، لنشر تغدية السعر. The elected witnesses are presumably trusted by those who have a vested interest in the quality of the feed. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
+اصحاب ستيم باور ينتخبون ، اشخاص يسمون شهود ، لنشر تغدية السعر. ويفترض أن الشهود المنتخبين يثق بهم أولئك الذين لديهم مصلحة خاصة في نوعية التغدية. من خلال دفع أولئك الذين يتم انتخابهم، ستيم يخلق المنافسة في السوق لكسب الحق في إنتاج التغدية. وكلما ازدادت قيمة منتجي التغدية كلما خسروا من خلال نشر معلومات كاذبة.
 
-Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
+وبالنظر إلى مجموعة من منتجي التغدية الموثوق بهم والمنتخبين، يمكن استخلاص السعر الفعلي المستخدم للتحويلات كمتوسط للخلاصات. وبهذه الطريقة إذا كانت أي أقلية من منتجي التغدية الفرديين ينتجون قيم شاذة يكون لها تأثير ضئيل على الوسيلة الفعلية في حين لا يزال لديهم القدرة على التأثير على سمعتهم.
 
-Even if all feed producers are honest, it is possible for the majority of feed producers to be impacted by events beyond their control. The Steem network is designed to tolerate short-term corruption of the median price feed while the community actively works to correct the issue. أحد الأمثلة على المشكلة التي قد تستغرق بعض الوقت للتصحيح هي التلاعب في السوق على المدى القصير. تلاعب السوق أمر صعب ومكلف  للحفاظ على لفترات طويلة من الزمن. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
+وحتى إذا كان كل منتجي التغدية صادقين، فمن الممكن أن يتأثر معظم منتجي التغدية بأحداث خارجة عن إرادتهم. تم تصميم شبكة ستيم لتحمل الفساد على المدى القصير من متوسط التغدية في حين أن المجتمع يعمل بنشاط لتصحيح هذه المسألة. أحد الأمثلة على المشكلة التي قد تستغرق بعض الوقت للتصحيح هي التلاعب في السوق على المدى القصير. تلاعب السوق أمر صعب ومكلف  للحفاظ على لفترات طويلة من الزمن. ومثال آخر هو فشل التبادل المركزي أو فساد البيانات التي ينشرها التبادل.
 
 Steem factors out short-term price fluctuations by using the median price over a period of three and a half days. The median published feed is sampled every hour on the hour.
 
@@ -515,7 +515,7 @@ Creators posting to social media outlets that are connected to Steem may monetiz
 
 # استنتاج
 
-ستيم هي تجربة مصممة لمواجهة التحديات في العملات الإفتراضية وصناعات وسائل الاعلام الاجتماعية من خلال الجمع بين أفضل جوانب من كليهما. يقدم ستيم فرص الكسب لمبدعي المحتوى وقراء الإنترنت بطرق لم تكن موجودة في صناعة وسائل الإعلام الاجتماعية. داخل ستيم، الأفراد يكسبون مكافآت حقيقية على الانترنت التي ترتبط مباشرة إلى بمساهماتهم. Those rewards may have dollar value due to the market price discovery and liquidity of Steem, and the people who hold Steem may have more exclusive earning powers than those who do not.
+ستيم هي تجربة مصممة لمواجهة التحديات في العملات الإفتراضية وصناعات وسائل الاعلام الاجتماعية من خلال الجمع بين أفضل جوانب من كليهما. يقدم ستيم فرص الكسب لمبدعي المحتوى وقراء الإنترنت بطرق لم تكن موجودة في صناعة وسائل الإعلام الاجتماعية. داخل ستيم، الأفراد يكسبون مكافآت حقيقية على الانترنت التي ترتبط مباشرة إلى بمساهماتهم. وقد تكون لهذه المكافآت قيمة بالدولار نظرا لاكتشاف سعر السوق وسيولة ستيم، وقد يتمتع الأشخاص الذين يحملون ستيم بصلاحيات كسب أكثر حصرية من أولئك الذين لا يملكون.
 
 [^1]: Reddit’s Cryptocurrency, Forbes, Erika Morphy, October 2014 http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/\#4e07b05332b9
 
@@ -531,19 +531,19 @@ Creators posting to social media outlets that are connected to Steem may monetiz
 
 [^7]: Zipf’s Law https://en.wikipedia.org/wiki/Zipf%27s\_law
 
-[^8]: Clay Shirky, The Case Against Micropayments http://www.openp2p.com/pub/a/p2p/2000/12/19/micropayments.html
+[^8]: كلاي شيركي، القضية ضد ميكروبايمنتس http://www.openp2p.com/pub/a/p2p/2000/12/19/micropayments.html
 
-[^9]: reCAPTCHA, Easy on Humans, Hard on Bots https://www.google.com/recaptcha/intro/index.html
+[^9]: ريكابتشا، سهلة على البشر، صعبة على الروبوت https://www.google.com/recaptcha/intro/index.html
 
-[^10]: Forbes, Tristan Louis, “How Much is a User Worth?” http://www.forbes.com/sites/tristanlouis/2013/08/31/how-much-is-a-us
+[^10]: فوربس، تريستان لويس، "كم ثمن المستخدم؟" http://www.forbes.com/sites/tristanlouis/2013/08/31/how-much-is-a-us
 
-[^11]: Ripple, Account Reserves https://ripple.com/build/reserves/
+[^11]: ريبل، احتياطيات الحساب https://ripple.com/build/reserves/
 
-[^12]: Reddit Statistics, Number of Users and Comments per Second http://expandedramblings.com/index.php/reddit-stats/2/
+[^12]: إحصاءات رديت، عدد المستخدمين والتعليقات في الثانية http://expandedramblings.com/index.php/reddit-stats/2/
 
 [^13]: Martin Fowler, The LMAX Architecture http://martinfowler.com/articles/lmax.html
 
-[^14]: Introducing Intel Optane Technology – Bringing 3D XPoint Memory to Storage and Memory Products https://newsroom.intel.com/press-kits/introducing-intel-optane-technology-bringing-3d-xpoint-memory-to-storage-and-memory-products/
+[^14]: تقديم تقنية Intel Optane -جلب 3D إكسبوينت الذاكرة للتخزين ومنتجات الذاكرة https://newsroom.intel.com/press-kits/introducing-intel-optane-technology-bringing-3d-xpoint-memory-to-storage-and-memory-products/[ &#8617;](#fnref:14){.footnote-backref}
 
 [^15]: عرض النقود في الولايات المتحدة، 2009 https://research.stlouisfed.org/fred2/graph/?s%5B1%5D%5Bid%5D=AMBNS
 
