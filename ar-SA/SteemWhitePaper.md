@@ -222,15 +222,15 @@
 
 التوزيع الحالي سيعتمد على أنماط تصويت المستخدمين، ولكننا نشك في أن الغالبية العظمى من المكافآت ستوزع على المحتوى الأكثر شعبية.
 
-قانون Zipf [^7] هو واحد من تلك القواعد التجريبية التي تميز مجموعة مفاجئة من الظواهر في العالم الحقيقي بشكل ملحوظ. يقال أنه إذا كنا نطلب مجموعة كبيرة من حيث الحجم أو شعبية، العنصر الثاني في المجموعة سيكون حوالي نصف مقياس أول واحد، والثالث سيكون حوالي ثلث قياس أول واحد، وما إلى ذلك. In general, the k th-ranked item will measure about 1/k of the first one.
+قانون Zipf [^7] هو واحد من تلك القواعد التجريبية التي تميز مجموعة مفاجئة من الظواهر في العالم الحقيقي بشكل ملحوظ. يقال أنه إذا كنا نطلب مجموعة كبيرة من حيث الحجم أو شعبية، العنصر الثاني في المجموعة سيكون حوالي نصف مقياس أول واحد، والثالث سيكون حوالي ثلث قياس أول واحد، وما إلى ذلك. وبصفة عامة، فإن العنصر k في المرتبة سوف يقيس حوالي 1/k من أول واحد.
 
 ![](\img_the_new_marketplace.png)
 
 أخذ الشعبية كمقياس تقريبي للقيمة، ثم يتم إعطاء قيمة كل بند على حدة من قبل قانون Zipf. وهذا هو، إذا كان لدينا مليون من البنود، و 100 الأكثر شعبية، سيساهمون ثلث القيمة الإجمالية، و 10،000 المقبلة الثلث الآخر، والباقي 9890000 الثلث الأخير. قيمة جمع العناصر n  يتناسب مع السجل (log(n.
 
-The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
+تأثير هذا التصويت وتوزيع العوائد هو لتقديم مكافأت كبيرة للمحتوى الجيد في حين لا تزال مكافأة اللاعبين الأصغر لمساهمتهم في الذيل طويل.
 
-الأثر الاقتصادي لهذا يشبه اليانصيب حيث الناس المبالغة في تقدير احتمال الحصول على الأصوات وبالتالي القيام بعمل أكثر من القيمة المتوقعة من مكافأتهم و بهذه الطريقة يزداد المبلغ الإجمالي للعمل المنجز لخدمة المجتمع الى الحد الاعلى. The fact that everyone “wins something” plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
+الأثر الاقتصادي لهذا يشبه اليانصيب حيث الناس المبالغة في تقدير احتمال الحصول على الأصوات وبالتالي القيام بعمل أكثر من القيمة المتوقعة من مكافأتهم و بهذه الطريقة يزداد المبلغ الإجمالي للعمل المنجز لخدمة المجتمع الى الحد الاعلى. حقيقة أن الجميع "يفوز بشيء" يلعب على نفس علم النفس أن الكازينوهات تستخدم للحفاظ على الناس يقامرون. وبعبارة أخرى، تساعد المكافآت الصغيرة على تعزيز فكرة أنه من الممكن كسب مكافآت أكبر.
 
 ### المدفوعات
 
@@ -252,11 +252,11 @@ The impact of this voting and payout distribution is to offer large bounties for
 
 في عالم العملات الإفتراضية،يشار إلى السجل العام عادة باسم *بلوكشين*. *البلوك* هو مجموعة من المعاملات الموقعة.
 
-مع ستيم، يتم إنتاج البلوك في جولات. Each round 21 witnesses are selected to create and sign blocks of transactions. Twenty (20) of these witnesses are selected by approval voting and one is timeshared by every witness that didn’t make it into the top 20 proportional to their total votes. The 21 active witnesses are shuffled every round to prevent any one witness from constantly ignoring blocks produced by the same witness placed before. Any witness who misses a block and hasn't produced in the last 24 hours will be disabled until they update their block signing key.
+مع ستيم، يتم إنتاج البلوك في جولات. يتم اختيار 21 شهود في كل دورة لخلق وتوقيع كتل من المعاملات. ويتم اختيار عشرين (20) من هؤلاء الشهود من خلال التصويت على الموافقة، ويتم اختيار واحد منهم من قبل كل شاهد الذي لم يصبح من الشهود 20 ويقدم له متناسبا مع مجموع أصواته. ويعرض الشهود النشطون البالغ عددهم 21 شاهدا للتخلي عن كل جولة لمنع أي شاهد من تجاهل القوالب التي ينتجها الشاهد نفسه. سيتم تعطيل أي شاهد يفتقد كتلة ولم ينتج في الساعات ال 24 الماضية حتى يتم تحديث مفتاح توقيع الكتل الخاص بهم.
 
 تم تصميم هذه العملية لتوفير موثوقية أفضل مع ضمان أن الجميع لديهم الإمكانية على المشاركة في إنتاج البلوك بغض النظر عن ما إذا كانت لديهم شعبية كافية للحصول على تصويت للأعلى. لدى الناس ثلاثة خيارات للتغلب على الرقابة من قبل أفضل 20 شهود منتخبين: الانتظار بصبر في خط مع اي احد غير موجود في 20 الاولى، أو شراء المزيد من SP لتحسين قوة التصويت. بصفة عامة، إن تطبيق الرقابة هو وسيلة جيدة للشهود المنتخبين لفقدان وظيفتهم وبالتالي، لايبدو أنها ستكون مشكلة حقيقية على شبكة ستيم.
 
-Because the active witnesses are known in advance, Steem is able to schedule witnesses to produce blocks every 3 seconds. Witnesses synchronize their block production via the NTP protocol. A variation of this algorithm has been in use by the BitShares network for over a year where it has been proven to be reliable.
+ونظرا لأن الشهود النشطين معروفون مسبقا، فإن ستيم قادر على جدولة الشهود لإنتاج كتل كل 3 ثوان. Witnesses synchronize their block production via the NTP protocol. A variation of this algorithm has been in use by the BitShares network for over a year where it has been proven to be reliable.
 
 # إلغاء رسوم المعاملة
 
