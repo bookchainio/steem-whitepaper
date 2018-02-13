@@ -56,7 +56,7 @@
 
 स्टीम आर्थिक समीकरण को बदलकर, योगदान के सभी प्रकार के लिए प्रभावी छोटी दर की राशि को सक्षम बनाता है । पाठकों को अब ये तय नहीं करना पड़ेगा कि वो किसी को अपनी जेब से भुगतान करें या न करें, इसके बजाय वो किसी सामग्री पर अपना वोट ऊपर या नीचे कर सकते हैं और स्टीम उनके वोटों का उपयोग करके व्यक्तिगत पुरस्कार निर्धारित करेंगे । इसका मतलब है कि लोगों को एक परिचित और व्यापक रूप से इस्तेमाल किया जाने वाला इंटरफेस दिया जाता है, जहाँ उनको किसी प्रकार की संज्ञानात्मक, वित्तीय और अवसर से जुडी लागत नहीं देनी पड़ती है, जो सब पारंपरिक छोटे-भुगतानू और टिप देने वाले मंच से जुड़े हैं ।
 
-Voting input from community members is critical for Steem to accurately allocate payments to contributors. Voting can therefore be viewed as a crucial contribution and worthy of rewards on its own. Some platforms, such as Slashdot, use meta-moderation[^3] as a way to rank and reward honest moderators. Steem chooses to reward those who contribute the most to the total promotion of a piece of content and rewards the voters proportional to the ultimate reward paid to the content creator.
+स्टीम पर योगदानकर्ताओं की भूगतान के लिए समुदाय के सदस्यों का मतदान महत्वपूर्ण है । मतदान इसलिए एक महत्वपूर्ण योगदान और अपने दम पर पुरस्कार के योग्य के रूप में देखा जा सकता है । Some platforms, such as Slashdot, use meta-moderation[^3] as a way to rank and reward honest moderators. Steem chooses to reward those who contribute the most to the total promotion of a piece of content and rewards the voters proportional to the ultimate reward paid to the content creator.
 
 # Ways to Contribute
 
