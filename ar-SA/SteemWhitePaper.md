@@ -344,7 +344,7 @@ Micropayments، مثل جميع المدفوعات، تتطلب مقارنة: *�
 
 لحسن الحظ، الحد الأدنى من الرصيد المطلوب يمكن أن يكون منخفض كمثال دولار واحد وهذا شيء يقدره ويتفهمه المستخدمون. تكلفة الفرصة البديلة لفقدان الفائدة لا تتكبد التكلفة المعرفية للرسوم الصغيرة وأكثر قبولا بكثير للمستخدمين.
 
-The STEEM used to pre-fund an account is Powered Up in the new account (i.e., converted to Steem Power). A portion of the SP used to fund a new account may be delegated from the creator of the account. When a user is delegated SP, they may use the SP for voting and bandwidth purposes as if it were their own, but the ownership of the SP remains with the user who delegated it. A user may remove the delegation at any time. After a cool-down period, the SP is returned to their account.
+STEEM المستخدمة لتمويل حساب مسبقاً تحول لطاقة في الحساب الجديد (أي تحويلها إلى طاقة Steem). قد يتم تفويض جزء من SP لتمويل حساب جديد من منشئ الحساب. When a user is delegated SP, they may use the SP for voting and bandwidth purposes as if it were their own, but the ownership of the SP remains with the user who delegated it. A user may remove the delegation at any time. After a cool-down period, the SP is returned to their account.
 
 ### Effectiveness Relative to Fees
 
