@@ -356,7 +356,7 @@ STEEM المستخدمة لتمويل حساب مسبقاً تحول لطاقة 
 
 ### تأجير مقابل شراء مقابل تقاسم الوقت
 
-عندما يملك شخص ما منزل يتوقعون حق استخدام المنزل مجانا. If a group of people buy a house together then each can expect the right to use the house proportional to their percentage ownership in the house. A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
+عندما يملك شخص ما منزل يتوقعون حق استخدام المنزل مجانا. إذا اشترت مجموعة من الناس منزلا معا، فكل منهم يتوقع الحق في استخدام المنزل بما يتناسب مع نسبته المئوية في المنزل. A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
 
 If a house is owned by multiple people then those individuals must decide how they wish to timeshare the house. Someone who owns 50% of the house but only uses it one weekend per year might expect to be paid by the individuals who take their unused time. This is the mindset of a fee based system.
 
