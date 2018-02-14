@@ -344,7 +344,7 @@ Bir blokzinciri kullanıcıların sahip olması gereken minimum değeri, minimum
 
 Bereket versin ki şart koşulan minimum bakiye 1 dolar kadar düşük bir meblağ olabilir; bu da kullanıcıların kabul edebileceği ve hoşnut olabileceği bir tutardır. Kaybedilen faizin fırsat maliyeti, bir mikro ücretin bilişsel maliyetini karşılamaz. Bu ise kullanıcılar için çok daha makul olan bir durumdur.
 
-Bir hesabı önceden fonlamak için kullanılan STEEM yeni hesapta aktive edilir, bir başka deyişle, Steem Power'a dönüştürülür. A portion of the SP used to fund a new account may be delegated from the creator of the account. Bir kullanıcı SP delege ettiğinde delege edilen kişi SP'yi oy verme ve trafik için kendilerininmiş gibi kullanabilir fakat SP'nin sahipliği delege eden kişide kalacaktır. Kullanıcı istediği herhangi bir zamanda delegasyonunu geri çekebilir. Delege ettikleri SP miktarı bir süre beklemenin ardından hesaplarına iade edilir.
+Bir hesabı önceden fonlamak için kullanılan STEEM yeni hesapta aktive edilir, bir başka deyişle, Steem Power'a dönüştürülür. Yeni hesabı fonlamak için kullanılan SP'nin bir kısmı hesabın yaratıcısı tarafından delege edilebilir. Bir kullanıcı SP delege ettiğinde delege edilen kişi SP'yi oy verme ve trafik için kendilerininmiş gibi kullanabilir fakat SP'nin sahipliği delege eden kişide kalacaktır. Kullanıcı istediği herhangi bir zamanda delegasyonunu geri çekebilir. Delege ettikleri SP miktarı bir süre beklemenin ardından hesaplarına iade edilir.
 
 ### Ücretlerin etkililiği
 
