@@ -60,11 +60,11 @@
 
 # योगदान के तरीक़े
 
-This section outlines the ideas behind Steem and its rewards for people who provide meaningful and measurable contributions to the Steem community.
+ये हिस्सा उन विचारों का खाका खींचता है जो स्टीम और वो ईनाम जो स्टीम समुदाय लोगों को उनके योगदान के लिए देती है ।
 
-## Capital Contributions
+## पूंजी योगदान
 
-There are two items a community can offer to attract capital: debt and ownership. Those who buy ownership profit when the community grows but lose if the community shrinks. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
+एक समुदाय पूंजी को आकर्षित करने के लिए दो मुद्दों का प्रयोग करती है: कर्ज़ और प्रभुत्व । वो जो प्रभुत्व लाभ ख़रीदते हैं जब समुदाय बढ़ता है मगर खो देते हैं जब समुदाय की संख्या सुकड़ जाती है । Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
 
 The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SBD).
 
