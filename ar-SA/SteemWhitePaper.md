@@ -356,9 +356,9 @@ STEEM المستخدمة لتمويل حساب مسبقاً تحول لطاقة 
 
 ### تأجير مقابل شراء مقابل تقاسم الوقت
 
-عندما يملك شخص ما منزل يتوقعون حق استخدام المنزل مجانا. إذا اشترت مجموعة من الناس منزلا معا، فكل منهم يتوقع الحق في استخدام المنزل بما يتناسب مع نسبته المئوية في المنزل. A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
+عندما يملك شخص ما منزل يتوقعون حق استخدام المنزل مجانا. إذا اشترت مجموعة من الناس منزلا معا، فكل منهم يتوقع الحق في استخدام المنزل بما يتناسب مع نسبته المئوية في المنزل. رسوم بلوكشين هي مثل استئجار المنزل من أصحابه، في حين أن الحد من المعدل مثل تقاسم البيت بمدة زمنية بين اصحابه.
 
-If a house is owned by multiple people then those individuals must decide how they wish to timeshare the house. Someone who owns 50% of the house but only uses it one weekend per year might expect to be paid by the individuals who take their unused time. This is the mindset of a fee based system.
+إذا كان المنزل مملوكا من قبل العديد من الناس هؤلاء الأفراد يجب أن يقررو كيف يرغبون في مشاركة او تقاسم الوقت في المنزل. Someone who owns 50% of the house but only uses it one weekend per year might expect to be paid by the individuals who take their unused time. This is the mindset of a fee based system.
 
 On the other hand, someone who owns 50% of the house is speculating that demand for the house will increase in the future and they will be able to sell their stake for more. Any owner who owns more of a house than they use becomes a real estate speculator. With this mindset rather than collecting rent, they collect appreciation.
 
