@@ -429,7 +429,7 @@ Yeni yaratılan tokenların %75'i yazarlar ve küratörler arasında paylaşılm
 
 Enflasyon modelli herhangi bir coinin sürdürülebilir olmadığı sıklıkla söylenir. Fakat biz gerçek dünyadaki sayısız örnekten biliyoruz ki, belirli bir rolü kesinlikle olsa da, paranın niceliğinin onun değeri üzerinde doğrudan ve ivedi bir etkisi bulunmamaktadır.
 
-Ağustos 2008'den Ocak 2009'a kadar A.B.D para arzı[^15] yıllık %100'lük bir büyümeyle, 871 milyar dolardan 1,737 milyar dolar'a yükselmiştir. Müteakip 6 yıl boyunca da, her yıl için %20 olmak kaydıyla büyümeye devam etmiştir. Toplam olarak, A.B.D'deki para arzı 7 yıldan kısa bir süre içerisinde 4.59 kat artmıştır. During that same time, the value of the dollar relative to goods and services has fallen less than 10% according to the government's price index[^16]. This real-world example demonstrates that supply is only one component of price.
+Ağustos 2008'den Ocak 2009'a kadar A.B.D para arzı[^15] yıllık %100'lük bir büyümeyle, 871 milyar dolardan 1,737 milyar dolar'a yükselmiştir. Müteakip 6 yıl boyunca da, her yıl için %20 olmak kaydıyla büyümeye devam etmiştir. Toplam olarak, A.B.D'deki para arzı 7 yıldan kısa bir süre içerisinde 4.59 kat artmıştır. Aynı süre zarfında, hükümetin fiyat endeksine göre[^16], Dolar'ın değeri mal ve hizmetlere kıyasla %10'dan daha az olarak düşmüştür. Bu gerçek-dünya örneği göstermektedir ki, arz fiyatın bileşenlerinden sadece bir tanesidir.
 
 For the first 2 years of Bitcoin’s life the network sustained an annual inflation rate[^17] of over 100%. For the first 5 years it was over 30%, and for the first 8 years it was over 10%. All told the total “spending” Steem does to fund content, curation, and block production amounts to less than 10% APR.
 
