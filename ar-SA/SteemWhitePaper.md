@@ -358,7 +358,7 @@ STEEM المستخدمة لتمويل حساب مسبقاً تحول لطاقة 
 
 عندما يملك شخص ما منزل يتوقعون حق استخدام المنزل مجانا. إذا اشترت مجموعة من الناس منزلا معا، فكل منهم يتوقع الحق في استخدام المنزل بما يتناسب مع نسبته المئوية في المنزل. رسوم بلوكشين هي مثل استئجار المنزل من أصحابه، في حين أن الحد من المعدل مثل تقاسم البيت بمدة زمنية بين اصحابه.
 
-إذا كان المنزل مملوكا من قبل العديد من الناس هؤلاء الأفراد يجب أن يقررو كيف يرغبون في مشاركة او تقاسم الوقت في المنزل. Someone who owns 50% of the house but only uses it one weekend per year might expect to be paid by the individuals who take their unused time. This is the mindset of a fee based system.
+إذا كان المنزل مملوكا من قبل العديد من الناس هؤلاء الأفراد يجب أن يقررو كيف يرغبون في مشاركة او تقاسم الوقت في المنزل. شخص يملك 50٪ من المنزل ولكن يستخدمه فقط لأسبوع واحد كل سنة قد نتوقع أن يدفع له من قبل الأفراد الذين يأخذون وقته غير المستخدم في المنزل. هذه عقلية نظام قائم على الرسوم.
 
 On the other hand, someone who owns 50% of the house is speculating that demand for the house will increase in the future and they will be able to sell their stake for more. Any owner who owns more of a house than they use becomes a real estate speculator. With this mindset rather than collecting rent, they collect appreciation.
 
