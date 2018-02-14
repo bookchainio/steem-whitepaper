@@ -392,11 +392,11 @@ Steem قادر على التعامل مع userbase أكبر من Reddit. في ع
 
 باتباع هذه القواعد البسيطة، ستيم قادرة على معالجة 10،000 معاملة في الثانية الواحدة دون أي جهد كبير مكرسة للتحسين.
 
-الحفاظ على كل شيء في الذاكرة غير قابل للحياة على نحو متزايد نظرا لإدخال مؤخرا تكنولوجيا أوبتان ™ من إنتل [^14]. وينبغي أن يكون من الممكن لأجهزة السلع الأساسية التعامل مع جميع منطق الأعمال المرتبطة بستيم في موضوع واحد مع جميع المشاركات الباقية في الذاكرة لفهرسة سريعة. حتى جوجل تحافظ على فهرس الإنترنت بأكمله في ذاكرة الوصول العشوائي. استخدام تكنولوجيا بلوكشين يجعل من السهل تكرار قاعدة البيانات إلى العديد من الآلات لمنع فقدان البيانات. As Optane™ technology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
+الحفاظ على كل شيء في الذاكرة غير قابل للحياة على نحو متزايد نظرا لإدخال مؤخرا تكنولوجيا أوبتان ™ من إنتل [^14]. وينبغي أن يكون من الممكن لأجهزة السلع الأساسية التعامل مع جميع منطق الأعمال المرتبطة بستيم في موضوع واحد مع جميع المشاركات الباقية في الذاكرة لفهرسة سريعة. حتى جوجل تحافظ على فهرس الإنترنت بأكمله في ذاكرة الوصول العشوائي. استخدام تكنولوجيا بلوكشين يجعل من السهل تكرار قاعدة البيانات إلى العديد من الآلات لمنع فقدان البيانات. وعندما تبدأ تقنية أوبتان ™ بالعمل، سوف تصبح ذاكرة الوصول العشوائي أسرع في حين كسب الثبات. وبعبارة أخرى، تم تصميم ستيم لمعماريات المستقبل، وهو مصمم على نطاق واسع.
 
-# Allocation & Supply
+# التخصيص والتوريد
 
-## Initial Allocation & Supply
+## التخصيص الأولي والتوريد
 
 The Steem network started with a currency supply of 0 and allocated STEEM via proof of work at a rate of approximately 40 STEEM per minute to miners, with an additional 40 STEEM per minute being created to seed the content and curation reward pools (for a total of 80 STEEM per minute). Then the network started rewarding users who converted to SP. At this point, STEEM grew at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
 
