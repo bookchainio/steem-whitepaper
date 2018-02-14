@@ -368,19 +368,19 @@ STEEM المستخدمة لتمويل حساب مسبقاً تحول لطاقة 
 
 يمكننا أن نستنتج من هذا أن بلوكتشين هو أفضل وسيلة لعدم استخدام رسوم الاستخدام على الإطلاق. إذا كان سيتم فرض رسوم الاستخدام كبديل للحد من المعدل، ينبغي أن يكون ما يعادل شراء ما يكفي من المشاركة بالوقت والالتزام للاحتفاظ بها لفترة كافية للحصول على حق استخدامها مرة واحدة.
 
-وبعبارة أخرى، ينبغي أن يكون رسم المعاملة مساويا للحد الأدنى لرصيد الحساب اللازم للمعاملة مرة واحدة في الأسبوع، وينبغي رده في نهاية الأسبوع. Assume the minimum account balance is $1 and allows someone to transact once per week. If someone with a $1 balance that wishes to perform 5 transactions at once they will have to increase their balance to $5 for a week either before or after their transactions.
+وبعبارة أخرى، ينبغي أن يكون رسم المعاملة مساويا للحد الأدنى لرصيد الحساب اللازم للمعاملة مرة واحدة في الأسبوع، وينبغي رده في نهاية الأسبوع. افترض أن الحد الأدنى لرصيد الحساب هو $ 1 ويسمح لشخص ما بإجراء تحويل مرة واحدة في الأسبوع. إذا كان شخص ما لديه رصيد 1 $ يرغب في إجراء 5 معاملات في وقت واحد سوف يضطر إلى زيادة رصيده إلى 5 $ لمدة أسبوع إما قبل أو بعد معاملاته.
 
-In theory a market could form where users can borrow the stake required. In practice it is more efficient for users to simply buy and sell the timeshares necessary to meet their desired usage rate. In other words, the cost of negotiating micro-loans is greater than the cost of maintaining a balance suitable for your maximum weekly usage.
+من الناحية النظرية يمكن أن يشكل السوق حيث يمكن للمستخدمين اقتراض الحصة المطلوبة. في الواقع أنها أكثر كفاءة للمستخدمين ببساطة شراء وبيع المشاركة بالوقت اللازمة للوفاء بمعدل الاستخدام المطلوب. وبعبارة أخرى، تكلفة التفاوض بشأن القروض الصغيرة أكبر من تكلفة المحافظة على توازن مناسب للاستخدام الخاص بك أسبوعيا كحد أقصى.
 
-Decentralized rate limiting of transactions can enable new types of decentralized applications that were not viable when every use of the application required a micropayment. This new model gives application developers the ability to decide if and when to charge their users for transactions.
+ويمكن أن يؤدي تحديد معدلات اللامركزية في المعاملات إلى تمكين أنواع جديدة من التطبيقات اللامركزية التي لا تكون قابلة للتطبيق عندما يتطلب كل استخدام للتطبيق دفعا صغيرا. يمنح هذا النموذج الجديد مطوري التطبيقات القدرة على اتخاذ قرار بشأن ما إذا كان سيتم تحصيل رسوم من المستخدمين مقابل المعاملات أم لا.
 
-# Performance and Scalability
+# الأداء وقابلية التطوير
 
-The Steem network is built upon Graphene, the same technology that powers BitShares. Graphene has been publicly demonstrated sustaining over 1000 transactions per second on a distributed test network. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
+تم بناء شبكة ستيم على الجرافين، نفس التكنولوجيا التي تعمل بها BitShares. وقد أظهرت الجرافين علنا استدامة أكثر من 1000 معاملة في الثانية على شبكة اختبار موزعة. يمكن للجرافين قياس 10،000 أو أكثر من المعاملات في الثانية الواحدة مع تحسينات مباشرة نسبيا على قدرة الخادم وبروتوكولات الاتصال.
 
-## Reddit Scale
+## مقياس Reddit
 
-Steem is capable of handling a larger userbase than Reddit. In 2015 Reddit’s 8.7 million users generated an average of 23 comments per second[^12], with an average of 83 comments per year per user. There were 73 million top-level posts, for an average of 2 new posts per second. There were about 7 billion up votes creating an average voting rate of 220 votes per second. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
+Steem قادر على التعامل مع userbase أكبر من Reddit. In 2015 Reddit’s 8.7 million users generated an average of 23 comments per second[^12], with an average of 83 comments per year per user. There were 73 million top-level posts, for an average of 2 new posts per second. There were about 7 billion up votes creating an average voting rate of 220 votes per second. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
 
 To achieve this industry-leading performance, Steem has borrowed lessons learned from the LMAX Exchange[^13], which is able to process 6 million transactions per second. Among these lessons are the following key points:
 
