@@ -360,7 +360,7 @@ STEEM المستخدمة لتمويل حساب مسبقاً تحول لطاقة 
 
 إذا كان المنزل مملوكا من قبل العديد من الناس هؤلاء الأفراد يجب أن يقررو كيف يرغبون في مشاركة او تقاسم الوقت في المنزل. شخص يملك 50٪ من المنزل ولكن يستخدمه فقط لأسبوع واحد كل سنة قد نتوقع أن يدفع له من قبل الأفراد الذين يأخذون وقته غير المستخدم في المنزل. هذه عقلية نظام قائم على الرسوم.
 
-On the other hand, someone who owns 50% of the house is speculating that demand for the house will increase in the future and they will be able to sell their stake for more. Any owner who owns more of a house than they use becomes a real estate speculator. With this mindset rather than collecting rent, they collect appreciation.
+شخص يملك 50٪ من المنزل ولكن يستخدمه فقط لأسبوع واحد كل سنة قد نتوقع أن يدفع له من قبل الأفراد الذين يأخذون وقته غير المستخدم في المنزل. Any owner who owns more of a house than they use becomes a real estate speculator. With this mindset rather than collecting rent, they collect appreciation.
 
 The value of a share is derived from how much time it can potentially grant its owner. Owning 1% of a house and getting it 1 weekend per year is the lowest value of a share. However, if half of the shareholders never use their weekend, then the value per timeshare rises to 2 weekends per year. If those inactive users instead opt to rent their unused time, then it falls back to 1 weekend per year. If those unused timeshares were sold to people who would use them then the value of a timeshare would fall by 50%. Unless the rent collected is greater than the fall in share value the timeshare owners are making an economic miscalculation.
 
