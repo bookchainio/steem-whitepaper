@@ -350,13 +350,13 @@ STEEM المستخدمة لتمويل حساب مسبقاً تحول لطاقة 
 
 لمقارنة فعالية معدل الحد من الرسوم يجب أن ننظر في كيفية استجابة النظامين لشبكة تتعرض لهجوم فيضان من قبل مهاجم. في بيتكوين مهاجم مع $ 10،000 دولار يمكن أن يعطل الخدمة ليوم كامل عن طريق ملء كل كتلة. نفس المهاجم لن يكون قادرا على تعطيل الخدمة حتى ولو كتلة واحدة في إطار ديناميكية كسور احتياطي معدل الحد النهج.
 
-إذا كان علينا الذهاب إلى حالة أكثر تطرفاً وتفترض المهاجم يحمل 1% من جميع القطع النقدية ثم نفترض مهاجم بمبلغ 60 مليون دولار. مثل هذا المهاجم يمكن أن يمنع خدمة بلوكشين بيتكوين لمدة 16 عاما إلا إذا زاد عمال المناجم الرسوم أو القدرة. Even if fees were raised to $15 per transaction, the attacker could still keep the network flooded for 16 days.
+إذا كان علينا الذهاب إلى حالة أكثر تطرفاً وتفترض المهاجم يحمل 1% من جميع القطع النقدية ثم نفترض مهاجم بمبلغ 60 مليون دولار. مثل هذا المهاجم يمكن أن يمنع خدمة بلوكشين بيتكوين لمدة 16 عاما إلا إذا زاد عمال المناجم الرسوم أو القدرة. حتى لو تم رفع الرسوم إلى 15 دولارا لكل معاملة، فإن المهاجم لا يزال بإمكانه اغراق الشبكة لمدة 16 يوما.
 
-Under the rate limiting approach, someone who holds 1% of all coins with an intent to flood the network would achieve their goal for less than 30 seconds.
+وبموجب نهج الحد من المعدل، فإن الشخص الذي يحمل 1٪ من جميع القطع النقدية مع نية إغراق الشبكة يمكنه تحقيق هدفه لمدة تقل عن 30 ثانية.
 
-### Renting vs. Buying vs. Time Sharing
+### تأجير مقابل شراء مقابل تقاسم الوقت
 
-When someone owns a house they expect the right to use the house for free. If a group of people buy a house together then each can expect the right to use the house proportional to their percentage ownership in the house. A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
+عندما يملك شخص ما منزل يتوقعون حق استخدام المنزل مجانا. If a group of people buy a house together then each can expect the right to use the house proportional to their percentage ownership in the house. A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
 
 If a house is owned by multiple people then those individuals must decide how they wish to timeshare the house. Someone who owns 50% of the house but only uses it one weekend per year might expect to be paid by the individuals who take their unused time. This is the mindset of a fee based system.
 
