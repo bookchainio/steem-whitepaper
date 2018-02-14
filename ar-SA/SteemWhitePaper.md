@@ -380,19 +380,19 @@ STEEM المستخدمة لتمويل حساب مسبقاً تحول لطاقة 
 
 ## مقياس Reddit
 
-Steem قادر على التعامل مع userbase أكبر من Reddit. In 2015 Reddit’s 8.7 million users generated an average of 23 comments per second[^12], with an average of 83 comments per year per user. There were 73 million top-level posts, for an average of 2 new posts per second. There were about 7 billion up votes creating an average voting rate of 220 votes per second. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
+Steem قادر على التعامل مع userbase أكبر من Reddit. في عام 2015 ولد 8.7 مليون مستخدم ريديت في المتوسط 23 تعليق في الثانية [^12]، مع ما متوسطه 83 تعليق في السنة لكل مستخدم. وهناك 73 مليون مشاركة من الرتب العليا، بمتوسط وظيفتين جديدتين في الثانية. وكان هناك نحو 7 مليارات صوت، مما يجعل متوسط معدل التصويت 220 صوتا في الثانية. إجمالاً، إذا Reddit كانت تعمل في بلوكتشين فإنها ستتطلب ما متوسطه 250 معاملة في الثانية الواحدة.
 
-To achieve this industry-leading performance, Steem has borrowed lessons learned from the LMAX Exchange[^13], which is able to process 6 million transactions per second. Among these lessons are the following key points:
+ولتحقيق هذا الأداء الرائد في الصناعة، استعادت ستيم الدروس المستفادة من شركةLMAX Exchange[^13]، التي يمكنها معالجة 6 ملايين معاملة في الثانية. ومن بين هذه الدروس النقاط الرئيسية التالية:
 
-1. Keep everything in memory.
-2. Keep the core business logic in a single thread.
-3. Keep cryptographic operations (hashes and signatures) out of the core business logic.
-4. Divide validation into state-dependent and state-independent checks.
-5. Use an object oriented data model.
+1. إبقاء كل شيء في الذاكرة.
+2. الحفاظ على منطق الأعمال الأساسية في مؤشر ترابط واحد.
+3. إبقاء عمليات التشفير (التجزئة والتوقيعات) خارج منطق الأعمال الأساسية.
+4. تقسيم التحقق من الصحة في الشيكات المعتمدة على الدولة والدولة المستقلة.
+5. استخدام طراز كائن بيانات موجه.
 
-By following these simple rules, Steem is able to process 10,000 transactions per second without any significant effort devoted to optimization.
+باتباع هذه القواعد البسيطة، ستيم قادرة على معالجة 10،000 معاملة في الثانية الواحدة دون أي جهد كبير مكرسة للتحسين.
 
-Keeping everything in memory is increasingly viable given the recent introduction of Optane™ technology from Intel[^14]. It should be possible for commodity hardware to handle all of the business logic associated with Steem in a single thread with all posts kept in memory for rapid indexing. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optane™ technology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
+الحفاظ على كل شيء في الذاكرة غير قابل للحياة على نحو متزايد نظرا لإدخال مؤخرا تكنولوجيا أوبتان ™ من إنتل [^14]. وينبغي أن يكون من الممكن لأجهزة السلع الأساسية التعامل مع جميع منطق الأعمال المرتبطة بستيم في موضوع واحد مع جميع المشاركات الباقية في الذاكرة لفهرسة سريعة. حتى جوجل تحافظ على فهرس الإنترنت بأكمله في ذاكرة الوصول العشوائي. استخدام تكنولوجيا بلوكشين يجعل من السهل تكرار قاعدة البيانات إلى العديد من الآلات لمنع فقدان البيانات. As Optane™ technology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
 
 # Allocation & Supply
 
