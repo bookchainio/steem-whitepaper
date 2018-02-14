@@ -431,7 +431,7 @@ Enflasyon modelli herhangi bir coinin sürdürülebilir olmadığı sıklıkla s
 
 Ağustos 2008'den Ocak 2009'a kadar A.B.D para arzı[^15] yıllık %100'lük bir büyümeyle, 871 milyar dolardan 1,737 milyar dolar'a yükselmiştir. Müteakip 6 yıl boyunca da, her yıl için %20 olmak kaydıyla büyümeye devam etmiştir. Toplam olarak, A.B.D'deki para arzı 7 yıldan kısa bir süre içerisinde 4.59 kat artmıştır. Aynı süre zarfında, hükümetin fiyat endeksine göre[^16], Dolar'ın değeri mal ve hizmetlere kıyasla %10'dan daha az olarak düşmüştür. Bu gerçek-dünya örneği göstermektedir ki, arz fiyatın bileşenlerinden sadece bir tanesidir.
 
-Bitcoin'in ilk 2 yılında ağ, %100'ün üzerinde dönemlik enflasyon oranlarını[^17] idame etti. İlk 5 yılda bu %30'un üzerindeydi. Ve ilk 8 yıl için ise bu %10'dan yukarıdaydı. All told the total “spending” Steem does to fund content, curation, and block production amounts to less than 10% APR.
+Bitcoin'in ilk 2 yılında ağ, %100'ün üzerinde dönemlik enflasyon oranlarını[^17] idame etti. İlk 5 yılda bu %30'un üzerindeydi. Ve ilk 8 yıl için ise bu %10'dan yukarıdaydı. Nihayetinde, içerik, küratörlük ve blok üretimini fonlamak için ''harcanmakta olan'' toplam Steem %10'dan daha az bir yıllık bileşik faiz tutarındadır.
 
 The price of a digital commodity, like STEEM, is driven by both supply and demand. When a long-term holder decides to exit, the supply of STEEM on the market will increase and push the price down. This downward pressure is countered when a new long-term holder decides to buy up the STEEM and convert it back into SP. Additional supply and demand may be be added due to market speculators buying and selling liquid STEEM based on their predictions of the future market price.
 
