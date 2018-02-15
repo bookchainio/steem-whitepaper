@@ -78,7 +78,7 @@
 
 दीर्घकालिक प्रतिबद्धता रखना बहुत ही महत्वपूर्ण है क्योंकि इससे समुदाय दीर्घकालीन योजनाएं बनाने में सक्षम होती है । दीर्घकालिक प्रतिबद्धता से हितधारक भी कमपनी के दीर्घकालिक विकास के हित में होते हैं बजाय आपने अल्पकालिक फ़ायदे के।
 
-क्रिप्टोकरेंसी के स्थान पर, सट्टेबाज़ ज्यादातर ऐक क्रिप्टोकरेंसी से दूसरे क्रिपटोकरेंसी बदलते रहते हैं, क्योंकि असपर अल्पकालिक वृद्धि की संभावना होती है । Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
+क्रिप्टोकरेंसी के स्थान पर, सट्टेबाज़ ज्यादातर ऐक क्रिप्टोकरेंसी से दूसरे क्रिपटोकरेंसी बदलते रहते हैं, क्योंकि असपर अल्पकालिक वृद्धि की संभावना होती है । स्टीम एक ऐसी समुदाई बनाना चाहता है जिसके अधिकारी मूल्य रूप से दीर्घकालिक परिप्रेक्ष्य के साथ है ।
 
 Users are able to commit their STEEM to a thirteen week vesting schedule, providing them with additional benefits within the platform. STEEM that has been committed to a thirteen week vesting schedule is called Steem Power (SP). SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
 
