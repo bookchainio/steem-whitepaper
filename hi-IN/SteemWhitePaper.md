@@ -76,7 +76,7 @@
 
 एक कमपनी को शुरू करने के लिए पूंजी को दीर्घकालिक के लिए प्रतिबंध करना मैहत्रीपूर्ण है । शुरुआत में पैसे निवेश करने वालों को कई साल इंतज़ार करना पड़ता है जिसके बाद वह अपने शेयर बेच कर मुनाफ़ा कमा सकते हैं। दीर्घकालीन प्रतिबद्धता के बिना, एक नई कंमपनी अतिरिक्त शेर की बिक्री के माध्यम से अतिरिक्त धन प्राप्त करने के बजाय अपने मौजूदा शेरधारकों के साथ मुक़ाबले में होंगे जो बाहर निकलने वाले होते हैं। सहज-बुद्धि वाले निवेशक अपनी पूंजी के योगदान से कमपनी और अपना विकास करना चाहते हैं, लेकिन अगर नई कमायी हुई पूंजी बाहर निकलने वाले व्यक्तियों को दी जाए तो उससे विकास में बाधा आती है ।
 
-There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
+दीर्घकालिक प्रतिबद्धता रखना बहुत ही महत्वपूर्ण है क्योंकि इससे समुदाय दीर्घकालीन योजनाएं बनाने में सक्षम होती है । दीर्घकालिक प्रतिबद्धता से हितधारक भी कमपनी के दीर्घकालिक विकास के हित में होते हैं बजाय आपने अल्पकालिक फ़ायदे के।
 
 In the cryptocurrency space, speculators jump from cryptocurrency to cryptocurrency based mostly on which one is expected to have short-term growth. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
 
