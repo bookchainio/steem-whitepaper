@@ -437,9 +437,9 @@ Steem قادر على التعامل مع userbase أكبر من Reddit. في ع
 
 # قوة Steem
 
-يقر ستيم بأن قيمة جميع مساهمات المستخدمين (المشاركات والأصوات) أكبر من مجموع الأجزاء. تعليق واحدلا يساوي أي شيء، ولكن الملايين من المشاركات المختاره تساوي ملايين عديدة (أو ربما حتى المليارات) من الدولارات. تصويت واحد يوفر قيمة curation ضئيلة، ولكن مليارات أصوات curation فعالة جداً. المحتوى دون curation ذات قيمة محدودة. وبالنظر إلى كل محتوى الإنترنت ناقص الروابط بينه، فإن غوغل تكافح من أجل تحقيق نتائج بحث مفيدة. It is the links between information that give it significant value.
+يقر ستيم بأن قيمة جميع مساهمات المستخدمين (المشاركات والأصوات) أكبر من مجموع الأجزاء. تعليق واحدلا يساوي أي شيء، ولكن الملايين من المشاركات المختاره تساوي ملايين عديدة (أو ربما حتى المليارات) من الدولارات. تصويت واحد يوفر قيمة curation ضئيلة، ولكن مليارات أصوات curation فعالة جداً. المحتوى دون curation ذات قيمة محدودة. وبالنظر إلى كل محتوى الإنترنت ناقص الروابط بينه، فإن غوغل تكافح من أجل تحقيق نتائج بحث مفيدة. إنها الروابط بين المعلومات التي تعطيها قيمة كبيرة.
 
-Because everyone benefits, everyone should pay. In other words, no individual user should be expected to pay for anything, but instead should be paid for everything they do that brings value to Steem. All we need to do is ascertain which user contributions bring a social network value and which ones don’t.
+لأن الجميع يستفيد، يجب على الجميع الدفع. وبعبارة أخرى، لا ينبغي أن يتوقع من أي مستخدم فردي أن يدفع ثمن أي شيء، ولكن بدلا من ذلك يجب أن تدفع على كل ما يفعلونه ويجلب قيمة لستيم. All we need to do is ascertain which user contributions bring a social network value and which ones don’t.
 
 Collectively Reddit users vote 220 times per second and make 23 posts per second. Reddit is valued between $500 million[^18] and $4 billion[^19] which means that each and every upvote and post is worth between $0.06 and $0.50 assuming the value of Reddit is mostly within the past year’s worth of activity. One could argue that most of the value of Reddit is the near-real-time discussions that have occurred within the past week which would dramatically increase the value of new activity. People go where people are today, not where people were last year.
 
