@@ -449,7 +449,7 @@ Steem قادر على التعامل مع userbase أكبر من Reddit. في ع
 
 كل من هذين النهجين تختزل إلى micropayments. أنهما يختلفان فقط في الجهة التي تقوم بالدفع. وهم جميعا يعانون من عدم تفاعل الأشخاص اثناء انشاء micropayments. في البحث عن تحفيز إنتاج المحتوى ، رجال الأعمال ركزو كثيرا عن من يجب ان يدفع حتى فقدوا الواقع الواضح ، الجميع يستفيدون من اعمال بعضهم البعض لذالك على الجميع الدفع ، او ليس على الجميع الدفع ، اعتمادا على ما تنضر له.
 
-Steem bypasses micropayments completely because when a user upvotes a post it is the community that pays the bill. The same amount of money will be spent whether the user upvotes a post or not and the funds will not come from the voter.
+ستيم يتجاوز ميكرو بايمنتس تماما لأنه عندما يقوم المستخدم بالتصويت على مشاركة ، المجتمع هو الذي يدفع الفاتورة. The same amount of money will be spent whether the user upvotes a post or not and the funds will not come from the voter.
 
 The mental energy associated with making an economic decision becomes a barrier to participation for most people.
 
