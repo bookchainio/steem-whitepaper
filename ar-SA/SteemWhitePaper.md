@@ -417,13 +417,13 @@ Steem قادر على التعامل مع userbase أكبر من Reddit. في ع
 
 - مكافآت SBD: يتم إنشاء نسبة مئوية من قيمة SBD في معدل العائد السنوي المحدد من قبل الشهود وتدفع لحاملي SBD ك SBD
 
-الصورة الإجمالية للإمداد معقدة نتيجة لتأثير عمليات SBD، الأمر الذي قد يؤدي إلى إنشاء أو تدمير ستيم على نطاق واسع من خلال معدل التغذية التالية ومكافآت SBD، كما نوقش في قسم SBD. Other, smaller-scale complicating effects also exist, including unclaimed incentives (e.g. block rewards for missed blocks), and abandoned accounts.
+الصورة الإجمالية للإمداد معقدة نتيجة لتأثير عمليات SBD، الأمر الذي قد يؤدي إلى إنشاء أو تدمير ستيم على نطاق واسع من خلال معدل التغذية التالية ومكافآت SBD، كما نوقش في قسم SBD. وتوجد أيضا آثار معقدة أخرى على نطاق أصغر، بما في ذلك الحوافز غير المطالب بها (مثل مكافآت الكتل المفقودة) والحسابات المهجورة.
 
-## Current Allocation & Supply
+## التخصيص الحالي والتوريد
 
-Starting with the network's 16th hard fork in December 2016, Steem began creating new tokens at a yearly inflation rate of 9.5%. The inflation rate decreases at a rate of 0.01% every 250,000 blocks, or about 0.5% per year. The inflation will continue decreasing at this pace until the overall inflation rate reaches 0.95%. This will take about 20.5 years from the time hard fork 16 went into effect.
+بدأ من الشوكة الصلبة ال 16 للشبكة في ديسمبر 2016، بدأ ستيم في إنشاء رموز جديدة بمعدل تضخم سنوي قدره 9.5٪. انخفاض معدل التضخم بنسبة 0.01 في المائة لكل 250,000 كتل، أو حوالي 0.5 في المائة في السنة. وسيستمر التضخم في الانخفاض بهذه الوتيرة حتى يصل معدل التضخم الإجمالي إلى 0.95٪. وهذا سيستغرق حوالي 20.5 عاما من الوقت الذي دخلت فيه الشوكة الصعبة 16 حيز التنفيد.
 
-75% of the new tokens that are generated go to fund the reward pool, which is split between authors and curators. 15% of the new tokens are awarded to holders of SP. The remaining 10% pays for the witnesses to power the blockchain.
+75٪ من الرموز الجديدة التي يتم إنشاؤها تذهب لتمويل صندوق المكافأة، الذي ينقسم بين المؤلفين والقيمين. ويتم منح 15% من الرموز المميزة الجديدة لأصحاب sp. تدفع 10٪ المتبقية للشهود لإعطاء الطاقة لبلوكشين.
 
 ### Impact of Token Creation Rate
 
