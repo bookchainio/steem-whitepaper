@@ -402,20 +402,20 @@ Steem قادر على التعامل مع userbase أكبر من Reddit. في ع
 
 مكافآت المساهمات:
 
-- المكافآت كرأيشن: 1 ستيم للكتلة أو 3.875٪ سنويا، أيهما أكبر
-- Content Creation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
-- Block production rewards: 1 STEEM per block or 0.750% per year, whichever is greater
-- POW inclusion rewards before block 864,000: 1 STEEM per block (awarded as 21 STEEM per round)
-- POW inclusion rewards after block 864,000: 0.0476 STEEM per block (awarded as 1 STEEM per round) or 0.750% per year, whichever is greater.
-- Liquidity rewards: 1 STEEM per block (awarded as 1200 STEEM per hour) or 0.750% per year, whichever is greater
+- المكافآت: 1 ستيم للكتلة أو 3.875٪ سنويا، أيهما أكبر
+- مكافآت إنشاء المحتوى: 1 ستيم للكتلة أو 3.875٪ سنويا، أيهما أكبر
+- مكافآت إنتاج الكتل: 1 ستيم لكل كتلة أو 0.750٪ سنويا، أيهما أكبر
+- مكافآت إدراج POW قبل كتلة 864،000: 1 ستيم للكتلة (21 ستيم في الجولة)
+- مكافآت إدراج POW بعد الكتلة 864،000: 0.0476 ستيم لكل كتلة (تمنح كخطوة واحدة لكل دورة) أو 0.750٪ سنويا، أيهما أكبر.
+- مكافآت السيولة: 1 ستيم لكل كتلة (1200 ستيم في الساعة) أو 0.750٪ سنويا، أيهما أكبر
 
-### Power Rewards:
+### مكافآت الطاقة:
 
-- Steem Power rewards: For each STEEM created by the above rewards, 9 STEEM are divided among all Steem Power holders.
+- مكافآت الطاقة ستيم: لكل ستيم تم إنشاؤها من قبل المكافآت المذكورة أعلاه، يتم تقسيم 9 ستيم بين جميع أصحاب طاقة ستيم.
 
-### SBD operations:
+### عمليات SBD:
 
-- SBD rewards: A percentage of SBD value is created at an APR set by the witnesses and paid to SBD holders as SBD
+- مكافآت SBD: يتم إنشاء نسبة مئوية من قيمة SBD في معدل العائد السنوي المحدد من قبل الشهود وتدفع لحاملي SBD ك SBD
 
 The overall supply picture is complicated by the effect of SBD operations, which may result in large-scale creation or destruction of STEEM through feed rate following and SBD rewards, as discussed in the SBD section. Other, smaller-scale complicating effects also exist, including unclaimed incentives (e.g. block rewards for missed blocks), and abandoned accounts.
 
