@@ -417,7 +417,7 @@ Steem قادر على التعامل مع userbase أكبر من Reddit. في ع
 
 - مكافآت SBD: يتم إنشاء نسبة مئوية من قيمة SBD في معدل العائد السنوي المحدد من قبل الشهود وتدفع لحاملي SBD ك SBD
 
-The overall supply picture is complicated by the effect of SBD operations, which may result in large-scale creation or destruction of STEEM through feed rate following and SBD rewards, as discussed in the SBD section. Other, smaller-scale complicating effects also exist, including unclaimed incentives (e.g. block rewards for missed blocks), and abandoned accounts.
+الصورة الإجمالية للإمداد معقدة نتيجة لتأثير عمليات SBD، الأمر الذي قد يؤدي إلى إنشاء أو تدمير ستيم على نطاق واسع من خلال معدل التغذية التالية ومكافآت SBD، كما نوقش في قسم SBD. Other, smaller-scale complicating effects also exist, including unclaimed incentives (e.g. block rewards for missed blocks), and abandoned accounts.
 
 ## Current Allocation & Supply
 
