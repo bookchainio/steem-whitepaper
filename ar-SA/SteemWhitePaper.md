@@ -475,11 +475,11 @@ Steem قادر على التعامل مع userbase أكبر من Reddit. في ع
 
 ليس من السهل الوصول الى العملات الإلكترونية [^21]. شخص يكتشف بيتكوين ويريد أن يحاول تجربته بسرعة يتعلم أنه سوفيحتاج إلى الاشتراك مع منصة تبادل وتمويل حساباتهم عبر بطاقة الائتمان أو التحويل الإلكتروني. ماذا سيكون معدل اعتماد فيسبوك اذا كان عليك التفريق بين المال ونوعين من البطائق التعريفية؟
 
-Steem يحل هذه المشكلة عن طريق إعطاء الجميع وسيلة للحصول على أموال للقيام بمهام بسيطة، ولكنها ذات قيمة،. وهذا سيساعد على توزيع عملات ستيم على نطاق واسع. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless.)
+Steem يحل هذه المشكلة عن طريق إعطاء الجميع وسيلة للحصول على أموال للقيام بمهام بسيطة، ولكنها ذات قيمة،. وهذا سيساعد على توزيع عملات ستيم على نطاق واسع. وهذا مفيد لأن العملات الإلكترونية لها تأثير على الشبكة (أي المزيد من المستخدمين جعلها أكثر فائدة، على سبيل المثال، إذا كان ساتوشي أبقى 100٪ من بيتكوين لنفسه، بيتكوين سيكون لا قيمة له.)
 
-## Solving the Cryptocurrency Liquidation Problem
+## حل مشكلة تصفية العملات الإلكترونية
 
-A currency that is difficult to use or impossible to sell has little value. Someone who comes across $1.00 worth of Bitcoin will discover that it costs more than $1.00 to sell that Bitcoin. They have to create an account with an exchange, perform KYC validation, and pay fees. Small amounts of cryptocurrency are like small change that people are unwilling to bend over to pick up.
+العملة التي يصعب استخدامها أو المستحيل بيعها لها قيمة ضئيلة. شخص يمر على قيمة 1 دولار للبيتكوين الواحد سيكتشف انه عليه دفع اكثر من 1 دولار لبيعه. يجب عليك انشاء حساب في منصة تبادل واليقام بKYC ودفع الضرائب. Small amounts of cryptocurrency are like small change that people are unwilling to bend over to pick up.
 
 Merchants give users a way to quickly convert their cryptocurrency into tangible goods and services. Merchants need a currency pegged to their unit of account, normally dollars. Accepting a volatile currency introduces significant accounting overhead.
 
