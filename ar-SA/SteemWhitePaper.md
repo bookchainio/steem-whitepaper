@@ -467,15 +467,15 @@ Steem قادر على التعامل مع userbase أكبر من Reddit. في ع
 
 الروابط يمكن أن تتخذ أشكالاً عديدة، وقد تكيفت مع مرور الوقت. في كل مرة يصوت المستخدم على المحتوى في شبكة اجتماعية يضيفون اتصالا بين أنفسهم والمحتوى. وهذا بدوره يربط المستهلك بالمنتج من خلال المحتوى. كلما كان للشبكة مزيد من الإتصالات ، كلما اصبحت المعلومات اكثر قيمة. وهو الترابط النسبي والمتعمد للمعلومات الذي يعطي قيمتها.
 
-يمكن للشبكة الاجتماعية زيادة القيمة المستخرجة من مجموعة من المحتوى عن طريق زيادة كمية ونوعية الاتصالات. تقييم المحتوى مكلف ويستغرق وقتا طويلا في حين من شبه المستحيل لأجهزة الكمبيوتر العمل في غياب الروابط. Steem rewards users who are among the first to find and identify new content.
+يمكن للشبكة الاجتماعية زيادة القيمة المستخرجة من مجموعة من المحتوى عن طريق زيادة كمية ونوعية الاتصالات. تقييم المحتوى مكلف ويستغرق وقتا طويلا في حين من شبه المستحيل لأجهزة الكمبيوتر العمل في غياب الروابط. ستيم يكافئ المستخدمين الذين هم الأوائل في العثور وتحديد محتوى جديد.
 
-By incentivising curation the Steem network is able to use automated algorithms to extract the most valuable information from a massive amount of content.
+من خلال تحفيز التقييم شبكة ستيم قادرة على استخدام خوارزميات ألية لاستخراج المعلومات الأكثر قيمة من كمية هائلة من المحتوى.
 
-## Solving the Cryptocurrency Onboarding Problem
+## حل مشكلة تأهيل العملات الإلكترونية
 
-It isn’t easy to get into cryptocurrency[^21]. Someone who discovers Bitcoin and wants to try it out quickly learns that they will need to sign up with an exchange and fund their account with a credit card or wire transfer. What would Facebook’s adoption rate have been like if you had to fork over money and a two forms of ID?
+ليس من السهل الوصول الى العملات الإلكترونية [^21]. شخص يكتشف بيتكوين ويريد أن يحاول تجربته بسرعة يتعلم أنه سوفيحتاج إلى الاشتراك مع منصة تبادل وتمويل حساباتهم عبر بطاقة الائتمان أو التحويل الإلكتروني. ماذا سيكون معدل اعتماد فيسبوك اذا كان عليك التفريق بين المال ونوعين من البطائق التعريفية؟
 
-Steem solves this problem by giving everyone a way to get paid for doing simple, but valuable, tasks. This will help to widely distribute STEEM tokens. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless.)
+Steem يحل هذه المشكلة عن طريق إعطاء الجميع وسيلة للحصول على أموال للقيام بمهام بسيطة، ولكنها ذات قيمة،. وهذا سيساعد على توزيع عملات ستيم على نطاق واسع. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless.)
 
 ## Solving the Cryptocurrency Liquidation Problem
 
