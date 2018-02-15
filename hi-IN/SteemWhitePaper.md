@@ -84,7 +84,7 @@
 
 जब उपयोगकर्ता सामग्री पर वोट करते हैं, पुरस्कार पुल पे उनके वोट का प्रभाव उनके स्टीम पावर पर निर्भर करता है । जतना उपयोगकर्ताकाऔं को स्टीम पावर होगा उतना पुरस्कार के वितरण पर उनका प्रभाव होगा। इसका मतलब स्टीम पावर ऐसा टोकन है जो इसके धारकों को स्टीम मैं अनंय शक्तियाँ अनुदान करता है ।
 
-जो स्टीम पावर निहित रहता है उस पर धारकों को ब्याज दिया जाता है । 15% of the yearly inflation is paid to SP holders as interest. The amount of the interest that they receive is directly proportional to the amount of SP they hold relative to the total amount of vested SP across all users.
+जो स्टीम पावर निहित रहता है उस पर धारकों को ब्याज दिया जाता है । वार्षिक मुद्रास्फीति का 15% स्टीम पावर धारकों के ब्याज के रूप मैं भुगतान किया जाता है । The amount of the interest that they receive is directly proportional to the amount of SP they hold relative to the total amount of vested SP across all users.
 
 Transferring from STEEM to SP is referred to as “powering up”, while transferring from SP to STEEM is referred to as “powering down.” SP that is powered down is returned to the user over a period of thirteen weeks, via 13 equal weekly payments, starting one week after the power down is initiated.
 
