@@ -70,9 +70,9 @@
 
 ## स्टीम
 
-स्टीम एक प्रमुख हिस्सा है स्टीम बुलाकचैन का । All other tokens derive their value from the value of STEEM. STEEM is a liquid currency, and therefore can be bought or sold on exchanges, as well as transferred to other users as a form of payment.
+स्टीम एक प्रमुख हिस्सा है स्टीम बुलाकचैन का । बाक़ी सभी टोकन स्टीम के मूल्य से उनका मूल्य प्राप्त करते है । स्टीम एक तरल मूली है इसलिए इसको किसी भी इक्स्चेंज मैं ख़रीदा या बेचा जा सकता है इसके अलावा किस्सी भी भुक्तान कैलिए अंतरण कर सकते हैं।
 
-## Steem Power (SP)
+## स्टीम पावर (एस॰पी॰)
 
 Start up companies require long-term capital commitment. Those who invest their money in a startup expect to wait years before they can sell their shares and realize their profits. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
 
