@@ -433,11 +433,11 @@ Steem قادر على التعامل مع userbase أكبر من Reddit. في ع
 
 خلال السنتين الأوليين من حياة بيتكوين، حافظت الشبكة على معدل تضخم سنوي يزيد عن 100٪ [^17]. في السنوات الخمس الأولى كان أكثر من 30٪، وبالنسبة للسنوات ال 8 الأولى كان أكثر من 10٪. وقال الجميع ان "إنفاق" ستيم يتم لتمويل المحتوى، المعالجة، وكتلة الإنتاج تصل إلى أقل من 10٪ لمعدل العائد السنوي.
 
-The price of a digital commodity, like STEEM, is driven by both supply and demand. When a long-term holder decides to exit, the supply of STEEM on the market will increase and push the price down. This downward pressure is countered when a new long-term holder decides to buy up the STEEM and convert it back into SP. Additional supply and demand may be be added due to market speculators buying and selling liquid STEEM based on their predictions of the future market price.
+سعر السلع الرقمية، مثل ستيم، يتم قيادتها عبر كل من العرض والطلب. عندما يقرر حامل على المدى الطويل الخروج، فإن توريد ستيم في السوق سيزداد ويدفع السعر إلى أسفل. ويواجه هذا الضغط الهبوطي عندما يقرر حامل جديد طويل الأجل شراء ستيم وتحويله مرة أخرى إلى SP. ويمكن إضافة المزيد من العرض والطلب بسبب المضاربين في السوق لشراء وبيع ستيم السائل بناء على توقعاتهم لسعر السوق في المستقبل.
 
-# The Power of Steem
+# قوة Steem
 
-Steem recognizes that the value of all user contributions (posts and votes) is greater than the sum of the parts. A single comment is worth next to nothing, but millions of curated posts is worth many millions (or possibly even billions) of dollars. A single vote provides little curation value, but billions of votes is very effective curation. Content without curation is of limited value. Given all the content of the Internet minus the links between it, Google would struggle to produce useful search results. It is the links between information that give it significant value.
+يقر ستيم بأن قيمة جميع مساهمات المستخدمين (المشاركات والأصوات) أكبر من مجموع الأجزاء. تعليق واحدلا يساوي أي شيء، ولكن الملايين من المشاركات المختاره تساوي ملايين عديدة (أو ربما حتى المليارات) من الدولارات. تصويت واحد يوفر قيمة curation ضئيلة، ولكن مليارات أصوات curation فعالة جداً. المحتوى دون curation ذات قيمة محدودة. وبالنظر إلى كل محتوى الإنترنت ناقص الروابط بينه، فإن غوغل تكافح من أجل تحقيق نتائج بحث مفيدة. It is the links between information that give it significant value.
 
 Because everyone benefits, everyone should pay. In other words, no individual user should be expected to pay for anything, but instead should be paid for everything they do that brings value to Steem. All we need to do is ascertain which user contributions bring a social network value and which ones don’t.
 
