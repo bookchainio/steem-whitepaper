@@ -425,13 +425,13 @@ Steem قادر على التعامل مع userbase أكبر من Reddit. في ع
 
 75٪ من الرموز الجديدة التي يتم إنشاؤها تذهب لتمويل صندوق المكافأة، الذي ينقسم بين المؤلفين والقيمين. ويتم منح 15% من الرموز المميزة الجديدة لأصحاب sp. تدفع 10٪ المتبقية للشهود لإعطاء الطاقة لبلوكشين.
 
-### Impact of Token Creation Rate
+### أثر معدل إنشاء الرمز المميز
 
-It is often said that a coin with an inflationary model is not sustainable, but we know from countless real-world examples that the quantity of money does not have a direct and immediate impact on its value, though it certainly plays a role.
+وكثيرا ما يقال إن عملة ذات نموذج تضخمي ليست مستدامة، ولكننا نعرف من عدد لا يحصى من الأمثلة في العالم الحقيقي أن كمية الأموال لا يكون لها تأثير مباشر وفوري على قيمتها، على الرغم من أنها تلعب بالتأكيد دورا.
 
-From August 2008 through January 2009 the U.S. money supply[^15] grew from $871B to $1,737B, a rate of over 100% per year and then continued to grow at about 20% per year for the next 6 years. All told the money supply in the U.S. has grown by 4.59x over less than 7 years. During that same time, the value of the dollar relative to goods and services has fallen less than 10% according to the government's price index[^16]. This real-world example demonstrates that supply is only one component of price.
+من أغسطس 2008 حتى يناير 2009، ارتفع عرض النقود الأمريكية [^15] من 871 مليار دولار إلى 1،737 مليار دولار، بمعدل أكثر من 100٪ سنويا، ثم استمر في النمو بنحو 20٪ سنويا على مدى السنوات الست القادمة. وقال الجميع أن النقود في الولايات المتحدة قد نمت بنسبة 4.59 مرة على مدى أقل من 7 سنوات. خلال هذا الوقت نفسه، انخفضت قيمة الدولار بالنسبة للسلع والخدمات أقل من 10 في المائة وفقا لمؤشر الأسعار للحكومة [^16]. يوضح مثال العالم الحقيقي هذا أن الموارد مكون واحد فقط من الأسعار.
 
-For the first 2 years of Bitcoin’s life the network sustained an annual inflation rate[^17] of over 100%. For the first 5 years it was over 30%, and for the first 8 years it was over 10%. All told the total “spending” Steem does to fund content, curation, and block production amounts to less than 10% APR.
+خلال السنتين الأوليين من حياة بيتكوين، حافظت الشبكة على معدل تضخم سنوي يزيد عن 100٪ [^17]. في السنوات الخمس الأولى كان أكثر من 30٪، وبالنسبة للسنوات ال 8 الأولى كان أكثر من 10٪. وقال الجميع ان "إنفاق" ستيم يتم لتمويل المحتوى، المعالجة، وكتلة الإنتاج تصل إلى أقل من 10٪ لمعدل العائد السنوي.
 
 The price of a digital commodity, like STEEM, is driven by both supply and demand. When a long-term holder decides to exit, the supply of STEEM on the market will increase and push the price down. This downward pressure is countered when a new long-term holder decides to buy up the STEEM and convert it back into SP. Additional supply and demand may be be added due to market speculators buying and selling liquid STEEM based on their predictions of the future market price.
 
