@@ -64,7 +64,7 @@
 
 ## पूंजी योगदान
 
-एक समुदाय पूंजी को आकर्षित करने के लिए दो मुद्दों का प्रयोग करती है: कर्ज़ और प्रभुत्व । वो जो प्रभुत्व लाभ ख़रीदते हैं जब समुदाय बढ़ता है मगर खो देते हैं जब समुदाय की संख्या सुकड़ जाती है । Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
+एक समुदाय पूंजी को आकर्षित करने के लिए दो मुद्दों का प्रयोग करती है: कर्ज़ और प्रभुत्व । वो जो प्रभुत्व लाभ ख़रीदते हैं जब समुदाय बढ़ता है मगर खो देते हैं जब समुदाय की संख्या सुकड़ जाती है । जो लोग क़र्ज़ ख़रीदते हैं उनको ब्याज की एक राशि दी जाती है मगर उनको समुदाय के किसी भी लाभ में भाग नहीं मिलता है । Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
 
 The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SBD).
 
