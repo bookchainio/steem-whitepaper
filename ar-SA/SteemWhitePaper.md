@@ -398,11 +398,11 @@ Steem قادر على التعامل مع userbase أكبر من Reddit. في ع
 
 ## التخصيص الأولي والتوريد
 
-The Steem network started with a currency supply of 0 and allocated STEEM via proof of work at a rate of approximately 40 STEEM per minute to miners, with an additional 40 STEEM per minute being created to seed the content and curation reward pools (for a total of 80 STEEM per minute). Then the network started rewarding users who converted to SP. At this point, STEEM grew at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
+بدأت شبكة "ستيم" بإمدادات عملة قدرها 0 وخصصت ستيم عن طريق إثبات العمل بمعدل 40 ستيم في الدقيقة لكل عامل من عمال المناجم، بالإضافة إلى 40 ستيم لكل دقيقة يتم إنشاؤها لبذور المحتوى ومجمعات المكافأة (لإجمالي 80 ستيم في الدقيقة الواحدة). ثم بدأت الشبكة مكافأة المستخدمين الذين يقومون بتحويلها إلى sp. في هذه المرحلة، نمت ستيم بمعدل حوالي 800 ستيم في الدقيقة الواحدة بسبب الآثار مجتمعة من مختلف المكافآت المساهمة تلخيصها أدناه:
 
-Contribution Rewards:
+مكافآت المساهمات:
 
-- Curation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
+- المكافآت كرأيشن: 1 ستيم للكتلة أو 3.875٪ سنويا، أيهما أكبر
 - Content Creation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
 - Block production rewards: 1 STEEM per block or 0.750% per year, whichever is greater
 - POW inclusion rewards before block 864,000: 1 STEEM per block (awarded as 21 STEEM per round)
