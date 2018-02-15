@@ -80,7 +80,7 @@
 
 क्रिप्टोकरेंसी के स्थान पर, सट्टेबाज़ ज्यादातर ऐक क्रिप्टोकरेंसी से दूसरे क्रिपटोकरेंसी बदलते रहते हैं, क्योंकि असपर अल्पकालिक वृद्धि की संभावना होती है । स्टीम एक ऐसी समुदाई बनाना चाहता है जिसके अधिकारी मूल्य रूप से दीर्घकालिक परिप्रेक्ष्य के साथ है ।
 
-उपयोगकर्ता अपनी स्टीम को तेरा हफ़्तों के निहित अनुसूची में प्रतिबंध करता है जिससे उनको इस मंच पर अतिरिक्त लाभ भी मिलता है । वो स्टीम जिसको तेरा हफ़्तों के मिहित अनुसूची में प्रतिबंधित किया जाता है उसको स्टीम पावर (एस॰पी॰) कहते हैं । SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
+उपयोगकर्ता अपनी स्टीम को तेरा हफ़्तों के निहित अनुसूची में प्रतिबंध करता है जिससे उनको इस मंच पर अतिरिक्त लाभ भी मिलता है । वो स्टीम जिसको तेरा हफ़्तों के मिहित अनुसूची में प्रतिबंधित किया जाता है उसको स्टीम पावर (एस॰पी॰) कहते हैं । स्टीम पावर खाता अस्तातंतरणीय और ग़ैर-विभाजय है, मगर ख़ुद ही निकल सकता है जब हम निकालने की याचिका करते हैं । This means that SP cannot be easily traded on cryptocurrency exchanges.
 
 When users vote on content, their influence over the distribution of the rewards pool is directly proportional to the amount of SP that they have. Users with more SP have more influence on the distribution of rewards. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
 
