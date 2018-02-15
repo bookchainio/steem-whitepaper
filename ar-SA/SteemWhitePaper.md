@@ -441,11 +441,11 @@ Steem قادر على التعامل مع userbase أكبر من Reddit. في ع
 
 لأن الجميع يستفيد، يجب على الجميع الدفع. وبعبارة أخرى، لا ينبغي أن يتوقع من أي مستخدم فردي أن يدفع ثمن أي شيء، ولكن بدلا من ذلك يجب أن تدفع على كل ما يفعلونه ويجلب قيمة لستيم. كل ما علينا القيام به هو التأكد من مساهمات المستخدم التي تجلب قيمة للشبكة الاجتماعية والتي لا تفعل.
 
-جماعيا مستخدمي رديت يصوتون 220 مرة في الثانية الواحدة ويشاركون 23 مشاركة في الثانية الواحدة. وتقدر قيمة رديت بين 500 مليون دولار [^18] و 4 مليارات دولار [^19] مما يعني أن كل التصويت والمشاركات يستحقان ما بين 0.06 و 0.50 دولار على افتراض أن قيمة رديت تكون في الغالب في الماضي قيمة النشاط. ويمكن للمرء أن يجادل بأن معظم قيمة رديت هي المناقشات شبه الحقيقية التي وقعت خلال الأسبوع الماضي والتي من شأنها أن تزيد بشكل كبير من قيمة النشاط الجديد. People go where people are today, not where people were last year.
+جماعيا مستخدمي رديت يصوتون 220 مرة في الثانية الواحدة ويشاركون 23 مشاركة في الثانية الواحدة. وتقدر قيمة رديت بين 500 مليون دولار [^18] و 4 مليارات دولار [^19] مما يعني أن كل التصويت والمشاركات يستحقان ما بين 0.06 و 0.50 دولار على افتراض أن قيمة رديت تكون في الغالب في الماضي قيمة النشاط. ويمكن للمرء أن يجادل بأن معظم قيمة رديت هي المناقشات شبه الحقيقية التي وقعت خلال الأسبوع الماضي والتي من شأنها أن تزيد بشكل كبير من قيمة النشاط الجديد. يذهب الناس حيث الناس اليوم، وليس اين كان الناس في العام الماضي.
 
-## No Micropayments, Tips Optional
+## لا Micropayments، نصائح اختيارية
 
-Existing attempts at integrating a cryptocurrency into a social media platform have focused on enabling users to pay one another. Many services have attempted to introduce tipping. The theory is that if we make tipping simple enough then more people will do it. Other services attempt to get people to pay to promote or boost their content’s ranking. Still others attempt to build small prediction markets on how many tips an article will receive.
+وقد ركزت المحاولات الحالية لدمج العملات الرقمية في منصة وسائل الاعلام الاجتماعية على تمكين المستخدمين من الدفع لبعضهم البعض. لقد حاولت العديد من الخدمات إلى تقديم بقشيش. النظرية هي أنه إذا جعلنا البقشيش بسيط بما فيه الكفاية المزيد من الناس سوف يفعلون ذلك. وتسعى خدمات أخرى إلى دفع الأشخاص إلى الترويج لترقية المحتوى أو تعزيزه. Still others attempt to build small prediction markets on how many tips an article will receive.
 
 All of these approaches boil down to micropayments. They differ only in who is making the payment. They all suffer from insufficient engagement of people making the micropayments. In the search for incentivised content production entrepreneurs have been so focused on who should pay that they missed the obvious reality: everyone benefits from everyone’s actions so everyone should pay or no one should pay, depending on how you look at it.
 
