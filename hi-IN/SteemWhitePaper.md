@@ -64,13 +64,13 @@
 
 ## पूंजी योगदान
 
-एक समुदाय पूंजी को आकर्षित करने के लिए दो मुद्दों का प्रयोग करती है: कर्ज़ और प्रभुत्व । वो जो प्रभुत्व लाभ ख़रीदते हैं जब समुदाय बढ़ता है मगर खो देते हैं जब समुदाय की संख्या सुकड़ जाती है । जो लोग क़र्ज़ ख़रीदते हैं उनको ब्याज की एक राशि दी जाती है मगर उनको समुदाय के किसी भी लाभ में भाग नहीं मिलता है । ये दोनो योगदान समुदाय और मूल्य के विकास के लिए महत्वपूर्ण है । इसके अलावा यहाँ दो तरीक़े ये स्वामित्व हो सकते हैं: नक़दी और मूलधन। Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
+एक समुदाय पूंजी को आकर्षित करने के लिए दो मुद्दों का प्रयोग करती है: कर्ज़ और प्रभुत्व । वो जो प्रभुत्व लाभ ख़रीदते हैं जब समुदाय बढ़ता है मगर खो देते हैं जब समुदाय की संख्या सुकड़ जाती है । जो लोग क़र्ज़ ख़रीदते हैं उनको ब्याज की एक राशि दी जाती है मगर उनको समुदाय के किसी भी लाभ में भाग नहीं मिलता है । ये दोनो योगदान समुदाय और मूल्य के विकास के लिए महत्वपूर्ण है । इसके अलावा यहाँ दो तरीक़े ये स्वामित्व हो सकते हैं: नक़दी और मूलधन। मूलधन स्वामित्व एक दीर्घकालिक प्रतिबद्धता बनाता है और समय की एक नियूनतम अवधि के लिए नहीं बेचा जा सकता है ।
 
-The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SBD).
+स्टीम नेटवर्क इन विभिंन परिसंपत्ति वर्गों स्टीम, स्टीम पावर (एस॰पी॰), और स्टीम डॉलर (एस॰बी॰डी॰) कहते हैं ।
 
-## Steem (STEEM)
+## स्टीम
 
-Steem is the fundamental unit of account on the Steem blockchain. All other tokens derive their value from the value of STEEM. STEEM is a liquid currency, and therefore can be bought or sold on exchanges, as well as transferred to other users as a form of payment.
+स्टीम एक प्रमुख हिस्सा है स्टीम बुलाकचैन का । All other tokens derive their value from the value of STEEM. STEEM is a liquid currency, and therefore can be bought or sold on exchanges, as well as transferred to other users as a form of payment.
 
 ## Steem Power (SP)
 
