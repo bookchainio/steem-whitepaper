@@ -94,7 +94,7 @@
 
 स्टीम डालर को परिवर्तनीय नोटों की तरह ही बनाया जाता है जिनको हम अक्सर उद्घाटन निधि के लिए इस्तेमाल करते हैं । उद्घाटन करने की दुनिया में, परिवर्तनीय नोट अल्पकालिक ऋण उपकरण है जो भविष्य में निर्धारित दर पर स्वामित्व में परिवर्तित किया जा सकता है । एक ब्लॉकचैन आधारित टोकन समुदाय में स्वामित्व के रूप में देखा जा सकता है जबकि एक परिवर्तनीय नोट किसी अंय वस्तु या मुद्रा में एक ऋण के रूप में देखा जा सकता है । परिवर्तनीय नोट की शर्तें धारक को टोकन के उचित बाजार मूल्य पर एक नयूनतम सूचना के साथ समर्थन टोकन में परिवर्तित करने के लिए अनुमति देते हैं । टोकन-परिवर्तन-डालर बनानी से बुलाकचैन का नेटवर्क प्रभाव बड़ जाता है और साथ ही टोकन धारकों के लिए अधिकतम वापसी ते करता हैं।
 
-Steem Dollars are referred to with the symbol SBD, an acronym for Steem Blockchain Dollars. Creating SBD requires a combination of a reliable price feed, and rules to prevent abuse. Providing a reliable price feed involves three factors: minimizing the impact of an incorrect feed, maximizing the cost of producing an incorrect feed, and minimizing the importance of timing.
+स्टीम डालर को एस॰बी॰डी॰ भी कहा जाता है जइसका परिवर्तन शब्द स्टीम बुलाकचैन डालर हैं। एस॰बी॰डी॰ को बनाने के लिए एक विश्वसनीय मूल्य और नियम चाहिए ता ताकि इसके दुरूपयोग को रोका जा सके । Providing a reliable price feed involves three factors: minimizing the impact of an incorrect feed, maximizing the cost of producing an incorrect feed, and minimizing the importance of timing.
 
 ### Minimizing Fraudulent Feeds
 
