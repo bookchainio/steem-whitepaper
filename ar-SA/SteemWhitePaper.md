@@ -455,13 +455,13 @@ Steem قادر على التعامل مع userbase أكبر من Reddit. في ع
 
 *نحن نواجه بالفعل العديد من الخيارات اليومية فيما يتعلق بما يمكن الوصول إليه عبر الإنترنت في هذا العصر الرقمي من انفجار المعلومات، وكل قرار إضافي يجب علينا القيام به ببساطة يضاف إلى عدم اليقين والقلق الذي نواجهه. يعتقد أنصار الدفع المصغر أن تنفيذ مبسط يمكن أن يقلل من التدخلات من Micropayment وتحسين تجربة المستخدم، ولكن حجتهم فقط تخلق معايير مزدوجة لعملية صنع القرار \ [2 \]. لا يمكن أن تكون الصفقة في وقت واحد تساوي بما فيه الكفاية لتبرير قرار وتساوي القليل جدا ليكون القرار تلقائي. ** المعاملات الوحيدة التي يمكن للمستخدمين الموافقة عليها دون تفكير هي تلك التي لا تكلفهم شيئا **, وبالتالي فإن أي معاملة صغيرة من القيمة الإيجابية سوف تتكبد تكاليف عقلية من خلالها يتطلب قرارا. وعلاوة على ذلك، فإن تكاليف المعاملات العقلية ترتفع فعليا إلى ما دون قيمة عتبة معينة، وهي ظاهرة تضع micropayments في عيب أكبر. على سبيل المثال، من السهل أن نفكر أن نسخة من الصحف اليوم تكلف $ 1، ولكن القراء يواجهون صعوبة أكثر بكثير وقلق في البت في قيمة كل مادة أو كلمة. ولن تتكرر هذه المعضلة وتتفاقم إذا ما تم تقسيم المحتوى عبر الإنترنت إلى مكوناته وتقييمه بشكل فردي ضمن نظام الدفع المصغر.*
 
--Micropayments: A Viable Business Model[^20]
+-Micropayments: أعمال تجارية قابلة للتطبيق نموذج [^20]
 
-Under Steem, micropayments are paid to content producer, but those who vote for the content do not pay. Instead, the cost of the reward is paid for via new tokens. Someone can join the system, vote to pay someone, and then exit the system with more money than they started with (assuming the market valuation of the Steem system remained constant). In other words, the micropayment solution provided by Steem provides a user-experience similar to many widely used websites that have user-moderated content.
+ضمن ستيم، يتم دفع المبالغ المصغرة إلى منتج المحتوى، ولكن أولئك الذين يصوتون للمحتوى لا يدفعون. بدلاً من ذلك، تدفع تكلفة المكافأة عن طريق الرموز الجديدة. يمكن لشخص ما الانضمام إلى النظام، والتصويت للدفع لشخص ما، ومن ثم الخروج من النظام مع المزيد من المال مما بدأ (على افتراض أن تقييم السوق لنظام ستيم ظل ثابت). وبعبارة أخرى، فإن حل الدفع المصغر الذي يوفره ستيم يوفر تجربة مستخدم مماثلة للعديد من المواقع التي تستخدم على نطاق واسع والتي لديها محتوى يديره المستخدم.
 
-Furthemore, Steem pays people to figure out who should be paid! This kind of thinking is revolutionary.
+علاوة على ذلك.، ستيم يدفع للناس لمعرفة من الذي ينبغي أن يدفع له! هذا النوع من التفكير ثوري.
 
-## Value is in the Links
+## القيمة في الروابط
 
 The Internet would lose the vast majority of its value if all links among content were removed. It is the relationship among web pages that allows Google to identify the best apple pie recipe among the 16 million results. Without the links the only information Google would have is word frequency.
 
