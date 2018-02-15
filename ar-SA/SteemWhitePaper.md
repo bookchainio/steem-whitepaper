@@ -479,13 +479,13 @@ Steem يحل هذه المشكلة عن طريق إعطاء الجميع وسي�
 
 ## حل مشكلة تصفية العملات الإلكترونية
 
-العملة التي يصعب استخدامها أو المستحيل بيعها لها قيمة ضئيلة. شخص يمر على قيمة 1 دولار للبيتكوين الواحد سيكتشف انه عليه دفع اكثر من 1 دولار لبيعه. يجب عليك انشاء حساب في منصة تبادل واليقام بKYC ودفع الضرائب. Small amounts of cryptocurrency are like small change that people are unwilling to bend over to pick up.
+العملة التي يصعب استخدامها أو المستحيل بيعها لها قيمة ضئيلة. شخص يمر على قيمة 1 دولار للبيتكوين الواحد سيكتشف انه عليه دفع اكثر من 1 دولار لبيعه. يجب عليك انشاء حساب في منصة تبادل واليقام بKYC ودفع الضرائب. كميات صغيرة من العملات الرقمية هي مثل قطع نقدية صغيرة على الأرض لا يريد الناس الإنحناء لإلتقاطها.
 
-Merchants give users a way to quickly convert their cryptocurrency into tangible goods and services. Merchants need a currency pegged to their unit of account, normally dollars. Accepting a volatile currency introduces significant accounting overhead.
+التجار أعطوا المستخدمين وسيلة لتحويل العملات الرقمية بسرعة إلى سلع وخدمات ملموسة. التجار يحتاجون إلى عملة مربوطة لوحدة حسابهم، عادة الدولار. قبول العملة المتقلبة يقدم محاسبة عامة كبيرة.
 
-Merchants will accept any currency if it increases their sales. Having a large user base with a stable currency such as SBD lowers the barrier to entry for merchants. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
+سيقبل التجار أي عملة إذا زادت مبيعاتهم. وجود قاعدة مستخدمين كبيرة مع عملة مستقرة مثل SBD يخفض حاجز دخول التجار. وجود التجار يحسن النظام من خلال خلق منحدر للمستخدمين للخروج من النظام دون عناء استخدام الصرف.
 
-Another way that people can liquidate the small amounts of cryptocurrency they receive from participating on the Steem platform is through *tipping* others. This is like leaving the small change as a tip for your waiter. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
+طريقة أخرى أن الناس يمكنها تصفية كميات صغيرة من العملات الرقمية التي يتلقونها عبر المشاركة على منصة ستيم من خلال *اعطاء بقشيش * للأخرين. هذا مثل ترك العملات الصغيرة كبقشيش للنادل. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
 
 ## Censorship
 
