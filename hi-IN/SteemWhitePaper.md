@@ -74,7 +74,7 @@
 
 ## स्टीम पावर (एस॰पी॰)
 
-एक कमपनी को शुरू करने के लिए पूंजी को दीर्घकालिक के लिए प्रतिबंध करना मैहत्रीपूर्ण है । शुरुआत में पैसे निवेश करने वालों को कई साल इंतज़ार करना पड़ता है जिसके बाद वह अपने शेयर बेच कर मुनाफ़ा कमा सकते हैं। Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
+एक कमपनी को शुरू करने के लिए पूंजी को दीर्घकालिक के लिए प्रतिबंध करना मैहत्रीपूर्ण है । शुरुआत में पैसे निवेश करने वालों को कई साल इंतज़ार करना पड़ता है जिसके बाद वह अपने शेयर बेच कर मुनाफ़ा कमा सकते हैं। दीर्घकालीन प्रतिबद्धता के बिना, एक नई कंमपनी अतिरिक्त शेर की बिक्री के माध्यम से अतिरिक्त धन प्राप्त करने के बजाय अपने मौजूदा शेरधारकों के साथ मुक़ाबले में होंगे जो बाहर निकलने वाले होते हैं। सहज-बुद्धि वाले निवेशक अपनी पूंजी के योगदान से कमपनी और अपना विकास करना चाहते हैं, लेकिन अगर नई कमायी हुई पूंजी बाहर निकलने वाले व्यक्तियों को दी जाए तो उससे विकास में बाधा आती है ।
 
 There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
 
