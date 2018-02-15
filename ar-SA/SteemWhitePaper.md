@@ -465,9 +465,9 @@ Steem قادر على التعامل مع userbase أكبر من Reddit. في ع
 
 سيفقد الإنترنت الغالبية العظمى من قيمته إذا تمت إزالة جميع الروابط من المحتوى. هذه هي العلاقة بين صفحات الويب التي تسمح ل غوغل بتحديد أفضل وصفة فطيرة تفاح بين 16 مليون نتيجة. وبدون الروابط، ستكون المعلومات الوحيدة التي توفرها غوغل هي تكرار الكلمات.
 
-الروابط يمكن أن تتخذ أشكالاً عديدة، وقد تكيفت مع مرور الوقت. في كل مرة يصوت المستخدم على المحتوى في شبكة اجتماعية يضيفون اتصالا بين أنفسهم والمحتوى. This in turn links the consumer to the producer through the content. The more connections a network has the more valuable the information becomes. It is the relative and intentional connectedness of information that gives it value.
+الروابط يمكن أن تتخذ أشكالاً عديدة، وقد تكيفت مع مرور الوقت. في كل مرة يصوت المستخدم على المحتوى في شبكة اجتماعية يضيفون اتصالا بين أنفسهم والمحتوى. وهذا بدوره يربط المستهلك بالمنتج من خلال المحتوى. كلما كان للشبكة مزيد من الإتصالات ، كلما اصبحت المعلومات اكثر قيمة. وهو الترابط النسبي والمتعمد للمعلومات الذي يعطي قيمتها.
 
-A social network can maximize the value extracted from a set of content by maximizing the quantity and quality of connections. Curating content is expensive and time consuming while being near impossible for computers to perform in the absence of links. Steem rewards users who are among the first to find and identify new content.
+يمكن للشبكة الاجتماعية زيادة القيمة المستخرجة من مجموعة من المحتوى عن طريق زيادة كمية ونوعية الاتصالات. تقييم المحتوى مكلف ويستغرق وقتا طويلا في حين من شبه المستحيل لأجهزة الكمبيوتر العمل في غياب الروابط. Steem rewards users who are among the first to find and identify new content.
 
 By incentivising curation the Steem network is able to use automated algorithms to extract the most valuable information from a massive amount of content.
 
