@@ -84,11 +84,11 @@
 
 जब उपयोगकर्ता सामग्री पर वोट करते हैं, पुरस्कार पुल पे उनके वोट का प्रभाव उनके स्टीम पावर पर निर्भर करता है । जतना उपयोगकर्ताकाऔं को स्टीम पावर होगा उतना पुरस्कार के वितरण पर उनका प्रभाव होगा। इसका मतलब स्टीम पावर ऐसा टोकन है जो इसके धारकों को स्टीम मैं अनंय शक्तियाँ अनुदान करता है ।
 
-जो स्टीम पावर निहित रहता है उस पर धारकों को ब्याज दिया जाता है । वार्षिक मुद्रास्फीति का 15% स्टीम पावर धारकों के ब्याज के रूप मैं भुगतान किया जाता है । ब्याज की राशि उपयोगकर्ता के निहित किए हुवे स्टीम पावर और सभी उपयोगकर्ता के निहित स्टीम पावर पर निर्भर करता है ।
+जो स्टीम पावर निहित रहता है उस पर धारकों को ब्याज दिया जाता है । वार्षिक मुद्रास्फीति का 15% स्टीम पावर धारकों के ब्याज के रूप मैं भुगतान किया जाता है । ब्याज की राशि उपयोगकर्ता के निहित स्टीम पावर के सापेक्ष सभी उपयोगकर्ताओं के निहित स्टीम पावर पर निर्भर करता है ।
 
-Transferring from STEEM to SP is referred to as “powering up”, while transferring from SP to STEEM is referred to as “powering down.” SP that is powered down is returned to the user over a period of thirteen weeks, via 13 equal weekly payments, starting one week after the power down is initiated.
+स्टीम को स्टीम पावर में बदलने को पावरिंग उप और स्टीम पावर को स्टीम मैं बदलने को पावरिंग डाउन कहते हैं।
 
-## Steem Dollars (SBD)
+## स्टीम डॉलर (एस॰बी॰डी॰)
 
 Stability is an important feature of successful global economies. Without stability, individuals across the world could not have low cognitive costs while engaging in commerce and savings. Because stability is an important feature of successful economies, Steem Dollars were designed as an attempt to bring stability to the world of cryptocurrency and to the individuals who use the Steem network.
 
