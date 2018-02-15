@@ -94,11 +94,11 @@
 
 स्टीम डालर को परिवर्तनीय नोटों की तरह ही बनाया जाता है जिनको हम अक्सर उद्घाटन निधि के लिए इस्तेमाल करते हैं । उद्घाटन करने की दुनिया में, परिवर्तनीय नोट अल्पकालिक ऋण उपकरण है जो भविष्य में निर्धारित दर पर स्वामित्व में परिवर्तित किया जा सकता है । एक ब्लॉकचैन आधारित टोकन समुदाय में स्वामित्व के रूप में देखा जा सकता है जबकि एक परिवर्तनीय नोट किसी अंय वस्तु या मुद्रा में एक ऋण के रूप में देखा जा सकता है । परिवर्तनीय नोट की शर्तें धारक को टोकन के उचित बाजार मूल्य पर एक नयूनतम सूचना के साथ समर्थन टोकन में परिवर्तित करने के लिए अनुमति देते हैं । टोकन-परिवर्तन-डालर बनानी से बुलाकचैन का नेटवर्क प्रभाव बड़ जाता है और साथ ही टोकन धारकों के लिए अधिकतम वापसी ते करता हैं।
 
-स्टीम डालर को एस॰बी॰डी॰ भी कहा जाता है जइसका परिवर्तन शब्द स्टीम बुलाकचैन डालर हैं। एस॰बी॰डी॰ को बनाने के लिए एक विश्वसनीय मूल्य और नियम चाहिए ता ताकि इसके दुरूपयोग को रोका जा सके । Providing a reliable price feed involves three factors: minimizing the impact of an incorrect feed, maximizing the cost of producing an incorrect feed, and minimizing the importance of timing.
+स्टीम डालर को एस॰बी॰डी॰ भी कहा जाता है जइसका परिवर्तन शब्द स्टीम बुलाकचैन डालर हैं। एस॰बी॰डी॰ को बनाने के लिए एक विश्वसनीय मूल्य और नियम चाहिए ता ताकि इसके दुरूपयोग को रोका जा सके । विश्वसनीय मूल्य प्रदान करने के लिए तीन चीज़ें चाहिए: एक ग़लत एक ग़लत फ़ीड के प्रभाव को कम करना, एक ग़लत एक ग़लत सीट की उत्पाद की लागत अधिकतम करना, और समय के महत्व को कम करना ।
 
-### Minimizing Fraudulent Feeds
+### कपटपूर्ण फ़ीड्स को नयूनतम करना
 
-SP holders elect individuals, called witnesses, to publish price feeds. The elected witnesses are presumably trusted by those who have a vested interest in the quality of the feed. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
+स्टीम डोलर धारक, व्यक्तियों का चुनाव करते हैं, जिनको हम गवाह कहते हैं, जो मूल्य फ़ीड को प्रकाशित करते हैं । The elected witnesses are presumably trusted by those who have a vested interest in the quality of the feed. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
 
 Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
 
