@@ -447,7 +447,7 @@ Steem قادر على التعامل مع userbase أكبر من Reddit. في ع
 
 وقد ركزت المحاولات الحالية لدمج العملات الرقمية في منصة وسائل الاعلام الاجتماعية على تمكين المستخدمين من الدفع لبعضهم البعض. لقد حاولت العديد من الخدمات إلى تقديم بقشيش. النظرية هي أنه إذا جعلنا البقشيش بسيط بما فيه الكفاية المزيد من الناس سوف يفعلون ذلك. وتسعى خدمات أخرى إلى دفع الأشخاص إلى الترويج لترقية المحتوى أو تعزيزه. لا يزال البعض يحاولون بناء أسواق تنبؤ صغيرة على حسب عدد التبرعات التي سيتلقاها المقال.
 
-كل من هذين النهجين تختزل إلى micropayments. أنهما يختلفان فقط في الجهة التي تقوم بالدفع. They all suffer from insufficient engagement of people making the micropayments. In the search for incentivised content production entrepreneurs have been so focused on who should pay that they missed the obvious reality: everyone benefits from everyone’s actions so everyone should pay or no one should pay, depending on how you look at it.
+كل من هذين النهجين تختزل إلى micropayments. أنهما يختلفان فقط في الجهة التي تقوم بالدفع. وهم جميعا يعانون من عدم تفاعل الأشخاص اثناء انشاء micropayments. في البحث عن تحفيز إنتاج المحتوى ، رجال الأعمال ركزو كثيرا عن من يجب ان يدفع حتى فقدوا الواقع الواضح ، الجميع يستفيدون من اعمال بعضهم البعض لذالك على الجميع الدفع ، او ليس على الجميع الدفع ، اعتمادا على ما تنضر له.
 
 Steem bypasses micropayments completely because when a user upvotes a post it is the community that pays the bill. The same amount of money will be spent whether the user upvotes a post or not and the funds will not come from the voter.
 
