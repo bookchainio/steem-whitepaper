@@ -463,9 +463,9 @@ Steem قادر على التعامل مع userbase أكبر من Reddit. في ع
 
 ## القيمة في الروابط
 
-The Internet would lose the vast majority of its value if all links among content were removed. It is the relationship among web pages that allows Google to identify the best apple pie recipe among the 16 million results. Without the links the only information Google would have is word frequency.
+سيفقد الإنترنت الغالبية العظمى من قيمته إذا تمت إزالة جميع الروابط من المحتوى. هذه هي العلاقة بين صفحات الويب التي تسمح ل غوغل بتحديد أفضل وصفة فطيرة تفاح بين 16 مليون نتيجة. وبدون الروابط، ستكون المعلومات الوحيدة التي توفرها غوغل هي تكرار الكلمات.
 
-Links can take many forms and have adapted over time. Every time a user votes on content in a social network they add a connection between themselves and the content. This in turn links the consumer to the producer through the content. The more connections a network has the more valuable the information becomes. It is the relative and intentional connectedness of information that gives it value.
+الروابط يمكن أن تتخذ أشكالاً عديدة، وقد تكيفت مع مرور الوقت. في كل مرة يصوت المستخدم على المحتوى في شبكة اجتماعية يضيفون اتصالا بين أنفسهم والمحتوى. This in turn links the consumer to the producer through the content. The more connections a network has the more valuable the information becomes. It is the relative and intentional connectedness of information that gives it value.
 
 A social network can maximize the value extracted from a set of content by maximizing the quantity and quality of connections. Curating content is expensive and time consuming while being near impossible for computers to perform in the absence of links. Steem rewards users who are among the first to find and identify new content.
 
