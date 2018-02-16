@@ -98,7 +98,7 @@
 
 ### कपटपूर्ण फ़ीड्स को नयूनतम करना
 
-स्टीम डोलर धारक, व्यक्तियों का चुनाव करते हैं, जिनको हम गवाह कहते हैं, जो मूल्य फ़ीड को प्रकाशित करते हैं । The elected witnesses are presumably trusted by those who have a vested interest in the quality of the feed. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
+स्टीम डोलर धारक, व्यक्तियों का चुनाव करते हैं, जिनको हम गवाह कहते हैं, जो मूल्य फ़ीड को प्रकाशित करते हैं । चीनी हुए गवाहों पर वो लोग भरोसा करते हैं जिनको फ़ीड की गुणवत्ता मैं निहित स्वार्थ होता हैं। By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
 
 Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
 
