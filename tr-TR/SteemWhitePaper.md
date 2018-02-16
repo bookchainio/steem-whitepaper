@@ -262,7 +262,7 @@ Aktif Witnesslar önceden bilindiği için Steem, Witnessları her 3 saniyede 1 
 
 Steem, ağa katkıda bulunları ödüllendirmek için yoğun çaba sarf etmektedir. Bundan vazgeçip, toplulukla etkileşime geçmeye yeltenen insanlardan her defasında ücret talep etmek zıt yönde bir etki yaratırdı.
 
-Blokchain teknolojisi şu an itibariyle spam'in önüne geçmek için işlem ücretlerine dayanamaktadır. Bu ücretler, mikro işlemlere dair bilinen tüm problemlerden ötürü sıkıntı yaşamaktadır ve blockchainlerin düşük değerde işlemler için kullanılmasını engellemektedir. Gerçekten merkezsiz uygulamalar kullanıcılarına ücretsiz hareket sunarak merkezi alternatiflerin önüne geçmelidir. Bu kağıt Steem'in bu konuya ilişkin ücretlere olan bağlantısını ortadan kaldırarak daha önceden mümkünatı olmayan merkezsiz işlemlerin mümkün olmasını vurguluyor.
+Blokchain teknolojisi şu an itibariyle spam'in önüne geçmek için işlem ücretlerine dayanamaktadır. Bu ücretler, mikro işlemlere dair bilinen tüm problemlerden ötürü sıkıntı yaşamaktadır ve blockchainlerin düşük değerde işlemler için kullanılmasını engellemektedir. Tümüyle merkezsiz olan uygulamalar, eğer merkezli alternatifleri ile rekabet etmek niyetindeyseler, kullanıcılarına ücretsiz işlem yapabilme imkanı sunmalıdır. Bu makale, Steem'in işlem ücretlerine olan gereksinimi ortadan kaldırmaya ve bu sayede daha önceleri makul görünmeyen bir çok merkezsiz uygulamanın geliştirilmesine olanak tanımaya yönelik yaklaşımını özetlemektedir.
 
 ## İşlem Ücretleri Sorunu
 
