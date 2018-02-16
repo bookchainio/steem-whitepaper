@@ -98,7 +98,7 @@
 
 ### कपटपूर्ण फ़ीड्स को नयूनतम करना
 
-स्टीम डोलर धारक, व्यक्तियों का चुनाव करते हैं, जिनको हम गवाह कहते हैं, जो मूल्य फ़ीड को प्रकाशित करते हैं । चीनी हुए गवाहों पर वो लोग भरोसा करते हैं जिनको फ़ीड की गुणवत्ता मैं निहित स्वार्थ होता हैं। By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
+स्टीम डोलर धारक, व्यक्तियों का चुनाव करते हैं, जिनको हम गवाह कहते हैं, जो मूल्य फ़ीड को प्रकाशित करते हैं । चीनी हुए गवाहों पर वो लोग भरोसा करते हैं जिनको फ़ीड की गुणवत्ता मैं निहित स्वार्थ होता हैं। चुने हुए गवाहों को भुगतान कर की स्टीम बाज़ार में सही फ़ीड के उत्पाद के लिए ऐक क़िस्म का मुक़ाबला करती है । जितनी ज़्यादा रक़म फ़ीड की उत्पादकों को दिया जाता है उतना उनको ग़लत जानकारी प्रकाशित कर के रक़म खोने का डर होता है ।
 
 Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
 
