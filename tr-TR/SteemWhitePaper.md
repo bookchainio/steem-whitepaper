@@ -260,7 +260,7 @@ Aktif Witnesslar önceden bilindiği için Steem, Witnessları her 3 saniyede 1 
 
 # İşlem Ücretlerinin Ortadan Kaldırılması
 
-Steem ağa katkıda bulunları ödüllendirmek için çabalıyor. Katkıda bulunmak isteyenlerden her defasında ücret alınması bu düşüncenin tam tersi olurdu.
+Steem ağa katkıda bulunları ödüllendirmek için yoğun çaba sarf etmektedir. Bundan vazgeçip, toplulukla etkileşime geçmeye yeltenen insanlardan her defasında ücret talep etmek zıt yönde bir etki yaratırdı.
 
 Blokzinciri teknolojisi şu an için spam önlemek için işlem ücretlerine dayalıdır. Bu ücretler bilinen mikroödeme sorunlarından dolayı sıkıntı yaşıyor ve blokzincirlerinin değeri düşük hareketler için kullanılmasını engelliyor. Gerçekten merkezsiz uygulamalar kullanıcılarına ücretsiz hareket sunarak merkezi alternatiflerin önüne geçmelidir. Bu kağıt Steem'in bu konuya ilişkin ücretlere olan bağlantısını ortadan kaldırarak daha önceden mümkünatı olmayan merkezsiz işlemlerin mümkün olmasını vurguluyor.
 
