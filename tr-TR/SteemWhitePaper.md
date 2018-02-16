@@ -266,7 +266,7 @@ Blokchain teknolojisi şu an itibariyle spam'in önüne geçmek için işlem üc
 
 ## İşlem Ücretleri Sorunu
 
-Blokzincirleri bütün hareketlerin, eşlere gönderildiği merkezsiz ağlardır. Her bir blok üretildiğinde bu blok beklemede olan hareketlerin çoğunu ya da hepsini içerebilir. Tüm blokzincirleri zararlı kullanıcıların mevcut ağın kapasitesini değersiz hareketlerle tüketmemesi için bir çözüm bulmalıdır. Bu değersiz hareketler değeri olan hareketlerin ağdaki işlemini engelleyerek uzun vadede ağı yok edebilir.
+Blokchainler bütün hareketlerin, bütün eşlere yayınlandığı merkezsiz ağlardır. Sıklıkla olmasa da bazı durumlarda, üretilmiş olan bir blok beklemede olan tüm hareketlerin bir kısmını ya da tümünü içerebilir. Tüm blokchainler, zararlı kullanıcıların mevcut ağ kapasitesinin tamamını değersiz işlemlerle tüketmesinin önüne geçmek için bir çözüm bulmalıdır. Bu değersiz hareketler değeri olan hareketlerin ağdaki işlemini engelleyerek uzun vadede ağı yok edebilir.
 
 Şu zamana kadar blokzincirleri tarafından kabullenilen çözüm ise minimum işletim ücretleridir. Sadece bir kaç sent ağa saldırmayı pahalı ve değersiz kılabilir. Bu yaklaşım spam problemlerini çözerken, yenilerini tanıtmaktadır. E-posta spam problemini her eposta gönderildiğinde alınan bir ücret ile çözdüğünüzü düşünün: Kimse eposta göndermezdi.
 
