@@ -100,7 +100,7 @@
 
 स्टीम डोलर धारक, व्यक्तियों का चुनाव करते हैं, जिनको हम गवाह कहते हैं, जो मूल्य फ़ीड को प्रकाशित करते हैं । चीनी हुए गवाहों पर वो लोग भरोसा करते हैं जिनको फ़ीड की गुणवत्ता मैं निहित स्वार्थ होता हैं। चुने हुए गवाहों को भुगतान कर की स्टीम बाज़ार में सही फ़ीड के उत्पाद के लिए ऐक क़िस्म का मुक़ाबला करती है । जितनी ज़्यादा रक़म फ़ीड की उत्पादकों को दिया जाता है उतना उनको ग़लत जानकारी प्रकाशित कर के रक़म खोने का डर होता है ।
 
-Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
+भरोसेमंद और चुने हुए फ़ीड उत्पादकों को देखते हुए, रूपांतरण के लिए इस्तेमाल वास्तविक मूल्य फ़ीड को औसत के रूप में प्राप्त किया जा सकता है । In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
 
 Even if all feed producers are honest, it is possible for the majority of feed producers to be impacted by events beyond their control. The Steem network is designed to tolerate short-term corruption of the median price feed while the community actively works to correct the issue. One example of an issue that may take some time to correct is short-term market manipulation. Market manipulation is difficult and expensive to maintain for long periods of time. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
 
