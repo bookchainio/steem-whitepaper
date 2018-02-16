@@ -268,11 +268,11 @@ Blokchain teknolojisi şu an itibariyle spam'in önüne geçmek için işlem üc
 
 Blokchainler bütün hareketlerin, bütün eşlere yayınlandığı merkezsiz ağlardır. Sıklıkla olmasa da bazı durumlarda, üretilmiş olan bir blok, beklemede olan tüm işlemlerin bir kısmını ya da tümünü içerebilir. Tüm blokchainler, zararlı kullanıcıların mevcut ağ kapasitesinin tamamını değersiz işlemlerle tüketmesinin önüne geçmek için bir çözüm bulmalıdır. Bu değersiz işlemler diğer değerli işlemlerin işlenmesini engelleyerek uzun vadede ağı yok edebilir.
 
-Şu zamana kadar blockchainlerin birçoğu tarafından benimsenmiş çözüm ise minimum işlem ücreti tahsil etmektir. Sadece bir kaç sent değerinde bir ücret, ağa saldırmayı pahalı ve kazançsız kılabilir. Bu yaklaşım spam problemlerini çözerken, yeni problemleri beraberinde getirmektedir. E-posta spam problemini her eposta gönderildiğinde alınan bir ücret ile çözdüğünüzü düşünün: Kimse eposta göndermezdi.
+Şu zamana kadar blockchainlerin birçoğu tarafından benimsenmiş çözüm ise minimum işlem ücreti tahsil etmektir. Sadece bir kaç sent değerinde bir ücret, ağa saldırmayı pahalı ve kazançsız kılabilir. Bu yaklaşım spam problemlerini çözerken, yeni problemleri beraberinde getirmektedir. E-posta spam problemini her e-posta için küçük bir ücret uygulanması ile çözdüğünüzü düşünün: İnsanlar e-posta kullanmazdı.
 
-### Mikroödemeler Çalışmıyor
+### Mikro Ödemeler Çalışmıyor
 
-İşlem ücreti almanın ana problemi mikroödemelerin işe yaramamasıdır, özellikle düşük değerli kullanıcı hareketleri için. Her bir harekette işlem ücreti alındığında, merkezsiz bir ağın işleyebileceği hareket tiplerini sınırlamaktadır. İşlem ücretlerinin gerekliliği her ne kadar kabul edilebilir bir argüman olsa da, kullanıcılar hala yaptıkları en küçük işlem için ücret ödemekten nefret ediyor.
+İşlem ücreti almaktaki temel sorun mikro ödemelerin, özellikle düşük değerli kullanıcı işlemleri için, işlevsiz olmasıdır. Her bir işlem için ücret tahsil edildiğinde, bu merkezsiz bir ağın işleyebileceği işlem tiplerini sınırlamaktadır. İşlem ücretlerinin gerekliliği her ne kadar kabul edilebilir bir argüman olsa da, kullanıcılar hala yaptıkları en küçük işlem için ücret ödemekten nefret ediyor.
 
 Düşünün, her gün kullandığımız web siteleri şifremizi değiştirmek istediğimiz her sefer bizden ücret isteseydi. Kullanıcılar bazı şeylerin ücretsiz olmasını bekliyor. Kullanıcıların eylemlerinin küçük bir ücrete tabi olup olmadığına karar verdirmek bir süre sonra vazgeçmelerine sebep olacak bir durum oluşturuyor. Bazı hareketler bir karar gerektirmeyecek kadar değersiz olabilir fakat aynı zamanda otomatik karar verilecek değerde de olabilir. Her satın alma işleminde belli bi miktarda kaygı vardır. Ne kadar küçük olursa olsun, ve bu kullanılan arayüz veya gereken zamandan değil de, genel olarak karar vermedendir.
 
