@@ -276,7 +276,7 @@ Blokchainler bütün hareketlerin, bütün eşlere yayınlandığı merkezsiz a�
 
 Her gün kullandığımız web sitelerinin şifre değiştirmek yoluyla hesaplarımızda her değişiklik yapışımızda bizden ücret tahsil ettiğini hayal edin. Kullanıcılar bazı şeylerin ücretsiz olmasını beklemektedir. Kullanıcılara eylemlerinin küçük bir ücrete tabi olup olmadığına karar verdirmek, kullanıcıların siteyi terk etmesiyle sonuçlanacak bir endişe ortamı yaratmaktadır. Bir işlem bir karar alınmasını gerektirecek kadar değerli olamaz fakat otomatik bir karar verilmesini gerektirecek kadar küçük değerde olabilir. Belirli bir miktarda kaygı her satın alma işleminde mevcuttur. Ve ne kadar küçük olursa olsun bu kaygı, kullanılan arayüz veya gereken zaman kaynaklı değil, karar verme ediminin kendisinden kaynaklıdır.
 
-Mikroödemeler, diğer her ödeme türleri gibi bir karşılaştırmaya ihtiyaç duyarlar. *"Bu kadar X bu kadar Y'ye değer mi?* bu durumunu yaratacağı değiştirilemeyecek minimum zihinsel bir düşünce vardır. Çünkü kullanıcının hiç düşünmeden onaylayacağı tek hareket, hiç bir zararı olmayacak olan bir harekettir bu da... hiç bir harekete eşittir.
+Mikro ödemeler, diğer bütün ödeme türleri gibi bir mukayeseye ihtiyaç duymaktadır: *"Bu kadar X bu kadar Y'ye değer mi?* Bu olgudan kaynaklanan optimize edilemeyecek bir minimum zihinsel bir maliyet vardır. Çünkü kullanıcının hiç düşünmeden onaylayacağı tek işlem, kendisine hiçbir maliyeti olmayacak olan işlemdir. Bu da hiçbir işlem yapmamak demektir.
 
 - Clay Shirky[^8]
 
