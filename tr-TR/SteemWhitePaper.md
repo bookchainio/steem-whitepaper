@@ -302,7 +302,7 @@ Merkezsiz bir sistemde ne kullanıcıları yasaklamanın doğrudan bir yolu vard
 
 Blokchain sistemini şehirdeki tüm kablolara sahip olan ve herhangi bir zamanda verebileceği maksimum bant genişliği miktarı olan bir İnternet Servis Sağlayıcısı (ISS) gibi ele alalım. Şehirde yaşayan insanlar ISS'den hisse satın almanın karşılığında mevcut bant genişliğinin bir kısmını kullanma hakkı kazanırlar.
 
-ISS'in iki seçeneği vardır. "tam rezerv" ya da "kısmi rezerv" sistemini kullanmak. Rezerv sisteminde kullanıcı mevcut olan maksimum trafiğin sadece payını aldığı kadarını alabilmesidir. Çünkü herkes aynı anda interneti kullanmaz, şehrin ağı önemli ölçüde az kullanılır.
+ISS'in iki seçeneği vardır. "tam rezerv" ya da "kısmi rezerv" sistemini kullanmak. Tam rezerv sisteminde, her bir tekil kullanıcının sahip olduğu hisse oranında bir maksimum bant genişliği kullanımına izni vardır. Çünkü herkes interneti aynı anda kullanmadığından, şehrin ağı dikkate değer bir şekilde gerekli oranın altında kullanılmış olur.
 
 Kısmi rezerv sisteminde ise kullanıcılar satın aldıkları payın değerindeki trafikten daha fazla trafik alabilirler, şehirdeki herkesin aynı anda internet kullanmadığı sürece tabii. Kısmi rezerve sahip olmanın sorunu ise herkesin aynı anda ağa bağlanıp internet kullanmak istediğinde oluşan tıkanıklılıktır. ISS bu tür durumlarda trafiklere öncelik vermek için bir yol bulmalıdır. Aşırı durumlarda, tamamen tıkanmış bir ağ tekrardan rezerv sistemine geçmelidir. Zor olan şey ise, doğru kısmi rezerv oranını bulmaktır.
 
