@@ -286,7 +286,7 @@ BitShares, Nxt, Ripple, Counter Party ve Stellar gibi sistemlerin hepsi kullanı
 
 ### Ücretler Girişlere Engeldir
 
-Her türlü ücret yeni kullanıcıların girişi için engel yaratmaktadır. Birisi Ethereum'u ilgilendiren herhangi bir işlem yapmak istediğinde öncelikle biraz ETH'ye ihtiyaç duyacaktır. Ethereum sistemi üzerinde merkezsiz bir uygulama yapmak isteyen herhangi birisi uygulama ücretini kullanıcılara yıkmak zorundadır. Kripto para birimi satın almak kolay bir iş değildir ve genel olarak 10$ altı miktarlar için mantıklı değildir. Bu da yeni çıkan bir merkezsiz uygulamayı denemek isteyen yeni bir kullanıcı 10$'dan ayrılmak istediğine karar vermiş olmalıdır.
+Her türlü ücret yeni kullanıcıların girişi için engel yaratmaktadır. Birisi Ethereum'la deney yapmadan önce biraz ETH'ye sahip olmak zorundadır. Ethereum üzerinde merkezsiz bir uygulama yapmak isteyen herhangi birisi ücreti kullanıcılara yıkmak zorundadır. Kripto para birimi satın almak kolay bir iş değildir ve 10$ altı miktarlar için nadiren mantıklıdır. Bu da yeni çıkan bir merkezsiz uygulamayı denemek isteyen yeni bir kullanıcının ilk olarak 10$'ı elden çıkartmak istediğine karar vermiş olması gerektiği anlamına gelir.
 
 ### Değişken Ücretler
 
