@@ -290,7 +290,7 @@ Her türlü ücret yeni kullanıcıların girişi için engel yaratmaktadır. Bi
 
 ### Değişken Ücretler
 
-Zaman içinde ağın ücretleri ayarlaması gerekir. Bu kapasitedeki bir oynama veya zaman içerisinde değer artışı nedeniyle kaynaklanabilir. Kullanıcılar tahmin edilebilir ücretleri ve garantilenmiş hizmeti severler. Yüksek kullanım durumlarında dinamik bir biçimde ücretleri arttırmak mümkün olmakla beraber, kötü bir kullanıcı tecrübesine yol açar.
+Zaman içinde ağın ücretleri ayarlaması gerekir. Bu, token'ın değerindeki yükselmeden veya kapasitedeki artıştan kaynaklanabilir. Kullanıcılar tahmin edilebilir ücretleri ve garantilenmiş hizmeti severler. Yüksek kullanım durumlarında dinamik ücret arttırımı mümkün olmakla beraber, kötü bir kullanıcı deneyimine yol açar.
 
 ### Sybil Saldırıları
 
