@@ -487,9 +487,9 @@ Steem يحل هذه المشكلة عن طريق إعطاء الجميع وسي�
 
 طريقة أخرى أن الناس يمكنها تصفية كميات صغيرة من العملات الرقمية التي يتلقونها عبر المشاركة على منصة ستيم من خلال *اعطاء بقشيش * للأخرين. هذا مثل ترك العملات الصغيرة كبقشيش للنادل. عندما يترك الناس ما يكفي من البقشيش الصغير فإنه يصل الى مبلغ ذي مغزى. انت والنادل تكسبان فائدة من البقشيش.
 
-## Censorship
+## الرقابة
 
-Steem is a decentralized network that is operated by witnesses in jurisdictions around the world. All user actions are publicly recorded on the blockchain, and can be publicly verified. This means that there is no single entity that can censor content that is valued by STEEM holders.
+ستيم هي شبكة لا مركزية يديرها شهود عبر سلطة قضائية في جميع أنحاء العالم. يتم تسجيل جميع إجراءات المستخدم بشكل عام على بلوكشين، ويمكن التحقق منها بشكل عام. وهذا يعني أنه لا يوجد كيان واحد يمكنه فرض رقابة على المحتوى الذي يقدره أصحاب ستيم.
 
 Individual websites such as steemit.com may censor content on their particular site, but content published on the blockchain is inherently broadcast traffic and mirrors all around the world may continue to make it available.
 
