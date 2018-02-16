@@ -294,9 +294,9 @@ Zaman içinde ağın ücretleri ayarlaması gerekir. Bu, token'ın değerindeki 
 
 ### Sybil Saldırıları
 
-Bazı merkezi websiteleri spamı önlemek için bir nevi kimlik onayı ve hız sınırlaması kullanır. reCAPTCHA [^9] gibi basit bir şey bile sahte hesapların yaratılmasını engelleyebilir. Eğer birisi hesabını kötüye kullanıyorsa merkezi websiteler hesabı kapatma özgürlüğüne sahiptir.
+Merkezi internet siteleri bir tür kimlik onayı ve hız sınırlaması yoluyla spam'in önüne geçer. ReCAPTCHA [^9] gibi basit bir şey bile sahte hesap yaratımını sınırlandırmakta elverişlidir. Eğer birisi hesabını kötüye kullanıyorsa merkezi internet siteleri ilgili hesabı kapatmakta özgürdür.
 
-Merkezsiz bir sistemde kullanıcıları yasaklamanın direkt bir yolu olmadığı gibi reCAPTCHA ve hız sınırlaması da mümkün değildir. Aslında, bu mümküniyetsizlik blokzinciri teknolojisin ana satış noktalarından biridir.
+Merkezsiz bir sistemde ne kullanıcıları yasaklamanın doğrudan bir yolu vardır ne de merkezi bir sağlayıcı reCAPTCHA barındırabilir ve hesaplara hız sınırlaması koyabilir. Aslında, bu mümküniyetsizlik blokzinciri teknolojisin ana satış noktalarından biridir.
 
 ### Rezerv ve Kısmı Rezerv
 
