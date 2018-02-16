@@ -280,7 +280,7 @@ Mikro ödemeler, diğer bütün ödeme türleri gibi bir mukayeseye ihtiyaç duy
 
 - Clay Shirky[^8]
 
-Finansal ödemeler dünyasında küçük ücretler kabul edilebilirdir çünkü, hareketin değeri ücretin değerine nazaran daha yüksektir ve alıcı zaten satın almada kararını kılmıştır. Potansiyel blokzinciri uygulamalarının dünyası sadece finansal ödemelerden çok daha büyüktür ve kullanıcılar tarafından kabul edilmeyecek ücretler içeren önemli hareketleri içerir.
+Finansal ödemeler dünyasında küçük ücretler kabul edilebilirdir. Çünkü, işlemin değeri ücretin değerine oranla muazzam bir şekilde yüksektir ve alıcı satın alma kararını halihazırda almış durumdadır. Potansiyel blokzinciri uygulamalarının dünyası sadece finansal ödemelerden çok daha büyüktür ve kullanıcılar tarafından kabul edilmeyecek ücretler içeren önemli hareketleri içerir.
 
 BitShares, NXT, Ripple, Counter Party ve Stellar gibi sistemlerin hepsi kullanıcıların blokzinciri üzerinde emirlerini kullanmasına izin verir ve kullanıcılarından bu eylemleri için küçük bir ücret alır. Daha sonra eğer kullanıcı emrini iptal etmek isterse, başka bir ücret daha ödemek zorundadır. Ethereum gibi sistemler ise mikrooödemeleri bir sonraki seviyeye taşırlar: her hesaplama için ücret almak. Bütün bu sistemler sanki merkezsiz bir arama motorunun her arama için ücret alması ve Google'dan kullanıcı çekememesi gibi nedenlerle aynı sebepten kullanıcıları etkilemekte zorlanırlar. Hizmetin ne kadar iyi olduğu önemli değildir, kullanıcılar bazı şeylerin ücretsiz olmasını bekler. Kullanıcı farklı bir ücret yapısıyla genel anlamda daha fazla ödese bile, bu geçerlidir.
 
