@@ -479,7 +479,7 @@ Steem, herkese yaptığı basit ama değerli görevlerin parasal karşılığın
 
 ## Kripto Para'nın Likidasyon Sorununu Çözmek
 
-Kullanması zor olan ya da satması imkansız olan bir paranın düşük bir değeri olur. Eline 1 dolar değerinde Bitcoin geçen bir kişi, bu Bitcoin'i satmanın 1 dolardan daha fazlasına mal olacağını fark edecektir. Bu kişi, para bozdurarak bir hesap açmak, Müşterini Tanı onaylamasından geçmek ve kullanım harcı ödemek zorundadır. Küçük miktarda kripto para, insanların yerden almak için eğilmeye tenezzül etmeyeceği kadar düşük para üstleri gibidir.
+Kullanması zor olan ya da satması imkansız olan bir paranın düşük bir değeri olur. Eline 1 dolar değerinde Bitcoin geçen bir kişi, bu Bitcoin'i satmanın 1 dolardan daha fazlasına mal olacağını fark edecektir. Bu kişi, borsada bir hesap açmak, Müşterini Tanı onaylamasından geçmek ve işlem ücreti ödemek zorundadır. Küçük miktarda kripto para, insanların yerden almak için eğilmeye tenezzül etmeyeceği kadar düşük para üstleri gibidir.
 
 Tacirler, kullanıcılara sahip oldukları kripto paraları çabucak maddi mal ve hizmetlere dönüştürmenin bir imkanını sunar. Tacirler, kendi hesap birimlerine sabitlenmiş bir para birimine, genellikle de dolara gereksinim duyarlar. İstikrarsız bir para birimini kabul etmek önemli muhasebe masraflarına sebep olur.
 
