@@ -308,7 +308,7 @@ Kısmi rezerv sisteminde ise kullanıcılar herhangi bir zaman dilimi içerisind
 
 ## Mikro Ödeme Kanalları yerine Bant Genişliği
 
-Mikro ödemelerdeki sorunlara çözüm *dinamik kısmi rezerv*in yürürlüğe sokulmasında yatmaktadır. Bu model altında, blokchain tıkanıklık durumlarında ağ için rezerv oranını otomatik olarak ayarlayacaktır. Blokchain, kısa dönemli talep yoğunluğuna da müsamaha tanıyacak bir hedeflenen kullanım oranı belirleyecektir. Dalgalanmalar olduğunda blokzinciri pay-başına-trafik oranını düşürür. Dalgalanma bittiğinde ve ekstra kapasite olduğunda blokzinciri tekrardan yavaşça pay-başına-trafiği yükseltebilir.
+Mikro ödemelerdeki sorunlara çözüm *dinamik kısmi rezerv*in yürürlüğe sokulmasında yatmaktadır. Bu model altında, blokchain tıkanıklık durumlarında ağ için rezerv oranını otomatik olarak ayarlayacaktır. Blokchain, kısa dönemli talep yoğunluğuna da müsamaha tanıyacak bir hedeflenen kullanım oranı belirleyecektir. Süreğen yoğunluk durumunda ise blokchain her hisse başına düşen maksimum bant genişliği oranını düşürür. Yoğunluk sona erdiğinde ve kapasite fazlası olduğunda, blokchain hisse başına düşen bant genişliğini yavaşça yükseltebilir.
 
 Bir kullanıcı tarafından kullanılan trafik kullanıcının kullanım zamanının değişeceği göz önüne alınarak uzun süreli periyodlar ile hesaplanmalıdır. Kullanıcı oturum açıp, aynı anda bir sürü şey yapıp, çıkmaya meyillidirler. Bu da kısa süreli incelendiğinde fazla gözüken trafiğin aslında uzun süre olarak tam tersi olması anlamına gelir. Eğer süreç çok fazla uzuyorsa sistem kısa sürekli patlamalar için rezerv oranını yeteri kadar hızlı ayarlayamayabilir. Eğer süreç çok kısa ve toplu kullanım varsa normal kullanıcılar için büyük bir etkisi olacaktır.
 
