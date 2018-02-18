@@ -324,9 +324,9 @@ Eğer bir kullanıcının her hafta bir kere 25$ Dolarlık BTC işlemi yaptığ�
 
 ### Hesap Oluşturma
 
-Steem'in kamuya açık bakiyeler üzerinden hesap-bazlı sistemi, bant genişliği-bazlı oran sınırlama algoritmasının hayata geçirilmesini kolaylaştırır. Haftada en az bir işlem gerçekleştirmek için gereken asgari miktarın altında bakiyesi bulunan hesaplar işlemde bulunamaz. Bu da, bütün yeni hesapların en az asgari bakiye seviyesinde fonlanması gerektiğini vurgulamaktadır. Aynı zamanda daha küçük miktarlarda hareket sağlamak isteyen kullanıcılar bakiyeleri fazla olduğu ve hesabı kullanabilecekleri sürece bu işlemi gerçekleştriebilirler.
+Steem'in kamuya açık bakiyeler üzerinden hesap-bazlı sistemi, bant genişliği-bazlı oran sınırlama algoritmasının hayata geçirilmesini kolaylaştırır. Haftada en az bir işlem gerçekleştirmek için gereken asgari miktarın altında bakiyesi bulunan hesaplar işlemde bulunamaz. Bu da, bütün yeni hesapların en az asgari bakiye seviyesinde fonlanması gerektiğini vurgulamaktadır. Bu aynı zamanda, kullanıcıların -büyük bakiyelere sahip olup hesaplarını tekrar kullandıkları müddetçe- daha küçük miktarlarda işlem yapmak istemeleri halinde bunu yapabilecekleri anlamını taşır.
 
-Kullanımın az olduğu zamanlarda oluşturulan minimum bakiyeleri hesapların ağ kullanımı arttığında kullanılamayan duruma düşme ihtimali bulunmaktadır. Bu bakiyeler istenildiği zaman büyük bir hesaba delege edilerek kullanılabilir.
+Kullanımın az olduğu zamanlarda oluşturulmuş düşük-bakiyeli bir hesap için, ağ kullanımı arttığında erişim dışı kalma ihtimali de bulunmaktadır. Bu fonlar, hesaba geçici süreliğine daha büyük bakiyelerin devri ile herhangi bir zaman diliminde kurtarılabilir.
 
 Minimum bakiyenin altında ve kullanılamaz olan hesapların sayısını kontrol edebilmek için bütün yeni hesaplar minimum gereken tutarın en az 10 katı ile başlamalıdır. Bu şekilde eğer ağ kullanımı talebe oranla 10 kat artsa bile, hesap geçerli ve kullanılabilir kalacaktır.
 
