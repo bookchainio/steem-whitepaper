@@ -316,7 +316,7 @@ Tahminimizce, kullanıcıların haftalık ortalama bant genişliği kullanımlar
 
 ### Kapasitenin Önemi
 
-Blokzinciri kapasitesi aslında limitli değildir. Şu anki internet altyapısının teknolojik kapasitesi Bitcoin blok boyutunu 10MB'e arttırmak için yeterlidir, bu da gerekli bakiye miktarını faktörel olarak 10 kat azaltacaktır. Bitcoin şuanda saniyede 3 hareketi desteklerken, alternatif implementasyonlar saniyede 1000'in üzerinde hareketi destekleyecek kapasitedelerdir.
+Blokchain kapasitesi illa ki sınırlı olmak zorunda değildir. Şu anki internet altyapısının teknolojik kapasitesi Bitcoin blok boyutunu 10MB'e arttırmak için yeterlidir, bu da gerekli bakiye miktarını faktörel olarak 10 kat azaltacaktır. Bitcoin şuanda saniyede 3 işlemi desteklerken, alternatif uygulamalar saniyede 1000'in üzerinde işlemi destekleyebilecek kapasitededir.
 
 ### Ücretler ile Karşılaştırma
 
