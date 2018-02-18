@@ -308,7 +308,7 @@ Kısmi rezerv sisteminde ise kullanıcılar herhangi bir zaman dilimi içerisind
 
 ## Mikro Ödeme Kanalları yerine Bant Genişliği
 
-Mikroödemelere çare *dinamik kısmi rezerv* implemetasyonudur. Bu model altında blokzinciri rezerv oranını tıkanılılığa göre otomatik olarak ayarlayabilr. Blokzinciri oranı ayarlarken kısa süreli dalgalanmalar için pay bırakarak bir hedef belirler. Dalgalanmalar olduğunda blokzinciri pay-başına-trafik oranını düşürür. Dalgalanma bittiğinde ve ekstra kapasite olduğunda blokzinciri tekrardan yavaşça pay-başına-trafiği yükseltebilir.
+Mikro ödemelerdeki sorunlara çözüm *dinamik kısmi rezerv*in yürürlüğe sokulmasında yatmaktadır. Bu model altında blokzinciri rezerv oranını tıkanılılığa göre otomatik olarak ayarlayabilr. Blokzinciri oranı ayarlarken kısa süreli dalgalanmalar için pay bırakarak bir hedef belirler. Dalgalanmalar olduğunda blokzinciri pay-başına-trafik oranını düşürür. Dalgalanma bittiğinde ve ekstra kapasite olduğunda blokzinciri tekrardan yavaşça pay-başına-trafiği yükseltebilir.
 
 Bir kullanıcı tarafından kullanılan trafik kullanıcının kullanım zamanının değişeceği göz önüne alınarak uzun süreli periyodlar ile hesaplanmalıdır. Kullanıcı oturum açıp, aynı anda bir sürü şey yapıp, çıkmaya meyillidirler. Bu da kısa süreli incelendiğinde fazla gözüken trafiğin aslında uzun süre olarak tam tersi olması anlamına gelir. Eğer süreç çok fazla uzuyorsa sistem kısa sürekli patlamalar için rezerv oranını yeteri kadar hızlı ayarlayamayabilir. Eğer süreç çok kısa ve toplu kullanım varsa normal kullanıcılar için büyük bir etkisi olacaktır.
 
