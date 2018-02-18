@@ -304,7 +304,7 @@ Blokchain sistemini şehirdeki tüm kablolara sahip olan ve herhangi bir zamanda
 
 ISS'in iki seçeneği vardır. "tam rezerv" ya da "kısmi rezerv" sistemini kullanmak. Tam rezerv sisteminde, her bir tekil kullanıcının sahip olduğu hisse oranında bir maksimum bant genişliği kullanımına izni vardır. Çünkü herkes interneti aynı anda kullanmadığından, şehrin ağı dikkate değer bir şekilde gerekli oranın altında kullanılmış olur.
 
-Kısmi rezerv sisteminde ise kullanıcılar satın aldıkları payın değerindeki trafikten daha fazla trafik alabilirler, şehirdeki herkesin aynı anda internet kullanmadığı sürece tabii. Kısmi rezerve sahip olmanın sorunu ise herkesin aynı anda ağa bağlanıp internet kullanmak istediğinde oluşan tıkanıklılıktır. ISS bu tür durumlarda trafiklere öncelik vermek için bir yol bulmalıdır. Aşırı durumlarda, tamamen tıkanmış bir ağ tekrardan rezerv sistemine geçmelidir. Zor olan şey ise, doğru kısmi rezerv oranını bulmaktır.
+Kısmi rezerv sisteminde ise kullanıcılar herhangi bir zaman dilimi içerisinde -herkes aynı anda internet kullanmadığı sürece- hak sahibi olduklarından daha fazla bant genişliği kullanabilirler. Kısmi rezerv işletimindeki sorun ise, çok fazla sayıda insanın aynı anda ağa bağlanıp internet kullanmak istemesi durumunda oluşan tıkanıklılıktır. ISS, tıkanıklık dönemlerinde bir bant genişliğini önceliklendirme yoluna ihtiyaç duymaktadır. Aşırı durumlarda, tamamen tıkanmış bir ağ tekrardan rezerv sistemine geçmelidir. Zor olan şey ise, doğru kısmi rezerv oranını bulmaktır.
 
 ## Mikroödeme Kanalları yerine Trafik
 
