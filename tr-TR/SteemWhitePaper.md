@@ -324,7 +324,7 @@ Eğer bir kullanıcının her hafta bir kere 25$ Dolarlık BTC işlemi yaptığ�
 
 ### Hesap Oluşturma
 
-Steem'in hesap bazlı sistemi ve genel olarak bilinen bakiyeleri trafik bazlı hız limitleme algoritmasının implementasyonunu kolaylaştırıyor. Minimum gerekli miktarın altında bakiyesi olan hesapların haftada en az bir hesap hareketi gerçekleştirmesi gerekmektedir. Bu da bütün yeni hesapların en az minimum bakiye miktarını bulundurmaları gerektiğini vurgular. Aynı zamanda daha küçük miktarlarda hareket sağlamak isteyen kullanıcılar bakiyeleri fazla olduğu ve hesabı kullanabilecekleri sürece bu işlemi gerçekleştriebilirler.
+Steem'in kamuya açık bakiyeler üzerinden hesap-bazlı sistemi, bant genişliği-bazlı oran sınırlama algoritmasının hayata geçirilmesini kolaylaştırır. Minimum gerekli miktarın altında bakiyesi olan hesapların haftada en az bir hesap hareketi gerçekleştirmesi gerekmektedir. Bu da bütün yeni hesapların en az minimum bakiye miktarını bulundurmaları gerektiğini vurgular. Aynı zamanda daha küçük miktarlarda hareket sağlamak isteyen kullanıcılar bakiyeleri fazla olduğu ve hesabı kullanabilecekleri sürece bu işlemi gerçekleştriebilirler.
 
 Kullanımın az olduğu zamanlarda oluşturulan minimum bakiyeleri hesapların ağ kullanımı arttığında kullanılamayan duruma düşme ihtimali bulunmaktadır. Bu bakiyeler istenildiği zaman büyük bir hesaba delege edilerek kullanılabilir.
 
