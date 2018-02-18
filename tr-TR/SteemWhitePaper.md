@@ -312,7 +312,7 @@ Mikro ödemelerdeki sorunlara çözüm *dinamik kısmi rezerv*in yürürlüğe s
 
 Tekil kullanıcı tarafından kullanılan bant genişliği, kullanıcıya kullanım süresini değiştirme olanağı verecek şekilde uzun bir zaman diliminde hesaplanmalıdır. Kullanıcılar, oturum açıp bir sürü şeyi tek bir seferde yapmaya ve sonrasında da çıkış yapmaya meyillidir. Bu da, onların bant genişliklerinin kısa dönemli incelemede uzun dönemli incelemedekine oranla daha yüksek olarak görünmesi anlamına gelir. Eğer zaman aralığı gereğinden uzun tutulursa, kısmi rezerv kendisini kısa dönemli yoğunlaşmalara yanıt verebilecek kadar hızlı bir şekilde ayarlayamayabilir. Eğer aralık çok kısa ise, bu durumda da kümelenmiş kullanımın normal kullanıcılar üzerindeki etkisi aşırı raddede olacaktır.
 
-Tahminimizce, kullanıcıların haftalık ortalama bant genişliği kullanımlarını ölçmek yeterli olacaktır. Kullanıcı her hareketi imzaladığında, imzaladıkları hareket kullanıcının geçmiş hareketlerinin ortalaması alınarak hesaplanır. Kullanıcıların hareketleri genel ortalamasının üzerine çıktığında, tekrar düşene kadar gecikmeli olacaktır.
+Tahminimizce, kullanıcıların haftalık ortalama bant genişliği kullanımlarını ölçmek yeterli olacaktır. Ne vakit kullanıcı bir işlem imzalasa, o işlem kullanıcının hareketli bireysel ortalamasına dahil edilir (ve ortalama tekrar hesaplanır). Kullanıcıların hareketleri genel ortalamasının üzerine çıktığında, tekrar düşene kadar gecikmeli olacaktır.
 
 ### Kapasitenin Önemi
 
