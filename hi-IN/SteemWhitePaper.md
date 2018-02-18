@@ -106,7 +106,7 @@
 
 स्टीम अल्पकालिक मूल्य के उतार चढ़ाव को साढ़े तीन दिन की अवधि में औसत मूल्य के माध्यम से बाहर कर देता है । यह औसत मूल्य हर घंटे में नया प्रकाशित किया जाता है ।
 
-As long as the price feed corruption lasts for less than half the moving median time window it will have minimal impact on the conversion price. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
+जब तक फ़ीड के मूल्य का हेर फेर औसत मूल्य फ़ीड के आधे से भी कम मूल्य तक रहेगा, उस समय तक रूपांतरण मूल्य पर न्यूनतम प्रभाव पड़ेगा । In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
 
 With a three and a half day window, community members have approximately one and a half days to respond to any issues that come up.
 
