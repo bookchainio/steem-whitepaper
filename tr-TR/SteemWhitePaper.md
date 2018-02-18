@@ -320,7 +320,7 @@ Blokchain kapasitesi illa ki sınırlı olmak zorunda değildir. Şu anki intern
 
 ### Ücretler ile Karşılaştırma
 
-Eğer bir kullanıcının her hafta sadece 25$ dolar değerinde BTC gönderimi yaptığını ve her ödediklerinde 0.04$ cent ücret öderse, yılda 2 doların üstünde bir ücret ödeyecektir. Kullanıcı o 25$ doların sadece 8%ini kazanarak ücretleri ödemek için harcadığı miktarı amorti edebilir. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. Sadece 175$ ile her gün işlem yapabilir ve günlük 14$ tasarruf edebilirler.
+Eğer bir kullanıcının her hafta bir kere 25$ Dolarlık BTC işlemi yaptığını ve 0.04$ sentlik işlem ücreti ödediğini farz edersek; o zaman bu kullanıcı yılda 2$ Doların üzerinde işlem ücreti ödeyecektir. Kullanıcı o 25$ doların sadece 8%ini kazanarak ücretleri ödemek için harcadığı miktarı amorti edebilir. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. Sadece 175$ ile her gün işlem yapabilir ve günlük 14$ tasarruf edebilirler.
 
 ### Hesap Oluşturma
 
