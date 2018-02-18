@@ -304,9 +304,9 @@ Blokchain sistemini şehirdeki tüm kablolara sahip olan ve herhangi bir zamanda
 
 ISS'in iki seçeneği vardır. "tam rezerv" ya da "kısmi rezerv" sistemini kullanmak. Tam rezerv sisteminde, her bir tekil kullanıcının sahip olduğu hisse oranında bir maksimum bant genişliği kullanımına izni vardır. Çünkü herkes interneti aynı anda kullanmadığından, şehrin ağı dikkate değer bir şekilde gerekli oranın altında kullanılmış olur.
 
-Kısmi rezerv sisteminde ise kullanıcılar herhangi bir zaman dilimi içerisinde -herkes aynı anda internet kullanmadığı sürece- hak sahibi olduklarından daha fazla bant genişliği kullanabilirler. Kısmi rezerv işletimindeki sorun ise, çok fazla sayıda insanın aynı anda ağa bağlanıp internet kullanmak istemesi durumunda oluşan tıkanıklılıktır. ISS, tıkanıklık dönemlerinde bir bant genişliğini önceliklendirme yoluna ihtiyaç duymaktadır. Aşırı durumlarda, tamamen tıkanmış bir ağ tekrardan rezerv sistemine geçmelidir. Zor olan şey ise, doğru kısmi rezerv oranını bulmaktır.
+Kısmi rezerv sisteminde ise kullanıcılar herhangi bir zaman dilimi içerisinde -herkes aynı anda internet kullanmadığı sürece- hak sahibi olduklarından daha fazla bant genişliği kullanabilirler. Kısmi rezerv işletimindeki sorun ise, çok fazla sayıda insanın aynı anda ağa bağlanıp internet kullanmak istemesi durumunda oluşan tıkanıklılıktır. ISS, tıkanıklık dönemlerinde bir bant genişliğini önceliklendirme yoluna ihtiyaç duymaktadır. En uç durumda, tümüyle tıkanmış bir ağ tam rezerv sistemine tekrar dönmelidir. Zor olan şey ise, uygun bir kısmi rezerv oranı belirleyebilmektir.
 
-## Mikroödeme Kanalları yerine Trafik
+## Mikro Ödeme Kanalları yerine Bant Genişliği
 
 Mikroödemelere çare *dinamik kısmi rezerv* implemetasyonudur. Bu model altında blokzinciri rezerv oranını tıkanılılığa göre otomatik olarak ayarlayabilr. Blokzinciri oranı ayarlarken kısa süreli dalgalanmalar için pay bırakarak bir hedef belirler. Dalgalanmalar olduğunda blokzinciri pay-başına-trafik oranını düşürür. Dalgalanma bittiğinde ve ekstra kapasite olduğunda blokzinciri tekrardan yavaşça pay-başına-trafiği yükseltebilir.
 
