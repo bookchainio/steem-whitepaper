@@ -102,7 +102,7 @@
 
 भरोसेमंद और चुने हुए फ़ीड उत्पादकों को देखते हुए, रूपांतरण के लिए इस्तेमाल वास्तविक मूल्य फ़ीड को औसत के रूप में प्राप्त किया जा सकता है । इस तरह चुने हुई गवाहों मैं से कुछ गवाहों के ग़लत फ़ीड देने से मध्य मुद्रा पर बहुत कम असर पड़ता है, मगर गवाहों के ग़लत फ़ीड देने से उन की शोहरत पर असर पड़ता हैं।
 
-अगर तमाम फीड बनाने वाले उपकर्ता ईमानदार भी हो फिर भी फ़ीड बनाने वाले ऐसे चीजूँ से मु मुतासिर हो सकते हैं जो उन के वश में नहीं होते हैं। The Steem network is designed to tolerate short-term corruption of the median price feed while the community actively works to correct the issue. One example of an issue that may take some time to correct is short-term market manipulation. Market manipulation is difficult and expensive to maintain for long periods of time. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
+अगर तमाम फीड बनाने वाले उपकर्ता ईमानदार भी हो फिर भी फ़ीड बनाने वाले ऐसे चीजूँ से मु मुतासिर हो सकते हैं जो उन के वश में नहीं होते हैं। स्टीम नेटवर्क में औसत मूल्य फ़ीड के अल्पकालिक भ्रष्टाचार को सहने की शक्ती है मगर समुदाय सक्रिय रूप से इस बीच मूढ़े को सही करने में लग जानी चाहिए। One example of an issue that may take some time to correct is short-term market manipulation. Market manipulation is difficult and expensive to maintain for long periods of time. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
 
 Steem factors out short-term price fluctuations by using the median price over a period of three and a half days. The median published feed is sampled every hour on the hour.
 
