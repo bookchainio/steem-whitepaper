@@ -479,7 +479,7 @@ Steem resolve este problema dando a todos uma maneira de serem pagas por fazerem
 
 ## Solving the Cryptocurrency Liquidation Problem
 
-A currency that is difficult to use or impossible to sell has little value. Someone who comes across $1.00 worth of Bitcoin will discover that it costs more than $1.00 to sell that Bitcoin. They have to create an account with an exchange, perform KYC validation, and pay fees. Small amounts of cryptocurrency are like small change that people are unwilling to bend over to pick up.
+Uma moeda que é difícil de usar ou impossível de vender tem pouco valor. Alguém que possui $1.00 em Bitcoin vai descobrir que custa mais de $1.00 para vender essa Bitcoin. They have to create an account with an exchange, perform KYC validation, and pay fees. Small amounts of cryptocurrency are like small change that people are unwilling to bend over to pick up.
 
 Merchants give users a way to quickly convert their cryptocurrency into tangible goods and services. Merchants need a currency pegged to their unit of account, normally dollars. Accepting a volatile currency introduces significant accounting overhead.
 
@@ -497,7 +497,7 @@ Freedom of speech is the foundation of all other liberties and any infringement 
 
 ## Solving Organic Discovery via Search Engine Optimization
 
-Most cryptocurrencies generate little value for those who are not actively using the network. Steem, by contrast, generates content and encourages users to share it. This content gets indexed by search engines and ultimately will bring value to a large number of passive users. This search traffic creates organic advertising for the Steem network and grows the network effect.
+A maioria das criptomoedas gera pouco lucro para aqueles que não usam a network frequentemente. Steem, pelo contrário, gera conteúdo e encoraja usuários a partilhá-lo. This content gets indexed by search engines and ultimately will bring value to a large number of passive users. This search traffic creates organic advertising for the Steem network and grows the network effect.
 
 ## Shifting Toward Blockchain-based Attribution
 
@@ -515,7 +515,7 @@ Creators posting to social media outlets that are connected to Steem may monetiz
 
 # Conclusão
 
-Steem é uma experiência feita para enfrentar desafios nas indústrias de criptomoedas e meios de comunicação por combinar os melhores aspetos de ambos. Steem apresenta oportunidades de ganhos para criadores de conteúdo e leitores da internet em maneiras que não existem dentro da indústria dos meios de comunicação. Dentro da Steem, indivíduos ganham verdadeiras recompensas online que são diretamente proporcionais ás suas contribuições. Essas recompensas podem ter valor em dólar devido á descoberta do preço de mercado e liquidez do Steem, e as pessoas que detêm Steem podem ter mais ganhos potenciais exclusivos do que aqueles que não detêm Steem.
+Steem é uma experiência feita para enfrentar desafios nas indústrias de criptomoedas e da indústria dos meios de comunicação por combinar os melhores aspetos de ambos. Steem apresenta oportunidades de ganhos para criadores de conteúdo e leitores da internet em maneiras que não existem dentro da indústria dos meios de comunicação. Dentro da Steem, indivíduos ganham verdadeiras recompensas online que são diretamente proporcionais ás suas contribuições. Essas recompensas podem ter valor em dólar devido á descoberta do preço de mercado e liquidez do Steem, e as pessoas que detêm Steem podem ter mais ganhos potenciais exclusivos do que aqueles que não detêm Steem.
 
 [^1]: Reddit’s Cryptocurrency, Forbes, Erika Morphy, October 2014 http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/\#4e07b05332b9
 
