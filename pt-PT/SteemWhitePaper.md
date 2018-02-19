@@ -116,7 +116,7 @@ Market participants have access to information faster than the blockchain’s th
 
 Steem levels the playing field by requiring all conversion requests to be delayed for three and a half days. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
 
-### Minimizando o abuso de conversões
+### Minimizar o abuso de conversões
 
 Se as pessoas podessem converter livremente em ambas as direções. então os comerciantes poderiam tirar vantagem das taxas de conversação por grandes volumes de negociação sem alterar o preço. Os comerciantes que vêm uma subida substancial no preço iriam converter para SBD no pico(quando é mais arriscado) e então voltar a converter após a correção. O protocolo Steem protege a comunidade deste tipo de abuso permitindo apenas as pessoas de converter de SBD para STEEM e não o contrário.
 
@@ -487,7 +487,7 @@ Merchants will accept any currency if it increases their sales. Having a large u
 
 Another way that people can liquidate the small amounts of cryptocurrency they receive from participating on the Steem platform is through *tipping* others. This is like leaving the small change as a tip for your waiter. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
 
-## Censorship
+## Censura
 
 Steem is a decentralized network that is operated by witnesses in jurisdictions around the world. All user actions are publicly recorded on the blockchain, and can be publicly verified. This means that there is no single entity that can censor content that is valued by STEEM holders.
 
