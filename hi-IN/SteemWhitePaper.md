@@ -132,7 +132,7 @@
 
 ### ब्याज
 
-स्टीम डॉलर अपनी धारकों को ब्याज देता है। ब्याज दर उन्ही लोगों द्वारा निर्धारित की जाती है जो मूल्य फ़ीड को प्रकाशित करते हैं ताकि ये बाज़ार की स्थितियों को बदलने के लिए अनुकूल हो सके। All debt carries risk to the lender. Someone who holds SBD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SBD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
+स्टीम डॉलर अपनी धारकों को ब्याज देता है। ब्याज दर उन्ही लोगों द्वारा निर्धारित की जाती है जो मूल्य फ़ीड को प्रकाशित करते हैं ताकि ये बाज़ार की स्थितियों को बदलने के लिए अनुकूल हो सके। सभी ऋण ऋणदाता के लिए जोखिम वाहन करती है। कोई भी व्यक्ति जो स्टीम डॉलर को निकालने के बजाय होल्ड रखता है वो इस प्रकार से समुदाय को एक डॉलर का क़र्ज़ा देता हैं। They are trusting that at some point in the future someone will be willing to buy the SBD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
 
 STEEM and SP holders gain leverage when members of the community are willing to hold SBD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
 
