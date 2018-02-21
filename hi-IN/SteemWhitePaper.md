@@ -134,9 +134,9 @@
 
 स्टीम डॉलर अपनी धारकों को ब्याज देता है। ब्याज दर उन्ही लोगों द्वारा निर्धारित की जाती है जो मूल्य फ़ीड को प्रकाशित करते हैं ताकि ये बाज़ार की स्थितियों को बदलने के लिए अनुकूल हो सके। सभी ऋण ऋणदाता के लिए जोखिम वाहन करती है। कोई भी व्यक्ति जो स्टीम डॉलर को निकालने के बजाय होल्ड रखता है वो इस प्रकार से समुदाय को एक डॉलर का क़र्ज़ा देता हैं। ऐसे वेकती भरोसा करते हैं कि भविष्य में कोई स्टीम डॉलर को एक डॉलर की क़ीमत में ख़रीदेगा या फिर अगर वो वेकती स्टीम को भविष्य में स्टीम में परिवर्तित करेगा तो कुछ निवेशकों और सट्टेबाज़ इस को ख़रीदने कै लिए तेयार होंगे।
 
-स्टीम और स्टीम पावर के धारक लाभ उठाते हैं जब समुदाय की सदस्य स्टीम डॉलर को होल्ड करते हैं। यह उत्तोलन विकास से लाभ को प्रवर्धित करते हुए भी विकास में योगदान दे रहा है । स्टीम धारकों भी पीड़ित होते हैं अगर स्टीम की क़ीमत गिर जाती है। Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
+स्टीम और स्टीम पावर के धारक लाभ उठाते हैं जब समुदाय की सदस्य स्टीम डॉलर को होल्ड करते हैं। यह उत्तोलन विकास से लाभ को प्रवर्धित करते हुए भी विकास में योगदान दे रहा है । स्टीम धारकों भी पीड़ित होते हैं अगर स्टीम की क़ीमत गिर जाती है। क्रिपटोकरेंसी परियोजनाओं ने दिखाया है कि जो उपयोगकर्ता अपनी पूंजी के साथ नेटवर्क पर भरोसा करने को तैयार है वो इस नेटवर्क में काफ़ी मूल्य जोड़ते हैं ।
 
-### Setting Price Feeds
+### मूल्य फ़ीड्स ते करना।
 
 Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
 
