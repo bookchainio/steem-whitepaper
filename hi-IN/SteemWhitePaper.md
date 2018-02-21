@@ -112,11 +112,11 @@
 
 ### समय के हमलों को कम करना
 
-बाज़ार सहभागीयों को ब्लाकचैन के तीन दिन की औसत रूपांतरण मूल्य से ज़्यादा तेज़ी से जानकारी मिलती है और इस तरह तेज़ी से प्रतिक्रिया कर सकते हैं। व्यापारियों को फ़ायदा पहुँचाने के लिए इस जानकारी का इस्तेमाल किया जा सकता है। If there is a sudden increase in the value of STEEM traders could request conversion of their SBD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
+बाज़ार सहभागीयों को ब्लाकचैन के तीन दिन की औसत रूपांतरण मूल्य से ज़्यादा तेज़ी से जानकारी मिलती है और इस तरह तेज़ी से प्रतिक्रिया कर सकते हैं। व्यापारियों को फ़ायदा पहुँचाने के लिए इस जानकारी का इस्तेमाल किया जा सकता है। स्टीम के मूल्य में अचानक वृद्धि होने पर स्टीम के व्यापारी इसको स्टीम डोलर्स में रूपांतरण का अनुरोध कर सकते हैं और फिर इसी स्टीम को न्यूनतम जोखिम के साथ एक नए अच्छे मूल्य पर बेच सकते हैं।
 
-Steem levels the playing field by requiring all conversion requests to be delayed for three and a half days. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
+इस खेल के मैदान को बराबर करने के लिए स्टीम सभी रुपान्तरण अनुरोधों की आवश्यकता द्वारा को साढ़े तीन दिन कर्ता है। इसका मतलब ये है कि न तो व्यापारियों और न ही ब्लाकचैन को रूपांतरण क़ीमत के बारे में कोई जानकारी लाभ मलता है।
 
-### Minimizing Abuse of Conversions
+### रूपांतरणों का दुरुपयोग कम करना
 
 If people could freely convert in both directions then traders could take advantage of the blockchains conversion rates by trading large volumes without changing the price. Traders who see a massive run up in price would convert to SBD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SBD to STEEM and not the other way around.
 
