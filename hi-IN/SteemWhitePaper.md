@@ -118,7 +118,7 @@
 
 ### रूपांतरणों का दुरुपयोग कम करना
 
-अगर लोग स्वतंत्र रूप से दोनों दिशाओं में रूपांतरण कर सकते हैं तो व्यापारी इसका लाभ लेकर ब्लाकचैन रुपान्तरण दरों का लाभ लेकर बड़ी मात्रा में व्यापार कर सकता है और वो भी किसी मूल्य बदली के। Traders who see a massive run up in price would convert to SBD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SBD to STEEM and not the other way around.
+अगर लोग स्वतंत्र रूप से दोनों दिशाओं में रूपांतरण कर सकते हैं तो व्यापारी इसका लाभ लेकर ब्लाकचैन रुपान्तरण दरों का लाभ लेकर बड़ी मात्रा में व्यापार कर सकता है और वो भी किसी मूल्य बदली के। व्यापारी बड़े पैमाने पर स्टीम के मूल्य में बढ़ोतरी देख कर इसे स्टीम डालर्स में परिवर्तन कर सकता है और जब मूल्य का सुधार हो जाए तो दोबारा इसे स्टीम में परिवर्तन कर सकता हैं। स्टीम अनुशासन केवल लोगन को स्टीम डॉलर से स्टीम परिवर्तन करने की अनुमति देता है और इसके विपरीत करने की अनुमति नहीं देता, और इस तरह के और इस तरह के दुरुपयोग से समुदाय की रक्षा करता है।
 
 The blockchain decides how and when to create SBD and who should get it. This keeps the rate of SBD creation stable and removes most avenues of abuse.
 
