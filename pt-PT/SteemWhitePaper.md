@@ -208,17 +208,17 @@ O mesmo se passa com as pessoas. Se alguém tenta fazer algo diferente, ter melh
 
 Eliminar "abuso" não é possível e não deveria ser o objetivo. Mesmo aqueles que tentam "abusar" o sistema, ainda estão a trabalhar. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. O necessário é assegurar que o abuso não seja tão excessivo que afete o incentivo para fazer trabalho de verdade em suporte da comunidade e da sua moeda.
 
-O objetivo de construir uma moeda comunitária é para ter mais "caranguejos no balde". Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs sufficient power to prevent others from escaping.
+O objetivo de construir uma moeda comunitária é para ter mais "caranguejos no balde". Medidas extremas para eliminar todo o abuso é como tentar meter a tampa no balde para evitar a fuga de alguns caranguejos e depois fica mais difícil meter novos caranguejos no balde. É suficiente para tornar as paredes escorregadias e dar aos outros caranguejos força suficiente para prevenir outros de escaparem.
 
 ### Rate Limited Voting
 
-A major part of minimizing abuse is the rate-limiting of voting. Individual users can only read and evaluate so many work items per day. Any attempt to vote more frequently than this is a sign of automation and potential abuse. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
+Uma parte importante de minimizar o abuso é a limitação da taxa de voto. Usuários individuais podem apenas ler e avaliar uma quantidade específica de itens de trabalho por dia. Qualquer tentativa de votar mais frequentemente do que isto é uma sinal de automação e potencial abuso. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
 
 Users are allotted a fixed amount of voting power. Voting power is multiplied by a user’s vesting tokens to determine how much share in the reward pool should be allocated to a given work item. Every vote that is cast uses a percentage of remaining voting power. Users can vote for more posts, but each vote will be worth less, and it will take longer to reach full voting power again. Voting power recharges at a fixed linear rate of 20% per day.
 
 ### Payout Distribution
 
-One of the primary goals of Steem’s reward system is to produce the best discussions on the internet. Each and every year 75% of the yearly inflation is distributed to users submitting, voting on, and discussing content. At the size of Bitcoin this could be several million dollars per day being given to the top contributors.
+Um dos principais objetivos do Sistema de recompensa do Steem é produzir as melhores discussões na internet. Each and every year 75% of the yearly inflation is distributed to users submitting, voting on, and discussing content. At the size of Bitcoin this could be several million dollars per day being given to the top contributors.
 
 The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content.
 
