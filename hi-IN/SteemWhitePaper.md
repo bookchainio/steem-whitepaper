@@ -120,9 +120,9 @@
 
 अगर लोग स्वतंत्र रूप से दोनों दिशाओं में रूपांतरण कर सकते हैं तो व्यापारी इसका लाभ लेकर ब्लाकचैन रुपान्तरण दरों का लाभ लेकर बड़ी मात्रा में व्यापार कर सकता है और वो भी किसी मूल्य बदली के। व्यापारी बड़े पैमाने पर स्टीम के मूल्य में बढ़ोतरी देख कर इसे स्टीम डालर्स में परिवर्तन कर सकता है और जब मूल्य का सुधार हो जाए तो दोबारा इसे स्टीम में परिवर्तन कर सकता हैं। स्टीम अनुशासन केवल लोगन को स्टीम डॉलर से स्टीम परिवर्तन करने की अनुमति देता है और इसके विपरीत करने की अनुमति नहीं देता, और इस तरह के और इस तरह के दुरुपयोग से समुदाय की रक्षा करता है।
 
-The blockchain decides how and when to create SBD and who should get it. This keeps the rate of SBD creation stable and removes most avenues of abuse.
+ब्लाकचैन ये निर्णय करता है कि कैसे और कब स्टीम डॉलर टोकन बनाए जाए और किसे ये टोलन मिलने चाहिए। इस तरीके से स्टीम डॉलर के उत्पाद दर को सिथर रखता है और दुरुपयोग के रास्ते ख़त्म करता है।
 
-### Sustainable Debt to Ownership Ratios
+### स्वामित्व अनुपात के लिए स्थाई ऋण
 
 If a token is viewed as ownership in the whole supply of tokens, then a token-convertible-dollar can be viewed as debt. If the debt to ownership ratio gets too high the entire currency can become unstable. Debt conversions can dramatically increase the token supply, which in turn is sold on the market suppressing the price. Subsequent conversions require the issuance of even more tokens. Left unchecked the system can collapse leaving worthless ownership backing a mountain of debt. The higher the debt to ownership ratio becomes the less willing new investors are to bring capital to the table.
 
