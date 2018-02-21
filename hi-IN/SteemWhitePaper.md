@@ -138,7 +138,7 @@
 
 ### मूल्य फ़ीड्स ते करना।
 
-Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
+चतुर पाठक यह पहचान लेंगे कि सीमित आपूर्ति वाली ब्याज की परिसंपत्ति दूसरी परिसंपत्ति के मुक़ाबले में कम या ज़्यादा व्यापार कर सकती है और ये अन्य अवसरों की क़ीमत पर निर्भर करता है। With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
 
 1. A stable exchange rate
 2. Free capital movement
