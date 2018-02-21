@@ -218,9 +218,9 @@ Users are allotted a fixed amount of voting power. Voting power is multiplied by
 
 ### Payout Distribution
 
-Um dos principais objetivos do Sistema de recompensa do Steem é produzir as melhores discussões na internet. Each and every year 75% of the yearly inflation is distributed to users submitting, voting on, and discussing content. At the size of Bitcoin this could be several million dollars per day being given to the top contributors.
+Um dos principais objetivos do Sistema de recompensa do Steem é produzir as melhores discussões na internet. A cada ano, 75% da inflação anual é distribuída aos usuários que submetem, votam em, e discutem conteúdo. No tamanho da Bitcoin, isto pode ser vários milhões de dólares, por dia, a serem dado aos contribuidores de topo.
 
-The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content.
+A distribuição dependerá dos padrões de votação dos usuários, mas suspeitamos que a larga maioria das recompensas será distribuída ao conteúdo mais popular.
 
 Zipf’s Law[^7] is one of those empirical rules that characterize a surprising range of real-world phenomena remarkably well. It says that if we order some large collection by size or popularity, the second element in the collection will be about half the measure of the first one, the third one will be about one-third the measure of the first one, and so on. In general, the k th-ranked item will measure about 1/k of the first one.
 
