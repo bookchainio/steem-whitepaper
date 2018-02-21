@@ -198,17 +198,17 @@ The use of *negative-voting* to keep people from abusing the system leverages th
 
 **The Story of the Crab Bucket**[^6]
 
-A man was walking along the beach and saw another man fishing in the surf with a bait bucket beside him. As he drew closer, he saw that the bait bucket had no lid and had live crabs inside.
+Um homem estava andar pela praia e viu outro homem a pescar ao lado dele com um balde com isca de pesca. À medida que se aproximava viu que o balde não tinha tampa e tinha caranguejos vivos dentro.
 
-"Why don't you cover your bait bucket so the crabs won't escape?", he said.
+"Porque não cobres o teu balde de isca para os caranguejos não escaparem?", disse ele.
 
-"You don't understand.", the man replied, "If there is one crab in the bucket it would surely crawl out very quickly. However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
+"Não percebes.", respondeu o homem, "Se tem um caranguejo no balde ele certamente iria sair rapidamente. No entanto, quando estão muitos caranguejos no balde, se um tenta trepar, os outros puxam-no para baixo para que ele partilhe o mesmo destino que o resto dos caranguejos dentro do balde."
 
-So it is with people. If one tries to do something different, get better grades, improve herself, escape her environment, or dream big dreams, other people will try to drag her back down to share their fate.
+O mesmo se passa com as pessoas. Se alguém tenta fazer algo diferente, ter melhores notas, melhorar como pessoa, escapar do seu ambiente, ou sonhar grandes sonhos, outras pessoas vão tentar arrastá-la para baixo para partilharem o mesmo destino.
 
-Eliminating “abuse” is not possible and shouldn’t be the goal. Even those who are attempting to “abuse” the system are still doing work. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn’t so rampant that it undermines the incentive to do real work in support of the community and its currency.
+Eliminar "abuso" não é possível e não deveria ser o objetivo. Mesmo aqueles que tentam "abusar" o sistema, ainda estão a trabalhar. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. O necessário é assegurar que o abuso não seja tão excessivo que afete o incentivo para fazer trabalho de verdade em suporte da comunidade e da sua moeda.
 
-The goal of building a community currency is to get more “crabs in the bucket”. Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs sufficient power to prevent others from escaping.
+O objetivo de construir uma moeda comunitária é para ter mais "caranguejos no balde". Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs sufficient power to prevent others from escaping.
 
 ### Rate Limited Voting
 
