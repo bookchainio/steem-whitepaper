@@ -108,11 +108,11 @@
 
 जब तक फ़ीड के मूल्य का हेर फेर औसत मूल्य फ़ीड के आधे से भी कम मूल्य तक रहेगा, उस समय तक रूपांतरण मूल्य पर न्यूनतम प्रभाव पड़ेगा । अगर किसी घटना में फ़ीड भ्रष्ट हो जाती है तो नेटवर्क प्रतिभागियों को भ्रष्ट फ़ीड उत्पादकों को निकालने का अवसर दिया जाएगा इससे पहले रूपांतरण मूल्य पर भ्रष्ट फ़ीड का प्रभाव पड़ेगा । शायद अधिक महत्वपूर्ण बात ये है कि ये फ़ीड उत्पादनकें के लिए मुद्दे का पता लगाने और सही करने का अवसर प्रदान करती है इससे पहले कि उनकी फ़ीड के मूल्य पर प्रभाव पढ़ना शुरू हो ।
 
-With a three and a half day window, community members have approximately one and a half days to respond to any issues that come up.
+साढ़े तीन दिन की अवधि में समुदाय के सदस्यों के पास किसी भी मुद्दे का जवाब देने के लिए लगभग डेढ़ दिन होता है ।
 
-### Mitigating Timing Attacks
+### समय के हमलों को कम करना
 
-Market participants have access to information faster than the blockchain’s three and a half day moving median conversion price can react. This information could be used to benefit of traders at the expense of the community. If there is a sudden increase in the value of STEEM traders could request conversion of their SBD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
+बाज़ार सहभागीयों को ब्लाकचैन के तीन दिन की औसत रूपांतरण मूल्य से ज़्यादा तेज़ी से जानकारी मिलती है और इस तरह तेज़ी से प्रतिक्रिया कर सकते हैं। व्यापारियों को फ़ायदा पहुँचाने के लिए इस जानकारी का इस्तेमाल किया जा सकता है। If there is a sudden increase in the value of STEEM traders could request conversion of their SBD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
 
 Steem levels the playing field by requiring all conversion requests to be delayed for three and a half days. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
 
