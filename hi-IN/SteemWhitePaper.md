@@ -118,7 +118,7 @@
 
 ### रूपांतरणों का दुरुपयोग कम करना
 
-If people could freely convert in both directions then traders could take advantage of the blockchains conversion rates by trading large volumes without changing the price. Traders who see a massive run up in price would convert to SBD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SBD to STEEM and not the other way around.
+अगर लोग स्वतंत्र रूप से दोनों दिशाओं में रूपांतरण कर सकते हैं तो व्यापारी इसका लाभ लेकर ब्लाकचैन रुपान्तरण दरों का लाभ लेकर बड़ी मात्रा में व्यापार कर सकता है और वो भी किसी मूल्य बदली के। Traders who see a massive run up in price would convert to SBD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SBD to STEEM and not the other way around.
 
 The blockchain decides how and when to create SBD and who should get it. This keeps the rate of SBD creation stable and removes most avenues of abuse.
 
