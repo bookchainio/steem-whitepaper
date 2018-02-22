@@ -481,11 +481,11 @@ Steem resolve este problema dando a todos uma maneira de serem pagas por fazerem
 
 Uma moeda que é difícil de usar ou impossível de vender tem pouco valor. Alguém que possui $1.00 em Bitcoin vai descobrir que custa mais de $1.00 para vender essa Bitcoin. Têm de criar uma conta com um intercâmbio, executar a validação de KYC, e pagar taxas. Pequenas quantidades de cryptocurrency são como cêntimos na rua que as pessoas não estão dispostas a dobrar-se para pegar.
 
-Merchants give users a way to quickly convert their cryptocurrency into tangible goods and services. Merchants need a currency pegged to their unit of account, normally dollars. Accepting a volatile currency introduces significant accounting overhead.
+Os comerciantes dão aos usuários uma maneira de converter rapidamente a sua cryptocurrency em serviços e bens tangíveis. Comerciantes precisam de uma currency associada à sua unidade de conta, normalmente dólares. Aceitar uma currency volátil apresenta uma sobrecarga significativa de contabilidade.
 
-Merchants will accept any currency if it increases their sales. Having a large user base with a stable currency such as SBD lowers the barrier to entry for merchants. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
+Comerciantes vão aceitar qualquer currency, se esta aumentar as suas vendas. Ter uma grande base de usuários com uma currency estável como o SBD, diminui a barreira de entrada para os comerciantes. A presença de comerciantes melhora o sistema criando uma "off-ramp" para os usuários saírem do sistema sem terem o problema de usar um intercâmbio.
 
-Another way that people can liquidate the small amounts of cryptocurrency they receive from participating on the Steem platform is through *tipping* others. This is like leaving the small change as a tip for your waiter. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
+Outra maneira de as pessoas liquidarem as suas pequenas quantidades de cryptocurrency, que recebem por participar na plataforma Steem, é ao * dar gorjetas* aos outros usuários. É como deixar um pouco do troco, como gorjeta, ao empregado de mesa. Quando pessoas suficientes deixam pequenas gorjetas cria-se uma quantidade significativa. Eu e o empregado ambos podemos beneficiar da gorjeta.
 
 ## Censura
 
@@ -501,7 +501,7 @@ A maioria das criptomoedas gera pouco lucro para aqueles que não usam a network
 
 ## Shifting Toward Blockchain-based Attribution
 
-The internet represents the easiest medium for distributing information in the world. With that said, it can be a frightening place for content creators who would like to own their content and have it shared with proper attribution. On current social media platforms, attribution is something that can be lost overnight - a posted video or image can be replicated and re-shared without consent or regard for the creator.
+A internet representa o meio de comunicação mais fácil de distribuir informação no mundo. With that said, it can be a frightening place for content creators who would like to own their content and have it shared with proper attribution. On current social media platforms, attribution is something that can be lost overnight - a posted video or image can be replicated and re-shared without consent or regard for the creator.
 
 Under blockchain-based social media, a creator or author would always be able to point to a public record and timestamp showing proof of their content origination. In a circumstance where a creator would like to address those who have re-shared without permission or attribution, blockchain-based records provide public proof that the content was posted by a particular user at a particular time. In the future, blockchain-based attribution could come to be recognized by governments for its authenticity and could hold weight in court, which would give content creators greater powers to control their work.
 
