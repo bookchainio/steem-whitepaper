@@ -479,7 +479,7 @@ Steem resolve este problema dando a todos uma maneira de serem pagas por fazerem
 
 ## Solving the Cryptocurrency Liquidation Problem
 
-Uma moeda que é difícil de usar ou impossível de vender tem pouco valor. Alguém que possui $1.00 em Bitcoin vai descobrir que custa mais de $1.00 para vender essa Bitcoin. They have to create an account with an exchange, perform KYC validation, and pay fees. Small amounts of cryptocurrency are like small change that people are unwilling to bend over to pick up.
+Uma moeda que é difícil de usar ou impossível de vender tem pouco valor. Alguém que possui $1.00 em Bitcoin vai descobrir que custa mais de $1.00 para vender essa Bitcoin. Têm de criar uma conta com um intercâmbio, executar a validação de KYC, e pagar taxas. Pequenas quantidades de cryptocurrency são como cêntimos na rua que as pessoas não estão dispostas a dobrar-se para pegar.
 
 Merchants give users a way to quickly convert their cryptocurrency into tangible goods and services. Merchants need a currency pegged to their unit of account, normally dollars. Accepting a volatile currency introduces significant accounting overhead.
 
