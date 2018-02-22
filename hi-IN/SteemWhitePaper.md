@@ -148,7 +148,7 @@
 
 स्टीम फ़ीड उत्पादकों की प्राथमिक चिंता एस॰बी॰डी॰ और अमेरीकी डॉलर के बीच एक स्थिर ऐक-से-ऐक रूपांतरण बनाए रखना है। किसी भी समय स्टीम डॉलर का अगर लगातार एक अमेरीकी डॉलर से अधिक मूल्य पर व्यापार किया जा रहा हो तो ब्याज की भुगतान को बंद कर दिया जाना चाहिए। एक बाज़ार में जहाँ ऋण पर 0 फ़ीसद ब्याज भी इस मूल्यों को एक डॉलर से नीचे ला सके तो ये कहना सही है कि बाज़ार समुदाय को इसकी ज़रूरत से ज़्यादा ऋण देने को तैयार करना होगा। अगर ऐसा होता तो स्टीम डॉलर का मूल्य मार्केट में एक डॉलर से ज़्यादा रहे रहेगा और यहाँ समुदाई नकारात्मक ब्याज दर को चार्ज किये बिना कर सकते हैं।
 
-If the debt-to-ownership ratio is low and SBD is trading for less than $1.00, then the interest rate should be increased. This will encourage more people to hold their SBD and support the price.
+यदि ऋण-स्वामित्व अनुपात कम है और स्टीम डॉलर एक डॉलर से कम मैं व्यापार करता है तो ब्याज दर में बदलाव की जानी चाहिए इससे अधिक लोगों को अपनी स्टीम डॉलर को होल्ड और क़ीमत का समर्थन करने के लिए प्रोत्साहन मिलेगा।
 
 If SBD trades for less than $1.00 USD and the debt-to-ownership ratio is high, then the feeds should be adjusted upward give more STEEM per SBD. This will increase demand for SBD while also reducing the debt-to-ownership ratio and returning SBD to parity with USD.
 
