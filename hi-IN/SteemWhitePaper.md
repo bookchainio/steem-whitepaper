@@ -138,11 +138,11 @@
 
 ### मूल्य फ़ीड्स ते करना।
 
-चतुर पाठक यह पहचान लेंगे कि सीमित आपूर्ति वाली ब्याज की परिसंपत्ति दूसरी परिसंपत्ति के मुक़ाबले में कम या ज़्यादा व्यापार कर सकती है और ये अन्य अवसरों की क़ीमत पर निर्भर करता है। ज़्यादा ब्याज के दर जो अमरीकी डॉलर से ही बुक्तान किया जायगा, बहुत से लोग स्टीम डॉलर की सीमित आपूर्ति पर बोली लगाएंगे जब तक स्टीम डॉलर की क़ीमत $१ होजाएगी। In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
+चतुर पाठक यह पहचान लेंगे कि सीमित आपूर्ति वाली ब्याज की परिसंपत्ति दूसरी परिसंपत्ति के मुक़ाबले में कम या ज़्यादा व्यापार कर सकती है और ये अन्य अवसरों की क़ीमत पर निर्भर करता है। ज़्यादा ब्याज के दर जो अमरीकी डॉलर से ही बुक्तान किया जायगा, बहुत से लोग स्टीम डॉलर की सीमित आपूर्ति पर बोली लगाएंगे जब तक स्टीम डॉलर की क़ीमत $१ होजाएगी। अर्थव्यवस्था में एक आसूल है जिससे नामुमकिन ट्रिनिटी से जाना जाता है जो कहता है के नीचे दिए गई तीनों चीज़ें एक साथ होना असंभव है:
 
-1. A stable exchange rate
-2. Free capital movement
-3. An independent monetary policy
+1. एक स्थिर विनिमय दर
+2. मुफ़्त पूंजी का बहाव
+3. एक स्वतंत्र मौद्रिक नीति
 
 If Steem feed producers aim to have an independent monetary policy allowing it to create and destroy Steem Dollars while simultaneously having full control over the interest rate then they will encounter problems. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
 
