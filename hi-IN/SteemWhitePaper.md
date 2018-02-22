@@ -144,9 +144,9 @@
 2. मुफ़्त पूंजी का बहाव
 3. एक स्वतंत्र मौद्रिक नीति
 
-अगर स्टीम फ़ीड को बनाने वाले स्टीम डोलार को बनाने और ख़त्म करने की अनुमति के ज़रिए एक स्वतंत्र मौद्रिक हासिल करना चाहते है क्यूँकि ब्याज दर पर नियंत्रण करना चाहते हैं ताकि वो समस्याओं का सामना कर सके। The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
+अगर स्टीम फ़ीड को बनाने वाले स्टीम डोलार को बनाने और ख़त्म करने की अनुमति के ज़रिए एक स्वतंत्र मौद्रिक हासिल करना चाहते है क्यूँकि ब्याज दर पर नियंत्रण करना चाहते हैं ताकि वो समस्याओं का सामना कर सके। असंभव ट्रिनिटी का कहना है कि स्टीम डॉलर को या तो पूंजी की गतिविधि को सीमित करना ज़रूरी है, या डॉलर के साथ एक अस्थिर विनिमय दर रखना है, या ब्याज दर पर सीमित नियंत्रण रखना है।
 
-The primary concern of Steem feed producers is to maintain a stable one-to-one conversion between SBD and the U.S. Dollar (USD). Any time SBD is consistently trading above $1.00 USD interest payments must be stopped. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SBD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
+स्टीम फ़ीड उत्पादकों की प्राथमिक चिंता एस॰बी॰डी॰ और अमेरीकी डॉलर के बीच एक स्थिर ऐक-से-ऐक रूपांतरण बनाए रखना है। किसी भी समय स्टीम डॉलर का अगर लगातार एक अमेरीकी डॉलर से अधिक मूल्य पर व्यापार किया जा रहा हो तो ब्याज की भुगतान को बंद कर दिया जाना चाहिए। In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SBD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
 
 If the debt-to-ownership ratio is low and SBD is trading for less than $1.00, then the interest rate should be increased. This will encourage more people to hold their SBD and support the price.
 
