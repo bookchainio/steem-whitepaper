@@ -356,11 +356,11 @@ Under the rate limiting approach, someone who holds 1% of all coins with an inte
 
 ### Renting vs. Buying vs. Time Sharing
 
-When someone owns a house they expect the right to use the house for free. If a group of people buy a house together then each can expect the right to use the house proportional to their percentage ownership in the house. A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
+Quando alguém possui uma casa espera que tenha o direito de a usar de graça. Se um grupo de pessoas compra uma casa em conjunto, então cada um pode esperar o direito de usar a casa proporcional à percentagem da sua apropriação na casa. A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
 
-If a house is owned by multiple people then those individuals must decide how they wish to timeshare the house. Someone who owns 50% of the house but only uses it one weekend per year might expect to be paid by the individuals who take their unused time. This is the mindset of a fee based system.
+Se uma casa pertence a várias pessoas, então esses indivíduos devem decidir como desejam partilhar periodicamente a casa. Alguém que possua 50% da casa, mas só a usa um fim de semana por ano, pode esperar ser pago pelos indivíduos que tomam o seu tempo não utilizado. Esta é a mentalidade de um sistema de taxa baseada.
 
-On the other hand, someone who owns 50% of the house is speculating that demand for the house will increase in the future and they will be able to sell their stake for more. Any owner who owns more of a house than they use becomes a real estate speculator. With this mindset rather than collecting rent, they collect appreciation.
+On the other hand, someone who owns 50% of the house is speculating that demand for the house will increase in the future and they will be able to sell their stake for more. Algum dono que possua mais da casa do que ele usa torna-se numa propriedade de especulação. Com esta mentalidade, em vez de receber renda, eles recebem apreciação.
 
 The value of a share is derived from how much time it can potentially grant its owner. Owning 1% of a house and getting it 1 weekend per year is the lowest value of a share. However, if half of the shareholders never use their weekend, then the value per timeshare rises to 2 weekends per year. If those inactive users instead opt to rent their unused time, then it falls back to 1 weekend per year. If those unused timeshares were sold to people who would use them then the value of a timeshare would fall by 50%. Unless the rent collected is greater than the fall in share value the timeshare owners are making an economic miscalculation.
 
