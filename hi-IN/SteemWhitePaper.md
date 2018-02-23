@@ -158,7 +158,7 @@
 
 यदि ऋण-स्वामित्व अनुपात बहुत ज़्यादा बढ़ जाता है और बाज़ार सहभागियों इस रूपांतरण अनुरोध से बचना चाहते हैं तो फ़ीड मूल्य को इस तरह बदलना ज़रूरी है जिससे स्टीम डॉलर को ख़रीदने के लिए ज़्यादा स्टीम की आवश्यकता पड़े।
 
-Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SBD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions.
+ब्याज दर और स्टीम/स्टीम डॉलर के रूपांतरण के मूल्य में कमि या ज़्यादती में बाज़ार रूपांतरणो की लम्बी अवधि अवसत सुस्त होनी चहए बजाए कम अवधि वाले बाज़ार से।
 
 It is our belief that these rules will give market participants confidence that they are unlikely lose money by holding SBD purchased at a price of $1.00. We fully expect there to be a narrow trading range between $0.95 and $1.05 for SBD under normal market conditions.
 
