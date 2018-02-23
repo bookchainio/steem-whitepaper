@@ -465,11 +465,11 @@ Furthemore, Steem pays people to figure out who should be paid! This kind of thi
 
 A Internet perderia a grande maioria do seu valor se todos os links entre conteúdo fossem removidos. É a relação entre as páginas da web que permite à Google identificar a melhor receita de tarte de maçã de entre os 16 milhões de resultados. Sem os links, a única informação que o Google teria seriam as frequências das palavras.
 
-Links podem assumir muitas formas e adaptaram-se ao longo do tempo. Every time a user votes on content in a social network they add a connection between themselves and the content. This in turn links the consumer to the producer through the content. The more connections a network has the more valuable the information becomes. It is the relative and intentional connectedness of information that gives it value.
+Links podem assumir muitas formas e adaptaram-se ao longo do tempo. Cada vez que um usuário vota num conteúdo numa rede social, eles adicionam uma conexão entre si e o conteúdo. Isto por sua vez, vincula o consumidor para o produtor, através do conteúdo. Quantas mais conexões uma rede tem, mais valiosa torna-se a informação. É a conexidade relativa e intencional de informações que lhe dá valor.
 
-A social network can maximize the value extracted from a set of content by maximizing the quantity and quality of connections. Curating content is expensive and time consuming while being near impossible for computers to perform in the absence of links. Steem rewards users who are among the first to find and identify new content.
+Uma rede social pode maximizar o valor extraído de um grupo de conteúdos ao maximizar a quantidade e a qualidade de conexões. Curar conteúdo é caro e demorado enquanto também é quase impossível para os computadores o fazem na ausência de links. Steem recompensa aqueles que estão entre os primeiros a encontrar e identificar novo conteúdo.
 
-By incentivising curation the Steem network is able to use automated algorithms to extract the most valuable information from a massive amount of content.
+Ao incentivar a curadoria, a rede Steem pode usar algoritmos automatizados para extrair a informação mais valiosa de uma quantidade massiva de conteúdo.
 
 ## Resolvendo o problema de integração em Criptomoedas
 
