@@ -168,9 +168,9 @@
 
 प्रभाव में जिस बुनियाद पर काम को परखा जाता है अपने आप में सोर्स कोड से बाहर और व्यक्तिपरक रहता हैं। एक समुदाय कलाकारों को, कवि को और मजाहिया लोगन को इनाम दे सकती हैं। अन्य समुदाय को धर्मार्थ कारणों को ईनाम या आग्रिम राजनीतिक मामलों में इनाम कैलिये चुन सकते हैं।
 
-एक मुद्रा जो मूली हासिल करती है इसका प्रत्येक एक ख़ास समुदाय के अंदर इसकी माँग पर और इस बात पर होता है कि बाज़ार का किस्सी भी समुदाय पर यक़ीन हो कि वह क्या हासिल कर सकती है। Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
+एक मुद्रा जो मूली हासिल करती है इसका प्रत्येक एक ख़ास समुदाय के अंदर इसकी माँग पर और इस बात पर होता है कि बाज़ार का किस्सी भी समुदाय पर यक़ीन हो कि वह क्या हासिल कर सकती है। पहले की प्रणालियों के विपरीत व्यक्तिपरक पर काम का सबूत एक समुदाय को सामूहिक तौर पर तरकी को बढ़ावा देने के क़ाबिल बनाता है और इनकी इस समय को मौद्रिकरण सक्षम बनाता है जो इससे पहले इस क़ाबिल था।
 
-### Distributing Currency
+### मुद्रा वितरण
 
 There are two ways people can get involved with a crypto-currency community: they can *buy in*, or they can *work in*. In both cases users are adding value to the currency, however, the vast majority of people have more *free time* than they do *spare cash*. Imagine the goal of bootstrapping a currency in a poor community with no actual *cash* but plenty of *time*. If people can earn money by working for one another then they will bootstrap value through mutual exchange facilitated by a fair accounting/currency system.
 
