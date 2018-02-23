@@ -234,9 +234,9 @@ The economic effect of this is similar to a lottery where people overestimate th
 
 ### Pagamentos
 
-Quando uma publicação recebe um pagamento, este tem a forma de 50% SBD e 50% SP. The Steem Power give the user increased voting and transaction power while the SBD gives the user an immediate benefit in a stable currency. As we’ve already discussed at length, SP is designed to encourage long-term holding rather than short-term selling. This encourages more users to have a vested interest in the long-term success of the platform.
+Quando uma publicação recebe um pagamento, este tem a forma de 50% SBD e 50% SP. O Steem Power dá ao usuário maior poder de votação e transação enquanto que o SBD dá ao usuário um benefício imediato, numa moeda estável. Já discutimos que, SP é projetado para encorajar a posse a longo tempo em vez da venda a curto prazo. Isto encoraja mais usuários a ter um interesse sério no sucesso a longo prazo da plataforma.
 
-Users also have the option to be paid in 100% SP, as well as decline payout on posts. When a user declines payout on a post, the money that would have been paid to them remains in the rewards pool, to be distributed to other users.
+Usuários também têm a opção de serem pagos em 100% SP, assim como recusar pagamentos em publicações. Quando um usuário recusa um pagamento numa publicação, o dinheiro que que devia lhe ser pago, permanece no agregado de recompensas, a ser distribuídas aos outros usuários.
 
 # Consensus Algorithm
 
@@ -264,17 +264,17 @@ Steem goes to great lengths to reward people for contributing to the network. It
 
 Blockchain technology currently depends upon transaction fees to prevent spam. These fees suffer all of the known problems with microtransactions and prevent blockchains from being used for low-value transactions. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
 
-## The Problem With Fees
+## O Problema com as Taxas
 
 Blockchains are decentralized networks where all transactions are broadcast to all peers. Every so often a block is produced that includes some or all of the pending transactions. All blockchains must find a solution to prevent malicious users from consuming all of the available network capacity with worthless transactions. These worthless transactions can prevent other valuable transactions from being processed and ultimately destroy the network.
 
 The solution adopted by most blockchains thus far is to charge a minimum transaction fee. A fee worth just a few cents is enough to make attacking the network expensive and unprofitable. While this approach solves the spam problem, it introduces new problems. Imagine solving the email spam problem by introducing a small fee on every email; people wouldn’t use email.
 
-### Micropayments Don’t Work
+### Micro-pagamentos Não Funcionam
 
-The fundamental problem with charging transaction fees is that micropayments don’t work, especially for low-value user actions. When a fee is charged on every transaction, it limits the types of transactions that a decentralized network can process. Regardless of how rational the argument for the necessity of fees, users still hate the experience of being nickeled and dimed for everything that they do.
+O problema fundamental com a imposição de taxas é que os micro-pagamentos não funcionam, especialmente para usuários com valores baixos em ações. Quando uma taxa é imposta em cada transação, limita os tipos de transações que uma rede descentralizada pode processar. Independetemente do quão racional é o argumento para a necessidade de taxas, os usuários continuam a odiar serem espremidos por tudo o que fazem.
 
-Imagine if the websites we use every day charged us a fee every time we modify our accounts by changing the password. Users expect certain things to be free. Requiring users to make a decision on whether or not an action is worth a small fee creates anxiety that causes users to leave. A transaction can’t be worth so much as to require a decision but worth so little that that decision is automatic. There is a certain amount of anxiety involved in any decision to buy, no matter how small, and it derives not from the interface used or the time required, but from the very act of deciding.
+Imagine se um website cobrasse-nos uma taxa cada vez que modificamos a nossa conta, ao mudar a senha. Os usuários supõem que certas coisas sejam grátis. Requiring users to make a decision on whether or not an action is worth a small fee creates anxiety that causes users to leave. A transaction can’t be worth so much as to require a decision but worth so little that that decision is automatic. There is a certain amount of anxiety involved in any decision to buy, no matter how small, and it derives not from the interface used or the time required, but from the very act of deciding.
 
 Micropayments, like all payments, require a comparison: *“Is this much of X worth that much of Y?”* There is a minimum mental transaction cost created by this fact that cannot be optimized away, because the only transaction a user will be willing to approve with no thought will be one that costs them nothing, which is no transaction at all.
 
