@@ -384,15 +384,15 @@ Steem é capaz de lidar com uma maior base de usuários que o Reddit. Em 2015, n
 
 Para atingir esta performance líder na indústria, Steem usou lições aprendidas pela LMAX Exchange[^13], que é capaz de processar 6 milhões de transações por segundo. Entre essas lições estão os seguintes pontos-chave:
 
-1. Keep everything in memory.
+1. Manter tudo na memória.
 2. Keep the core business logic in a single thread.
-3. Keep cryptographic operations (hashes and signatures) out of the core business logic.
+3. Manter operações criptográficas (hashes e assinaturas) fora da lógica do núcleo do negócio.
 4. Divide validation into state-dependent and state-independent checks.
 5. Use an object oriented data model.
 
-By following these simple rules, Steem is able to process 10,000 transactions per second without any significant effort devoted to optimization.
+Seguindo estas regras simples, Steem é capaz de processar 10,000 transações por segundo, sem qualquer esforço significativo dedicado à otimização.
 
-Keeping everything in memory is increasingly viable given the recent introduction of Optane™ technology from Intel[^14]. It should be possible for commodity hardware to handle all of the business logic associated with Steem in a single thread with all posts kept in memory for rapid indexing. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optane™ technology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
+Mantendo tudo na memória é cada vez mais viável tendo em conta a recente introdução da tecnologia Intel, chamada Optane™[^14]. It should be possible for commodity hardware to handle all of the business logic associated with Steem in a single thread with all posts kept in memory for rapid indexing. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optane™ technology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
 
 # Allocation & Supply
 
@@ -463,9 +463,9 @@ Furthemore, Steem pays people to figure out who should be paid! This kind of thi
 
 ## Value is in the Links
 
-The Internet would lose the vast majority of its value if all links among content were removed. It is the relationship among web pages that allows Google to identify the best apple pie recipe among the 16 million results. Without the links the only information Google would have is word frequency.
+A Internet perderia a grande maioria do seu valor se todos os links entre conteúdo fossem removidos. É a relação entre as páginas da web que permite à Google identificar a melhor receita de tarte de maçã de entre os 16 milhões de resultados. Sem os links, a única informação que o Google teria seriam as frequências das palavras.
 
-Links can take many forms and have adapted over time. Every time a user votes on content in a social network they add a connection between themselves and the content. This in turn links the consumer to the producer through the content. The more connections a network has the more valuable the information becomes. It is the relative and intentional connectedness of information that gives it value.
+Links podem assumir muitas formas e adaptaram-se ao longo do tempo. Every time a user votes on content in a social network they add a connection between themselves and the content. This in turn links the consumer to the producer through the content. The more connections a network has the more valuable the information becomes. It is the relative and intentional connectedness of information that gives it value.
 
 A social network can maximize the value extracted from a set of content by maximizing the quantity and quality of connections. Curating content is expensive and time consuming while being near impossible for computers to perform in the absence of links. Steem rewards users who are among the first to find and identify new content.
 
