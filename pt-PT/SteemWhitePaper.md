@@ -286,7 +286,7 @@ Systems like BitShares, Nxt, Ripple, Counter Party and Stellar all allow users t
 
 ### Fees are a Barrier to Entry
 
-Qualquer taxa cria uma barreira à entrada de novos usuários. Before someone can experiment with Ethereum they must acquire some ETH tokens. Anyone wanting to build a decentralized application on Ethereum must pass on the cost to their customers. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
+Qualquer taxa cria uma barreira à entrada de novos usuários. Antes de alguém experimentar ter Ethereum, deve adquirir alguns ETH tokens. Alguém que queria construir uma aplicação descentralizada em Ethereum deve passar o custo aos seus clientes. Comprar uma cryptocurrency não é uma tarefa fácil e raramente faz sentido em quantidades menores que $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
 
 ### Changing Fees
 
@@ -314,15 +314,15 @@ Bandwidth used by an individual user should be measured over a suitably long per
 
 In our estimate it should be sufficient to measure the average weekly bandwidth usage of users. Every time a user signs a transaction, that transaction is factored into their own individual moving average. Any time a user’s moving average exceeds the current network limit their transaction is delayed until their average falls below the limit.
 
-### Impact of Capacity
+### Impacto da Capacidade
 
 Blockchain capacity isn’t necessarily capped. It is well within the technological capability of internet infrastructure to increase the Bitcoin block size to 10MB which in turn will reduce the minimum required balance by a factor of 10. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second.
 
-### Comparison to Fees
+### Comparação às taxas
 
 If we assume a user with $25 dollars worth of BTC transacts once per week and pays a $0.04 cent fee each time then they would pay over $2.00 in fees per year. A user would have to earn a 8% rate of return on their $25 dollars just to break even with paying fees. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
 
-### Account Creation
+### Criação de Conta
 
 Steem’s account-based system with publicly known balances simplifies the implementation of the bandwidth-based rate limiting algorithm. Any account with a balance below the minimum required to transact once per week would be unable to transact. This implies that all new accounts should be funded with at least this minimum balance. It also implies that users wishing to transact in smaller amounts can, so long as they hold a larger balance and reuse the account.
 
@@ -332,7 +332,7 @@ In order to maintain a reasonable user experience with a minimum number of hung 
 
 Any initial account balance would have to come from the user creating the account and not from token creation due to the potential for sybil attacks.
 
-### Justifying Minimum Balances
+### Justificando Saldos Mínimos
 
 The concept of forcing users to maintain a minimum balance flows naturally from the value of a user[^10]. Qualquer pessoa a gerir um negócio sabe que cada usuário tem um valor significativo. Negócios gastam cerca de $30 a $200 para adquirir um usuário. Por vezes eles pagam aos usuários diretamente, outras vezes eles pagam em propaganda, e ainda outras vezes, empresas inteiras são compradas apenas pela sua base de usuários. Depois de uma empresa adquirir um usuário, frequentemente, elas dão-lhes muitos* serviços grátis* para mantê-los por perto durante o tempo necessário para rentabiliza-los através de outros meios.
 
@@ -376,7 +376,7 @@ Decentralized rate limiting of transactions can enable new types of decentralize
 
 # Performance and Scalability
 
-The Steem network is built upon Graphene, the same technology that powers BitShares. Graphene has been publicly demonstrated sustaining over 1000 transactions per second on a distributed test network. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
+A rede Steem é construída com base em Graphene, a mesma tecnologia que alimenta os BitShares. Graphene has been publicly demonstrated sustaining over 1000 transactions per second on a distributed test network. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
 
 ## Escala do Reddit
 
