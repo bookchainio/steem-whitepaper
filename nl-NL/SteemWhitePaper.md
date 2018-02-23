@@ -114,7 +114,7 @@ Met een tijdvenster van drie en een halve dag hebben gemeenschapsleden ongeveer 
 
 Marktdeelnemers hebben sneller toegang tot informatie dan dat de blockchain's drie en een halve dag bewegende, gemiddelde conversie prijs kan weergeven. Deze informatie kan gebruikt worden in het voordeel van handelaren op kosten van de gemeenschap. Als er een plotselinge stijging plaatsvind in de waarde van Steem, zouden handelaren de omzetting van hun SBD in de oude, lagere prijs kunnen aanvragen en vervolgens de STEEM die ze ontvangen tegen de nieuwe, hogere prijs verkopen met minimaal risico.
 
-Steem creëert gelijke kansen door te eisen dat alle conversie verzoeken worden vertraagd met drie en een halve dag. Dit betekent dat noch de handelaren, noch de blockchain enig informatie voordeel heeft betreffende de prijs op het moment dat de conversie word uitgevoerd.
+Steem creëert gelijke kansen door te eisen dat alle conversie verzoeken worden vertraagd met drie en een halve dag. Dit betekent dat noch de handelaren, noch de blockchain enig informatie voordeel heeft betreffende de prijs op het moment dat de conversie wordt uitgevoerd.
 
 ### Misbruik Van Conversies Minimaliseren
 
@@ -138,7 +138,7 @@ STEEM en SP houders krijgen invloed wanneer gemeenschapsleden bereid zijn om SBD
 
 ### Prijs Feeds Instellen
 
-Oplettende lezers zullen erkennen dat een rentedragende bezit met beperkte oplage hoger of lager verhandeld kan worden dan de onderliggende waarde, afhankelijk van andere mogelijkheden om rente te verdienen over hetzelfde bezit. Met een hoge rentie die betaald wordt over een bezit gekoppeld aan de USD, zullen veel mensen het beperkte aantal Steem Dollars willen opbieden totdat ze niet langer gelijk staan aan $1. In de economie is er een principe bekend als de Onmogelijke Drievuldigheid[^4] welke stelt dat het onmogelijk is om de volgende drie dingen tegelijkertijd te hebben:
+Oplettende lezers zullen erkennen dat een rentedragende bezit met beperkte oplage hoger of lager verhandeld kan worden dan de onderliggende waarde, afhankelijk van andere mogelijkheden om rente te verdienen over hetzelfde bezit. Met een hoge rente die betaald wordt over een bezit gekoppeld aan de USD, zullen veel mensen het beperkte aantal Steem Dollars willen opbieden totdat ze niet langer gelijk staan aan $1. In de economie is er een principe bekend als de Onmogelijke Drievuldigheid[^4] welke stelt dat het onmogelijk is om de volgende drie dingen tegelijkertijd te hebben:
 
 1. Een stabiele wisselkoers
 2. Vrij kapitaalverkeer
