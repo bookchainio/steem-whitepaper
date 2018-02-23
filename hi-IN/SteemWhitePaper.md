@@ -156,7 +156,7 @@
 
 प्रभाव में, फ़ीड निर्माताओं को अमरीकी डालर के लिए एक स्थिर खूंटी को बनाए रखने के उद्देश्य के लिए मौद्रिक नीति की स्थापना की जिंमेदारी के साथ सौंपा जाता है। इस शक्ति का दूरुपयोग करने से स्टीम को नुक़सान पहुँचता है और स्टीम पोवर धारकों को उन गवाहों के लिए मतदान करना बुद्धिमानी हैं जो ऊपर उल्लिखित नियमों के अनुसार मूल्य फ़ीड और ब्याज दरों को सामायोजित करने वलूँ मई गिना जाता हैं।
 
-If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SBD.
+यदि ऋण-स्वामित्व अनुपात बहुत ज़्यादा बढ़ जाता है और बाज़ार सहभागियों इस रूपांतरण अनुरोध से बचना चाहते हैं तो फ़ीड मूल्य को इस तरह बदलना ज़रूरी है जिससे स्टीम डॉलर को ख़रीदने के लिए ज़्यादा स्टीम की आवश्यकता पड़े।
 
 Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SBD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions.
 
