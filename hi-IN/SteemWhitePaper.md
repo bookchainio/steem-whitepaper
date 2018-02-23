@@ -168,7 +168,7 @@
 
 प्रभाव में जिस बुनियाद पर काम को परखा जाता है अपने आप में सोर्स कोड से बाहर और व्यक्तिपरक रहता हैं। एक समुदाय कलाकारों को, कवि को और मजाहिया लोगन को इनाम दे सकती हैं। अन्य समुदाय को धर्मार्थ कारणों को ईनाम या आग्रिम राजनीतिक मामलों में इनाम कैलिये चुन सकते हैं।
 
-The value each currency achieves depends upon the demand for influence within a particular community and how large the market believes each community can get. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
+एक मुद्रा जो मूली हासिल करती है इसका प्रत्येक एक ख़ास समुदाय के अंदर इसकी माँग पर और इस बात पर होता है कि बाज़ार का किस्सी भी समुदाय पर यक़ीन हो कि वह क्या हासिल कर सकती है। Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
 
 ### Distributing Currency
 
