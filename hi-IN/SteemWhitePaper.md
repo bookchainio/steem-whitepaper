@@ -152,9 +152,9 @@
 
 यदि एस॰बी॰डी॰ एक अमेरिकी डॉलर से कम मूल्य पर बिकता हो और ऋण और स्वामित्व का अनुपात ज़्यादा हो तो फ़ीड्ज़ को ऊपर करने की अवशकता होती है ताकि एक स्टीम डॉलर पर ज़्यादा स्टीम मिल सके। इसे स्टीम डॉलर की माँग बढ़ेगी जबकि ऋण-स्वामित्व अनुपात को कम करेगा और स्टीम डॉलर को दोबारा अमेरिकी डॉलर से जोड़ देगा।
 
-Assuming the value of STEEM is growing faster than Steem is creating new SBD, the debt-to-ownership ratio should remain under the target ratio and the interest offered benefits everyone. If the value of the network is flat or falling, then any interest offered will only make the debt-to-ownership ratio worse.
+यह फ़र्ज़ करते हैं कि स्टीम का मूल्य इससे बड़ा है जितना नए स्टीम डॉलर बनाने में स्टीम ख़र्च होता है तो ऋण-स्वामित्व अनुपात लक्ष्य अनुपात के तहत रहना चाहिए और ब्याज सभीको को laabh देना चाहिए। यदि नेटवर्क के मूल्य सिथर या गिर रहा है तो इस्स सूरत में किसी भी ब्याज की पेशकश केवल ऋण-स्वामित्व अनुपात को बदतर करेगा।
 
-In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
+प्रभाव में, फ़ीड निर्माताओं को अमरीकी डालर के लिए एक स्थिर खूंटी को बनाए रखने के उद्देश्य के लिए मौद्रिक नीति की स्थापना की जिंमेदारी के साथ सौंपा जाता है। Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
 
 If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SBD.
 
