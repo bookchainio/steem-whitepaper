@@ -509,9 +509,9 @@ While a timestamping service can be built on almost any blockchain, and several 
 
 ## Replacing Advertising with Blockchain-based Content Rewards
 
-Under most content monetization models, content creators leverage advertising in one form or another. Many creators recognize how advertising may diminish their work’s value to the consumer, yet creators very often must seek returns on their time by monetizing. Advertising represents a double-edged sword: With ads, a creator can make money most easily. Without ads, monetization is difficult but the content is richer.
+Sob os modelos da maioria de monetização, criadores de conteúdo alavancam publicidade de uma forma ou de outra. Muitos criadores reconhecem como a publicidade pode diminuir o valor do seu trabalho para o consumidor, no entendo, os criadores devem procurar retornos do seu tempo por monetização. Publicidade representa uma espada com dois gumes: Com anúncios, um criador pode ganhar dinheiro mais facilmente. Sem anúncios, monetização é difícil, mas o conteúdo é mais rico.
 
-Creators posting to social media outlets that are connected to Steem may monetize merely by having their work recognized (or ”liked”) by the Steem community. Blockchain-based payouts are completely digital and have no middle-man. Therefore monetization by blockchain-based content rewards should be faster and much lower barrier to use than monetization by advertisements.
+Creators posting to social media outlets that are connected to Steem may monetize merely by having their work recognized (or ”liked”) by the Steem community. Pagamentos com base em Blockchain são completamente digitais e não têm nenhum intermediário. Por conseguinte, monetização de conteúdo baseado em blockchain de recompensas deve ser mais rápido e muito mais fácil de usar do que a monetização por anúncios.
 
 # Conclusão
 
