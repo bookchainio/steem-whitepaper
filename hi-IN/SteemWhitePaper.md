@@ -160,9 +160,9 @@
 
 ब्याज दर और स्टीम/स्टीम डॉलर के रूपांतरण के मूल्य में कमि या ज़्यादती में बाज़ार रूपांतरणो की लम्बी अवधि अवसत सुस्त होनी चहए बजाए कम अवधि वाले बाज़ार से।
 
-It is our belief that these rules will give market participants confidence that they are unlikely lose money by holding SBD purchased at a price of $1.00. We fully expect there to be a narrow trading range between $0.95 and $1.05 for SBD under normal market conditions.
+ये हमारा विश्वास है कि इन नियमों से बाज़ार सहभागियों को विश्वास हो जाएगा कि वो ऐक डॉलर की क़ीमत पर ख़रीदे स्टीम डॉलर को धारण करके पैसे नहीं खो देंगे। हम सामान्य बाज़ार की स्थिति में पूरी तरह से तंग व्यापार रेंज यानी ०. ९५$ और १. ०५$ के बीच मैं रखने की उमीद रखते हैं।
 
-## Subjective Contributions
+## व्यक्तिपरक योगदान
 
 Subjective Proof of Work presents an alternative approach to distributing a currency that improves upon fully *objective* Proof of Work systems such as mining. The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
 
