@@ -380,9 +380,9 @@ The Steem network is built upon Graphene, the same technology that powers BitSha
 
 ## Escala do Reddit
 
-Steem é capaz de lidar com uma maior base de usuários que o Reddit. Em 2015, no Reddit, 8.7 milhões de usuários geraram. em média, 23 comentários por segundo[^12], com uma média de 83 comentários por ano, por usuário. Havia 73 milhões publicações de nível top, para uma média de 2 novas publicações por segundo. There were about 7 billion up votes creating an average voting rate of 220 votes per second. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
+Steem é capaz de lidar com uma maior base de usuários que o Reddit. Em 2015, no Reddit, 8.7 milhões de usuários geraram. em média, 23 comentários por segundo[^12], com uma média de 83 comentários por ano, por usuário. Havia 73 milhões publicações de nível top, para uma média de 2 novas publicações por segundo. Havia aproximadamente 7 biliões de up-votes, criando uma média de votação de 220 por segundo. Disto isto, se o Reddit estivesse a operar em um blockchain iria requerer uma média de 250 transações por segundo.
 
-To achieve this industry-leading performance, Steem has borrowed lessons learned from the LMAX Exchange[^13], which is able to process 6 million transactions per second. Among these lessons are the following key points:
+Para atingir esta performance líder na indústria, Steem usou lições aprendidas pela LMAX Exchange[^13], que é capaz de processar 6 milhões de transações por segundo. Entre essas lições estão os seguintes pontos-chave:
 
 1. Keep everything in memory.
 2. Keep the core business logic in a single thread.
