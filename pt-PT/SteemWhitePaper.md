@@ -274,19 +274,19 @@ The solution adopted by most blockchains thus far is to charge a minimum transac
 
 O problema fundamental com a imposição de taxas é que os micro-pagamentos não funcionam, especialmente para usuários com valores baixos em ações. Quando uma taxa é imposta em cada transação, limita os tipos de transações que uma rede descentralizada pode processar. Independetemente do quão racional é o argumento para a necessidade de taxas, os usuários continuam a odiar serem espremidos por tudo o que fazem.
 
-Imagine se um website cobrasse-nos uma taxa cada vez que modificamos a nossa conta, ao mudar a senha. Os usuários supõem que certas coisas sejam grátis. Requiring users to make a decision on whether or not an action is worth a small fee creates anxiety that causes users to leave. A transaction can’t be worth so much as to require a decision but worth so little that that decision is automatic. There is a certain amount of anxiety involved in any decision to buy, no matter how small, and it derives not from the interface used or the time required, but from the very act of deciding.
+Imagine se um website cobrasse-nos uma taxa cada vez que modificamos a nossa conta, ao mudar a senha. Os usuários supõem que certas coisas sejam grátis. Ao exigir os usuários de tomar uma decisão em se uma ação é digna de uma pequena taxa ou não, cria uma ansiedade que causa os usuários a sair. A transaction can’t be worth so much as to require a decision but worth so little that that decision is automatic. There is a certain amount of anxiety involved in any decision to buy, no matter how small, and it derives not from the interface used or the time required, but from the very act of deciding.
 
-Micropayments, like all payments, require a comparison: *“Is this much of X worth that much of Y?”* There is a minimum mental transaction cost created by this fact that cannot be optimized away, because the only transaction a user will be willing to approve with no thought will be one that costs them nothing, which is no transaction at all.
+Micro-pagamentos, como todos os pagamentos, necessitam de uma comparação:*" Esta quantidade X vale esta quantidade de Y?"*. Existe um custo mínimo de transação mental criado porque este facto não pode ser otimizado para fora, porque a única transação que um usuário está disposto a aprovar sem nenhum pensamento vai ser aquela que não lhes custa nada, que é nenhuma transação de todo.
 
-– Clay Shirky[^8]
+- Clay Shriky[^8]
 
-In the world of financial payments, small fees are acceptable because the value of the transaction is extremely high relative to the fee charged, and the buyer has already made a decision to buy. The world of potential blockchain applications is far greater than just financial payments and includes many necessary transactions for which fees are simply unacceptable to users.
+No mundo de pagamentos financeiros, pequenas taxas são aceitáveis porque o valor da transação é extremamente elevado relativamente à taxa cobrada, e o comprador já fez a decisão de comprar. O mundo de potenciais aplicações de blockchain é muito maior do que apenas pagamentos financeiros, e inclui transações necessárias para as quais taxas são simplesmente inaceitáveis para os usuários.
 
 Systems like BitShares, Nxt, Ripple, Counter Party and Stellar all allow users to place limit orders on the blockchain and all of them charge users a small fee to perform this action. Later if the user wishes to cancel their order, another fee is charged. Systems like Ethereum take micropayments to a whole new level: charging per calculation. All of these systems struggle to attract new mainstream users for the same reasons that a decentralized search engine would struggle to attract users from Google if it charged a small fee for every search. It doesn’t matter how good the service is, people expect certain things to be free. This is true even if a user ends up paying more overall under a different fee structure.
 
 ### Fees are a Barrier to Entry
 
-Any fee creates a barrier to entry for new users. Before someone can experiment with Ethereum they must acquire some ETH tokens. Anyone wanting to build a decentralized application on Ethereum must pass on the cost to their customers. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
+Qualquer taxa cria uma barreira à entrada de novos usuários. Before someone can experiment with Ethereum they must acquire some ETH tokens. Anyone wanting to build a decentralized application on Ethereum must pass on the cost to their customers. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
 
 ### Changing Fees
 
