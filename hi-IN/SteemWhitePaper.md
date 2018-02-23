@@ -154,7 +154,7 @@
 
 यह फ़र्ज़ करते हैं कि स्टीम का मूल्य इससे बड़ा है जितना नए स्टीम डॉलर बनाने में स्टीम ख़र्च होता है तो ऋण-स्वामित्व अनुपात लक्ष्य अनुपात के तहत रहना चाहिए और ब्याज सभीको को laabh देना चाहिए। यदि नेटवर्क के मूल्य सिथर या गिर रहा है तो इस्स सूरत में किसी भी ब्याज की पेशकश केवल ऋण-स्वामित्व अनुपात को बदतर करेगा।
 
-प्रभाव में, फ़ीड निर्माताओं को अमरीकी डालर के लिए एक स्थिर खूंटी को बनाए रखने के उद्देश्य के लिए मौद्रिक नीति की स्थापना की जिंमेदारी के साथ सौंपा जाता है। Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
+प्रभाव में, फ़ीड निर्माताओं को अमरीकी डालर के लिए एक स्थिर खूंटी को बनाए रखने के उद्देश्य के लिए मौद्रिक नीति की स्थापना की जिंमेदारी के साथ सौंपा जाता है। इस शक्ति का दूरुपयोग करने से स्टीम को नुक़सान पहुँचता है और स्टीम पोवर धारकों को उन गवाहों के लिए मतदान करना बुद्धिमानी हैं जो ऊपर उल्लिखित नियमों के अनुसार मूल्य फ़ीड और ब्याज दरों को सामायोजित करने वलूँ मई गिना जाता हैं।
 
 If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SBD.
 
