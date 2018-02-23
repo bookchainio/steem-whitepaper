@@ -150,7 +150,7 @@
 
 यदि ऋण-स्वामित्व अनुपात कम है और स्टीम डॉलर एक डॉलर से कम मैं व्यापार करता है तो ब्याज दर में बदलाव की जानी चाहिए इससे अधिक लोगों को अपनी स्टीम डॉलर को होल्ड और क़ीमत का समर्थन करने के लिए प्रोत्साहन मिलेगा।
 
-If SBD trades for less than $1.00 USD and the debt-to-ownership ratio is high, then the feeds should be adjusted upward give more STEEM per SBD. This will increase demand for SBD while also reducing the debt-to-ownership ratio and returning SBD to parity with USD.
+यदि एस॰बी॰डी॰ एक अमेरिकी डॉलर से कम मूल्य पर बिकता हो और ऋण और स्वामित्व का अनुपात ज़्यादा हो तो फ़ीड्ज़ को ऊपर करने की अवशकता होती है ताकि एक स्टीम डॉलर पर ज़्यादा स्टीम मिल सके। इसे स्टीम डॉलर की माँग बढ़ेगी जबकि ऋण-स्वामित्व अनुपात को कम करेगा और स्टीम डॉलर को दोबारा अमेरिकी डॉलर से जोड़ देगा।
 
 Assuming the value of STEEM is growing faster than Steem is creating new SBD, the debt-to-ownership ratio should remain under the target ratio and the interest offered benefits everyone. If the value of the network is flat or falling, then any interest offered will only make the debt-to-ownership ratio worse.
 
