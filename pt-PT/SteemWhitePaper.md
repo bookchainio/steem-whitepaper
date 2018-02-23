@@ -178,9 +178,9 @@ Distribuir a moeda para uma maior número de pessoas possível numa maneira que 
 
 Para dar a todos uma oportunidade equitativa para se envolver e obter a moeda, têm de dar ás pessoas uma oportunidade para trabalhar. O desafio é de como julgar a qualidade relativa e a quantidade de trabalho que indivíduos fornecem e fazê-lo de uma maneira eficiente que dê recompensas a milhões de usuários. Isto requer a introdução de um processo de votação escalável. Em particular requer que a autoridade para alocar fundos deve ser o mais distribuída e descentralizada possível.
 
-The first step in rewarding millions of users is to commit to distributing a fixed amount of currency regardless of how much work is actually done or how users vote. This changes the question from being *“Should we pay?”* to *“Whom should we pay?”* and signals to the market that money is being distributed and is being auctioned off to whoever “bids” the most *work*. This is similar to Bitcoin committing to award 50 BTC to whoever finds the most difficult hashes. Like Bitcoin, all work must be done prior-to payout and nothing should be paid speculatively on the promise to do work in the future.
+O primeiro passo em recompensar milhões de usuários é comprometer-se à distribuição de uma quantia fixa de moeda, independentemente de quanto trabalho foi feito ou como os usuários votaram. Isto muda a questão de ser *"Deveríamos pagar?*para *"Quem devemos pagar"* e transmite ao mercado que o dinheiro está a ser distribuído e está a ser leiloado a quem quer que seja que pague mais *trabalho*. Isto é semelhante é Bitcoin cometer-se a premiar 50 BTC a quem encontrar as hashes mais difíceis. Como a Bitcoin, todo o trabalho deve ser feito antes do pagamento, e nada deve ser pago na especulação de que o trabalho será feito no futuro.
 
-The next step is to reward everyone who does anything even remotely positive with *something*. This is accomplished by ranking all work done and distributing proportionally to its value. The more competitive the market becomes, the more difficult (higher quality or quantity) it becomes to earn the same payout.
+O próximo passo é recompensar todos os que fazem alguma coisa positiva com *algo*. Isto é alcançado ao classificar todo o trabalho feito e distribuir proporcionalmente ao seu valor. Quanto mais competitivo o mercado fica, mais difícil fica( maior qualidade ou quantidade) de ganhar o mesmo pagamento.
 
 ### Voto na distribuição da moeda
 
@@ -196,7 +196,7 @@ Felizmente, qualquer trabalho que está a ter uma grande concentração de votos
 
 The use of *negative-voting* to keep people from abusing the system leverages the *crab mentality* that many people have when it is perceived that one individual is profiting at the expense of everyone else. While crab mentality normally refers to short-sighted people keeping good people down, it is also what allows good people to keep bad people down. The only “problem” with crab mentality is when people *wrongly believe* someone is profiting at everyone else's expense.
 
-**The Story of the Crab Bucket**[^6]
+**A história do balde de caranguejos**[^6]
 
 Um homem estava andar pela praia e viu outro homem a pescar ao lado dele com um balde com isca de pesca. À medida que se aproximava viu que o balde não tinha tampa e tinha caranguejos vivos dentro.
 
@@ -232,9 +232,9 @@ The impact of this voting and payout distribution is to offer large bounties for
 
 The economic effect of this is similar to a lottery where people overestimate their probability of getting votes and thus do more work than the expected value of their reward and thereby maximize the total amount of work performed in service of the community. The fact that everyone “wins something” plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
 
-### Payouts
+### Pagamentos
 
-When a post receives a payout it takes the form of 50% SBD and 50% SP. The Steem Power give the user increased voting and transaction power while the SBD gives the user an immediate benefit in a stable currency. As we’ve already discussed at length, SP is designed to encourage long-term holding rather than short-term selling. This encourages more users to have a vested interest in the long-term success of the platform.
+Quando uma publicação recebe um pagamento, este tem a forma de 50% SBD e 50% SP. The Steem Power give the user increased voting and transaction power while the SBD gives the user an immediate benefit in a stable currency. As we’ve already discussed at length, SP is designed to encourage long-term holding rather than short-term selling. This encourages more users to have a vested interest in the long-term success of the platform.
 
 Users also have the option to be paid in 100% SP, as well as decline payout on posts. When a user declines payout on a post, the money that would have been paid to them remains in the rewards pool, to be distributed to other users.
 
