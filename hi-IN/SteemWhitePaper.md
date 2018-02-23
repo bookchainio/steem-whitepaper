@@ -164,9 +164,9 @@
 
 ## व्यक्तिपरक योगदान
 
-व्यक्तिपरक काम का सबूत ऐक मुद्रा के वितरण के लिए ऐक विकल्प देता है जो *उद्देश्य* काम के सबूत कैलिये ऐक वैकल्पिक दृष्टिकोण प्रस्तुत करता है। मुद्रा के आवेदन को लागू करने के लिए *व्यक्तिपरक* काम का सुबूत *उद्देश्य* काम के सबूत से अधिक व्यापक है क्योंकि यह किसी भी समुदाय को पर्याप्त रूप से परिभाषित उद्देश्य से निर्माण करसकता हैं। When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
+व्यक्तिपरक काम का सबूत ऐक मुद्रा के वितरण के लिए ऐक विकल्प देता है जो *उद्देश्य* काम के सबूत कैलिये ऐक वैकल्पिक दृष्टिकोण प्रस्तुत करता है। मुद्रा के आवेदन को लागू करने के लिए *व्यक्तिपरक* काम का सुबूत *उद्देश्य* काम के सबूत से अधिक व्यापक है क्योंकि यह किसी भी समुदाय को पर्याप्त रूप से परिभाषित उद्देश्य से निर्माण करसकता हैं। जब बोहत व्यक्तिय एक समुदाय में शामिल होते हैं वे विश्वाससों की एक विशेष सेट ख़रीदने में शामिल होने और समुदाई के मूल्यों उद्देश्य को मज़बूत बनाने के लिए वोट कर सकते हैं।
 
-In effect, the criteria by which work is evaluated is completely subjective and its definition lives outside the source code itself. One community may wish to reward artists, another poets, and another comedians. Other communities may choose to reward charitable causes or help advance political agendas.
+प्रभाव में जिस बुनियाद पर काम को परखा जाता है अपने आप में सोर्स कोड से बाहर और व्यक्तिपरक रहता हैं। एक समुदाय कलाकारों को, कवि को और मजाहिया लोगन को इनाम दे सकती हैं। Other communities may choose to reward charitable causes or help advance political agendas.
 
 The value each currency achieves depends upon the demand for influence within a particular community and how large the market believes each community can get. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
 
