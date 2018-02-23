@@ -334,9 +334,9 @@ Any initial account balance would have to come from the user creating the accoun
 
 ### Justifying Minimum Balances
 
-The concept of forcing users to maintain a minimum balance flows naturally from the value of a user[^10]. Anyone running a business knows that every single user has significant value. Businesses spend anywhere from $30 to $200 to acquire a user. Sometimes they pay users directly, other times they pay for advertizing, and still other times entire companies are bought just for their user base. After a company acquires a user they often given them many *free services* just to keep them around long enough to monetize them through some other means.
+The concept of forcing users to maintain a minimum balance flows naturally from the value of a user[^10]. Qualquer pessoa a gerir um negócio sabe que cada usuário tem um valor significativo. Negócios gastam cerca de $30 a $200 para adquirir um usuário. Por vezes eles pagam aos usuários diretamente, outras vezes eles pagam em propaganda, e ainda outras vezes, empresas inteiras são compradas apenas pela sua base de usuários. Depois de uma empresa adquirir um usuário, frequentemente, elas dão-lhes muitos* serviços grátis* para mantê-los por perto durante o tempo necessário para rentabiliza-los através de outros meios.
 
-Ripple uses a minimum balance[^11] that scales with account resource use and requires that new accounts get funded with at least this minimum balance. Currently this minimum balance is about $0.15 which is greater than the $0.10 we estimated would allow someone to transact freely at least once per week.
+Ripple uses a minimum balance[^11] that scales with account resource use and requires that new accounts get funded with at least this minimum balance. Atualmente, este saldo mínimo é de cerca de $0.15 o qual é maior que $0.10 e que estimamos que permita a alguém para transaccionar livremente pelo menos uma vez por semana.
 
 A blockchain can enforce a minimum value per user through the simple process of requiring a minimum balance. Any business that wishes to bring a new customer to the blockchain can pre-fund that user’s account with the minimum balance that would allow them to transact. Requiring a relatively large fee ($1.00) to sign up new users will naturally force anyone offering free accounts to vet the quality and uniqueness of each account before registering them with the blockchain.
 
@@ -491,9 +491,9 @@ Outra maneira de as pessoas liquidarem as suas pequenas quantidades de cryptocur
 
 Steem is a decentralized network that is operated by witnesses in jurisdictions around the world. All user actions are publicly recorded on the blockchain, and can be publicly verified. This means that there is no single entity that can censor content that is valued by STEEM holders.
 
-Individual websites such as steemit.com may censor content on their particular site, but content published on the blockchain is inherently broadcast traffic and mirrors all around the world may continue to make it available.
+Websites individuais como o steemit.com podem censurar conteúdo no seu site particular, mas conteúdo publicado no blockchain é inerentemente transmitido e continua a estar disponível em todo o mundo.
 
-Freedom of speech is the foundation of all other liberties and any infringement upon freedom of speech undermines the only peaceful means of reaching consensus: discussion. Without free discussion voters cannot be fully informed, and uninformed voters are a greater threat to society than losing the right to vote. Censorship is a means of stealing votes through limiting public discourse. Steem is committed to enabling free speech and building a free society.
+Liberdade de expressão é a base de todas as outras liberdades e qualquer violação à liberdade de expressão compromete os únicos meios pacíficos de alcançar consenso: discussão. Sem discussão livre, os eleitores não podem ser totalmente informados e os eleitores desinformados são uma ameaça maior para a sociedade do que perder o direito de voto. A censura é uma meio de roubar votos, através da limitação do discurso público. Steem está empenhada em permitir a liberdade de expressão e a construção de uma sociedade livre.
 
 ## Solving Organic Discovery via Search Engine Optimization
 
