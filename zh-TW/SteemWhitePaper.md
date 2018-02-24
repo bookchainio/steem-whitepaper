@@ -10,17 +10,17 @@
 
 # 摘要 
 
-Steem 是一個通過提供加密貨幣獎勵支持社區建設和社會互動的區塊鏈資料庫。 Steem 將社交媒體的概念與建造加密貨幣及其社區的經驗相結合。 鼓勵參與任何人參與社區、貨幣或自由市場經濟的關鍵因素是提供一個始終反映每個人貢獻的公平計算體系。 Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
+Steem 是一個通過提供加密貨幣獎勵支持社區建設和社會互動的區塊鏈資料庫。 Steem 將社交媒體的概念與建造加密貨幣及其社區的經驗相結合。 鼓勵參與任何人參與社區、貨幣或自由市場經濟的關鍵因素是提供一個始終反映每個人貢獻的公平計算體系。 Steem 是第一個準確試圖和透明地獎勵為其社區做出*主觀貢獻*的無數個人的加密貨幣。
 
-# Table of Contents
+# 目錄
 
 <!-- toc -->
 
-# Introduction
+# 簡介
 
-Collectively, user-generated content has created billions of dollars worth of value for the shareholders of social media companies, such as Reddit, Facebook, and Twitter. **In 2014, Reddit hypothesized that its platform would be improved if everyone who contributed to reddit.com by posting stories, adding comments or voting were rewarded with a fair share in Reddit, Inc.[^1]**. Steem aims to support social media and online communities by returning much of its value to the people who provide valuable contributions by rewarding them with cryptocurrency, and through this process create a currency that is able to reach a broad market, including people who have yet to participate in any cryptocurrency economy.
+總體而言，用戶生成的內容為社交媒體公司的股東創造了價值數十億美元價值，例如 Reddit，Facebook和Twitter。 **在2014年，Reddit 假設：如果每一個以寫日誌，評論或點贊這種形式向 reddit.com 做出貢獻的個人獎勵一份 Reddit 公司的公平股份，那麼其平台將會得到改進。[^1]**. Steem 的目的是支持社會媒體和在線上社區通過返回許多價值的人提供有價值的貢獻，以回報他們的加密貨幣，並且通過這個過程創造一種貨幣，是能够達成一個廣泛的市場，包括那些沒有參加任何加密貨幣經濟人。 
 
-There are some key principles that have been used to guide the design of Steem. The most important principle is that everyone who contributes to a venture should receive pro-rata ownership, payment or debt from the venture. This principle is the same principle that is applied to all startups as they allocate shares at founding and during subsequent funding rounds.
+有一些關鍵原則, 已被用來指導設計的 Steem。 最重要的原則是 每一個人作出貢獻的企業應該得到分配的擁有權, 支付或債務的風險。 這一原則是適用于所有初創公司的原則, 因為它們在創建和隨後的融資回合中分配股份。
 
 The second principle is that all forms of capital are equally valuable. This means that those who contribute their scarce time and attention toward producing and curating content for others are just as valuable as those who contribute their scarce cash. This is the sweat equity principle[^2] and is a concept that prior cryptocurrencies have often had trouble providing to more than a few dozen individuals.
 
