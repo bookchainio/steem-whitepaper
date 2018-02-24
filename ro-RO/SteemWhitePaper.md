@@ -326,15 +326,15 @@ If we assume a user with $25 dollars worth of BTC transacts once per week and pa
 
 Sistemul de conturi al Steem-ului, cu solduri public cunoscute, simplicifă implementarea algortimului limitării lățimii benzii. Orice cont cu soldul mai mic decât minimul necesar pentru a efectua o tranzacție o dată pe săptămână, nu o să poată efectua tranzacții. Acest lucru implică faptul că toate conturile noi ar trebui finanțate cu măcar cel puțin soldul minim. Acest lucru implică faptul că utilizatorii care doresc să tranzacționeze sume mici, pot face asta, atâta timp cât dețin un sold mai mare și refolosesc contul.
 
-It is possible for a low-balance account created during a time of low usage to become inaccessible if the network usage picks up. The funds could be recovered at any time by temporarily delegating a larger balance to the account.
+It is possible for a low-balance account created during a time of low usage to become inaccessible if the network usage picks up. Prin delegarea temporară a unui sold mai mare contului, fondurile pot fi recuperate în orice moment.
 
-In order to maintain a reasonable user experience with a minimum number of hung accounts, all new accounts should start out with a balance 10 times the minimum required to transact weekly. This way even if demand increases by a factor of 10 the account will remain viable.
+In order to maintain a reasonable user experience with a minimum number of hung accounts, all new accounts should start out with a balance 10 times the minimum required to transact weekly. În acest fel, chiar dacă cererea crește de 10 ori, contul va rămâne viabil.
 
-Any initial account balance would have to come from the user creating the account and not from token creation due to the potential for sybil attacks.
+Orice sold inițial al contului, ar trebui să vină din creare contului de către utilizator și nu din crearea token-ilor datorită atacurilor sybil potențiale.
 
-### Justifying Minimum Balances
+### Justificarea Soldurilor Minime
 
-The concept of forcing users to maintain a minimum balance flows naturally from the value of a user[^10]. Anyone running a business knows that every single user has significant value. Businesses spend anywhere from $30 to $200 to acquire a user. Sometimes they pay users directly, other times they pay for advertizing, and still other times entire companies are bought just for their user base. After a company acquires a user they often given them many *free services* just to keep them around long enough to monetize them through some other means.
+Conceptul de forțare al utilizatorilor de a menține un sold minim, vine natural din valoarea utilizatorului[^10]. Anyone running a business knows that every single user has significant value. Businesses spend anywhere from $30 to $200 to acquire a user. Sometimes they pay users directly, other times they pay for advertizing, and still other times entire companies are bought just for their user base. After a company acquires a user they often given them many *free services* just to keep them around long enough to monetize them through some other means.
 
 Ripple uses a minimum balance[^11] that scales with account resource use and requires that new accounts get funded with at least this minimum balance. Currently this minimum balance is about $0.15 which is greater than the $0.10 we estimated would allow someone to transact freely at least once per week.
 
