@@ -324,7 +324,7 @@ If we assume a user with $25 dollars worth of BTC transacts once per week and pa
 
 ### Creare Cont
 
-Steem’s account-based system with publicly known balances simplifies the implementation of the bandwidth-based rate limiting algorithm. Any account with a balance below the minimum required to transact once per week would be unable to transact. This implies that all new accounts should be funded with at least this minimum balance. It also implies that users wishing to transact in smaller amounts can, so long as they hold a larger balance and reuse the account.
+Sistemul de conturi al Steem-ului, cu solduri public cunoscute, simplicifă implementarea algortimului limitării lățimii benzii. Orice cont cu soldul mai mic decât minimul necesar pentru a efectua o tranzacție o dată pe săptămână, nu o să poată efectua tranzacții. This implies that all new accounts should be funded with at least this minimum balance. It also implies that users wishing to transact in smaller amounts can, so long as they hold a larger balance and reuse the account.
 
 It is possible for a low-balance account created during a time of low usage to become inaccessible if the network usage picks up. The funds could be recovered at any time by temporarily delegating a larger balance to the account.
 
