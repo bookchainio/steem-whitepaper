@@ -166,7 +166,7 @@ It is our belief that these rules will give market participants confidence that 
 
 Prova de trabalho subjetiva apresenta uma abordagem alternativa para distribuir uma moeda que melhora sistemas de prova de trabalho totalmente *objetivas*, tal como a mineração. The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
 
-In effect, the criteria by which work is evaluated is completely subjective and its definition lives outside the source code itself. One community may wish to reward artists, another poets, and another comedians. Other communities may choose to reward charitable causes or help advance political agendas.
+In effect, the criteria by which work is evaluated is completely subjective and its definition lives outside the source code itself. Uma comunidade pode desejar recompensar artistas, outra comunidade pode desejar recompensar poetas e ainda outra comediantes. Other communities may choose to reward charitable causes or help advance political agendas.
 
 The value each currency achieves depends upon the demand for influence within a particular community and how large the market believes each community can get. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
 
