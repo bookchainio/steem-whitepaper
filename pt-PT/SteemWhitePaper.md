@@ -98,7 +98,7 @@ Steem dólares são referidos com o símbolo SBD, um acrónimo para Steem Blockc
 
 ### Minimizando Comissões Fraudulentas
 
-Os possuidores de SP elegem indivíduos, chamados testemunhas, para publicar indicadores de preço. As testemunhas selecionadas são presumivelmente confiáveis para aqueles que têm um interesse pessoal da qualidade do indicador. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
+Os possuidores de SP elegem indivíduos, chamados testemunhas, para publicar indicadores de preço. As testemunhas selecionadas são presumivelmente confiáveis para aqueles que têm um interesse pessoal da qualidade do indicador. Ao pagar aqueles que são eleitos, Steem cria um mercado competitivo para obter o direito de produzir indicadores. The more the feed producers are paid the more they have to lose by publishing false information.
 
 Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
 
@@ -124,7 +124,7 @@ O blockchain decide como e quando criar SBD e quem deve recebê-lo. Isto mantêm
 
 ### Sustainable Debt to Ownership Ratios
 
-If a token is viewed as ownership in the whole supply of tokens, then a token-convertible-dollar can be viewed as debt. If the debt to ownership ratio gets too high the entire currency can become unstable. Debt conversions can dramatically increase the token supply, which in turn is sold on the market suppressing the price. Subsequent conversions require the issuance of even more tokens. Left unchecked the system can collapse leaving worthless ownership backing a mountain of debt. The higher the debt to ownership ratio becomes the less willing new investors are to bring capital to the table.
+Se um "token" é considerado propriedade na provisão total de "tokens", então um token conversível a dólar pode ser visto como dívida. Se a divida de propriedade tem uma relação muito alta, a moeda inteira pode tornar-se instável. As conversões de dívida podem aumentar dramaticamente a provisão de "tokens", os quais por sua parte podem ser vendidos no mercado suprimindo o preço. Conversões posteriores requerem a emissão de ainda mais "tokens". Deixado sem comprovação, o sistema pode colapsar deixando uma montanha de dívidas apoiada por propriedade sem valor. Quanto maior for a relação entre dívida e propriedade, menos investidores novos estão dispostos a trazer nova capital à mesa.
 
 A rapid change in the value of STEEM can dramatically change the debt-to-ownership ratio. The blockchain prevents the debt-to-ownership ratio from getting too high, by reducing the amount of STEEM awarded through SBD conversions if the debt level were to exceed 10%. If the amount of SBD debt ever exceeds 10% of the total STEEM market cap, the blockchain will automatically reduce the amount of STEEM generated through conversions to a maximum of 10% of the market cap. This ensures that the blockchain will never have higher than a 10% debt-to-ownership ratio.
 
