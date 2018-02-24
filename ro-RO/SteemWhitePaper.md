@@ -334,7 +334,7 @@ Orice sold inițial al contului, ar trebui să vină din creare contului de căt
 
 ### Justificarea Soldurilor Minime
 
-Conceptul de forțare al utilizatorilor de a menține un sold minim, vine natural din valoarea utilizatorului[^10]. Anyone running a business knows that every single user has significant value. Businesses spend anywhere from $30 to $200 to acquire a user. Sometimes they pay users directly, other times they pay for advertizing, and still other times entire companies are bought just for their user base. After a company acquires a user they often given them many *free services* just to keep them around long enough to monetize them through some other means.
+Conceptul de forțare al utilizatorilor de a menține un sold minim, vine natural din valoarea utilizatorului[^10]. Oricine care are o afacere, știe că fiecare utilizator are o valoare semnificativă. Afacerile cheltuie între 30$ și 200$, pentru a atrage utilizatori. Câteodată, plătesc direct utilizatorii, alteori plătesc pentru publicitate și uneori plătesc întregi campanii pentru a atrage utilizatori. După ce o companie atrage un utilizator, acesta primește multe *servicii gratuite* doar pentru a fi reținut suficient timp pentru a le valorifica prin alte mijloace.
 
 Ripple uses a minimum balance[^11] that scales with account resource use and requires that new accounts get funded with at least this minimum balance. Currently this minimum balance is about $0.15 which is greater than the $0.10 we estimated would allow someone to transact freely at least once per week.
 
