@@ -320,17 +320,17 @@ Blockchain capacity isn’t necessarily capped. It is well within the technologi
 
 ### Comparação às taxas
 
-Se assumirmos que um usuário com 25$ em Bitcoin efetua uma transação por semana e paga uma taxa de 4 cêntimos cada vez que efetua a transação, esse usuário irá pagar mais de $2.00 em taxas por ano. Um usuário tem que ganhar uma taxa de retorno de 8% nos seus $25 dólares para ficar igual às taxas de pagamento. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
+Se assumirmos que um usuário com 25$ em Bitcoin efetua uma transação por semana e paga uma taxa de 4 cêntimos cada vez que efetua a transação, esse usuário irá pagar mais de $2.00 em taxas por ano. Um usuário tem que ganhar uma taxa de retorno de 8% nos seus $25 dólares para ficar igual às taxas de pagamento. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. Com apenas $175 poderiam transacionar todos os dias e economizar $14 por ano.
 
 ### Criação de Conta
 
-Steem’s account-based system with publicly known balances simplifies the implementation of the bandwidth-based rate limiting algorithm. Any account with a balance below the minimum required to transact once per week would be unable to transact. This implies that all new accounts should be funded with at least this minimum balance. It also implies that users wishing to transact in smaller amounts can, so long as they hold a larger balance and reuse the account.
+Steem’s account-based system with publicly known balances simplifies the implementation of the bandwidth-based rate limiting algorithm. Qualquer conta com um saldo abaixo do mínimo exigido para transacionar uma vez por semana seria incapaz de transacionar. Isto implica que todas as novas contas devem ser financiadas com pelo menos este saldo mínimo. Implica também que os usuários possam transacionar em quantidades menores, desde que detenham um saldo maior e reutilizem a conta.
 
 It is possible for a low-balance account created during a time of low usage to become inaccessible if the network usage picks up. The funds could be recovered at any time by temporarily delegating a larger balance to the account.
 
-In order to maintain a reasonable user experience with a minimum number of hung accounts, all new accounts should start out with a balance 10 times the minimum required to transact weekly. This way even if demand increases by a factor of 10 the account will remain viable.
+Para manter uma experiência de usuário razoável com um número mínimo de contas penduradas, todas as novas contas devem começar com um saldo 10 vezes o mínimo necessário para transacionar semanalmente. Desta maneira, mesmo que a demanda aumente por um fator de 10, a conta permanecerá viável.
 
-Any initial account balance would have to come from the user creating the account and not from token creation due to the potential for sybil attacks.
+Qualquer saldo inicial da conta tem de vir do usuário criar a conta e não da criação de token, devido ao potencial aos ataques sybil.
 
 ### Justificando Saldos Mínimos
 
