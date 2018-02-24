@@ -132,9 +132,9 @@ The percentage floors used to compute STEEM creation are based on the supply inc
 
 ### Interesses
 
-SBD retribui interesses aos possuidores. A taxa de juros é definida pelas mesmas pessoas que publicam o indicador de preço de forma que se possam adaptar às mudanças nas condições do mercado. All debt carries risk to the lender. Someone who holds SBD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SBD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
+SBD retribui interesses aos possuidores. A taxa de juros é definida pelas mesmas pessoas que publicam o indicador de preço de forma que se possam adaptar às mudanças nas condições do mercado. Toda a dívida traz risco para o credor. Quem possuí SBD sem redimi-lo está efetivamente a emprestar à comunidade o valor de um dólar. Eles estão confiantes que em algum momento no futuro alguém estará disposto a comprá-los o SBD por um dólar ou que haverá especuladores e investidores dispostos a comprar STEEM que eles convertem em.
 
-STEEM and SP holders gain leverage when members of the community are willing to hold SBD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
+Os possuidores de STEEM e SP ganham vantagem quando os membros da Comunidade estão dispostos a manter SBD. Esta alavanca amplifica os ganhos do crescimento, também contribuindo para o crescimento. Quem possui STEEM sofre um enfraquecimento, se o preço baixa. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
 
 ### Setting Price Feeds
 
