@@ -134,9 +134,9 @@ The percentage floors used to compute STEEM creation are based on the supply inc
 
 SBD retribui interesses aos possuidores. A taxa de juros é definida pelas mesmas pessoas que publicam o indicador de preço de forma que se possam adaptar às mudanças nas condições do mercado. Toda a dívida traz risco para o credor. Quem possuí SBD sem redimi-lo está efetivamente a emprestar à comunidade o valor de um dólar. Eles estão confiantes que em algum momento no futuro alguém estará disposto a comprá-los o SBD por um dólar ou que haverá especuladores e investidores dispostos a comprar STEEM que eles convertem em.
 
-Os possuidores de STEEM e SP ganham vantagem quando os membros da Comunidade estão dispostos a manter SBD. Esta alavanca amplifica os ganhos do crescimento, também contribuindo para o crescimento. Quem possui STEEM sofre um enfraquecimento, se o preço baixa. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
+Os possuidores de STEEM e SP ganham vantagem quando os membros da Comunidade estão dispostos a manter SBD. Esta alavanca amplifica os ganhos do crescimento, também contribuindo para o crescimento. Quem possui STEEM sofre um enfraquecimento, se o preço baixa. O projetos de cryptocurrency têm mostrado que as ganâncias de aumentar a base de usuários dispostos a confiar na network com capital, acabam por somar mais valor à network do que qualquer diluição que pode ocorrer durante uma baixa.
 
-### Setting Price Feeds
+### Definindo fontes de preço
 
 Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
 
@@ -186,7 +186,7 @@ O próximo passo é recompensar todos os que fazem alguma coisa positiva com *al
 
 Assuma que há uma quantia fixa de dinheiro para distribuir, e aqueles que têm um interesse a longo prazo no futuro valor e utilidade da moeda, são estes que devem decidir como alocá-la. Cada usuário de aquisição projeta seus votos em quem fez o melhor trabalho e no final do dia o dinheiro disponível para esse dia é dividido proporcional aos votos tal que todos, até os que só têm um voto positivo líquido obtém algo.
 
-The naive voting process creates a N-Person Prisoner’s Dilemma[^5] whereby each individual voter has incentive to vote for themselves at the expense of the larger community goal. Se cada eleitor vota em si mesmo então nenhuma moeda vai acabar sendo distribuída e a moeda como um todo vai falhar em obter efeito na rede. Por outro lado, se só um eleitor votar deficientemente então esse eleitor teria lucros não merecidos isso tendo efeitos mínimos sobre o valor global da moeda.
+O processo de votação ingénuo cria um "N-Person Prisoner's Dilemma[^5] pelo qual cada votante tem um incentivo de votar por si mesmo às custas de um objetivo de uma grande comunidade. Se cada eleitor vota em si mesmo então nenhuma moeda vai acabar sendo distribuída e a moeda como um todo vai falhar em obter efeito na rede. Por outro lado, se só um eleitor votar deficientemente então esse eleitor teria lucros não merecidos isso tendo efeitos mínimos sobre o valor global da moeda.
 
 #### Abuso de voto
 
@@ -206,7 +206,7 @@ Um homem estava andar pela praia e viu outro homem a pescar ao lado dele com um 
 
 O mesmo se passa com as pessoas. Se alguém tenta fazer algo diferente, ter melhores notas, melhorar como pessoa, escapar do seu ambiente, ou sonhar grandes sonhos, outras pessoas vão tentar arrastá-la para baixo para partilharem o mesmo destino.
 
-Eliminar "abuso" não é possível e não deveria ser o objetivo. Mesmo aqueles que tentam "abusar" o sistema, ainda estão a trabalhar. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. O necessário é assegurar que o abuso não seja tão excessivo que afete o incentivo para fazer trabalho de verdade em suporte da comunidade e da sua moeda.
+Eliminar "abuso" não é possível e não deveria ser o objetivo. Mesmo aqueles que tentam "abusar" o sistema, ainda estão a trabalhar. Qualquer compensação que eles têm pelas suas tentativas bem sucedidas de abuso ou colusão é pelo menos valioso para o propósito de distribuição da moeda como no sistema de trabalho empregado pela mineração tradicional de "Bitcoin" ou pela mineração confabulada através de "pools" de mineração. O necessário é assegurar que o abuso não seja tão excessivo que afete o incentivo para fazer trabalho de verdade em suporte da comunidade e da sua moeda.
 
 O objetivo de construir uma moeda comunitária é para ter mais "caranguejos no balde". Medidas extremas para eliminar todo o abuso é como tentar meter a tampa no balde para evitar a fuga de alguns caranguejos e depois fica mais difícil meter novos caranguejos no balde. É suficiente para tornar as paredes escorregadias e dar aos outros caranguejos força suficiente para prevenir outros de escaparem.
 
