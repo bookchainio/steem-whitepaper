@@ -288,15 +288,15 @@ Systems like BitShares, Nxt, Ripple, Counter Party and Stellar all allow users t
 
 Qualquer taxa cria uma barreira à entrada de novos usuários. Antes de alguém experimentar ter Ethereum, deve adquirir alguns ETH tokens. Alguém que queria construir uma aplicação descentralizada em Ethereum deve passar o custo aos seus clientes. Comprar uma cryptocurrency não é uma tarefa fácil e raramente faz sentido em quantidades menores que $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
 
-### Changing Fees
+### Alterações nas Taxas
 
-Over time a network must adjust fees. This can happen either due to an increase in the value of the token or due to a surge in capacity. Users like predictable fees and guaranteed service. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
+Depois de um tempo, uma network deve ajustar as taxas. This can happen either due to an increase in the value of the token or due to a surge in capacity. Users like predictable fees and guaranteed service. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
 
 ### Sybil Attacks
 
-Centralized websites prevent spam through rate limiting and some form of ID verification. Even something as simple as reCAPTCHA[^9] is sufficient to limit the creation of fake accounts. If someone abuses their account then centralized websites are free to block the account.
+Websites centralizados previnem spam através de taxas de limitação e algumas formas de verificação de ID. Algo tão simples como o reCAPTACH[^9] é suficiente para limitar a criação de contas falsas. Se alguém abusa da sua conta então os websites centralizados estão livres para bloquear essa conta.
 
-In a decentralized system there is no direct way to ban users nor centralized provider able to host a reCAPTCHA and enforce rate limiting of accounts. In fact, the inability to censor users is one of the main selling points of blockchain technology.
+Num sistema descentralizado, não existe nenhuma forma diretamente de banir os usuários nem de usar o reCAPTCHA e forçar a taxa de limitação de contas. De facto, a inabilidade de censurar usuários é um dos principais pontos de venda da tecnologia blockchain.
 
 ### Full Reserve vs Fractional Reserve
 
@@ -310,7 +310,7 @@ Under a fractional reserve system the individual users could utilize more bandwi
 
 The solution to the problems with micropayments is in implementing *dynamic fractional reserves*. Under this model the blockchain will automatically adjust the reserve ratio for the network during times of congestion. The blockchain will set a target utilization that leaves enough headroom for short term surges in demand. Any time the surges are sustained the blockchain reduces the maximum bandwidth-per-share. When a surge is over and there is surplus capacity the blockchain can slowly increase the bandwidth-per-share.
 
-Bandwidth used by an individual user should be measured over a suitably long period of time to allow that user to time-shift their usage. Users tend to login, do many things at once, then logout. This means that their bandwidth over a short period of time may appear much higher than if viewed over a longer period of time. If the time window is stretched too far then the reserve ratio will not adjust fast enough to respond to short-term surges, if the window is too short then clustering usage will have too big of an impact on normal users.
+Bandwidth used by an individual user should be measured over a suitably long period of time to allow that user to time-shift their usage. Usuários tendem a entrar no site, fazer várias coisas ao mesmo tempo, e depois desconectam-se. This means that their bandwidth over a short period of time may appear much higher than if viewed over a longer period of time. If the time window is stretched too far then the reserve ratio will not adjust fast enough to respond to short-term surges, if the window is too short then clustering usage will have too big of an impact on normal users.
 
 In our estimate it should be sufficient to measure the average weekly bandwidth usage of users. Every time a user signs a transaction, that transaction is factored into their own individual moving average. Any time a user’s moving average exceeds the current network limit their transaction is delayed until their average falls below the limit.
 
