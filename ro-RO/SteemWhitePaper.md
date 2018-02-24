@@ -338,7 +338,7 @@ Conceptul de forțare al utilizatorilor de a menține un sold minim, vine natura
 
 Ripple folosește un sold minim [^11] care scalează utilizarea resurelor contului și necesită faptul ca noile conturi să fie finanțate cu cel puțin soldul minim. În prezent, acest sold minim este de aproximativ $0.15, fiind mai mare decât suma pe care am estimat-o $0.10, pentru a tranzacționa liber, cel puțin o dată pe săptămână.
 
-A blockchain can enforce a minimum value per user through the simple process of requiring a minimum balance. Any business that wishes to bring a new customer to the blockchain can pre-fund that user’s account with the minimum balance that would allow them to transact. Requiring a relatively large fee ($1.00) to sign up new users will naturally force anyone offering free accounts to vet the quality and uniqueness of each account before registering them with the blockchain.
+A blockchain can enforce a minimum value per user through the simple process of requiring a minimum balance. Orice afacere care dorește să atragă noi clienți în blockchain, poate prefinanța contul utilizatorului cu soldul minim care permite tranzacționarea. Requiring a relatively large fee ($1.00) to sign up new users will naturally force anyone offering free accounts to vet the quality and uniqueness of each account before registering them with the blockchain.
 
 Maintaining a minimum balance is effectively the same as making users pay transaction fees with the interest they could have earned on their balance. The minimum balance is simply the balance required to earn enough interest to pay a fee in a relatively short period of time.
 
