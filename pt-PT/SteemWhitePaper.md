@@ -320,7 +320,7 @@ Blockchain capacity isn’t necessarily capped. It is well within the technologi
 
 ### Comparação às taxas
 
-If we assume a user with $25 dollars worth of BTC transacts once per week and pays a $0.04 cent fee each time then they would pay over $2.00 in fees per year. A user would have to earn a 8% rate of return on their $25 dollars just to break even with paying fees. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
+Se assumirmos que um usuário com 25$ em Bitcoin efetua uma transação por semana e paga uma taxa de 4 cêntimos cada vez que efetua a transação, esse usuário irá pagar mais de $2.00 em taxas por ano. Um usuário tem que ganhar uma taxa de retorno de 8% nos seus $25 dólares para ficar igual às taxas de pagamento. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
 
 ### Criação de Conta
 
@@ -368,7 +368,7 @@ Using this rationale we can assume that a system based on fees will either be mo
 
 We can conclude from this that a blockchain is best served by not using usage fees at all. If a usage fee were to be charged as an alternative to rate limiting, then it should be the equivalent of buying enough timeshares and committing to hold them long enough to gain the right use it once.
 
-Stated another way, a transaction fee should be equal to the minimum account balance necessary to transact once per week and it should be refunded at the end of the week. Assume the minimum account balance is $1 and allows someone to transact once per week. If someone with a $1 balance that wishes to perform 5 transactions at once they will have to increase their balance to $5 for a week either before or after their transactions.
+Dito de outra forma, uma taxa de transação deve ser igual ao saldo mínimo de uma conta necessário para efetuar uma transação uma vez por semana, e deve ser refundado no final da semana. Assuma que o saldo mínimo de uma conta é de $1 e permite a alguém fazer uma transação uma vez por semana. Se alguém com 1$ de saldo deseja fazer 5 transações de uma vez, essa pessoa deve aumentar o seu saldo para 5$ uma semana antes ou depois das suas transações.
 
 In theory a market could form where users can borrow the stake required. In practice it is more efficient for users to simply buy and sell the timeshares necessary to meet their desired usage rate. In other words, the cost of negotiating micro-loans is greater than the cost of maintaining a balance suitable for your maximum weekly usage.
 
