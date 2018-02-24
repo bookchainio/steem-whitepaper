@@ -1,6 +1,6 @@
 # Steem
 
-## An incentivized, blockchain-based, public content platform.
+## 一個獎勵，blockchain 為主，公共內容平臺。 
 
 August 2017
 
