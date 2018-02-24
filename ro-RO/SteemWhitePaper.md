@@ -324,7 +324,7 @@ If we assume a user with $25 dollars worth of BTC transacts once per week and pa
 
 ### Creare Cont
 
-Sistemul de conturi al Steem-ului, cu solduri public cunoscute, simplicifă implementarea algortimului limitării lățimii benzii. Orice cont cu soldul mai mic decât minimul necesar pentru a efectua o tranzacție o dată pe săptămână, nu o să poată efectua tranzacții. This implies that all new accounts should be funded with at least this minimum balance. It also implies that users wishing to transact in smaller amounts can, so long as they hold a larger balance and reuse the account.
+Sistemul de conturi al Steem-ului, cu solduri public cunoscute, simplicifă implementarea algortimului limitării lățimii benzii. Orice cont cu soldul mai mic decât minimul necesar pentru a efectua o tranzacție o dată pe săptămână, nu o să poată efectua tranzacții. Acest lucru implică faptul că toate conturile noi ar trebui finanțate cu măcar cel puțin soldul minim. Acest lucru implică faptul că utilizatorii care doresc să tranzacționeze sume mici, pot face asta, atâta timp cât dețin un sold mai mare și refolosesc contul.
 
 It is possible for a low-balance account created during a time of low usage to become inaccessible if the network usage picks up. The funds could be recovered at any time by temporarily delegating a larger balance to the account.
 
