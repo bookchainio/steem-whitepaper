@@ -336,7 +336,7 @@ Orice sold inițial al contului, ar trebui să vină din creare contului de căt
 
 Conceptul de forțare al utilizatorilor de a menține un sold minim, vine natural din valoarea utilizatorului[^10]. Oricine care are o afacere, știe că fiecare utilizator are o valoare semnificativă. Afacerile cheltuie între 30$ și 200$, pentru a atrage utilizatori. Câteodată, plătesc direct utilizatorii, alteori plătesc pentru publicitate și uneori plătesc întregi campanii pentru a atrage utilizatori. După ce o companie atrage un utilizator, acesta primește multe *servicii gratuite* doar pentru a fi reținut suficient timp pentru a le valorifica prin alte mijloace.
 
-Ripple uses a minimum balance[^11] that scales with account resource use and requires that new accounts get funded with at least this minimum balance. Currently this minimum balance is about $0.15 which is greater than the $0.10 we estimated would allow someone to transact freely at least once per week.
+Ripple folosește un sold minim [^11] care scalează utilizarea resurelor contului și necesită faptul ca noile conturi să fie finanțate cu cel puțin soldul minim. Currently this minimum balance is about $0.15 which is greater than the $0.10 we estimated would allow someone to transact freely at least once per week.
 
 A blockchain can enforce a minimum value per user through the simple process of requiring a minimum balance. Any business that wishes to bring a new customer to the blockchain can pre-fund that user’s account with the minimum balance that would allow them to transact. Requiring a relatively large fee ($1.00) to sign up new users will naturally force anyone offering free accounts to vet the quality and uniqueness of each account before registering them with the blockchain.
 
