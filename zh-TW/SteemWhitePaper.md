@@ -1,16 +1,16 @@
 # Steem
 
-## 一個獎勵，blockchain 為主，公共內容平臺。 
+## 一個獎勵，區塊鏈 (blockchain) 為主，公共內容平臺。 
 
-August 2017
+2017年8月
 
-# Translator's notes
+# 翻譯筆記
 
-Placeholder for translator's notes.
+譯者備註的預留位置。
 
-# Abstract
+# 摘要 
 
-Steem is a blockchain database that supports community building and social interaction with cryptocurrency rewards. Steem combines concepts from social media with lessons learned from building cryptocurrencies and their communities. An important key to inspiring participation in any community, currency or free market economy is a fair accounting system that consistently reflects each person's contribution. Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
+Steem 是一個通過提供加密貨幣獎勵支持社區建設和社會互動的區塊鏈資料庫。 Steem 將社交媒體的概念與建造加密貨幣及其社區的經驗相結合。 鼓勵參與任何人參與社區、貨幣或自由市場經濟的關鍵因素是提供一個始終反映每個人貢獻的公平計算體系。 Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
 
 # Table of Contents
 
