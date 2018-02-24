@@ -96,9 +96,9 @@ Steem dólares são criados por um mecanismo semelhante às notas conversíveis,
 
 Steem dólares são referidos com o símbolo SBD, um acrónimo para Steem Blockchain dólares. Criar SBD requer uma combinação de um preço confiável de alimentação e regras para evitar abusos. Proporcionar um preço confiável feed envolve três fatores: minimizando o impacto de uma alimentação incorreta, maximizando o custo de produzir uma alimentação incorreta e minimizando a importância do sincronismo.
 
-### Minimizing Fraudulent Feeds
+### Minimizando Comissões Fraudulentas
 
-SP holders elect individuals, called witnesses, to publish price feeds. The elected witnesses are presumably trusted by those who have a vested interest in the quality of the feed. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
+Os possuidores de SP elegem indivíduos, chamados testemunhas, para publicar indicadores de preço. As testemunhas selecionadas são presumivelmente confiáveis para aqueles que têm um interesse pessoal da qualidade do indicador. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
 
 Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
 
