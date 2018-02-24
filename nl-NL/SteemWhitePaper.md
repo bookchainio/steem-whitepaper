@@ -180,9 +180,9 @@ Om iedereen gelijke kansen te geven om mee te doen en de munt te verdienen, moet
 
 De eerste stap in het belonen van miljoenen gebruikers is de distributie van een vast bedrag van valuta verzorgen ongeacht hoeveel werk is gedaan of hoe gebruikers stemmen. Dit verandert de vraag van *"Zullen we betalen?"* in *"Wie zullen we betalen?"* en toont de markt dat geld wordt verdeeld en dat het wordt geveild aan wie er het meeste *werk* "biedt". Dit is te vergelijken met Bitcoin, dat garandeerd dat er een beloning van 50 BTC is voor de persoon die de moeilijkste hashes vindt. Zoals bij Bitcoin moet al het werk gedaan worden voor de uitbetaling en niets zou moeten worden uitbetaald op de belofte van toekomstig werk.
 
-De volgende stap is om iedereen die ook maar iets positiefs doet, met *iets* te belonen. Dit wordt bereikt door een ranglijst te maken van al het gemaakte werk en daar proportioneel naar te distribueren op basis van de waarde. The more competitive the market becomes, the more difficult (higher quality or quantity) it becomes to earn the same payout.
+De volgende stap is om iedereen die ook maar iets positiefs doet, met *iets* te belonen. Dit wordt bereikt door een ranglijst te maken van al het gemaakte werk en daar proportioneel naar te distribueren op basis van de waarde. Des te competitiever de markt wordt, des te moeilijker (hogere kwaliteit of meer kwantiteit) het wordt om dezelfde uitbetaling te krijgen.
 
-### Voting on Distribution of Currency
+### Stemming over de Muntverdeling
 
 Assume there is a fixed amount of money to distribute, and that those who have a long-term vested interest in the future value and utility of the currency are the ones who must decide how to allocate it. Every vesting user casts their votes on who did the best work and at the end of the day the available money for that day is divided proportional to the votes such that everyone with even one net positive vote gets something.
 
