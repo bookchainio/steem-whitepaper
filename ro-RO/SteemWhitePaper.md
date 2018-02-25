@@ -437,7 +437,7 @@ The price of a digital commodity, like STEEM, is driven by both supply and deman
 
 # Puterea Steem-ului
 
-Steem recognizes that the value of all user contributions (posts and votes) is greater than the sum of the parts. A single comment is worth next to nothing, but millions of curated posts is worth many millions (or possibly even billions) of dollars. A single vote provides little curation value, but billions of votes is very effective curation. Content without curation is of limited value. Given all the content of the Internet minus the links between it, Google would struggle to produce useful search results. It is the links between information that give it significant value.
+Steem recunoaște faptul că valoarea tuturor contribuțiilor utilizatorilor (postări și voturi) este mai mare decât suma părților. Un singur comentariu valorează aproape nimic, dar milioane de posturi votate, valorează foarte multe milioane (sau chiar miliarde) de dolari. A single vote provides little curation value, but billions of votes is very effective curation. Content without curation is of limited value. Given all the content of the Internet minus the links between it, Google would struggle to produce useful search results. It is the links between information that give it significant value.
 
 Because everyone benefits, everyone should pay. In other words, no individual user should be expected to pay for anything, but instead should be paid for everything they do that brings value to Steem. All we need to do is ascertain which user contributions bring a social network value and which ones don’t.
 
@@ -461,9 +461,9 @@ Under Steem, micropayments are paid to content producer, but those who vote for 
 
 Furthemore, Steem pays people to figure out who should be paid! This kind of thinking is revolutionary.
 
-## Value is in the Links
+## Valoare este în Link-uri
 
-The Internet would lose the vast majority of its value if all links among content were removed. It is the relationship among web pages that allows Google to identify the best apple pie recipe among the 16 million results. Without the links the only information Google would have is word frequency.
+Internetul și-ar pierde mult din valoare, dacă toate link-urile din conținut, ar fi înlăturate. Relația dintre paginile web, îi permite motorului de căutare Google să identifice dintre cele 16 milioane de rezultate, cea mai bună rețetă de plăcintă cu mere. Without the links the only information Google would have is word frequency.
 
 Links can take many forms and have adapted over time. Every time a user votes on content in a social network they add a connection between themselves and the content. This in turn links the consumer to the producer through the content. The more connections a network has the more valuable the information becomes. It is the relative and intentional connectedness of information that gives it value.
 
