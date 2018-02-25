@@ -380,7 +380,7 @@ Rețeaua Steem este construită pe Graphene, aceași tehnologie pe care este con
 
 ## Reddit Scale
 
-Steem este capabil să susțină și să manipuleze o bază de date mai mare decât Reddit. În 2015, 8.7 milioane de utilizatori Reddit au generat în medie, 23 de comentarii pe secundă[^12], cu o medie de 83 de comentarii pe an, per utilizator. Au fost 73 de milioane de postări de top, cu o medie de 2 postări noi, pe secundă. There were about 7 billion up votes creating an average voting rate of 220 votes per second. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
+Steem este capabil să susțină și să manipuleze o bază de date mai mare decât Reddit. În 2015, 8.7 milioane de utilizatori Reddit au generat în medie, 23 de comentarii pe secundă[^12], cu o medie de 83 de comentarii pe an, per utilizator. Au fost 73 de milioane de postări de top, cu o medie de 2 postări noi, pe secundă. Au fost, aproximativ, 7 miliarde de voturi pozitive, cu o rată de votare de 220 voturi, pe secundă. Astfel, dacă Reddit ar opera pe blockchain, ar avea nevoie, în medie, de 250 de tranzacții pe secundă.
 
 To achieve this industry-leading performance, Steem has borrowed lessons learned from the LMAX Exchange[^13], which is able to process 6 million transactions per second. Among these lessons are the following key points:
 
@@ -435,13 +435,13 @@ For the first 2 years of Bitcoin’s life the network sustained an annual inflat
 
 The price of a digital commodity, like STEEM, is driven by both supply and demand. When a long-term holder decides to exit, the supply of STEEM on the market will increase and push the price down. This downward pressure is countered when a new long-term holder decides to buy up the STEEM and convert it back into SP. Additional supply and demand may be be added due to market speculators buying and selling liquid STEEM based on their predictions of the future market price.
 
-# The Power of Steem
+# Puterea Steem-ului
 
 Steem recognizes that the value of all user contributions (posts and votes) is greater than the sum of the parts. A single comment is worth next to nothing, but millions of curated posts is worth many millions (or possibly even billions) of dollars. A single vote provides little curation value, but billions of votes is very effective curation. Content without curation is of limited value. Given all the content of the Internet minus the links between it, Google would struggle to produce useful search results. It is the links between information that give it significant value.
 
 Because everyone benefits, everyone should pay. In other words, no individual user should be expected to pay for anything, but instead should be paid for everything they do that brings value to Steem. All we need to do is ascertain which user contributions bring a social network value and which ones don’t.
 
-Collectively Reddit users vote 220 times per second and make 23 posts per second. Reddit is valued between $500 million[^18] and $4 billion[^19] which means that each and every upvote and post is worth between $0.06 and $0.50 assuming the value of Reddit is mostly within the past year’s worth of activity. One could argue that most of the value of Reddit is the near-real-time discussions that have occurred within the past week which would dramatically increase the value of new activity. People go where people are today, not where people were last year.
+În mod colectiv, utilizatorii Reddit, votează de 220 ori pe secundă, cu aproximativ 23 de postări pe secundă. Valoarea platformei Reddit este între 500$ milioane [^18] și 4$ miliarde [^19], astfel, dacă presupunem că valoarea platformei vine din activitatea din ultimul an, fiecare vot pozitiv și postare, valorează între 0.06$ și 0.50$. One could argue that most of the value of Reddit is the near-real-time discussions that have occurred within the past week which would dramatically increase the value of new activity. People go where people are today, not where people were last year.
 
 ## No Micropayments, Tips Optional
 
