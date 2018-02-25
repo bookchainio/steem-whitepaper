@@ -515,7 +515,7 @@ Creators posting to social media outlets that are connected to Steem may monetiz
 
 # Concluzii
 
-Steem is an experiment designed to address challenges in the cryptocurrency and social media industries by combining the best aspects from both. Steem presents earning opportunities to content creators and internet readers in ways that have not existed within the social media industry. Within Steem, individuals earn real rewards online that are directly correlated to their contributions. Those rewards may have dollar value due to the market price discovery and liquidity of Steem, and the people who hold Steem may have more exclusive earning powers than those who do not.
+Steem este un experiment conceput pentru a aborda provăcări din lumea cripro valutei și a rețelelor de socializare media, prin combinarea celor mai bune aspecte ale acestora. Steem oferă oportunități de câștig pentru cei care crează conținut și pentru utilizatorii internetului, în moduri în care nu au existat înainte, în industria rețelelor media de socializare. În cadrul platformei Steem, indivizii sunt direct recompensați online, în funție de contribuțiile lor. Those rewards may have dollar value due to the market price discovery and liquidity of Steem, and the people who hold Steem may have more exclusive earning powers than those who do not.
 
 [^1]: Reddit’s Cryptocurrency, Forbes, Erika Morphy, October 2014 http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/\#4e07b05332b9
 
