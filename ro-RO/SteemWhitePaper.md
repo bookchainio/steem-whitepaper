@@ -294,7 +294,7 @@ Over time a network must adjust fees. This can happen either due to an increase 
 
 ### Atacuri Sybil
 
-Website-urile centralizate previn spam-ul prin rata de limitare și o formă de verificare a ID-ului. Chiar și ceva atât de simplu precum reCAPTCHA[^9] este suficient să limiteze crearea conturilor false. If someone abuses their account then centralized websites are free to block the account.
+Website-urile centralizate previn spam-ul prin rata de limitare și o formă de verificare a ID-ului. Chiar și ceva atât de simplu precum reCAPTCHA[^9] este suficient să limiteze crearea conturilor false. Dacă cineva își abuzează contul, atunci website-urile centralizate sunt libere să li-l blocheze.
 
 In a decentralized system there is no direct way to ban users nor centralized provider able to host a reCAPTCHA and enforce rate limiting of accounts. In fact, the inability to censor users is one of the main selling points of blockchain technology.
 
