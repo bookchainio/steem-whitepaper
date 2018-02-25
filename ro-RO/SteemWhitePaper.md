@@ -292,9 +292,9 @@ Any fee creates a barrier to entry for new users. Before someone can experiment 
 
 Over time a network must adjust fees. This can happen either due to an increase in the value of the token or due to a surge in capacity. Users like predictable fees and guaranteed service. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
 
-### Sybil Attacks
+### Atacuri Sybil
 
-Centralized websites prevent spam through rate limiting and some form of ID verification. Even something as simple as reCAPTCHA[^9] is sufficient to limit the creation of fake accounts. If someone abuses their account then centralized websites are free to block the account.
+Website-urile centralizate previn spam-ul prin rata de limitare și o formă de verificare a ID-ului. Chiar și ceva atât de simplu precum reCAPTCHA[^9] este suficient să limiteze crearea conturilor false. If someone abuses their account then centralized websites are free to block the account.
 
 In a decentralized system there is no direct way to ban users nor centralized provider able to host a reCAPTCHA and enforce rate limiting of accounts. In fact, the inability to censor users is one of the main selling points of blockchain technology.
 
