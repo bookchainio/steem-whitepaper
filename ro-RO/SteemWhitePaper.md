@@ -376,7 +376,7 @@ Decentralized rate limiting of transactions can enable new types of decentralize
 
 # Performanța și Scalabilitatea
 
-Rețeaua Steem este construită pe Graphene, aceași tehnologie pe care este construit BitShares. Graphene has been publicly demonstrated sustaining over 1000 transactions per second on a distributed test network. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
+Rețeaua Steem este construită pe Graphene, aceași tehnologie pe care este construit BitShares. Graphene a fost demonstrat public că poate susține peste 1000 tranzacții pe secundă, pe o rețea test distribuită. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
 
 ## Reddit Scale
 
