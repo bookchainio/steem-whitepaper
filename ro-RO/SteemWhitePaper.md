@@ -467,7 +467,7 @@ Internetul și-ar pierde mult din valoare, dacă toate legăturile conținutului
 
 Legăturile pot avea multe forme, iar în timp, s-au adaptat. De fiecare dată când utilizator votează conținut într-o rețea de socializare, ei fac o conexiune între ei și conținutul respectiv. Astfel, prin intermediul conținutului, se face o legătură între consumator și producător. Cu cât o rețea are mai multe conexiuni, cu atât devine mai valoroasă informația. Conexiunea relativă și intenționată a informației, este ceea ce îi dă valoarea.
 
-O rețea de socializare își poate maximiza valoarea extrasă dintr-un conținut, prin maximizarea cantității și calității conexiunilor. Curating content is expensive and time consuming while being near impossible for computers to perform in the absence of links. Steem rewards users who are among the first to find and identify new content.
+O rețea de socializare își poate maximiza valoarea extrasă dintr-un conținut, prin maximizarea cantității și calității conexiunilor. Curating content is expensive and time consuming while being near impossible for computers to perform in the absence of links. Steem răsplătește utilizatorii care descoperă printre primii conținut nou.
 
 By incentivising curation the Steem network is able to use automated algorithms to extract the most valuable information from a massive amount of content.
 
@@ -487,9 +487,9 @@ Merchants will accept any currency if it increases their sales. Having a large u
 
 Another way that people can liquidate the small amounts of cryptocurrency they receive from participating on the Steem platform is through *tipping* others. This is like leaving the small change as a tip for your waiter. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
 
-## Censorship
+## Cenzura
 
-Steem is a decentralized network that is operated by witnesses in jurisdictions around the world. All user actions are publicly recorded on the blockchain, and can be publicly verified. This means that there is no single entity that can censor content that is valued by STEEM holders.
+Steem este o rețea descentralizată, care este operată de martori din toată lumea. Toate acțiunile utilizatorilor sunt înregistrate public pe blockchain, și tot pot fi verificate public. This means that there is no single entity that can censor content that is valued by STEEM holders.
 
 Individual websites such as steemit.com may censor content on their particular site, but content published on the blockchain is inherently broadcast traffic and mirrors all around the world may continue to make it available.
 
