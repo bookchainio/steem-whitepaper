@@ -344,7 +344,7 @@ Maintaining a minimum balance is effectively the same as making users pay transa
 
 Din fericire, soldul minim necesar poate începe de la un dolar, acest lucru fiind înțeles și apreciat de către utilizatori. The opportunity cost of lost interest doesn’t incur the cognitive cost of a micro-fee and is far more acceptable to users.
 
-STEEM-ul folosit pentru a pre-finanța un cont este Powered Up în contul nou (ex. convertit în Steem Power). A portion of the SP used to fund a new account may be delegated from the creator of the account. When a user is delegated SP, they may use the SP for voting and bandwidth purposes as if it were their own, but the ownership of the SP remains with the user who delegated it. A user may remove the delegation at any time. After a cool-down period, the SP is returned to their account.
+STEEM-ul folosit pentru a pre-finanța un cont este Powered Up în contul nou (ex. convertit în Steem Power). O parte din SP folosit să finanțeze contul nou, poate fi delegat de către persoana care a creat contul. Atunci când unui utilizator îi este delegată SP, acesta poate folosi lățimea benzii și SP pentru votare, ca și cum ar fi a lui, însă dreptul de proprietate rămâne a celui căruia i-a delegat SP. Un utilizator poate opri delegarea în orice moment. După o perioadă de așteptare, SP-ul este returnat contului lor.
 
 ### Effectiveness Relative to Fees
 
