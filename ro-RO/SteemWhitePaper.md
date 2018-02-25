@@ -489,11 +489,11 @@ Another way that people can liquidate the small amounts of cryptocurrency they r
 
 ## Cenzura
 
-Steem este o rețea descentralizată, care este operată de martori din toată lumea. Toate acțiunile utilizatorilor sunt înregistrate public pe blockchain, și tot pot fi verificate public. This means that there is no single entity that can censor content that is valued by STEEM holders.
+Steem este o rețea descentralizată, care este operată de martori din toată lumea. Toate acțiunile utilizatorilor sunt înregistrate public pe blockchain, și tot pot fi verificate public. Acest lucru însemnă că nu există nici o singură entitate care poate cenzura conținutul prețuit de către deținători de STEEM.
 
 Individual websites such as steemit.com may censor content on their particular site, but content published on the blockchain is inherently broadcast traffic and mirrors all around the world may continue to make it available.
 
-Freedom of speech is the foundation of all other liberties and any infringement upon freedom of speech undermines the only peaceful means of reaching consensus: discussion. Without free discussion voters cannot be fully informed, and uninformed voters are a greater threat to society than losing the right to vote. Censorship is a means of stealing votes through limiting public discourse. Steem is committed to enabling free speech and building a free society.
+Libertatea de exprimare este fundația tuturor libertățiilor și orice încălcare a libertății de exprimare, subminează singurele mijloace pașnice de a ajunge la un consens: discuția. Without free discussion voters cannot be fully informed, and uninformed voters are a greater threat to society than losing the right to vote. Censorship is a means of stealing votes through limiting public discourse. Steem is committed to enabling free speech and building a free society.
 
 ## Solving Organic Discovery via Search Engine Optimization
 
