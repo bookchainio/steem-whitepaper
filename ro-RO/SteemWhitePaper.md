@@ -376,11 +376,11 @@ Decentralized rate limiting of transactions can enable new types of decentralize
 
 # Performanța și Scalabilitatea
 
-Rețeaua Steem este construită pe Graphene, aceași tehnologie pe care este construit BitShares. Graphene a fost demonstrat public că poate susține peste 1000 tranzacții pe secundă, pe o rețea test distribuită. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
+Rețeaua Steem este construită pe Graphene, aceași tehnologie pe care este construit BitShares. Graphene a fost demonstrat public că poate susține peste 1000 tranzacții pe secundă, pe o rețea test distribuită. Graphene poate scala cu ușurință peste 10000 de tranzacții pe secundă, cu îmbunătățiri a capacității server-ului și protocoale de comunicare.
 
 ## Reddit Scale
 
-Steem is capable of handling a larger userbase than Reddit. In 2015 Reddit’s 8.7 million users generated an average of 23 comments per second[^12], with an average of 83 comments per year per user. There were 73 million top-level posts, for an average of 2 new posts per second. There were about 7 billion up votes creating an average voting rate of 220 votes per second. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
+Steem este capabil să susțină și să manipuleze o bază de date mai mare decât Reddit. În 2015, 8.7 milioane de utilizatori Reddit au generat în medie, 23 de comentarii pe secundă[^12], cu o medie de 83 de comentarii pe an, per utilizator. Au fost 73 de milioane de postări de top, cu o medie de 2 postări noi, pe secundă. There were about 7 billion up votes creating an average voting rate of 220 votes per second. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
 
 To achieve this industry-leading performance, Steem has borrowed lessons learned from the LMAX Exchange[^13], which is able to process 6 million transactions per second. Among these lessons are the following key points:
 
