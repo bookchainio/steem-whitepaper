@@ -461,13 +461,13 @@ Under Steem, micropayments are paid to content producer, but those who vote for 
 
 Furthemore, Steem pays people to figure out who should be paid! This kind of thinking is revolutionary.
 
-## Valoare este în Link-uri
+## Valoare este în Legături
 
-Internetul și-ar pierde mult din valoare, dacă toate link-urile din conținut, ar fi înlăturate. Relația dintre paginile web, îi permite motorului de căutare Google să identifice dintre cele 16 milioane de rezultate, cea mai bună rețetă de plăcintă cu mere. Without the links the only information Google would have is word frequency.
+Internetul și-ar pierde mult din valoare, dacă toate legăturile conținutului ar fi înlăturate. Relația dintre paginile web, îi permite motorului de căutare Google să identifice printre cele 16 milioane de rezultate, cea mai bună rețetă de plăcintă cu mere. Fără legături, singura informație pe care ar avea-o Google, ar fi fecvența cuvintelor.
 
-Links can take many forms and have adapted over time. Every time a user votes on content in a social network they add a connection between themselves and the content. This in turn links the consumer to the producer through the content. The more connections a network has the more valuable the information becomes. It is the relative and intentional connectedness of information that gives it value.
+Legăturile pot avea multe forme, iar în timp, s-au adaptat. De fiecare dată când utilizator votează conținut într-o rețea de socializare, ei fac o conexiune între ei și conținutul respectiv. Astfel, prin intermediul conținutului, se face o legătură între consumator și producător. Cu cât o rețea are mai multe conexiuni, cu atât devine mai valoroasă informația. Conexiunea relativă și intenționată a informației, este ceea ce îi dă valoarea.
 
-A social network can maximize the value extracted from a set of content by maximizing the quantity and quality of connections. Curating content is expensive and time consuming while being near impossible for computers to perform in the absence of links. Steem rewards users who are among the first to find and identify new content.
+O rețea de socializare își poate maximiza valoarea extrasă dintr-un conținut, prin maximizarea cantității și calității conexiunilor. Curating content is expensive and time consuming while being near impossible for computers to perform in the absence of links. Steem rewards users who are among the first to find and identify new content.
 
 By incentivising curation the Steem network is able to use automated algorithms to extract the most valuable information from a massive amount of content.
 
