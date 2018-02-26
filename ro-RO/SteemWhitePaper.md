@@ -350,13 +350,13 @@ STEEM-ul folosit pentru a pre-finanța un cont este Powered Up în contul nou (e
 
 Pentru a compara eficacitatea ratei de limitare cu comisioanele, trebuie să luăm în considerare cum reacționează sistemele la încărcarea intenționată a rețelei de către un atacator. În ceea ce privește Bitcoin, un atacator cu 10 000$ dolari ar putea perturba serviciile pentru o zi întragă, prin ocuparea unui block întreg. În condițiile unui stoc fracționar dinamic cu o abordare limitată a ratei, același atacator nu ar putea să perturbe serviciile pentru un singur block.
 
-Dacă ne gândim la cazuri extreme și presupunem că atacatorul deține 1% din toate monedele, atunci acesta ar avea peste 60$ milioane de dolari. Such an attacker could deny the Bitcoin blockchain service for 16 years unless the miners increased fees or capacity. Even if fees were raised to $15 per transaction, the attacker could still keep the network flooded for 16 days.
+Dacă ne gândim la cazuri extreme și presupunem că atacatorul deține 1% din toate monedele, atunci acesta ar avea peste 60$ milioane de dolari. Un astfel de atacator ar putea avea un impact negativ asupra blockchain-ul Bitcoin pentru 16 ani, dacă minerii nu ar crește comisioanele sau capacitatea. Chiar dacă comisioanele ar crește la 15$ pe tranzacție, atacatorul tot ar putea să țintă rețeaua încărcată pentru 16 zile.
 
-Under the rate limiting approach, someone who holds 1% of all coins with an intent to flood the network would achieve their goal for less than 30 seconds.
+Prin abordarea limitării ratei, cineva care deține 1% din toate mondele și care ar intenționa să inunde rețeaua, ar putea face acest lucru în mai puțin de 30 de secunde.
 
 ### Renting vs. Buying vs. Time Sharing
 
-When someone owns a house they expect the right to use the house for free. If a group of people buy a house together then each can expect the right to use the house proportional to their percentage ownership in the house. A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
+Atunci când cineva deține o casă, se așteaptă să aibe dreptul să folosească casa după bunul plac. If a group of people buy a house together then each can expect the right to use the house proportional to their percentage ownership in the house. A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
 
 If a house is owned by multiple people then those individuals must decide how they wish to timeshare the house. Someone who owns 50% of the house but only uses it one weekend per year might expect to be paid by the individuals who take their unused time. This is the mindset of a fee based system.
 
