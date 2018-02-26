@@ -316,11 +316,11 @@ După estimările noastre, ar fi suficientă măsurarea folosirii săptămânale
 
 ### Impactul Capacității
 
-Capacitatea blockchain-ului nu este neapărat limitată. Este bine în cadrul capacității tehnologice a infrastructurii internetului, să se mărească dimensiunea block-urilor Bitcoin la 10MB, car va reduce soldul minim necesar cu un factor de 10. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second.
+Capacitatea blockchain-ului nu este neapărat limitată. Este bine în cadrul capacității tehnologice a infrastructurii internetului, să se mărească dimensiunea block-urilor Bitcoin la 10MB, car va reduce soldul minim necesar cu un factor de 10. În timp ce Bitcoin poate efectua 3 tranzacții pe secundă, implementări alternative sunt capabile să facă peste 1000 de tranzacții pe secundă.
 
-### Comparison to Fees
+### Comparațiile între comisioane
 
-If we assume a user with $25 dollars worth of BTC transacts once per week and pays a $0.04 cent fee each time then they would pay over $2.00 in fees per year. A user would have to earn a 8% rate of return on their $25 dollars just to break even with paying fees. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
+Dacă presupunem că un utilizator cu Bitcoin în valoare de 25$, tranzacționează o dată pe săptămână și plătește un comision de 0.04$ de fiecare dată, el ar plăti peste 2$ numai pe comisioane, pe an. Utilizatorul ar trebui să câștige 8% din cei 25$ dolari, doar pentru a ajunge la 0 cu comisioanele. Se prea poate ca utilizatorii să își țintă banii pe blockchain, astfel utilizatorul cu BTC în valoare de 25$, ar putea salva 2$ pe parcursul unui an, prin adoptarea unui limitări a benzii și nu printr-o abordare bazată pe comisioane. With just $175 they could transact every single day and save $14 per year.
 
 ### Creare Cont
 
