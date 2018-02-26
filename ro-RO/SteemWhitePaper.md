@@ -350,7 +350,7 @@ STEEM-ul folosit pentru a pre-finanța un cont este Powered Up în contul nou (e
 
 Pentru a compara eficacitatea ratei de limitare cu comisioanele, trebuie să luăm în considerare cum reacționează sistemele la încărcarea intenționată a rețelei de către un atacator. În ceea ce privește Bitcoin, un atacator cu 10 000$ dolari ar putea perturba serviciile pentru o zi întragă, prin ocuparea unui block întreg. În condițiile unui stoc fracționar dinamic cu o abordare limitată a ratei, același atacator nu ar putea să perturbe serviciile pentru un singur block.
 
-If we go to a more extreme case and assume the attacker holds 1% of all coins then we presume an attacker with $60 million dollars. Such an attacker could deny the Bitcoin blockchain service for 16 years unless the miners increased fees or capacity. Even if fees were raised to $15 per transaction, the attacker could still keep the network flooded for 16 days.
+Dacă ne gândim la cazuri extreme și presupunem că atacatorul deține 1% din toate monedele, atunci acesta ar avea peste 60$ milioane de dolari. Such an attacker could deny the Bitcoin blockchain service for 16 years unless the miners increased fees or capacity. Even if fees were raised to $15 per transaction, the attacker could still keep the network flooded for 16 days.
 
 Under the rate limiting approach, someone who holds 1% of all coins with an intent to flood the network would achieve their goal for less than 30 seconds.
 
