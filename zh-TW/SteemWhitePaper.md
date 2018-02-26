@@ -40,11 +40,11 @@ Steem 對經濟激勵的有目的的調整, 有可能為所有參與的人帶來
 
 STEEM是一個徹底解決社交媒體經濟的應用與其貨幣化問題而設計的解決方案。 我們的論文是, 使用相同的技術來發展主要的社交媒體平臺可以用來引導一個成功的加密貨幣. 加密货币所啟用的經濟刺激措施可以極大地促進新的社會媒體平臺的發展。 加密货币 和社會媒體之間的協同作用, 我們相信可能給 Steem 一個強大的優勢在市場上。
 
-The challenge faced by Steem is deriving an algorithm for scoring individual contributions that most community members consider to be a fair assessment of the subjective value of each contribution. In a perfect world, community members would cooperate to rate each other's contribution and derive a fair compensation. In the real world, algorithms must be designed in such a manner that they are resistant to intentional manipulation for profit. Any widespread abuse of the scoring system could cause community members to lose faith in the perceived fairness of the economic system.
+Steem 面臨的挑戰是得出一個演算法, 用於評分個人貢獻, 大多數社區成員認為是公平評估每項貢獻的主觀價值。 在一個完美的世界裡，社區成員將相互合作，對其他成員的貢獻進行評分並獲得公平的補償。 在現實世界中, 演算法必須以這樣的方式設計, 這樣他們就能抗拒有意操縱利潤。 任何對評分制度的濫用都會導致社區成員對經濟體系的公平性失去信心。
 
-Existing platforms operate on a one-user, one-vote principle. This creates an environment where rankings can be manipulated by sybil attacks and the service providers must pro-actively identify and block abusers. People already attempt to manipulate the Reddit, Facebook, and Twitter scoring algorithms when the only reward is web traffic or censorship.
+現有平臺以單使用者、一票原則運行。 這就創造了一個環境, 在那裡排名可以由 Sybil 攻擊操縱, 服務提供者必須積極地識別和阻止虐待人。 已經有人試圖操縱Reddit，Facebook，和 Twitter 評分算灋時的回報是網站流量或審查。
 
-The fundamental unit of account on the Steem platform is STEEM, a crypto currency token. Steem operates on the basis of one-STEEM, one-vote. Under this model, individuals who have contributed the most to the platform, as measured by their account balance, have the most influence over how contributions are scored. Furthermore, Steem only allows members to vote with STEEM when it is committed to a vesting schedule. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
+Steem 平臺上的基本帳戶單位是 Steem, 一個加密貨幣權杖。 Steem 以一 Steem 一票的方式運作。 在這種模式下，對平臺貢獻最大的個人，以他們的帳戶餘額衡量，對捐款的得分影響最大。 Furthermore, Steem only allows members to vote with STEEM when it is committed to a vesting schedule. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
 
 Steem is designed around a relatively simple concept: *everyone’s meaningful contribution to the community should be recognized for the value it adds.* When people are recognized for their meaningful contributions, they continue contributing and the community grows. Any imbalance in the give and take within a community is unsustainable. Eventually the givers grow tired of supporting the takers and disengage from the community.
 
