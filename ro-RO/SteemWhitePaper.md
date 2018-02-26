@@ -290,7 +290,7 @@ Any fee creates a barrier to entry for new users. Before someone can experiment 
 
 ### Comisioane schimbătoare
 
-Over time a network must adjust fees. This can happen either due to an increase in the value of the token or due to a surge in capacity. Users like predictable fees and guaranteed service. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
+În timp, o rețea își poate ajusta comisioanele. Acest lucru se poate întâmpla fie din cauza creșterii valorii token-ului, fie din datorită creșterii capacității. Users like predictable fees and guaranteed service. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
 
 ### Atacuri Sybil
 
