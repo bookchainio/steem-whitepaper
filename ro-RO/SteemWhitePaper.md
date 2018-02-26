@@ -320,15 +320,15 @@ Capacitatea blockchain-ului nu este neapărat limitată. Este bine în cadrul ca
 
 ### Comparațiile între comisioane
 
-Dacă presupunem că un utilizator cu Bitcoin în valoare de 25$, tranzacționează o dată pe săptămână și plătește un comision de 0.04$ de fiecare dată, el ar plăti peste 2$ numai pe comisioane, pe an. Utilizatorul ar trebui să câștige 8% din cei 25$ dolari, doar pentru a ajunge la 0 cu comisioanele. Se prea poate ca utilizatorii să își țintă banii pe blockchain, astfel utilizatorul cu BTC în valoare de 25$, ar putea salva 2$ pe parcursul unui an, prin adoptarea unui limitări a benzii și nu printr-o abordare bazată pe comisioane. With just $175 they could transact every single day and save $14 per year.
+Dacă presupunem că un utilizator cu Bitcoin în valoare de 25$, tranzacționează o dată pe săptămână și plătește un comision de 0.04$ de fiecare dată, el ar plăti peste 2$ numai pe comisioane, pe an. Utilizatorul ar trebui să câștige 8% din cei 25$ dolari, doar pentru a ajunge la 0 cu comisioanele. Se prea poate ca utilizatorii să își țintă banii pe blockchain, astfel utilizatorul cu BTC în valoare de 25$, ar putea salva 2$ pe parcursul unui an, prin adoptarea unui limitări a benzii și nu printr-o abordare bazată pe comisioane. Cu 175$, ei ar putea să tranzacționeze în fiecare zi și să economisească 14$ pe an.
 
 ### Creare Cont
 
 Sistemul de conturi al Steem-ului, cu solduri public cunoscute, simplicifă implementarea algortimului limitării lățimii benzii. Orice cont cu soldul mai mic decât minimul necesar pentru a efectua o tranzacție o dată pe săptămână, nu o să poată efectua tranzacții. Acest lucru implică faptul că toate conturile noi ar trebui finanțate cu măcar cel puțin soldul minim. Acest lucru implică faptul că utilizatorii care doresc să tranzacționeze sume mici, pot face asta, atâta timp cât dețin un sold mai mare și refolosesc contul.
 
-It is possible for a low-balance account created during a time of low usage to become inaccessible if the network usage picks up. Prin delegarea temporară a unui sold mai mare contului, fondurile pot fi recuperate în orice moment.
+Este posibil pentru conturile cu solduri mici, create în perioade de utilizare scăzută, să devine inaccesibile în momentul în care crește folosirea rețelei. Prin delegarea temporară a unui sold mai mare contului, fondurile pot fi recuperate în orice moment.
 
-In order to maintain a reasonable user experience with a minimum number of hung accounts, all new accounts should start out with a balance 10 times the minimum required to transact weekly. În acest fel, chiar dacă cererea crește de 10 ori, contul va rămâne viabil.
+Pentru a menține o experiență rezonabilă pentru utilizator, toate conturile noi ar trebui să înceapă cu un sold de 10 ori mai mare decât minimul necesar pentru tranzacțiile săptămânale. În acest fel, chiar dacă cererea crește de 10 ori, contul va rămâne viabil.
 
 Orice sold inițial al contului, ar trebui să vină din creare contului de către utilizator și nu din crearea token-ilor datorită atacurilor sybil potențiale.
 
@@ -338,7 +338,7 @@ Conceptul de forțare al utilizatorilor de a menține un sold minim, vine natura
 
 Ripple folosește un sold minim [^11] care scalează utilizarea resurelor contului și necesită faptul ca noile conturi să fie finanțate cu cel puțin soldul minim. În prezent, acest sold minim este de aproximativ $0.15, fiind mai mare decât suma pe care am estimat-o $0.10, pentru a tranzacționa liber, cel puțin o dată pe săptămână.
 
-A blockchain can enforce a minimum value per user through the simple process of requiring a minimum balance. Orice afacere care dorește să atragă noi clienți în blockchain, poate prefinanța contul utilizatorului cu soldul minim care permite tranzacționarea. Requiring a relatively large fee ($1.00) to sign up new users will naturally force anyone offering free accounts to vet the quality and uniqueness of each account before registering them with the blockchain.
+Un blockchain poate aplica o valoare minimă per utilizator printr-un proces simplu care ar necesita un sold minim. Orice afacere care dorește să atragă noi clienți în blockchain, poate prefinanța contul utilizatorului cu soldul minim care permite tranzacționarea. Requiring a relatively large fee ($1.00) to sign up new users will naturally force anyone offering free accounts to vet the quality and uniqueness of each account before registering them with the blockchain.
 
 Maintaining a minimum balance is effectively the same as making users pay transaction fees with the interest they could have earned on their balance. The minimum balance is simply the balance required to earn enough interest to pay a fee in a relatively short period of time.
 
