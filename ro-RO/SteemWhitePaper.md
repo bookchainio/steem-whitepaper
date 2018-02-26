@@ -290,7 +290,7 @@ Any fee creates a barrier to entry for new users. Before someone can experiment 
 
 ### Comisioane schimbătoare
 
-În timp, o rețea își poate ajusta comisioanele. Acest lucru se poate întâmpla fie din cauza creșterii valorii token-ului, fie din datorită creșterii capacității. Users like predictable fees and guaranteed service. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
+În timp, o rețea își poate ajusta comisioanele. Acest lucru se poate întâmpla fie din cauza creșterii valorii token-ului, fie din datorită creșterii capacității. Utilizatorii apreciază comisioanele previzibile și serviciile garantate. Este posibilă ajustarea dinamică a comisioanelor în urma folosirii intense a platformei, însă utilizatorii nu vor fi mulțumiți.
 
 ### Atacuri Sybil
 
@@ -298,9 +298,9 @@ Website-urile centralizate previn spam-ul prin rata de limitare și o formă de 
 
 Într-un sistem descentralizat nu există o modalitatea directă de a interzice utilizatorii sau existența unui furnzior centralizat capabil de a găzdui reCAPTCHA și a limita rata de creare a conturilor. De fapt, incapacitatea de a cenzura utilizatorii este unul dintre punctele forte de tehnologiei blockchain.
 
-### Full Reserve vs Fractional Reserve
+### Rezerve Totale vs Rezerve Fracționare
 
-Let’s view a blockchain like an Internet Service Provider (ISP) co-op which owns all of the cables in the town and has a maximum amount of bandwidth that it can provide at any time. People living in the town can buy shares in the ISP and in exchange they are entitled to utilize a portion of the available bandwidth.
+Să privim blockchain-ul ca un furnizor de internet (ISP), care deține toate cablurile din oraș și are lățimea maximă de bandă, pe care o poate oferi constant. People living in the town can buy shares in the ISP and in exchange they are entitled to utilize a portion of the available bandwidth.
 
 The ISP has two choices, run a “full reserve” or “fractional reserve” system. Under a full reserve system each user is only allowed a fraction of the maximum bandwidth proportional to her shares. Deoarece nu toată lumea folosește internetul în același timp, rețeaua orașului ar fi semnificativ neutilizată.
 
