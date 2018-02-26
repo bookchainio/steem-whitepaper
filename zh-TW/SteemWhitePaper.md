@@ -38,7 +38,7 @@ Steem 對經濟激勵的有目的的調整, 有可能為所有參與的人帶來
 
 ## 確認貢獻
 
-STEEM是一個徹底解決社交媒體經濟的應用與其貨幣化問題而設計的解決方案。 我們的論文是, 使用相同的技術來發展主要的社交媒體平臺可以用來引導一個成功的加密貨幣. Economic incentives enabled by cryptocurrency can dramatically facilitate the growth of a new social media platform. It is the synergy between cryptocurrency and social media that we believe may give Steem a powerful advantage in the market.
+STEEM是一個徹底解決社交媒體經濟的應用與其貨幣化問題而設計的解決方案。 我們的論文是, 使用相同的技術來發展主要的社交媒體平臺可以用來引導一個成功的加密貨幣. 加密货币所啟用的經濟刺激措施可以極大地促進新的社會媒體平臺的發展。 加密货币 和社會媒體之間的協同作用, 我們相信可能給 Steem 一個強大的優勢在市場上。
 
 The challenge faced by Steem is deriving an algorithm for scoring individual contributions that most community members consider to be a fair assessment of the subjective value of each contribution. In a perfect world, community members would cooperate to rate each other's contribution and derive a fair compensation. In the real world, algorithms must be designed in such a manner that they are resistant to intentional manipulation for profit. Any widespread abuse of the scoring system could cause community members to lose faith in the perceived fairness of the economic system.
 
