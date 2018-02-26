@@ -338,17 +338,17 @@ Conceptul de forțare al utilizatorilor de a menține un sold minim, vine natura
 
 Ripple folosește un sold minim [^11] care scalează utilizarea resurelor contului și necesită faptul ca noile conturi să fie finanțate cu cel puțin soldul minim. În prezent, acest sold minim este de aproximativ $0.15, fiind mai mare decât suma pe care am estimat-o $0.10, pentru a tranzacționa liber, cel puțin o dată pe săptămână.
 
-Un blockchain poate aplica o valoare minimă per utilizator printr-un proces simplu care ar necesita un sold minim. Orice afacere care dorește să atragă noi clienți în blockchain, poate prefinanța contul utilizatorului cu soldul minim care permite tranzacționarea. Requiring a relatively large fee ($1.00) to sign up new users will naturally force anyone offering free accounts to vet the quality and uniqueness of each account before registering them with the blockchain.
+Un blockchain poate aplica o valoare minimă per utilizator printr-un proces simplu care ar necesita un sold minim. Orice afacere care dorește să atragă noi clienți în blockchain, poate prefinanța contul utilizatorului cu soldul minim care permite tranzacționarea. Cererea unui comision relativ mare (1$) noilor utilizatori, îi va forța pe cei care oferă conturi gratuite să verifice identitatea noilor utilizatori, înainte de a se înregistra pe blockchain.
 
-Maintaining a minimum balance is effectively the same as making users pay transaction fees with the interest they could have earned on their balance. The minimum balance is simply the balance required to earn enough interest to pay a fee in a relatively short period of time.
+Menținerea unui sold minim este efectiv la fel ca a face utilizatorii să plătească comisione pentru tranzacții cu dobânda pe care ar fi câștigat-o din soldul lor. Soldul minim este soldul necesar pentru a câștiga suficientă dobândă pentru a plătii un comision într-o perioadă relativ scurtă de timp.
 
-Din fericire, soldul minim necesar poate începe de la un dolar, acest lucru fiind înțeles și apreciat de către utilizatori. The opportunity cost of lost interest doesn’t incur the cognitive cost of a micro-fee and is far more acceptable to users.
+Din fericire, soldul minim necesar poate începe de la un dolar, acest lucru fiind înțeles și apreciat de către utilizatori. Costul de oportunitate al dobânzii pierdute nu suportă costul cognitiv al unei micro-comision și este mult mai acceptabil pentru utilizatori.
 
 STEEM-ul folosit pentru a pre-finanța un cont este Powered Up în contul nou (ex. convertit în Steem Power). O parte din SP folosit să finanțeze contul nou, poate fi delegat de către persoana care a creat contul. Atunci când unui utilizator îi este delegată SP, acesta poate folosi lățimea benzii și SP pentru votare, ca și cum ar fi a lui, însă dreptul de proprietate rămâne a celui căruia i-a delegat SP. Un utilizator poate opri delegarea în orice moment. După o perioadă de așteptare, SP-ul este returnat contului lor.
 
-### Effectiveness Relative to Fees
+### Eficacitatea Relativă a Comisioanelor
 
-To compare the effectiveness of rate limiting to fees we must consider how the two systems react to intentional network flooding by an attacker. Under Bitcoin an attacker with $10,000 dollars could disrupt service for an entire day by filling every single block. The same attacker would be unable to disrupt service for even a single block under the dynamic fractional reserve rate limiting approach.
+Pentru a compara eficacitatea ratei de limitare cu comisioanele, trebuie să luăm în considerare cum reacționează sistemele la încărcarea intenționată a rețelei de către un atacator. În ceea ce privește Bitcoin, un atacator cu 10 000$ dolari ar putea perturba serviciile pentru o zi întragă, prin ocuparea unui block întreg. În condițiile unui stoc fracționar dinamic cu o abordare limitată a ratei, același atacator nu ar putea să perturbe serviciile pentru un singur block.
 
 If we go to a more extreme case and assume the attacker holds 1% of all coins then we presume an attacker with $60 million dollars. Such an attacker could deny the Bitcoin blockchain service for 16 years unless the miners increased fees or capacity. Even if fees were raised to $15 per transaction, the attacker could still keep the network flooded for 16 days.
 
