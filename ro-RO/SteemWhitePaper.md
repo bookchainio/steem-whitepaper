@@ -356,7 +356,7 @@ Prin abordarea limitării ratei, cineva care deține 1% din toate mondele și ca
 
 ### Renting vs. Buying vs. Time Sharing
 
-Atunci când cineva deține o casă, se așteaptă să aibe dreptul să folosească casa după bunul plac. If a group of people buy a house together then each can expect the right to use the house proportional to their percentage ownership in the house. A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
+Atunci când cineva deține o casă, se așteaptă să aibe dreptul să folosească casa după bunul plac. Dacă un grup de oameni cumpără o casă împreună, atunci fiecare se așteaptă să o folosească proporțional cu procentul din casa care le aparține. A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
 
 If a house is owned by multiple people then those individuals must decide how they wish to timeshare the house. Someone who owns 50% of the house but only uses it one weekend per year might expect to be paid by the individuals who take their unused time. This is the mindset of a fee based system.
 
