@@ -26,19 +26,19 @@ Steem 是一個通過提供加密貨幣獎勵支持社區建設和社會互動�
 
 第三個原則是 社區生產產品來服務其成員。 這一原則以信用合作社、食品合作社和健康分享計畫為例，它們為社區成員服務, 而不是向社區以外的人銷售產品或服務。
 
-The Steem community provides the following services to its members:
+Steem 社區向其成員提供以下服務:
 
-1. A source of curated news and commentary.
-2. A means to get high quality answers to personalized questions.
-3. A stable cryptocurrency pegged to the U.S. dollar.
-4. Free payments.
-5. Jobs providing above services to other members.
+1. 一個優質新聞和時事評論的來源。
+2. 為個人化問題獲得高品質答案的一種方法。
+3. 一個與​​美元掛鉤的穩定加密貨幣
+4. 免費付款。
+5. 向其他成員提供上述服務的作業。
 
-Steem’s purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem’s incentives may result in better outcomes for most participants.
+Steem 對經濟激勵的有目的的調整, 有可能為所有參與的人帶來更公平和更具包容性的結果, 而不是社會媒體和 加密貨幣 平臺。 本文將探討現有的經濟激勵措施, 並說明蒸汽的激勵措施如何能為大多數參與者帶來更好的結果。
 
-## Recognizing Contribution
+## 確認貢獻
 
-Steem is designed from the ground up to address the major barriers to adoption and monetization of a social media based economy. Our thesis is that the same techniques used to grow major social media platforms can be used to bootstrap a successful cryptocurrency. Economic incentives enabled by cryptocurrency can dramatically facilitate the growth of a new social media platform. It is the synergy between cryptocurrency and social media that we believe may give Steem a powerful advantage in the market.
+STEEM是一個徹底解決社交媒體經濟的應用與其貨幣化問題而設計的解決方案。 我們的論文是, 使用相同的技術來發展主要的社交媒體平臺可以用來引導一個成功的加密貨幣. Economic incentives enabled by cryptocurrency can dramatically facilitate the growth of a new social media platform. It is the synergy between cryptocurrency and social media that we believe may give Steem a powerful advantage in the market.
 
 The challenge faced by Steem is deriving an algorithm for scoring individual contributions that most community members consider to be a fair assessment of the subjective value of each contribution. In a perfect world, community members would cooperate to rate each other's contribution and derive a fair compensation. In the real world, algorithms must be designed in such a manner that they are resistant to intentional manipulation for profit. Any widespread abuse of the scoring system could cause community members to lose faith in the perceived fairness of the economic system.
 
