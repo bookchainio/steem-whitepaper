@@ -312,11 +312,11 @@ Soluția la problemele cu microplățile este implementarea *stocului dinamic fr
 
 Lățimea de bandă folosită de un utilizator, ar trebui măsurată pe o perioadă corespunzătoare care îi permite utilizatorului să își schimbe timpul de utilizare. Utilizatorii tind să se autentifice, să face multe lucruri, și apoi să se deconecteze. Acest lucru duce la utilizarea intensă a lățimii benzii pe o perioadă scurtă, comparativ cu intensitatea scăzută a consumării benzii pe o perioadă mai îndelungată. Dacă fereastra de utilizare este folosită intens, nu este suficient timp pentru a se reface raportul stocului pentru a răspunde la creșterile de scurtă durată. Dacă fereastra este prea mică, atunci folosirea intensă, într-o perioadă scurtă, va avea un impact asupra utilizatorilor.
 
-După estimările noastre, ar fi suficientă măsurarea folosirii săptămânale medii, a lățimii de bandă a utilizatorilor. De fiecare dată când un utilizator face o tranzacție, acea tranzacție este distribuită în media lor individuală. Any time a user’s moving average exceeds the current network limit their transaction is delayed until their average falls below the limit.
+După estimările noastre, ar fi suficientă măsurarea folosirii săptămânale medii, a lățimii de bandă a utilizatorilor. De fiecare dată când un utilizator face o tranzacție, acea tranzacție este distribuită în media lor individuală. De fiecare dată când un utilizator depășește media, rețeaua îi limitează tranzacția și este întârziată până ce media lor ajunge din nou sub limită.
 
-### Impact of Capacity
+### Impactul Capacității
 
-Blockchain capacity isn’t necessarily capped. It is well within the technological capability of internet infrastructure to increase the Bitcoin block size to 10MB which in turn will reduce the minimum required balance by a factor of 10. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second.
+Capacitatea blockchain-ului nu este neapărat limitată. Este bine în cadrul capacității tehnologice a infrastructurii internetului, să se mărească dimensiunea block-urilor Bitcoin la 10MB, car va reduce soldul minim necesar cu un factor de 10. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second.
 
 ### Comparison to Fees
 
