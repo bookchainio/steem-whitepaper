@@ -304,9 +304,9 @@ Să privim blockchain-ul ca un furnizor de internet (ISP), care deține toate ca
 
 ISP are 2 opțiuni, să ruleze un sistem “stoc total” sau “stoc fracționar”. În cadrul unui sistem cu stoc total, fiecărui utilizator îi este permisă o fracțiune din lățimea maximă a benzii, proporțională cu acțiuniile. Deoarece nu toată lumea folosește internetul în același timp, rețeaua orașului ar fi semnificativ neutilizată.
 
-Under a fractional reserve system the individual users could utilize more bandwidth than they are entitled to at any given point in time so long as not everyone uses the Internet at the same time. The problem with operating a fractional reserve is that congestion occurs anytime too many people wish to use the network at the same time. The ISP needs a way to prioritize bandwidth during congested periods. In the most extreme case, a fully congested network must revert to a full reserve system. The challenge is setting the proper fractional reserve ratio.
+În cadrul unui sistem cu stoc fracționar, fiecare utilizator poate utiliza mai mult din lățimea benzii la care are dreptul, atât timp cât nu toată lumea folosește internetul în același timp. Problema unui stoc fracționar, apare atunci când multe persoane doresc să folosească rețeaua în același timp. ISP are nevoie de o modalitate de a prioritiza lățimea de bandă, în perioadele aglomerate. În cazuri extreme, o rețea complet saturată, trebuie să revină la un sistem cu stoc total. Provocarea este dată de setarea potrivită a unui raport pentru stocul fracționar.
 
-## Bandwidth Instead of Micropayment Channels
+## Lățime de bandă în loc de Microplăți
 
 The solution to the problems with micropayments is in implementing *dynamic fractional reserves*. Under this model the blockchain will automatically adjust the reserve ratio for the network during times of congestion. The blockchain will set a target utilization that leaves enough headroom for short term surges in demand. Any time the surges are sustained the blockchain reduces the maximum bandwidth-per-share. When a surge is over and there is surplus capacity the blockchain can slowly increase the bandwidth-per-share.
 
