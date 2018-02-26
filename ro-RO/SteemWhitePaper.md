@@ -298,11 +298,11 @@ Website-urile centralizate previn spam-ul prin rata de limitare și o formă de 
 
 Într-un sistem descentralizat nu există o modalitatea directă de a interzice utilizatorii sau existența unui furnzior centralizat capabil de a găzdui reCAPTCHA și a limita rata de creare a conturilor. De fapt, incapacitatea de a cenzura utilizatorii este unul dintre punctele forte de tehnologiei blockchain.
 
-### Rezerve Totale vs Rezerve Fracționare
+### Stoc Total vs Stoc Fracționar
 
 Să privim blockchain-ul ca un furnizor de internet (ISP), care deține toate cablurile din oraș și are lățimea maximă de bandă, pe care o poate oferi constant. Oamenii care locuiesc în oraș, pot cumpăra acțiuni în ISP, având în schimb, dreptul de a utiliza o parte din lățimea benzii disponibilă.
 
-The ISP has two choices, run a “full reserve” or “fractional reserve” system. Under a full reserve system each user is only allowed a fraction of the maximum bandwidth proportional to her shares. Deoarece nu toată lumea folosește internetul în același timp, rețeaua orașului ar fi semnificativ neutilizată.
+ISP are 2 opțiuni, să ruleze un sistem “stoc total” sau “stoc fracționar”. În cadrul unui sistem cu stoc total, fiecărui utilizator îi este permisă o fracțiune din lățimea maximă a benzii, proporțională cu acțiuniile. Deoarece nu toată lumea folosește internetul în același timp, rețeaua orașului ar fi semnificativ neutilizată.
 
 Under a fractional reserve system the individual users could utilize more bandwidth than they are entitled to at any given point in time so long as not everyone uses the Internet at the same time. The problem with operating a fractional reserve is that congestion occurs anytime too many people wish to use the network at the same time. The ISP needs a way to prioritize bandwidth during congested periods. In the most extreme case, a fully congested network must revert to a full reserve system. The challenge is setting the proper fractional reserve ratio.
 
