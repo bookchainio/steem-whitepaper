@@ -64,9 +64,9 @@ Steem 旨在通過改變經濟方程式來實現對各種貢獻的有效小額�
 
 ## 資本的貢獻
 
-社區可以提供兩項吸引資本的項目：債務和所有權。 Those who buy ownership profit when the community grows but lose if the community shrinks. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
+社區可以提供兩項吸引資本的項目：債務和所有權。 當社區萎縮時，當社區增長而失去時，購買所有權的人獲利。 購買債務的人獲得一定的利息，但不能參與社會增長所實現的任何利潤。 這兩種類型的資本捐助對社會的增長和貨幣的價值都是有價值的。 此外，還有兩種方法可以持有所有權：流動和股權。 股權是一個長期的承諾，不能在最短的時間內出售。
 
-The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SBD).
+Steem 網絡把這些不同的資產類別稱為 Steem（STEEM), Steem 能量（SP), 和Steem美元（SBD）
 
 ## Steem (STEEM)
 
