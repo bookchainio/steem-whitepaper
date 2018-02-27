@@ -54,9 +54,9 @@ Steem 是圍繞一個相對簡單的概念的設計: *每個人對社區的有�
 
 由於自由市場是一個經過驗證的系統，所以很容易嘗試建立一個自由市場體系，內容消費者直接向內容生產者付費。 然而，直接支付是低效的和不可行創建內容和管理。 大多數內容的價值與認知、財務和機會成本有關，而很少有讀者願意給小費。 自由選擇的豐富意味著實施 付費牆” 將帶動讀者的地方。 有過幾個讀者給作者的每篇文章小額支付嘗試，但沒有一個被普及。
 
-Steem 旨在通過改變經濟方程式來實現對各種貢獻的有效小額支付。 讀者不再需要決定是否要從自己的口袋中支付某人, 而是他們可以投票內容向上或向下, Steem 將使用他們的選票來決定個人獎勵。 This means that people are given a familiar and widely used interface and no longer face the cognitive, financial, and opportunity costs associated traditional micropayment and tipping platforms.
+Steem 旨在通過改變經濟方程式來實現對各種貢獻的有效小額支付。 讀者不再需要決定是否要從自己的口袋中支付某人, 而是他們可以投票內容向上或向下, Steem 將使用他們的選票來決定個人獎勵。 这意味着，人们被给予了一个熟悉的和广泛使用的接口，不再面对认知、金融及相关传统小额支付和倾斜平台的机会成本。
 
-Voting input from community members is critical for Steem to accurately allocate payments to contributors. Voting can therefore be viewed as a crucial contribution and worthy of rewards on its own. Some platforms, such as Slashdot, use meta-moderation[^3] as a way to rank and reward honest moderators. Steem chooses to reward those who contribute the most to the total promotion of a piece of content and rewards the voters proportional to the ultimate reward paid to the content creator.
+社区成员的投票对 Steem 准确地分配捐款是至关重要的。 因此, 投票可以看作是一項重要貢獻, 值得自己獎勵。 Some platforms, such as Slashdot, use meta-moderation[^3] as a way to rank and reward honest moderators. Steem chooses to reward those who contribute the most to the total promotion of a piece of content and rewards the voters proportional to the ultimate reward paid to the content creator.
 
 # Ways to Contribute
 
