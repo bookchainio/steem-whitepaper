@@ -254,11 +254,11 @@ No mundo das criptomoedas, refere-se normalmente ao registo público como *block
 
 No Steem, a produção de "blocks" é realizada em rondas. Em cada ronda selecionam-se 21 testemunhas para criar e assinar blocos de transações. Twenty (20) of these witnesses are selected by approval voting and one is timeshared by every witness that didn’t make it into the top 20 proportional to their total votes. The 21 active witnesses are shuffled every round to prevent any one witness from constantly ignoring blocks produced by the same witness placed before. Qualquer testemunha que salte um bloco e não tenha produzido nas últimas 24 horas, será desativada até que atualize a sua chave de assinatura do bloco.
 
-This process is designed to provide the best reliability while ensuring that everyone has the potential to participate in block production regardless of whether they are popular enough to get voted to the top. People have three options to overcome censorship by the top 20 elected witnesses: patiently wait in line with everyone else not in the top 20, or purchase more SP to improve voting power. Generally speaking, applying censorship is a good way for elected witnesses to lose their job and therefore, it is unlikely to be a real problem on the Steem network.
+O processo está feito para providenciar maior viabilidade enquanto se assegura que todos tenham potencial para participar na produção de blocos, independentemente de serem populares o suficiente para terem votação necessário para chegar ao topo. As pessoas têm três opções para superar a censura das 20 principais testemunhas elegidas: pacientemente esperar na fila com todos os demais que estão no top 20, ou comprar mais SP para melhorar o poder de voto. Geralmente falando, aplicar censura é uma boa forma de testemunhas elegidas perderem o seu trabalho e portanto, é improvável que seja um problema real na rede Steem.
 
-Because the active witnesses are known in advance, Steem is able to schedule witnesses to produce blocks every 3 seconds. Witnesses synchronize their block production via the NTP protocol. A variation of this algorithm has been in use by the BitShares network for over a year where it has been proven to be reliable.
+Dado que as testemunhas ativas são informadas em avanço, Steem pode acomodar as testemunhas para produzir blocos a cada 3 segundos. As testemunhas sincronizam a sua produção de blocos através do protocolo NTP. Uma variação deste algoritmo tem sido usado pela rede Bitshares durante mais de um ano, onde foi demonstrada ser viável.
 
-# Eliminating Transaction Fees
+# Eliminando Taxas de Transação
 
 Steem goes to great lengths to reward people for contributing to the network. It would be counterproductive to turn around and charge people every time they attempt to interact with the community.
 
