@@ -248,7 +248,7 @@ The primary consideration is determining what testimony is allowed to enter the 
 
 ## Consensus in Steem
 
-Conceptually, the consensus algorithm adopted by Steem is similar to the consensus algorithm adopted by companies throughout the world. People with a vested interest in the future value of Steem vote to select individuals responsible for including testimony in the public record. Voting is weighted proportional to each individual's vested interest.
+Conceptualmente, o algoritmo de consenso adotado por Steem é parecido ao algoritmo de consenso adotado por empresas de todo o mundo. People with a vested interest in the future value of Steem vote to select individuals responsible for including testimony in the public record. Voting is weighted proportional to each individual's vested interest.
 
 In the world of cryptocurrencies, the public record is commonly referred to as a *blockchain*. A *block* is a group of signed transactions.
 
