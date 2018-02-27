@@ -86,7 +86,7 @@ Steem 是賬戶在Steem區塊鏈的基礎單位. 所有其他代幣都從STEEM�
 
 SP持有人還得到歸屬SP餘額的利息。 5％的年通貨膨脹被用於支付利息給SP所有者。 它們所收到的利息的金額與它們相對於所有使用者的已歸屬 SP 的總金額所持的 SP 數量成正比。
 
-Transferring from STEEM to SP is referred to as “powering up”, while transferring from SP to STEEM is referred to as “powering down.” SP that is powered down is returned to the user over a period of thirteen weeks, via 13 equal weekly payments, starting one week after the power down is initiated.
+把STEEM轉移到SP被稱為“增加能量”，而從SP轉移到STEEM被稱為“降低能量”。能量降低的SP將在十三週的時間每週等量地被返還給用戶。返還從降低能量啟動的一周以後開始。
 
 ## Steem Dollars (SBD)
 
