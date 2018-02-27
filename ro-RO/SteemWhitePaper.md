@@ -449,9 +449,9 @@ Au existat tentative de a integra o cripto monedă într-o rețea media de socia
 
 Toate aceste abordări se reduc la microplăți. Diferă doar cel care face plata. Toate aceste servicii suferă de angajamentul insuficient al oamenilor care efectuează microplățile. In the search for incentivised content production entrepreneurs have been so focused on who should pay that they missed the obvious reality: everyone benefits from everyone’s actions so everyone should pay or no one should pay, depending on how you look at it.
 
-Steem bypasses micropayments completely because when a user upvotes a post it is the community that pays the bill. The same amount of money will be spent whether the user upvotes a post or not and the funds will not come from the voter.
+Steem ocolește microplățile deoacere atunci când un utilizator votează o postare, comunitatea este cea care plătește factura. Aceași sumă de bani o să fie cheltuită atunci când un utilizator votează sau nu o postare, și fondurile nu o să vină de la cel care votează.
 
-The mental energy associated with making an economic decision becomes a barrier to participation for most people.
+Energia mentală consumată asociată luării unei decizii economice, devine un impediment pentru majoritatea oamenilor.
 
 *We already face a multitude of choices everyday with regards to what to access online in this digital era of the information explosion, and every additional decision that we must make simply adds on to the uncertainty and anxiety we face. Micropayment supporters believe that a simplified implementation can minimize the intrusiveness of micropayments and improve user experience, but their argument only creates double standards for the decision making process \[2\]. A transaction cannot simultaneously be worth enough to warrant a decision and worth so little that the decision is automatic. **The only transactions that users can approve without thought are ones that cost them nothing**, thus any micro-transaction of positive value will incur mental costs through its requiring a decision. Furthermore, mental transaction costs actually rise below a certain threshold value, a phenomenon that places micropayments at an even greater disadvantage. For instance, it is easy to think that a copy of today's newspapers costs $1, but readers face much more difficulty and anxiety in deciding on the value of each article or word. Such a dilemma will only be replicated and exacerbated if all online content were to be broken down into their components and individually valued within a micropayment system.*
 
@@ -493,11 +493,11 @@ Steem este o rețea descentralizată, care este operată de martori din toată l
 
 Website-uri individuale, precum steemit.com pot cenzura conținutul în mod particular, dar conținutul publicat pe blockchain este, în mod inerent, difuzat și reflectat, pe site-urile care continuă să îl facă disponibil.
 
-Libertatea de exprimare este fundația tuturor libertățiilor și orice încălcare a libertății de exprimare, subminează singurele mijloace pașnice de a ajunge la un consens: discuția. Fără discuții libere, cei care voteză nu pot fi informați pe deplin, iar persoanele care votează și nu sunt informate, reprezintă un pericol mai mare pentru societate decât ar reprezenta dacă și-ar pierde drepturile de votare. Cenzura este o metoda de a fura voturi prin limitarea discursului public. Steem is committed to enabling free speech and building a free society.
+Libertatea de exprimare este fundația tuturor libertățiilor și orice încălcare a libertății de exprimare, subminează singurele mijloace pașnice de a ajunge la un consens: discuția. Fără discuții libere, cei care voteză nu pot fi informați pe deplin, iar persoanele care votează și nu sunt informate, reprezintă un pericol mai mare pentru societate decât ar reprezenta dacă și-ar pierde drepturile de votare. Cenzura este o metoda de a fura voturi prin limitarea discursului public. Steem dorește să permită libertatea de exprimare și construirea unei societăți libere.
 
-## Solving Organic Discovery via Search Engine Optimization
+## Rezolvarea Descoperirii Organice prin Optimizarea Motorului de Căutare
 
-Most cryptocurrencies generate little value for those who are not actively using the network. Steem, by contrast, generates content and encourages users to share it. This content gets indexed by search engines and ultimately will bring value to a large number of passive users. This search traffic creates organic advertising for the Steem network and grows the network effect.
+Majoritatea cripto mondelor generează o valoare scazuta pentru cei care nu folosesc activ rețeaua. Steem, by contrast, generates content and encourages users to share it. This content gets indexed by search engines and ultimately will bring value to a large number of passive users. This search traffic creates organic advertising for the Steem network and grows the network effect.
 
 ## Shifting Toward Blockchain-based Attribution
 
