@@ -260,15 +260,15 @@ Dado que as testemunhas ativas são informadas em avanço, Steem pode acomodar a
 
 # Eliminando Taxas de Transação
 
-Steem goes to great lengths to reward people for contributing to the network. It would be counterproductive to turn around and charge people every time they attempt to interact with the community.
+Steem vai mais além no que toca a recompensar pessoas que contribuem para a network. Seria contraprodutivo dar a volta e cobrar as pessoas cada vez que elas tentam interagir com a comunidade.
 
-Blockchain technology currently depends upon transaction fees to prevent spam. These fees suffer all of the known problems with microtransactions and prevent blockchains from being used for low-value transactions. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
+A tecnologia blockchain atualmente depende de taxas de transação para prevenir spam. Estas taxas sofrem de todos os problemas conhecidos com as micro-transações e previnem que os blockchains sejam usados para transações de baixo custo. As aplicações verdadeiramente descentralizadas devem oferecer aos usuários a aparência de transações gratuitas se desejam competir com as suas alternativas centralizadas. Este documento explica o método utilizado pelo Steem para eliminar a necessidade de taxas e, por sua vez, habilitar uma vasta gama de aplicações anteriormente não viáveis de maneira descentralizada.
 
 ## O Problema com as Taxas
 
-Blockchains are decentralized networks where all transactions are broadcast to all peers. Every so often a block is produced that includes some or all of the pending transactions. All blockchains must find a solution to prevent malicious users from consuming all of the available network capacity with worthless transactions. These worthless transactions can prevent other valuable transactions from being processed and ultimately destroy the network.
+Os blockchains são redes descentralizadas onde todas as transações são emitidas a todos os pares (*peers*). De vez em quando produz-se em bloco que inclui algumas ou todas as transações pendentes. Todos os blockchains devem encontrar uma solução para prevenir que usuários maliciosos consumam toda a capacidade disponível da network com transações sem valor ou inúteis. Estas transações sem valor evitem que transações valiosas e úteis sejam processadas e, ultimamente, destroem a network.
 
-The solution adopted by most blockchains thus far is to charge a minimum transaction fee. A fee worth just a few cents is enough to make attacking the network expensive and unprofitable. While this approach solves the spam problem, it introduces new problems. Imagine solving the email spam problem by introducing a small fee on every email; people wouldn’t use email.
+A solução adotada pela maioria dos blockchains, até agora, é de cobrar uma taxa mínima de transação. Uma taxa, com um custo de poucos cêntimos, é o suficiente para tornar que os ataques à network sejam dispendiosos e não lucrativos. Enquanto esta abordagem resolve o problema do spam, introduz novos problemas. Imagina resolver o problema do spam em e-mails introduzindo uma pequena taxa em cada correio enviado; as pessoas deixariam de usar correio eletrónico.
 
 ### Micro-pagamentos Não Funcionam
 
