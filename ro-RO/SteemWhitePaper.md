@@ -427,11 +427,11 @@ Starting with the network's 16th hard fork in December 2016, Steem began creatin
 
 ### Impactul Ratei de Creare a Token-ilor
 
-It is often said that a coin with an inflationary model is not sustainable, but we know from countless real-world examples that the quantity of money does not have a direct and immediate impact on its value, though it certainly plays a role.
+Se spune adesea că o monedă cu un model de inflație nu este sustenabilă. Însă, avem în lumea-reală nenumărate exemple unde cantitatea banilor nu are un impact direct și imediat asupra valorii, deși joacă un anumit rol.
 
-From August 2008 through January 2009 the U.S. money supply[^15] grew from $871B to $1,737B, a rate of over 100% per year and then continued to grow at about 20% per year for the next 6 years. All told the money supply in the U.S. has grown by 4.59x over less than 7 years. During that same time, the value of the dollar relative to goods and services has fallen less than 10% according to the government's price index[^16]. This real-world example demonstrates that supply is only one component of price.
+Din August 2008 până în Ianuarie 2009, stocul monetar american [^15] a crescut de la $871 miliarde la $1,737 miliarde, având o rată de 100% pe an și a continuat să crească cu aproximativ 20% pe an, în următorii 6 ani. Per total, stocul monetar din Statele Unite a crescut de 4.59 ori în mai puțin de 7 ani. În aceași perioadă, valoarea dolarului raportată la bunuri și servicii a scăzut cu 10%, după indexul prețurilor de la guvern [^16]. Acest exemplu din lumea reală, demonsetrază faptul că stocul este doar una dintre componentele prețului.
 
-For the first 2 years of Bitcoin’s life the network sustained an annual inflation rate[^17] of over 100%. For the first 5 years it was over 30%, and for the first 8 years it was over 10%. All told the total “spending” Steem does to fund content, curation, and block production amounts to less than 10% APR.
+Pentru primii 2 ani din viața Bitcoin, rețeaua a a avut o inflație anuală de [^17] de peste 100%. Pentru primii 5 ani a fost peste 30%, iar pentru primii 8 ani a fost peste 10%. All told the total “spending” Steem does to fund content, curation, and block production amounts to less than 10% APR.
 
 The price of a digital commodity, like STEEM, is driven by both supply and demand. When a long-term holder decides to exit, the supply of STEEM on the market will increase and push the price down. This downward pressure is countered when a new long-term holder decides to buy up the STEEM and convert it back into SP. Additional supply and demand may be be added due to market speculators buying and selling liquid STEEM based on their predictions of the future market price.
 
