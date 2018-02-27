@@ -300,9 +300,9 @@ Num sistema descentralizado, não existe nenhuma forma diretamente de banir os u
 
 ### Full Reserve vs Fractional Reserve
 
-Let’s view a blockchain like an Internet Service Provider (ISP) co-op which owns all of the cables in the town and has a maximum amount of bandwidth that it can provide at any time. People living in the town can buy shares in the ISP and in exchange they are entitled to utilize a portion of the available bandwidth.
+Vejamos o blockchain como um Serviço Provedor de Internet ("ISP") coopertativo que detêm todos os cabos na cidade e tem um máximo de banda larga que pode fornecer a qualquer altura. Pessoas que vivem na cidade podem comprar ações no "ISP" e, em troca, têm o direito de utilizar uma porção da banda larga disponível.
 
-The ISP has two choices, run a “full reserve” or “fractional reserve” system. Under a full reserve system each user is only allowed a fraction of the maximum bandwidth proportional to her shares. Because not everyone uses the Internet at the same time, the town’s network would be significantly underutilized.
+A "ISP" tem duas opções: utilizar um sistema de "reserva completa" ou um de "reserva fracional". Under a full reserve system each user is only allowed a fraction of the maximum bandwidth proportional to her shares. Because not everyone uses the Internet at the same time, the town’s network would be significantly underutilized.
 
 Under a fractional reserve system the individual users could utilize more bandwidth than they are entitled to at any given point in time so long as not everyone uses the Internet at the same time. The problem with operating a fractional reserve is that congestion occurs anytime too many people wish to use the network at the same time. The ISP needs a way to prioritize bandwidth during congested periods. In the most extreme case, a fully congested network must revert to a full reserve system. The challenge is setting the proper fractional reserve ratio.
 
