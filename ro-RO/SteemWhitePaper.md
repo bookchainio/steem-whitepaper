@@ -475,13 +475,13 @@ By incentivising curation the Steem network is able to use automated algorithms 
 
 Nu este ușor să intri în lumea cripto monedelor [^21]. Cineva care descoperă Bitcoin și vrea să încerce repede să cumpere, va vedea că va avea nevoie să se înregistreze pe site-ul unui schimb valutar și să își trimită bani pe contul respectiv. Cum ar fi fost rata de înregistrare pe Facebook dacă trebuia să trimiteți bani și să aveți două tipuri de acte de identitate?
 
-Steem solves this problem by giving everyone a way to get paid for doing simple, but valuable, tasks. This will help to widely distribute STEEM tokens. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless.)
+Steem rezolvă această problemă, dându-le tuturor o modalitate de a fi plătiți pentru sarcini simple, dar valoroase. Acest lucru va face posibilă distribuirea token-ilor Steem. Acest lucru este folositor deoarece cripto valutele au un efect de rețea (ex. cu cât mai mulți utilizatori, cu atât sunt mai valoroase; un exemplu extrem, gândiți-vă că Satoshi ar fi păstrat 100% Bitcoin pentru el, acesta ar fi lipsit de valoare.)
 
-## Solving the Cryptocurrency Liquidation Problem
+## Rezolvarea Problemei de Lichidare a Cripto Valutelor
 
-A currency that is difficult to use or impossible to sell has little value. Someone who comes across $1.00 worth of Bitcoin will discover that it costs more than $1.00 to sell that Bitcoin. They have to create an account with an exchange, perform KYC validation, and pay fees. Small amounts of cryptocurrency are like small change that people are unwilling to bend over to pick up.
+O monedă care este greu sau imposibil de vândut, are o valoare mică. Cineva care are Bitcoin în valoare de $1.00, va descoperi că este mai scump să vinzi acel Bitcoin. Trebuie să își creeze un cont pe un schimb valutar, să efectueze validare KYC și să plătească comisioane. Sume mici de cripto monede sunt ca mărunțișul după care nu se apleacă oamenii.
 
-Merchants give users a way to quickly convert their cryptocurrency into tangible goods and services. Merchants need a currency pegged to their unit of account, normally dollars. Accepting a volatile currency introduces significant accounting overhead.
+Comercianții oferă utilizatorilor o modalitate de a converti rapid cripto mondele în bunuri și servicii tangibile. Comercianții au nevoie de o monedă raportată de obicei la dolari. Accepting a volatile currency introduces significant accounting overhead.
 
 Merchants will accept any currency if it increases their sales. Having a large user base with a stable currency such as SBD lowers the barrier to entry for merchants. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
 
