@@ -82,9 +82,9 @@ Steem 是賬戶在Steem區塊鏈的基礎單位. 所有其他代幣都從STEEM�
 
 使用者可以將他們的 STEEM 提交到十三周的歸屬計畫, 為他們提供在平臺內的額外好處。 STEEM 已承諾十三周的歸屬計畫稱為蒸汽電源 (SP)。 SP 餘額是非轉讓的, 除非通過自動重複的轉換請求, 否則不可整除。 這意味著SP不能輕易地在加密貨幣交易所交易。
 
-When users vote on content, their influence over the distribution of the rewards pool is directly proportional to the amount of SP that they have. Users with more SP have more influence on the distribution of rewards. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
+當用戶對內容進行投票時，他們對獎勵池分配的影響與他們擁有的SP數量成正比。 有更多 SP 的使用者對獎勵的分配有更多的影響。 這意味著 SP 是一個訪問權杖, 它授予其持有者在蒸汽平臺內的專有許可權。
 
-SP holders are also paid interest on the balance of SP that remains vested. 15% of the yearly inflation is paid to SP holders as interest. The amount of the interest that they receive is directly proportional to the amount of SP they hold relative to the total amount of vested SP across all users.
+SP持有人還得到歸屬SP餘額的利息。 5％的年通貨膨脹被用於支付利息給SP所有者。 它們所收到的利息的金額與它們相對於所有使用者的已歸屬 SP 的總金額所持的 SP 數量成正比。
 
 Transferring from STEEM to SP is referred to as “powering up”, while transferring from SP to STEEM is referred to as “powering down.” SP that is powered down is returned to the user over a period of thirteen weeks, via 13 equal weekly payments, starting one week after the power down is initiated.
 
