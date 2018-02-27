@@ -431,9 +431,9 @@ Se spune adesea că o monedă cu un model de inflație nu este sustenabilă. În
 
 Din August 2008 până în Ianuarie 2009, stocul monetar american [^15] a crescut de la $871 miliarde la $1,737 miliarde, având o rată de 100% pe an și a continuat să crească cu aproximativ 20% pe an, în următorii 6 ani. Per total, stocul monetar din Statele Unite a crescut de 4.59 ori în mai puțin de 7 ani. În aceași perioadă, valoarea dolarului raportată la bunuri și servicii a scăzut cu 10%, după indexul prețurilor de la guvern [^16]. Acest exemplu din lumea reală, demonsetrază faptul că stocul este doar una dintre componentele prețului.
 
-Pentru primii 2 ani din viața Bitcoin, rețeaua a a avut o inflație anuală de [^17] de peste 100%. Pentru primii 5 ani a fost peste 30%, iar pentru primii 8 ani a fost peste 10%. All told the total “spending” Steem does to fund content, curation, and block production amounts to less than 10% APR.
+Pentru primii 2 ani din viața Bitcoin, rețeaua a a avut o inflație anuală de [^17] de peste 100%. Pentru primii 5 ani a fost peste 30%, iar pentru primii 8 ani a fost peste 10%. Per total, Steem-ul “cheltuit” se duce către finanțarea conținutului, către cei care susțin conținutul prin vot și către producția block-urilor, fiind mai puțin de 10% din APR.
 
-The price of a digital commodity, like STEEM, is driven by both supply and demand. When a long-term holder decides to exit, the supply of STEEM on the market will increase and push the price down. This downward pressure is countered when a new long-term holder decides to buy up the STEEM and convert it back into SP. Additional supply and demand may be be added due to market speculators buying and selling liquid STEEM based on their predictions of the future market price.
+Prețul unui produs digital, precum STEEM, este bazat atât pe cerere cât și pe ofertă. Atunci când un deținător pe termen lung dorește să iasă, stocul de STEEM de pe piață o să crească, iar prețul o să scadă. Această presiune o să fie balansată aunci când un nou deținător pe termen lung se va decide să cumpere STEEM și să îl convertescă în putere steem SP. Additional supply and demand may be be added due to market speculators buying and selling liquid STEEM based on their predictions of the future market price.
 
 # Puterea Steem-ului
 
