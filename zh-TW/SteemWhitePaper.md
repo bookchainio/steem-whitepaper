@@ -56,15 +56,15 @@ Steem 是圍繞一個相對簡單的概念的設計: *每個人對社區的有�
 
 Steem 旨在通過改變經濟方程式來實現對各種貢獻的有效小額支付。 讀者不再需要決定是否要從自己的口袋中支付某人, 而是他們可以投票內容向上或向下, Steem 將使用他們的選票來決定個人獎勵。 这意味着，人们被给予了一个熟悉的和广泛使用的接口，不再面对认知、金融及相关传统小额支付和倾斜平台的机会成本。
 
-社区成员的投票对 Steem 准确地分配捐款是至关重要的。 因此, 投票可以看作是一項重要貢獻, 值得自己獎勵。 Some platforms, such as Slashdot, use meta-moderation[^3] as a way to rank and reward honest moderators. Steem chooses to reward those who contribute the most to the total promotion of a piece of content and rewards the voters proportional to the ultimate reward paid to the content creator.
+社区成员的投票对 Steem 准确地分配捐款是至关重要的。 因此, 投票可以看作是一項重要貢獻, 值得自己獎勵。 某些平台，比如Slashdot，使用 meta-moderation [^3]作為排序和獎勵誠實的評判者的方法。 Steem 選擇獎勵那些對某項內容的宣傳貢獻最大的成員，並且對投票者的獎勵與內容創造者的最終報酬成正比。
 
-# Ways to Contribute
+# 如何貢獻
 
-This section outlines the ideas behind Steem and its rewards for people who provide meaningful and measurable contributions to the Steem community.
+本節概述了STEEM背後的想法及其對為STEEM社區提供有意義和可衡量的貢獻的人的獎勵..
 
-## Capital Contributions
+## 資本的貢獻
 
-There are two items a community can offer to attract capital: debt and ownership. Those who buy ownership profit when the community grows but lose if the community shrinks. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
+社區可以提供兩項吸引資本的項目：債務和所有權。 Those who buy ownership profit when the community grows but lose if the community shrinks. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
 
 The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SBD).
 
