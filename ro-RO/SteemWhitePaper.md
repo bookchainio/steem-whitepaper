@@ -485,15 +485,15 @@ Comercianții oferă utilizatorilor o modalitate de a converti rapid cripto mond
 
 Comercianții o să accepte orice monedă dacă va duce la creșterea vânzărilor lor. Having a large user base with a stable currency such as SBD lowers the barrier to entry for merchants. Prezența comercianțiilor îmbunătățește sistemul creând o rampă pentru utilizatori de a ieși din sistem, fără a folosi un schimb valutar.
 
-Another way that people can liquidate the small amounts of cryptocurrency they receive from participating on the Steem platform is through *tipping* others. This is like leaving the small change as a tip for your waiter. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
+O altă modalitate prin care oamenii pot să își retragă sume mici din cripto monede, pe care le primes prin intermediul platformei Steem, este prin oferirea de*bacșișuri* celorlalți. Este ca lăsarea unui bacșiș ospătarului. Atunci când suficiente persoane lasă bacșis, acesta se adună într-o sumă semnificativă. Atât tu cât și ospătarul, beneficiați de pe urma bacșișului.
 
 ## Cenzura
 
 Steem este o rețea descentralizată, care este operată de martori din toată lumea. Toate acțiunile utilizatorilor sunt înregistrate public pe blockchain, și tot pot fi verificate public. Acest lucru însemnă că nu există nici o singură entitate care poate cenzura conținutul prețuit de către deținători de STEEM.
 
-Individual websites such as steemit.com may censor content on their particular site, but content published on the blockchain is inherently broadcast traffic and mirrors all around the world may continue to make it available.
+Website-uri individuale, precum steemit.com pot cenzura conținutul în mod particular, dar conținutul publicat pe blockchain este, în mod inerent, difuzat și reflectat, pe site-urile care continuă să îl facă disponibil.
 
-Libertatea de exprimare este fundația tuturor libertățiilor și orice încălcare a libertății de exprimare, subminează singurele mijloace pașnice de a ajunge la un consens: discuția. Without free discussion voters cannot be fully informed, and uninformed voters are a greater threat to society than losing the right to vote. Censorship is a means of stealing votes through limiting public discourse. Steem is committed to enabling free speech and building a free society.
+Libertatea de exprimare este fundația tuturor libertățiilor și orice încălcare a libertății de exprimare, subminează singurele mijloace pașnice de a ajunge la un consens: discuția. Fără discuții libere, cei care voteză nu pot fi informați pe deplin, iar persoanele care votează și nu sunt informate, reprezintă un pericol mai mare pentru societate decât ar reprezenta dacă și-ar pierde drepturile de votare. Cenzura este o metoda de a fura voturi prin limitarea discursului public. Steem is committed to enabling free speech and building a free society.
 
 ## Solving Organic Discovery via Search Engine Optimization
 
