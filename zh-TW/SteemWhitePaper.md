@@ -92,9 +92,9 @@ SP持有人還得到歸屬SP餘額的利息。 5％的年通貨膨脹被用於�
 
 穩定是成功的全球經濟的一個重要特徵。 如果沒有穩定，世界各地的個人在從事商業和儲蓄時就不會有低的認知成本。 因為穩定是成功的經濟體的一個重要特徵，設計了Steem 美元企圖對加密貨幣的世界，誰使用 Steem 網絡個人帶來穩定。
 
-Steem 美元是由類似于可轉換債券的機制創建的, 通常用於為初創企業提供資金。 在創業市場，可轉換債券是短期債務工具，可以以未來確定的利率轉換為所有權，通常是在未來的融資週期中。 基於區塊鏈的代幣可以被視為社區中的所有權，而可轉換債券可以被視為以任何其他商品或貨幣計價的債務。 The terms of the convertible note allow the holder to convert to the backing token with a minimum notice at the fair market price of the token. Creating token-convertible-dollars enables blockchains to grow their network effect while maximizing the return for token holders.
+Steem 美元是由類似于可轉換債券的機制創建的, 通常用於為初創企業提供資金。 在創業市場，可轉換債券是短期債務工具，可以以未來確定的利率轉換為所有權，通常是在未來的融資週期中。 基於區塊鏈的代幣可以被視為社區中的所有權，而可轉換債券可以被視為以任何其他商品或貨幣計價的債務。 可轉換票據的條款允許持有者以令牌的公平市場價格作為最小通知轉換為支持令牌。 創建代幣可轉換美元使區塊鏈能夠在最大化代幣持有者回報的同時增加他們的網絡效果。
 
-Steem Dollars are referred to with the symbol SBD, an acronym for Steem Blockchain Dollars. Creating SBD requires a combination of a reliable price feed, and rules to prevent abuse. Providing a reliable price feed involves three factors: minimizing the impact of an incorrect feed, maximizing the cost of producing an incorrect feed, and minimizing the importance of timing.
+Steem 美元是指與符號 SBD, 一個縮寫為 Steem Blockchain 美元。 創建SBD需要結合可靠的飼料價格、和規則，防止濫用。 Providing a reliable price feed involves three factors: minimizing the impact of an incorrect feed, maximizing the cost of producing an incorrect feed, and minimizing the importance of timing.
 
 ### Minimizing Fraudulent Feeds
 
