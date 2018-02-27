@@ -425,7 +425,7 @@ Starting with the network's 16th hard fork in December 2016, Steem began creatin
 
 75% of the new tokens that are generated go to fund the reward pool, which is split between authors and curators. 15% of the new tokens are awarded to holders of SP. The remaining 10% pays for the witnesses to power the blockchain.
 
-### Impact of Token Creation Rate
+### Impactul Ratei de Creare a Token-ilor
 
 It is often said that a coin with an inflationary model is not sustainable, but we know from countless real-world examples that the quantity of money does not have a direct and immediate impact on its value, though it certainly plays a role.
 
