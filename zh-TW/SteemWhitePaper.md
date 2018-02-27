@@ -76,11 +76,11 @@ Steem 是賬戶在Steem區塊鏈的基礎單位. 所有其他代幣都從STEEM�
 
 啟動公司需要長期資本承諾。 那些在初創公司投資的人預期要等好幾年才能賣出股票，實現利潤。 如果沒有長期的承諾，一家試圖通過出售額外股票籌集更多資本的創業公司將與現有股東競爭。 精明的投資者希望自己的資本貢獻能使公司成長, 但如果新資本被給予那些希望退出的人, 經濟增長就不可能實現。
 
-There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
+有長期承諾的重要價值，因為它使社區能够製定長期計畫。 利益相關者的長期承諾也促使他們投票支持長期增長，而不是短期投資。
 
-In the cryptocurrency space, speculators jump from cryptocurrency to cryptocurrency based mostly on which one is expected to have short-term growth. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
+在加密貨幣的領域中，投機者從一種加密貨幣到另外一種加密貨幣的跳轉主要基於哪一種會有預計的短期增長。 Steem 希望建立一個由長期觀點所擁有並完全控制的社區。
 
-Users are able to commit their STEEM to a thirteen week vesting schedule, providing them with additional benefits within the platform. STEEM that has been committed to a thirteen week vesting schedule is called Steem Power (SP). SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
+使用者可以將他們的 STEEM 提交到十三周的歸屬計畫, 為他們提供在平臺內的額外好處。 STEEM 已承諾十三周的歸屬計畫稱為蒸汽電源 (SP)。 SP 餘額是非轉讓的, 除非通過自動重複的轉換請求, 否則不可整除。 這意味著SP不能輕易地在加密貨幣交易所交易。
 
 When users vote on content, their influence over the distribution of the rewards pool is directly proportional to the amount of SP that they have. Users with more SP have more influence on the distribution of rewards. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
 
