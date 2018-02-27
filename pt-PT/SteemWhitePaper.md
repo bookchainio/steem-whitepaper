@@ -298,17 +298,17 @@ Websites centralizados previnem spam através de taxas de limitação e algumas 
 
 Num sistema descentralizado, não existe nenhuma forma diretamente de banir os usuários nem de usar o reCAPTCHA e forçar a taxa de limitação de contas. De facto, a inabilidade de censurar usuários é um dos principais pontos de venda da tecnologia blockchain.
 
-### Full Reserve vs Fractional Reserve
+### Reserva completa vs. reserva fracionada
 
 Vejamos o blockchain como um Serviço Provedor de Internet ("ISP") coopertativo que detêm todos os cabos na cidade e tem um máximo de banda larga que pode fornecer a qualquer altura. Pessoas que vivem na cidade podem comprar ações no "ISP" e, em troca, têm o direito de utilizar uma porção da banda larga disponível.
 
-A "ISP" tem duas opções: utilizar um sistema de "reserva completa" ou um de "reserva fracional". Under a full reserve system each user is only allowed a fraction of the maximum bandwidth proportional to her shares. Because not everyone uses the Internet at the same time, the town’s network would be significantly underutilized.
+A "ISP" tem duas opções: utilizar um sistema de "reserva completa" ou um de "reserva fracional". Sobre um sistema de reserva completa, a cada usuário é permitido uma porção da banda larga máxima proporcional ás suas ações. Dado que nem todos usam a Internet ao mesmo tempo, a network da cidade seria significativamente subutilizada.
 
-Under a fractional reserve system the individual users could utilize more bandwidth than they are entitled to at any given point in time so long as not everyone uses the Internet at the same time. The problem with operating a fractional reserve is that congestion occurs anytime too many people wish to use the network at the same time. The ISP needs a way to prioritize bandwidth during congested periods. In the most extreme case, a fully congested network must revert to a full reserve system. The challenge is setting the proper fractional reserve ratio.
+Num sistema de reserva fracional, os usuários individuais poderiam utilizar mais banda larga do que a que estão titularizados em qualquer momento, desde que não usem todos a Internet ao mesmo tempo. O problema ao operar uma reserva fracionada é de que o congestionamento ocorre quando muita gente deseja utilizar a network ao mesmo tempo. O "ISP" necessita de uma forma de priorizar a banda larga durante períodos de tempo congestionados. No caso mais extremo, uma network completamente congestionada deve reverter a um sistema de reserva completa. O desafio é implementar a proporção correta de reserva fracional.
 
-## Bandwidth Instead of Micropayment Channels
+## Banda larga em vez de Canais de Micro-Pagamento
 
-The solution to the problems with micropayments is in implementing *dynamic fractional reserves*. Under this model the blockchain will automatically adjust the reserve ratio for the network during times of congestion. The blockchain will set a target utilization that leaves enough headroom for short term surges in demand. Any time the surges are sustained the blockchain reduces the maximum bandwidth-per-share. When a surge is over and there is surplus capacity the blockchain can slowly increase the bandwidth-per-share.
+A solução aos problemas dos micro-pagamentos é implementar*reservas fracionais dinâmicas*. Sobre este modelo, o blockchain automaticamente ajustará a proporção de reserva para a network, em período de congestionamento. O blockchain definirá um objetivo de utilização que deixe suficiente margem ás ondas de demanda em curto prazo. Any time the surges are sustained the blockchain reduces the maximum bandwidth-per-share. When a surge is over and there is surplus capacity the blockchain can slowly increase the bandwidth-per-share.
 
 Bandwidth used by an individual user should be measured over a suitably long period of time to allow that user to time-shift their usage. Usuários tendem a entrar no site, fazer várias coisas ao mesmo tempo, e depois desconectam-se. This means that their bandwidth over a short period of time may appear much higher than if viewed over a longer period of time. If the time window is stretched too far then the reserve ratio will not adjust fast enough to respond to short-term surges, if the window is too short then clustering usage will have too big of an impact on normal users.
 
