@@ -447,7 +447,7 @@ Deoarece toată lumea beneficiează, toată lumea ar trebui să plătească. Cu 
 
 Au existat tentative de a integra o cripto monedă într-o rețea media de socializare, unde utilizatorii să se plătească între ei. Mai multe servicii au încercat să introducă bacșișurile. În teorie, dacă am face oferirea de bacșișurilor ușoară, atunci mai mulți oameni ar face asta. Alte servicii au încercat să facă utilizatorii să promoveze conținutul lor. Still others attempt to build small prediction markets on how many tips an article will receive.
 
-All of these approaches boil down to micropayments. They differ only in who is making the payment. They all suffer from insufficient engagement of people making the micropayments. In the search for incentivised content production entrepreneurs have been so focused on who should pay that they missed the obvious reality: everyone benefits from everyone’s actions so everyone should pay or no one should pay, depending on how you look at it.
+Toate aceste abordări se reduc la microplăți. Diferă doar cel care face plata. Toate aceste servicii suferă de angajamentul insuficient al oamenilor care efectuează microplățile. In the search for incentivised content production entrepreneurs have been so focused on who should pay that they missed the obvious reality: everyone benefits from everyone’s actions so everyone should pay or no one should pay, depending on how you look at it.
 
 Steem bypasses micropayments completely because when a user upvotes a post it is the community that pays the bill. The same amount of money will be spent whether the user upvotes a post or not and the funds will not come from the voter.
 
@@ -473,7 +473,7 @@ By incentivising curation the Steem network is able to use automated algorithms 
 
 ## Solving the Cryptocurrency Onboarding Problem
 
-It isn’t easy to get into cryptocurrency[^21]. Someone who discovers Bitcoin and wants to try it out quickly learns that they will need to sign up with an exchange and fund their account with a credit card or wire transfer. What would Facebook’s adoption rate have been like if you had to fork over money and a two forms of ID?
+Nu este ușor să intri în lumea cripto monedelor [^21]. Cineva care descoperă Bitcoin și vrea să încerce repede să cumpere, va vedea că va avea nevoie să se înregistreze pe site-ul unui schimb valutar și să își trimită bani pe contul respectiv. Cum ar fi fost rata de înregistrare pe Facebook dacă trebuia să trimiteți bani și să aveți două tipuri de acte de identitate?
 
 Steem solves this problem by giving everyone a way to get paid for doing simple, but valuable, tasks. This will help to widely distribute STEEM tokens. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless.)
 
