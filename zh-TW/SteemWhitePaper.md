@@ -70,11 +70,11 @@ Steem 網絡把這些不同的資產類別稱為 Steem（STEEM), Steem 能量（
 
 ## Steem (STEEM)
 
-Steem is the fundamental unit of account on the Steem blockchain. All other tokens derive their value from the value of STEEM. STEEM is a liquid currency, and therefore can be bought or sold on exchanges, as well as transferred to other users as a form of payment.
+Steem 是賬戶在Steem區塊鏈的基礎單位. 所有其他代幣都從STEEM的價值派生出來。 STEEM 是一種流動性貨幣，因此可以在交易所買賣，也可作為支付方式轉給其他用戶。
 
 ## Steem Power (SP)
 
-Start up companies require long-term capital commitment. Those who invest their money in a startup expect to wait years before they can sell their shares and realize their profits. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
+啟動公司需要長期資本承諾。 那些在初創公司投資的人預期要等好幾年才能賣出股票，實現利潤。 如果沒有長期的承諾，一家試圖通過出售額外股票籌集更多資本的創業公司將與現有股東競爭。 Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
 
 There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
 
