@@ -74,7 +74,7 @@ Steem 是賬戶在Steem區塊鏈的基礎單位. 所有其他代幣都從STEEM�
 
 ## Steem Power (SP)
 
-啟動公司需要長期資本承諾。 那些在初創公司投資的人預期要等好幾年才能賣出股票，實現利潤。 如果沒有長期的承諾，一家試圖通過出售額外股票籌集更多資本的創業公司將與現有股東競爭。 Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
+啟動公司需要長期資本承諾。 那些在初創公司投資的人預期要等好幾年才能賣出股票，實現利潤。 如果沒有長期的承諾，一家試圖通過出售額外股票籌集更多資本的創業公司將與現有股東競爭。 精明的投資者希望自己的資本貢獻能使公司成長, 但如果新資本被給予那些希望退出的人, 經濟增長就不可能實現。
 
 There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
 
