@@ -94,11 +94,11 @@ SP持有人還得到歸屬SP餘額的利息。 5％的年通貨膨脹被用於�
 
 Steem 美元是由類似于可轉換債券的機制創建的, 通常用於為初創企業提供資金。 在創業市場，可轉換債券是短期債務工具，可以以未來確定的利率轉換為所有權，通常是在未來的融資週期中。 基於區塊鏈的代幣可以被視為社區中的所有權，而可轉換債券可以被視為以任何其他商品或貨幣計價的債務。 可轉換票據的條款允許持有者以令牌的公平市場價格作為最小通知轉換為支持令牌。 創建代幣可轉換美元使區塊鏈能夠在最大化代幣持有者回報的同時增加他們的網絡效果。
 
-Steem 美元是指與符號 SBD, 一個縮寫為 Steem Blockchain 美元。 創建SBD需要結合可靠的飼料價格、和規則，防止濫用。 Providing a reliable price feed involves three factors: minimizing the impact of an incorrect feed, maximizing the cost of producing an incorrect feed, and minimizing the importance of timing.
+Steem 美元是指與符號 SBD, 一個縮寫為 Steem Blockchain 美元。 創建SBD需要結合可靠的飼料價格、和規則，防止濫用。 提供可靠的價格飼料包括三個因素：最大限度地减少不正確的飼料的影響，最大限度地產生錯誤飼料的成本，並儘量減少時間的重要性。
 
-### Minimizing Fraudulent Feeds
+### 最小化欺詐性餵價
 
-SP holders elect individuals, called witnesses, to publish price feeds. The elected witnesses are presumably trusted by those who have a vested interest in the quality of the feed. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
+SP持有人選舉的個人，作為見證人，公佈餵價。 可以認為，餵價質量的既得利益者，信任被選出的見證人。 By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
 
 Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
 
