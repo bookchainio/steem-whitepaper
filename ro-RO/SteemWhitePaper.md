@@ -481,9 +481,9 @@ Steem rezolvă această problemă, dându-le tuturor o modalitate de a fi plăti
 
 O monedă care este greu sau imposibil de vândut, are o valoare mică. Cineva care are Bitcoin în valoare de $1.00, va descoperi că este mai scump să vinzi acel Bitcoin. Trebuie să își creeze un cont pe un schimb valutar, să efectueze validare KYC și să plătească comisioane. Sume mici de cripto monede sunt ca mărunțișul după care nu se apleacă oamenii.
 
-Comercianții oferă utilizatorilor o modalitate de a converti rapid cripto mondele în bunuri și servicii tangibile. Comercianții au nevoie de o monedă raportată de obicei la dolari. Accepting a volatile currency introduces significant accounting overhead.
+Comercianții oferă utilizatorilor o modalitate de a converti rapid cripto mondele în bunuri și servicii tangibile. Comercianții au nevoie de o monedă raportată de obicei la dolari. Acceptarea unei monede volatile introduce cheltuilei contabile semnificative.
 
-Merchants will accept any currency if it increases their sales. Having a large user base with a stable currency such as SBD lowers the barrier to entry for merchants. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
+Comercianții o să accepte orice monedă dacă va duce la creșterea vânzărilor lor. Having a large user base with a stable currency such as SBD lowers the barrier to entry for merchants. Prezența comercianțiilor îmbunătățește sistemul creând o rampă pentru utilizatori de a ieși din sistem, fără a folosi un schimb valutar.
 
 Another way that people can liquidate the small amounts of cryptocurrency they receive from participating on the Steem platform is through *tipping* others. This is like leaving the small change as a tip for your waiter. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
 
