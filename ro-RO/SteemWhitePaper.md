@@ -433,7 +433,7 @@ Din August 2008 până în Ianuarie 2009, stocul monetar american [^15] a crescu
 
 Pentru primii 2 ani din viața Bitcoin, rețeaua a a avut o inflație anuală de [^17] de peste 100%. Pentru primii 5 ani a fost peste 30%, iar pentru primii 8 ani a fost peste 10%. Per total, Steem-ul “cheltuit” se duce către finanțarea conținutului, către cei care susțin conținutul prin vot și către producția block-urilor, fiind mai puțin de 10% din APR.
 
-Prețul unui produs digital, precum STEEM, este bazat atât pe cerere cât și pe ofertă. Atunci când un deținător pe termen lung dorește să iasă, stocul de STEEM de pe piață o să crească, iar prețul o să scadă. Această presiune o să fie balansată aunci când un nou deținător pe termen lung se va decide să cumpere STEEM și să îl convertescă în putere steem SP. Additional supply and demand may be be added due to market speculators buying and selling liquid STEEM based on their predictions of the future market price.
+Prețul unui produs digital, precum STEEM, este bazat atât pe cerere cât și pe ofertă. Atunci când un deținător pe termen lung dorește să iasă, stocul de STEEM de pe piață o să crească, iar prețul o să scadă. Această presiune o să fie balansată aunci când un nou deținător pe termen lung se va decide să cumpere STEEM și să îl convertescă în putere steem SP. Se poate adăuga o cerere și o ofertă suplimentară datorită faptului că există pe piață, speculatori care vor cumpăra și vinde STEEM pe baza previziunilor privind prețul de piață viitor.
 
 # Puterea Steem-ului
 
