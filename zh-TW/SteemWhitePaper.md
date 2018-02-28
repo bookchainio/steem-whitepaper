@@ -120,11 +120,11 @@ Steem 通過要求所有轉換請求延遲三天來對遊戲場進行級別調�
 
 如果人們可以自由轉換的兩個方向然後交易者可以利用的blockchains轉換率交易量大價格沒有變化。 那些看到價格大幅上漲的交易員會以高價 (最危險的時候) 轉換為 SBD, 然後在調整後轉換回來。 Steem 協定只允許 從 SBD 轉換為 STEEM, 而不是以另一種方式來保護社區免遭這種虐待。
 
-The blockchain decides how and when to create SBD and who should get it. This keeps the rate of SBD creation stable and removes most avenues of abuse.
+Blockchain 决定如何以及何時創建SBD和誰應該得到它。這使SBD創造穩定率和消除濫用的途徑。
 
-### Sustainable Debt to Ownership Ratios
+### 可持續債務到擁有權比率
 
-If a token is viewed as ownership in the whole supply of tokens, then a token-convertible-dollar can be viewed as debt. If the debt to ownership ratio gets too high the entire currency can become unstable. Debt conversions can dramatically increase the token supply, which in turn is sold on the market suppressing the price. Subsequent conversions require the issuance of even more tokens. Left unchecked the system can collapse leaving worthless ownership backing a mountain of debt. The higher the debt to ownership ratio becomes the less willing new investors are to bring capital to the table.
+如果一個代幣被視為整個代幣供應的所有權，那麼代幣可兌換美元就可以被視為債務。 如果債務與所有權比率過高，整個貨幣就會變得不穩定。 債務轉換可以極大地新增代幣供應，而這反過來又在市場上抑制價格。 Subsequent conversions require the issuance of even more tokens. Left unchecked the system can collapse leaving worthless ownership backing a mountain of debt. The higher the debt to ownership ratio becomes the less willing new investors are to bring capital to the table.
 
 A rapid change in the value of STEEM can dramatically change the debt-to-ownership ratio. The blockchain prevents the debt-to-ownership ratio from getting too high, by reducing the amount of STEEM awarded through SBD conversions if the debt level were to exceed 10%. If the amount of SBD debt ever exceeds 10% of the total STEEM market cap, the blockchain will automatically reduce the amount of STEEM generated through conversions to a maximum of 10% of the market cap. This ensures that the blockchain will never have higher than a 10% debt-to-ownership ratio.
 
