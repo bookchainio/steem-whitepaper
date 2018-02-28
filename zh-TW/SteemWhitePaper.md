@@ -112,13 +112,13 @@ Steem 通過使用三天以上的中位價格來影響短期價格波動。中�
 
 ### 緩解定時攻擊
 
-市場參與者獲取資訊的速度比 blockchain 的三天半的移動中值轉換價格的反應。 這些資訊可以用來造福於交易者，而損害了整個社會。 If there is a sudden increase in the value of STEEM traders could request conversion of their SBD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
+市場參與者獲取資訊的速度比 blockchain 的三天半的移動中值轉換價格的反應。 這些資訊可以用來造福於交易者，而損害了整個社會。 如果 STEEM 交易商的價值突然增加, 可以要求他們的 SBD 在舊的, 較低的價格, 然後出售的 STEEM, 他們得到了一個新的更高的價格與最低的風險。
 
-Steem levels the playing field by requiring all conversion requests to be delayed for three and a half days. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
+Steem 通過要求所有轉換請求延遲三天來對遊戲場進行級別調整。 這意味著，無論是商人還是blockchain有任何資訊優勢對於當時轉換價格執行。
 
-### Minimizing Abuse of Conversions
+### 最小化轉換的濫用
 
-If people could freely convert in both directions then traders could take advantage of the blockchains conversion rates by trading large volumes without changing the price. Traders who see a massive run up in price would convert to SBD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SBD to STEEM and not the other way around.
+如果人們可以自由轉換的兩個方向然後交易者可以利用的blockchains轉換率交易量大價格沒有變化。 那些看到價格大幅上漲的交易員會以高價 (最危險的時候) 轉換為 SBD, 然後在調整後轉換回來。 Steem 協定只允許 從 SBD 轉換為 STEEM, 而不是以另一種方式來保護社區免遭這種虐待。
 
 The blockchain decides how and when to create SBD and who should get it. This keeps the rate of SBD creation stable and removes most avenues of abuse.
 
