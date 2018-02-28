@@ -106,7 +106,7 @@ SP持有人選舉的個人，作為見證人，公佈餵價。 可以認為，�
 
 Steem 通過使用三天以上的中位價格來影響短期價格波動。中位公佈的提要每小時採樣一次。
 
-只要價格腐敗的持續時間不到移動中值時間窗的一半，它將對轉換價格的影響最小。 In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
+只要價格腐敗的持續時間不到移動中值時間窗的一半，它將對轉換價格的影響最小。 如果飼料確實變質了，網絡參與者將有機會在腐敗飼料影響實際轉換價格之前將腐敗飼料生產商投出去。 Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
 
 With a three and a half day window, community members have approximately one and a half days to respond to any issues that come up.
 
