@@ -98,11 +98,11 @@ Steem 美元是指與符號 SBD, 一個縮寫為 Steem Blockchain 美元。 創�
 
 ### 最小化欺詐性餵價
 
-SP持有人選舉的個人，作為見證人，公佈餵價。 可以認為，餵價質量的既得利益者，信任被選出的見證人。 By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
+SP持有人選舉的個人，作為見證人，公佈餵價。 可以認為，餵價質量的既得利益者，信任被選出的見證人。 通過支付那些被選出來的人, Steem 創造市場競爭來賺取生產飼料的權利。 餵價創造者獲得的報酬越多，他們發布虛假信息的損失就越多。
 
-Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
+給定一組受信任和當選的飼料生產商，轉換的實際價格可以作為飼料的中位數。 這樣，如果少數個體飼料生產商產生離群值，它們對實際中值的影響最小，但仍有能力影響它們的聲譽。
 
-Even if all feed producers are honest, it is possible for the majority of feed producers to be impacted by events beyond their control. The Steem network is designed to tolerate short-term corruption of the median price feed while the community actively works to correct the issue. One example of an issue that may take some time to correct is short-term market manipulation. Market manipulation is difficult and expensive to maintain for long periods of time. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
+即使所有飼料生產商都是誠實的，大多數飼料生產商也有可能受到超出其控制範圍的事件的影響。 Steem 網路旨在容忍中位價格提要的短期腐敗, 而社區則積極努力糾正這一問題。 可能需要一段時間糾正的一個例子是短期市場操縱。 市場操縱是困難和昂貴的維持長期的時間。 另一個例子是集中交換失敗或交易所發佈的資料損壞。
 
 Steem factors out short-term price fluctuations by using the median price over a period of three and a half days. The median published feed is sampled every hour on the hour.
 
