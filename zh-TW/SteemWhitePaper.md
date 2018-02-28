@@ -108,11 +108,11 @@ Steem 通過使用三天以上的中位價格來影響短期價格波動。中�
 
 只要價格腐敗的持續時間不到移動中值時間窗的一半，它將對轉換價格的影響最小。 如果飼料確實變質了，網絡參與者將有機會在腐敗飼料影響實際轉換價格之前將腐敗飼料生產商投出去。 也許更重要的是, 它給飼料生產者一個機會, 以發現和糾正問題之前, 他們的飼料開始影響價格。
 
-With a three and a half day window, community members have approximately one and a half days to respond to any issues that come up.
+有一個三天半的視窗，社區成員有大約一天半的時間來回答任何出現的問題。
 
-### Mitigating Timing Attacks
+### 緩解定時攻擊
 
-Market participants have access to information faster than the blockchain’s three and a half day moving median conversion price can react. This information could be used to benefit of traders at the expense of the community. If there is a sudden increase in the value of STEEM traders could request conversion of their SBD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
+市場參與者獲取資訊的速度比 blockchain 的三天半的移動中值轉換價格的反應。 這些資訊可以用來造福於交易者，而損害了整個社會。 If there is a sudden increase in the value of STEEM traders could request conversion of their SBD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
 
 Steem levels the playing field by requiring all conversion requests to be delayed for three and a half days. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
 
