@@ -104,7 +104,7 @@ SP持有人選舉的個人，作為見證人，公佈餵價。 可以認為，�
 
 即使所有飼料生產商都是誠實的，大多數飼料生產商也有可能受到超出其控制範圍的事件的影響。 Steem 網路旨在容忍中位價格提要的短期腐敗, 而社區則積極努力糾正這一問題。 可能需要一段時間糾正的一個例子是短期市場操縱。 市場操縱是困難和昂貴的維持長期的時間。 另一個例子是集中交換失敗或交易所發佈的資料損壞。
 
-Steem factors out short-term price fluctuations by using the median price over a period of three and a half days. The median published feed is sampled every hour on the hour.
+Steem 通過使用三天以上的中位價格來影響短期價格波動。中位公佈的提要每小時採樣一次。
 
 As long as the price feed corruption lasts for less than half the moving median time window it will have minimal impact on the conversion price. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
 
