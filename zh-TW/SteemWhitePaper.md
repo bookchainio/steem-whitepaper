@@ -106,7 +106,7 @@ SP持有人選舉的個人，作為見證人，公佈餵價。 可以認為，�
 
 Steem 通過使用三天以上的中位價格來影響短期價格波動。中位公佈的提要每小時採樣一次。
 
-只要價格腐敗的持續時間不到移動中值時間窗的一半，它將對轉換價格的影響最小。 如果飼料確實變質了，網絡參與者將有機會在腐敗飼料影響實際轉換價格之前將腐敗飼料生產商投出去。 Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
+只要價格腐敗的持續時間不到移動中值時間窗的一半，它將對轉換價格的影響最小。 如果飼料確實變質了，網絡參與者將有機會在腐敗飼料影響實際轉換價格之前將腐敗飼料生產商投出去。 也許更重要的是, 它給飼料生產者一個機會, 以發現和糾正問題之前, 他們的飼料開始影響價格。
 
 With a three and a half day window, community members have approximately one and a half days to respond to any issues that come up.
 
