@@ -134,7 +134,7 @@ STEEM 價值的快速變化可以顯著改變債務與擁有權的比率。 Bloc
 
 SBD 支付持有人利息。 利率由發布價格飼料的同一個人設定，以便它能夠適應不斷變化的市場條件。 所有債務都會給貸款人帶來風險。 有人認為不可取的是SBD社區有效貸款一美元的價值。 他們相信在未來的某一時刻會有人願意從他們的美元或將有投機者和投資者願意購買蒸汽轉換為購買SBD。
 
-當社會成員願意持有 SBD 時, STEEM 和 SP 持有者將獲得杠杆作用。 This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
+當社會成員願意持有 SBD 時, STEEM 和 SP 持有者將獲得杠杆作用。 這種杠杆作用放大了增長帶來的收益, 同時也促進了增長。 如果價格下跌, STEEM 持有者也會受到稀釋的加劇。 Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
 
 ### Setting Price Feeds
 
