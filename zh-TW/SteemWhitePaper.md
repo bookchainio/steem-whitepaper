@@ -126,13 +126,13 @@ Blockchain 决定如何以及何時創建SBD和誰應該得到它。這使SBD創
 
 如果一個代幣被視為整個代幣供應的所有權，那麼代幣可兌換美元就可以被視為債務。 如果債務與所有權比率過高，整個貨幣就會變得不穩定。 債務轉換可以極大地新增代幣供應，而這反過來又在市場上抑制價格。 隨後的轉換需要發行更多的代幣。 如果不受控制，系統會崩潰並留下堆積如山的債務所背書的毫無價值的所有權。 債務與所有權比率越高，新的投資者就越不願意投資。
 
-STEEM 價值的快速變化可以顯著改變債務與擁有權的比率。 Blockchain 防止債務與擁有權的比率過高, 通過通過 SBD 轉換來減少 STEEM 的金額, 如果債務水準超過10%。 If the amount of SBD debt ever exceeds 10% of the total STEEM market cap, the blockchain will automatically reduce the amount of STEEM generated through conversions to a maximum of 10% of the market cap. This ensures that the blockchain will never have higher than a 10% debt-to-ownership ratio.
+STEEM 價值的快速變化可以顯著改變債務與擁有權的比率。 Blockchain 防止債務與擁有權的比率過高, 通過通過 SBD 轉換來減少 STEEM 的金額, 如果債務水準超過10%。 如果 SBD 債務的數額超過了總 STEEM 市場上限的 10%, blockchain 將自動減少通過轉換而產生的 STEEM 數量, 達到最大市值上限的10%。 這確保了blockchain將永遠不會有高於10%的債務股權比率。
 
-The percentage floors used to compute STEEM creation are based on the supply including the STEEM value of all outstanding SBD and SP (as determined by the current rate / feed).
+用於計算 STEEM 創建的百分比層基於供應, 包括所有未完成的 SBD 和 SP 的 STEEM 值 (由當前速率/提要確定)。
 
-### Interest
+### 利息
 
-SBD pays holders interest. The interest rate is set by the same people who publish the price feed so that it can adapt to changing market conditions. All debt carries risk to the lender. Someone who holds SBD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SBD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
+SBD 支付持有人利息。 利率由發布價格飼料的同一個人設定，以便它能夠適應不斷變化的市場條件。 所有債務都會給貸款人帶來風險。 有人認為不可取的是SBD社區有效貸款一美元的價值。 他們相信在未來的某一時刻會有人願意從他們的美元或將有投機者和投資者願意購買蒸汽轉換為購買SBD。
 
 STEEM and SP holders gain leverage when members of the community are willing to hold SBD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
 
