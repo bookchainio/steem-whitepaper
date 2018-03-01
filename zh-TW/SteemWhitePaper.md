@@ -134,11 +134,11 @@ STEEM 價值的快速變化可以顯著改變債務與擁有權的比率。 Bloc
 
 SBD 支付持有人利息。 利率由發布價格飼料的同一個人設定，以便它能夠適應不斷變化的市場條件。 所有債務都會給貸款人帶來風險。 有人認為不可取的是SBD社區有效貸款一美元的價值。 他們相信在未來的某一時刻會有人願意從他們的美元或將有投機者和投資者願意購買蒸汽轉換為購買SBD。
 
-當社會成員願意持有 SBD 時, STEEM 和 SP 持有者將獲得杠杆作用。 這種杠杆作用放大了增長帶來的收益, 同時也促進了增長。 如果價格下跌, STEEM 持有者也會受到稀釋的加劇。 Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
+當社會成員願意持有 SBD 時, STEEM 和 SP 持有者將獲得杠杆作用。 這種杠杆作用放大了增長帶來的收益, 同時也促進了增長。 如果價格下跌, STEEM 持有者也會受到稀釋的加劇。 加密貨幣項目顯示增加願意以資產信任網絡的用戶群比在經濟低迷時期稀釋給網絡增加更多的價值。
 
-### Setting Price Feeds
+### 设置喂价
 
-Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
+精明的讀者會認識到，有限的有息資產可能比其他資產更高或更低，這取決於其他機會獲得同一資產的利息。 以高利率資產盯住美元的美國許多人會抬高美元的Steem供應有限，直到他們不再是價值1美元支付。 In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
 
 1. A stable exchange rate
 2. Free capital movement
