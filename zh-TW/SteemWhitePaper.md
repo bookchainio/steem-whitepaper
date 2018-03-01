@@ -124,7 +124,7 @@ Blockchain 决定如何以及何時創建SBD和誰應該得到它。這使SBD創
 
 ### 可持續債務到擁有權比率
 
-如果一個代幣被視為整個代幣供應的所有權，那麼代幣可兌換美元就可以被視為債務。 如果債務與所有權比率過高，整個貨幣就會變得不穩定。 債務轉換可以極大地新增代幣供應，而這反過來又在市場上抑制價格。 Subsequent conversions require the issuance of even more tokens. Left unchecked the system can collapse leaving worthless ownership backing a mountain of debt. The higher the debt to ownership ratio becomes the less willing new investors are to bring capital to the table.
+如果一個代幣被視為整個代幣供應的所有權，那麼代幣可兌換美元就可以被視為債務。 如果債務與所有權比率過高，整個貨幣就會變得不穩定。 債務轉換可以極大地新增代幣供應，而這反過來又在市場上抑制價格。 隨後的轉換需要發行更多的代幣。 如果不受控制，系統會崩潰並留下堆積如山的債務所背書的毫無價值的所有權。 債務與所有權比率越高，新的投資者就越不願意投資。
 
 A rapid change in the value of STEEM can dramatically change the debt-to-ownership ratio. The blockchain prevents the debt-to-ownership ratio from getting too high, by reducing the amount of STEEM awarded through SBD conversions if the debt level were to exceed 10%. If the amount of SBD debt ever exceeds 10% of the total STEEM market cap, the blockchain will automatically reduce the amount of STEEM generated through conversions to a maximum of 10% of the market cap. This ensures that the blockchain will never have higher than a 10% debt-to-ownership ratio.
 
