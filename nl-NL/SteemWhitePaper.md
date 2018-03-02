@@ -196,11 +196,11 @@ Gelukkig is het zo dat werk dat een groot aantal stemmen krijgt, ook de meeste c
 
 Het gebruik van *negatief-stemmen* om te voorkomen dat mensen misbruik van het systeem maken, maakt gebruik van de *krab mentaliteit* dat veel mensen hebben wanneer het wordt opgemerkt dat een individu winst maakt ten koste van alle anderen. Waar normaal gezien verwezen wordt naar krab mentaliteit als kortzichtige mensen goede mensen terughouden, is het ook wat goede mensen in staat stelt slechte mensen te begrenzen. Het enige probleem met de krabmentaliteit is wanneer mensen *misplaatst geloven* dat iemand profiteert ten koste van iemand anders.
 
-**The Story of the Crab Bucket**[^6]
+**Het verhaal van de Krab Emmer**[^6]
 
-A man was walking along the beach and saw another man fishing in the surf with a bait bucket beside him. As he drew closer, he saw that the bait bucket had no lid and had live crabs inside.
+Een man wandelde langs heet strand en zag een andere man die aan het vissen was met een aasemmer naast zich. Toen hij dichterbij kwam zag hij dat de aasemmer geen deksel had en dat er levende krabben inzaten.
 
-"Why don't you cover your bait bucket so the crabs won't escape?", he said.
+"Waarom bedek je de aasemmer niet zodat de krabben niet ontsnappen?", vroeg hij.
 
 "You don't understand.", the man replied, "If there is one crab in the bucket it would surely crawl out very quickly. However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
 
