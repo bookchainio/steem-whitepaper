@@ -202,9 +202,9 @@ Een man wandelde langs heet strand en zag een andere man die aan het vissen was 
 
 "Waarom bedek je de aasemmer niet zodat de krabben niet ontsnappen?", vroeg hij.
 
-"You don't understand.", the man replied, "If there is one crab in the bucket it would surely crawl out very quickly. However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
+"Je snapt het niet", antwoordde de andere man, "als er maar een enkele krab in de emmer zat zou die er zeker heel snel uitkruipen.". "Maar als er meerdere krabben in de emmer zitten en er probeert er een langs de rand omhoog te kruipen dan nemen alle anderen hem vast en rekken ze hem terug zodat hij hetzelfde lot deelt als zij."
 
-So it is with people. If one tries to do something different, get better grades, improve herself, escape her environment, or dream big dreams, other people will try to drag her back down to share their fate.
+Zo is het ook met mensen. If one tries to do something different, get better grades, improve herself, escape her environment, or dream big dreams, other people will try to drag her back down to share their fate.
 
 Eliminating “abuse” is not possible and shouldn’t be the goal. Even those who are attempting to “abuse” the system are still doing work. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn’t so rampant that it undermines the incentive to do real work in support of the community and its currency.
 
