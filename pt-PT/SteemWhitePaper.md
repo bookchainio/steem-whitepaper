@@ -226,11 +226,11 @@ A Lei de Zipf[^7] é uma dessas regras empíricas que caracteriza uma gama surpr
 
 ![](\img_the_new_marketplace.png)
 
-Considerando a população como uma medida bruta de valor, então o valor de cada item indivídual é dado pela Lei de Zipf. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
+Considerando a população como uma medida bruta de valor, então o valor de cada item indivídual é dado pela Lei de Zipf. Isso é, se tivermos um milhão de itens, os 100 mais populares irão contribuir com um terço do valor total, os próximos 10.000 outro terço, o os 989.900 restantes com o terço final. O valor do conjunto de "n" itens é proporcional ao log(n).
 
-The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
+O impacto dessa distribuição de votação e pagamento é oferecer grandes recompensas para bons conteúdos enquanto ainda recompensa pequenos jogadores pela sua contribuição no final da linha.
 
-The economic effect of this is similar to a lottery where people overestimate their probability of getting votes and thus do more work than the expected value of their reward and thereby maximize the total amount of work performed in service of the community. The fact that everyone “wins something” plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
+O efeito econômico disso é semelhante à loteria aonde as pessoas sobrestimam a sua probabilidade de receber votos e assim realizam um trabalho maior que o valor esperado da sua recompensa e assim maximizam o trabalho total realizado em serviço da comunidade. The fact that everyone “wins something” plays on the same psychology that casinos use to keep people gambling. Em outras palavras, pequenas recompensas ajudam a reforçar a idéia de que é possível receber maiores recompensas.
 
 ### Pagamentos
 
@@ -246,7 +246,7 @@ The algorithms used by cryptocurrencies provide a better way to reach consensus.
 
 The primary consideration is determining what testimony is allowed to enter the public record. Systems should be designed to minimize the potential for censorship. Censorship on the public ledger is similar to preventing someone from voting in an election. In both cases an individual is prevented from impacting the global consensus.
 
-## Consensus in Steem
+## Consenso no Steem
 
 Conceptualmente, o algoritmo de consenso adotado por Steem é parecido ao algoritmo de consenso adotado por empresas de todo o mundo. Pessoas com um interesse investido no futuro de Steem, vota para eleger indivíduos responsáveis de incluir testemunhos no registo público. O peso do voto é determinado proporcionalmente ao interesse investido de cada indivíduo.
 
@@ -376,7 +376,7 @@ Decentralized rate limiting of transactions can enable new types of decentralize
 
 # Performance and Scalability
 
-A rede Steem é construída com base em Graphene, a mesma tecnologia que alimenta os BitShares. Graphene has been publicly demonstrated sustaining over 1000 transactions per second on a distributed test network. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
+A rede Steem é construída com base em Graphene, a mesma tecnologia que alimenta os BitShares. O Graphene demonstrou publicamente a capacidade de sustentar 1000 transações por segundo em uma rede distribuída de testes. O Graphene pode expandir para 10.000 ou mais transações por segundo com melhorias simples e diretas na capacidade de servidor e protocolos de comunicação.
 
 ## Escala do Reddit
 
@@ -437,11 +437,11 @@ The price of a digital commodity, like STEEM, is driven by both supply and deman
 
 # The Power of Steem
 
-Steem recognizes that the value of all user contributions (posts and votes) is greater than the sum of the parts. A single comment is worth next to nothing, but millions of curated posts is worth many millions (or possibly even billions) of dollars. A single vote provides little curation value, but billions of votes is very effective curation. Content without curation is of limited value. Given all the content of the Internet minus the links between it, Google would struggle to produce useful search results. It is the links between information that give it significant value.
+O Steem reconhece que o valor da contribuição de todos os usuários (posts e votos) é maior que a soma das partes. Um único comentário não vale quase nada, mas milhões de posts curados valem muitos milhões (ou possivelmente até bilhões) de dólares. Um único voto fornece pouco valor de curadoria, mas bilhões de votos é bastante efetivo na curadoria. Conteúdo sem curadoria tem um valor limitado. Dado todo o conteúdo da Internet menos os links entre eles, o Google teria dificuldades em produzir resultados de busca úteis. É o link entre a informação que fornece um valor significativo.
 
-Because everyone benefits, everyone should pay. In other words, no individual user should be expected to pay for anything, but instead should be paid for everything they do that brings value to Steem. All we need to do is ascertain which user contributions bring a social network value and which ones don’t.
+Já que todos se beneficiam, todos deveriam pagar. Em outras palavras, não se deve esperar que algum usuário individualmente pague por alguma coisa, mas ao invés disso deveria ser pago por tudo que eles fazem que trazem valor para o Steem. Tudo que devemos fazer é definir quais contribuições do usuário trazem um valor para a rede social e quais não o fazem.
 
-Collectively Reddit users vote 220 times per second and make 23 posts per second. Reddit is valued between $500 million[^18] and $4 billion[^19] which means that each and every upvote and post is worth between $0.06 and $0.50 assuming the value of Reddit is mostly within the past year’s worth of activity. One could argue that most of the value of Reddit is the near-real-time discussions that have occurred within the past week which would dramatically increase the value of new activity. People go where people are today, not where people were last year.
+Coletivamente, os usuários do Reddit votam 220 vezes por segundo e fazem 23 posts por segundo. O Reddit é avaliado entre $500 milhões[^18] e $4 bilhões[^19] o que significa que cada um dos votos e posts valem cerca de $0,06 e $0,50 assumindo que o calor do Reddit provém majoritariamente do ultimo ano de atividade. One could argue that most of the value of Reddit is the near-real-time discussions that have occurred within the past week which would dramatically increase the value of new activity. People go where people are today, not where people were last year.
 
 ## No Micropayments, Tips Optional
 
