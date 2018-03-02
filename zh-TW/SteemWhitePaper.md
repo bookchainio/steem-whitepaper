@@ -158,9 +158,9 @@ Steem 飼料生產商的主要關注是保持 SBD 和美元之間的一對一轉
 
 如果債務股權比率越高，市場參與者選擇避免轉換請求，然後飼料應調整新增的速率在蒸汽轉換為SBD支付。
 
-Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SBD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions.
+在 STEEM/SBD 的轉化率應該是一個緩慢的、長期的平均偏差量測的響應，而不是試圖應對短期的市場條件下，利率政策和/或任何溢價/折扣變化。
 
-It is our belief that these rules will give market participants confidence that they are unlikely lose money by holding SBD purchased at a price of $1.00. We fully expect there to be a narrow trading range between $0.95 and $1.05 for SBD under normal market conditions.
+我們相信, 這些規則將使市場參與者相信, 持有 SBD 以1.00 元的價格購買, 他們不太可能賠錢。 We fully expect there to be a narrow trading range between $0.95 and $1.05 for SBD under normal market conditions.
 
 ## Subjective Contributions
 
