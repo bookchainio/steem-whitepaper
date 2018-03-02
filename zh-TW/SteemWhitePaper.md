@@ -138,13 +138,13 @@ SBD 支付持有人利息。 利率由發布價格飼料的同一個人設定，
 
 ### 设置喂价
 
-精明的讀者會認識到，有限的有息資產可能比其他資產更高或更低，這取決於其他機會獲得同一資產的利息。 以高利率資產盯住美元的美國許多人會抬高美元的Steem供應有限，直到他們不再是價值1美元支付。 In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
+精明的讀者會認識到，有限的有息資產可能比其他資產更高或更低，這取決於其他機會獲得同一資產的利息。 以高利率資產盯住美元的美國許多人會抬高美元的Steem供應有限，直到他們不再是價值1美元支付。 在經濟學中有一個原理，稱為不可能的三位一體[^4]。它指出不可能同時擁有以下所有三的內容：
 
-1. A stable exchange rate
-2. Free capital movement
-3. An independent monetary policy
+1. 穩定的匯率
+2. 自由資本運動
+3. 一個獨立的貨幣政策
 
-If Steem feed producers aim to have an independent monetary policy allowing it to create and destroy Steem Dollars while simultaneously having full control over the interest rate then they will encounter problems. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
+如果 Steem 的飼料生產目的有獨立的貨幣政策，允許它的創造與毀滅的同時，在蒸汽的美元利率的完全控制，然後他們會遇到問題。 The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
 
 The primary concern of Steem feed producers is to maintain a stable one-to-one conversion between SBD and the U.S. Dollar (USD). Any time SBD is consistently trading above $1.00 USD interest payments must be stopped. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SBD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
 
