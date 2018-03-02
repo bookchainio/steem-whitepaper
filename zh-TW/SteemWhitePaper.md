@@ -144,9 +144,9 @@ SBD 支付持有人利息。 利率由發布價格飼料的同一個人設定，
 2. 自由資本運動
 3. 一個獨立的貨幣政策
 
-如果 Steem 的飼料生產目的有獨立的貨幣政策，允許它的創造與毀滅的同時，在蒸汽的美元利率的完全控制，然後他們會遇到問題。 The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
+如果 Steem 的飼料生產目的有獨立的貨幣政策，允許它的創造與毀滅的同時，在蒸汽的美元利率的完全控制，然後他們會遇到問題。 不可能的三位一體說，Steem 的美元需要限制資本流動，與美元的匯率不穩定，或在利率限制控制。
 
-The primary concern of Steem feed producers is to maintain a stable one-to-one conversion between SBD and the U.S. Dollar (USD). Any time SBD is consistently trading above $1.00 USD interest payments must be stopped. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SBD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
+Steem 飼料生產商的主要關注是保持 SBD 和美元之間的一對一轉換。 任何時間 SBD 持續交易超過1.00 美元的利息支付必須停止。 在一個市場上，0% 的債務利息仍然要求溢價，可以肯定地說，市場願意擴大比社區願意承擔的債務更多的信貸。 如果發生這種情況，SBD將價值超過1美元，很少有社區可以不用充電的負利率。
 
 If the debt-to-ownership ratio is low and SBD is trading for less than $1.00, then the interest rate should be increased. This will encourage more people to hold their SBD and support the price.
 
