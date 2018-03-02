@@ -152,9 +152,9 @@ Dacă raportul datoriei către proprietate este scăzut și SBD este schimbat pe
 
 Dacă SBD este schimbat pentru mai puțin de 1$ și raportul datoriei către proprietate este mare, atunci fluxurile ar trebui ajustate în sus, astfel putându-se cumpăra mai mulți STEEM per SBD. Acest lucru o să ducă la creșterea cererii pentru SBD, reducând astfel raportul dobânzii către proprietate și returnând SBD la paritatea cu USD.
 
-Presupunând că valoarea STEEM crește mai repede decât creează Steem noi SBD, raportul datoriei către proprietate ar trebui să rămână sub raportul țintă iar de dobândă, vor beneficia cu toții. If the value of the network is flat or falling, then any interest offered will only make the debt-to-ownership ratio worse.
+Presupunând că valoarea STEEM crește mai repede decât creează Steem noi SBD, raportul datoriei către proprietate ar trebui să rămână sub raportul țintă iar de dobândă, vor beneficia cu toții. Dacă valoarea rețelei este neschimbată sau scade, atunci orice dobândă oferită o să înrăutățească raportul datoriei către proprietate.
 
-In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
+Astfel, producătorii de flux sunt însărcinați cu responsabilitatea de a stabili politica monetară cu scopul de a menține o paritate stabilă cu USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
 
 If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SBD.
 
