@@ -184,9 +184,9 @@ Următorul pas este recompensarea tuturor celor care contribuie într-un pozitiv
 
 ### Votarea pentru Distribuția Monedei
 
-Assume there is a fixed amount of money to distribute, and that those who have a long-term vested interest in the future value and utility of the currency are the ones who must decide how to allocate it. Every vesting user casts their votes on who did the best work and at the end of the day the available money for that day is divided proportional to the votes such that everyone with even one net positive vote gets something.
+Să presupune că există o sumă fixă de bani pentru a fi distribuită, iar cei care au făcut o investiție pe termen lung în viitorul și utilitatea acelei monede, sunt cei care decid cum să fie alocată. Fiecare utilizator cu propietate de intare în drepturi (vesting), își distribuie voturile către cine și-a făcut treaba cel mai bine, iar la finalul zilei, banii disponibili din acea zi sunt proporțional împărțiți către voturi astfel fiecare persoană care a votat pozitiv, o să primească ceva.
 
-The naive voting process creates a N-Person Prisoner’s Dilemma[^5] whereby each individual voter has incentive to vote for themselves at the expense of the larger community goal. If every voter defects by voting for themselves then no currency will end up distributed and the currency as a whole will fail to gain network effect. On the other hand, if only one voter defects then that voter would win undeserved profits while having minimal effect on the overall value of the currency.
+Acest proces de votare naivă, creează o dilemă prizonier de N-persoană [^5] unde fiecare votant se poate vota pe sine, în detrimentul scopului comunității. If every voter defects by voting for themselves then no currency will end up distributed and the currency as a whole will fail to gain network effect. On the other hand, if only one voter defects then that voter would win undeserved profits while having minimal effect on the overall value of the currency.
 
 #### Abuzarea Votului
 
