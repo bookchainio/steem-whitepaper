@@ -168,7 +168,7 @@ Steem 飼料生產商的主要關注是保持 SBD 和美元之間的一對一轉
 
 實際上，評估工作的標準是完全主觀的，其定義不在原始程式碼本身。 一個社區可能希望獎勵藝術家，另一位詩人和另一位喜劇演員。 其他社區可能選擇獎勵慈善事業或幫助推進政治議程
 
-The value each currency achieves depends upon the demand for influence within a particular community and how large the market believes each community can get. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
+每一種貨幣的價值取決於特定社會對需求的影響，以及市場對每個社區的信任程度。 每一種貨幣的價值取決於特定社會對需求的影響，以及市場對每個社區的信任程度。
 
 ### Distributing Currency
 
