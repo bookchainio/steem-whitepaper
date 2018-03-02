@@ -148,13 +148,13 @@ SBD 支付持有人利息。 利率由發布價格飼料的同一個人設定，
 
 Steem 飼料生產商的主要關注是保持 SBD 和美元之間的一對一轉換。 任何時間 SBD 持續交易超過1.00 美元的利息支付必須停止。 在一個市場上，0% 的債務利息仍然要求溢價，可以肯定地說，市場願意擴大比社區願意承擔的債務更多的信貸。 如果發生這種情況，SBD將價值超過1美元，很少有社區可以不用充電的負利率。
 
-If the debt-to-ownership ratio is low and SBD is trading for less than $1.00, then the interest rate should be increased. This will encourage more people to hold their SBD and support the price.
+如果債務股權比率低，SBD是低於1美元的交易，那麼利率應新增。這將鼓勵更多的人保持他們的SBD和支持價格。
 
-If SBD trades for less than $1.00 USD and the debt-to-ownership ratio is high, then the feeds should be adjusted upward give more STEEM per SBD. This will increase demand for SBD while also reducing the debt-to-ownership ratio and returning SBD to parity with USD.
+如果 SBD 交易的金額少於1.00 美元, 而債務與擁有權的比率很高, 那麼該飼料應該調整向上給出更多的 STEEM 每 SBD。 這將新增需求的SBD同時减少債務股權比例和返回的SBD平價美元。
 
-Assuming the value of STEEM is growing faster than Steem is creating new SBD, the debt-to-ownership ratio should remain under the target ratio and the interest offered benefits everyone. If the value of the network is flat or falling, then any interest offered will only make the debt-to-ownership ratio worse.
+假設 STEEM 的價值增長快于蒸汽正在創造新的 SBD, 債務與擁有權的比率應保持在目標比率之下, 所提供的利益惠及每一個人。 如果網絡的價值是平的或下降的，那麼任何利息只會使債務與所有權比率惡化。
 
-In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
+實際上，飼料生產商有責任製定貨幣政策，以維持與美元的穩定掛鉤。 Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
 
 If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SBD.
 
