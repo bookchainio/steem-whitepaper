@@ -164,11 +164,11 @@ Avem convingerea că aceste reguli o să le dea participanțiilor pieței încre
 
 ## Contribuții Subiective
 
-Dovada subiectivă de lucru prezintă o abordare alternativă pentru distribuirea unei monede care aduce îmbunătățiri *obiective* pentru Sistem de Dovadă de lucru, cum ar fi minarea. Aplicațiile unei valute care implementează o dovadă de muncă *subiectivă*, sunt mult mai largi decât orice dovadă de muncă *obiectivă*, deoarce pot fi aplicate pentru construirea unei comunități în jurul unui concept care are scopuri definite. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
+Dovada subiectivă de lucru prezintă o abordare alternativă pentru distribuirea unei monede care aduce îmbunătățiri *obiective* pentru Sistem de Dovadă de lucru, cum ar fi minarea. Aplicațiile unei valute care implementează o dovadă de muncă *subiectivă*, sunt mult mai largi decât orice dovadă de muncă *obiectivă*, deoarce pot fi aplicate pentru construirea unei comunități în jurul unui concept care are scopuri definite. Atunci când indivizii se alătură unei comunități, ei adoptă un anumit set de convingeri și pot vota pentru consolidarea valorilor și scopurilor comunității.
 
-In effect, the criteria by which work is evaluated is completely subjective and its definition lives outside the source code itself. One community may wish to reward artists, another poets, and another comedians. Other communities may choose to reward charitable causes or help advance political agendas.
+Astfel, criteriile după care este evaluată munca, sunt complet subiective și definiția trăiește în afara sursei codului în sine. O comunitate poate alege să răspătească artiștii, alta poeții, iar alta comedianii. Alte comunități pot alege să răsplătească cauze caritabile sau să ajute agende politice.
 
-The value each currency achieves depends upon the demand for influence within a particular community and how large the market believes each community can get. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
+Valoarea atinsă a fiecărei monede depinde de cererea de influență dintr-o comunitate anume și cât de mare consideră piață că o să ajungă acea comunitate. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
 
 ### Distribuirea monedei
 
