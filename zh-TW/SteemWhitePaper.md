@@ -154,7 +154,7 @@ Steem 飼料生產商的主要關注是保持 SBD 和美元之間的一對一轉
 
 假設 STEEM 的價值增長快于蒸汽正在創造新的 SBD, 債務與擁有權的比率應保持在目標比率之下, 所提供的利益惠及每一個人。 如果網絡的價值是平的或下降的，那麼任何利息只會使債務與所有權比率惡化。
 
-實際上，飼料生產商有責任製定貨幣政策，以維持與美元的穩定掛鉤。 Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
+實際上，飼料生產商有責任製定貨幣政策，以維持與美元的穩定掛鉤。 濫用這一權力會損害 STEEM 的價值, 因此 SP 持有人明智地投票給可以指望根據上述規則調整價格飼料和利率的證人。
 
 If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SBD.
 
