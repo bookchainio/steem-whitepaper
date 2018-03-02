@@ -138,7 +138,7 @@ Deținătorii STEEM și SP obțin avantaje atunci când membrii comunității su
 
 ### Setarea Fluxurilor Prețului
 
-Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. Cu o rată a dobânzii raportată la dolarul american, mulți oameni o să liciteze în sus pentru stocul de Dolari Streem, până când acesta nu o să mai valoreze 1$. În economie există un principiu cunoscut ca Trinitatea Imposibilă[^4] care susține că este imposibil să ai următoarele trei lucruri în același timp:
+Persoanele experimentate în aceste privințe, vor recunoaște că o dobândă pentru o ofertă limitată ar putea să se vândă fie mai sus sau mai jos decât valoare bunului, în funcție de oportunitățiile de a câștiga dobândă la aceași bun. Cu o rată a dobânzii raportată la dolarul american, mulți oameni o să liciteze în sus pentru stocul de Dolari Streem, până când acesta nu o să mai valoreze 1$. În economie există un principiu cunoscut ca Trinitatea Imposibilă[^4] care susține că este imposibil să ai următoarele trei lucruri în același timp:
 
 1. O rată de schimb stabilă
 2. Libera circulație a capitalui
@@ -150,9 +150,9 @@ Principala preocupare a producătorilor de flux Steem eate să mențină o conve
 
 Dacă raportul datoriei către proprietate este scăzut și SBD este schimbat pentru mai puțin de 1$, atunci dobânda ar trebui să crească. Acest lucru o să încurajeze mai mule persoane să țină SBD, sprijinând astfel prețul.
 
-If SBD trades for less than $1.00 USD and the debt-to-ownership ratio is high, then the feeds should be adjusted upward give more STEEM per SBD. This will increase demand for SBD while also reducing the debt-to-ownership ratio and returning SBD to parity with USD.
+Dacă SBD este schimbat pentru mai puțin de 1$ și raportul datoriei către proprietate este mare, atunci fluxurile ar trebui ajustate în sus, astfel putându-se cumpăra mai mulți STEEM per SBD. Acest lucru o să ducă la creșterea cererii pentru SBD, reducând astfel raportul dobânzii către proprietate și returnând SBD la paritatea cu USD.
 
-Assuming the value of STEEM is growing faster than Steem is creating new SBD, the debt-to-ownership ratio should remain under the target ratio and the interest offered benefits everyone. If the value of the network is flat or falling, then any interest offered will only make the debt-to-ownership ratio worse.
+Presupunând că valoarea STEEM crește mai repede decât creează Steem noi SBD, raportul datoriei către proprietate ar trebui să rămână sub raportul țintă iar de dobândă, vor beneficia cu toții. If the value of the network is flat or falling, then any interest offered will only make the debt-to-ownership ratio worse.
 
 In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
 
