@@ -160,11 +160,11 @@ Dacă raportul datoriei către proprietate devine periculos de mare, iar partici
 
 Schimbările politicii ratei dobânzii și/sau primele/reducerile pe rata cursului de schimb STEEM/SBD, ar trebui să fie un răspuns lent, măsurat pe abateri pe termen lung și nu pe încercări de a schimba condițiile pe termen scurt ale pieței.
 
-It is our belief that these rules will give market participants confidence that they are unlikely lose money by holding SBD purchased at a price of $1.00. We fully expect there to be a narrow trading range between $0.95 and $1.05 for SBD under normal market conditions.
+Avem convingerea că aceste reguli o să le dea participanțiilor pieței încrederea că este puțin probabil să piardă bani prin cumpărarea SBD cu valoare de 1$. În condiții normale de piață, ne așteptăm să fie un interval îngust de comercializare între 0.95$ și 1.05$.
 
 ## Contribuții Subiective
 
-Dovada subiectivă de lucru prezintă o abordare alternativă pentru distribuirea unei monede care aduce îmbunătățiri *obiective* pentru Sistem de Dovadă de lucru, cum ar fi minarea. The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
+Dovada subiectivă de lucru prezintă o abordare alternativă pentru distribuirea unei monede care aduce îmbunătățiri *obiective* pentru Sistem de Dovadă de lucru, cum ar fi minarea. Aplicațiile unei valute care implementează o dovadă de muncă *subiectivă*, sunt mult mai largi decât orice dovadă de muncă *obiectivă*, deoarce pot fi aplicate pentru construirea unei comunități în jurul unui concept care are scopuri definite. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
 
 In effect, the criteria by which work is evaluated is completely subjective and its definition lives outside the source code itself. One community may wish to reward artists, another poets, and another comedians. Other communities may choose to reward charitable causes or help advance political agendas.
 
