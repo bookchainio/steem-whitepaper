@@ -180,9 +180,9 @@ Pentru a putea da tuturor o șansă egală să se implică și să câștige mon
 
 Primul pas în recompensarea a milioane de utilizatori este stabilirea unei sume fixe de distribuție din valuta respectivă, indiferent de cât de multă muncă este efectuată sau de cum votează utilizatorii. Acest lucru duce la schimbarea întrebării *“Ar trebui să plătim?* în *“Pe cine ar trebui să plătim?“* și semnalează pieței că banii sunt distribuiți către cel care “oferă“ cea mai multă *muncă*. Acest lucru este similar cu Bitcoin, care acordă 50 BTC către oricine care găsește cele mai dificile hash-uri. Precum în cazul Bitcoin, toată munca este făcută înainte de plată și nimic nu ar trebui plătit speculativ, doar pe promisiunea de a muncii.
 
-The next step is to reward everyone who does anything even remotely positive with *something*. This is accomplished by ranking all work done and distributing proportionally to its value. The more competitive the market becomes, the more difficult (higher quality or quantity) it becomes to earn the same payout.
+Următorul pas este recompensarea tuturor celor care contribuie într-un pozitiv cu *ceva*. Acest lucru este realizat prin clasamentul muncii depuse și distribuirea proporțională a valorii. Cu cât piața devine mai competitivă, cu atât este mai dificil (cantitate sau calitate mai ridicate) să câștigi aceleași recompense.
 
-### Voting on Distribution of Currency
+### Votarea pentru Distribuția Monedei
 
 Assume there is a fixed amount of money to distribute, and that those who have a long-term vested interest in the future value and utility of the currency are the ones who must decide how to allocate it. Every vesting user casts their votes on who did the best work and at the end of the day the available money for that day is divided proportional to the votes such that everyone with even one net positive vote gets something.
 
