@@ -168,7 +168,7 @@ Dovada subiectivă de lucru prezintă o abordare alternativă pentru distribuire
 
 Astfel, criteriile după care este evaluată munca, sunt complet subiective și definiția trăiește în afara sursei codului în sine. O comunitate poate alege să răspătească artiștii, alta poeții, iar alta comedianii. Alte comunități pot alege să răsplătească cauze caritabile sau să ajute agende politice.
 
-Valoarea atinsă a fiecărei monede depinde de cererea de influență dintr-o comunitate anume și cât de mare consideră piață că o să ajungă acea comunitate. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
+Valoarea atinsă a fiecărei monede depinde de cererea de influență dintr-o comunitate anume și cât de mare consideră piață că o să ajungă acea comunitate. Spre deosebire de sistemele anterioare, dovada de muncă subiectivă, permite comunității să finanțeze colectiv creșterea valorilor și monetizarea timpului care anterior nu era monetizat.
 
 ### Distribuirea monedei
 
