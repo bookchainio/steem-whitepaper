@@ -112,9 +112,9 @@ With a three and a half day window, community members have approximately one and
 
 ### Mitigating Timing Attacks
 
-Market participants have access to information faster than the blockchain’s three and a half day moving median conversion price can react. This information could be used to benefit of traders at the expense of the community. If there is a sudden increase in the value of STEEM traders could request conversion of their SBD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
+Market participants have access to information faster than the blockchain’s three and a half day moving median conversion price can react. This information could be used to benefit of traders at the expense of the community. Se houver um aumento súbito no valor do STEEM, os negociantes poderiam solicitar a conversão do seu SBD a um menor e mais antigo preço, e então vender o STEEM que eles receberem ao novo preço mais alto com um risco mínimo.
 
-Steem levels the playing field by requiring all conversion requests to be delayed for three and a half days. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
+Steem nivela o campo solicitando que todas as solicitações de conversão sejam atrasadas por três dias e meio. Isso significa que nem os negociantes nem a blockchain tem qualquer vantagem de informação sobre o preço no momento que a conversão é executada.
 
 ### Minimizar o abuso de conversões
 
@@ -141,8 +141,8 @@ Os possuidores de STEEM e SP ganham vantagem quando os membros da Comunidade est
 Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
 
 1. A stable exchange rate
-2. Free capital movement
-3. An independent monetary policy
+2. Livre circulação de capital
+3. Uma política monetária independente
 
 If Steem feed producers aim to have an independent monetary policy allowing it to create and destroy Steem Dollars while simultaneously having full control over the interest rate then they will encounter problems. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
 
@@ -164,11 +164,11 @@ It is our belief that these rules will give market participants confidence that 
 
 ## Contribuições Subjetivas
 
-Prova de trabalho subjetiva apresenta uma abordagem alternativa para distribuir uma moeda que melhora sistemas de prova de trabalho totalmente *objetivas*, tal como a mineração. The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
+Prova de trabalho subjetiva apresenta uma abordagem alternativa para distribuir uma moeda que melhora sistemas de prova de trabalho totalmente *objetivas*, tal como a mineração. The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. Quando indivíduos se juntam a uma comunidade eles compram um determinado conjunto de crenças e, podem votar para reforçar o propósito ou valor da comunidade.
 
 Em efeito, o critério pelo qual o trabalho é avaliado é completamente subjetivo e a sua definição vive para além do núcleo do código. Uma comunidade pode desejar recompensar artistas, outra comunidade pode desejar recompensar poetas e ainda outra comediantes. Outras comunidades podem escolher recompensar projetos da caridade ou ajudar planos políticos avançados.
 
-The value each currency achieves depends upon the demand for influence within a particular community and how large the market believes each community can get. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
+O valor que cada moeda alcança depende da exigência por influência dentro de uma comunidade em particular e o quão grande o mercado acredita que cada pode crescer. Ao contrário de sistemas anteriores, prova de trabalho subjetiva permite a uma comunidade financiar coletivamente o desenvolvimento de qualquer coisa que ela encontre valor e permite a monetização de tempo anteriormente não monetizado.
 
 ### Distributing Currency
 
@@ -447,19 +447,19 @@ Coletivamente, os usuários do Reddit votam 220 vezes por segundo e fazem 23 pos
 
 Tentativas existentes de integrar cryptocurrency em plataformas de redes sociais focaram-se em permitir que os usuários paguem uns aos outros. Muitos serviços têm tentado introduzir gorjetas. A teoria é que se tornarmos o modo de dar gorjetas suficientemente simples, então mais pessoas o irão fazer. Outros serviços tentam com que as pessoas paguem para promover ou incrementar o ranking do seu conteúdo. Ainda outros tentam construir pequenos mercados de previsões sobre quantas gorjetas um artigo irá receber.
 
-Todas estas abordagens resumem-se a micro-pagamentos. Diferem apenas em que é que está a efetuar o pagamento. Sofrem todos de falta de compromisso por parte das pessoas que efetuam os micro-pagamentos. In the search for incentivised content production entrepreneurs have been so focused on who should pay that they missed the obvious reality: everyone benefits from everyone’s actions so everyone should pay or no one should pay, depending on how you look at it.
+Todas estas abordagens resumem-se a micro-pagamentos. Diferem apenas em que é que está a efetuar o pagamento. Sofrem todos de falta de compromisso por parte das pessoas que efetuam os micro-pagamentos. Na busca de incentivar a produção de conteúdo os empreendedores tem se focado tanto em quem deveria pagar que não perceberam a óbvia realidade: Todos se beneficiam da ação de todos, então todos deveriam pagar ou ninguém deveria pagar, dependendo do ângulo que se observa.
 
-Steem bypasses micropayments completely because when a user upvotes a post it is the community that pays the bill. The same amount of money will be spent whether the user upvotes a post or not and the funds will not come from the voter.
+Steem ignora os micropagamentos completamente porque quando um usuário dá um voto em um post é a comunidade que paga a conta. A mesma quantidade de dinheiro será gasta independente do usuário votar um post ou não e os fundos não virão de quem votou.
 
-The mental energy associated with making an economic decision becomes a barrier to participation for most people.
+A energia mental associada a tomar uma decisão económica torna-se uma barreira de participação para a maioria das pessoas.
 
 *Nós já enfrentamos uma imensidão de escolhas todos os dias, com consideração em o que aceder nesta era digital da informação explosiva, e cada decisão adicional que devemos tomar apenas adiciona-se à incertidão e ansiedade que enfrentamos. Defensores dos micro-pagamentos acreditam que uma implementação simplificada por minimizar o poder de penetração dos micro-pagamentos e melhorar a experiência do usuário, mas os seus argumentos apenas criam "double standards" para o processo de tomar uma decisão \[2\]. A transaction cannot simultaneously be worth enough to warrant a decision and worth so little that the decision is automatic. ** As únicas transações que os usuários podem aprovar sem pensar são aquelas que não lhes custam nada**, além disso, qualquer micro-transação de valor positivo vai ter custos mentais por requerir uma decisão. Furthermore, mental transaction costs actually rise below a certain threshold value, a phenomenon that places micropayments at an even greater disadvantage. For instance, it is easy to think that a copy of today's newspapers costs $1, but readers face much more difficulty and anxiety in deciding on the value of each article or word. Such a dilemma will only be replicated and exacerbated if all online content were to be broken down into their components and individually valued within a micropayment system.*
 
 -Micropayments: A Viable Business Model[^20]
 
-Under Steem, micropayments are paid to content producer, but those who vote for the content do not pay. Instead, the cost of the reward is paid for via new tokens. Someone can join the system, vote to pay someone, and then exit the system with more money than they started with (assuming the market valuation of the Steem system remained constant). In other words, the micropayment solution provided by Steem provides a user-experience similar to many widely used websites that have user-moderated content.
+Sob o Steem, o micro-pagamentos são pagos para o produtor de conteúdo, mas aqueles votam pelo conteúdo não pagam. Ao invés disso, o custo da recompensa é paga através de novos tokens. Alguém pode juntar-se ao sistema, votar para pagar alguém, e sair do sistema sem nenhum dinheiro a mais do que aquele que eles iniciaram (supondo que o valor de mercado do sistema Steem se mantenha constante). Em outras palavras, a solução de micro-pagamentos fornecida pelo Steem permite uma experiência de usuário similar a muitas utilizadas nos websites que tem conteúdo moderado pelos usuários.
 
-Furthemore, Steem pays people to figure out who should be paid! This kind of thinking is revolutionary.
+Além disso, Steem paga às pessoas para descobrir quem deve ser pago! Esse tipo de pensamento é revolucionário.
 
 ## Value is in the Links
 
@@ -489,7 +489,7 @@ Outra maneira de as pessoas liquidarem as suas pequenas quantidades de cryptocur
 
 ## Censura
 
-Steem is a decentralized network that is operated by witnesses in jurisdictions around the world. All user actions are publicly recorded on the blockchain, and can be publicly verified. This means that there is no single entity that can censor content that is valued by STEEM holders.
+O Steem é uma rede descentralizada que é operada por testemunhas em jurisdições em todo o mundo. Todas as ações dos usuários são gravadas publicamente na blockchain, e podem ser publicamente verificadas. Isso significa que não existe uma única entidade que possa censurar o conteúdo que seja valorizado pelos proprietários de STEEM.
 
 Websites individuais como o steemit.com podem censurar conteúdo no seu site particular, mas conteúdo publicado no blockchain é inerentemente transmitido e continua a estar disponível em todo o mundo.
 
@@ -497,7 +497,7 @@ Liberdade de expressão é a base de todas as outras liberdades e qualquer viola
 
 ## Solving Organic Discovery via Search Engine Optimization
 
-A maioria das criptomoedas gera pouco lucro para aqueles que não usam a network frequentemente. Steem, pelo contrário, gera conteúdo e encoraja usuários a partilhá-lo. This content gets indexed by search engines and ultimately will bring value to a large number of passive users. This search traffic creates organic advertising for the Steem network and grows the network effect.
+A maioria das criptomoedas gera pouco lucro para aqueles que não usam a network frequentemente. Steem, pelo contrário, gera conteúdo e encoraja usuários a partilhá-lo. This content gets indexed by search engines and ultimately will bring value to a large number of passive users. Esse tráfego de pesquisa cria uma publicidade orgânica para a rede Steem e aumenta o efeito de rede.
 
 ## Shifting Toward Blockchain-based Attribution
 
