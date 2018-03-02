@@ -154,11 +154,11 @@ Dacă SBD este schimbat pentru mai puțin de 1$ și raportul datoriei către pro
 
 Presupunând că valoarea STEEM crește mai repede decât creează Steem noi SBD, raportul datoriei către proprietate ar trebui să rămână sub raportul țintă iar de dobândă, vor beneficia cu toții. Dacă valoarea rețelei este neschimbată sau scade, atunci orice dobândă oferită o să înrăutățească raportul datoriei către proprietate.
 
-Astfel, producătorii de flux sunt însărcinați cu responsabilitatea de a stabili politica monetară cu scopul de a menține o paritate stabilă cu USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
+Astfel, producătorii de flux sunt însărcinați cu responsabilitatea de a stabili politica monetară cu scopul de a menține o paritate stabilă cu USD. Abuzul puterii poate afecta negativ valoarea STEEM, astfel deținătorii înțelepți de SP, vor vota martori care vor ajusta fluxul prețului și al dobânzii, după regulile de mai sus.
 
-If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SBD.
+Dacă raportul datoriei către proprietate devine periculos de mare, iar participanții pieței aleg să evite conversia, atunci fluxul are trebui ajustat pentru a crește rata de schimbare a STEEM-ului plătit pentru conversia SBD.
 
-Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SBD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions.
+Schimbările politicii ratei dobânzii și/sau primele/reducerile pe rata cursului de schimb STEEM/SBD, ar trebui să fie un răspuns lent, măsurat pe abateri pe termen lung și nu pe încercări de a schimba condițiile pe termen scurt ale pieței.
 
 It is our belief that these rules will give market participants confidence that they are unlikely lose money by holding SBD purchased at a price of $1.00. We fully expect there to be a narrow trading range between $0.95 and $1.05 for SBD under normal market conditions.
 
