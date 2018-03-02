@@ -148,7 +148,7 @@ Dacă producătorii de Flux de Steem țintesc să aibe o politică monetară ind
 
 Principala preocupare a producătorilor de flux Steem eate să mențină o conversie unu-la-unu între SBD și Dolarul American (USD). În orice moment în care SBD este constant tranzacționat peste $1.00 USD, dobânziile trebuie oprite. Pe o piață unde 0% din dobânda pe datorie încă cere o primă, este sigur să spunem că piața este dispusă să se extindă mai mult credit decât datoria pe care este dispusă să o suporte comunitatea. Dacă acest lucru se întâmplă, SBD o să valoreze mai multe de un 1$ și comunitate nu prea poate face nimic fără a percepe dobândă negativă.
 
-If the debt-to-ownership ratio is low and SBD is trading for less than $1.00, then the interest rate should be increased. This will encourage more people to hold their SBD and support the price.
+Dacă raportul datoriei către proprietate este scăzut și SBD este schimbat pentru mai puțin de 1$, atunci dobânda ar trebui să crească. Acest lucru o să încurajeze mai mule persoane să țină SBD, sprijinând astfel prețul.
 
 If SBD trades for less than $1.00 USD and the debt-to-ownership ratio is high, then the feeds should be adjusted upward give more STEEM per SBD. This will increase demand for SBD while also reducing the debt-to-ownership ratio and returning SBD to parity with USD.
 
