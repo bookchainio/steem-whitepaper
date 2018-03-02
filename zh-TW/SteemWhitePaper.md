@@ -164,7 +164,7 @@ Steem 飼料生產商的主要關注是保持 SBD 和美元之間的一對一轉
 
 ## 主觀貢獻
 
-主觀工作量證明提供了另一種方法以分配貨幣並改進了像挖礦這樣的*客觀*工作量證明系統。 The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
+主觀工作量證明提供了另一種方法以分配貨幣並改進了像挖礦這樣的*客觀*工作量證明系統。 實施*主觀*工作量證明的貨幣的應用比任何*客觀*工作量證明的系統都要寬廣的得多，因為前者可以應用於圍繞任何具有充分足夠定義宗旨的概念構建一個社區。 當個人加入一個社區時，他們會購買一套特定的信仰，並且可以投票來加强社區的價值或目標。
 
 In effect, the criteria by which work is evaluated is completely subjective and its definition lives outside the source code itself. One community may wish to reward artists, another poets, and another comedians. Other communities may choose to reward charitable causes or help advance political agendas.
 
