@@ -138,7 +138,7 @@ Deținătorii STEEM și SP obțin avantaje atunci când membrii comunității su
 
 ### Setarea Fluxurilor Prețului
 
-Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. În economie există un principiu cunoscut ca Trinitatea Imposibilă[^4] care susține că este imposibil să ai următoarele trei lucruri în același timp:
+Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. Cu o rată a dobânzii raportată la dolarul american, mulți oameni o să liciteze în sus pentru stocul de Dolari Streem, până când acesta nu o să mai valoreze 1$. În economie există un principiu cunoscut ca Trinitatea Imposibilă[^4] care susține că este imposibil să ai următoarele trei lucruri în același timp:
 
 1. O rată de schimb stabilă
 2. Libera circulație a capitalui
