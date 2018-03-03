@@ -186,7 +186,7 @@ Următorul pas este recompensarea tuturor celor care contribuie într-un pozitiv
 
 Să presupune că există o sumă fixă de bani pentru a fi distribuită, iar cei care au făcut o investiție pe termen lung în viitorul și utilitatea acelei monede, sunt cei care decid cum să fie alocată. Fiecare utilizator cu propietate de intare în drepturi (vesting), își distribuie voturile către cine și-a făcut treaba cel mai bine, iar la finalul zilei, banii disponibili din acea zi sunt proporțional împărțiți către voturi astfel fiecare persoană care a votat pozitiv, o să primească ceva.
 
-Acest proces de votare naivă, creează o dilemă prizonier de N-persoană [^5] unde fiecare votant se poate vota pe sine, în detrimentul scopului comunității. If every voter defects by voting for themselves then no currency will end up distributed and the currency as a whole will fail to gain network effect. On the other hand, if only one voter defects then that voter would win undeserved profits while having minimal effect on the overall value of the currency.
+Acest proces de votare naivă, creează o dilemă prizonier de N-persoană [^5] unde fiecare votant se poate vota pe sine, în detrimentul scopului comunității. Dacă fiecare persoană se votează pe sine, atunci monedele nu vor fi distribuite și întreaga valută, va eșua în a câștiga efectul de rețea. Pe de altă parte, dacă o singură persoană se votează pe sine, atunci acea persoană o aibe profit nemeritat, având însă un efect minim asupra valorii valutei.
 
 #### Abuzarea Votului
 
