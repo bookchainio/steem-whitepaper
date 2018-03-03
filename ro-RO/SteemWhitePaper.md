@@ -284,9 +284,9 @@ Microplățiile, ca toate celelalte plăți, necesită o comparație: *“Este a
 
 Sisteme ca BitShares, Nxt, Ripple, Counter Party și Stellar le oferă utilizatorilor să plaseze comenzi pe blockchain și toate percep o taxă mică pentru a efectua aceste acțiuni. Mai târziu, în cazul în care utilizatorul dorește anularea comenzii, o nouă taxă este percepută. Sisteme ca Ethereum duc microplățile la un alt nivel: taxare pe calcul. Toate aceste sistem au probleme în a atrage utlizatorii noi, din aceleași motive cu care s-ar confrunta un motor de căutare descentralizat care ar percepe taxe pentru fiecare căutare, și ar încerca să atragă utilizatorii Google. Nu contează cât de bun este serviciul, oamenii se așteaptă ca anumite lucruri să fie gratuite. Acest lucru rămâne adevărat chiar și atunci când un utilizator ajunge să plătească mai mult, într-o cadrul unei structuri de taxare diferit.
 
-### Fees are a Barrier to Entry
+### Comisionele sunt o Barieră de Acces
 
-Orice comision crează o barieră de acces pentru utilizatorii noi. Before someone can experiment with Ethereum they must acquire some ETH tokens. Anyone wanting to build a decentralized application on Ethereum must pass on the cost to their customers. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
+Orice comision crează o barieră de acces pentru utilizatorii noi. Înainte de a putea experimenta cu Ethereum, trebui să cumpărăm ETH tokeni. Anyone wanting to build a decentralized application on Ethereum must pass on the cost to their customers. Cumpărarea unei cripto valute nu este o sarcină ușoară și rareori are sens să cumperi sume mai mici de 10$. Acest lucru înseamnă că utilizatorii noi care vor să încerce o aplicație descentralizată, trebui să fie convinși să investească 10 dolari.
 
 ### Comisioane schimbătoare
 
