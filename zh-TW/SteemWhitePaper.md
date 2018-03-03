@@ -176,7 +176,7 @@ Steem 飼料生產商的主要關注是保持 SBD 和美元之間的一對一轉
 
 將貨幣分配給盡可能多的人，這種管道通常被認為是公平的，這是一項具有挑戰性的任務。 可由客觀的電腦算灋完全評估的任務在本質上是有限的，並且一般來說具有有限的正面外延效益。 比特幣式的開採產生了專門硬體的生產，讓人們投入時間開發更有效的算灋。 它甚至可以説明找到質數, 但這些都沒有為社會或貨幣持有的社會提供有意義的價值。 更重要的是，規模經濟和市場力量最終將排除所有人，但專家不會參與這種分配。 最終，計算採礦只是另一種*購買管道*，因為它需要資金支付電費或硬體開發費用來完成這項工作。
 
-為了給每個人平等的參與和掙錢的機會，人們必須得到工作的機會。 The challenge is how to judge the relative quality and quantity of work that individuals provide and to do so in a way that efficiently allocates rewards to millions of users. This requires the introduction of a scalable voting process. In particular it requires that authority to allocate funds must be as distributed and decentralized as possible.
+為了給每個人平等的參與和掙錢的機會，人們必須得到工作的機會。 挑戰在於如何判斷個人提供的工作的相對質量和數量，以及如何有效地分配給數百萬用戶的獎勵。 這需要引入可伸縮的投票過程。 In particular it requires that authority to allocate funds must be as distributed and decentralized as possible.
 
 The first step in rewarding millions of users is to commit to distributing a fixed amount of currency regardless of how much work is actually done or how users vote. This changes the question from being *“Should we pay?”* to *“Whom should we pay?”* and signals to the market that money is being distributed and is being auctioned off to whoever “bids” the most *work*. This is similar to Bitcoin committing to award 50 BTC to whoever finds the most difficult hashes. Like Bitcoin, all work must be done prior-to payout and nothing should be paid speculatively on the promise to do work in the future.
 
