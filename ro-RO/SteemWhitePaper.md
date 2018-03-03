@@ -360,7 +360,7 @@ Atunci când cineva deține o casă, se așteaptă să aibe dreptul să foloseas
 
 Dacă casa este deținută de mai multe persoane, atunci ei vor trebui să decidă cum să distribuie timpul în care stau în casă. Cineva care deține 50% din casă, dar o folosește doar un weekend pe an, se așteaptă să fie plătit de ceilalți membri care locuiesc acolo. Acesta este metalitatea unui sistem bazat pe comisioane.
 
-On the other hand, someone who owns 50% of the house is speculating that demand for the house will increase in the future and they will be able to sell their stake for more. Any owner who owns more of a house than they use becomes a real estate speculator. With this mindset rather than collecting rent, they collect appreciation.
+Pe de altă parte, cineva care deține 50% din casă speculează că cererea pentru casă o să crească în viitor și o să-și poată vinde partea sa, pentru mai mult. Orice proprietar al unei casei, care deține mai mult decât folosește, devine speculant imobiliar. Cu această mentalitate, mai degrabă strâng apreciere, în loc de chirie.
 
 The value of a share is derived from how much time it can potentially grant its owner. Owning 1% of a house and getting it 1 weekend per year is the lowest value of a share. However, if half of the shareholders never use their weekend, then the value per timeshare rises to 2 weekends per year. If those inactive users instead opt to rent their unused time, then it falls back to 1 weekend per year. If those unused timeshares were sold to people who would use them then the value of a timeshare would fall by 50%. Unless the rent collected is greater than the fall in share value the timeshare owners are making an economic miscalculation.
 
