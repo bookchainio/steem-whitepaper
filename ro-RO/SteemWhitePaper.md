@@ -358,7 +358,7 @@ Prin abordarea limitării ratei, cineva care deține 1% din toate mondele și ca
 
 Atunci când cineva deține o casă, se așteaptă să aibe dreptul să folosească casa după bunul plac. Dacă un grup de oameni cumpără o casă împreună, atunci fiecare se așteaptă să o folosească proporțional cu procentul din casa care le aparține. Un blockchain cu comisioane este ca închirierea unei case, unde limitarea ratei este ca distribuirea timpului între proprietari.
 
-If a house is owned by multiple people then those individuals must decide how they wish to timeshare the house. Someone who owns 50% of the house but only uses it one weekend per year might expect to be paid by the individuals who take their unused time. This is the mindset of a fee based system.
+Dacă casa este deținută de mai multe persoane, atunci ei vor trebui să decidă cum să distribuie timpul în care stau în casă. Cineva care deține 50% din casă, dar o folosește doar un weekend pe an, se așteaptă să fie plătit de ceilalți membri care locuiesc acolo. Acesta este metalitatea unui sistem bazat pe comisioane.
 
 On the other hand, someone who owns 50% of the house is speculating that demand for the house will increase in the future and they will be able to sell their stake for more. Any owner who owns more of a house than they use becomes a real estate speculator. With this mindset rather than collecting rent, they collect appreciation.
 
