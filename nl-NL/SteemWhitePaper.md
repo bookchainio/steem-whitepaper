@@ -515,7 +515,7 @@ Creators posting to social media outlets that are connected to Steem may monetiz
 
 # Conclusie
 
-Steem is een experiment ontworpen om de uitdagingen van de cryptogeld en sociale media industrieën aan te gaan door de beste aspecten van beide te combineren. Steem zorgt voor mogelijkheden voor content makers en internet lezers om geld te verdienen op manieren die nog niet bestonden in de social media industrie. Binnen Steem ontvangen individuen echte beloningen online die rechtstreeks verbonden zijn met hun bijdragen. Deze beloningen hebben dollar waarde dankzij de markt prijs bevindingen en liquiditeit van Steem, en de mensen die Steem vasthouden hebben meer exclusieve verdien krachten dan zij die dat niet doen.
+Steem is een experiment ontworpen om de uitdagingen van de cryptogeld en sociale media industrieën aan te gaan door de beste aspecten van beide te combineren. Steem zorgt voor mogelijkheden voor content makers en internet lezers om geld te verdienen op manieren die nog niet bestonden in de social media industrie. Binnen Steem ontvangen individuen echte beloningen online die rechtstreeks verbonden zijn met hun bijdragen. Deze beloningen hebben dollar waarde dankzij de marktprijs bevindingen en liquiditeit van Steem, en de mensen die Steem vasthouden hebben meer exclusieve verdien krachten dan zij die dat niet doen.
 
 [^1]: Reddit’s Cryptocurrency, Forbes, Erika Morphy, October 2014 http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/\#4e07b05332b9
 
