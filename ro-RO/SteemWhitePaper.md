@@ -286,7 +286,7 @@ Sisteme ca BitShares, Nxt, Ripple, Counter Party și Stellar le oferă utilizato
 
 ### Comisionele sunt o Barieră de Acces
 
-Orice comision crează o barieră de acces pentru utilizatorii noi. Înainte de a putea experimenta cu Ethereum, trebui să cumpărăm ETH tokeni. Anyone wanting to build a decentralized application on Ethereum must pass on the cost to their customers. Cumpărarea unei cripto valute nu este o sarcină ușoară și rareori are sens să cumperi sume mai mici de 10$. Acest lucru înseamnă că utilizatorii noi care vor să încerce o aplicație descentralizată, trebui să fie convinși să investească 10 dolari.
+Orice comision crează o barieră de acces pentru utilizatorii noi. Înainte de a putea experimenta cu Ethereum, trebui să cumpărăm ETH tokeni. Orice care vrea să construiescă o aplicație descentralizată bazată pe Ethereum, trebuie să informeze clienții despre consturile ei. Cumpărarea unei cripto valute nu este o sarcină ușoară și rareori are sens să cumperi sume mai mici de 10$. Acest lucru înseamnă că utilizatorii noi care vor să încerce o aplicație descentralizată, trebui să fie convinși să investească 10 dolari.
 
 ### Comisioane schimbătoare
 
@@ -354,9 +354,9 @@ Dacă ne gândim la cazuri extreme și presupunem că atacatorul deține 1% din 
 
 Prin abordarea limitării ratei, cineva care deține 1% din toate mondele și care ar intenționa să inunde rețeaua, ar putea face acest lucru în mai puțin de 30 de secunde.
 
-### Renting vs. Buying vs. Time Sharing
+### Închiriere vs. Cumpărare vs. Distribuirea Timpului
 
-Atunci când cineva deține o casă, se așteaptă să aibe dreptul să folosească casa după bunul plac. Dacă un grup de oameni cumpără o casă împreună, atunci fiecare se așteaptă să o folosească proporțional cu procentul din casa care le aparține. A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
+Atunci când cineva deține o casă, se așteaptă să aibe dreptul să folosească casa după bunul plac. Dacă un grup de oameni cumpără o casă împreună, atunci fiecare se așteaptă să o folosească proporțional cu procentul din casa care le aparține. Un blockchain cu comisioane este ca închirierea unei case, unde limitarea ratei este ca distribuirea timpului între proprietari.
 
 If a house is owned by multiple people then those individuals must decide how they wish to timeshare the house. Someone who owns 50% of the house but only uses it one weekend per year might expect to be paid by the individuals who take their unused time. This is the mindset of a fee based system.
 
