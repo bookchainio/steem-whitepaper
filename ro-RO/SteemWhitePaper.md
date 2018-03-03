@@ -260,9 +260,9 @@ Deoarece martorii activi sunt cunoscuți în avans, Steem poate să programeze m
 
 # Eliminarea costurilor tranzacțiilor
 
-Steem goes to great lengths to reward people for contributing to the network. It would be counterproductive to turn around and charge people every time they attempt to interact with the community.
+Steem se străduiește să răsplătească oamenii care contribuie la construirea rețelei. Ar fi contraintuitiv ca oamenii să plătească pentru fiecare interacțiune în comunitate.
 
-Blockchain technology currently depends upon transaction fees to prevent spam. These fees suffer all of the known problems with microtransactions and prevent blockchains from being used for low-value transactions. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. Aleastă lucrare subliniază abordarea folosită de Steem pentru a elimina necesitatea taxelor, astfel o nouă gamă de aplicații descentralizate, ce nu puteau fi inițiate anterior, vor putea fi aplicate.
+În prezent, pentru a preveni spam-ul, tehnologia blockchain, se bazează pe comisioane de tranzacționare. Aceste comisioane devin o problemă pentru microtranzacții și previn blockchain-ul în a fi folosit pentru tranzacțiile care implică sume mici. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. Aleastă lucrare subliniază abordarea folosită de Steem pentru a elimina necesitatea taxelor, astfel o nouă gamă de aplicații descentralizate, ce nu puteau fi inițiate anterior, vor putea fi aplicate.
 
 ## Problema Taxelor
 
