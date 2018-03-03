@@ -178,9 +178,9 @@ Steem 飼料生產商的主要關注是保持 SBD 和美元之間的一對一轉
 
 為了給每個人平等的參與和掙錢的機會，人們必須得到工作的機會。 挑戰在於如何判斷個人提供的工作的相對質量和數量，以及如何有效地分配給數百萬用戶的獎勵。 這需要引入可伸縮的投票過程。 特別是，它要求分配資金的權力必須盡可能分散和分散。
 
-獎勵數百萬用戶的第一步是承諾分配一定數量的貨幣，而不管實際完成了多少工作或用戶如何投票。 這會將問題從*“我們是否該付錢?“*變成*”我們該付給誰錢?“*，從而向市場發出訊號表明資金正在被分發，並被拍賣給任何”出價“最多的*工作*。 這是類似於比特幣的承諾獎50 BTC找到最困難的雜湊值。 Like Bitcoin, all work must be done prior-to payout and nothing should be paid speculatively on the promise to do work in the future.
+獎勵數百萬用戶的第一步是承諾分配一定數量的貨幣，而不管實際完成了多少工作或用戶如何投票。 這會將問題從*“我們是否該付錢?“*變成*”我們該付給誰錢?“*，從而向市場發出訊號表明資金正在被分發，並被拍賣給任何”出價“最多的*工作*。 這是類似於比特幣的承諾獎50 BTC找到最困難的雜湊值。 就像比特幣，所有工作必須做到支付不應支付的投機在未來要做的工作的承諾。
 
-The next step is to reward everyone who does anything even remotely positive with *something*. This is accomplished by ranking all work done and distributing proportionally to its value. The more competitive the market becomes, the more difficult (higher quality or quantity) it becomes to earn the same payout.
+下一步是獎勵那些對*某事*做了任何正面事情的人。 這是通過對所有完成的工作排序和按比例分配的結果來完成的。 The more competitive the market becomes, the more difficult (higher quality or quantity) it becomes to earn the same payout.
 
 ### Voting on Distribution of Currency
 
