@@ -226,7 +226,7 @@ Legea Zipf[^7] este una dintre regulile empirice care caracterizează o rată su
 
 ![](\img_the_new_marketplace.png)
 
-Luând popularitatea ca o măsură aproximativă de valoare, atunci valoarea fiecărui element individual este dat de legea Zipf. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. Valoarea colecției cu n elemente este proporțională cu log(n).
+Luând popularitatea ca o măsură aproximativă de valoare, atunci valoarea fiecărui element individual este dat de legea Zipf. Astfel, dacă avem un milion de elemente, atunci cele mai 100 populare o să contribuie la o treime din valoarea totală, următoarele 10,000 la încă o treime, iar cele 989,900 rămase, la ultima treime. Valoarea colecției cu n elemente este proporțională cu log(n).
 
 Impactul acestei distribuții a votării și câștigurilor este oferirea compensațiilor contribuțiilor cu conținut bun, în timp ce se sunt recompensați și utilizatorii mai mici.
 
@@ -254,7 +254,7 @@ La nivel conceptual, algoritmul de consens este adoptat de Steem într-o manier�
 
 Cu Steem, producția de block-uri este făcută în runde. În fiecare rundă, 21 de martori sunt selactați pentru a crea și semna block-urile tranzacțiilor. Douăzeci (20) dintre acești martori sunt selectați prin votarea și ultimul vot este împărțit de tot ceilalți martori care nu a ajuns în clasamentul 20, proporțional cu numărul total de voturi. Cei 21 de martori activi sunt schimbați în fiecare rundă, pentru a preveni un martor de la igonorarea constantă a acelorași blocuri. Fiecare martor care ratează un bloc și nu a produs în ultimele 24 de ore, o să fie dezactivat până când își vor actualiza cheia semnatoare pentru block-uri.
 
-Acest proces este conceput să ofere fiabiliatea cea mai bună, asigurând faptul că oricine are potențialul de a participa în producerea block-urilor, indiferent dacă sunt populari sau nu pentru a fi votați în fruntea clasamentului. Oameni au trei opțiuni pentru a depăți cenzura celor 20 de martori alesi: că aștepte împreună cu toți ceilalți care nu sunt în clasamentul primilor 20, să achiziționeze mai mult SP sau să își îmbunătățească puterea de votare. Generally speaking, applying censorship is a good way for elected witnesses to lose their job and therefore, it is unlikely to be a real problem on the Steem network.
+Acest proces este conceput să ofere fiabiliatea cea mai bună, asigurând faptul că oricine are potențialul de a participa în producerea block-urilor, indiferent dacă sunt populari sau nu pentru a fi votați în fruntea clasamentului. Oameni au trei opțiuni pentru a depăți cenzura celor 20 de martori alesi: că aștepte împreună cu toți ceilalți care nu sunt în clasamentul primilor 20, să achiziționeze mai mult SP sau să își îmbunătățească puterea de votare. În general, aplicarea cenzurii este este o modalitate prin care martorii aleși, pot să își piardă locul, prin urmare, este puțin probabil să fie o problemă reală în rețeaua Steem.
 
 Deoarece martorii activi sunt cunoscuți în avans, Steem poate să programeze martorii să producă block-uri la fiecare 3 secunde. Martorii își sincronizează producția de blocuri prin protocolul NTP. O variație a acestui algoritm a fost folosită de rețeaua BitShares de mai bine de un an și a fost dovedită de încredre.
 
