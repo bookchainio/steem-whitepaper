@@ -182,7 +182,7 @@ Steem 飼料生產商的主要關注是保持 SBD 和美元之間的一對一轉
 
 下一步是獎勵那些對*某事*做了任何正面事情的人。 這是通過對所有完成的工作排序和按比例分配的結果來完成的。 市場競爭越激烈，獲得同樣的報酬就越困難（質量或數量越高）。
 
-### Voting on Distribution of Currency
+### 關於貨幣分配的表決
 
 Assume there is a fixed amount of money to distribute, and that those who have a long-term vested interest in the future value and utility of the currency are the ones who must decide how to allocate it. Every vesting user casts their votes on who did the best work and at the end of the day the available money for that day is divided proportional to the votes such that everyone with even one net positive vote gets something.
 
