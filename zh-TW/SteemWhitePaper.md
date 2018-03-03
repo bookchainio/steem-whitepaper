@@ -170,11 +170,11 @@ Steem 飼料生產商的主要關注是保持 SBD 和美元之間的一對一轉
 
 每一種貨幣的價值取決於特定社會對需求的影響，以及市場對每個社區的信任程度。 每一種貨幣的價值取決於特定社會對需求的影響，以及市場對每個社區的信任程度。
 
-### Distributing Currency
+### 分發幣種
 
-There are two ways people can get involved with a crypto-currency community: they can *buy in*, or they can *work in*. In both cases users are adding value to the currency, however, the vast majority of people have more *free time* than they do *spare cash*. Imagine the goal of bootstrapping a currency in a poor community with no actual *cash* but plenty of *time*. If people can earn money by working for one another then they will bootstrap value through mutual exchange facilitated by a fair accounting/currency system.
+有兩種方法可以讓人們參與到加密貨幣社區中：他們可以*購買*也可以*做工*。 在這兩種情况下，用戶都在向貨幣增添價值。但絕大多數人*空閒時間*多於*閒置資金*。 設想在一個沒有實際*現金*但有大量*時間*的貧窮社區中引導貨幣的目標。 如果人們可以通過互相工作來賺錢，那麼他們將通過公平的會計/貨幣系統促進相互交換來引導價值。
 
-Distributing a currency to as many people as possible in a manner that is generally perceived as fair is a challenging task. The tasks that can be entirely evaluated by an objective computer algorithm are limited in nature and generally speaking have limited positive external benefits. In the case of Bitcoin-style mining, it can result in the production of specialized hardware and cause people to invest time developing more efficient algorithms. It may even help find prime numbers, but none of these things provide meaningful value to society or the currency holding community at large. More importantly, economies of scale and market forces will end up excluding everyone but experts from participating in this kind of distribution. Ultimately, computation-based mining is just another way of *buying in* because it requires money to pay the electric bill or the development of hardware necessary to do the work.
+將貨幣分配給盡可能多的人，這種管道通常被認為是公平的，這是一項具有挑戰性的任務。 可由客觀的電腦算灋完全評估的任務在本質上是有限的，並且一般來說具有有限的正面外延效益。 In the case of Bitcoin-style mining, it can result in the production of specialized hardware and cause people to invest time developing more efficient algorithms. It may even help find prime numbers, but none of these things provide meaningful value to society or the currency holding community at large. More importantly, economies of scale and market forces will end up excluding everyone but experts from participating in this kind of distribution. Ultimately, computation-based mining is just another way of *buying in* because it requires money to pay the electric bill or the development of hardware necessary to do the work.
 
 In order to give everyone an equal opportunity to get involved and earn the currency people must be given an opportunity to work. The challenge is how to judge the relative quality and quantity of work that individuals provide and to do so in a way that efficiently allocates rewards to millions of users. This requires the introduction of a scalable voting process. In particular it requires that authority to allocate funds must be as distributed and decentralized as possible.
 
