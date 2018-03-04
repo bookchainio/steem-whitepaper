@@ -194,7 +194,7 @@ Steem 飼料生產商的主要關注是保持 SBD 和美元之間的一對一轉
 
 幸運的是，任何獲得大量選票的工作也得到了最嚴格的審查（文宣）。 通過添加*負投票*，許多較小的利益相關者可能會抵消利益集團或者背叛的較大的利益相關者的投票能量。 此外，如果貨幣因濫用而貶值，那麼大的利益相關者的損失會超過通過給自己投票獲得的收益。 事實上，誠實的大型利益相關者很可能通過濫用權力和使用消極投票比通過投票支持較小的捐款更有效。
 
-The use of *negative-voting* to keep people from abusing the system leverages the *crab mentality* that many people have when it is perceived that one individual is profiting at the expense of everyone else. While crab mentality normally refers to short-sighted people keeping good people down, it is also what allows good people to keep bad people down. The only “problem” with crab mentality is when people *wrongly believe* someone is profiting at everyone else's expense.
+使用*負投票*來制約很多人具有的一個人的利益是以犧牲他人為代價的*螃蟹心態*來濫用系統。 螃蟹心態通常是指短視的人讓好人吃虧，同樣它也使好人讓壞人吃虧。 唯一的 "問題" 蟹的心態是當人們 * 錯誤地相信*有人獲利的其他人的費用。
 
 **The Story of the Crab Bucket**[^6]
 
