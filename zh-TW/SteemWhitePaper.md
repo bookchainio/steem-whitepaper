@@ -184,13 +184,13 @@ Steem 飼料生產商的主要關注是保持 SBD 和美元之間的一對一轉
 
 ### 關於貨幣分配的表決
 
-Assume there is a fixed amount of money to distribute, and that those who have a long-term vested interest in the future value and utility of the currency are the ones who must decide how to allocate it. Every vesting user casts their votes on who did the best work and at the end of the day the available money for that day is divided proportional to the votes such that everyone with even one net positive vote gets something.
+假設有一個固定數額的貨幣來分配，那些對貨幣的未來價值和效用有長期既得利益的人必須决定如何分配貨幣。 每一個執政者都會投票决定誰做了最好的工作，在一天結束的時候，當天的可用資金與選票成比例，每個人即使有一個淨正投票，也能得到一些東西。
 
-The naive voting process creates a N-Person Prisoner’s Dilemma[^5] whereby each individual voter has incentive to vote for themselves at the expense of the larger community goal. If every voter defects by voting for themselves then no currency will end up distributed and the currency as a whole will fail to gain network effect. On the other hand, if only one voter defects then that voter would win undeserved profits while having minimal effect on the overall value of the currency.
+簡單的投票過程造成了一個N人囚犯困境[^5]，即每個選民有動機投票為自己的犧牲更大的社區目標。 如果每一個選民的缺點是投票給自己，那麼沒有貨幣將最終分配，整個貨幣將無法獲得網絡效應。 另一方面，如果只有一個選民的缺陷，那麼選民將贏得不正當的利潤，同時對貨幣的整體價值影響甚微。
 
-#### Voting Abuse
+#### 投票濫用
 
-Regardless of how much money any one individual has, there are always many other individuals with similar wealth. Even the wealthiest individual rarely has much more than the next couple wealthiest combined. Furthermore, those who have a large investment in a community also have the most to lose by attempting to game the voting system for themselves. It would be like the CEO of a company deciding to stop paying salaries so he could pocket all of the profits. Everyone would leave to work for other companies and the company would become worthless, leaving the CEO bankrupt rather than wealthy.
+不管一個人有多少錢，總有許多其他人擁有同樣的財富。 Even the wealthiest individual rarely has much more than the next couple wealthiest combined. Furthermore, those who have a large investment in a community also have the most to lose by attempting to game the voting system for themselves. It would be like the CEO of a company deciding to stop paying salaries so he could pocket all of the profits. Everyone would leave to work for other companies and the company would become worthless, leaving the CEO bankrupt rather than wealthy.
 
 Fortunately, any work that is getting a large concentration of votes is also gaining the most scrutiny (publicity). Through the addition of *negative-voting* it is possible for many smaller stakeholders to nullify the voting power of collusive groups or defecting large stakeholders. Furthermore, large-stakeholders have more to lose if the currency falls in value due to abuse than they might gain by voting for themselves. In fact, honest large stakeholders are likely to be more effective by policing abuse and using negative voting than they would be by voting for smaller contributions.
 
