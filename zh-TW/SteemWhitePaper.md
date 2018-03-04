@@ -202,9 +202,9 @@ Steem 飼料生產商的主要關注是保持 SBD 和美元之間的一對一轉
 
 “你為什麼不把魚餌蓋上，這樣螃蟹就逃不掉了？”他說。
 
-“你不明白，”男人回答說，“如果水桶裏有一隻螃蟹，它肯定會很快地爬出來。”。 However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
+“你不明白，”男人回答說，“如果水桶裏有一隻螃蟹，它肯定會很快地爬出來。”。 然而，當有許多螃蟹在桶裏，如果一個人試圖爬到一邊，其他人抓住它，並把它拉下來，這樣它將和其他人一樣命運。
 
-So it is with people. If one tries to do something different, get better grades, improve herself, escape her environment, or dream big dreams, other people will try to drag her back down to share their fate.
+人們也這樣。 If one tries to do something different, get better grades, improve herself, escape her environment, or dream big dreams, other people will try to drag her back down to share their fate.
 
 Eliminating “abuse” is not possible and shouldn’t be the goal. Even those who are attempting to “abuse” the system are still doing work. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn’t so rampant that it undermines the incentive to do real work in support of the community and its currency.
 
