@@ -382,17 +382,17 @@ Rețeaua Steem este construită pe Graphene, aceași tehnologie pe care este con
 
 Steem este capabil să susțină și să manipuleze o bază de date mai mare decât Reddit. În 2015, 8.7 milioane de utilizatori Reddit au generat în medie, 23 de comentarii pe secundă[^12], cu o medie de 83 de comentarii pe an, per utilizator. Au fost 73 de milioane de postări de top, cu o medie de 2 postări noi, pe secundă. Au fost, aproximativ, 7 miliarde de voturi pozitive, cu o rată de votare de 220 voturi, pe secundă. Astfel, dacă Reddit ar opera pe blockchain, ar avea nevoie, în medie, de 250 de tranzacții pe secundă.
 
-To achieve this industry-leading performance, Steem has borrowed lessons learned from the LMAX Exchange[^13], which is able to process 6 million transactions per second. Among these lessons are the following key points:
+Pentru a atinge această performanță de vârf, Steem trebuie să împrumute lecții învățate de la LMAX Exchange[^13], care pot procesa 6 milioane de tranzacții pe secundă. Printre aceste lecții avem următoarele puncte cheie:
 
-1. Keep everything in memory.
-2. Keep the core business logic in a single thread.
-3. Keep cryptographic operations (hashes and signatures) out of the core business logic.
-4. Divide validation into state-dependent and state-independent checks.
-5. Use an object oriented data model.
+1. Păstrează totul în memorie.
+2. Păstrează logica de bază a afacerii într-un singur fir.
+3. Păstrează operațiuni criptografice (hash-uri și semnături) afară din logica de bază a afacerii.
+4. Împarte validarea în verificări de tip stat-dependente și stat-independente.
+5. Folosește un model de date orientat către obiect.
 
-By following these simple rules, Steem is able to process 10,000 transactions per second without any significant effort devoted to optimization.
+Prin urmarea acestor reguli simple, Steem este capabil să proceseze 10 000 de tranzacții pe secundă, fără a face un efort prea mare în ceea ce privește optimizarea.
 
-Keeping everything in memory is increasingly viable given the recent introduction of Optane™ technology from Intel[^14]. It should be possible for commodity hardware to handle all of the business logic associated with Steem in a single thread with all posts kept in memory for rapid indexing. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optane™ technology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
+Datorită introducerii tehnologiei Optane™ de la Intell[^14], păstrarea totului în memorie devine din ce în ce mai viabilă. Ar putea fi posibil pentru un hardware obișnuit să suporte toată logică asociată cu Steem, într-un singur fir cu toate postările păstrate în memorie pentru indexare rapidă. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optane™ technology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
 
 # Allocation & Supply
 
