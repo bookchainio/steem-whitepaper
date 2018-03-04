@@ -366,9 +366,9 @@ Valoarea unei părți este dată de cât de mult timp are acces proprietarul la 
 
 Folosind acest raționament, putem presupune că un sistem bazat pe comisioane, o să fie mai scump pentru utilizatori sau mai puțin profitabil pentru proprietarii colectivi. Un proprietar poate profita din închirierea timpului, dar doar pe seama celorlalți proprietari. Costul valorii care se încadrează în folosința pe durată limitată este distribuită tuturor proprietarilor, în schimb, profiturile sunt centralizate singurului proprietar care și-a închiriat partea.
 
-We can conclude from this that a blockchain is best served by not using usage fees at all. If a usage fee were to be charged as an alternative to rate limiting, then it should be the equivalent of buying enough timeshares and committing to hold them long enough to gain the right use it once.
+Putem concluziona că un blockchain este servit cel mai bine prin nefolosirea comisioanelor de utilizare. Dacă o taxă de utilizare ar fi percepută ca o alternativa la limitarea ratei, ar trebui să fie echivalentul a cumărărării a suficiente acțiuni și păstrarea lor, suficient timp pentru a obține dreptul de a le folosi o dată.
 
-Stated another way, a transaction fee should be equal to the minimum account balance necessary to transact once per week and it should be refunded at the end of the week. Assume the minimum account balance is $1 and allows someone to transact once per week. If someone with a $1 balance that wishes to perform 5 transactions at once they will have to increase their balance to $5 for a week either before or after their transactions.
+Un comision de tranzacție ar trebui să fie egal cu soldul minim necesar pentru a tranzacționa o dată pe săptămână și ar trebui rambursat la finalul săptămâni. Să presupunem să soldul minim este 1$ și permite tranzacționare o dată pe săptămână. If someone with a $1 balance that wishes to perform 5 transactions at once they will have to increase their balance to $5 for a week either before or after their transactions.
 
 In theory a market could form where users can borrow the stake required. In practice it is more efficient for users to simply buy and sell the timeshares necessary to meet their desired usage rate. In other words, the cost of negotiating micro-loans is greater than the cost of maintaining a balance suitable for your maximum weekly usage.
 
