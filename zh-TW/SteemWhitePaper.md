@@ -192,7 +192,7 @@ Steem 飼料生產商的主要關注是保持 SBD 和美元之間的一對一轉
 
 不管一個人有多少錢，總有許多其他人擁有同樣的財富。 不管一個人有多少錢，總有許多其他人擁有同樣的財富。 此外，那些對社區有大量投資的人，也有可能因為試圖為自己的投票系統而輸掉比賽。 這就像一家公司的 CEO 執行官決定停止支付薪水，以便他可以將所有的利潤分得一杯羹。 每個人都會離開去為其他公司工作，公司將變得毫無價值，讓CEO破產而不是富有。
 
-幸運的是，任何獲得大量選票的工作也得到了最嚴格的審查（文宣）。 Through the addition of *negative-voting* it is possible for many smaller stakeholders to nullify the voting power of collusive groups or defecting large stakeholders. Furthermore, large-stakeholders have more to lose if the currency falls in value due to abuse than they might gain by voting for themselves. In fact, honest large stakeholders are likely to be more effective by policing abuse and using negative voting than they would be by voting for smaller contributions.
+幸運的是，任何獲得大量選票的工作也得到了最嚴格的審查（文宣）。 通過添加*負投票*，許多較小的利益相關者可能會抵消利益集團或者背叛的較大的利益相關者的投票能量。 Furthermore, large-stakeholders have more to lose if the currency falls in value due to abuse than they might gain by voting for themselves. In fact, honest large stakeholders are likely to be more effective by policing abuse and using negative voting than they would be by voting for smaller contributions.
 
 The use of *negative-voting* to keep people from abusing the system leverages the *crab mentality* that many people have when it is perceived that one individual is profiting at the expense of everyone else. While crab mentality normally refers to short-sighted people keeping good people down, it is also what allows good people to keep bad people down. The only “problem” with crab mentality is when people *wrongly believe* someone is profiting at everyone else's expense.
 
