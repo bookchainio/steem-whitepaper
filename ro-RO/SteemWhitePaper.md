@@ -368,11 +368,11 @@ Folosind acest raționament, putem presupune că un sistem bazat pe comisioane, 
 
 Putem concluziona că un blockchain este servit cel mai bine prin nefolosirea comisioanelor de utilizare. Dacă o taxă de utilizare ar fi percepută ca o alternativa la limitarea ratei, ar trebui să fie echivalentul a cumărărării a suficiente acțiuni și păstrarea lor, suficient timp pentru a obține dreptul de a le folosi o dată.
 
-Un comision de tranzacție ar trebui să fie egal cu soldul minim necesar pentru a tranzacționa o dată pe săptămână și ar trebui rambursat la finalul săptămâni. Să presupunem să soldul minim este 1$ și permite tranzacționare o dată pe săptămână. If someone with a $1 balance that wishes to perform 5 transactions at once they will have to increase their balance to $5 for a week either before or after their transactions.
+Un comision de tranzacție ar trebui să fie egal cu soldul minim necesar pentru a tranzacționa o dată pe săptămână și ar trebui rambursat la finalul săptămâni. Să presupunem să soldul minim este 1$ și permite tranzacționare o dată pe săptămână. Dacă cineva cu soldul de 1$ dorește să facă 5 tranzacții, trebuie să își crească soldul la 5$ pe săptămână, fie înainte sau după tranzacții.
 
-In theory a market could form where users can borrow the stake required. In practice it is more efficient for users to simply buy and sell the timeshares necessary to meet their desired usage rate. In other words, the cost of negotiating micro-loans is greater than the cost of maintaining a balance suitable for your maximum weekly usage.
+În teorie, o piață se poate forma acolo unde utilizatorii își pot împrumuta acțiunile. În practică este mai eficient pentru utilizatori să cumpere și să vândă singuri acțiuni pentru a atinge rata de utilizare dorită. Cu alte cuvinte, costul negocierilor micro-creditelor este mai mare decât costul menținerii unui sold adecvat pentru utilizarea maximă săptămânală.
 
-Decentralized rate limiting of transactions can enable new types of decentralized applications that were not viable when every use of the application required a micropayment. This new model gives application developers the ability to decide if and when to charge their users for transactions.
+Limitarea ratei tranzacțiilor descentralizate, pot activa noi tipuri de aplicații descentralizate care nu sunt viabile atunci când orice folosire a aplicației necesită micoplăți. Acest model nou oferă programatorilor de aplicații, posibilitatea de a decide dacă și când să perceapă comisioane pentru tranzacții.
 
 # Performanța și Scalabilitatea
 
