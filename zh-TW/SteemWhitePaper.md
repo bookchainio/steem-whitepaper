@@ -196,13 +196,13 @@ Steem 飼料生產商的主要關注是保持 SBD 和美元之間的一對一轉
 
 使用*負投票*來制約很多人具有的一個人的利益是以犧牲他人為代價的*螃蟹心態*來濫用系統。 螃蟹心態通常是指短視的人讓好人吃虧，同樣它也使好人讓壞人吃虧。 唯一的 "問題" 蟹的心態是當人們 * 錯誤地相信*有人獲利的其他人的費用。
 
-**The Story of the Crab Bucket**[^6]
+**蟹桶的故事**[^6]
 
-A man was walking along the beach and saw another man fishing in the surf with a bait bucket beside him. As he drew closer, he saw that the bait bucket had no lid and had live crabs inside.
+一個人在海灘上散步，看見另一個人在海浪中釣魚，旁邊有個魚餌桶。當他走近時，發現餌桶沒有蓋子，裡面有活螃蟹。
 
-"Why don't you cover your bait bucket so the crabs won't escape?", he said.
+“你為什麼不把魚餌蓋上，這樣螃蟹就逃不掉了？”他說。
 
-"You don't understand.", the man replied, "If there is one crab in the bucket it would surely crawl out very quickly. However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
+“你不明白，”男人回答說，“如果水桶裏有一隻螃蟹，它肯定會很快地爬出來。”。 However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
 
 So it is with people. If one tries to do something different, get better grades, improve herself, escape her environment, or dream big dreams, other people will try to drag her back down to share their fate.
 
