@@ -501,7 +501,7 @@ Majoritatea cripto mondelor generează o valoare scazuta pentru cei care nu folo
 
 ## Shifting Toward Blockchain-based Attribution
 
-The internet represents the easiest medium for distributing information in the world. With that said, it can be a frightening place for content creators who would like to own their content and have it shared with proper attribution. On current social media platforms, attribution is something that can be lost overnight - a posted video or image can be replicated and re-shared without consent or regard for the creator.
+Internetul reprezintă mediul cel mai ușor de distribuire a informației în lume. Acestea fiind spuse, poate fi un loc înfricoșător pentru creatorii de conținut, care ar dori drepturi de proprietate asupra conținutului și o modalitate corespunzătoare de atribuire. Pe platformele media de socializare actuale, atribuirea este ceva ce poate fi pierdut peste noapte - un video sau o imagine pot fi replicate și distribuite fără consimțământul autorului.
 
 Under blockchain-based social media, a creator or author would always be able to point to a public record and timestamp showing proof of their content origination. In a circumstance where a creator would like to address those who have re-shared without permission or attribution, blockchain-based records provide public proof that the content was posted by a particular user at a particular time. In the future, blockchain-based attribution could come to be recognized by governments for its authenticity and could hold weight in court, which would give content creators greater powers to control their work.
 
