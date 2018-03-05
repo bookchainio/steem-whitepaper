@@ -394,7 +394,7 @@ Prin urmarea acestor reguli simple, Steem este capabil să proceseze 10 000 de t
 
 Datorită introducerii tehnologiei Optane™ de la Intell[^14], păstrarea totului în memorie devine din ce în ce mai viabilă. Ar putea fi posibil pentru un hardware obișnuit să suporte toată logică asociată cu Steem, într-un singur fir cu toate postările păstrate în memorie pentru indexare rapidă. Chiar și Google păstrează indexul întregului internet în RAM. Pentru a preveni pierderea datelor, utilizarea tehnologiei blockchain face ușoară replicarea bazei de date a multor mașinii. Așa cum tehnologia Optane™ preia controlul, RAM o să devină și mai rapidă, în timp ce câștigă persistență. Cu alte cuvinte, Steem este proiectat pentru arhitectura viitorului și conceput pentru a scala.
 
-# Allocation & Supply
+# Alocare & Stoc
 
 ## Initial Allocation & Supply
 
