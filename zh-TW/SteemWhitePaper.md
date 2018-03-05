@@ -206,7 +206,7 @@ Steem 飼料生產商的主要關注是保持 SBD 和美元之間的一對一轉
 
 人們也這樣。 如果一個人試圖做一些不同的事情，取得更好的成績，改善自己，逃離她的環境，或夢想遠大的夢想，其他人會試圖把她拉下來分享他們的命運。
 
-消除 "濫用" 是不可能的, 也不應該是目標。 即使那些試圖“濫用”系統的人仍然在工作。 Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn’t so rampant that it undermines the incentive to do real work in support of the community and its currency.
+消除 "濫用" 是不可能的, 也不應該是目標。 即使那些試圖“濫用”系統的人仍然在工作。 任何補償他們得到他們的成功嘗試的濫用或合謀是至少作為分配的貨幣作為使工作系統採用傳統的比特幣挖礦或合謀挖掘通過挖掘池的目的價值。 All that is necessary is to ensure that abuse isn’t so rampant that it undermines the incentive to do real work in support of the community and its currency.
 
 The goal of building a community currency is to get more “crabs in the bucket”. Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs sufficient power to prevent others from escaping.
 
