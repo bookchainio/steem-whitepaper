@@ -208,11 +208,11 @@ Steem 飼料生產商的主要關注是保持 SBD 和美元之間的一對一轉
 
 消除 "濫用" 是不可能的, 也不應該是目標。 即使那些試圖“濫用”系統的人仍然在工作。 任何補償他們得到他們的成功嘗試的濫用或合謀是至少作為分配的貨幣作為使工作系統採用傳統的比特幣挖礦或合謀挖掘通過挖掘池的目的價值。 所有這些都是必要的，以確保濫用不會如此猖獗，它破壞了支持社會和貨幣的實際工作的動機。
 
-建立社區貨幣的目的是為了得到更多的“螃蟹”。 Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs sufficient power to prevent others from escaping.
+建立社區貨幣的目的是為了得到更多的“螃蟹”。 採取極端的措施來消除所有的虐待，就像試圖把桶蓋上蓋子以防止幾只螃蟹逃跑一樣，而代價是新增新螃蟹的難度。 這足以使牆壁光滑，並給予其他螃蟹足够的權力，以防止其他人逃脫。
 
 ### Rate Limited Voting
 
-A major part of minimizing abuse is the rate-limiting of voting. Individual users can only read and evaluate so many work items per day. Any attempt to vote more frequently than this is a sign of automation and potential abuse. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
+限制濫用的主要部分是投票率的限制。 Individual users can only read and evaluate so many work items per day. Any attempt to vote more frequently than this is a sign of automation and potential abuse. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
 
 Users are allotted a fixed amount of voting power. Voting power is multiplied by a user’s vesting tokens to determine how much share in the reward pool should be allocated to a given work item. Every vote that is cast uses a percentage of remaining voting power. Users can vote for more posts, but each vote will be worth less, and it will take longer to reach full voting power again. Voting power recharges at a fixed linear rate of 20% per day.
 
