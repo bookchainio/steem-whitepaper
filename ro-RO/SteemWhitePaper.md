@@ -417,13 +417,13 @@ Recompense Contribuție:
 
 - Recompense SBD: Un procentaj din valoarea SBD este creat la o dobândă anuală APR, setat de către martori și plătit către deținătorii de SBD
 
-Stocul general este complicat de către efectul operațiunilor SBD, care ar putea duce la crearea sau distrugerea la scară mare de STEEM prin flux și recompense SBD, cum a fost discutat în secțiunea SBD. Other, smaller-scale complicating effects also exist, including unclaimed incentives (e.g. block rewards for missed blocks), and abandoned accounts.
+Stocul general este complicat de către efectul operațiunilor SBD, care ar putea duce la crearea sau distrugerea la scară mare de STEEM prin flux și recompense SBD, cum a fost discutat în secțiunea SBD. Există și alte efecte complicate la scară mai mică, inclusiv stimulente nerevendicate (de exemplu, recompense bloc pentru blocuri ratate) și conturi abandonate.
 
-## Current Allocation & Supply
+## Alocare inițială & Stoc
 
-Starting with the network's 16th hard fork in December 2016, Steem began creating new tokens at a yearly inflation rate of 9.5%. The inflation rate decreases at a rate of 0.01% every 250,000 blocks, or about 0.5% per year. The inflation will continue decreasing at this pace until the overall inflation rate reaches 0.95%. This will take about 20.5 years from the time hard fork 16 went into effect.
+Începând cu al 16-lea hard fork al rețelei din Decembrie 2016, Steem a început crearea de tokeni noi cu o inflație anuală de 9.5%. Rata inflației scade cu o rată de 0.01% la fiecare 250 000 de block-uri, sau aproximativ 0.5% pe an. Inflația o să continue să scadă în acest ritm, până când rata inflației generale ajunge la 0.95%. O să dureze aproximativ 20.5 ani, începând cu al 16-lea hard fork.
 
-75% of the new tokens that are generated go to fund the reward pool, which is split between authors and curators. 15% of the new tokens are awarded to holders of SP. The remaining 10% pays for the witnesses to power the blockchain.
+75% din tokeni noi creați, merg către bazinul de recompense, care este împărțit între autori și cei care susțin conținutul prin vot (curators). 15% din tokeni noi sunt distribuiți către deținătorii de SP. 10% sunt plătiți martorilor pentru a menține blockchain-ul.
 
 ### Impactul Ratei de Creare a Token-ilor
 
