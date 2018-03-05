@@ -402,16 +402,16 @@ Rețeaua Steem a început cu un stoc 0 și a alocat STEEM pentru dovada de munc�
 
 Recompense Contribuție:
 
-- Curation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
-- Content Creation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
-- Block production rewards: 1 STEEM per block or 0.750% per year, whichever is greater
-- POW inclusion rewards before block 864,000: 1 STEEM per block (awarded as 21 STEEM per round)
-- POW inclusion rewards after block 864,000: 0.0476 STEEM per block (awarded as 1 STEEM per round) or 0.750% per year, whichever is greater.
-- Liquidity rewards: 1 STEEM per block (awarded as 1200 STEEM per hour) or 0.750% per year, whichever is greater
+- Recompense curation: 1 STEEM per block sau 3.875% pe an, oricare este mai mare
+- Recompense pentru Crearea Conținutului: 1 STEEM per block sau 3.875% pe an, oricare este mai mare
+- Recompense pentru Producția block-urilor: 1 STEEM per block sau 0.750% pe an, oricare este mai mare
+- Condiții de includere a POW înainte de blocul 864,000: 1 STEEM per block (acordat ca 21 STEEM pe fiecare rundă)
+- Condiții de includere a POW după blocul 864,000: 0.0476 STEEM per bloc (acordat ca 1 STEEM pe rundă) sau 0.750% pe an, oricare este mai mare.
+- Recompense lichiditate: 1 STEEM per block (acordate ca 1200 STEEM pe oră) sau 0.750% pe an, oricare este mai mare
 
-### Power Rewards:
+### Recompense Putere:
 
-- Steem Power rewards: For each STEEM created by the above rewards, 9 STEEM are divided among all Steem Power holders.
+- Recompese Putere Steem: Pentru fiecare STEEM creat prin recompensele de mai sus, 9 STEEM sunt împărțiți printre deținătorii de Putere Steem.
 
 ### SBD operations:
 
