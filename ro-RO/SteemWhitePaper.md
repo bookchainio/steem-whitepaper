@@ -499,7 +499,7 @@ Libertatea de exprimare este fundația tuturor libertățiilor și orice încăl
 
 Majoritatea cripto mondelor generează o valoare scazuta pentru cei care nu folosesc activ rețeaua. În contrast, Steem generează conținut și încurajează utilizatorii să îl distribuie. Acest conținut este indexat de către motoarele de căutare și o să aducă valore unui număr masiv de utilizatori pasivi. Acest trafic de căutare creează publicitate organică pentru rețeaua Steem și duce la creșterea ei.
 
-## Shifting Toward Blockchain-based Attribution
+## Trecerea către Atribuirea bazată pe Blockchain
 
 Internetul reprezintă mediul cel mai ușor de distribuire a informației în lume. Acestea fiind spuse, poate fi un loc înfricoșător pentru creatorii de conținut, care ar dori drepturi de proprietate asupra conținutului și o modalitate corespunzătoare de atribuire. Pe platformele media de socializare actuale, atribuirea este ceva ce poate fi pierdut peste noapte - un video sau o imagine pot fi replicate și distribuite fără consimțământul autorului.
 
@@ -515,7 +515,7 @@ Autorii care postează pe rețele media de socializare care sunt conectate cu St
 
 # Concluzii
 
-Steem este un experiment conceput pentru a aborda provăcări din lumea cripro valutei și a rețelelor de socializare media, prin combinarea celor mai bune aspecte ale acestora. Steem oferă oportunități de câștig pentru cei care crează conținut și pentru utilizatorii internetului, în moduri în care nu au existat înainte, în industria rețelelor media de socializare. În cadrul platformei Steem, indivizii sunt direct recompensați online, în funție de contribuțiile lor. Those rewards may have dollar value due to the market price discovery and liquidity of Steem, and the people who hold Steem may have more exclusive earning powers than those who do not.
+Steem este un experiment conceput pentru a aborda provăcări din lumea cripro valutei și a rețelelor de socializare media, prin combinarea celor mai bune aspecte ale acestora. Steem oferă oportunități de câștig pentru cei care crează conținut și pentru utilizatorii internetului, în moduri în care nu au existat înainte, în industria rețelelor media de socializare. În cadrul platformei Steem, indivizii sunt direct recompensați online, în funție de contribuțiile lor. Acele recompense ar putea avea valoarea raportată la dolari, datorită prețului pieței și lichidității Steem, iar persoanele care dețin Steem ar putea avea câștiguri exclusive de putere, mai mult decât cei care nu au.
 
 [^1]: Reddit’s Cryptocurrency, Forbes, Erika Morphy, October 2014 http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/\#4e07b05332b9
 
