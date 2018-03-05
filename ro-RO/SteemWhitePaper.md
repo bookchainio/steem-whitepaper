@@ -398,9 +398,9 @@ Datorită introducerii tehnologiei Optane™ de la Intell[^14], păstrarea totul
 
 ## Alocare inițială & Stoc
 
-The Steem network started with a currency supply of 0 and allocated STEEM via proof of work at a rate of approximately 40 STEEM per minute to miners, with an additional 40 STEEM per minute being created to seed the content and curation reward pools (for a total of 80 STEEM per minute). Then the network started rewarding users who converted to SP. At this point, STEEM grew at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
+Rețeaua Steem a început cu un stoc 0 și a alocat STEEM pentru dovada de muncă, cu o rată de aproximativ 40 STEEM pe minut, minerilor iar 40 STEEM pe minut, fiind creați pentru a fi distribuiți pentru conținut și pentru cei care susțin conținutul prin vot (curation) (80 STEEM pe minut). Apoi rețeaua a început să răsplătească utilizatorii care au convertit în SP. În acest moment, STEEM a crescut cu aproximativ 800 STEEM pe minut, datorită combinării diferitelor Recompense ale Contribuțiilor, rezumate mai jos:
 
-Contribution Rewards:
+Recompense Contribuție:
 
 - Curation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
 - Content Creation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
