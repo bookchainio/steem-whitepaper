@@ -210,7 +210,7 @@ Eliminarea "abuzului" nu este posibilă și nu acesta ar trebui să fie țelul. 
 
 Scopul construirii unei comunități în jurul unei monede este să “atragă mai mulți crabi în găleată“. Luarea de măsuri extreme care să elimine tot abuzul este ca și cum ai pune un capac pe găleată pentru a împiedica câțiva crabi să fugă, și vine în detrimentul adăugării unor noi crabi în găleată. Este suficient să facem pereții mai alunecoși pentru a le da celorlalți crabi mai multă putere pentru a îi împiedica pe cei care vor să scape.
 
-### Rate Limited Voting
+### Rată Limitată de Vot
 
 O mare parte din minimizarea abuzului este limitarea ratei de votare. Utilizatorii pot citi și evalua un anumit număr de elemente pe zi. Orice încercare de a vota mai frecvent este un semn al unei automatizări și al unui potențial abuz. Prin limitarea ratei de votare, votul deținătoriilor de interese care votează mai des, valorează mai puțin decât votul celor cărora votează mai rar. Încercările de a împărți tokeni între conturi multiple, duc și la împărțirea influenței și, prin urmare, nu duc la creșterea influenței și nici a ratei limită impuse prin vot.
 
@@ -378,7 +378,7 @@ Limitarea ratei tranzacțiilor descentralizate, pot activa noi tipuri de aplica�
 
 Rețeaua Steem este construită pe Graphene, aceași tehnologie pe care este construit BitShares. Graphene a fost demonstrat public că poate susține peste 1000 tranzacții pe secundă, pe o rețea test distribuită. Graphene poate scala cu ușurință peste 10000 de tranzacții pe secundă, cu îmbunătățiri a capacității server-ului și protocoale de comunicare.
 
-## Reddit Scale
+## Scară Reddit
 
 Steem este capabil să susțină și să manipuleze o bază de date mai mare decât Reddit. În 2015, 8.7 milioane de utilizatori Reddit au generat în medie, 23 de comentarii pe secundă[^12], cu o medie de 83 de comentarii pe an, per utilizator. Au fost 73 de milioane de postări de top, cu o medie de 2 postări noi, pe secundă. Au fost, aproximativ, 7 miliarde de voturi pozitive, cu o rată de votare de 220 voturi, pe secundă. Astfel, dacă Reddit ar opera pe blockchain, ar avea nevoie, în medie, de 250 de tranzacții pe secundă.
 
@@ -413,11 +413,11 @@ Recompense Contribuție:
 
 - Recompese Putere Steem: Pentru fiecare STEEM creat prin recompensele de mai sus, 9 STEEM sunt împărțiți printre deținătorii de Putere Steem.
 
-### SBD operations:
+### Operațiuni SBD:
 
-- SBD rewards: A percentage of SBD value is created at an APR set by the witnesses and paid to SBD holders as SBD
+- Recompense SBD: Un procentaj din valoarea SBD este creat la o dobândă anuală APR, setat de către martori și plătit către deținătorii de SBD
 
-The overall supply picture is complicated by the effect of SBD operations, which may result in large-scale creation or destruction of STEEM through feed rate following and SBD rewards, as discussed in the SBD section. Other, smaller-scale complicating effects also exist, including unclaimed incentives (e.g. block rewards for missed blocks), and abandoned accounts.
+Stocul general este complicat de către efectul operațiunilor SBD, care ar putea duce la crearea sau distrugerea la scară mare de STEEM prin flux și recompense SBD, cum a fost discutat în secțiunea SBD. Other, smaller-scale complicating effects also exist, including unclaimed incentives (e.g. block rewards for missed blocks), and abandoned accounts.
 
 ## Current Allocation & Supply
 
