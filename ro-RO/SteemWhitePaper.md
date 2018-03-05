@@ -467,11 +467,11 @@ Internetul și-ar pierde mult din valoare, dacă toate legăturile conținutului
 
 Legăturile pot avea multe forme, iar în timp, s-au adaptat. De fiecare dată când utilizator votează conținut într-o rețea de socializare, ei fac o conexiune între ei și conținutul respectiv. Astfel, prin intermediul conținutului, se face o legătură între consumator și producător. Cu cât o rețea are mai multe conexiuni, cu atât devine mai valoroasă informația. Conexiunea relativă și intenționată a informației, este ceea ce îi dă valoarea.
 
-O rețea de socializare își poate maximiza valoarea extrasă dintr-un conținut, prin maximizarea cantității și calității conexiunilor. Curating content is expensive and time consuming while being near impossible for computers to perform in the absence of links. Steem răsplătește utilizatorii care descoperă printre primii conținut nou.
+O rețea de socializare își poate maximiza valoarea extrasă dintr-un conținut, prin maximizarea cantității și calității conexiunilor. Votarea conținutului este scumpă și consumatoare de timp, fiind aproape imposibil de efectuat de către calculatoare, în absența legăturilor. Steem răsplătește utilizatorii care descoperă printre primii conținut nou.
 
-By incentivising curation the Steem network is able to use automated algorithms to extract the most valuable information from a massive amount of content.
+Stimulând votarea, rețeaua Steem este capabilă să folosească algoritmi automați pentru a extrage cea mai valoroasă informație dintr-o cantitate masivă de conținut.
 
-## Solving the Cryptocurrency Onboarding Problem
+## Rezolvarea Problemelor legate de Cripto Valute
 
 Nu este ușor să intri în lumea cripto monedelor [^21]. Cineva care descoperă Bitcoin și vrea să încerce repede să cumpere, va vedea că va avea nevoie să se înregistreze pe site-ul unui schimb valutar și să își trimită bani pe contul respectiv. Cum ar fi fost rata de înregistrare pe Facebook dacă trebuia să trimiteți bani și să aveți două tipuri de acte de identitate?
 
@@ -483,7 +483,7 @@ O monedă care este greu sau imposibil de vândut, are o valoare mică. Cineva c
 
 Comercianții oferă utilizatorilor o modalitate de a converti rapid cripto mondele în bunuri și servicii tangibile. Comercianții au nevoie de o monedă raportată de obicei la dolari. Acceptarea unei monede volatile introduce cheltuilei contabile semnificative.
 
-Comercianții o să accepte orice monedă dacă va duce la creșterea vânzărilor lor. Having a large user base with a stable currency such as SBD lowers the barrier to entry for merchants. Prezența comercianțiilor îmbunătățește sistemul creând o rampă pentru utilizatori de a ieși din sistem, fără a folosi un schimb valutar.
+Comercianții o să accepte orice monedă dacă va duce la creșterea vânzărilor lor. Având mulți utilizatori cu o monedă stabilă ca SBD, scade barierele de intrare pentru comercianți. Prezența comercianțiilor îmbunătățește sistemul creând o rampă pentru utilizatori de a ieși din sistem, fără a folosi un schimb valutar.
 
 O altă modalitate prin care oamenii pot să își retragă sume mici din cripto monede, pe care le primes prin intermediul platformei Steem, este prin oferirea de*bacșișuri* celorlalți. Este ca lăsarea unui bacșiș ospătarului. Atunci când suficiente persoane lasă bacșis, acesta se adună într-o sumă semnificativă. Atât tu cât și ospătarul, beneficiați de pe urma bacșișului.
 
@@ -497,7 +497,7 @@ Libertatea de exprimare este fundația tuturor libertățiilor și orice încăl
 
 ## Rezolvarea Descoperirii Organice prin Optimizarea Motorului de Căutare
 
-Majoritatea cripto mondelor generează o valoare scazuta pentru cei care nu folosesc activ rețeaua. Steem, by contrast, generates content and encourages users to share it. This content gets indexed by search engines and ultimately will bring value to a large number of passive users. This search traffic creates organic advertising for the Steem network and grows the network effect.
+Majoritatea cripto mondelor generează o valoare scazuta pentru cei care nu folosesc activ rețeaua. În contrast, Steem generează conținut și încurajează utilizatorii să îl distribuie. Acest conținut este indexat de către motoarele de căutare și o să aducă valore unui număr masiv de utilizatori pasivi. Acest trafic de căutare creează publicitate organică pentru rețeaua Steem și duce la creșterea ei.
 
 ## Shifting Toward Blockchain-based Attribution
 
