@@ -509,9 +509,9 @@ Pe o rețea bazată pe blockchain, un autor o să poată întotdeauna să arate 
 
 ## Înlocuirea Publicității cu Recompense ale Conținutului bazat pe Blockchain
 
-În cele mai multe modele de monetizare a conținutului, creatorii de conținut folosesc într-o formă sau alta, publicitatea. Mulți autori realizează că reclamele le pot scădea valoarea pentru consumatori, însă aceștia caută să își valorifice timpul în bani. Advertising represents a double-edged sword: With ads, a creator can make money most easily. Without ads, monetization is difficult but the content is richer.
+În cele mai multe modele de monetizare a conținutului, creatorii de conținut folosesc într-o formă sau alta, publicitatea. Mulți autori realizează că reclamele le pot scădea valoarea pentru consumatori, însă aceștia caută să își valorifice timpul în bani. Publicitatea reprezintă o sabie cu două tăișuri: Prin reclame, autorul poate face cel mai ușor bani. Fără reclame, monetizarea este dificilă, însă conținutul este mai bogat.
 
-Creators posting to social media outlets that are connected to Steem may monetize merely by having their work recognized (or ”liked”) by the Steem community. Blockchain-based payouts are completely digital and have no middle-man. Therefore monetization by blockchain-based content rewards should be faster and much lower barrier to use than monetization by advertisements.
+Autorii care postează pe rețele media de socializare care sunt conectate cu Steem, își pot monetiza munca prin votarea acesteia de către comunitatea Steem. Plățile bazate pe Blockchain sunt complet digitale și nu au intermediar. Prin urmare, monetizarea prin recompensele bazate pe blockchain ar trebui să fie mai rapidă iar barierele mai ușor de trecut, decât în cazul monetizării prin publcitate.
 
 # Concluzii
 
