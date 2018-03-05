@@ -437,7 +437,7 @@ Prețul unui produs digital, precum STEEM, este bazat atât pe cerere cât și p
 
 # Puterea Steem-ului
 
-Steem recunoaște faptul că valoarea tuturor contribuțiilor utilizatorilor (postări și voturi) este mai mare decât suma părților. Un singur comentariu valorează aproape nimic, dar milioane de posturi votate, valorează foarte multe milioane (sau chiar miliarde) de dolari. A single vote provides little curation value, but billions of votes is very effective curation. Content without curation is of limited value. Având în vedere tot conținutul internetului mai puțin legăturile dintre acestea, motorului de căutare Google i-ar fi foarte greu să găsescă rezultate folositoare. Valoarea este dată de legăturile dintre informații.
+Steem recunoaște faptul că valoarea tuturor contribuțiilor utilizatorilor (postări și voturi) este mai mare decât suma părților. Un singur comentariu valorează aproape nimic, dar milioane de posturi votate, valorează foarte multe milioane (sau chiar miliarde) de dolari. Un singur vot oferă o valoare mică celor care susțin conținutul prin vot, însă miliarde de voturi sunt foarte valoroase. Conținutul fără votare are o valoare limitată. Având în vedere tot conținutul internetului mai puțin legăturile dintre acestea, motorului de căutare Google i-ar fi foarte greu să găsescă rezultate folositoare. Valoarea este dată de legăturile dintre informații.
 
 Deoarece toată lumea beneficiează, toată lumea ar trebui să plătească. Cu alte cuvinte, nici un utilizator individual nu ar trebui să plătească pentru nimic, însă, ar trebui să fie plătiți atunci când aduc valoare platformei Steem. Tot ceea ce trebuie să facem, este să decidem ce contribuții aduc valoare rețelei de socializare și care nu aduc valoare.
 
@@ -445,9 +445,9 @@ Deoarece toată lumea beneficiează, toată lumea ar trebui să plătească. Cu 
 
 ## Fără Microplăți, Bacșișuri Opțional
 
-Au existat tentative de a integra o cripto monedă într-o rețea media de socializare, unde utilizatorii să se plătească între ei. Mai multe servicii au încercat să introducă bacșișurile. În teorie, dacă am face oferirea de bacșișurilor ușoară, atunci mai mulți oameni ar face asta. Alte servicii au încercat să facă utilizatorii să promoveze conținutul lor. Still others attempt to build small prediction markets on how many tips an article will receive.
+Au existat tentative de a integra o cripto monedă într-o rețea media de socializare, unde utilizatorii să se plătească între ei. Mai multe servicii au încercat să introducă bacșișurile. În teorie, dacă am face oferirea de bacșișurilor ușoară, atunci mai mulți oameni ar face asta. Alte servicii au încercat să facă utilizatorii să promoveze conținutul lor. Mai multe încecări de a construi o piață cu predicții referitoare la cât o să primească un articol.
 
-Toate aceste abordări se reduc la microplăți. Diferă doar cel care face plata. Toate aceste servicii suferă de angajamentul insuficient al oamenilor care efectuează microplățile. In the search for incentivised content production entrepreneurs have been so focused on who should pay that they missed the obvious reality: everyone benefits from everyone’s actions so everyone should pay or no one should pay, depending on how you look at it.
+Toate aceste abordări se reduc la microplăți. Diferă doar cel care face plata. Toate aceste servicii suferă de angajamentul insuficient al oamenilor care efectuează microplățile. În căutarea unei producții de conținut stimulant, întreprinzătorii s-au orientat atât de mult asupra a cât ar trebui cineva să plătească, și nu au luat în vedere ceea ce era evident: toată lumea beneficiază de acțiunile tuturor, astfel încât toată lumea ar trebui să plătească sau nimeni să nu plătească, în funcție de cum ne uităm la această problemă.
 
 Steem ocolește microplățile deoacere atunci când un utilizator votează o postare, comunitatea este cea care plătește factura. Aceași sumă de bani o să fie cheltuită atunci când un utilizator votează sau nu o postare, și fondurile nu o să vină de la cel care votează.
 
