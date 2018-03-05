@@ -212,7 +212,7 @@ Steem 飼料生產商的主要關注是保持 SBD 和美元之間的一對一轉
 
 ### Rate Limited Voting
 
-限制濫用的主要部分是投票率的限制。 個人用戶每天只能閱讀和評估這麼多的工作項。 任何比這更頻繁投票的企圖都是自動化和潜在濫用的標誌。 通過利率限制，投票頻率更高的利益相關者每一次投票都比不經常投票的利益相關者少。 Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
+限制濫用的主要部分是投票率的限制。 個人用戶每天只能閱讀和評估這麼多的工作項。 任何比這更頻繁投票的企圖都是自動化和潜在濫用的標誌。 通過利率限制，投票頻率更高的利益相關者每一次投票都比不經常投票的利益相關者少。 試圖在多個賬戶之間劃分代幣也會分散影響力，因此不會導致影響的淨增加，也不會繞過對投票的限制。
 
 Users are allotted a fixed amount of voting power. Voting power is multiplied by a user’s vesting tokens to determine how much share in the reward pool should be allocated to a given work item. Every vote that is cast uses a percentage of remaining voting power. Users can vote for more posts, but each vote will be worth less, and it will take longer to reach full voting power again. Voting power recharges at a fixed linear rate of 20% per day.
 
