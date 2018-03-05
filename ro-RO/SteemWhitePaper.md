@@ -392,7 +392,7 @@ Pentru a atinge această performanță de vârf, Steem trebuie să împrumute le
 
 Prin urmarea acestor reguli simple, Steem este capabil să proceseze 10 000 de tranzacții pe secundă, fără a face un efort prea mare în ceea ce privește optimizarea.
 
-Datorită introducerii tehnologiei Optane™ de la Intell[^14], păstrarea totului în memorie devine din ce în ce mai viabilă. Ar putea fi posibil pentru un hardware obișnuit să suporte toată logică asociată cu Steem, într-un singur fir cu toate postările păstrate în memorie pentru indexare rapidă. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optane™ technology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
+Datorită introducerii tehnologiei Optane™ de la Intell[^14], păstrarea totului în memorie devine din ce în ce mai viabilă. Ar putea fi posibil pentru un hardware obișnuit să suporte toată logică asociată cu Steem, într-un singur fir cu toate postările păstrate în memorie pentru indexare rapidă. Chiar și Google păstrează indexul întregului internet în RAM. Pentru a preveni pierderea datelor, utilizarea tehnologiei blockchain face ușoară replicarea bazei de date a multor mașinii. As Optane™ technology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
 
 # Allocation & Supply
 
