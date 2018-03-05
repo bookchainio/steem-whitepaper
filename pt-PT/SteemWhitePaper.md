@@ -102,17 +102,17 @@ Os possuidores de SP elegem indivíduos, chamados testemunhas, para publicar ind
 
 Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. Desta forma, se uma minoria de produtores indicadores publicarem valores atípicos, eles têm um impacto mínimo na mediana, mas a sua reputação é afetada de qualquer maneira.
 
-Mesmo que todos os produtores de indicadores sejam honestos, é possível que a maioria dos feeds sejam influenciados por eventos além do seu controle. A rede Steem é projetada para tolerar corrupção de curto prazo do preço da mediana do indicador enquanto a comunidade trabalha ativamente para corrigir o problema. Um exemplo de um problema que pode levar algum tempo para ser corrigido é a manipulação de mercado a curto prazo. Market manipulation is difficult and expensive to maintain for long periods of time. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
+Mesmo que todos os produtores de indicadores sejam honestos, é possível que a maioria dos feeds sejam influenciados por eventos além do seu controle. A rede Steem é projetada para tolerar corrupção de curto prazo do preço da mediana do indicador enquanto a comunidade trabalha ativamente para corrigir o problema. Um exemplo de um problema que pode levar algum tempo para ser corrigido é a manipulação de mercado a curto prazo. Manipulação de mercado é difícil e caro de manter por longos períodos de tempo. Outro exemplo seria a falha de bolsa centralizada ou o corrompimento de dados publicados na bolsa.
 
-Steem factors out short-term price fluctuations by using the median price over a period of three and a half days. The median published feed is sampled every hour on the hour.
+Steem leva em consideração flutuações de preço de curto prazo, usando a mediana do preço em um período de três dias e meio. A mediana do indicador publicado é definida a cada hora na hora.
 
-As long as the price feed corruption lasts for less than half the moving median time window it will have minimal impact on the conversion price. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
+Enquanto a corrupção do indicador de preço durar por menos do que a janela de tempo da mediana móvel, ela terá um impacto mínimo no preço de conversão. Caso o indicador seja corrompido, o participantes da rede terão uma oportunidade de votar na saída dos produtores do índicador corrompido antes que o indicador corrompido tenha impacto no preço atual de conversão. Talvez mais importante, isso dá aos produtores de indicadores uma oportunidade de detectar e corrigir problemas antes que seus indicadores comecem a impactar o preço.
 
-With a three and a half day window, community members have approximately one and a half days to respond to any issues that come up.
+Com uma janela de três dias e meio, membros da comunidade tem aproximadamente um dia e meio para responder a qualquer problema que aparecer.
 
 ### Mitigating Timing Attacks
 
-Market participants have access to information faster than the blockchain’s three and a half day moving median conversion price can react. This information could be used to benefit of traders at the expense of the community. Se houver um aumento súbito no valor do STEEM, os negociantes poderiam solicitar a conversão do seu SBD a um menor e mais antigo preço, e então vender o STEEM que eles receberem ao novo preço mais alto com um risco mínimo.
+Participantes do mercado tem acesso à informação mais rápido que o preço de conversão da mediana móvel de três dias e meio pode reagir. Esta informação pode ser utilizada em beneficio dos negociantes em detrimento da comunidade. Se houver um aumento súbito no valor do STEEM, os negociantes poderiam solicitar a conversão do seu SBD a um menor e mais antigo preço, e então vender o STEEM que eles receberem ao novo preço mais alto com um risco mínimo.
 
 Steem nivela o campo solicitando que todas as solicitações de conversão sejam atrasadas por três dias e meio. Isso significa que nem os negociantes nem a blockchain tem qualquer vantagem de informação sobre o preço no momento que a conversão é executada.
 
@@ -138,19 +138,19 @@ Os possuidores de STEEM e SP ganham vantagem quando os membros da Comunidade est
 
 ### Definindo fontes de preço
 
-Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
+Leitores astutos irão reconhecer que um ativo portador de juros de oferta limitada pode vir a ser negociado mais alto ou mais baixo que o ativo subjacente, a depender de outras oportunidade de receber juros no mesmo ativo. Com uma alta taxa de juros paga a um ativo atrelado ao dólar Americano muitas pessoas irão abrir uma negociação sobre o fornecimento limitado de Dólares Steem até que eles não tenham mais o valor de $1. Em economia existe um princípio conhecido como a Trindade Impossível[^4] que afirma que é impossível de existir as três condições abaixo ao mesmo tempo:
 
-1. A stable exchange rate
+1. Uma taxa de câmbio estável
 2. Livre circulação de capital
 3. Uma política monetária independente
 
-If Steem feed producers aim to have an independent monetary policy allowing it to create and destroy Steem Dollars while simultaneously having full control over the interest rate then they will encounter problems. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
+Se os produtores de índices do Steem pretendem ter uma política monetária independente, permitindo-lhes criar e destruir Dólares Steem enquanto simultaneamente têm controle sobre a taxa de juros, então eles irão encontrar problemas. A Trindade impossível diz que Dólares Steem ou precisam restringir movimento de capital, ou ter uma taxa de câmbio instável com o dólar, ou ter um controle limitado sobre a taxa de juros.
 
-The primary concern of Steem feed producers is to maintain a stable one-to-one conversion between SBD and the U.S. Dollar (USD). Any time SBD is consistently trading above $1.00 USD interest payments must be stopped. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SBD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
+A principal preocupação dos produtores de índice Steem é em manter uma conversão de um-para-um entre SBD e o Dólar Americano. Quando o SBD estiver a ser negociado consistentemente acima de US $1,00 o pagamento de juros deve ser parado. Em um mercado aonde 0% de juros sobre a dívida ainda exige um prêmio, é seguro dizer que o mercado está disposto a estender mais crédito do que a comunidade está disposta a assumir de dívida. Se isso acontecer um SBD será avaliado em mais de $1,00 e há pouco o que a comunidade possa fazer sem cobrar taxa de juros negativas.
 
-If the debt-to-ownership ratio is low and SBD is trading for less than $1.00, then the interest rate should be increased. This will encourage more people to hold their SBD and support the price.
+Se a taxa de dívida-para-posse é baixa e o SBD está sendo negociado a menos que $1,00, então a taxa de juros deve ser aumentada. Isso será suficiente para que mais pessoas guardem o seu SBD para segurar o preço.
 
-If SBD trades for less than $1.00 USD and the debt-to-ownership ratio is high, then the feeds should be adjusted upward give more STEEM per SBD. This will increase demand for SBD while also reducing the debt-to-ownership ratio and returning SBD to parity with USD.
+Se o SBD é negociado por menos que US$ 1,00 e a taxa de dívida-para-posse é alta, então os índices devem ser ajustados para cima fornecendo mais STEEM por SBD. This will increase demand for SBD while also reducing the debt-to-ownership ratio and returning SBD to parity with USD.
 
 Assuming the value of STEEM is growing faster than Steem is creating new SBD, the debt-to-ownership ratio should remain under the target ratio and the interest offered benefits everyone. If the value of the network is flat or falling, then any interest offered will only make the debt-to-ownership ratio worse.
 
