@@ -220,9 +220,9 @@ Changes to the interest rate policy and/or any premiums/discounts on the STEEM/S
 
 Steem獎勵系統的主要目標之一是在互聯網上進行最佳討論。 每年75%的年度通貨膨脹分配給提交、投票和討論內容的用戶。 在比特幣的大小，這可能是數百萬美元，每天給予最高貢獻者。
 
-The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content.
+實際的分配將取決於使用者的投票模式, 但我們懷疑, 絕大多數的獎勵將被分發到最流行的內容。
 
-Zipf’s Law[^7] is one of those empirical rules that characterize a surprising range of real-world phenomena remarkably well. It says that if we order some large collection by size or popularity, the second element in the collection will be about half the measure of the first one, the third one will be about one-third the measure of the first one, and so on. In general, the k th-ranked item will measure about 1/k of the first one.
+齊夫定律[^7]是這些經驗法則中的一種。它能顯著地刻畫出一個令人驚訝的真實世界現象的範圍。 It says that if we order some large collection by size or popularity, the second element in the collection will be about half the measure of the first one, the third one will be about one-third the measure of the first one, and so on. In general, the k th-ranked item will measure about 1/k of the first one.
 
 ![](\img_the_new_marketplace.png)
 
