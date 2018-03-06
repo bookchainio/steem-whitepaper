@@ -230,11 +230,11 @@ Steem獎勵系統的主要目標之一是在互聯網上進行最佳討論。 �
 
 這一投票和支付分配的效果是給好內容提供高報酬，同時因為長尾分佈仍然可以獎勵較小用戶。
 
-這種經濟效應類似於彩票，人們高估了他們贏得彩排的可能性，因而比預期的報酬更努力工作，從而使為社區服務的工作總量最大化。 每個人都“贏了”的事實和賭場用來賭博的心理是相同的。 In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
+這種經濟效應類似於彩票，人們高估了他們贏得彩排的可能性，因而比預期的報酬更努力工作，從而使為社區服務的工作總量最大化。 每個人都“贏了”的事實和賭場用來賭博的心理是相同的。 換言之，小獎勵有助於鞏固這樣一種觀點，即有可能獲得更大的回報。
 
-### Payouts
+### 賞金
 
-When a post receives a payout it takes the form of 50% SBD and 50% SP. The Steem Power give the user increased voting and transaction power while the SBD gives the user an immediate benefit in a stable currency. As we’ve already discussed at length, SP is designed to encourage long-term holding rather than short-term selling. This encourages more users to have a vested interest in the long-term success of the platform.
+當一個帖子收到付款時, 它以 50% SBD 和 50% SP 的形式。 The Steem Power give the user increased voting and transaction power while the SBD gives the user an immediate benefit in a stable currency. As we’ve already discussed at length, SP is designed to encourage long-term holding rather than short-term selling. This encourages more users to have a vested interest in the long-term success of the platform.
 
 Users also have the option to be paid in 100% SP, as well as decline payout on posts. When a user declines payout on a post, the money that would have been paid to them remains in the rewards pool, to be distributed to other users.
 
