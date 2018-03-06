@@ -210,13 +210,13 @@ Steem 飼料生產商的主要關注是保持 SBD 和美元之間的一對一轉
 
 建立社區貨幣的目的是為了得到更多的“螃蟹”。 採取極端的措施來消除所有的虐待，就像試圖把桶蓋上蓋子以防止幾只螃蟹逃跑一樣，而代價是新增新螃蟹的難度。 這足以使牆壁光滑，並給予其他螃蟹足够的權力，以防止其他人逃脫。
 
-### Rate Limited Voting
+### 投票率有限
 
 限制濫用的主要部分是投票率的限制。 個人用戶每天只能閱讀和評估這麼多的工作項。 任何比這更頻繁投票的企圖都是自動化和潜在濫用的標誌。 通過利率限制，投票頻率更高的利益相關者每一次投票都比不經常投票的利益相關者少。 試圖在多個賬戶之間劃分代幣也會分散影響力，因此不會導致影響的淨增加，也不會繞過對投票的限制。
 
-Users are allotted a fixed amount of voting power. Voting power is multiplied by a user’s vesting tokens to determine how much share in the reward pool should be allocated to a given work item. Every vote that is cast uses a percentage of remaining voting power. Users can vote for more posts, but each vote will be worth less, and it will take longer to reach full voting power again. Voting power recharges at a fixed linear rate of 20% per day.
+用戶分配一定數量的表決權。 投票權乘以用戶的歸屬權杖，以確定分配給某個給定工作項的獎勵池所占的份額。 每一次投投都使用剩餘投票權的百分比。 用戶可以投票選舉更多的職位，但每次投票的價值都會更低，而且要再次獲得完全的投票權還需要更長的時間。 投票權，可以在一個固定的線性每天20%的速度。
 
-### Payout Distribution
+### 股利分配
 
 One of the primary goals of Steem’s reward system is to produce the best discussions on the internet. Each and every year 75% of the yearly inflation is distributed to users submitting, voting on, and discussing content. At the size of Bitcoin this could be several million dollars per day being given to the top contributors.
 
