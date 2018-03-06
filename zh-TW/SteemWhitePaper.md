@@ -218,7 +218,7 @@ Changes to the interest rate policy and/or any premiums/discounts on the STEEM/S
 
 ### 股利分配
 
-Steem獎勵系統的主要目標之一是在互聯網上進行最佳討論。 每年75%的年度通貨膨脹分配給提交、投票和討論內容的用戶。 At the size of Bitcoin this could be several million dollars per day being given to the top contributors.
+Steem獎勵系統的主要目標之一是在互聯網上進行最佳討論。 每年75%的年度通貨膨脹分配給提交、投票和討論內容的用戶。 在比特幣的大小，這可能是數百萬美元，每天給予最高貢獻者。
 
 The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content.
 
