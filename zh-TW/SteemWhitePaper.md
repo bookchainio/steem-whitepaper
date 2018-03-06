@@ -222,11 +222,11 @@ Steem獎勵系統的主要目標之一是在互聯網上進行最佳討論。 �
 
 實際的分配將取決於使用者的投票模式, 但我們懷疑, 絕大多數的獎勵將被分發到最流行的內容。
 
-齊夫定律[^7]是這些經驗法則中的一種。它能顯著地刻畫出一個令人驚訝的真實世界現象的範圍。 It says that if we order some large collection by size or popularity, the second element in the collection will be about half the measure of the first one, the third one will be about one-third the measure of the first one, and so on. In general, the k th-ranked item will measure about 1/k of the first one.
+齊夫定律[^7]是這些經驗法則中的一種。它能顯著地刻畫出一個令人驚訝的真實世界現象的範圍。 它說，如果我們訂購一些大的按大小或知名度，收集的第二個元素將是大約一半的第一個措施，第三個將是大約三分之一的措施，第一個，等等。 一般來說, k 次排名的專案將衡量約 1/k 的第一個。
 
 ![](\img_the_new_marketplace.png)
 
-Taking popularity as a rough measure of value, then the value of each individual item is given by Zipf’s Law. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
+以知名度作為一個粗略的測量值，然後每一項的值是由齊普夫定律了。 也就是說，如果我們有一百萬個項目，那麼最受歡迎的100將貢獻總價值的第三，接下來的10,000，另外第三，剩下的989,900，最後第三。 The value of the collection of n items is proportional to log(n).
 
 The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
 
