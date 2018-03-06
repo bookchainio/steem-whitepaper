@@ -158,7 +158,7 @@ Steem 飼料生產商的主要關注是保持 SBD 和美元之間的一對一轉
 
 如果債務股權比率越高，市場參與者選擇避免轉換請求，然後飼料應調整新增的速率在Steem轉換為SBD支付。
 
-Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SBD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions.
+利率政策的變動和/或STEEM / SBD轉換匯率的任何溢價/折扣應該是對長期平均偏差的一個緩慢的和有分寸的反應而不是試圖對短期市場狀況作出反應。
 
 我們相信, 這些規則將使市場參與者相信, 持有 SBD 以1.00 元的價格購買, 他們不太可能賠錢。 我們期待有一個狹窄的交易範圍在 0.95美元和1.05美元的SBD在正常的市場條件下。
 
@@ -230,7 +230,7 @@ Steem獎勵系統的主要目標之一是在互聯網上進行最佳討論。 �
 
 這一投票和支付分配的效果是給好內容提供高報酬，同時因為長尾分佈仍然可以獎勵較小用戶。
 
-這種經濟效應類似於彩票，人們高估了他們贏得彩排的可能性，因而比預期的報酬更努力工作，從而使為社區服務的工作總量最大化。 The fact that everyone “wins something” plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
+這種經濟效應類似於彩票，人們高估了他們贏得彩排的可能性，因而比預期的報酬更努力工作，從而使為社區服務的工作總量最大化。 每個人都“贏了”的事實和賭場用來賭博的心理是相同的。 In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
 
 ### Payouts
 
