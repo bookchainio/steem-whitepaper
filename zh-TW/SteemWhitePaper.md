@@ -234,7 +234,7 @@ Steem獎勵系統的主要目標之一是在互聯網上進行最佳討論。 �
 
 ### 賞金
 
-當一個帖子收到付款時, 它以 50% SBD 和 50% SP 的形式。 The Steem Power give the user increased voting and transaction power while the SBD gives the user an immediate benefit in a stable currency. As we’ve already discussed at length, SP is designed to encourage long-term holding rather than short-term selling. This encourages more users to have a vested interest in the long-term success of the platform.
+當一個帖子收到付款時, 它以 50% SBD 和 50% SP 的形式。 Steem能量給用戶更多的投票和交易權利，而SBD給用戶一個穩定貨幣的即時收益。 正如我們已經詳細討論過的，SP的目的是鼓勵長期持有，而不是短期銷售。 這鼓勵更多的用戶對平臺的長期成功有既得利益。
 
 Users also have the option to be paid in 100% SP, as well as decline payout on posts. When a user declines payout on a post, the money that would have been paid to them remains in the rewards pool, to be distributed to other users.
 
