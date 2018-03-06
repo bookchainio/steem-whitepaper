@@ -226,11 +226,11 @@ Steem獎勵系統的主要目標之一是在互聯網上進行最佳討論。 �
 
 ![](\img_the_new_marketplace.png)
 
-以知名度作為一個粗略的測量值，然後每一項的值是由齊普夫定律了。 也就是說，如果我們有一百萬個項目，那麼最受歡迎的100將貢獻總價值的第三，接下來的10,000，另外第三，剩下的989,900，最後第三。 The value of the collection of n items is proportional to log(n).
+以知名度作為一個粗略的測量值，然後每一項的值是由齊普夫定律了。 也就是說，如果我們有一百萬個項目，那麼最受歡迎的100將貢獻總價值的第三，接下來的10,000，另外第三，剩下的989,900，最後第三。 n項集合的值與log(n) 成比例。
 
-The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
+這一投票和支付分配的效果是給好內容提供高報酬，同時因為長尾分佈仍然可以獎勵較小用戶。
 
-The economic effect of this is similar to a lottery where people overestimate their probability of getting votes and thus do more work than the expected value of their reward and thereby maximize the total amount of work performed in service of the community. The fact that everyone “wins something” plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
+這種經濟效應類似於彩票，人們高估了他們贏得彩排的可能性，因而比預期的報酬更努力工作，從而使為社區服務的工作總量最大化。 The fact that everyone “wins something” plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
 
 ### Payouts
 
