@@ -12,7 +12,7 @@ Spazio per gli appunti del traduttore.
 
 Steem è una banca dati che si sviluppa sulla blockchain. Essa supporta la formazione di comunità e di interazioni sociali con le crypto valute come sistema di ricompense. Steem associa i concetti dei social media con le lezioni apprese dalla costruzione delle crypto valute e delle loro comunità. Una delle chiavi importanti in qualsiasi comunità, con una economia di libero mercato o monetaria, volta a suscitare la partecipazione, è un equo sistema di contabilità che riflette il contributo di ogni singola persona. Steem è la prima crypto valuta che tenta in modo preciso e trasparente di ricompensare un illimitato numero di individui che apportano i loro *personali contributi* alla loro comunità.
 
-# Table of Contents
+# Sommario
 
 <!-- toc -->
 
