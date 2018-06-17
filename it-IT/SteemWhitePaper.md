@@ -31,7 +31,7 @@ La comunità di Steem fornisce ai suoi membri i seguenti servizi:
 1. Una fonte di informazioni e articoli accurati.
 2. Un mezzo per ottenere risposte di una elevata qualità a domande personalizzate.
 3. Una criptovaluta stabile legata al dollaro americano.
-4. Pagamenti gratuiti.
+4. Pagamenti senza commissioni.
 5. Lavori che forniscono i servizi qui sopra elencati, ad altri membri.
 
 Il riallineamento intenzionale degli incentivi economici di Steem ha il potenziale di produrre risultati più equi e più completi per ognuno che è coinvolto, rispetto alle piattaforme di social media e di criptovalute che ci sono state prima di questa. Questo documento analizzerà gli esistenti incentivi economici e dimostrerà come gli incentivi di Steem possono risultare in migliori risultati per la maggior parte dei membri.
