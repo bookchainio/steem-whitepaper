@@ -34,9 +34,9 @@ La comunità di Steem fornisce ai suoi membri i seguenti servizi:
 4. Pagamenti gratuiti.
 5. Lavori che forniscono i servizi qui sopra elencati, ad altri membri.
 
-Il riallineamento intenzionale degli incentivi economici di Steem ha il potenziale di produrre risultati più equi e più completi per ognuno che è coinvolto, rispetto alle piattaforme di social media e di crypto valute che ci sono state prima di questa. This paper will explore the existing economic incentives and demonstrate how Steem’s incentives may result in better outcomes for most participants.
+Il riallineamento intenzionale degli incentivi economici di Steem ha il potenziale di produrre risultati più equi e più completi per ognuno che è coinvolto, rispetto alle piattaforme di social media e di crypto valute che ci sono state prima di questa. Questo documento analizzerà gli esistenti incentivi economici e dimostrerà come gli incentivi di Steem possono risultare in migliori risultati per la maggior parte dei membri.
 
-## Recognizing Contribution
+## Riconoscere il contributo
 
 Steem is designed from the ground up to address the major barriers to adoption and monetization of a social media based economy. Our thesis is that the same techniques used to grow major social media platforms can be used to bootstrap a successful cryptocurrency. Economic incentives enabled by cryptocurrency can dramatically facilitate the growth of a new social media platform. It is the synergy between cryptocurrency and social media that we believe may give Steem a powerful advantage in the market.
 
