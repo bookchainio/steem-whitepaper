@@ -34,7 +34,7 @@ La comunità di Steem fornisce ai suoi membri i seguenti servizi:
 4. Pagamenti gratuiti.
 5. Lavori che forniscono i servizi qui sopra elencati, ad altri membri.
 
-Steem’s purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem’s incentives may result in better outcomes for most participants.
+Il riallineamento intenzionale degli incentivi economici di Steem ha il potenziale di produrre risultati più equi e più completi per ognuno che è coinvolto, rispetto alle piattaforme di social media e di crypto valute che ci sono state prima di questa. This paper will explore the existing economic incentives and demonstrate how Steem’s incentives may result in better outcomes for most participants.
 
 ## Recognizing Contribution
 
