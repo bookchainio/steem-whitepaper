@@ -10,7 +10,7 @@ Spazio per gli appunti del traduttore.
 
 # Estratto
 
-Steem è una banca dati che si sviluppa sulla blockchain. Essa supporta la formazione di comunità e di interazioni sociali con le crypto valute come sistema di ricompense. Steem associa i concetti dei social media con le lezioni apprese dalla costruzione delle crypto valute e delle loro comunità. Una delle chiavi importanti in qualsiasi comunità, con una economia di libero mercato o monetaria, volta a suscitare la partecipazione, è un equo sistema di contabilità che riflette il contributo di ogni singola persona. Steem è la prima crypto valuta che tenta in modo preciso e trasparente di ricompensare un illimitato numero di individui che apportano i loro *personali contributi* alla loro comunità.
+Steem è una banca dati che si sviluppa sulla blockchain. Essa supporta la formazione di comunità e di interazioni sociali con le cryptovalute come sistema di ricompense. Steem associa i concetti dei social media con le lezioni apprese dalla costruzione delle cryptovalute e delle loro comunità. Una delle chiavi importanti in qualsiasi comunità, con una economia di libero mercato o monetaria, volta a suscitare la partecipazione, è un equo sistema di contabilità che riflette il contributo di ogni singola persona. Steem è la prima cryptovaluta che tenta in modo preciso e trasparente di ricompensare un illimitato numero di individui che apportano i loro *personali contributi* alla loro comunità.
 
 # Sommario
 
@@ -18,11 +18,11 @@ Steem è una banca dati che si sviluppa sulla blockchain. Essa supporta la forma
 
 # Introduzione
 
-Nel complesso, i contenuti generati dagli utenti, hanno creato un valore di miliardi di dollari per gli azionisti delle società dei social media, come per esempio Reddit, Facebook e Twitter. **Nel 2014 Reddit ha ipotizzato che la sua piattaforma si sarebbe migliorata se tutti quelli che contribuivano a reddit.com attraverso la pubblicazione di racconti, aggiungendo commenti e votando, sarebbero stati ricompensati con una quota equa di Reddit, Inc.[^1]**. Steem punta a sostenere i social media e le comunità online ridistribuendo molto del suo valore alle persone che apportano preziosi contributi, ricompensandoli con le crypto valute e, attraverso questo processo, creando una valuta in grado di raggiungere un ampio mercato, includendo anche le persone che devono ancora partecipare in qualsiasi economia basata sulle crypto valute.
+Nel complesso, i contenuti generati dagli utenti, hanno creato un valore di miliardi di dollari per gli azionisti delle società dei social media, come per esempio Reddit, Facebook e Twitter. **Nel 2014 Reddit ha ipotizzato che la sua piattaforma si sarebbe migliorata se tutti quelli che contribuivano a reddit.com attraverso la pubblicazione di racconti, aggiungendo commenti e votando, sarebbero stati ricompensati con una quota equa di Reddit, Inc.[^1]**. Steem punta a sostenere i social media e le comunità online ridistribuendo molto del suo valore alle persone che apportano preziosi contributi, ricompensandoli con le cryptovalute e, attraverso questo processo, creando una valuta in grado di raggiungere un ampio mercato, includendo anche le persone che devono ancora partecipare in qualsiasi economia basata sulle cryptovalute.
 
 Ci sono dei principi base che sono stati utilizzati per condurre alla progettazione di Steem. Il principio più importante è quello che ogni persona che contribuisce ad una impresa, dovrebbe ricevere proprietà pro-quota, pagamenti o debiti dall'impresa stessa. Questo principio è esattamente quello che viene applicato alle startup in quanto, queste, conferiscono azioni al momento della fondazione e durante le successive serie di finanziamenti.
 
-Il secondo principio è che tutti i tipi di capitali sono in egual misura di valore. Questo vuol dire che quelli che contribuiscono con il loro tempo limitato e con la loro premura nella produzione e nella cura di contenuti per gli altri, hanno lo stesso valore di quelli che contribuiscono con il loro poco denaro. Questo è il principio primario di equità[^2] ed è un concetto con il quale le crypto valute precedenti hanno spesso avuto problemi in quanto lo fornivano a poche decine di individui.
+Il secondo principio è che tutti i tipi di capitali sono in egual misura di valore. Questo vuol dire che quelli che contribuiscono con il loro tempo limitato e con la loro premura nella produzione e nella cura di contenuti per gli altri, hanno lo stesso valore di quelli che contribuiscono con il loro poco denaro. Questo è il principio primario di equità[^2] ed è un concetto con il quale le cryptovalute precedenti hanno spesso avuto problemi in quanto lo fornivano a poche decine di individui.
 
 Il terzo principio è che che la comunità genera prodotti da offrire ai suoi membri. Questo principio è esemplificato da cooperative di credito, cooperative di cibo e piani di condivisione della salute, che si occupano dei membri delle loro comunità anziché vendere beni o servizi a persone al di fuori della comunità stessa.
 
@@ -30,11 +30,11 @@ La comunità di Steem fornisce ai suoi membri i seguenti servizi:
 
 1. Una fonte di informazioni e articoli accurati.
 2. Un mezzo per ottenere risposte di una elevata qualità a domande personalizzate.
-3. Una crypto valuta stabile legata al dollaro americano.
+3. Una cryptovaluta stabile legata al dollaro americano.
 4. Pagamenti gratuiti.
 5. Lavori che forniscono i servizi qui sopra elencati, ad altri membri.
 
-Il riallineamento intenzionale degli incentivi economici di Steem ha il potenziale di produrre risultati più equi e più completi per ognuno che è coinvolto, rispetto alle piattaforme di social media e di crypto valute che ci sono state prima di questa. Questo documento analizzerà gli esistenti incentivi economici e dimostrerà come gli incentivi di Steem possono risultare in migliori risultati per la maggior parte dei membri.
+Il riallineamento intenzionale degli incentivi economici di Steem ha il potenziale di produrre risultati più equi e più completi per ognuno che è coinvolto, rispetto alle piattaforme di social media e di cryptovalute che ci sono state prima di questa. Questo documento analizzerà gli esistenti incentivi economici e dimostrerà come gli incentivi di Steem possono risultare in migliori risultati per la maggior parte dei membri.
 
 ## Riconoscere il contributo
 
@@ -56,7 +56,7 @@ Dal momento che il libero mercato è un sistema collaudato, è forte la tentazio
 
 Steem è progettato per abilitare micro pagamenti efficaci per tutti i tipi di contributi attraverso la modifica dell'equazione economica. I lettori non devono più decidere se vogliono o meno pagare qualcuno di tasca propria, possono invece votare i contenuti in modo positivo o negativo e Steem userà i loro voti per determinare la ricompensa individuale. Questo vuol dire che alle persone viene data un'interfaccia famigliare e ampiamente utilizzata e non più l'affrontare costi cognitivi e finanziari associati ai tradizionali micro pagamenti e piattaforme di ricompense.
 
-L'invio dei voti da parte dei membri della comunità è molto importante per Steem per distribuire i compensi ai contribuenti in modo accurato. Votare puo perciò essere visto come un contributo cruciale ed essere esso stesso degno di un compenso. Alcune piattaforme, come Slashdot, utilizzano meta-moderazione[^3] come metodo per classificare e premiare moderatori onesti. Steem chooses to reward those who contribute the most to the total promotion of a piece of content and rewards the voters proportional to the ultimate reward paid to the content creator.
+L'invio dei voti da parte dei membri della comunità è molto importante per Steem per distribuire i compensi ai contribuenti in modo accurato. Votare puo perciò essere visto come un contributo cruciale ed essere esso stesso degno di un compenso. Alcune piattaforme, come Slashdot, utilizzano meta-moderazione[^3] come metodo per classificare e premiare moderatori onesti. Steem sceglie di ricompensare coloro che contribuiscono maggiormente alla totale promozione di una parte di contenuto e ricompensa in modo proporzionale i votanti in base all'ultimo compenso pagato al creatore del contenuto.
 
 # Ways to Contribute
 
