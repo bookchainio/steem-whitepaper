@@ -22,17 +22,17 @@ Nel complesso, i contenuti generati dagli utenti, hanno creato un valore di mili
 
 Ci sono dei principi base che sono stati utilizzati per condurre alla progettazione di Steem. Il principio più importante è quello che ogni persona che contribuisce ad una impresa, dovrebbe ricevere proprietà pro-quota, pagamenti o debiti dall'impresa stessa. Questo principio è esattamente quello che viene applicato alle startup in quanto, queste, conferiscono azioni al momento della fondazione e durante le successive serie di finanziamenti.
 
-Il secondo principio è che tutti i tipi di capitali sono in egual misura di valore. Questo vuol dire che quelli che contribuiscono con il loro tempo limitato e con la loro premura nella produzione e nella cura di contenuti per gli altri, hanno lo stesso valore di quelli che contribuiscono con il loro poco denaro. This is the sweat equity principle[^2] and is a concept that prior cryptocurrencies have often had trouble providing to more than a few dozen individuals.
+Il secondo principio è che tutti i tipi di capitali sono in egual misura di valore. Questo vuol dire che quelli che contribuiscono con il loro tempo limitato e con la loro premura nella produzione e nella cura di contenuti per gli altri, hanno lo stesso valore di quelli che contribuiscono con il loro poco denaro. Questo è il principio primario di equità[^2] ed è un concetto con il quale le crypto valute precedenti hanno spesso avuto problemi in quanto lo fornivano a poche decine di individui.
 
-The third principle is that the community produces products to serve its members. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
+Il terzo principio è che che la comunità genera prodotti da offrire ai suoi membri. Questo principio è esemplificato da cooperative di credito, cooperative di cibo e piani di condivisione della salute, che si occupano dei membri delle loro comunità anziché vendere beni o servizi a persone al di fuori della comunità stessa.
 
-The Steem community provides the following services to its members:
+La comunità di Steem fornisce ai suoi membri i seguenti servizi:
 
-1. A source of curated news and commentary.
-2. A means to get high quality answers to personalized questions.
-3. A stable cryptocurrency pegged to the U.S. dollar.
-4. Free payments.
-5. Jobs providing above services to other members.
+1. Una fonte di informazioni e articoli accurati.
+2. Un mezzo per ottenere risposte di una elevata qualità a domande personalizzate.
+3. Una crypto valuta stabile legata al dollaro americano.
+4. Pagamenti gratuiti.
+5. Lavori che forniscono i servizi qui sopra elencati, ad altri membri.
 
 Steem’s purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem’s incentives may result in better outcomes for most participants.
 
