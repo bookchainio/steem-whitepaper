@@ -22,7 +22,7 @@ Nel complesso, i contenuti generati dagli utenti, hanno creato un valore di mili
 
 Ci sono dei principi base che sono stati utilizzati per condurre alla progettazione di Steem. Il principio più importante è quello che ogni persona che contribuisce ad una impresa, dovrebbe ricevere proprietà pro-quota, pagamenti o debiti dall'impresa stessa. Questo principio è esattamente quello che viene applicato alle startup in quanto, queste, conferiscono azioni al momento della fondazione e durante le successive serie di finanziamenti.
 
-Il secondo principio è che tutti i tipi di capitali sono in egual misura di valore. This means that those who contribute their scarce time and attention toward producing and curating content for others are just as valuable as those who contribute their scarce cash. This is the sweat equity principle[^2] and is a concept that prior cryptocurrencies have often had trouble providing to more than a few dozen individuals.
+Il secondo principio è che tutti i tipi di capitali sono in egual misura di valore. Questo vuol dire che quelli che contribuiscono con il loro tempo limitato e con la loro premura nella produzione e nella cura di contenuti per gli altri, hanno lo stesso valore di quelli che contribuiscono con il loro poco denaro. This is the sweat equity principle[^2] and is a concept that prior cryptocurrencies have often had trouble providing to more than a few dozen individuals.
 
 The third principle is that the community produces products to serve its members. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
 
