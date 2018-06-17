@@ -56,7 +56,7 @@ Dal momento che il libero mercato è un sistema collaudato, è forte la tentazio
 
 Steem è progettato per abilitare micro pagamenti efficaci per tutti i tipi di contributi attraverso la modifica dell'equazione economica. I lettori non devono più decidere se vogliono o meno pagare qualcuno di tasca propria, possono invece votare i contenuti in modo positivo o negativo e Steem userà i loro voti per determinare la ricompensa individuale. Questo vuol dire che alle persone viene data un'interfaccia famigliare e ampiamente utilizzata e non più l'affrontare costi cognitivi e finanziari associati ai tradizionali micro pagamenti e piattaforme di ricompense.
 
-L'ingresso dei voti dai membri della comunità è cruciale per Steem per distribuire i voti ai contribuenti in modo accurato. Votare puo perciò essere visto come un contributo cruciale ed essere esso stesso degno di un compenso. Some platforms, such as Slashdot, use meta-moderation[^3] as a way to rank and reward honest moderators. Steem chooses to reward those who contribute the most to the total promotion of a piece of content and rewards the voters proportional to the ultimate reward paid to the content creator.
+L'invio dei voti da parte dei membri della comunità è molto importante per Steem per distribuire i compensi ai contribuenti in modo accurato. Votare puo perciò essere visto come un contributo cruciale ed essere esso stesso degno di un compenso. Alcune piattaforme, come Slashdot, utilizzano meta-moderazione[^3] come metodo per classificare e premiare moderatori onesti. Steem chooses to reward those who contribute the most to the total promotion of a piece of content and rewards the voters proportional to the ultimate reward paid to the content creator.
 
 # Ways to Contribute
 
