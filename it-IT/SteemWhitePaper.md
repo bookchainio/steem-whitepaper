@@ -36,7 +36,7 @@ La comunità di Steem fornisce ai suoi membri i seguenti servizi:
 
 Il riallineamento intenzionale degli incentivi economici di Steem ha il potenziale di produrre risultati più equi e più completi per chiunque vi è coinvolto, a differenza delle piattaforme di social media e di criptovalute che si sono formate prima di questa. Questo documento analizzerà gli esistenti incentivi economici e dimostrerà come gli incentivi di Steem si possono riflettere in migliori risultati per la maggior parte dei membri.
 
-## Riconoscere il contributo
+## Riconoscere la contribuzione
 
 Steem è stato progettato da zero per affrontare i principali ostacoli che possono comportare l'adozione e la monetizzazione di un social media basato sull'economia. Le nostre testi si basano sul fatto che le stesse tecniche utilizzate a far crescere la maggior parte delle piattaforme di social media, possono essere utilizzate per avviare una criptovaluta di successo. Gli incentivi economici resi disponibili grazie alle criptovalute possono facilitare in modo decisivo la crescita di una nuova piattaforma di social media. È la sinergia tra la criptovaluta e i social media che fa credere che Steem possa avere un vantaggio notevole nel mercato.
 
