@@ -62,7 +62,7 @@ L'invio dei voti da parte dei membri della comunità è molto importante per Ste
 
 Questa sezione delinea i concetti che si trovano dietro a Steem e dietro alle ricompense destinate alle persone che forniscono contributi significativi e quantificabili alla sua comunità.
 
-## Gli apporti di capitali
+## Gli apporti di capitale
 
 Ci sono due elementi che una comunità può offrire per attrarre capitali: obbligazioni e proprietà. Coloro che ottengono profitti dal possedimento delle proprietà quando la comunità cresce ma che vanno in perdita se la comunità decresce. A coloro che comprano obbligazioni viene garantito un certo ammontare di interessi ma non vengono coinvolti nella partecipazione ai profitti che avviene grazie alla crescita della comunità. Entrambi i tipi di apporto di capitali sono preziosi per la crescita della comunità e per il valore della propria valuta. Inoltre ci sono due modi per mantenere i propri capitali: liquidi (in contanti) o investiti. Investire il proprio capitale comporta ad avere un impegno a lungo termine e alla non possibilità di vendita dello stesso per un minimo periodo di tempo.
 
@@ -82,11 +82,11 @@ Nel campo delle criptovalute, gli speculatori passano da una criptovaluta all'al
 
 Gli utenti hanno la possibilità di vincolare i loro STEEM in un piano di investimento che dura tredici settimane, (questo tipo di piano prende il nome di *vesting*) facendoli godere di ulteriori vantaggi all'interno della piattaforma. Lo STEEM che viene vincolato nel piano di investimento di tredici settimane prende il nome di Steem Power (SP). Il saldo dello SP non è né trasferibile né divisibile se non attraverso richieste periodiche di conversione eseguite in modo volontario. Questo vuol dire che lo SP non può essere facile oggetto di speculazione nei siti di scambio delle criptovalute.
 
-Quando gli utenti danno il loro voto ad un contenuto, la loro incidenza nella distribuzione del montepremi è direttamente proporzionale all'ammontare dello SP da loro posseduto. Gli utenti con un maggiore SP hanno più incidenza nella distribuzione delle ricompense. Questo significa che lo SP è un token di accesso necessario ai rispettivi possessori al fine di poter essere garantiti di avere poteri esclusivi all'interno della piattaforma di Steem.
+Quando gli utenti danno il loro voto ad un contenuto, la loro incidenza nella distribuzione del montepremi è direttamente proporzionale all'ammontare dello SP da loro posseduto. Gli utenti con un maggiore SP hanno più incidenza nella distribuzione delle ricompense. Questo significa che lo SP di ogni detentore è un token di accesso necessario ad avere la garanzia di poter usufruire di poteri esclusivi all'interno della piattaforma di Steem.
 
 Ai possessori di SP vengono inoltre pagati degli interessi nel saldo di SP che mantengono vincolato. Il 15% dell'inflazione annua viene pagata ai possessori di SP come interesse. L'ammontare dell'interesse che ricevono è direttamente proporzionale all'ammontare dello SP che detengono, collegato all'ammontare totale dello SP vincolato da tutti gli altri utenti.
 
-Trasferendo lo STEEM a SP si fa riferimento al "powering up" (potenziamento) mentre, il trasferimento da SP a STEEM fa riferimento al "powering down" (depotenziamento). Lo SP che subisce il "power down", ritorna all'utente lungo un periodo di tredici settimane attraverso tredici pagamenti uguali ed inizia una settimana dopo che il "power down" viene avviato.
+Il trasferimento dello STEEM a SP fa riferimento all'azione di "powering up" (potenziamento) mentre, il trasferimento da SP a STEEM fa riferimento all'azione di "powering down" (depotenziamento). Lo SP che subisce il "power down", ritorna all'utente durante un periodo di tredici settimane attraverso tredici pagamenti uguali ed inizia una settimana dopo che il "power down" viene avviato.
 
 ## Steem Dollars (SBD)
 
