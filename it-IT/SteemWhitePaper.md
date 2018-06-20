@@ -62,15 +62,15 @@ L'invio dei voti da parte dei membri della comunità è molto importante per Ste
 
 Questa sezione delinea i concetti che si trovano dietro a Steem e dietro alle ricompense destinate alle persone che forniscono contributi significativi e misurabili alla sua comunità.
 
-## Capital Contributions
+## Gli apporti di capitali
 
 Ci sono due elementi che una comunità può offrire per attrarre capitali: obbligazioni e proprietà. Quelli che ottengono profitti dal possedimento delle proprietà quando la comunità cresce ma che vanno in perdita se la comunità decresce. A coloro che comprano obbligazioni viene garantito un certo ammontare di interessi ma non vengono coinvolti nella partecipazione ai profitti che avviene grazie alla crescita della comunità. Entrambi i tipi di apporto di capitali sono preziosi per la crescita della comunità e per il valore della propria valuta. Inoltre ci sono due modi per mantenere i propri capitali: liquidi (in contanti) o investiti. Investire il proprio capitale comporta ad avere un impegno a lungo termine e alla non possibilità di vendita dello stesso per un minimo periodo di tempo.
 
-The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SBD).
+La rete di Steem considera le categorie di Steem (STEEM), Steem Power (SP) e Steem Dollars (SBD) come diversi tipi di possedimenti che si possono avere.
 
 ## Steem (STEEM)
 
-Steem is the fundamental unit of account on the Steem blockchain. All other tokens derive their value from the value of STEEM. STEEM is a liquid currency, and therefore can be bought or sold on exchanges, as well as transferred to other users as a form of payment.
+Steem è l'unità di calcolo basilare nella blockchain di Steem. Il valore di tutti gli altri token dipende dal valore dello STEEM. STEEM è una valuta liquida e, perciò, può sia essere comprata e venduta nei siti di scambio, che trasferita ad altri utenti sotto forma di pagamento.
 
 ## Steem Power (SP)
 
