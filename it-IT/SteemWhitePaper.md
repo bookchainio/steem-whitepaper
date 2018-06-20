@@ -86,7 +86,7 @@ Quando gli utenti danno il loro voto ad un contenuto, la loro incidenza nella di
 
 Ai possessori di SP vengono inoltre pagati degli interessi nel saldo di SP che mantengono vincolato. Il 15% dell'inflazione annua viene pagata ai possessori di SP come interesse. L'ammontare dell'interesse che ricevono è direttamente proporzionale all'ammontare dello SP che detengono, collegato all'ammontare totale dello SP vincolato da tutti gli altri utenti.
 
-Transferring from STEEM to SP is referred to as “powering up”, while transferring from SP to STEEM is referred to as “powering down.” SP that is powered down is returned to the user over a period of thirteen weeks, via 13 equal weekly payments, starting one week after the power down is initiated.
+Trasferendo lo STEEM a SP si fa riferimento al "powering up" (potenziamento) mentre, il trasferimento da SP a STEEM fa riferimento al "powering down" (depotenziamento). Lo SP che subisce il "power down", ritorna all'utente lungo un periodo di tredici settimane attraverso tredici pagamenti uguali ed inizia una settimana dopo che il "power down" viene avviato.
 
 ## Steem Dollars (SBD)
 
