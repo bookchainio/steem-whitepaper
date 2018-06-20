@@ -74,9 +74,9 @@ Steem è l'unità di calcolo basilare nella blockchain di Steem. Il valore di tu
 
 ## Steem Power (SP)
 
-Le aziende di start up richiedono di impegnare i propri capitali a lungo termine. Those who invest their money in a startup expect to wait years before they can sell their shares and realize their profits. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
+Le aziende di start up richiedono di impegnare i propri capitali a lungo termine. Coloro che investono il proprio denaro nelle startup sono consapevoli del fatto che aspetteranno anni prima di poter vendere le proprie azioni e ricavarne i profitti. Senza le obbligazioni a lungo termine, le startup che cercano di accumulare capitali aggiuntivi attraverso la vendita di ulteriori azioni entrerebbero in concorrenza con gli azionisti esistenti che provano ad uscire. Gli investitori esperti vogliono che i loro contributi sotto forma di capitali crescano nell'azienda ma la crescita non potrebbe avvenire se, il nuovo capitale apportato, va a coprire quello di coloro che sono intenzionati ad uscire.
 
-There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
+C'è un considerevole vantaggio nell'avere obbligazioni a lungo termine perché permette alle comunità di elaborare piani a lungo termine. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
 
 In the cryptocurrency space, speculators jump from cryptocurrency to cryptocurrency based mostly on which one is expected to have short-term growth. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
 
