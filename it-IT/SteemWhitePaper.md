@@ -60,11 +60,11 @@ L'invio dei voti da parte dei membri della comunità è molto importante per Ste
 
 # Modalità per contribuire
 
-Questa sezione delinea i concetti che si trovano dietro a Steem e dietro alle ricompense destinate alle persone che forniscono contributi significativi e misurabili alla sua comunità.
+Questa sezione delinea i concetti che si trovano dietro a Steem e dietro alle ricompense destinate alle persone che forniscono contributi significativi e quantificabili alla sua comunità.
 
 ## Gli apporti di capitali
 
-Ci sono due elementi che una comunità può offrire per attrarre capitali: obbligazioni e proprietà. Quelli che ottengono profitti dal possedimento delle proprietà quando la comunità cresce ma che vanno in perdita se la comunità decresce. A coloro che comprano obbligazioni viene garantito un certo ammontare di interessi ma non vengono coinvolti nella partecipazione ai profitti che avviene grazie alla crescita della comunità. Entrambi i tipi di apporto di capitali sono preziosi per la crescita della comunità e per il valore della propria valuta. Inoltre ci sono due modi per mantenere i propri capitali: liquidi (in contanti) o investiti. Investire il proprio capitale comporta ad avere un impegno a lungo termine e alla non possibilità di vendita dello stesso per un minimo periodo di tempo.
+Ci sono due elementi che una comunità può offrire per attrarre capitali: obbligazioni e proprietà. Coloro che ottengono profitti dal possedimento delle proprietà quando la comunità cresce ma che vanno in perdita se la comunità decresce. A coloro che comprano obbligazioni viene garantito un certo ammontare di interessi ma non vengono coinvolti nella partecipazione ai profitti che avviene grazie alla crescita della comunità. Entrambi i tipi di apporto di capitali sono preziosi per la crescita della comunità e per il valore della propria valuta. Inoltre ci sono due modi per mantenere i propri capitali: liquidi (in contanti) o investiti. Investire il proprio capitale comporta ad avere un impegno a lungo termine e alla non possibilità di vendita dello stesso per un minimo periodo di tempo.
 
 La rete di Steem considera le categorie di Steem (STEEM), Steem Power (SP) e Steem Dollars (SBD) come diversi tipi di possedimenti che si possono avere.
 
