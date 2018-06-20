@@ -60,11 +60,11 @@ L'invio dei voti da parte dei membri della comunità è molto importante per Ste
 
 # Modalità per contribuire
 
-This section outlines the ideas behind Steem and its rewards for people who provide meaningful and measurable contributions to the Steem community.
+Questa sezione delinea i concetti che si trovano dietro a Steem e dietro alle ricompense destinate alle persone che forniscono contributi significativi e misurabili alla sua comunità.
 
 ## Capital Contributions
 
-There are two items a community can offer to attract capital: debt and ownership. Those who buy ownership profit when the community grows but lose if the community shrinks. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
+Ci sono due elementi che una comunità può offrire per attrarre capitali: obbligazioni e proprietà. Quelli che ottengono profitti dal possedimento delle proprietà quando la comunità cresce ma che vanno in perdita se la comunità decresce. A coloro che comprano obbligazioni viene garantito un certo ammontare di interessi ma non vengono coinvolti nella partecipazione ai profitti che avviene grazie alla crescita della comunità. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
 
 The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SBD).
 
