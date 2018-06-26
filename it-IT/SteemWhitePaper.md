@@ -70,7 +70,7 @@ La rete di Steem considera le categorie di Steem (STEEM), Steem Power (SP) e Ste
 
 ## Steem (STEEM)
 
-Steem è l'unità di calcolo basilare nella blockchain di Steem. Il valore di tutti gli altri token dipende dal valore dello STEEM. STEEM è una valuta liquida e, perciò, può sia essere comprata e venduta nei siti di scambio, che trasferita ad altri utenti sotto forma di pagamento.
+Steem è l'unità di calcolo basilare nella blockchain di Steem. Il valore di tutti gli altri tokens dipende dal valore dello STEEM. STEEM è una valuta liquida e, perciò, può sia essere comprata e venduta nei siti di scambio, che trasferita ad altri utenti sotto forma di pagamento.
 
 ## Steem Power (SP)
 
@@ -90,7 +90,7 @@ Il trasferimento dello STEEM a SP fa riferimento all'azione di "powering up" (po
 
 ## Steem Dollars (SBD)
 
-La stabilità è una importante caratteristica delle economie globali di successo. Senza la stabilità, gli individui di tutto il mondo non potrebbero avere bassi costi cogniti mentre si stanno impegnando nel commercio e nei risparmi. Visto che la stabilità è una importante caratteristica delle economie di successo, gli Steem Dollars sono stati progettati con il tentativo di portare stabilità al mondo delle criptovalute e agli individui che usano la rete di Steem.
+La stabilità è una importante caratteristica delle economie globali di successo. Senza la stabilità, gli individui di tutto il mondo non potrebbero avere bassi costi cognitivi mentre si stanno impegnando nel commercio e nei risparmi. Visto che la stabilità è una importante caratteristica delle economie di successo, gli Steem Dollars sono stati progettati con il tentativo di portare stabilità al mondo delle criptovalute e agli individui che usano la rete di Steem.
 
 Gli Steem dollars vengono creati tramite un meccanismo simile a quello delle banconote di scambio, che sono spesso usate per finanziare le startup. In the startup world, convertible notes are short-term debt instruments that can be converted to ownership at a rate determined in the future, typically during a future funding round. A blockchain based token can be viewed as ownership in the community whereas a convertible note can be viewed as a debt denominated in any other commodity or currency. The terms of the convertible note allow the holder to convert to the backing token with a minimum notice at the fair market price of the token. Creating token-convertible-dollars enables blockchains to grow their network effect while maximizing the return for token holders.
 
