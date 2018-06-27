@@ -104,9 +104,9 @@ La formazione di un insieme di affidabili ed eletti produttori di feed, porta il
 
 Anche se tutti i produttori di feed sono onesti, è possibile che la maggioranza dei produttori di feed venga colpita da eventi fuori dal loro controllo. La rete di Steem è progettata per tollerare corruzioni a breve termine della media dei feed del prezzo, mentre la comunità lavora attivamente per correggere il problema. Un esempio di un problema che può prendere un po' di tempo per essere corretto è la manipolazione di mercato a breve termine. La manipolazione di mercato è difficile e costosa da mantenere per lunghi periodi di tempo. Un altro esempio potrebbe essere il fallimento di un sito di scambio centralizzato o la corruzione dei dati pubblicati dal sito sito di scambio.
 
-Steem factors out short-term price fluctuations by using the median price over a period of three and a half days. The median published feed is sampled every hour on the hour.
+Steem calcola le fluttuazioni a breve termine dei prezzi attraverso utilizzando la media del prezzo lungo un periodo di tre giorni e mezzo. La media del feed pubblicata viene controllata ad ogni ora allo scatto della stessa.
 
-As long as the price feed corruption lasts for less than half the moving median time window it will have minimal impact on the conversion price. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
+Fino a che la corruzione del feed del prezzo dura meno della metà che serve per muovere la media del tempo esposto, avrà un impatto minimo sul prezzo di conversione. Nell'eventualità che il feed venga corrotto, i partecipanti alla rete avranno l'opportunità di votare a sfavore dei produttori di feed corrotti prima che il feed corrotto possa avere un impatto effettivo sul prezzo di conversione. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
 
 With a three and a half day window, community members have approximately one and a half days to respond to any issues that come up.
 
