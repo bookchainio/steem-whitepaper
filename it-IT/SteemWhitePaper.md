@@ -106,7 +106,7 @@ Anche se tutti i produttori di feed sono onesti, è possibile che la maggioranza
 
 Steem calcola le fluttuazioni a breve termine dei prezzi utilizzando la media del prezzo lungo un periodo di tre giorni e mezzo. La media del feed pubblicata viene controllata ad ogni ora allo scatto della stessa.
 
-Fino a che l'alterazione del feed del prezzo dura meno della metà del tempo esposto che serve per muovere la media, essa avrà un impatto minimo sul prezzo di conversione. Nell'eventualità che il feed venga alterato, i partecipanti alla rete avranno l'opportunità di votare a sfavore dei produttori di feed alterati prima che il feed alterato possa avere un impatto effettivo sul prezzo di conversione. Forse la cosa più importante, è dare ai produttori di feed una opportunità di rilevare e correggere i problemi prima che i loro feed inizino ad avere un impatto nel prezzo.
+Finché l'alterazione del feed di prezzo dura meno della finestra temporale della media mobile, avra un impatto minimo sul prezzo di conversione. Nell'eventualità che il feed venga alterato, i partecipanti alla rete avranno l'opportunità di votare a sfavore dei produttori di feed alterati prima che il feed alterato possa avere un impatto effettivo sul prezzo di conversione. Forse la cosa più importante, è dare ai produttori di feed una opportunità di rilevare e correggere i problemi prima che i loro feed inizino ad avere un impatto nel prezzo.
 
 Con un lasso di tempo di tre giorni e mezzo, i membri della comunità hanno approssimativamente un giorno e mezzo per reagire a qualsiasi problema che si presenti.
 
