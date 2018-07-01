@@ -118,7 +118,7 @@ Steem crea condizioni paritarie richiedendo che tutte le richieste di conversion
 
 ### Minimizzare l'abuso delle conversioni
 
-If people could freely convert in both directions then traders could take advantage of the blockchains conversion rates by trading large volumes without changing the price. Traders who see a massive run up in price would convert to SBD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SBD to STEEM and not the other way around.
+Se le persone potessero liberamente convertire in entrambe le direzioni, allora i traders potrebbero approfittare dei tassi di conversione della blockchain commerciando grandi volumi senza cambiare il prezzo. I trader che vedono un incremento massiccio nel prezzo, convertirebbero in SBD al prezzo più alto (quando è più rischioso) per poi riconvertirli dopo la correzione. Il protocollo di Steem protegge la comunità da questo tipo di abuso permettendo alle persone di convertire da SBD a STEEM e non al contrario.
 
 The blockchain decides how and when to create SBD and who should get it. This keeps the rate of SBD creation stable and removes most avenues of abuse.
 
