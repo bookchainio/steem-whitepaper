@@ -110,9 +110,9 @@ Finché l'alterazione del feed di prezzo dura meno della finestra temporale dell
 
 Con un lasso di tempo di tre giorni e mezzo, i membri della comunità hanno approssimativamente un giorno e mezzo per reagire a qualsiasi problema che si presenti.
 
-### Mitigating Timing Attacks
+### Attenuare gli attacchi temporali
 
-Market participants have access to information faster than the blockchain’s three and a half day moving median conversion price can react. This information could be used to benefit of traders at the expense of the community. If there is a sudden increase in the value of STEEM traders could request conversion of their SBD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
+Coloro che partecipano al mercato hanno accesso alle informazioni più velocemente rispetto ai tre giorni e mezzo durante i quali la conversione della media mobile della blockchain può reagire. Questa informazione potrebbe essere utilizzata per beneficiare i traders alle spese della comunità. If there is a sudden increase in the value of STEEM traders could request conversion of their SBD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
 
 Steem levels the playing field by requiring all conversion requests to be delayed for three and a half days. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
 
