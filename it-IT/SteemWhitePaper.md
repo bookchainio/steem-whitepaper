@@ -120,11 +120,11 @@ Steem crea condizioni paritarie richiedendo che tutte le richieste di conversion
 
 Se le persone potessero liberamente convertire in entrambe le direzioni, allora i traders potrebbero approfittare dei tassi di conversione della blockchain commerciando grandi volumi senza cambiare il prezzo. I trader che vedono un incremento massiccio nel prezzo, convertirebbero in SBD al prezzo più alto (quando è più rischioso) per poi riconvertirli dopo la correzione. Il protocollo di Steem protegge la comunità da questo tipo di abuso permettendo alle persone di convertire da SBD a STEEM e non al contrario.
 
-The blockchain decides how and when to create SBD and who should get it. This keeps the rate of SBD creation stable and removes most avenues of abuse.
+La blockchain decide come e quando creare gli SBD e chi dovrebbe prenderli. Questo mantiene il tasso di creazione di SBD stabile, e, rimuove la maggior parte dei sistemi di abuso.
 
-### Sustainable Debt to Ownership Ratios
+### Dal debito sostenibile ai rapporti di proprietà
 
-If a token is viewed as ownership in the whole supply of tokens, then a token-convertible-dollar can be viewed as debt. If the debt to ownership ratio gets too high the entire currency can become unstable. Debt conversions can dramatically increase the token supply, which in turn is sold on the market suppressing the price. Subsequent conversions require the issuance of even more tokens. Left unchecked the system can collapse leaving worthless ownership backing a mountain of debt. The higher the debt to ownership ratio becomes the less willing new investors are to bring capital to the table.
+Se un token viene visto come una proprietà in tutta la domanda di tokens, allora un token convertibile in dollaro può essere visto come un debito. Se il rapporto tra debito e proprietà diventa troppo alto, l'intera valuta può diventare instabile. Debt conversions can dramatically increase the token supply, which in turn is sold on the market suppressing the price. Subsequent conversions require the issuance of even more tokens. Left unchecked the system can collapse leaving worthless ownership backing a mountain of debt. The higher the debt to ownership ratio becomes the less willing new investors are to bring capital to the table.
 
 A rapid change in the value of STEEM can dramatically change the debt-to-ownership ratio. The blockchain prevents the debt-to-ownership ratio from getting too high, by reducing the amount of STEEM awarded through SBD conversions if the debt level were to exceed 10%. If the amount of SBD debt ever exceeds 10% of the total STEEM market cap, the blockchain will automatically reduce the amount of STEEM generated through conversions to a maximum of 10% of the market cap. This ensures that the blockchain will never have higher than a 10% debt-to-ownership ratio.
 
