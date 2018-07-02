@@ -158,7 +158,7 @@ In effetti, ai creatori di feed sono affidato le responsabilità di impostare la
 
 Se il rapporto debito-proprietà diventa pericolosamente alto e gli operatori di mercato scelgono di ignorare le richieste di conversione, il feed dovrebbe essere regolato per aumentare il tasso con il quale STEEM ha pagato per la conversione di SBD.
 
-Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SBD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions.
+I cambiamenti alla politica del tasso di interesse e/o qualsiasi premio/sconto sul tasso di conversione di STEEM/SBD, dovrebbero essere una lenta e misurata risposta alle deviazioni di una media a lungo termine piuttosto che tentare di rispondere a condizioni di mercato a breve termine.
 
 It is our belief that these rules will give market participants confidence that they are unlikely lose money by holding SBD purchased at a price of $1.00. We fully expect there to be a narrow trading range between $0.95 and $1.05 for SBD under normal market conditions.
 
