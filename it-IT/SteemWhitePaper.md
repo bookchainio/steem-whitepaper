@@ -134,9 +134,9 @@ Gli schemi percentuali utilizzati per la creazione di STEEM sono basati sull'off
 
 SBD paga gli interessi dei detentori. Il tasso di interesse è fissato dalle stesse persone che pubblicano il feed di prezzo in modo tale si possa adattare alle condizioni di cambiamento del mercato. Tutto il debito porta del rischio al creditore. Qualcuno che detiene SBD senza riscattarlo, sta effettivamente prestando alla comunità il valore di un dollaro. Loro si stanno fidando del fatto che ad un certo punto nel futuro, qualcuno sarà disposto a comprare SBD da loro per un dollaro, o che ci saranno speculatori e investitori disposti a comprare STEEM che convertiranno in SBD.
 
-I detentori di STEEM e SP guadagnano in leva quando i membri della comunità sono disposti a mantenere SBD. Questa leva amplifica i guadagni derivanti dalla crescita mentre contribuisce alla crescita stessa. I detentori di STEEM soffrono dall'incremento della diluizione se il prezzo precipita. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
+I detentori di STEEM e SP guadagnano in leva quando i membri della comunità sono disposti a mantenere SBD. Questa leva amplifica i guadagni derivanti dalla crescita mentre contribuisce alla crescita stessa. I detentori di STEEM soffrono dall'incremento della diluizione se il prezzo precipita. I progetti delle criptovalute hanno mostrato che i guadagni derivanti dall'aumentare della disponibilità degli utenti a fidarsi della rete apportando capitali, fondamentalmente apportano più valore alla rete rispetto a qualsiasi diluizione che possa verificarsi durante una recessione.
 
-### Setting Price Feeds
+### Stabilire i feed del prezzo
 
 Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
 
