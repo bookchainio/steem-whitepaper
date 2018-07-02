@@ -138,7 +138,7 @@ I detentori di STEEM e SP guadagnano in leva quando i membri della comunità son
 
 ### Stabilire i feed del prezzo
 
-Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
+I lettori più attenti si renderanno conto che un bene fruttifero di limitata offerta, può essere scambiato ad un valore più alto o più basso rispetto ai beni subordinati; il tutto dipende dalle altre opportunità a guadagnare interessi sullo stesso bene. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
 
 1. A stable exchange rate
 2. Free capital movement
