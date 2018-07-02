@@ -152,9 +152,9 @@ Se il rapporto debito-patrimonio è basso e SBD viene scambiato per meno di $1.0
 
 Se SBD viene scambiato per meno di $1.00 e il rapporto debito-proprietà è alto, i feed dovrebbero essere regolati verso l'alto in modo tale da dare più STEEM per SBD. Questo aumenterà la domanda di SBD mentre anche il rapporto debito-proprietà si riduce, facendo ritornare SBD in pari con USD.
 
-Assuming the value of STEEM is growing faster than Steem is creating new SBD, the debt-to-ownership ratio should remain under the target ratio and the interest offered benefits everyone. If the value of the network is flat or falling, then any interest offered will only make the debt-to-ownership ratio worse.
+Ipotizzando che il valore di STEEM sta crescendo più velocemente rispetto alla creazione di SBD da parte di Steem, il rapporto debito-proprietà dovrebbe rimanere sotto al suo obiettivo e l'interesse offerto va a beneficio di chiunque. Se il valore della rete è piatto o in discesa, qualsiasi interesse offerto farebbe solamente peggiorare il rapporto debito-proprietà.
 
-In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
+In effetti, ai creatori di feed sono affidato le responsabilità di impostare la politica monetario con lo scopo di mantenere un legame stabile con il dollaro americano (USD). Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
 
 If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SBD.
 
