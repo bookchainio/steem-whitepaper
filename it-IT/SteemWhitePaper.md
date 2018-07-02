@@ -134,7 +134,7 @@ Gli schemi percentuali utilizzati per la creazione di STEEM sono basati sull'off
 
 SBD paga gli interessi dei detentori. Il tasso di interesse è fissato dalle stesse persone che pubblicano il feed di prezzo in modo tale si possa adattare alle condizioni di cambiamento del mercato. Tutto il debito porta del rischio al creditore. Qualcuno che detiene SBD senza riscattarlo, sta effettivamente prestando alla comunità il valore di un dollaro. Loro si stanno fidando del fatto che ad un certo punto nel futuro, qualcuno sarà disposto a comprare SBD da loro per un dollaro, o che ci saranno speculatori e investitori disposti a comprare STEEM che convertiranno in SBD.
 
-STEEM and SP holders gain leverage when members of the community are willing to hold SBD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
+I detentori di STEEM e SP guadagnano in leva quando i membri della comunità sono disposti a mantenere SBD. Questa leva amplifica i guadagni derivanti dalla crescita mentre contribuisce alla crescita stessa. I detentori di STEEM soffrono dall'incremento della diluizione se il prezzo precipita. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
 
 ### Setting Price Feeds
 
