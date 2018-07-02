@@ -160,7 +160,7 @@ Se il rapporto debito-proprietà diventa pericolosamente alto e gli operatori di
 
 I cambiamenti alla politica del tasso di interesse e/o qualsiasi premio/sconto sul tasso di conversione di STEEM/SBD, dovrebbero essere una lenta e misurata risposta alle deviazioni di una media a lungo termine piuttosto che tentare di rispondere a condizioni di mercato a breve termine.
 
-È nostra convinzione dire che queste regole daranno agli operatori di mercato fiducia, in modo tale che sia improbabile che perdano soldi mantenendo gli SBD comprati ad un prezzo di £1.00. Ci aspettiamo totalmente che ci sia uno stretto intervallo di scambio con i valori che si aggirano tra $0.95 e $1.05 per SBD, sotto normali condizioni di mercato.
+È nostra convinzione dire che queste regole daranno agli operatori di mercato fiducia, in modo tale che sia improbabile che perdano soldi mantenendo gli SBD comprati ad un prezzo di £1.00. Ci aspettiamo totalmente che, sotto normali condizioni di mercato, ci sia uno stretto intervallo di scambio con i valori che si aggirano tra $0.95 e $1.05 per SBD.
 
 ## Subjective Contributions
 
