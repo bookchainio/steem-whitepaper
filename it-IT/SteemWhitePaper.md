@@ -132,7 +132,7 @@ Gli schemi percentuali utilizzati per la creazione di STEEM sono basati sull'off
 
 ### Interesse
 
-SBD paga gli interessi dei detentori. Il tasso di interesse è fissato dalle stesse persone che pubblicano il feed di prezzo in modo tale si possa adattare alle condizioni di cambiamento del mercato. All debt carries risk to the lender. Someone who holds SBD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SBD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
+SBD paga gli interessi dei detentori. Il tasso di interesse è fissato dalle stesse persone che pubblicano il feed di prezzo in modo tale si possa adattare alle condizioni di cambiamento del mercato. Tutto il debito porta del rischio al creditore. Qualcuno che detiene SBD senza riscattarlo, sta effettivamente prestando alla comunità il valore di un dollaro. Loro si stanno fidando del fatto che ad un certo punto nel futuro, qualcuno sarà disposto a comprare SBD da loro per un dollaro, o che ci saranno speculatori e investitori disposti a comprare STEEM che convertiranno in SBD.
 
 STEEM and SP holders gain leverage when members of the community are willing to hold SBD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
 
