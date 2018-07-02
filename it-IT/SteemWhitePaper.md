@@ -138,11 +138,11 @@ I detentori di STEEM e SP guadagnano in leva quando i membri della comunità son
 
 ### Stabilire i feed del prezzo
 
-I lettori più attenti si renderanno conto che un bene fruttifero di limitata offerta, può essere scambiato ad un valore più alto o più basso rispetto ai beni subordinati; il tutto dipende dalle altre opportunità a guadagnare interessi sullo stesso bene. Con un tasso di interesse pagato su un bene ancorato al dollaro americano, molte persone offriranno l'ammontare limitato degli Steem Dollars fino a quando non saranno più stimati intorno al valore di 1$. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
+I lettori più attenti si renderanno conto che un bene fruttifero di limitata offerta, può essere scambiato ad un valore più alto o più basso rispetto ai beni subordinati; il tutto dipende dalle altre opportunità a guadagnare interessi sullo stesso bene. Con un tasso di interesse pagato su un bene ancorato al dollaro americano, molte persone offriranno l'ammontare limitato degli Steem Dollars fino a quando non saranno più stimati intorno al valore di 1$. Nelle economie c'è un principio conosciuto come la Trinità Impossibile[^4] che afferma che è impossibile avere tutte le seguenti tre caratteristiche:
 
-1. A stable exchange rate
-2. Free capital movement
-3. An independent monetary policy
+1. Un tasso di cambio stabile
+2. Un movimento di capitale libero
+3. Una politica monetaria indipendente
 
 If Steem feed producers aim to have an independent monetary policy allowing it to create and destroy Steem Dollars while simultaneously having full control over the interest rate then they will encounter problems. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
 
