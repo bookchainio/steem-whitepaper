@@ -112,7 +112,7 @@ Con un lasso di tempo di tre giorni e mezzo, i membri della comunità hanno appr
 
 ### Attenuare gli attacchi temporali
 
-Gli operatori di mercato hanno accesso alle informazioni più velocemente rispetto ai tre giorni e mezzo durante i quali la conversione della media mobile della blockchain può reagire. Questa informazione potrebbe essere utilizzata per beneficiare i traders alle spese della comunità. Se c'è un improvviso incremento nel valore di STEEM, i traders possono richiedere la conversione dei propri SBD al vecchio e più basso prezzo e vendere gli STEEM che ricevono al nuovo e più alto prezzo con un rischio minimo.
+Gli operatori di mercato hanno accesso alle informazioni più velocemente rispetto ai tre giorni e mezzo durante i quali la conversione della media mobile della blockchain può reagire. Questa informazione potrebbe essere utilizzata per beneficiare i traders alle spese della comunità. Se c'è un improvviso incremento nel valore di STEEM, i traders potrebbero richiedere la conversione dei propri SBD al vecchio e più basso prezzo e vendere gli STEEM che ricevono al nuovo e più alto prezzo con un rischio minimo.
 
 Steem crea condizioni paritarie richiedendo che tutte le domande di conversione vengano ritardate di tre giorni e mezzo. Questo significa che né i traders né la blockchain hanno informazioni di vantaggio riguardo il prezzo, nel momento in cui la conversione viene eseguita.
 
