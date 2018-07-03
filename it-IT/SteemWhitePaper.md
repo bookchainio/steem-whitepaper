@@ -168,9 +168,9 @@ La soggettiva Proof of Work presenta un approccio alternativo alla distribuzione
 
 In effetti, il criterio secondo il quale il lavoro viene valutato, è completamente soggettivo e la sua definizione si trova al di fuori del codice sorgente stesso. Una comunità potrebbe desiderare di ricompensare artisti, un'altra poeti e un'altra ancora comici. Altre comunità possono scegliere di ricompensare cause benefiche o aiutare l'avanzamento di programmi politici.
 
-Il valore che ogni valuta raggiunge, dipende dalla domanda di incidenza all'interno di una particolare comunità e da quanto il mercato crede che ogni comunità possa acquistare. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
+Il valore che ogni valuta raggiunge, dipende dalla domanda di incidenza all'interno di una particolare comunità e da quanto il mercato crede che ogni comunità possa acquistare. A differenza dei sistemi precedenti, la proof of work soggettiva, consente ad una comunità di finanziare collettivamente lo sviluppo di qualsiasi cosa trovi di valore e consente la monetizzazione del tempo precedente non monetizzabile.
 
-### Distributing Currency
+### Distribuire la valuta
 
 There are two ways people can get involved with a crypto-currency community: they can *buy in*, or they can *work in*. In both cases users are adding value to the currency, however, the vast majority of people have more *free time* than they do *spare cash*. Imagine the goal of bootstrapping a currency in a poor community with no actual *cash* but plenty of *time*. If people can earn money by working for one another then they will bootstrap value through mutual exchange facilitated by a fair accounting/currency system.
 
