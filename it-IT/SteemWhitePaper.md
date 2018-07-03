@@ -164,7 +164,7 @@ I cambiamenti alla politica del tasso di interesse e/o qualsiasi premio/sconto s
 
 ## Contributi soggettivi
 
-La soggettiva prova del lavoro presenta un approccio alternativo alla distribuzione di una valuta che migliora completamente i sistemi della prova del lavoro *oggettivo* come per esempio l'azione di minare (mining). The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
+La soggettiva Proof of Work presenta un approccio alternativo alla distribuzione di una valuta che migliora completamente i sistemi della Proof of Work *oggettiva* come per esempio l'azione di minare (mining). The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
 
 In effect, the criteria by which work is evaluated is completely subjective and its definition lives outside the source code itself. One community may wish to reward artists, another poets, and another comedians. Other communities may choose to reward charitable causes or help advance political agendas.
 
