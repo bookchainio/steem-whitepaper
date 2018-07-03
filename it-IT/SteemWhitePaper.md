@@ -186,7 +186,7 @@ Il passo successivo è di ricompensare chiunque faccia qualsiasi cosa, anche lon
 
 Supponiamo che ci sia un ammontare fisso di denaro da distribuire e che coloro che hanno interessi vincolati a lungo termine per il valore futuro e per l'utilità della valuta, siano quelli che devono decidere come distribuirlo. Ogni utente investitore dà i suoi voti a chi ha fatto il lavoro migliore e, alla fine del giorno, il denaro disponibile per quel giorno viene diviso proporzionalmente ai voti in modo tale che chiunque, anche con un solo voto netto positivo, ottenga qualcosa.
 
-The naive voting process creates a N-Person Prisoner’s Dilemma[^5] whereby each individual voter has incentive to vote for themselves at the expense of the larger community goal. If every voter defects by voting for themselves then no currency will end up distributed and the currency as a whole will fail to gain network effect. On the other hand, if only one voter defects then that voter would win undeserved profits while having minimal effect on the overall value of the currency.
+Il puro processo di voto crea il N-Person Prisoner's Dilemma[^5] (Dilemma del prigioniero), per il quale ogni singolo elettore è incentivato a votare per sé stesso a scapito dell'obiettivo più grande della comunità. If every voter defects by voting for themselves then no currency will end up distributed and the currency as a whole will fail to gain network effect. On the other hand, if only one voter defects then that voter would win undeserved profits while having minimal effect on the overall value of the currency.
 
 #### Voting Abuse
 
