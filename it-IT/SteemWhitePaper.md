@@ -162,7 +162,7 @@ I cambiamenti alla politica del tasso di interesse e/o qualsiasi premio/sconto s
 
 È nostra convinzione dire che queste regole daranno agli operatori di mercato fiducia, in modo tale che sia improbabile che perdano soldi mantenendo gli SBD comprati ad un prezzo di £1.00. Ci aspettiamo totalmente che, sotto normali condizioni di mercato, ci sia uno stretto intervallo di scambio con i valori che si aggirano tra $0.95 e $1.05 per SBD.
 
-## Subjective Contributions
+## Contributi soggettivi
 
 Subjective Proof of Work presents an alternative approach to distributing a currency that improves upon fully *objective* Proof of Work systems such as mining. The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
 
