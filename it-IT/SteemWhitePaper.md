@@ -208,7 +208,7 @@ E così è anche con le persone. Se qualcuna cerca di fare qualcosa di different
 
 Eliminare "l'abuso" non è possibile e non dovrebbe essere lo scopo. Persino quelli che tentano di abusare del sistema, stanno comunque facendo un lavoro. Qualsiasi compenso ricevano per i loro tentativi riusciti nell'abusare o colludere, è prezioso almeno, tanto per l'obiettivo di distribuire la valuta, quanto per il sistema fare-lavoro impiegato dal mining tradizionale del Bitcoin o il mining collusivo fatto tramite le mining pool. Tutto quello che è necessario è di assicurare che l'abuso non sia così dilagante da minare l'incentivo di fare del lavoro vero a sostegno della comunità e della sua valuta.
 
-Lo scopo di creare una valuta della comunità, è di ottenere più "granchi nel secchio". Andare verso l'adozione di misure estreme per eliminare gli abusi è come tentare di mettere un coperchio sul secchio per impedire a pochi granchi di scappare e, questo, andrebbe a scapito dell'aumento della difficoltà nell'aggiungere nuovi granchi nel secchio. È sufficiente creare le pareti scivolose e dare ad altri granchi potere sufficiente per impedire agli altri di scappare.
+Lo scopo di creare una valuta della comunità, è di ottenere più "granchi nel secchio". Andare verso l'adozione di misure estreme per eliminare gli abusi è come tentare di mettere un coperchio sul secchio per impedire a pochi granchi di scappare e, questo, andrebbe a scapito dell'aumento della difficoltà dell'aggiungere nuovi granchi nel secchio. È sufficiente creare le pareti scivolose e dare ad altri granchi potere sufficiente per impedire agli altri di scappare.
 
 ### Rate Limited Voting
 
