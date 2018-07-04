@@ -202,11 +202,11 @@ Un uomo che stava camminando lungo la spiaggia, vide un altro uomo che stava pes
 
 "Perché non copri il tuo secchio delle esche in modo che i granchi non fuggano?", disse lui.
 
-"Tu non capisci.", rispose l'uomo, "Se c'è un granchio nel secchio, sicuramente avanzerebbe fuori molto velocemente". However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
+"Tu non capisci.", rispose l'uomo, "Se c'è un granchio nel secchio, sicuramente avanzerebbe fuori molto velocemente. Tuttavia, quando ci sono tanti granchi nel secchio, se uno cerca di avanzare di lato, gli altri lo afferrano e lo tirano indietro così che lui possa condividere lo stesso destino come il resto degli altri"
 
-So it is with people. If one tries to do something different, get better grades, improve herself, escape her environment, or dream big dreams, other people will try to drag her back down to share their fate.
+E così è anche con le persone. Se qualcuna cerca di fare qualcosa di differente, ottenere voti migliori, migliorare se stessa, sfuggire al suo ambiente o pensare a grandi sogni, altre persone cercheranno di trascinarla giù per condividere lo stesso loro destino.
 
-Eliminating “abuse” is not possible and shouldn’t be the goal. Even those who are attempting to “abuse” the system are still doing work. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn’t so rampant that it undermines the incentive to do real work in support of the community and its currency.
+Eliminare "l'abuso" non è possibile e non dovrebbe essere lo scopo. Persino quelli che tentano di abusare del sistema, stanno comunque facendo un lavoro. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn’t so rampant that it undermines the incentive to do real work in support of the community and its currency.
 
 The goal of building a community currency is to get more “crabs in the bucket”. Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs sufficient power to prevent others from escaping.
 
