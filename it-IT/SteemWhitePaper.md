@@ -194,11 +194,11 @@ Indipendentemente da quanto denaro ha ogni individuo, ci sono sempre molti altri
 
 Fortunatamente, ogni lavoro che riceve una grande concentrazione di voti, guadagna anche il maggior controllo (pubblicamente). Attraverso l'aggiunta di *votazioni negative*, per molti stakeholder (parti interessate) più piccoli, è possibile annullare il potere di voto di gruppi collusivi o danneggiare i grossi stakeholders. Inoltre, i grossi stakeholders hanno più da perdere se la valuta precipita di valore a causa dell'abuso rispetto a quello che potrebbero guadagnare votando per se stessi. Infatti, grossi e onesti stakeholders, sono probabilmente più efficaci controllando gli abusi e utilizzando il voto negativo rispetto a quanto lo sarebbero votando per contributi minori.
 
-L'uso di *voti negativi* per trattenere le persone dall'abusare il sistema, fa leva sulla *mentalità del granchio* che molte persone hanno quando viene percepito che un individuo si sta arricchendo alle spese di chiunque altro. Mentre la mentalità del granchio si riferisce di norma alle persone miopi sottomettendo le persone buone, essa detta anche i motivi per i quali le persone buone possono permettersi di sottomettere le persone cattive. L'unico "problema" che si ha con la mentalità del granchio è quando le persone *credono erroneamente* che qualcuno si stia arricchendo alle spese di qualcun altro.
+L'uso di *voti negativi* per trattenere le persone dall'abusare il sistema, fa leva sulla *mentalità del granchio* che molte persone hanno quando viene percepito che un individuo si sta arricchendo alle spese di chiunque altro. Mentre la mentalità del granchio si riferisce di norma alle persone miopi, sottomettendo le persone buone, essa detta anche i motivi per i quali le persone buone possono permettersi di sottomettere le persone cattive. L'unico "problema" che si ha con la mentalità del granchio è quando le persone *credono erroneamente* che qualcuno si stia arricchendo alle spese di qualcun altro.
 
 **La storia del secchio del granchio**[^6]
 
-Un uomo che stava camminando lungo la spiaggia, vide un altro uomo che stava pescando nella risacca con un secchio di esche accanto a lui. Mentre si era avvicinato, vide che il secchio con le esche non aveva il coperchio e che aveva granchi vivi all'interno.
+Un uomo che stava camminando lungo la spiaggia, vide un altro uomo che stava pescando nella risacca con un secchio di esche accanto a lui. Avvicinandosi, vide che il secchio con le esche non aveva il coperchio e che aveva granchi vivi all'interno.
 
 "Perché non copri il tuo secchio delle esche in modo che i granchi non fuggano?", disse lui.
 
@@ -208,7 +208,7 @@ E così è anche con le persone. Se qualcuna cerca di fare qualcosa di different
 
 Eliminare "l'abuso" non è possibile e non dovrebbe essere lo scopo. Persino quelli che tentano di abusare del sistema, stanno comunque facendo un lavoro. Qualsiasi compenso ricevano per i loro tentativi riusciti nell'abusare o colludere, è prezioso almeno, tanto per l'obiettivo di distribuire la valuta, quanto per la distribuzione della valuta, come il sistema fare-lavoro impiegato dal mining tradizionale del Bitcoin o dal mining collusivo fatto tramite le mining pool. Tutto quello che è necessario è di assicurare che l'abuso non sia così dilagante da minare l'incentivo di fare del lavoro vero ia sostegno della comunità e della sua valuta.
 
-Lo scopo di creare una valuta della comunità è di ottenere più "granchi nel secchio". Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs sufficient power to prevent others from escaping.
+Lo scopo di creare una valuta della comunità è di ottenere più "granchi nel secchio". Andare verso l'adozione di misure estreme per eliminare gli abusi è come tentare di mettere un coperchio sul secchio per impedire a pochi granchi di scappare e, questo, andrebbe a scapito dell'aumento della difficoltà nell'aggiungere nuovi granchi nel secchio. È sufficiente creare le pareti scivolose e dare ad altri granchi potere sufficiente per impedire agli altri di scappare.
 
 ### Rate Limited Voting
 
