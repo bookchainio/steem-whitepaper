@@ -196,9 +196,9 @@ Fortunatamente, ogni lavoro che riceve una grande concentrazione di voti, guadag
 
 L'uso di *voti negativi* per trattenere le persone dall'abusare il sistema, fa leva sulla *mentalità del granchio* che molte persone hanno quando viene percepito che un individuo si sta arricchendo alle spese di chiunque altro. Mentre la mentalità del granchio si riferisce di norma alle persone miopi sottomettendo le persone buone, essa detta anche i motivi per i quali le persone buone possono permettersi di sottomettere le persone cattive. L'unico "problema" che si ha con la mentalità del granchio è quando le persone *credono erroneamente* che qualcuno si stia arricchendo alle spese di qualcun altro.
 
-**The Story of the Crab Bucket**[^6]
+**La storia del secchio del granchio**[^6]
 
-A man was walking along the beach and saw another man fishing in the surf with a bait bucket beside him. As he drew closer, he saw that the bait bucket had no lid and had live crabs inside.
+Un uomo che stava camminando lungo la spiaggia, vide un altro uomo che stava pescando nella risacca con un secchio di esche accanto a lui. Mentre si era avvicinato, vide che il secchio con le esche non aveva il coperchio e che aveva granchi vivi all'interno.
 
 "Why don't you cover your bait bucket so the crabs won't escape?", he said.
 
