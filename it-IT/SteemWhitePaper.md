@@ -200,9 +200,9 @@ L'uso di *voti negativi* per trattenere le persone dall'abusare il sistema, fa l
 
 Un uomo che stava camminando lungo la spiaggia, vide un altro uomo che stava pescando nella risacca con un secchio di esche accanto a lui. Mentre si era avvicinato, vide che il secchio con le esche non aveva il coperchio e che aveva granchi vivi all'interno.
 
-"Why don't you cover your bait bucket so the crabs won't escape?", he said.
+"Perché non copri il tuo secchio delle esche in modo che i granchi non fuggano?", disse lui.
 
-"You don't understand.", the man replied, "If there is one crab in the bucket it would surely crawl out very quickly. However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
+"Tu non capisci.", rispose l'uomo, "Se c'è un granchio nel secchio, sicuramente avanzerebbe fuori molto velocemente". However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
 
 So it is with people. If one tries to do something different, get better grades, improve herself, escape her environment, or dream big dreams, other people will try to drag her back down to share their fate.
 
