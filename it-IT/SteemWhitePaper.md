@@ -218,9 +218,9 @@ Agli utenti viene assegnato un ammontare fisso di potere di voto (voting power).
 
 ### Distribuzione del pagamento
 
-Uno degli obiettivi primari delle ricompense di Steem è quello di produrre le migliori discussioni su internet. Ogni anno il 75% dell'inflazione annua viene distribuita agli utenti presentando, votando e discutendo il contenuto. Alla dimensione del Bitcoin, si potrebbe trattare di svariati milioni di dollari al giorno che vengono dati ai migliori contribuenti.
+Uno degli obiettivi primari delle ricompense di Steem è quello di produrre le migliori discussioni su internet. Ogni anno il 75% dell'inflazione annua viene distribuita agli utenti presentando, votando e discutendo il contenuto. Considerando il valore del Bitcoin, si potrebbe trattare di svariati milioni di dollari al giorno che vengono dati ai migliori contribuenti.
 
-La distribuzione effettiva dipenderà dai modelli di voto degli utenti, ma, noi sospettiamo che la grande maggioranza delle ricompense, verrà distribuita ai contenuti più popolari.
+La distribuzione effettiva dipenderà dai modelli di voto degli utenti, ma, noi sospettiamo, che la grande maggioranza delle ricompense verrà distribuita ai contenuti più popolari.
 
 La legge di Zipf[^7] è una di quelle regole empiriche che caratterizzano incredibilmente bene, una sorprendente gamma di fenomeni del mondo reale. Essa afferma che, se ordiniamo una grosso insieme di elementi in base alla dimensione o alla popolarità, il secondo elemento di questo insieme sarà della metà della misura del primo, il terzo sarà di circa un terzo della misura del primo, e così via. In generale, l'elemento k th classificato, misurerà circa 1/k rispetto al primo.
 
