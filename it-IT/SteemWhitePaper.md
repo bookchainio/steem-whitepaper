@@ -230,7 +230,7 @@ Considerando la polarità come una una misura approssimativa di valore, il valor
 
 L'impatto causato dall'utilizzo di questa distribuzione di voto e di pagamento si ha per offrire grandi premi per contenuti buoni mentre si continuano a premiare i piccoli giocatori per le loro contribuzioni long-tail.
 
-L'effetto economico di questo è simile a quello della lotteria, dove le persone sopravvalutano la loro probabilità di ottenere voti e quindi lavorano di più rispetto al valore previsto della loro ricompensa e, in questo modo, massimizzano l'ammontare totale del lavoro eseguito, al servizio della comunità. Il fatto che ognuno "vince qualcosa" fa lo stesso gioco della psicologia che utilizzano i casinò per far continuare le persone a giocare d'azzardo. In altre parole, piccole ricompense aiutano a rafforzare l'idea che è possibile guadagnare ricompense più grandi.
+L'effetto economico di questo è simile a quello della lotteria, dove le persone sopravvalutano la loro probabilità di ottenere voti e quindi lavorano di più rispetto al valore previsto della loro ricompensa e, in questo modo, massimizzano l'ammontare totale del lavoro eseguito, al servizio della comunità. Il fatto che ognuno "vinca qualcosa" gioca sulla stessa psicologia che utilizzano i casinò per far continuare le persone a giocare d'azzardo. In altre parole, piccole ricompense aiutano a rafforzare l'idea che è possibile guadagnare ricompense più grandi.
 
 ### Payouts
 
