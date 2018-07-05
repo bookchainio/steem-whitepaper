@@ -214,11 +214,11 @@ Lo scopo di creare una valuta della comunità, è di ottenere più "granchi nel 
 
 Una parte importante del minimizzare l'abuso, è la limitazione della velocità di votazione. I singoli utenti possono solo leggere e valutare tanti articoli di lavoro ogni giorno. Qualsiasi tentativo di votare più frequentemente rispetto a questo, è un segno di automazione e potenziale abuso. Attraverso la limitazione della velocità, gli stakeholder che votano più frequentemente hanno, per ogni voto, un valore minore rispetto agli stakeholder che votano meno frequentemente. I tentativi di dividere i token tra più account, dividono anche l'influenza e perciò non risultano in un aumento netto della stessa, né raggirano la limitazione della velocità imposta sulla votazione.
 
-Agli utenti viene assegnato un ammontare fisso di potere di voto (voting power). Il potere di voto viene moltiplicato per i token vincolati dell'utente per determinare la quantità della quota, che si trova nella pool delle ricompense, che deve essere assegnata ad un dato oggetto di lavoro. Ogni voto che viene dato, usa utilizza percentuale del rimanente potere di voto. Gli utenti possono votare per più articoli, ma, ogni voto diminuirà di valore e necessiterà di più tempo per raggiungere nuovamente il pieno potere di voto. Voting power recharges at a fixed linear rate of 20% per day.
+Agli utenti viene assegnato un ammontare fisso di potere di voto (voting power). Il potere di voto viene moltiplicato per i token vincolati dell'utente per determinare la quantità della quota, che si trova nella pool delle ricompense, che deve essere assegnata ad un dato oggetto di lavoro. Ogni voto che viene dato, usa utilizza percentuale del rimanente potere di voto. Gli utenti possono votare per più articoli, ma, ogni voto diminuirà di valore e necessiterà di più tempo per raggiungere nuovamente il pieno potere di voto. Il potere di voto si ricarica ad un tasso lineare fisso del 20% al giorno.
 
-### Payout Distribution
+### Distribuzione del pagamento
 
-One of the primary goals of Steem’s reward system is to produce the best discussions on the internet. Each and every year 75% of the yearly inflation is distributed to users submitting, voting on, and discussing content. At the size of Bitcoin this could be several million dollars per day being given to the top contributors.
+Uno degli obiettivi primari delle ricompense di Steem è quello di produrre le migliori discussioni du internet. Ogni anno il 75% dell'inflazione annua viene distribuita agli utenti presentando, votando e discutendo il contenuto. At the size of Bitcoin this could be several million dollars per day being given to the top contributors.
 
 The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content.
 
