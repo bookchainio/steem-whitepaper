@@ -226,7 +226,7 @@ La legge di Zipf[^7] è una di quelle regole empiriche che caratterizzano incred
 
 ![](\img_the_new_marketplace.png)
 
-Taking popularity as a rough measure of value, then the value of each individual item is given by Zipf’s Law. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
+Considerando la polarità come una una misura approssimativa di valore, il valore di ogni singolo elemento viene dato dalla legge di Zipf. Ovvero, se abbiamo milioni di articoli, i 100 i più popolari contribuiranno ad un terzo del valore totale, i successivi 10.000 ad un altro terzo e, i rimanenti 989.900 all'ultimo terzo. The value of the collection of n items is proportional to log(n).
 
 The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
 
