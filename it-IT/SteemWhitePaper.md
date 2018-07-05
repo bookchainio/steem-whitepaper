@@ -212,7 +212,7 @@ Lo scopo di creare una valuta della comunità, è di ottenere più "granchi nel 
 
 ### Limitazione della velocità di voto
 
-Una parte importante del minimizzare l'abuso, è la limitazione della velocità di votazione. I singoli utenti possono solo leggere e valutare tanti articoli di lavoro ogni giorno. Qualsiasi tentativo di votare più frequentemente rispetto a questo, è un segno di automazione e potenziale abuso. Attraverso la limitazione della velocità, gli stakeholder che votano più frequentemente hanno, per ogni voto, un valore minore rispetto agli stakeholder che votano meno frequentemente. I tentativi di dividere i token tra più account, dividono anche l'influenza e perciò non risultano in un aumento netto della stessa, né raggirano la limitazione della velocità imposta sulla votazione.
+Una parte importante del minimizzare l'abuso, è la limitazione della velocità di votazione. I singoli utenti non possono leggere e valutare più di tanti articoli di lavoro ogni giorno. Qualsiasi tentativo di votare più frequentemente rispetto a questo, è un segno di automazione e potenziale abuso. Attraverso la limitazione della velocità, gli stakeholder che votano più frequentemente hanno, per ogni voto, un valore minore rispetto agli stakeholder che votano meno frequentemente. I tentativi di dividere i token tra più account, dividono anche l'influenza e perciò non risultano in un aumento netto della stessa, né raggirano la limitazione della velocità imposta sulla votazione.
 
 Agli utenti viene assegnato un ammontare fisso di potere di voto (voting power). Il potere di voto viene moltiplicato per i token vincolati dell'utente per determinare la quantità della quota, che si trova nella pool delle ricompense, che deve essere assegnata ad un dato oggetto di lavoro. Ogni voto che viene dato, usa utilizza percentuale del rimanente potere di voto. Gli utenti possono votare per più articoli, ma, ogni voto diminuirà di valore e necessiterà di più tempo per raggiungere nuovamente il pieno potere di voto. Il potere di voto si ricarica ad un tasso lineare fisso del 20% al giorno.
 
@@ -228,9 +228,9 @@ La legge di Zipf[^7] è una di quelle regole empiriche che caratterizzano incred
 
 Considerando la polarità come una una misura approssimativa di valore, il valore di ogni singolo elemento viene dato dalla legge di Zipf. Ovvero, se abbiamo milioni di articoli, i 100 i più popolari contribuiranno ad un terzo del valore totale, i successivi 10.000 ad un altro terzo e, i rimanenti 989.900 all'ultimo terzo. Il valore dell'insieme di n elementi è proporzionale a log(n).
 
-The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
+L'impatto di questa distribuzione di voto e di pagamento viene fatta per offrire grandi premi per contenuti buoni mentre si continuano a premiare i piccoli giocatori per le loro contribuzioni long-tail.
 
-The economic effect of this is similar to a lottery where people overestimate their probability of getting votes and thus do more work than the expected value of their reward and thereby maximize the total amount of work performed in service of the community. The fact that everyone “wins something” plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
+L'effetto economico di questo è simile a quello della lotteria, dove le persone sopravvalutano la loro probabilità di ottenere voti e quindi lavorano di più rispetto al valore previsto della loro ricompensa e, in questo modo, massimizzano l'ammontare totale del lavoro eseguito al servizio della comunità. Il fatto che ognuno "vince qualcosa" fa lo stesso gioco della psicologia che utilizzano i casinò per far continuare le persone a giocare d'azzardo. In altre parole, piccole ricompense aiutano a rafforzare l'idea che è possibile guadagnare ricompense più grandi.
 
 ### Payouts
 
