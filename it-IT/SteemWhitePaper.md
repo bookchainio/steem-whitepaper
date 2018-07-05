@@ -218,11 +218,11 @@ Agli utenti viene assegnato un ammontare fisso di potere di voto (voting power).
 
 ### Distribuzione del pagamento
 
-Uno degli obiettivi primari delle ricompense di Steem è quello di produrre le migliori discussioni du internet. Ogni anno il 75% dell'inflazione annua viene distribuita agli utenti presentando, votando e discutendo il contenuto. At the size of Bitcoin this could be several million dollars per day being given to the top contributors.
+Uno degli obiettivi primari delle ricompense di Steem è quello di produrre le migliori discussioni du internet. Ogni anno il 75% dell'inflazione annua viene distribuita agli utenti presentando, votando e discutendo il contenuto. Alla dimensione del Bitcoin, si potrebbe trattare di svariati milioni di dollari al giorno che vengono dati ai migliori contribuenti.
 
-The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content.
+La distribuzione effettiva dipenderà dai modelli di voto degli utenti, ma, noi sospettiamo che la grande maggioranza delle ricompense, verrà distribuita ai contenuti più popolari.
 
-Zipf’s Law[^7] is one of those empirical rules that characterize a surprising range of real-world phenomena remarkably well. It says that if we order some large collection by size or popularity, the second element in the collection will be about half the measure of the first one, the third one will be about one-third the measure of the first one, and so on. In general, the k th-ranked item will measure about 1/k of the first one.
+La legge di Zipf[^7] è una di quelle regole empiriche che caratterizzano incredibilmente bene, una sorprendente gamma di fenomeni del mondo reale. Essa afferma che, se ordiniamo una grossa serie di qualcosa in base alla dimensione o alla popolarità, il secondo elemento di questa serie sarà della metà della misura del primo, il terzo sarà di circa un terzo della misura del primo, e così via. In generale, l'elemento k th classificato, misurerà circa 1/k rispetto al primo.
 
 ![](\img_the_new_marketplace.png)
 
