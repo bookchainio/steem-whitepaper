@@ -222,11 +222,11 @@ Uno degli obiettivi primari delle ricompense di Steem è quello di produrre le m
 
 La distribuzione effettiva dipenderà dai modelli di voto degli utenti, ma, noi sospettiamo che la grande maggioranza delle ricompense, verrà distribuita ai contenuti più popolari.
 
-La legge di Zipf[^7] è una di quelle regole empiriche che caratterizzano incredibilmente bene, una sorprendente gamma di fenomeni del mondo reale. Essa afferma che, se ordiniamo una grossa serie di qualcosa in base alla dimensione o alla popolarità, il secondo elemento di questa serie sarà della metà della misura del primo, il terzo sarà di circa un terzo della misura del primo, e così via. In generale, l'elemento k th classificato, misurerà circa 1/k rispetto al primo.
+La legge di Zipf[^7] è una di quelle regole empiriche che caratterizzano incredibilmente bene, una sorprendente gamma di fenomeni del mondo reale. Essa afferma che, se ordiniamo una grosso insieme di elementi in base alla dimensione o alla popolarità, il secondo elemento di questo insieme sarà della metà della misura del primo, il terzo sarà di circa un terzo della misura del primo, e così via. In generale, l'elemento k th classificato, misurerà circa 1/k rispetto al primo.
 
 ![](\img_the_new_marketplace.png)
 
-Considerando la polarità come una una misura approssimativa di valore, il valore di ogni singolo elemento viene dato dalla legge di Zipf. Ovvero, se abbiamo milioni di articoli, i 100 i più popolari contribuiranno ad un terzo del valore totale, i successivi 10.000 ad un altro terzo e, i rimanenti 989.900 all'ultimo terzo. The value of the collection of n items is proportional to log(n).
+Considerando la polarità come una una misura approssimativa di valore, il valore di ogni singolo elemento viene dato dalla legge di Zipf. Ovvero, se abbiamo milioni di articoli, i 100 i più popolari contribuiranno ad un terzo del valore totale, i successivi 10.000 ad un altro terzo e, i rimanenti 989.900 all'ultimo terzo. Il valore dell'insieme di n elementi è proporzionale a log(n).
 
 The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
 
