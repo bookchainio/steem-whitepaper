@@ -4,7 +4,7 @@
 
 August 2017
 
-# ΠΡΟΧΕΙΡΟ
+# Σημειώσεις Μεταφραστών
 
 Μετάφραση από **@skapaneas** **@holidaygreece** **@skapart** (https://steemit.com/introduceyourself/@skapart/i-am-maria-i-was-the-third-party-of-the-steem-whitepaper-translation-team-and-i-am-here-to-claim-my-credits).   
   
