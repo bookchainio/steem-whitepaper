@@ -256,7 +256,7 @@ Con Steem, la produzione di blocchi viene eseguita in cicli. In ogni round 21 te
 
 Questo processo è progettato per fornire la migliore affidabilità mentre viene garantito che ognuno ha il potenziale di partecipare nella produzione di blocchi, indipendentemente dal fatto che siano popolari abbastanza da essere votati al massimo. Le persone hanno tre opzione per superare la censura fatta dai primi 20 eletti testimoni: aspettare pazientemente in linea con tutti gli altri che non si trovano tra i primi 20, oppure, comprare più SP per aumentare il potere di voto. Parlando in generale, ricorrere alla censura è un buon modo per i testimoni eletti di perdere il loro lavoro e perciò è improbabile che si tratti di un problema reale nella rete di Steem.
 
-Because the active witnesses are known in advance, Steem is able to schedule witnesses to produce blocks every 3 seconds. Witnesses synchronize their block production via the NTP protocol. A variation of this algorithm has been in use by the BitShares network for over a year where it has been proven to be reliable.
+Visto che i testimoni attivi vengono conosciuti in anticipo, Steem è capace di programmare i testimoni per produrre blocchi ogni tre secondi. I testimoni sincronizzano la loro produzione di blocchi tramite il protocollo NTP. Una variante di questo algoritmo è stata utilizzata dalla rete BitShares per oltre un anno, dove è stato dimostrato di essere affidabile.
 
 # Eliminating Transaction Fees
 
