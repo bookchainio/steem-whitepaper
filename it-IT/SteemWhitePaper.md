@@ -234,11 +234,11 @@ L'effetto economico di questo è simile a quello della lotteria, dove le persone
 
 ### Pagamenti
 
-Quando un articolo riceve un pagamento, questo viene fatto sotto forma di SBD, al 50% e SP, sempre al 50%. Lo Steem Power conferisce all'utente la possibilità di aumentare il potere di voto e di transazione, mentre l'SBD, offre all'utente un vantaggio immediato in una valuta stabile. As we’ve already discussed at length, SP is designed to encourage long-term holding rather than short-term selling. This encourages more users to have a vested interest in the long-term success of the platform.
+Quando un articolo riceve un pagamento, questo viene fatto sotto forma di SBD, al 50% e SP, sempre al 50%. Lo Steem Power conferisce all'utente la possibilità di aumentare il potere di voto e di transazione, mentre l'SBD, offre all'utente un vantaggio immediato in una valuta stabile. Come abbiamo già a lungo discusso, l'SP è progettato per incoraggiare gli investimenti a lungo termine piuttosto che la vendita a breve termine. Questo incoraggia più utenti ad avere una partecipazione vincolata nel successo a lungo termine della piattaforma.
 
-Users also have the option to be paid in 100% SP, as well as decline payout on posts. When a user declines payout on a post, the money that would have been paid to them remains in the rewards pool, to be distributed to other users.
+Gli utenti hanno inoltre l'opzione di essere pagati per il 100% in SP, come anche declinare il pagamento derivante dagli articoli. Quando un utente declina il pagamento di un post, i soldi che sarebbero stati pagati a loro, rimangono nella pool delle ricompense per essere distribuiti ad altri utenti.
 
-# Consensus Algorithm
+# Algoritmo di consenso
 
 Consensus is the process by which a community comes to a universally recognized, unambiguous agreement on piece of information. There are many algorithms society has developed for reaching consensus about who owns what. Every government on earth is a primitive consensus algorithm whereby the population agrees to abide by a certain set of rules enshrined in a constitution. Governments establish courts, judges, and juries to interpret the subjective facts and render a final decision. Most of the time people abide by the decision even if it was wrong.
 
