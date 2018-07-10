@@ -232,7 +232,7 @@ L'impatto causato dall'utilizzo di questa distribuzione di voto e di pagamento s
 
 L'effetto economico di questo è simile a quello della lotteria, dove le persone sopravvalutano la loro probabilità di ottenere voti e quindi lavorano di più rispetto al valore previsto della loro ricompensa e, in questo modo, massimizzano l'ammontare totale del lavoro eseguito, al servizio della comunità. Il fatto che ognuno "vinca qualcosa" gioca sulla stessa psicologia che utilizzano i casinò per far continuare le persone a giocare d'azzardo. In altre parole, piccole ricompense aiutano a rafforzare l'idea che è possibile guadagnare ricompense più grandi.
 
-### Payouts
+### Pagamenti
 
 When a post receives a payout it takes the form of 50% SBD and 50% SP. The Steem Power give the user increased voting and transaction power while the SBD gives the user an immediate benefit in a stable currency. As we’ve already discussed at length, SP is designed to encourage long-term holding rather than short-term selling. This encourages more users to have a vested interest in the long-term success of the platform.
 
