@@ -240,7 +240,7 @@ Gli utenti hanno inoltre l'opzione di essere pagati per il 100% in SP, come anch
 
 # Algoritmo di consenso
 
-Consensus is the process by which a community comes to a universally recognized, unambiguous agreement on piece of information. There are many algorithms society has developed for reaching consensus about who owns what. Every government on earth is a primitive consensus algorithm whereby the population agrees to abide by a certain set of rules enshrined in a constitution. Governments establish courts, judges, and juries to interpret the subjective facts and render a final decision. Most of the time people abide by the decision even if it was wrong.
+Il consenso è il processo attraverso il quale una comunità giunge a un accordo universalmente riconosciuto e non ambiguo, su un'informazione. Ci sono molti algoritmi che la società ha sviluppato per raggiungere l'opinione generale riguardo a chi possiede cosa. Ogni governo sulla terra è un algoritmo di consenso primitivo in base al quale la popolazione accetta di rispettare un certo insieme di regole sancite da una costituzione. I governi stabiliscono tribunali, giudici e giurie per interpretare i fatti soggettivi e presentare una decisione finale. Most of the time people abide by the decision even if it was wrong.
 
 The algorithms used by cryptocurrencies provide a better way to reach consensus. Cryptographically signed testimony from individuals is recorded in a public ledger that establishes the absolute global order of events. A deterministic computer algorithm can then process this ledger to derive a universally accepted conclusion. So long as the members of a community agree on the processing algorithm, the result of the algorithm is authoritative.
 
