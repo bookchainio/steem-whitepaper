@@ -286,11 +286,11 @@ I sistemi come BitShares, Nxt, Ripple, Counter Party e Stellar consentono a tutt
 
 ### Le commisioni sono barriere di accesso
 
-Ogni commissione crea una barriera di accesso per i nuovi utenti. Prima che qualcuno possa sperimentare con Ethereum, deve acquistare alcuni token ETH. Anyone wanting to build a decentralized application on Ethereum must pass on the cost to their customers. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
+Ogni commissione crea una barriera di accesso per i nuovi utenti. Prima che qualcuno possa sperimentare con Ethereum, deve acquistare alcuni token ETH. Chiunque vuole costruire un programma decentralizzato su Ethereum deve trasmettere il costo ai suoi clienti. Comprare una criptovaluta non è un lavoro facile e raramente ha senso per importi inferiori a $10. Questo vuol dire che i nuovi utenti che vogliono provare un nuovo programma decentralizzato devono innanzitutto essere convinti di partire con $10.
 
-### Changing Fees
+### Commissioni variabili
 
-Over time a network must adjust fees. This can happen either due to an increase in the value of the token or due to a surge in capacity. Users like predictable fees and guaranteed service. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
+Con il tempo, una rete deve regolare le commissioni. This can happen either due to an increase in the value of the token or due to a surge in capacity. Users like predictable fees and guaranteed service. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
 
 ### Sybil Attacks
 
