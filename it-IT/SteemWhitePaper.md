@@ -262,11 +262,11 @@ Visto che i testimoni attivi si sanno in anticipo, Steem è capace di programmar
 
 Steem fa di tutto per ricompensare le persone per il loro contribuire alla rete. Sarebbe controproducente voltare le spalle e opprimere le persone ogni volta che tentano di interagire con la comunità.
 
-La tecnologia della blockchain dipende attualmente dalle commissioni di transazione per impedire lo spam. Queste commissioni subiscono tutti i problemi noti con le microtransazioni e impediscono alle blockchain di essere usate per transazioni di basso valore. I programmi veramente decentralizzati devono presentare agli utenti la presenza di transazioni gratuite se desiderano competere con le loro alternative centralizzate. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
+La tecnologia della blockchain dipende attualmente dalle commissioni di transazione per impedire lo spam. Queste commissioni subiscono tutti i problemi noti con le microtransazioni e impediscono alle blockchain di essere usate per transazioni di basso valore. I programmi veramente decentralizzati devono presentare agli utenti la presenza di transazioni gratuite se desiderano competere con le loro alternative centralizzate. Questo documento delinea l'approccio usato da Steem di eliminare il bisogno di commissioni e, in questo modo, offre una vasta gamma di precedenti programmi, insostenibili e centralizzati.
 
-## The Problem With Fees
+## Il problema con le commissioni
 
-Blockchains are decentralized networks where all transactions are broadcast to all peers. Every so often a block is produced that includes some or all of the pending transactions. All blockchains must find a solution to prevent malicious users from consuming all of the available network capacity with worthless transactions. These worthless transactions can prevent other valuable transactions from being processed and ultimately destroy the network.
+Le blockchain sono delle reti decentralizzate dove tutte le transazioni sono trasmesse a tutti in modo uguale. Ogni tanto un blocco viene prodotto in modo tale che contenga le transazioni in sospeso in modo parziale o totale. All blockchains must find a solution to prevent malicious users from consuming all of the available network capacity with worthless transactions. These worthless transactions can prevent other valuable transactions from being processed and ultimately destroy the network.
 
 The solution adopted by most blockchains thus far is to charge a minimum transaction fee. A fee worth just a few cents is enough to make attacking the network expensive and unprofitable. While this approach solves the spam problem, it introduces new problems. Imagine solving the email spam problem by introducing a small fee on every email; people wouldn’t use email.
 
