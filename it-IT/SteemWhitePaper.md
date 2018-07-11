@@ -262,7 +262,7 @@ Visto che i testimoni attivi si sanno in anticipo, Steem è capace di programmar
 
 Steem fa di tutto per ricompensare le persone per il loro contribuire alla rete. Sarebbe controproducente voltare le spalle e opprimere le persone ogni volta che tentano di interagire con la comunità.
 
-La tecnologia della blockchain dipende attualmente dalle commissioni di transazione per impedire lo spam. Queste commissioni subiscono tutti i problemi noti con le microtransazioni e impediscono alle blockchain di essere usate per transazioni di basso valore. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
+La tecnologia della blockchain dipende attualmente dalle commissioni di transazione per impedire lo spam. Queste commissioni subiscono tutti i problemi noti con le microtransazioni e impediscono alle blockchain di essere usate per transazioni di basso valore. I programmi veramente decentralizzati devono presentare agli utenti la presenza di transazioni gratuite se desiderano competere con le loro alternative centralizzate. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
 
 ## The Problem With Fees
 
