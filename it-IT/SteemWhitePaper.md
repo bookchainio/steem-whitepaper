@@ -296,7 +296,7 @@ Con il tempo, una rete deve regolare le commissioni. This can happen either due 
 
 I siti web centralizzati impediscono lo spam attraverso una limitazione della velocità e attraverso alcuni tipi di verifica dell'identità. Anche qualcosa di semplice come reCAPTCHA[^9] è sufficiente per limitare la creazione di account falsi. Se qualcuno fa un cattivo utilizzo del proprio account, i siti web centralizzati sono liberi di bloccare l'account in causa.
 
-In a decentralized system there is no direct way to ban users nor centralized provider able to host a reCAPTCHA and enforce rate limiting of accounts. In fact, the inability to censor users is one of the main selling points of blockchain technology.
+In un sistema decentralizzato non c'è un modo diretto per espellere gli utenti né i fornitori centralizzati capaci di contenere un reCAPTCHA e imporre una percentuale limitata di account. In fact, the inability to censor users is one of the main selling points of blockchain technology.
 
 ### Full Reserve vs Fractional Reserve
 
