@@ -260,9 +260,9 @@ Visto che i testimoni attivi si sanno in anticipo, Steem è capace di programmar
 
 # Eliminazione delle commissioni di transazione
 
-Steem goes to great lengths to reward people for contributing to the network. It would be counterproductive to turn around and charge people every time they attempt to interact with the community.
+Steem fa di tutto per ricompensare le persone per il loro contribuire alla rete. Sarebbe controproducente voltare le spalle e opprimere le persone ogni volta che tentano di interagire con la comunità.
 
-Blockchain technology currently depends upon transaction fees to prevent spam. These fees suffer all of the known problems with microtransactions and prevent blockchains from being used for low-value transactions. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
+La tecnologia della blockchain dipende attualmente dalle commissioni di transazione per impedire lo spam. Queste commissioni subiscono tutti i problemi noti con le microtransazioni e impediscono alle blockchain di essere usate per transazioni di basso valore. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
 
 ## The Problem With Fees
 
