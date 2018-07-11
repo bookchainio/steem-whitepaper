@@ -290,7 +290,7 @@ Ogni commissione crea una barriera di accesso per i nuovi utenti. Prima che qual
 
 ### Commissioni variabili
 
-Con il tempo, una rete deve regolare le commissioni. This can happen either due to an increase in the value of the token or due to a surge in capacity. Users like predictable fees and guaranteed service. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
+Con il tempo, una rete deve regolare le commissioni. This can happen either due to an increase in the value of the token or due to a surge in capacity. Gli utenti preferiscono commissioni prevedibili e servizi garantiti. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
 
 ### Sybil Attacks
 
