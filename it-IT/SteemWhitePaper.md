@@ -258,7 +258,7 @@ Questo processo è progettato per fornire la migliore affidabilità mentre viene
 
 Visto che i testimoni attivi si sanno in anticipo, Steem è capace di programmare i testimoni per produrre blocchi ogni tre secondi. I testimoni sincronizzano la loro produzione di blocchi tramite il protocollo NTP. Una variante di questo algoritmo è stata utilizzata dalla rete BitShares per oltre un anno, dove si è dimostrata essere affidabile.
 
-# Eliminating Transaction Fees
+# Eliminazione delle commissioni di transazione
 
 Steem goes to great lengths to reward people for contributing to the network. It would be counterproductive to turn around and charge people every time they attempt to interact with the community.
 
