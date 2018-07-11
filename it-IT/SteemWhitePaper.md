@@ -290,11 +290,11 @@ Ogni commissione crea una barriera di accesso per i nuovi utenti. Prima che qual
 
 ### Commissioni variabili
 
-Con il tempo, una rete deve regolare le commissioni. This can happen either due to an increase in the value of the token or due to a surge in capacity. Gli utenti preferiscono commissioni prevedibili e servizi garantiti. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
+Con il tempo, una rete deve regolare le commissioni. This can happen either due to an increase in the value of the token or due to a surge in capacity. Gli utenti preferiscono commissioni prevedibili e servizi garantiti. Mentre è possibile regolare in modo dinamico le commissioni durante i periodi di grande utilizzo, il risultato è quello di una scarsa esperienza per l'utente.
 
-### Sybil Attacks
+### Attacchi Sybil
 
-Centralized websites prevent spam through rate limiting and some form of ID verification. Even something as simple as reCAPTCHA[^9] is sufficient to limit the creation of fake accounts. If someone abuses their account then centralized websites are free to block the account.
+I siti web centralizzati impediscono lo spam attraverso una limitazione della velocità e attraverso alcuni tipi di verifica dell'identità. Anche qualcosa di semplice come reCAPTCHA[^9] è sufficiente per limitare la creazione di account falsi. Se qualcuno fa un cattivo utilizzo del proprio account, i siti web centralizzati sono liberi di bloccare l'account in causa.
 
 In a decentralized system there is no direct way to ban users nor centralized provider able to host a reCAPTCHA and enforce rate limiting of accounts. In fact, the inability to censor users is one of the main selling points of blockchain technology.
 
