@@ -266,9 +266,9 @@ La tecnologia della blockchain dipende attualmente dalle commissioni di transazi
 
 ## Il problema con le commissioni
 
-Le blockchain sono delle reti decentralizzate dove tutte le transazioni sono trasmesse a tutti in modo uguale. Ogni tanto un blocco viene prodotto in modo tale che contenga le transazioni in sospeso in modo parziale o totale. Tutte le blockchain devono trovare una soluzione per impedire agli utenti malintenzionati di esaurire tutto il volume disponibile della rete con transazioni di poco conto. These worthless transactions can prevent other valuable transactions from being processed and ultimately destroy the network.
+Le blockchain sono delle reti decentralizzate dove tutte le transazioni sono trasmesse a tutti in modo uguale. Ogni tanto un blocco viene prodotto in modo tale che contenga le transazioni in sospeso in modo parziale o totale. Tutte le blockchain devono trovare una soluzione per impedire agli utenti malintenzionati di esaurire tutto il volume disponibile della rete con transazioni di poco conto. Queste transazioni non necessarie possono impedire ad altre transazioni valide dall'essere elaborate e, in definitiva, distruggere la rete.
 
-The solution adopted by most blockchains thus far is to charge a minimum transaction fee. A fee worth just a few cents is enough to make attacking the network expensive and unprofitable. While this approach solves the spam problem, it introduces new problems. Imagine solving the email spam problem by introducing a small fee on every email; people wouldn’t use email.
+La soluzione adottata fino ad ora dalla maggior parte delle blockchain, è quella di addebitare un minimo di commissione per transazione. Una commissione che ha un valore che si aggira intorno a pochi centesimi è sufficiente per rendere l'attacco alla rete costoso e non redditizio. While this approach solves the spam problem, it introduces new problems. Imagine solving the email spam problem by introducing a small fee on every email; people wouldn’t use email.
 
 ### Micropayments Don’t Work
 
