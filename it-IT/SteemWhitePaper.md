@@ -296,15 +296,15 @@ Con il tempo, una rete deve regolare le commissioni. Questo può accadere o a ca
 
 I siti web centralizzati impediscono lo spam attraverso una limitazione della velocità e attraverso alcuni tipi di verifica dell'identità. Anche qualcosa di semplice come reCAPTCHA[^9] è sufficiente per limitare la creazione di account falsi. Se qualcuno fa un cattivo utilizzo del proprio account, i siti web centralizzati sono liberi di bloccare l'account in causa.
 
-In un sistema decentralizzato non c'è un modo diretto per espellere gli utenti né i fornitori centralizzati capaci di contenere un reCAPTCHA e imporre una percentuale limitata di account. Infatti, l'incapacità di censurare gli utenti è uno dei principali vantaggi della tecnologia della blockchain.
+In un sistema decentralizzato non c'è un modo diretto per espellere gli utenti né i fornitori centralizzati capaci di gestire un reCAPTCHA e imporre una percentuale limitata di account. Infatti, l'incapacità di censurare gli utenti è uno dei principali vantaggi della tecnologia della blockchain.
 
 ### Riserva completa vs riserva frazionaria
 
 Proviamo a vedere la blockchain come una cooperativa fornitrice di servizi internet (Internet Service Provider -ISP-) che possiede tutti i cavi della città e ha una quantità massima di larghezza di banda che può offrire in qualsiasi momento. Le persone che vivono nella città possono acquistare azioni dell' ISP e, in cambio, sono autorizzate ad utilizzare una parte della larghezza di banda disponibile.
 
-L'ISP ha due opzioni, eseguire un sistema di "riserva completa" o di "riserva frazionaria". Sotto un sistema di riserva piena, ad ogni utente viene assegnata solo una frazione del massimo della larghezza di banda, proporzionale alle sue azioni. Dal momento che non tutti utilizzando Internet nello stesso momento, la rete della città sarebbe, in modo significativo, non sfruttata a pieno.
+L'ISP ha due opzioni, avviare un sistema di "riserva completa" o di "riserva frazionaria". Sotto un sistema di riserva completa, ad ogni utente viene assegnata solo una frazione massima della larghezza di banda, proporzionale alle sue azioni. Dal momento che non tutti utilizzano Internet nello stesso momento, la rete della città sarebbe, in modo significativo, non sfruttata a pieno.
 
-Sotto un sistema di riserva frazionaria, i singoli utenti potrebbero utilizzare più larghezza di banda di quella a cui hanno diritto in un dato momento, fino a che non tutti utilizzano Internet nello stesso momento. Il problema di gestire un sistema di riserva frazionaria è che la congestione può verificarsi ogni volta che tante persone desiderano utilizzare la rete nello stesso momento. L'ISP necessita di un modo per dare priorità alla larghezza di banda durante i periodi congestionati. Nei casi più estremi, una rete pienamente congestionata deve ritornare ad un sistema di riserva completa. La sfida è impostare il giusto rapporto di riserva frazionale.
+Sotto un sistema di riserva frazionaria, i singoli utenti potrebbero utilizzare più larghezza di banda di quella a cui hanno diritto in un dato momento, fintanto che non tutti utilizzano Internet nello stesso momento. Il problema di gestire un sistema di riserva frazionaria è che la congestione può verificarsi ogni volta che tante persone desiderano utilizzare la rete nello stesso momento. L'ISP necessita di un modo per dare delle priorità alla larghezza di banda durante i periodi congestionati. Nei casi più estremi, una rete pienamente congestionata deve ritornare ad un sistema di riserva completa. La sfida è impostare il giusto rapporto di riserva frazionale.
 
 ## Bandwidth Instead of Micropayment Channels
 
