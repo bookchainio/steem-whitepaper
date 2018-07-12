@@ -302,7 +302,7 @@ In un sistema decentralizzato non c'è un modo diretto per espellere gli utenti 
 
 Proviamo a vedere la blockchain come una cooperativa fornitrice di servizi internet (Internet Service Provider -ISP-) che possiede tutti i cavi della città e ha una quantità massima di larghezza di banda che può offrire in qualsiasi momento. Le persone che vivono nella città possono acquistare azioni dell' ISP e, in cambio, sono autorizzate ad utilizzare una parte della larghezza di banda disponibile.
 
-The ISP has two choices, run a “full reserve” or “fractional reserve” system. Under a full reserve system each user is only allowed a fraction of the maximum bandwidth proportional to her shares. Because not everyone uses the Internet at the same time, the town’s network would be significantly underutilized.
+L'ISP ha due opzioni, eseguire un sistema di "riserva completa" o di "riserva frazionaria". Sotto un sistema di riserva piena, ad ogni utente viene assegnata solo una frazione del massimo della larghezza di banda, proporzionale alle sue azioni. Dal momento che non tutti utilizzando Internet nello stesso momento, la rete della città sarebbe, in modo significativo, non sfruttata a pieno.
 
 Under a fractional reserve system the individual users could utilize more bandwidth than they are entitled to at any given point in time so long as not everyone uses the Internet at the same time. The problem with operating a fractional reserve is that congestion occurs anytime too many people wish to use the network at the same time. The ISP needs a way to prioritize bandwidth during congested periods. In the most extreme case, a fully congested network must revert to a full reserve system. The challenge is setting the proper fractional reserve ratio.
 
