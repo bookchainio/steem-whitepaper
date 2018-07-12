@@ -290,7 +290,7 @@ Ogni commissione crea una barriera di accesso per i nuovi utenti. Prima che qual
 
 ### Commissioni variabili
 
-Con il tempo, una rete deve regolare le commissioni. This can happen either due to an increase in the value of the token or due to a surge in capacity. Gli utenti preferiscono commissioni prevedibili e servizi garantiti. Mentre è possibile regolare in modo dinamico le commissioni durante i periodi di grande utilizzo, il risultato è quello di una scarsa esperienza per l'utente.
+Con il tempo, una rete deve regolare le commissioni. Questo può accadere o a causa di un aumento del valore del token o a causa di un aumento della capacità. Gli utenti preferiscono commissioni prevedibili e servizi garantiti. Mentre è possibile regolare in modo dinamico le commissioni durante i periodi di grande utilizzo, il risultato è quello di una scarsa esperienza per l'utente.
 
 ### Attacchi Sybil
 
@@ -298,9 +298,9 @@ I siti web centralizzati impediscono lo spam attraverso una limitazione della ve
 
 In un sistema decentralizzato non c'è un modo diretto per espellere gli utenti né i fornitori centralizzati capaci di contenere un reCAPTCHA e imporre una percentuale limitata di account. Infatti, l'incapacità di censurare gli utenti è uno dei principali vantaggi della tecnologia della blockchain.
 
-### Full Reserve vs Fractional Reserve
+### Riserva completa vs riserva frazionaria
 
-Let’s view a blockchain like an Internet Service Provider (ISP) co-op which owns all of the cables in the town and has a maximum amount of bandwidth that it can provide at any time. People living in the town can buy shares in the ISP and in exchange they are entitled to utilize a portion of the available bandwidth.
+Proviamo a vedere la blockchain come una cooperativa fornitrice di servizi internet (Internet Service Provider -ISP-) che possiede tutti i cavi della città e ha una quantità massima di larghezza di banda che può offrire in qualsiasi momento. People living in the town can buy shares in the ISP and in exchange they are entitled to utilize a portion of the available bandwidth.
 
 The ISP has two choices, run a “full reserve” or “fractional reserve” system. Under a full reserve system each user is only allowed a fraction of the maximum bandwidth proportional to her shares. Because not everyone uses the Internet at the same time, the town’s network would be significantly underutilized.
 
