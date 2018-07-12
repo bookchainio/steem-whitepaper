@@ -312,7 +312,7 @@ La soluzione ai problemi con i micropagamenti è implementare *riserve frazional
 
 La larghezza di banda utilizzata da un singolo utente dovrebbe essere misurata su un periodo di tempo sufficientemente lungo per permettere a quell'utente lo slittamento temporale del suo utilizzo. Gli utenti tendono ad connettersi, fare molte cose contemporaneamente e quindi disconnettersi. Questo vuol dire che la loro larghezza di banda lungo un periodo di tempo breve può sembrare maggiore rispetto a se viene vista lungo un periodo di tempo più lungo. Se l'intervallo di tempo viene allungato in modo eccessivo, il livello di riserva non si regolerà abbastanza velocemente per rispondere ai picchi di breve durata e, se l'intervallo è troppo breve, il clustering (composto da tecniche per analizzare gruppi) utilizzato avrà un impatto troppo grande sugli utenti normali.
 
-In our estimate it should be sufficient to measure the average weekly bandwidth usage of users. Every time a user signs a transaction, that transaction is factored into their own individual moving average. Any time a user’s moving average exceeds the current network limit their transaction is delayed until their average falls below the limit.
+Secondo le nostra stima, dovrebbe essere sufficiente misurare la media dell'utilizzo settimanale della larghezza di banda, da parte degli utenti. Ogni volta che un utente traccia una transazione, questa transazione viene calcolata nella loro media mobile individuale. Ogni volta che la media mobile di un utente eccede il limite della rete presente, la loro transazione viene rimandata fino a che la loro media scende sotto il limite.
 
 ### Impact of Capacity
 
