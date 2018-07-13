@@ -316,9 +316,9 @@ Secondo le nostra stima, dovrebbe essere sufficiente misurare la media dell'util
 
 ### Impatto della capacità
 
-La capacità della blockchain non è necessariamente limitata. È cosa buona, all'interno della abilità dell'infrastruttura di internet, di aumentare la dimensione del blocco di Bitcoin a 10MB che a sua volta ridurrà il saldo minimo richiesto di un coefficiente di 10. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second.
+La capacità della blockchain non è necessariamente limitata. È cosa buona, all'interno della abilità dell'infrastruttura di internet, di aumentare la dimensione del blocco di Bitcoin a 10MB che a sua volta ridurrà il saldo minimo richiesto di un coefficiente di 10. Mentre Bitcoin supporta attualmente 3 transazioni al secondo, implementazioni alternative sono capaci di sostenere oltre 1000 transazioni al secondo.
 
-### Comparison to Fees
+### Confronto con le commissioni
 
 If we assume a user with $25 dollars worth of BTC transacts once per week and pays a $0.04 cent fee each time then they would pay over $2.00 in fees per year. A user would have to earn a 8% rate of return on their $25 dollars just to break even with paying fees. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
 
