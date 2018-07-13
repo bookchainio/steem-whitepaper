@@ -316,7 +316,7 @@ Secondo le nostra stima, dovrebbe essere sufficiente misurare la media dell'util
 
 ### Impatto della capacità
 
-La capacità della blockchain non è necessariamente limitata. It is well within the technological capability of internet infrastructure to increase the Bitcoin block size to 10MB which in turn will reduce the minimum required balance by a factor of 10. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second.
+La capacità della blockchain non è necessariamente limitata. È cosa buona, all'interno della abilità dell'infrastruttura di internet, di aumentare la dimensione del blocco di Bitcoin a 10MB che a sua volta ridurrà il saldo minimo richiesto di un coefficiente di 10. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second.
 
 ### Comparison to Fees
 
