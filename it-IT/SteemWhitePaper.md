@@ -330,9 +330,9 @@ Il sistema di Steem basato sugli account aventi saldi resi pubblici, semplifica 
 
 Al fine di sostenere una ragionevole conoscenza dell'utente con un numero minimo di account in sospeso, tutti i nuovi account dovrebbero avviarsi con un saldo di 10 volte superiore al minimo richiesto per effettuare transazioni settimanalmente. In questo modo anche se la domanda aumenta di un coefficiente di 10, l'account rimarrà utilizzabile.
 
-Any initial account balance would have to come from the user creating the account and not from token creation due to the potential for sybil attacks.
+Qualsiasi saldo iniziale dell'account dovrebbe derivare dalla creazione dell'account stesso da parte dell'utente e non dalla creazione di token a causa di possibili attacchi sybil.
 
-### Justifying Minimum Balances
+### Giustificare i saldi minimi
 
 The concept of forcing users to maintain a minimum balance flows naturally from the value of a user[^10]. Anyone running a business knows that every single user has significant value. Businesses spend anywhere from $30 to $200 to acquire a user. Sometimes they pay users directly, other times they pay for advertizing, and still other times entire companies are bought just for their user base. After a company acquires a user they often given them many *free services* just to keep them around long enough to monetize them through some other means.
 
