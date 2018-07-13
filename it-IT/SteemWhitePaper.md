@@ -328,7 +328,7 @@ Il sistema di Steem basato sugli account aventi saldi resi pubblici, semplifica 
 
 È possibile per un account con un saldo basso che è stato creato durante un momento di scarso utilizzo, diventare inaccessibile se i sistemi d'uso della rete prevedono di sottrarlo. I fondi potrebbero essere recuperati in ogni momento delegando temporaneamente un saldo maggiore all'account.
 
-Al fine di sostenere una ragionevole conoscenza dell'utente con un numero minimo di account in sospeso, tutti i nuovi account dovrebbero avviarsi con un saldo di 10 volte superiore al minimo richiesto per effettuare transazioni settimanalmente. In questo modo anche se la domanda aumenta di un coefficiente di 10, l'account rimarrà utilizzabile.
+Per garantire agli utenti una esperienza adeguata, accettabile, con un numero minimo di account in sospeso, tutti i nuovi account dovrebbero avviarsi con un saldo di 10 volte superiore al minimo richiesto per effettuare transazioni settimanalmente. In questo modo anche se la domanda aumenta di un coefficiente di 10, l'account rimarrà utilizzabile.
 
 Qualsiasi saldo iniziale dell'account dovrebbe derivare dalla creazione dell'account stesso da parte dell'utente e non dalla creazione di token a causa di possibili attacchi sybil.
 
