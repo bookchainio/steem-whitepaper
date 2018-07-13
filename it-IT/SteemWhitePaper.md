@@ -324,7 +324,7 @@ Supponiamo che un utente con una valore in BTC per $25 effettui transazioni una 
 
 ### Creazione dell'account
 
-Steem’s account-based system with publicly known balances simplifies the implementation of the bandwidth-based rate limiting algorithm. Any account with a balance below the minimum required to transact once per week would be unable to transact. This implies that all new accounts should be funded with at least this minimum balance. It also implies that users wishing to transact in smaller amounts can, so long as they hold a larger balance and reuse the account.
+Il sistema di Steem basato sugli account aventi saldi resi pubblici, semplifica le implementazioni dell'algoritmo della larghezza di banda basata sulla limitazione della velocità. Ogni account avente un saldo al di sotto del minimo richiesto per effettuare transazioni una volta a settimana, sarebbe incapace di poterle sostenere. Ciò implica che tutti i nuovi account dovrebbero essere finanziati con almeno questo saldo minimo. Implica anche che gli utenti che desiderano effettuare transazioni in quantità inferiori, possono farlo, a condizioni che mantengano un saldo più ampio e riutilizzino l'account.
 
 It is possible for a low-balance account created during a time of low usage to become inaccessible if the network usage picks up. The funds could be recovered at any time by temporarily delegating a larger balance to the account.
 
