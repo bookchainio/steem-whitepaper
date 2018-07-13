@@ -320,7 +320,7 @@ La capacità della blockchain non è necessariamente limitata. È cosa buona, al
 
 ### Confronto con le commissioni
 
-If we assume a user with $25 dollars worth of BTC transacts once per week and pays a $0.04 cent fee each time then they would pay over $2.00 in fees per year. A user would have to earn a 8% rate of return on their $25 dollars just to break even with paying fees. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
+Se noi supponiamo che un utente con una valore in BTC per $25 effettui transazioni una volta a settimana pagando ogni volta 0.04 centesimi di dollaro in commissioni, allora pagherebbe $2.00 in commissioni all'anno. Un utente avrebbe dovuto ricavare un tasso di rendimento dell'8% sui suoi $25 dollari solo per abbattere i costi delle commissioni pagate. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
 
 ### Account Creation
 
