@@ -326,7 +326,7 @@ Supponiamo che un utente con una valore in BTC per $25 effettui transazioni una 
 
 Il sistema di Steem basato sugli account aventi saldi resi pubblici, semplifica le implementazioni dell'algoritmo della larghezza di banda basata sulla limitazione della velocità. Ogni account avente un saldo al di sotto del minimo richiesto per effettuare transazioni una volta a settimana, sarebbe incapace di poterle sostenere. Ciò implica che tutti i nuovi account dovrebbero essere finanziati con almeno questo saldo minimo. Implica anche che gli utenti che desiderano effettuare transazioni in quantità inferiori, possono farlo, a condizioni che mantengano un saldo più ampio e riutilizzino l'account.
 
-It is possible for a low-balance account created during a time of low usage to become inaccessible if the network usage picks up. The funds could be recovered at any time by temporarily delegating a larger balance to the account.
+È possibile per un account con un saldo basso che è stato creato durante un momento di scarso utilizzo, diventare inaccessibile se i sistemi d'uso della rete prevedono di sottrarlo. I fondi potrebbero essere recuperati in ogni momento delegando temporaneamente un saldo maggiore all'account.
 
 In order to maintain a reasonable user experience with a minimum number of hung accounts, all new accounts should start out with a balance 10 times the minimum required to transact weekly. This way even if demand increases by a factor of 10 the account will remain viable.
 
