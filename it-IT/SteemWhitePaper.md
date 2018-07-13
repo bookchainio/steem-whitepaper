@@ -314,9 +314,9 @@ La larghezza di banda utilizzata da un singolo utente dovrebbe essere misurata s
 
 Secondo le nostra stima, dovrebbe essere sufficiente misurare la media dell'utilizzo settimanale della larghezza di banda, da parte degli utenti. Ogni volta che un utente traccia una transazione, questa transazione viene calcolata nella loro media mobile individuale. Ogni volta che la media mobile di un utente eccede il limite della rete presente, la loro transazione viene rimandata fino a che la loro media scende sotto il limite.
 
-### Impact of Capacity
+### Impatto della capacità
 
-Blockchain capacity isn’t necessarily capped. It is well within the technological capability of internet infrastructure to increase the Bitcoin block size to 10MB which in turn will reduce the minimum required balance by a factor of 10. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second.
+La capacità della blockchain non è necessariamente limitata. It is well within the technological capability of internet infrastructure to increase the Bitcoin block size to 10MB which in turn will reduce the minimum required balance by a factor of 10. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second.
 
 ### Comparison to Fees
 
