@@ -320,7 +320,7 @@ La capacità della blockchain non è necessariamente limitata. È cosa buona, al
 
 ### Confronto con le commissioni
 
-Supponiamo che un utente con una valore in BTC per $25 effettui transazioni una volta a settimana pagando ogni volta 0.04 centesimi di dollaro in commissioni, pagherebbe dunque oltre $2.00 in commissioni all'anno. Un utente dovrebbe ricavare un tasso di rendimento dell'8% sui suoi $25 dollari solo per abbattere i costi delle commissioni pagate. Probabilmente gli utenti avrebbero mantenuto i loro soldi nella blockchain in ogni caso, quindi questo utente avente un valore di $25 in bitcoin, avrebbe risparmiato $2 lungo il corso dell'anno adottando un approccio che misuri la tariffa piuttosto che un approccio basato su una sola tariffa. Con soli $175 potrebbero effettuare transazioni ogni giorno risparmiando $14 all'anno.
+Supponiamo che un utente con una valore in BTC per $25 effettui transazioni una volta a settimana pagando ogni volta 0.04 centesimi di dollaro in commissioni, pagherebbe dunque oltre $2.00 in commissioni all'anno. Un utente dovrebbe ricavare un tasso di rendimento dell'8% sui suoi $25 dollari solo per abbattere i costi delle commissioni pagate. Probabilmente gli utenti avrebbero mantenuto i loro soldi nella blockchain in ogni caso, quindi questo utente avente un valore di $25 in bitcoin, avrebbe risparmiato $2 lungo il corso dell'anno adottando un approccio basato sulla limitazione della velocità piuttosto che un approccio basato su una commissione. Con soli $175 potrebbero effettuare transazioni ogni giorno risparmiando $14 all'anno.
 
 ### Creazione dell'account
 
