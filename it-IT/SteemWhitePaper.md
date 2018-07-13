@@ -312,11 +312,11 @@ La soluzione ai problemi con i micropagamenti è implementare *riserve frazional
 
 La larghezza di banda utilizzata da un singolo utente dovrebbe essere misurata su un periodo di tempo sufficientemente lungo per permettere a quell'utente lo slittamento temporale del suo utilizzo. Gli utenti tendono a connettersi, fare molte cose contemporaneamente e quindi disconnettersi. Ciò significa che la loro larghezza di banda, attraverso un breve periodo di tempo, potrebbe sembrare più ampia, se vista attraverso un periodo di tempo più lungo. Se l'intervallo di tempo viene allungato in modo eccessivo, il livello di riserva non si regolerà abbastanza velocemente per rispondere ai picchi di breve durata e, se l'intervallo è troppo breve, il clustering (composto da tecniche per analizzare gruppi) utilizzato avrà un impatto troppo grande sugli utenti normali.
 
-Secondo le nostra stima, dovrebbe essere sufficiente misurare la media dell'utilizzo settimanale della larghezza di banda, da parte degli utenti. Ogni volta che un utente traccia una transazione, questa transazione viene calcolata nella loro media mobile individuale. Ogni volta che la media mobile di un utente eccede il limite della rete presente, la loro transazione viene rimandata fino a che la loro media scende sotto il limite.
+Secondo le nostra stima, dovrebbe essere sufficiente misurare la media dell'utilizzo settimanale della larghezza di banda, da parte degli utenti. Ogni volta che un utente traccia una transazione, questa transazione viene calcolata nella sua media mobile individuale. Ogni volta che la media mobile di un utente eccede il limite della rete presente, la sua transazione viene sospesa fino a che la media non scende sotto il limite.
 
 ### Impatto della capacità
 
-La capacità della blockchain non è necessariamente limitata. È cosa buona, all'interno della abilità dell'infrastruttura di internet, di aumentare la dimensione del blocco di Bitcoin a 10MB che a sua volta ridurrà il saldo minimo richiesto di un coefficiente di 10. Mentre Bitcoin supporta attualmente 3 transazioni al secondo, implementazioni alternative sono capaci di sostenere oltre 1000 transazioni al secondo.
+La capacità della blockchain non è necessariamente limitata. È cosa buona, all'interno dell' abilità dell'infrastruttura di internet, aumentare la dimensione del blocco del Bitcoin a 10MB che, a sua volta, ridurrà il saldo minimo richiesto di un coefficiente di 10. Mentre Bitcoin supporta attualmente 3 transazioni al secondo, implementazioni alternative sono capaci di sostenere oltre 1000 transazioni al secondo.
 
 ### Confronto con le commissioni
 
@@ -344,7 +344,7 @@ Mantenere un saldo minimo è effettivamente la stessa cosa di far pagare agli ut
 
 Fortunatamente, il saldo minimo richiede di essere basso tanto quanto un dollaro e questo è qualcosa che gli utenti possono capire e apprezzate. Il costo di opportunità dell'interesse perso, incorre nel costo cognitivo di una piccola commissione ed è di gran lunga più accettato dagli utenti.
 
-Lo STEEM utilizzato per pre-finanziare un account viene trasferito nel nuovo account tramite il processo di Power Up (cioè, convertito in Steem Power). Una parte dello SP utilizzato per finanziare un nuovo account può essere delegato dal creatore dell'account stesso. Quando ad un utente viene delegato lo SP, lo può utilizzare per scopi legati al votare e alla larghezza di banda come se fosse suo, ma la proprietà dello SP rimane all'utente che lo ha delegato. Un utente può rimuovere la delega in qualsiasi momento. Dopo un periodo di non utilizzo, lo SP viene restituito al rispettivo account.
+Lo STEEM utilizzato per pre-finanziare un account viene trasferito nel nuovo account tramite il processo di Power Up (cioè, convertito in Steem Power). Una parte dello SP utilizzato per finanziare un nuovo account può essere delegato dal creatore dell'account stesso. Quando ad un utente viene delegato lo SP, lo può utilizzare per scopi legati al votare e alla larghezza di banda come se fosse suo, ma la proprietà dello SP rimane all'utente che lo ha delegato. Un utente può rimuovere la delega in qualsiasi momento. Dopo un periodo di fermo, lo SP viene restituito al rispettivo account.
 
 ### Effectiveness Relative to Fees
 
