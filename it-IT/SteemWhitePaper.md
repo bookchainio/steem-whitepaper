@@ -316,7 +316,7 @@ Secondo le nostra stima, dovrebbe essere sufficiente misurare la media dell'util
 
 ### Impatto della capacità
 
-La capacità della blockchain non è necessariamente limitata. È cosa buona, all'interno dell' abilità dell'infrastruttura di internet, aumentare la dimensione del blocco del Bitcoin a 10MB che, a sua volta, ridurrà il saldo minimo richiesto di un coefficiente di 10. Mentre Bitcoin supporta attualmente 3 transazioni al secondo, implementazioni alternative sono capaci di sostenere oltre 1000 transazioni al secondo.
+La capacità della blockchain non è necessariamente limitata. È cosa buona, all'interno dell'abilità dell'infrastruttura di internet, aumentare la dimensione del blocco del Bitcoin a 10MB che, a sua volta, ridurrà il saldo minimo richiesto di un coefficiente di 10. Mentre Bitcoin supporta attualmente 3 transazioni al secondo, implementazioni alternative sono capaci di sostenere oltre 1000 transazioni al secondo.
 
 ### Confronto con le commissioni
 
@@ -336,7 +336,7 @@ Qualsiasi saldo iniziale dell'account dovrebbe derivare dalla creazione dell'acc
 
 Il concetto di forzare gli utenti a mantenere un saldo minimo, deriva naturalmente dalla valutazione dell'utente stesso[^10]. Chiunque gestisce una attività commerciale sa che ogni singolo cliente ha un valore significativo. Le aziende spendono dovunque dai $30 ai $200 per procurarsi un cliente. Qualche volta pagano direttamente i clienti, altre volte pagano per la pubblicità e altre volte ancora, intere aziende vengono acquistate solo per la loro base di utenza. Dopo che una azienda acquisisce un cliente, spesso gli vengono dati *servizi gratuiti* solo per tenerlo nelle vicinanze abbastanza a lungo da monetizzare con lui attraverso altri mezzi.
 
-Ripple utilizza un minimo saldo[^11] che bilancia con l'utilizzo delle risorse dell'account e richiede che i nuovi account vengano finanziati con questo saldo minimo. Attualmente, questo saldo minimo è di circa $0.15 che è maggiore rispetto ai $0.10 che avevamo preventivato e che avrebbero potuto consentire a qualcuno di effettuare transazioni liberamente almeno una volta a settimana.
+Ripple utilizza un minimo saldo[^11] che bilancia con l'utilizzo delle risorse del conto e richiede che i nuovi account vengano finanziati con questo saldo minimo. Attualmente, questo saldo minimo è di circa $0.15 che è maggiore rispetto ai $0.10 che avevamo preventivato e che avrebbero potuto consentire a qualcuno di effettuare transazioni liberamente almeno una volta a settimana.
 
 Una blockchain può imporre un valore minimo per utente attraverso il semplice processo di richiedere un saldo minimo. Qualsiasi attività commerciale che desidera portare un nuovo cliente nella blockchain può pre-finanziare quell'utente con il saldo minimo che gli permetterebbe di effettuare transazioni. Richiedere una commissione relativamente grande ($1.00) per far iscrivere nuovi utenti, forzerà naturalmente, chiunque offra account gratuiti, ad esaminare la qualità e l'unicità di ogni account prima di registrarli nella blockchain.
 
