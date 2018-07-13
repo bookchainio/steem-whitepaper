@@ -342,9 +342,9 @@ Una blockchain può imporre un valore minimo per utente attraverso il semplice p
 
 Mantenere un saldo minimo è effettivamente la stessa cosa di far pagare agli utenti le commissioni di transazione con gli interessi che avrebbero potuto guadagnare sul loro saldo. Il saldo minimo è semplicemente il saldo richiesto per guadagnare abbastanza interessi da pagare una commissione in un periodo di tempo relativamente breve.
 
-Fortunatamente, il saldo minimo richiede di essere basso tanto quanto un dollaro e questo è qualcosa che gli utenti possono capire e apprezzare. Il costo di opportunità dell'interesse perso, incorre nel costo cognitivo di una piccola commissione ed è di gran lunga più accettato dagli utenti.
+Fortunatamente, il saldo minimo richiede di essere basso tanto quanto un dollaro e questo è qualcosa che gli utenti possono capire e apprezzare. L'occasione durante la quale si sostiene un costo per aver perso l'interesse, non incorre nel costo cognitivo di una piccola commissione ed è di gran lunga più accettato dagli utenti.
 
-Lo STEEM utilizzato per pre-finanziare un account viene trasferito nel nuovo account tramite il processo di Power Up (cioè, convertito in Steem Power). Una parte dello SP utilizzato per finanziare un nuovo account può essere delegato dal creatore dell'account stesso. Quando ad un utente viene delegato lo SP, lo può utilizzare per scopi legati al votare e alla larghezza di banda come se fosse suo, ma la proprietà dello SP rimane all'utente che lo ha delegato. Un utente può rimuovere la delega in qualsiasi momento. Dopo un periodo di fermo, lo SP viene restituito al rispettivo account.
+Lo STEEM utilizzato per pre-finanziare un account viene trasferito nel nuovo account tramite il processo di Power Up (cioè, convertito in Steem Power). Una parte dello SP utilizzato per finanziare un nuovo account può essere delegato dal creatore dell'account stesso. Quando ad un utente viene delegato lo SP, lo può utilizzare per scopi legati al voto e alla larghezza di banda come se fosse suo, ma la proprietà dello SP rimane all'utente che lo ha delegato. Un utente può rimuovere la delega in qualsiasi momento. Dopo un periodo di fermo, lo SP viene restituito al rispettivo account.
 
 ### Effectiveness Relative to Fees
 
