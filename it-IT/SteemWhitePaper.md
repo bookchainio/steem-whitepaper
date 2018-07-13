@@ -320,9 +320,9 @@ La capacità della blockchain non è necessariamente limitata. È cosa buona, al
 
 ### Confronto con le commissioni
 
-Se noi supponiamo che un utente con una valore in BTC per $25 effettui transazioni una volta a settimana pagando ogni volta 0.04 centesimi di dollaro in commissioni, allora pagherebbe $2.00 in commissioni all'anno. Un utente avrebbe dovuto ricavare un tasso di rendimento dell'8% sui suoi $25 dollari solo per abbattere i costi delle commissioni pagate. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
+Supponiamo che un utente con una valore in BTC per $25 effettui transazioni una volta a settimana pagando ogni volta 0.04 centesimi di dollaro in commissioni, allora pagherebbe $2.00 in commissioni all'anno. Un utente avrebbe dovuto ricavare un tasso di rendimento dell'8% sui suoi $25 dollari solo per abbattere i costi delle commissioni pagate. Probabilmente gli utenti avrebbero mantenuto i loro soldi nella blockchain in ogni caso, quindi questo utente avente un valore di $25 in bitcoin, avrebbe risparmiato $2 lungo il corso dell'anno adottando un approccio che misuri la tariffa piuttosto che un approccio basato su una sola tariffa. Con soli $175 potrebbero effettuare transazioni ogni giorno risparmiando $14 all'anno.
 
-### Account Creation
+### Creazione dell'account
 
 Steem’s account-based system with publicly known balances simplifies the implementation of the bandwidth-based rate limiting algorithm. Any account with a balance below the minimum required to transact once per week would be unable to transact. This implies that all new accounts should be funded with at least this minimum balance. It also implies that users wishing to transact in smaller amounts can, so long as they hold a larger balance and reuse the account.
 
