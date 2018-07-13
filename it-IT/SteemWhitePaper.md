@@ -342,9 +342,9 @@ Una blockchain può imporre un valore minimo per utente attraverso il semplice p
 
 Mantenere un saldo minimo è effettivamente la stessa cosa di far pagare agli utenti le commissioni di transazione con gli interessi che avrebbero potuto guadagnare sul loro saldo. Il saldo minimo è semplicemente il saldo richiesto per guadagnare abbastanza interessi da pagare una commissione in un periodo di tempo relativamente breve.
 
-Fortunatamente, il saldo minimo richiede di essere basso tanto quanto un dollaro e questo è qualcosa che gli utenti possono capire e apprezzate. The opportunity cost of lost interest doesn’t incur the cognitive cost of a micro-fee and is far more acceptable to users.
+Fortunatamente, il saldo minimo richiede di essere basso tanto quanto un dollaro e questo è qualcosa che gli utenti possono capire e apprezzate. Il costo di opportunità dell'interesse perso, incorre nel costo cognitivo di una piccola commissione ed è di gran lunga più accettato dagli utenti.
 
-The STEEM used to pre-fund an account is Powered Up in the new account (i.e., converted to Steem Power). A portion of the SP used to fund a new account may be delegated from the creator of the account. When a user is delegated SP, they may use the SP for voting and bandwidth purposes as if it were their own, but the ownership of the SP remains with the user who delegated it. A user may remove the delegation at any time. After a cool-down period, the SP is returned to their account.
+Lo STEEM utilizzato per pre-finanziare un account viene trasferito nel nuovo account tramite il processo di Power Up (cioè, convertito in Steem Power). A portion of the SP used to fund a new account may be delegated from the creator of the account. When a user is delegated SP, they may use the SP for voting and bandwidth purposes as if it were their own, but the ownership of the SP remains with the user who delegated it. A user may remove the delegation at any time. After a cool-down period, the SP is returned to their account.
 
 ### Effectiveness Relative to Fees
 
