@@ -334,7 +334,7 @@ Qualsiasi saldo iniziale dell'account dovrebbe derivare dalla creazione dell'acc
 
 ### Giustificare i saldi minimi
 
-The concept of forcing users to maintain a minimum balance flows naturally from the value of a user[^10]. Anyone running a business knows that every single user has significant value. Businesses spend anywhere from $30 to $200 to acquire a user. Sometimes they pay users directly, other times they pay for advertizing, and still other times entire companies are bought just for their user base. After a company acquires a user they often given them many *free services* just to keep them around long enough to monetize them through some other means.
+Il concetto di forzare gli utenti a mantenere un saldo minimo, deriva naturalmente dalla valutazione di un utente[^10]. Chiunque gestisce una attività commerciale sa che ogni singolo cliente ha un valore significativo. Le aziende spendono dovunque dai $30 ai $200 per acquisire un cliente. Qualche volta pagano i clienti direttamente, altre volte pagano per la pubblicità e altre volte ancora, intere aziende vengono acquistate solo per la loro base di utenza. After a company acquires a user they often given them many *free services* just to keep them around long enough to monetize them through some other means.
 
 Ripple uses a minimum balance[^11] that scales with account resource use and requires that new accounts get funded with at least this minimum balance. Currently this minimum balance is about $0.15 which is greater than the $0.10 we estimated would allow someone to transact freely at least once per week.
 
