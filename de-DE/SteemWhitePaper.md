@@ -74,9 +74,9 @@ Steem ist die grundlegende Recheneinheit der Steem Blockchain. Alle anderen Toke
 
 ## Steem Power (SP)
 
-Start-Up-Unternehmen benötigen eine langfristige Kapitalbindung. Jene, die ihr Geld in ein Start-Up investieren, stellen sich darauf ein, Jahre zu warten, bevor sie ihre Anteile wieder verkaufen und ihre Gewinne realisieren können. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
+Start-Up-Unternehmen benötigen eine langfristige Kapitalbindung. Jene, die ihr Geld in ein Start-Up investieren, stellen sich darauf ein, Jahre zu warten, bevor sie ihre Anteile wieder verkaufen und ihre Gewinne realisieren können. Ohne langfristiges Engagement würde ein Start-Up, das danach strebt, zusätzliches Kapital durch den Verkauf zusätzlicher Anteile zu generieren, mit bereits vorhandenen Anteilseignern konkurrieren, die dann wiederum den Ausstieg in Erwägung ziehen. Erfahrene Investoren wollen, dass ihre Kapitalbeiträge dem Wachstum der Community dienen, aber Wachstum kann nicht erfolgen, wenn das frische Kapital ausgegeben wird an jene, die den Ausstieg planen.
 
-There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
+Mit dem langfristigen Engagement ist ein ein signifikanter Wert verbunden, da er Communities ermöglicht, langfristige Pläne zu machen. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
 
 In the cryptocurrency space, speculators jump from cryptocurrency to cryptocurrency based mostly on which one is expected to have short-term growth. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
 
