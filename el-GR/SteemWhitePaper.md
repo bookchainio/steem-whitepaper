@@ -152,9 +152,9 @@ H μεταφορά του STEEM σε SP ονομάζεται «Power Up», εν�
 
 Αν η αναλογία χρέους και ιδιοκτησίας είναι μικρή, και τα SBD έχουν ισοτιμία μικρότερη του $1.00, τότε το επιτόκιο θα πρέπει να αυξηθεί. Αυτό θα έχει ως αποτέλεσμα να ενθαρρύνει περισσότερους ανθρώπους να κρατήσουν τα SBD τους και να υποστηρίξουν/ανεβάσουν την τιμή.
 
-If SBD trades for less than $1.00 USD and the debt-to-ownership ratio is high, then the feeds should be adjusted upward give more STEEM per SBD. This will increase demand for SBD while also reducing the debt-to-ownership ratio and returning SBD to parity with USD.
+Αν η ισοτιμία των SBD είναι μικρότερη του $1.00 και η αναλογία χρέους και ιδιοκτησίας είναι μεγάλη, τότε οι ροές θα πρέπει να ρυθμιστούν με τέτοιο τρόπο ώστε να δίνουν περισσότερα STEEM ανά SBD. Αυτή η κίνηση θα αυξήσει την ζήτηση των SBD ενώ παράλληλα θα μειώσει την αναλογία χρέους και ιδιοκτησίας και θα επαναφέρει την ισοτιμία του SBD περίπου στο $1.00.
 
-Assuming the value of STEEM is growing faster than Steem is creating new SBD, the debt-to-ownership ratio should remain under the target ratio and the interest offered benefits everyone. If the value of the network is flat or falling, then any interest offered will only make the debt-to-ownership ratio worse.
+Αν υποθέσουμε ότι η αξία του STEEM αυξάνεται πιο γρήγορα απ'ότι το Steem δημιουργεί νέα SBD, η αναλογία χρέους και ιδιοκτησίας θα πρέπει να παραμείνει κάτω από τον προβλεπόμενο στόχο και το επιτόκιο που προσφέρεται ωφελεί όλους. If the value of the network is flat or falling, then any interest offered will only make the debt-to-ownership ratio worse.
 
 Σε ισχύ, οι παραγωγοί εισροής έχουν ανατεθεί με την υπευθυνότητα να θέσουν μια νομισματική πολιτική για τον σκοπό της συντήρησης ενός σταθερού συνδέσμου στο USD. Κακομεταχείριση αυτής της δύναμης θα μπορούσε να βλάψει την αξία του SΤΕΕΜ έτσι οι κάτοχοι SP θα είναι σοφοί να ψηφίσουν για μάρτυρες που μπορούν να βασιστούν για να ρυθμίσουν την εισροή τιμής και τα επιτόκια σύμφωνα με τους κανόνες που περιγράφονται παραπάνω.
 
