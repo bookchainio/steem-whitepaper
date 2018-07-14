@@ -64,17 +64,17 @@ Dieser Abschnitt umreißt die Ideen hinter Steem und seine Belohnungen für Leut
 
 ## Kapitalbeiträge
 
-Es gibt zwei Dinge, die eine Community anbieten kann, um Kapital anzuziehen: Schulden und Eigentum. Jene, die Eigentum erwerben, profitieren davon, wenn die Community wächst, aber sie machen Verlust, falls die Community schrumpft. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
+Es gibt zwei Dinge, die eine Community anbieten kann, um Kapital anzuziehen: Schulden und Eigentum. Jene, die Eigentum erwerben, profitieren davon, wenn die Community wächst, aber sie machen Verlust, falls die Community schrumpft. Jenen, die Schulden kaufen, wird ein gewisser Zinsbetrag garantiert, aber sie erhalten keinen Anteil an jeglichem Gewinn, der durch das Wachstum der Community entsteht. Beide Arten von Kapitalbeiträgen sind wertvoll für das Wachstum der Community und den Wert seiner Währung. Zusätzlich gibt es zwei Arten von Eigentum, das gehalten werden kann: liquides Kapital und Anleihekapital. Das Eigentum an Anleihen erzeugt ein langfristiges Engagement und kann nicht innerhalb eines Mindestzeitraumes verkauft werden.
 
 Das Steem-Netzwerk nennt diese verschiedenen Asset-Klassen Steem (STEEM) Steem Power (SP) und Steam Dollars (SBD).
 
 ## Steem (STEEM)
 
-Steem ist die grundlegende Recheneinheit der Steem Blockchain. Alle anderen Token beziehen ihren Wert vom Wert von STEEM. STEEM is a liquid currency, and therefore can be bought or sold on exchanges, as well as transferred to other users as a form of payment.
+Steem ist die grundlegende Recheneinheit der Steem Blockchain. Alle anderen Token beziehen ihren Wert vom Wert von STEEM. STEEM ist eine liquide Währung und kann daher an Exchange-Börsen gekauft oder verkauft werden sowie an andere Benutzer als eine Form der Bezahlung transferiert werden.
 
 ## Steem Power (SP)
 
-Start up companies require long-term capital commitment. Those who invest their money in a startup expect to wait years before they can sell their shares and realize their profits. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
+Start-Up-Unternehmen benötigen eine langfristige Kapitalbindung. Jene, die ihr Geld in ein Start-Up investieren, stellen sich darauf ein, Jahre zu warten, bevor sie ihre Anteile wieder verkaufen und ihre Gewinne realisieren können. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
 
 There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
 
