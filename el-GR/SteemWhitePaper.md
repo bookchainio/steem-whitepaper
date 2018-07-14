@@ -148,9 +148,9 @@ H μεταφορά του STEEM σε SP ονομάζεται «Power Up», εν�
 
 Αν οι παραγωγοί ροών στοχεύουν σε μια ανεξάρτητη νομισματική πολιτική που θα επιτρέπει την δημιουργία και καταστροφή των SBD, ενώ παράλληλα έχουν τον πλήρη έλεγχο του επιτοκίου, θα αντιμετωπίσουν προβλήματα. Η Αδύνατη Τριάδα ορίζει ότι τα SBD θα πρέπει είτε να περιορίζουν την κίνηση κεφαλαίου, ή να έχουν ασταθή ισοτιμία με το δολάριο, ή να υπάρχει περιορισμένος έλεγχος στο επιτόκιό τους.
 
-The primary concern of Steem feed producers is to maintain a stable one-to-one conversion between SBD and the U.S. Dollar (USD). Any time SBD is consistently trading above $1.00 USD interest payments must be stopped. Σε μια αγορά όπου 0% τόκος σε χρέος ακόμα απαιτεί ένα ασφάλιστρο, είναι ασφαλές να πούμε ότι η αγορά είναι πρόθυμη να επεκτείνει περισσότερη πίστωση από το χρέος που η κοινότητα είναι πρόθυμη να αναλάβει. If this happens a SBD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
+Πρωταρχικό μέλημα των παραγωγών ροών του Steem είναι να διατηρήσουν μια σταθερή ισοτιμία μεταξύ SBD και Αμερικάνικου Δολαρίου (USD). Οποιαδήποτε στιγμή που τα SBD ανταλλάσσονται συνεχώς σε τιμές άνω του $1.00, οι πληρωμές επιτοκίων θα πρέπει να παύσουν. Σε μια αγορά όπου 0% τόκος σε χρέος ακόμα απαιτεί ένα ασφάλιστρο, είναι ασφαλές να πούμε ότι η αγορά είναι πρόθυμη να διαθέσει κεφάλαιο πίστωσης μεγαλύτερο απ'ότι είναι το χρέος που η κοινότητα είναι πρόθυμη να αναλάβει. Αν συμβεί αυτό, τα SBD θα έχουν αξία μεγαλύτερη του $1.00 και η κοινότητα δεν θα μπορεί να κάνει πολλά χωρίς να χρεώσει αρνητικό επιτόκιο.
 
-If the debt-to-ownership ratio is low and SBD is trading for less than $1.00, then the interest rate should be increased. This will encourage more people to hold their SBD and support the price.
+Αν η αναλογία χρέους και ιδιοκτησίας είναι μικρή, και τα SBD έχουν ισοτιμία μικρότερη του $1.00, τότε το επιτόκιο θα πρέπει να αυξηθεί. Αυτό θα έχει ως αποτέλεσμα να ενθαρρύνει περισσότερους ανθρώπους να κρατήσουν τα SBD τους και να υποστηρίξουν/ανεβάσουν την τιμή.
 
 If SBD trades for less than $1.00 USD and the debt-to-ownership ratio is high, then the feeds should be adjusted upward give more STEEM per SBD. This will increase demand for SBD while also reducing the debt-to-ownership ratio and returning SBD to parity with USD.
 
