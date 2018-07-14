@@ -80,9 +80,9 @@ Mit dem langfristigen Engagement ist ein ein signifikanter Wert verbunden, da er
 
 In der Welt der Kryptowährungen springen Spekulanten von einer Kryptowährung zur anderen, basierend darauf, welche von ihnen das größte Wachstum innerhalb kurzer Zeit verspricht. Steem will eine Community aufbauen, die hauptsächlich von jenen getragen und vollständig gesteuert wird, die eine Langzeitperspektive haben.
 
-Users are able to commit their STEEM to a thirteen week vesting schedule, providing them with additional benefits within the platform. STEEM that has been committed to a thirteen week vesting schedule is called Steem Power (SP). SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
+Benutzer sind in der Lage, ihre STEEM einem 13-Wochen Ablaufplan anzuvertrauen, was ihnen gleichzeitig zusätzlich Vorteil innerhalb der Plattform bringt. STEEM, die in diesem 13-Wochen-Ablaufplan festgeschrieben wurden, werden Steem Power (SP) genannt. SP-Beträge sind nicht übertragbar und nicht teilbar mit Ausnahme über die automatisch wiederkehrenden Konvertierungs-Anfragen. Das bedeutet, dass SP nicht einfach an Kryptowährungs-Börsen gehandelt werden kann.
 
-When users vote on content, their influence over the distribution of the rewards pool is directly proportional to the amount of SP that they have. Users with more SP have more influence on the distribution of rewards. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
+Wenn Benutzer über Inhalte voten, ist ihr Einfluss auf die Verteilung der Gesamtbelohnung direkt proportional zur Höhe ihrer verfügbaren SP. Benutzer mit mehr SP haben also mehr Einfluss auf die Verteilung von Belohnungen. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
 
 SP holders are also paid interest on the balance of SP that remains vested. 15% of the yearly inflation is paid to SP holders as interest. The amount of the interest that they receive is directly proportional to the amount of SP they hold relative to the total amount of vested SP across all users.
 
