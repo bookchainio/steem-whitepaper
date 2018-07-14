@@ -82,11 +82,11 @@ In der Welt der Kryptowährungen springen Spekulanten von einer Kryptowährung z
 
 Benutzer sind in der Lage, ihre STEEM einem 13-Wochen Ablaufplan anzuvertrauen, was ihnen gleichzeitig zusätzlich Vorteil innerhalb der Plattform bringt. STEEM, die in diesem 13-Wochen-Ablaufplan festgeschrieben wurden, werden Steem Power (SP) genannt. SP-Beträge sind nicht übertragbar und nicht teilbar mit Ausnahme über die automatisch wiederkehrenden Konvertierungs-Anfragen. Das bedeutet, dass SP nicht einfach an Kryptowährungs-Börsen gehandelt werden kann.
 
-Wenn Benutzer über Inhalte voten, ist ihr Einfluss auf die Verteilung der Gesamtbelohnung direkt proportional zur Höhe ihrer verfügbaren SP. Benutzer mit mehr SP haben also mehr Einfluss auf die Verteilung von Belohnungen. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
+Wenn Benutzer über Inhalte voten, ist ihr Einfluss auf die Verteilung der Gesamtbelohnung direkt proportional zur Höhe ihrer verfügbaren SP. Benutzer mit mehr SP haben also mehr Einfluss auf die Verteilung von Belohnungen. Das bedeutet, dass SP ein "Eintritts-Token" ist, das dem Besitzer exklusive Macht innerhalb der Steem Plattform gewährt.
 
-SP holders are also paid interest on the balance of SP that remains vested. 15% of the yearly inflation is paid to SP holders as interest. The amount of the interest that they receive is directly proportional to the amount of SP they hold relative to the total amount of vested SP across all users.
+SP-Besitzern wird darüber hinaus auch ein Zins auf den Betrag ihrer SP gezahlt, die festgeschrieben bleibt. 15% der jährlichen Inflation wird den SP-Besitzern als Zins gezahlt. Die Zinshöhe, die sie erhalten ist direkt proportional zur Höhe der SP, die sie halten in Bezug auf den Gesamtbetrag an festgeschriebener SP aller Benutzer.
 
-Transferring from STEEM to SP is referred to as “powering up”, while transferring from SP to STEEM is referred to as “powering down.” SP that is powered down is returned to the user over a period of thirteen weeks, via 13 equal weekly payments, starting one week after the power down is initiated.
+Das Übertragen von STEEM zu SP wird als "Hochfahren" bezeichnet, während das Transferieren von SP zu STEEM als "Herunterfahren" genannt wird. SP, die herunter gefahren wurde, wird dem Benutzer über einen Zeitraum von 13 Wochen, das heißt in 13 gleichwertigen Zahlbeträgen, beginnend eine Woche nach dem Start des Herunterfahrens, zurückgegeben.
 
 ## Steem Dollars (SBD)
 
