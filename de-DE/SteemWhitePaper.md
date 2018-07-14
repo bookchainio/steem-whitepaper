@@ -64,7 +64,7 @@ Dieser Abschnitt umreißt die Ideen hinter Steem und seine Belohnungen für Leut
 
 ## Kapitalbeiträge
 
-There are two items a community can offer to attract capital: debt and ownership. Those who buy ownership profit when the community grows but lose if the community shrinks. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
+Es gibt zwei Dinge, die eine Community anbieten kann, um Kapital anzuziehen: Schulden und Eigentum. Jene, die Eigentum erwerben, profitieren davon, wenn die Community wächst, aber sie machen Verlust, falls die Community schrumpft. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
 
 Das Steem-Netzwerk nennt diese verschiedenen Asset-Klassen Steem (STEEM) Steem Power (SP) und Steam Dollars (SBD).
 
