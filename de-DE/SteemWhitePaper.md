@@ -76,9 +76,9 @@ Steem ist die grundlegende Recheneinheit der Steem Blockchain. Alle anderen Toke
 
 Start-Up-Unternehmen benötigen eine langfristige Kapitalbindung. Jene, die ihr Geld in ein Start-Up investieren, stellen sich darauf ein, Jahre zu warten, bevor sie ihre Anteile wieder verkaufen und ihre Gewinne realisieren können. Ohne langfristiges Engagement würde ein Start-Up, das danach strebt, zusätzliches Kapital durch den Verkauf zusätzlicher Anteile zu generieren, mit bereits vorhandenen Anteilseignern konkurrieren, die dann wiederum den Ausstieg in Erwägung ziehen. Erfahrene Investoren wollen, dass ihre Kapitalbeiträge dem Wachstum der Community dienen, aber Wachstum kann nicht erfolgen, wenn das frische Kapital ausgegeben wird an jene, die den Ausstieg planen.
 
-Mit dem langfristigen Engagement ist ein ein signifikanter Wert verbunden, da er Communities ermöglicht, langfristige Pläne zu machen. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
+Mit dem langfristigen Engagement ist ein ein signifikanter Wert verbunden, da er Communities ermöglicht, langfristige Pläne zu machen. Langfristiges Engagement von Anteilseignern führt außerdem auch dazu, dass sie sich eher für das Wachstum über einen längeren Zeitraum einsetzen als für kurzfristige schnelle Gewinne.
 
-In the cryptocurrency space, speculators jump from cryptocurrency to cryptocurrency based mostly on which one is expected to have short-term growth. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
+In der Welt der Kryptowährungen springen Spekulanten von einer Kryptowährung zur anderen, basierend darauf, welche von ihnen das größte Wachstum innerhalb kurzer Zeit verspricht. Steem will eine Community aufbauen, die hauptsächlich von jenen getragen und vollständig gesteuert wird, die eine Langzeitperspektive haben.
 
 Users are able to commit their STEEM to a thirteen week vesting schedule, providing them with additional benefits within the platform. STEEM that has been committed to a thirteen week vesting schedule is called Steem Power (SP). SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
 
