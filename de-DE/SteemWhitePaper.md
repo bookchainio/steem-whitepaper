@@ -80,13 +80,13 @@ Mit dem langfristigen Engagement ist ein signifikanter Wert verbunden, da er Com
 
 In der Welt der Kryptowährungen springen Spekulanten von einer Kryptowährung zur anderen, basierend darauf, welche von ihnen das größte Wachstum innerhalb kurzer Zeit verspricht. Steem will eine Community aufbauen, die hauptsächlich von jenen getragen und vollständig gesteuert wird, die eine Langzeitperspektive haben.
 
-Benutzer können ihr STEEM für einen dreizehnwöchigen Vesting-Plan festlegen, was ihnen gleichzeitig zusätzlich Vorteil innerhalb der Plattform bringt. STEEM, die in diesem 13-Wochen-Ablaufplan festgeschrieben wurden, werden Steem Power (SP) genannt. SP-Beträge sind nicht übertragbar und nicht teilbar mit Ausnahme über die automatisch wiederkehrenden Konvertierungs-Anfragen. Das bedeutet, dass SP nicht einfach an Kryptowährungs-Börsen gehandelt werden kann.
+Benutzer können ihr STEEM für einen dreizehnwöchigen Vesting-Plan festlegen, was ihnen gleichzeitig zusätzlich Vorteil innerhalb der Plattform bringt. STEEM, die an einen dreizehnwöchigen Vesting-Plan gebunden wurden, heißen Steem Power (SP). SP-Beträge sind nicht übertragbar und nicht teilbar mit Ausnahme über die automatisch wiederkehrenden Konvertierungs-Anfragen. Das bedeutet, dass SP nicht einfach an Kryptowährungsbörsen gehandelt werden kann.
 
-Wenn Benutzer über Inhalte voten, ist ihr Einfluss auf die Verteilung der Gesamtbelohnung direkt proportional zur Höhe ihrer verfügbaren SP. Benutzer mit mehr SP haben also mehr Einfluss auf die Verteilung von Belohnungen. Das bedeutet, dass SP ein "Eintritts-Token" ist, das dem Besitzer exklusive Macht innerhalb der Steem Plattform gewährt.
+Wenn Benutzer über Inhalte voten, ist ihr Einfluss auf die Verteilung der Gesamtbelohnung direkt proportional zur Höhe ihrer verfügbaren SP. Benutzer mit mehr SP haben also mehr Einfluss auf die Verteilung von Belohnungen. Das bedeutet, dass SP ein "Eintritts-Token" ist, das dem Besitzer exklusive Macht innerhalb der Steem-Plattform gewährt.
 
 SP-Besitzern wird darüber hinaus auch ein Zins auf den Betrag ihrer SP gezahlt, die festgeschrieben bleibt. 15% der jährlichen Inflation wird den SP-Besitzern als Zins gezahlt. Die Zinshöhe, die sie erhalten ist direkt proportional zur Höhe der SP, die sie halten in Bezug auf den Gesamtbetrag an festgeschriebener SP aller Benutzer.
 
-Das Übertragen von STEEM zu SP wird als "Hochfahren" bezeichnet, während das Transferieren von SP zu STEEM als "Herunterfahren" genannt wird. SP, die herunter gefahren wurde, wird dem Benutzer über einen Zeitraum von 13 Wochen, das heißt in 13 gleichwertigen Zahlbeträgen, beginnend eine Woche nach dem Start des Herunterfahrens, zurückgegeben.
+Das Übertragen von STEEM auf SP wird als " Power-Up " bezeichnet, während das Übertragen von SP auf STEEM als " Power-Down " bezeichnet wird. "Powered Down" SP wird dem Benutzer über einen Zeitraum von 13 Wochen, das heißt in 13 gleichwertigen Zahlbeträgen, beginnend eine Woche nach dem Start des Herunterfahrens, zurückgegeben.
 
 ## Steem Dollars (SBD)
 
