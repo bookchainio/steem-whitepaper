@@ -380,11 +380,11 @@ La rete di Steem viene costruita su Grafene, la stessa tecnologia che potenzia B
 
 ## Reddit Scale
 
-Steem è capace di amministrare una base di utenza maggiore rispetto a Reddit. Nel 2015, gli 8.7 milioni di utenti di Reddit hanno generato una media di 23 commenti al secondo [^12], con una media di 83 commenti per utente all'anno. There were 73 million top-level posts, for an average of 2 new posts per second. There were about 7 billion up votes creating an average voting rate of 220 votes per second. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
+Steem è capace di amministrare una base di utenza maggiore rispetto a Reddit. Nel 2015, gli 8.7 milioni di utenti di Reddit hanno generato una media di 23 commenti al secondo [^12], con una media di 83 commenti per utente all'anno. Ci sono stati 73 milioni di articoli di livello superiore per una media di 2 nuovi articoli al secondo. Ci sono stati circa 7 miliardi di voti che hanno creato una media nella velocità di voto pari a 220 voti al secondo. Tutto sommato, se Reddit operasse nella Blockchain, richiederebbe una media di 250 transazioni al secondo.
 
-To achieve this industry-leading performance, Steem has borrowed lessons learned from the LMAX Exchange[^13], which is able to process 6 million transactions per second. Among these lessons are the following key points:
+Per raggiungere questa prestazione da leader del settore, Steem ha preso in prestito lezioni apprese da LMAX Exchange[^13] che è in grado di elaborare 6 milioni di transazioni al secondo. Tra queste lezioni si trovano i seguenti punti chiave:
 
-1. Keep everything in memory.
+1. Mantieni tutto in memoria.
 2. Keep the core business logic in a single thread.
 3. Keep cryptographic operations (hashes and signatures) out of the core business logic.
 4. Divide validation into state-dependent and state-independent checks.
