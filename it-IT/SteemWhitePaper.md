@@ -350,9 +350,9 @@ Lo STEEM utilizzato per pre-finanziare un account viene trasferito nel nuovo acc
 
 Per confrontare l'efficacia della limitazione della velocità alle commissioni, dobbiamo considerare come i due sistemi reagiscono alla invasione intenzionale della rete da parte di un attaccante. Sotto il Bitcoin, un utente malintenzionato con $10,000 potrebbe interrompere il servizio per un intero giorno occupando ogni singolo blocco. Lo stesso utente malintenzionato sarebbe incapace di interrompere il servizio anche per un singolo blocco sotto un approccio di riserva frazionale dinamico che limita la velocità.
 
-Se passiamo ad un caso ancora più estremo e ipotizziamo che la persona malintenzionata detenga l'1% delle monete, supponiamo anche che esso avrà $60 milioni di dollari. Un attaccante del genere potrebbe negare il servizio del Bitcoin nella blockchain per 16 anni fino a che i minatori non avranno aumentato le commissioni o la capacità. Even if fees were raised to $15 per transaction, the attacker could still keep the network flooded for 16 days.
+Se passiamo ad un caso ancora più estremo e ipotizziamo che la persona malintenzionata detenga l'1% delle monete, supponiamo anche che esso avrà $60 milioni di dollari. Un attaccante del genere potrebbe negare il servizio del Bitcoin nella blockchain per 16 anni fino a che i minatori non avranno aumentato le commissioni o la capacità. Anche se le commissioni venissero aumentate a $15 per transazione, la persona malintenzionata potrebbe mantenere la rete occupata ancora per 16 giorni.
 
-Under the rate limiting approach, someone who holds 1% of all coins with an intent to flood the network would achieve their goal for less than 30 seconds.
+Sotto l'approccio della limitazione della velocità, qualcuno con l'intento di invadere la rete e che detiene l'1% di tutte le monete, raggiungerebbe il suo scopo per meno di trenta secondi.
 
 ### Renting vs. Buying vs. Time Sharing
 
