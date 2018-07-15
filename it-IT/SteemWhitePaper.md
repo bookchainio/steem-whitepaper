@@ -385,12 +385,12 @@ Steem è capace di amministrare una base di utenza maggiore rispetto a Reddit. N
 Per raggiungere questa prestazione da leader del settore, Steem ha preso in prestito lezioni apprese da LMAX Exchange[^13] che è in grado di elaborare 6 milioni di transazioni al secondo. Tra queste lezioni si trovano i seguenti punti chiave:
 
 1. Mantieni tutto in memoria.
-2. Keep the core business logic in a single thread.
-3. Keep cryptographic operations (hashes and signatures) out of the core business logic.
+2. Mantieni il filo della logica del business principale.
+3. Mantieni le operazioni crittografiche (hash e firme) fuori dalla logica del business principale.
 4. Divide validation into state-dependent and state-independent checks.
 5. Use an object oriented data model.
 
-By following these simple rules, Steem is able to process 10,000 transactions per second without any significant effort devoted to optimization.
+Seguendo queste semplici regole, Steem è capace di elaborare 10,000 al secondo senza nessuno sforzo significativo destinato all'ottimizzazione.
 
 Keeping everything in memory is increasingly viable given the recent introduction of Optane™ technology from Intel[^14]. It should be possible for commodity hardware to handle all of the business logic associated with Steem in a single thread with all posts kept in memory for rapid indexing. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optane™ technology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
 
