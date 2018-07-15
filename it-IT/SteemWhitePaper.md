@@ -346,7 +346,7 @@ Fortunatamente, il saldo minimo richiede di essere basso tanto quanto un dollaro
 
 Lo STEEM utilizzato per pre-finanziare un account viene trasferito nel nuovo account tramite il processo di Power Up (cioè, convertito in Steem Power). Una parte dello SP utilizzato per finanziare un nuovo account può essere delegato dal creatore dell'account stesso. Quando ad un utente viene delegato lo SP, lo può utilizzare per scopi legati al voto e alla larghezza di banda come se fosse suo, ma la proprietà dello SP rimane all'utente che lo ha delegato. Un utente può rimuovere la delega in qualsiasi momento. Dopo un periodo di fermo, lo SP viene restituito al rispettivo account.
 
-### Effectiveness Relative to Fees
+### L'efficacia relativa alle commissioni
 
 To compare the effectiveness of rate limiting to fees we must consider how the two systems react to intentional network flooding by an attacker. Under Bitcoin an attacker with $10,000 dollars could disrupt service for an entire day by filling every single block. The same attacker would be unable to disrupt service for even a single block under the dynamic fractional reserve rate limiting approach.
 
