@@ -378,7 +378,7 @@ La limitazione decentralizzata della velocità delle transazioni può abilitare 
 
 La rete di Steem viene costruita su Grafene, la stessa tecnologia che potenzia BitShares. È stato dimostrato pubblicamente che il Grafene supporta oltre 1000 transazioni al secondo in un una rete distribuita e testata. Il grafene può facilmente arrivare a 10,000 transazioni al secondo con miglioramenti relativamente semplici utili alla capacità del server e ai protocolli di comunicazione.
 
-## Reddit Scale
+## L'entità di Reddit
 
 Steem è capace di amministrare una base di utenza maggiore rispetto a Reddit. Nel 2015, gli 8.7 milioni di utenti di Reddit hanno generato una media di 23 commenti al secondo [^12], con una media di 83 commenti per utente all'anno. Ci sono stati 73 milioni di articoli di livello superiore per una media di 2 nuovi articoli al secondo. Ci sono stati circa 7 miliardi di voti che hanno creato una media nella velocità di voto pari a 220 voti al secondo. Tutto sommato, se Reddit operasse nella Blockchain, richiederebbe una media di 250 transazioni al secondo.
 
