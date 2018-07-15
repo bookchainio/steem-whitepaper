@@ -376,7 +376,7 @@ La limitazione decentralizzata della velocità delle transazioni può abilitare 
 
 # Prestazioni e scalabilità
 
-La rete di Steem viene costruita su Grafene, la stessa tecnologia che potenzia BitShares. È stato dimostrato pubblicamente che il Grafene supporta oltre 1000 transazioni al secondo in un una rete distribuita e testata. Il grafene può facilmente arrivare a 10,000 transazioni al secondo con miglioramenti relativamente semplici utili alla capacità del server e ai protocolli di comunicazione.
+La rete di Steem viene costruita su Grafene, la stessa tecnologia che potenzia BitShares. È stato dimostrato pubblicamente che il Grafene supporta oltre 1000 transazioni al secondo in un una rete distribuita e testata. Il grafene può facilmente arrivare a 10,000 transazioni al secondo con miglioramenti relativamente semplici, utili alla capacità del server e ai protocolli di comunicazione.
 
 ## L'entità di Reddit
 
