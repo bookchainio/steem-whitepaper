@@ -370,17 +370,17 @@ Da questo possiamo concludere che la blockchain è meglio servita non utilizzand
 
 Detto in altre parole, una commissione di transazione dovrebbe essere uguale al minimo del saldo dell'account necessario ad effettuare transazioni una volta a settimana e dovrebbe essere rimborsato alla fine della settimana. Supponendo che il saldo minimo dell'account sia di $1 e permetta a qualcuno di effettuare transazioni una volta a settimana. Se qualcuno con un saldo di $1 che desidera effettuare 5 transazioni contemporaneamente, dovrà aumentare il suo saldo a $5 per una settimana o prima o dopo le sue transazioni.
 
-In theory a market could form where users can borrow the stake required. In practice it is more efficient for users to simply buy and sell the timeshares necessary to meet their desired usage rate. In other words, the cost of negotiating micro-loans is greater than the cost of maintaining a balance suitable for your maximum weekly usage.
+In teoria, un mercato potrebbe formarsi laddove gli utenti possono prendere in prestito la quota richiesta. In pratica è più efficiente per gli utenti semplicemente acquistare e vendere le loro multiproprietà per soddisfare la loro quota di utilizzo desiderata. In altre parole, il costo di negoziazione dei micro prestiti è maggiore rispetto al costo di mantenimento di un saldo adatto al proprio utilizzo massimo settimanale.
 
-Decentralized rate limiting of transactions can enable new types of decentralized applications that were not viable when every use of the application required a micropayment. This new model gives application developers the ability to decide if and when to charge their users for transactions.
+La limitazione decentralizzata della velocità delle transazioni può abilitare nuovi tipi di programmi decentralizzati che non erano praticabili quando ogni utente dell'applicazione stessa richiedeva un micro pagamento. Questo nuovo modello concede agli sviluppatori dei programmi l'abilità di decidere se e quando addebitare i suoi utenti per le loro transazioni.
 
-# Performance and Scalability
+# Prestazioni e scalabilità
 
-The Steem network is built upon Graphene, the same technology that powers BitShares. Graphene has been publicly demonstrated sustaining over 1000 transactions per second on a distributed test network. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
+La rete di Steem viene costruita su Grafene, la stessa tecnologia che potenzia BitShares. È stato dimostrato pubblicamente che il Grafene supporta oltre 1000 transazioni al secondo in un una rete distribuita e testata. Il grafene può facilmente arrivare a 10,000 transazioni al secondo con miglioramenti relativamente semplici utili alla capacità del server e ai protocolli di comunicazione.
 
 ## Reddit Scale
 
-Steem is capable of handling a larger userbase than Reddit. In 2015 Reddit’s 8.7 million users generated an average of 23 comments per second[^12], with an average of 83 comments per year per user. There were 73 million top-level posts, for an average of 2 new posts per second. There were about 7 billion up votes creating an average voting rate of 220 votes per second. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
+Steem è capace di amministrare una base di utenza maggiore rispetto a Reddit. Nel 2015, gli 8.7 milioni di utenti di Reddit hanno generato una media di 23 commenti al secondo [^12], con una media di 83 commenti per utente all'anno. There were 73 million top-level posts, for an average of 2 new posts per second. There were about 7 billion up votes creating an average voting rate of 220 votes per second. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
 
 To achieve this industry-leading performance, Steem has borrowed lessons learned from the LMAX Exchange[^13], which is able to process 6 million transactions per second. Among these lessons are the following key points:
 
