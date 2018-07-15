@@ -354,9 +354,9 @@ Se passiamo ad un caso ancora più estremo e ipotizziamo che la persona malinten
 
 Sotto l'approccio della limitazione della velocità, qualcuno con l'intento di invadere la rete e che detiene l'1% di tutte le monete, raggiungerebbe il suo scopo per meno di trenta secondi.
 
-### Renting vs. Buying vs. Time Sharing
+### Affitto vs. acquisto vs. ripartizione del tempo
 
-When someone owns a house they expect the right to use the house for free. If a group of people buy a house together then each can expect the right to use the house proportional to their percentage ownership in the house. A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
+Quando qualcuno possiede una casa, si aspetta di avere il diritto di utilizzarla gratuitamente. Se un gruppo di persone comprano una casa tutti insieme, allora ognuno si aspetterà di avere il diritto di usare la casa proporzionalmente alla loro percentuale di proprietà della stessa. Una blockchain basata sulla commissione è come affittare una casa dai rispettivi proprietari, considerando che la percentuale limitativa è come la ripartizione del tempo tra i proprietari.
 
 If a house is owned by multiple people then those individuals must decide how they wish to timeshare the house. Someone who owns 50% of the house but only uses it one weekend per year might expect to be paid by the individuals who take their unused time. This is the mindset of a fee based system.
 
