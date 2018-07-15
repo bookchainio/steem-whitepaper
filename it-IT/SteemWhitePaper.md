@@ -392,7 +392,7 @@ Per raggiungere questa prestazione da leader del settore, Steem ha preso in pres
 
 Seguendo queste semplici regole, Steem è capace di elaborare 10,000 al secondo senza nessuno sforzo significativo destinato all'ottimizzazione.
 
-Keeping everything in memory is increasingly viable given the recent introduction of Optane™ technology from Intel[^14]. It should be possible for commodity hardware to handle all of the business logic associated with Steem in a single thread with all posts kept in memory for rapid indexing. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optane™ technology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
+Mantenere tutto in memoria è sempre più attuabile introducendo da Intel[^14] la tecnologia di Optane™. Dovrebbe essere possibile per l'hardware delle merci, gestire in un unico filo tutti i business associati logicamente con Steem con tutti gli articoli mantenuti in memoria per una rapida indicizzazione. Addirittura Google mantiene i suoi indici dell'intero Internet nella RAM. L'utilizzo della tecnologia della blockchain rende banale il replicare la banca dati a molte macchine per prevenire la perdita di dati. Con l'arrivo della tecnologia di Optane™, la RAM diventerà anche più veloce guadagnando persistenza. In altre parole, Steem è creato per le architetture del futuro ed è progettato per crescere.
 
 # Allocation & Supply
 
