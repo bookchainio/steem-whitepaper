@@ -387,12 +387,12 @@ Per raggiungere questa prestazione da leader del settore, Steem ha preso in pres
 1. Mantieni tutto in memoria.
 2. Mantieni il filo della logica del business principale.
 3. Mantieni le operazioni crittografiche (hash e firme) fuori dalla logica del business principale.
-4. Divide validation into state-dependent and state-independent checks.
-5. Use an object oriented data model.
+4. Dividi la convalida in controlli dipendenti dallo stato e indipendenti dallo stato.
+5. Utilizza un modello di dati orientato agli oggetti.
 
-Seguendo queste semplici regole, Steem è capace di elaborare 10,000 al secondo senza nessuno sforzo significativo destinato all'ottimizzazione.
+Seguendo queste semplici regole, Steem è capace di elaborare 10,000 transazioni al secondo senza nessuno sforzo significativo destinato all'ottimizzazione.
 
-Mantenere tutto in memoria è sempre più attuabile introducendo da Intel[^14] la tecnologia di Optane™. Dovrebbe essere possibile per l'hardware delle merci, gestire in un unico filo tutti i business associati logicamente con Steem con tutti gli articoli mantenuti in memoria per una rapida indicizzazione. Addirittura Google mantiene i suoi indici dell'intero Internet nella RAM. L'utilizzo della tecnologia della blockchain rende banale il replicare la banca dati a molte macchine per prevenire la perdita di dati. Con l'arrivo della tecnologia di Optane™, la RAM diventerà anche più veloce guadagnando persistenza. In altre parole, Steem è creato per le architetture del futuro ed è progettato per crescere.
+Mantenere tutto in memoria è sempre più attuabile introducendo da Intel[^14] la tecnologia di Optane™. Dovrebbe essere possibile per l'hardware relativo alla merce, gestire in un unico filo tutti i business associati logicamente con Steem, insieme a tutti gli articoli mantenuti in memoria per una rapida indicizzazione. Addirittura Google mantiene i suoi indici dell'intere rete di Internet nella RAM. L'utilizzo della tecnologia della blockchain rende banale il replicare la banca dati su molte macchine per prevenire la perdita di dati. Con l'arrivo della tecnologia Optane™, la RAM diventerà anche più veloce guadagnando persistenza. In altre parole, Steem è creato per le architetture del futuro ed è progettato per crescere.
 
 # Allocation & Supply
 
