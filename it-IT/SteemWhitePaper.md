@@ -348,9 +348,9 @@ Lo STEEM utilizzato per pre-finanziare un account viene trasferito nel nuovo acc
 
 ### L'efficacia relativa alle commissioni
 
-Per confrontare l'efficacia della limitazione della velocità rispetto alle commissioni, dobbiamo considerare come i due sistemi reagiscono alla invasione intenzionale della rete da parte di un attaccante. Sotto il Bitcoin, un utente malintenzionato con $10,000 potrebbe interrompere il servizio per un intero giorno occupando ogni singolo blocco. Lo stesso utente malintenzionato sarebbe incapace di interrompere il servizio anche per un singolo blocco sotto un approccio di riserva frazionale dinamico che limita la velocità.
+Per confrontare l'efficacia della limitazione della velocità rispetto alle commissioni, dobbiamo considerare come i due sistemi reagiscono alla invasione intenzionale della rete da parte di un aggressore. Sotto il Bitcoin, un aggressore con $10,000 dollari potrebbe interrompere il servizio per un intero giorno occupando ogni singolo blocco. Lo stesso aggressore della rete sarebbe incapace di interrompere il servizio anche per un singolo blocco sotto un approccio di riserva frazionale dinamico che limita la velocità.
 
-Se passiamo ad un caso ancora più estremo e ipotizziamo che la persona malintenzionata detenga l'1% delle monete, supponiamo anche che esso avrà $60 milioni di dollari. Un attaccante del genere potrebbe negare il servizio del Bitcoin nella blockchain per 16 anni fino a che i minatori non avranno aumentato le commissioni o la capacità. Anche se le commissioni venissero aumentate a $15 per transazione, la persona malintenzionata potrebbe mantenere la rete occupata ancora per 16 giorni.
+Se passiamo ad un caso ancora più estremo e ipotizziamo che l'aggressore della rete detenga l'1% delle monete, supponiamo anche che esso avrà $60 milioni di dollari. Un aggressore del genere potrebbe negare il servizio del Bitcoin nella blockchain per 16 anni fino a che i minatori non avranno aumentato le commissioni o la capacità. Anche se le commissioni venissero aumentate a $15 per transazione, l'aggressore della rete potrebbe mantenere la rete occupata ancora per 16 giorni.
 
 Sotto l'approccio della limitazione della velocità, qualcuno con l'intento di invadere la rete e che detiene l'1% di tutte le monete, raggiungerebbe il suo scopo per meno di trenta secondi.
 
