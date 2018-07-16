@@ -394,9 +394,9 @@ Seguendo queste semplici regole, Steem è capace di elaborare 10,000 transazioni
 
 Mantenere tutto in memoria è sempre più attuabile introducendo da Intel[^14] la tecnologia di Optane™. Dovrebbe essere possibile per l'hardware relativo alla merce, gestire in un unico filo tutti i business associati logicamente con Steem, insieme a tutti gli articoli mantenuti in memoria per una rapida indicizzazione. Addirittura Google mantiene i suoi indici dell'intere rete di Internet nella RAM. L'utilizzo della tecnologia della blockchain rende banale il replicare la banca dati su molte macchine per prevenire la perdita di dati. Con l'arrivo della tecnologia Optane™, la RAM diventerà anche più veloce guadagnando persistenza. In altre parole, Steem è creato per le architetture del futuro ed è progettato per crescere.
 
-# Allocation & Supply
+# Assegnazione & offerta
 
-## Initial Allocation & Supply
+## Assegnazione iniziale & offerta
 
 The Steem network started with a currency supply of 0 and allocated STEEM via proof of work at a rate of approximately 40 STEEM per minute to miners, with an additional 40 STEEM per minute being created to seed the content and curation reward pools (for a total of 80 STEEM per minute). Then the network started rewarding users who converted to SP. At this point, STEEM grew at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
 
