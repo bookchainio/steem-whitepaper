@@ -417,7 +417,7 @@ Premi di contribuzione:
 
 - L'SBD premia: una percentuale del valore di SBD viene creata ad un tasso percentuale annuo stabilito dai testimoni e pagato ai detentori di SBD sotto forma di SBD
 
-L'immagine dell'offerta complessiva viene complicata dagli effetti delle operazioni dell'SBD, che possono risultare, in larga scala, in una creazione o in una distruzione di STEEM mediante il risultato del feed del prezzo e le ricompense di SBD, come discusso nella sezione SBD. Altri effetti di complicazione su piccola scala, sussistono ancora, compresi gli incentivi non reclamati (ad esempio il blocco delle ricompense per i blocchi mancati) e gli account abbandonati.
+L'immagine dell'offerta complessiva viene complicata dagli effetti delle operazioni dell'SBD, che possono risultare, in larga scala, in una creazione o in una distruzione successiva di STEEM mediante il feed del prezzo e le ricompense di SBD, come discusso nella sezione SBD. Altri effetti di complicazione su piccola scala, sussistono ancora, compresi gli incentivi non reclamati (ad esempio il blocco delle ricompense per i blocchi mancati) e gli account abbandonati.
 
 ## Assegnazione attuale & offerta
 
@@ -431,7 +431,7 @@ Viene spesso detto che una moneta con un modello inflazionistico non è sostenib
 
 A partire dall'agosto del 2008 fino al gennaio del 2009, l'offerta di denaro statunitense[^15] è cresciuita da $871 miliardi a $1,737 miliardi, con un tasso annuo di oltre il 100% e ha continuato a crescere di circa il 10% all'anno per i successivi 6 anni. Tutto sommato, l'offerta di denaro negli Stati Uniti è cresciuta di 4,59 volte, in meno di 7 anni. Durante lo stesso periodo di tempo, il valore del dollaro relativo ai beni e ai servizi è sceso meno del 10% in base all'indice di prezzo del governo[^16]. Questo esempio reale dimostra che l'offerta è solo una componente del prezzo.
 
-Per i primi due anni di vita di Bitcoin, la rete ha sostenuto un tasso di inflazione annuo[^17] di oltre il 100%. Per i primi 5 anni è stata di oltre il 30% e, per i primi 8 anni è stata di oltre il 10%. Tutto sommato, il totale del "consumo" di Steem viene impiegato per finanziare contenuti, cura e per la produzione di blocco, quantità che sono inferiori al 10% rispetto al tasso percentuale annuo.
+Per i primi due anni di vita del Bitcoin, la rete ha sostenuto un tasso di inflazione annuo[^17] di oltre il 100%. Per i primi 5 anni è stata di oltre il 30% e, per i primi 8 anni è stata di oltre il 10%. Tutto sommato, il totale del "consumo" di Steem viene impiegato per finanziare contenuti, cura e per la produzione di blocco, quantità che sono inferiori al 10% rispetto al tasso percentuale annuo.
 
 Il prezzo del bene digitale, come STEEM, viene guidato sia dall'offerta che dalla domanda. Quando un detentore a lungo termine decide di uscire, l'offerta di STEEM sul mercato aumenterà e spingerà il prezzo in basso. Questa spinta verso il basso viene contrastata quando un nuovo detentore a lungo termine decide di comprare lo STEEM e di convertirlo nuovamente in SP. Offerta e domanda aggiuntive, possono essere aggiunte a causa di speculatori di mercato che comprano e vendono STEEM liquidi basati sulle loro predizioni del futuro prezzo di mercato.
 
