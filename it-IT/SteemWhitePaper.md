@@ -421,15 +421,15 @@ L'immagine dell'offerta complessiva viene complicato dagli effetti delle operazi
 
 ## Assegnazione corrente & offerta
 
-Iniziando con la sedicesima hard fork della rete nel dicembre del 2016, Steem ha cominciato creando nuovi token ad un tasso di inflazione annuale del 9,5%. Il tasso di inflazione diminuisce ad un ritmo dello 0,01% ogni 250.000 blocchi, o di circa lo 0,5% all'anno. L'inflazione continuerà a diminuire con questo ritmo fino a che il tasso di inflazione complessivo raggiungerà lo 0,95%. This will take about 20.5 years from the time hard fork 16 went into effect.
+Iniziando con la sedicesima hard fork della rete nel dicembre del 2016, Steem ha cominciato creando nuovi token ad un tasso di inflazione annuale del 9,5%. Il tasso di inflazione diminuisce ad un ritmo dello 0,01% ogni 250.000 blocchi, o di circa lo 0,5% all'anno. L'inflazione continuerà a diminuire con questo ritmo fino a che il tasso di inflazione complessivo raggiungerà lo 0,95%. Questo richiederà circa 20,5 anni dal momento in cui l'hard fork 16 entrò in vigore.
 
-75% of the new tokens that are generated go to fund the reward pool, which is split between authors and curators. 15% of the new tokens are awarded to holders of SP. The remaining 10% pays for the witnesses to power the blockchain.
+Il 75% dei nuovi token che vengono creati, vanno a finanziare la pool delle ricompense, che è divisa tra gli autori e i curatori. Il 15% dei nuovi token vengono assegnati ai detentori di SP. Il rimanente 10% va a pagare i testimoni per dare potenza alla blockchain.
 
-### Impact of Token Creation Rate
+### L'impatto del prezzo di creazione dei token
 
-It is often said that a coin with an inflationary model is not sustainable, but we know from countless real-world examples that the quantity of money does not have a direct and immediate impact on its value, though it certainly plays a role.
+Viene spesso detto che una moneta con un modello inflazionistico non è sostenibile, ma noi sappiamo da innumerevoli esempi reali che la quantità di denaro non ha un impatto immediato e diretto nel suo valore, anche se, certamente, un ruolo lo svolge.
 
-From August 2008 through January 2009 the U.S. money supply[^15] grew from $871B to $1,737B, a rate of over 100% per year and then continued to grow at about 20% per year for the next 6 years. All told the money supply in the U.S. has grown by 4.59x over less than 7 years. During that same time, the value of the dollar relative to goods and services has fallen less than 10% according to the government's price index[^16]. This real-world example demonstrates that supply is only one component of price.
+A partire dall'agosto del 2008 fino a gennaio del 2009, l'offerta di denaro statunitense[^15] è cresciuita da $871 miliardi a $1,737 miliardi, con un tasso annuo di oltre il 100% e ha continuato a crescere di circa il 10% all'anno per i successivi 6 anni. Tutto sommato, l'offerta di denaro negli Stati Uniti è cresciuta di 4,59 volte, in meno di 7 anni. During that same time, the value of the dollar relative to goods and services has fallen less than 10% according to the government's price index[^16]. This real-world example demonstrates that supply is only one component of price.
 
 For the first 2 years of Bitcoin’s life the network sustained an annual inflation rate[^17] of over 100%. For the first 5 years it was over 30%, and for the first 8 years it was over 10%. All told the total “spending” Steem does to fund content, curation, and block production amounts to less than 10% APR.
 
