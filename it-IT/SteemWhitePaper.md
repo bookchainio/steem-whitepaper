@@ -411,11 +411,11 @@ Premi di contribuzione:
 
 ### Il potere delle ricompense:
 
-- Le ricompense dello Steem Power: per ogni STEEM creato dalla ricompensa di cui sopra, 9 STEEM sono divisi tra tutti i detentori di Steem Power.
+- Lo Steem Power premia: per ogni STEEM creato dalla ricompensa di cui sopra, 9 STEEM sono divisi tra tutti i detentori di Steem Power.
 
-### Operazioni degli SBD:
+### Funzioni dell'SBD:
 
-- Le ricompense degli SBD: una percentuale del valore di SBD viene creata ad un tasso percentuale annuo fissato dai testimone e pagato ai detentori di SBD sotto forma di SBD
+- L'SBD premia: una percentuale del valore di SBD viene creata ad un tasso percentuale annuo stabilito dai testimoni e pagato ai detentori di SBD sotto forma di SBD
 
 L'immagine dell'offerta complessiva viene complicato dagli effetti delle operazioni degli SBD, che possono risultare in una creazione il larga scala o in una distruzione di STEEM attraverso il feed del prezzo successivo e le ricompense in SBD, come discusso nella sezione SBD. Diversamente, effetti di complicazione su piccola scala, sussistono ancora, compresi gli incentivi non reclamati (ad esempio il blocco ricompense per i blocchi mancati) e gli account abbandonati.
 
