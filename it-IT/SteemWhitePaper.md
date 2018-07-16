@@ -421,7 +421,7 @@ L'immagine dell'offerta complessiva viene complicata dagli effetti delle operazi
 
 ## Assegnazione attuale & offerta
 
-Iniziando con la sedicesima hard fork della rete nel dicembre del 2016, Steem ha cominciato creando nuovi token ad un tasso di inflazione annuale del 9,5%. Il tasso di inflazione diminuisce ad un ritmo dello 0,01% ogni 250.000 blocchi, o di circa lo 0,5% all'anno. L'inflazione continuerà a diminuire con questo ritmo fino a che il tasso di inflazione complessivo raggiungerà lo 0,95%. Questo richiederà circa 20,5 anni dal momento in cui l'hard fork 16 entrò in vigore.
+Iniziando con la sedicesima hard fork della rete nel dicembre del 2016, Steem ha cominciato creando nuovi token ad un tasso di inflazione annuale del 9,5%. Il tasso di inflazione diminuisce ad un ritmo dello 0,01% ogni 250.000 blocchi, o di circa lo 0,5% all'anno. L'inflazione continuerà a diminuire con questo ritmo fino a che il tasso di inflazione complessivo raggiungerà lo 0,95%. Questo richiederà circa 20,5 anni dal momento di entrata in vigore dell'hard fork 16.
 
 Il 75% dei nuovi token che vengono creati, vanno a finanziare la pool delle ricompense, che è divisa tra gli autori e i curatori. Il 15% dei nuovi token vengono assegnati ai detentori di SP. Il rimanente 10% va a pagare i testimoni per dare potenza alla blockchain.
 
@@ -429,7 +429,7 @@ Il 75% dei nuovi token che vengono creati, vanno a finanziare la pool delle rico
 
 Viene spesso detto che una moneta con un modello inflazionistico non è sostenibile, ma noi sappiamo da innumerevoli esempi reali che la quantità di denaro non ha un impatto immediato e diretto nel suo valore, anche se, certamente, un ruolo lo svolge.
 
-A partire dall'agosto del 2008 fino a gennaio del 2009, l'offerta di denaro statunitense[^15] è cresciuita da $871 miliardi a $1,737 miliardi, con un tasso annuo di oltre il 100% e ha continuato a crescere di circa il 10% all'anno per i successivi 6 anni. Tutto sommato, l'offerta di denaro negli Stati Uniti è cresciuta di 4,59 volte, in meno di 7 anni. Durante lo stesso periodo di tempo, il valore del dollaro relativo ai beni e ai servizi è sceso meno del 10% secondo l'indice di prezzo del governo[^16]. Questo esempio reale dimostra che l'offerta è solo una componente del prezzo.
+A partire dall'agosto del 2008 fino al gennaio del 2009, l'offerta di denaro statunitense[^15] è cresciuita da $871 miliardi a $1,737 miliardi, con un tasso annuo di oltre il 100% e ha continuato a crescere di circa il 10% all'anno per i successivi 6 anni. Tutto sommato, l'offerta di denaro negli Stati Uniti è cresciuta di 4,59 volte, in meno di 7 anni. Durante lo stesso periodo di tempo, il valore del dollaro relativo ai beni e ai servizi è sceso meno del 10% in base all'indice di prezzo del governo[^16]. Questo esempio reale dimostra che l'offerta è solo una componente del prezzo.
 
 Per i primi due anni di vita di Bitcoin, la rete ha sostenuto un tasso di inflazione annuo[^17] di oltre il 100%. Per i primi 5 anni è stata di oltre il 30% e, per i primi 8 anni è stata di oltre il 10%. Tutto sommato, il totale del "consumo" di Steem viene impiegato per finanziare contenuti, cura e per la produzione di blocco, quantità che sono inferiori al 10% rispetto al tasso percentuale annuo.
 
