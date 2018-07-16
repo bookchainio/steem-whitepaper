@@ -406,7 +406,7 @@ Premi di contribuzione:
 - Premi di contribuzione per contenuto: 1 STEEM per blocco o 3.875% all'anno, qualsiasi sia maggiore
 - Premi per la produzione di blocchi: 1 STEEM per blocco o 0.750% all'anno, qualsiasi sia maggiore
 - Premi per l'inserimento della POW prima del blocco 864,000: 1 STEEM per blocco (premiato con 21 STEEM per ogni turno)
-- Premi per l'inserimento della POW dopo il blocco 864,000: 0.0476 STEEM per blocco (premiato con 1 STEEM per ogni turno) o 0.750% all'anno, quasiasi sia maggiore.
+- Premi per l'inserimento della POW dopo il blocco 864,000: 0.0476 STEEM per blocco (premiato con 1 STEEM per ogni turno) o 0.750% all'anno, qualsiasi sia maggiore.
 - Premi di liquidità: 1 STEEM per blocco (premiato con 1200 STEEM all'ora) o 0.750% all'anno, qualsiasi sia maggiore
 
 ### Il potere delle ricompense:
