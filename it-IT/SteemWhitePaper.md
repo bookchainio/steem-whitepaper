@@ -398,7 +398,7 @@ Mantenere tutto in memoria è sempre più attuabile introducendo da Intel[^14] l
 
 ## Assegnazione iniziale & offerta
 
-La rete di Steem ha iniziato con una offerta di valuta di 0 e STEEM assegnati ai minatori tramite la proof of work ad una velocità approssimativa di 40 STEEM al minuto, con ulteriori 40 STEEM al minuto creati per classificare il contenuto e la cura della pool delle ricompense (per un totale di 80 STEEM al minuto). Quindi, la rete ha iniziato ricompensando gli utenti che convertivano in SP. Arrivati a quel punto, STEEM è cresciuto con una velocità approssimativa di 800 STEEM al minuto grazie agli effetti combinati dei vari premi di contribuzione riassunti qui di seguito:
+La rete di Steem ha iniziato con una offerta di valuta pari a 0 e con STEEM assegnati ai minatori tramite la proof of work ad una velocità approssimativa di 40 STEEM al minuto, con ulteriori 40 STEEM al minuto creati per promuovere il contenuto e la cura delle pool delle ricompense (per un totale di 80 STEEM al minuto). Quindi, la rete ha iniziato ricompensando gli utenti che convertivano in SP. Arrivati a quel punto, STEEM è cresciuto con una velocità approssimativa di 800 STEEM al minuto grazie agli effetti combinati dei vari premi di contribuzione riassunti qui di seguito:
 
 Premi di contribuzione:
 
