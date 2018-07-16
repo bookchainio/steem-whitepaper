@@ -421,7 +421,7 @@ L'immagine dell'offerta complessiva viene complicato dagli effetti delle operazi
 
 ## Assegnazione corrente & offerta
 
-Iniziando con la sedicesima hard fork della rete nel dicembre del 2016, Steem ha cominciato creando nuovi token ad un tasso di inflazione annuale del 9.5%. The inflation rate decreases at a rate of 0.01% every 250,000 blocks, or about 0.5% per year. The inflation will continue decreasing at this pace until the overall inflation rate reaches 0.95%. This will take about 20.5 years from the time hard fork 16 went into effect.
+Iniziando con la sedicesima hard fork della rete nel dicembre del 2016, Steem ha cominciato creando nuovi token ad un tasso di inflazione annuale del 9,5%. Il tasso di inflazione diminuisce ad un ritmo dello 0,01% ogni 250.000 blocchi, o di circa lo 0,5% all'anno. L'inflazione continuerà a diminuire con questo ritmo fino a che il tasso di inflazione complessivo raggiungerà lo 0,95%. This will take about 20.5 years from the time hard fork 16 went into effect.
 
 75% of the new tokens that are generated go to fund the reward pool, which is split between authors and curators. 15% of the new tokens are awarded to holders of SP. The remaining 10% pays for the witnesses to power the blockchain.
 
