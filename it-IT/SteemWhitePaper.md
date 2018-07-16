@@ -398,9 +398,9 @@ Mantenere tutto in memoria è sempre più attuabile introducendo da Intel[^14] l
 
 ## Assegnazione iniziale & offerta
 
-The Steem network started with a currency supply of 0 and allocated STEEM via proof of work at a rate of approximately 40 STEEM per minute to miners, with an additional 40 STEEM per minute being created to seed the content and curation reward pools (for a total of 80 STEEM per minute). Then the network started rewarding users who converted to SP. At this point, STEEM grew at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
+La rete di Steem ha iniziato con una offerta di valuta di 0 e STEEM assegnati ai minatori tramite la proof of work ad una velocità approssimativa di 40 STEEM al minuto, con ulteriori 40 STEEM al minuto creati per classificare il contenuto e la cura della pool delle ricompense (per un totale di 80 STEEM al minuto). Quindi, la rete ha iniziato ricompensando gli utenti che convertivano in SP. Arrivati a quel punto, STEEM è cresciuto con una velocità approssimativa di 800 STEEM al minuto grazie agli effetti combinati dei vari premi di contribuzione riassunti qui di seguito:
 
-Contribution Rewards:
+Premi di contribuzione:
 
 - Curation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
 - Content Creation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
