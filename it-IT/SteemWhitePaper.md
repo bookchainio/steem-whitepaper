@@ -411,11 +411,11 @@ Premi di contribuzione:
 
 ### Il potere delle ricompense:
 
-- Lo Steem Power ricompensa: per ogni STEEM creato dalla ricompensa di cui sopra, 9 STEEM sono divisi tra tutti i detentori di Steem Power.
+- Le ricompense dello Steem Power: per ogni STEEM creato dalla ricompensa di cui sopra, 9 STEEM sono divisi tra tutti i detentori di Steem Power.
 
-### SBD operations:
+### Operazioni degli SBD:
 
-- SBD rewards: A percentage of SBD value is created at an APR set by the witnesses and paid to SBD holders as SBD
+- Le ricompense degli SBD: una percentuale del valore di SBD viene creata ad un tasso percentuale annuo fissato dai testimone e pagato ai detentori di SBD sotto forma di SBD
 
 The overall supply picture is complicated by the effect of SBD operations, which may result in large-scale creation or destruction of STEEM through feed rate following and SBD rewards, as discussed in the SBD section. Other, smaller-scale complicating effects also exist, including unclaimed incentives (e.g. block rewards for missed blocks), and abandoned accounts.
 
