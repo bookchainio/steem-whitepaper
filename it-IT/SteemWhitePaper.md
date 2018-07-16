@@ -417,9 +417,9 @@ Premi di contribuzione:
 
 - L'SBD premia: una percentuale del valore di SBD viene creata ad un tasso percentuale annuo stabilito dai testimoni e pagato ai detentori di SBD sotto forma di SBD
 
-L'immagine dell'offerta complessiva viene complicato dagli effetti delle operazioni degli SBD, che possono risultare in una creazione il larga scala o in una distruzione di STEEM attraverso il feed del prezzo successivo e le ricompense in SBD, come discusso nella sezione SBD. Diversamente, effetti di complicazione su piccola scala, sussistono ancora, compresi gli incentivi non reclamati (ad esempio il blocco ricompense per i blocchi mancati) e gli account abbandonati.
+L'immagine dell'offerta complessiva viene complicata dagli effetti delle operazioni dell'SBD, che possono risultare, in larga scala, in una creazione o in una distruzione di STEEM mediante il risultato del feed del prezzo e le ricompense di SBD, come discusso nella sezione SBD. Altri effetti di complicazione su piccola scala, sussistono ancora, compresi gli incentivi non reclamati (ad esempio il blocco delle ricompense per i blocchi mancati) e gli account abbandonati.
 
-## Assegnazione corrente & offerta
+## Assegnazione attuale & offerta
 
 Iniziando con la sedicesima hard fork della rete nel dicembre del 2016, Steem ha cominciato creando nuovi token ad un tasso di inflazione annuale del 9,5%. Il tasso di inflazione diminuisce ad un ritmo dello 0,01% ogni 250.000 blocchi, o di circa lo 0,5% all'anno. L'inflazione continuerà a diminuire con questo ritmo fino a che il tasso di inflazione complessivo raggiungerà lo 0,95%. Questo richiederà circa 20,5 anni dal momento in cui l'hard fork 16 entrò in vigore.
 
