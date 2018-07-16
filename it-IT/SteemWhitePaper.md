@@ -402,16 +402,16 @@ La rete di Steem ha iniziato con una offerta di valuta di 0 e STEEM assegnati ai
 
 Premi di contribuzione:
 
-- Curation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
-- Content Creation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
-- Block production rewards: 1 STEEM per block or 0.750% per year, whichever is greater
-- POW inclusion rewards before block 864,000: 1 STEEM per block (awarded as 21 STEEM per round)
-- POW inclusion rewards after block 864,000: 0.0476 STEEM per block (awarded as 1 STEEM per round) or 0.750% per year, whichever is greater.
-- Liquidity rewards: 1 STEEM per block (awarded as 1200 STEEM per hour) or 0.750% per year, whichever is greater
+- Premi di contribuzione: 1 STEEM per blocco o 3.875% all'anno, qualsiasi sia maggiore
+- Premi di contribuzione per contenuto: 1 STEEM per blocco o 3.875% all'anno, qualsiasi sia maggiore
+- Premi per la produzione di blocchi: 1 STEEM per blocco o 0.750% all'anno, qualsiasi sia maggiore
+- Premi per l'inserimento della POW prima del blocco 864,000: 1 STEEM per blocco (premiato con 21 STEEM per ogni turno)
+- Premi per l'inserimento della POW dopo il blocco 864,000: 0.0476 STEEM per blocco (premiato con 1 STEEM per ogni turno) o 0.750% all'anno, quasiasi sia maggiore.
+- Premi di liquidità: 1 STEEM per blocco (premiati con 1200 STEEM all'ora) o 0.750% all'anno, qualsiasi sia maggiore
 
-### Power Rewards:
+### Il potere delle ricompense:
 
-- Steem Power rewards: For each STEEM created by the above rewards, 9 STEEM are divided among all Steem Power holders.
+- Lo Steem Power ricompensa: per ogni STEEM creato dalla ricompensa di cui sopra, 9 STEEM sono divisi tra tutti i detentori di Steem Power.
 
 ### SBD operations:
 
