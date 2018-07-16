@@ -417,11 +417,11 @@ Premi di contribuzione:
 
 - Le ricompense degli SBD: una percentuale del valore di SBD viene creata ad un tasso percentuale annuo fissato dai testimone e pagato ai detentori di SBD sotto forma di SBD
 
-The overall supply picture is complicated by the effect of SBD operations, which may result in large-scale creation or destruction of STEEM through feed rate following and SBD rewards, as discussed in the SBD section. Other, smaller-scale complicating effects also exist, including unclaimed incentives (e.g. block rewards for missed blocks), and abandoned accounts.
+L'immagine dell'offerta complessiva viene complicato dagli effetti delle operazioni degli SBD, che possono risultare in una creazione il larga scala o in una distruzione di STEEM attraverso il feed del prezzo successivo e le ricompense in SBD, come discusso nella sezione SBD. Diversamente, effetti di complicazione su piccola scala, sussistono ancora, compresi gli incentivi non reclamati (ad esempio il blocco ricompense per i blocchi mancati) e gli account abbandonati.
 
-## Current Allocation & Supply
+## Assegnazione corrente & offerta
 
-Starting with the network's 16th hard fork in December 2016, Steem began creating new tokens at a yearly inflation rate of 9.5%. The inflation rate decreases at a rate of 0.01% every 250,000 blocks, or about 0.5% per year. The inflation will continue decreasing at this pace until the overall inflation rate reaches 0.95%. This will take about 20.5 years from the time hard fork 16 went into effect.
+Iniziando con la sedicesima hard fork della rete nel dicembre del 2016, Steem ha cominciato creando nuovi token ad un tasso di inflazione annuale del 9.5%. The inflation rate decreases at a rate of 0.01% every 250,000 blocks, or about 0.5% per year. The inflation will continue decreasing at this pace until the overall inflation rate reaches 0.95%. This will take about 20.5 years from the time hard fork 16 went into effect.
 
 75% of the new tokens that are generated go to fund the reward pool, which is split between authors and curators. 15% of the new tokens are awarded to holders of SP. The remaining 10% pays for the witnesses to power the blockchain.
 
