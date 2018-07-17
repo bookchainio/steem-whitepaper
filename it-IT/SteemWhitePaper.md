@@ -447,9 +447,9 @@ Nell'insieme, gli utenti di Reddit, votano 220 volte al secondo e producono 23 a
 
 I tentativi esistenti volti ad integrare una criptovaluta in una piattaforma di social media, si sono focalizzati nel permettere gli utenti di pagarsi a vicenda. Molti servizi hanno tentato di introdurre la possibilità di dare le mance. L'ipotesi è che se rendiamo il dare le mance abbastanza semplice, allora più persone lo faranno. Altri servizi tentano di portare le persone a pagare per promuovere o incrementare la posizione, e quindi la visibilità, dei loro contenuti. Altri tentano ancora di costruire piccole predizioni di mercato su quante mance riceverà un articolo.
 
-Tutti questi approcci derivano dai micropagamenti. They differ only in who is making the payment. They all suffer from insufficient engagement of people making the micropayments. In the search for incentivised content production entrepreneurs have been so focused on who should pay that they missed the obvious reality: everyone benefits from everyone’s actions so everyone should pay or no one should pay, depending on how you look at it.
+Tutti questi approcci derivano dai micropagamenti. Essi differiscono solo su chi sta effettuando il pagamento. Tutti soffrono a causa di un impegno non sufficiente da parte delle persone nell'effettuare micropagamenti. Nella ricerca della produzione di contenuti incentivati, gli imprenditori sono stati molto concentrati su chi dovrebbe pagare quelli che hanno perso la evidente realtà: tutti godono dalle azioni di tutti quindi ognuno dovrebbe pagare o nessuno dovrebbe pagare, il tutto dipende da come lo si guarda.
 
-Steem bypasses micropayments completely because when a user upvotes a post it is the community that pays the bill. The same amount of money will be spent whether the user upvotes a post or not and the funds will not come from the voter.
+Steem devia completamente i micropagamenti perché, quando un utente vota un articolo, è la comunità che paga il conto. The same amount of money will be spent whether the user upvotes a post or not and the funds will not come from the voter.
 
 The mental energy associated with making an economic decision becomes a barrier to participation for most people.
 
