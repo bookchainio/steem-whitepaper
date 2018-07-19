@@ -465,7 +465,7 @@ Inoltre, Steem paga le persone per capire chi dovrebbe essere pagato! Questo tip
 
 Internet perderebbe la grande maggioranza del suo valore se tutti i collegamenti tra i contenuti venissero rimossi. È il rapporto tra le pagine web che permette a Google di identificare la migliore ricetta della torta di mele tra i 16 milioni di risultati. Senza i collegamenti, l'unica informazione che Google avrebbe, sarebbe la frequenza delle parole.
 
-I collegamenti possono assumere varie forme e adattarsi nel tempo. Ogni volta che un utente vota un contenuto in un social network, aggiunge una connessione tra se stesso e il contenuto. Questo a sua volta, collega il consumatore al produttore attraverso il contenuto. Più connessioni ha una rete, più l'informazione diventa di valore. È la reciproca e intenzionale connessione dell'informazione che gli da valore.
+I collegamenti possono assumere varie forme e adattarsi con il tempo. Ogni volta che un utente vota un contenuto in un social network, aggiunge una connessione tra se stesso e il contenuto. Questo a sua volta, collega il consumatore al produttore attraverso il contenuto. Più connessioni ha una rete, più l'informazione diventa di valore. È la reciproca e intenzionale connessione dell'informazione che gli dà valore.
 
 Un social network può massimizzare il valore ricavato da una serie di contenuti massimizzando la quantità e la qualità delle connessioni. Curare i contenuti è costoso e dispendioso in termini di tempo, mentre per i computer è quasi impossibile operare in assenza di collegamenti. Steem premia gli utenti che sono tra i primi a scoprire e identificare un nuovo contenuto.
 
@@ -473,7 +473,7 @@ Incentivando la cura, la rete di Steem è capace di utilizzare algoritmi automat
 
 ## Risolvere il problema di onboarding della criptovaluta
 
-Non è facile entrare nella criptovaluta[^21]. Qualcuno che scopre il Bitcoin e vuole provare a impararlo velocemente, avrà bisogno di registrarsi in un exchange e finanziare il suo account con una carta di credito o con un bonifico bancario. Come sarebbe stato il tasso di adozione se tu avessi dovuto corrispondere del denaro e due tipi di documenti d'identità?
+Non è facile avere accesso alla criptovaluta[^21]. Qualcuno che scopre il Bitcoin e vuole provarlo velocemente, impara che avrà bisogno di registrarsi in un exchange e finanziare il suo account con una carta di credito o con un bonifico bancario. Come sarebbe stato il tasso di adozione di Facebook se tu avessi dovuto corrispondere del denaro e due tipi di documenti d'identità?
 
 Steem risolve questo problema dando a tutti un modo di essere pagati per eseguire compiti semplici ma di valore. Questo aiuterà a distribuire ampiamente i token di Steem. Questo è utile in quanto le criptovalute hanno un effetto nella rete (cioè più utenti le rendono più utili; per fare un esempio estremo, considerate se Satoshi tenesse il 100% dei Bitcoin per se stesso, il Bitcoin sarebbe senza valore)
 
