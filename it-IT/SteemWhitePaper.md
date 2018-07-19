@@ -485,11 +485,11 @@ I commercianti danno agli utenti un modo per convertire velocemente la loro crip
 
 I commercianti accetteranno qualsiasi valuta se questa aumenta le sue vendite. Avere una base di utenza ampia con una valuta stabile come l'SBD, abbassa la barriera all'ingresso per i commercianti. La presenza dei commercianti migliora il sistema attraverso la creazione di una svolta per gli utenti che escono dal sistema senza incorrere nel problema di usare un exchange.
 
-Un altro modo con il quale le persone possono liquidare le piccole quantità di cripovaluta che ricevono dal partecipare sulla piattaforma di Steem è attraverso il *dare la mancia* agli altri. È come lasciare il poco resto come una mancia per il tuo cameriere. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
+Un altro modo con il quale le persone possono liquidare le piccole quantità di cripovaluta che ricevono dal partecipare sulla piattaforma di Steem è attraverso il *dare la mancia* agli altri. È come lasciare il poco resto come una mancia per il tuo cameriere. Quando abbastanza persone lasciano piccole mance, sommandosi raggiungono un importo significativo. Sia te che il tuo cameriere, ottenete un beneficio dalla mancia.
 
-## Censorship
+## Censura
 
-Steem is a decentralized network that is operated by witnesses in jurisdictions around the world. All user actions are publicly recorded on the blockchain, and can be publicly verified. This means that there is no single entity that can censor content that is valued by STEEM holders.
+Steem è una rete decentralizzata che è gestita dai testimoni nei paesi di tutto il mondo. Tutti gli utenti vengono registrati pubblicamente nella blockchain e possono essere verificati pubblicamente. Questo significa che non c'è un'unica entità che può censurare un contenuto che viene valutato dai possessori di STEEM.
 
 Individual websites such as steemit.com may censor content on their particular site, but content published on the blockchain is inherently broadcast traffic and mirrors all around the world may continue to make it available.
 
