@@ -465,9 +465,9 @@ Inoltre, Steem paga le persone per capire chi dovrebbe essere pagato! Questo tip
 
 Internet perderebbe la grande maggioranza del suo valore se tutti i collegamenti tra i contenuti venissero rimossi. È il rapporto tra le pagine web che permette a Google di identificare la migliore ricetta per la torta di mele tra i 16 milioni di risultati. Senza i collegamenti, l'unica informazione che Google avrebbe, sarebbe la frequenza delle parole.
 
-I collegamenti possono assumere varie forme e adattarsi nel tempo. Ogni volta che un utente vota un contenuto in un social network, aggiunge una connessione tra se stesso e il contenuto. Questo a sua volta, collega il consumatore al produttore attraverso il contenuto. Più connessioni ha una rete, più l'informazione diventa di valore. It is the relative and intentional connectedness of information that gives it value.
+I collegamenti possono assumere varie forme e adattarsi nel tempo. Ogni volta che un utente vota un contenuto in un social network, aggiunge una connessione tra se stesso e il contenuto. Questo a sua volta, collega il consumatore al produttore attraverso il contenuto. Più connessioni ha una rete, più l'informazione diventa di valore. È la reciproca e intenzionale connessione dell'informazione che gli da valore.
 
-A social network can maximize the value extracted from a set of content by maximizing the quantity and quality of connections. Curating content is expensive and time consuming while being near impossible for computers to perform in the absence of links. Steem rewards users who are among the first to find and identify new content.
+Un social network può massimizzare il valore ricavato da una serie di contenuti massimizzando la quantità e la qualità delle connessioni. Curating content is expensive and time consuming while being near impossible for computers to perform in the absence of links. Steem rewards users who are among the first to find and identify new content.
 
 By incentivising curation the Steem network is able to use automated algorithms to extract the most valuable information from a massive amount of content.
 
