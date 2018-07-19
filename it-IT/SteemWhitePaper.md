@@ -447,7 +447,7 @@ Nell'insieme, gli utenti di Reddit, votano 220 volte al secondo e producono 23 a
 
 I tentativi esistenti volti ad integrare una criptovaluta in una piattaforma di social media, si sono focalizzati nel permettere gli utenti di pagarsi a vicenda. Molti servizi hanno tentato di introdurre la possibilità di dare le mance. L'ipotesi è che se rendiamo il dare le mance abbastanza semplice, allora più persone lo faranno. Altri servizi tentano di portare le persone a pagare per promuovere o incrementare la posizione, e quindi la visibilità, dei loro contenuti. Altri tentano ancora di costruire piccole predizioni di mercato su quante mance riceverà un articolo.
 
-Tutti questi approcci derivano dai micropagamenti. Essi differiscono solo su chi sta effettuando il pagamento. Tutti soffrono a causa di un impegno non sufficiente da parte delle persone di effettuare micropagamenti. Nella ricerca per la produzione di contenuti incentivati, gli imprenditori sono stati molto concentrati su chi dovrebbe pagare quelli che hanno perso la evidente realtà: tutti godono dalle azioni di tutti, quindi, ognuno dovrebbe pagare o nessuno dovrebbe pagare, il tutto dipende da come lo si guarda.
+Tutti questi approcci sono riconducibili ai micropagamenti. Essi differiscono solo su chi sta effettuando il pagamento. Tutti soffrono a causa di un impegno non sufficiente da parte delle persone di effettuare micropagamenti. Nella ricerca per la produzione di contenuti incentivati, gli imprenditori sono stati molto concentrati su chi dovrebbe pagare quelli che hanno perso la evidente realtà: tutti godono dalle azioni di tutti, quindi, ognuno dovrebbe pagare o nessuno dovrebbe pagare, il tutto dipende da come lo si guarda.
 
 Steem devia completamente i micropagamenti perché, quando un utente vota un articolo, è la comunità che paga il conto. Lo stesso ammontare di denaro verrà speso se l'utente vota o meno un articolo e i fondi non proverranno dal votante.
 
@@ -485,11 +485,11 @@ Gli esercenti danno agli utenti un modo per convertire velocemente la loro cript
 
 I commercianti accetteranno qualsiasi valuta se questa aumenterà le sue vendite. Avere una base di utenza ampia con una valuta stabile come l'SBD, abbassa la barriera all'ingresso per gli esercenti. La presenza degli esercenti migliora il sistema attraverso la creazione di una svolta per gli utenti che escono dal sistema senza incorrere nel problema di usare un exchange.
 
-Un altro modo con il quale le persone possono liquidare le piccole quantità di cripovaluta che ricevono dal partecipare sulla piattaforma di Steem, è *dando la mancia* agli altri. È come lasciare il poco resto come una mancia per il tuo cameriere. Quando abbastanza persone lasciano piccole mance, sommandosi raggiungono un importo significativo. Sia te che il tuo cameriere, ottenete un beneficio dalla mancia.
+Un altro modo con il quale le persone possono liquidare le piccole quantità di cripovaluta che ricevono dal partecipare sulla piattaforma di Steem, è *dando la mancia* agli altri. È come lasciare il poco resto come una mancia per il tuo cameriere. Quando abbastanza persone lasciano piccole mance, sommandosi si raggiunge un importo significativo. Sia te che il tuo cameriere, ottenete un beneficio dalla mancia.
 
 ## Censura
 
-Steem è una rete decentralizzata che è gestita dai testimoni nei paesi di tutto il mondo. Tutti gli utenti vengono registrati pubblicamente nella blockchain e possono essere verificati pubblicamente. Questo significa che non c'è un'unica entità che può censurare un contenuto che viene valutato dai possessori di STEEM.
+Steem è una rete decentralizzata che è gestita dai testimoni nei paesi di tutto il mondo. Tutti gli utenti vengono registrati pubblicamente nella blockchain e, pubblicamente, possono essere verificati. Questo significa che non c'è un'unica entità che può censurare un contenuto che viene valutato dai possessori di STEEM.
 
 Individual websites such as steemit.com may censor content on their particular site, but content published on the blockchain is inherently broadcast traffic and mirrors all around the world may continue to make it available.
 
