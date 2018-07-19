@@ -475,7 +475,7 @@ Incentivando la cura, la rete di Steem è capace di utilizzare algoritmi automat
 
 Non è facile avere accesso alla criptovaluta[^21]. Qualcuno che scopre il Bitcoin e vuole provarlo velocemente, impara che avrà bisogno di registrarsi in un exchange e finanziare il suo account con una carta di credito o con un bonifico bancario. Come sarebbe stato il tasso di adozione di Facebook se tu avessi dovuto corrispondere del denaro e due tipi di documenti d'identità?
 
-Steem risolve questo problema dando a tutti un modo di essere pagati per eseguire compiti semplici ma di valore. Questo aiuterà a distribuire ampiamente i token di Steem. Questo è utile in quanto le criptovalute hanno un effetto nella rete (cioè più utenti le rendono più utili; per fare un esempio estremo, considerate se Satoshi detenesse il 100% dei Bitcoin per se stesso, il Bitcoin sarebbe privo valore)
+Steem risolve questo problema dando a tutti un modo di essere pagati per eseguire compiti semplici ma di valore. Questo aiuterà a distribuire ampiamente i token di Steem. Questo è utile in quanto le criptovalute hanno un effetto nella rete (cioè più utenti le rendono più utili; per fare un esempio estremo, considerate se Satoshi detenesse il 100% dei Bitcoin per sé stesso, il Bitcoin sarebbe privo valore)
 
 ## Risolvere il problema della liquidazione della criptovaluta
 
@@ -485,11 +485,11 @@ Gli esercenti danno agli utenti un modo per convertire velocemente la loro cript
 
 I commercianti accetteranno qualsiasi valuta se questa aumenterà le sue vendite. Avere una base di utenza ampia con una valuta stabile come l'SBD, abbassa la barriera all'ingresso per gli esercenti. La presenza degli esercenti migliora il sistema attraverso la creazione di una svolta per gli utenti che escono dal sistema senza incorrere nel problema di usare un exchange.
 
-Un altro modo con il quale le persone possono liquidare le piccole quantità di cripovaluta che ricevono dal partecipare sulla piattaforma di Steem, è *dando la mancia* agli altri. È come lasciare il poco resto come una mancia per il tuo cameriere. Quando abbastanza persone lasciano piccole mance, sommandosi si raggiunge un importo significativo. Sia te che il tuo cameriere, ottenete un beneficio dalla mancia.
+Un altro modo con il quale le persone possono liquidare le piccole quantità di cripovaluta che ricevono dal partecipare sulla piattaforma di Steem, è *dando la mancia* agli altri. È come lasciare il poco resto come una mancia per il tuo cameriere. Quando abbastanza persone lasciano piccole mance, sommandosi si raggiunge un importo significativo. Sia tu che il tuo cameriere, ottenete un beneficio dalla mancia.
 
 ## Censura
 
-Steem è una rete decentralizzata che è gestita dai testimoni nei paesi di tutto il mondo. Tutti gli utenti vengono registrati pubblicamente nella blockchain e, pubblicamente, possono essere verificati. Questo significa che non c'è un'unica entità che può censurare un contenuto che viene valutato dai possessori di STEEM.
+Steem è una rete decentralizzata che è gestita dai testimoni nei paesi di tutto il mondo. Tutti gli utenti vengono registrati pubblicamente nella blockchain e, pubblicamente, possono essere verificati. Questo significa che non c'è un'unica entità che possa censurare un contenuto che viene valutato dai possessori di STEEM.
 
 Individual websites such as steemit.com may censor content on their particular site, but content published on the blockchain is inherently broadcast traffic and mirrors all around the world may continue to make it available.
 
