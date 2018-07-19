@@ -475,17 +475,17 @@ Incentivando la cura, la rete di Steem è capace di utilizzare algoritmi automat
 
 Non è facile avere accesso alla criptovaluta[^21]. Qualcuno che scopre il Bitcoin e vuole provarlo velocemente, impara che avrà bisogno di registrarsi in un exchange e finanziare il suo account con una carta di credito o con un bonifico bancario. Come sarebbe stato il tasso di adozione di Facebook se tu avessi dovuto corrispondere del denaro e due tipi di documenti d'identità?
 
-Steem risolve questo problema dando a tutti un modo di essere pagati per eseguire compiti semplici ma di valore. Questo aiuterà a distribuire ampiamente i token di Steem. Questo è utile in quanto le criptovalute hanno un effetto nella rete (cioè più utenti le rendono più utili; per fare un esempio estremo, considerate se Satoshi tenesse il 100% dei Bitcoin per se stesso, il Bitcoin sarebbe senza valore)
+Steem risolve questo problema dando a tutti un modo di essere pagati per eseguire compiti semplici ma di valore. Questo aiuterà a distribuire ampiamente i token di Steem. Questo è utile in quanto le criptovalute hanno un effetto nella rete (cioè più utenti le rendono più utili; per fare un esempio estremo, considerate se Satoshi detenesse il 100% dei Bitcoin per se stesso, il Bitcoin sarebbe privo valore)
 
 ## Risolvere il problema della liquidazione della criptovaluta
 
-Una valuta che è difficile da usare o impossibile da vendere ha un piccolo valore. Qualcuno che si imbatte in $1.00 di valore di Bitcoin, scoprirà che venderlo, costa di più di $1.00. Devono creare un account con un exchange, eseguire la convalida tramite il procedimento KYC (conosci il tuo cliente) e pagare le commissioni. Piccole quantità di criptovaluta sono come un piccolo cambiamento ai quali le persone non sono disposte ad abbassarsi per accoglierli.
+Una valuta che è difficile da usare o impossibile da vendere ha un valore basso. Qualcuno che si imbatte in $1.00 di valore di Bitcoin, scoprirà che venderlo, costa di più di $1.00. Essi devono creare un account con un exchange, eseguire la convalida tramite il procedimento KYC (conosci il tuo cliente) e pagare le commissioni. Piccole quantità di criptovaluta sono come un piccolo cambiamento ai quali le persone non sono disposte ad abbassarsi per accoglierli.
 
-I commercianti danno agli utenti un modo per convertire velocemente la loro criptovaluta in beni e servizi tangibili. I commercianti hanno bisogno di una valuta legata alla loro unità del conto, di norma i dollari. Accettando una valuta volatile, si introduce nel complesso una contabilità significativa.
+Gli esercenti danno agli utenti un modo per convertire velocemente la loro criptovaluta in beni e servizi tangibili. Gli esercenti hanno bisogno di una valuta legata alla loro unità del conto, di norma i dollari. Accettando una valuta volatile, si introduce nel complesso una contabilità significativa.
 
-I commercianti accetteranno qualsiasi valuta se questa aumenta le sue vendite. Avere una base di utenza ampia con una valuta stabile come l'SBD, abbassa la barriera all'ingresso per i commercianti. La presenza dei commercianti migliora il sistema attraverso la creazione di una svolta per gli utenti che escono dal sistema senza incorrere nel problema di usare un exchange.
+I commercianti accetteranno qualsiasi valuta se questa aumenterà le sue vendite. Avere una base di utenza ampia con una valuta stabile come l'SBD, abbassa la barriera all'ingresso per gli esercenti. La presenza degli esercenti migliora il sistema attraverso la creazione di una svolta per gli utenti che escono dal sistema senza incorrere nel problema di usare un exchange.
 
-Un altro modo con il quale le persone possono liquidare le piccole quantità di cripovaluta che ricevono dal partecipare sulla piattaforma di Steem è attraverso il *dare la mancia* agli altri. È come lasciare il poco resto come una mancia per il tuo cameriere. Quando abbastanza persone lasciano piccole mance, sommandosi raggiungono un importo significativo. Sia te che il tuo cameriere, ottenete un beneficio dalla mancia.
+Un altro modo con il quale le persone possono liquidare le piccole quantità di cripovaluta che ricevono dal partecipare sulla piattaforma di Steem, è *dando la mancia* agli altri. È come lasciare il poco resto come una mancia per il tuo cameriere. Quando abbastanza persone lasciano piccole mance, sommandosi raggiungono un importo significativo. Sia te che il tuo cameriere, ottenete un beneficio dalla mancia.
 
 ## Censura
 
