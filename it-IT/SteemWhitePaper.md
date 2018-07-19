@@ -471,7 +471,7 @@ Un social network può massimizzare il valore ricavato da una serie di contenuti
 
 Incentivando la cura, la rete di Steem è capace di utilizzare algoritmi automatici per estrarre le informazioni più preziose da un ammontare massiccio di contenuti.
 
-## Solving the Cryptocurrency Onboarding Problem
+## Risolvere il problema dell'onboarding della criptovaluta
 
 Non è facile avere accesso alla criptovaluta[^21]. Qualcuno che scopre il Bitcoin e vuole provarlo velocemente, impara che avrà bisogno di registrarsi in un exchange e finanziare il suo account con una carta di credito o con un bonifico bancario. Come sarebbe stato il tasso di adozione di Facebook se tu avessi dovuto corrispondere del denaro e due tipi di documenti d'identità?
 
