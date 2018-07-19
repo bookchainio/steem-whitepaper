@@ -465,7 +465,7 @@ Inoltre, Steem paga le persone per capire chi dovrebbe essere pagato! Questo tip
 
 Internet perderebbe la grande maggioranza del suo valore se tutti i collegamenti tra i contenuti venissero rimossi. È il rapporto tra le pagine web che permette a Google di identificare la migliore ricetta per la torta di mele tra i 16 milioni di risultati. Senza i collegamenti, l'unica informazione che Google avrebbe, sarebbe la frequenza delle parole.
 
-I collegamenti possono assumere varie forme e adattarsi nel tempo. Every time a user votes on content in a social network they add a connection between themselves and the content. This in turn links the consumer to the producer through the content. The more connections a network has the more valuable the information becomes. It is the relative and intentional connectedness of information that gives it value.
+I collegamenti possono assumere varie forme e adattarsi nel tempo. Ogni volta che un utente vota un contenuto in un social network, aggiunge una connessione tra se stesso e il contenuto. Questo a sua volta, collega il consumatore al produttore attraverso il contenuto. Più connessioni ha una rete, più l'informazione diventa di valore. It is the relative and intentional connectedness of information that gives it value.
 
 A social network can maximize the value extracted from a set of content by maximizing the quantity and quality of connections. Curating content is expensive and time consuming while being near impossible for computers to perform in the absence of links. Steem rewards users who are among the first to find and identify new content.
 
