@@ -479,9 +479,9 @@ Steem risolve questo problema dando a tutti un modo di essere pagati per eseguir
 
 ## Risolvere il problema della liquidazione della criptovaluta
 
-Una valuta che è difficile da usare o impossibile da vendere ha un piccolo valore. Qualcuno che si imbatte in $1.00 di valore di Bitcoin, scoprirà che venderlo, costa di più di $1.00. Devono creare un account con un exchange, eseguire la convalida tramite il procedimento KYC (conosci il tuo cliente) e pagare le commissioni. Small amounts of cryptocurrency are like small change that people are unwilling to bend over to pick up.
+Una valuta che è difficile da usare o impossibile da vendere ha un piccolo valore. Qualcuno che si imbatte in $1.00 di valore di Bitcoin, scoprirà che venderlo, costa di più di $1.00. Devono creare un account con un exchange, eseguire la convalida tramite il procedimento KYC (conosci il tuo cliente) e pagare le commissioni. Piccole quantità di criptovaluta sono come un piccolo cambiamento ai quali le persone non sono disposte ad abbassarsi per accoglierli.
 
-Merchants give users a way to quickly convert their cryptocurrency into tangible goods and services. Merchants need a currency pegged to their unit of account, normally dollars. Accepting a volatile currency introduces significant accounting overhead.
+I commercianti danno agli utenti un modo per convertire velocemente la loro criptovaluta in beni e servizi tangibili. I commercianti hanno bisogno di una valuta legata alla loro unità del conto, di norma i dollari. Accepting a volatile currency introduces significant accounting overhead.
 
 Merchants will accept any currency if it increases their sales. Having a large user base with a stable currency such as SBD lowers the barrier to entry for merchants. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
 
