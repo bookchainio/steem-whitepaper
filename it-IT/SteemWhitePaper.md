@@ -485,7 +485,7 @@ I commercianti danno agli utenti un modo per convertire velocemente la loro crip
 
 I commercianti accetteranno qualsiasi valuta se questa aumenta le sue vendite. Avere una base di utenza ampia con una valuta stabile come l'SBD, abbassa la barriera all'ingresso per i commercianti. La presenza dei commercianti migliora il sistema attraverso la creazione di una svolta per gli utenti che escono dal sistema senza incorrere nel problema di usare un exchange.
 
-Another way that people can liquidate the small amounts of cryptocurrency they receive from participating on the Steem platform is through *tipping* others. This is like leaving the small change as a tip for your waiter. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
+Un altro modo con il quale le persone possono liquidare le piccole quantità di cripovaluta che ricevono dal partecipare sulla piattaforma di Steem è attraverso il *dare la mancia* agli altri. È come lasciare il poco resto come una mancia per il tuo cameriere. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
 
 ## Censorship
 
