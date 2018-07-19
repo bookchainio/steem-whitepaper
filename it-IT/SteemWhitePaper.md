@@ -459,11 +459,11 @@ L'energia mentale associata con il prendere una decisione economica, diventa una
 
 Secondo Steem, i micropagamenti vengono pagati ai produttori di contenuti ma, coloro che votano per i contenuti, non pagano. Il costo della ricompensa invece, viene pagato attraverso nuovi token. Qualcuno può unirsi al sistema, votare per pagare qualcun altro e quindi, uscire dal sistema con più denaro di quello con il quale ha iniziato (supponendo che la valutazione di mercato del sistema di Steem sia rimasto costante). In altre parole, la soluzione del micropagamento fornita da Steem, offre una esperienza per l'utente simile a quella di siti web ampiamente utilizzati che hanno contenuti moderati dagli utenti.
 
-Furthemore, Steem pays people to figure out who should be paid! This kind of thinking is revolutionary.
+Inoltre, Steem paga le persone per capire chi dovrebbe essere pagato! Questo tipo di pensiero è rivoluzionario.
 
-## Value is in the Links
+## Il valore è nei collegamenti
 
-The Internet would lose the vast majority of its value if all links among content were removed. It is the relationship among web pages that allows Google to identify the best apple pie recipe among the 16 million results. Without the links the only information Google would have is word frequency.
+Internet perderebbe la grande maggioranza del suo valore se tutti i collegamenti tra i contenuti venissero rimossi. È il rapporto tra le pagine web che permette a Google di identificare la migliore ricetta per la torta di mele tra i 16 milioni di risultati. Senza i collegamenti, l'unica informazione che Google avrebbe, sarebbe la frequenza delle parole.
 
 Links can take many forms and have adapted over time. Every time a user votes on content in a social network they add a connection between themselves and the content. This in turn links the consumer to the producer through the content. The more connections a network has the more valuable the information becomes. It is the relative and intentional connectedness of information that gives it value.
 
