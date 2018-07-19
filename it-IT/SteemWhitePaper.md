@@ -467,9 +467,9 @@ Internet perderebbe la grande maggioranza del suo valore se tutti i collegamenti
 
 I collegamenti possono assumere varie forme e adattarsi nel tempo. Ogni volta che un utente vota un contenuto in un social network, aggiunge una connessione tra se stesso e il contenuto. Questo a sua volta, collega il consumatore al produttore attraverso il contenuto. Più connessioni ha una rete, più l'informazione diventa di valore. È la reciproca e intenzionale connessione dell'informazione che gli da valore.
 
-Un social network può massimizzare il valore ricavato da una serie di contenuti massimizzando la quantità e la qualità delle connessioni. Curating content is expensive and time consuming while being near impossible for computers to perform in the absence of links. Steem rewards users who are among the first to find and identify new content.
+Un social network può massimizzare il valore ricavato da una serie di contenuti massimizzando la quantità e la qualità delle connessioni. Curare i contenuti è costoso e dispendioso in termini di tempo, mentre per i computer è quasi impossibile operare in assenza di collegamenti. Steem premia gli utenti che sono tra i primi a scoprire e identificare un nuovo contenuto.
 
-By incentivising curation the Steem network is able to use automated algorithms to extract the most valuable information from a massive amount of content.
+Incentivando la cura, la rete di Steem è capace di utilizzare algoritmi automatici per estrarre le informazioni più preziose da un ammontare massiccio di contenuti.
 
 ## Solving the Cryptocurrency Onboarding Problem
 
