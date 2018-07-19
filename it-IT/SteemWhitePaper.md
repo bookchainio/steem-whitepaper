@@ -473,13 +473,13 @@ Incentivando la cura, la rete di Steem è capace di utilizzare algoritmi automat
 
 ## Risolvere il problema di onboarding della criptovaluta
 
-Non è facile entrare nella criptovaluta[^21]. Qualcuno che scopre il Bitcoin e vuole provare a impararlo velocemente, avrà bisogno di registrarsi in un exchange e finanziare il suo account con una carta di credito o con un bonifico bancario. What would Facebook’s adoption rate have been like if you had to fork over money and a two forms of ID?
+Non è facile entrare nella criptovaluta[^21]. Qualcuno che scopre il Bitcoin e vuole provare a impararlo velocemente, avrà bisogno di registrarsi in un exchange e finanziare il suo account con una carta di credito o con un bonifico bancario. Come sarebbe stato il tasso di adozione se tu avessi dovuto corrispondere del denaro e due tipi di documenti d'identità?
 
-Steem solves this problem by giving everyone a way to get paid for doing simple, but valuable, tasks. This will help to widely distribute STEEM tokens. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless.)
+Steem risolve questo problema dando a tutti un modo di essere pagati per eseguire compiti semplici ma di valore. Questo aiuterà a distribuire ampiamente i token di Steem. Questo è utile in quanto le criptovalute hanno un effetto nella rete (cioè più utenti le rendono più utili; per fare un esempio estremo, considerate se Satoshi tenesse il 100% dei Bitcoin per se stesso, il Bitcoin sarebbe senza valore)
 
-## Solving the Cryptocurrency Liquidation Problem
+## Risolvere il problema della liquidazione della criptovaluta
 
-A currency that is difficult to use or impossible to sell has little value. Someone who comes across $1.00 worth of Bitcoin will discover that it costs more than $1.00 to sell that Bitcoin. They have to create an account with an exchange, perform KYC validation, and pay fees. Small amounts of cryptocurrency are like small change that people are unwilling to bend over to pick up.
+Una valuta che è difficile da usare o impossibile da vendere ha un piccolo valore. Qualcuno che si imbatte in $1.00 di valore di Bitcoin, scoprirà che venderlo, costa di più di $1.00. They have to create an account with an exchange, perform KYC validation, and pay fees. Small amounts of cryptocurrency are like small change that people are unwilling to bend over to pick up.
 
 Merchants give users a way to quickly convert their cryptocurrency into tangible goods and services. Merchants need a currency pegged to their unit of account, normally dollars. Accepting a volatile currency introduces significant accounting overhead.
 
