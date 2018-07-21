@@ -509,7 +509,7 @@ Mentre un servizio con la marcatura temporale può essere realizzato su quasi og
 
 ## Sostituire la pubblicità con le ricompense del contenuto basato sulla blockchain
 
-Secondo la maggior parte dei modelli di monetizzazione del contenuto, i creatori di quest'ultimo sfruttano, in un modo o nell'altro, la pubblicità. Tanti creatori riconosco come la pubblicità possa sminuire il valore del loro lavoro per il consumatore, tuttavia i creatori devono mirare ad un rendimento nel loro tempo monetizzando. La pubblicità rappresenta un'arma a doppio taglio: con le pubblicità i creatori possono fare soldi più facilmente. Senza pubblicità, la monetizzazione è difficile ma il contenuto è più ricco.
+Secondo la maggior parte dei modelli di monetizzazione del contenuto, i creatori di quest'ultimo sfruttano, in un modo o nell'altro, la pubblicità. Tanti creatori riconosco come la pubblicità possa sminuire il valore del loro lavoro per il consumatore, tuttavia i creatori devono mirare ad un rendimento nel tempo monetizzando. La pubblicità rappresenta un'arma a doppio taglio: con le pubblicità i creatori possono fare soldi più facilmente. Senza pubblicità, la monetizzazione è difficile ma il contenuto è più ricco.
 
 I creatori che pubblicano sui mezzi di informazione che sono connessi a Steem, possono monetizzare semplicemente tramite l'avere il loro lavoro riconosciuto (o "piaciuto") dalla comunità di Steem. I pagamenti basati sulla blockchain sono completamente digitali e non hanno nessun intermediario. Pertanto la monetizzazione delle ricompense dei contenuti basati sulla blockchain, dovrebbe essere più veloce e rappresentare un ostacolo nettamente inferiore rispetto alla monetizzazione attraverso le pubblicità.
 
