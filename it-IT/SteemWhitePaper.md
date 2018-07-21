@@ -493,11 +493,11 @@ Steem è una rete decentralizzata che è gestita dai testimoni nei paesi di tutt
 
 I siti web individuali come steemit.com possono censurare contenuti nel loro specifico sito, ma il contenuto pubblicato sulla blockchain viene intrinsecamente divulgato e, il traffico e la riproduzione in tutto il mondo possono continuare a renderlo disponibile.
 
-La libertà di parola è il fondamento di tutte le altre libertà e, qualsiasi violazione a quest'ultima, mina all'unico strumento pacifico per raggiungere l'opinione generale: la discussione. Senza il libero dibattito, i votanti non possono essere informati totalmente, e, quelli non informati, sono una minaccia maggiore alla società rispetto al perdere il diritto di voto. La censura è uno strumento per rubare i voti limitando il dibattito pubblico. Steem is committed to enabling free speech and building a free society.
+La libertà di parola è il fondamento di tutte le altre libertà e, qualsiasi violazione a quest'ultima, mina all'unico strumento pacifico per raggiungere l'opinione generale: la discussione. Senza il libero dibattito, i votanti non possono essere informati totalmente, e, quelli non informati, sono una minaccia maggiore alla società rispetto al perdere il diritto di voto. La censura è uno strumento per rubare i voti limitando il dibattito pubblico. Steem si impegna a consentire la libertà di parola e a costituire una società libera.
 
-## Solving Organic Discovery via Search Engine Optimization
+## Risolvere la ricerca naturale attraverso l'ottimizzazione del motore di ricerca
 
-Most cryptocurrencies generate little value for those who are not actively using the network. Steem, by contrast, generates content and encourages users to share it. This content gets indexed by search engines and ultimately will bring value to a large number of passive users. This search traffic creates organic advertising for the Steem network and grows the network effect.
+La maggior parte delle criptovalute generano un piccolo valore per coloro che non utilizzano attivamente la rete. Steem, al contrario, genera contenuti e incoraggia gli utenti a condividerli. Questo contenuto viene indicizzato dai motori di ricerca e, in definitiva, apporterà valore ad un elevato numero di utenti passivi. Questo traffico di ricerca crea pubblicità naturale per la rete di Steem e fa crescere l'incidenza della rete.
 
 ## Shifting Toward Blockchain-based Attribution
 
