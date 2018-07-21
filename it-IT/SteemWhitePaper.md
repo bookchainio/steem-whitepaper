@@ -509,7 +509,7 @@ Mentre un servizio con la marcatura temporale può essere realizzato su quasi og
 
 ## Sostituire la pubblicità con le ricompense del contenuto basato sulla blockchain
 
-Under most content monetization models, content creators leverage advertising in one form or another. Many creators recognize how advertising may diminish their work’s value to the consumer, yet creators very often must seek returns on their time by monetizing. Advertising represents a double-edged sword: With ads, a creator can make money most easily. Without ads, monetization is difficult but the content is richer.
+Secondo la maggior parte dei modelli di monetizzazione del contenuto, i creatori di quest'ultimo sfruttano la pubblicità in un modo o nell'altro. Tanti creatori riconosco come la pubblicità possa sminuire il valore del loro lavoro per il consumatore, tuttavia i creatori devono mirare ad un rendimento nel loro tempo monetizzando. La pubblicità rappresenta un'arma a doppio taglio: con le pubblicità i creatori possono fare soldi più facilmente. Senza pubblicità, la monetizzazione è difficile ma il contenuto è più ricco.
 
 Creators posting to social media outlets that are connected to Steem may monetize merely by having their work recognized (or ”liked”) by the Steem community. Blockchain-based payouts are completely digital and have no middle-man. Therefore monetization by blockchain-based content rewards should be faster and much lower barrier to use than monetization by advertisements.
 
