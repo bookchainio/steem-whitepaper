@@ -491,7 +491,7 @@ Un altro modo con il quale le persone possono liquidare le piccole quantità di 
 
 Steem è una rete decentralizzata che è gestita dai testimoni nei paesi di tutto il mondo. Tutti gli utenti vengono registrati pubblicamente nella blockchain e, pubblicamente, possono essere verificati. Questo significa che non c'è un'unica entità che possa censurare un contenuto che viene valutato dai possessori di STEEM.
 
-I siti web individuali come steemit.com possono censurare contenuti nel loro specifico sito, ma il contenuto pubblicato sulla blockchain viene intrinsecamente divulgato e, il traffico e la riproduzione in tutto il mondo possono continuare a renderlo disponibile.
+I siti web individuali come steemit.com possono censurare contenuti nel loro specifico sito, ma il contenuto pubblicato sulla blockchain viene intrinsecamente divulgato e il traffico e la riproduzione in tutto il mondo possono continuare a renderlo disponibile.
 
 La libertà di parola è il fondamento di tutte le altre libertà e, qualsiasi violazione a quest'ultima, mina all'unico strumento pacifico per raggiungere l'opinione generale: la discussione. Senza il libero dibattito, i votanti non possono essere informati totalmente, e, quelli non informati, sono una minaccia maggiore alla società rispetto al perdere il diritto di voto. La censura è uno strumento per rubare i voti limitando il dibattito pubblico. Steem si impegna a consentire la libertà di parola e a costituire una società libera.
 
@@ -515,7 +515,7 @@ I creatori che pubblicano sui mezzi di informazione che sono connessi a Steem, p
 
 # Conclusione
 
-Steem è un esperimento progettato per affrontare le sfide nelle industrie della criptovaluta e dei social media, combinando i migliori aspetti di entrambe. Steem presenta opportunità di guadagno per i creatori di contenuti e i lettori di internet in modi che non sono esistiti tra le industrie dei social media. Within Steem, individuals earn real rewards online that are directly correlated to their contributions. Those rewards may have dollar value due to the market price discovery and liquidity of Steem, and the people who hold Steem may have more exclusive earning powers than those who do not.
+Steem è un esperimento progettato per affrontare le sfide nelle industrie della criptovaluta e dei social media, combinando i migliori aspetti di entrambe. Steem presenta opportunità di guadagno per i creatori di contenuti e i lettori di internet in modi che non sono esistiti tra le industrie dei social media. All'intenro di Steem, gli individui guadagnano online delle vere ricompense che sono direttamente correlate alle loro contribuzioni. Quelle ricompense possono avere un valore in dollari dovuto al prezzo di mercato esposto e alla liquidità di Steem e, le persone che detengono Steem, possono avere più poteri esclusivi di guadagno rispetto a quelle che non lo detengono.
 
 [^1]: Reddit’s Cryptocurrency, Forbes, Erika Morphy, October 2014 http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/\#4e07b05332b9
 
