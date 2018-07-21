@@ -493,7 +493,7 @@ Steem è una rete decentralizzata che è gestita dai testimoni nei paesi di tutt
 
 I siti web individuali come steemit.com possono censurare contenuti nel loro specifico sito, ma il contenuto pubblicato sulla blockchain viene intrinsecamente divulgato e, il traffico e la riproduzione in tutto il mondo possono continuare a renderlo disponibile.
 
-La libertà di parola è il fondamento di tutte le altre libertà e, qualsiasi violazione a quest'ultima, mina all'unico strumento pacifico per raggiungere l'opinione generale: la discussione. Senza il libero dibattito, i votanti non possono essere informati totalmente, e, quelli non informati, sono una minaccia maggiore alla società rispetto al perdere il diritto di voto. Censorship is a means of stealing votes through limiting public discourse. Steem is committed to enabling free speech and building a free society.
+La libertà di parola è il fondamento di tutte le altre libertà e, qualsiasi violazione a quest'ultima, mina all'unico strumento pacifico per raggiungere l'opinione generale: la discussione. Senza il libero dibattito, i votanti non possono essere informati totalmente, e, quelli non informati, sono una minaccia maggiore alla società rispetto al perdere il diritto di voto. La censura è uno strumento per rubare i voti limitando il dibattito pubblico. Steem is committed to enabling free speech and building a free society.
 
 ## Solving Organic Discovery via Search Engine Optimization
 
