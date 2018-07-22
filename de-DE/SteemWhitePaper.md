@@ -104,13 +104,13 @@ Angesichts einer Reihe von vertrauenswürdigen und gewählten Feed-Erzeugern, ka
 
 Selbst wenn alle Feed-Erzeuger ehrlich sind, ist es möglich, dass eine Mehrheit der Feed-Erzeuger durch Ereignisse beeinflusst werden können, die außerhalb ihrer Kontrolle liegen. Das Steem-Netzwerk ist so gebaut, dass es kurzzeitige Verfälschungen des durchschnittlichen Preis-Feeds tolerieren kann, während die Community aktiv daran arbeitet, den Fehler zu beheben. Ein Beispiel für solch einen Fehler, der eventuell einwenig Zeit für die Korrektur benötigt, ist eine kurzfristige Marktmanipulation. Eine Marktmanipulation ist schwierig und teuer, um sie über einen längeren Zeitraum aufrecht zu erhalten. Ein weiteres Beispiel könnte der Ausfall einer zentralisierten Exchange-Börse oder die fehlerhafte Veröffentlichung von Daten seitens der Exchange-Börse sein.
 
-Steem factors out short-term price fluctuations by using the median price over a period of three and a half days. The median published feed is sampled every hour on the hour.
+Steem balanciert kurzfristige Preisschwankungen durch die Verwendung eines Durchschnittspreises aus dreieinhalb Tagen aus. Der durchschnittliche Preis wird dabei stündlich zur vollen Stunde ermittelt.
 
-As long as the price feed corruption lasts for less than half the moving median time window it will have minimal impact on the conversion price. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
+So lange die Preis-Feed-Verfälschung weniger als die Hälfte des beweglichen durchschnittlichen Zeitfensters anhält, wird sie nur eine minimale Auswirkung auf den Konvertierungs-Preis haben. Für den Fall, dass der Feed verfälscht wird, werden die Netzwerkteilnehmer die Möglichkeit haben, korrupte Feed-Erzeuger herauszuvoten, bevor der verfälschte Feed eine Auswirkung auf den Konvertierungspreis haben kann. Was vielleicht noch wichtiger ist: Feed-Erzeuger erhalten dadurch die Möglichkeit, Fehler zu entdecken und zu korrigieren, bevor ihre Feeds anfangen, den Preis zu beeinflussen.
 
-With a three and a half day window, community members have approximately one and a half days to respond to any issues that come up.
+Mit einem dreieinhalb-Tage Zeitfenster haben die Community-Mitglieder ca. eineinhalb Tage Zeit, um auf jegliche Probleme, die auftreten, zu reagieren.
 
-### Mitigating Timing Attacks
+### Verminderung der Timing-Angriffe
 
 Market participants have access to information faster than the blockchain’s three and a half day moving median conversion price can react. This information could be used to benefit of traders at the expense of the community. If there is a sudden increase in the value of STEEM traders could request conversion of their SBD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
 
