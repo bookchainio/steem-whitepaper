@@ -98,9 +98,9 @@ Steem Dollars werden mit dem Symbol "SBD" versehen, einer Abkürzung für "Steem
 
 ### Minimierung betrügerischer Feeds
 
-SP Besitzer wählen Individuen, so genannte Witnesses, um ihre Preis-Feeds zu veröffentlichen. The elected witnesses are presumably trusted by those who have a vested interest in the quality of the feed. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
+SP Besitzer wählen Individuen, so genannte Witnesses, um ihre Preis-Feeds zu veröffentlichen. Den gewählten Witnesses wird vermutlich Vertrauen entgegengebracht von denjenigen, die ein berechtigtes Interesse an der Qualität des Feeds haben. Indem diejenigen, die gewählt wurden, bezahlt werden, schafft Steem einen Wettbewerb auf dem Markt, um das Recht zu erwerben einen Feed zu generieren. Je mehr Feed-Erzeuger bezahlt werden, umso mehr haben sie zu verlieren durch die Veröffentlichung falscher Informationen.
 
-Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
+Angesichts einer Reihe von vertrauenswürdigen und gewählten Feed-Erzeugern, kann der tatsächliche Preis, der für die Konvertierungen genutzt wird, aus dem Durchschnittswert der Feeds abgeleitet werden. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
 
 Even if all feed producers are honest, it is possible for the majority of feed producers to be impacted by events beyond their control. The Steem network is designed to tolerate short-term corruption of the median price feed while the community actively works to correct the issue. One example of an issue that may take some time to correct is short-term market manipulation. Market manipulation is difficult and expensive to maintain for long periods of time. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
 
