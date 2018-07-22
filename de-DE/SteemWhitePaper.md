@@ -136,9 +136,9 @@ SBD zahlt den Besitzern Zinsen. Der Zinssatz wird von denselben Leuten festgeleg
 
 STEEM- und SP-Besitzer gewinnen an Einfluß, wenn Mitglieder der Community bereit sind, SBD zu halten. Diese Hebelwirkung verstärkt die Gewinne aus dem Wachstum während sie gleichzeitig zum Wachstum selbst beitragen. STEEM-Besitzer leiden unter der stärker werdenden "Verwässerung", falls der Preis fällt. Kryptowährungs-Projekte haben jedoch gezeigt, dass die Gewinne, die aus dem Wachstum der Nutzerbasis derjenigen, die dem Netzwerk mit ihrem Kapital vertrauen, letztendlich einen höheren Mehrwert für das Netzwerk erzeugen, als jede "Verwässerung", die vielleicht einmal während eines Abschwunges auftreten kann.
 
-### Setting Price Feeds
+### Die Festlegung des Preis-Feeds
 
-Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
+Der aufmerksame Leser wird bemerken, dass ein verzinstes Vermögen von begrenztem Vorrat möglicherweise höher oder niedriger gehandelt wird als das zugrundeliegende Vermögen, abhängig von anderen Möglichkeiten, Zinserträge auf dieses Vermögen zu erwirtschaften. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
 
 1. A stable exchange rate
 2. Free capital movement
