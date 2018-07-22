@@ -138,13 +138,13 @@ STEEM- und SP-Besitzer gewinnen an Einfluß, wenn Mitglieder der Community berei
 
 ### Die Festlegung des Preis-Feeds
 
-Der aufmerksame Leser wird bemerken, dass ein verzinstes Vermögen von begrenztem Vorrat möglicherweise höher oder niedriger gehandelt wird als das zugrundeliegende Vermögen, abhängig von anderen Möglichkeiten, Zinserträge auf dieses Vermögen zu erwirtschaften. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
+Der aufmerksame Leser wird bemerken, dass ein verzinstes Vermögen von begrenztem Vorrat möglicherweise höher oder niedriger gehandelt wird als das zugrundeliegende Vermögen, abhängig von anderen Möglichkeiten, Zinserträge auf dieses Vermögen zu erwirtschaften. Mit einem hohen Zinssatz, der auf einen Vermögenswert gezahlt wird, welcher an den US-Dollar gekoppelt ist, werden viele Leute den begrenzten Vorrat an Steem Dollars hochbieten, bis er nicht länger mit 1 $ bewertet wird. In der Wirtschaft gibt es ein Prinzip, das bekannt ist als die unmögliche Dreiheit[^4], die besagt, dass es unmöglich sei, alle drei der folgenden Aspekte zur gleichen Zeit zu verwirklichen:
 
-1. A stable exchange rate
-2. Free capital movement
-3. An independent monetary policy
+1. Ein stabiler Wechselkurs
+2. Freier Kapitalverkehr
+3. Eine unabhängige Geldpolitik
 
-If Steem feed producers aim to have an independent monetary policy allowing it to create and destroy Steem Dollars while simultaneously having full control over the interest rate then they will encounter problems. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
+Wenn Steem-Feed-Erzeuger auf eine unabhängige Geldpolitik hinarbeiten, die es erlaubt, Steem Dollars zu erschaffen und zu vernichten, während sie gleichzeitig die volle Kontrolle über den Zinssatz haben, wird dies zu Problemen führen. Die "unmögliche Dreiheit" sagt, dass Steem Dollars entweder den Kapitalverkehr begrenzen müssen, einen instabilen Wechselkurs mit dem Dollar haben müssen oder nur eine begrenzte Kontrolle über den Zinssatz haben dürfen.
 
 The primary concern of Steem feed producers is to maintain a stable one-to-one conversion between SBD and the U.S. Dollar (USD). Any time SBD is consistently trading above $1.00 USD interest payments must be stopped. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SBD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
 
