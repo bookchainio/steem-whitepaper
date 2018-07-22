@@ -148,9 +148,9 @@ Wenn Steem-Feed-Erzeuger auf eine unabhängige Geldpolitik hinarbeiten, die es e
 
 Das Hauptanliegen der Steem-Feed-Erzeuger ist die Gewährleistung einer stabilen 1-zu-1-Konvertierung zwischen SBD und dem U.S. Dollar (USD). Zu jeder Zeit, in der der SBD konstant über $1.00 USD gehandelt wird, muss die Zinszahlung eingestellt werden. In einem Markt, in dem 0% Zinsen auf Schulden immer noch nach einer Prämie verlangen, wäre es sicher zu sagen, der Markt ist gewillt, mehr Kredite auszugeben als Schulden, die die Community gewillt ist zu tragen. Wenn das passiert, wird ein SBD für mehr als $1.00 gehandelt und es gibt nur wenig, was die Community tun kann ohne Negativzinsen zu verlangen.
 
-If the debt-to-ownership ratio is low and SBD is trading for less than $1.00, then the interest rate should be increased. This will encourage more people to hold their SBD and support the price.
+Wenn die Schulden-Kapital-Quote niedrig ist und der SBD für weniger als $1.00 gehandelt wird, sollte der Zinssatz erhöht werden. Das wird mehr Menschen überzeugen, ihre SBD zu halten und den Preis zu stützen.
 
-If SBD trades for less than $1.00 USD and the debt-to-ownership ratio is high, then the feeds should be adjusted upward give more STEEM per SBD. This will increase demand for SBD while also reducing the debt-to-ownership ratio and returning SBD to parity with USD.
+Wenn der SBD für weniger als $1.00 gehandelt wird und die Schulden-Kapital-Quote hoch ist, dann sollte der Feed nach oben angepasst werden, um mehr STEEM pro SBD zu erhalten. Das wird die Nachfrage nach SBD erhöhen, während auch die Schulden-Kapital-Quote gesenkt und der SBD wieder mit dem USD gleichgesetzt wird.
 
 Assuming the value of STEEM is growing faster than Steem is creating new SBD, the debt-to-ownership ratio should remain under the target ratio and the interest offered benefits everyone. If the value of the network is flat or falling, then any interest offered will only make the debt-to-ownership ratio worse.
 
