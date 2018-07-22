@@ -98,7 +98,7 @@ Steem Dollars werden mit dem Symbol "SBD" versehen, einer Abkürzung für "Steem
 
 ### Minimierung betrügerischer Feeds
 
-SP Besitzer wählen Individuen, so genannte Witnesses, die Preis-Feeds veröffentlichen. Den gewählten Witnesses wird vermutlich Vertrauen entgegengebracht von denjenigen, die ein berechtigtes Interesse an der Qualität des Feeds haben. Indem diejenigen, die gewählt wurden, bezahlt werden, schafft Steem einen Wettbewerb auf dem Markt, um das Recht zu erwerben einen Feed zu generieren. Je mehr Feed-Erzeuger bezahlt werden, umso mehr haben sie zu verlieren durch die Veröffentlichung falscher Informationen.
+SP Besitzer wählen Individuen, so genannte Witnesses, die Preis-Feeds veröffentlichen. Den gewählten Witnesses wird vermutlich Vertrauen entgegengebracht von denjenigen, die ein berechtigtes Interesse an der Qualität des Feeds haben. Indem diejenigen, die gewählt wurden, bezahlt werden, schafft Steem einen Wettbewerb auf dem Markt, um das Recht zu erwerben einen Feed zu generieren. Je höher die Feed-Erzeuger bezahlt werden, umso mehr haben sie zu verlieren durch die Veröffentlichung falscher Informationen.
 
 Angesichts einer Reihe von vertrauenswürdigen und gewählten Feed-Erzeugern, kann der tatsächliche Preis, der für die Konvertierungen genutzt wird, aus dem Durchschnittswert der Feeds abgeleitet werden. Auf diese Weise kann es sein, dass, falls eine Minderheit oder ein individueller Feed-Erzeuger "Ausreißer" produziert, diese zwar nur eine minimale Auswirkung auf den tatsächlichen Durchschnittswert haben, aber dennoch Einfluss auf ihren Ruf nehmen können.
 
@@ -112,13 +112,13 @@ Mit einem dreieinhalb-Tage Zeitfenster haben die Community-Mitglieder ca. einein
 
 ### Verminderung der Timing-Angriffe
 
-Marktteilnehmer haben schneller Zugang zu Informationen, als der dreieinhalb-Tage bewegliche durchschnittliche Konvertierungspreis der Blockchain reagieren kann. Diese Informationen könnten für den Profit der Trader auf Kosten der Community benutzt werden. Im Falle eines plötzlichen Wertzuwachses von STEEM könnten Trader die Konvertierung ihrer SBD zum alten, niedrigeren Preis anfordern und danach die erhaltenen STEEM zu einem höheren Preis mit einem minimalen Risiko verkaufen.
+Marktteilnehmer haben schneller Zugang zu Informationen, als der dreieinhalb-Tage bewegliche durchschnittliche Blockchain-Konvertierungspreis reagieren kann. Diese Informationen könnten für den Profit der Trader auf Kosten der Community benutzt werden. Im Falle eines plötzlichen Wertzuwachses von STEEM könnten Trader die Konvertierung ihrer SBD zum alten, niedrigeren Preis anfordern und danach die erhaltenen STEEM zu einem höheren Preis mit einem minimalen Risiko verkaufen.
 
 Steem ebnet das Spielfeld durch das Erfordernis einer Verzögerung aller Konvertierungs-Anfragen von dreieinhalb Tagen. Das bedeutet, dass weder die Trader noch die Blockchain irgendeinen Informations-Vorteil bezüglich des Preises hat zu dem Zeitpunkt, an dem die Konvertierung ausgeführt wird.
 
 ### Minimierung des Missbrauchs von Konvertierungen
 
-Wenn Leute frei in beide Richtungen konvertieren könnten, dann könnten Trader einen Vorteil aus der Konvertierungsrate der Blockchain ziehen, indem sie große Volumina ohne Preisänderung traden. Trader, die einen massiven Preisanstieg vermuten, könnten SBD zu einem hohen Preis konvertieren (wenn es am riskantesten ist) und dann zurück konvertieren nach der Korrektur. Das Steem Protokoll schützt die Community vor dieser Form des Missbrauchs, indem es nur die Konvertierung von SBD zu STEEM erlaubt, jedoch nicht umgekehrt.
+Wenn Menschen frei in beide Richtungen konvertieren könnten, dann könnten Trader einen Vorteil aus der Konvertierungsrate der Blockchain ziehen, indem sie große Volumina ohne Preisänderung traden. Trader, die einen massiven Preisanstieg vermuten, könnten SBD zu einem hohen Preis konvertieren (wenn es am riskantesten ist) und dann zurück konvertieren nach der Korrektur. Das Steem Protokoll schützt die Community vor dieser Form des Missbrauchs, indem es nur die Konvertierung von SBD zu STEEM erlaubt, jedoch nicht umgekehrt.
 
 Die Blockchain entscheidet, wie und wann SBD geschaffen werden und wer sie bekommen soll. Das hält die Rate der SBD-Erzeugung stabil und eliminiert die meisten Wege des Missbrauchs.
 
@@ -128,7 +128,7 @@ Wenn ein Token als Kapital im Gesamtvorrat an Tokens gesehen wird, dann kann ein
 
 Eine schnelle Veränderung des STEEM-Wertes kann auch die Schulden-Kapital-Quote dramatisch verändern. Die Blockchain verhindert ein zu hohes Ansteigen der Schulden-Kapital-Quote durch die Reduzierung der Menge an STEEM, die durch SBD-Konvertierungen erworben werden, falls das Schulden-Level 10% übersteigen sollte. Wenn die Menge an SBD jemals 10% der gesamten STEEM-Marktkapitalisierung übersteigen sollte, wird die Blockchain automatisch die Menge an STEEM, die durch Konvertierungen generiert wurde, auf ein Maximum von 10% des STEEM-Marktkapitals reduzieren. Dies stellt sicher, dass die Blockchain niemals eine Schulden-Kapital-Quote von mehr als 10% haben wird.
 
-Die prozentuale Untergrenze zur Berechnung der STEEM-Erzeugung basiert auf dem Vorrat, inklusive dem STEEM-Wert aller ausstehende SBD und SP (gemäß der aktuellen Rate bzw. dem Feed).
+Die prozentuale Untergrenze zur Berechnung der STEEM-Erzeugung basiert auf dem Vorrat, inklusive dem STEEM-Wert aller ausstehenden SBD und SP (gemäß der aktuellen Rate bzw. dem Feed).
 
 ### Zinsen
 
