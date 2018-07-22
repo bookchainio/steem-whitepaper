@@ -112,11 +112,11 @@ Mit einem dreieinhalb-Tage Zeitfenster haben die Community-Mitglieder ca. einein
 
 ### Verminderung der Timing-Angriffe
 
-Market participants have access to information faster than the blockchain’s three and a half day moving median conversion price can react. This information could be used to benefit of traders at the expense of the community. If there is a sudden increase in the value of STEEM traders could request conversion of their SBD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
+Marktteilnehmer haben schneller Zugang zu Informationen, als der dreieinhalb-Tage bewegliche durchschnittliche Konvertierungspreis der Blockchain reagieren kann. Diese Informationen könnten für den Profit der Trader auf Kosten der Community benutzt werden. Im Falle eines plötzlichen Wertzuwachses von STEEM könnten Trader die Konvertierung ihrer SBD zum alten, niedrigeren Preis anfordern und danach die erhaltenen STEEM zu einem höheren Preis mit einem minimalen Risiko verkaufen.
 
-Steem levels the playing field by requiring all conversion requests to be delayed for three and a half days. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
+Steem ebnet das Spielfeld durch das Erfordernis einer Verzögerung aller Konvertierungs-Anfragen von dreieinhalb Tagen. Das bedeutet, dass weder die Trader noch die Blockchain irgendeinen Informations-Vorteil bezüglich des Preises hat zu dem Zeitpunkt, an dem die Konvertierung ausgeführt wird.
 
-### Minimizing Abuse of Conversions
+### Minimierung des Missbrauchs von Konvertierungen
 
 If people could freely convert in both directions then traders could take advantage of the blockchains conversion rates by trading large volumes without changing the price. Traders who see a massive run up in price would convert to SBD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SBD to STEEM and not the other way around.
 
