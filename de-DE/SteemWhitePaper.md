@@ -98,7 +98,7 @@ Steem Dollars werden mit dem Symbol "SBD" versehen, einer Abkürzung für "Steem
 
 ### Minimierung betrügerischer Feeds
 
-SP Besitzer wählen Individuen, so genannte Witnesses, um ihre Preis-Feeds zu veröffentlichen. Den gewählten Witnesses wird vermutlich Vertrauen entgegengebracht von denjenigen, die ein berechtigtes Interesse an der Qualität des Feeds haben. Indem diejenigen, die gewählt wurden, bezahlt werden, schafft Steem einen Wettbewerb auf dem Markt, um das Recht zu erwerben einen Feed zu generieren. Je mehr Feed-Erzeuger bezahlt werden, umso mehr haben sie zu verlieren durch die Veröffentlichung falscher Informationen.
+SP Besitzer wählen Individuen, so genannte Witnesses, die Preis-Feeds veröffentlichen. Den gewählten Witnesses wird vermutlich Vertrauen entgegengebracht von denjenigen, die ein berechtigtes Interesse an der Qualität des Feeds haben. Indem diejenigen, die gewählt wurden, bezahlt werden, schafft Steem einen Wettbewerb auf dem Markt, um das Recht zu erwerben einen Feed zu generieren. Je mehr Feed-Erzeuger bezahlt werden, umso mehr haben sie zu verlieren durch die Veröffentlichung falscher Informationen.
 
 Angesichts einer Reihe von vertrauenswürdigen und gewählten Feed-Erzeugern, kann der tatsächliche Preis, der für die Konvertierungen genutzt wird, aus dem Durchschnittswert der Feeds abgeleitet werden. Auf diese Weise kann es sein, dass, falls eine Minderheit oder ein individueller Feed-Erzeuger "Ausreißer" produziert, diese zwar nur eine minimale Auswirkung auf den tatsächlichen Durchschnittswert haben, aber dennoch Einfluss auf ihren Ruf nehmen können.
 
