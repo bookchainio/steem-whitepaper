@@ -156,11 +156,11 @@ Vorausgesetzt, der Wert von STEEM wächst schneller als die Schaffung von SBD du
 
 Tatsächlich sind Feed-Erzeuger mit der Verantwortung ausgestattet, die Geldpolitik zu steuern zu dem Zweck, eine stabile Koppelung an den USD zu gewährleisten. Der Missbrauch dieser Macht kann den Wert von STEEM beeinträchtigen, wonach SP-Besitzer gut daran tun, für Witnesses zu voten, auf die man zählen kann, um den Preis-Feed und die Zinssätze entsprechend den vorgenannten Regeln anzupassen.
 
-If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SBD.
+Wenn die Schulden-Kapital-Quote gefährlich hoch wird und Marktteilnehmer sich entscheiden, Konvertierungsanfragen zu vermeiden, denn sollte der Feed so angepasst werden, dass die sich die Rate, wieviel STEEM für die Konvertierung zu SBD gezahlt werden, erhöht.
 
-Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SBD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions.
+Veränderungen der Zinspolitik und/oder jeglicher Prämien/Vergünstigungen in der STEEM/SBD Konvertierungsrate sollten langsam und wohlüberlegt geschehen und eher die langfristigen, durchschnittlichen Abweichungen berücksichtigen, als zu versuchen, auf kurzfristige Marktbedingungen zu reagieren.
 
-It is our belief that these rules will give market participants confidence that they are unlikely lose money by holding SBD purchased at a price of $1.00. We fully expect there to be a narrow trading range between $0.95 and $1.05 for SBD under normal market conditions.
+Wir glauben daran, dass diese Regeln den Marktteilnehmern die Zuversicht geben, dass es unwahrscheinlich ist, dass sie Geld verlieren, wenn sie SBD halten, die sie zu einem Preis von $1.00 gekauft haben. Wir erwarten in vollem Umfang, dass es eine enge Handelsspanne zwischen $0.95 und $1.05 für den SBD unter normalen Marktbedingungen geben wird.
 
 ## Subjective Contributions
 
