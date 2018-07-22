@@ -128,13 +128,13 @@ Wenn ein Token als Kapital im Gesamtvorrat an Tokens gesehen wird, dann kann ein
 
 Eine schnelle Veränderung des STEEM-Wertes kann auch die Schulden-Kapital-Quote dramatisch verändern. Die Blockchain verhindert ein zu hohes Ansteigen der Schulden-Kapital-Quote durch die Reduzierung der Menge an STEEM, die durch SBD-Konvertierungen erworben werden, falls das Schulden-Level 10% übersteigen sollte. Wenn die Menge an SBD jemals 10% der gesamten STEEM-Marktkapitalisierung übersteigen sollte, wird die Blockchain automatisch die Menge an STEEM, die durch Konvertierungen generiert wurde, auf ein Maximum von 10% des STEEM-Marktkapitals reduzieren. Dies stellt sicher, dass die Blockchain niemals eine Schulden-Kapital-Quote von mehr als 10% haben wird.
 
-The percentage floors used to compute STEEM creation are based on the supply including the STEEM value of all outstanding SBD and SP (as determined by the current rate / feed).
+Die prozentuale Untergrenze zur Berechnung der STEEM-Erzeugung basiert auf dem Vorrat, inklusive dem STEEM-Wert aller ausstehende SBD und SP (gemäß der aktuellen Rate bzw. dem Feed).
 
-### Interest
+### Zinsen
 
-SBD pays holders interest. The interest rate is set by the same people who publish the price feed so that it can adapt to changing market conditions. All debt carries risk to the lender. Someone who holds SBD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SBD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
+SBD zahlt den Besitzern Zinsen. Der Zinssatz wird von denselben Leuten festgelegt, die den Preis-Feed veröffentlichen, so dass dieser sich den verändernden Marktbedingungen anpasst. Alle Schulden beinhalten ein Risiko für den Darlehensgeber. Jemand, der SBD hält ohne sie einzulösen, verleiht so gesehen der Community den Wert von einem Dollar. Sie vertrauen darauf, dass irgendwann zu einem Zeitpunkt in der Zukunft jemand bereit dazu sein wird, die SBD für einen Dollar zu kaufen oder dass es Spekulanten oder Investoren geben wird, die gewillt sind, die STEEM zu kaufen, die sie daraus konvertieren.
 
-STEEM and SP holders gain leverage when members of the community are willing to hold SBD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
+STEEM- und SP-Besitzer gewinnen an Einfluß, wenn Mitglieder der Community bereit sind, SBD zu halten. Diese Hebelwirkung verstärkt die Gewinne aus dem Wachstum während sie gleichzeitig zum Wachstum beitragen. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
 
 ### Setting Price Feeds
 
