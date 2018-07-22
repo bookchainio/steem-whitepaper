@@ -118,11 +118,11 @@ Steem ebnet das Spielfeld durch das Erfordernis einer Verzögerung aller Konvert
 
 ### Minimierung des Missbrauchs von Konvertierungen
 
-If people could freely convert in both directions then traders could take advantage of the blockchains conversion rates by trading large volumes without changing the price. Traders who see a massive run up in price would convert to SBD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SBD to STEEM and not the other way around.
+Wenn Leute frei in beide Richtungen konvertieren könnten, dann könnten Trader einen Vorteil aus der Konvertierungsrate der Blockchain ziehen, indem sie große Volumina ohne Preisänderung traden. Trader, die einen massiven Preisanstieg vermuten, könnten SBD zu einem hohen Preis konvertieren (wenn es am riskantesten ist) und dann zurück konvertieren nach der Korrektur. Das Steem Protokoll schützt die Community vor dieser Form des Missbrauchs, indem es nur die Konvertierung von SBD zu STEEM erlaubt, jedoch nicht umgekehrt.
 
-The blockchain decides how and when to create SBD and who should get it. This keeps the rate of SBD creation stable and removes most avenues of abuse.
+Die Blockchain entscheidet, wie und wann SBD geschaffen werden und wer sie bekommen soll. Das hält die Rate der SBD-Erzeugung stabil und eliminiert die meisten Wege des Missbrauchs.
 
-### Sustainable Debt to Ownership Ratios
+### Nachhaltige Fremdkapitalquote
 
 If a token is viewed as ownership in the whole supply of tokens, then a token-convertible-dollar can be viewed as debt. If the debt to ownership ratio gets too high the entire currency can become unstable. Debt conversions can dramatically increase the token supply, which in turn is sold on the market suppressing the price. Subsequent conversions require the issuance of even more tokens. Left unchecked the system can collapse leaving worthless ownership backing a mountain of debt. The higher the debt to ownership ratio becomes the less willing new investors are to bring capital to the table.
 
