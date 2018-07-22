@@ -152,9 +152,9 @@ Wenn die Schulden-Kapital-Quote niedrig ist und der SBD für weniger als $1.00 g
 
 Wenn der SBD für weniger als $1.00 gehandelt wird und die Schulden-Kapital-Quote hoch ist, dann sollte der Feed nach oben angepasst werden, um mehr STEEM pro SBD zu erhalten. Das wird die Nachfrage nach SBD erhöhen, während auch die Schulden-Kapital-Quote gesenkt und der SBD wieder mit dem USD gleichgesetzt wird.
 
-Assuming the value of STEEM is growing faster than Steem is creating new SBD, the debt-to-ownership ratio should remain under the target ratio and the interest offered benefits everyone. If the value of the network is flat or falling, then any interest offered will only make the debt-to-ownership ratio worse.
+Vorausgesetzt, der Wert von STEEM wächst schneller als die Schaffung von SBD durch Steem, dann sollte die Schulden-Kapital-Quote unter der Zielquote bleiben und der angebotene Zins für jeden von Vorteil sein. Wenn der Wert des Netzwerkes flach ist oder gar fällt, dann würde jeder angebotene Zins nur die Schulden-Kapital-Quote verschlechtern.
 
-In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
+Tatsächlich sind Feed-Erzeuger mit der Verantwortung ausgestattet, die Geldpolitik zu steuern zu dem Zweck, eine stabile Koppelung an den USD zu gewährleisten. Der Missbrauch dieser Macht kann den Wert von STEEM beeinträchtigen, wonach SP-Besitzer gut daran tun, für Witnesses zu voten, auf die man zählen kann, um den Preis-Feed und die Zinssätze entsprechend den vorgenannten Regeln anzupassen.
 
 If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SBD.
 
