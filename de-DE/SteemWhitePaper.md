@@ -122,9 +122,9 @@ Wenn Leute frei in beide Richtungen konvertieren könnten, dann könnten Trader 
 
 Die Blockchain entscheidet, wie und wann SBD geschaffen werden und wer sie bekommen soll. Das hält die Rate der SBD-Erzeugung stabil und eliminiert die meisten Wege des Missbrauchs.
 
-### Nachhaltige Fremdkapitalquote
+### Nachhaltige Schulden-Kapital-Quote
 
-If a token is viewed as ownership in the whole supply of tokens, then a token-convertible-dollar can be viewed as debt. If the debt to ownership ratio gets too high the entire currency can become unstable. Debt conversions can dramatically increase the token supply, which in turn is sold on the market suppressing the price. Subsequent conversions require the issuance of even more tokens. Left unchecked the system can collapse leaving worthless ownership backing a mountain of debt. The higher the debt to ownership ratio becomes the less willing new investors are to bring capital to the table.
+Wenn ein Token als Kapital im Gesamtvorrat an Tokens gesehen wird, dann kann ein token-konvertierbarer Dollar als Forderung betrachtet werden. Wenn die Quote zwischen Kapital und Schulden zu hoch wird, kann die gesamte Währung instabil werden. Die Konvertierung von Forderungen kann den Token-Vorrat dramatisch ansteigen lassen, der daraufhin verkauft wird und den Marktpreis drückt. Nachträgliche Konvertierungen erfordern die Ausgabe von noch mehr Tokens. Bleibt das System unkontrolliert, kann es zusammenbrechen und dabei wertloses Kapital zurücklassen, hinter dem ein Schuldenberg steht. The higher the debt to ownership ratio becomes the less willing new investors are to bring capital to the table.
 
 A rapid change in the value of STEEM can dramatically change the debt-to-ownership ratio. The blockchain prevents the debt-to-ownership ratio from getting too high, by reducing the amount of STEEM awarded through SBD conversions if the debt level were to exceed 10%. If the amount of SBD debt ever exceeds 10% of the total STEEM market cap, the blockchain will automatically reduce the amount of STEEM generated through conversions to a maximum of 10% of the market cap. This ensures that the blockchain will never have higher than a 10% debt-to-ownership ratio.
 
