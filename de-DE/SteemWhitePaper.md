@@ -96,9 +96,9 @@ Steem Dollars werden durch einen Mechanismus ähnlich einer Wandelanleihe erzeug
 
 Steem Dollars werden mit dem Symbol "SBD" versehen, einer Abkürzung für "Steem Blockchain Dollars". Das Erzeugen von SBD erfordert die Kombination eines verlässlichen Preis-Feeds mit Regelungen, um Mißbrauch zu verhindern. Einen verlässlichen Preisfeed zur Verfügung zu stellen beinhaltet drei Faktoren: die Minimierung des Einflusses eines fehlerhaften Feeds, die Maximierung der Kosten für die Schaffung eines fehlerhaften Feeds und die Minimierung der Bedeutung des Timings.
 
-### Minimizing Fraudulent Feeds
+### Minimierung betrügerischer Feeds
 
-SP holders elect individuals, called witnesses, to publish price feeds. The elected witnesses are presumably trusted by those who have a vested interest in the quality of the feed. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
+SP Besitzer wählen Individuen, so genannte Witnesses, um ihre Preis-Feeds zu veröffentlichen. The elected witnesses are presumably trusted by those who have a vested interest in the quality of the feed. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
 
 Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
 
