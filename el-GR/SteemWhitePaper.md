@@ -236,7 +236,7 @@ H μεταφορά του STEEM σε SP ονομάζεται «Power Up», εν�
 
 ### Πληρωμές
 
-When a post receives a payout it takes the form of 50% SBD and 50% SP. The Steem Power give the user increased voting and transaction power while the SBD gives the user an immediate benefit in a stable currency. As we’ve already discussed at length, SP is designed to encourage long-term holding rather than short-term selling. This encourages more users to have a vested interest in the long-term success of the platform.
+Όταν μία ανάρτηση λάβει την ανταμοιβή της, αυτή διαμοιράζεται ως εξής: το 50% είναι της μορφής SBD και το υπόλοιπο 50% Steem Power. The Steem Power give the user increased voting and transaction power while the SBD gives the user an immediate benefit in a stable currency. As we’ve already discussed at length, SP is designed to encourage long-term holding rather than short-term selling. This encourages more users to have a vested interest in the long-term success of the platform.
 
 Users also have the option to be paid in 100% SP, as well as decline payout on posts. When a user declines payout on a post, the money that would have been paid to them remains in the rewards pool, to be distributed to other users.
 
