@@ -144,19 +144,19 @@ Der aufmerksame Leser wird bemerken, dass ein verzinstes Vermögen von begrenzte
 2. Freier Kapitalverkehr
 3. Eine unabhängige Geldpolitik
 
-Wenn Steem-Feed-Produzenten auf eine unabhängige Geldpolitik hinarbeiten, die es erlaubt, Steem Dollars zu erschaffen und zu vernichten, während sie gleichzeitig die volle Kontrolle über den Zinssatz haben, wird dies zu Problemen führen. Die "unmögliche Dreiheit" sagt, dass Steem Dollars entweder den Kapitalverkehr begrenzen müssen, einen instabilen Wechselkurs mit dem Dollar haben müssen oder nur eine begrenzte Kontrolle über den Zinssatz haben dürfen.
+Wenn Steem-Feed-Produzenten auf eine unabhängige Geldpolitik hinarbeiten, die es erlaubt, Steem Dollars zu erschaffen und zu vernichten, während sie gleichzeitig die volle Kontrolle über den Zinssatz haben, wird dies zu Problemen führen. Das Trilemma des Wechselkursregimes besagt, dass Steem Dollars entweder den Kapitalverkehr begrenzen, einen instabilen Wechselkurs mit dem Dollar haben müssen oder nur eine begrenzte Kontrolle über den Zinssatz haben dürfen.
 
-Das Hauptanliegen der Steem-Feed-Erzeuger ist die Gewährleistung einer stabilen 1-zu-1-Konvertierung zwischen SBD und dem U.S. Dollar (USD). Zu jeder Zeit, in der der SBD konstant über $1.00 USD gehandelt wird, muss die Zinszahlung eingestellt werden. In einem Markt, in dem 0% Zinsen auf Schulden immer noch nach einer Prämie verlangen, wäre es sicher zu sagen, der Markt ist gewillt, mehr Kredite auszugeben als Schulden, die die Community gewillt ist zu tragen. Wenn das passiert, wird ein SBD für mehr als $1.00 gehandelt und es gibt nur wenig, was die Community tun kann ohne Negativzinsen zu verlangen.
+Das Hauptanliegen der Steem-Feed-Produzenten ist die Gewährleistung einer stabilen 1-zu-1-Konvertierung zwischen SBD und dem U.S. Dollar (USD). Zu jeder Zeit, in der der SBD konstant über $1.00 USD gehandelt wird, muss die Zinszahlung eingestellt werden. In einem Markt, in dem 0% Zinsen auf Schulden immer noch nach einer Prämie verlangen, wäre es sicher zu sagen, der Markt ist gewillt, mehr Kredite auszugeben als Schulden, die die Community gewillt ist zu tragen. Wenn das passiert, wird ein SBD für mehr als $1.00 gehandelt und es gibt nur wenig, was die Community tun kann ohne Negativzinsen zu verlangen.
 
 Wenn die Schulden-Kapital-Quote niedrig ist und der SBD für weniger als $1.00 gehandelt wird, sollte der Zinssatz erhöht werden. Das wird mehr Menschen überzeugen, ihre SBD zu halten und den Preis zu stützen.
 
 Wenn der SBD für weniger als $1.00 gehandelt wird und die Schulden-Kapital-Quote hoch ist, dann sollte der Feed nach oben angepasst werden, um mehr STEEM pro SBD zu erhalten. Das wird die Nachfrage nach SBD erhöhen, während auch die Schulden-Kapital-Quote gesenkt und der SBD wieder mit dem USD gleichgesetzt wird.
 
-Vorausgesetzt, der Wert von STEEM wächst schneller als die Schaffung von SBD durch Steem, dann sollte die Schulden-Kapital-Quote unter der Zielquote bleiben und der angebotene Zins für jeden von Vorteil sein. Wenn der Wert des Netzwerkes flach ist oder gar fällt, dann würde jeder angebotene Zins nur die Schulden-Kapital-Quote verschlechtern.
+Vorausgesetzt, der Wert von STEEM wächst schneller als die Schaffung von SBD durch Steem, dann sollte die Schulden-Kapital-Quote unter der Zielquote bleiben und der angebotene Zins für jeden von Vorteil sein. Wenn der Wert des Netzwerkes stagniert oder gar fällt, dann würde jeder angebotene Zins nur die Schulden-Kapital-Quote verschlechtern.
 
 Tatsächlich sind Feed-Erzeuger mit der Verantwortung ausgestattet, die Geldpolitik zu steuern zu dem Zweck, eine stabile Koppelung an den USD zu gewährleisten. Der Missbrauch dieser Macht kann den Wert von STEEM beeinträchtigen, wonach SP-Besitzer gut daran tun, für Witnesses zu voten, auf die man zählen kann, um den Preis-Feed und die Zinssätze entsprechend den vorgenannten Regeln anzupassen.
 
-Wenn die Schulden-Kapital-Quote gefährlich hoch wird und Marktteilnehmer sich entscheiden, Konvertierungsanfragen zu vermeiden, denn sollte der Feed so angepasst werden, dass die sich die Rate, wieviel STEEM für die Konvertierung zu SBD gezahlt werden, erhöht.
+Wenn die Schulden-Kapital-Quote gefährlich hoch wird und Marktteilnehmer sich entscheiden, Konvertierungsanfragen zu vermeiden, denn sollte der Feed so angepasst werden, dass sich die Rate, wieviel STEEM für die Konvertierung zu SBD gezahlt werden, erhöht.
 
 Veränderungen der Zinspolitik und/oder jeglicher Prämien/Vergünstigungen in der STEEM/SBD Konvertierungsrate sollten langsam und wohlüberlegt geschehen und eher die langfristigen, durchschnittlichen Abweichungen berücksichtigen, als zu versuchen, auf kurzfristige Marktbedingungen zu reagieren.
 
