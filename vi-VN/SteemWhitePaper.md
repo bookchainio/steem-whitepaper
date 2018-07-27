@@ -258,19 +258,19 @@ This process is designed to provide the best reliability while ensuring that eve
 
 Because the active witnesses are known in advance, Steem is able to schedule witnesses to produce blocks every 3 seconds. Witnesses synchronize their block production via the NTP protocol. A variation of this algorithm has been in use by the BitShares network for over a year where it has been proven to be reliable.
 
-# Eliminating Transaction Fees
+# Loại bỏ những loại phí giao dịch
 
-Steem goes to great lengths to reward people for contributing to the network. It would be counterproductive to turn around and charge people every time they attempt to interact with the community.
+Steem đã tạo ra một tiến bộ thực sự khi thực hiện việc trả thưởng cho những người dùng đã đóng góp xây dựng cộng đồng. Phương pháp này sẽ trở nên phản tác dụng nếu như lấy phí của họ mỗi khi họ tương tác với cộng đông.
 
-Blockchain technology currently depends upon transaction fees to prevent spam. These fees suffer all of the known problems with microtransactions and prevent blockchains from being used for low-value transactions. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
+Hiện nay công nghệ Blockchain chủ yếu dựa vào các phí giao dịch trên để ngăn chặn các cuộc tấn công mạng như Spam. Những phí này sẽ được dùng để giải quyết tất cả các vẫn đề liên quan đến giao dịch vi mô và giúp blockchain không bị lạm dụng nhằm thực hiện những giao dịch có giá trị thấp. Các ứng dụng phi tập trung thường miễn phí giao dịch cho người dùng nhằm cạnh tranh với những ứng dụng tập trung khác. Bài viết này đưa ra những giải pháp để loại bỏ các chi phí khi sử dụng Steem, đồng thời có thể mở rộng những ứng dụng phi tập trung tiền đề trước đây.
 
-## The Problem With Fees
+## Các vấn đề liên quan đến chi phí
 
-Blockchains are decentralized networks where all transactions are broadcast to all peers. Every so often a block is produced that includes some or all of the pending transactions. All blockchains must find a solution to prevent malicious users from consuming all of the available network capacity with worthless transactions. These worthless transactions can prevent other valuable transactions from being processed and ultimately destroy the network.
+Nền tảng Blockchain là mạng lưới phi tập trung trong đó tất cả các giao dịch đều được minh bạch đến các hệ thống khác. Một nền tảng được tạo ra sẽ phát sinh một vài hoặc nhiều giao dịch chờ xử lý. Những người lợi dụng dung lượng có sẵn trong hệ thống để thực hiện các giao dịch không có giá trị đều bị Blockchain ngăn chặn. Những giao dịch này có thể gây cản trở trong xử lý những giao dịch có giá trị khác và gây hậu quả phá hủy cả hệ thống.
 
-The solution adopted by most blockchains thus far is to charge a minimum transaction fee. A fee worth just a few cents is enough to make attacking the network expensive and unprofitable. While this approach solves the spam problem, it introduces new problems. Imagine solving the email spam problem by introducing a small fee on every email; people wouldn’t use email.
+Để sử dụng những ứng dụng tương thích với nền tảng Blockchain đều phải trả phí. Một khoản phí chỉ tốn vài xu nhưng đủ để ngăn chặn một cuộc tấn công mạng mà có thể gây ra những tổn thất nặng nề. Trong khi giải quyết vấn đề tấn công mạng như Spam thì phát sinh những khó khăn khác. Hãy tưởng tượng mọi người còn muốn dùng email nữa không nếu phải trả một khoản phí để ngăn chặn Spam.
 
-### Micropayments Don’t Work
+### Hệ thống thanh toán vi mô không còn hữu ích
 
 The fundamental problem with charging transaction fees is that micropayments don’t work, especially for low-value user actions. When a fee is charged on every transaction, it limits the types of transactions that a decentralized network can process. Regardless of how rational the argument for the necessity of fees, users still hate the experience of being nickeled and dimed for everything that they do.
 
