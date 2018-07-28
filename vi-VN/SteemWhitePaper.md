@@ -302,9 +302,9 @@ Trong hệ thống phi tập trung không thể ngăn việc lưu trữ reCAPTCH
 
 Nền tảng Blockchain được ví như một nhà cung cấp dịch vụ Internet (ISP) sở hữu tất cả các loại cáp trong thị trấn và có một số lượng băng thông đủ lớn để có thể cung cấp bất cứ lúc nào. Những người dân sống trong thị trấn có thể mua cổ phần của ISP và đổi lại họ có quyền sử dụng một phần băng thông có sẵn đấy.
 
-ISP đưa ra hai lựa chọn, chạy hệ thống dự trữ toàn phần và hệ thống dự trữ tỷ lệ. Under a full reserve system each user is only allowed a fraction of the maximum bandwidth proportional to her shares. Because not everyone uses the Internet at the same time, the town’s network would be significantly underutilized.
+ISP đưa ra hai lựa chọn, chạy hệ thống dự trữ toàn phần và hệ thống dự trữ tỷ lệ. Khi chạy hệ thống dự trữ toàn phần thì người dùng chỉ được phép sử dụng số băng thông tương ứng với số cổ phiếu của mình. Hệ thống Internet của thị trấn sẽ không được sử dụng một cách tối đa bởi vì không phải ai cũng sử dụng Internet cùng một lúc.
 
-Under a fractional reserve system the individual users could utilize more bandwidth than they are entitled to at any given point in time so long as not everyone uses the Internet at the same time. The problem with operating a fractional reserve is that congestion occurs anytime too many people wish to use the network at the same time. The ISP needs a way to prioritize bandwidth during congested periods. In the most extreme case, a fully congested network must revert to a full reserve system. The challenge is setting the proper fractional reserve ratio.
+Khi chạy hệ thống dự trữ tỷ lệ thì mỗi cá nhân có thể sử dụng nhiều băng thông hơn so với lượng băng thông họ được hưởng tại thời điểm đó, miễn là không phải tất cả mọi người sử dụng Internet cùng một lúc. Có một nhược điểm khi chay hệ thống dự trữ tỷ lệ là nếu có quá nhiều người sử dụng Internet cùng một lúc thì sẽ bị nghẽn mạng. Trong thời gian nghẽn mạng ISP cần tìm cách để ưu tiên băng thông. Trường hợp xấu nhất là mạng bị nghẽn hoàn toàn thì sẽ được chuyển sang chạy hệ thống dự trữ toàn phần. Vấn đề là cài đặt dự trữ tỷ lệ sao cho tương thích.
 
 ## Bandwidth Instead of Micropayment Channels
 
