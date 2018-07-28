@@ -162,9 +162,9 @@ Veränderungen der Zinspolitik und/oder jeglicher Prämien/Vergünstigungen in d
 
 Wir glauben daran, dass diese Regeln den Marktteilnehmern die Zuversicht geben, dass es unwahrscheinlich ist, dass sie Geld verlieren, wenn sie SBD halten, die sie zu einem Preis von $1.00 gekauft haben. Wir erwarten in vollem Umfang, dass es eine enge Handelsspanne zwischen $0.95 und $1.05 für den SBD unter normalen Marktbedingungen geben wird.
 
-## Subjective Contributions
+## Subjektive Beiträge
 
-Subjective Proof of Work presents an alternative approach to distributing a currency that improves upon fully *objective* Proof of Work systems such as mining. The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
+Der subjektive Proof of Work präsentiert einen weiteren Ansatz zur Verteilung einer Währung, der vollständig *objektive* Proof of Work-Systeme, wie das Mining, verbessert. The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
 
 In effect, the criteria by which work is evaluated is completely subjective and its definition lives outside the source code itself. One community may wish to reward artists, another poets, and another comedians. Other communities may choose to reward charitable causes or help advance political agendas.
 
