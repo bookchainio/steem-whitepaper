@@ -427,9 +427,9 @@ H μεταφορά του STEEM σε SP ονομάζεται «Power Up», εν�
 
 Το 75% των νέων νομισμάτων που δημιουργούνται, χρηματοδοτούν το κοινό ταμείο ανταμοιβών, το οποίο μοιράζεται μεταξύ δημιουργών και επιμελητών. Το 15% των νέων νομισμάτων μοιράζονται στους κατόχους SP. Το υπόλοιπο 10% πληρώνει τους witness που υποστηρίζουν το δίκτυο.
 
-### Αντίκτυπο Του Βαθμού Δημιουργίας Νομισμάτων
+### Αντίκτυπο Του Ρυθμού Δημιουργίας Νομισμάτων
 
-It is often said that a coin with an inflationary model is not sustainable, but we know from countless real-world examples that the quantity of money does not have a direct and immediate impact on its value, though it certainly plays a role.
+Συχνά αναφέρεται πως ένα πληθωριστικό νόμισμα δεν είναι βιώσιμο, αλλά γνωρίζουμε από αμέτρητα παραδείγματα στον κόσμο μας ότι η ποσότητα των χρημάτων δεν έχει άμεση επίδραση στην αξία του, αν και βεβαίως παίζει κάποιο ρόλο.
 
 From August 2008 through January 2009 the U.S. money supply[^15] grew from $871B to $1,737B, a rate of over 100% per year and then continued to grow at about 20% per year for the next 6 years. Έτσι η προμήθεια χρήματος στις Ηνωμένες Πολιτείες έχει αυξηθεί κατά 4.59x μέσα σε λιγότερο από 7 χρόνια. During that same time, the value of the dollar relative to goods and services has fallen less than 10% according to the government's price index[^16]. Αυτό το πραγματικό παράδειγμα προβάλει ότι η προμήθεια είναι μόνο ένα συστατικό της τιμής.
 
