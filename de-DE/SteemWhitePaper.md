@@ -164,9 +164,9 @@ Wir glauben daran, dass diese Regeln den Marktteilnehmern die Zuversicht geben, 
 
 ## Subjektive Beiträge
 
-Der subjektive Proof of Work präsentiert einen weiteren Ansatz zur Verteilung einer Währung, der vollständig *objektive* Proof of Work-Systeme, wie das Mining, verbessert. The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
+Der subjektive Proof of Work präsentiert einen weiteren Ansatz zur Verteilung einer Währung, der vollständig *objektive* Proof of Work-Systeme, wie das Mining, verbessert. Die Anwendungsmöglichkeiten einer Währung, die den *subjektiven* Proof of Work implementiert, sind weit größer als jedes *objektive* Proof of Work-System, da sie zum Aufbau einer Community um jedes Konzept herum verwendet werden kann, das einen hinreichend definierten Zweck hat. Wenn Individuen einer Community beitreten, übernehmen sie dabei ein bestimmtes Maß an Überzeugungen und können über die Verstärkung der Werte oder des Zwecks der Community abstimmen.
 
-In effect, the criteria by which work is evaluated is completely subjective and its definition lives outside the source code itself. One community may wish to reward artists, another poets, and another comedians. Other communities may choose to reward charitable causes or help advance political agendas.
+Tatsächlich sind die Kriterien, mit denen Arbeit bewertet wird, vollständig subjektiv und ihre Definition befindet sich außerhalb des Quellcodes selbst. Eine Community möchte vielleicht Künstler belohnen, eine andere Poeten und eine weitere Comedians. Andere Communities wählen vielleicht das Belohnen von wohltätigen Zwecken oder helfen, politische Agenden voranzutreiben.
 
 The value each currency achieves depends upon the demand for influence within a particular community and how large the market believes each community can get. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
 
