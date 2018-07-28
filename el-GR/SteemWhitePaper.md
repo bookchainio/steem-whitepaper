@@ -431,7 +431,7 @@ H μεταφορά του STEEM σε SP ονομάζεται «Power Up», εν�
 
 Συχνά αναφέρεται πως ένα πληθωριστικό νόμισμα δεν είναι βιώσιμο, αλλά γνωρίζουμε από αμέτρητα παραδείγματα στον κόσμο μας ότι η ποσότητα των χρημάτων δεν έχει άμεση επίδραση στην αξία του, αν και βεβαίως παίζει κάποιο ρόλο.
 
-From August 2008 through January 2009 the U.S. money supply[^15] grew from $871B to $1,737B, a rate of over 100% per year and then continued to grow at about 20% per year for the next 6 years. Έτσι η προμήθεια χρήματος στις Ηνωμένες Πολιτείες έχει αυξηθεί κατά 4.59x μέσα σε λιγότερο από 7 χρόνια. During that same time, the value of the dollar relative to goods and services has fallen less than 10% according to the government's price index[^16]. Αυτό το πραγματικό παράδειγμα προβάλει ότι η προμήθεια είναι μόνο ένα συστατικό της τιμής.
+Από τον Αύγουστο του 2008 μέχρι τον Ιανουάριο του 2009, η προμήθεια χρήματος των Ηνωμένων Πολιτειών[^15] αυξήθηκε από τα $871B στα $1.737B, αναλογία αύξησης πάνω από 100% ανά έτος, και συνέχισε να αυξάνεται κατά περίπου 20% ανά έτος για τα επόμενα 6 έτη. Έτσι η προμήθεια χρήματος στις Ηνωμένες Πολιτείες έχει αυξηθεί κατά 4.59x μέσα σε λιγότερο από 7 χρόνια. During that same time, the value of the dollar relative to goods and services has fallen less than 10% according to the government's price index[^16]. Αυτό το πραγματικό παράδειγμα προβάλει ότι η προμήθεια είναι μόνο ένα συστατικό της τιμής.
 
 For the first 2 years of Bitcoin’s life the network sustained an annual inflation rate[^17] of over 100%. Για τα 5 πρώτα χρόνια ήταν πάνω απο 30%, και για τα πρώτα 8 χρόνια ήταν πάνω από το 10%. All told the total “spending” Steem does to fund content, curation, and block production amounts to less than 10% APR.
 
