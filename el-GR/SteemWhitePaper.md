@@ -400,7 +400,7 @@ H μεταφορά του STEEM σε SP ονομάζεται «Power Up», εν�
 
 ## Αρική Κατανομή & Προσφορά
 
-The Steem network started with a currency supply of 0 and allocated STEEM via proof of work at a rate of approximately 40 STEEM per minute to miners, with an additional 40 STEEM per minute being created to seed the content and curation reward pools (for a total of 80 STEEM per minute). Then the network started rewarding users who converted to SP. At this point, STEEM grew at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
+Το δίκτυο Steem ξεκίνησε με αρχική κυκλοφορία 0 νομισμάτων και διένειμε STEEM μέσω του συστήματος απόδειξης εργασίας (Proof of Work) με ρυθμό περίπου 40 STEEM το λεπτό στους miners, με επιπλέον 40 STEEM το λεπτό να δημιουργούνται για να χρησιμοποιηθούν ως αρχικά χρήματα για στο κοινό ταμείο ανταμοιβών για περιεχόμενο και επιμέλεια (με σύνολο τα 80 STEEM ανά λεπτό). Then the network started rewarding users who converted to SP. At this point, STEEM grew at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
 
 Ανταμοιβές Συμβολής:
 
