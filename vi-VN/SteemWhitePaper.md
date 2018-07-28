@@ -280,9 +280,9 @@ Hệ thống thanh toán vi mô cũng giống như các hình thức thanh toán
 
 – Clay Shirky[^8]
 
-In the world of financial payments, small fees are acceptable because the value of the transaction is extremely high relative to the fee charged, and the buyer has already made a decision to buy. The world of potential blockchain applications is far greater than just financial payments and includes many necessary transactions for which fees are simply unacceptable to users.
+Trong mạng lưới thanh toán tài chính, người dùng sẵn sàng trả phí vì giá trị của giao dịch còn lớn hơn rất nhiều so với khoản phí bỏ ra. Trong khi những ứng dụng đầy tiềm năng trên nền tảng Blockchain tuyệt vời hơn rất nhiều so với mạng lưới thanh toàn tài chính thì người dùng lại không sẵn sàng trả phí cho những giao dịch cần thiết.
 
-Systems like BitShares, Nxt, Ripple, Counter Party and Stellar all allow users to place limit orders on the blockchain and all of them charge users a small fee to perform this action. Later if the user wishes to cancel their order, another fee is charged. Systems like Ethereum take micropayments to a whole new level: charging per calculation. All of these systems struggle to attract new mainstream users for the same reasons that a decentralized search engine would struggle to attract users from Google if it charged a small fee for every search. It doesn’t matter how good the service is, people expect certain things to be free. This is true even if a user ends up paying more overall under a different fee structure.
+Một số những hệ thống như BitShares, Nxt, Ripple, Counter Party và Stellar đều lấy phí của người dùng khi họ muốn đặt lệnh trên nền tảng Blockchain. Sau đó nếu người dùng muốn hủy lệnh thì họ lại phải trả thêm một khoản phí khác. Những hệ thống như Ethereum đều dùng thanh toán vi mô để tính phí cho tất cả các mức giao dịch. Tất cả những hệ thống này đều đang cạnh tranh với nhau nhằm thu hút những người dùng mới cũng như kéo những người sử dụng Google sang sử dụng công cụ tìm kiếm phi tập trung có tính phí của họ. It doesn’t matter how good the service is, people expect certain things to be free. This is true even if a user ends up paying more overall under a different fee structure.
 
 ### Fees are a Barrier to Entry
 
