@@ -2,7 +2,7 @@
 
 ## Μια δημόσια πλατφόρμα περιεχομένου, βασισμένη στα κίνητρα και στο blockchain.
 
-August 2017
+Αύγουστος 2017
 
 # Σημειώσεις Μεταφραστών
 
@@ -396,9 +396,9 @@ H μεταφορά του STEEM σε SP ονομάζεται «Power Up», εν�
 
 Με την πρόσφατη παρουσίαση της τεχνολογίας Optane™ της Intel[^14], είναι πλέον βιώσιμο να είναι όλα τα δεδομένα φορτωμένα στη μνήμη. Πρέπει να είναι δυνατόν από εμπορικά μηχανήματα υπολογιστών, να μπορούν να υποστηρίξουν όλη την επιχειρηματική λογική του Steem σε ένα μονάχα υπολογιστικό νήμα, με όλες τις δημοσιεύσεις αποθηκευμένες στη μνήμη για γρήγορη κατάταξη σε πίνακες ευρετηρίου. Ακόμη και η Google κρατάει το ευρετήριο της για ολόκληρο το ίντερνετ στη μνήμη RAM. Η χρήση τεχνολογίας blockchain, κάνει μηδαμινή την δημιουργία αντιγράφων της βάσης δεδομένων μεταξύ μηχανημάτων, για την αποφυγή απώλειας δεδομένων. Όσο η τεχνολογία Optane™ γίνεται ευρέως χρησιμοποιούμενη, η μνήμη RAM θα γίνεται πιο γρήγορη ενώ θα αποκτήσει και μονιμότητα στην αποθήκευση δεδομένων. Με άλλα λόγια, το Steem είναι σχεδιασμένο για τις επερχόμενες αρχιτεκτονικές και είναι σχεδιασμένο να επεκτείνεται εύκολα.
 
-# Κατανομή & Προμήθεια
+# Κατανομή & Προσφορά
 
-## Initial Allocation & Supply
+## Αρική Κατανομή & Προσφορά
 
 The Steem network started with a currency supply of 0 and allocated STEEM via proof of work at a rate of approximately 40 STEEM per minute to miners, with an additional 40 STEEM per minute being created to seed the content and curation reward pools (for a total of 80 STEEM per minute). Then the network started rewarding users who converted to SP. At this point, STEEM grew at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
 
