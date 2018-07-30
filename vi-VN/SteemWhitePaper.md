@@ -80,7 +80,7 @@ Những công ty khởi nghiệp đều đòi hỏi một sự cam kết đầu 
 
 Trong thế giới của tiền điện tử, những người đầu cơ thường nhảy từ đồng tiền này sang đồng tiền khác, chủ yếu dựa vào nhận định đồng nào được mong đợi sẽ phát triển nhanh trong tương lai gần. Steem muốn xây dựng một cộng đồng mà chủ yếu được sở hữu và được chi phối một cách hoàn toàn bởi những người có một tư tưởng muốn gắn bó lâu dài.
 
-Người dùng có khả năng ràng buộc các STEEM của họ trong một kế hoạch đầu tư kéo dài 13 tuần, và điều đó sẽ mang lại cho họ thêm một số lợi ích khác trong nền tảng này. STEEM that has been committed to a thirteen week vesting schedule is called Steem Power (SP). SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
+Người dùng có khả năng ràng buộc các STEEM của họ trong một kế hoạch đầu tư kéo dài 13 tuần, và điều đó sẽ mang lại cho họ thêm một số lợi ích khác trong nền tảng này. Những STEEM mà được dùng cho kế hoạch đầu tư mười ba tuần thì được gọi là Steem Power (SP). Số dư SP (sau khi thực hiện sự cân đối tài khoản) không thể chuyển nhượng và không thể chia hết trừ các yêu cầu tự động chuyển đổi định kỳ. Điều này có nghĩa là SP không thể được giao dịch một cách dễ dàng trên các sàn giao dịch tiền điện tử.
 
 When users vote on content, their influence over the distribution of the rewards pool is directly proportional to the amount of SP that they have. Users with more SP have more influence on the distribution of rewards. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
 
