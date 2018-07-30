@@ -314,9 +314,9 @@ Mỗi cá nhân khi sử dụng băng thông cần tính toán sao cho có thể
 
 Tính toán lượng dùng băng thông trung bình hàng tuần theo chúng tôi là cần thiết. Mỗi lần thực hiện một giao dịch được tính là một lần sử dụng băng thông trung bình. Tại thời điểm giao dịch nếu sử dụng quá số băng thông trung bình hệ thống cho phép thì giao dịch đấy sẽ bị dừng cho đến khi băng thông trung bình quay trở lại đúng giới hạn.
 
-### Impact of Capacity
+### Sức ảnh hưởng của dung lượng lưu trữ
 
-Blockchain capacity isn’t necessarily capped. It is well within the technological capability of internet infrastructure to increase the Bitcoin block size to 10MB which in turn will reduce the minimum required balance by a factor of 10. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second.
+Trên nền tảng Blockchain, dung lượng lưu trữ là không giới hạn. It is well within the technological capability of internet infrastructure to increase the Bitcoin block size to 10MB which in turn will reduce the minimum required balance by a factor of 10. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second.
 
 ### Comparison to Fees
 
