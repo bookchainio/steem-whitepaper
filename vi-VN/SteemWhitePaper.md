@@ -106,7 +106,7 @@ Ngay cả khi tất cả những người cung cấp dữ liệu đều trung th
 
 Steem cân bằng biến động giá ngắn hạn bằng cách sử dụng giá trung bình là ba ngày rưỡi. Nguồn cấp dữ liệu giá trung bình sẽ được thống kê mẫu trong mỗi giờ.
 
-As long as the price feed corruption lasts for less than half the moving median time window it will have minimal impact on the conversion price. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
+Chừng nào sự tham nhũng nguồn cung cấp dữ liệu giá còn tồn tại ít hơn một nửa thời gian di chuyển trung bình thì nó vẫn sẽ có tác động tối thiểu tới mức giá chuyển đổi. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
 
 With a three and a half day window, community members have approximately one and a half days to respond to any issues that come up.
 
