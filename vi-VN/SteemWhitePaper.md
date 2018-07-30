@@ -326,7 +326,7 @@ Giả sử một nhà đầu tư sở hữu lượng BTC trị giá $25 và th�
 
 Hệ thống các tài khoản trên nền tảng Steem đều có balance minh bạch (balance là số dư sau khi thực hiện cân đối tài khoản) nên đã giúp việc áp dụng thuật toán hạn chế tốc độ dựa trên băng thông được triển khai một cách dễ dàng. Bất kỳ một tài khoản nào có số balance nhỏ hơn mức tối thiểu cho phép thì việc thực hiện một giao dịch một tuần là điều không thể. Điều này có nghĩa là tất cả những tài khoản mới lập muốn được thực hiện giao dịch thì balance phải đạt mực tối thiểu này. Hay hiểu một cách khác là người dùng cũng có thể thực hiện các giao dịch với giá trị nhỏ miễn là giữ được balance ở mức theo yêu cầu và tài khoản hoạt động đều đặn.
 
-It is possible for a low-balance account created during a time of low usage to become inaccessible if the network usage picks up. The funds could be recovered at any time by temporarily delegating a larger balance to the account.
+Với một tài khoản có số balance dưới mức tối thiểu và ít hoạt động thì việc bị xóa tài khoản là điều có thể xảy ra. The funds could be recovered at any time by temporarily delegating a larger balance to the account.
 
 In order to maintain a reasonable user experience with a minimum number of hung accounts, all new accounts should start out with a balance 10 times the minimum required to transact weekly. This way even if demand increases by a factor of 10 the account will remain viable.
 
