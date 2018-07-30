@@ -104,7 +104,7 @@ Nhờ có một số người cung cấp dữ liệu đáng tin cậy được l
 
 Ngay cả khi tất cả những người cung cấp dữ liệu đều trung thực, thì phần lớn trong số họ vẫn có thể sẽ bị ảnh hưởng bởi các sự kiện nằm ngoài tầm kiểm soát của họ. Mạng lưới Steem được thiết kế với khả năng giữ ổn định với sự tham nhũng ngắn hạn của nguồn cấp giá trung bình, trong khi cộng đồng đang tích cực làm việc để khắc phục vấn đề này. Một ví dụ về vấn đề mà có thể mất một thời gian để khắc phục là thao túng thị trường ngắn hạn. Việc thao túng thị trường thì rất khó khăn và tốn kém để có thể duy trì trong một khoảng thời gian dài. Một ví dụ khác là sự thất bại của sàn giao dịch tập trung hoặc sự tham nhũng về dữ liệu được công bố bởi sàn giao dịch.
 
-Steem factors out short-term price fluctuations by using the median price over a period of three and a half days. The median published feed is sampled every hour on the hour.
+Steem cân bằng biến động giá ngắn hạn bằng cách sử dụng giá trung bình là ba ngày rưỡi. Nguồn cấp dữ liệu giá trung bình sẽ được thống kê mẫu trong mỗi giờ.
 
 As long as the price feed corruption lasts for less than half the moving median time window it will have minimal impact on the conversion price. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
 
