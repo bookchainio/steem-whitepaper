@@ -316,11 +316,11 @@ Tính toán lượng dùng băng thông trung bình hàng tuần theo chúng tô
 
 ### Sức ảnh hưởng của dung lượng lưu trữ
 
-Trên nền tảng Blockchain, dung lượng lưu trữ là không giới hạn. It is well within the technological capability of internet infrastructure to increase the Bitcoin block size to 10MB which in turn will reduce the minimum required balance by a factor of 10. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second.
+Trên nền tảng Blockchain, dung lượng lưu trữ là không giới hạn. Trong công nghệ lưu trữ dữ liệu của cơ sở hạ tầng mạng, để tăng kích thước khối Bitcoin lên đến 10MB thì dung lượng rất cần thiết, tuy nhiên kích thước khối sẽ làm giảm số dư tối thiểu sau khi thực hiện cân đối tài khoản nếu tính theo hệ số 10. Nhờ dung lượng lưu trữ, Bitcoin có thể tăng khả năng xử lý từ khoảng 3 giao dịch lên đến hơn 1000 giao dịch mỗi giây.
 
-### Comparison to Fees
+### So sánh các khoản phí
 
-If we assume a user with $25 dollars worth of BTC transacts once per week and pays a $0.04 cent fee each time then they would pay over $2.00 in fees per year. A user would have to earn a 8% rate of return on their $25 dollars just to break even with paying fees. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
+Giả sử một nhà đầu tư sở hữu lượng BTC trị giá $25 và thực hiện giao dịch một lần / tuần thì phải trả $0.04 lệ phí như vậy một năm người đấy phải trả hơn $2.00 tiền phí. A user would have to earn a 8% rate of return on their $25 dollars just to break even with paying fees. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
 
 ### Account Creation
 
