@@ -322,7 +322,7 @@ Trên nền tảng Blockchain, dung lượng lưu trữ là không giới hạn.
 
 Giả sử một nhà đầu tư sở hữu lượng BTC trị giá $25 và thực hiện giao dịch một lần / tuần thì phải trả $0.04 lệ phí như vậy một năm người đấy phải trả hơn $2.00 tiền phí. Vậy với số vốn ban đầu là $25 thì nhà đầu tư phải trích 8% lợi nhuận để trả phí. Như vậy bằng cách thực hiện giao dịch dựa vào giới hạn tỷ lệ sẽ giúp nhà đầu tư giữ được tiền của họ trên nền tảng Blockchain hơn là dựa trên lệ phí, với nhà đầu tư có số vốn 25$ BTC ở trên đã có thể tiếp kiệm được 2$ tiền phí trong một năm. Chỉ với số vốn là $175 nhà đầu tư có thể thực hiện giao dịch hàng ngày và tiết kiệm được $14 một năm.
 
-### Account Creation
+### Tạo tài khoản
 
 Hệ thống các tài khoản trên nền tảng Steem đều có balance minh bạch (balance là số dư sau khi thực hiện cân đối tài khoản) nên đã giúp việc áp dụng thuật toán hạn chế tốc độ dựa trên băng thông được triển khai một cách dễ dàng. Bất kỳ một tài khoản nào có số balance nhỏ hơn mức tối thiểu cho phép thì việc thực hiện một giao dịch một tuần là điều không thể. Điều này có nghĩa là tất cả những tài khoản mới lập muốn được thực hiện giao dịch thì balance phải đạt mức tối thiểu này. Hay hiểu một cách khác là người dùng cũng có thể thực hiện các giao dịch với giá trị nhỏ miễn là giữ được balance ở mức theo yêu cầu và tài khoản hoạt động đều đặn.
 
@@ -330,7 +330,7 @@ Với một tài khoản có số balance dưới mức tối thiểu và ít ho
 
 Để duy trì những người dùng có nhu cầu thật sự muốn giao dịch hàng tuần cũng như hạn chế số lượng các tài khoản treo, tất cả những tài khoản mới lập phải có balance nhiều gấp 10 lần so với mức tối thiểu. Bằng cách này, cho dù nhu cầu tăng lên theo hệ số 10 thì tài khoản vẫn sẽ tồn tại.
 
-Any initial account balance would have to come from the user creating the account and not from token creation due to the potential for sybil attacks.
+Để tránh bị ảnh hưởng của thủ thuật "tấn công mạo nhận", balance của bất kỳ tài khoản mới lập nào đều phải do người lập tài khoản đấy chuyển vào, không phải từ việc nhận token.
 
 ### Justifying Minimum Balances
 
