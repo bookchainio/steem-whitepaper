@@ -106,9 +106,9 @@ Ngay cả khi tất cả những người cung cấp dữ liệu đều trung th
 
 Steem cân bằng biến động giá ngắn hạn bằng cách sử dụng giá trung bình là ba ngày rưỡi. Nguồn cấp dữ liệu giá trung bình sẽ được thống kê mẫu trong mỗi giờ.
 
-Chừng nào sự tham nhũng nguồn cung cấp dữ liệu giá còn tồn tại ít hơn một nửa thời gian di chuyển trung bình thì nó vẫn sẽ có tác động tối thiểu tới mức giá chuyển đổi. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
+Chừng nào sự tham nhũng nguồn cung cấp dữ liệu giá còn tồn tại ít hơn một nửa thời gian di chuyển trung bình thì nó vẫn sẽ có tác động tối thiểu tới mức giá chuyển đổi. Nếu nguồn cấp dữ liệu bị tham nhũng, những người tham gia mạng lưới sẽ có cơ hội bỏ phiếu chống cho các nhà sản xuất nguồn cấp dữ liệu này trước khi nguồn cung cấp dữ liệu tham nhũng có ảnh hưởng đến giá chuyển đổi thực tế. Có lẽ điều quan trọng hơn nữa đó là nó cho phép các nhà sản xuất nguồn dữ liệu có cơ hội để phát hiện và khắc phục các vấn đề trước khi nguồn dữ liệu của họ bắt đầu ảnh hưởng đến giá cả.
 
-With a three and a half day window, community members have approximately one and a half days to respond to any issues that come up.
+Với một khoảng thời gian ba ngày rưỡi, các thành viên trong cộng đồng có khoảng một ngày rưỡi để phản hồi bất kỳ vấn đề nảy sinh nào.
 
 ### Mitigating Timing Attacks
 
