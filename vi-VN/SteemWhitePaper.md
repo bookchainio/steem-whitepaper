@@ -324,7 +324,7 @@ Giả sử một nhà đầu tư sở hữu lượng BTC trị giá $25 và th�
 
 ### Account Creation
 
-Steem’s account-based system with publicly known balances simplifies the implementation of the bandwidth-based rate limiting algorithm. Any account with a balance below the minimum required to transact once per week would be unable to transact. This implies that all new accounts should be funded with at least this minimum balance. It also implies that users wishing to transact in smaller amounts can, so long as they hold a larger balance and reuse the account.
+Hệ thống các tài khoản trên nền tảng Steem đều có balance minh bạch (balance là số dư sau khi thực hiện cân đối tài khoản) nên đã giúp việc áp dụng thuật toán hạn chế tốc độ dựa trên băng thông được triển khai một cách dễ dàng. Bất kỳ một tài khoản nào có số balance nhỏ hơn mức tối thiểu cho phép thì việc thực hiện một giao dịch một tuần là điều không thể. Điều này có nghĩa là tất cả những tài khoản mới lập muốn được thực hiện giao dịch thì balance phải đạt mực tối thiểu này. It also implies that users wishing to transact in smaller amounts can, so long as they hold a larger balance and reuse the account.
 
 It is possible for a low-balance account created during a time of low usage to become inaccessible if the network usage picks up. The funds could be recovered at any time by temporarily delegating a larger balance to the account.
 
