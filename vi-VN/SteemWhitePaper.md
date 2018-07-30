@@ -96,9 +96,9 @@ Steem Dollars được tạo ra bởi một cơ chế tương tự như các kho
 
 Steem Dollars được ký hiệu là "SBD", là viết tắt của "Steem Blockchain Dollars". Việc tạo ra SBD đòi hỏi sự kết hợp của một nguồn cấp giá đáng tin cậy và các quy tắc để ngăn ngừa sự lạm dụng. Việc cung cấp nguồn cấp dữ liệu giá đáng tin cậy bao gồm ba yếu tố: giảm thiểu tác động của nguồn cấp dữ liệu giá không chính xác, tối đa hóa chi phí tạo nguồn cấp dữ liệu giả và giảm thiểu tầm quan trọng của thời gian.
 
-### Minimizing Fraudulent Feeds
+### Giảm thiểu các nguồn cấp dữ liệu gian lận
 
-SP holders elect individuals, called witnesses, to publish price feeds. The elected witnesses are presumably trusted by those who have a vested interest in the quality of the feed. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
+Các cá nhân được bầu bởi những người nắm giữ SP được gọi là nhân chứng, và là những người xuất bản nguồn cấp dữ liệu giá. The elected witnesses are presumably trusted by those who have a vested interest in the quality of the feed. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
 
 Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
 
