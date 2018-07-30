@@ -334,7 +334,7 @@ Với một tài khoản có số balance dưới mức tối thiểu và ít ho
 
 ### Justifying Minimum Balances
 
-Hệ thống đưa ra yêu cầu mức tối thiểu buộc người dùng phải duy trì và sử dụng balance để tạo nên giá trị của tài khoản[^10]. Bất cứ ai hoạt động trong lĩnh vực kinh doanh đều hiểu được giá trị to lớn của khách hàng. Có những doanh nghiệp đã chi từ $30 đến $200 chỉ để có một khách hàng. Chi phí này đôi khi họ trả trực tiếp cho khách hàng, hoặc doanh nghiệp trả cho việc quảng cáo, hay thậm chí họ mua cả một công ty để có được cơ sở người dùng. After a company acquires a user they often given them many *free services* just to keep them around long enough to monetize them through some other means.
+Hệ thống đưa ra yêu cầu mức tối thiểu buộc người dùng phải duy trì và sử dụng balance để tạo nên giá trị của tài khoản[^10]. Bất cứ ai hoạt động trong lĩnh vực kinh doanh đều hiểu được giá trị to lớn của khách hàng. Có những doanh nghiệp đã chi từ $30 đến $200 chỉ để có một khách hàng. Chi phí này đôi khi họ trả trực tiếp cho khách hàng, hoặc doanh nghiệp trả cho việc quảng cáo, hay thậm chí họ mua cả một công ty để có được cơ sở người dùng. Một công ty sau khi thu hút được một khách hàng, họ sẽ cung cấp một số *ưu đãi miễn phí* và tìm cách khai thác triệt để khách hàng đấy bằng nhiều hình thức khác nhau.
 
 Ripple uses a minimum balance[^11] that scales with account resource use and requires that new accounts get funded with at least this minimum balance. Currently this minimum balance is about $0.15 which is greater than the $0.10 we estimated would allow someone to transact freely at least once per week.
 
