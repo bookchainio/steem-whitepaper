@@ -58,7 +58,7 @@ Steem is designed to enable effective micropayments for all kinds of contributio
 
 Voting input from community members is critical for Steem to accurately allocate payments to contributors. Voting can therefore be viewed as a crucial contribution and worthy of rewards on its own. Some platforms, such as Slashdot, use meta-moderation[^3] as a way to rank and reward honest moderators. Steem chooses to reward those who contribute the most to the total promotion of a piece of content and rewards the voters proportional to the ultimate reward paid to the content creator.
 
-# Ways to Contribute
+# Các phương thức đóng góp
 
 Phần này chỉ ra những ý tưởng đằng sau Steem và các phần thưởng của nó, cho những người có những đóng góp ý nghĩa và đáng kể.
 
@@ -86,11 +86,11 @@ Khi người dùng bỏ phiếu cho một nội dung, tác động của họ đ
 
 Những người nắm giữ SP cũng sẽ nhận được tiền thưởng, nhiều hay ít thì còn tùy vào số dư SP mà họ có. 15% lạm phát hàng năm được dùng để trả cho những người nắm giữ SP. Số tiền lãi mà họ nhận được thì tỷ lệ thuận với số SP họ có và phụ thuộc vào tổng số SP mà tất cả người dùng đầu tư.
 
-Transferring from STEEM to SP is referred to as “powering up”, while transferring from SP to STEEM is referred to as “powering down.” SP that is powered down is returned to the user over a period of thirteen weeks, via 13 equal weekly payments, starting one week after the power down is initiated.
+Việc chuyển từ STEEM sang SP được gọi là "powering up" và quá trình chuyển SP về STEEM được gọi là "powering down".
 
 ## Steem Dollars (SBD)
 
-Stability is an important feature of successful global economies. Without stability, individuals across the world could not have low cognitive costs while engaging in commerce and savings. Because stability is an important feature of successful economies, Steem Dollars were designed as an attempt to bring stability to the world of cryptocurrency and to the individuals who use the Steem network.
+Sự ổn định là một chìa khóa quan trọng cho sự thành công của các nền kinh tế toàn cầu. Nếu không có sự ổn định, những cá nhân trên toàn thế giới sẽ không có chi phí nhận thức thấp khi kinh doanh và tiết kiệm. Bởi vì sự ổn định là một chìa khóa quan trọng cho sự thành công của các nền kinh tế, cho nên Steem Dollars được tạo ra nhằm mang lại sự ổn định cho thế giới tiền điện tử và cho người dùng của mạng lưới Steem.
 
 Steem Dollars are created by a mechanism similar to convertible notes, which are often used to fund startups. In the startup world, convertible notes are short-term debt instruments that can be converted to ownership at a rate determined in the future, typically during a future funding round. A blockchain based token can be viewed as ownership in the community whereas a convertible note can be viewed as a debt denominated in any other commodity or currency. The terms of the convertible note allow the holder to convert to the backing token with a minimum notice at the fair market price of the token. Creating token-convertible-dollars enables blockchains to grow their network effect while maximizing the return for token holders.
 
