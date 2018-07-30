@@ -320,7 +320,7 @@ Trên nền tảng Blockchain, dung lượng lưu trữ là không giới hạn.
 
 ### So sánh các khoản phí
 
-Giả sử một nhà đầu tư sở hữu lượng BTC trị giá $25 và thực hiện giao dịch một lần / tuần thì phải trả $0.04 lệ phí như vậy một năm người đấy phải trả hơn $2.00 tiền phí. Vậy với số vốn ban đầu là $25 thì nhà đầu tư phải trích 8% lợi nhuận để trả phí. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
+Giả sử một nhà đầu tư sở hữu lượng BTC trị giá $25 và thực hiện giao dịch một lần / tuần thì phải trả $0.04 lệ phí như vậy một năm người đấy phải trả hơn $2.00 tiền phí. Vậy với số vốn ban đầu là $25 thì nhà đầu tư phải trích 8% lợi nhuận để trả phí. Như vậy bằng cách thực hiện giao dịch dựa vào giới hạn tỷ lệ sẽ giúp nhà đầu tư giữ được tiền của họ trên nền tảng Blockchain hơn là dựa trên lệ phí, với nhà đầu tư có số vốn 25$ BTC ở trên đã có thể tiếp kiệm được 2$ tiền phí trong một năm. Chỉ với số vốn là $175 nhà đầu tư có thể thực hiện giao dịch hàng ngày và tiết kiệm được $14 một năm.
 
 ### Account Creation
 
