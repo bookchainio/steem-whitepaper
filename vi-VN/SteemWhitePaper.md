@@ -84,7 +84,7 @@ Người dùng có khả năng ràng buộc các STEEM của họ trong một k�
 
 Khi người dùng bỏ phiếu cho một nội dung, tác động của họ đối với sự phân phối tiền thưởng thì tỷ lệ thuận với số lượng SP mà họ có. Người dùng càng có nhiều SP thì sức ảnh hưởng của họ đối với sự phân chia tiền thưởng càng lớn. Điều này có nghĩa rằng SP là một token truy cập mà cấp cho những người sở hữu nó một số quyền hạn độc quyền trong nền tảng Steem.
 
-SP holders are also paid interest on the balance of SP that remains vested. 15% of the yearly inflation is paid to SP holders as interest. The amount of the interest that they receive is directly proportional to the amount of SP they hold relative to the total amount of vested SP across all users.
+Những người nắm giữ SP cũng sẽ nhận được tiền thưởng, nhiều hay ít thì còn tùy vào số dư SP mà họ có. 15% lạm phát hàng năm được dùng để trả cho những người nắm giữ SP. Số tiền lãi mà họ nhận được thì tỷ lệ thuận với số SP họ có và phụ thuộc vào tổng số SP mà tất cả người dùng đầu tư.
 
 Transferring from STEEM to SP is referred to as “powering up”, while transferring from SP to STEEM is referred to as “powering down.” SP that is powered down is returned to the user over a period of thirteen weeks, via 13 equal weekly payments, starting one week after the power down is initiated.
 
