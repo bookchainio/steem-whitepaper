@@ -70,11 +70,11 @@ Mạng lưới Steem gọi những loại tài sản khác nhau này là Steem (
 
 ## Steem (STEEM)
 
-Steem is the fundamental unit of account on the Steem blockchain. All other tokens derive their value from the value of STEEM. STEEM is a liquid currency, and therefore can be bought or sold on exchanges, as well as transferred to other users as a form of payment.
+Steem là một đơn vị tiền tệ cơ bản của tài khoản trên chuỗi khối Steem. Tất cả các đồng tiền điện tử khác đều được định giá dựa theo giá trị của đồng STEEM. STEEM là một loại tiền tệ luân chuyển, vì thế nó có thể được mua hoặc bán trên các sàn giao dịch cũng như được chuyển cho người dùng khác như một phương thức thanh toán.
 
 ## Steem Power (SP)
 
-Start up companies require long-term capital commitment. Those who invest their money in a startup expect to wait years before they can sell their shares and realize their profits. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
+Những công ty khởi nghiệp đều đòi hỏi một sự cam kết đầu tư vốn dài hạn. Những người đầu tư tiền của họ trong khoảng thời gian xây dựng ban đầu thì dự định sẽ phải chờ đợi trong nhiều năm, trước khi họ có thể bán cổ phần của mình và bắt đầu thu lợi nhuận. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
 
 There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
 
