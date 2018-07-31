@@ -344,7 +344,7 @@ Việc yêu cầu người dùng duy trì số balance tối thiểu chính là 
 
 Điều may mắn là khách hàng cảm thấy hài lòng và dễ dàng chấp nhận khi số balance tối thiểu yêu cầu khá thấp, chỉ khoảng $1. Chi phí cơ hội của việc mất lãi suất chính là mất đi những khách hàng khi họ không sẵn sàng trả khoản phí vi mô.
 
-The STEEM used to pre-fund an account is Powered Up in the new account (i.e., converted to Steem Power). A portion of the SP used to fund a new account may be delegated from the creator of the account. When a user is delegated SP, they may use the SP for voting and bandwidth purposes as if it were their own, but the ownership of the SP remains with the user who delegated it. A user may remove the delegation at any time. After a cool-down period, the SP is returned to their account.
+Đồng STEEM có thể dùng để tái đầu tư bằng cách Power Up (có nghĩa là chuyển STEEM sang Steem Power). Người dùng có thể đầu tư một phần SP vào tài khoản mới bằng cách ủy quyền SP. When a user is delegated SP, they may use the SP for voting and bandwidth purposes as if it were their own, but the ownership of the SP remains with the user who delegated it. A user may remove the delegation at any time. After a cool-down period, the SP is returned to their account.
 
 ### Effectiveness Relative to Fees
 
