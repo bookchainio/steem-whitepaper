@@ -338,7 +338,7 @@ Hệ thống đưa ra yêu cầu mức tối thiểu buộc người dùng phả
 
 Đồng tiền điện tử Ripple dùng số balance tối thiểu[^11] để tạo sự cân bằng trong việc sử dụng nguồn tài khoản và yêu cầu những tài khoản mới phải có số balance tối thiểu. Hiện tại balance tối thiểu khoảng $0.15, lớn hơn $0.10 so với con số chúng tôi ước tính sẽ cho phép một người thực hiện giao dịch một lần / tuần.
 
-A blockchain can enforce a minimum value per user through the simple process of requiring a minimum balance. Any business that wishes to bring a new customer to the blockchain can pre-fund that user’s account with the minimum balance that would allow them to transact. Requiring a relatively large fee ($1.00) to sign up new users will naturally force anyone offering free accounts to vet the quality and uniqueness of each account before registering them with the blockchain.
+Chỉ cần đáp ứng được yêu cầu đơn giản về balance tối thiểu, mỗi người dùng đều có được giá trị nhất định trên nền tảng blockchain. Any business that wishes to bring a new customer to the blockchain can pre-fund that user’s account with the minimum balance that would allow them to transact. Requiring a relatively large fee ($1.00) to sign up new users will naturally force anyone offering free accounts to vet the quality and uniqueness of each account before registering them with the blockchain.
 
 Maintaining a minimum balance is effectively the same as making users pay transaction fees with the interest they could have earned on their balance. The minimum balance is simply the balance required to earn enough interest to pay a fee in a relatively short period of time.
 
