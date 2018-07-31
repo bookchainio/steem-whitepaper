@@ -308,7 +308,7 @@ Khi chạy hệ thống dự trữ tỷ lệ thì mỗi cá nhân có thể sử
 
 ## Thanh toán vi mô được thay thế bằng lượng băng thông
 
-*Dự trữ tỷ lệ động * chính là giải pháp cho các vẫn đề còn tồn tại của thanh toán vi mô. Theo mô hình này khi bị nghẽn mạng nền tảng Blockchain sẽ tự động điều chỉnh tỷ lệ dự trữ trong hệ thống. Blockchain quy đinh giới hạn nhằm giữ lại lượng băng thông nhất định phòng khi nghẽn mạng xảy ra. Bất cứ khi nào nghẽn mạng hệ thống sẽ giảm thiểu tối đa băng thông mỗi lần chia sẻ. Khi xử lý xong mà còn dư thừa băng thông thì lượng băng thông được chia sẻ này từ từ được tăng lên.
+*Dự trữ tỷ lệ động * chính là giải pháp cho các vẫn đề còn tồn tại của thanh toán vi mô. Theo mô hình này khi bị nghẽn mạng nền tảng Blockchain sẽ tự động điều chỉnh tỷ lệ dự trữ trong hệ thống. Blockchain quy đinh giới hạn nhằm giữ lại lượng băng thông nhất định phòng khi nghẽn mạng xảy ra. Bất cứ khi nào mạng bị quá tải hệ thống sẽ giảm thiểu tối đa băng thông cho mỗi lần chia sẻ. Khi xử lý xong mà còn dư thừa băng thông thì lượng băng thông được chia sẻ này từ từ được tăng lên.
 
 Mỗi cá nhân khi sử dụng băng thông cần tính toán sao cho có thể duy trì lâu dài và chuyển đổi thời gian sử dụng một cách hợp lý. Người dùng có thói quen đăng nhập vào hệ thống và làm nhiều thao tác cùng một lúc, sau đó thoát ra. Việc này sẽ làm tiêu tốn băng thông nên không có lợi bằng chia nhỏ các thao tác trong những lần đăng nhập khác nhau. Tỷ lệ lưu trữ sẽ không kịp điều chỉnh để đáp ứng trong lúc nghẽn mạng ngắn hạn nếu thời gian sử dụng quá dài, nhưng nếu quá ngắn thì việc phân nhóm sẽ ảnh hưởng đến những người dùng khác.
 
