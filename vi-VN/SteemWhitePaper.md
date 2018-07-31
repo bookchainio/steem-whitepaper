@@ -346,9 +346,9 @@ Việc yêu cầu người dùng duy trì số balance tối thiểu chính là 
 
 Đồng STEEM có thể dùng để tái đầu tư bằng cách Power Up (có nghĩa là chuyển STEEM sang Steem Power). Người dùng có thể đầu tư một phần SP vào tài khoản khác bằng cách ủy quyền SP. Đối với người được ủy quyền SP họ có thể sử dụng số SP đấy để bầu chọn hoặc tăng băng thông theo cách của mình, tuy nhiên quyền sở hữu SP đấy vẫn thuộc về người ủy quyền. Người dùng có thể hủy ủy quyền bất cứ khi nào. Sau khi hết thời gian ủy quyền, SP được trả lại cho người ủy quyền.
 
-### Effectiveness Relative to Fees
+### Những phương pháp hiệu quả được áp dụng khi tính phí
 
-Khi so sánh sự hiệu quả của việc áp dụng giới hạn tốc độ trong tính phí giữa hai hệ thống chúng ta nên dựa vào cách xử lý của hai hệ thống này khi bị tấn công mạng. Trong hệ thống Bitcoin kẻ tấn công chỉ cần $10.000 để lấp đầy từng khối đã có thể làm gián đoạn các dịch vụ diễn ra trong một ngày. The same attacker would be unable to disrupt service for even a single block under the dynamic fractional reserve rate limiting approach.
+Khi so sánh sự hiệu quả của việc áp dụng giới hạn tốc độ trong tính phí giữa hai hệ thống chúng ta nên dựa vào cách xử lý của hai hệ thống này khi bị tấn công mạng. Trong hệ thống Bitcoin kẻ tấn công chỉ cần $10.000 để lấp đầy từng khối đã có thể làm gián đoạn các dịch vụ diễn ra trong một ngày. Theo mô hình giới hạn tốc độ bằng dự trữ tỷ lệ động thì kẻ tấn công với cùng một phương thức khó có thể phá hủy các dịch vụ, hay thậm chí cả những khối đơn lẻ.
 
 If we go to a more extreme case and assume the attacker holds 1% of all coins then we presume an attacker with $60 million dollars. Such an attacker could deny the Bitcoin blockchain service for 16 years unless the miners increased fees or capacity. Even if fees were raised to $15 per transaction, the attacker could still keep the network flooded for 16 days.
 
