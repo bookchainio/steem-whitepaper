@@ -473,9 +473,9 @@ H μεταφορά του STEEM σε SP ονομάζεται «Power Up», εν�
 
 Προσφέροντας κίνητρα για επιμέλεια, το δίκτυο του Steem έχει την δυνατότητα να χρησιμοποιήσει αυτοματοποιημένους αλγορίθμους με σκοπό να εξάγει τις πιο χρήσιμες πληροφορίες από μια ογκώδης ποσότητα περιεχομένου.
 
-## Λύνοντας Το Πρόβλημα Ένταξης Νέου Προσωπικού Στο Κρυπτονόμισμα
+## Λύνοντας το Πρόβλημα Ένταξης Νέων στα Κρυπτονομίσματα
 
-It isn’t easy to get into cryptocurrency[^21]. Κάποιος ο οποίος ανακαλύπτει το Bitcoin και θέλει να το δοκιμάσει γρήγορα συνειδητοποιεί πως πρέπει να εγγραφή με μια ανταλλαγή και να περάσει χρήματα στον λογαριασμό του με μια πιστωτική κάρτα ή με έμβασμα. What would Facebook’s adoption rate have been like if you had to fork over money and a two forms of ID?
+Δεν είναι εύκολο να ξεκινήσει κάποιος να ασχολείται με τα κρυπτονομίσματα[^21]. Κάποιος ο οποίος ανακαλύπτει το Bitcoin και θέλει να το δοκιμάσει γρήγορα συνειδητοποιεί πως πρέπει να εγγραφή με μια ανταλλαγή και να περάσει χρήματα στον λογαριασμό του με μια πιστωτική κάρτα ή με έμβασμα. What would Facebook’s adoption rate have been like if you had to fork over money and a two forms of ID?
 
 Το Steem λύνει αυτό το πρόβλημα δίνοντας σε όλους έναν τρόπο να πληρωθεί επειδή κάνει κάτι απλό, αλλά πολύτιμο, καθήκοντα. Αυτό θα βοηθήσει στην ευρεία διανομή των νομισμάτων STEEM. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless.)
 
