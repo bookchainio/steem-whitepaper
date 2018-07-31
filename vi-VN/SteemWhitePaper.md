@@ -342,7 +342,7 @@ Chỉ cần đáp ứng được yêu cầu đơn giản về balance tối thi�
 
 Việc yêu cầu người dùng duy trì số balance tối thiểu chính là cách khách hàng trả phí giao dịch bằng lợi nhuận họ kiếm được từ balance của mình. Balance tối thiểu chính là số tiền cần thiết tạo ra đủ lợi nhuận để trả khoản phí ngắn hạn.
 
-Thật may là khách hàng cảm thấy hài lòng và dễ dàng chấp nhận khi số balance tối thiểu yêu cầu khá thấp, chỉ khoảng $1. The opportunity cost of lost interest doesn’t incur the cognitive cost of a micro-fee and is far more acceptable to users.
+Điều may mắn là khách hàng cảm thấy hài lòng và dễ dàng chấp nhận khi số balance tối thiểu yêu cầu khá thấp, chỉ khoảng $1. The opportunity cost of lost interest doesn’t incur the cognitive cost of a micro-fee and is far more acceptable to users.
 
 The STEEM used to pre-fund an account is Powered Up in the new account (i.e., converted to Steem Power). A portion of the SP used to fund a new account may be delegated from the creator of the account. When a user is delegated SP, they may use the SP for voting and bandwidth purposes as if it were their own, but the ownership of the SP remains with the user who delegated it. A user may remove the delegation at any time. After a cool-down period, the SP is returned to their account.
 
