@@ -332,7 +332,7 @@ Với một tài khoản có số balance dưới mức tối thiểu và ít ho
 
 Để tránh bị ảnh hưởng của thủ thuật "tấn công mạo nhận", balance của bất kỳ tài khoản mới lập nào đều phải do người lập tài khoản đấy chuyển vào, không phải từ việc nhận token.
 
-### Justifying Minimum Balances
+### Quy định Balance tối thiểu đối với người dùng
 
 Hệ thống đưa ra yêu cầu mức tối thiểu buộc người dùng phải duy trì và sử dụng balance để tạo nên giá trị của tài khoản[^10]. Bất cứ ai hoạt động trong lĩnh vực kinh doanh đều hiểu được giá trị to lớn của khách hàng. Có những doanh nghiệp đã chi từ $30 đến $200 chỉ để có một khách hàng. Chi phí này đôi khi họ trả trực tiếp cho khách hàng, hoặc doanh nghiệp trả cho việc quảng cáo, hay thậm chí họ mua cả một công ty để có được cơ sở người dùng. Một công ty sau khi thu hút được một khách hàng, họ sẽ cung cấp một số *ưu đãi miễn phí* và tìm cách khai thác triệt để khách hàng đấy bằng nhiều hình thức khác nhau.
 
@@ -344,7 +344,7 @@ Việc yêu cầu người dùng duy trì số balance tối thiểu chính là 
 
 Điều may mắn là khách hàng cảm thấy hài lòng và dễ dàng chấp nhận khi số balance tối thiểu yêu cầu khá thấp, chỉ khoảng $1. Chi phí cơ hội của việc mất lãi suất chính là mất đi những khách hàng khi họ không sẵn sàng trả khoản phí vi mô.
 
-Đồng STEEM có thể dùng để tái đầu tư bằng cách Power Up (có nghĩa là chuyển STEEM sang Steem Power). Người dùng có thể đầu tư một phần SP vào tài khoản khác bằng cách ủy quyền SP. Đối với người được ủy quyền SP họ có thể sử dụng số SP đấy để bầu chọn hoặc tăng băng thông theo cách của mình, tuy nhiên quyền sở hữu SP đấy vẫn thuộc về người ủy quyền. Người dùng có thể hủy ủy quyền bất cứ khi nào. After a cool-down period, the SP is returned to their account.
+Đồng STEEM có thể dùng để tái đầu tư bằng cách Power Up (có nghĩa là chuyển STEEM sang Steem Power). Người dùng có thể đầu tư một phần SP vào tài khoản khác bằng cách ủy quyền SP. Đối với người được ủy quyền SP họ có thể sử dụng số SP đấy để bầu chọn hoặc tăng băng thông theo cách của mình, tuy nhiên quyền sở hữu SP đấy vẫn thuộc về người ủy quyền. Người dùng có thể hủy ủy quyền bất cứ khi nào. Sau khi hết thời gian ủy quyền, SP được trả lại cho người ủy quyền.
 
 ### Effectiveness Relative to Fees
 
