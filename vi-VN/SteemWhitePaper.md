@@ -338,9 +338,9 @@ Hệ thống đưa ra yêu cầu mức tối thiểu buộc người dùng phả
 
 Đồng tiền điện tử Ripple dùng số balance tối thiểu[^11] để tạo sự cân bằng trong việc sử dụng nguồn tài khoản và yêu cầu những tài khoản mới phải có số balance tối thiểu. Hiện tại balance tối thiểu khoảng $0.15, lớn hơn $0.10 so với con số chúng tôi ước tính sẽ cho phép một người thực hiện giao dịch một lần / tuần.
 
-Chỉ cần đáp ứng được yêu cầu đơn giản về balance tối thiểu, mỗi người dùng đều có được giá trị nhất định trên nền tảng blockchain. Bất kỳ một doanh nghiệp nào cũng có thể thu hút một khách hàng mới tham gia vào Blockchain, chỉ cần cấp cho họ một số vốn ban đầu là số balance tối thiểu để họ có thể thực hiện giao dịch. Requiring a relatively large fee ($1.00) to sign up new users will naturally force anyone offering free accounts to vet the quality and uniqueness of each account before registering them with the blockchain.
+Chỉ cần đáp ứng được yêu cầu đơn giản về balance tối thiểu, mỗi người dùng đều có được giá trị nhất định trên nền tảng blockchain. Bất kỳ một doanh nghiệp nào cũng có thể thu hút một khách hàng mới tham gia vào Blockchain, chỉ cần cấp cho họ một số vốn ban đầu là số balance tối thiểu để họ có thể thực hiện giao dịch. Việc yêu cầu người dùng phải trả một khoản phí lớn ($1.00) để đăng ký tài khoản là điều không khả thi nên khi tạo tài khoản miễn phí cho khách hàng thì hệ thống phải xác thực tính duy nhất trước khi đăng ký trên nền tàng blockchain.
 
-Maintaining a minimum balance is effectively the same as making users pay transaction fees with the interest they could have earned on their balance. The minimum balance is simply the balance required to earn enough interest to pay a fee in a relatively short period of time.
+Việc yêu cầu người dùng duy trì số balance tối thiểu chính là cách khách hàng trả phí giao dịch bằng lợi nhuận họ kiếm được từ balance của mình. Balance tối thiểu chính là số tiền cần thiết tạo ra đủ lợi nhuận để trả khoản phí ngắn hạn.
 
 Fortunately, the minimum balance required can be as low as a dollar and this is something users can understand and appreciate. The opportunity cost of lost interest doesn’t incur the cognitive cost of a micro-fee and is far more acceptable to users.
 
