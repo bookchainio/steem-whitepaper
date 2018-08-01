@@ -376,38 +376,38 @@ Decentralized rate limiting of transactions can enable new types of decentralize
 
 # Tốc độ phản hồi và khả năng mở rộng của hệ thống
 
-Nền tảng của Steem được xây dựng dựa trên Graphene, cùng công nghệ với Bitshares. Công nghệ Graphene đã chứng minh công khai về tính ưu việt khi thử nghiệm thành công để xử lý hơn 1000 giao dịch mỗi giây trên mạng lưới phân tán. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
+Nền tảng của Steem được xây dựng dựa trên Graphene, cùng công nghệ với Bitshares. Công nghệ Graphene đã chứng minh công khai về tính ưu việt khi thử nghiệm thành công để xử lý hơn 1000 giao dịch mỗi giây trên mạng lưới phân tán. Graphene có thể dễ dàng xử lý hơn 10.000 giao dịch mỗi giây do những cải tiến khá đơn giản của dung lượng máy chủ và giao thức tương tác.
 
-## Reddit Scale
+## Quy mô của mạng xã hội Reddit
 
-Steem có khả năng xử lý một cơ sở người dùng lớn hơn Reddit rất nhiều. In 2015 Reddit’s 8.7 million users generated an average of 23 comments per second[^12], with an average of 83 comments per year per user. There were 73 million top-level posts, for an average of 2 new posts per second. There were about 7 billion up votes creating an average voting rate of 220 votes per second. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
+Steem có khả năng xử lý một cơ sở người dùng lớn hơn Reddit rất nhiều. Trong năm 2015 Reddit có khoảng 8,7 triệu người dùng và trung bình mỗi giây[^12] có 23 bình luận, như vậy một người dùng trung bình một năm có 83 bình luận. Có khoảng 73 triệu nội dung đạt chất lượng cao được đăng tải với trung bình 2 bài đăng mỗi giây. Khoảng 7 tỷ bầu chọn với mức trung bình là 220 bình chọn mỗi giây. Dựa vào những con số trên ta có thể tính toán Reddit sẽ xử lý lượng giao dịch trung bình mỗi giây là 250 nếu được hoạt động trên nền tảng Blockchain.
 
-To achieve this industry-leading performance, Steem has borrowed lessons learned from the LMAX Exchange[^13], which is able to process 6 million transactions per second. Among these lessons are the following key points:
+Để có được tốc độ phản hồi tầm cỡ công nghiệp hàng đầu này Steem đã học hỏi kinh nghiệm từ LMAX Exchange[^13] - một công ty công nghệ tài chính toàn cầu có mức xử lý 6 tỷ giao dịch mỗi giây. Kinh nghiệm rút ra gồm những điểm quan trọng như sau:
 
-1. Keep everything in memory.
-2. Keep the core business logic in a single thread.
-3. Keep cryptographic operations (hashes and signatures) out of the core business logic.
-4. Divide validation into state-dependent and state-independent checks.
-5. Use an object oriented data model.
+1. Lưu trữ mọi thông tin vào bộ nhớ.
+2. Lưu trữ business logic quan trọng chạy ở chế độ đơn nguồn (business logic là thuật toán có chức năng kiểm soát quá trình trao đổi thông tin giữa một cơ sở dữ liệu với một phương tiện của người truy cập).
+3. Lưu trữ các thuật hàm mã hóa (bằng mã băm và mã chữ ký) tách biệt với business logic.
+4. Xác nhận tình trạng phụ thuộc và không phụ thuộc.
+5. Sử dụng mô hình dữ liệu hướng đối tượng.
 
-By following these simple rules, Steem is able to process 10,000 transactions per second without any significant effort devoted to optimization.
+Chỉ cần áp dụng những quy tắc đơn giản trên, Steem có thể xử lý 10.000 giao dịch mỗi giây mà không cần đến các giải pháp tối ưu hóa nào.
 
-Keeping everything in memory is increasingly viable given the recent introduction of Optane™ technology from Intel[^14]. It should be possible for commodity hardware to handle all of the business logic associated with Steem in a single thread with all posts kept in memory for rapid indexing. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optane™ technology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
+Từ trải nghiệm công nghệ biến đổi Optanetechnology của Intel [^14] cho thấy việc lưu trữ các thông tin vào bộ nhớ là giải pháp rất khả thi. Giải pháp này được áp dụng cho các phần cứng thông thường có khả năng xử lý những bussiness logic có liên kết với Steem bằng việc lưu trữ các bài đăng vào bộ nhớ để index nội dung một cách nhanh chóng (Index là thuật ngữ dùng để chỉ quá trình con bọ tìm kiếm của bộ máy tìm kiếm Google tìm thấy dữ liệu từ 1 website sau đó lưu trữ lại, đánh giá và so sánh mức độ uy tín của dữ liệu đó). Ngay cả Google cũng lưu trữ những index của toàn bộ hệ thống internet của họ trong bộ nhớ RAM. Từ khi công nghệ blockchain ra đời bộ nhớ RAM không còn được cho là giải pháp tối ưu khi muốn nhân rộng cơ sở dữ liệu tới nhiều máy để tránh mất dữ liệu. Khi áp dụng công nghệ biến đổi Optanetechnology bộ nhớ RAM sẽ hoạt động tốc độ hơn cũng như độ bền được tăng lên. Nói cách khác, tiềm năng phát triển về quy mô của Steem trong tương lai là rất lớn.
 
-# Allocation & Supply
+# Quá trình phân phối và nguồn cung của Steem
 
 ## Initial Allocation & Supply
 
-The Steem network started with a currency supply of 0 and allocated STEEM via proof of work at a rate of approximately 40 STEEM per minute to miners, with an additional 40 STEEM per minute being created to seed the content and curation reward pools (for a total of 80 STEEM per minute). Then the network started rewarding users who converted to SP. At this point, STEEM grew at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
+Nguồn cung ứng tiền tệ của hệ thống Steem lúc bắt đầu là 0 và thông qua thuật toán bằng chứng công việc (Proof-of-work) đã phân phối khoảng 40 STEEM mỗi phút cho các thợ mỏ cộng với 40 STEEM /phút từ quỹ phần thưởng của viết bài và bầu chọn (tổng là 80 STEEM mỗi phút). Sau đó hệ thống sẽ trả thưởng cho người dùng bằng cách chuyển sang SP. Có thể tóm tắt sự phát triển của STEEM với tốc độ gần 800 STEEM mỗi phút khi kết hợp các dạng phần thưởng khác nhau như sau:
 
-Contribution Rewards:
+Phần thưởng cho những đóng góp của người tham gia:
 
-- Curation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
-- Content Creation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
-- Block production rewards: 1 STEEM per block or 0.750% per year, whichever is greater
-- POW inclusion rewards before block 864,000: 1 STEEM per block (awarded as 21 STEEM per round)
-- POW inclusion rewards after block 864,000: 0.0476 STEEM per block (awarded as 1 STEEM per round) or 0.750% per year, whichever is greater.
-- Liquidity rewards: 1 STEEM per block (awarded as 1200 STEEM per hour) or 0.750% per year, whichever is greater
+- Trả thưởng cho người đánh giá nội dung: 1 STEEM mỗi khối hoặc 3.875% mỗi năm, tùy vào mức nào lớn hơn
+- Trả thưởng cho người sáng tạo nội dung: 1 STEEM mỗi khối hoặc 3.875% mỗi năm, tùy vào mức nào lớn hơn
+- Phần thưởng khối: 1 STEEM mỗi khối hoặc 0.750% mỗi năm, tùy vào mức nào lớn hơn
+- Thuật toán bằng chứng công việc (ký hiệu POW) áp dụng tính thưởng đối với số lượng khổi lớn hơn 864.000: 1 STEEM mỗi khối (tương đương 21 STEEM mỗi vòng)
+- Thuật toán POW áp dụng tính thưởng đối với số lượng khổi nhỏ hơn 864.000: 0.0476 STEEM mỗi khối (tương đương 1 STEEM mỗi vòng) hoặc 0.750% một năm, tùy vào mức nào lớn hơn.
+- Tính thanh khoản của tiền thưởng: 1 STEEM mỗi khối (tương đương 1200 STEEM một giờ) hoặc 0.750% một năm, tùy vào mức nào lớn hơn
 
 ### Power Rewards:
 
