@@ -396,7 +396,7 @@ Từ trải nghiệm công nghệ biến đổi Optanetechnology của Intel [^1
 
 # Quá trình phân phối và nguồn cung của Steem
 
-## Initial Allocation & Supply
+## Quá trình phân phối và nguồn cung của Steem lúc khởi điểm
 
 Nguồn cung ứng tiền tệ của hệ thống Steem lúc bắt đầu là 0 và thông qua thuật toán bằng chứng công việc (Proof-of-work) đã phân phối khoảng 40 STEEM mỗi phút cho các thợ mỏ cộng với 40 STEEM /phút từ quỹ phần thưởng của viết bài và bầu chọn (tổng là 80 STEEM mỗi phút). Sau đó hệ thống sẽ trả thưởng cho người dùng bằng cách chuyển sang SP. Có thể tóm tắt sự phát triển của STEEM với tốc độ gần 800 STEEM mỗi phút khi kết hợp các dạng phần thưởng khác nhau như sau:
 
@@ -409,17 +409,17 @@ Phần thưởng cho những đóng góp của người tham gia:
 - Thuật toán POW áp dụng tính thưởng đối với số lượng khổi nhỏ hơn 864.000: 0.0476 STEEM mỗi khối (tương đương 1 STEEM mỗi vòng) hoặc 0.750% một năm, tùy vào mức nào lớn hơn.
 - Tính thanh khoản của tiền thưởng: 1 STEEM mỗi khối (tương đương 1200 STEEM một giờ) hoặc 0.750% một năm, tùy vào mức nào lớn hơn
 
-### Power Rewards:
+### Trả thưởng bằng Steem Power:
 
-- Steem Power rewards: For each STEEM created by the above rewards, 9 STEEM are divided among all Steem Power holders.
+- Trả thưởng bằng Steem Power: Với mỗi STEEM thu được từ cách tính thưởng trên, 9 STEEM được chia đều cho những cổ đông nắm giữ Steem Power.
 
-### SBD operations:
+### Cách thức hoạt động của SBD:
 
-- SBD rewards: A percentage of SBD value is created at an APR set by the witnesses and paid to SBD holders as SBD
+- Trả thưởng bằng SBD: Lượng phần trăm SBD được trả thưởng cho những cổ đông chính là tỷ lệ phần trăm hàng năm được các nhân chứng tạo ra
 
-The overall supply picture is complicated by the effect of SBD operations, which may result in large-scale creation or destruction of STEEM through feed rate following and SBD rewards, as discussed in the SBD section. Other, smaller-scale complicating effects also exist, including unclaimed incentives (e.g. block rewards for missed blocks), and abandoned accounts.
+Như đã đề cập trong phần SBD, bức tranh tổng thể của nguồn cung là rất phức tạp khi phải chịu sự ảnh hưởng của cách thức hoạt động SBD, hoạt động này có thể tạo ra nhiều hoặc phá hủy STEEM thông qua tỷ lệ nguồn cấp và trả thưởng bằng SBD. Mặt khác, nguồn cung cũng bị ảnh hưởng bởi những yếu tố nhỏ gồm những trả thưởng chưa xác định (ví dụ trả thưởng khối cho những khối bị nhỡ), hay những tài khoản đã bị hủy bỏ.
 
-## Current Allocation & Supply
+## Quá trình phân phối và nguồn cung của Steem hiện tại
 
 Starting with the network's 16th hard fork in December 2016, Steem began creating new tokens at a yearly inflation rate of 9.5%. The inflation rate decreases at a rate of 0.01% every 250,000 blocks, or about 0.5% per year. The inflation will continue decreasing at this pace until the overall inflation rate reaches 0.95%. This will take about 20.5 years from the time hard fork 16 went into effect.
 
