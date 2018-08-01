@@ -423,7 +423,7 @@ Như đã đề cập trong phần SBD, bức tranh tổng thể của nguồn c
 
 Steem ra đời vào tháng 12 năm 2016 khi bản hard fork lần thứ 16 được cập nhật và bắt đầu tạo ra các token mới với tỷ lệ lạm phát hàng năm là 9,5% (hard fork là một bản cập nhật phần mềm bắt buộc và sẽ gây xung đột với phiên bản cũ hơn). Với 250.000 khối, tỷ lệ lạm phát giảm 0,01%, khoảng 0,5% mỗi năm. Với tốc độ này tỷ lệ lạm phát sẽ tiếp tục giảm cho đến khi tỷ lệ lạm phát tổng thể đạt 0,95%. Sẽ mất khoảng 20.5 năm để phiên bản hard fork 16 bắt đầu hoạt động.
 
-75% các token mới ra đời được quyên góp và quỹ phần thưởng, quỹ này được dành để trả thưởng cho những người sáng tạo và đánh giá nội dung. 15% token dành trả thưởng cho các cổ đông nắm giữ SP. The remaining 10% pays for the witnesses to power the blockchain.
+75% các token mới ra đời được quyên góp và quỹ phần thưởng, quỹ này được dành để trả thưởng cho những người sáng tạo và đánh giá nội dung. 15% token dành trả thưởng cho các cổ đông nắm giữ SP. Số còn lại là 10% dùng để trả thưởng cho các nhân chứng, những người đã tạo nên sức mạnh của Blockchain.
 
 ### Impact of Token Creation Rate
 
