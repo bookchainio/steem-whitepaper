@@ -421,7 +421,7 @@ Như đã đề cập trong phần SBD, bức tranh tổng thể của nguồn c
 
 ## Quá trình phân phối và nguồn cung của Steem hiện tại
 
-Starting with the network's 16th hard fork in December 2016, Steem began creating new tokens at a yearly inflation rate of 9.5%. The inflation rate decreases at a rate of 0.01% every 250,000 blocks, or about 0.5% per year. The inflation will continue decreasing at this pace until the overall inflation rate reaches 0.95%. This will take about 20.5 years from the time hard fork 16 went into effect.
+Steem ra đời vào tháng 12 năm 2016 khi bản hard fork lần thứ 16 được cập nhật và bắt đầu tạo ra các token mới với tỷ lệ lạm phát hàng năm là 9,5% (hard fork là một bản cập nhật phần mềm bắt buộc và sẽ gây xung đột với phiên bản cũ hơn). Với 250.000 khối, tỷ lệ lạm phát giảm 0,01%, khoảng 0,5% mỗi năm. The inflation will continue decreasing at this pace until the overall inflation rate reaches 0.95%. This will take about 20.5 years from the time hard fork 16 went into effect.
 
 75% of the new tokens that are generated go to fund the reward pool, which is split between authors and curators. 15% of the new tokens are awarded to holders of SP. The remaining 10% pays for the witnesses to power the blockchain.
 
