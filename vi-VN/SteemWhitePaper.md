@@ -354,7 +354,7 @@ Giả sử trường hợp xấu nhất xảy ra khi kẻ tấn công nắm gi�
 
 Tuy nhiên theo mô hình giới hạn tốc độ thì bất kỳ ai dù có nắm 1% tất cả các đồng coin thì thời gian hệ thống bị tấn công là chưa đến 30 giây.
 
-### Renting vs. Buying vs. Time Sharing
+### So sánh các hoạt động thuê, mua và chia sẻ thời gian sử dụng
 
 When someone owns a house they expect the right to use the house for free. If a group of people buy a house together then each can expect the right to use the house proportional to their percentage ownership in the house. A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
 
@@ -374,9 +374,9 @@ In theory a market could form where users can borrow the stake required. In prac
 
 Decentralized rate limiting of transactions can enable new types of decentralized applications that were not viable when every use of the application required a micropayment. This new model gives application developers the ability to decide if and when to charge their users for transactions.
 
-# Performance and Scalability
+# Tốc độ phản hồi và khả năng mở rộng của hệ thống
 
-The Steem network is built upon Graphene, the same technology that powers BitShares. Graphene has been publicly demonstrated sustaining over 1000 transactions per second on a distributed test network. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
+Nền tảng của Steem được xây dựng dựa trên Graphene, cùng công nghệ với Bitshares. Công nghệ Graphene đã chứng minh công khai về tính ưu việt khi thử nghiệm thành công để xử lý hơn 1000 giao dịch mỗi giây trên mạng lưới phân tán. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
 
 ## Reddit Scale
 
