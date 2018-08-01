@@ -350,7 +350,7 @@ Việc yêu cầu người dùng duy trì số balance tối thiểu chính là 
 
 Khi so sánh sự hiệu quả của việc áp dụng giới hạn tốc độ trong tính phí giữa hai hệ thống chúng ta nên dựa vào cách xử lý của hai hệ thống này khi bị tấn công mạng. Trong hệ thống Bitcoin kẻ tấn công chỉ cần $10.000 để lấp đầy từng khối đã có thể làm gián đoạn các dịch vụ diễn ra trong một ngày. Theo mô hình giới hạn tốc độ bằng dự trữ tỷ lệ động thì kẻ tấn công với cùng một phương thức khó có thể phá hủy các dịch vụ, hay thậm chí cả những khối đơn lẻ.
 
-If we go to a more extreme case and assume the attacker holds 1% of all coins then we presume an attacker with $60 million dollars. Such an attacker could deny the Bitcoin blockchain service for 16 years unless the miners increased fees or capacity. Even if fees were raised to $15 per transaction, the attacker could still keep the network flooded for 16 days.
+Giả sử một trường hợp xấu nhất xảy ra khi kẻ tấn công nắm giữ 1% tất cả các đồng coin với trị giá 60 triệu đô la. Lúc này trong 16 năm chúng có thể không cần dùng đến dịch vụ Bitcoin trên nền tảng Blockchain trừ khi các thợ mỏ tăng phí hoặc công suất đào. Thậm chí trong trường hợp phí tăng lên $15 mỗi lần giao dịch thì hệ thống sẽ vẫn bị tấn công trong 16 ngày.
 
 Under the rate limiting approach, someone who holds 1% of all coins with an intent to flood the network would achieve their goal for less than 30 seconds.
 
