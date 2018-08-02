@@ -222,7 +222,7 @@ Một trong những mục tiêu chính của hệ thống phần thưởng Steem
 
 Việc phân phối phần thưởng cụ thể sẽ tùy thuộc vào chế độ bỏ phiếu của người dùng, nhưng chúng tôi tin rằng số lượng lớn tiền thưởng sẽ được trả cho nội dung mà thu hút nhiều người xem nhất.
 
-Quy luật Zipf [^7] là một trong những quy luật thực nghiệm có thể mô tả một cách rõ nét hàng loạt các hiện tượng xảy ra trong thế giới thực. Quy luật đó nói rằng nếu chúng ta sắp xếp một tập hợp các phần tử dựa trên quy mô và mức độ phổ biến của nó thì phần tử thứ hai sẽ có quy mô bằng một nửa quy mô của phần tử thứ nhất, phần tử thứ ba sẽ có độ phổ biến bằng một phần ba so với độ phổ biến của phần tử thứ nhất, và cứ thế tương tự đối với các phần tử tiếp theo. In general, the k th-ranked item will measure about 1/k of the first one.
+Quy luật Zipf [^7] là một trong những quy luật thực nghiệm có thể mô tả một cách rõ nét hàng loạt các hiện tượng xảy ra trong thế giới thực. Quy luật đó nói rằng nếu chúng ta sắp xếp một tập hợp các phần tử dựa trên quy mô và mức độ phổ biến của nó thì phần tử thứ hai sẽ có quy mô bằng một nửa quy mô của phần tử thứ nhất, phần tử thứ ba sẽ có độ phổ biến bằng một phần ba so với độ phổ biến của phần tử thứ nhất, và cứ thế tương tự đối với các phần tử tiếp theo. Nói tóm lại, quy mô của phần tử thứ \\(k^{th}\\) chính bằng 1 / k quy mô của phần tử thứ nhất.
 
 ![](\img_the_new_marketplace.png)
 
