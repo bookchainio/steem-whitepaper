@@ -214,7 +214,7 @@ Mục tiêu của việc tạo ra một loại tiền tệ cộng đồng là đ
 
 Một trong những điều quan trọng nhất trong việc giảm thiểu sự lạm dụng là giới hạn tần suất bỏ phiếu. Mỗi người dùng chỉ có thể đọc và đánh giá một số lượng bài viết nhất định trong ngày. Những hành động "vote" bài quá nhiều đều được xem là dấu hiệu của việc tự động và lạm dụng tiềm lực. Bằng cách hạn chế tần suất bỏ phiếu, mỗi lượt "vote" của những người thường xuyên "vote" bài sẽ có sức ảnh hưởng yếu hơn so với những người ít khi "vote" bài. Việc phân chia số "token" cho các tài khoản cũng sẽ phân chia sức ảnh hưởng của họ, vì vậy điều đó sẽ không làm tăng mức độ ảnh hưởng của phiếu bầu cũng như không cho phép vượt quá giới hạn tần suất bỏ phiếu.
 
-Users are allotted a fixed amount of voting power. Voting power is multiplied by a user’s vesting tokens to determine how much share in the reward pool should be allocated to a given work item. Every vote that is cast uses a percentage of remaining voting power. Users can vote for more posts, but each vote will be worth less, and it will take longer to reach full voting power again. Voting power recharges at a fixed linear rate of 20% per day.
+Người dùng được cấp một lượng quyền bỏ phiếu cố định, còn được gọi là Voting power. Để xác định được lượng phần thưởng được phân bổ cho một bài viết nhất định, ta tính bằng cách lấy "voting power" nhân với số "token" mà một người dùng đầu tư đang nắm giữ. Every vote that is cast uses a percentage of remaining voting power. Users can vote for more posts, but each vote will be worth less, and it will take longer to reach full voting power again. Voting power recharges at a fixed linear rate of 20% per day.
 
 ### Payout Distribution
 
