@@ -110,9 +110,9 @@ Chừng nào sự tham nhũng nguồn cung cấp dữ liệu giá còn tồn t�
 
 Với một khoảng thời gian ba ngày rưỡi, các thành viên trong cộng đồng có khoảng một ngày rưỡi để phản hồi bất kỳ vấn đề nảy sinh nào.
 
-### Mitigating Timing Attacks
+### Giảm thiểu những cuộc tấn công dựa theo thời gian
 
-Market participants have access to information faster than the blockchain’s three and a half day moving median conversion price can react. This information could be used to benefit of traders at the expense of the community. If there is a sudden increase in the value of STEEM traders could request conversion of their SBD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
+Những người tham gia thị trường có quyền truy cập thông tin nhanh hơn blockchain một tuần, trước khi giá chuyển đổi trung bình bắt đầu biến động. Thông tin này có thể được sử dụng để mang lại lợi ích cho những người giao dịch với chi phí của cộng đồng. Nếu có sự gia tăng đột ngột về giá trị của đồng STEEM, các nhà giao dịch có thể yêu cầu chuyển đổi SMD của họ ở mức giá cũ, thấp hơn, và sau đó bán STEEM ở một mức giá mới cao hơn với rủi ro nhỏ nhất.
 
 Steem levels the playing field by requiring all conversion requests to be delayed for three and a half days. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
 
