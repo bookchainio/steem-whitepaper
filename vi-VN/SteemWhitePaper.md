@@ -126,9 +126,9 @@ Blockchain quyết định cách thức và thời điểm tạo SMD và ai sẽ
 
 Nếu một "token" có thể được xem là quyền sở hữu trong toàn bộ số "token", thì đồng đô la mà có thể được chuyển đổi từ "token" được coi như là một khoản nợ. Khi tỷ lệ nợ / quyền sở hữu quá cao, toàn bộ tiền tệ sẽ trở nên không ổn định. Việc chuyển đổi các khoản đổi nợ có thể làm tăng đáng kể số lượng "token" được tung ra trên thị trường, và điều đó sẽ làm giảm giá các đồng tiền tệ khi được bán trên các các sàn giao dịch. Các chuyển đổi tiếp theo yêu cầu phát hành thậm chí còn nhiều "token" hơn. Nếu không kiểm soát được, hệ thống sẽ sụp đổ và để lại một quyền sở hữu sẽ vô giá trị cùng với một đống nợ chồng chất. Tỷ lệ giữa khoản nợ trên vốn của chủ sở hữu càng cao thì càng ít người sẵn sàng rót vốn vào đầu tư.
 
-A rapid change in the value of STEEM can dramatically change the debt-to-ownership ratio. The blockchain prevents the debt-to-ownership ratio from getting too high, by reducing the amount of STEEM awarded through SBD conversions if the debt level were to exceed 10%. If the amount of SBD debt ever exceeds 10% of the total STEEM market cap, the blockchain will automatically reduce the amount of STEEM generated through conversions to a maximum of 10% of the market cap. This ensures that the blockchain will never have higher than a 10% debt-to-ownership ratio.
+Nếu giá trị của đồng STEEM biến động quá nhiều, nó sẽ có ảnh hưởng đáng kể đến tỷ lệ nợ / quyền sở hữu. The blockchain prevents the debt-to-ownership ratio from getting too high, by reducing the amount of STEEM awarded through SBD conversions if the debt level were to exceed 10%. If the amount of SBD debt ever exceeds 10% of the total STEEM market cap, the blockchain will automatically reduce the amount of STEEM generated through conversions to a maximum of 10% of the market cap. This ensures that the blockchain will never have higher than a 10% debt-to-ownership ratio.
 
-The percentage floors used to compute STEEM creation are based on the supply including the STEEM value of all outstanding SBD and SP (as determined by the current rate / feed).
+Đối với giới hạn dưới của tỷ lệ tạo STEEM, phép tính dựa trên giá trị của STEEM (được xác định bằng (tỷ giá / nguồn cấp dữ liệu) hiện tại) tương ứng với tất cả số SMD và SP chưa được thanh toán.
 
 ### Interest
 
