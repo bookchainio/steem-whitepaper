@@ -234,7 +234,7 @@ Hiệu quả kinh tế của điều này tương tự như xổ số, nơi mà 
 
 ### Các khoản thanh toán
 
-Khi một bài đăng có được thanh toán, người đăng bài sẽ nhận được một khoản tiền thưởng với 50% SMD và 50% SP. Steem Power giúp tăng quyền bỏ phiếu và giao dịch cho người dùng, mặt khác, SMD lại cung cấp lợi ích ngay lập tức cho người dùng bằng một loại tiền tệ ổn định. Như chúng ta đã bàn luận nhiều rồi, cả 2 loại tiền tệ SP và SMD đều được tạo ra để khuyến khích người dùng lưu giữ trong một thời gian dài, thay vì đem bán chúng một cách nhanh chóng trên các sàn giao dịch. This encourages more users to have a vested interest in the long-term success of the platform.
+Khi một bài đăng có được thanh toán, người đăng bài sẽ nhận được một khoản tiền thưởng với 50% SMD và 50% SP. Steem Power giúp tăng quyền bỏ phiếu và giao dịch cho người dùng, mặt khác, SMD lại cung cấp lợi ích ngay lập tức cho người dùng bằng một loại tiền tệ ổn định. Như chúng ta đã bàn luận nhiều rồi, cả 2 loại tiền tệ SP và SMD đều được tạo ra để khuyến khích người dùng lưu giữ trong một thời gian dài, thay vì đem bán chúng một cách nhanh chóng trên các sàn giao dịch. Điều này khuyến khích thêm nhiều người dùng đầu tư lâu dài vào tiềm năng phát triển của nền tảng này.
 
 Users also have the option to be paid in 100% SP, as well as decline payout on posts. When a user declines payout on a post, the money that would have been paid to them remains in the rewards pool, to be distributed to other users.
 
