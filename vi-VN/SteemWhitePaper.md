@@ -114,17 +114,17 @@ Với một khoảng thời gian ba ngày rưỡi, các thành viên trong cộn
 
 Những người tham gia thị trường có quyền truy cập thông tin nhanh hơn blockchain một tuần, trước khi giá chuyển đổi trung bình bắt đầu biến động. Thông tin này có thể được sử dụng để mang lại lợi ích cho những người giao dịch với chi phí của cộng đồng. Nếu có sự gia tăng đột ngột về giá trị của đồng STEEM, các nhà giao dịch có thể yêu cầu chuyển đổi SMD của họ ở mức giá cũ, thấp hơn, và sau đó bán STEEM ở một mức giá mới cao hơn với rủi ro nhỏ nhất.
 
-Steem levels the playing field by requiring all conversion requests to be delayed for three and a half days. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
+Steem làm cân bằng thị trường bằng cách bắt buộc tất cả những yêu cầu chuyển đổi bị trì hoãn trong vòng 3 ngày rưỡi. Điều này có nghĩa là các nhà giao dịch cũng như blockchain đều không có bất kỳ ưu thế thông tin nào về giá tại thời điểm mà việc chuyển đổi được thực hiện.
 
-### Minimizing Abuse of Conversions
+### Hạn chế việc lạm dụng các quyền chuyển đổi
 
-If people could freely convert in both directions then traders could take advantage of the blockchains conversion rates by trading large volumes without changing the price. Traders who see a massive run up in price would convert to SBD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SBD to STEEM and not the other way around.
+Nếu mọi người có thể tự do chuyển đổi theo cả hai chiều thì những nhà giao dịch có thể tranh thủ tận dụng tỷ lệ chuyển đổi của blockchains bằng cách giao dịch một khối lượng lớn với giá không đổi. Các nhà giao dịch thấy giá tăng mạnh sẽ chuyển đổi sang SMD ở mức giá cao (khi rủi ro là lớn nhất) và sau đó chuyển đổi trở lại sau khi giá đã bình ổn. Giao thức mạng Steem giúp bảo vệ cộng đồng khỏi việc lạm dụng này bằng cách chỉ cho phép người ta chuyển đổi từ SMD sang STEEM mà không phải là cách nào khác.
 
-The blockchain decides how and when to create SBD and who should get it. This keeps the rate of SBD creation stable and removes most avenues of abuse.
+Blockchain quyết định cách thức và thời điểm tạo SMD và ai sẽ nhận được nó. Điều này giúp tỷ lệ SMD trở nên ổn định và loại bỏ hầu hết các hành vi lạm dụng.
 
-### Sustainable Debt to Ownership Ratios
+### Sự bền vững của tỷ lệ nợ / quyền sở hữu
 
-If a token is viewed as ownership in the whole supply of tokens, then a token-convertible-dollar can be viewed as debt. If the debt to ownership ratio gets too high the entire currency can become unstable. Debt conversions can dramatically increase the token supply, which in turn is sold on the market suppressing the price. Subsequent conversions require the issuance of even more tokens. Left unchecked the system can collapse leaving worthless ownership backing a mountain of debt. The higher the debt to ownership ratio becomes the less willing new investors are to bring capital to the table.
+Nếu một "token" có thể được xem là quyền sở hữu trong toàn bộ số "token", thì đồng đô la mà có thể được chuyển đổi từ "token" được coi như là một khoản nợ. Khi tỷ lệ nợ / quyền sở hữu quá cao, toàn bộ tiền tệ sẽ trở nên không ổn định. Việc chuyển đổi các khoản đổi nợ có thể làm tăng đáng kể số lượng "token" được tung ra trên thị trường, và điều đó sẽ làm giảm giá các đồng tiền tệ khi được bán trên các các sàn giao dịch. Các chuyển đổi tiếp theo yêu cầu phát hành thậm chí còn nhiều "token" hơn. Nếu không kiểm soát được, hệ thống sẽ sụp đổ và để lại một quyền sở hữu sẽ vô giá trị cùng với một đống nợ chồng chất. Tỷ lệ giữa khoản nợ trên vốn của chủ sở hữu càng cao thì càng ít người sẵn sàng rót vốn vào đầu tư.
 
 A rapid change in the value of STEEM can dramatically change the debt-to-ownership ratio. The blockchain prevents the debt-to-ownership ratio from getting too high, by reducing the amount of STEEM awarded through SBD conversions if the debt level were to exceed 10%. If the amount of SBD debt ever exceeds 10% of the total STEEM market cap, the blockchain will automatically reduce the amount of STEEM generated through conversions to a maximum of 10% of the market cap. This ensures that the blockchain will never have higher than a 10% debt-to-ownership ratio.
 
