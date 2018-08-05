@@ -164,9 +164,9 @@ It is our belief that these rules will give market participants confidence that 
 
 ## Đóng góp chủ quan
 
-Bằng chứng công việc chủ quan cung cấp cách tiếp cận cải tiến cho việc phân phối tiền tệ nhằm thay thế hệ thống bằng chứng công việc *khách quan* đã cũ như trong việc đào tiền điện tử. Việc thực thi bằng chứng công việc *chủ quan* trên các ứng dụng của tiền tệ sẽ trở nên phổ biến rộng rãi hơn bất kỳ hệ thống nào sử dụng bằng chứng công việc *khách quan*, bởi vì chúng có thể áp dụng dành cho bất kỳ cộng đồng nào có định nghĩa tôn chỉ hoạt động đầy đủ và rõ ràng. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
+Bằng chứng công việc chủ quan cung cấp cách tiếp cận cải tiến cho việc phân phối tiền tệ nhằm thay thế hệ thống bằng chứng công việc *khách quan* đã cũ như trong việc đào tiền điện tử. Việc thực thi bằng chứng công việc *chủ quan* trên các ứng dụng của tiền tệ sẽ trở nên phổ biến rộng rãi hơn bất kỳ hệ thống nào sử dụng bằng chứng công việc *khách quan*, bởi vì chúng có thể áp dụng dành cho bất kỳ cộng đồng nào có định nghĩa tôn chỉ hoạt động đầy đủ và rõ ràng. Khi các cá nhân tham gia vào một cộng đồng, họ sẽ mang theo những giá trị niềm tin cụ thể, dùng việc bỏ phiếu giúp tăng cường giá trị quan cũng như tôn chỉ hoạt động của cộng đồng đó.
 
-In effect, the criteria by which work is evaluated is completely subjective and its definition lives outside the source code itself. One community may wish to reward artists, another poets, and another comedians. Other communities may choose to reward charitable causes or help advance political agendas.
+Và hiệu quả thực tế là, các tiêu chuẩn dùng để đánh giá công việc trở nên hoàn toàn khách quan và sự xác định sẽ nằm ngoài bộ mã nguồn của nó. One community may wish to reward artists, another poets, and another comedians. Other communities may choose to reward charitable causes or help advance political agendas.
 
 The value each currency achieves depends upon the demand for influence within a particular community and how large the market believes each community can get. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
 
