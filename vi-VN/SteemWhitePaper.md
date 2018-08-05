@@ -425,13 +425,13 @@ Steem ra đời vào tháng 12 năm 2016 khi bản hard fork lần thứ 16 đư
 
 75% các token mới ra đời được quyên góp và quỹ phần thưởng, quỹ này được dành để trả thưởng cho những người sáng tạo và đánh giá nội dung. 15% token dành trả thưởng cho các cổ đông nắm giữ SP. Số còn lại là 10% dùng để trả thưởng cho các nhân chứng, những người đã tạo nên sức mạnh của Blockchain.
 
-### Impact of Token Creation Rate
+### Tác động của tỷ lệ tạo mã Token điện tử
 
 It is often said that a coin with an inflationary model is not sustainable, but we know from countless real-world examples that the quantity of money does not have a direct and immediate impact on its value, though it certainly plays a role.
 
-From August 2008 through January 2009 the U.S. money supply[^15] grew from $871B to $1,737B, a rate of over 100% per year and then continued to grow at about 20% per year for the next 6 years. All told the money supply in the U.S. has grown by 4.59x over less than 7 years. During that same time, the value of the dollar relative to goods and services has fallen less than 10% according to the government's price index[^16]. This real-world example demonstrates that supply is only one component of price.
+Từ tháng 8 năm 2008 đến tháng 1 năm 2009, nguồn cung ứng tiền của Mỹ[^15] đã tăng từ $ 871B lên $ 1,737B, với tỷ lệ trên 100% mỗi năm và sau đó tiếp tục tăng trưởng khoảng 20% mỗi năm cho 6 năm tới. Điều này đã nói lên với nguồn cung ứng tiền ở Mỹ đã tăng 4,59 lần trong vòng chưa đầy 7 năm. Trong cùng kỳ thời gian đó, giá trị của đồng đô la so với hàng hóa và dịch vụ đã giảm xuống dưới 10% theo chỉ số giá của chính phủ [^16]. Ví dụ thực tế này chứng minh rằng nguồn cung ứng chỉ là một yếu tố quyết định giá cả.
 
-For the first 2 years of Bitcoin’s life the network sustained an annual inflation rate[^17] of over 100%. For the first 5 years it was over 30%, and for the first 8 years it was over 10%. All told the total “spending” Steem does to fund content, curation, and block production amounts to less than 10% APR.
+Trong 2 năm đầu đời của Bitcoin, mạng lưới đã duy trì tỷ lệ lạm phát hàng năm[^17] trên 100%. For the first 5 years it was over 30%, and for the first 8 years it was over 10%. All told the total “spending” Steem does to fund content, curation, and block production amounts to less than 10% APR.
 
 The price of a digital commodity, like STEEM, is driven by both supply and demand. When a long-term holder decides to exit, the supply of STEEM on the market will increase and push the price down. This downward pressure is countered when a new long-term holder decides to buy up the STEEM and convert it back into SP. Additional supply and demand may be be added due to market speculators buying and selling liquid STEEM based on their predictions of the future market price.
 
