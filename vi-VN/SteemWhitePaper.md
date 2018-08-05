@@ -112,15 +112,15 @@ Với một khoảng thời gian ba ngày rưỡi, các thành viên trong cộn
 
 ### Giảm thiểu những cuộc tấn công dựa theo thời gian
 
-Những người tham gia thị trường có quyền truy cập thông tin nhanh hơn blockchain một tuần, trước khi giá chuyển đổi trung bình bắt đầu biến động. Thông tin này có thể được sử dụng để mang lại lợi ích cho những người giao dịch với chi phí của cộng đồng. Nếu có sự gia tăng đột ngột về giá trị của đồng STEEM, các nhà giao dịch có thể yêu cầu chuyển đổi SMD của họ ở mức giá cũ, thấp hơn, và sau đó bán STEEM ở một mức giá mới cao hơn với rủi ro nhỏ nhất.
+Những người tham gia thị trường có quyền truy cập thông tin nhanh hơn blockchain ba ngày rưỡi, trước khi giá chuyển đổi trung bình bắt đầu biến động. Thông tin này có thể được sử dụng để mang lại lợi ích cho những người giao dịch với chi phí của cộng đồng. Nếu giá trị của STEEM gia tăng một cách đột ngột thì các nhà giao dịch có thể yêu cầu chuyển đổi SBD của họ ở mức giá cũ, thấp hơn, và sau đó bán STEEM ở một mức giá mới cao hơn với rủi ro nhỏ nhất.
 
 Steem làm cân bằng thị trường bằng cách bắt buộc tất cả những yêu cầu chuyển đổi bị trì hoãn trong vòng 3 ngày rưỡi. Điều này có nghĩa là các nhà giao dịch cũng như blockchain đều không có bất kỳ ưu thế thông tin nào về giá tại thời điểm mà việc chuyển đổi được thực hiện.
 
 ### Hạn chế việc lạm dụng các quyền chuyển đổi
 
-Nếu mọi người có thể tự do chuyển đổi theo cả hai chiều thì những nhà giao dịch có thể tranh thủ tận dụng tỷ lệ chuyển đổi của blockchains bằng cách giao dịch một khối lượng lớn với giá không đổi. Các nhà giao dịch thấy giá tăng mạnh sẽ chuyển đổi sang SMD ở mức giá cao (khi rủi ro là lớn nhất) và sau đó chuyển đổi trở lại sau khi giá đã bình ổn. Giao thức mạng Steem giúp bảo vệ cộng đồng khỏi việc lạm dụng này bằng cách chỉ cho phép người ta chuyển đổi từ SMD sang STEEM mà không phải là cách nào khác.
+Nếu mọi người có thể tự do chuyển đổi theo cả hai chiều thì những nhà giao dịch có thể tranh thủ tận dụng tỷ lệ chuyển đổi của blockchains bằng cách giao dịch một khối lượng lớn với giá không đổi. Các nhà giao dịch thấy giá tăng mạnh sẽ chuyển đổi sang SBD ở mức giá cao (khi rủi ro là lớn nhất) và sau đó chuyển đổi trở lại sau khi giá đã bình ổn. Giao thức mạng Steem giúp bảo vệ cộng đồng khỏi việc lạm dụng này bằng cách chỉ cho phép người ta chuyển đổi từ SBD sang STEEM mà không phải là cách nào khác.
 
-Blockchain quyết định cách thức và thời điểm tạo SMD và ai sẽ nhận được nó. Điều này giúp tỷ lệ SMD trở nên ổn định và loại bỏ hầu hết các hành vi lạm dụng.
+Blockchain quyết định cách thức và thời điểm tạo SBD và ai sẽ nhận được nó. Điều này giúp tỷ lệ SBD trở nên ổn định và loại bỏ hầu hết các hành vi lạm dụng.
 
 ### Sự bền vững của tỷ lệ nợ / quyền sở hữu
 
@@ -427,13 +427,13 @@ Steem ra đời vào tháng 12 năm 2016 khi bản hard fork lần thứ 16 đư
 
 ### Tác động của tỷ lệ tạo mã Token điện tử
 
-It is often said that a coin with an inflationary model is not sustainable, but we know from countless real-world examples that the quantity of money does not have a direct and immediate impact on its value, though it certainly plays a role.
+Người ta thường nói rằng đồng xu đi kèm với mô hình lạm phát là không bền vững, nhưng chúng ta cũng biết được từ các bài học thực tế là số lượng tiền sẽ không có ảnh hưởng trực tiếp ngay lập tức đến giá trị của nó, mặc dù nó cũng có đóng một vai trò nào đó.
 
 Từ tháng 8 năm 2008 đến tháng 1 năm 2009, nguồn cung ứng tiền của Mỹ[^15] đã tăng từ $ 871B lên $ 1,737B, với tỷ lệ trên 100% mỗi năm và sau đó tiếp tục tăng trưởng khoảng 20% mỗi năm cho 6 năm tới. Điều này đã nói lên với nguồn cung ứng tiền ở Mỹ đã tăng 4,59 lần trong vòng chưa đầy 7 năm. Trong cùng kỳ thời gian đó, giá trị của đồng đô la so với hàng hóa và dịch vụ đã giảm xuống dưới 10% theo chỉ số giá của chính phủ [^16]. Ví dụ thực tế này chứng minh rằng nguồn cung ứng chỉ là một yếu tố quyết định giá cả.
 
-Trong 2 năm đầu đời của Bitcoin, mạng lưới đã duy trì tỷ lệ lạm phát hàng năm[^17] trên 100%. For the first 5 years it was over 30%, and for the first 8 years it was over 10%. All told the total “spending” Steem does to fund content, curation, and block production amounts to less than 10% APR.
+Trong 2 năm đầu đời của Bitcoin, mạng lưới đã duy trì tỷ lệ lạm phát hàng năm[^17] trên 100%. Trong 5 năm đầu tiên, nó đã hơn 30%, và trong 8 năm đầu tiên, nó đã đã vượt qua 10%. Tất cả đã nói lên với tổng số "chi tiêu" Steem không dùng để tài trợ cho nội dung, curation, và khối lượng sản xuất ít hơn 10% APR.
 
-The price of a digital commodity, like STEEM, is driven by both supply and demand. When a long-term holder decides to exit, the supply of STEEM on the market will increase and push the price down. This downward pressure is countered when a new long-term holder decides to buy up the STEEM and convert it back into SP. Additional supply and demand may be be added due to market speculators buying and selling liquid STEEM based on their predictions of the future market price.
+Giá của một mặt hàng kỹ thuật số, như STEEM được thúc đẩy bởi cả cung và cầu. Khi một nhà đầu tư dài hạn quyết định suy thoái vốn, nguồn cung ứng của STEEM trên thị trường sẽ tăng lên và giá bị đẩy xuống. Áp lực thị trường này sẽ giảm đi khi một nhà đầu tư dài hạn mới quyết định mua STEEM và chuyển đổi nó trở lại thành SP. Additional supply and demand may be be added due to market speculators buying and selling liquid STEEM based on their predictions of the future market price.
 
 # The Power of Steem
 
