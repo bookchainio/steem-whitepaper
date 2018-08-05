@@ -168,7 +168,7 @@ Bằng chứng công việc chủ quan cung cấp cách tiếp cận cải tiế
 
 Và hiệu quả thực tế là, các tiêu chuẩn dùng để đánh giá công việc trở nên hoàn toàn khách quan và sự xác định sẽ nằm ngoài bộ mã nguồn của nó. Cộng đồng này muốn sử dụng kết quả đánh giá nhằm tưởng thưởng cho các nghệ sĩ, cộng đồng kia muốn thưởng cho các nhà thơ, hay có cộng đồng lại muốn trao thưởng cho diễn viên kịch vui. Trong khi cộng đồng khác lại lựa chọn để trao tặng cho các hoạt động từ thiện hoặc giúp đỡ thúc tiến các chương trình nghị sự chính trị.
 
-The value each currency achieves depends upon the demand for influence within a particular community and how large the market believes each community can get. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
+Giá trị của mỗi loại tiền tệ phụ thuộc vào yêu cầu sức ảnh hưởng trong phạm vi một cộng đồng cụ thể cũng như niềm tin của thị trường về mức độ ảnh hưởng tương lai của cộng đồng đó. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
 
 ### Distributing Currency
 
