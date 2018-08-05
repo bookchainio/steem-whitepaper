@@ -180,7 +180,7 @@ Một nhiệm vụ tương đối thử thách được đặt ra là làm sao c
 
 Bước đầu tiên cho việc trả thưởng hàng triệu người dùng đảm bảo một lượng tiền cố định và phân bổ đồng đều, bất kể độ lớn công việc hoàn thành thế nào hoặc việc bỏ phiếu ra sao. Điều này khiến thay đổi câu hỏi từ *“Chúng ta có nên trả tiền không?”* sang câu *”Chúng ta nên trả tiền cho ai?”* và gửi tín hiệu cho thị trường biết dòng tiền đang được phân phối và đang được đấu giá để trao cho người hoàn thành được nhiều *công việc* nhất. Bitcoin đã từng làm một việc tương tự trước đây là cam kết tặng thưởng 50BTC cho bất kỳ ai giải được những hàm băm khó nhất. Nhưng với Bitcoin, mọi công việc phải được hoàn thành trước khi nhận thù lao mà không trả khi chưa được tiến hành.
 
-The next step is to reward everyone who does anything even remotely positive with *something*. This is accomplished by ranking all work done and distributing proportionally to its value. The more competitive the market becomes, the more difficult (higher quality or quantity) it becomes to earn the same payout.
+Bước tiếp theo là trao thưởng cho những ai làm bất cứ điều gì và kể cả không trực tiếp nhưng tác động tích cực lên *kết quả công việc*. Tất cả các công việc sau khi hoàn thành sẽ được xếp hạng, sau đó phần thưởng sẽ được phân phối theo từng phần giá trị công việc. Thị trường càng có tính cạnh tranh cao, cơ hội nhận mức thù lao như cũ càng trở nên khó hơn (kèm theo chất lượng hoặc số lượng gia tăng).
 
 ### Bỏ phiếu cho việc phân bổ tiền tệ
 
