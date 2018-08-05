@@ -441,7 +441,7 @@ So với tất cả các thành phần tạo nên nền tảng này, Steem nhậ
 
 Trên thực tế, để nhận được những lợi ích mong muốn, mọi người thường phải trả phí thanh toán. Với trường hợp của Steem, người dùng cá nhân có thể không cần phải tea3 bất cứ khoản phí nào, nhưng ngược lại việc họ cần làm là mang lại giá trị đến với Steem. Tất cả chúng ta cần phải đảm bảo một điều là người dùng đóng góp giá trị mạng xã hội cần thiết mà những nền tảng khác không làm được.
 
-Trên mạng xã hội Reddit, người dùng của họ bình chọn 220 lần và tạo ra 23 bài viết mỗi giây. Reddit is valued between $500 million[^18] and $4 billion[^19] which means that each and every upvote and post is worth between $0.06 and $0.50 assuming the value of Reddit is mostly within the past year’s worth of activity. One could argue that most of the value of Reddit is the near-real-time discussions that have occurred within the past week which would dramatically increase the value of new activity. People go where people are today, not where people were last year.
+Trên mạng xã hội Reddit, người dùng của họ bình chọn 220 lần và tạo ra 23 bài viết mỗi giây. Reddit được định giá khoảng 500 triệu đô la [^18]và 4 tỷ đô la [^19]tức là mỗi upvote và bài viết đáng giá 0.06 đô la và 0.05 đô la, với giả định giá trị của Reddit tương đương so với năm trước. One could argue that most of the value of Reddit is the near-real-time discussions that have occurred within the past week which would dramatically increase the value of new activity. People go where people are today, not where people were last year.
 
 ## No Micropayments, Tips Optional
 
