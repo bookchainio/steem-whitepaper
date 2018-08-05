@@ -240,15 +240,15 @@ Người dùng cũng có thể chọn chế độ nhận thưởng bằng 100% S
 
 # Thuật toán đồng thuận
 
-Sự đồng thuận là khi một cộng đồng cùng nhau công nhận, đạt được thỏa thuận rõ ràng về một thông tin nào đó. Hiện nay đã có rất nhiều các thuật toán được phát triển và sử dụng nhằm mang tới sự đồng thuận về ai sở hữu cái gì. Mỗi chính phủ hiện nay được coi là tiền thân của thuật toán đồng thuận, trong đó người dân đồng ý tuân theo một bộ các quy tắc được ghi chép lại trong hiến pháp. Governments establish courts, judges, and juries to interpret the subjective facts and render a final decision. Most of the time people abide by the decision even if it was wrong.
+Sự đồng thuận là khi một cộng đồng cùng nhau công nhận, đạt được thỏa thuận rõ ràng về một thông tin nào đó. Hiện nay đã có rất nhiều các thuật toán được phát triển và sử dụng nhằm mang tới sự đồng thuận về ai sở hữu cái gì. Mỗi chính phủ hiện nay được coi là tiền thân của thuật toán đồng thuận, trong đó người dân đồng ý tuân theo một bộ các quy tắc được ghi chép lại trong hiến pháp. Các chính phủ lại thiết lập các toàn án, phẩm phán và bồi thẩm đoàn nhằm giải thích các sự thật chủ quan và đưa ra quyết định cuối cùng. Phần lớn thời gian dù họ đưa ra các quyết định sai, người dẫn vẫn phải tuân theo.
 
-The algorithms used by cryptocurrencies provide a better way to reach consensus. Cryptographically signed testimony from individuals is recorded in a public ledger that establishes the absolute global order of events. A deterministic computer algorithm can then process this ledger to derive a universally accepted conclusion. So long as the members of a community agree on the processing algorithm, the result of the algorithm is authoritative.
+Các thuật toán sử dụng trong các đồng tiền mã hóa đưa ra giải pháp cải tiến nhằm đạt sự đồng thuận. Tài liệu chứng từ cá nhân được mã hóa và lưu vào sổ cái công cộng, cách này giúp thiết lập trật tự hoàn toàn cho mỗi sự kiện. Cuốn sổ cái được xử lý bởi thuật toán máy tính và giúp mọi người cùng đi đến một kết luận cuối cùng. Yêu cầu đặt ra là các thành viên phải cùng đồng ý áp dụng thuật toán đó, để kết quả của nó trở nên có tính thẩm quyền.
 
-The primary consideration is determining what testimony is allowed to enter the public record. Systems should be designed to minimize the potential for censorship. Censorship on the public ledger is similar to preventing someone from voting in an election. In both cases an individual is prevented from impacting the global consensus.
+Việc đầu tiên cần phải xem xét đó là cần quyết định xem loại chứng từ nào được phép ghi chép và lưu truyền ra công cộng. Sau đó các hệ thống cần được thiết lập để hạn chế khả năng bị kiểm duyệt. Nếu cuốn sổ cái công cộng cũng bị kiểm duyệt thì cũng tương tự như việc ngăn cản quyền bỏ phiếu của mọi người. Nhưng trong cả hai trường hợp trên đều ngăn trở sự đồng thuận.
 
-## Consensus in Steem
+## Cơ chế đồng thuận trên Steem
 
-Conceptually, the consensus algorithm adopted by Steem is similar to the consensus algorithm adopted by companies throughout the world. People with a vested interest in the future value of Steem vote to select individuals responsible for including testimony in the public record. Voting is weighted proportional to each individual's vested interest.
+Từ khái niệm trên được đưa ra, thuật toán đồng thuận sử dụng trên nền tảng của Steem cũng tương tự như thuật toán đồng thuận mà các công ty hiện nay trên thế giới đang áp dụng. People with a vested interest in the future value of Steem vote to select individuals responsible for including testimony in the public record. Voting is weighted proportional to each individual's vested interest.
 
 In the world of cryptocurrencies, the public record is commonly referred to as a *blockchain*. A *block* is a group of signed transactions.
 
