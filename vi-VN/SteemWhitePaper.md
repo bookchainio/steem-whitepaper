@@ -445,7 +445,7 @@ Trên mạng xã hội Reddit, người dùng của họ bình chọn 220 lần 
 
 ## Không thực hiện thanh toán vi mô, Steem thực hiện các phương án trả thưởng tuỳ chọn
 
-Existing attempts at integrating a cryptocurrency into a social media platform have focused on enabling users to pay one another. Many services have attempted to introduce tipping. The theory is that if we make tipping simple enough then more people will do it. Other services attempt to get people to pay to promote or boost their content’s ranking. Still others attempt to build small prediction markets on how many tips an article will receive.
+Hiện tại, các nhà sáng lập đang hết sức nỗ lực trong việc tích hợp xây dựng tiền tệ mã hoá trong cộng đồng với phương tiện truyền thông xã hội nhằm mục đích tạo co8 hội chính cho những người tham gia tự trao giải thưởng cho nhau. Cũng có rất nhiều dịch vụ xuất hiện để thực hiện hình thức trao thưởng. The theory is that if we make tipping simple enough then more people will do it. Other services attempt to get people to pay to promote or boost their content’s ranking. Still others attempt to build small prediction markets on how many tips an article will receive.
 
 All of these approaches boil down to micropayments. They differ only in who is making the payment. They all suffer from insufficient engagement of people making the micropayments. In the search for incentivised content production entrepreneurs have been so focused on who should pay that they missed the obvious reality: everyone benefits from everyone’s actions so everyone should pay or no one should pay, depending on how you look at it.
 
