@@ -130,7 +130,7 @@ Nếu giá trị của đồng STEEM biến động quá nhiều, nó sẽ có �
 
 Đối với giới hạn dưới của tỷ lệ tạo STEEM, phép tính dựa trên giá trị của STEEM (được xác định bằng (tỷ giá / nguồn cấp dữ liệu) hiện tại) tương ứng với tất cả số SBD và SP chưa được thanh toán.
 
-### Interest
+### Lãi suất
 
 SBD pays holders interest. The interest rate is set by the same people who publish the price feed so that it can adapt to changing market conditions. All debt carries risk to the lender. Someone who holds SBD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SBD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
 
