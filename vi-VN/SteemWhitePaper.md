@@ -441,9 +441,9 @@ So với tất cả các thành phần tạo nên nền tảng này, Steem nhậ
 
 Trên thực tế, để nhận được những lợi ích mong muốn, mọi người thường phải trả phí thanh toán. Với trường hợp của Steem, người dùng cá nhân có thể không cần phải tea3 bất cứ khoản phí nào, nhưng ngược lại việc họ cần làm là mang lại giá trị đến với Steem. Tất cả chúng ta cần phải đảm bảo một điều là người dùng đóng góp giá trị mạng xã hội cần thiết mà những nền tảng khác không làm được.
 
-Trên mạng xã hội Reddit, người dùng của họ bình chọn 220 lần và tạo ra 23 bài viết mỗi giây. Reddit được định giá khoảng 500 triệu đô la [^18]và 4 tỷ đô la [^19]tức là mỗi upvote và bài viết đáng giá 0.06 đô la và 0.05 đô la, với giả định giá trị của Reddit tương đương so với năm trước. One could argue that most of the value of Reddit is the near-real-time discussions that have occurred within the past week which would dramatically increase the value of new activity. People go where people are today, not where people were last year.
+Trên mạng xã hội Reddit, người dùng của họ bình chọn 220 lần và tạo ra 23 bài viết mỗi giây. Reddit được định giá khoảng 500 triệu đô la [^18]và 4 tỷ đô la [^19]tức là mỗi upvote và bài viết đáng giá 0.06 đô la và 0.05 đô la, với giả định giá trị của Reddit tương đương so với năm trước. Người ta có thể lập luận cho rằng giá trị của Reddit thuộc về những thảo luận gần như trong thời gian thực xảy ra trong tuần trước đó và có khả năng giả tăng đáng kể giá trị của hoạt động mới. Và mọi người thường đi theo xu hướng của đám đông hiện tại chứ không phải theo lối cũ người ta đi từ hôm qua.
 
-## No Micropayments, Tips Optional
+## Không thực hiện thanh toán vi mô, Steem thực hiện các phương án trả thưởng tuỳ chọn
 
 Existing attempts at integrating a cryptocurrency into a social media platform have focused on enabling users to pay one another. Many services have attempted to introduce tipping. The theory is that if we make tipping simple enough then more people will do it. Other services attempt to get people to pay to promote or boost their content’s ranking. Still others attempt to build small prediction markets on how many tips an article will receive.
 
