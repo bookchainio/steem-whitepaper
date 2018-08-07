@@ -158,9 +158,9 @@ Trên thực tế, những người cấp giá có quyền thiết lập một c
 
 Nếu tỷ lệ nợ trên vốn chủ sở hữu tăng quá mức cho phép, đồng thời những nhà đầu tư không thực hiện các yêu cầu quy đổi, lúc này nguồn cấp sẽ phải điều chỉnh để làm tăng tỷ lệ ở mức tại thời điểm đồng STEEM được quy đổi sang đồng SBD.
 
-Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SBD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions.
+Những thay đổi về chính sách lãi suất và/hoặc bất kỳ khoản phí bảo hiểm/chiết khấu nào trên tỷ lệ quy đổi STEEM/SBD sẽ được coi là thước đo lâu dài để đo lường sự chênh lệch trung bình, không phải là hình thức đối phó với những thay đổi ngắn hạn của thị trường.
 
-It is our belief that these rules will give market participants confidence that they are unlikely lose money by holding SBD purchased at a price of $1.00. We fully expect there to be a narrow trading range between $0.95 and $1.05 for SBD under normal market conditions.
+Chúng tôi mong rằng những quy tắc này tạo được niềm tin cho các nhà đầu tư để họ không lo bị lỗ khi đầu tư mua đồng SBD với giá $1.00. We fully expect there to be a narrow trading range between $0.95 and $1.05 for SBD under normal market conditions.
 
 ## Đóng góp chủ quan
 
@@ -475,17 +475,17 @@ Thông qua việc trả thưởng cho hoạt động đánh giá bài viết, m�
 
 Gia nhập thị trường tiền tệ mã hóa không hề dễ dàng[^21]. Bất kỳ ai khám phá ra Bitcoin và muốn nhanh chóng thử nghiệm cách sử dụng cũng phải đăng ký tài khoản trên một sàn giao dịch và chuyển vào tài khoản một lượng giá trị thông qua thẻ tín dụng hoặc Điện chuyển khoản ngân hàng. Hoạt động thâm nhập Facebook sẽ trở nên như thế nào nếu người tham gia phải đóng phí và thực hiện xác nhận danh tính trên hai hình thức?
 
-Bằng cách cung cấp cho người dùng phương thức nhận thưởng cho những đóng góp đơn giản nhưng có giá trị, Steem đã giải quyết được vấn đề này. Cách thức này cũng góp phần phân phối rộng rãi những token của Steem. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless.)
+Bằng cách cung cấp cho người dùng phương thức nhận thưởng cho những đóng góp đơn giản nhưng có giá trị, Steem đã giải quyết được vấn đề này. Cách thức này cũng góp phần phân phối rộng rãi những token của Steem. Điều này thực sự hữu ích bởi lẽ các đồng tiền điện tử có một tác động mang tính cộng đồng (thể hiện ở việc càng nhiều người tham gia càng làm cho đồng tiền ấy có giá trị; một ví dụ cực kỳ điển hình như sau: nếu Satoshi giữ lại 100% giá trị Bitcoin dùng cho mục đích cá nhân thì đồng Bitcoin sẽ không có giá trị như bây giờ)
 
-## Solving the Cryptocurrency Liquidation Problem
+## Giải pháp cho những vấn đề về tính thanh khoản của tiền tệ điện tử
 
-A currency that is difficult to use or impossible to sell has little value. Someone who comes across $1.00 worth of Bitcoin will discover that it costs more than $1.00 to sell that Bitcoin. They have to create an account with an exchange, perform KYC validation, and pay fees. Small amounts of cryptocurrency are like small change that people are unwilling to bend over to pick up.
+Giá trị của đồng tiền phụ thuộc vào tính thanh khoản của đồng tiền đó. Bất kỳ ai nắm giữ đồng Bitcoin trị giá $1.00 cũng hiểu rằng giá trị giao dịch của nó cao hơn nhiều so với thực giá. Để tham gia thực hiện giao dịch, người dùng phải tạo một tài khoản, tiến hành xác minh danh tính khách hàng (KYC) và trả phí khởi tạo. Đối với tiền tệ mã hóa, sự thay đổi về lượng không làm thay đổi nhiều về giá trị để có thể thu hút sự quan tâm của người tham gia giao dịch.
 
-Merchants give users a way to quickly convert their cryptocurrency into tangible goods and services. Merchants need a currency pegged to their unit of account, normally dollars. Accepting a volatile currency introduces significant accounting overhead.
+Các đại lý giao dịch thường cung cấp cho người dùng cách nhanh nhất để thực hiện chuyển đổi từ tiền tệ điện tử sang các loại hình dịch vụ và hàng hóa hữu hình khác. Các đại lý giao dịch thường định giá tài khoản theo một loại tiền tệ nào đó, thông thường là đồng Đô la. Để chấp nhận một loại tiền tệ không ổn định đòi hỏi phải có sự cân đối kỹ càng trong hệ thống kế toán.
 
-Merchants will accept any currency if it increases their sales. Having a large user base with a stable currency such as SBD lowers the barrier to entry for merchants. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
+Các đại lý giao dịch sẽ chấp nhận bất kỳ loại tiền tệ nào làm tăng doanh thu cho họ. Do đó, việc họ sở hữu một đồng tiền ổn định với lượng người sử dụng lớn như SBD sẽ giúp các đại lý giao dịch bớt đi nhiều rào cản khi tham gia thị trường. Bằng cách tạo ra một lối tắt cho người tham gia thoát ra khỏi hệ thống mà không gặp bất kỳ khó khăn nào, các đại lý giao dịch đã góp phần cải tiến hệ thống tốt hơn.
 
-Another way that people can liquidate the small amounts of cryptocurrency they receive from participating on the Steem platform is through *tipping* others. This is like leaving the small change as a tip for your waiter. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
+Người tham gia giao dịch có thể tiến hành thanh lý lượng nhỏ tiền điện tử họ nhận được theo một cách khác là dưới dạng *tiền thưởng nhỏ* (tips). This is like leaving the small change as a tip for your waiter. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
 
 ## Censorship
 
