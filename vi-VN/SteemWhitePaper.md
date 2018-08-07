@@ -138,13 +138,13 @@ Khi những người dùng tham gia vào cộng đồng đều có tư tưởng 
 
 ### Setting Price Feeds
 
-Những độc giả giàu kinh nghiệm đều hiểu rằng đối với những tài sản phải trả lãi do nguồn cung hạn hẹp có thể dùng để mua và bán với giá cao hơn hoặc thấp hơn so với tài sản cơ bản, điều này phụ thuộc vào những cơ hội có được. Lãi suất cao là khi một tài sản cố định được trả bằng đồng đô la Mỹ, lúc này sẽ có nhiều nhà đầu tư cùng tham gia đấu giá để mua Steem Dollar - một nguồn cung hạn chế, sự đấu giá này sẽ kéo dài đến khi nào giá trị của của SBD không còn là $1. Trong kinh tế học có một giả thuyết nguyên tắc gọi là Bộ ba bất khả thi[^4] (còn gọi là Bộ ba chính sách không thể đồng thời hoặc Tam nan kinh tế) cho rằng không thể thực hiện đồng thời ba chính sách sau đây:
+Những độc giả giàu kinh nghiệm đều hiểu rằng đối với những tài sản phải trả lãi do nguồn cung hạn hẹp có thể dùng để mua và bán với giá cao hơn hoặc thấp hơn so với tài sản cơ bản, điều này phụ thuộc vào những cơ hội có được. Lãi suất cao là khi một tài sản cố định được trả bằng đồng đô la Mỹ, lúc này sẽ có nhiều nhà đầu tư cùng tham gia đấu giá để mua Steem Dollar - một nguồn cung hạn chế, sự đấu giá này sẽ kéo dài đến khi nào giá trị của của SBD không còn là $1. Trong kinh tế học có một giả thuyết gọi là Bộ ba bất khả thi[^4] (còn gọi là Bộ ba chính sách không thể đồng thời hoặc Tam nan kinh tế) cho rằng không thể thực hiện đồng thời ba chính sách sau đây:
 
 1. Chế độ tỷ giá hối đoái cố định
 2. Tự do lưu chuyển vốn
 3. Chính sách tiền tệ độc lập để ổn định giá cả
 
-If Steem feed producers aim to have an independent monetary policy allowing it to create and destroy Steem Dollars while simultaneously having full control over the interest rate then they will encounter problems. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
+Nếu mục đích của những người tạo ra đồng Steem khi đề ra chính sách tiền tệ độc lập là có thể tạo ra và phá hủy đồng Steem Dollar trong khi vẫn có thể kiểm soát được toàn bộ lãi suất thì họ lại gặp phải một số vấn đề. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
 
 The primary concern of Steem feed producers is to maintain a stable one-to-one conversion between SBD and the U.S. Dollar (USD). Any time SBD is consistently trading above $1.00 USD interest payments must be stopped. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SBD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
 
