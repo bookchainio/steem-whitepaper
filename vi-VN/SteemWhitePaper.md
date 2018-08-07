@@ -1,6 +1,6 @@
 # Steem
 
-## An incentivized, blockchain-based, public content platform.
+## Một phương tiện truyền thông xã hội công khai dựa trên nền tảng blockchain và có cơ chế trả thưởng khích lệ người dùng.
 
 August 2017
 
@@ -8,7 +8,7 @@ August 2017
 
 Placeholder for translator's notes.
 
-# Abstract
+# Tóm tắt
 
 Steem is a blockchain database that supports community building and social interaction with cryptocurrency rewards. Steem combines concepts from social media with lessons learned from building cryptocurrencies and their communities. An important key to inspiring participation in any community, currency or free market economy is a fair accounting system that consistently reflects each person's contribution. Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
 
@@ -146,7 +146,7 @@ Những độc giả giàu kinh nghiệm đều hiểu rằng đối với nhữ
 
 Nếu mục đích của những người tạo ra đồng Steem khi đề ra chính sách tiền tệ độc lập là có thể tạo ra và phá hủy đồng Steem Dollar trong khi vẫn có thể kiểm soát được toàn bộ lãi suất thì họ lại gặp phải một số vấn đề. Theo giả thuyết Bộ ba bất khả thi đồng Steem Dollar hoặc là phải ngăn chặn sự di chuyển vốn, vì điều này sẽ làm cho tỷ giá hối đối của đồng đô la không ổn định, hoặc là phải có sự kiểm soát nhất định đối với lãi suất.
 
-Duy trì sự ổn định trong giao dịch 1:1 giữa hai đồng SBD và đô la Mỹ (USD) là mục tiêu quan trong mà những người sáng lập ra đồng Steem quan tâm đến. Bất cứ khi nào đồng SBD có giá trị giao dịch thường xuyên lên đến hơn $1.00 USD thì việc trả lãi bắt buộc phải ngừng lại. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SBD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
+Duy trì sự ổn định trong giao dịch 1:1 giữa hai đồng SBD và đô la Mỹ (USD) là mục tiêu quan trong mà những người sáng lập ra đồng Steem quan tâm đến. Bất cứ khi nào đồng SBD có giá trị giao dịch thường xuyên lên đến hơn $1.00 USD thì việc trả lãi bắt buộc phải ngừng lại. Trong một thị trường mà lãi suất cho vay là 0% thì vẫn phải có quy định để tính phí, điều này sẽ giúp cho thị trường mở rộng nhiều khoản có hơn là khoản nợ, đảm bảo kích thích sự tham gia ngày càng đông trên cộng đồng. If this happens a SBD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
 
 If the debt-to-ownership ratio is low and SBD is trading for less than $1.00, then the interest rate should be increased. This will encourage more people to hold their SBD and support the price.
 
