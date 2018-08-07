@@ -160,7 +160,7 @@ Nếu tỷ lệ nợ trên vốn chủ sở hữu tăng quá mức cho phép, đ
 
 Những thay đổi về chính sách lãi suất và/hoặc bất kỳ khoản phí bảo hiểm/chiết khấu nào trên tỷ lệ quy đổi STEEM/SBD sẽ được coi là thước đo lâu dài để đo lường sự chênh lệch trung bình, không phải là hình thức đối phó với những thay đổi ngắn hạn của thị trường.
 
-Chúng tôi mong rằng những quy tắc này tạo được niềm tin cho các nhà đầu tư để họ không lo bị lỗ khi đầu tư mua đồng SBD với giá $1.00. We fully expect there to be a narrow trading range between $0.95 and $1.05 for SBD under normal market conditions.
+Chúng tôi mong rằng những quy tắc này tạo được niềm tin cho các nhà đầu tư để họ sẵn sàng đầu tư mua đồng SBD với giá $1.00 mà không phải lo bị lỗ. Chúng tôi hoàn toàn tin tưởng rằng trong điều kiện thị trường bình thường thì giới hạn phạm vi giao dịch đồng SBD là từ $0.95 đến $1.05.
 
 ## Đóng góp chủ quan
 
@@ -485,7 +485,7 @@ Các đại lý giao dịch thường cung cấp cho người dùng cách nhanh 
 
 Các đại lý giao dịch sẽ chấp nhận bất kỳ loại tiền tệ nào làm tăng doanh thu cho họ. Do đó, việc họ sở hữu một đồng tiền ổn định với lượng người sử dụng lớn như SBD sẽ giúp các đại lý giao dịch bớt đi nhiều rào cản khi tham gia thị trường. Bằng cách tạo ra một lối tắt cho người tham gia thoát ra khỏi hệ thống mà không gặp bất kỳ khó khăn nào, các đại lý giao dịch đã góp phần cải tiến hệ thống tốt hơn.
 
-Người tham gia giao dịch có thể tiến hành thanh lý lượng nhỏ tiền điện tử họ nhận được theo một cách khác là dưới dạng *tiền thưởng nhỏ* (tips). This is like leaving the small change as a tip for your waiter. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
+Người tham gia giao dịch có thể tiến hành thanh lý lượng nhỏ tiền điện tử họ nhận được theo một cách khác là dưới dạng *tiền thưởng nhỏ* (tips). Điều này giống cách thức bạn để lại tiền thưởng cho bồi bàn tại các nhà hàng. Khi khoản tiền thưởng nhỏ dành cho nhiều người nó sẽ gộp lại thành một khoản tiền có giá trị. Cả người trao và người nhận các tiền thưởng nhỏ đều có lợi thông qua hoạt động này.
 
 ## Censorship
 
