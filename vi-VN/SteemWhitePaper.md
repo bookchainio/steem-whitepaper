@@ -487,13 +487,13 @@ Các đại lý giao dịch sẽ chấp nhận bất kỳ loại tiền tệ nà
 
 Người tham gia giao dịch có thể tiến hành thanh lý lượng nhỏ tiền điện tử họ nhận được theo một cách khác là dưới dạng *tiền thưởng nhỏ* (tips). Điều này giống cách thức bạn để lại tiền thưởng cho bồi bàn tại các nhà hàng. Khi khoản tiền thưởng nhỏ dành cho nhiều người nó sẽ gộp lại thành một khoản tiền có giá trị. Cả người trao và người nhận các tiền thưởng nhỏ đều có lợi thông qua hoạt động này.
 
-## Censorship
+## Hoạt động kiểm duyệt nội dung khi đăng tải
 
-Steem is a decentralized network that is operated by witnesses in jurisdictions around the world. All user actions are publicly recorded on the blockchain, and can be publicly verified. This means that there is no single entity that can censor content that is valued by STEEM holders.
+Steem là một mạng lưới phi tập trung được vận hành bởi các nhân chứng có quyền hạn pháp lý trên toàn thế giới. Mọi hoạt động của người dùng sẽ được ghi lại một cách minh bạch trên hệ thống blockchain và có thể được xác minh công khai. Điều này có nghĩa là việc kiểm duyệt nội dung của những người tham gia Steem không thể thực hiện đơn lẻ bởi bất kỳ một cá nhân nào.
 
-Individual websites such as steemit.com may censor content on their particular site, but content published on the blockchain is inherently broadcast traffic and mirrors all around the world may continue to make it available.
+Các trang mạng như Steemit.com đều cho phép người dùng có thể sửa đổi, kiểm duyệt nội dung trên trang cá nhân của mình, tuy nhiên một khi thông tin được phát hành trên hệ thống blockchain và vốn đã được truy cập, sao chép trên toàn thế giới thì nó sẽ tiếp tục tồn tại.
 
-Freedom of speech is the foundation of all other liberties and any infringement upon freedom of speech undermines the only peaceful means of reaching consensus: discussion. Without free discussion voters cannot be fully informed, and uninformed voters are a greater threat to society than losing the right to vote. Censorship is a means of stealing votes through limiting public discourse. Steem is committed to enabling free speech and building a free society.
+Tự do ngôn luận là nền tảng của tất cả các quyền tự do khác và bất kỳ hoạt động nào vi phạm về quyền tự do ngôn luận cũng cần thông qua phương pháp hòa bình duy nhất là trao đổi thảo luận để đi đến sự đồng thuận. Without free discussion voters cannot be fully informed, and uninformed voters are a greater threat to society than losing the right to vote. Censorship is a means of stealing votes through limiting public discourse. Steem is committed to enabling free speech and building a free society.
 
 ## Solving Organic Discovery via Search Engine Optimization
 
