@@ -138,11 +138,11 @@ Khi những người dùng tham gia vào cộng đồng đều có tư tưởng 
 
 ### Setting Price Feeds
 
-Những độc giả giàu kinh nghiệm đều hiểu rằng đối với những tài sản phải trả lãi do nguồn cung hạn hẹp có thể dùng để mua và bán với giá cao hơn hoặc thấp hơn so với tài sản cơ bản, điều này phụ thuộc vào những cơ hội có được. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
+Những độc giả giàu kinh nghiệm đều hiểu rằng đối với những tài sản phải trả lãi do nguồn cung hạn hẹp có thể dùng để mua và bán với giá cao hơn hoặc thấp hơn so với tài sản cơ bản, điều này phụ thuộc vào những cơ hội có được. Lãi suất cao là khi một tài sản cố định được trả bằng đồng đô la Mỹ, lúc này sẽ có nhiều nhà đầu tư cùng tham gia đấu giá để mua Steem Dollar - một nguồn cung hạn chế, sự đấu giá này sẽ kéo dài đến khi nào giá trị của của SBD không còn là $1. Trong kinh tế học có một giả thuyết nguyên tắc gọi là Bộ ba bất khả thi[^4] (còn gọi là Bộ ba chính sách không thể đồng thời hoặc Tam nan kinh tế) cho rằng không thể thực hiện đồng thời ba chính sách sau đây:
 
-1. A stable exchange rate
-2. Free capital movement
-3. An independent monetary policy
+1. Chế độ tỷ giá hối đoái cố định
+2. Tự do lưu chuyển vốn
+3. Chính sách tiền tệ độc lập để ổn định giá cả
 
 If Steem feed producers aim to have an independent monetary policy allowing it to create and destroy Steem Dollars while simultaneously having full control over the interest rate then they will encounter problems. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
 
