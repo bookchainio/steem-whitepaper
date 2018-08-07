@@ -10,31 +10,31 @@ Placeholder for translator's notes.
 
 # Tóm tắt
 
-Steem is a blockchain database that supports community building and social interaction with cryptocurrency rewards. Steem combines concepts from social media with lessons learned from building cryptocurrencies and their communities. An important key to inspiring participation in any community, currency or free market economy is a fair accounting system that consistently reflects each person's contribution. Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
+Steem là một nguồn cơ sở dữ liệu trên nền tảng blockchain nhằm hỗ trợ xây dựng cộng đồng và tương tác xã hội bằng phần thưởng là tiền điện tử. Steem tích hợp việc xây dựng tiền tệ mã hóa trong cộng đồng với phương tiện truyền thông xã hội. Để khuyến khích người dùng tham gia vào bất kỳ mạng lưới nào, bao gồm một cộng đồng, một thị trường tiền tệ hoặc một thị trường kinh tế tự do thì hệ thống tài chính công bằng thể hiện thông qua việc trả cho người dùng về đúng giá trị họ tạo ra là một nhân tố quan trọng. Steem là loại tiền điện tử đầu tiên có trả thưởng chính xác và minh bạch cho một lượng không giới hạn cho những cá nhân có *đóng góp chủ quan* vào cộng đồng Steem.
 
-# Table of Contents
+# Mục lục
 
 <!-- toc -->
 
-# Introduction
+# Giới thiệu
 
-Collectively, user-generated content has created billions of dollars worth of value for the shareholders of social media companies, such as Reddit, Facebook, and Twitter. **In 2014, Reddit hypothesized that its platform would be improved if everyone who contributed to reddit.com by posting stories, adding comments or voting were rewarded with a fair share in Reddit, Inc.[^1]**. Steem aims to support social media and online communities by returning much of its value to the people who provide valuable contributions by rewarding them with cryptocurrency, and through this process create a currency that is able to reach a broad market, including people who have yet to participate in any cryptocurrency economy.
+Xét một cách tổng quan, nội dung do người dùng tạo ra đã đem lại giá trị hàng tỉ đô la cho các cổ đông của các công ty truyền thông xã hội như Reddit, Facebook và Twitter. **Trong năm 2014, Reddit đưa ra giả thuyết rằng nếu tất cả những cá nhân có đóng góp trên trang Reddit.com bằng cách đăng tải nội dung, bình luận hoặc bỏ phiếu bài viết và được trả thưởng tương xứng bằng một cổ phiếu của Tập đoàn Reddit thì chương trình của họ sẽ có nhiều cải thiện<sup id="fnref:1"><a href="#fn:1" class="footnote-ref"></a></sup>**. Mục đích của Steem là thông qua việc hỗ trợ các phương tiện truyền thông xã hội và các cộng đồng trực tuyến trao trả thưởng cho người dùng đã có những đóng góp giá trị cho cộng đồng, bao gồm cả những người chưa từng tham gia bất kỳ thị trường tiền tệ mã hóa nào với phần thưởng là tiền điện tử, qua đó tạo ra một loại tiền tệ có thể tiếp cận thị trường mở.
 
-There are some key principles that have been used to guide the design of Steem. The most important principle is that everyone who contributes to a venture should receive pro-rata ownership, payment or debt from the venture. This principle is the same principle that is applied to all startups as they allocate shares at founding and during subsequent funding rounds.
+Để định hướng thiết kế Steem, có một vài nguyên tắc quan trọng đã được sử dụng. Nguyên tắc chính yếu nhất là tất cả những người có đóng góp vào dự án nên nhận về quyền sở hữu theo tỷ lệ, một hình thức thanh toán hoặc một khoản nợ từ dự án. Nguyên tắc này cũng chính là nguyên tắc được áp dụng cho tất cả các nhà khởi nghiệp khi thực hiện phân bổ cổ phần tại thời điểm sáng lập cũng như tại các dự án đầu tư tiếp theo sau đó.
 
-The second principle is that all forms of capital are equally valuable. This means that those who contribute their scarce time and attention toward producing and curating content for others are just as valuable as those who contribute their scarce cash. This is the sweat equity principle[^2] and is a concept that prior cryptocurrencies have often had trouble providing to more than a few dozen individuals.
+Nguyên tắc thứ hai nhấn mạnh tất cả các hình thức vốn góp đều có giá trị ngang bằng nhau. Điều này có nghĩa rằng không chỉ những người góp vốn bằng tiền mặt mà cả những cá nhân đóng góp thời gian và công sức quý báu của họ vào việc sáng tạo, kiểm duyệt nội dung cũng được đánh giá là một nguồn vốn góp có giá trị tương đương. Khái niệm về nguyên tắc cổ phiếu mồ hôi (hay cổ phiếu giá trị sức lao động) này [^2] luôn là vấn đề mà các loại hình tiền tệ điện tử gặp phải khi tiếp cận với hàng tá đối tượng khác.
 
-The third principle is that the community produces products to serve its members. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
+Nguyên tắc thứ ba nêu lên hoạt động cộng đồng nhằm để phục vụ cộng đồng và các thành viên của họ. Những tổ chức tín dụng, tập đoàn liên kết phân phối thực phẩm và các chương trình chia sẻ chăm sóc sức khỏe là ví dụ điển hình cho nguyên tắc này; mục đích của họ không đơn thuần là cung cấp hàng hóa và dịch vụ ra các đối tác bên ngoài mà chủ yếu hoạt động để phục vụ cho chính các thành viên trong tổ chức.
 
-The Steem community provides the following services to its members:
+Các thành viên của Steem khi tham gia vào cộng đồng sẽ nhận được những tiện ích sau:
 
-1. A source of curated news and commentary.
-2. A means to get high quality answers to personalized questions.
-3. A stable cryptocurrency pegged to the U.S. dollar.
-4. Free payments.
-5. Jobs providing above services to other members.
+1. Một nguồn tài liệu và thông tin đã được đánh giá.
+2. Một phương thức để tiếp cận các luồng ý kiến cá nhân chất lượng cao.
+3. Một loại hình tiền điện tử ổn định neo theo giá trị đồng Đô la Mỹ.
+4. Hệ thống thanh toán tự do.
+5. Được tham gia vào việc trao đổi những tiện ích nêu trên cùng các thành viên khác.
 
-Steem’s purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem’s incentives may result in better outcomes for most participants.
+So sánh với các phương tiện truyền thông và nền tảng sử dụng tiền mã hóa khác trước đây thì việc sắp xếp lại một cách có mục đích hình thức trả thưởng bằng tài chính của Steem sẽ đem lại khả năng đánh giá công bằng và toàn diện hơn những giá trị mà người dùng đã đóng góp cho cộng đồng. Bản tài liệu này sẽ đi sâu phân tích các hình thức trả thưởng bằng tiền tệ hiện có, từ đó minh họa cho người đọc cách nhìn rõ nét về tính hiệu quả trong cách thức trả thưởng của Steem đến người dùng.
 
 ## Recognizing Contribution
 
@@ -146,9 +146,9 @@ Những độc giả giàu kinh nghiệm đều hiểu rằng đối với nhữ
 
 Nếu mục đích của những người tạo ra đồng Steem khi đề ra chính sách tiền tệ độc lập là có thể tạo ra và phá hủy đồng Steem Dollar trong khi vẫn có thể kiểm soát được toàn bộ lãi suất thì họ lại gặp phải một số vấn đề. Theo giả thuyết Bộ ba bất khả thi đồng Steem Dollar hoặc là phải ngăn chặn sự di chuyển vốn, vì điều này sẽ làm cho tỷ giá hối đối của đồng đô la không ổn định, hoặc là phải có sự kiểm soát nhất định đối với lãi suất.
 
-Duy trì sự ổn định trong giao dịch 1:1 giữa hai đồng SBD và đô la Mỹ (USD) là mục tiêu quan trong mà những người sáng lập ra đồng Steem quan tâm đến. Bất cứ khi nào đồng SBD có giá trị giao dịch thường xuyên lên đến hơn $1.00 USD thì việc trả lãi bắt buộc phải ngừng lại. Trong một thị trường mà lãi suất cho vay là 0% thì vẫn phải có quy định để tính phí, điều này sẽ giúp cho thị trường mở rộng nhiều khoản có hơn là khoản nợ, đảm bảo kích thích sự tham gia ngày càng đông trên cộng đồng. If this happens a SBD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
+Duy trì sự ổn định trong giao dịch 1:1 giữa hai đồng SBD và đô la Mỹ (USD) là mục tiêu quan trong mà những người sáng lập ra đồng Steem quan tâm đến. Bất cứ khi nào đồng SBD có giá trị giao dịch thường xuyên lên đến hơn $1.00 USD thì việc trả lãi bắt buộc phải ngừng lại. Trong một thị trường mà lãi suất cho vay là 0% thì vẫn phải có quy định để tính phí, điều này sẽ giúp cho thị trường mở rộng nhiều khoản có hơn là khoản nợ, đảm bảo kích thích sự tham gia ngày càng đông trên cộng đồng. Nếu trường hợp này xảy ra thì SBD sẽ có giá trị hơn $1.00, lúc này hầu hết những người tham gia phải nhận lãi suất âm.
 
-If the debt-to-ownership ratio is low and SBD is trading for less than $1.00, then the interest rate should be increased. This will encourage more people to hold their SBD and support the price.
+Lãi suất sẽ tăng khi tỷ lệ nợ trên vốn chủ sở hữu thấp và giá trị SBD khi giao dịch chưa đến $1.00. Điều này không những sẽ khích lệ ngày càng nhiều nhà đầu tư nắm giữ đồng SBD mà còn giúp hỗ trợ về giá.
 
 If SBD trades for less than $1.00 USD and the debt-to-ownership ratio is high, then the feeds should be adjusted upward give more STEEM per SBD. This will increase demand for SBD while also reducing the debt-to-ownership ratio and returning SBD to parity with USD.
 
