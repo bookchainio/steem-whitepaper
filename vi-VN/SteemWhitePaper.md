@@ -154,9 +154,9 @@ Nhưng ngược lại, trong trường hợp giá trị của SBD khi giao dịc
 
 Giả sử trường hợp Steem tạo ra nhiều đồng STEEM giá trị hơn nhiều so với đồng SBD, lúc này tỷ lệ nợ trên vốn chủ sở hữu cần phải duy trì ở một mức nhất định và những người tham gia đều được hưởng lợi từ lãi suất. Nếu giá trị của hệ thống mang lại không nhiều hoặc giảm thì việc trả lãi suất chỉ làm cho tỷ lệ nợ trên vốn chủ sở hữu trở nên trở nên tồi tệ hơn.
 
-Trên thực tế, những người cấp giá có quyền thiết lập một chính sách tiền tệ nhằm duy trì giá trị của đồng đô la Mỹ được ổn định. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
+Trên thực tế, những người cấp giá có quyền thiết lập một chính sách tiền tệ nhằm duy trì giá trị của đồng đô la Mỹ được ổn định. Để tránh trường hợp những người này lạm dụng quyền và gây ra những tổn hại làm giảm giá trị của STEEM, những người nắm giữ nhiều SP đã bầu chọn ra những nhân chứng, họ sẽ góp phần vào việc điều chỉnh giá và tỷ lệ lãi suất theo những quy định đã nêu ở trên.
 
-If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SBD.
+Nếu tỷ lệ nợ trên vốn chủ sở hữu tăng quá mức cho phép, đồng thời những nhà đầu tư không thực hiện các yêu cầu quy đổi, lúc này nguồn cấp sẽ phải điều chỉnh để làm tăng tỷ lệ ở mức tại thời điểm đồng STEEM được quy đổi sang đồng SBD.
 
 Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SBD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions.
 
