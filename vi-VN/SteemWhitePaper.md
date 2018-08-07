@@ -493,11 +493,11 @@ Steem là một mạng lưới phi tập trung được vận hành bởi các n
 
 Các trang mạng như Steemit.com đều cho phép người dùng có thể sửa đổi, kiểm duyệt nội dung trên trang cá nhân của mình, tuy nhiên một khi thông tin được phát hành trên hệ thống blockchain và vốn đã được truy cập, sao chép trên toàn thế giới thì nó sẽ tiếp tục tồn tại.
 
-Tự do ngôn luận là nền tảng của tất cả các quyền tự do khác và bất kỳ hoạt động nào vi phạm về quyền tự do ngôn luận cũng cần thông qua phương pháp hòa bình duy nhất là trao đổi thảo luận để đi đến sự đồng thuận. Without free discussion voters cannot be fully informed, and uninformed voters are a greater threat to society than losing the right to vote. Censorship is a means of stealing votes through limiting public discourse. Steem is committed to enabling free speech and building a free society.
+Tự do ngôn luận là nền tảng của tất cả các quyền tự do khác và bất kỳ hoạt động nào vi phạm về quyền tự do ngôn luận cũng cần thông qua phương pháp hòa bình duy nhất là trao đổi thảo luận để đi đến sự đồng thuận. Những người sử dụng trang mạng sẽ bị thiếu hụt thông tin khi mà họ không được tham gia các cuộc thảo luận tự do và nếu so sánh với việc một người bị mất quyền bình chọn nội dung thì hành động bỏ phiếu với nguồn thông tin không đầy đủ sẽ thực sự là mối đe dọa lớn cho cộng đồng. Thông qua hoạt động giới hạn các bài tham luận công khai thì việc kiểm duyệt nội dung trước khi đăng tải là một hình thức tước đoạt quyền được bình chọn của người tham gia vào mạng lưới. Steem cam kết đem lại cho người dùng một cộng đồng được tự do ngôn luận và bình đẳng.
 
-## Solving Organic Discovery via Search Engine Optimization
+## Tối đa hóa công cụ tìm kiếm để tạo ra các nguồn quảng cáo tự nhiên cho Steem
 
-Most cryptocurrencies generate little value for those who are not actively using the network. Steem, by contrast, generates content and encourages users to share it. This content gets indexed by search engines and ultimately will bring value to a large number of passive users. This search traffic creates organic advertising for the Steem network and grows the network effect.
+Hầu hết mạng lưới của các đồng tiền mã hóa thường không cung cấp nhiều giá trị cho những người không tham gia hoặc ít tham gia hoạt động trên cộng đồng. Trong khi đó, cộng đồng Steem khuyến khích người dùng sáng tạo ra các nội dung bài viết và tích cực chia sẻ thông tin với những đối tượng khác. Những thông tin này sẽ được các các công cụ tìm kiếm trên mạng xã hội nắm bắt và sau đấy sẽ truyền tải đến cho một lượng lớn người dùng thụ động. This search traffic creates organic advertising for the Steem network and grows the network effect.
 
 ## Shifting Toward Blockchain-based Attribution
 
