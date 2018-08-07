@@ -138,7 +138,7 @@ Khi những người dùng tham gia vào cộng đồng đều có tư tưởng 
 
 ### Setting Price Feeds
 
-Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
+Những độc giả giàu kinh nghiệm đều hiểu rằng đối với những tài sản phải trả lãi do nguồn cung hạn hẹp có thể dùng để mua và bán với giá cao hơn hoặc thấp hơn so với tài sản cơ bản, điều này phụ thuộc vào những cơ hội có được. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
 
 1. A stable exchange rate
 2. Free capital movement
