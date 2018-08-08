@@ -198,9 +198,9 @@ Die Nutzung von *Negativ-Voting* um Menschen vom Missbrauch des Systems abzuhalt
 
 **Die Geschichte vom Krabben-Eimer**[^6]
 
-A man was walking along the beach and saw another man fishing in the surf with a bait bucket beside him. As he drew closer, he saw that the bait bucket had no lid and had live crabs inside.
+Es wanderte einmal ein Mann entlang des Strandes und sah einen anderen Mann fischen in der Brandung mit einem Köder-Eimer neben ihm. Als er näher kam, sah er, dass der Köder-Eimer keinen Deckel hatte und sich darin keine lebendigen Krabben befanden.
 
-"Why don't you cover your bait bucket so the crabs won't escape?", he said.
+"Warum deckst du deinen Köder-Eimer nicht ab, damit die Krabben nicht entwischen?", sagte er.
 
 "You don't understand.", the man replied, "If there is one crab in the bucket it would surely crawl out very quickly. However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
 
