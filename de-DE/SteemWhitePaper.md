@@ -210,9 +210,9 @@ Den "Missbrauch" auszuschalten ist nicht möglich und sollte auch nicht das Ziel
 
 Das Ziel bei der Bildung einer Community-Währung ist es, mehr "Krabben in den Eimer" zu bekommen. Extreme Maßnahmen zu ergreifen, all den Missbrauch zu unterbinden, wäre wie der Versuch, einen Deckel auf den Eimer zu legen, um zu verhindern, dass einige wenige Krabben flüchten und das würde es nur schwieriger machen, neue Krabben dem Eimer hinzuzufügen. Es reicht aus, die Wände etwas rutschig zu machen und den Krabben genügend Kraft zu verleihen, die anderen vom Flüchten abzuhalten.
 
-### Rate Limited Voting
+### In der Höhe begrenztes Voting
 
-A major part of minimizing abuse is the rate-limiting of voting. Individual users can only read and evaluate so many work items per day. Any attempt to vote more frequently than this is a sign of automation and potential abuse. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
+Ein wesentlicher Teil der Minimierung von Missbrauch ist die Höhenbegrenzung des Votings. Individuelle User können auf diese Weise nur eine bestimmte Anzahl an Arbeitsaufgaben pro Tag lesen und bewerten. Jeder Versuch häufiger zu voten, ist ein Zeichen der Automatisierung des potentiellen Missbrauchs. Durch die Höhenbegrenzung haben Anteilseigner, die häufiger voten, Votings, die geringer gewichtet sind, als Anteilseigner, die weniger häufig voten. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
 
 Users are allotted a fixed amount of voting power. Voting power is multiplied by a user’s vesting tokens to determine how much share in the reward pool should be allocated to a given work item. Every vote that is cast uses a percentage of remaining voting power. Users can vote for more posts, but each vote will be worth less, and it will take longer to reach full voting power again. Voting power recharges at a fixed linear rate of 20% per day.
 
