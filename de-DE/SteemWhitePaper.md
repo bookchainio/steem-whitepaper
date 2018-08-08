@@ -164,11 +164,11 @@ Wir glauben daran, dass diese Regeln den Marktteilnehmern die Zuversicht geben, 
 
 ## Subjektive Beiträge
 
-Der subjektive Proof of Work präsentiert einen weiteren Ansatz zur Verteilung einer Währung, der vollständig *objektive* Proof of Work-Systeme, wie das Mining, verbessert. Die Anwendungsmöglichkeiten einer Währung, die den *subjektiven* Proof of Work implementiert, sind weit größer als jedes *objektive* Proof of Work-System, da sie zum Aufbau einer Community um jedes Konzept herum verwendet werden kann, das einen hinreichend definierten Zweck hat. Wenn Individuen einer Community beitreten, übernehmen sie dabei ein bestimmtes Maß an Überzeugungen und können über die Verstärkung der Werte oder des Zwecks der Community abstimmen.
+Der subjektive Proof of Work präsentiert einen weiteren Ansatz zur Verteilung einer Währung, der vollständig *objektive* Proof of Work-Systeme, wie das Mining, verbessert. Die Anwendungsmöglichkeiten einer Währung, die den *subjektiven* Proof of Work implementiert, sind weit größer als jedes *objektive* Proof of Work-System, da sie zum Aufbau einer Community um jedes Konzept herum verwendet werden kann, das einen hinreichend definierten Zweck hat. Wenn Individuen einer Community beitreten, übernehmen sie dabei ein bestimmtes Maß an Überzeugungen und können über die Verstärkung der Werte oder des Zwecks der Community voten.
 
 Tatsächlich sind die Kriterien, mit denen Arbeit bewertet wird, vollständig subjektiv und ihre Definition befindet sich außerhalb des Quellcodes selbst. Eine Community möchte vielleicht Künstler belohnen, eine andere Poeten und eine weitere Comedians. Andere Communities wählen vielleicht das Belohnen von wohltätigen Zwecken oder helfen, politische Agenden voranzutreiben.
 
-Der Wert, den jede Währung erreicht, hängt vom Bedarf an Einfluß innerhalb einer bestimmten Community ab und davon, wie groß der Markt glaubt, dass die Community werden kann. Im Gegensatz zu bisherigen Systemen, erlaubt der subjektive Proof of Work einer Community die gemeinschaftliche Finanzierung der Entwicklung von etwas, das es als wertvoll betrachtet und ermöglicht die Monetarisierung der bislang nicht monetarisierbaren Zeit.
+Der Wert, den jede Währung erreicht, hängt vom Bedarf an Einfluß innerhalb einer bestimmten Community ab und davon, wie groß der Markt glaubt, dass die Community werden kann. Im Gegensatz zu bisherigen Systemen, erlaubt der subjektive Proof of Work einer Community die gemeinschaftliche Finanzierung der Entwicklung von etwas, das es als wertvoll betrachtet, und ermöglicht die Monetarisierung der bislang nicht monetarisierbaren Zeit.
 
 ### Verteilung der Währung
 
@@ -234,9 +234,9 @@ Der wirtschaftliche Effekt ist ähnlich einer Lotterie, in der Menschen die Wahr
 
 ### Auszahlungen
 
-When a post receives a payout it takes the form of 50% SBD and 50% SP. The Steem Power give the user increased voting and transaction power while the SBD gives the user an immediate benefit in a stable currency. As we’ve already discussed at length, SP is designed to encourage long-term holding rather than short-term selling. This encourages more users to have a vested interest in the long-term success of the platform.
+Wenn ein Beitrag ein Payout erhält, dann tut es das in Form von 50% SBD und 50% SP. Die Steem Power verleiht dem User eine gesteigerte Voting- und Transaktions-Power während die SBD dem User einen sofortigen Vorteile in einer stabilen Währung geben. Wie wir bereits ausführlich besprochen haben, ist die SP dazu bestimmt, eher zum langfristigen Halten zu motivieren als kurzfristig zu verkaufen. Das fördert mehr User, ein persönliches Interesse am Langzeit-Erfolg der Plattform zu entwickeln.
 
-Users also have the option to be paid in 100% SP, as well as decline payout on posts. When a user declines payout on a post, the money that would have been paid to them remains in the rewards pool, to be distributed to other users.
+User haben auch die Option, entweder zu 100% in SP bezahlt zu werden oder auf die Auszahlung auf Posts zu verzichten. Wenn ein User auf das Payout eines Posts verzichtet, dann verbleibt das Geld, das ihnen ausgezahlt worden wäre, im Reward-Pool, um an andere User verteilt zu werden.
 
 # Consensus Algorithm
 
