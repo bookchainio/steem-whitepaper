@@ -220,13 +220,13 @@ User erhalten einen festen Betrag an Voting-Power zugeteilt. Voting-Power wird m
 
 Eines der primären Ziele des Steem-Belohnungs-Systems ist die Schaffung der besten Diskussionen im Internet. Jedes Jahr werden 75% der jährlichen Inflation an die User verteilt, die Beiträge einreichen, auf Beiträge voten und Inhalte diskutieren. In der Größenordnung von Bitcoin könnten das mehrere Millionen Dollar pro Tag sein, die an Top-Autoren vergeben werden.
 
-The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content.
+Die tatsächliche Verteilung wird von den Voting-Mustern der User abhängen, aber wir schätzen, dass die große Mehrheit der Belohnungen an die populärsten Inhalte verteilt werden.
 
-Zipf’s Law[^7] is one of those empirical rules that characterize a surprising range of real-world phenomena remarkably well. It says that if we order some large collection by size or popularity, the second element in the collection will be about half the measure of the first one, the third one will be about one-third the measure of the first one, and so on. In general, the k th-ranked item will measure about 1/k of the first one.
+Zipf's Gesetz[^7] ist eine der empirischen Regeln, die eine überraschende Vielfalt an realen Phänomenen besonders gut charakterisieren. Es besagt, falls wir eine große Sammlung nach Größe oder Popularität sortieren, dann wird das zweite Element in der Sammlung ungefähr die Hälfte des ersten betragen, das dritte ungefähr ein Drittel des ersten und so weiter. Im allgemeinen wird also das k. Objekt ca. 1/k des ersten betragen.
 
 ![](\img_the_new_marketplace.png)
 
-Taking popularity as a rough measure of value, then the value of each individual item is given by Zipf’s Law. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
+Nimmt man Popularität als einen groben Wert-Maßstab, so erhält ein jedes individuelles Objekt seinen Wert nach dem Zipfschen Gesetz. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
 
 The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
 
