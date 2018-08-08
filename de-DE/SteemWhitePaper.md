@@ -234,7 +234,7 @@ Der wirtschaftliche Effekt ist ähnlich einer Lotterie, in der Menschen die Wahr
 
 ### Auszahlungen
 
-Wenn ein Beitrag ein Payout erhält, dann tut es das in Form von 50% SBD und 50% SP. Die Steem Power verleiht dem User eine gesteigerte Voting- und Transaktions-Power, während die SBD dem User einen sofortigen Vorteil in einer stabilen Währung geben. Wie wir bereits ausführlich besprochen haben, ist die SP dazu bestimmt, eher zum langfristigen Halten zu motivieren als zum kurzfristigen Verkaufen. Das fördert mehr User, ein persönliches Interesse am Langzeit-Erfolg der Plattform zu entwickeln.
+Wenn ein Beitrag einen Payout erhält, dann tut er das in Form von 50% SBD und 50% SP. Die Steem Power verleiht dem User eine gesteigerte Voting- und Transaktions-Power, während die SBD dem User einen sofortigen Vorteil in einer stabilen Währung geben. Wie wir bereits ausführlich besprochen haben, ist die SP dazu bestimmt, eher zum langfristigen Halten zu motivieren als zum kurzfristigen Verkaufen. Das fördert mehr User, ein persönliches Interesse am Langzeit-Erfolg der Plattform zu entwickeln.
 
 User haben auch die Option, entweder zu 100% in SP bezahlt zu werden oder auf die Auszahlung auf Posts zu verzichten. Wenn ein User auf das Payout eines Posts verzichtet, dann verbleibt das Geld, das ihnen ausgezahlt worden wäre, im Reward-Pool, um an andere User verteilt zu werden.
 
