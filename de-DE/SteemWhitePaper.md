@@ -212,13 +212,13 @@ Das Ziel bei der Bildung einer Community-Währung ist es, mehr "Krabben in den E
 
 ### In der Höhe begrenztes Voting
 
-Ein wesentlicher Teil der Minimierung von Missbrauch ist die Höhenbegrenzung des Votings. Individuelle User können auf diese Weise nur eine bestimmte Anzahl an Arbeitsaufgaben pro Tag lesen und bewerten. Jeder Versuch häufiger zu voten, ist ein Zeichen der Automatisierung des potentiellen Missbrauchs. Durch die Höhenbegrenzung haben Anteilseigner, die häufiger voten, Votings, die geringer gewichtet sind, als Anteilseigner, die weniger häufig voten. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
+Ein wesentlicher Teil der Minimierung von Missbrauch ist die Höhenbegrenzung des Votings. Individuelle User können auf diese Weise nur eine bestimmte Anzahl an Arbeitsaufgaben pro Tag lesen und bewerten. Jeder Versuch häufiger zu voten, ist ein Zeichen der Automatisierung des potentiellen Missbrauchs. Durch die Höhenbegrenzung haben Anteilseigner, die häufiger voten, Votings, die geringer gewichtet sind, als Anteilseigner, die weniger häufig voten. Versuche, Tokens zwischen mehreren Accounts aufzuteilen, teilt auch den Einfluss auf und resultiert demnach auch nicht in einem Netto-Anstieg des Einflusses oder in der Umgehung der Höhenbegrenzung beim Voting.
 
-Users are allotted a fixed amount of voting power. Voting power is multiplied by a user’s vesting tokens to determine how much share in the reward pool should be allocated to a given work item. Every vote that is cast uses a percentage of remaining voting power. Users can vote for more posts, but each vote will be worth less, and it will take longer to reach full voting power again. Voting power recharges at a fixed linear rate of 20% per day.
+User erhalten einen festen Betrag an Voting-Power zugeteilt. Voting-Power wird multipliziert mit den Vesting-Tokes des Users, um zu bestimmen, wie hoch der Anteil im Reward-Pool sein soll, der einer Arbeitsaufgabe zugewiesen wird. Jedes Voting, das ausgeführt wird, nutzt einen Prozentsatz der verbleibenden Voting-Power. Nutzer können für weitere Posts voten, aber jedes Voting wird weniger wert sein und es wird länger dauern, bis die volle Voting-Power wieder erreicht wird. Die Voting-Power lädt sich mit einer festen, linearen Rate von 20% pro Tag wieder auf.
 
-### Payout Distribution
+### Auszahlungs-Verteilung
 
-One of the primary goals of Steem’s reward system is to produce the best discussions on the internet. Each and every year 75% of the yearly inflation is distributed to users submitting, voting on, and discussing content. At the size of Bitcoin this could be several million dollars per day being given to the top contributors.
+Eines der primären Ziele des Steem-Belohnungs-Systems ist die Schaffung der besten Diskussionen im Internet. Jedes Jahr werden 75% der jährlichen Inflation an die User verteilt, die Beiträge einreichen, auf Beiträge voten und Inhalte diskutieren. In der Größenordnung von Bitcoin könnten das mehrere Millionen Dollar pro Tag sein, die an Top-Autoren vergeben werden.
 
 The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content.
 
