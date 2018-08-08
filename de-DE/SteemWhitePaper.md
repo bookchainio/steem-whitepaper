@@ -188,7 +188,7 @@ Angenommen, es gibt einen festgelegten Geldbetrag zu verteilen and jene, die ein
 
 Der arglose Voting-Vorgang schafft ein N-Personen-Gefangenendilemma [^5], wobei jeder individuelle Voter einen Anreiz hat, für sich selbst auf Kosten des größeren Community-Ziels zu voten. Wenn jeder Voter den Fehler macht, indem er für sich selbst abstimmt, dann wird am Ende keine Währung verteilt und die Währung als Ganzes wird darin fehlschlagen einen Netzwerkeffekt zu erzielen. Auf der anderen Seite, falls nur ein Voter den Fehler macht, dann würde dieser Voter unverdiente Gewinne erzielen, während er nur minimale Auswirkung auf den Gesamtwert der Währung hat.
 
-#### Voting Missbrauch
+#### Voting-Missbrauch
 
 Unabhängig davon wieviel Geld ein Individuum besitzt, gibt es stets viele weitere Individuen mit ähnlichem Wohlstand. Selbst das wohlhabendste Individuum hat selten viel mehr als die nächsten beiden Reichsten zusammen. Darüber hinaus haben diejenigen, die ein großes Investment in eine Community getätigt haben, auch das meiste zu verlieren, wenn sie versuchen sollten, das Voting-System für sich selbst auszunutzen. Es wäre wie der CEO einer Firma, der entscheidet, die Arbeitslöhne nicht mehr auszubezahlen, und sich diese stattdessen in die eigene Tasche zu stecken. Jeder würde die Firma verlassen, um woanders zu arbeiten und die Firma würde wertlos werden und den CEO eher bankrott als wohlhabend zurücklassen.
 
@@ -222,7 +222,7 @@ Eines der primären Ziele des Steem-Belohnungs-Systems ist die Schaffung der bes
 
 Die tatsächliche Verteilung wird von den Voting-Mustern der User abhängen, aber wir schätzen, dass die große Mehrheit der Belohnungen an die populärsten Inhalte verteilt werden.
 
-Das Zipfsche Gesetz[^7] ist eine der empirischen Regeln, die eine überraschende Vielfalt an realen Phänomenen besonders gut charakterisieren. Es besagt, falls wir eine große Sammlung nach Größe oder Popularität sortieren, dann wird das zweite Element in der Sammlung ungefähr die Hälfte des ersten betragen, das dritte ungefähr ein Drittel des ersten und so weiter. Im allgemeinen wird also das k. Objekt ca. 1/k des ersten betragen.
+Das Zipfsche Gesetz[^7] ist eine der empirischen Regeln, die eine überraschende Vielfalt an realen Phänomenen besonders gut charakterisieren. Es besagt, falls wir eine große Sammlung nach Größe oder Popularität sortieren, dann wird das zweite Element in der Sammlung ungefähr die Hälfte des ersten betragen, das dritte ungefähr ein Drittel des ersten und so weiter. Im Allgemeinen wird also das k. Objekt ca. 1/k des ersten betragen.
 
 ![](\img_the_new_marketplace.png)
 
