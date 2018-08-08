@@ -202,11 +202,11 @@ Es wanderte einmal ein Mann entlang des Strandes und sah einen anderen Mann fisc
 
 "Warum deckst du deinen Köder-Eimer nicht ab, damit die Krabben nicht entwischen?", sagte er.
 
-"You don't understand.", the man replied, "If there is one crab in the bucket it would surely crawl out very quickly. However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
+"Du verstehst das nicht.", antwortete der Mann, "Wenn eine Krabbe im Eimer ist, wird sie sicherlich ganz schnell herauskriechen. Wenn allerdings viele Krabben im Eimer sind und eine versucht, an der Seite hochzukriechen, dann greifen die anderen nach ihr und ziehen sie zurück nach unten, so dass sie das gleiche Schicksal teilen wird, wie der Rest von ihnen."
 
-So it is with people. If one tries to do something different, get better grades, improve herself, escape her environment, or dream big dreams, other people will try to drag her back down to share their fate.
+So ist es mit den Menschen. Wenn jemand versucht, etwas anders zu machen, einen besseren Abschluss zu erzielen, sich selbst zu verbessern, aus ihrer Umgebung zu flüchten oder große Träume zu träumen, dann werden andere Menschen versuchen sie oder ihn zurückzuhalten, um mit ihnen deren Schicksal zu teilen.
 
-Eliminating “abuse” is not possible and shouldn’t be the goal. Even those who are attempting to “abuse” the system are still doing work. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn’t so rampant that it undermines the incentive to do real work in support of the community and its currency.
+Den "Missbrauch" auszuschalten ist nicht möglich und sollte auch nicht das Ziel sein. Selbst jene, die versuchen, das System zu "missbrauchen", erledigen immer noch Arbeit. Jeder Ausgleich, den sie bekommen für ihre erfolgreichen Versuche des Missbrauchs oder Betruges, hat zumindest noch einen Wert für den Zweck der Verteilung der Währung, ähnlich wie das beim make-work-System des traditionellen Bitcoin-Minings funktioniert oder dem kollusiven Mining über Mining-Pools. All that is necessary is to ensure that abuse isn’t so rampant that it undermines the incentive to do real work in support of the community and its currency.
 
 The goal of building a community currency is to get more “crabs in the bucket”. Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs sufficient power to prevent others from escaping.
 
