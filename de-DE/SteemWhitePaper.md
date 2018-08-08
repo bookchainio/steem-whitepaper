@@ -164,7 +164,7 @@ Wir glauben daran, dass diese Regeln den Marktteilnehmern die Zuversicht geben, 
 
 ## Subjektive Beiträge
 
-Der subjektive Proof of Work präsentiert einen weiteren Ansatz zur Verteilung einer Währung, der vollständig *objektive* Proof of Work-Systeme, wie das Mining, verbessert. Die Anwendungsmöglichkeiten einer Währung, die den *subjektiven* Proof of Work implementiert, sind weit größer als jedes *objektive* Proof of Work-System, da sie zum Aufbau einer Community um jedes Konzept herum verwendet werden kann, das einen hinreichend definierten Zweck hat. Wenn Individuen einer Community beitreten, übernehmen sie dabei ein bestimmtes Maß an Überzeugungen und können über die Verstärkung der Werte oder des Zwecks der Community voten.
+Der subjektive Proof of Work präsentiert einen weiteren Ansatz zur Verteilung einer Währung, der vollständig *objektive* Proof of Work-Systeme, wie das Mining, verbessert. Die Anwendungsmöglichkeiten einer Währung, die den *subjektiven* Proof of Work implementiert, sind weit größer als jedes *objektive* Proof of Work-System, da sie zum Aufbau einer Community um jedes Konzept herum verwendet werden kann, das einen hinreichend definierten Zweck hat. Wenn Individuen einer Community beitreten, übernehmen sie dabei ein bestimmtes Maß an Überzeugungen und können voten, um die Werte oder Ziele der Community zu stärken.
 
 Tatsächlich sind die Kriterien, mit denen Arbeit bewertet wird, vollständig subjektiv und ihre Definition befindet sich außerhalb des Quellcodes selbst. Eine Community möchte vielleicht Künstler belohnen, eine andere Poeten und eine weitere Comedians. Andere Communities wählen vielleicht das Belohnen von wohltätigen Zwecken oder helfen, politische Agenden voranzutreiben.
 
