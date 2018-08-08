@@ -186,7 +186,7 @@ Der nächste Schritt ist die Belohnung von jedem, der irgendetwas tut, selbst we
 
 Angenommen, es gibt einen festgelegten Geldbetrag zu verteilen and jene, die ein langfristig investiertes Interesse am zukünftigen Wert und an der Nützlichkeit der Währung haben, müssen darüber entscheiden, wie dieser auszugeben ist. Jeder investierte User gibt sein Voting ab für den, der die beste Arbeit geleistet hat und am Ende des Tages wird das verfügbare Geld für diesen Tag proportional zu den Votings geteilt, so dass jeder mit auch nur einem einzigen Netto-Vote etwas davon bekommt.
 
-The naive voting process creates a N-Person Prisoner’s Dilemma[^5] whereby each individual voter has incentive to vote for themselves at the expense of the larger community goal. If every voter defects by voting for themselves then no currency will end up distributed and the currency as a whole will fail to gain network effect. On the other hand, if only one voter defects then that voter would win undeserved profits while having minimal effect on the overall value of the currency.
+Der arglose Voting-Vorgang schafft ein N-Personen-Gefangenendilemma [^5], wobei jeder individuelle Voter einen Anreiz, hat für sich selbst auf Kosten des größeren Community-Ziels zu voten. Wenn jeder Voter den Fehler macht, indem er für sich selbst abstimmt, dann wird am Ende keine Währung verteilt und die Währung als Ganzes wird darin fehlschlagen einen Netzwerkeffekt zu erzielen. On the other hand, if only one voter defects then that voter would win undeserved profits while having minimal effect on the overall value of the currency.
 
 #### Voting Abuse
 
