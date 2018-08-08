@@ -226,13 +226,13 @@ Zipf's Gesetz[^7] ist eine der empirischen Regeln, die eine überraschende Vielf
 
 ![](\img_the_new_marketplace.png)
 
-Nimmt man Popularität als einen groben Wert-Maßstab, so erhält ein jedes individuelles Objekt seinen Wert nach dem Zipfschen Gesetz. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
+Nimmt man Popularität als einen groben Wert-Maßstab, so erhält ein jedes individuelles Objekt seinen Wert nach dem Zipfschen Gesetz. Demnach, wenn wir eine Million Objekte haben, dann werden die 100 populärsten von ihnen ein Drittel des Gesamtwertes beisteuern, die nächsten 10.000 das nächste Drittel und die verbleibenden 989.900 das letzte Drittel. Der Wert der Sammlung von n Objekten ist proportional zu log(n).
 
-The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
+Die Auswirkung dieser Voting- und Payout-Verteilung bedeutet ein Angebot an großen Bounties für gute Inhalte, während kleinere Akteure trotzdem weiterhin für ihre langfristige Beteiligung belohnt werden.
 
-The economic effect of this is similar to a lottery where people overestimate their probability of getting votes and thus do more work than the expected value of their reward and thereby maximize the total amount of work performed in service of the community. The fact that everyone “wins something” plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
+Der wirtschaftliche Effekt ist ähnlich einer Lotterie, in der Menschen die Wahrscheinlichkeit, Votings zubekommen, überschätzen und dementsprechend mehr Arbeit leisten im Vergleich zum erwarteten Wert ihrer Belohnung und dabei gleichzeitig die Maximalleistung an Arbeit ausführen im Dienste der Community. Die Tatsache, dass jeder "etwas gewinnt", spielt mit der selben Psychologie, die Casinos nutzen, um Menschen an das Glücksspiel zu binden. Mit anderen Worten: kleine Belohnungen helfen die Idee zu verstärken, dass es möglich ist, größere Belohnungen zu verdienen.
 
-### Payouts
+### Auszahlungen
 
 When a post receives a payout it takes the form of 50% SBD and 50% SP. The Steem Power give the user increased voting and transaction power while the SBD gives the user an immediate benefit in a stable currency. As we’ve already discussed at length, SP is designed to encourage long-term holding rather than short-term selling. This encourages more users to have a vested interest in the long-term success of the platform.
 
