@@ -260,9 +260,9 @@ Da aktive Witnesses im Voraus bekannt sind, ist Steem in der Lage, Witnesses zu 
 
 # Beseitigung von Transaktions-Gebühren
 
-Steem goes to great lengths to reward people for contributing to the network. It would be counterproductive to turn around and charge people every time they attempt to interact with the community.
+Steem unternimmt große Anstrengungen, Menschen für ihren Beitrag zum Netzwerk zu belohnen. Es wäre kontraproduktiv, umzukehren und Menschen jedesmal abzukassieren, wenn sie versuchen mit der Community zu interagieren.
 
-Blockchain technology currently depends upon transaction fees to prevent spam. These fees suffer all of the known problems with microtransactions and prevent blockchains from being used for low-value transactions. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
+Zur Zeit basiert die Blockchain-Technology darauf, Transaktionsgebühren zu erheben, um Spam zu verhindern. Diese Gebühren bringen all die bekannten Probleme mit Mikrotransaktionen zurück und verhindern, dass Blockchains für Transaktionen mit kleinem Wert benutzt werden. Echte dezentralisierte Anwendungen müssen den Usern kostenlose Transaktionen anbieten, wenn sie mit ihren zentralisierten Alternativen konkurrieren wollen. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
 
 ## The Problem With Fees
 
