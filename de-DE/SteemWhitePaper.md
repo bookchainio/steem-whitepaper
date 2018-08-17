@@ -238,7 +238,7 @@ Wenn ein Beitrag einen Payout erhält, dann tut er das in Form von 50% SBD und 5
 
 User haben auch die Option, entweder zu 100% in SP bezahlt zu werden oder auf die Auszahlung auf Posts zu verzichten. Wenn ein User auf das Payout eines Posts verzichtet, dann verbleibt das Geld, das ihnen ausgezahlt worden wäre, im Reward-Pool, um an andere User verteilt zu werden.
 
-# Consensus Algorithm
+# Konsens-Algorithmus
 
 Consensus is the process by which a community comes to a universally recognized, unambiguous agreement on piece of information. There are many algorithms society has developed for reaching consensus about who owns what. Every government on earth is a primitive consensus algorithm whereby the population agrees to abide by a certain set of rules enshrined in a constitution. Governments establish courts, judges, and juries to interpret the subjective facts and render a final decision. Most of the time people abide by the decision even if it was wrong.
 
