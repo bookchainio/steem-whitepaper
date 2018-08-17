@@ -268,11 +268,11 @@ Zur Zeit basiert die Blockchain-Technology darauf, Transaktionsgebühren zu erhe
 
 Blockchains sind dezentralisierte Netzwerke, wo alle Transaktionen an alle Peers ausgesendet werden. Jedesmal, wenn ein Block produziert wurde, enthält dieser einige oder alle der ausstehenden Transaktionen. Alle Blockchains müssen eine Lösung finden, böswillige Nutzer vom Verbrauchen der verfügbaren Netzwerkkapazitäten durch wertlose Transaktionen abzuhalten. Diese wertlosen Transaktionen können verhindern, dass andere wertvolle Transaktionen verarbeitet werden, und zerstören damit das Netzwerk.
 
-The solution adopted by most blockchains thus far is to charge a minimum transaction fee. A fee worth just a few cents is enough to make attacking the network expensive and unprofitable. While this approach solves the spam problem, it introduces new problems. Imagine solving the email spam problem by introducing a small fee on every email; people wouldn’t use email.
+Die Lösung der meisten Blockchains bis jetzt war das Erheben einer minimalen Transaktionsgebühr. Eine Gebühr, die nur einpaar Cent wert ist, ist hoch genug, um Angriffe auf das Netzwerk teuer und unrentabel zu machen. Während dieser Ansatz das Spam-Sproblem löst, führt es zu neuen Problemen. Stellen Sie sich vor, das E-Mail Spam-Problem würde dadurch gelöst, dass eine kleine Gebühr für jede E-Mail fällig wäre; Menschen würden E-Mail nicht mehr nutzen.
 
-### Micropayments Don’t Work
+### Mikropayments funktionieren nicht
 
-The fundamental problem with charging transaction fees is that micropayments don’t work, especially for low-value user actions. When a fee is charged on every transaction, it limits the types of transactions that a decentralized network can process. Regardless of how rational the argument for the necessity of fees, users still hate the experience of being nickeled and dimed for everything that they do.
+Das fundamentale Problem bei der Erhebung von Transaktionsgebühren ist, das Mikropayments nicht funktionieren, besonders für Nutzeraktionen mit kleinem Wert. Wenn eine Gebühr für jede Transaktion erhoben wird, begrenzt es die Arten von Transaktionen, die ein dezentralisiertes Netzwerk verarbeiten kann. Unabhängig davon wie rational das Argument für die Notwendigkeit von Gebühren sein mag, Nutzer hassen immer noch die Erfahrung, für alles was sie tun, abkassiert zu werden.
 
 Imagine if the websites we use every day charged us a fee every time we modify our accounts by changing the password. Users expect certain things to be free. Requiring users to make a decision on whether or not an action is worth a small fee creates anxiety that causes users to leave. A transaction can’t be worth so much as to require a decision but worth so little that that decision is automatic. There is a certain amount of anxiety involved in any decision to buy, no matter how small, and it derives not from the interface used or the time required, but from the very act of deciding.
 
