@@ -266,7 +266,7 @@ Zur Zeit basiert die Blockchain-Technology darauf, Transaktionsgebühren zu erhe
 
 ## Das Problem mit Gebühren
 
-Blockchains are decentralized networks where all transactions are broadcast to all peers. Every so often a block is produced that includes some or all of the pending transactions. All blockchains must find a solution to prevent malicious users from consuming all of the available network capacity with worthless transactions. These worthless transactions can prevent other valuable transactions from being processed and ultimately destroy the network.
+Blockchains sind dezentralisierte Netzwerke, wo alle Transaktionen an alle Peers ausgesendet werden. Jedesmal, wenn ein Block produziert wurde, enthält dieser einige oder alle der ausstehenden Transaktionen. Alle Blockchains müssen eine Lösung finden, böswillige Nutzer vom Verbrauchen der verfügbaren Netzwerkkapazitäten durch wertlose Transaktionen abzuhalten. Diese wertlosen Transaktionen können verhindern, dass andere wertvolle Transaktionen verarbeitet werden, und zerstören damit das Netzwerk.
 
 The solution adopted by most blockchains thus far is to charge a minimum transaction fee. A fee worth just a few cents is enough to make attacking the network expensive and unprofitable. While this approach solves the spam problem, it introduces new problems. Imagine solving the email spam problem by introducing a small fee on every email; people wouldn’t use email.
 
