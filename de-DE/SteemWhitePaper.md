@@ -1,6 +1,6 @@
 # Steem
 
-## Eine incentivierte, auf Blockchain basierende öffentliche Content-Plattform.
+## Eine anreizorientierte, blockchainbasierte öffentlich Content-Plattform.
 
 August 2017
 
