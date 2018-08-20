@@ -262,7 +262,7 @@ Da aktive Witnesses im Voraus bekannt sind, ist Steem in der Lage, Witnesses zu 
 
 Steem unternimmt große Anstrengungen, Menschen für ihren Beitrag zum Netzwerk zu belohnen. Es wäre kontraproduktiv, umzukehren und Menschen jedesmal abzukassieren, wenn sie versuchen mit der Community zu interagieren.
 
-Zur Zeit hängt die Blockchain-Technology davon ab, Transaktionsgebühren zu erheben, um Spam zu verhindern. Diese Gebühren bringen all die bekannten Probleme mit Mikrotransaktionen zurück und verhindern, dass Blockchains für Transaktionen mit kleinem Wert benutzt werden. Echte dezentralisierte Anwendungen müssen den Nutzern kostenlose Transaktionen anbieten, wenn sie mit ihren zentralisierten Alternativen konkurrieren wollen. Dieses Dokument beschreibt den Ansatz von Steem, den Bedarf an Gebühren zu beseitigen und dadurch eine größere Bandbreite von zuvor unzumutbar dezentralisierten Anwendungen zu ermöglichen.
+Zur Zeit hängt die Blockchain-Technology davon ab, Transaktionsgebühren zu erheben, um Spam zu verhindern. Diese Gebühren bringen all die bekannten Probleme mit Mikrotransaktionen zurück und verhindern, dass Blockchains für Transaktionen mit geringem Wert benutzt werden. Echte dezentralisierte Anwendungen müssen den Nutzern kostenlose Transaktionen anbieten, wenn sie mit ihren zentralisierten Alternativen konkurrieren wollen. Dieses Dokument beschreibt den Ansatz von Steem, den Bedarf an Gebühren zu beseitigen und dadurch eine größere Bandbreite von zuvor unzumutbar dezentralisierten Anwendungen zu ermöglichen.
 
 ## Das Problem mit Gebühren
 
