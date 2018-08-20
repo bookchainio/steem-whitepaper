@@ -244,7 +244,7 @@ Konsens ist der Vorgang, durch den eine Community eine allgemein anerkannte und 
 
 Der Algorithmus, der von Kryptowährungen benutzt wird, bietet einen besseren Weg zum Erreichen eines Konsens. Das kryptographisch signierte Zeugnis von Individuen wird in einem öffentlichen "Geschäftsbuch" aufgezeichnet, welches die absolute globale Reihenfolge von Ereignissen bestimmt. Ein deterministischer Computer-Algorithmus kann dann dieses Geschäftsbuch fortführen, um eine universell akzeptierte Schlussfolgerung daraus abzuleiten. Solange wie die Mitglieder einer Community mit dem Verarbeitungs-Algorithmus einverstanden sind, ist das Ergebnis des Algorithmus maßgebend.
 
-Der wichtigste Aspekt ist zu bestimmen, welches Zeugnis in die öffentliche Aufzeichnung aufgenommen wird. Systeme sollten darauf ausgerichtet sein, dass das Potential der Zensur minimiert wird. Zensur im öffentlichen Geschäftsbuch ist vergleichbar, wie wenn jemand daran gehindert wird, bei an einer Wahl abzustimmen. In beiden Fällen werden Individuen davon abgehalten, den globalen Konsens zu beeinflussen.
+Der wichtigste Aspekt ist zu bestimmen, welches Zeugnis in die öffentliche Aufzeichnung aufgenommen wird. Systeme sollten darauf ausgerichtet sein, dass das Potential der Zensur minimiert wird. Die Zensur des öffentlichen Geschäftsbuchs ist vergleichbar damit, jemanden daran zu hindern, an einer Wahl teilzunehmen. In beiden Fällen werden Individuen davon abgehalten, den globalen Konsens zu beeinflussen.
 
 ## Konsens in Steem
 
