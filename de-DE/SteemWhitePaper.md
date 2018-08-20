@@ -248,7 +248,7 @@ Der wichtigste Aspekt ist zu bestimmen, welches Zeugnis in die öffentliche Aufz
 
 ## Konsens in Steem
 
-Konzeptuell gesehen ist der Konsens-Algorithmus, der von Steem übernommen wurde, dem Konsens-Algorithmus ähnlich, den Firmen in der ganzen Welt anwenden. Menschen mit einem ureigenen Interesse in den zukünftigen Wert von Steem voten, um Individuen auszuwählen, die für das Hinzufügen von Zeugnissen zur öffentlichen Aufzeichnung verantwortlich sind. Das Voting wird proportional zum persönlichen Interesse des Einzelnen gewichtet.
+Konzeptuell gesehen ist der Konsens-Algorithmus, der von Steem übernommen wurde, dem Konsens-Algorithmus ähnlich, den Firmen in der ganzen Welt anwenden. Menschen mit einem begründeten Interesse am zukünftigen Wert von Steem wählen Personen aus, die für die Aufnahme von Informationen in die öffentlichen Aufzeichnungen verantwortlich sind. Das Voting wird proportional zum persönlichen Interesse des Einzelnen gewichtet.
 
 In der Welt der Kryptowährungen wird die öffentliche Aufzeichnung häufig mit der *Blockchain* in Verbindung gebracht. Ein *Block* ist eine Gruppe von signierten Transaktionen.
 
