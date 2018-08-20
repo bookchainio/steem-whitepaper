@@ -258,7 +258,7 @@ Dieser Prozess ist dazu bestimmt, die beste Zuverlässigkeit zu garantieren und 
 
 Da aktive Witnesses im Voraus bekannt sind, ist Steem in der Lage, Witnesses zu planen, die alle 3 Sekunden Blöcke produzieren. Witnesses synchronisieren ihre Block-Produktion über das NTP-Protokoll. Eine Variation dieses Algorithmus ist bereits seit über einem Jahr durch das BitShares-Netzwerk im Einsatz, wo es seine Zuverlässigkeit bewiesen hat.
 
-# Beseitigung von Transaktions-Gebühren
+# Beseitigung von Transaktionsgebühren
 
 Steem unternimmt große Anstrengungen, Menschen für ihren Beitrag zum Netzwerk zu belohnen. Es wäre kontraproduktiv, umzukehren und Menschen jedesmal abzukassieren, wenn sie versuchen mit der Community zu interagieren.
 
