@@ -214,11 +214,11 @@ Het doel van het maken van een gemeenschappelijke munt is om "meer krabben in de
 
 Een groot deel van het voorkomen van misbruik is het aantal stemmen te beperken. Individuele gebruikers kunnen maar een beperkt aantal stukken werk per dag lezen en evalueren. Elk verzoek om vaker te stemmen is een teken van automatisering en mogelijk misbruik. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
 
-Aan gebruikers wordt een vaste hoeveelheid stemrechten toegekend. Stemrecht wordt vermenigvuldigd met de vestigings tokens van een gebruiker om te bepalen hoeveel aandeel in de rewards pool moet worden toegekend aan een bepaald werk item. Iedere stem die wordt gegeven gebruikt een percentage overgebleven stemkracht. Gebruikers kunnen stemmen op meerdere posts, maar iedere stem wordt minder waard, en het duurt langer om weer volledige stemkracht te krijgen. Stemkracht laadt opnieuw op met een vaste lineaire koers van 20% per dag.
+Aan gebruikers wordt een vaste hoeveelheid stemrecht toegekend. Stemrecht wordt vermenigvuldigd met de vestigings tokens van een gebruiker om te bepalen hoeveel aandeel in de rewards pool moet worden toegekend aan een bepaald werk item. Iedere stem die wordt gegeven gebruikt een percentage overgebleven stemkracht. Gebruikers kunnen stemmen op meerdere artikelen, maar iedere stem wordt minder waard, en het duurt langer om weer volledige stemkracht te krijgen. Stemkracht laadt opnieuw op met een vaste lineaire koers van 20% per dag.
 
-### Uitbetalings spreiding
+### Uitbetalingsspreiding
 
-Een van de oorspronkelijke doelen van Steem's belonings systeem is om de beste discussies op het internet the produceren. Elk jaar wordt 75% van de jaarlijkse inflatie verdeeld onder gebruikers die inhoud toevoegen, erover stemmen en erover discussiëren. Vergeleken met de grootte van Bitcoin zou dit meerdere miljoenen dollars per dag kunnen zijn gegeven aan de beste bijdragers.
+Een van de oorspronkelijke doelen van Steem's beloningssysteem is om de beste discussies op het internet the produceren. Elk jaar wordt 75% van de jaarlijkse inflatie verdeeld onder gebruikers die inhoud toevoegen, erover stemmen en erover discussiëren. Vergeleken met de grootte van Bitcoin zou dit meerdere miljoenen dollars per dag kunnen zijn die gegeven worden aan de beste bijdragers.
 
 De werkelijke verspreiding zal afhangen van de stempatronen van gebruikers, maar we vermoeden dat de overgrote meerderheid van de beloningen naar de meest populaire inhoud zal gaan.
 
@@ -238,7 +238,7 @@ Wanneer een post een uitbetaling ontvangt neemt het de vorm van 50% SBD en 50% S
 
 Gebruikers hebben ook de mogelijkheid om te worden betaald in 100% SP, evenals uitbetaling op artikelen te weigeren. Wanneer een gebruiker de uitbetaling op een post weigert, blijft het geld dat aan hem zou zijn betaald in de rewards pool, te verdelen onder andere gebruikers.
 
-# Consensus Algoritme
+# Consensus algoritme
 
 Consensus is het proces waarmee een gemeenschap tot een universeel erkende, eenduidige overeenstemming komt over informatie. Er zijn veel algoritmen die de samenleving heeft ontwikkeld om consensus te bereiken over wie wat bezit. Elke regering op aarde is een primitief consensus algoritme waarbij de bevolking ermee instemt zich te houden aan een bepaalde reeks regels die zijn vastgelegd in een grondwet. Regeringen richten rechtbanken, rechters en jury's op om de subjectieve feiten te interpreteren en een eindbeslissing te nemen. Meestal houden mensen zich aan het besluit, zelfs als deze verkeerd was.
 
@@ -256,7 +256,7 @@ Met Steem worden blokproducties gedaan in rondes. Elke ronde worden 21 getuigen 
 
 Dit proces is ontworpen om de beste betrouwbaarheid te bieden en er tegelijkertijd voor te zorgen dat iedereen het potentieel heeft om deel te nemen aan de blokproductie, ongeacht of ze populair genoeg zijn om naar de top te worden gestemd. Mensen hebben drie opties om censuur door de top 20 gekozen getuigen te overwinnen: geduldig wachten in de rij samen met alle anderen die niet in de top 20 staan, of meer SP kopen om het stemrecht te verhogen. In het algemeen is het toepassen van censuur een goede manier voor gekozen getuigen om hun baan te verliezen en daarom is het onwaarschijnlijk dat dit een echt probleem is op het Steem netwerk.
 
-Omdat de actieve getuigen van te voren bekend zijn, kan Steem de getuigen zo plannen dat ze elke 3 seconden blokken produceren. Getuigen synchroniseren hun blokproductie via het NTP-protocol. A variation of this algorithm has been in use by the BitShares network for over a year where it has been proven to be reliable.
+Omdat de actieve getuigen van te voren bekend zijn, kan Steem de getuigen zo plannen dat ze elke 3 seconden blokken produceren. Getuigen synchroniseren hun blokproductie via het NTP-protocol. Een variant van dit algoritme wordt al meer dan een jaar gebruikt door het BitShares netwerk, waar is bewezen dat het betrouwbaar is.
 
 # Eliminating Transaction Fees
 
