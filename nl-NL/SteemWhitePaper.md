@@ -228,7 +228,7 @@ Zipf’s Law[^7] is één van die empirische regels die een verrassend scala aan
 
 Door populariteit als een ruwe maatstaf van waarde te nemen, wordt de waarde van elk afzonderlijk item gegeven door Zipf’s Law. Dat wil zeggen, als we een miljoen items hebben, dan zullen de 100 meest populaire een derde van de totale waarde bijdragen, de volgende 10.000 nog een derde, en de resterende 989.900 het laatste derde. De waarde van de verzameling van n items is evenredig aan de log(n).
 
-De impact van deze stem- en uitbetalingsspreiding is om grote bedragen aan te bieden voor goede content en tegelijkertijd ook kleinere spelers te belonen voor hun bijdrage op lange termijn.
+De impact van deze distributie van stemmen en uitbetalingen is om grote bedragen aan te bieden voor goede inhoud en tegelijkertijd ook kleinere spelers te belonen voor hun bijdrage op lange termijn.
 
 Het economische effect hiervan is vergelijkbaar met een loterij waarbij mensen hun kans op het krijgen van stemmen overschatten en dus meer werk doen dan de verwachte waarde van hun beloning en daardoor de totale hoeveelheid werk die in dienst van de gemeenschap wordt uitgevoerd maximaliseren. Het feit dat iedereen "iets wint" speelt in op dezelfde psychologie die casino's gebruiken om mensen aan het gokken te houden. In andere woorden, kleine beloningen versterken het idee dat het mogelijk is om grotere beloningen te verdienen.
 
@@ -240,7 +240,7 @@ Gebruikers hebben ook de mogelijkheid om te worden betaald in 100% SP, evenals u
 
 # Consensus algoritme
 
-Consensus is het proces waarmee een gemeenschap tot een universeel erkende, eenduidige overeenstemming komt over informatie. Er zijn veel algoritmen die de samenleving heeft ontwikkeld om consensus te bereiken over wie wat bezit. Elke regering op aarde is een primitief consensus algoritme waarbij de bevolking ermee instemt zich te houden aan een bepaalde reeks regels die zijn vastgelegd in een grondwet. Regeringen richten rechtbanken, rechters en jury's op om de subjectieve feiten te interpreteren en een eindbeslissing te nemen. Meestal houden mensen zich aan het besluit, zelfs als deze verkeerd was.
+Consensus is het proces waarmee een gemeenschap tot een universeel erkende, eenduidige overeenstemming komt over informatie. Er zijn veel algoritmen die de samenleving heeft ontwikkeld om consensus te bereiken over wie wat bezit. Elke regering op aarde is een primitief consensus algoritme waarbij de bevolking ermee instemt zich te houden aan een bepaalde reeks regels die zijn vastgelegd in een grondwet. Regeringen richten rechtbanken op en institueren rechters en jury's om de subjectieve feiten te interpreteren en een eindbeslissing te nemen. Meestal houden mensen zich aan het besluit, zelfs als deze verkeerd was.
 
 De algoritmen die door cryptovaluta worden gebruikt bieden een betere manier om consensus te bereiken. Cryptografisch ondertekende getuigenissen van individuen worden opgenomen in een openbaar register dat de absolute globale orde van gebeurtenissen vaststelt. Een deterministisch computeralgoritme kan dit register vervolgens verwerken tot een universeel geaccepteerde conclusie. Zolang de leden van een gemeenschap het eens zijn over het verwerkingsalgoritme, is het resultaat van het algoritme gezaghebbend.
 
