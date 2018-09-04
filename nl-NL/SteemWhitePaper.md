@@ -222,7 +222,7 @@ Een van de oorspronkelijke doelen van Steem's belonings systeem is om de beste d
 
 De werkelijke verspreiding zal afhangen van de stempatronen van gebruikers, maar we vermoeden dat de overgrote meerderheid van de beloningen naar de meest populaire inhoud zal gaan.
 
-Zipf’s Law[^7] is één van die empirische regels die een verrassend scala aan reële fenomenen opmerkelijk goed kenmerkt. It says that if we order some large collection by size or popularity, the second element in the collection will be about half the measure of the first one, the third one will be about one-third the measure of the first one, and so on. In general, the k th-ranked item will measure about 1/k of the first one.
+Zipf’s Law[^7] is één van die empirische regels die een verrassend scala aan reële fenomenen opmerkelijk goed kenmerkt. Het zegt dat als we een grote collectie sorteren op grootte of populariteit, het tweede element in de collectie ongeveer de helft zal meten van de eerste, het derde zal een derde meten van de eerste, enzovoorts. In het algemeen zal het k-geplaatste item ongeveer 1/k van het eerste meten.
 
 ![](\img_the_new_marketplace.png)
 
