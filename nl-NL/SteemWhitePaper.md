@@ -226,13 +226,13 @@ Zipf’s Law[^7] is één van die empirische regels die een verrassend scala aan
 
 ![](\img_the_new_marketplace.png)
 
-Taking popularity as a rough measure of value, then the value of each individual item is given by Zipf’s Law. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
+Door populariteit als een ruwe maatstaf van waarde te nemen, wordt de waarde van elk afzonderlijk item gegeven door Zipf’s Law. Dat wil zeggen, als we een miljoen items hebben, dan zullen de 100 meest populaire een derde van de totale waarde bijdragen, de volgende 10.000 nog een derde, en de resterende 989.900 het laatste derde. De waarde van de verzameling van n items is evenredig aan de log(n).
 
-The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
+De impact van deze stem- en uitbetalingsspreiding is om grote bedragen aan te bieden voor goede content en tegelijkertijd ook kleinere spelers te belonen voor hun bijdrage op lange termijn.
 
-The economic effect of this is similar to a lottery where people overestimate their probability of getting votes and thus do more work than the expected value of their reward and thereby maximize the total amount of work performed in service of the community. The fact that everyone “wins something” plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
+Het economische effect hiervan is vergelijkbaar met een loterij waarbij mensen hun kans op het krijgen van stemmen overschatten en dus meer werk doen dan de verwachte waarde van hun beloning en daardoor de totale hoeveelheid werk die in dienst van de gemeenschap wordt uitgevoerd maximaliseren. Het feit dat iedereen "iets wint" speelt in op dezelfde psychologie die casino's gebruiken om mensen aan het gokken te houden. In andere woorden, kleine beloningen versterken het idee dat het mogelijk is om grotere beloningen te verdienen.
 
-### Payouts
+### Uitbetalingen
 
 When a post receives a payout it takes the form of 50% SBD and 50% SP. The Steem Power give the user increased voting and transaction power while the SBD gives the user an immediate benefit in a stable currency. As we’ve already discussed at length, SP is designed to encourage long-term holding rather than short-term selling. This encourages more users to have a vested interest in the long-term success of the platform.
 
