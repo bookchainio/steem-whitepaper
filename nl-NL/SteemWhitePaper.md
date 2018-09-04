@@ -218,11 +218,11 @@ Aan gebruikers wordt een vaste hoeveelheid stemrechten toegekend. Stemrecht word
 
 ### Uitbetalings spreiding
 
-Een van de oorspronkelijke doelen van Steem's belonings systeem is om de beste discussies op het internet the produceren. Elk jaar wordt 75% van de jaarlijkse inflatie verdeeld onder gebruikers die inhoud toevoegen, erover stemmen en erover discussiëren. At the size of Bitcoin this could be several million dollars per day being given to the top contributors.
+Een van de oorspronkelijke doelen van Steem's belonings systeem is om de beste discussies op het internet the produceren. Elk jaar wordt 75% van de jaarlijkse inflatie verdeeld onder gebruikers die inhoud toevoegen, erover stemmen en erover discussiëren. Vergeleken met de grootte van Bitcoin zou dit meerdere miljoenen dollars per dag kunnen zijn gegeven aan de beste bijdragers.
 
-The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content.
+De werkelijke verspreiding zal afhangen van de stempatronen van gebruikers, maar we vermoeden dat de overgrote meerderheid van de beloningen naar de meest populaire inhoud zal gaan.
 
-Zipf’s Law[^7] is one of those empirical rules that characterize a surprising range of real-world phenomena remarkably well. It says that if we order some large collection by size or popularity, the second element in the collection will be about half the measure of the first one, the third one will be about one-third the measure of the first one, and so on. In general, the k th-ranked item will measure about 1/k of the first one.
+Zipf’s Law[^7] is één van die empirische regels die een verrassend scala aan reële fenomenen opmerkelijk goed kenmerkt. It says that if we order some large collection by size or popularity, the second element in the collection will be about half the measure of the first one, the third one will be about one-third the measure of the first one, and so on. In general, the k th-ranked item will measure about 1/k of the first one.
 
 ![](\img_the_new_marketplace.png)
 
