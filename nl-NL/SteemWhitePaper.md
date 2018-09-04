@@ -234,7 +234,7 @@ Het economische effect hiervan is vergelijkbaar met een loterij waarbij mensen h
 
 ### Uitbetalingen
 
-When a post receives a payout it takes the form of 50% SBD and 50% SP. The Steem Power give the user increased voting and transaction power while the SBD gives the user an immediate benefit in a stable currency. As we’ve already discussed at length, SP is designed to encourage long-term holding rather than short-term selling. This encourages more users to have a vested interest in the long-term success of the platform.
+Wanneer een post een uitbetaling ontvangt neemt het de vorm van 50% SBD en 50% SP. De Steem Power geeft de gebruiker meer stem- en transactievermogen, terwijl de SBD de gebruiker een direct voordeel geeft in een stabiele valuta. As we’ve already discussed at length, SP is designed to encourage long-term holding rather than short-term selling. This encourages more users to have a vested interest in the long-term success of the platform.
 
 Users also have the option to be paid in 100% SP, as well as decline payout on posts. When a user declines payout on a post, the money that would have been paid to them remains in the rewards pool, to be distributed to other users.
 
