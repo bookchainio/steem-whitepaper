@@ -214,13 +214,13 @@ Het doel van het maken van een gemeenschappelijke munt is om "meer krabben in de
 
 Een groot deel van het voorkomen van misbruik is het aantal stemmen te beperken. Individuele gebruikers kunnen maar een beperkt aantal stukken werk per dag lezen en evalueren. Elk verzoek om vaker te stemmen is een teken van automatisering en mogelijk misbruik. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
 
-Aan gebruikers wordt een vaste hoeveelheid stemrecht toegekend. Stemrecht wordt vermenigvuldigd met de vestigings tokens van een gebruiker om te bepalen hoeveel aandeel in de rewards pool moet worden toegekend aan een bepaald werk item. Iedere stem die wordt gegeven gebruikt een percentage overgebleven stemkracht. Gebruikers kunnen stemmen op meerdere artikelen, maar iedere stem wordt minder waard, en het duurt langer om weer volledige stemkracht te krijgen. Stemkracht laadt opnieuw op met een vaste lineaire koers van 20% per dag.
+Aan gebruikers wordt een vaste hoeveelheid stemrecht toegekend. Stemrecht wordt vermenigvuldigd met de vesting tokens van een gebruiker om te bepalen hoeveel aandeel in de rewards pool moet worden toegekend aan een bepaalde taak. Iedere stem die wordt gegeven gebruikt een percentage overgebleven stemkracht. Gebruikers kunnen stemmen op meerdere artikelen, maar iedere stem wordt minder waard, en het duurt langer om weer volledige stemkracht te krijgen. Stemkracht laadt opnieuw op met een vaste lineaire koers van 20% per dag.
 
-### Uitbetalingsspreiding
+### Distributie van uitbetaling
 
-Een van de oorspronkelijke doelen van Steem's beloningssysteem is om de beste discussies op het internet the produceren. Elk jaar wordt 75% van de jaarlijkse inflatie verdeeld onder gebruikers die inhoud toevoegen, erover stemmen en erover discussiëren. Vergeleken met de grootte van Bitcoin zou dit meerdere miljoenen dollars per dag kunnen zijn die gegeven worden aan de beste bijdragers.
+Een van de primaire doelen van het Steem beloningssysteem is om de beste discussies op het internet the produceren. Elk jaar wordt 75% van de jaarlijkse inflatie verdeeld onder gebruikers die inhoud toevoegen, stemmen en erover discussiëren. Vergeleken met de grootte van Bitcoin zou dit meerdere miljoenen dollars per dag kunnen zijn die gegeven worden aan de top bijdragers.
 
-De werkelijke verspreiding zal afhangen van de stempatronen van gebruikers, maar we vermoeden dat de overgrote meerderheid van de beloningen naar de meest populaire inhoud zal gaan.
+De werkelijke distributie zal afhangen van de stempatronen van gebruikers, maar we vermoeden dat de overgrote meerderheid van de beloningen naar de meest populaire inhoud zal gaan.
 
 Zipf’s Law[^7] is één van die empirische regels die een verrassend scala aan reële fenomenen opmerkelijk goed kenmerkt. Het zegt dat als we een grote collectie sorteren op grootte of populariteit, het tweede element in de collectie ongeveer de helft zal meten van de eerste, het derde zal een derde meten van de eerste, enzovoorts. In het algemeen zal het k-geplaatste item ongeveer 1/k van het eerste meten.
 
