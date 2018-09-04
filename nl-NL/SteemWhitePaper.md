@@ -214,11 +214,11 @@ Het doel van het maken van een gemeenschappelijke munt is om "meer krabben in de
 
 Een groot deel van het voorkomen van misbruik is het aantal stemmen te beperken. Individuele gebruikers kunnen maar een beperkt aantal stukken werk per dag lezen en evalueren. Elk verzoek om vaker te stemmen is een teken van automatisering en mogelijk misbruik. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
 
-Users are allotted a fixed amount of voting power. Voting power is multiplied by a user’s vesting tokens to determine how much share in the reward pool should be allocated to a given work item. Every vote that is cast uses a percentage of remaining voting power. Users can vote for more posts, but each vote will be worth less, and it will take longer to reach full voting power again. Voting power recharges at a fixed linear rate of 20% per day.
+Aan gebruikers wordt een vaste hoeveelheid stemrechten toegekend. Stemrecht wordt vermenigvuldigd met de vestigings tokens van een gebruiker om te bepalen hoeveel aandeel in de beloning pool moet worden toegekend aan een bepaald werk item. Iedere stem die wordt gegeven gebruikt een percentage overgebleven stemkracht. Gebruikers kunnen stemmen op meerdere posts, maar iedere stem wordt minder waard, en het duurt langer om weer volledige stemkracht te krijgen. Stemkracht laadt opnieuw op met een vaste lineaire koers van 20% per dag.
 
-### Payout Distribution
+### Uitbetalings spreiding
 
-One of the primary goals of Steem’s reward system is to produce the best discussions on the internet. Each and every year 75% of the yearly inflation is distributed to users submitting, voting on, and discussing content. At the size of Bitcoin this could be several million dollars per day being given to the top contributors.
+Een van de oorspronkelijke doelen van Steem's belonings systeem is om de beste discussies op het internet the produceren. Elk jaar wordt 75% van de jaarlijkse inflatie verdeeld onder gebruikers die inhoud toevoegen, erover stemmen en erover discussiëren. At the size of Bitcoin this could be several million dollars per day being given to the top contributors.
 
 The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content.
 
