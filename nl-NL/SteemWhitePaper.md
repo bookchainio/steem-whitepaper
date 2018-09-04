@@ -214,7 +214,7 @@ Het doel van het maken van een gemeenschappelijke munt is om "meer krabben in de
 
 Een groot deel van het voorkomen van misbruik is het aantal stemmen te beperken. Individuele gebruikers kunnen maar een beperkt aantal stukken werk per dag lezen en evalueren. Elk verzoek om vaker te stemmen is een teken van automatisering en mogelijk misbruik. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
 
-Aan gebruikers wordt een vaste hoeveelheid stemrechten toegekend. Stemrecht wordt vermenigvuldigd met de vestigings tokens van een gebruiker om te bepalen hoeveel aandeel in de beloning pool moet worden toegekend aan een bepaald werk item. Iedere stem die wordt gegeven gebruikt een percentage overgebleven stemkracht. Gebruikers kunnen stemmen op meerdere posts, maar iedere stem wordt minder waard, en het duurt langer om weer volledige stemkracht te krijgen. Stemkracht laadt opnieuw op met een vaste lineaire koers van 20% per dag.
+Aan gebruikers wordt een vaste hoeveelheid stemrechten toegekend. Stemrecht wordt vermenigvuldigd met de vestigings tokens van een gebruiker om te bepalen hoeveel aandeel in de rewards pool moet worden toegekend aan een bepaald werk item. Iedere stem die wordt gegeven gebruikt een percentage overgebleven stemkracht. Gebruikers kunnen stemmen op meerdere posts, maar iedere stem wordt minder waard, en het duurt langer om weer volledige stemkracht te krijgen. Stemkracht laadt opnieuw op met een vaste lineaire koers van 20% per dag.
 
 ### Uitbetalings spreiding
 
@@ -236,7 +236,7 @@ Het economische effect hiervan is vergelijkbaar met een loterij waarbij mensen h
 
 Wanneer een post een uitbetaling ontvangt neemt het de vorm van 50% SBD en 50% SP. De Steem Power geeft de gebruiker meer stem- en transactievermogen, terwijl de SBD de gebruiker een direct voordeel geeft in een stabiele valuta. Zoals we al uitgebreid hebben besproken, is SP bedoeld om langetermijn houderschap te stimuleren in plaats van kortetermijn verkopen. Dit moedigt meer gebruikers aan om een gevestigd belang te hebben bij het succes van het platform op lange termijn.
 
-Gebruikers hebben ook de mogelijkheid om te worden betaald in 100% SP, evenals uitbetaling op artikelen te weigeren. Wanneer een gebruiker de uitbetaling op een post weigert, blijft het geld dat aan hem zou zijn betaald in de beloning pool, te verdelen onder andere gebruikers.
+Gebruikers hebben ook de mogelijkheid om te worden betaald in 100% SP, evenals uitbetaling op artikelen te weigeren. Wanneer een gebruiker de uitbetaling op een post weigert, blijft het geld dat aan hem zou zijn betaald in de rewards pool, te verdelen onder andere gebruikers.
 
 # Consensus Algoritme
 
@@ -248,7 +248,7 @@ De eerste overweging is te bepalen welke getuigenissen in het openbaar register 
 
 ## Consensus in Steem
 
-Conceptually, the consensus algorithm adopted by Steem is similar to the consensus algorithm adopted by companies throughout the world. People with a vested interest in the future value of Steem vote to select individuals responsible for including testimony in the public record. Voting is weighted proportional to each individual's vested interest.
+Conceptueel gezien is het consensus algoritme dat Steem heeft aangenomen vergelijkbaar met het consensus algoritme dat bedrijven over de hele wereld hebben aangenomen. Mensen met een gevestigd belang in de toekomstige waarde van Steem stemmen om personen die verantwoordelijk zijn voor het opnemen van getuigenissen in het openbaar register te selecteren. De stemmen worden gewogen naar rato van het gevestigde belang van ieder individu.
 
 In the world of cryptocurrencies, the public record is commonly referred to as a *blockchain*. A *block* is a group of signed transactions.
 
