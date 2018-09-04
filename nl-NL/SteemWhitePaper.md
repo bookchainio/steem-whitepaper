@@ -234,13 +234,13 @@ Het economische effect hiervan is vergelijkbaar met een loterij waarbij mensen h
 
 ### Uitbetalingen
 
-Wanneer een post een uitbetaling ontvangt neemt het de vorm van 50% SBD en 50% SP. De Steem Power geeft de gebruiker meer stem- en transactievermogen, terwijl de SBD de gebruiker een direct voordeel geeft in een stabiele valuta. As we’ve already discussed at length, SP is designed to encourage long-term holding rather than short-term selling. This encourages more users to have a vested interest in the long-term success of the platform.
+Wanneer een post een uitbetaling ontvangt neemt het de vorm van 50% SBD en 50% SP. De Steem Power geeft de gebruiker meer stem- en transactievermogen, terwijl de SBD de gebruiker een direct voordeel geeft in een stabiele valuta. Zoals we al uitgebreid hebben besproken, is SP bedoeld om langetermijn houderschap te stimuleren in plaats van kortetermijn verkopen. Dit moedigt meer gebruikers aan om een gevestigd belang te hebben bij het succes van het platform op lange termijn.
 
-Users also have the option to be paid in 100% SP, as well as decline payout on posts. When a user declines payout on a post, the money that would have been paid to them remains in the rewards pool, to be distributed to other users.
+Gebruikers hebben ook de mogelijkheid om te worden betaald in 100% SP, evenals uitbetaling op artikelen te weigeren. Wanneer een gebruiker de uitbetaling op een post weigert, blijft het geld dat aan hem zou zijn betaald in de beloning pool, te verdelen onder andere gebruikers.
 
-# Consensus Algorithm
+# Consensus Algoritme
 
-Consensus is the process by which a community comes to a universally recognized, unambiguous agreement on piece of information. There are many algorithms society has developed for reaching consensus about who owns what. Every government on earth is a primitive consensus algorithm whereby the population agrees to abide by a certain set of rules enshrined in a constitution. Governments establish courts, judges, and juries to interpret the subjective facts and render a final decision. Most of the time people abide by the decision even if it was wrong.
+Consensus is het proces waarmee een gemeenschap tot een universeel erkende, eenduidige overeenstemming komt over informatie. Er zijn veel algoritmen die de samenleving heeft ontwikkeld om consensus te bereiken over wie wat bezit. Every government on earth is a primitive consensus algorithm whereby the population agrees to abide by a certain set of rules enshrined in a constitution. Governments establish courts, judges, and juries to interpret the subjective facts and render a final decision. Most of the time people abide by the decision even if it was wrong.
 
 The algorithms used by cryptocurrencies provide a better way to reach consensus. Cryptographically signed testimony from individuals is recorded in a public ledger that establishes the absolute global order of events. A deterministic computer algorithm can then process this ledger to derive a universally accepted conclusion. So long as the members of a community agree on the processing algorithm, the result of the algorithm is authoritative.
 
