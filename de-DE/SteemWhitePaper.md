@@ -284,9 +284,9 @@ In der Welt der finanziellen Zahlungen, sind geringe Gebühren akzeptabel, denn 
 
 Systeme wie BitShares, Nxt, Ripple, Counter Party und Stellar ermöglichen Nutzern Limit Orders auf der Blockchain zu platzieren und alle von ihnen berechnen dem Nutzer eine kleine Gebühr, um diese Aktion auszuführen. Später, wenn der Nutzer seine Order löschen möchte, wird eine weitere Gebühr abgezogen. Systeme wie Ethereum heben Mikropayments auf ein ganz neues Level: Abrechnung pro Kalkulation. Alle diese Systeme kämpfen darum, neue Mainstream-Nutzer zu gewinnen, aus denselben Gründen, wie eine dezentralisierte Suchmaschine, die versucht Nutzer von Google anzuziehen, wenn sie für jeden Suchvorgang eine kleine Gebühr erheben würde. Es spielt keine Rolle wie gut der Service ist, Menschen erwarten, dass bestimmte Dinge kostenlos sind. Das gilt auch dann, wenn ein Nutzer im Ergebnis sogar mehr bezahlt durch eine andere Gebührenstruktur.
 
-### Fees are a Barrier to Entry
+### Gebühren sind eine Eintrittsbariere
 
-Any fee creates a barrier to entry for new users. Before someone can experiment with Ethereum they must acquire some ETH tokens. Anyone wanting to build a decentralized application on Ethereum must pass on the cost to their customers. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
+Jegliche Gebühr stellt für Neulinge eine Hürde da. Bevore jemand mit Ethereum herum experimentieren kann, muss derjenige einige ETH Token erwerben. Jeder, der eine dezentrale Applikaiton bauen möchte, muss die Gebühren an die Kunden weiter leiten. Krypto-Geld zu kaufen ist keine einfache Tätigkeit und ist selten Sinnvoll für Summen unter 10 $. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
 
 ### Changing Fees
 
