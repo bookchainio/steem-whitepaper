@@ -304,7 +304,7 @@ Stellen wir uns mal eine Blockchain wie einen Internet Service Provider (ISP) vo
 
 Der ISP hat zwei Möglichkeiten, ein "volle Reserve" oder "Mindest Reserve"-System laufen zu lassen. Unter einem vollen Reserve-System darf jeder Benutzer nur einen Bruchteil der maximalen Bandbreite proportional zu seinen Anteilen nutzen. Da nicht jeder das Internet zur gleichen Zeit nutzt, wären die Stadtnetze deutlich nicht ausgelastet.
 
-Under a fractional reserve system the individual users could utilize more bandwidth than they are entitled to at any given point in time so long as not everyone uses the Internet at the same time. The problem with operating a fractional reserve is that congestion occurs anytime too many people wish to use the network at the same time. The ISP needs a way to prioritize bandwidth during congested periods. In the most extreme case, a fully congested network must revert to a full reserve system. The challenge is setting the proper fractional reserve ratio.
+Unter einem Mindestreserve System könnten die einzelnen Benutzer mehr Bandbreite als ihnen eigentlich zusteht zu jeder Zeit nutzen, so lange nicht jeder das Internet zur gleichen Zeit nutzt. Das Problem mit dem Betrieb einer Mindestreserve ist, dass Überlastung jedes Mal dann auftritt, wenn zu viele Leute das Netzwerk zur gleichen Zeit nutzen wollen. Der ISP benötigt eine Möglichkeit, Bandbreite in verkehrsreichen Zeiten zu priorisieren. Im extremsten Fall muss ein völlig überlastetes Netzwerk zu einem vollen Reserve-System zurückkehren. Die Herausforderung besteht ind einem richtigen "Mindestreserve-Verhältnis".
 
 ## Bandwidth Instead of Micropayment Channels
 
