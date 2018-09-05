@@ -288,7 +288,7 @@ Systeme wie BitShares, Nxt, Ripple, Counter Party und Stellar ermöglichen Nutze
 
 Jegliche Gebühr stellt für Neulinge eine Hürde da. Bevor jemand mit Ethereum herum experimentieren kann, muss derjenige einige ETH Token erwerben. Jeder, der eine dezentrale Applikation bauen möchte, muss die Gebühren an die Kunden weiter leiten. Krypto-Geld zu kaufen ist keine einfache Sache und ist selten sinnvoll für Summen unter 10$. Das bedeutet, dass neue User, die eine neue dezentrale Applikation ausprobieren wollen, erst mal davon überzeugt werden müssen, sich mit 10$ zu beteiligen.
 
-### Changing Fees
+### Änderung der Gebühren
 
 Over time a network must adjust fees. This can happen either due to an increase in the value of the token or due to a surge in capacity. Users like predictable fees and guaranteed service. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
 
