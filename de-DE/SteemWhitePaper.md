@@ -300,9 +300,9 @@ In einem dezentralen System gibt es aber keine direkte Möglichkeit Benutzer aus
 
 ### Volle Reserve Vs Mindest Reserve
 
-Let’s view a blockchain like an Internet Service Provider (ISP) co-op which owns all of the cables in the town and has a maximum amount of bandwidth that it can provide at any time. People living in the town can buy shares in the ISP and in exchange they are entitled to utilize a portion of the available bandwidth.
+Stellen wir uns mal eine Blockchain wie einen Internet Service Provider (ISP) vor, der alle Kabel in der Stadt besitzt und eine maximale Menge an Bandbreite zur Verfügung hat, die er zu jeder Zeit bieten kann. Die in der Stadt lebenden Menschen können Anteile an dem ISP kaufen und im Gegenzug sind sie berechtigt, einen Teil der verfügbaren Bandbreite nutzen.
 
-The ISP has two choices, run a “full reserve” or “fractional reserve” system. Under a full reserve system each user is only allowed a fraction of the maximum bandwidth proportional to her shares. Because not everyone uses the Internet at the same time, the town’s network would be significantly underutilized.
+Der ISP hat zwei Möglichkeiten, ein "volle Reserve" oder "Mindest Reserve"-System laufen zu lassen. Unter einem vollen Reserve-System darf jeder Benutzer nur einen Bruchteil der maximalen Bandbreite proportional zu seinen Anteilen nutzen. Da nicht jeder das Internet zur gleichen Zeit nutzt, wären die Stadtnetze deutlich nicht ausgelastet.
 
 Under a fractional reserve system the individual users could utilize more bandwidth than they are entitled to at any given point in time so long as not everyone uses the Internet at the same time. The problem with operating a fractional reserve is that congestion occurs anytime too many people wish to use the network at the same time. The ISP needs a way to prioritize bandwidth during congested periods. In the most extreme case, a fully congested network must revert to a full reserve system. The challenge is setting the proper fractional reserve ratio.
 
