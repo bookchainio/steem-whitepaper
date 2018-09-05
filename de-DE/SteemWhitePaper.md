@@ -294,11 +294,11 @@ Auf lange Sicht muss ein Netzwerk Gebühren erlassen. Dies kann entweder durch e
 
 ### Sybil Attacke
 
-Zentralen Webseiten verhindern Spam durch Bandbreitenbegrenzung und irgendeine Form von ID-Überprüfung. Sogar etwas so einfaches wie ReCAPTCHA [^9] ist ausreichend, um die Erstellung von Fake-Accounts einzugrenzen. Zentrale Websites erlauben sich den Account zu sperren, wenn jemand ihr Konto missbraucht.
+Zentralen Webseiten verhindern Spam durch Bandbreitenbegrenzung und irgendeine Form von ID-Überprüfung. Sogar etwas so einfaches wie ReCAPTCHA [^9] ist ausreichend, um die Erstellung von Fake-Accounts einzugrenzen. Zentrale Webseiten erlauben sich den Account zu sperren, wenn jemand ihr Konto missbraucht.
 
-In a decentralized system there is no direct way to ban users nor centralized provider able to host a reCAPTCHA and enforce rate limiting of accounts. In fact, the inability to censor users is one of the main selling points of blockchain technology.
+In einem dezentralen System gibt es aber keine direkte Möglichkeit Benutzer auszusperren, im Gegensatz zu zentralen Providern, die ein ReCAPTCHA hosten und Bandbreitenbegrenzung von Konten durchsetzen können. In der Tat ist die Unfähigkeit Benutzer zu zensieren eines der wichtigsten Verkaufsargumente der Blockchain Technologie.
 
-### Full Reserve vs Fractional Reserve
+### Volle Reserve Vs Mindest Reserve
 
 Let’s view a blockchain like an Internet Service Provider (ISP) co-op which owns all of the cables in the town and has a maximum amount of bandwidth that it can provide at any time. People living in the town can buy shares in the ISP and in exchange they are entitled to utilize a portion of the available bandwidth.
 
