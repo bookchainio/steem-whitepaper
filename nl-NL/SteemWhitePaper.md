@@ -286,25 +286,25 @@ Systemen zoals BitShares, Nxt, Ripple, Counter Party en Stellar stellen gebruike
 
 ### Transactiekosten vormen een barrière om toe te treden
 
-Elk transactiebedrag vormt een barrière voor de toetreding van nieuwe gebruikers. Voordat iemand met Ethereum kan experimenteren, moet hij/zij een aantal ETH tokens verwerven. Wie een gedecentraliseerde toepassing op Ethereum wil bouwen, moet de kosten doorberekenen aan zijn klanten. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
+Elk transactiebedrag vormt een barrière voor de toetreding van nieuwe gebruikers. Voordat iemand met Ethereum kan experimenteren, moet hij/zij een aantal ETH tokens verwerven. Wie een gedecentraliseerde toepassing op Ethereum wil bouwen, moet de kosten doorberekenen aan zijn klanten. Het kopen van cryptovaluta is geen makkelijke taak en is zelden zinvol voor bedragen van minder dan €10. Dit betekent dat nieuwe gebruikers die een nieuwe gedecentraliseerde toepassing willen uitproberen, eerst ervan overtuigd moeten worden om €10 te betalen.
 
-### Changing Fees
+### Veranderen van transactiekosten
 
-Over time a network must adjust fees. This can happen either due to an increase in the value of the token or due to a surge in capacity. Users like predictable fees and guaranteed service. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
+Na verloop van tijd moet een netwerk tarieven aanpassen. Dit kan gebeuren door een waardestijging van de munt of door een toename in capaciteit. Gebruikers houden van voorspelbare tarieven en gegarandeerde service. Hoewel het mogelijk is om de tarieven dynamisch aan te passen in tijden van intensief gebruik, resulteert het in een slechte gebruikerservaring.
 
 ### Sybil-aanvallen
 
-Centralized websites prevent spam through rate limiting and some form of ID verification. Zelfs zoiets simpels als reCAPTCHA[^9] is voldoende om het aanmaken van valse accounts te beperken. Als iemand misbruik maakt van zijn of haar account, dan staat het gecentraliseerde websites vrij om het account te blokkeren.
+Gecentraliseerde websites voorkomen spam door middel van tariefbeperkingen en een vorm van ID-verificatie. Zelfs zoiets simpels als reCAPTCHA[^9] is voldoende om het aanmaken van valse accounts te beperken. Als iemand misbruik maakt van zijn of haar account, dan staat het gecentraliseerde websites vrij om het account te blokkeren.
 
 In een gedecentraliseerd systeem is er geen directe manier om gebruikers te bannen, noch is er een gecentraliseerde provider in staat om een reCAPTCHA te hosten en tariefbeperking van accounts af te dwingen. In feite is het onvermogen om gebruikers te censureren een van de belangrijkste verkoopargumenten van de blockchain technologie.
 
 ### Volledige reserve versus fractionele reserve
 
-Let’s view a blockchain like an Internet Service Provider (ISP) co-op which owns all of the cables in the town and has a maximum amount of bandwidth that it can provide at any time. People living in the town can buy shares in the ISP and in exchange they are entitled to utilize a portion of the available bandwidth.
+Laten we een blockchain zien als een Internet Service Provider (ISP) coöperatie die eigenaar is van alle kabels in de stad en een maximale hoeveelheid bandbreedte heeft die het op elk moment kan leveren. Mensen die in de stad wonen kunnen aandelen kopen in de ISP en in ruil daarvoor hebben ze recht op het gebruiken van een deel van de beschikbare bandbreedte.
 
-The ISP has two choices, run a “full reserve” or “fractional reserve” system. Under a full reserve system each user is only allowed a fraction of the maximum bandwidth proportional to her shares. Because not everyone uses the Internet at the same time, the town’s network would be significantly underutilized.
+De ISP heeft twee keuzes: een "volledige reserve" of een "fractionele reserve" systeem. Bij een volledige reserve-systeem mag elke gebruiker slechts een fractie van de maximale bandbreedte die in verhouding staat tot zijn aandelen gebruiken. Omdat niet iedereen tegelijkertijd gebruik maakt van het internet, zou het netwerk van de stad aanzienlijk onderbenut worden.
 
-Under a fractional reserve system the individual users could utilize more bandwidth than they are entitled to at any given point in time so long as not everyone uses the Internet at the same time. The problem with operating a fractional reserve is that congestion occurs anytime too many people wish to use the network at the same time. The ISP needs a way to prioritize bandwidth during congested periods. In the most extreme case, a fully congested network must revert to a full reserve system. The challenge is setting the proper fractional reserve ratio.
+Onder een fractionele reserve-systeem kunnen de individuele gebruikers meer bandbreedte gebruiken dan waar ze op een bepaald moment recht op hebben, zolang niet iedereen tegelijkertijd gebruik maakt van het internet. Het probleem met het exploiteren van een fractionele reserve is dat overbelasting plaatsvindt op elk moment dat teveel mensen tegelijkertijd gebruik willen maken van het netwerk. De ISP heeft een manier nodig om prioriteit te geven aan bandbreedte tijdens drukke periodes. In het meest extreme geval moet een volledig overbelast netwerk terugvallen op een volledige reserve-systeem. De uitdaging is het vaststellen van de juiste fractionele reserve-ratio.
 
 ## Bandwidth Instead of Micropayment Channels
 
