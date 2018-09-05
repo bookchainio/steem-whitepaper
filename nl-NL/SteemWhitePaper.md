@@ -296,9 +296,9 @@ Over time a network must adjust fees. This can happen either due to an increase 
 
 Centralized websites prevent spam through rate limiting and some form of ID verification. Zelfs zoiets simpels als reCAPTCHA[^9] is voldoende om het aanmaken van valse accounts te beperken. Als iemand misbruik maakt van zijn of haar account, dan staat het gecentraliseerde websites vrij om het account te blokkeren.
 
-In a decentralized system there is no direct way to ban users nor centralized provider able to host a reCAPTCHA and enforce rate limiting of accounts. In fact, the inability to censor users is one of the main selling points of blockchain technology.
+In een gedecentraliseerd systeem is er geen directe manier om gebruikers te bannen, noch is er een gecentraliseerde provider in staat om een reCAPTCHA te hosten en tariefbeperking van accounts af te dwingen. In feite is het onvermogen om gebruikers te censureren een van de belangrijkste verkoopargumenten van de blockchain technologie.
 
-### Full Reserve vs Fractional Reserve
+### Volledige reserve versus fractionele reserve
 
 Let’s view a blockchain like an Internet Service Provider (ISP) co-op which owns all of the cables in the town and has a maximum amount of bandwidth that it can provide at any time. People living in the town can buy shares in the ISP and in exchange they are entitled to utilize a portion of the available bandwidth.
 
