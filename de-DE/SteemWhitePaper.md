@@ -290,7 +290,7 @@ Jegliche Gebühr stellt für Neulinge eine Hürde da. Bevor jemand mit Ethereum 
 
 ### Änderung der Gebühren
 
-Over time a network must adjust fees. This can happen either due to an increase in the value of the token or due to a surge in capacity. Users like predictable fees and guaranteed service. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
+Auf lange Sicht muss ein Netzwerk Gebühren erlassen. Dies kann entweder durch eine Wertsteigerung der Token oder durch Vermehrung derer Anzahl geschehen. Benutzer lieben vorhersehbare Kosten und garantierten Service. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
 
 ### Sybil Attacks
 
