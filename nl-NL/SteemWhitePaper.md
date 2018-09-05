@@ -258,7 +258,7 @@ Dit proces is ontworpen om de beste betrouwbaarheid te bieden en er tegelijkerti
 
 Omdat de actieve getuigen van te voren bekend zijn, kan Steem de getuigen zo plannen dat ze elke 3 seconden blokken produceren. Getuigen synchroniseren hun blokproductie via het NTP-protocol. Een variant van dit algoritme wordt al meer dan een jaar gebruikt door het BitShares netwerk, waar is bewezen dat het betrouwbaar is.
 
-# Eliminating Transaction Fees
+# Elimineren van transactiekosten
 
 Steem goes to great lengths to reward people for contributing to the network. It would be counterproductive to turn around and charge people every time they attempt to interact with the community.
 
