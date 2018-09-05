@@ -272,7 +272,7 @@ De oplossing die tot nu toe door de meeste blockchains is gekozen, is om minimal
 
 ### Microbetalingen werken niet
 
-Het fundamentele probleem met het in rekening brengen van transactiekosten is dat microbetalingen niet werken, vooral bij gebruikersacties met lage waarde. When a fee is charged on every transaction, it limits the types of transactions that a decentralized network can process. Regardless of how rational the argument for the necessity of fees, users still hate the experience of being nickeled and dimed for everything that they do.
+Het fundamentele probleem met het in rekening brengen van transactiekosten is dat microbetalingen niet werken, vooral bij gebruikersacties met lage waarde. Wanneer voor elke transactie een vergoeding in rekening wordt gebracht, beperkt dit de soorten transacties die een gedecentraliseerd netwerk kan verwerken. Regardless of how rational the argument for the necessity of fees, users still hate the experience of being nickeled and dimed for everything that they do.
 
 Imagine if the websites we use every day charged us a fee every time we modify our accounts by changing the password. Users expect certain things to be free. Requiring users to make a decision on whether or not an action is worth a small fee creates anxiety that causes users to leave. A transaction can’t be worth so much as to require a decision but worth so little that that decision is automatic. There is a certain amount of anxiety involved in any decision to buy, no matter how small, and it derives not from the interface used or the time required, but from the very act of deciding.
 
