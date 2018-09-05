@@ -290,9 +290,9 @@ Jegliche Gebühr stellt für Neulinge eine Hürde da. Bevor jemand mit Ethereum 
 
 ### Änderung der Gebühren
 
-Auf lange Sicht muss ein Netzwerk Gebühren erlassen. Dies kann entweder durch eine Wertsteigerung der Token oder durch Vermehrung derer Anzahl geschehen. Benutzer lieben vorhersehbare Kosten und garantierten Service. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
+Auf lange Sicht muss ein Netzwerk Gebühren erlassen. Dies kann entweder durch eine Wertsteigerung der Token oder durch Vermehrung derer Anzahl geschehen. Benutzer lieben vorhersehbare Kosten und garantierten Service. Es ist zwar möglich die Kosten dynamisch an die Auslastung anzupassen, das Ergebnis wäre aber für die Benutzer recht traurig.
 
-### Sybil Attacks
+### Sybil Attacke
 
 Centralized websites prevent spam through rate limiting and some form of ID verification. Even something as simple as reCAPTCHA[^9] is sufficient to limit the creation of fake accounts. If someone abuses their account then centralized websites are free to block the account.
 
