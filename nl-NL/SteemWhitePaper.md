@@ -342,9 +342,9 @@ Een blockchain kan een minimale waarde per gebruiker afdwingen door middel van h
 
 Het handhaven van een minimumsaldo is in feite hetzelfde als gebruikers transactiekosten laten betalen met de rente die gebruikers op hun saldo hadden kunnen verdienen. Het minimumsaldo is simpelweg het saldo dat nodig is om voldoende rente te verdienen om een vergoeding te betalen in een relatief korte periode.
 
-Gelukkig kan het minimaal vereiste saldo zo laag zijn als een dollar en dit is iets dat gebruikers kunnen begrijpen en waarderen. The opportunity cost of lost interest doesn’t incur the cognitive cost of a micro-fee and is far more acceptable to users.
+Gelukkig kan het minimaal vereiste saldo zo laag zijn als een dollar en dit is iets dat gebruikers kunnen begrijpen en waarderen. De opportuniteitskosten van verloren rente leiden niet tot de cognitieve kosten van een microbijdrage en zijn veel acceptabeler voor gebruikers.
 
-The STEEM used to pre-fund an account is Powered Up in the new account (i.e., converted to Steem Power). A portion of the SP used to fund a new account may be delegated from the creator of the account. When a user is delegated SP, they may use the SP for voting and bandwidth purposes as if it were their own, but the ownership of the SP remains with the user who delegated it. A user may remove the delegation at any time. After a cool-down period, the SP is returned to their account.
+De STEEM die gebruikt wordt om een rekening voor te financieren, wordt in de nieuwe rekening Powered Up (d.w.z. omgezet in Steem Power). Een deel van de SP die wordt gebruikt om een nieuw account te financieren zou kunnen worden gedelegeerd door de maker van het account. Wanneer aan een gebruiker SP wordt gedelegeerd, mag hij/zij de SP voor stem- en bandbreedte-doeleinden gebruiken alsof het van zichzelf was, maar de eigenaar van de SP blijft de gebruiker die het heeft gedelegeerd. Een gebruiker kan de delegatie te allen tijde verwijderen. Na een afkoelingsperiode wordt de SP teruggestuurd naar zijn/haar account.
 
 ### Effectiveness Relative to Fees
 
