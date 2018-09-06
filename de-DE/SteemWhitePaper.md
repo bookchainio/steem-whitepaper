@@ -298,13 +298,13 @@ Zentralen Webseiten verhindern Spam durch Bandbreitenbegrenzung und irgendeine F
 
 In einem dezentralen System gibt es aber keine direkte Möglichkeit Benutzer auszusperren, im Gegensatz zu zentralen Providern, die ein ReCAPTCHA hosten und Bandbreitenbegrenzung von Konten durchsetzen können. In der Tat ist die Unfähigkeit Benutzer zu zensieren eines der wichtigsten Verkaufsargumente der Blockchain Technologie.
 
-### Volle Reserve Vs Mindest Reserve
+### "Vollreserve" vs. "Mindestreserve"
 
 Stellen wir uns mal eine Blockchain wie einen Internet Service Provider (ISP) vor, der alle Kabel in der Stadt besitzt und eine maximale Menge an Bandbreite zur Verfügung hat, die er zu jeder Zeit bieten kann. Die in der Stadt lebenden Menschen können Anteile an dem ISP kaufen und im Gegenzug sind sie berechtigt, einen Teil der verfügbaren Bandbreite nutzen.
 
-Der ISP hat zwei Möglichkeiten, ein "volle Reserve" oder "Mindest Reserve"-System laufen zu lassen. Unter einem vollen Reserve-System darf jeder Benutzer nur einen Bruchteil der maximalen Bandbreite proportional zu seinen Anteilen nutzen. Da nicht jeder das Internet zur gleichen Zeit nutzt, wären die Stadtnetze deutlich nicht ausgelastet.
+Der ISP hat zwei Möglichkeiten, einen "Vollreserve"- oder "Mindestreserve"-Modus laufen zu lassen. Unter einem "Vollreserve"-System darf jeder Benutzer nur einen Bruchteil der maximalen Bandbreite proportional zu seinen Anteilen nutzen. Da nicht jeder das Internet zur gleichen Zeit nutzt, wären die Stadtnetze deutlich nicht ausgelastet.
 
-Unter einem Mindestreserve System könnten die einzelnen Benutzer mehr Bandbreite als ihnen eigentlich zusteht zu jeder Zeit nutzen, so lange nicht jeder das Internet zur gleichen Zeit nutzt. Das Problem mit dem Betrieb einer Mindestreserve ist, dass Überlastung jedes Mal dann auftritt, wenn zu viele Leute das Netzwerk zur gleichen Zeit nutzen wollen. Der ISP benötigt eine Möglichkeit, Bandbreite in verkehrsreichen Zeiten zu priorisieren. Im extremsten Fall muss ein völlig überlastetes Netzwerk zu einem vollen Reserve-System zurückkehren. Die Herausforderung besteht ind einem richtigen "Mindestreserve-Verhältnis".
+Unter einem Mindestreserve System könnten die einzelnen Benutzer mehr Bandbreite als ihnen eigentlich zusteht zu jeder Zeit nutzen, so lange nicht jeder das Internet zur gleichen Zeit nutzt. Das Problem mit dem Betrieb einer Mindestreserve ist, dass Überlastung jedes Mal dann auftritt, wenn zu viele Leute das Netzwerk zur gleichen Zeit nutzen wollen. Der ISP benötigt eine Möglichkeit, Bandbreite in verkehrsreichen Zeiten zu priorisieren. Im extremsten Fall muss ein völlig überlastetes Netzwerk zu einem Vollreservesystem zurückkehren. Die Herausforderung besteht in einem richtigen "Mindestreserve-Verhältnis".
 
 ## Bandbreite anstelle von Micropayment-Kanälen
 
