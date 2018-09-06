@@ -324,9 +324,9 @@ Nehmen wir an, ein Benutzer mit 25 US-Dollar im Wert von BTC tätigt einmal pro 
 
 ### Account-Erstellung
 
-Steem's Konto-basiertes System mit öffentlich bekannten Guthaben vereinfacht die Realisierung der Bandbreite-basierten Qouten-Limitierungs-Algorithmen. Jedes Konto mit einem Guthaben, das unter dem erforderlichen Minimum liegt, eine Transaktion pro Woche abzuwickeln, wäre generell nicht in der Lage Transaktionen durchzuführen. This implies that all new accounts should be funded with at least this minimum balance. It also implies that users wishing to transact in smaller amounts can, so long as they hold a larger balance and reuse the account.
+Steem's Konto-basiertes System mit öffentlich bekannten Guthaben vereinfacht die Realisierung der Bandbreite-basierten Qouten-Limitierungs-Algorithmen. Jedes Konto mit einem Guthaben, das unter dem erforderlichen Minimum liegt, eine Transaktion pro Woche abzuwickeln, wäre generell nicht in der Lage Transaktionen durchzuführen. Das bedeutet, dass alle neue Konten mit mindestens diesem Mindestguthaben ausgestattet sein müssen. Es bedeutet auch, dass Benutzer, die kleinere Mengen überweisen wollen, dies können, solange sie ein größeres Guthaben halten und den Account wiederverwenden.
 
-It is possible for a low-balance account created during a time of low usage to become inaccessible if the network usage picks up. The funds could be recovered at any time by temporarily delegating a larger balance to the account.
+Es ist möglich, dass ein Account mit einem geringem Guthaben, welches in einer Zeit mit geringer Auslastung erstellt wurde, nicht mehr erreichbar wird, sobald die Netzauslastung wieder ansteigt. The funds could be recovered at any time by temporarily delegating a larger balance to the account.
 
 In order to maintain a reasonable user experience with a minimum number of hung accounts, all new accounts should start out with a balance 10 times the minimum required to transact weekly. This way even if demand increases by a factor of 10 the account will remain viable.
 
