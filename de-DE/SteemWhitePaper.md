@@ -312,7 +312,7 @@ Die Lösung der Probleme mit dem Micropayment besteht in der Implementierung ein
 
 Bandbreite, die von einem einzelnen Benutzer verwendet wird, sollte über eine entsprechend längere Zeit gemessen werden, um es zu ermöglichen, dass dessen Netz-Nutzung zeitversetzt geschieht. Benutzer neigen dazu, sich anmelden, viele Dinge auf einmal zu tun und sich dann wieder abzumelden. Dies bedeutet, dass ihre Bandbreite über einen kurzen Zeitraum sehr viel höher erscheinen mag, als wenn über einen längeren Zeitraum betrachtet. Wenn das Zeitfenster zu weit gedehnt wird, dann wird der Mindestreservesatz nicht schnell genug anpasst um auf kurzfristige Überlastungen reagieren zu können. Wenn das Fenster zu kurz ist, dann hat die Benutzer-Clusterung eine zu große Beeinträchtigung für den einzelnen Benutzer.
 
-In our estimate it should be sufficient to measure the average weekly bandwidth usage of users. Every time a user signs a transaction, that transaction is factored into their own individual moving average. Any time a user’s moving average exceeds the current network limit their transaction is delayed until their average falls below the limit.
+In unserer Schätzung sollte es ausreichen, eine durchschnittliche wöchentliche Bandbreitennutzung der Benutzern zu messen. Jedes Mal, wenn ein Benutzer eine Transaktion durchführt, wird diese in die eigene individuelle Durchschnitts-Bewegung mit einbezogen. Any time a user’s moving average exceeds the current network limit their transaction is delayed until their average falls below the limit.
 
 ### Impact of Capacity
 
