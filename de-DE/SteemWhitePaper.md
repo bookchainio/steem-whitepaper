@@ -326,9 +326,9 @@ Nehmen wir an, ein Benutzer mit 25 US-Dollar im Wert von BTC tätigt einmal pro 
 
 Steem's Konto-basiertes System mit öffentlich bekannten Guthaben vereinfacht die Realisierung der Bandbreite-basierten Qouten-Limitierungs-Algorithmen. Jedes Konto mit einem Guthaben, das unter dem erforderlichen Minimum liegt, eine Transaktion pro Woche abzuwickeln, wäre generell nicht in der Lage Transaktionen durchzuführen. Das bedeutet, dass alle neue Konten mit mindestens diesem Mindestguthaben ausgestattet sein müssen. Es bedeutet auch, dass Benutzer, die kleinere Mengen überweisen wollen, dies können, solange sie ein größeres Guthaben halten und den Account wiederverwenden.
 
-Es ist möglich, dass ein Account mit einem geringem Guthaben, welches in einer Zeit mit geringer Auslastung erstellt wurde, nicht mehr erreichbar wird, sobald die Netzauslastung wieder ansteigt. The funds could be recovered at any time by temporarily delegating a larger balance to the account.
+Es ist möglich, dass ein Account mit einem geringem Guthaben, welches in einer Zeit mit geringer Auslastung erstellt wurde, nicht mehr erreichbar wird, sobald die Netzauslastung wieder ansteigt. Das Konto könnte aber jederzeit wieder hergestellt werden, indem ein größeres Guthaben an diesen Account vorübergehend delegiert werden würde.
 
-In order to maintain a reasonable user experience with a minimum number of hung accounts, all new accounts should start out with a balance 10 times the minimum required to transact weekly. This way even if demand increases by a factor of 10 the account will remain viable.
+Um eine angemessene Reputation mit einer minimalen Anzahl von "aufgehangenen" Konten zu erhalten, sollten alle neue Konten mit einem Saldo starten, das mindestens 10 so hoch ist, wie für wöchentliche Transaktionen notwendig ist. Auf diese Weise bleibt das Konto lebensfähig, auch wenn Nachfrage um den Faktor 10 steigt.
 
 Any initial account balance would have to come from the user creating the account and not from token creation due to the potential for sybil attacks.
 
