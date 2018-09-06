@@ -316,11 +316,11 @@ In unserer Schätzung sollte es ausreichen, eine durchschnittliche wöchentliche
 
 ### Auswirkungen der Kapazität
 
-Blockchain Kapazität ist nicht notwendigerweise begrenzt. It is well within the technological capability of internet infrastructure to increase the Bitcoin block size to 10MB which in turn will reduce the minimum required balance by a factor of 10. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second.
+Blockchain Kapazität ist nicht notwendigerweise begrenzt. Es liegt innerhalb der technologischen Möglichkeiten der Internet-Infrastruktur, die Bitcoin Block-Größe auf 10 Mb zu erhöhen, was wiederum im Gegenzug die minimal benötigte Bandbreite um einen Faktor 10 senkt. Während Bitcoin derzeit ca. 3 Transaktionen pro Sekunde unterstützt, erreichen alternative Implementierungen mehr als 1000 Transaktionen pro Sekunde.
 
-### Comparison to Fees
+### Vergleich zu Gebühren
 
-If we assume a user with $25 dollars worth of BTC transacts once per week and pays a $0.04 cent fee each time then they would pay over $2.00 in fees per year. A user would have to earn a 8% rate of return on their $25 dollars just to break even with paying fees. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
+Nehmen wir an, ein Benutzer mit 25 US-Dollar im Wert von BTC tätigt einmal pro Woche eine Transaktion und zahlt jedes Mal eine Gebühr von $0,04 Prozent, würde er über $2,00 Gebühren pro Jahr zahlen. A user would have to earn a 8% rate of return on their $25 dollars just to break even with paying fees. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
 
 ### Account Creation
 
