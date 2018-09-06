@@ -296,7 +296,7 @@ Na verloop van tijd moet een netwerk tarieven aanpassen. Dit kan gebeuren door e
 
 Gecentraliseerde websites voorkomen spam door middel van tariefbeperkingen en een vorm van ID-verificatie. Zelfs zoiets simpels als reCAPTCHA[^9] is voldoende om het aanmaken van valse accounts te beperken. Als iemand misbruik maakt van zijn of haar account, dan staat het gecentraliseerde websites vrij om het account te blokkeren.
 
-In een gedecentraliseerd systeem is er geen directe manier om gebruikers te bannen, noch is er een gecentraliseerde provider in staat om een reCAPTCHA te hosten en tariefbeperking van accounts af te dwingen. In feite is het onvermogen om gebruikers te censureren een van de belangrijkste verkoopargumenten van de blockchain technologie.
+In een gedecentraliseerd systeem is er geen directe manier om gebruikers te bannen, noch is er een gecentraliseerde provider in staat om een reCAPTCHA te hosten en tariefbeperking van accounts af te dwingen. In feite is zelfs het onvermogen om gebruikers te censureren een van de belangrijkste verkoopargumenten van de blockchain technologie.
 
 ### Volledige reserve versus fractionele reserve
 
