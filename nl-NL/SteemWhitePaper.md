@@ -340,9 +340,9 @@ Ripple gebruikt een minimumsaldo [^11] dat schaalt met het gebruik van account-m
 
 Een blockchain kan een minimale waarde per gebruiker afdwingen door middel van het simpele proces van het vereisen van een minimum-balans. Elke onderneming die een nieuwe klant naar de blockchain wil brengen, kan het account van die gebruiker voorfinancieren met het minimumsaldo dat hem in staat stelt om transacties te verrichten. Een relatief grote vergoeding ($1,00) om nieuwe gebruikers aan te melden zal op natuurlijke wijze iedereen die gratis accounts aanbiedt dwingen om de kwaliteit en het unieke karakter van elk account te controleren voor hij/zij ze op de blockchain registreert.
 
-Het handhaven van een minimumsaldo is in feite hetzelfde als gebruikers transactiekosten laten betalen met de rente die gebruikers op hun saldo hadden kunnen verdienen. The minimum balance is simply the balance required to earn enough interest to pay a fee in a relatively short period of time.
+Het handhaven van een minimumsaldo is in feite hetzelfde als gebruikers transactiekosten laten betalen met de rente die gebruikers op hun saldo hadden kunnen verdienen. Het minimumsaldo is simpelweg het saldo dat nodig is om voldoende rente te verdienen om een vergoeding te betalen in een relatief korte periode.
 
-Fortunately, the minimum balance required can be as low as a dollar and this is something users can understand and appreciate. The opportunity cost of lost interest doesn’t incur the cognitive cost of a micro-fee and is far more acceptable to users.
+Gelukkig kan het minimaal vereiste saldo zo laag zijn als een dollar en dit is iets dat gebruikers kunnen begrijpen en waarderen. The opportunity cost of lost interest doesn’t incur the cognitive cost of a micro-fee and is far more acceptable to users.
 
 The STEEM used to pre-fund an account is Powered Up in the new account (i.e., converted to Steem Power). A portion of the SP used to fund a new account may be delegated from the creator of the account. When a user is delegated SP, they may use the SP for voting and bandwidth purposes as if it were their own, but the ownership of the SP remains with the user who delegated it. A user may remove the delegation at any time. After a cool-down period, the SP is returned to their account.
 
