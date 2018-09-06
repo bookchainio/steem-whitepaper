@@ -286,7 +286,7 @@ Systemen zoals BitShares, Nxt, Ripple, Counter Party en Stellar stellen gebruike
 
 ### Transactiekosten vormen een barrière om toe te treden
 
-Elk transactiebedrag vormt een barrière voor de toetreding van nieuwe gebruikers. Voordat iemand met Ethereum kan experimenteren, moet hij/zij een aantal ETH tokens verwerven. Wie een gedecentraliseerde toepassing op Ethereum wil bouwen, moet de kosten doorberekenen aan zijn klanten. Het kopen van cryptovaluta is geen makkelijke taak en is zelden zinvol voor bedragen van minder dan €10. Dit betekent dat nieuwe gebruikers die een nieuwe gedecentraliseerde toepassing willen uitproberen, eerst ervan overtuigd moeten worden om €10 te betalen.
+Elk transactiebedrag vormt een barrière voor de toetreding van nieuwe gebruikers. Voordat iemand met Ethereum kan experimenteren, moet hij/zij een aantal ETH tokens verwerven. Wie een gedecentraliseerde toepassing op Ethereum wil bouwen, moet de kosten doorberekenen aan zijn klanten. Het kopen van cryptovaluta is geen makkelijke taak en is zelden zinvol voor bedragen van minder dan $10. Dit betekent dat nieuwe gebruikers die een nieuwe gedecentraliseerde toepassing willen uitproberen, eerst ervan overtuigd moeten worden om €10 te betalen.
 
 ### Veranderen van transactiekosten
 
