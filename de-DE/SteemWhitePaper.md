@@ -324,7 +324,7 @@ Nehmen wir an, ein Benutzer mit 25 US-Dollar im Wert von BTC tätigt einmal pro 
 
 ### Account-Erstellung
 
-Steem’s account-based system with publicly known balances simplifies the implementation of the bandwidth-based rate limiting algorithm. Any account with a balance below the minimum required to transact once per week would be unable to transact. This implies that all new accounts should be funded with at least this minimum balance. It also implies that users wishing to transact in smaller amounts can, so long as they hold a larger balance and reuse the account.
+Steem's Konto-basiertes System mit öffentlich bekannten Guthaben vereinfacht die Realisierung der Bandbreite-basierten Qouten-Limitierungs-Algorithmen. Jedes Konto mit einem Guthaben, das unter dem erforderlichen Minimum liegt, eine Transaktion pro Woche abzuwickeln, wäre generell nicht in der Lage Transaktionen durchzuführen. This implies that all new accounts should be funded with at least this minimum balance. It also implies that users wishing to transact in smaller amounts can, so long as they hold a larger balance and reuse the account.
 
 It is possible for a low-balance account created during a time of low usage to become inaccessible if the network usage picks up. The funds could be recovered at any time by temporarily delegating a larger balance to the account.
 
