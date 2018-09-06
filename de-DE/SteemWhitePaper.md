@@ -306,7 +306,7 @@ Der ISP hat zwei Möglichkeiten, ein "volle Reserve" oder "Mindest Reserve"-Syst
 
 Unter einem Mindestreserve System könnten die einzelnen Benutzer mehr Bandbreite als ihnen eigentlich zusteht zu jeder Zeit nutzen, so lange nicht jeder das Internet zur gleichen Zeit nutzt. Das Problem mit dem Betrieb einer Mindestreserve ist, dass Überlastung jedes Mal dann auftritt, wenn zu viele Leute das Netzwerk zur gleichen Zeit nutzen wollen. Der ISP benötigt eine Möglichkeit, Bandbreite in verkehrsreichen Zeiten zu priorisieren. Im extremsten Fall muss ein völlig überlastetes Netzwerk zu einem vollen Reserve-System zurückkehren. Die Herausforderung besteht ind einem richtigen "Mindestreserve-Verhältnis".
 
-## Bandwidth Instead of Micropayment Channels
+## Bandbreite anstelle von Micropayment-Kanälen
 
 The solution to the problems with micropayments is in implementing *dynamic fractional reserves*. Under this model the blockchain will automatically adjust the reserve ratio for the network during times of congestion. The blockchain will set a target utilization that leaves enough headroom for short term surges in demand. Any time the surges are sustained the blockchain reduces the maximum bandwidth-per-share. When a surge is over and there is surplus capacity the blockchain can slowly increase the bandwidth-per-share.
 
