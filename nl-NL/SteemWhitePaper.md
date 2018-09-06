@@ -268,7 +268,7 @@ Blockchain technologie is momenteel afhankelijk van transactiekosten om spam te 
 
 Blockchains zijn gedecentraliseerde netwerken waar alle transacties worden uitgezonden naar alle gebruikers. Om de zoveel tijd wordt er een blok geproduceerd dat alle of een deel van de lopende transacties bevat. Alle blockchains moeten een oplossing vinden om te voorkomen dat kwaadwillende gebruikers alle beschikbare netwerkcapaciteit verbruiken met waardeloze transacties. Deze waardeloze transacties kunnen voorkomen dat andere waardevolle transacties worden verwerkt en uiteindelijk het netwerk vernietigen.
 
-De oplossing die tot nu toe door de meeste blockchains is gekozen, is om minimale transactiekosten in rekening te brengen. Een bedrag ter waarde van slechts een paar cent is genoeg om een aanval op het netwerk duur en onrendabel te maken. Hoewel deze aanpak het spamprobleem oplost, introduceert het nieuwe problemen. Stelt u zich eens voor dat u het e-mailspamprobleem oplost door voor elke e-mail een klein bedrag te rekenen; mensen zouden geen gebruik maken van e-mail.
+De oplossing die tot nu toe door de meeste blockchains is gekozen, is om minimale transactiekosten in rekening te brengen. Een bedrag ter waarde van slechts een paar cent is genoeg om een aanval op het netwerk duur en onrendabel te maken. Hoewel deze aanpak het spamprobleem oplost, introduceert het nieuwe problemen. Stel je eens voor dat je het e-mailspamprobleem oplost door voor elke e-mail een klein bedrag te rekenen; mensen zouden geen gebruik maken van e-mail.
 
 ### Microbetalingen werken niet
 
@@ -286,7 +286,7 @@ Systemen zoals BitShares, Nxt, Ripple, Counter Party en Stellar stellen gebruike
 
 ### Transactiekosten vormen een barrière om toe te treden
 
-Elk transactiebedrag vormt een barrière voor de toetreding van nieuwe gebruikers. Voordat iemand met Ethereum kan experimenteren, moet hij/zij een aantal ETH tokens verwerven. Wie een gedecentraliseerde toepassing op Ethereum wil bouwen, moet de kosten doorberekenen aan zijn klanten. Het kopen van cryptovaluta is geen makkelijke taak en is zelden zinvol voor bedragen van minder dan $10. Dit betekent dat nieuwe gebruikers die een nieuwe gedecentraliseerde toepassing willen uitproberen, eerst ervan overtuigd moeten worden om €10 te betalen.
+Elk transactiebedrag vormt een barrière voor de toetreding van nieuwe gebruikers. Voordat iemand met Ethereum kan experimenteren, moet hij/zij een aantal ETH tokens verwerven. Wie een gedecentraliseerde toepassing op Ethereum wil bouwen, moet de kosten doorberekenen aan zijn klanten. Het kopen van cryptovaluta is geen makkelijke taak en is zelden zinvol voor bedragen van minder dan $10. Dit betekent dat nieuwe gebruikers die een nieuwe gedecentraliseerde toepassing willen uitproberen, eerst ervan overtuigd moeten worden om $10 te betalen.
 
 ### Veranderen van transactiekosten
 
