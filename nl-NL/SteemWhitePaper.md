@@ -316,25 +316,25 @@ In onze schatting zou het voldoende moeten zijn om het gemiddelde wekelijkse ban
 
 ### Impact van capaciteit
 
-Blockchain-capaciteit is niet noodzakelijkerwijs gemaximeerd. It is well within the technological capability of internet infrastructure to increase the Bitcoin block size to 10MB which in turn will reduce the minimum required balance by a factor of 10. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second.
+Blockchain-capaciteit is niet noodzakelijkerwijs gemaximeerd. Het ligt ruimschoots binnen de technologische mogelijkheden van de internetinfrastructuur om de omvang van de Bitcoin blokgrootte te vergroten tot 10MB, waardoor het minimaal vereiste saldo met een factor 10 zal afnemen. Terwijl Bitcoin momenteel ongeveer 3 transacties per seconde ondersteunt, zijn alternatieve implementaties geschikt voor meer dan 1000 transacties per seconde.
 
-### Comparison to Fees
+### Vergelijking met transactiekosten
 
-If we assume a user with $25 dollars worth of BTC transacts once per week and pays a $0.04 cent fee each time then they would pay over $2.00 in fees per year. A user would have to earn a 8% rate of return on their $25 dollars just to break even with paying fees. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
+Als we ervan uitgaan dat een gebruiker met een waarde van $25 dollar aan BTC één keer per week transacties uitvoert en elke keer $0,04 cent aan kosten betaalt, dan betaalt deze meer dan $2,00 aan kosten per jaar. Een gebruiker zou een rendement van 8% op zijn of haar $25 dollar moeten verdienen alleen al om de kosten te dekken. De kans is groot dat gebruikers toch al hun geld op de blockchain gingen houden, dus deze gebruiker met een waarde van $25 aan BTC bespaarde in de loop van het jaar $2 door een tariefbeperkende aanpak in plaats van een op kosten gebaseerde aanpak. Met slechts $175 zouden ze elke dag transacties kunnen uitvoeren en $14 per jaar besparen.
 
-### Account Creation
+### Aanmaken van een account
 
-Steem’s account-based system with publicly known balances simplifies the implementation of the bandwidth-based rate limiting algorithm. Any account with a balance below the minimum required to transact once per week would be unable to transact. This implies that all new accounts should be funded with at least this minimum balance. It also implies that users wishing to transact in smaller amounts can, so long as they hold a larger balance and reuse the account.
+Steem's account-gebaseerd systeem met publiek bekende balansen vereenvoudigt de implementatie van het bandbreedte-gebaseerd tariefbeperkende algoritme. Elk account met een saldo dat lager is dan het minimum dat nodig is om één keer per week een transactie te maken zou niet in staat zijn om een transactie te verrichten. Dit betekent dat alle nieuwe accounts met ten minste dit minimumsaldo moeten worden gefinancierd. Het houdt ook in dat gebruikers die met kleinere bedragen transacties willen verrichten dat kunnen, mits zij een hogere balans houden en het account opnieuw gebruiken.
 
-It is possible for a low-balance account created during a time of low usage to become inaccessible if the network usage picks up. The funds could be recovered at any time by temporarily delegating a larger balance to the account.
+Het is mogelijk dat een account met een laag saldo dat is aangemaakt tijdens een periode van laag gebruik ontoegankelijk wordt als het netwerkgebruik toeneemt. De middelen kunnen te allen tijde worden teruggevorderd door tijdelijk een groter saldo naar de rekening te delegeren.
 
-In order to maintain a reasonable user experience with a minimum number of hung accounts, all new accounts should start out with a balance 10 times the minimum required to transact weekly. This way even if demand increases by a factor of 10 the account will remain viable.
+Om een redelijke gebruikerservaring te behouden met een minimum aantal 'hangende' accounts, moeten alle nieuwe accounts beginnen met een saldo dat 10 keer zo groot is als het minimum dat nodig is om wekelijks transacties te verrichten. Op die manier blijft het account levensvatbaar, zelfs als de vraag met een factor 10 stijgt.
 
-Any initial account balance would have to come from the user creating the account and not from token creation due to the potential for sybil attacks.
+Elk eerste account-saldo zou moeten komen van de gebruiker die het account aanmaakt en niet van het aanmaken van tokens vanwege de mogelijkheid van sybil-aanvallen.
 
-### Justifying Minimum Balances
+### Rechtvaardiging van minimumbalansen
 
-The concept of forcing users to maintain a minimum balance flows naturally from the value of a user[^10]. Anyone running a business knows that every single user has significant value. Businesses spend anywhere from $30 to $200 to acquire a user. Sometimes they pay users directly, other times they pay for advertizing, and still other times entire companies are bought just for their user base. After a company acquires a user they often given them many *free services* just to keep them around long enough to monetize them through some other means.
+Het concept om gebruikers te dwingen een minimale balans te behouden, vloeit op natuurlijke wijze voort uit de waarde van een gebruiker[^10]. Iedereen die een bedrijf leidt weet dat elke gebruiker aanzienlijke waarde heeft. Bedrijven geven ergens tussen de $30 en $200 uit om een gebruiker aan te trekken. Soms betalen ze gebruikers direct, andere keren betalen ze voor reclame, en nog andere keren worden hele bedrijven alleen voor hun gebruikersbestand gekocht. Nadat een bedrijf een gebruiker heeft verworven geven ze deze vaak veel *gratis diensten* enkel om hem/haar lang genoeg te behouden om op andere manieren aan hen te gaan verdienen.
 
 Ripple uses a minimum balance[^11] that scales with account resource use and requires that new accounts get funded with at least this minimum balance. Currently this minimum balance is about $0.15 which is greater than the $0.10 we estimated would allow someone to transact freely at least once per week.
 
