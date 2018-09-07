@@ -332,7 +332,7 @@ Um eine angemessene Reputation mit einer minimalen Anzahl von "aufgehangenen" Ko
 
 Um mögliche Sybil-Angriffe zu verhindern, müssten alle initialen Kontoguthaben vom Benutzer kommen, der das Konto erstellt und nicht durch Token-Erstellung.
 
-### Justifying Minimum Balances
+### Rechtfertigung der Mindestguthaben
 
 The concept of forcing users to maintain a minimum balance flows naturally from the value of a user[^10]. Anyone running a business knows that every single user has significant value. Businesses spend anywhere from $30 to $200 to acquire a user. Sometimes they pay users directly, other times they pay for advertizing, and still other times entire companies are bought just for their user base. After a company acquires a user they often given them many *free services* just to keep them around long enough to monetize them through some other means.
 
