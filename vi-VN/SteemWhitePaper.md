@@ -4,9 +4,9 @@
 
 Tháng 8 năm 2017
 
-# Translator's notes
+# Những ghi chú của người dịch
 
-Placeholder for translator's notes.
+Mục dành cho những ghi chú của người dịch.
 
 # Tóm tắt
 
