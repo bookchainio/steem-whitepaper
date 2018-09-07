@@ -290,21 +290,21 @@ Jegliche Gebühr stellt für Neulinge eine Hürde da. Bevor jemand mit Ethereum 
 
 ### Änderung der Gebühren
 
-Auf lange Sicht muss ein Netzwerk Gebühren erlassen. Dies kann entweder durch eine Wertsteigerung der Token oder durch Vermehrung derer Anzahl geschehen. Benutzer lieben vorhersehbare Kosten und garantierten Service. Es ist zwar möglich die Kosten dynamisch an die Auslastung anzupassen, das Ergebnis wäre aber für die Benutzer recht traurig.
+Im Laufe der Zeit muss ein Netzwerk die Gebühren anpassen. Dies kann entweder durch eine Wertsteigerung der Token oder durch Vermehrung deren Anzahl geschehen. Benutzer lieben vorhersehbare Kosten und garantierten Service. Während es möglich ist, die Gebühren in Zeiten starker Nutzung dynamisch anzupassen, führt dies zu einem schlechten Benutzererlebnis.
 
-### Sybil Attacke
+### Sybil-Attacke
 
-Zentralen Webseiten verhindern Spam durch Bandbreitenbegrenzung und irgendeine Form von ID-Überprüfung. Sogar etwas so einfaches wie ReCAPTCHA [^9] ist ausreichend, um die Erstellung von Fake-Accounts einzugrenzen. Zentrale Webseiten erlauben sich den Account zu sperren, wenn jemand ihr Konto missbraucht.
+Zentralisierte Websites verhindern Spam durch Bandbreitenbegrenzung und eine Art ID-Verifizierung. Sogar etwas so Einfaches wie ReCAPTCHA [^9] ist ausreichend, um die Erstellung von Fake-Accounts einzugrenzen. Wenn jemand sein Konto missbraucht, steht es zentralisierten Websites frei, das Konto zu sperren.
 
-In einem dezentralen System gibt es aber keine direkte Möglichkeit Benutzer auszusperren, im Gegensatz zu zentralen Providern, die ein ReCAPTCHA hosten und Bandbreitenbegrenzung von Konten durchsetzen können. In der Tat ist die Unfähigkeit Benutzer zu zensieren eines der wichtigsten Verkaufsargumente der Blockchain Technologie.
+In einem dezentralen System gibt es aber keine direkte Möglichkeit Benutzer auszusperren, im Gegensatz zu zentralen Providern, die ein ReCAPTCHA hosten und Bandbreitenbegrenzung von Konten durchsetzen können. In der Tat ist die Unfähigkeit Benutzer zu zensieren eines der wichtigsten Verkaufsargumente der Blockchain-Technologie.
 
-### "Vollreserve" vs. "Mindestreserve"
+### Vollreserve vs. Teilreserve
 
 Stellen wir uns mal eine Blockchain wie einen Internet Service Provider (ISP) vor, der alle Kabel in der Stadt besitzt und eine maximale Menge an Bandbreite zur Verfügung hat, die er zu jeder Zeit bieten kann. Die in der Stadt lebenden Menschen können Anteile an dem ISP kaufen und im Gegenzug sind sie berechtigt, einen Teil der verfügbaren Bandbreite nutzen.
 
 Der ISP hat zwei Möglichkeiten, einen "Vollreserve"- oder "Mindestreserve"-Modus laufen zu lassen. Bei einem "Vollreserve"-System darf jeder Benutzer nur einen Bruchteil der maximalen Bandbreite proportional zu seinen Anteilen nutzen. Da nicht jeder das Internet zur gleichen Zeit nutzt, wären die Stadtnetze deutlich nicht ausgelastet.
 
-Bei einem "Mindestreserve"-System könnten die einzelnen Benutzer mehr Bandbreite als ihnen eigentlich zusteht zu jeder Zeit nutzen, so lange nicht jeder das Internet zur gleichen Zeit nutzt. Das Problem mit dem Betrieb einer Mindestreserve ist, dass Überlastung jedes Mal dann auftritt, wenn zu viele Leute das Netzwerk zur gleichen Zeit nutzen wollen. Der ISP benötigt eine Möglichkeit, Bandbreite in verkehrsreichen Zeiten zu priorisieren. Im extremsten Fall muss ein völlig überlastetes Netzwerk zu einem Vollreservesystem zurückkehren. Die Herausforderung besteht in einem richtigen "Mindestreserve-Verhältnis".
+Bei einem "Mindestreserve"-System könnten die einzelnen Benutzer mehr Bandbreite als ihnen eigentlich zusteht zu jeder Zeit nutzen, solange nicht jeder das Internet zur gleichen Zeit nutzt. Das Problem mit dem Betrieb einer Mindestreserve ist, dass Überlastung jedes Mal dann auftritt, wenn zu viele Leute das Netzwerk zur gleichen Zeit nutzen wollen. Der ISP benötigt eine Möglichkeit, Bandbreite in verkehrsreichen Zeiten zu priorisieren. Im extremsten Fall muss ein völlig überlastetes Netzwerk zu einem Vollreservesystem zurückkehren. Die Herausforderung besteht in einem richtigen "Mindestreserve-Verhältnis".
 
 ## Bandbreite anstelle von Micropayment-Kanälen
 
