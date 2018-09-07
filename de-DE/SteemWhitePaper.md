@@ -320,7 +320,7 @@ Blockchain Kapazität ist nicht notwendigerweise begrenzt. Es liegt innerhalb de
 
 ### Vergleich zu Gebühren
 
-Nehmen wir an, ein Benutzer mit 25 US-Dollar im Wert von BTC tätigt einmal pro Woche eine Transaktion und zahlt jedes Mal eine Gebühr von $0,04 Prozent, würde er über $2,00 Gebühren pro Jahr zahlen. Dieser Benutzer müsste 8 % Zinsen für seine $25 Dollar erhalten, nur um seine Transaktionsgebühren auszugleichen. Die Chance dass die User ihr Geld dennoch auf der Blockchain halten, indem sie mit ihren 25$ im Wert von BTC sich die $2 sparen können, steigt deutlich, wenn ein Netzwerk-Limitierungs-Ansatz gefahren wird, anstelle eines Gebühren-Systems. Mit nur $175 könnten sie jeden Tag Transaktionen durchführen und dabei 14 Us -Dollar pro Jahr sparen.
+Nehmen wir an, ein Benutzer mit 25 US-Dollar im Wert von BTC tätigt einmal pro Woche eine Transaktion und zahlt jedes Mal eine Gebühr von $0,04 Prozent, dann würde er über $2,00 Gebühren pro Jahr zahlen. Dieser Benutzer müsste 8 % Zinsen für seine $25 Dollar erhalten, nur um seine Transaktionsgebühren auszugleichen. Die Chance dass die User ihr Geld dennoch auf der Blockchain halten, indem sie mit ihren 25$ im Wert von BTC sich die $2 sparen können, steigt deutlich, wenn ein Netzwerk-Limitierungs-Ansatz gefahren wird, anstelle eines Gebühren-Systems. Mit nur $175 könnten sie jeden Tag Transaktionen durchführen und dabei 14 Us -Dollar pro Jahr sparen.
 
 ### Account-Erstellung
 
