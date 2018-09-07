@@ -330,7 +330,7 @@ Es ist möglich, dass ein Account mit einem geringem Guthaben, welches in einer 
 
 Um eine angemessene Reputation mit einer minimalen Anzahl von "aufgehangenen" Konten zu erhalten, sollten alle neuen Konten mit einem Saldo starten, das mindestens 10 Mal so hoch ist, wie für wöchentliche Transaktionen notwendig ist. Auf diese Weise bleibt das Konto funktionsfähig, auch wenn die Nachfrage um den Faktor 10 steigt.
 
-Um mögliche Sybil-Angriffe zu verhindern, müssten alle initialen Kontoguthaben vom Benutzer kommen der das Konto erstellt und nicht durch Token-Erstellung.
+Um mögliche Sybil-Angriffe zu verhindern, müssten alle initialen Kontoguthaben vom Benutzer kommen, der das Konto erstellt und nicht durch Token-Erstellung.
 
 ### Justifying Minimum Balances
 
