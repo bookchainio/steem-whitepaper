@@ -286,7 +286,7 @@ Systeme wie BitShares, Nxt, Ripple, Counter Party und Stellar ermöglichen Nutze
 
 ### Gebühren sind eine Eintrittsbarriere
 
-Jegliche Gebühr stellt für Neulinge eine Hürde da. Bevor jemand mit Ethereum herum experimentieren kann, muss derjenige einige ETH Token erwerben. Jeder, der eine dezentrale Applikation bauen möchte, muss die Gebühren an die Kunden weiter leiten. Krypto-Geld zu kaufen ist keine einfache Sache und ist selten sinnvoll für Summen unter 10$. Das bedeutet, dass neue User, die eine neue dezentrale Applikation ausprobieren wollen, erst mal davon überzeugt werden müssen, sich mit 10$ zu beteiligen.
+Jegliche Gebühr stellt für Neulinge eine Hürde da. Bevor jemand mit Ethereum herumexperimentieren kann, muss derjenige einige ETH-Token erwerben. Jeder, der eine dezentrale Applikation bauen möchte, muss die Gebühren an die Kunden weiterleiten. Krypto-Geld zu kaufen ist keine einfache Sache und ist selten sinnvoll für Summen unter 10$. Das bedeutet, dass neue User, die eine neue dezentrale Applikation ausprobieren wollen, erst mal davon überzeugt werden müssen, sich mit 10$ zu beteiligen.
 
 ### Änderung der Gebühren
 
