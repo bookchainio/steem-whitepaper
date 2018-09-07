@@ -298,7 +298,7 @@ Zentralisierte Websites verhindern Spam durch Bandbreitenbegrenzung und eine Art
 
 In einem dezentralen System gibt es aber keine direkte Möglichkeit Benutzer auszusperren, im Gegensatz zu zentralen Providern, die ein ReCAPTCHA hosten und Bandbreitenbegrenzung von Konten durchsetzen können. In der Tat ist die Unfähigkeit Benutzer zu zensieren eines der wichtigsten Verkaufsargumente der Blockchain-Technologie.
 
-### Vollreserve vs. Teilreserve
+### "Vollreserve" vs. "Mindestreserve"
 
 Stellen wir uns mal eine Blockchain wie einen Internet Service Provider (ISP) vor, der alle Kabel in der Stadt besitzt und eine maximale Menge an Bandbreite zur Verfügung hat, die er zu jeder Zeit bieten kann. Die in der Stadt lebenden Menschen können Anteile an dem ISP kaufen und im Gegenzug sind sie berechtigt, einen Teil der verfügbaren Bandbreite nutzen.
 
@@ -308,7 +308,7 @@ Bei einem "Mindestreserve"-System könnten die einzelnen Benutzer mehr Bandbreit
 
 ## Bandbreite anstelle von Micropayment-Kanälen
 
-Die Lösung der Probleme mit dem Micropayment besteht in der Implementierung einer "dynamischen Mindestreserve". Bei diesem Modell passt die Blockchain automatisch den Mindestreservesatz in den Zeiten an, wo das Netzwerk überlastet ist. Die Blockchain setzt ein Ziel fest, welches genügend Spielraum für kurzfristige Überlastungen in der Nachfrage zulässt. In den Zeiten, wo diese "Überspannungen" auftreten, verringert die Blockchain die maximale Bandbreite für jeden Teilnehmer. Wenn so eine Welle dann vorbei ist und es wieder Überkapazitäten gibt, kann die Blockchain langsam die Bandbreite je Teilnehmer erhöhen.
+Die Lösung für die Probleme mit Micropayments besteht in der Implementierung einer *dynamischen Mindestreserve*. Bei diesem Modell passt die Blockchain automatisch den Mindestreservesatz in den Zeiten an, wo das Netzwerk überlastet ist. Die Blockchain setzt ein Ziel fest, welches genügend Spielraum für kurzfristige Überlastungen in der Nachfrage zulässt. In den Zeiten, wo diese "Überspannungen" auftreten, verringert die Blockchain die maximale Bandbreite für jeden Teilnehmer. Wenn so eine Welle dann vorbei ist und es wieder Überkapazitäten gibt, kann die Blockchain langsam die Bandbreite je Teilnehmer erhöhen.
 
 Bandbreite, die von einem einzelnen Benutzer verwendet wird, sollte über eine entsprechend längere Zeit gemessen werden, um es zu ermöglichen, dass dessen Netz-Nutzung zeitversetzt geschieht. Benutzer neigen dazu, sich anmelden, viele Dinge auf einmal zu tun und sich dann wieder abzumelden. Dies bedeutet, dass ihre Bandbreite über einen kurzen Zeitraum sehr viel höher erscheinen mag, als über einen längeren Zeitraum betrachtet. Wenn das Zeitfenster zu weit gedehnt wird, dann wird der Mindestreservesatz nicht schnell genug anpasst um auf kurzfristige Überlastungen reagieren zu können. Wenn das Fenster zu kurz ist, dann hat die Benutzer-Clusterung eine zu große Beeinträchtigung für den einzelnen Benutzer.
 
