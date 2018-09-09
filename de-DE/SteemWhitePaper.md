@@ -334,7 +334,7 @@ Um mögliche Sybil-Angriffe zu verhindern, müssten alle initialen Kontoguthaben
 
 ### Rechtfertigung der Mindestguthaben
 
-The concept of forcing users to maintain a minimum balance flows naturally from the value of a user[^10]. Anyone running a business knows that every single user has significant value. Businesses spend anywhere from $30 to $200 to acquire a user. Sometimes they pay users directly, other times they pay for advertizing, and still other times entire companies are bought just for their user base. After a company acquires a user they often given them many *free services* just to keep them around long enough to monetize them through some other means.
+Das Konzept, die User zur Aufrechterhaltung eines Mindestguthabens zu zwingen kommt naturgemäß vom Wert eines Users [^10]. Jeder, der ein Geschäft betreibt, weiß, dass jeder einzelne User einen signifikanten Wert hat. Unternehmen geben irgendetwas zwischen $30 und §200 aus, um einen User anzuwerben. Sometimes they pay users directly, other times they pay for advertizing, and still other times entire companies are bought just for their user base. After a company acquires a user they often given them many *free services* just to keep them around long enough to monetize them through some other means.
 
 Ripple uses a minimum balance[^11] that scales with account resource use and requires that new accounts get funded with at least this minimum balance. Currently this minimum balance is about $0.15 which is greater than the $0.10 we estimated would allow someone to transact freely at least once per week.
 
