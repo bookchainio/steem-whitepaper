@@ -348,9 +348,9 @@ Die STEEM, die genutzt werden, um einen Account vorab zu finanzieren wird im neu
 
 ### Wirksamkeit im Verhältnis zu Gebühren
 
-Um die Effektivität der Bandbreitenbegrenzung im Verhältnis zu Gebühren zu vergleichen, müssen wir bedenken, wie die zwei Systeme auf absichtliche Netzwerkflutung durch einen Angreifer reagieren. Under Bitcoin an attacker with $10,000 dollars could disrupt service for an entire day by filling every single block. The same attacker would be unable to disrupt service for even a single block under the dynamic fractional reserve rate limiting approach.
+Um die Effektivität der Bandbreitenbegrenzung im Verhältnis zu Gebühren zu vergleichen, müssen wir bedenken, wie die zwei Systeme auf absichtliche Netzwerkflutung durch einen Angreifer reagieren. Unter Bitcoin könnte ein Angreifer mit $10,000 Dollar den Service für einen ganzen Tag unterbrechen, indem er jeden einzelnen Block füllt. Unter dem Ansatz einer "Dynamic Fractional Reserve"-Bandbreitenbegrenzung wäre derselbe Angreifer nicht in der Lage, den Service auch nur für einen einzelnen Block zu unterbrechen.
 
-If we go to a more extreme case and assume the attacker holds 1% of all coins then we presume an attacker with $60 million dollars. Such an attacker could deny the Bitcoin blockchain service for 16 years unless the miners increased fees or capacity. Even if fees were raised to $15 per transaction, the attacker could still keep the network flooded for 16 days.
+Wenn wir zu einem noch extremeren Fall kommen und annehmen, der Angreifer würde 1% aller Coins besitzen, dann gehen wir von einem Angreifer mit $60 Millionen Dollar aus. Ein solcher Angreifer könnte den Bitcoin Blockchain Service für 16 Jahre außer Kraft setzen, es sei denn, die Miner würden ihre Gebühren oder Kapazitäten erhöhen. Selbst wenn Gebühren auf $15 pro Transaktion angehoben werden würden, könnte der Angreifer das Netzwerk weiterhin für 16 Tage fluten.
 
 Under the rate limiting approach, someone who holds 1% of all coins with an intent to flood the network would achieve their goal for less than 30 seconds.
 
