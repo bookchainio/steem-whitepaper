@@ -352,15 +352,15 @@ Um die Effektivität der Bandbreitenbegrenzung im Verhältnis zu Gebühren zu ve
 
 Wenn wir zu einem noch extremeren Fall kommen und annehmen, der Angreifer würde 1% aller Coins besitzen, dann gehen wir von einem Angreifer mit $60 Millionen Dollar aus. Ein solcher Angreifer könnte den Bitcoin Blockchain Service für 16 Jahre außer Kraft setzen, es sei denn, die Miner würden ihre Gebühren oder Kapazitäten erhöhen. Selbst wenn Gebühren auf $15 pro Transaktion angehoben werden würden, könnte der Angreifer das Netzwerk weiterhin für 16 Tage fluten.
 
-Under the rate limiting approach, someone who holds 1% of all coins with an intent to flood the network would achieve their goal for less than 30 seconds.
+Unter dem Ansatz der Bandbreitenbegrenzung, könnte jemand, der 1% aller Coins besitzt, mit der Absicht, das Netzwerk zu fluten, sein Ziel für weniger als 30 Sekunden erreichen.
 
-### Renting vs. Buying vs. Time Sharing
+### Mieten vs. Kaufen vs. Time-Sharing
 
-When someone owns a house they expect the right to use the house for free. If a group of people buy a house together then each can expect the right to use the house proportional to their percentage ownership in the house. A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
+Wenn jemand ein Haus besitzt, dann erwartet er, das Recht zu haben, das Haus kostenfrei zu nutzen. Wenn eine Gruppe von Leuten zusammen ein Haus kaufen, dann kann jeder von ihnen das Recht erwarten, das Haus proportional zum prozentualen Eigentum am Haus zu nutzen. Eine gebührenbasierte Blockchain ist wie das Mieten eines Hauses von seinen Eigentümern, wobei eine Bandbreitenbegrenzung so etwas wie ein Time-Sharing zwischen Eigentümern ist.
 
-If a house is owned by multiple people then those individuals must decide how they wish to timeshare the house. Someone who owns 50% of the house but only uses it one weekend per year might expect to be paid by the individuals who take their unused time. This is the mindset of a fee based system.
+Wenn ein Haus Eigentum von mehreren Personen ist, dann müssen diese Individuen entscheiden, wie sie das Haus timesharen wollen. Jemand, der 50% des Hauses besitzt, dieses aber nur ein Wochenende pro Jahr benutzt, erwartet von den Individuen bezahlt zu werden, die dessen ungenutzte Zeit verbrauchen. Das ist die Einstellung eines gebührenbasierten Systems.
 
-On the other hand, someone who owns 50% of the house is speculating that demand for the house will increase in the future and they will be able to sell their stake for more. Any owner who owns more of a house than they use becomes a real estate speculator. With this mindset rather than collecting rent, they collect appreciation.
+Auf der anderen Seite wird jemand, der 50% des Hauses besitzt, darauf spekulieren, dass die Nachfrage am Haus in der Zukunft steigt und er in der Lage sein wird, seinen Anteil höher zu verkaufen. Any owner who owns more of a house than they use becomes a real estate speculator. With this mindset rather than collecting rent, they collect appreciation.
 
 The value of a share is derived from how much time it can potentially grant its owner. Owning 1% of a house and getting it 1 weekend per year is the lowest value of a share. However, if half of the shareholders never use their weekend, then the value per timeshare rises to 2 weekends per year. If those inactive users instead opt to rent their unused time, then it falls back to 1 weekend per year. If those unused timeshares were sold to people who would use them then the value of a timeshare would fall by 50%. Unless the rent collected is greater than the fall in share value the timeshare owners are making an economic miscalculation.
 
