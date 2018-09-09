@@ -368,11 +368,11 @@ Mit dieser Begründung können wir annehmen, dass ein System, das auf Gebühren 
 
 Daraus können wir ableiten, dass eine Blockchain am besten funktioniert, wenn sie überhaupt keine Gebühren erhebt. Wenn eine Benutzungsgebühr als Alternative zur Bandbreitenbegrenzung erhoben wird, dann sollte sie das Äquivalent darstellen gegenüber dem Kauf von genügend Teilzeitnutzungsrechten und der Verpflichtung, diese lange genug zu halten, um das Recht zu erwerben, es einmal zu nutzen.
 
-Stated another way, a transaction fee should be equal to the minimum account balance necessary to transact once per week and it should be refunded at the end of the week. Assume the minimum account balance is $1 and allows someone to transact once per week. If someone with a $1 balance that wishes to perform 5 transactions at once they will have to increase their balance to $5 for a week either before or after their transactions.
+Mit anderen Worten: eine Transaktionsgebühr sollte dem Mindestguthaben des Accounts entsprechen, das erforderlich ist, um einmal pro Woche eine Transaktion auszuführen und sie sollte am Ende der Woche erstattet werden. Angenommen, das Mindestguthaben des Accounts ist $1 und es ermöglicht jemandem eine einzelne Transaktion pro Woche. Wenn jemand mit einem Guthaben von $1 nun 5 Transaktionen zur selben Zeit ausführen will, dann muss dieser sein Guthaben auf $5 für eine Woche erhöhen, entweder vor oder nach den Transaktionen.
 
-In theory a market could form where users can borrow the stake required. In practice it is more efficient for users to simply buy and sell the timeshares necessary to meet their desired usage rate. In other words, the cost of negotiating micro-loans is greater than the cost of maintaining a balance suitable for your maximum weekly usage.
+In der Theorie könnte sich ein Markt bilden, wo die sich User den erforderlichen Einsatz ausleihen können. In der Praxis ist es jedoch effizienter für User einfach die Teilzeitnutzungs-Anteile zu kaufen und zu verkaufen, die erforderlich sind, um die gewünschte Bandbreite zu erhalten. Mit anderen Worten: die Kosten der Aushandlung von Mikro-Darlehen sind größer als die Kosten der Aufrechterhaltung eines Guthabens, das für deine maximale wöchentliche Nutzung ausreichend ist.
 
-Decentralized rate limiting of transactions can enable new types of decentralized applications that were not viable when every use of the application required a micropayment. This new model gives application developers the ability to decide if and when to charge their users for transactions.
+Die dezentralisierte Bandbreitenbegrenzung der Transaktionen kann neue Arten von dezentralisierten Anwendungen ermöglichen, die nicht rentabel wären, wenn jede Nutzung der Anwendung eine Mikrozahlung erfordern würde. This new model gives application developers the ability to decide if and when to charge their users for transactions.
 
 # Performance and Scalability
 
