@@ -342,13 +342,13 @@ Eine Blockchain kann einen Mindestwert pro User durch einen einfachen Prozess du
 
 Die Aufrechterhaltung eines Mindestguthabens ist effektiv dasselbe, wie die User zum Bezahlen von Transaktionsgebühren zu bringen mithilfe der Zinsen, die sie auf ihr Guthaben erhalten haben könnten. Das Mindestguthaben ist einfach das Guthaben, das erforderlich ist, um ausreichend Zinsen zu erhalten, um damit eine Gebühr innerhalb einer relativ kurzen Zeitspanne zu bezahlen.
 
-Glücklicherweise kann das erforderliche Mindestguthaben niedriger als ein Dollar sein und das ist etwas, das User verstehen und wertschätzen können. The opportunity cost of lost interest doesn’t incur the cognitive cost of a micro-fee and is far more acceptable to users.
+Glücklicherweise kann das erforderliche Mindestguthaben niedriger als ein Dollar sein und das ist etwas, das User verstehen und wertschätzen können. Die Opportunitätskosten für verlorengegangene Zinsen verursachen nicht die kognitiven Kosten einer Mikrogebühr und sind weitaus akzeptabler für User.
 
-The STEEM used to pre-fund an account is Powered Up in the new account (i.e., converted to Steem Power). A portion of the SP used to fund a new account may be delegated from the creator of the account. When a user is delegated SP, they may use the SP for voting and bandwidth purposes as if it were their own, but the ownership of the SP remains with the user who delegated it. A user may remove the delegation at any time. After a cool-down period, the SP is returned to their account.
+Die STEEM, die genutzt werden, um einen Account vorab zu finanzieren wird im neuen Account als "Power Up" benutzt (z.B. durch Konvertierung in Steem Power). Ein Teil der SP, die genutzt wird, um einen neuen Account zu finanzieren, können vom Erschaffer auf den Account delegiert werden. Wenn einem User SP delegiert wird, dann kann er diese SP zum voten und für Bandbreitenzwecke benutzen, als wär sie seine eigene, aber das Eigentum an SP bleibt bei jenem User, der sie delegiert hat. Ein User kann seine Delegation zu jederzeit widerrufen. Nach einem "Cooldown" wird die SP an ihre Accounts zurückübertragen.
 
-### Effectiveness Relative to Fees
+### Wirksamkeit im Verhältnis zu Gebühren
 
-To compare the effectiveness of rate limiting to fees we must consider how the two systems react to intentional network flooding by an attacker. Under Bitcoin an attacker with $10,000 dollars could disrupt service for an entire day by filling every single block. The same attacker would be unable to disrupt service for even a single block under the dynamic fractional reserve rate limiting approach.
+Um die Effektivität der Bandbreitenbegrenzung im Verhältnis zu Gebühren zu vergleichen, müssen wir bedenken, wie die zwei Systeme auf absichtliche Netzwerkflutung durch einen Angreifer reagieren. Under Bitcoin an attacker with $10,000 dollars could disrupt service for an entire day by filling every single block. The same attacker would be unable to disrupt service for even a single block under the dynamic fractional reserve rate limiting approach.
 
 If we go to a more extreme case and assume the attacker holds 1% of all coins then we presume an attacker with $60 million dollars. Such an attacker could deny the Bitcoin blockchain service for 16 years unless the miners increased fees or capacity. Even if fees were raised to $15 per transaction, the attacker could still keep the network flooded for 16 days.
 
