@@ -372,7 +372,7 @@ Anders gezegd moet een transactievergoeding gelijk zijn aan het minimum accounts
 
 In theorie zou er een markt kunnen ontstaan waar gebruikers het benodigde aandeel kunnen lenen. In de praktijk is het efficiënter voor gebruikers om simpelweg de timeshares te kopen en verkopen die nodig zijn om aan hun gewenste gebruikspercentage te voldoen. Met andere woorden, de kosten voor het onderhandelen over microleningen zijn hoger dan de kosten voor het handhaven van een saldo dat geschikt is voor je maximale wekelijkse gebruik.
 
-Gedecentralizeerde tariefbeperking van transacties kan nieuwe soorten gedecentraliseerde toepassingen mogelijk maken die niet levensvatbaar waren wanneer elk gebruik van de toepassing een microbetaling vereiste. Dit nieuwe model geeft applicatie-ontwikkelaars de mogelijkheid om te beslissen of en wanneer ze hun gebruikers kosten in rekening brengen voor transacties.
+Gedecentralizeerde tariefbeperking van transacties kan nieuwe soorten gedecentraliseerde toepassingen mogelijk maken die niet levensvatbaar waren wanneer elk gebruik van de toepassing een microbetaling zou vereisen. Dit nieuwe model geeft applicatie-ontwikkelaars de mogelijkheid om te beslissen of en wanneer ze hun gebruikers kosten in rekening brengen voor transacties.
 
 # Prestaties en schaalbaarheid
 
@@ -380,7 +380,7 @@ Het Steem-netwerk is gebouwd op Graphene, dezelfde technologie die BitShares aan
 
 ## Reddit-schaal
 
-Steem is in staat om een grotere gebruikersbasis te verwerken dan Reddit. In 2015 genereerden de 8,7 miljoen gebruikers van Reddit gemiddeld 23 reacties per seconde[^12], met een gemiddelde van 83 reacties per jaar per gebruiker. Er waren 73 miljoen artikelen, gemiddeld 2 nieuwe artikelen per seconde. Er waren ongeveer 7 miljard upvotes, wat een gemiddelde van 220 stemmen per seconde opleverde. Alles bij elkaar genomen, als Reddit op een blockchain zou draaien zou het gemiddeld 250 transacties per seconde vereisen.
+Steem is in staat om een grotere gebruikersbasis te verwerken dan Reddit. In 2015 genereerden de 8,7 miljoen gebruikers van Reddit gemiddeld 23 reacties per seconde[^12], met een gemiddelde van 83 reacties per jaar per gebruiker. Er waren 73 miljoen topniveau artikelen, gemiddeld 2 nieuwe artikelen per seconde. Er waren ongeveer 7 miljard upvotes, wat een gemiddelde van 220 stemmen per seconde opleverde. Alles bij elkaar genomen, als Reddit op een blockchain zou draaien zou het gemiddeld 250 transacties per seconde vereisen.
 
 Om deze toonaangevende prestatie te bereiken, heeft Steem lessen geleerd van de LMAX Exchange[^13], die in staat is om 6 miljoen transacties per seconde te verwerken. Tot deze lessen behoren de volgende hoofdpunten:
 
