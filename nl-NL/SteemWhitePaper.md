@@ -368,29 +368,29 @@ Op basis van deze redenering kunnen we ervan uitgaan dat een systeem op basis va
 
 We kunnen hieruit concluderen dat een blockchain het beste gediend is door helemaal geen gebruik te maken van gebruikskosten. Als er een gebruiksvergoeding in rekening zou worden gebracht als alternatief voor tariefbeperking, dan zou het gelijk moeten staan aan het kopen van voldoende timesharing en zich eraan te committeren deze lang genoeg vast te houden om het recht te krijgen het eenmaal te gebruiken.
 
-Anders gezegd moet een transactievergoeding gelijk zijn aan het minimum accountsaldo dat nodig is om een keer per week een transactie te verrichten en moet deze aan het einde van de week worden terugbetaald. Stel dat het minimum rekeningsaldo $1 is en dat iemand één keer per week een transactie kan verrichten. If someone with a $1 balance that wishes to perform 5 transactions at once they will have to increase their balance to $5 for a week either before or after their transactions.
+Anders gezegd moet een transactievergoeding gelijk zijn aan het minimum accountsaldo dat nodig is om een keer per week een transactie te verrichten en moet deze aan het einde van de week worden terugbetaald. Stel dat het minimum rekeningsaldo $1 is en dat iemand één keer per week een transactie kan verrichten. Als iemand met een saldo van $1 in een keer 5 transacties wil uitvoeren, moet hij zijn saldo voor of na zijn transactie een week lang verhogen naar $5.
 
-In theory a market could form where users can borrow the stake required. In practice it is more efficient for users to simply buy and sell the timeshares necessary to meet their desired usage rate. In other words, the cost of negotiating micro-loans is greater than the cost of maintaining a balance suitable for your maximum weekly usage.
+In theorie zou er een markt kunnen ontstaan waar gebruikers het benodigde aandeel kunnen lenen. In de praktijk is het efficiënter voor gebruikers om simpelweg de timeshares te kopen en verkopen die nodig zijn om aan hun gewenste gebruikspercentage te voldoen. Met andere woorden, de kosten voor het onderhandelen over microleningen zijn hoger dan de kosten voor het handhaven van een saldo dat geschikt is voor je maximale wekelijkse gebruik.
 
-Decentralized rate limiting of transactions can enable new types of decentralized applications that were not viable when every use of the application required a micropayment. This new model gives application developers the ability to decide if and when to charge their users for transactions.
+Gedecentralizeerde tariefbeperking van transacties kan nieuwe soorten gedecentraliseerde toepassingen mogelijk maken die niet levensvatbaar waren wanneer elk gebruik van de toepassing een microbetaling vereiste. Dit nieuwe model geeft applicatie-ontwikkelaars de mogelijkheid om te beslissen of en wanneer ze hun gebruikers kosten in rekening brengen voor transacties.
 
-# Performance and Scalability
+# Prestaties en schaalbaarheid
 
-The Steem network is built upon Graphene, the same technology that powers BitShares. Graphene has been publicly demonstrated sustaining over 1000 transactions per second on a distributed test network. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
+Het Steem-netwerk is gebouwd op Graphene, dezelfde technologie die BitShares aandrijft. Graphene heeft publiekelijk aangetoond dat het meer dan 1000 transacties per seconde ondersteunt op een gedistribueerd testnetwerk. Graphene kan eenvoudig worden opgeschaald naar 10.000 of meer transacties per seconde met relatief eenvoudige verbeteringen in servercapaciteit en communicatieprotocollen.
 
-## Reddit Scale
+## Reddit-schaal
 
-Steem is capable of handling a larger userbase than Reddit. In 2015 Reddit’s 8.7 million users generated an average of 23 comments per second[^12], with an average of 83 comments per year per user. There were 73 million top-level posts, for an average of 2 new posts per second. There were about 7 billion up votes creating an average voting rate of 220 votes per second. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
+Steem is in staat om een grotere gebruikersbasis te verwerken dan Reddit. In 2015 genereerden de 8,7 miljoen gebruikers van Reddit gemiddeld 23 reacties per seconde[^12], met een gemiddelde van 83 reacties per jaar per gebruiker. Er waren 73 miljoen artikelen, gemiddeld 2 nieuwe artikelen per seconde. Er waren ongeveer 7 miljard upvotes, wat een gemiddelde van 220 stemmen per seconde opleverde. Alles bij elkaar genomen, als Reddit op een blockchain zou draaien zou het gemiddeld 250 transacties per seconde vereisen.
 
-To achieve this industry-leading performance, Steem has borrowed lessons learned from the LMAX Exchange[^13], which is able to process 6 million transactions per second. Among these lessons are the following key points:
+Om deze toonaangevende prestatie te bereiken, heeft Steem lessen geleerd van de LMAX Exchange[^13], die in staat is om 6 miljoen transacties per seconde te verwerken. Tot deze lessen behoren de volgende hoofdpunten:
 
-1. Keep everything in memory.
-2. Keep the core business logic in a single thread.
-3. Keep cryptographic operations (hashes and signatures) out of the core business logic.
-4. Divide validation into state-dependent and state-independent checks.
-5. Use an object oriented data model.
+1. Bewaar alles in het geheugen.
+2. Houd de kern-bedrijfslogica in een enkele draad.
+3. Houd cryptografische bewerkingen (hashes en handtekeningen) buiten de kern-bedrijfslogica.
+4. Verdeel validatie in staatsafhankelijke en staatsonafhankelijke controles.
+5. Gebruik een object-georiënteerd datamodel.
 
-By following these simple rules, Steem is able to process 10,000 transactions per second without any significant effort devoted to optimization.
+Door het volgen van deze eenvoudige regels is Steem in staat om 10.000 transacties per seconde te verwerken zonder enige significante inspanning toe te wijden aan optimalisatie.
 
 Keeping everything in memory is increasingly viable given the recent introduction of Optane™ technology from Intel[^14]. It should be possible for commodity hardware to handle all of the business logic associated with Steem in a single thread with all posts kept in memory for rapid indexing. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optane™ technology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
 
