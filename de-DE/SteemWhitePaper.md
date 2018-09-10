@@ -382,15 +382,15 @@ Das Steemnetzwerk baut auf Graphene auf, der gleichen Technologie auf der BitSha
 
 Steem ist in der Lage mit einer größeren Datenbasis als Reddit umzugehen. In 2015 haben 8,7 Millionen Redditbenutzer durchschnittlich 23 Kommentare pro Sekunde[^12] generiert, bei einem Durchschnitt von 83 Kommentaren pro User und Jahr. Es gab 73 Millionen Top-Level-Posts, bei einem Durchschnitt von 2 neuen Beiträgen pro Sekunde. Es gab etwa 7 Milliarden Upvotes, was einem Durchschnitt von 220 Stimmabgaben pro Sekunde entspricht. Alles in allem, wenn Reddit auf einer Blockchain betrieben würde, müssten durchschnittlich 250 Transaktionen pro Sekunde erreicht werden.
 
-To achieve this industry-leading performance, Steem has borrowed lessons learned from the LMAX Exchange[^13], which is able to process 6 million transactions per second. Among these lessons are the following key points:
+Um diese industrieführende Leistung zu erreichen, hat Steem ein paar Lehren aus dem LMAX Exchange [^13] gezogen. Diese ist nämlich fähig, 6 Millionen Transaktionen pro Sekunde zu verarbeiten. Unter diesen Lektionen sind die folgenden wichtigen Punkte:
 
-1. Keep everything in memory.
-2. Keep the core business logic in a single thread.
-3. Keep cryptographic operations (hashes and signatures) out of the core business logic.
-4. Divide validation into state-dependent and state-independent checks.
-5. Use an object oriented data model.
+1. Behalte alles im Speicher.
+2. Halte die Kernnbusinesslogik in einem einzigen Thread.
+3. Halte die kryptografischen Operationen (Hashes und Signaturen) aus der Kernbusinesslogik heraus.
+4. Teile die Validierung in statusabhängige und statusunabhängige Checks.
+5. Verwende ein Objektorientiertes Datenmodell.
 
-By following these simple rules, Steem is able to process 10,000 transactions per second without any significant effort devoted to optimization.
+Durch das Befolgen dieser einfachen Regeln ist Steem in der Lage, 10.000 Transaktionen pro Sekunde, ohne signifikanten Aufwand für Optimierungen, zu verarbeiten.
 
 Keeping everything in memory is increasingly viable given the recent introduction of Optane™ technology from Intel[^14]. It should be possible for commodity hardware to handle all of the business logic associated with Steem in a single thread with all posts kept in memory for rapid indexing. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optane™ technology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
 
