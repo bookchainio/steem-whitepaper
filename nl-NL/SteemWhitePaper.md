@@ -346,11 +346,11 @@ Gelukkig kan het minimaal vereiste saldo zo laag zijn als een dollar en dit is i
 
 De STEEM die gebruikt wordt om een rekening voor te financieren, wordt in de nieuwe rekening Powered Up (d.w.z. omgezet in Steem Power). Een deel van de SP die wordt gebruikt om een nieuw account te financieren zou kunnen worden gedelegeerd door de maker van het account. Wanneer aan een gebruiker SP wordt gedelegeerd, mag hij/zij de SP voor stem- en bandbreedte-doeleinden gebruiken alsof het van zichzelf was, maar de eigenaar van de SP blijft de gebruiker die het heeft gedelegeerd. Een gebruiker kan de delegatie te allen tijde verwijderen. Na een afkoelingsperiode wordt de SP teruggestuurd naar zijn/haar account.
 
-### Effectiveness Relative to Fees
+### Doeltreffendheid ten opzichte van vergoedingen
 
-To compare the effectiveness of rate limiting to fees we must consider how the two systems react to intentional network flooding by an attacker. Under Bitcoin an attacker with $10,000 dollars could disrupt service for an entire day by filling every single block. The same attacker would be unable to disrupt service for even a single block under the dynamic fractional reserve rate limiting approach.
+Om de effectiviteit van tariefbeperking ten opzichte van transactiekosten te vergelijken moeten we afwegen hoe de twee systemen reageren op opzettelijke netwerkoverbelasting door een aanvaller. Onder Bitcoin kan een aanvaller met $10.000 dollar de hele dag de dienst verstoren door elk blok te vullen. Dezelfde aanvaller zou niet in staat zijn om de dienst te verstoren, zelfs niet voor één enkel blok, onder de dynamische fractionele reserve tariefbeperkende aanpak.
 
-If we go to a more extreme case and assume the attacker holds 1% of all coins then we presume an attacker with $60 million dollars. Such an attacker could deny the Bitcoin blockchain service for 16 years unless the miners increased fees or capacity. Even if fees were raised to $15 per transaction, the attacker could still keep the network flooded for 16 days.
+Als we een extremer geval bekijken en aannemen dat de aanvaller 1% van alle munten in zijn bezit heeft, dan gaan we uit van een aanvaller met 60 miljoen dollar. Een dergelijke aanvaller zou de Bitcoin blockchain 16 jaar lang de dienst kunnen weigeren, tenzij de miners hun vergoedingen of capaciteit verhoogden. Even if fees were raised to $15 per transaction, the attacker could still keep the network flooded for 16 days.
 
 Under the rate limiting approach, someone who holds 1% of all coins with an intent to flood the network would achieve their goal for less than 30 seconds.
 
