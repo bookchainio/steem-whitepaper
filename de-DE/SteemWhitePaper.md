@@ -376,7 +376,7 @@ Die dezentralisierte Bandbreitenbegrenzung der Transaktionen kann neue Arten von
 
 # Leistung und Skalierbarkeit
 
-The Steem network is built upon Graphene, the same technology that powers BitShares. Graphene has been publicly demonstrated sustaining over 1000 transactions per second on a distributed test network. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
+Das Steemnetzwerk baut auf Graphene auf, der gleichen Technologie auf der BitShares läuft. Bei einer öffentlichen Vorführung wurde demonstriert, dass über 1000 Transaktionen pro Sekunde in einem verteilten Netz möglich sind. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
 
 ## Reddit Scale
 
