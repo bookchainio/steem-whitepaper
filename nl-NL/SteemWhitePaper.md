@@ -385,12 +385,12 @@ Steem is in staat om een grotere gebruikersbasis te verwerken dan Reddit. In 201
 Om deze toonaangevende prestatie te bereiken, heeft Steem lessen geleerd van de LMAX Exchange[^13], die in staat is om 6 miljoen transacties per seconde te verwerken. Tot deze lessen behoren de volgende hoofdpunten:
 
 1. Bewaar alles in het geheugen.
-2. Houd de kern-bedrijfslogica in een enkele draad.
+2. Houd de kern-bedrijfslogica in één enkele draad.
 3. Houd cryptografische bewerkingen (hashes en handtekeningen) buiten de kern-bedrijfslogica.
 4. Verdeel validatie in staatsafhankelijke en staatsonafhankelijke controles.
 5. Gebruik een object-georiënteerd datamodel.
 
-Door het volgen van deze eenvoudige regels is Steem in staat om 10.000 transacties per seconde te verwerken zonder enige significante inspanning toe te wijden aan optimalisatie.
+Door het volgen van deze eenvoudige regels is Steem in staat om 10.000 transacties per seconde te verwerken zonder enige aanmerkelijke inspanning toe te wijden aan optimalisatie.
 
 Keeping everything in memory is increasingly viable given the recent introduction of Optane™ technology from Intel[^14]. It should be possible for commodity hardware to handle all of the business logic associated with Steem in a single thread with all posts kept in memory for rapid indexing. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optane™ technology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
 
