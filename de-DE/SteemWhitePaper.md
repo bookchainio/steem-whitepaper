@@ -374,7 +374,7 @@ Theoretisch könnte sich ein Markt bilden, in dem die Nutzer den erforderlichen 
 
 Die dezentralisierte Bandbreitenbegrenzung der Transaktionen kann neue Arten von dezentralisierten Anwendungen ermöglichen, die nicht rentabel wären, wenn jede Nutzung der Anwendung eine Mikrozahlung erfordern würde. Dieses neue Modell gibt Anwendungsentwicklern die Fähigkeit zu entscheiden, ob und wann sie ihren Usern Transaktionen berechnen.
 
-# Performance and Scalability
+# Leistung und Skalierbarkeit
 
 The Steem network is built upon Graphene, the same technology that powers BitShares. Graphene has been publicly demonstrated sustaining over 1000 transactions per second on a distributed test network. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
 
