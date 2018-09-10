@@ -376,11 +376,11 @@ Die dezentralisierte Bandbreitenbegrenzung der Transaktionen kann neue Arten von
 
 # Leistung und Skalierbarkeit
 
-Das Steemnetzwerk baut auf Graphene auf, der gleichen Technologie auf der BitShares läuft. Bei einer öffentlichen Vorführung wurde demonstriert, dass über 1000 Transaktionen pro Sekunde in einem verteilten Netz möglich sind. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
+Das Steemnetzwerk baut auf Graphene auf, der gleichen Technologie auf der BitShares läuft. Bei einer öffentlichen Vorführung wurde demonstriert, dass über 1000 Transaktionen pro Sekunde in einem verteilten Netz möglich sind. Graphen kann leicht auf 10.000 oder mehr Transaktionen pro Sekunde skaliert werden, durch relativ unkomplizierte Erweiterungen an der Serverkapazität und den Kommunikationsprotokollen.
 
-## Reddit Scale
+## Die Skalierbarkeit von Reddit
 
-Steem is capable of handling a larger userbase than Reddit. In 2015 Reddit’s 8.7 million users generated an average of 23 comments per second[^12], with an average of 83 comments per year per user. There were 73 million top-level posts, for an average of 2 new posts per second. There were about 7 billion up votes creating an average voting rate of 220 votes per second. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
+Steem ist in der Lage mit einer größeren Datenbasis als Reddit umzugehen. In 2015 Reddit’s 8.7 million users generated an average of 23 comments per second[^12], with an average of 83 comments per year per user. There were 73 million top-level posts, for an average of 2 new posts per second. There were about 7 billion up votes creating an average voting rate of 220 votes per second. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
 
 To achieve this industry-leading performance, Steem has borrowed lessons learned from the LMAX Exchange[^13], which is able to process 6 million transactions per second. Among these lessons are the following key points:
 
