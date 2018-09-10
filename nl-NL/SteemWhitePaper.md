@@ -350,7 +350,7 @@ De STEEM die gebruikt wordt om een rekening voor te financieren, wordt in de nie
 
 Om de effectiviteit van tariefbeperking ten opzichte van transactiekosten te vergelijken moeten we afwegen hoe de twee systemen reageren op opzettelijke netwerkoverbelasting door een aanvaller. Onder Bitcoin kan een aanvaller met $10.000 dollar de hele dag de dienst verstoren door elk blok te vullen. Dezelfde aanvaller zou niet in staat zijn om de dienst te verstoren, zelfs niet voor één enkel blok, onder de dynamische fractionele reserve tariefbeperkende aanpak.
 
-Als we een extremer geval bekijken en aannemen dat de aanvaller 1% van alle munten in zijn bezit heeft, dan gaan we uit van een aanvaller met 60 miljoen dollar. Een dergelijke aanvaller zou de Bitcoin blockchain 16 jaar lang de dienst kunnen weigeren, tenzij de miners hun vergoedingen of capaciteit verhoogden. Zelfs als de kosten werden verhoogd tot $15 per transactie, kon de aanvaller het netwerk nog steeds 16 dagen lang overspoeld houden.
+Als we een extremer geval bekijken en aannemen dat de aanvaller 1% van alle munten in zijn bezit heeft, dan gaan we uit van een aanvaller met 60 miljoen dollar. Een dergelijke aanvaller zou de Bitcoin blockchain 16 jaar lang de dienst kunnen weigeren, tenzij de miners hun vergoedingen of capaciteit zouden verhogen. Zelfs als de kosten zouden worden verhoogd tot $15 per transactie, kon de aanvaller het netwerk nog steeds 16 dagen lang overspoeld houden.
 
 Bij de tariefbeperkende aanpak zou iemand die 1% van alle munten in zijn bezit heeft met de bedoeling om het netwerk te overbelasten zijn doel voor minder dan 30 seconden bereiken.
 
