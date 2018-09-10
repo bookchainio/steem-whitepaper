@@ -356,7 +356,7 @@ Bij de tariefbeperkende aanpak zou iemand die 1% van alle munten in zijn bezit h
 
 ### Huren vs. Kopen vs. Time Sharing
 
-Wanneer iemand een huis bezit verwacht hij/zij het recht te hebben om het huis gratis te gebruiken. Als een groep mensen samen een huis koopt dan kan iedereen verwachten dat het recht om het huis te gebruiken in verhouding staat tot het percentage van hun eigenaarschap in het huis. Een blockchain op basis van een vergoeding is als het huren van het huis van de eigenaren, terwijl een tariefbeperking is als timesharing tussen eigenaren.
+Wanneer iemand een huis bezit verwacht hij/zij het recht te hebben om het huis gratis te gebruiken. Als een groep mensen samen een huis koopt, kan iedereen verwachten dat het recht om het huis te gebruiken in verhouding staat tot het percentage van hun eigenaarschap in het huis. Een blockchain op basis van een vergoeding is als het huren van het huis van de eigenaren, terwijl een tariefbeperking is als timesharing tussen eigenaren.
 
 Als een huis eigendom is van meerdere personen, dan moeten die personen zelf beslissen hoe zij het huis willen timesharen. Iemand die 50% van het huis in bezit heeft, maar er slechts één weekend per jaar gebruik van maakt, kan verwachten dat hij/zij betaald wordt door de personen die zijn/haar ongebruikte tijd afneemt. Dit is de mentaliteit van een op vergoedingen gebaseerd systeem.
 
