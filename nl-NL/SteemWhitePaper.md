@@ -394,9 +394,9 @@ Door het volgen van deze eenvoudige regels is Steem in staat om 10.000 transacti
 
 Alles in het geheugen houden wordt steeds meer rendabel gezien Intel's recente introductie van Optane™-technologie[^14]. Het moet mogelijk zijn voor commodity-hardware om alle zakelijke logica van Steem in één draad te verwerken waarbij alle berichten in het geheugen gehouden worden voor een snelle indexering. Zelfs Google houdt hun index van het hele internet bij in RAM. Het gebruik van blockchain technologie maakt het triviaal om de database te repliceren naar vele machines om gegevensverlies te voorkomen. Naarmate Optane™-technologie overneemt, zal RAM nog sneller worden, terwijl de stabiliteit toeneemt. Met andere woorden, Steem is ontworpen voor de architecturen van de toekomst en is ontworpen om te schalen.
 
-# Toewijzing & Toevoer
+# Toewijzing & Levering
 
-## Aanvankelijke Toewijzing & Toevoer
+## Aanvankelijke Toewijzing & Levering
 
 Het Steem-netwerk begon met een valuta-voorraad van 0 en heeft STEEM via proof of work aan miners toegewezen tegen een tarief van ongeveer 40 STEEM per minuut, waarbij 40 STEEM per minuut extra werd gecreëerd om de inhoud en curation reward pools te vullen (een totaal van 80 STEEM per minuut). Toen begon het netwerk gebruikers te belonen die naar SP converteerden. Op dit punt groeide STEEM met ongeveer 800 STEEM per minuut als gevolg van de gecombineerde effecten van de verschillende hieronder samengevatte Contribution Rewards:
 
@@ -429,9 +429,9 @@ Vanaf de 16e hard fork van het netwerk in december 2016 begon Steem met het make
 
 Er wordt vaak gezegd dat een munt met een inflatie-model niet duurzaam is, maar we weten uit talloze voorbeelden uit de praktijk dat de hoeveelheid geld geen directe en onmiddellijke invloed heeft op de waarde ervan, hoewel het zeker een rol speelt.
 
-Vanaf augustus 2008 tot en met januari 2009 groeide de Amerikaanse geldhoeveelheid[^15] van $871 miljard naar $1737 miljard, een percentage van meer dan 100% per jaar en vervolgens bleef het groeien de 6 opvolgende jaren groeien met ongeveer 20% per jaar. Alles bij elkaar is de geldhoeveelheid in de V.S. 4,59x gegroeid in minder dan 7 jaar. In diezelfde tijd is de waarde van de dollar ten opzichte van goederen en diensten minder dan 10% gedaald volgens de prijsindex van de overheid[^16]. Dit praktijkvoorbeeld toont aan dat het aanbod slechts één onderdeel is van de prijs.
+Vanaf augustus 2008 tot en met januari 2009 groeide de Amerikaanse geldhoeveelheid[^15] van $871 miljard naar $1737 miljard, een percentage van meer dan 100% per jaar en vervolgens bleef het de 6 opvolgende jaren groeien met ongeveer 20% per jaar. Alles bij elkaar is de geldhoeveelheid in de V.S. 4,59x gegroeid in minder dan 7 jaar. In diezelfde tijd is de waarde van de dollar ten opzichte van goederen en diensten minder dan 10% gedaald volgens de prijsindex van de overheid[^16]. Dit praktijkvoorbeeld toont aan dat het aanbod slechts één onderdeel is van de prijs.
 
-Gedurende de eerste 2 jaar van het bestaan van Bitcoin heeft het netwerk een jaarlijkse inflatie van meer dan 100% aangehouden[^17]. De eerste 5 jaar was het meer dan 30% en de de eerste 8 jaar meer dan 10%. Alles bij elkaar bedragen de totale "uitgaven" die Steem doet om inhoud, curatie, en blokproductie te financieren minder dan 10% APR.
+Gedurende de eerste 2 jaar van het bestaan van Bitcoin heeft het netwerk een jaarlijkse inflatie van meer dan 100% aangehouden[^17]. De eerste 5 jaar was het meer dan 30% en de de eerste 8 jaar meer dan 10%. Alles bij elkaar bedragen de totale "uitgaven" die Steem doet om inhoud, curatie en blokproductie te financieren minder dan 10% APR.
 
 De prijs van een digitaal product, zoals STEEM, wordt bepaald door zowel vraag als aanbod. Wanneer een langetermijnhouder besluit de markt te verlaten, zal het aanbod van STEEM toenemen en de prijs omlaag duwen. Deze neerwaartse druk wordt tegengegaan wanneer een nieuwe langetermijnhouder besluit de STEEM op te kopen en weer om te zetten in SP. Extra vraag en aanbod zou kunnen worden toegevoegd doordat marktspeculanten op basis van hun voorspellingen van de toekomstige marktprijs liquide STEEM kopen en verkopen.
 
