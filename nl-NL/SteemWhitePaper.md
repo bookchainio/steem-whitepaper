@@ -396,7 +396,7 @@ Alles in het geheugen houden wordt steeds rendabeler gezien de recente introduct
 
 # Toewijzing & Levering
 
-## Initial Allocation & Supply
+## Aanvankelijke Toewijzing & Levering
 
 Het Steem-netwerk begon met een valuta-voorraad van 0 en heeft STEEM via proof of work aan miners toegewezen tegen een tarief van ongeveer 40 STEEM per minuut, waarbij 40 STEEM per minuut extra werd gecreëerd om de inhoud en curation reward pools te vullen (een totaal van 80 STEEM per minuut). Toen begon het netwerk gebruikers te belonen die naar SP converteerden. Op dit punt groeide STEEM met ongeveer 800 STEEM per minuut als gevolg van de gecombineerde effecten van de verschillende hieronder samengevatte Contribution Rewards:
 
@@ -405,9 +405,9 @@ Contribution Rewards:
 - Curation rewards: 1 STEEM per blok of 3,875% per jaar, afhankelijk van wat groter is
 - Content Creation rewards: 1 STEEM per blok of 3,875% per jaar, afhankelijk van wat groter is
 - Block production rewards: 1 STEEM per blok of 0,750% per jaar, afhankelijk van wat groter is
-- POW inclusion rewards before block 864,000: 1 STEEM per block (awarded as 21 STEEM per round)
-- POW inclusion rewards after block 864,000: 0.0476 STEEM per block (awarded as 1 STEEM per round) or 0.750% per year, whichever is greater.
-- Liquidity rewards: 1 STEEM per block (awarded as 1200 STEEM per hour) or 0.750% per year, whichever is greater
+- POW inclusion rewards vóór blok 864.000: 1 STEEM per blok (toegekend als 21 STEEM per ronde)
+- POW inclusion rewards ná blok 864.000: 0,0476 STEEM per blok (toegekend als 1 STEEM per ronde) of 0,750% per jaar, afhankelijk van wat groter is.
+- Liquidity rewards: 1 STEEM per blok (toegekend als 1200 STEEM per uur) of 0,750% per jaar, afhankelijk van wat groter is
 
 ### Power Rewards:
 
