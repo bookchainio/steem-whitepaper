@@ -433,11 +433,11 @@ Vanaf augustus 2008 tot en met januari 2009 groeide de Amerikaanse geldhoeveelhe
 
 Gedurende de eerste 2 jaar van het bestaan van Bitcoin heeft het netwerk een jaarlijkse inflatie van meer dan 100% aangehouden[^17]. De eerste 5 jaar was het meer dan 30% en de de eerste 8 jaar meer dan 10%. Alles bij elkaar bedragen de totale "uitgaven" die Steem doet om inhoud, curatie, en blokproductie te financieren minder dan 10% APR.
 
-De prijs van een digitaal product, zoals STEEM, wordt bepaald door zowel vraag als aanbod. Wanneer een langetermijnhouder besluit de markt te verlaten, zal het aanbod van STEEM toenemen en de prijs omlaag duwen. This downward pressure is countered when a new long-term holder decides to buy up the STEEM and convert it back into SP. Additional supply and demand may be be added due to market speculators buying and selling liquid STEEM based on their predictions of the future market price.
+De prijs van een digitaal product, zoals STEEM, wordt bepaald door zowel vraag als aanbod. Wanneer een langetermijnhouder besluit de markt te verlaten, zal het aanbod van STEEM toenemen en de prijs omlaag duwen. Deze neerwaartse druk wordt tegengegaan wanneer een nieuwe langetermijnhouder besluit de STEEM op te kopen en weer om te zetten in SP. Extra vraag en aanbod zou kunnen worden toegevoegd doordat marktspeculanten op basis van hun voorspellingen van de toekomstige marktprijs liquide STEEM kopen en verkopen.
 
-# The Power of Steem
+# De kracht van Steem
 
-Steem recognizes that the value of all user contributions (posts and votes) is greater than the sum of the parts. A single comment is worth next to nothing, but millions of curated posts is worth many millions (or possibly even billions) of dollars. A single vote provides little curation value, but billions of votes is very effective curation. Content without curation is of limited value. Given all the content of the Internet minus the links between it, Google would struggle to produce useful search results. It is the links between information that give it significant value.
+Steem erkent dat de waarde van alle gebruikersbijdragen (berichten en stemmen) groter is dan de som der delen. Een enkele opmerking is bijna niets waard, maar miljoenen gecureerde artikelen is vele miljoenen (of mogelijk zelfs miljarden) dollars waard. Een enkele stem levert weinig curatiewaarde op, maar miljarden stemmen is zeer effectieve curatie. Inhoud zonder curatie is van beperkte waarde. Given all the content of the Internet minus the links between it, Google would struggle to produce useful search results. It is the links between information that give it significant value.
 
 Because everyone benefits, everyone should pay. In other words, no individual user should be expected to pay for anything, but instead should be paid for everything they do that brings value to Steem. All we need to do is ascertain which user contributions bring a social network value and which ones don’t.
 
