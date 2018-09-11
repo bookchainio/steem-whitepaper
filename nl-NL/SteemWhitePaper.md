@@ -417,23 +417,23 @@ Contribution Rewards:
 
 - SBD rewards: Een percentage van de SBD-waarde wordt gecreëerd tegen een door de getuigen vastgesteld APR en als SBD aan de SBD-houders uitbetaald
 
-The overall supply picture is complicated by the effect of SBD operations, which may result in large-scale creation or destruction of STEEM through feed rate following and SBD rewards, as discussed in the SBD section. Other, smaller-scale complicating effects also exist, including unclaimed incentives (e.g. block rewards for missed blocks), and abandoned accounts.
+The overall supply picture is complicated by the effect of SBD operations, which may result in large-scale creation or destruction of STEEM through feed rate following and SBD rewards, as discussed in the SBD section. Er bestaan ook andere, kleinschaliger complicerende effecten, waaronder niet-opgeëiste stimulansen (bv. block rewards voor gemiste blokken) en verlaten accounts.
 
-## Current Allocation & Supply
+## Huidige Toewijzing & Levering
 
-Starting with the network's 16th hard fork in December 2016, Steem began creating new tokens at a yearly inflation rate of 9.5%. The inflation rate decreases at a rate of 0.01% every 250,000 blocks, or about 0.5% per year. The inflation will continue decreasing at this pace until the overall inflation rate reaches 0.95%. This will take about 20.5 years from the time hard fork 16 went into effect.
+Vanaf de 16e hard fork van het netwerk in december 2016 begon Steem met het maken van nieuwe munten met een jaarlijkse inflatie van 9,5%. De inflatie daalt met 0,01% per 250.000 blokken, of ongeveer 0,5% per jaar. De inflatie zal in dit tempo blijven dalen tot de totale inflatie 0,95% bedraagt. Dit zal ongeveer 20,5 jaar duren vanaf het moment dat hard fork 16 in werking trad.
 
-75% of the new tokens that are generated go to fund the reward pool, which is split between authors and curators. 15% of the new tokens are awarded to holders of SP. The remaining 10% pays for the witnesses to power the blockchain.
+75% van de gegenereerde nieuwe tokens gaat naar de reward pool, die wordt verdeeld tussen auteurs en curatoren. 15% van de nieuwe tokens worden toegekend aan houders van SP. De overige 10% wordt betaald aan de getuigen om de blockchain aan te drijven.
 
 ### Impact of Token Creation Rate
 
-It is often said that a coin with an inflationary model is not sustainable, but we know from countless real-world examples that the quantity of money does not have a direct and immediate impact on its value, though it certainly plays a role.
+Er wordt vaak gezegd dat een munt met een inflatie-model niet duurzaam is, maar we weten uit talloze voorbeelden uit de praktijk dat de hoeveelheid geld geen directe en onmiddellijke invloed heeft op de waarde ervan, hoewel het zeker een rol speelt.
 
-From August 2008 through January 2009 the U.S. money supply[^15] grew from $871B to $1,737B, a rate of over 100% per year and then continued to grow at about 20% per year for the next 6 years. All told the money supply in the U.S. has grown by 4.59x over less than 7 years. During that same time, the value of the dollar relative to goods and services has fallen less than 10% according to the government's price index[^16]. This real-world example demonstrates that supply is only one component of price.
+Vanaf augustus 2008 tot en met januari 2009 groeide de Amerikaanse geldhoeveelheid[^15] van $871 miljard naar $1737 miljard, een percentage van meer dan 100% per jaar en vervolgens bleef het groeien de 6 opvolgende jaren groeien met ongeveer 20% per jaar. Alles bij elkaar is de geldhoeveelheid in de V.S. 4,59x gegroeid in minder dan 7 jaar. In diezelfde tijd is de waarde van de dollar ten opzichte van goederen en diensten minder dan 10% gedaald volgens de prijsindex van de overheid[^16]. Dit praktijkvoorbeeld toont aan dat het aanbod slechts één onderdeel is van de prijs.
 
-For the first 2 years of Bitcoin’s life the network sustained an annual inflation rate[^17] of over 100%. For the first 5 years it was over 30%, and for the first 8 years it was over 10%. All told the total “spending” Steem does to fund content, curation, and block production amounts to less than 10% APR.
+Gedurende de eerste 2 jaar van het bestaan van Bitcoin heeft het netwerk een jaarlijkse inflatie van meer dan 100% aangehouden[^17]. De eerste 5 jaar was het meer dan 30% en de de eerste 8 jaar meer dan 10%. Alles bij elkaar bedragen de totale "uitgaven" die Steem doet om inhoud, curatie, en blokproductie te financieren minder dan 10% APR.
 
-The price of a digital commodity, like STEEM, is driven by both supply and demand. When a long-term holder decides to exit, the supply of STEEM on the market will increase and push the price down. This downward pressure is countered when a new long-term holder decides to buy up the STEEM and convert it back into SP. Additional supply and demand may be be added due to market speculators buying and selling liquid STEEM based on their predictions of the future market price.
+De prijs van een digitaal product, zoals STEEM, wordt bepaald door zowel vraag als aanbod. When a long-term holder decides to exit, the supply of STEEM on the market will increase and push the price down. This downward pressure is countered when a new long-term holder decides to buy up the STEEM and convert it back into SP. Additional supply and demand may be be added due to market speculators buying and selling liquid STEEM based on their predictions of the future market price.
 
 # The Power of Steem
 
