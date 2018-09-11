@@ -417,7 +417,7 @@ Contribution Rewards:
 
 - SBD rewards: Een percentage van de SBD-waarde wordt gecreëerd tegen een door de getuigen vastgesteld APR en als SBD aan de SBD-houders uitbetaald
 
-The overall supply picture is complicated by the effect of SBD operations, which may result in large-scale creation or destruction of STEEM through feed rate following and SBD rewards, as discussed in the SBD section. Er bestaan ook andere, kleinschaliger complicerende effecten, waaronder niet-opgeëiste stimulansen (bv. block rewards voor gemiste blokken) en verlaten accounts.
+Het totale plaatje van de levering wordt gecompliceerd door het effect van de SBD-operaties, die kunnen leiden tot de grootschalige creatie of vernietiging van STEEM door het volgen van de koers en SBD-beloningen, zoals besproken in het hoofdstuk over SBD. Er bestaan ook andere, kleinschaliger complicerende effecten, waaronder niet-opgeëiste stimulansen (bv. block rewards voor gemiste blokken) en verlaten accounts.
 
 ## Huidige Toewijzing & Levering
 
@@ -425,7 +425,7 @@ Vanaf de 16e hard fork van het netwerk in december 2016 begon Steem met het make
 
 75% van de gegenereerde nieuwe tokens gaat naar de reward pool, die wordt verdeeld tussen auteurs en curatoren. 15% van de nieuwe tokens worden toegekend aan houders van SP. De overige 10% wordt betaald aan de getuigen om de blockchain aan te drijven.
 
-### Impact of Token Creation Rate
+### Invloed van snelheid van Token-creatie
 
 Er wordt vaak gezegd dat een munt met een inflatie-model niet duurzaam is, maar we weten uit talloze voorbeelden uit de praktijk dat de hoeveelheid geld geen directe en onmiddellijke invloed heeft op de waarde ervan, hoewel het zeker een rol speelt.
 
