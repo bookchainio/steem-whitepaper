@@ -433,7 +433,7 @@ Vanaf augustus 2008 tot en met januari 2009 groeide de Amerikaanse geldhoeveelhe
 
 Gedurende de eerste 2 jaar van het bestaan van Bitcoin heeft het netwerk een jaarlijkse inflatie van meer dan 100% aangehouden[^17]. De eerste 5 jaar was het meer dan 30% en de de eerste 8 jaar meer dan 10%. Alles bij elkaar bedragen de totale "uitgaven" die Steem doet om inhoud, curatie, en blokproductie te financieren minder dan 10% APR.
 
-De prijs van een digitaal product, zoals STEEM, wordt bepaald door zowel vraag als aanbod. When a long-term holder decides to exit, the supply of STEEM on the market will increase and push the price down. This downward pressure is countered when a new long-term holder decides to buy up the STEEM and convert it back into SP. Additional supply and demand may be be added due to market speculators buying and selling liquid STEEM based on their predictions of the future market price.
+De prijs van een digitaal product, zoals STEEM, wordt bepaald door zowel vraag als aanbod. Wanneer een langetermijnhouder besluit de markt te verlaten, zal het aanbod van STEEM toenemen en de prijs omlaag duwen. This downward pressure is countered when a new long-term holder decides to buy up the STEEM and convert it back into SP. Additional supply and demand may be be added due to market speculators buying and selling liquid STEEM based on their predictions of the future market price.
 
 # The Power of Steem
 
