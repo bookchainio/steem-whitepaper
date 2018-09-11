@@ -392,9 +392,9 @@ Om deze toonaangevende prestatie te bereiken, heeft Steem lessen geleerd van de 
 
 Door het volgen van deze eenvoudige regels is Steem in staat om 10.000 transacties per seconde te verwerken zonder enige aanmerkelijke inspanning toe te wijden aan optimalisatie.
 
-Alles in het geheugen houden wordt steeds rendabeler gezien de recente introductie van Optane™-technologie van Intel[^14]. Het moet mogelijk zijn voor commodity-hardware om alle zakelijke logica van Steem in één draad te verwerken waarbij alle berichten in het geheugen gehouden worden voor een snelle indexering. Zelfs Google houdt hun index van het hele internet bij in RAM. Het gebruik van blockchain technologie maakt het triviaal om de database te repliceren naar vele machines om gegevensverlies te voorkomen. Naarmate Optane™-technologie overneemt, zal RAM nog sneller worden, terwijl de volharding toeneemt. In other words, Steem is designed for the architectures of the future and is designed to scale.
+Alles in het geheugen houden wordt steeds rendabeler gezien de recente introductie van Optane™-technologie van Intel[^14]. Het moet mogelijk zijn voor commodity-hardware om alle zakelijke logica van Steem in één draad te verwerken waarbij alle berichten in het geheugen gehouden worden voor een snelle indexering. Zelfs Google houdt hun index van het hele internet bij in RAM. Het gebruik van blockchain technologie maakt het triviaal om de database te repliceren naar vele machines om gegevensverlies te voorkomen. Naarmate Optane™-technologie overneemt, zal RAM nog sneller worden, terwijl de volharding toeneemt. Met andere woorden, Steem is ontworpen voor de architecturen van de toekomst en is ontworpen om te schalen.
 
-# Allocation & Supply
+# Toewijzing & Levering
 
 ## Initial Allocation & Supply
 
