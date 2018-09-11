@@ -411,11 +411,11 @@ Contribution Rewards:
 
 ### Power Rewards:
 
-- Steem Power rewards: For each STEEM created by the above rewards, 9 STEEM are divided among all Steem Power holders.
+- Steem Power rewards: Voor elke STEEM die door bovenstaande beloningen wordt gecreëerd, worden 9 STEEM verdeeld over alle Steem Power-houders.
 
-### SBD operations:
+### SBD-operaties:
 
-- SBD rewards: A percentage of SBD value is created at an APR set by the witnesses and paid to SBD holders as SBD
+- SBD rewards: Een percentage van de SBD-waarde wordt gecreëerd tegen een door de getuigen vastgesteld APR en als SBD aan de SBD-houders uitbetaald
 
 The overall supply picture is complicated by the effect of SBD operations, which may result in large-scale creation or destruction of STEEM through feed rate following and SBD rewards, as discussed in the SBD section. Other, smaller-scale complicating effects also exist, including unclaimed incentives (e.g. block rewards for missed blocks), and abandoned accounts.
 
