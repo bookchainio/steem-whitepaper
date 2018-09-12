@@ -394,9 +394,9 @@ Door het volgen van deze eenvoudige regels is Steem in staat om 10.000 transacti
 
 Alles in het geheugen houden wordt steeds meer rendabel gezien Intel's recente introductie van Optane™-technologie[^14]. Het moet mogelijk zijn voor commodity-hardware om alle zakelijke logica van Steem in één draad te verwerken waarbij alle berichten in het geheugen gehouden worden voor een snelle indexering. Zelfs Google houdt hun index van het hele internet bij in RAM. Het gebruik van blockchain technologie maakt het triviaal om de database te repliceren naar vele machines om gegevensverlies te voorkomen. Naarmate Optane™-technologie overneemt, zal RAM nog sneller worden, terwijl de stabiliteit toeneemt. Met andere woorden, Steem is ontworpen voor de architecturen van de toekomst en is ontworpen om te schalen.
 
-# Toewijzing & Levering
+# Toewijzing & Toevoer
 
-## Aanvankelijke Toewijzing & Levering
+## Aanvankelijke Toewijzing & Toevoer
 
 Het Steem-netwerk begon met een valuta-voorraad van 0 en heeft STEEM via proof of work aan miners toegewezen tegen een tarief van ongeveer 40 STEEM per minuut, waarbij 40 STEEM per minuut extra werd gecreëerd om de inhoud en curation reward pools te vullen (een totaal van 80 STEEM per minuut). Toen begon het netwerk gebruikers te belonen die naar SP converteerden. Op dit punt groeide STEEM met ongeveer 800 STEEM per minuut als gevolg van de gecombineerde effecten van de verschillende hieronder samengevatte Contribution Rewards:
 
@@ -419,7 +419,7 @@ Contribution Rewards:
 
 Het totale plaatje van de levering wordt gecompliceerd door het effect van de SBD-operaties, die kunnen leiden tot de grootschalige creatie of vernietiging van STEEM door het volgen van de koers en SBD-beloningen, zoals besproken in het hoofdstuk over SBD. Er bestaan ook andere, kleinschaliger complicerende effecten, waaronder niet-opgeëiste stimulansen (bv. block rewards voor gemiste blokken) en verlaten accounts.
 
-## Huidige Toewijzing & Levering
+## Huidige Toewijzing & Toevoer
 
 Vanaf de 16e hard fork van het netwerk in december 2016 begon Steem met het maken van nieuwe munten met een jaarlijkse inflatie van 9,5%. De inflatie daalt met 0,01% per 250.000 blokken, of ongeveer 0,5% per jaar. De inflatie zal in dit tempo blijven dalen tot de totale inflatie 0,95% bedraagt. Dit zal ongeveer 20,5 jaar duren vanaf het moment dat hard fork 16 in werking trad.
 
