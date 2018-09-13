@@ -409,11 +409,11 @@ Beitrags-Belohnungen:
 - POW-Inklusions-Belohnung nach Block 864.000: 0.0476 STEEM pro Block (Ausschüttung von 1 STEEM pro Runde) oder 0.750 % pro Jahr, je nachdem welcher Wert größer ist.
 - Liquiditäts-Belohnungen: 1 STEEM pro Block (Ausschüttung von 1200 STEEM pro Stunde) oder 0.750 % pro Jahr, je nachdem welcher Wert größer ist
 
-### Power Rewards:
+### STEEMPOWER Belohnungen:
 
-- Steem Power rewards: For each STEEM created by the above rewards, 9 STEEM are divided among all Steem Power holders.
+- STEEMPOWER Belohnungen: Für jeden STEEM, der nach oben benannten Regeln erstellt wurde, werden 9 STEEM unter allen STEEMPOWER-Besitzern aufgeteilt.
 
-### SBD operations:
+### SBD-Operationen:
 
 - SBD rewards: A percentage of SBD value is created at an APR set by the witnesses and paid to SBD holders as SBD
 
