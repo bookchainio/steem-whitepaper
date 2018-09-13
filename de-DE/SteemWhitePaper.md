@@ -405,9 +405,9 @@ Beitrags-Belohnungen:
 - Kurations-Belohnungen: 1 STEEM pro Block oder 3,875 % pro Jahr, je nachdem welcher Wert größer ist
 - Inhalt-Erstellungs-Belohnungen: 1 STEEM pro Block oder 3,875 % pro Jahr, je nachdem welcher Wert größer ist
 - Block-Erstellungs-Belohnung: 1 STEEM pro Block oder 0.750 % pro Jahr, je nachdem welcher Wert größer ist
-- POW-Inklusions-Belohnung vor Block 864.000: 1 STEEM pro Block (Prämie von 21 STEEM pro Runde)
-- POW inclusion rewards after block 864,000: 0.0476 STEEM per block (awarded as 1 STEEM per round) or 0.750% per year, whichever is greater.
-- Liquidity rewards: 1 STEEM per block (awarded as 1200 STEEM per hour) or 0.750% per year, whichever is greater
+- POW-Inklusions-Belohnung vor Block 864.000: 1 STEEM pro Block (Ausschüttung von 21 STEEM pro Runde)
+- POW-Inklusions-Belohnung nach Block 864.000: 0.0476 STEEM pro Block (Ausschüttung von 1 STEEM pro Runde) oder 0.750 % pro Jahr, je nachdem welcher Wert größer ist.
+- Liquiditäts-Belohnungen: 1 STEEM pro Block (Ausschüttung von 1200 STEEM pro Stunde) oder 0.750 % pro Jahr, je nachdem welcher Wert größer ist
 
 ### Power Rewards:
 
