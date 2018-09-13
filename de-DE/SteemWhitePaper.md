@@ -415,7 +415,7 @@ Beitrags-Belohnungen:
 
 ### SBD-Operationen:
 
-- SBD rewards: A percentage of SBD value is created at an APR set by the witnesses and paid to SBD holders as SBD
+- SBD-Belohnungen: Ein Prozentsatz des Wertes der SBD entsteht anhand eines jährlichen Durchschnittwertes (Average Percentage Rate, APR), welcher durch die Witnesses festgelegt wird und wird an die STEAMDOLLAR-Besitzer in SBD ausgezahlt
 
 The overall supply picture is complicated by the effect of SBD operations, which may result in large-scale creation or destruction of STEEM through feed rate following and SBD rewards, as discussed in the SBD section. Other, smaller-scale complicating effects also exist, including unclaimed incentives (e.g. block rewards for missed blocks), and abandoned accounts.
 
