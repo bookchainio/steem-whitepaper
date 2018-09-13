@@ -398,7 +398,7 @@ Angesichts der kürzlich erfolgten Einführung der Optane™-Technologie von Int
 
 ## Ursprüngliche Erstellung & Zuteilung
 
-Das Steemnetzwerk begann mit einer Währungserstellung von 0 und wies den Minern via proof of work ungefähr 40 STEEM pro Minute zu. Weitere 40 STEEM wurden pro Minute erstellt um den Pool für Inhalte und Kuratoren-Belohnungen zu füllen (was zusammen 80 STEEM pro Minute ergibt). Then the network started rewarding users who converted to SP. At this point, STEEM grew at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
+Das Steemnetzwerk begann mit einer Währungserstellung von 0 und wies den Minern via proof of work ungefähr 40 STEEM pro Minute zu. Weitere 40 STEEM wurden pro Minute erstellt um den Pool für Inhalte und Kuratoren-Belohnungen zu füllen (was zusammen 80 STEEM pro Minute ergibt). Danach begann das Netzwerk die User zu belohnen, die STEEM in STEEMPOWER (SP) konvertierten. At this point, STEEM grew at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
 
 Contribution Rewards:
 
