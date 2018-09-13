@@ -423,7 +423,7 @@ Das Gesamtversorgungsbild wird durch die Auswirkungen der SBD-Operationen verkom
 
 Mit beginn des 16. Hardforks des Netzwerkes im Dezember 2016, startete Steem eine jährliche Token-Inflationsrate von 9,5%. Die Inflationsrate sinkt mit einer Rate von 0,01 % alle 250.000 Blöcke oder etwa 0,5 % pro Jahr. Die Inflation wird weiter in diesem Tempo sinken, bis die allgemeine Inflationsrate 0,95 % erreicht. Dies dauert ca. 20,5 Jahre ab dem Zeitpunkt, wo der Hardfork 16 in Kraft trat.
 
-75% of the new tokens that are generated go to fund the reward pool, which is split between authors and curators. 15% of the new tokens are awarded to holders of SP. The remaining 10% pays for the witnesses to power the blockchain.
+75 % der neuen Token, die generiert werden, gehen an den Belohnung-Pool, welcher zwischen Autoren und Kuratoren aufgeteilt wird. 15 % der neuen Token werden vergeben an die Inhaber von SP. Mit den restlichen 10 % werden die Witnesses bezahlt um die Blockchain aufrecht zu erhalten.
 
 ### Impact of Token Creation Rate
 
