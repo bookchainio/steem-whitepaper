@@ -398,14 +398,14 @@ Angesichts der kürzlich erfolgten Einführung der Optane™-Technologie von Int
 
 ## Ursprüngliche Erstellung & Zuteilung
 
-Das Steemnetzwerk begann mit einer Währungserstellung von 0 und wies den Minern via proof of work ungefähr 40 STEEM pro Minute zu. Weitere 40 STEEM wurden pro Minute erstellt um den Pool für Inhalte und Kuratoren-Belohnungen zu füllen (was zusammen 80 STEEM pro Minute ergibt). Danach begann das Netzwerk die User zu belohnen, die STEEM in STEEMPOWER (SP) konvertierten. At this point, STEEM grew at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
+Das Steemnetzwerk begann mit einer Währungserstellung von 0 und wies den Minern via proof of work ungefähr 40 STEEM pro Minute zu. Weitere 40 STEEM wurden pro Minute erstellt um den Pool für Inhalte und Kuratoren-Belohnungen zu füllen (was zusammen 80 STEEM pro Minute ergibt). Danach begann das Netzwerk die User zu belohnen, die STEEM in STEEMPOWER (SP) konvertierten. Durch die kombinierten Effekte der verschiedenen Beitragsbelohnungen, die hier im folgenden zusammengefasst sind, wuchs STEEM zu diesem Zeitpunkt mit einer Rate von ungefähr 800 STEEM pro Minute:
 
-Contribution Rewards:
+Beitrags-Belohnungen:
 
-- Curation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
-- Content Creation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
-- Block production rewards: 1 STEEM per block or 0.750% per year, whichever is greater
-- POW inclusion rewards before block 864,000: 1 STEEM per block (awarded as 21 STEEM per round)
+- Kurations-Belohnungen: 1 STEEM pro Block oder 3,875 % pro Jahr, je nachdem welcher Wert größer ist
+- Inhalt-Erstellungs-Belohnungen: 1 STEEM pro Block oder 3,875 % pro Jahr, je nachdem welcher Wert größer ist
+- Block-Erstellungs-Belohnung: 1 STEEM pro Block oder 0.750 % pro Jahr, je nachdem welcher Wert größer ist
+- POW-Inklusions-Belohnung vor Block 864.000: 1 STEEM pro Block (Prämie von 21 STEEM pro Runde)
 - POW inclusion rewards after block 864,000: 0.0476 STEEM per block (awarded as 1 STEEM per round) or 0.750% per year, whichever is greater.
 - Liquidity rewards: 1 STEEM per block (awarded as 1200 STEEM per hour) or 0.750% per year, whichever is greater
 
