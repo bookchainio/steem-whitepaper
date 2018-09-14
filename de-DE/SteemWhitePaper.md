@@ -437,7 +437,7 @@ Der Preis für eine digitale Ware, wie STEEM, richtet sich nach Angebot und Nach
 
 # Die Macht von Steem
 
-Steem recognizes that the value of all user contributions (posts and votes) is greater than the sum of the parts. A single comment is worth next to nothing, but millions of curated posts is worth many millions (or possibly even billions) of dollars. A single vote provides little curation value, but billions of votes is very effective curation. Content without curation is of limited value. Given all the content of the Internet minus the links between it, Google would struggle to produce useful search results. It is the links between information that give it significant value.
+Steem erkennt an, dass der Wert aller Benutzerbeiträge (Artikel und Votes) größer als die Summe seiner Teile ist. Ein einziger Kommentar ist so gut wie nichts wert, aber Millionen von kuratierten Beiträgen entsprechen vielen Millionen (wenn nicht sogar Milliarden) Dollar. Eine einzige Stimme bietet wenig Kurationswert, aber Milliarden von Stimmen sind eine sehr effektive Bewertung, bzw. Meinungsbildung. Inhalt ohne Kuration ist von begrenztem Wert. Given all the content of the Internet minus the links between it, Google would struggle to produce useful search results. It is the links between information that give it significant value.
 
 Because everyone benefits, everyone should pay. In other words, no individual user should be expected to pay for anything, but instead should be paid for everything they do that brings value to Steem. All we need to do is ascertain which user contributions bring a social network value and which ones don’t.
 
