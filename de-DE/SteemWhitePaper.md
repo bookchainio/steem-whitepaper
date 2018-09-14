@@ -425,7 +425,7 @@ Mit beginn des 16. Hardforks des Netzwerkes im Dezember 2016, startete Steem ein
 
 75 % der neuen Token, die generiert werden, gehen an den Belohnung-Pool, welcher zwischen Autoren und Kuratoren aufgeteilt wird. 15 % der neuen Token werden vergeben an die Inhaber von SP. Mit den restlichen 10 % werden die Witnesses bezahlt um die Blockchain aufrecht zu erhalten.
 
-### Impact of Token Creation Rate
+### Auswirkungen der Token Schöpfung Rate
 
 It is often said that a coin with an inflationary model is not sustainable, but we know from countless real-world examples that the quantity of money does not have a direct and immediate impact on its value, though it certainly plays a role.
 
