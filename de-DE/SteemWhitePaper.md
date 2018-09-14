@@ -385,7 +385,7 @@ Steem ist in der Lage mit einer größeren Datenbasis als Reddit umzugehen. In 2
 Um diese industrieführende Leistung zu erreichen, hat Steem ein paar Lehren aus dem LMAX Exchange [^13] gezogen. Diese ist nämlich fähig, 6 Millionen Transaktionen pro Sekunde zu verarbeiten. Unter diesen Lektionen sind die folgenden wichtigen Punkte:
 
 1. Behalte alles im Speicher.
-2. Halte die Kernnbusinesslogik in einem einzigen Thread.
+2. Halte die Kernbusinesslogik in einem einzigen Thread.
 3. Halte die kryptografischen Operationen (Hashes und Signaturen) aus der Kernbusinesslogik heraus.
 4. Teile die Validierung in statusabhängige und statusunabhängige Checks.
 5. Verwende ein Objektorientiertes Datenmodell.
