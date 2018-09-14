@@ -441,9 +441,9 @@ Steem erkennt an, dass der Wert aller Benutzerbeiträge (Artikel und Votes) grö
 
 Da jeder profitiert, sollte auch jeder bezahlen. Oder anders gesagt, es sollte von keinem einzigen Benutzer erwartet werden etwas zu bezahlen. Stattdessen sollten sie für alles was sie tun, um Wert nach Steem zu bringen, entlohnt werden. Alles, was wir tun müssen, ist festzustellen, welche Userbeiträge einen Nutzen für das soziale Netzwerk bringen und welche nicht.
 
-Zusammengenommen bewerten Reddit-Nutzer 220 Mal pro Sekunde und verfassen 23 Beiträge pro Sekunde. Reddit is valued between $500 million[^18] and $4 billion[^19] which means that each and every upvote and post is worth between $0.06 and $0.50 assuming the value of Reddit is mostly within the past year’s worth of activity. Man könnte argumentieren, dass der größte Teil des Wertes von Reddit die sich in nahezu Echtzeit ereignenden Diskussionen der letzten Woche sind, die den Wert neuer Aktivitäten dramatisch erhöhen würden. Die Menschen gehen dahin, wo die Menschen heute sind, nicht dorthin, wo sie letztes Jahr waren.
+Reddit-Nutzer geben insgesammt 220 Mal pro Sekunde einen Vote und verfassen 23 Beiträge pro Sekunde. Reddit hat einen Wert von $ 500 Millionen [^18] bis $ 4 Milliarden [^19] US-Dollar, was bedeutet, dass jeder Upvote und Artikel einen Wert zwischen $0,06 bis $0,50 hat (Über einen Zeitraum der letzten vergangenen Jahre betrachtet). Man könnte argumentieren, dass der größte Teil des Wertes von Reddit sich aus den in nahezu Echtzeit ereignenden Diskussionen der jeweils letzten Woche ergeben würde, welche den Wert neuer Aktivitäten dramatisch erhöhten. Die Menschen gehen dahin, wo die Menschen heute sind, nicht dorthin, wo sie letztes Jahr waren.
 
-## No Micropayments, Tips Optional
+## Keine Micropayments, Trinkgeld ist optional
 
 Existing attempts at integrating a cryptocurrency into a social media platform have focused on enabling users to pay one another. Many services have attempted to introduce tipping. The theory is that if we make tipping simple enough then more people will do it. Other services attempt to get people to pay to promote or boost their content’s ranking. Still others attempt to build small prediction markets on how many tips an article will receive.
 
