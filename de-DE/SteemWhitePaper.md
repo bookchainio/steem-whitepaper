@@ -388,26 +388,26 @@ Um diese industrieführende Leistung zu erreichen, hat Steem ein paar Lehren aus
 2. Halte die Kernbusinesslogik in einem einzigen Thread.
 3. Halte die kryptografischen Operationen (Hashes und Signaturen) aus der Kernbusinesslogik heraus.
 4. Teile die Validierung in statusabhängige und statusunabhängige Checks.
-5. Verwende ein Objektorientiertes Datenmodell.
+5. Verwende ein objektorientiertes Datenmodell.
 
 Durch das Befolgen dieser einfachen Regeln ist Steem in der Lage, 10.000 Transaktionen pro Sekunde, ohne signifikanten Aufwand für Optimierungen, zu verarbeiten.
 
-Angesichts der kürzlich erfolgten Einführung der Optane™-Technologie von Intel [^14], ist es mittlerweile sinnvoll alles im Speicher zu halten. Es sollte für Standardhardware möglich sein, die komplette Businesslogik, mit der Steem verknüpft ist, in einem einzigen Thread zu halten. Da sich dann alle Beiträge sich im Speicher befinden, ist eine schnelle Indizierung möglich. Auch Google hält den Index des gesamten Internets in seinem RAM. Die Verwendung der Blockchaintechnologie macht es einfach, die Datenbank auf viele Maschinen zu replizieren, um damit Datenverlust zu verhindern. Mit zunehmenden Einsatz der Optane™ Technologie, wird RAM noch schneller bei gleichzeitigem Zuwachs von Speicher-Persistenz. Mit anderen Worten, Steem wurde für die Architektur der Zukunft und zum Skalieren entwickelt.
+Angesichts der kürzlich erfolgten Einführung der Optane™-Technologie von Intel [^14], ist es mittlerweile sinnvoll alles im Speicher zu halten. Es sollte für Standardhardware möglich sein, die komplette Businesslogik, mit der Steem verknüpft ist, in einem einzigen Thread zu halten. Da sich dann alle Beiträge im Speicher befinden, ist eine schnelle Indizierung möglich. Auch Google hält den Index des gesamten Internets in seinem RAM. Die Verwendung der Blockchaintechnologie macht es einfach, die Datenbank auf viele Maschinen zu replizieren, um damit Datenverlust zu verhindern. Mit zunehmenden Einsatz der Optane™ Technologie, wird RAM noch schneller bei gleichzeitigem Zuwachs von Speicher-Persistenz. Mit anderen Worten, Steem wurde für die Architektur der Zukunft und zum Skalieren entwickelt.
 
-# Erstellung & Zuteilung
+# Allokation & Versorgung
 
-## Ursprüngliche Erstellung & Zuteilung
+## Allokation & Versorgung
 
 Das Steemnetzwerk begann mit einer Währungserstellung von 0 und wies den Minern via proof of work ungefähr 40 STEEM pro Minute zu. Weitere 40 STEEM wurden pro Minute erstellt um den Pool für Inhalte und Kuratoren-Belohnungen zu füllen (was zusammen 80 STEEM pro Minute ergibt). Danach begann das Netzwerk die User zu belohnen, die STEEM in STEEMPOWER (SP) konvertierten. Durch die kombinierten Effekte der verschiedenen Beitragsbelohnungen, die hier im Folgenden zusammengefasst sind, wuchs STEEM zu diesem Zeitpunkt mit einer Rate von ungefähr 800 STEEM pro Minute:
 
-Beitrags-Belohnungen:
+Beitragsbelohnungen:
 
-- Kurations-Belohnungen: 1 STEEM pro Block oder 3,875 % pro Jahr, je nachdem welcher Wert größer ist
-- Inhalt-Erstellungs-Belohnungen: 1 STEEM pro Block oder 3,875 % pro Jahr, je nachdem welcher Wert größer ist
-- Block-Erstellungs-Belohnung: 1 STEEM pro Block oder 0.750 % pro Jahr, je nachdem welcher Wert größer ist
-- POW-Inklusions-Belohnung vor Block 864.000: 1 STEEM pro Block (Ausschüttung von 21 STEEM pro Runde)
-- POW-Inklusions-Belohnung nach Block 864.000: 0.0476 STEEM pro Block (Ausschüttung von 1 STEEM pro Runde) oder 0.750 % pro Jahr, je nachdem welcher Wert größer ist.
-- Liquiditäts-Belohnungen: 1 STEEM pro Block (Ausschüttung von 1200 STEEM pro Stunde) oder 0.750 % pro Jahr, je nachdem welcher Wert größer ist
+- Kurationsbelohnungen: 1 STEEM pro Block oder 3,875 % pro Jahr, je nachdem welcher Wert größer ist
+- Inhalt-Erstellungsbelohnungen: 1 STEEM pro Block oder 3,875 % pro Jahr, je nachdem welcher Wert größer ist
+- Block-Erstellungsbelohnung: 1 STEEM pro Block oder 0.750 % pro Jahr, je nachdem welcher Wert größer ist
+- POW-Inklusions-Belohnung vor Block 864.000: 1 STEEM pro Block (Prämie von 21 STEEM pro Runde)
+- POW-Inklusionsbelohnung nach Block 864.000: 0.0476 STEEM pro Block (Ausschüttung von 1 STEEM pro Runde) oder 0.750 % pro Jahr, je nachdem welcher Wert größer ist.
+- Liquiditätsbelohnungen: 1 STEEM pro Block (Ausschüttung von 1200 STEEM pro Stunde) oder 0.750 % pro Jahr, je nachdem welcher Wert größer ist
 
 ### STEEMPOWER Belohnungen:
 
@@ -415,9 +415,9 @@ Beitrags-Belohnungen:
 
 ### SBD-Operationen:
 
-- SBD-Belohnungen: Ein Prozentsatz des Wertes der SBD entsteht anhand eines jährlichen Durchschnittwertes (Average Percentage Rate, APR), welcher durch die Witnesses festgelegt wird und wird an die STEAMDOLLAR-Besitzer in SBD ausgezahlt
+- SBD-Belohnungen: Ein Prozentsatz des Wertes der SBD entsteht anhand eines jährlichen Durchschnittwertes (Average Percentage Rate, APR), welcher durch die Witnesses festgelegt und an die STEAMDOLLAR-Besitzer in SBD ausgezahlt wird
 
-Das Gesamtversorgungsbild wird durch die Auswirkungen der SBD-Operationen verkompliziert. Dies kann dazu führen, dass durch die Ausschüttungsrate und in folge dessen SBD-Belohnungen, wie es im SBD-Abschnitt diskutiert wurde, großskalig STEEM erschaffen oder zerstört wird. Auch andere, kleinere, erschwerende Effekte existieren, einschließlich der nicht beanspruchten Anreize (z.B. Block-Belohnungen für verpasste Blöcke) und verlassene Konten.
+Das Gesamtversorgungsbild wird durch die Auswirkungen der SBD-Operationen verkompliziert. Dies kann dazu führen, dass durch die Ausschüttungsrate und infolgedessen SBD-Belohnungen, wie es im SBD-Abschnitt diskutiert wurde, großskalig STEEM erschaffen oder zerstört wird. Auch andere, kleinere, erschwerende Effekte existieren, einschließlich der nicht beanspruchten Anreize (z.B. Block-Belohnungen für verpasste Blöcke) und verlassene Konten.
 
 ## Aktuelle Erstellung & Zuteilung
 
