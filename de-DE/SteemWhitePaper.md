@@ -445,9 +445,9 @@ Reddit-Nutzer geben insgesammt 220 Mal pro Sekunde einen Vote und verfassen 23 B
 
 ## Keine Micropayments, Trinkgeld ist optional
 
-Vorhandene Versuche, eine Kryptowährung in eine Social-Media-Plattform zu integrieren, waren darauf ausgerichtet, dass Benutzer sich gegenseitig bezahlen. Viele Dienste haben versucht Trinkgeld einzuführen. Die Theorie ist, dass wenn wir das Trinkgeldverteilen einfach genug machten, mehr Leute es täten. Andere Dienste versuchen, Leute dafür zu bezahlen, die Dienste zu bewerben oder deren Inhalte-Ranking zu steigern. Still others attempt to build small prediction markets on how many tips an article will receive.
+Vorhandene Versuche, eine Kryptowährung in eine Social-Media-Plattform zu integrieren, waren darauf ausgerichtet, dass Benutzer sich gegenseitig bezahlen. Viele Dienste haben versucht Trinkgeld einzuführen. Die Theorie ist, dass wenn wir das Trinkgeldverteilen einfach genug machten, mehr Leute es täten. Andere Dienste versuchen, Leute dafür zu bezahlen, die Dienste zu bewerben oder deren Inhalte-Ranking zu steigern. Noch andere versuchen, kleine Prognosemärkte aufzubauen, die ausloten wie viel Kleingeld ein Artikel erhalten wird.
 
-All of these approaches boil down to micropayments. They differ only in who is making the payment. They all suffer from insufficient engagement of people making the micropayments. In the search for incentivised content production entrepreneurs have been so focused on who should pay that they missed the obvious reality: everyone benefits from everyone’s actions so everyone should pay or no one should pay, depending on how you look at it.
+All diese Ansätze führen zu Micropayment. Sie unterscheiden sich nur darin, wer die Zahlung leistet. Sie alle leiden unter der unzureichenden Bereitschaft der Menschen, kleine Geldbeträge zu bezahlen. In the search for incentivised content production entrepreneurs have been so focused on who should pay that they missed the obvious reality: everyone benefits from everyone’s actions so everyone should pay or no one should pay, depending on how you look at it.
 
 Steem bypasses micropayments completely because when a user upvotes a post it is the community that pays the bill. The same amount of money will be spent whether the user upvotes a post or not and the funds will not come from the voter.
 
