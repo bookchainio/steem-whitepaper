@@ -445,7 +445,7 @@ Reddit-Nutzer geben insgesamt 220 Mal pro Sekunde einen Vote und verfassen 23 Be
 
 ## Keine Micropayments, Trinkgeld ist optional
 
-Vorhandene Versuche, eine Kryptowährung in eine Social-Media-Plattform zu integrieren, waren darauf ausgerichtet, dass Benutzer sich gegenseitig bezahlen. Viele Dienste haben versucht Trinkgeld einzuführen. Die Theorie ist, dass wenn wir das Trinkgeldverteilen einfach genug machten, mehr Leute es täten. Andere Dienste versuchen, Leute dafür zu bezahlen, die Dienste zu bewerben oder deren Inhalte-Ranking zu steigern. Noch andere versuchen, kleine Prognosemärkte aufzubauen, die ausloten wie viel Kleingeld ein Artikel erhalten wird.
+Vorhandene Versuche, eine Kryptowährung in eine Social-Media-Plattform zu integrieren, waren darauf ausgerichtet, dass Benutzer sich gegenseitig bezahlen. Viele Dienste haben versucht Trinkgeld einzuführen. Die Theorie ist, dass, wenn wir das Trinkgeldverteilen einfach genug machten, mehr Leute es täten. Andere Dienste versuchen, Leute dafür zu bezahlen, die Dienste zu bewerben oder deren Inhalte-Ranking zu steigern. Noch andere versuchen, kleine Prognosemärkte aufzubauen, die ausloten wie viel Kleingeld ein Artikel erhalten wird.
 
 All diese Ansätze führen zu Micropayment. Sie unterscheiden sich nur darin, wer die Zahlung leistet. Sie alle leiden unter der unzureichenden Bereitschaft der Menschen, kleine Geldbeträge zu bezahlen. Bei der Suche nach Anreizen für Content Produktion, haben die Gründer sich so sehr damit befasst, wer bezahlen soll, dass sie die offensichtliche Realität übersehen haben: Jeder profitiert von jedermanns Aktionen, sodass alle oder keiner zahlen sollte, je nachdem wie man es betrachtet.
 
