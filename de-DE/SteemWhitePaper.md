@@ -435,7 +435,7 @@ Für die ersten 2 Jahre des Bitcoin-Lebens gab es im Netzwerk eine jährliche In
 
 Der Preis für eine digitale Ware, wie STEEM, richtet sich nach Angebot und Nachfrage. Wenn ein langfristiger Anleger sich entscheidet auszusteigen, wird die Menge von STEEM auf dem Markt wachsen und den Preis nach unten drücken. Diesem Abwärtsdruck wird begegnet, wenn ein neuer langfristigerHalter beschließt STEEM zu kaufen und es wieder in SP umzuwandeln. Zusätzliche Angebote und Nachfragen entstehen durch Markt-Spekulanten mit ihrem Kauf und Verkauf von liquidem STEEM, basierend auf ihren Prognosen für den zukünftigen Marktpreis.
 
-# The Power of Steem
+# Die Macht von Steem
 
 Steem recognizes that the value of all user contributions (posts and votes) is greater than the sum of the parts. A single comment is worth next to nothing, but millions of curated posts is worth many millions (or possibly even billions) of dollars. A single vote provides little curation value, but billions of votes is very effective curation. Content without curation is of limited value. Given all the content of the Internet minus the links between it, Google would struggle to produce useful search results. It is the links between information that give it significant value.
 
