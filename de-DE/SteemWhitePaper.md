@@ -427,9 +427,9 @@ Mit beginn des 16. Hardforks des Netzwerkes im Dezember 2016, startete Steem ein
 
 ### Auswirkungen der Token Schöpfung Rate
 
-It is often said that a coin with an inflationary model is not sustainable, but we know from countless real-world examples that the quantity of money does not have a direct and immediate impact on its value, though it certainly plays a role.
+Es wird oft gesagt, dass eine Münze mit einem inflationären Modell nicht nachhaltig ist. Aber wir wissen aus unzähligen realen Beispielen, dass die Quantität des Geldes keinen direkten und unmittelbaren Einfluss auf dessen Wert hat, obwohl es sicherlich eine Rolle spielt.
 
-From August 2008 through January 2009 the U.S. money supply[^15] grew from $871B to $1,737B, a rate of over 100% per year and then continued to grow at about 20% per year for the next 6 years. All told the money supply in the U.S. has grown by 4.59x over less than 7 years. During that same time, the value of the dollar relative to goods and services has fallen less than 10% according to the government's price index[^16]. This real-world example demonstrates that supply is only one component of price.
+Von August 2008 bis Januar 2009 wuchs die US-Geldmenge [^15] von 871 auf 1.737 Milliarden Dollar, eine Rate von über 100 % pro Jahr, um dann mit ca. 20 % pro Jahr für die nächsten 6 Jahre weiter zu wachsen. Alles in allem ist die Geldmenge in den USA um den Faktor 4,59 in weniger als 7 Jahre gewachsen. During that same time, the value of the dollar relative to goods and services has fallen less than 10% according to the government's price index[^16]. This real-world example demonstrates that supply is only one component of price.
 
 For the first 2 years of Bitcoin’s life the network sustained an annual inflation rate[^17] of over 100%. For the first 5 years it was over 30%, and for the first 8 years it was over 10%. All told the total “spending” Steem does to fund content, curation, and block production amounts to less than 10% APR.
 
