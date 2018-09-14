@@ -376,7 +376,7 @@ Die dezentralisierte Bandbreitenbegrenzung der Transaktionen kann neue Arten von
 
 # Leistung und Skalierbarkeit
 
-Das Steemnetzwerk baut auf Graphene auf, der gleichen Technologie auf der BitShares läuft. Bei einer öffentlichen Vorführung wurde demonstriert, dass über 1000 Transaktionen pro Sekunde in einem verteilten Netz möglich sind. Graphen kann leicht auf 10.000 oder mehr Transaktionen pro Sekunde skaliert werden, durch relativ unkomplizierte Erweiterungen an der Serverkapazität und den Kommunikationsprotokollen.
+Das Steemnetzwerk baut auf Graphen auf, der gleichen Technologie auf der BitShares läuft. Es wurde öffentlich demonstriert, dass Graphen über 1000 Transaktionen pro Sekunde in einem verteilten Testnetzwerk unterstützt. Graphen kann leicht auf 10.000 oder mehr Transaktionen pro Sekunde skaliert werden, durch relativ unkomplizierte Erweiterungen an der Serverkapazität und den Kommunikationsprotokollen.
 
 ## Die Skalierbarkeit von Reddit
 
@@ -419,13 +419,13 @@ Beitragsbelohnungen:
 
 Das Gesamtversorgungsbild wird durch die Auswirkungen der SBD-Operationen verkompliziert. Dies kann dazu führen, dass durch die Ausschüttungsrate und infolgedessen SBD-Belohnungen, wie es im SBD-Abschnitt diskutiert wurde, großskalig STEEM erschaffen oder zerstört wird. Auch andere, kleinere, erschwerende Effekte existieren, einschließlich der nicht beanspruchten Anreize (z.B. Block-Belohnungen für verpasste Blöcke) und verlassene Konten.
 
-## Aktuelle Erstellung & Zuteilung
+## Aktuelle Allokation & Versorgung
 
 Mit Beginn des 16. Hardforks des Netzwerkes im Dezember 2016, startete Steem eine jährliche Token-Inflationsrate von 9,5%. Die Inflationsrate sinkt mit einer Rate von 0,01 % alle 250.000 Blöcke oder etwa 0,5 % pro Jahr. Die Inflation wird weiter in diesem Tempo sinken, bis die allgemeine Inflationsrate 0,95 % erreicht. Dies dauert ca. 20,5 Jahre ab dem Zeitpunkt, wo der Hardfork 16 in Kraft trat.
 
-75 % der neuen Token, die generiert werden, gehen an den Belohnung-Pool, welcher zwischen Autoren und Kuratoren aufgeteilt wird. 15 % der neuen Token werden vergeben an die Inhaber von SP. Mit den restlichen 10 % werden die Witnesses bezahlt, um die Blockchain aufrecht zu erhalten.
+75 % der neuen Token, die generiert werden, gehen an den Belohnung-Pool, welcher zwischen Autoren und Kuratoren aufgeteilt wird. 15 % der neuen Token werden vergeben an die Inhaber von SP. Mit den restlichen 10 % werden die Witnesses bezahlt, um die Blockchain aufrechtzuerhalten.
 
-### Auswirkungen der Token Schöpfung Rate
+### Auswirkungen der Token-Schöpfungsrate
 
 Es wird oft gesagt, dass eine Münze mit einem inflationären Modell nicht nachhaltig ist. Aber wir wissen aus unzähligen realen Beispielen, dass die Quantität des Geldes keinen direkten und unmittelbaren Einfluss auf dessen Wert hat, obwohl es sicherlich eine Rolle spielt.
 
@@ -433,7 +433,7 @@ Von August 2008 bis Januar 2009 wuchs die US-Geldmenge [^15] von 871 auf 1.737 M
 
 Für die ersten 2 Jahre des Bitcoin-Lebens gab es im Netzwerk eine jährliche Inflationsrate von [^17] von über 100 %. Für die ersten 5 Jahre betrug die Inflationsrate mehr als 30 % und für die ersten 8 Jahre lag sie bei etwas mehr als 10 %. Alles in allem liegt die Gesamtschöpfung von STEEM um die Inhaltserstellung, Kuration und Block Produktion zu bedienen bei weniger als 10 % pro Jahr.
 
-Der Preis für eine digitale Ware, wie STEEM, richtet sich nach Angebot und Nachfrage. Wenn ein langfristiger Anleger sich entscheidet auszusteigen, wird die Menge von STEEM auf dem Markt wachsen und den Preis nach unten drücken. Diesem Abwärtsdruck wird begegnet, wenn ein neuer langfristiger Halter beschließt STEEM zu kaufen und es wieder in SP umzuwandeln. Zusätzliche Angebote und Nachfragen entstehen durch Markt-Spekulanten mit ihrem Kauf und Verkauf von liquidem STEEM, basierend auf ihren Prognosen für den zukünftigen Marktpreis.
+Der Preis für eine digitale Ware wie STEEM richtet sich nach Angebot und Nachfrage. Wenn ein langfristiger Anleger sich entscheidet auszusteigen, wird die Menge von STEEM auf dem Markt wachsen und den Preis nach unten drücken. Diesem Abwärtsdruck wird begegnet, wenn ein neuer langfristiger Halter beschließt STEEM zu kaufen und es wieder in SP umzuwandeln. Zusätzliche Angebote und Nachfragen entstehen durch Markt-Spekulanten mit ihrem Kauf und Verkauf von liquidem STEEM, basierend auf ihren Prognosen für den zukünftigen Marktpreis.
 
 # Die Macht von Steem
 
