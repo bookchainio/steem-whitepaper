@@ -443,9 +443,9 @@ Omdat iedereen er baat bij heeft, zou iedereen moeten betalen. Met andere woorde
 
 Gezamenlijk stemmen Reddit-gebruikers 220 keer per seconde en maken ze 23 berichten per seconde. Reddit wordt gewaardeerd tussen $500 miljoen[^18] en $4 miljard[^19], wat betekent dat elke upvote en ieder artikel tussen de $0,06 en $0,50 waard is, ervan uitgaande dat de waarde van Reddit meestal binnen de waarde van de activiteit van het afgelopen jaar ligt. Men zou kunnen stellen dat het grootste deel van de waarde van Reddit bestaat uit de bijna-real-time discussies die in de afgelopen week hebben plaatsgevonden en die de waarde van nieuwe activiteiten drastisch zou verhogen. Mensen gaan waar mensen vandaag de dag zijn, niet waar mensen vorig jaar waren.
 
-## No Micropayments, Tips Optional
+## Geen micro-betalingen, fooien optioneel
 
-Existing attempts at integrating a cryptocurrency into a social media platform have focused on enabling users to pay one another. Veel diensten hebben geprobeerd om fooien in te voeren. The theory is that if we make tipping simple enough then more people will do it. Other services attempt to get people to pay to promote or boost their content’s ranking. Still others attempt to build small prediction markets on how many tips an article will receive.
+Bestaande pogingen om een cryptovaluta te integreren in een social media-platform zijn erop gericht om gebruikers in staat te stellen elkaar te betalen. Veel diensten hebben geprobeerd om fooien in te voeren. De theorie is dat als we het geven van fooien eenvoudig genoeg maken, meer mensen het zullen doen. Other services attempt to get people to pay to promote or boost their content’s ranking. Still others attempt to build small prediction markets on how many tips an article will receive.
 
 All of these approaches boil down to micropayments. They differ only in who is making the payment. They all suffer from insufficient engagement of people making the micropayments. In the search for incentivised content production entrepreneurs have been so focused on who should pay that they missed the obvious reality: everyone benefits from everyone’s actions so everyone should pay or no one should pay, depending on how you look at it.
 
