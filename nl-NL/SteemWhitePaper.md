@@ -483,9 +483,9 @@ Een valuta die moeilijk te gebruiken of onmogelijk te verkopen is heeft weinig w
 
 Handelaren geven gebruikers een manier om snel hun cryptovaluta om te zetten in tastbare goederen en diensten. Handelaren hebben een valuta nodig die gekoppeld is aan hun rekeneenheid, normaal gesproken dollars. Het accepteren van een volatiele valuta brengt aanzienlijke administratieve kosten met zich mee.
 
-Merchants will accept any currency if it increases their sales. Having a large user base with a stable currency such as SBD lowers the barrier to entry for merchants. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
+Handelaren zullen elke valuta accepteren als het hun omzet verhoogt. Het hebben van een grote gebruikersgroep met een stabiele munt zoals SBD verlaagt de toetredingsdrempel voor handelaren. De aanwezigheid van handelaren verbetert het systeem door het creëren van een uitgang voor gebruikers om het systeem te verlaten zonder de moeilijkheden die komen kijken bij het gebruiken van een exchange.
 
-Another way that people can liquidate the small amounts of cryptocurrency they receive from participating on the Steem platform is through *tipping* others. This is like leaving the small change as a tip for your waiter. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
+Een andere manier waarop mensen de kleine hoeveelheden cryptovaluta die ze ontvangen door deelname aan het Steem platform kunnen liquideren is door *het geven van fooien* aan anderen. This is like leaving the small change as a tip for your waiter. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
 
 ## Censorship
 
