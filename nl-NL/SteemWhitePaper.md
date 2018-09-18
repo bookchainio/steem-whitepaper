@@ -463,17 +463,17 @@ Bovendien betaalt Steem mensen om uit te vinden wie er betaald moet worden! Dit 
 
 ## De waarde zit in de links
 
-The Internet would lose the vast majority of its value if all links among content were removed. It is the relationship among web pages that allows Google to identify the best apple pie recipe among the 16 million results. Without the links the only information Google would have is word frequency.
+Het internet zou het overgrote deel van zijn waarde verliezen als alle links tussen de inhoud zouden worden verwijderd. Het is de relatie tussen webpagina's die Google in staat stelt om het beste appeltaartrecept te identificeren onder de 16 miljoen resultaten. Zonder de links is de enige informatie die Google zou hebben de woordfrequentie.
 
-Links can take many forms and have adapted over time. Every time a user votes on content in a social network they add a connection between themselves and the content. This in turn links the consumer to the producer through the content. The more connections a network has the more valuable the information becomes. It is the relative and intentional connectedness of information that gives it value.
+Links kunnen vele vormen aannemen en hebben zich in de loop der tijd aangepast. Telkens wanneer een gebruiker stemt op content in een sociaal netwerk voegt hij/zij een verbinding tussen zichzelf en de inhoud toe. Dit op zijn beurt verbindt de consument met de producent via de content. Hoe meer verbindingen een netwerk heeft, hoe waardevoller de informatie wordt. Het is de relatieve en opzettelijke verbondenheid van informatie die het waarde geeft.
 
-A social network can maximize the value extracted from a set of content by maximizing the quantity and quality of connections. Curating content is expensive and time consuming while being near impossible for computers to perform in the absence of links. Steem rewards users who are among the first to find and identify new content.
+Een sociaal netwerk kan de waarde van een set content maximaliseren door de kwantiteit en kwaliteit van de verbindingen te maximaliseren. Het cureren van inhoud is duur en tijdrovend, terwijl het bijna onmogelijk is voor computers om te presteren zonder links. Steem beloont gebruikers die als een van de eersten nieuwe inhoud vinden en identificeren.
 
-By incentivising curation the Steem network is able to use automated algorithms to extract the most valuable information from a massive amount of content.
+Door het stimuleren van curatie is het Steem-netwerk in staat om met geautomatiseerde algoritmes de meest waardevolle informatie uit een enorme hoeveelheid content te halen.
 
-## Solving the Cryptocurrency Onboarding Problem
+## Het probleem oplossen van het aan boord krijgen van gebruikers in cryptovaluta
 
-It isn’t easy to get into cryptocurrency[^21]. Someone who discovers Bitcoin and wants to try it out quickly learns that they will need to sign up with an exchange and fund their account with a credit card or wire transfer. What would Facebook’s adoption rate have been like if you had to fork over money and a two forms of ID?
+Het is niet makkelijk om in cryptovaluta[^21] te komen. Someone who discovers Bitcoin and wants to try it out quickly learns that they will need to sign up with an exchange and fund their account with a credit card or wire transfer. What would Facebook’s adoption rate have been like if you had to fork over money and a two forms of ID?
 
 Steem solves this problem by giving everyone a way to get paid for doing simple, but valuable, tasks. This will help to widely distribute STEEM tokens. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless.)
 
