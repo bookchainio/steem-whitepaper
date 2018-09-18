@@ -447,7 +447,7 @@ Gezamenlijk stemmen Reddit-gebruikers 220 keer per seconde en maken ze 23 berich
 
 Bestaande pogingen om een cryptovaluta te integreren in een social media-platform zijn erop gericht om gebruikers in staat te stellen elkaar te betalen. Veel diensten hebben geprobeerd om fooien in te voeren. De theorie is dat als we het geven van fooien eenvoudig genoeg maken, meer mensen het zullen doen. Andere diensten proberen mensen ertoe te bewegen te betalen om de plaatsing van hun content te promoten of te verbeteren. Weer anderen proberen kleine voorspellingsmarkten te bouwen op hoeveel tips een artikel zal ontvangen.
 
-All of these approaches boil down to micropayments. They differ only in who is making the payment. They all suffer from insufficient engagement of people making the micropayments. In the search for incentivised content production entrepreneurs have been so focused on who should pay that they missed the obvious reality: everyone benefits from everyone’s actions so everyone should pay or no one should pay, depending on how you look at it.
+Al deze benaderingen komen neer op micro-betalingen. Ze verschillen alleen in wie de betaling verricht. Ze hebben allemaal te lijden onder onvoldoende betrokkenheid van de mensen die de micro-betalingen doen. In the search for incentivised content production entrepreneurs have been so focused on who should pay that they missed the obvious reality: everyone benefits from everyone’s actions so everyone should pay or no one should pay, depending on how you look at it.
 
 Steem bypasses micropayments completely because when a user upvotes a post it is the community that pays the bill. The same amount of money will be spent whether the user upvotes a post or not and the funds will not come from the voter.
 
@@ -485,7 +485,7 @@ Handelaren geven gebruikers een manier om snel hun cryptovaluta om te zetten in 
 
 Handelaren zullen elke valuta accepteren als het hun omzet verhoogt. Het hebben van een grote gebruikersgroep met een stabiele munt zoals SBD verlaagt de toetredingsdrempel voor handelaren. De aanwezigheid van handelaren verbetert het systeem door het creëren van een uitgang voor gebruikers om het systeem te verlaten zonder de moeilijkheden die komen kijken bij het gebruiken van een exchange.
 
-Een andere manier waarop mensen de kleine hoeveelheden cryptovaluta die ze ontvangen door deelname aan het Steem platform kunnen liquideren is door *het geven van fooien* aan anderen. Dit is als het achterlaten van wisselgeld als een fooi voor je ober. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
+Een andere manier waarop mensen de kleine hoeveelheden cryptovaluta die ze ontvangen door deelname aan het Steem platform kunnen liquideren is door *het geven van fooien* aan anderen. Dit is als het achterlaten van wisselgeld als een fooi voor je ober. Wanneer genoeg mensen kleine fooien achterlaten telt dat op tot een zinvol bedrag. Zowel jij als de ober hebben baat bij de fooi.
 
 ## Censorship
 
