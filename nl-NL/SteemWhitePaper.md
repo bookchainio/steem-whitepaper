@@ -485,7 +485,7 @@ Handelaren geven gebruikers een manier om snel hun cryptovaluta om te zetten in 
 
 Handelaren zullen elke valuta accepteren als het hun omzet verhoogt. Het hebben van een grote gebruikersgroep met een stabiele munt zoals SBD verlaagt de toetredingsdrempel voor handelaren. De aanwezigheid van handelaren verbetert het systeem door het creëren van een uitgang voor gebruikers om het systeem te verlaten zonder de moeilijkheden die komen kijken bij het gebruiken van een exchange.
 
-Een andere manier waarop mensen de kleine hoeveelheden cryptovaluta die ze ontvangen door deelname aan het Steem platform kunnen liquideren is door *het geven van fooien* aan anderen. This is like leaving the small change as a tip for your waiter. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
+Een andere manier waarop mensen de kleine hoeveelheden cryptovaluta die ze ontvangen door deelname aan het Steem platform kunnen liquideren is door *het geven van fooien* aan anderen. Dit is als het achterlaten van wisselgeld als een fooi voor je ober. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
 
 ## Censorship
 
