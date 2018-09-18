@@ -447,9 +447,9 @@ Gezamenlijk stemmen Reddit-gebruikers 220 keer per seconde en maken ze 23 berich
 
 Bestaande pogingen om een cryptovaluta te integreren in een social media-platform zijn erop gericht om gebruikers in staat te stellen elkaar te betalen. Veel diensten hebben geprobeerd om fooien in te voeren. De theorie is dat als we het geven van fooien eenvoudig genoeg maken, meer mensen het zullen doen. Andere diensten proberen mensen ertoe te bewegen te betalen om de plaatsing van hun content te promoten of te verbeteren. Weer anderen proberen kleine voorspellingsmarkten te bouwen op hoeveel tips een artikel zal ontvangen.
 
-Al deze benaderingen komen neer op micro-betalingen. Ze verschillen alleen in wie de betaling verricht. Ze hebben allemaal te lijden onder onvoldoende betrokkenheid van de mensen die de micro-betalingen doen. In the search for incentivised content production entrepreneurs have been so focused on who should pay that they missed the obvious reality: everyone benefits from everyone’s actions so everyone should pay or no one should pay, depending on how you look at it.
+Al deze benaderingen komen neer op micro-betalingen. Ze verschillen alleen in wie de betaling verricht. Ze hebben allemaal te lijden onder onvoldoende betrokkenheid van de mensen die de micro-betalingen doen. In de zoektocht naar geïncentiveerde content-productie zijn ondernemers zo gefocust op wie moet betalen dat ze de voor de hand liggende realiteit hebben gemist: iedereen profiteert van ieders acties, zodat iedereen moet betalen of niemand moet betalen, afhankelijk van hoe je het bekijkt.
 
-Steem bypasses micropayments completely because when a user upvotes a post it is the community that pays the bill. The same amount of money will be spent whether the user upvotes a post or not and the funds will not come from the voter.
+Steem omzeilt micro-betalingen volledig omdat wanneer een gebruiker een bericht upvote het de gemeenschap is die de rekening betaalt. Hetzelfde geldbedrag zal worden uitgegeven, of de gebruiker nu wel of niet een upvote uitdeelt, en de fondsen zullen niet van de gebruiker komen.
 
 De mentale energie die gepaard gaat met het nemen van een economische beslissing wordt voor de meeste mensen een belemmering voor participatie.
 
