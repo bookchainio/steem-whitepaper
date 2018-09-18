@@ -473,15 +473,15 @@ Door het stimuleren van curatie is het Steem-netwerk in staat om met geautomatis
 
 ## Het probleem oplossen van het aan boord krijgen van gebruikers in cryptovaluta
 
-Het is niet makkelijk om in cryptovaluta[^21] te komen. Someone who discovers Bitcoin and wants to try it out quickly learns that they will need to sign up with an exchange and fund their account with a credit card or wire transfer. What would Facebook’s adoption rate have been like if you had to fork over money and a two forms of ID?
+Het is niet makkelijk om in cryptovaluta[^21] te komen. Iemand die Bitcoin ontdekt en het snel wil uitproberen ontdekt dat hij of zij zich moet aanmelden bij een exchange en zijn of haar rekening moet financieren met een creditcard of bankoverschrijving. Hoe zou de acceptatiegraad van Facebook zijn geweest als je geld en twee vormen van identificatie had moeten overhandigen?
 
-Steem solves this problem by giving everyone a way to get paid for doing simple, but valuable, tasks. This will help to widely distribute STEEM tokens. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless.)
+Steem lost dit probleem op door iedereen een manier te geven om betaald te krijgen voor eenvoudige maar waardevolle taken. Dit zal bijdragen tot een brede verspreiding van STEEM-tokens. Dit is nuttig omdat cryptovaluta een netwerkeffect hebben (d.w.z. meer gebruikers maken het nuttiger; voor een extreem voorbeeld, bedenk dat als Satoshi 100% van Bitcoin voor zichzelf had gehouden, Bitcoin waardeloos zou zijn.)
 
-## Solving the Cryptocurrency Liquidation Problem
+## Het probleem oplossen van het liquideren van cryptovaluta
 
-A currency that is difficult to use or impossible to sell has little value. Someone who comes across $1.00 worth of Bitcoin will discover that it costs more than $1.00 to sell that Bitcoin. They have to create an account with an exchange, perform KYC validation, and pay fees. Small amounts of cryptocurrency are like small change that people are unwilling to bend over to pick up.
+Een valuta die moeilijk te gebruiken of onmogelijk te verkopen is heeft weinig waarde. Iemand die aan Bitcoin ter waarde van $1,00 komt zal ontdekken dat het meer dan $1,00 kost om die Bitcoin te verkopen. Hij/zij moet een account aanmaken met een exchange, KYC (Know Your Customer) validatie uitvoeren en kosten betalen. Kleine hoeveelheden cryptovaluta zijn als klein wisselgeld waar mensen niet bereid zijn voor te bukken om het op te rapen.
 
-Merchants give users a way to quickly convert their cryptocurrency into tangible goods and services. Merchants need a currency pegged to their unit of account, normally dollars. Accepting a volatile currency introduces significant accounting overhead.
+Handelaren geven gebruikers een manier om snel hun cryptovaluta om te zetten in tastbare goederen en diensten. Handelaren hebben een valuta nodig die gekoppeld is aan hun rekeneenheid, normaal gesproken dollars. Het accepteren van een volatiele valuta brengt aanzienlijke administratieve kosten met zich mee.
 
 Merchants will accept any currency if it increases their sales. Having a large user base with a stable currency such as SBD lowers the barrier to entry for merchants. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
 
