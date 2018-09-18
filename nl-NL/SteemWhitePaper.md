@@ -457,11 +457,11 @@ De mentale energie die gepaard gaat met het nemen van een economische beslissing
 
 -Micro-betalingen: Een levensvatbaar bedrijfsmodel[^20]
 
-Onder Steem worden micro-betalingen betaald aan de maker van de content, terwijl degenen die op de inhoud stemmen niet betalen. In plaats daarvan worden de kosten van de beloning betaald via nieuwe tokens. Iemand kan zich bij het systeem aansluiten, stemmen om iemand te betalen en vervolgens met meer geld uit het systeem stappen dan waarmee hij/zij begonnen is (ervan uitgaande dat de marktwaarde van het Steem-systeem constant blijft). In other words, the micropayment solution provided by Steem provides a user-experience similar to many widely used websites that have user-moderated content.
+Onder Steem worden micro-betalingen betaald aan de maker van de content, terwijl degenen die op de inhoud stemmen niet betalen. In plaats daarvan worden de kosten van de beloning betaald via nieuwe tokens. Iemand kan zich bij het systeem aansluiten, stemmen om iemand te betalen en vervolgens met meer geld uit het systeem stappen dan waarmee hij/zij begonnen is (ervan uitgaande dat de marktwaarde van het Steem-systeem constant blijft). Met andere woorden, de micro-betaling-oplossing van Steem biedt een gebruikerservaring die vergelijkbaar is met veel veelgebruikte websites met door de gebruiker gemodereerde inhoud.
 
-Furthemore, Steem pays people to figure out who should be paid! This kind of thinking is revolutionary.
+Bovendien betaalt Steem mensen om uit te vinden wie er betaald moet worden! Dit soort denken is revolutionair.
 
-## Value is in the Links
+## De waarde zit in de links
 
 The Internet would lose the vast majority of its value if all links among content were removed. It is the relationship among web pages that allows Google to identify the best apple pie recipe among the 16 million results. Without the links the only information Google would have is word frequency.
 
