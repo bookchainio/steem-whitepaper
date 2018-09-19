@@ -481,9 +481,9 @@ Steem lost dit probleem op door iedereen een manier te geven om betaald te krijg
 
 Een valuta die moeilijk te gebruiken of onmogelijk te verkopen is heeft weinig waarde. Iemand die aan Bitcoin ter waarde van $1,00 komt zal ontdekken dat het meer dan $1,00 kost om die Bitcoin te verkopen. Hij/zij moet een account aanmaken met een exchange, KYC (Know Your Customer) validatie uitvoeren en kosten betalen. Kleine hoeveelheden cryptovaluta zijn als klein wisselgeld waar mensen niet bereid zijn voor te bukken om het op te rapen.
 
-Handelaren geven gebruikers een manier om snel hun cryptovaluta om te zetten in tastbare goederen en diensten. Handelaren hebben een valuta nodig die gekoppeld is aan hun rekeneenheid, normaal gesproken dollars. Het accepteren van een volatiele valuta brengt aanzienlijke administratieve kosten met zich mee.
+Handelaren geven gebruikers een manier om snel hun cryptovaluta om te zetten in tastbare goederen en diensten. Handelaren hebben een valuta nodig die gekoppeld is aan hun rekeneenheid, normaal gesproken dollars. Het accepteren van vluchtige valuta brengt aanzienlijke administratieve kosten met zich mee.
 
-Handelaren zullen elke valuta accepteren als het hun omzet verhoogt. Het hebben van een grote gebruikersgroep met een stabiele munt zoals SBD verlaagt de toetredingsdrempel voor handelaren. De aanwezigheid van handelaren verbetert het systeem door het creëren van een uitgang voor gebruikers om het systeem te verlaten zonder de moeilijkheden die komen kijken bij het gebruiken van een exchange.
+Handelaren zullen elke valuta accepteren als het hun omzet verhoogt. Het hebben van een grote gebruikersgroep met een stabiele munt zoals SBD verlaagt de toetredingsdrempel voor handelaren. De aanwezigheid van handelaren verbetert het systeem door het creëren van een uitgang voor gebruikers om het systeem te verlaten zonder het getob met het gebruik van een exchange.
 
 Een andere manier waarop mensen de kleine hoeveelheden cryptovaluta die ze ontvangen door deelname aan het Steem platform kunnen liquideren is door *het geven van fooien* aan anderen. Dit is als het achterlaten van wisselgeld als een fooi voor je ober. Wanneer genoeg mensen kleine fooien achterlaten telt dat op tot een zinvol bedrag. Zowel jij als de ober hebben baat bij de fooi.
 
