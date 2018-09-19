@@ -449,7 +449,7 @@ Bestaande pogingen om een cryptovaluta te integreren in een social media-platfor
 
 Al deze benaderingen komen neer op micro-betalingen. Ze verschillen alleen in wie de betaling verricht. Ze hebben allemaal te lijden onder onvoldoende betrokkenheid van de mensen die de micro-betalingen doen. In de zoektocht naar geïncentiveerde content-productie zijn ondernemers zo gefocust op wie moet betalen dat ze de voor de hand liggende realiteit hebben gemist: iedereen profiteert van ieders acties, zodat iedereen moet betalen of niemand moet betalen, afhankelijk van hoe je het bekijkt.
 
-Steem omzeilt micro-betalingen volledig omdat wanneer een gebruiker een bericht upvote het de gemeenschap is die de rekening betaalt. Hetzelfde geldbedrag zal worden uitgegeven, of de gebruiker nu wel of niet een upvote uitdeelt, en de fondsen zullen niet van de gebruiker komen.
+Steem omzeilt micro-betalingen volledig omdat wanneer een gebruiker een artikel upvote het de gemeenschap is die de rekening betaalt. Hetzelfde geldbedrag zal worden uitgegeven, of de gebruiker nu wel of niet een upvote uitdeelt, en de fondsen zullen niet van de gebruiker komen.
 
 De mentale energie die gepaard gaat met het nemen van een economische beslissing wordt voor de meeste mensen een belemmering voor participatie.
 
