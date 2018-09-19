@@ -465,7 +465,7 @@ Bovendien betaalt Steem mensen om uit te vinden wie er betaald moet worden! Dit 
 
 Het internet zou het overgrote deel van zijn waarde verliezen als alle links tussen de inhoud zouden worden verwijderd. Het is de relatie tussen webpagina's die Google in staat stelt om het beste appeltaartrecept te identificeren onder de 16 miljoen resultaten. Zonder de links is de enige informatie die Google zou hebben de woordfrequentie.
 
-Links kunnen vele vormen aannemen en hebben zich in de loop der tijd aangepast. Telkens wanneer een gebruiker stemt op content in een sociaal netwerk voegt hij/zij een verbinding tussen zichzelf en de inhoud toe. Dit op zijn beurt verbindt de consument met de producent via de content. Hoe meer verbindingen een netwerk heeft, hoe waardevoller de informatie wordt. Het is de relatieve en opzettelijke verbondenheid van informatie die het waarde geeft.
+Links kunnen vele vormen aannemen en hebben zich in de loop der tijd aangepast. Telkens wanneer een gebruiker stemt op content in een sociaal netwerk voegt hij/zij een verbinding tussen zichzelf en de inhoud toe. Dit op zijn beurt verbindt de consument met de producent via de inhoud. Hoe meer verbindingen een netwerk heeft, hoe waardevoller de informatie wordt. Het is de relatieve en opzettelijke verbondenheid van informatie die het waarde geeft.
 
 Een sociaal netwerk kan de waarde van een set content maximaliseren door de kwantiteit en kwaliteit van de verbindingen te maximaliseren. Het cureren van inhoud is duur en tijdrovend, terwijl het bijna onmogelijk is voor computers om te presteren zonder links. Steem beloont gebruikers die als een van de eersten nieuwe inhoud vinden en identificeren.
 
