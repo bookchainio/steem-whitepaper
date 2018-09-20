@@ -471,15 +471,15 @@ Een sociaal netwerk kan de waarde van een set content maximaliseren door de kwan
 
 Door het stimuleren van curatie is het Steem-netwerk in staat om met geautomatiseerde algoritmes de meest waardevolle informatie uit een enorme hoeveelheid content te halen.
 
-## Het probleem oplossen van het aan boord krijgen van gebruikers in cryptovaluta
+## Het probleem oplossen van het aan boord krijgen van gebruikers in de wereld van cryptovaluta
 
-Het is niet makkelijk om in cryptovaluta[^21] te komen. Iemand die Bitcoin ontdekt en het snel wil uitproberen ontdekt dat hij of zij zich moet aanmelden bij een exchange en zijn of haar rekening moet financieren met een creditcard of bankoverschrijving. Hoe zou de acceptatiegraad van Facebook zijn geweest als je geld en twee vormen van identificatie had moeten overhandigen?
+Het is niet makkelijk om de wereld van cryptovaluta in te komen[^21]. Iemand die Bitcoin ontdekt en het wil uitproberen ontdekt al snel dat hij of zij zich moet aanmelden bij een exchange en zijn of haar rekening moet financieren met een creditcard of bankoverschrijving. Hoe zou de acceptatiegraad van Facebook zijn geweest als je geld en twee vormen van identificatie had moeten overhandigen?
 
 Steem lost dit probleem op door iedereen een manier te geven om betaald te krijgen voor eenvoudige maar waardevolle taken. Dit zal bijdragen tot een brede verspreiding van STEEM-tokens. Dit is nuttig omdat cryptovaluta een netwerkeffect hebben (d.w.z. meer gebruikers maken het nuttiger; voor een extreem voorbeeld, bedenk dat als Satoshi 100% van Bitcoin voor zichzelf had gehouden, Bitcoin waardeloos zou zijn.)
 
 ## Het probleem oplossen van het liquideren van cryptovaluta
 
-Een valuta die moeilijk te gebruiken of onmogelijk te verkopen is heeft weinig waarde. Iemand die aan Bitcoin ter waarde van $1,00 komt zal ontdekken dat het meer dan $1,00 kost om die Bitcoin te verkopen. Hij/zij moet een account aanmaken met een exchange, KYC (Know Your Customer) validatie uitvoeren en kosten betalen. Kleine hoeveelheden cryptovaluta zijn als klein wisselgeld waar mensen niet bereid zijn voor te bukken om het op te rapen.
+Een valuta die moeilijk te gebruiken of onmogelijk te verkopen is heeft weinig waarde. Iemand die Bitcoin ter waarde van $1,00 tegenkomt zal ontdekken dat het meer dan $1,00 kost om die Bitcoin te verkopen. Hij/zij moet een account aanmaken bij een exchange, KYC (Know Your Customer) validatie uitvoeren en kosten betalen. Kleine hoeveelheden cryptovaluta zijn als klein wisselgeld waar mensen niet bereid zijn voor te bukken om het op te rapen.
 
 Handelaren geven gebruikers een manier om snel hun cryptovaluta om te zetten in tastbare goederen en diensten. Handelaren hebben een valuta nodig die gekoppeld is aan hun rekeneenheid, normaal gesproken dollars. Het accepteren van vluchtige valuta brengt aanzienlijke administratieve kosten met zich mee.
 
