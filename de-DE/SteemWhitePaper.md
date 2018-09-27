@@ -467,9 +467,9 @@ Das Internet würde den überwiegenden Teil seines Wertes verlieren, wenn alle L
 
 Links können viele Formen annehmen und sich im Laufe der Zeit geändert haben. Jedes Mal, wenn ein Benutzer Inhalte in einem sozialen Netzwerk bewertet, fügt er eine Verbindung zwischen sich und den Inhalten hinzu. Dies wiederum verbindet über den Inhalt den Verbraucher mit dem Produzenten. Je mehr Verbindungen ein Netzwerk hat, desto wertvoller werden die Informationen. Es ist die relative und absichtliche Vernetzung von Informationen, die ihr einen Wert verleiht.
 
-A social network can maximize the value extracted from a set of content by maximizing the quantity and quality of connections. Curating content is expensive and time consuming while being near impossible for computers to perform in the absence of links. Steem rewards users who are among the first to find and identify new content.
+Ein soziales Netzwerk kann den aus einer Reihe von Inhalten gewonnenen Wert maximieren, indem es die Anzahl und Qualität der Verbindungen maximiert. Die Kuration von Inhalten ist teuer und zeitaufwendig. Sogar für Computer ist es nahezu unmöglich, diese durchzuzuführen. Steem belohnt Benutzer, die zu den ersten gehören, die neue Inhalte finden und identifizieren.
 
-By incentivising curation the Steem network is able to use automated algorithms to extract the most valuable information from a massive amount of content.
+Durch die Anreizwirkung auf die Kuration ist das Steem-Netzwerk in der Lage, mit Hilfe automatisierter Algorithmen die wertvollsten Informationen aus einer Vielzahl von Inhalten zu extrahieren.
 
 ## Solving the Cryptocurrency Onboarding Problem
 
