@@ -471,9 +471,9 @@ Ein soziales Netzwerk kann den aus einer Reihe von Inhalten gewonnenen Wert maxi
 
 Durch die Anreizwirkung auf die Kuration ist das Steem-Netzwerk in der Lage, mit Hilfe automatisierter Algorithmen die wertvollsten Informationen aus einer Vielzahl von Inhalten zu extrahieren.
 
-## Solving the Cryptocurrency Onboarding Problem
+## Die Lösung für das Kryptowährung-Onboarding-Problem
 
-It isn’t easy to get into cryptocurrency[^21]. Someone who discovers Bitcoin and wants to try it out quickly learns that they will need to sign up with an exchange and fund their account with a credit card or wire transfer. What would Facebook’s adoption rate have been like if you had to fork over money and a two forms of ID?
+Es ist nicht einfach, in Kryptowährungen[^21] einzusteigen. Jemand, der Bitcoin entdeckt und ausprobieren möchte, erfährt schnell, dass er sich bei einer Börse anmelden und sein Konto mit einer Kreditkarte oder Banküberweisung aufladen muss. Wie wäre die Akzeptanzrate von Facebook gewesen, wenn du Geld und zwei Arten von IDs abgeben müsstest?
 
 Steem solves this problem by giving everyone a way to get paid for doing simple, but valuable, tasks. This will help to widely distribute STEEM tokens. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless.)
 
