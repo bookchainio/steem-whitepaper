@@ -475,7 +475,7 @@ Durch die Anreizwirkung auf die Kuration ist das Steem-Netzwerk in der Lage, mit
 
 Es ist nicht einfach, in Kryptowährungen[^21] einzusteigen. Jemand, der Bitcoin entdeckt und ausprobieren möchte, erfährt schnell, dass er sich bei einer Börse anmelden und sein Konto mit einer Kreditkarte oder Banküberweisung aufladen muss. Wie wäre die Akzeptanzrate von Facebook gewesen, wenn du Geld und zwei Arten von IDs abgeben müsstest?
 
-Steem solves this problem by giving everyone a way to get paid for doing simple, but valuable, tasks. This will help to widely distribute STEEM tokens. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless.)
+Steem löst dieses Problem, indem er jedem eine Möglichkeit gibt, für einfache, aber wertvolle Aufgaben bezahlt zu werden. Dies wird dazu beitragen, STEEM-Token weit zu verbreiten. Dies ist hilfreich, da Kryptowährungen einen Netzwerkeffekt haben. (D.h. je mehr Benutzer mitmachen, desto nützlicher wird es. Oder anders gesagt: Wenn Satoshi 100% der Bitcoins für sich behalten hätte, wäre der Bitcoin wertlos.)
 
 ## Solving the Cryptocurrency Liquidation Problem
 
