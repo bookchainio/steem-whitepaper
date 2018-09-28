@@ -489,11 +489,11 @@ Eine weitere Möglichkeit, wie Menschen kleine Mengen an Kryptowährung handelba
 
 ## Zensur
 
-Steem is a decentralized network that is operated by witnesses in jurisdictions around the world. Alle Aktionen der Nutzer werden öffentlich auf der Blockchain publiziert und können aus diesem Grund öffentlich nachvollzogen werden. Das bedeutet, dass es keine einzige Instanz gibt, die Inhalte zensieren kann, die von STEEM-Inhabern wertgeschätzt werden.
+Steem ist ein dezentrales Netzwerk, das von Witnesses (Zeugen) in Ländern auf der ganzen Welt betrieben wird. Alle Benutzeraktionen werden öffentlich in der Blockchain aufgezeichnet und können öffentlich überprüft werden. Das bedeutet, dass es keine einzige Instanz gibt, die Inhalte zensieren kann, die von STEEM-Inhabern bewertet werden.
 
-Einzelne Websites wie steemit.com können Inhalte auf ihrer jeweiligen Website zensieren, aber Inhalte, die auf der Blockchain veröffentlicht werden, sind von Natur aus Broadcasts und andere Seiten auf der ganzen Welt können sie weiterhin zur Verfügung stellen.
+Einzelne Websites wie steemit.com können zwar Inhalte auf ihrer jeweiligen Website zensieren, aber die in der Blockchain veröffentlichten Inhalte sind von Natur aus Broadcast-Verkehr und Spiegel-Server auf der ganzen Welt können sie weiterhin zur Verfügung stellen.
 
-Redefreiheit ist die Grundlage aller anderen Freiheiten. Somit untergräbt jede Verletzung der Redefreiheit das einzige friedliche Mittel zur Erzielung eines Konsenses: die Diskussion. Without free discussion voters cannot be fully informed, and uninformed voters are a greater threat to society than losing the right to vote. Censorship is a means of stealing votes through limiting public discourse. Steem setzt sich dafür ein freie Meinungsäußerung zu ermöglichen und eine freie Gesellschaft aufzubauen.
+Redefreiheit ist die Grundlage aller anderen Freiheiten. Somit untergräbt jede Verletzung der Redefreiheit das einzige friedliche Mittel zur Erzielung eines Konsenses: die Diskussion. Ohne freie Diskussion können die Wähler nicht vollständig informiert werden, und uninformierte Wähler sind eine größere Bedrohung für die Gesellschaft, als das Wahlrecht zu verlieren. Censorship is a means of stealing votes through limiting public discourse. Steem setzt sich dafür ein freie Meinungsäußerung zu ermöglichen und eine freie Gesellschaft aufzubauen.
 
 ## Solving Organic Discovery via Search Engine Optimization
 
