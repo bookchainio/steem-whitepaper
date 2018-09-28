@@ -471,7 +471,7 @@ Ein soziales Netzwerk kann den aus einer Reihe von Inhalten gewonnenen Wert maxi
 
 Durch die Anreizwirkung auf die Kuration ist das Steem-Netzwerk in der Lage, mit Hilfe automatisierter Algorithmen die wertvollsten Informationen aus einer Vielzahl von Inhalten zu extrahieren.
 
-## Die Lösung des Problems des Kryptowährung-Onboardings
+## Die Lösung des Problems des Einstiegs in die Kryptowährung
 
 Es ist nicht einfach, in Kryptowährungen[^21] einzusteigen. Jemand, der Bitcoin entdeckt und ausprobieren möchte, erfährt schnell, dass er sich bei einer Börse anmelden und sein Konto mit einer Kreditkarte oder Banküberweisung aufladen muss. Wie wäre die Akzeptanzrate von Facebook gewesen, wenn du Geld und zwei Arten von IDs abgeben müsstest?
 
@@ -479,7 +479,7 @@ Steem löst dieses Problem, indem er jedem eine Möglichkeit gibt, für einfache
 
 ## Die Lösung des Problems der Kryptowährungsliquidität
 
-Eine Währung, die schwer zu benutzen oder nicht zu verkaufen ist, hat nur wenig Wert. Jemand, der einen Bitcoin im Wert von $1,00 besitzt, wird feststellen, dass es mehr als $1,00 kostet, diesen Bitcoin zu verkaufen. Sie müssen ein Konto mit einer Börse eröffnen, eine KYC-Validierung durchführen und Gebühren zahlen. Kleine Mengen an Kryptowährung sind wie Kleingeld, für das die Menschen nicht bereit sind, sich zu bücken, um es aufzunehmen.
+Eine Währung, die schwer zu benutzen oder nicht zu verkaufen ist, hat nur wenig Wert. Jemand, der einen Bitcoin im Wert von $1,00 besitzt, wird feststellen, dass es mehr als $1,00 kostet, diesen Bitcoin zu verkaufen. Er muss ein Konto mit einer Börse eröffnen, eine KYC-Validierung durchführen und Gebühren zahlen. Kleine Mengen an Kryptowährung sind wie Kleingeld, für das die Menschen nicht bereit sind, sich zu bücken, um es aufzunehmen.
 
 Händler bieten den Nutzern die Möglichkeit, ihre Kryptowährung schnell in materielle Waren und Dienstleistungen umzuwandeln. Händler benötigen eine Währung, die an ihre Rechnungseinheit gebunden ist, normalerweise Dollar. Die Akzeptanz einer volatilen Währung führt zu erheblichen Buchungskosten.
 
@@ -489,7 +489,7 @@ Eine weitere Möglichkeit, wie Menschen kleine Mengen an Kryptowährung handelba
 
 ## Zensur
 
-Steem ist ein dezentrales Netzwerk, das von Witnesses (Zeugen) in Ländern auf der ganzen Welt betrieben wird. Alle Benutzeraktionen werden öffentlich in der Blockchain aufgezeichnet und können öffentlich überprüft werden. Das bedeutet, dass es keine einzige Instanz gibt, die Inhalte zensieren kann, die von STEEM-Inhabern bewertet werden.
+Steem ist ein dezentrales Netzwerk, das von Witnesses (Zeugen) in Ländern auf der ganzen Welt betrieben wird. Alle Benutzeraktionen werden öffentlich in der Blockchain aufgezeichnet und können öffentlich überprüft werden. Das bedeutet, dass es keine einzelne Instanz gibt, die Inhalte zensieren kann, die von STEEM-Inhabern bewertet werden.
 
 Einzelne Websites wie steemit.com können zwar Inhalte auf ihrer jeweiligen Website zensieren, aber die in der Blockchain veröffentlichten Inhalte sind von Natur aus Broadcast-Verkehr und Spiegel-Server auf der ganzen Welt können sie weiterhin zur Verfügung stellen.
 
@@ -503,9 +503,9 @@ Die meisten Kryptowährungen generieren wenig Wert für diejenigen, die das Netz
 
 Das Internet ist das einfachste Medium zur Verbreitung von Informationen in der Welt. Damit kann es ein abschreckender Ort für Inhaltsersteller sein, die ihre Inhalte besitzen und mit einer angemessenen Autor-Zuschreibung freigeben möchten. Auf aktuellen Social-Media-Plattformen ist Attribution etwas, das über Nacht verloren gehen kann - ein gepostetes Video oder Bild kann ohne Zustimmung oder Rücksicht auf den Urheber repliziert und neu geteilt werden.
 
-Unter Blockchain-basierten sozialen Medien wäre ein Ersteller oder Autor immer in der Lage, auf eine öffentliche Aufzeichnung und einen Zeitstempel zu verweisen, die den Nachweis über die Herkunft seiner Inhalte erbringen. In einem Umstand, in dem ein Ersteller sich an diejenigen wenden möchte, die ohne Erlaubnis oder Zuschreibung neu geteilt haben, liefern blockchainbasierte Datensätze den öffentlichen Nachweis, dass der Inhalt von einem bestimmten Benutzer zu einem bestimmten Zeitpunkt veröffentlicht wurde. In Zukunft könnte die blockchainbasierte Attribution von den Regierungen wegen ihrer Authentizität anerkannt werden und vor Gericht Gewicht erlangen, was den Inhaltsentwicklern mehr Befugnisse zur Kontrolle ihrer Arbeit geben würde.
+Unter blockchainbasierten sozialen Medien wäre ein Ersteller oder Autor immer in der Lage, auf eine öffentliche Aufzeichnung und einen Zeitstempel zu verweisen, die den Nachweis über die Herkunft seiner Inhalte erbringen. In einem Umstand, in dem ein Ersteller sich an diejenigen wenden möchte, die ohne Erlaubnis oder Zuschreibung neu geteilt haben, liefern blockchainbasierte Datensätze den öffentlichen Nachweis, dass der Inhalt von einem bestimmten Benutzer zu einem bestimmten Zeitpunkt veröffentlicht wurde. In Zukunft könnte die blockchainbasierte Attribution von den Regierungen wegen ihrer Authentizität anerkannt werden und vor Gericht Gewicht erlangen, was den Inhaltsentwicklern mehr Befugnisse zur Kontrolle ihrer Arbeit geben würde.
 
-Während ein Zeitstempeldienst auf fast jeder Blockchain aufgebaut werden kann und es mehrere Anstrengungen gibt, diese Art von Dienst auf dem Bitcoin-Netzwerk aufzubauen, hat Steem einen nützlichen Vorteil in diesem Bereich, da Inhaltsverleger "erstklassige Bürger" sind. Die Steem-Blockchain wird von Grund auf um den Anwendungsfall der Inhaltsveröffentlichung herum aufgebaut, was es Inhaltserstellern ermöglicht, die Blockchain zu benutzen, ihre Inhalte zu einem bestimmten Zeitpunkt zu validieren, indem sie einfach ihren Beitrag mit den gleichen Autorenwerkzeugen schreiben, die von anderen Steem-Benutzern verwendet werden.
+Während ein Zeitstempeldienst auf fast jeder Blockchain aufgebaut werden kann und es mehrere Anstrengungen gibt, diese Art von Dienst auf dem Bitcoin-Netzwerk aufzubauen, hat Steem einen nützlichen Vorteil in diesem Bereich, da Inhaltsverleger "erstklassige Bürger" sind. Die Steem-Blockchain wird von Grund auf um den Anwendungsfall der Inhaltsveröffentlichung herum aufgebaut, was es Inhaltserstellern ermöglicht, diese Blockchain zu benutzen, ihre Inhalte zu einem bestimmten Zeitpunkt zu validieren, indem sie einfach ihren Beitrag mit den gleichen Autorenwerkzeugen schreiben, die von anderen Steem-Benutzern verwendet werden.
 
 ## Replacing Advertising with Blockchain-based Content Rewards
 
