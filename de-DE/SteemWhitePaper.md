@@ -481,11 +481,11 @@ Steem löst dieses Problem, indem er jedem eine Möglichkeit gibt, für einfache
 
 Eine Währung, die schwer zu benutzen oder nicht zu verkaufen ist, hat nur wenig Wert. Jemand, der einen Bitcoin im Wert von $1,00 besitzt, wird feststellen, dass es mehr als $1,00 kostet, diesen Bitcoin zu verkaufen. Sie müssen ein Konto mit einer Börse eröffnen, eine KYC-Validierung durchführen und Gebühren zahlen. Kleine Mengen an Kryptowährung sind wie Kleingeld, für das die Menschen nicht bereit sind, sich zu bücken, um es aufzunehmen.
 
-Händler bieten den Nutzern die Möglichkeit, ihre Kryptowährung schnell in materielle Waren und Dienstleistungen umzuwandeln. Händler benötigen eine Währung, die an ihre Rechnungseinheit gebunden ist, normalerweise Dollar. Accepting a volatile currency introduces significant accounting overhead.
+Händler bieten den Nutzern die Möglichkeit, ihre Kryptowährung schnell in materielle Waren und Dienstleistungen umzuwandeln. Händler benötigen eine Währung, die an ihre Rechnungseinheit gebunden ist, normalerweise Dollar. Die Akzeptanz einer volatilen Währung führt zu erheblichen Buchungskosten.
 
-Merchants will accept any currency if it increases their sales. Having a large user base with a stable currency such as SBD lowers the barrier to entry for merchants. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
+Händler akzeptieren jede Währung, wenn sie ihre Umsätze erhöht. Eine große Benutzerbasis mit einer stabilen Währung wie SBD senkt die Eintrittsbarriere für Händler. Die Anwesenheit von Händlern verbessert das System, indem sie eine Ausstiegsmöglichkeit für Benutzer schafft, um das System zu verlassen, ohne die Mühe zu haben, eine Tauschbörse zu nutzen.
 
-Another way that people can liquidate the small amounts of cryptocurrency they receive from participating on the Steem platform is through *tipping* others. This is like leaving the small change as a tip for your waiter. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
+Eine weitere Möglichkeit, wie Menschen kleine Mengen an Kryptowährung handelbar machen können, die sie von der Teilnahme an der Steem-Plattform erhalten, ist durch das Vergeben von *Trinkgelder* an andere. Das ist so, als würde man das kleine Wechselgeld als Trinkgeld für den Kellner hinterlassen. Wenn genügend Menschen kleine Trinkgelder hinterlassen, summiert sich das zu einem relevantem Betrag. Du und der Kellner erhalten jeweils einen Vorteil aus dem Trinkgeld.
 
 ## Zensur
 
