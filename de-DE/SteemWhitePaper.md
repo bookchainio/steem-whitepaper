@@ -471,17 +471,17 @@ Ein soziales Netzwerk kann den aus einer Reihe von Inhalten gewonnenen Wert maxi
 
 Durch die Anreizwirkung auf die Kuration ist das Steem-Netzwerk in der Lage, mit Hilfe automatisierter Algorithmen die wertvollsten Informationen aus einer Vielzahl von Inhalten zu extrahieren.
 
-## Die Lösung für das Kryptowährung-Onboarding-Problem
+## Die Lösung des Problems des Kryptowährung-Onboardings
 
 Es ist nicht einfach, in Kryptowährungen[^21] einzusteigen. Jemand, der Bitcoin entdeckt und ausprobieren möchte, erfährt schnell, dass er sich bei einer Börse anmelden und sein Konto mit einer Kreditkarte oder Banküberweisung aufladen muss. Wie wäre die Akzeptanzrate von Facebook gewesen, wenn du Geld und zwei Arten von IDs abgeben müsstest?
 
 Steem löst dieses Problem, indem er jedem eine Möglichkeit gibt, für einfache, aber wertvolle Aufgaben bezahlt zu werden. Dies wird dazu beitragen, STEEM-Token weit zu verbreiten. Dies ist hilfreich, da Kryptowährungen einen Netzwerkeffekt haben. (D.h. je mehr Benutzer mitmachen, desto nützlicher wird es. Oder anders gesagt: Wenn Satoshi 100% der Bitcoins für sich behalten hätte, wäre der Bitcoin wertlos.)
 
-## Solving the Cryptocurrency Liquidation Problem
+## Die Lösung des Problems der Kryptowährungsliquidität
 
-A currency that is difficult to use or impossible to sell has little value. Someone who comes across $1.00 worth of Bitcoin will discover that it costs more than $1.00 to sell that Bitcoin. They have to create an account with an exchange, perform KYC validation, and pay fees. Small amounts of cryptocurrency are like small change that people are unwilling to bend over to pick up.
+Eine Währung, die schwer zu benutzen oder nicht zu verkaufen ist, hat nur wenig Wert. Jemand, der einen Bitcoin im Wert von $1,00 besitzt, wird feststellen, dass es mehr als $1,00 kostet, diesen Bitcoin zu verkaufen. Sie müssen ein Konto mit einer Börse eröffnen, eine KYC-Validierung durchführen und Gebühren zahlen. Kleine Mengen an Kryptowährung sind wie Kleingeld, für das die Menschen nicht bereit sind, sich zu bücken, um es aufzunehmen.
 
-Merchants give users a way to quickly convert their cryptocurrency into tangible goods and services. Merchants need a currency pegged to their unit of account, normally dollars. Accepting a volatile currency introduces significant accounting overhead.
+Händler bieten den Nutzern die Möglichkeit, ihre Kryptowährung schnell in materielle Waren und Dienstleistungen umzuwandeln. Händler benötigen eine Währung, die an ihre Rechnungseinheit gebunden ist, normalerweise Dollar. Accepting a volatile currency introduces significant accounting overhead.
 
 Merchants will accept any currency if it increases their sales. Having a large user base with a stable currency such as SBD lowers the barrier to entry for merchants. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
 
