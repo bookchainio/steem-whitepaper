@@ -493,15 +493,15 @@ Steem ist ein dezentrales Netzwerk, das von Witnesses (Zeugen) in Ländern auf d
 
 Einzelne Websites wie steemit.com können zwar Inhalte auf ihrer jeweiligen Website zensieren, aber die in der Blockchain veröffentlichten Inhalte sind von Natur aus Broadcast-Verkehr und Spiegel-Server auf der ganzen Welt können sie weiterhin zur Verfügung stellen.
 
-Redefreiheit ist die Grundlage aller anderen Freiheiten. Somit untergräbt jede Verletzung der Redefreiheit das einzige friedliche Mittel zur Erzielung eines Konsenses: die Diskussion. Ohne freie Diskussion können die Wähler nicht vollständig informiert werden, und uninformierte Wähler sind eine größere Bedrohung für die Gesellschaft, als das Wahlrecht zu verlieren. Censorship is a means of stealing votes through limiting public discourse. Steem setzt sich dafür ein freie Meinungsäußerung zu ermöglichen und eine freie Gesellschaft aufzubauen.
+Redefreiheit ist die Grundlage aller anderen Freiheiten. Somit untergräbt jede Verletzung der Redefreiheit das einzige friedliche Mittel zur Erzielung eines Konsenses: die Diskussion. Ohne freie Diskussion können die Wähler nicht vollständig informiert werden, und uninformierte Wähler sind eine größere Bedrohung für die Gesellschaft, als das Wahlrecht zu verlieren. Wenn man den öffentlichen Diskurs einschränkt, erhalt man eine Zensur, ein Mittel Stimmen zu entziehen. Steem setzt sich dafür ein freie Meinungsäußerung zu ermöglichen und eine freie Gesellschaft aufzubauen.
 
-## Solving Organic Discovery via Search Engine Optimization
+## Lösung des Problems der "Organischen Entdeckung" durch Suchmaschinenoptimierung
 
-Most cryptocurrencies generate little value for those who are not actively using the network. Steem, by contrast, generates content and encourages users to share it. This content gets indexed by search engines and ultimately will bring value to a large number of passive users. This search traffic creates organic advertising for the Steem network and grows the network effect.
+Die meisten Kryptowährungen generieren wenig Wert für diejenigen, die das Netzwerk nicht aktiv nutzen. Steem hingegen generiert Inhalte und ermutigt die Nutzer, diese zu teilen. Dieser Inhalt wird von Suchmaschinen indiziert und wird letztendlich einer großen Anzahl passiver Nutzer einen Mehrwert bieten. Dieser Suchverkehr erzeugt organische Werbung für das Steem-Netzwerk und steigert den Netzwerkeffekt.
 
-## Shifting Toward Blockchain-based Attribution
+## Hinwendung zur blockchainbasierten Namensvergabe
 
-The internet represents the easiest medium for distributing information in the world. With that said, it can be a frightening place for content creators who would like to own their content and have it shared with proper attribution. On current social media platforms, attribution is something that can be lost overnight - a posted video or image can be replicated and re-shared without consent or regard for the creator.
+Das Internet ist das einfachste Medium zur Verbreitung von Informationen in der Welt. With that said, it can be a frightening place for content creators who would like to own their content and have it shared with proper attribution. On current social media platforms, attribution is something that can be lost overnight - a posted video or image can be replicated and re-shared without consent or regard for the creator.
 
 Under blockchain-based social media, a creator or author would always be able to point to a public record and timestamp showing proof of their content origination. In a circumstance where a creator would like to address those who have re-shared without permission or attribution, blockchain-based records provide public proof that the content was posted by a particular user at a particular time. In the future, blockchain-based attribution could come to be recognized by governments for its authenticity and could hold weight in court, which would give content creators greater powers to control their work.
 
