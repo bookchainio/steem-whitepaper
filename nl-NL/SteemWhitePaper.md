@@ -186,7 +186,7 @@ De volgende stap is om iedereen die ook maar iets positiefs doet, met *iets* te 
 
 We gaan er van uit dat er een vast bedrag te verdelen is en dat diegenen die een gevestigd lange termijn belang hebben in de toekomstige waarde en nuttigheid van de munt, diegenen zijn die bepalen hoe het verdeeld wordt. Elke gebruiker die een gevestigd belang heeft kan stemmen op wie het beste werk geleverd heeft en aan het eind van de dag wordt het beschikbare geld proportioneel verdeeld op een manier dat iedereen met ook maar 1 positieve stem iets krijgt.
 
-The naive voting process creates a N-Person Prisoner’s Dilemma[^5] whereby each individual voter has incentive to vote for themselves at the expense of the larger community goal. Als iedere stemmer er voor zou kiezen om voor zichzelf te stemmen dan wordt er geen geld gedistribueerd en zal het de munt in het algemeen niet lukken om netwerk effect te krijgen. Aan de andere kant, als slechts één stemmer voor zichzelf stemt dan zou die gebruiker onverdiende winst krijgen terwijl het een minimaal effect heeft op de totale waarde van de munt.
+Het oorspronkelijke stemproces creëert een N-Person Prisoner's Dilemma[^5] waarbij elke individuele stemmer een prikkel heeft om voor zichzelf te stemmen ten koste van het grotere doel van de gemeenschap. Als iedere stemmer er voor zou kiezen om voor zichzelf te stemmen dan wordt er geen geld gedistribueerd en zal het de munt in het algemeen niet lukken om netwerk effect te krijgen. Aan de andere kant, als slechts één stemmer voor zichzelf stemt dan zou die gebruiker onverdiende winst krijgen terwijl het een minimaal effect heeft op de totale waarde van de munt.
 
 #### Misbruik van Stemmingen
 
@@ -212,7 +212,7 @@ Het doel van het maken van een gemeenschappelijke munt is om "meer krabben in de
 
 ### Ratio Gelimiteerd Stemmen
 
-Een groot deel van het voorkomen van misbruik is het aantal stemmen te beperken. Individuele gebruikers kunnen maar een beperkt aantal stukken werk per dag lezen en evalueren. Elk verzoek om vaker te stemmen is een teken van automatisering en mogelijk misbruik. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
+Een groot deel van het voorkomen van misbruik is het aantal stemmen te beperken. Individuele gebruikers kunnen maar een beperkt aantal stukken werk per dag lezen en evalueren. Elk verzoek om vaker te stemmen is een teken van automatisering en mogelijk misbruik. Door de tariefbeperking telt de stem van stakeholders die vaker stemmen bij elke stem minder dan de stemmen van stakeholders die minder vaak stemmen. Pogingen om tokens over meerdere accounts te verdelen verdeelt ook de invloed en leidt dus niet tot een netto toename van de invloed en omzeilt ook niet de tarieflimiet die aan het stemmen wordt opgelegd.
 
 Aan gebruikers wordt een vaste hoeveelheid stemrecht toegekend. Stemrecht wordt vermenigvuldigd met de vesting tokens van een gebruiker om te bepalen hoeveel aandeel in de rewards pool moet worden toegekend aan een bepaalde taak. Iedere stem die wordt gegeven gebruikt een percentage overgebleven stemkracht. Gebruikers kunnen stemmen op meerdere artikelen, maar iedere stem wordt minder waard, en het duurt langer om weer volledige stemkracht te krijgen. Stemkracht laadt opnieuw op met een vaste lineaire koers van 20% per dag.
 
@@ -499,7 +499,7 @@ Vrijheid van meningsuiting is de basis van alle andere vrijheden en elke inbreuk
 
 De meeste cryptocurrencies genereren weinig waarde voor degenen die het netwerk niet actief gebruiken. Steem, daarentegen, genereert inhoud en moedigt gebruikers aan deze te delen. Deze inhoud wordt geïndexeerd door zoekmachines en zal uiteindelijk waarde toevoegen aan een groot aantal passieve gebruikers. Dit zoekverkeer creëert organische reclame voor het Steem-netwerk en vergroot het netwerkeffect.
 
-## Shifting Toward Blockchain-based Attribution
+## Verschuiven naar een Blockchain-gebaseerde Attributie
 
 Het internet is het gemakkelijkste medium ter wereld voor het verspreiden van informatie. Dat gezegd hebbende, kan het een angstaanjagende plek zijn voor content-makers die hun content willen bezitten en deze met de juiste attributie gedeeld willen hebben. Op huidige social media-platforms is attributie iets wat van de ene op de andere dag verloren kan gaan - een geplaatste video of afbeelding kan gerepliceerd en opnieuw gedeeld worden zonder toestemming of respect voor de maker.
 
