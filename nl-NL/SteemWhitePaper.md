@@ -487,13 +487,13 @@ Handelaren zullen elke valuta accepteren als het hun omzet verhoogt. Het hebben 
 
 Een andere manier waarop mensen de kleine hoeveelheden cryptovaluta die ze ontvangen door deelname aan het Steem platform kunnen liquideren is door *het geven van fooien* aan anderen. Dit is als het achterlaten van wisselgeld als een fooi voor je ober. Wanneer genoeg mensen kleine fooien achterlaten telt dat op tot een zinvol bedrag. Zowel jij als de ober hebben baat bij de fooi.
 
-## Censorship
+## Censuur
 
-Steem is a decentralized network that is operated by witnesses in jurisdictions around the world. All user actions are publicly recorded on the blockchain, and can be publicly verified. This means that there is no single entity that can censor content that is valued by STEEM holders.
+Steem is een gedecentraliseerd netwerk dat wordt beheerd door getuigen in rechtsgebieden over de hele wereld. Alle gebruikersacties worden publiekelijk geregistreerd op de blockchain, en kunnen publiekelijk worden geverifieerd. Dit betekent dat er geen enkele entiteit is die inhoud kan censureren die door STEEM-houders wordt gewaardeerd.
 
-Individual websites such as steemit.com may censor content on their particular site, but content published on the blockchain is inherently broadcast traffic and mirrors all around the world may continue to make it available.
+Individuele websites zoals steemit.com kunnen inhoud op hun specifieke site censureren, maar inhoud die op de blockchain wordt gepubliceerd is inherent 'uitgezonden' verkeer en spiegels over de hele wereld zou dit beschikbaar kunnen blijven maken.
 
-Freedom of speech is the foundation of all other liberties and any infringement upon freedom of speech undermines the only peaceful means of reaching consensus: discussion. Without free discussion voters cannot be fully informed, and uninformed voters are a greater threat to society than losing the right to vote. Censorship is a means of stealing votes through limiting public discourse. Steem is committed to enabling free speech and building a free society.
+Vrijheid van meningsuiting is de basis van alle andere vrijheden en elke inbreuk op de vrijheid van meningsuiting ondermijnt het enige vreedzame middel om consensus te bereiken: discussie. Zonder vrije discussie kunnen kiezers niet volledig geïnformeerd worden, en onwetende kiezers vormen een grotere bedreiging voor de samenleving dan het verlies van het stemrecht. Censorship is a means of stealing votes through limiting public discourse. Steem is committed to enabling free speech and building a free society.
 
 ## Solving Organic Discovery via Search Engine Optimization
 
