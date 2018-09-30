@@ -493,11 +493,11 @@ Steem is een gedecentraliseerd netwerk dat wordt beheerd door getuigen in rechts
 
 Individuele websites zoals steemit.com kunnen inhoud op hun specifieke site censureren, maar inhoud die op de blockchain wordt gepubliceerd is inherent 'uitgezonden' verkeer en spiegels over de hele wereld zou dit beschikbaar kunnen blijven maken.
 
-Vrijheid van meningsuiting is de basis van alle andere vrijheden en elke inbreuk op de vrijheid van meningsuiting ondermijnt het enige vreedzame middel om consensus te bereiken: discussie. Zonder vrije discussie kunnen kiezers niet volledig geïnformeerd worden, en onwetende kiezers vormen een grotere bedreiging voor de samenleving dan het verlies van het stemrecht. Censorship is a means of stealing votes through limiting public discourse. Steem is committed to enabling free speech and building a free society.
+Vrijheid van meningsuiting is de basis van alle andere vrijheden en elke inbreuk op de vrijheid van meningsuiting ondermijnt het enige vreedzame middel om consensus te bereiken: discussie. Zonder vrije discussie kunnen kiezers niet volledig geïnformeerd worden, en onwetende kiezers vormen een grotere bedreiging voor de samenleving dan het verlies van het stemrecht. Censuur is een middel om stemmen te stelen door het publieke debat te beperken. Steem zet zich in voor de vrijheid van meningsuiting en het bouwen van een vrije samenleving.
 
-## Solving Organic Discovery via Search Engine Optimization
+## Het oplossen van Organische Ontdekkingen oplossen via Zoekmachineoptimalisatie
 
-Most cryptocurrencies generate little value for those who are not actively using the network. Steem, by contrast, generates content and encourages users to share it. This content gets indexed by search engines and ultimately will bring value to a large number of passive users. This search traffic creates organic advertising for the Steem network and grows the network effect.
+De meeste cryptocurrencies genereren weinig waarde voor degenen die het netwerk niet actief gebruiken. Steem, daarentegen, genereert inhoud en moedigt gebruikers aan deze te delen. Deze inhoud wordt geïndexeerd door zoekmachines en zal uiteindelijk waarde toevoegen aan een groot aantal passieve gebruikers. This search traffic creates organic advertising for the Steem network and grows the network effect.
 
 ## Shifting Toward Blockchain-based Attribution
 
