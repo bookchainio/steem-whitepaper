@@ -507,7 +507,7 @@ Onder blockchain-gebaseerde social media zou een maker of auteur altijd kunnen v
 
 Hoewel een tijdstempel op bijna elke blockchain kan worden gebouwd, en er verschillende pogingen worden gedaan zo'n dienst op het Bitcoin-netwerk te bouwen, heeft Steem een nuttig voordeel in dit domein omdat uitgevers van inhoud "eersteklas burgers" zijn -- de Steem-blockchain is vanaf de grond opgebouwd rond het gebruiksscenario van de publicatie van inhoud, die de makers van inhoud toestaat de blockchain te gebruiken om hun inhoud op een bepaald moment in de tijd te valideren door hun post te schrijven met behulp van dezelfde schrijftools die door andere Steem-gebruikers worden gebruikt.
 
-## Replacing Advertising with Blockchain-based Content Rewards
+## Reclame vervangen door op blockchain gebaseerde content-beloningen
 
 Under most content monetization models, content creators leverage advertising in one form or another. Many creators recognize how advertising may diminish their work’s value to the consumer, yet creators very often must seek returns on their time by monetizing. Advertising represents a double-edged sword: With ads, a creator can make money most easily. Without ads, monetization is difficult but the content is richer.
 
