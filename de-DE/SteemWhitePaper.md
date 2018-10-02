@@ -479,13 +479,13 @@ Steem löst dieses Problem, indem er jedem eine Möglichkeit gibt, für einfache
 
 ## Die Lösung des Problems der Kryptowährungsliquidität
 
-Eine Währung, die schwer zu benutzen oder nicht zu verkaufen ist, hat nur wenig Wert. Jemand, der einen Bitcoin im Wert von $1,00 besitzt, wird feststellen, dass es mehr als $1,00 kostet, diesen Bitcoin zu verkaufen. Er muss ein Konto mit einer Börse eröffnen, eine KYC-Validierung durchführen und Gebühren zahlen. Kleine Mengen an Kryptowährung sind wie Kleingeld, für das die Menschen nicht bereit sind, sich zu bücken, um es aufzunehmen.
+Eine Währung, die schwer zu benutzen oder nicht zu verkaufen ist, hat nur wenig Wert. Jemand, der einen Bitcoin im Wert von $1,00 besitzt, wird feststellen, dass es mehr als $1,00 kostet, diesen Bitcoin zu verkaufen. Sie müssen ein Konto mit einer Börse eröffnen, eine KYC-Validierung durchführen und Gebühren zahlen. Kleine Mengen an Kryptowährung sind wie Kleingeld, für das die Menschen nicht bereit sind, sich zu bücken, um es aufzunehmen.
 
 Händler bieten den Nutzern die Möglichkeit, ihre Kryptowährung schnell in materielle Waren und Dienstleistungen umzuwandeln. Händler benötigen eine Währung, die an ihre Rechnungseinheit gebunden ist, normalerweise Dollar. Die Akzeptanz einer volatilen Währung führt zu erheblichen Buchungskosten.
 
 Händler akzeptieren jede Währung, wenn sie ihre Umsätze erhöht. Eine große Benutzerbasis mit einer stabilen Währung wie SBD senkt die Eintrittsbarriere für Händler. Die Anwesenheit von Händlern verbessert das System, indem sie eine Ausstiegsmöglichkeit für Benutzer schafft, um das System zu verlassen, ohne die Mühe zu haben, eine Tauschbörse zu nutzen.
 
-Eine weitere Möglichkeit, wie Menschen kleine Mengen an Kryptowährung handelbar machen können, die sie von der Teilnahme an der Steem-Plattform erhalten, ist durch das Vergeben von *Trinkgelder* an andere. Das ist so, als würde man das kleine Wechselgeld als Trinkgeld für den Kellner hinterlassen. Wenn genügend Menschen kleine Trinkgelder hinterlassen, summiert sich das zu einem relevantem Betrag. Du und der Kellner erhalten jeweils einen Vorteil aus dem Trinkgeld.
+Eine weitere Möglichkeit, wie Menschen kleine Mengen an Kryptowährung handelbar machen können, die sie von der Teilnahme an der Steem-Plattform erhalten, ist durch das Vergeben von *Trinkgeldern* an andere. Das ist so, als würde man das kleine Wechselgeld als Trinkgeld für den Kellner hinterlassen. Wenn genügend Menschen kleine Trinkgelder hinterlassen, summiert sich das zu einem relevantem Betrag. Du und der Kellner erhalten jeweils einen Vorteil aus dem Trinkgeld.
 
 ## Zensur
 
@@ -493,7 +493,7 @@ Steem ist ein dezentrales Netzwerk, das von Witnesses (Zeugen) in Ländern auf d
 
 Einzelne Websites wie steemit.com können zwar Inhalte auf ihrer jeweiligen Website zensieren, aber die in der Blockchain veröffentlichten Inhalte sind von Natur aus Broadcast-Verkehr und Spiegel-Server auf der ganzen Welt können sie weiterhin zur Verfügung stellen.
 
-Redefreiheit ist die Grundlage aller anderen Freiheiten. Somit untergräbt jede Verletzung der Redefreiheit das einzige friedliche Mittel zur Erzielung eines Konsenses: die Diskussion. Ohne freie Diskussion können die Wähler nicht vollständig informiert werden, und uninformierte Wähler sind eine größere Bedrohung für die Gesellschaft, als das Wahlrecht zu verlieren. Wenn man den öffentlichen Diskurs einschränkt, erhalt man eine Zensur, ein Mittel Stimmen zu entziehen. Steem setzt sich dafür ein freie Meinungsäußerung zu ermöglichen und eine freie Gesellschaft aufzubauen.
+Redefreiheit ist die Grundlage aller anderen Freiheiten. Somit untergräbt jede Verletzung der Redefreiheit das einzige friedliche Mittel zur Erzielung eines Konsenses: die Diskussion. Ohne freie Diskussion können die Wähler nicht vollständig informiert werden, und uninformierte Wähler sind eine größere Bedrohung für die Gesellschaft, als das Wahlrecht zu verlieren. Zensur ist ein Mittel, um Stimmen zu stehlen, indem man den öffentlichen Diskurs einschränkt. Steem setzt sich dafür ein freie Meinungsäußerung zu ermöglichen und eine freie Gesellschaft aufzubauen.
 
 ## Lösung des Problems der "Organischen Entdeckung" durch Suchmaschinenoptimierung
 
