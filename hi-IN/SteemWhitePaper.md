@@ -186,7 +186,7 @@
 
 मान लें कि वितरित करने के लिए एक निश्चित राशि है, और भविष्य में मूल्य और उपयोगिता में दीर्घकालिक निहित रुचि रखने वाले लोग हैं जिन्हें यह तय करना होगा कि इसे कैसे आवंटित किया जाए। प्रत्येक निहित उपयोगकर्ता अपने वोटों का दावा करता है कि किसने सबसे अच्छा काम किया और दिन के अंत में उस दिन के लिए उपलब्ध धन को वोटों के अनुपात में विभाजित किया जाता है, जिससे कि हर किसी को एक भी सकारात्मक वोट मिलने पर कुछ न कुछ मिलता है।
 
-निष्पक्ष मतदान प्रक्रिया एन-पर्सन प्रिज़नर्स डिलेमा[^5] की दुविधा बनाता है जिससे प्रत्येक व्यक्तिगत मतदाता को बड़े समुदाय के लक्ष्य की कीमत पर खुद को वोट देने के लिए प्रोत्साहन मिलता है। If every voter defects by voting for themselves then no currency will end up distributed and the currency as a whole will fail to gain network effect. On the other hand, if only one voter defects then that voter would win undeserved profits while having minimal effect on the overall value of the currency.
+निष्पक्ष मतदान प्रक्रिया एन-पर्सन प्रिज़नर्स डिलेमा[^5] की दुविधा बनाता है जिससे प्रत्येक व्यक्तिगत मतदाता को बड़े समुदाय के लक्ष्य की कीमत पर खुद को वोट देने के लिए प्रोत्साहन मिलता है। यदि प्रत्येक मतदाता स्वयं के लिए मतदान करके दोष डालता है तो कोई मुद्रा वितरित नहीं होगी और मुद्रा नेटवर्क प्रभाव प्राप्त करने में पूरी तरह से विफल रहेगी। On the other hand, if only one voter defects then that voter would win undeserved profits while having minimal effect on the overall value of the currency.
 
 #### Voting Abuse
 
