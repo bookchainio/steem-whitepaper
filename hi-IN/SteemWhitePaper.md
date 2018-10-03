@@ -180,9 +180,9 @@
 
 पहला कदम लाखों उपयोगकर्त्ताओं को इनाम देने की ओर बचनबद्ध हैं बाटने के लिए एक तय रकम मुद्रा को बिना परवाह किये की कितना काम वास्तव में हुवा या कैसे उपयोगकर्ताएँ वोट करते हैं| यह प्रश्न बदल देता है होने से*"क्या हमें भुगतान करना चाहिए?"* को *"हमें किसे भुगतान करना चाहिए?"* और इशारा बाजार को की पैसा बाँटा जा रहा है और नीलामी बंद हो रहा है जो भी "बोली लगाते हैं" अत्यधिक *प्रभावी*| यह बिटकॉइन के जैसा ही बचनबद्ध है ५० बीटीसी इनाम में देने के लिए जो कोई ढूंढता है सर्वाधिक कठीन गड़बड़ियों को| बिटकॉइन के जैसा, भुगतान से पहले काम अवश्य हो जाना चाहिए और अनुमान के आधार पर कुछ नहीं भुगतान होना चाहिए भविष्य में काम पूरा करने के वादे पर|
 
-अगला कदम उन सभी को पुरस्कृत करना है जो किसी भी *चीज़* के साथ दूरस्थ रूप से कुछ सकारात्मक करते हैं। यह सभी कार्यों को श्रेणी और उसके मूल्य के अनुपात में आनुपातिक रूप से वितरित करके पूरा किया जाता है। The more competitive the market becomes, the more difficult (higher quality or quantity) it becomes to earn the same payout.
+अगला कदम उन सभी को पुरस्कृत करना है जो किसी भी *चीज़* के साथ दूरस्थ रूप से कुछ सकारात्मक करते हैं। यह सभी कार्यों को श्रेणी और उसके मूल्य के अनुपात में आनुपातिक रूप से वितरित करके पूरा किया जाता है। बाजार जितना अधिक प्रतिस्पर्धी हो जाता है, उतना ही कठिन (उच्च गुणवत्ता या मात्रा) हो जाता है भुगतान अर्जित करना।
 
-### Voting on Distribution of Currency
+### मुद्रा के वितरण पर मतदान
 
 Assume there is a fixed amount of money to distribute, and that those who have a long-term vested interest in the future value and utility of the currency are the ones who must decide how to allocate it. Every vesting user casts their votes on who did the best work and at the end of the day the available money for that day is divided proportional to the votes such that everyone with even one net positive vote gets something.
 
