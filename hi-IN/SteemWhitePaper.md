@@ -184,7 +184,7 @@
 
 ### मुद्रा के वितरण पर मतदान
 
-मान लें कि वितरित करने के लिए एक निश्चित राशि है, और भविष्य में मूल्य और उपयोगिता में दीर्घकालिक निहित रुचि रखने वाले लोग हैं जिन्हें यह तय करना होगा कि इसे कैसे आवंटित किया जाए। Every vesting user casts their votes on who did the best work and at the end of the day the available money for that day is divided proportional to the votes such that everyone with even one net positive vote gets something.
+मान लें कि वितरित करने के लिए एक निश्चित राशि है, और भविष्य में मूल्य और उपयोगिता में दीर्घकालिक निहित रुचि रखने वाले लोग हैं जिन्हें यह तय करना होगा कि इसे कैसे आवंटित किया जाए। प्रत्येक निहित उपयोगकर्ता अपने वोटों का दावा करता है कि किसने सबसे अच्छा काम किया और दिन के अंत में उस दिन के लिए उपलब्ध धन को वोटों के अनुपात में विभाजित किया जाता है, जिससे कि हर किसी को एक भी सकारात्मक वोट मिलने पर कुछ न कुछ मिलता है।
 
 The naive voting process creates a N-Person Prisoner’s Dilemma[^5] whereby each individual voter has incentive to vote for themselves at the expense of the larger community goal. If every voter defects by voting for themselves then no currency will end up distributed and the currency as a whole will fail to gain network effect. On the other hand, if only one voter defects then that voter would win undeserved profits while having minimal effect on the overall value of the currency.
 
