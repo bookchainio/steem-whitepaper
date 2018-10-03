@@ -180,7 +180,7 @@
 
 पहला कदम लाखों उपयोगकर्त्ताओं को इनाम देने की ओर बचनबद्ध हैं बाटने के लिए एक तय रकम मुद्रा को बिना परवाह किये की कितना काम वास्तव में हुवा या कैसे उपयोगकर्ताएँ वोट करते हैं| यह प्रश्न बदल देता है होने से*"क्या हमें भुगतान करना चाहिए?"* को *"हमें किसे भुगतान करना चाहिए?"* और इशारा बाजार को की पैसा बाँटा जा रहा है और नीलामी बंद हो रहा है जो भी "बोली लगाते हैं" अत्यधिक *प्रभावी*| यह बिटकॉइन के जैसा ही बचनबद्ध है ५० बीटीसी इनाम में देने के लिए जो कोई ढूंढता है सर्वाधिक कठीन गड़बड़ियों को| बिटकॉइन के जैसा, भुगतान से पहले काम अवश्य हो जाना चाहिए और अनुमान के आधार पर कुछ नहीं भुगतान होना चाहिए भविष्य में काम पूरा करने के वादे पर|
 
-The next step is to reward everyone who does anything even remotely positive with *something*. This is accomplished by ranking all work done and distributing proportionally to its value. The more competitive the market becomes, the more difficult (higher quality or quantity) it becomes to earn the same payout.
+अगला कदम उन सभी को पुरस्कृत करना है जो किसी भी *चीज़* के साथ दूरस्थ रूप से कुछ सकारात्मक करते हैं। This is accomplished by ranking all work done and distributing proportionally to its value. The more competitive the market becomes, the more difficult (higher quality or quantity) it becomes to earn the same payout.
 
 ### Voting on Distribution of Currency
 
