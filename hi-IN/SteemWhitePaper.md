@@ -206,9 +206,9 @@
 
 तो यह लोगों के साथ है। अगर कोई कुछ अलग करने की कोशिश करता है, बेहतर ग्रेड प्राप्त करें, खुद को सुधारें, अपने हालात से निकले, या बड़े सपनों को पूरा करते हैं, तो अन्य लोग अपने भाग्य को साझा करने के लिए उसे वापस खींचने की कोशिश करेंगे।
 
-"दुर्व्यवहार" को खत्म करना संभव नहीं है और यह लक्ष्य नहीं होना चाहिए। यहां तक कि जो लोग सिस्टम का दुरुपयोग करने का प्रयास कर रहे हैं वे अभी भी काम कर रहे हैं। उनके दुर्व्यवहार या मिलीभगत के सफल प्रयास से मिलने वाला मुआवज़ा मुद्रा वितरित करने के उद्देश्य के लिए कम से कम मूल्यवान है जैसा की पारंपरिक बिटकॉइन माइनिंग या माइनिंग पूल के माध्यम से किए गए कपटपूर्ण खनन द्वारा नियोजित मेक-वर्क सिस्टम के रूप में होता है। All that is necessary is to ensure that abuse isn’t so rampant that it undermines the incentive to do real work in support of the community and its currency.
+"दुर्व्यवहार" को खत्म करना संभव नहीं है और यह लक्ष्य नहीं होना चाहिए। यहां तक कि जो लोग सिस्टम का दुरुपयोग करने का प्रयास कर रहे हैं वे अभी भी काम कर रहे हैं। उनके दुर्व्यवहार या मिलीभगत के सफल प्रयास से मिलने वाला मुआवज़ा मुद्रा वितरित करने के उद्देश्य के लिए कम से कम मूल्यवान है जैसा की पारंपरिक बिटकॉइन माइनिंग या माइनिंग पूल के माध्यम से किए गए कपटपूर्ण खनन द्वारा नियोजित मेक-वर्क सिस्टम के रूप में होता है। यह सुनिश्चित करना आवश्यक है कि दुर्व्यवहार इतना प्रचलित न हो जाए कि इससे समुदाय और उसके मुद्रा के समर्थन में वास्तविक कार्य करने के लिए प्रोत्साहन कम हो जाए।
 
-The goal of building a community currency is to get more “crabs in the bucket”. Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs sufficient power to prevent others from escaping.
+एक समुदाय की मुद्रा के निर्माण का लक्ष्य होना चाहिए कि "बाल्टी में केकड़े" और भी लाये जाए। Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs sufficient power to prevent others from escaping.
 
 ### Rate Limited Voting
 
