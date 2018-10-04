@@ -194,7 +194,7 @@
 
 सौभाग्य से, वोटों की एक बड़ी सांद्रता प्राप्त करने वाला कोई भी काम सबसे अधिक जांच (प्रचार) प्राप्त कर रहा है। *नकारात्मक-मतदान* के अलावा, कई छोटे हितधारकों के लिए यह संभव है कि वे कपटपूर्ण समूहों की मतदान शक्ति को खत्म कर दें या बड़े हितधारकों को दोष पहुंचाए। इसके अलावा, खुद को मत देकर मिलने वाले लाभ की तुलना में बड़े हितधारकों को दुरुपयोग की वजह से मुद्रा के मूल्य में गिरावट होने पर ज़्यादा नुक्सान हो सकता है वास्तव में, दुरुपयोग और नकारात्मक मत के लिए निति होने से ईमानदार बड़े हितधारक ज़्यादा प्रभावी हो सकते है जितना की वे छोटे योगदान के लिए मतदान करके होते।
 
-The use of *negative-voting* to keep people from abusing the system leverages the *crab mentality* that many people have when it is perceived that one individual is profiting at the expense of everyone else. While crab mentality normally refers to short-sighted people keeping good people down, it is also what allows good people to keep bad people down. The only “problem” with crab mentality is when people *wrongly believe* someone is profiting at everyone else's expense.
+लोगों को सिस्टम का दुरुपयोग करने से रोकने के लिए *नकारात्मक-मतदान* का उपयोग *केकड़ा मानसिकता* को उजागर करता है, जो कई लोगों में होती है जब उन्हेंलगता है कि एक व्यक्ति हर किसी के खर्च पर लाभ उठा रहा है। While crab mentality normally refers to short-sighted people keeping good people down, it is also what allows good people to keep bad people down. The only “problem” with crab mentality is when people *wrongly believe* someone is profiting at everyone else's expense.
 
 **The Story of the Crab Bucket**[^6]
 
