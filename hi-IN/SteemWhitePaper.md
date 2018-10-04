@@ -198,7 +198,7 @@
 
 **केकड़ा बाल्टी की कहानी**[^6]
 
-A man was walking along the beach and saw another man fishing in the surf with a bait bucket beside him. As he drew closer, he saw that the bait bucket had no lid and had live crabs inside.
+एक व्यक्ति समुद्र के किनारे चल रहा था और उसने देखा कि एक दूसरा व्यक्ति सर्फ में मछली पकड़ रहा था जिसके बगल में एक चारे की बाल्टी पड़ी हुई थी। जैसे वो आगे बढ़ता गया, उसने देखा की चारे की बाल्टी पर कोई ढक्कन लगा हुआ नहीं था और उसमे सजीव केकड़े थे।
 
 "Why don't you cover your bait bucket so the crabs won't escape?", he said.
 
