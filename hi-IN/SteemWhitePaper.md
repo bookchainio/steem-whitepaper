@@ -204,7 +204,7 @@
 
 "आप समझ नहीं रहे हो।", आदमी ने जवाब दिया, "अगर बाल्टी में एक केकड़ा होगा तो यह निश्चित रूप से बहुत जल्दी बाहर आ जायेगा। हालांकि, जब बाल्टी में कई केकड़े होते हैं, तब यदि कोई केकड़ा बाहर निकलने की कोशिश करता है, तो दूसरे उसे पकड़ लेते हैं और वापस खींचते हैं ताकि वह भी उसी भाग्य को बाकी केकडो के भांति साझा कर सके। "
 
-तो यह लोगों के साथ है। If one tries to do something different, get better grades, improve herself, escape her environment, or dream big dreams, other people will try to drag her back down to share their fate.
+तो यह लोगों के साथ है। अगर कोई कुछ अलग करने की कोशिश करता है, बेहतर ग्रेड प्राप्त करें, खुद को सुधारें, अपने हालात से निकले, या बड़े सपनों को पूरा करते हैं, तो अन्य लोग अपने भाग्य को साझा करने के लिए उसे वापस खींचने की कोशिश करेंगे।
 
 Eliminating “abuse” is not possible and shouldn’t be the goal. Even those who are attempting to “abuse” the system are still doing work. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn’t so rampant that it undermines the incentive to do real work in support of the community and its currency.
 
