@@ -200,9 +200,9 @@
 
 एक व्यक्ति समुद्र के किनारे चल रहा था और उसने देखा कि एक दूसरा व्यक्ति सर्फ में मछली पकड़ रहा था जिसके बगल में एक चारे की बाल्टी पड़ी हुई थी। जैसे वो आगे बढ़ता गया, उसने देखा की चारे की बाल्टी पर कोई ढक्कन लगा हुआ नहीं था और उसमे सजीव केकड़े थे।
 
-"Why don't you cover your bait bucket so the crabs won't escape?", he said.
+"आप अपनी चारे की बाल्टी को क्यों नहीं ढकते, ताकि केकड़े बाहर न जायें?", उसने कहा।
 
-"You don't understand.", the man replied, "If there is one crab in the bucket it would surely crawl out very quickly. However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
+"आप समझ नहीं रहे हो।", आदमी ने जवाब दिया, "अगर बाल्टी में एक केकड़ा होगा तो यह निश्चित रूप से बहुत जल्दी बाहर आ जायेगा। However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
 
 So it is with people. If one tries to do something different, get better grades, improve herself, escape her environment, or dream big dreams, other people will try to drag her back down to share their fate.
 
