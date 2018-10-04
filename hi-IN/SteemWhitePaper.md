@@ -214,7 +214,7 @@
 
 दुर्व्यवहार को कम करने का एक प्रमुख हिस्सा वोटिंग की दर-सीमित करना है। व्यक्तिगत उपयोगकर्ता प्रतिदिन कुछ ही कार्यों और वस्तुओं को पढ़ और मूल्यांकन कर सकते हैं। इससे अधिक बार मतदान करने का कोई भी प्रयास स्वचालन और संभावित दुर्व्यवहार का संकेत है। सीमित सीमा निर्धारण के माध्यम से, जो हितधारकों को अधिक बार मतदान करते हैं, उनमें प्रत्येक वोट की गिनती उन हितधारकों से कम है जो कम बार वोट देते हैं। कई खातों के बीच टोकन को विभाजित करने के प्रयास से प्रभाव का भी विभाजन होता हैं और इसलिए नतीजों में शुद्ध वृद्धि नहीं होती है और न ही वोटिंग पर लगाई गई दर सीमा को बाधित किया जा सकता है।
 
-उपयोगकर्ताओं को मतदान शक्ति की निश्चित राशि आवंटित की जाती है। Voting power is multiplied by a user’s vesting tokens to determine how much share in the reward pool should be allocated to a given work item. Every vote that is cast uses a percentage of remaining voting power. Users can vote for more posts, but each vote will be worth less, and it will take longer to reach full voting power again. Voting power recharges at a fixed linear rate of 20% per day.
+उपयोगकर्ताओं को मतदान शक्ति की निश्चित राशि आवंटित की जाती है। किसी दिए गए कार्य आइटम को रिवॉर्ड पूल में कितना हिस्सा आवंटित किया जाना चाहिए यह निर्धारित करने के लिए वोटिंग पावर को उपयोगकर्ताओं के वेस्टिंग टोकनों द्वारा गुणा किया जाता है। प्रत्येक वोट जो कि कास्ट किया जाता है, शेष मतदान शक्ति का प्रतिशत उपयोग करता है। Users can vote for more posts, but each vote will be worth less, and it will take longer to reach full voting power again. Voting power recharges at a fixed linear rate of 20% per day.
 
 ### Payout Distribution
 
