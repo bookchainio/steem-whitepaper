@@ -208,9 +208,9 @@
 
 "दुर्व्यवहार" को खत्म करना संभव नहीं है और यह लक्ष्य नहीं होना चाहिए। यहां तक कि जो लोग सिस्टम का दुरुपयोग करने का प्रयास कर रहे हैं वे अभी भी काम कर रहे हैं। उनके दुर्व्यवहार या मिलीभगत के सफल प्रयास से मिलने वाला मुआवज़ा मुद्रा वितरित करने के उद्देश्य के लिए कम से कम मूल्यवान है जैसा की पारंपरिक बिटकॉइन माइनिंग या माइनिंग पूल के माध्यम से किए गए कपटपूर्ण खनन द्वारा नियोजित मेक-वर्क सिस्टम के रूप में होता है। यह सुनिश्चित करना आवश्यक है कि दुर्व्यवहार इतना प्रचलित न हो जाए कि इससे समुदाय और उसके मुद्रा के समर्थन में वास्तविक कार्य करने के लिए प्रोत्साहन कम हो जाए।
 
-एक समुदाय की मुद्रा के निर्माण का लक्ष्य होना चाहिए कि "बाल्टी में केकड़े" और भी लाये जाए। Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs sufficient power to prevent others from escaping.
+एक समुदाय की मुद्रा के निर्माण का लक्ष्य होना चाहिए कि "बाल्टी में केकड़े" और भी लाये जाए। सभी दुर्व्यवहारों को खत्म करने के लिए चरम उपायों का उपयोग करने का मतलब होगा कि कुछ केकड़ों को बाहर निकलने से रोकने के लिए बाल्टी का ढक्कन बंद कर दिया जाए जबकि इसकी भरपाई नए केकडो को बाल्टी में लाने पर आने वाली कठिनाई से चुकानी पड़ती है। अन्य केकड़ों को भागने से रोकने के लिए दीवारों को फिसलन भरा बनाना और अन्य केकड़ों को पर्याप्त शक्ति प्रदान करना ही पर्याप्त है।
 
-### Rate Limited Voting
+### सीमित वोटिंग दर
 
 A major part of minimizing abuse is the rate-limiting of voting. Individual users can only read and evaluate so many work items per day. Any attempt to vote more frequently than this is a sign of automation and potential abuse. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
 
