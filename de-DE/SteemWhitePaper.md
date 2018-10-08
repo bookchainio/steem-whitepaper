@@ -509,13 +509,13 @@ Während ein Zeitstempeldienst auf fast jeder Blockchain aufgebaut werden kann u
 
 ## Ersetzen von Werbung durch Blockchain-basierte Content-Belohnungen
 
-Bei den meisten Content-Monetarisierungsmodellen nutzen die Inhalteersteller Werbung in der einen oder anderen Form. Viele Urheber erkennen, wie Werbung den Wert ihrer Arbeit für den Verbraucher mindern kann. Aber Autoren brauchen eine Möglichkeit, ihre Inhalte zu monetarisieren. Werbung ist ein zweischneidiges Schwert: Mit Anzeigen kann ein Autor am einfachsten Geld verdienen. Ohne Werbung ist die Monetarisierung schwierig, aber der Inhalt ist besser.
+Bei den meisten Content-Monetarisierungsmodellen nutzen die Inhalteersteller Werbung in der einen oder anderen Form. Viele Urheber erkennen, wie Werbung den Wert ihrer Arbeit für den Verbraucher mindern kann. Aber Autoren brauchen eine Möglichkeit, ihre Inhalte zu monetarisieren. Werbung ist ein zweischneidiges Schwert: Mit Anzeigen kann ein Autor am einfachsten Geld verdienen. Ohne Werbung ist die Monetarisierung schwierig, aber der Inhalt ist gehaltvoller.
 
 Autoren, die in Social Media Outlets posten, die mit Steem verbunden sind, können allein dadurch Geld verdienen, dass sie ihre Arbeit von der Steem-Community anerkannt (oder "geliked") bekommen. Blockchain-basierte Auszahlungen sind vollständig digital und haben keinen Mittelsmann. Daher sollte die Geldbeschaffung durch blockchainbasierte Content-Belohnungen schneller und viel weniger schwer zu nutzen sein als die Monetarisierung durch Werbung.
 
 # Fazit
 
-Steem ist ein Experiment, das entwickelt wurde, um die Herausforderungen in der Kryptowährungs- und Social-Media-Branche anzugehen, indem es die besten Aspekte aus beiden Bereichen kombiniert. Steem bietet Content-Erstellern und Internet-Lesern Verdienstmöglichkeiten, die es in der Social-Media-Branche bisher nicht gegeben hat. Within Steem, individuals earn real rewards online that are directly correlated to their contributions. Those rewards may have dollar value due to the market price discovery and liquidity of Steem, and the people who hold Steem may have more exclusive earning powers than those who do not.
+Steem ist ein Experiment, das entwickelt wurde, um die Herausforderungen in der Kryptowährungs- und Social-Media-Branche anzugehen, indem es die besten Aspekte aus beiden Bereichen kombiniert. Steem bietet Content-Erstellern und Internet-Lesern Verdienstmöglichkeiten, die es in der Social-Media-Branche bisher nicht gegeben hat. Innerhalb von Steem verdienen Menschen online echte Auszahlungen, die in direktem Zusammenhang mit ihren Beiträgen stehen. Diese Belohnungen können aufgrund der Marktpreisfindung und der Liquidität von Steem einen Dollar-Wert haben, und die Personen, die Steem besitzen, können mehr exklusive Verdienstmöglichkeiten haben als diejenigen, die dies nicht tun.
 
 [^1]: Reddit’s Cryptocurrency, Forbes, Erika Morphy, October 2014 http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/\#4e07b05332b9
 
