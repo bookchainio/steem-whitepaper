@@ -509,7 +509,7 @@ Während ein Zeitstempeldienst auf fast jeder Blockchain aufgebaut werden kann u
 
 ## Ersetzen von Werbung durch Blockchain-basierte Content-Belohnungen
 
-Bei den meisten Content-Monetarisierungsmodellen nutzen die Inhalteersteller Werbung in der einen oder anderen Form. Many creators recognize how advertising may diminish their work’s value to the consumer, yet creators very often must seek returns on their time by monetizing. Advertising represents a double-edged sword: With ads, a creator can make money most easily. Without ads, monetization is difficult but the content is richer.
+Bei den meisten Content-Monetarisierungsmodellen nutzen die Inhalteersteller Werbung in der einen oder anderen Form. Viele Urheber erkennen, wie Werbung den Wert ihrer Arbeit für den Verbraucher mindern kann. Oftmals müssen die Autoren sogar nach einer Rendite für ihre Zeit suchen. Werbung ist ein zweischneidiges Schwert: Mit Anzeigen kann ein Autor am einfachsten Geld verdienen. Ohne Werbung ist die Monetarisierung schwierig, aber der Inhalt ist besser.
 
 Creators posting to social media outlets that are connected to Steem may monetize merely by having their work recognized (or ”liked”) by the Steem community. Blockchain-based payouts are completely digital and have no middle-man. Therefore monetization by blockchain-based content rewards should be faster and much lower barrier to use than monetization by advertisements.
 
