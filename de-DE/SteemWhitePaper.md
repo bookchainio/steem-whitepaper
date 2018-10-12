@@ -515,7 +515,7 @@ Autoren, die in Social Media Outlets posten, die mit Steem verbunden sind, könn
 
 # Fazit
 
-Steem ist ein Experiment, das entwickelt wurde, um die Herausforderungen in der Kryptowährungs- und Social-Media-Branche anzugehen, indem es die besten Aspekte aus beiden Bereichen kombiniert. Steem bietet Content-Erstellern und Internet-Lesern Verdienstmöglichkeiten, die es in der Social-Media-Branche bisher nicht gegeben hat. Innerhalb von Steem verdienen Menschen online echte Auszahlungen, die in direktem Zusammenhang mit ihren Beiträgen stehen. Diese Belohnungen können aufgrund der Marktpreisfindung und der Liquidität von Steem einen Dollar-Wert haben, und die Personen, die Steem besitzen, können mehr exklusive Verdienstmöglichkeiten haben als diejenigen, die dies nicht tun.
+Steem ist ein Experiment, das entwickelt wurde, um die Herausforderungen in der Kryptowährungs- und Social-Media-Branche anzugehen, indem es die besten Aspekte aus beiden Bereichen kombiniert. Steem bietet Content-Erstellern und Internet-Lesern Verdienstmöglichkeiten, die es in der Social-Media-Branche bisher nicht gegeben hat. Innerhalb von Steem verdienen Menschen online echte Belohnungen, die in direktem Zusammenhang mit ihren Beiträgen stehen. Diese Belohnungen können aufgrund der Marktpreisfindung und der Liquidität von Steem einen Dollar-Wert haben, und die Personen, die Steem besitzen, können mehr exklusive Verdienstmöglichkeiten haben als diejenigen, die dies nicht tun.
 
 [^1]: Reddit’s Cryptocurrency, Forbes, Erika Morphy, October 2014 http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/\#4e07b05332b9
 
