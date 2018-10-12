@@ -507,7 +507,7 @@ Unter blockchainbasierten sozialen Medien wäre ein Ersteller oder Autor immer i
 
 Während ein Zeitstempeldienst auf fast jeder Blockchain aufgebaut werden kann und es mehrere Anstrengungen gibt, diese Art von Dienst auf dem Bitcoin-Netzwerk aufzubauen, hat Steem einen nützlichen Vorteil in diesem Bereich, da Inhaltsverleger "erstklassige Bürger" sind. Die Steem-Blockchain wird von Grund auf um den Anwendungsfall der Inhaltsveröffentlichung herum aufgebaut, was es Inhaltserstellern ermöglicht, diese Blockchain zu benutzen, ihre Inhalte zu einem bestimmten Zeitpunkt zu validieren, indem sie einfach ihren Beitrag mit den gleichen Autorenwerkzeugen schreiben, die von anderen Steem-Benutzern verwendet werden.
 
-## Ersetzen von Werbung durch Blockchain-basierte Content-Belohnungen
+## Ersetzen von Werbung durch blockchain-basierte Content-Belohnungen
 
 Bei den meisten Content-Monetarisierungsmodellen nutzen die Inhalteersteller Werbung in der einen oder anderen Form. Viele Urheber erkennen, wie Werbung den Wert ihrer Arbeit für den Verbraucher mindern kann. Aber Autoren brauchen eine Möglichkeit, ihre Inhalte zu monetarisieren. Werbung ist ein zweischneidiges Schwert: Mit Anzeigen kann ein Autor am einfachsten Geld verdienen. Ohne Werbung ist die Monetarisierung schwierig, aber der Inhalt ist gehaltvoller.
 
