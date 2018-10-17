@@ -212,7 +212,7 @@ O objetivo de construir uma moeda comunitária é para ter mais "caranguejos no 
 
 ### Rate Limited Voting
 
-Uma parte importante de minimizar o abuso é a limitação da taxa de voto. Usuários individuais podem apenas ler e avaliar uma quantidade específica de itens de trabalho por dia. Qualquer tentativa de votar mais frequentemente do que isto é uma sinal de automação e potencial abuso. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
+Uma parte importante de minimizar o abuso é a limitação da taxa de voto. Usuários individuais podem apenas ler e avaliar uma quantidade específica de itens de trabalho por dia. Qualquer tentativa de votar mais frequentemente do que isto é uma sinal de automação e potencial abuso. Através de uma taxa de limite, os participantes que votam com mais frequência tem a contagem de votos menor que os participantes que votam com menos frequência. Tentativa de dividir os tokens em várias contas também dividem a influência e portanto não resultam em um aumento líquido na influência nem ultrapassam a taxa-limite imposta à votação.
 
 Os usuários são contemplados com uma quantidade fixa de poder de votação. O poder de votação é multiplicado pelos tokens investidos do usuário para determinar qual parcela da recompensa do estoque deverá ser alocada para um determinado item de trabalho. Cada voto que é lançado usa uma percentagem do poder restante de votação. Usuários podem votar em mais publicações, mas cada voto vai valer menos, e vai demorar mais para alcançar o poder total de votação novamente. O poder de voto recarrega a uma taxa linear de 20% ao dia.
 
@@ -230,7 +230,7 @@ Considerando a população como uma medida bruta de valor, então o valor de cad
 
 O impacto dessa distribuição de votação e pagamento é oferecer grandes recompensas para bons conteúdos enquanto ainda recompensa pequenos jogadores pela sua contribuição no final da linha.
 
-O efeito econômico disso é semelhante à loteria aonde as pessoas sobrestimam a sua probabilidade de receber votos e assim realizam um trabalho maior que o valor esperado da sua recompensa e assim maximizam o trabalho total realizado em serviço da comunidade. The fact that everyone “wins something” plays on the same psychology that casinos use to keep people gambling. Em outras palavras, pequenas recompensas ajudam a reforçar a idéia de que é possível receber maiores recompensas.
+O efeito econômico disso é semelhante à loteria aonde as pessoas sobrestimam a sua probabilidade de receber votos e assim realizam um trabalho maior que o valor esperado da sua recompensa e assim maximizam o trabalho total realizado em serviço da comunidade. O facto de que todos "ganham alguma coisa" usa a mesma psicologia que os casinos utilizam para manter as pessoas a apostar. Em outras palavras, pequenas recompensas ajudam a reforçar a idéia de que é possível receber maiores recompensas.
 
 ### Pagamentos
 
@@ -238,9 +238,9 @@ Quando uma publicação recebe um pagamento, este tem a forma de 50% SBD e 50% S
 
 Usuários também têm a opção de serem pagos em 100% SP, assim como recusar pagamentos em publicações. Quando um usuário recusa um pagamento numa publicação, o dinheiro que que devia lhe ser pago, permanece no agregado de recompensas, a ser distribuídas aos outros usuários.
 
-# Consensus Algorithm
+# Algoritmo de Consenso
 
-Consensus is the process by which a community comes to a universally recognized, unambiguous agreement on piece of information. There are many algorithms society has developed for reaching consensus about who owns what. Todo governo na terra é um algoritmo primitivo de consenso no qual a população concorda em obedecer a um determinado conjunto de regras consagradas em uma constituição. Os governos estabelecem cortes, juízes e júris para interpretar fatos subjetivos e proferir uma decisão final. A maioria das pessoas acatam a decisão mesmo que esteja errada.
+Consenso é o processo pelo qual uma comunidade chega um acordo não-ambíguo, universalmente reconhecido sobre um pedaço de informação. Existe muitos algoritmos que a sociedade desenvolveu para chegar ao consenso sobre quem é dono do quê. Todo governo na terra é um algoritmo primitivo de consenso no qual a população concorda em obedecer a um determinado conjunto de regras consagradas em uma constituição. Os governos estabelecem cortes, juízes e júris para interpretar fatos subjetivos e proferir uma decisão final. A maioria das pessoas acatam a decisão mesmo que esteja errada.
 
 Os algoritmos utilizados pelas criptomoedas fornecem uma maneira melhor de alcançar o consenso. Cryptographically signed testimony from individuals is recorded in a public ledger that establishes the absolute global order of events. Um algoritmo determinístico de computador pode então processar esse livro para derivar uma conclusão universalmente aceitável. Enquanto os membros de uma comunidade concordam com o algoritmo de processamento, o resultado do algoritmo é autoritativo.
 
