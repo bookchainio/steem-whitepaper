@@ -328,7 +328,7 @@ Ang sistemang nakabatay sa account ng Steem na mayroong mga balanse na alam na a
 
 Posible para sa isang account na mayroong maliit na balanse na nilikha sa panahon ng mababa ang paggamit na hindi na makakapasok kapag ang paggamit sa network ay tumaas na. Ang mga pondo ay maaaring marekober sa kahit anumang panahon sa pamamagitan ng temporaryong pag-delegate ng mas malaking balanse papunta sa account.
 
-In order to maintain a reasonable user experience with a minimum number of hung accounts, all new accounts should start out with a balance 10 times the minimum required to transact weekly. This way even if demand increases by a factor of 10 the account will remain viable.
+Upang makapagpanatili ng isang makatwirang karanasan ng gumagamit na mayroong minimum na bilang ng mga hung na account, lahat ng mga bagong account ay nararapat na magsimulang magkaroon ng isang balanse na sampung beses na malaki sa minimum na kinakailangan upang makapag-transact bawat linggo. Sa pamamaraang ito kahit na ang pangangailangan ay tumataas sa isang facfor ng 10 ang account ay mananatiling aktibo.
 
 Any initial account balance would have to come from the user creating the account and not from token creation due to the potential for sybil attacks.
 
