@@ -348,9 +348,9 @@ Ang STEEM na ginamit upang makapag-pondo sa simula ng isang account ay naka-Powe
 
 ### Pagiging Epektibo Kaugnay sa mga Bayarin
 
-Upang makapaghambing sa pagiging epektibo sa rate sa paglilimita ng mga bayarin kailangan nating pag-aralan kung paano mag-react ang dalawang sistema sa intensyonal na pag-flood sa network ng isang attacker. Sa ilalim ng Bitcoin ang attacker na mayroong $10,000 ay maaaring makapagtigil sa serbisyo sa isang buong araw sa pamamagitan ng pagpasok sa bawat isang block. The same attacker would be unable to disrupt service for even a single block under the dynamic fractional reserve rate limiting approach.
+Upang makapaghambing sa pagiging epektibo sa rate sa paglilimita ng mga bayarin kailangan nating pag-aralan kung paano mag-react ang dalawang sistema sa intensyonal na pag-flood sa network ng isang attacker. Sa ilalim ng Bitcoin ang attacker na mayroong $10,000 ay maaaring makapagtigil sa serbisyo sa isang buong araw sa pamamagitan ng pagpasok sa bawat isang block. Ang kaparehong attacker ay mangyayaring hindi makapagpatigil sa serbisyo sa kahit isang block sa ilalim ng isang stratehiyang dinamikong fractional na reserba sa paglilimita ng rate.
 
-If we go to a more extreme case and assume the attacker holds 1% of all coins then we presume an attacker with $60 million dollars. Such an attacker could deny the Bitcoin blockchain service for 16 years unless the miners increased fees or capacity. Even if fees were raised to $15 per transaction, the attacker could still keep the network flooded for 16 days.
+Kung tayo ay tutungo sa mas malala pang kaso at ipagpalagay na ang attacker ay may hawak ng isang porsyento sa buong coins doon tayo makakapagpalapagay na ang attacker ay mayroong $60 milyon na dolyares. Ang attacker na iyon ay maaaring makapagpatigil sa serbisyo ng blockchain ng Bitcoin 16 na mga taon maliban kung ang mga minero ay nagpataas ng mga bayarin o kapasidad. Even if fees were raised to $15 per transaction, the attacker could still keep the network flooded for 16 days.
 
 Under the rate limiting approach, someone who holds 1% of all coins with an intent to flood the network would achieve their goal for less than 30 seconds.
 
