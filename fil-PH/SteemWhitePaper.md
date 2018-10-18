@@ -314,9 +314,9 @@ Bandwidth used by an individual user should be measured over a suitably long per
 
 In our estimate it should be sufficient to measure the average weekly bandwidth usage of users. Every time a user signs a transaction, that transaction is factored into their own individual moving average. Any time a user’s moving average exceeds the current network limit their transaction is delayed until their average falls below the limit.
 
-### Impact of Capacity
+### Epekto ng Kapasidad
 
-Blockchain capacity isn’t necessarily capped. It is well within the technological capability of internet infrastructure to increase the Bitcoin block size to 10MB which in turn will reduce the minimum required balance by a factor of 10. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second.
+Ang kapasidad ng blockchain ay hindi kinakailangang nalilimitahan. Ito ay lubos na nasasaklaw sa teknolohikal na kakayahan ng imprastruktura ng internet na makapagpataas sa laki ng Bitcoin block sa 10MB na kung saan makakapagdulot ng pagbaba sa pinakamababang kinakailangan na balanse sa paktor ng 10. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second.
 
 ### Comparison to Fees
 
