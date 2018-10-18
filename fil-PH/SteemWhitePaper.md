@@ -326,7 +326,7 @@ Kung ipagpalagay natin na ang isang gumagamit na mayroong $25 na dolyares na hal
 
 Ang sistemang nakabatay sa account ng Steem na mayroong mga balanse na alam na alam ng nakakarami na nagsisimplipika sa implementasyon ng algoritmo ng paglilimita ng rate na nakabatay sa bandwidth. Alinmang account na mayroong balanse na mas mababa sa minimum na kinakailangan upang makapagtransact ng isang beses bawat linggo ay hindi makakapag-transact. Nagpapahiwatig lang ito na ang lahat ng mga bagong account ay kinakailangang mapondohan ng hindi bababa sa minimum na balanse. Nagpapahiwatig rin ito na ang mga gumagamit na nagnanais na makapag-transact sa mas maliit na mga account ay pwedeng makapagtransact, kung sila ay nagkakaroon ng mas malaking balanse at makakapag-gamit muli ng account.
 
-It is possible for a low-balance account created during a time of low usage to become inaccessible if the network usage picks up. The funds could be recovered at any time by temporarily delegating a larger balance to the account.
+Posible para sa isang account na mayroong maliit na balanse na nilikha sa panahon ng mababa ang paggamit na hindi na makakapasok kapag ang paggamit sa network ay tumaas na. Ang mga pondo ay maaaring marekober sa kahit anumang panahon sa pamamagitan ng temporaryong pag-delegate ng mas malaking balanse papunta sa account.
 
 In order to maintain a reasonable user experience with a minimum number of hung accounts, all new accounts should start out with a balance 10 times the minimum required to transact weekly. This way even if demand increases by a factor of 10 the account will remain viable.
 
