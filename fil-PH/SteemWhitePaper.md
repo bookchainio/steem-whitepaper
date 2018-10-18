@@ -320,7 +320,7 @@ Ang kapasidad ng blockchain ay hindi kinakailangang nalilimitahan. Ito ay lubos 
 
 ### Pagkumpara sa Mga Bayarin
 
-If we assume a user with $25 dollars worth of BTC transacts once per week and pays a $0.04 cent fee each time then they would pay over $2.00 in fees per year. A user would have to earn a 8% rate of return on their $25 dollars just to break even with paying fees. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
+Kung ipagpalagay natin na ang isang gumagamit na mayroong $25 na dolyares na halaga ng BTC na mga transaksyon isang beses sa bawat linggo at magbabayad ng $0.04 na sentimo na bayad sa bawat panahon kung kaya magbabayad sila ng lampas sa $2.00 na mga bayarin sa bawat taon. Ang isang gumagamit ay nangangailangang makakakita ng walong porsiyento na rate of return sa kanilanf $25 na dolyares para lang makapagbreak even kasama na ang bayad sa mga fee. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
 
 ### Account Creation
 
