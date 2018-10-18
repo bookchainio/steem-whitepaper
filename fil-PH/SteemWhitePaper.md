@@ -330,11 +330,11 @@ Posible para sa isang account na mayroong maliit na balanse na nilikha sa panaho
 
 Upang makapagpanatili ng isang makatwirang karanasan ng gumagamit na mayroong minimum na bilang ng mga hung na account, lahat ng mga bagong account ay nararapat na magsimulang magkaroon ng isang balanse na sampung beses na malaki sa minimum na kinakailangan upang makapag-transact bawat linggo. Sa pamamaraang ito kahit na ang pangangailangan ay tumataas sa isang facfor ng 10 ang account ay mananatiling aktibo.
 
-Any initial account balance would have to come from the user creating the account and not from token creation due to the potential for sybil attacks.
+Alinmang paunang balanse ng account ay kailangang nangagaling mula sa gumagamit na lumikha sa account at hindi galing sa token sa paglilikha dahil sa posibilidad ng mga atakeng sibil.
 
-### Justifying Minimum Balances
+### Pagbibigay-katwiran sa mga Minimum na Balanse
 
-The concept of forcing users to maintain a minimum balance flows naturally from the value of a user[^10]. Anyone running a business knows that every single user has significant value. Businesses spend anywhere from $30 to $200 to acquire a user. Sometimes they pay users directly, other times they pay for advertizing, and still other times entire companies are bought just for their user base. After a company acquires a user they often given them many *free services* just to keep them around long enough to monetize them through some other means.
+Ang konsepto na nagpepwersa sa mga gumagamit na magpanatili ng isang minimum na balanse ay natural na nagmumula sa sa halaga ng isang gumagamit[^10]. Sinumang tao na nagpapatakbo ng isang negosyo ay mayroon alam na ang bawat gumagamit ay mayroong mahalagang halaga. Ang mga negosyo ay gumagastos kahit saan mula sa $30 hanggang $200 upang makakuha ng isang gumagamit. Minsan sila ay direktahang bumabayad sa mga gumagamit, sa ibang panahon naman sila ay bumabayad para sa pagpapa-advertise, at sa ibang panahon pa rin ang buong kompanya ay nakabenta na para sa kanilang mga gumagamit. After a company acquires a user they often given them many *free services* just to keep them around long enough to monetize them through some other means.
 
 Ripple uses a minimum balance[^11] that scales with account resource use and requires that new accounts get funded with at least this minimum balance. Currently this minimum balance is about $0.15 which is greater than the $0.10 we estimated would allow someone to transact freely at least once per week.
 
