@@ -316,9 +316,9 @@ In our estimate it should be sufficient to measure the average weekly bandwidth 
 
 ### Epekto ng Kapasidad
 
-Ang kapasidad ng blockchain ay hindi kinakailangang nalilimitahan. Ito ay lubos na nasasaklaw sa teknolohikal na kakayahan ng imprastruktura ng internet na makapagpataas sa laki ng Bitcoin block sa 10MB na kung saan makakapagdulot ng pagbaba sa pinakamababang kinakailangan na balanse sa paktor ng 10. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second.
+Ang kapasidad ng blockchain ay hindi kinakailangang nalilimitahan. Ito ay lubos na nasasaklaw sa teknolohikal na kakayahan ng imprastruktura ng internet na makapagpataas sa laki ng Bitcoin block sa 10MB na kung saan makakapagdulot ng pagbaba sa pinakamababang kinakailangan na balanse sa paktor ng 10. Habang ang Bitcoin ay kasalukuyang sumusuporta ng mahigit 3 na mga transaksyon bawat segundo, ang mga alternatibong implementasyon ay may kakayahan sa lampas 1000 na mga transaksyon bawat segundo.
 
-### Comparison to Fees
+### Pagkumpara sa Mga Bayarin
 
 If we assume a user with $25 dollars worth of BTC transacts once per week and pays a $0.04 cent fee each time then they would pay over $2.00 in fees per year. A user would have to earn a 8% rate of return on their $25 dollars just to break even with paying fees. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
 
