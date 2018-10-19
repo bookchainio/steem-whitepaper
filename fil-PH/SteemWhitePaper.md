@@ -376,7 +376,7 @@ Ang desentralisadong paglilimita sa rate ng mga transaksyon ay nakakapagpagana s
 
 # Performance at Scalability
 
-Ang network ng Steem ay ginawa sa Graphene, ang kaparehang teknolohiya na nagpapagana ng BitShares. Ang Graphene ay napatunayan na sa publiko na kaya ang higit sa 1000 na mga transactions bawat segundo doon sa distributed test network. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
+Ang network ng Steem ay ginawa sa Graphene, ang kaparehang teknolohiya na nagpapagana ng BitShares. Ang Graphene ay napatunayan na sa publiko na kaya ang higit sa 1000 na mga transactions bawat segundo doon sa distributed test network. Ang Graphene ay madali lang maka-abot ng 10,000 o higit pa na mga transaksyon bawat segundo na mayroong diretsohang pagbuti sa kapasidad ng server at mga protocol sa komunikasyon.
 
 ## Reddit Scale
 
