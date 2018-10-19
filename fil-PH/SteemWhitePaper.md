@@ -380,9 +380,9 @@ Ang network ng Steem ay ginawa sa Graphene, ang kaparehang teknolohiya na nagpap
 
 ## Reddit na Scale
 
-Steem is capable of handling a larger userbase than Reddit. In 2015 Reddit’s 8.7 million users generated an average of 23 comments per second[^12], with an average of 83 comments per year per user. There were 73 million top-level posts, for an average of 2 new posts per second. There were about 7 billion up votes creating an average voting rate of 220 votes per second. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
+Ang Steem ay may kakayahang makapag-pangasiwa ng mas marami pang mga gumagamit kaysa Reddit. Noong 2015 ang Reddit ay mayroong 8.7 na milyom na mga gumagamit na nakapaggawa ng karaniwang 23 na mga kumento bawat segundo[^12], na mayroong karaniwang 83 na mga kumento sa bawat taon sa bawat gumagamit. Mayroong mga 73 na milyon na mga mataas na antas na mga post, para sa karaniwang 2 bagong mga post bawat segundo. Mayroong halos 7 bilyon pataas na mga boto na nakakagawa ng karaniwang rate sa pagboboto ng 220 na mga boto bawat segundo. Lahat ay naisabi, kung ang Reddit ay nago-operate sa blockchain ito ay nangangailangan ng karaniwang 250 na mga transaksyon bawat segundo.
 
-To achieve this industry-leading performance, Steem has borrowed lessons learned from the LMAX Exchange[^13], which is able to process 6 million transactions per second. Among these lessons are the following key points:
+Upang makamtan itong performance na nangunguna sa industriya, ang Steem ay nakahiram ng mga aralin na natutunan mula sa LMAX Exchange[^13], kung saan kayang makapagproseso ng 6 na milyon na mga transaksyon bawat segundo. Among these lessons are the following key points:
 
 1. Keep everything in memory.
 2. Keep the core business logic in a single thread.
