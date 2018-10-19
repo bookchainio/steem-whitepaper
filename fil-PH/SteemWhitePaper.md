@@ -350,13 +350,13 @@ Ang STEEM na ginamit upang makapag-pondo sa simula ng isang account ay naka-Powe
 
 Upang makapaghambing sa pagiging epektibo sa rate sa paglilimita ng mga bayarin kailangan nating pag-aralan kung paano mag-react ang dalawang sistema sa intensyonal na pag-flood sa network ng isang attacker. Sa ilalim ng Bitcoin ang attacker na mayroong $10,000 ay maaaring makapagtigil sa serbisyo sa isang buong araw sa pamamagitan ng pagpasok sa bawat isang block. Ang kaparehong attacker ay mangyayaring hindi makapagpatigil sa serbisyo sa kahit isang block sa ilalim ng isang stratehiyang dinamikong fractional na reserba sa paglilimita ng rate.
 
-Kung tayo ay tutungo sa mas malala pang kaso at ipagpalagay na ang attacker ay may hawak ng isang porsyento sa buong coins doon tayo makakapagpalapagay na ang attacker ay mayroong $60 milyon na dolyares. Ang attacker na iyon ay maaaring makapagpatigil sa serbisyo ng blockchain ng Bitcoin 16 na mga taon maliban kung ang mga minero ay nagpataas ng mga bayarin o kapasidad. Even if fees were raised to $15 per transaction, the attacker could still keep the network flooded for 16 days.
+Kung tayo ay tutungo sa mas malala pang kaso at ipagpalagay na ang attacker ay may hawak ng isang porsyento sa buong coins doon tayo makakapagpalapagay na ang attacker ay mayroong $60 milyon na dolyares. Ang attacker na iyon ay maaaring makapagpatigil sa serbisyo ng blockchain ng Bitcoin 16 na mga taon maliban kung ang mga minero ay nagpataas ng mga bayarin o kapasidad. Kahit na ang bayarin ay pinataas hanggang $15 bawat transaksyon, ang attacker ay maaari paring makakapagpuno sa network sa loob ng 16 na mga araw.
 
-Under the rate limiting approach, someone who holds 1% of all coins with an intent to flood the network would achieve their goal for less than 30 seconds.
+Sa ilalim ng stratehiyang naglilimita sa rate, sinuman na nagkakaroon ng 1% sa lahat ng mga coin na mayroong plano na punuin ang network ay maaaring maaabot ang kanilang ninanais na aabutin ng 30 na mga segundo.
 
-### Renting vs. Buying vs. Time Sharing
+### Pagngungupa vs. Pagbibili vs. Pag-share ng Panahon
 
-When someone owns a house they expect the right to use the house for free. If a group of people buy a house together then each can expect the right to use the house proportional to their percentage ownership in the house. A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
+Kapag ang isang tao ay nagmamay-ari ng bahay umaasa sila sa karapatan na gamitin ang bahay ng libre. If a group of people buy a house together then each can expect the right to use the house proportional to their percentage ownership in the house. A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
 
 If a house is owned by multiple people then those individuals must decide how they wish to timeshare the house. Someone who owns 50% of the house but only uses it one weekend per year might expect to be paid by the individuals who take their unused time. This is the mindset of a fee based system.
 
