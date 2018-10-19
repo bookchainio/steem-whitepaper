@@ -382,15 +382,15 @@ Ang network ng Steem ay ginawa sa Graphene, ang kaparehang teknolohiya na nagpap
 
 Ang Steem ay may kakayahang makapag-pangasiwa ng mas marami pang mga gumagamit kaysa Reddit. Noong 2015 ang Reddit ay mayroong 8.7 na milyom na mga gumagamit na nakapaggawa ng karaniwang 23 na mga kumento bawat segundo[^12], na mayroong karaniwang 83 na mga kumento sa bawat taon sa bawat gumagamit. Mayroong mga 73 na milyon na mga mataas na antas na mga post, para sa karaniwang 2 bagong mga post bawat segundo. Mayroong halos 7 bilyon pataas na mga boto na nakakagawa ng karaniwang rate sa pagboboto ng 220 na mga boto bawat segundo. Lahat ay naisabi, kung ang Reddit ay nago-operate sa blockchain ito ay nangangailangan ng karaniwang 250 na mga transaksyon bawat segundo.
 
-Upang makamtan itong performance na nangunguna sa industriya, ang Steem ay nakahiram ng mga aralin na natutunan mula sa LMAX Exchange[^13], kung saan kayang makapagproseso ng 6 na milyon na mga transaksyon bawat segundo. Among these lessons are the following key points:
+Upang makamtan itong performance na nangunguna sa industriya, ang Steem ay nakahiram ng mga aralin na natutunan mula sa LMAX Exchange[^13], kung saan kayang makapagproseso ng 6 na milyon na mga transaksyon bawat segundo. Ilan sa mga leksyon na ito ay ang mga sumusunod na mga importanteng punto:
 
-1. Keep everything in memory.
-2. Keep the core business logic in a single thread.
-3. Keep cryptographic operations (hashes and signatures) out of the core business logic.
-4. Divide validation into state-dependent and state-independent checks.
-5. Use an object oriented data model.
+1. Panatilihin ang lahat ng bagay sa memorya.
+2. Panatilihin ang sentrong lohika sa negosyo sa isang thread.
+3. Panatilihin ang mga operasyong cryptographic (mga hash at mga pirma) na nasa labas ng sentrong lohika sa negosyo.
+4. Hatiin ang balidasyon sa mga check na naka-depende sa estado at independente sa estado.
+5. Gumamit ng isang modelo sa datos na naka-bagay sa object.
 
-By following these simple rules, Steem is able to process 10,000 transactions per second without any significant effort devoted to optimization.
+Sa pamamagitan ng pagsunod sa mga simpleng mga panuntunan na ito, ang Steem ay kayang makakapagproseso ng 10,000 na mga transaksyon bawat segundo na walang ni isang mahalagang pagsisikap na ilaan sa pagpapabilis.
 
 Keeping everything in memory is increasingly viable given the recent introduction of Optane™ technology from Intel[^14]. It should be possible for commodity hardware to handle all of the business logic associated with Steem in a single thread with all posts kept in memory for rapid indexing. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optane™ technology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
 
