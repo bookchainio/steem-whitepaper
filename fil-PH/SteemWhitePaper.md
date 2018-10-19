@@ -372,7 +372,7 @@ Pagpahayag sa ibang pamamaraan, ang isang bayarin sa transaksyon ay nararapat na
 
 Sa teorya ang merkado ay maisasagawa mula sa hinihiraman ng mga gumagamit ng mga stake na kinakailangan. Sa kasanayan ito ay higit na epektibo para sa mga gumagamit upang simple na makapagbili at makapagtinda ng mga timeshare na kinakailangan upang maabot ang kanilang gusto rate sa pagkagamit. Sa ibang salita, ang gastos sa pakikipagkasundo ng mga maliliit na pautang ay mas malaki kaysa sa halaga ng pagpapanatili ng isang balanse na angkop para sa iyong pinakamalaking linggohang paggamit.
 
-Decentralized rate limiting of transactions can enable new types of decentralized applications that were not viable when every use of the application required a micropayment. This new model gives application developers the ability to decide if and when to charge their users for transactions.
+Ang desentralisadong paglilimita sa rate ng mga transaksyon ay nakakapagpagana sa mga bagong uri ng mga aplikasyon na desentralisado na hindi posible kapag ang bawat paggamit ng aplikasyon ay nangangailangan ng maliit na bayarin. This new model gives application developers the ability to decide if and when to charge their users for transactions.
 
 # Performance and Scalability
 
