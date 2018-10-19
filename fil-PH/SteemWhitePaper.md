@@ -372,11 +372,11 @@ Pagpahayag sa ibang pamamaraan, ang isang bayarin sa transaksyon ay nararapat na
 
 Sa teorya ang merkado ay maisasagawa mula sa hinihiraman ng mga gumagamit ng mga stake na kinakailangan. Sa kasanayan ito ay higit na epektibo para sa mga gumagamit upang simple na makapagbili at makapagtinda ng mga timeshare na kinakailangan upang maabot ang kanilang gusto rate sa pagkagamit. Sa ibang salita, ang gastos sa pakikipagkasundo ng mga maliliit na pautang ay mas malaki kaysa sa halaga ng pagpapanatili ng isang balanse na angkop para sa iyong pinakamalaking linggohang paggamit.
 
-Ang desentralisadong paglilimita sa rate ng mga transaksyon ay nakakapagpagana sa mga bagong uri ng mga aplikasyon na desentralisado na hindi posible kapag ang bawat paggamit ng aplikasyon ay nangangailangan ng maliit na bayarin. This new model gives application developers the ability to decide if and when to charge their users for transactions.
+Ang desentralisadong paglilimita sa rate ng mga transaksyon ay nakakapagpagana sa mga bagong uri ng mga aplikasyon na desentralisado na hindi posible kapag ang bawat paggamit ng aplikasyon ay nangangailangan ng maliit na bayarin. Ang bagong modelo na ito ay nagbibigay sa mga developer ng aplikasyon ng kakayahan na makapagdesisyon kung at kailan na makapaghingi ng bayad sa kanilang mga gumagamit para sa mga transaksyon.
 
-# Performance and Scalability
+# Performance at Scalability
 
-The Steem network is built upon Graphene, the same technology that powers BitShares. Graphene has been publicly demonstrated sustaining over 1000 transactions per second on a distributed test network. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
+Ang network ng Steem ay ginawa sa Graphene, ang kaparehang teknolohiya na nagpapagana ng BitShares. Ang Graphene ay napatunayan na sa publiko na kaya ang higit sa 1000 na mga transactions bawat segundo doon sa distributed test network. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
 
 ## Reddit Scale
 
