@@ -378,7 +378,7 @@ Ang desentralisadong paglilimita sa rate ng mga transaksyon ay nakakapagpagana s
 
 Ang network ng Steem ay ginawa sa Graphene, ang kaparehang teknolohiya na nagpapagana ng BitShares. Ang Graphene ay napatunayan na sa publiko na kaya ang higit sa 1000 na mga transactions bawat segundo doon sa distributed test network. Ang Graphene ay madali lang maka-abot ng 10,000 o higit pa na mga transaksyon bawat segundo na mayroong diretsohang pagbuti sa kapasidad ng server at mga protocol sa komunikasyon.
 
-## Reddit Scale
+## Reddit na Scale
 
 Steem is capable of handling a larger userbase than Reddit. In 2015 Reddit’s 8.7 million users generated an average of 23 comments per second[^12], with an average of 83 comments per year per user. There were 73 million top-level posts, for an average of 2 new posts per second. There were about 7 billion up votes creating an average voting rate of 220 votes per second. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
 
