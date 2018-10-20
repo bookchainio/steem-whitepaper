@@ -1,24 +1,24 @@
 # Steem
 
-## Isang incentivized blockchain batay sa pang publikong content platform.
+## An incentivized, blockchain-based, public content platform.
 
-Ang Agosto 2017
+Agosto 2017
 
-# Ang talaan ng tagasalin
+# Translator's notes
 
-Placeholder para sa talaan ng tagasalin.
+Placeholder for translator's notes.
 
-# Ang abstract
+# Abstract
 
-Ang Steem ay isang blockchain database na sumosuporta sa pag bubuo ng komunida at pakikipag-ugnayan sa lipunan upang magkaruon ng cryptocurrentce na gantimpala. Ang steem ay pinag iisa ang konsepto ng social media kasama ang aral na natutunan mula sa nabuo ng cryptocurrencies at kanilang kuminidad. Isang mahalagang susi upang magbigay inspirasyon sa pagsali sa kahit saang kumunidad, pera o ekonomiya ng malayang merkado ay isang pantay na pamamaraan ng accounting na palaging maipakita ang ambag ng bawat mamamayan. Ang Steem ang kauna unang cryptocurreny na sumobok sa Tama at malinaw na pagbibigay ng pabuya sa walang katapusang bilang ng mga tao na gumagawa ng * suhetibong kontribusyon * sa komunidad.
+Steem is a blockchain database that supports community building and social interaction with cryptocurrency rewards. Steem combines concepts from social media with lessons learned from building cryptocurrencies and their communities. An important key to inspiring participation in any community, currency or free market economy is a fair accounting system that consistently reflects each person's contribution. Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
 
-# Ang talaan ng nilalaman
+# Talaan ng mga Nilalaman
 
 <!-- toc -->
 
-# Ang pasimula
+# Introduction
 
-Nag sama Sama ang mga user-generated na mga nilalaman upang makalikha ng bilyon dalars na halaga para sa mga magkakasamang kompanya sa social media tulad ng Reddit, facebookat twitter. **Noong 2014, Gumawa ng teorya ang Reddit na maaring mapapabuti ang kanilang plataporma kung lahat ng mga tao na tumulong sa reddit.com sa pamamagitan ng pagpaskil ng mga kuwento, pagdaragdag ng mga komento o pagboto ay mabigyan ng makatarungan na bahagi mula sa Reddit, Inc.[^1]**. Nilalayon ng Steem na suportahan ang social media at mga online na komunidad sa pamamagitan ng pagbabalik ng halaga nito sa mga tao na nakapagbigay ng mahalagang kontribusyon sa pamamagitan ng pagbigay ng gantimpala na mga cryptocurrency, at sa pamamagitan ng prosesong ito makapaglikha ng isang pera na may kakayahan na makaabot ang malawak na merkado, kabilang ang mga tao na hindi pa sumali sa anumang ekonomiya ng cryptocurrency.
+Sama-sama, ang mga user-generated na mga nilalaman ay lumikha ng bilyun-bilyong dolyar na halaga para sa mga shareholders ng mga kompanya ng social media, tulad ng Reddit, Facebook, at Twitter. **Noong 2014, Gumawa ng teorya ang Reddit na maaring mapapabuti ang kanilang plataporma kung lahat ng mga tao na tumulong sa reddit.com sa pamamagitan ng pagpaskil ng mga kuwento, pagdaragdag ng mga komento o pagboto ay mabigyan ng makatarungan na bahagi mula sa Reddit, Inc.[^1]**. Nilalayon ng Steem na suportahan ang social media at mga online na komunidad sa pamamagitan ng pagbabalik ng halaga nito sa mga tao na nakapagbigay ng mahalagang kontribusyon sa pamamagitan ng pagbigay ng gantimpala na mga cryptocurrency, at sa pamamagitan ng prosesong ito makapaglikha ng isang pera na may kakayahan na makaabot ang malawak na merkado, kabilang ang mga tao na hindi pa sumali sa anumang ekonomiya ng cryptocurrency.
 
 May mga ilang mahahalagang prinsipyo na ginamit upang gabayan ang pagdisenyo ng Steem. Ang pinakamahalagang prinsipyo ay lahat ng tao na nag-aambag sa pakikipagsapalaran ay dapat makatanggap ng pro-rata na pagmamay-ari, pagbayad o utang mula sa pakikipagsapalaran. Ang prinsipyong ito ay parehong prinsipyo na ginagamit ng lahat ng mga startup habang sila ay naglaan ng mga shares sa pagtatatag at sa panahon ng susunod na rounds ng pagpondo.
 
