@@ -62,29 +62,29 @@ Voting input from community members is critical for Steem to accurately allocate
 
 Binabalangkas ng bahaging ito ang mga ideya sa likod ng Steem at ang mga pabuya nito para sa mga tao na nagbigay ng mga makabuluhan at nasusukat na mga kontribusyon sa komunidad ng Steem.
 
-## Kabisera ng Kontribusyon
+## Capital Contributions
 
-Mayroong dalawang bagay na pwedeng i-alok ng isang komunidad upang makaakit ng mga kabisera: utang at pagmamay-ari. Doon sa mga bibili ng pagmamay-ari ay kikita kapag lumalaki ang komunidad pero malulugi kapag liliit ang komunidad. Ang mga bibili ng utang ay garantisado ng isang tiyak na halaga ng interes ngunit hindi maaaring lumahok sa anumang kita na natanto sa pamamagitan ng paglaki ng komunidad. Ang dalawang uri ng kapital na kontribusyon ay mahalaga sa pag-unlad ng komunidad at halaga ng pera nito. Bukod pa rito, mayroong dalawang paraan upang hawakan ang pagmamay-ari: likod at vesting. Ang vesting na pagmamay-ari ay gumagawa ng isang pang-matagalan na pangako at hindi pwedeng ibenta ng iilang panahon.
+There are two items a community can offer to attract capital: debt and ownership. Those who buy ownership profit when the community grows but lose if the community shrinks. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
 
-Ang Steem network ay tumatawag ng iba't ibang klase ng mga asset. Steem (STEEM), Steem Power(SP), at Steem Dollars(SBD).
+The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SBD).
 
 ## Steem (STEEM)
 
-Ang steem ang pangunahing yunit ng akawnt sa Steem blockchain. Lahat ng ibang uri ng mga token ay kinukuha ang kanilang halaga mula sa halaga ng STEEM. Ang STEEM ay isang likido na pera, at samakatuwid ay maaaring bilhin o ibenta sa mga kalakalan, pati na rin ang pag lipat sa ibang mga user bilang isang paraan na pagbayad.
+Ang steem ang pangunahing yunit ng akawnt sa Steem blockchain. All other tokens derive their value from the value of STEEM. STEEM is a liquid currency, and therefore can be bought or sold on exchanges, as well as transferred to other users as a form of payment.
 
 ## Steem Power (SP)
 
-Ang mga start up na kompanya ay nangangailangan ng pang-matagalang pangako sa puhunana. Aasahan ng mga mamuhunan ng pera sa isang startup na iilang taon pa maghihintay bago pwedeng ibenta ang kanilang bahagi at kumita. Kapag walang pang-matagalang pangako, ang isang startup na naghahanap ng karagdagang kapital sa pamamagitan ng pag benta ng karagdagang bahagi ay makikipagkumpitensya sa mga umiiral na shareholders na gustong lumabas. Ang mga matalinong mamuhunan ay gusto na ang kanilang iniambag na kapital ay ma gamit upang mapalaki ang kompanya, pero hindi maaaring mangyari ang paglago kapag ang bagong kapital ay mabibigay sa mga gustong lumabas.
+Start up companies require long-term capital commitment. Those who invest their money in a startup expect to wait years before they can sell their shares and realize their profits. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
 
-Malaking halaga ang pagkakaroon ng pang-matagalang pangako dahil nagbibigay-daan ito sa mga komunidad na gumawa ng mga pang-matagalang mga plano. Ang mga pang-matagalang pangako ng mga stakeholder ay nagiging sanhi rin para iboto nila ang pang-matagalang paglago sa halip na panandaliang mga pump.
+There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
 
-Sa pagitan ng cryptocurrency, karamihan sa mga mananapalaran ay tumatalon mula sa isang cryptocurrency patungo sa ibang cryptocurrency batay kung asan ang may panandaliang paglago. Gusto ng Steem na gumawa ng isang komunidad na karamihan sa mga nagmamayari ay mga may pang-matagalang pananaw.
+In the cryptocurrency space, speculators jump from cryptocurrency to cryptocurrency based mostly on which one is expected to have short-term growth. Gusto ng Steem na gumawa ng isang komunidad na karamihan sa mga nagmamayari ay mga may pang-matagalang pananaw.
 
-Ang mga gumagamit ay maaring ipagkatiwala ang kanilang STEEM sa isang labingtatlong linggo na vesting, at binibigyan ng mga karagdagang benepisyo sa loob ng plataporma. Ang STEEM na napagkatiwala sa labintatlong linggon na vesting ay tinatawag na Steem Power (SP). Ang mga SP na balanse ay di-transferable at di-mahahati maliban sa pamamagitan ng awtomatikong umuulit na mga kahilingan na kombersyon. Nangangahulugan na ang SP ay hindi madaling mapalitan sa mga pagpalitan ng cryptocurrency.
+Users are able to commit their STEEM to a thirteen week vesting schedule, providing them with additional benefits within the platform. STEEM that has been committed to a thirteen week vesting schedule is called Steem Power (SP). SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
 
-Kapag ang mga gumagamit ay nagboto sa mga nilalaman, ang kanilang impluwensiya sa pamamahagi ng pool ng mga gantimpala ay direktang proporsyonal sa halaga ng SP na mayroon sila. Ang mga gumagamit na may mas maraming SP ay may higit na impluwensya sa distribusyon ng mga gantimpala. Nangangahulugan na ang SP ay isang access token na nagbibigay daan sa mga tagapaghawak nito ng eksklusibong kapangyarihan sa loob ng plataporma ng Steem.
+When users vote on content, their influence over the distribution of the rewards pool is directly proportional to the amount of SP that they have. Ang mga gumagamit na may mas maraming SP ay may higit na impluwensya sa distribusyon ng mga gantimpala. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
 
-Ang mayhawak ng SP ay binabayaran rin ng iteres sa balanse ng SP na nananatiling vested. 15% ng taunang implasyon ay binabayad sa mga mayhawak ng SP bilang interes. Ang halaga ng interes na natatanggap nila ay direktang proporsyonal sa dami ng SP na hawak nila kaugnay sa kabuuang halaga ng SP na vested sa kabuuan ng lahat ng mga gumagamit.
+SP holders are also paid interest on the balance of SP that remains vested. 15% ng taunang implasyon ay binabayad sa mga mayhawak ng SP bilang interes. Ang halaga ng interes na natatanggap nila ay direktang proporsyonal sa dami ng SP na hawak nila kaugnay sa kabuuang halaga ng SP na vested sa kabuuan ng lahat ng mga gumagamit.
 
 Ang paglilipat ng STEEM sa SP ay tintawag ang "powering up", habang ang paglilipat mula sa SP sa STEEM ay tinatawag na "powering down." Ang SP na powered down ay binabalik sa gumagamit sa loob ng labingtatlong linggo, via 13 pantay na lingguhang pagbayad, na nagsisimula isang linggo pagktapos ng pag simula ang pag power down.
 
