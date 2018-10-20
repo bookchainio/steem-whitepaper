@@ -24,23 +24,23 @@ There are some key principles that have been used to guide the design of Steem. 
 
 The second principle is that all forms of capital are equally valuable. This means that those who contribute their scarce time and attention toward producing and curating content for others are just as valuable as those who contribute their scarce cash. This is the sweat equity principle[^2] and is a concept that prior cryptocurrencies have often had trouble providing to more than a few dozen individuals.
 
-The third principle is that the community produces products to serve its members. Ang prisipyong ito ay ipinakita sa pamamagitan ng mga unyon ng kredito, ko-op ng mga pagkain, at pagbabahagi ng planong kalusugan, na paglingkuran ang mga miyembro ng kanilang komunidad sa halip na ipagbili ang mga produkto o serbisyo sa mga tao sa labas ng komunidad.
+The third principle is that the community produces products to serve its members. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
 
-Ang Steem na komunidad ay nagbibigay ng mga sumusunod na serbisyo sa kanilang mga miyembro:
+The Steem community provides the following services to its members:
 
 1. Ang pinagmumulan ng curated na mga balita at komentaryo.
-2. Isang paraan upang makakuha ng mataas na kalidad na sagot sa mga gawang pansarili na tanong.
-3. Isang matatag na cryptocurrency na naka-peg sa U.S. dollar.
+2. A means to get high quality answers to personalized questions.
+3. A stable cryptocurrency pegged to the U.S. dollar.
 4. Libre na mga pagbabayad.
-5. Mga trabaho na nagbibigay ng mataas na serbisyo sa iba pang mga miyembro.
+5. Jobs providing above services to other members.
 
-Ang layunin ng Steem at pagbabago ng mga hangganan ng insentibong pang-ekonomya ay maaaring magbunga ng tama at mas inklusibong resulta para sa lahat ng kabahagi kaysa sa social media at plataporma ng cryptocurrency na nauna nito. Ang papel na ito ay galugarin ang mga umiiral na insentibong pang-ekonomiya at ipapakita kung paano ang mga insentibo ni Steem ay maaring magresulta ng mas mahusay na kinalabasan para sa karamihan ng mga kalahok.
+Steem’s purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem’s incentives may result in better outcomes for most participants.
 
 ## Pagkilala sa Kontribusyon
 
-Dinisenyo ang Steem mula sa lupa pataas upang tugunan ang mga pangunahing hadlang sa pag-ampon at monetization ng mga ekonomiya batay sa social media. Ang aming thesis ay ang mga parehong paraan na ginagamit upang palaguin ang mga pangunahing plataporma ng social media ay maaring gamitin upang i-bootstrap ang isang matagumpay na cryptocurrency. Kapansin-pansing mapapadali ng mga pang-ekonomiyang instentibo na pinagana ng cryptocurrency ang pag-unlad ng mga bagong social media platform. Sa synergy ng cryptocurrency at social media na naniniwala kami na maaring magbigay sa Steem ng isang malaking kalamangan sa merkado.
+Steem is designed from the ground up to address the major barriers to adoption and monetization of a social media based economy. Our thesis is that the same techniques used to grow major social media platforms can be used to bootstrap a successful cryptocurrency. Economic incentives enabled by cryptocurrency can dramatically facilitate the growth of a new social media platform. It is the synergy between cryptocurrency and social media that we believe may give Steem a powerful advantage in the market.
 
-Ang hamon na hinaharap ng Steem ay paggawa ng isang algorithm para sa pagmamarka ng mga indibidwal na kontribusyon na para sa karamihan ng mga miyembro ng komunidad ay makatarungan ang subjective na halaga ng bawat kontribusyon. Sa isang perkpektong mundo, ang mga miyembro ng komunidad ay makipagtulungan upang i-rate ang kontribusyon ng bawat isa at makapaggawa ng isang patas na kabayaran. Sa tunay na mundo, ang mga algorithm ay dapat dinesenyo sa paraan na sila ay lumalaban ng mga sadyang maniuplasyon at pansariling kita. Anumang laganap na pang-aabuso sa sistema ng pagmamarka ay maaaring maging sanhi na mawalan ng tiwala ang mga miyembro ng komunidad sa paghihinalaang pagkamatarungan ng sistema ng ekonomiya.
+The challenge faced by Steem is deriving an algorithm for scoring individual contributions that most community members consider to be a fair assessment of the subjective value of each contribution. Sa isang perkpektong mundo, ang mga miyembro ng komunidad ay makipagtulungan upang i-rate ang kontribusyon ng bawat isa at makapaggawa ng isang patas na kabayaran. Sa tunay na mundo, ang mga algorithm ay dapat dinesenyo sa paraan na sila ay lumalaban ng mga sadyang maniuplasyon at pansariling kita. Anumang laganap na pang-aabuso sa sistema ng pagmamarka ay maaaring maging sanhi na mawalan ng tiwala ang mga miyembro ng komunidad sa paghihinalaang pagkamatarungan ng sistema ng ekonomiya.
 
 Ang mga umiiral na mga plataporma ay nagpapatakbo ng isang-user, isang boto na alituntunin. Ito ay lumilikha ng isang environment na kung saan maaaring manipulahin ang mga ranggo sa pamamagitan ng sybil na pag-atake at ang mga service provider ay dapat aktibong tukuyin at i-block ang mga nang aabuso. Nagtangka na ang mga tao na manipulahin ang mga scoring algorithm ng Reddit, Facebook, at Twitter na ang tanging gantimpala ay web traffic o pagsensura.
 
