@@ -475,9 +475,9 @@ Sa pag-insentibo sa kurasyon, ang Steem network ay nakakayang gumamit ng mga aut
 
 Hindi ito madali na pumasak sa cryptocurrency [^21]. Ang isang tao na nakadiskubre sa Bitcoin at gustong subukan ito ay mabilis na natututunan na kailangan nilang mag-sign up sa isang palitan at pondohan ang kanilang akawnt ng isang kredit kard o wire transfer. Ano ang magiging katumbas ng rate ng pag-aampon ng Facebook kung kailangan mong mag-fork over ng pera at ng dalawang anyo ng ID?
 
-Steem solves this problem by giving everyone a way to get paid for doing simple, but valuable, tasks. This will help to widely distribute STEEM tokens. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless.)
+Sino-solve ng Steem ang problemang ito sa pamamagitan ng pagbibigay sa lahat ng paraan upang mabayaran para sa paggawa ng mga simple, ngunit mahalaga, na mga gawain. Ito ay makakatulong na ipamahagi ng malawakan ang mga STEEM token. Ito ay nakakatulong dahil ang mga cryptocurrency ay may isang network effect (dahil mas maraming mga user ang ginagawa itong mas kapaki-pakinabang; para sa isang matinding halimbawa, pansinin mo na kung itinago ni Satoshi ang 100% ng Bitcoin para sa kanyang sarili, ang Bitcoin ay magiging walang silbi.)
 
-## Solving the Cryptocurrency Liquidation Problem
+## Ang paglutas sa problema ng Cryptocurrency Liquidation Onboarding
 
 A currency that is difficult to use or impossible to sell has little value. Someone who comes across $1.00 worth of Bitcoin will discover that it costs more than $1.00 to sell that Bitcoin. They have to create an account with an exchange, perform KYC validation, and pay fees. Small amounts of cryptocurrency are like small change that people are unwilling to bend over to pick up.
 
