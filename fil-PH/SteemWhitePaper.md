@@ -240,7 +240,7 @@ Ang mga gumagamit ay mayroon ding opsyon na mabayaran ng 100% SP, pati na rin an
 
 # Ang Pinagkasunduang Algoritmo
 
-Ang proseso sa pinagkasunduan na kung saan ang isang komunidad ay nagmula sa kinikilala ng pangkalahatan, at hindi malabo na kasunduan sa isang piraso ng impormasyon. There are many algorithms society has developed for reaching consensus about who owns what. Every government on earth is a primitive consensus algorithm whereby the population agrees to abide by a certain set of rules enshrined in a constitution. Governments establish courts, judges, and juries to interpret the subjective facts and render a final decision. Most of the time people abide by the decision even if it was wrong.
+Ang proseso sa pinagkasunduan na kung saan ang isang komunidad ay nagmula sa kinikilala ng pangkalahatan, at hindi malabo na kasunduan sa isang piraso ng impormasyon. Mayroong maraming mga komunidad ng algoritmo ay binuo para sa pag-abot sa pinagkasunduan tungkol sa kung sino ang nagmamay-ari ng kung ano. Every government on earth is a primitive consensus algorithm whereby the population agrees to abide by a certain set of rules enshrined in a constitution. Governments establish courts, judges, and juries to interpret the subjective facts and render a final decision. Most of the time people abide by the decision even if it was wrong.
 
 The algorithms used by cryptocurrencies provide a better way to reach consensus. Cryptographically signed testimony from individuals is recorded in a public ledger that establishes the absolute global order of events. A deterministic computer algorithm can then process this ledger to derive a universally accepted conclusion. So long as the members of a community agree on the processing algorithm, the result of the algorithm is authoritative.
 
@@ -443,9 +443,9 @@ Dahil ang lahat ay nakikinabang, ang lahat ay dapat magbayad. Sa madaling salita
 
 Sama-sama, ang mga Reddit user ay bumuboto ng 220 beses kada segundo at gumawa ng mga 23 post kada segundo. Ang Reddit ay nagkakahalaga ng $500 milyon [^18] at $4 bilyon, [^19] na nangangahulugan na sa bawat isang upvote at post ang halaga ay sa pagitan ng $0.06 at $0.50, ipagpalagay na ang halaga ng Reddit ay halos sa loob lahat ng halaga ng aktibidad sa nakaraang taon. Maaaring makipagtalo ang isa na ang karamihan sa halaga ng Reddit ay ang malapit na mga real-time na diskusyon na naganap sa loob ng nagdaang linggo na kapansin-pansing nagtataas ng halaga sa bagong aktibidad. Ang tao ay pumupunta sa kung saan naroroon ang tao ngayon, hindi kung saan nasaan ang tao noong nakaraang taon.
 
-## No Micropayments, Tips Optional
+## Walang Mga Micropayment, Ang Mga Tip ay Opsyonal
 
-Existing attempts at integrating a cryptocurrency into a social media platform have focused on enabling users to pay one another. Many services have attempted to introduce tipping. The theory is that if we make tipping simple enough then more people will do it. Other services attempt to get people to pay to promote or boost their content’s ranking. Still others attempt to build small prediction markets on how many tips an article will receive.
+Ang mga umiiral na mga pagsubok sa pagsasama ng isang cryptocurrency sa isang platform ng social media ay nakatuon sa pagpapagana sa mga user na makabayad sa isa 't isa. Maraming mga serbisyo ang sinubukaang ipasok ang pag-tip. The theory is that if we make tipping simple enough then more people will do it. Other services attempt to get people to pay to promote or boost their content’s ranking. Still others attempt to build small prediction markets on how many tips an article will receive.
 
 All of these approaches boil down to micropayments. They differ only in who is making the payment. They all suffer from insufficient engagement of people making the micropayments. In the search for incentivised content production entrepreneurs have been so focused on who should pay that they missed the obvious reality: everyone benefits from everyone’s actions so everyone should pay or no one should pay, depending on how you look at it.
 
