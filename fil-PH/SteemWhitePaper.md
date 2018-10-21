@@ -244,9 +244,9 @@ Ang proseso sa pinagkasunduan na kung saan ang isang komunidad ay nagmula sa kin
 
 Ang mga algoritmo na ginagamit para sa mga cryptocurrency ay nagbibigay ng isang mas mahusay na paraan upang maabot ang pinagkasunduan. Ang tanda ng cryptographically na patotoo mula sa mga indibidwal ay naitala sa isang pampublikong ledger na nagtatatag ng ganap na pandaigdigang utos sa mga kaganapan. Ang isang deterministiko na algoritmong kompyuter ay maaaring magproseso ng ledger na ito upang makuha ang isang tinatanggap na pangkalahatang konklusyon. Hangga't ang mga miyembro ng isang komunidad ay sumasang-ayon sa algoritmo sa pagpoproseso, ang resulta ng algoritmo ay may kapangyarihan.
 
-Ang pangunahing pagsasaalang-alang ay pagtukoy kung anong testimonya ang pinapayagan na makapasok sa pampublikong talaan. Ang mga sistema ay dapat na idinisenyo upang mabawasan ang potensyal para sa sensura. Ang sensura sa pampublikong ledger ay katulad ng pagpigil sa isang tao gustong bumoto sa isang eleksyon. In both cases an individual is prevented from impacting the global consensus.
+Ang pangunahing pagsasaalang-alang ay pagtukoy kung anong testimonya ang pinapayagan na makapasok sa pampublikong talaan. Ang mga sistema ay dapat na idinisenyo upang mabawasan ang potensyal para sa sensura. Ang sensura sa pampublikong ledger ay katulad ng pagpigil sa isang tao gustong bumoto sa isang eleksyon. Sa parehong mga kaso ang isang indibidwal ay hinadlangan mula sa malakas na epekto sa pandaigdigang pinagkasunduan.
 
-## Consensus in Steem
+## Ang Pinagkasunduan sa Steem
 
 Conceptually, the consensus algorithm adopted by Steem is similar to the consensus algorithm adopted by companies throughout the world. People with a vested interest in the future value of Steem vote to select individuals responsible for including testimony in the public record. Voting is weighted proportional to each individual's vested interest.
 
