@@ -222,7 +222,7 @@ Ang isa sa mga pangunahing layunin ng Steem para sa sistema ng gantimpala ay mak
 
 Ang aktuwal na pamamahagi ay nakadepende sa mga pamamaraan ng mga gumagamit sa pagboto, ngunit kami ay may paghihinala na ang karamihan sa mga gantimpala ay ipinamamahagi sa pinaka-sikat na nilalaman.
 
-Ang mga batas na Zipf ay[^7] at mula sa isang obserbasyon ng mga patakaran na naglalarawan sa isang kamangha-manghang hanay ng mga tunay na pangyayari sa mundo na lubos na mahusay. It says that if we order some large collection by size or popularity, the second element in the collection will be about half the measure of the first one, the third one will be about one-third the measure of the first one, and so on. In general, the k th-ranked item will measure about 1/k of the first one.
+Ang mga batas na Zipf ay[^7] at mula sa isang obserbasyon ng mga patakaran na naglalarawan sa isang kamangha-manghang hanay ng mga tunay na pangyayari sa mundo na lubos na mahusay. Sinasabi nito na kung umorder kami ng ilang malaking koleksyon na ayon sa sukat o kaya ay ayon sa katanyagan, ang pangalawang elemento sa koleksyon ay tungkol sa kalahati ang sukat sa na una, ang ikatlo ay magiging saikatlo ng sukatan ng una, at iba pa. In general, the k th-ranked item will measure about 1/k of the first one.
 
 ![](\img_the_new_marketplace.png)
 
