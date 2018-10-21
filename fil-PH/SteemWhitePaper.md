@@ -226,7 +226,7 @@ Ang mga batas na Zipf ay[^7] at mula sa isang obserbasyon ng mga patakaran na na
 
 ![](\img_the_new_marketplace.png)
 
-Ang pagiging sikat ay hindi pantay sa sukatan ng halaga, kung gayon ang halaga ng bawat indibidwal na aytem ay ibinigay sa pamamagitan ng mga batas na Zipf. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
+Ang pagiging sikat ay hindi pantay sa sukatan ng halaga, kung gayon ang halaga ng bawat indibidwal na aytem ay ibinigay sa pamamagitan ng mga batas na Zipf. Yan ay, kung mayroon tayong isang milyon na mga aytem, pagkatapos ang 100 pinaka-sikat ay mag-aambag ng ikatlo ng kabuuang halaga, ang natitirang 10,000 ay panibagong ikatlo, at ang natitirang 989,900 ay ang huling ikatlo. Ang halaga ng koleksyon ng mga aytem ay proporsyonal sa pag log(n).
 
 The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
 
@@ -387,7 +387,7 @@ Upang makamtan itong performance na nangunguna sa industriya, ang Steem ay nakah
 1. Panatilihin ang lahat ng bagay sa memorya.
 2. Panatilihin ang sentrong lohika sa negosyo sa isang thread.
 3. Panatilihin ang mga operasyong cryptographic (mga hash at mga pirma) na nasa labas ng sentrong lohika sa negosyo.
-4. Divide validation into state-dependent and state-independent checks.
+4. Hatiin ang balidasyon sa mga tsek na naka-depende sa estado at independiente sa estado.
 5. Gumamit ng isang modelo sa datos na naka-bagay sa object.
 
 Sa pamamagitan ng pagsunod sa mga simpleng mga panuntunan na ito, ang Steem ay kayang makakapagproseso ng 10,000 na mga transaksyon bawat segundo na walang ni isang mahalagang pagsisikap na ilaan sa pagpapabilis.
@@ -421,7 +421,7 @@ The overall supply picture is complicated by the effect of SBD operations, which
 
 ## Kasalukuyang Alokasyon at Supply
 
-Simula sa ika-16 na hard fork ng network noong Disyembre 2016, nagsimula ang Steem na lumikha ng mga bagong token sa santaunang inflation rate ng 9.5%. Ang inflation rate ay bumababa sa rate na 0.01% bawat 250,000 na mga blocks, o sa halos 0.5% kada taon. The inflation will continue decreasing at this pace until the overall inflation rate reaches 0.95%. This will take about 20.5 years from the time hard fork 16 went into effect.
+Simula sa ika-16 na hard fork ng network noong Disyembre 2016, nagsimula ang Steem na lumikha ng mga bagong token sa santaunang inflation rate ng 9.5%. Ang inflation rate ay bumababa sa rate na 0.01% bawat 250,000 na mga blocks, o sa halos 0.5% kada taon. Ang inflation ay patulay na bababa sa ganiting bilis hanggang ang kabuuang inflation rate ay umabot sa 0.95%. This will take about 20.5 years from the time hard fork 16 went into effect.
 
 75% of the new tokens that are generated go to fund the reward pool, which is split between authors and curators. 15% of the new tokens are awarded to holders of SP. The remaining 10% pays for the witnesses to power the blockchain.
 
