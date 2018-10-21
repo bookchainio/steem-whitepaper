@@ -230,7 +230,7 @@ Ang pagiging sikat ay hindi pantay sa sukatan ng halaga, kung gayon ang halaga n
 
 Ang epekto ng pagboto at pamamahagi ng kabayaran ay upang mag-alok ng malaking pabuya sa magandang nilalaman habang nagbigay pa rin ng mas maliliit na manlalaro para sa kanilang mahabang-pagbuntot sa kontribusyon.
 
-The economic effect of this is similar to a lottery where people overestimate their probability of getting votes and thus do more work than the expected value of their reward and thereby maximize the total amount of work performed in service of the community. The fact that everyone “wins something” plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
+Ang pang-ekonomiyang epekto ay may kahalintulad sa isang loterya kung saan ang mga tao ay nasobrahan sa pagkalkula ng kanilang pagkakataon na makakuha ng mga boto at sa gayo'y makagawa ng mas maraming trabaho kaysa sa inaasahang halaga ng kanilang gantimpala at sa gayon ay mapakinabangan ang kabuuang halaga ng trabaho na ginawa sa pagseserbisyo ng komunidad. Ang katotohanan na ang lahat ay "nanalo ng anomang bagay" ay mga naglalaro sa parehong sikolohiya na ginagamit ng mga kasino upang mapanatili ang mga tao sa pagsusugal. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
 
 ### Payouts
 
@@ -433,11 +433,11 @@ Mula Agosto 2008 hanggang Enero 2009 ang U.S. supply ng pera na [^15] ay lumago 
 
 Sa unang 2 taon ng buhay ng Bitcoin ang network ay nanatiling may taunang inflation rate na [^17] na mahigit 100%. Sa unang 5 taon ito ay higit sa 30%, at sa unang 8 taon ito ay higit sa 10%. Sinabi sa lahat na sa total na "paggastos" ang Steem ay ginamit sa pagpondo ng nilalaman, pangangasiwa, at produksyon ng block ay umabot sa mas mababa sa 10% APR.
 
-Ang presyo ng isang digital na kalakal, tulad ng STEEM, ay kapuwa pinatatakbo ng supply at demand. Kapag ang isang long-term holder ay nagdesisyon na lumabas, ang supply ng STEEM sa merkado ay tataas at itutulak ang presyo pababa. Ang pababang presyon ay tinututulan kapag ang isang bagong long-term holder ay nagdesisyong bilhin na ang STEEM at i-convert ito pabalik sa SP. Additional supply and demand may be be added due to market speculators buying and selling liquid STEEM based on their predictions of the future market price.
+Ang presyo ng isang digital na kalakal, tulad ng STEEM, ay kapuwa pinatatakbo ng supply at demand. Kapag ang isang long-term holder ay nagdesisyon na lumabas, ang supply ng STEEM sa merkado ay tataas at itutulak ang presyo pababa. Ang pababang presyon ay tinututulan kapag ang isang bagong long-term holder ay nagdesisyong bilhin na ang STEEM at i-convert ito pabalik sa SP. Ang karagdagang supply at demand ay maaaring idagdag dahil sa mga nagbabakasakali sa merkado sa pagbili at pagbebenta ng mga likidong STEEM batay sa kanilang mga prediksyon ng hinaharap sa presyo sa merkado.
 
-# The Power of Steem
+# Ang Kapangyarihan ng Steem
 
-Steem recognizes that the value of all user contributions (posts and votes) is greater than the sum of the parts. A single comment is worth next to nothing, but millions of curated posts is worth many millions (or possibly even billions) of dollars. A single vote provides little curation value, but billions of votes is very effective curation. Content without curation is of limited value. Given all the content of the Internet minus the links between it, Google would struggle to produce useful search results. It is the links between information that give it significant value.
+Kinikilala ng Steem na ang halaga ng lahat ng mga kontribusyon (post at boto) ng user ay higit pa sa kabuuan ng mga bahagi. A single comment is worth next to nothing, but millions of curated posts is worth many millions (or possibly even billions) of dollars. A single vote provides little curation value, but billions of votes is very effective curation. Content without curation is of limited value. Given all the content of the Internet minus the links between it, Google would struggle to produce useful search results. It is the links between information that give it significant value.
 
 Because everyone benefits, everyone should pay. In other words, no individual user should be expected to pay for anything, but instead should be paid for everything they do that brings value to Steem. All we need to do is ascertain which user contributions bring a social network value and which ones don’t.
 
