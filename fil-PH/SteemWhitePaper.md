@@ -479,7 +479,7 @@ Sino-solve ng Steem ang problemang ito sa pamamagitan ng pagbibigay sa lahat ng 
 
 ## Ang paglutas sa problema ng Cryptocurrency Liquidation Onboarding
 
-A currency that is difficult to use or impossible to sell has little value. Someone who comes across $1.00 worth of Bitcoin will discover that it costs more than $1.00 to sell that Bitcoin. They have to create an account with an exchange, perform KYC validation, and pay fees. Small amounts of cryptocurrency are like small change that people are unwilling to bend over to pick up.
+Ang isang pera na mahirap gamitin o imposibleng mabenta ay may maliit na halaga. Ang isang tao na masumpungan ang $1.00 na halaga ng Bitcoin ay matuklasan na mas higit pa sa $1.00 ang pagbenta sa Bitcoin na iyon. Sila ay lilikha dapat ng isang akawnt sa isang palitan, magsagawa ng KYC validation, at magbabayad ng mga bayarin. Ang mga maliit na halaga ng cryptocurrency ay parang maliit na barya na ayaw ng mga tao na yukuan para pulutin.
 
 Merchants give users a way to quickly convert their cryptocurrency into tangible goods and services. Merchants need a currency pegged to their unit of account, normally dollars. Accepting a volatile currency introduces significant accounting overhead.
 
