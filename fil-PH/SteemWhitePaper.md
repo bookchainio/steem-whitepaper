@@ -398,15 +398,15 @@ Ang pagpapanatili sa lahat sa memorya ay lalong gagana bunga ng kamakailang intr
 
 ## Inisyal na Alokasyon & Suplay
 
-Ang network ng Steem ay nagsimula sa 0 na suplay ng salapi at inilaan ang STEEM sa pamamagitan ng proof of work sa rate ng tinatayang 40 na STEEM bawat minuto sa mga minero, na mayroong karagdagang 40 na STEEM bawat minuto na nalilikha upang mai-seed ang nilalaman at mga pool sa gantimpala ng kurasyon (para sa kabuuang 80 na STEEM bawat minuto). Then the network started rewarding users who converted to SP. At this point, STEEM grew at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
+Ang network ng Steem ay nagsimula sa 0 na suplay ng salapi at inilaan ang STEEM sa pamamagitan ng proof of work sa rate ng tinatayang 40 na STEEM bawat minuto sa mga minero, na mayroong karagdagang 40 na STEEM bawat minuto na nalilikha upang mai-seed ang nilalaman at mga pool sa gantimpala ng kurasyon (para sa kabuuang 80 na STEEM bawat minuto). Pagkatapos ang network ay nagsimulang maggantimpala sa mga gumagamit na nag-kombert sa SP. Sa puntong ito, ang STEEM ay lumaki sa isang rate ng tinatayang 800 STEEM bawat minuto dahil sa mga pinagsamang epekto ng maraming Mga Gantimpala sa Kontribusyon na nakabuod sa ibaba:
 
-Contribution Rewards:
+Mga Gantimpala sa Kontribusyon:
 
-- Curation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
-- Content Creation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
-- Block production rewards: 1 STEEM per block or 0.750% per year, whichever is greater
-- POW inclusion rewards before block 864,000: 1 STEEM per block (awarded as 21 STEEM per round)
-- POW inclusion rewards after block 864,000: 0.0476 STEEM per block (awarded as 1 STEEM per round) or 0.750% per year, whichever is greater.
+- Mga gantimpala sa kurasyon: 1 STEEM bawat block o 3.875% bawat taon, alinman ang mas malaki
+- Mga gantimpala sa Paglilikha ng Artikulo: 1 STEEM bawat block o 3.875% bawat taon, alinman ang mas malaki
+- Mga gantimpala sa produksyon ng block: 1 STEEM bawat block o 0.750% bawat taon, alinman ang mas malaki
+- Mga gantimpala sa inklusyon ng POW bago ang ika-864,000 na block: 1 STEEM bawat block (iginawad bilang 21 STEEM bawat round)
+- Mga gantimpala sa inklusyon ng POW pagkatapos ng ika-864,000 na block: 0.0476 STEEM bawat block (iginawad bilang 1 STEEM bawat round) o 0.750% bawat taon, alinman ang mas malaki.
 - Liquidity rewards: 1 STEEM per block (awarded as 1200 STEEM per hour) or 0.750% per year, whichever is greater
 
 ### Power Rewards:
