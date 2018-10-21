@@ -467,13 +467,13 @@ Sa lawak ng dami ng halaga nito ay mawawalan ang Internet kung ang lahat ng mga 
 
 Ang mga link ay maaaring magkaroon ng maraming porma at bumagay sa paglipas ng panahon. Sa tuwing bumoboto ang isang user sa nilalaman sa isang social network ay nagdaragdag sila ng isang koneksyon sa pagitan ng kanilang mga sarili at sa mga nilalaman. Ito naman ay nag-uugnay sa mamimili sa mga prodyuser sa pamamagitan ng mga nilalaman. Mas maraming mga koneksyon na mayroon ang isang network ay mas nagiging mahalaga ang impormasyon. Ang relatibo at intensyonal na pagkakakonektado ng impormasyon ang nagbibigay halaga.
 
-Ang isang social network ay maaaring i-maximize ang halaga na nakuha mula sa isang hanay ng mga nilalaman sa pamamagitan ng pag-maximize sa dami at kalidad ng mga koneksyon. Ang pangangasiwa ng nilalaman ay mahal at umuubos ng oras habang halos imposible para sa mga kompyuter ang gumawa sa kawalan ng mga link. Steem rewards users who are among the first to find and identify new content.
+Ang isang social network ay maaaring i-maximize ang halaga na nakuha mula sa isang hanay ng mga nilalaman sa pamamagitan ng pag-maximize sa dami at kalidad ng mga koneksyon. Ang pangangasiwa ng nilalaman ay mahal at umuubos ng oras habang halos imposible para sa mga kompyuter ang gumawa sa kawalan ng mga link. Ang Steem ay ginagantimpalaan ang mga user na kabilang sa mga unang nakakita at nakatukoy sa mga bagong nilalaman.
 
-By incentivising curation the Steem network is able to use automated algorithms to extract the most valuable information from a massive amount of content.
+Sa pag-insentibo sa kurasyon, ang Steem network ay nakakayang gumamit ng mga automated algorithm para i-ekstrak ang pinakamahalagang impormasyon mula sa isang napakalaking halaga ng nilalaman.
 
-## Solving the Cryptocurrency Onboarding Problem
+## Paglutas sa mga problema ng Cryptocurrency Onboarding
 
-It isn’t easy to get into cryptocurrency[^21]. Someone who discovers Bitcoin and wants to try it out quickly learns that they will need to sign up with an exchange and fund their account with a credit card or wire transfer. What would Facebook’s adoption rate have been like if you had to fork over money and a two forms of ID?
+Hindi ito madali na pumasak sa cryptocurrency [^21]. Someone who discovers Bitcoin and wants to try it out quickly learns that they will need to sign up with an exchange and fund their account with a credit card or wire transfer. What would Facebook’s adoption rate have been like if you had to fork over money and a two forms of ID?
 
 Steem solves this problem by giving everyone a way to get paid for doing simple, but valuable, tasks. This will help to widely distribute STEEM tokens. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless.)
 
