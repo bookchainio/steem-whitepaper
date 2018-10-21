@@ -234,7 +234,7 @@ Ang pang-ekonomiyang epekto ay may kahalintulad sa isang loterya kung saan ang m
 
 ### Ang mga kabayaran
 
-Kapag ang isang post ay tumanggap ng isang kabayaran, ay makukuha ang porma ng 50% SBD at 50% SP. Ang Steem Power ay binibigyan ang gumagamit upang tumaas ang pagboto at kapangyarihan ng transaksyon habang ang SBD ay nagbibigay sa gumagamit ng agarang benepisyo sa isang matatag na karensiya. As we’ve already discussed at length, SP is designed to encourage long-term holding rather than short-term selling. This encourages more users to have a vested interest in the long-term success of the platform.
+Kapag ang isang post ay tumanggap ng isang kabayaran, ay makukuha ang porma ng 50% SBD at 50% SP. Ang Steem Power ay binibigyan ang gumagamit upang tumaas ang pagboto at kapangyarihan ng transaksyon habang ang SBD ay nagbibigay sa gumagamit ng agarang benepisyo sa isang matatag na karensiya. Tulad ng napag-diskusyonan na namin sa haba, ang SP ay dinisenyo upang hikayatin ang humahawak sa pangmatagalang hangarin kaysa sa panandaliang pagbebenta. Hinihikayat nito ang mas maraming mga gumagamit na magkaroon interes sa vest sa pangmatagalang hangarin ng tagumpay sa plataporma.
 
 Users also have the option to be paid in 100% SP, as well as decline payout on posts. When a user declines payout on a post, the money that would have been paid to them remains in the rewards pool, to be distributed to other users.
 
@@ -437,9 +437,9 @@ Ang presyo ng isang digital na kalakal, tulad ng STEEM, ay kapuwa pinatatakbo ng
 
 # Ang Kapangyarihan ng Steem
 
-Kinikilala ng Steem na ang halaga ng lahat ng mga kontribusyon (post at boto) ng user ay higit pa sa kabuuan ng mga bahagi. Ang isang komento ay halos walang halaga, ngunit ang milyon-milyong mga pinangasiwaang post ay nagkakahalaga ng maraming milyon (o posibleng bilyun-bilyon pa) na dolyar. Ang isang boto ay nagbibigay ng maliit na halaga sa kurasyon, ngunit ang bilyun-bilyong boto ay napakaepektibong kurasyon. Ang nilalaman na walang kurasyon ay limitado ang halaga. Given all the content of the Internet minus the links between it, Google would struggle to produce useful search results. It is the links between information that give it significant value.
+Kinikilala ng Steem na ang halaga ng lahat ng mga kontribusyon (post at boto) ng user ay higit pa sa kabuuan ng mga bahagi. Ang isang komento ay halos walang halaga, ngunit ang milyon-milyong mga pinangasiwaang post ay nagkakahalaga ng maraming milyon (o posibleng bilyun-bilyon pa) na dolyar. Ang isang boto ay nagbibigay ng maliit na halaga sa kurasyon, ngunit ang bilyun-bilyong boto ay napakaepektibong kurasyon. Ang nilalaman na walang kurasyon ay limitado ang halaga. Ibigay pa ang lahat ng nilalaman ng Internet ibawas ang mga link sa pagitan nito, ay pagsusumikapan ng Google na magbunga ng mga kapaki-pakinabang na search result. Itong mga link sa pagitan ng impormasyon ang nagbibigay dito ng makabuluhang halaga.
 
-Because everyone benefits, everyone should pay. In other words, no individual user should be expected to pay for anything, but instead should be paid for everything they do that brings value to Steem. All we need to do is ascertain which user contributions bring a social network value and which ones don’t.
+Dahil ang lahat ay nakikinabang, ang lahat ay dapat magbayad. In other words, no individual user should be expected to pay for anything, but instead should be paid for everything they do that brings value to Steem. All we need to do is ascertain which user contributions bring a social network value and which ones don’t.
 
 Collectively Reddit users vote 220 times per second and make 23 posts per second. Reddit is valued between $500 million[^18] and $4 billion[^19] which means that each and every upvote and post is worth between $0.06 and $0.50 assuming the value of Reddit is mostly within the past year’s worth of activity. One could argue that most of the value of Reddit is the near-real-time discussions that have occurred within the past week which would dramatically increase the value of new activity. People go where people are today, not where people were last year.
 
