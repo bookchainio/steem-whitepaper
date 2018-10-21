@@ -407,17 +407,17 @@ Mga Gantimpala sa Kontribusyon:
 - Mga gantimpala sa produksyon ng block: 1 STEEM bawat block o 0.750% bawat taon, alinman ang mas malaki
 - Mga gantimpala sa inklusyon ng POW bago ang ika-864,000 na block: 1 STEEM bawat block (iginawad bilang 21 STEEM bawat round)
 - Mga gantimpala sa inklusyon ng POW pagkatapos ng ika-864,000 na block: 0.0476 STEEM bawat block (iginawad bilang 1 STEEM bawat round) o 0.750% bawat taon, alinman ang mas malaki.
-- Liquidity rewards: 1 STEEM per block (awarded as 1200 STEEM per hour) or 0.750% per year, whichever is greater
+- Mga gantimpala sa liquidity: 1 STEEM bawat block (iginawad bilang 1200 STEEM bawat oras) o 0.750% bawat taon, alinman ang mas malaki
 
-### Power Rewards:
+### Mga Gantimpala sa Kapangyarihan:
 
-- Steem Power rewards: For each STEEM created by the above rewards, 9 STEEM are divided among all Steem Power holders.
+- Mga Gantimpalang Steem Power: Sa bawat STEEM na nailikha ng mga nasa taas na mga gantimpala, ang 9 na STEEM ay hinahati sa lahat ng mga humahawak ng SP.
 
-### SBD operations:
+### Mga operasyon ng SBD:
 
-- SBD rewards: A percentage of SBD value is created at an APR set by the witnesses and paid to SBD holders as SBD
+- Mga gantimpalang SBD: Ang porsiyento ng halaga ng SBD ay ginawa sa isang APR na itinakda ng mga witness at ibinayad sa mga humahawak ng SBD bilang SBD
 
-The overall supply picture is complicated by the effect of SBD operations, which may result in large-scale creation or destruction of STEEM through feed rate following and SBD rewards, as discussed in the SBD section. Other, smaller-scale complicating effects also exist, including unclaimed incentives (e.g. block rewards for missed blocks), and abandoned accounts.
+Ang kabuuang larawan ng suplay ay pinagulo ng epekto ng mga operasyon sa SBD, na maaaring makapagresulta sa malakihang pagkalikha o pagkawasak ng STEEM sa pamamagitan ng feed rate ng sinusubaybayan at mga gantimpala sa SBD, na napag-usapan na sa seksyon ng SBD. Other, smaller-scale complicating effects also exist, including unclaimed incentives (e.g. block rewards for missed blocks), and abandoned accounts.
 
 ## Kasalukuyang Alokasyon at Supply
 
