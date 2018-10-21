@@ -228,7 +228,7 @@ Ang mga batas na Zipf ay[^7] at mula sa isang obserbasyon ng mga patakaran na na
 
 Ang pagiging sikat ay hindi pantay sa sukatan ng halaga, kung gayon ang halaga ng bawat indibidwal na aytem ay ibinigay sa pamamagitan ng mga batas na Zipf. Yan ay, kung mayroon tayong isang milyon na mga aytem, pagkatapos ang 100 pinaka-sikat ay mag-aambag ng ikatlo ng kabuuang halaga, ang natitirang 10,000 ay panibagong ikatlo, at ang natitirang 989,900 ay ang huling ikatlo. Ang halaga ng koleksyon ng mga aytem ay proporsyonal sa pag log(n).
 
-The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
+Ang epekto ng pagboto at pamamahagi ng kabayaran ay upang mag-alok ng malaking pabuya sa magandang nilalaman habang nagbigay pa rin ng mas maliliit na manlalaro para sa kanilang mahabang-pagbuntot sa kontribusyon.
 
 The economic effect of this is similar to a lottery where people overestimate their probability of getting votes and thus do more work than the expected value of their reward and thereby maximize the total amount of work performed in service of the community. The fact that everyone “wins something” plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
 
@@ -392,11 +392,11 @@ Upang makamtan itong performance na nangunguna sa industriya, ang Steem ay nakah
 
 Sa pamamagitan ng pagsunod sa mga simpleng mga panuntunan na ito, ang Steem ay kayang makakapagproseso ng 10,000 na mga transaksyon bawat segundo na walang ni isang mahalagang pagsisikap na ilaan sa pagpapabilis.
 
-Ang pagpapanatili sa lahat sa memorya ay lalong gagana bunga ng kamakailang introduksyon ng teknolohiyang Optane™ mula sa Intel[^14]. It should be possible for commodity hardware to handle all of the business logic associated with Steem in a single thread with all posts kept in memory for rapid indexing. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optane™ technology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
+Ang pagpapanatili sa lahat sa memorya ay lalong gagana bunga ng kamakailang introduksyon ng teknolohiyang Optane™ mula sa Intel[^14]. Nararapat na posible para sa kasangkapang hardware na makapaghawak sa lahat ng mga lohika sa negosyo na may kinalaman sa Steem sa iisang thread kasama ang lahat ng mga post na napanatili sa memorya para sa mabilisang pagi-indeks. Kahit ang Google ay nagpapanatili sa kanilang indeks sa buong internet sa RAM. Ang gamit ng teknolohiyang blockchain ay nagiging maliit kung paparamihin ang database sa mga maraming makina para mapigilan ang pagkawala ng datos. Sa pagpalit ng teknolohiyang Optane™, ang RAM ay nagiging mas mabilis habang kumukuha ng pamamalagi. Sa ibang mga salita, ang Steem ay dinisenyo para sa mga arkitektura ng hinaharap at dinisenyo para mag-eskala.
 
-# Allocation & Supply
+# Alokasyon & Suplay
 
-## Initial Allocation & Supply
+## Inisyal na Alokasyon & Suplay
 
 The Steem network started with a currency supply of 0 and allocated STEEM via proof of work at a rate of approximately 40 STEEM per minute to miners, with an additional 40 STEEM per minute being created to seed the content and curation reward pools (for a total of 80 STEEM per minute). Then the network started rewarding users who converted to SP. At this point, STEEM grew at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
 
