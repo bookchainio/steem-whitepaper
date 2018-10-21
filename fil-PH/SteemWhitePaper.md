@@ -473,7 +473,7 @@ Sa pag-insentibo sa kurasyon, ang Steem network ay nakakayang gumamit ng mga aut
 
 ## Paglutas sa mga problema ng Cryptocurrency Onboarding
 
-Hindi ito madali na pumasak sa cryptocurrency [^21]. Someone who discovers Bitcoin and wants to try it out quickly learns that they will need to sign up with an exchange and fund their account with a credit card or wire transfer. What would Facebook’s adoption rate have been like if you had to fork over money and a two forms of ID?
+Hindi ito madali na pumasak sa cryptocurrency [^21]. Ang isang tao na nakadiskubre sa Bitcoin at gustong subukan ito ay mabilis na natututunan na kailangan nilang mag-sign up sa isang palitan at pondohan ang kanilang akawnt ng isang kredit kard o wire transfer. Ano ang magiging katumbas ng rate ng pag-aampon ng Facebook kung kailangan mong mag-fork over ng pera at ng dalawang anyo ng ID?
 
 Steem solves this problem by giving everyone a way to get paid for doing simple, but valuable, tasks. This will help to widely distribute STEEM tokens. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless.)
 
