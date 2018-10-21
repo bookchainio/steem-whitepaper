@@ -429,7 +429,7 @@ Simula sa ika-16 na hard fork ng network noong Disyembre 2016, nagsimula ang Ste
 
 Madalas na sinasabi ito na ang isang barya na may isang inflationary model ay hindi napapanatili, ngunit alam natin na mula sa di mabilang na mga halimbawa sa tunay na mundo na ang dami ng pera ay walang direkta at agarang epekto sa halaga nito, bagama't tiyak na ito ay may papel.
 
-From August 2008 through January 2009 the U.S. money supply[^15] grew from $871B to $1,737B, a rate of over 100% per year and then continued to grow at about 20% per year for the next 6 years. All told the money supply in the U.S. has grown by 4.59x over less than 7 years. During that same time, the value of the dollar relative to goods and services has fallen less than 10% according to the government's price index[^16]. This real-world example demonstrates that supply is only one component of price.
+Mula Agosto 2008 hanggang Enero 2009 ang U.S. supply ng pera na [^15] ay lumago mula $871B hanggang $1, 737B, isang rate na mahigit 100% bawat taon at pagkatapos ay patuloy na lumago sa 20% bawat taon sa loob ng 6 na taon. Sinabi sa lahat na ang supply ng pera sa U.S. ay lumago ng 4.59 x sa humigi't kumulang na 7 taon. Sa panahon ding iyon, ang halaga ng dolyar kaugnay sa mga produkto at mga serbisyo ay bumagsak na mas mababa sa 10% ayon sa price index ng gobyerno na [^16]. Itong tunay na mundong halimbawa ay nagpapakita na ang supply ay isa lamang bahagi ng presyo.
 
 For the first 2 years of Bitcoin’s life the network sustained an annual inflation rate[^17] of over 100%. For the first 5 years it was over 30%, and for the first 8 years it was over 10%. All told the total “spending” Steem does to fund content, curation, and block production amounts to less than 10% APR.
 
