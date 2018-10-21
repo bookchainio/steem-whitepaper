@@ -487,11 +487,11 @@ Ang mga mangangalakal ay tumatanggap ng anumang pera kung ito ay nagpapalago ng 
 
 Ang isa pang paraan na ang mga tao ay makapag-likida ng mga maliit na halaga ng cryptocurrency na natatanggap nila mula sa paglahok sa platform ng Steem ay sa pamamagitan ng pag-*tip* sa iba. Ito ay parang pag-iwan sa isang maliit na barya gaya ng isang tip para sa iyong waiter. Kapag iniiwan ng mga tao ang sapat na maliit na mga tip, ito ay dumaragdag sa isang makabuluhang halaga. Ikaw at ang waiter ay may makakuhang pakinabang mula sa tip.
 
-## Censorship
+## Sensura
 
-Steem is a decentralized network that is operated by witnesses in jurisdictions around the world. All user actions are publicly recorded on the blockchain, and can be publicly verified. This means that there is no single entity that can censor content that is valued by STEEM holders.
+Ang Steem ay isang desentralisadong network na pinamamahalaan ng mga saksi sa mga sinasakupan sa buong mundo. Lahat ng mga ginawa ng user ay hayagan na nakatala sa blockchain, at maaaring hayagang mapatunayan. Ito ay nangangahulugan na walang iisang entidad na maaaring i-sensor ang nilalaman na pinahalagahan ng mga STEEM holder.
 
-Individual websites such as steemit.com may censor content on their particular site, but content published on the blockchain is inherently broadcast traffic and mirrors all around the world may continue to make it available.
+Ang indibidwal na mga website tulad ng steemit.com ay maaaring i-sensor ang nilalaman sa kanilang partikular na site, ngunit ang nilalaman na inilathala sa blockchain ay likas na na-brodkas ng trapiko at ang mga salamin sa lahat ng dako sa buong mundo ay maaaring ipagpatuloy na magamit ang mga ito.
 
 Freedom of speech is the foundation of all other liberties and any infringement upon freedom of speech undermines the only peaceful means of reaching consensus: discussion. Without free discussion voters cannot be fully informed, and uninformed voters are a greater threat to society than losing the right to vote. Censorship is a means of stealing votes through limiting public discourse. Steem is committed to enabling free speech and building a free society.
 
