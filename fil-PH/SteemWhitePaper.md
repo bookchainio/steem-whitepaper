@@ -483,9 +483,9 @@ Ang isang pera na mahirap gamitin o imposibleng mabenta ay may maliit na halaga.
 
 Ang mga mangangalakal na nagbibigay sa mga user ng isang paraan para mabilis na mapalitan ang kanilang cryptocurrency sa mga nasasalat na mga kalakal at mga serbisyo. Kailangan ng mga mangangalakal ang isang pera na ilalagay sa kanilang yunit ng akawnt, karaniwan ang mga dolyar. Ang pagtanggap ng isang pabagu-bagong pera ay nagpapakilala sa makabuluhang pagtutuos ng gastos.
 
-Ang mga mangangalakal ay tumatanggap ng anumang pera kung ito ay nagpapalago ng kanilang benta. Ang pagkakaroon ng malaking user base sa isang matatag na pera gaya ng SBD ay nagpapababa sa mga harang sa pagpasok ng mga mangangalakal. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
+Ang mga mangangalakal ay tumatanggap ng anumang pera kung ito ay nagpapalago ng kanilang benta. Ang pagkakaroon ng malaking user base sa isang matatag na pera gaya ng SBD ay nagpapababa sa mga harang sa pagpasok ng mga mangangalakal. Ang presensya ng mga mangangalakal ay nagpapabuti sa sistema sa pamamagitan ng paglikha ng off-ramp para sa mga user upang makalabas sa sistema na hindi na guguluhin pa ng paggamit ng isang palitan.
 
-Another way that people can liquidate the small amounts of cryptocurrency they receive from participating on the Steem platform is through *tipping* others. This is like leaving the small change as a tip for your waiter. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
+Ang isa pang paraan na ang mga tao ay makapag-likida ng mga maliit na halaga ng cryptocurrency na natatanggap nila mula sa paglahok sa platform ng Steem ay sa pamamagitan ng pag-*tip* sa iba. Ito ay parang pag-iwan sa isang maliit na barya gaya ng isang tip para sa iyong waiter. Kapag iniiwan ng mga tao ang sapat na maliit na mga tip, ito ay dumaragdag sa isang makabuluhang halaga. Ikaw at ang waiter ay may makakuhang pakinabang mula sa tip.
 
 ## Censorship
 
