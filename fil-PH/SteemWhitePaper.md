@@ -236,9 +236,9 @@ Ang pang-ekonomiyang epekto ay may kahalintulad sa isang loterya kung saan ang m
 
 Kapag ang isang post ay tumanggap ng isang kabayaran, ay makukuha ang porma ng 50% SBD at 50% SP. Ang Steem Power ay binibigyan ang gumagamit upang tumaas ang pagboto at kapangyarihan ng transaksyon habang ang SBD ay nagbibigay sa gumagamit ng agarang benepisyo sa isang matatag na karensiya. Tulad ng napag-diskusyonan na namin sa haba, ang SP ay dinisenyo upang hikayatin ang humahawak sa pangmatagalang hangarin kaysa sa panandaliang pagbebenta. Hinihikayat nito ang mas maraming mga gumagamit na magkaroon interes sa vest sa pangmatagalang hangarin ng tagumpay sa plataporma.
 
-Users also have the option to be paid in 100% SP, as well as decline payout on posts. When a user declines payout on a post, the money that would have been paid to them remains in the rewards pool, to be distributed to other users.
+Ang mga gumagamit ay mayroon ding opsyon na mabayaran ng 100% SP, pati na rin ang hindi pagkuha ng kabayaran sa mga post. Kapag ang isang gumagamit ay hindi kinuha ang kabayaran sa isang post, ang pera na binayaran sa kanila ay nananatili sa lawa ng gantimpala, upang ipamahagi sa iba pang mga gumagamit.
 
-# Consensus Algorithm
+# Ang Pinagkasunduang Algoritmo
 
 Consensus is the process by which a community comes to a universally recognized, unambiguous agreement on piece of information. There are many algorithms society has developed for reaching consensus about who owns what. Every government on earth is a primitive consensus algorithm whereby the population agrees to abide by a certain set of rules enshrined in a constitution. Governments establish courts, judges, and juries to interpret the subjective facts and render a final decision. Most of the time people abide by the decision even if it was wrong.
 
@@ -439,9 +439,9 @@ Ang presyo ng isang digital na kalakal, tulad ng STEEM, ay kapuwa pinatatakbo ng
 
 Kinikilala ng Steem na ang halaga ng lahat ng mga kontribusyon (post at boto) ng user ay higit pa sa kabuuan ng mga bahagi. Ang isang komento ay halos walang halaga, ngunit ang milyon-milyong mga pinangasiwaang post ay nagkakahalaga ng maraming milyon (o posibleng bilyun-bilyon pa) na dolyar. Ang isang boto ay nagbibigay ng maliit na halaga sa kurasyon, ngunit ang bilyun-bilyong boto ay napakaepektibong kurasyon. Ang nilalaman na walang kurasyon ay limitado ang halaga. Ibigay pa ang lahat ng nilalaman ng Internet ibawas ang mga link sa pagitan nito, ay pagsusumikapan ng Google na magbunga ng mga kapaki-pakinabang na search result. Itong mga link sa pagitan ng impormasyon ang nagbibigay dito ng makabuluhang halaga.
 
-Dahil ang lahat ay nakikinabang, ang lahat ay dapat magbayad. In other words, no individual user should be expected to pay for anything, but instead should be paid for everything they do that brings value to Steem. All we need to do is ascertain which user contributions bring a social network value and which ones don’t.
+Dahil ang lahat ay nakikinabang, ang lahat ay dapat magbayad. Sa madaling salita, walang indibidwal na user ang dapat asahan na magbayad para sa anumang bagay, kundi sa halip ay dapat bayaran para sa lahat ng ginagawa nila na nagdudulot ng halaga sa Steem. Ang kailangan lang nating gawin ay alamin kung aling mga kontribusyon ng user ang nagbibigay ng isang social network value at alin ang hindi.
 
-Collectively Reddit users vote 220 times per second and make 23 posts per second. Reddit is valued between $500 million[^18] and $4 billion[^19] which means that each and every upvote and post is worth between $0.06 and $0.50 assuming the value of Reddit is mostly within the past year’s worth of activity. One could argue that most of the value of Reddit is the near-real-time discussions that have occurred within the past week which would dramatically increase the value of new activity. People go where people are today, not where people were last year.
+Sama-sama, ang mga Reddit user ay bumuboto ng 220 beses kada segundo at gumawa ng mga 23 post kada segundo. Reddit is valued between $500 million[^18] and $4 billion[^19] which means that each and every upvote and post is worth between $0.06 and $0.50 assuming the value of Reddit is mostly within the past year’s worth of activity. One could argue that most of the value of Reddit is the near-real-time discussions that have occurred within the past week which would dramatically increase the value of new activity. People go where people are today, not where people were last year.
 
 ## No Micropayments, Tips Optional
 
