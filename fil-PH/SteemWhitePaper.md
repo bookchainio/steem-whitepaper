@@ -481,9 +481,9 @@ Sino-solve ng Steem ang problemang ito sa pamamagitan ng pagbibigay sa lahat ng 
 
 Ang isang pera na mahirap gamitin o imposibleng mabenta ay may maliit na halaga. Ang isang tao na masumpungan ang $1.00 na halaga ng Bitcoin ay matuklasan na mas higit pa sa $1.00 ang pagbenta sa Bitcoin na iyon. Sila ay lilikha dapat ng isang akawnt sa isang palitan, magsagawa ng KYC validation, at magbabayad ng mga bayarin. Ang mga maliit na halaga ng cryptocurrency ay parang maliit na barya na ayaw ng mga tao na yukuan para pulutin.
 
-Merchants give users a way to quickly convert their cryptocurrency into tangible goods and services. Merchants need a currency pegged to their unit of account, normally dollars. Accepting a volatile currency introduces significant accounting overhead.
+Ang mga mangangalakal na nagbibigay sa mga user ng isang paraan para mabilis na mapalitan ang kanilang cryptocurrency sa mga nasasalat na mga kalakal at mga serbisyo. Kailangan ng mga mangangalakal ang isang pera na ilalagay sa kanilang yunit ng akawnt, karaniwan ang mga dolyar. Ang pagtanggap ng isang pabagu-bagong pera ay nagpapakilala sa makabuluhang pagtutuos ng gastos.
 
-Merchants will accept any currency if it increases their sales. Having a large user base with a stable currency such as SBD lowers the barrier to entry for merchants. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
+Ang mga mangangalakal ay tumatanggap ng anumang pera kung ito ay nagpapalago ng kanilang benta. Ang pagkakaroon ng malaking user base sa isang matatag na pera gaya ng SBD ay nagpapababa sa mga harang sa pagpasok ng mga mangangalakal. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
 
 Another way that people can liquidate the small amounts of cryptocurrency they receive from participating on the Steem platform is through *tipping* others. This is like leaving the small change as a tip for your waiter. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
 
