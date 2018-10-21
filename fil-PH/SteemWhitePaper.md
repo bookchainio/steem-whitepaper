@@ -392,7 +392,7 @@ Upang makamtan itong performance na nangunguna sa industriya, ang Steem ay nakah
 
 Sa pamamagitan ng pagsunod sa mga simpleng mga panuntunan na ito, ang Steem ay kayang makakapagproseso ng 10,000 na mga transaksyon bawat segundo na walang ni isang mahalagang pagsisikap na ilaan sa pagpapabilis.
 
-Keeping everything in memory is increasingly viable given the recent introduction of Optane™ technology from Intel[^14]. It should be possible for commodity hardware to handle all of the business logic associated with Steem in a single thread with all posts kept in memory for rapid indexing. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optane™ technology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
+Ang pagpapanatili sa lahat sa memorya ay lalong gagana bunga ng kamakailang introduksyon ng teknolohiyang Optane™ mula sa Intel[^14]. It should be possible for commodity hardware to handle all of the business logic associated with Steem in a single thread with all posts kept in memory for rapid indexing. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optane™ technology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
 
 # Allocation & Supply
 
