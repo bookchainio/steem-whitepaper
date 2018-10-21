@@ -102,7 +102,7 @@ SP holders elect individuals, called witnesses, to publish price feeds. The elec
 
 Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
 
-Kahit na lahat ng mga tagapagbuo ng feed ay matapat, posible parin para sa karamihan ng mga tagapagbuo ng feed na maapektohan ng mga kaganapan na hindi nila kontrolado. The Steem network is designed to tolerate short-term corruption of the median price feed while the community actively works to correct the issue. Ang isang halimbawa ng isang isyu na maaaring tumagal upang maayos ay ang panandaliang pagmamanipula sa merkado. Market manipulation is difficult and expensive to maintain for long periods of time. Isa pang halimbawa ay ang kabiguan ng isang sentralisadong pamilihan o ang katiwalian ng mga datos na nai-publish ng pamilihan.
+Kahit na lahat ng mga tagapagbuo ng feed ay matapat, posible parin para sa karamihan ng mga tagapagbuo ng feed na maapektohan ng mga kaganapan na hindi nila kontrolado. The Steem network is designed to tolerate short-term corruption of the median price feed while the community actively works to correct the issue. Ang isang halimbawa ng isang isyu na maaaring tumagal upang maayos ay ang panandaliang pagmamanipula sa merkado. Market manipulation is difficult and expensive to maintain for long periods of time. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
 
 Tinatanggal ng Steem ang mga panandaliang pagbago sa presyo sa pamamagitan ng paggamit ng panggitna na presyo sa loob ng tatlo at kalahitang araw. Ang panggitna na na-publish ay sinusuri bawat oras.
 
@@ -110,9 +110,9 @@ As long as the price feed corruption lasts for less than half the moving median 
 
 Sa tatlo at kalahating araw na bintana, ang mga miyembro ng komunidad ay may higit-kumulang isa at kalahiting aray upang sagutin ang anumang mga isyu na magpakita.
 
-### Pagbawas sa mga Atake sa Panahon
+### Mitigating Timing Attacks
 
-Ang mga kalahok sa merkado ay may access sa impormasyon na mas mabilis kaysa sa tatlo at kalahating araw na maka epekto ang paglipat ng panggitna na presyo ng kombersyon. Ang mga impormasyon na ito ay maaring magamit sa kapakanan ng mga negosyante sa kapalit ng komunidad. Kung mayroong biglaang pagtaas sa halaga ng STEEM maaaring hilingin ng mga mangangalakal na palitan ang kanilang SBD sa lumang halaga, mas mababang presyo, at ibenta ang STEEM na natanggap nila sa bagong mas mataas na presyo sa kaunting panganib.
+Market participants have access to information faster than the blockchain’s three and a half day moving median conversion price can react. This information could be used to benefit of traders at the expense of the community. Kung mayroong biglaang pagtaas sa halaga ng STEEM maaaring hilingin ng mga mangangalakal na palitan ang kanilang SBD sa lumang halaga, mas mababang presyo, at ibenta ang STEEM na natanggap nila sa bagong mas mataas na presyo sa kaunting panganib.
 
 Pinapantay ng Steem ang playing field sa pamamagitan ng pag hingi sa lahat ng mga hiling ng kombersyon na maantala ng tatlo at kalahating araw. Ang ibig sabihin nito ay hindi ang mga mangangalakal o ang blockchain ay may kalamangan sa impormasyon tungkol sa presyo na sa oras na isinagawa ang conversion.
 
