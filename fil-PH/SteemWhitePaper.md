@@ -268,7 +268,7 @@ Ang teknolohiyang Blockchain ay kasalukuyang nakasalalay sa mga bayad sa transak
 
 Ang mga blockchain ay desentralisadong mga network kung saan ang lahat ng mga transaksyon ay ibinabahagi sa lahat ng mga peer. Kadalasan tuwing ang isang block ay ginawa na kinabibilangan ng ilan o sa lahat ng nakabinbing mga transaksyon. Ang lahat ng mga blockchain ay dapat makahanap ng isang solusyon upang maiwasan ang mga malisyosong mga gumagamit mula sa pag-konsumo sa lahat ng mga magagamit na kapasidad sa network sa mga walang kabuluhang mga transaksyon. Ang mga walang kabuluhang transaksyon na ito ay maaaring mapigilan at iba pang mahahalagang transaksyon mula sa pag-proseso at sa huli ay masira ang network.
 
-Ang solusyon na pinagtibay sa pamamagitan ng karamihan sa mga blockchain sa ngayon ay sinisingil sa isang minimum na bayad sa transaksyon. Ang bayad na nagkakahalaga lamang ng ilang sentimo ay sapat na upang gumawa ng pag-atake ang network na mahal at hindi kapaki-pakinabang. Habang nilulunasan ang problema sa spam ng diskarte na ito, sya namang nagpapakilala sa mga bagong problema. Isipin ang paglutas ng problema sa email na spam sa pamamagitan ng pagpapasok ng isang maliit na bayad sa bawat email; ang mga tao ay hindi gumamit ng email.
+Ang solusyon ay pinagtibay sa pamamagitan ng karamihan sa mga blockchain sa ngayon kaya naman naniningil ng isang pinakamababang bayad sa transaksyon. Ang bayad na nagkakahalaga lamang ng ilang sentimo ay sapat na upang gumawa ng pag-atake ang network na mahal at hindi kapaki-pakinabang. Habang nilulunasan ang problema sa spam ng diskarte na ito, ay sya namang nagpapakilala sa mga bagong problema. Isipin ang paglutas ng problema ng pag-ispam sa email sa pamamagitan ng pagpapasok ng isang maliit na bayad sa bawat email; ang mga tao ay hindi na gagamit ng email.
 
 ### Micropayments Don’t Work
 
@@ -457,7 +457,7 @@ Ang mental na enerhiya na may kaugnayan sa paggawa ng isang desisyon sa ekonomiy
 
 -Mga Micropayment: Isang Nabubuhay na Business Model[^20]
 
-Sa ilalim ng Steem, ang mga micropayment ay binabayaran sa prodyuser ng nilalaman, pero ang mga taong bumoboto para sa nilalaman ay hindi nagbabayad. Sa halip, ang halaga ng mga gantimpala ay binabayaran sa pamamagitan ng mga bagong token. Someone can join the system, vote to pay someone, and then exit the system with more money than they started with (assuming the market valuation of the Steem system remained constant). In other words, the micropayment solution provided by Steem provides a user-experience similar to many widely used websites that have user-moderated content.
+Sa ilalim ng Steem, ang mga micropayment ay binabayaran sa prodyuser ng nilalaman, pero ang mga taong bumoboto para sa nilalaman ay hindi nagbabayad. Sa halip, ang halaga ng mga gantimpala ay binabayaran sa pamamagitan ng mga bagong token. Ang isang tao ay maaaring sumali sa sistema, bumoto upang bayaran ang isang tao, at pagkatapos ay lalabas sa sistema na may mas maraming pera kaysa nang sila ay nagsimula (ipagpapalagay na ang pagpapahalaga ng merkado sa sistema ng Steem ay nanatiling tuloy-tuloy). In other words, the micropayment solution provided by Steem provides a user-experience similar to many widely used websites that have user-moderated content.
 
 Furthemore, Steem pays people to figure out who should be paid! This kind of thinking is revolutionary.
 
