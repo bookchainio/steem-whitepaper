@@ -240,7 +240,7 @@ Ang mga gumagamit ay mayroon ding opsyon na mabayaran ng 100% SP, pati na rin an
 
 # Ang Pinagkasunduang Algoritmo
 
-Consensus is the process by which a community comes to a universally recognized, unambiguous agreement on piece of information. There are many algorithms society has developed for reaching consensus about who owns what. Every government on earth is a primitive consensus algorithm whereby the population agrees to abide by a certain set of rules enshrined in a constitution. Governments establish courts, judges, and juries to interpret the subjective facts and render a final decision. Most of the time people abide by the decision even if it was wrong.
+Ang proseso sa pinagkasunduan na kung saan ang isang komunidad ay nagmula sa kinikilala ng pangkalahatan, at hindi malabo na kasunduan sa isang piraso ng impormasyon. There are many algorithms society has developed for reaching consensus about who owns what. Every government on earth is a primitive consensus algorithm whereby the population agrees to abide by a certain set of rules enshrined in a constitution. Governments establish courts, judges, and juries to interpret the subjective facts and render a final decision. Most of the time people abide by the decision even if it was wrong.
 
 The algorithms used by cryptocurrencies provide a better way to reach consensus. Cryptographically signed testimony from individuals is recorded in a public ledger that establishes the absolute global order of events. A deterministic computer algorithm can then process this ledger to derive a universally accepted conclusion. So long as the members of a community agree on the processing algorithm, the result of the algorithm is authoritative.
 
@@ -441,7 +441,7 @@ Kinikilala ng Steem na ang halaga ng lahat ng mga kontribusyon (post at boto) ng
 
 Dahil ang lahat ay nakikinabang, ang lahat ay dapat magbayad. Sa madaling salita, walang indibidwal na user ang dapat asahan na magbayad para sa anumang bagay, kundi sa halip ay dapat bayaran para sa lahat ng ginagawa nila na nagdudulot ng halaga sa Steem. Ang kailangan lang nating gawin ay alamin kung aling mga kontribusyon ng user ang nagbibigay ng isang social network value at alin ang hindi.
 
-Sama-sama, ang mga Reddit user ay bumuboto ng 220 beses kada segundo at gumawa ng mga 23 post kada segundo. Reddit is valued between $500 million[^18] and $4 billion[^19] which means that each and every upvote and post is worth between $0.06 and $0.50 assuming the value of Reddit is mostly within the past year’s worth of activity. One could argue that most of the value of Reddit is the near-real-time discussions that have occurred within the past week which would dramatically increase the value of new activity. People go where people are today, not where people were last year.
+Sama-sama, ang mga Reddit user ay bumuboto ng 220 beses kada segundo at gumawa ng mga 23 post kada segundo. Ang Reddit ay nagkakahalaga ng $500 milyon [^18] at $4 bilyon, [^19] na nangangahulugan na sa bawat isang upvote at post ang halaga ay sa pagitan ng $0.06 at $0.50, ipagpalagay na ang halaga ng Reddit ay halos sa loob lahat ng halaga ng aktibidad sa nakaraang taon. Maaaring makipagtalo ang isa na ang karamihan sa halaga ng Reddit ay ang malapit na mga real-time na diskusyon na naganap sa loob ng nagdaang linggo na kapansin-pansing nagtataas ng halaga sa bagong aktibidad. Ang tao ay pumupunta sa kung saan naroroon ang tao ngayon, hindi kung saan nasaan ang tao noong nakaraang taon.
 
 ## No Micropayments, Tips Optional
 
