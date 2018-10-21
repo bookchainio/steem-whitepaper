@@ -220,7 +220,7 @@ Users are allotted a fixed amount of voting power. Voting power is multiplied by
 
 Ang isa sa mga pangunahing layunin ng Steem para sa sistema ng gantimpala ay makagawa ng mga pinakamahusay na talakayan sa internet. Ang bawat isa at bawat taon ay may 75% ng taunang implasyon ay ipinamamahagi sa mga nagsusumiteng tagagamit, bumoboto, at tinatalakay ang nilalaman. Sa sukat ng Bitcoin ay maaaring ilang milyong dolyar sa bawat araw na ibinibigay sa mga nangungunang taga-ambag.
 
-The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content.
+Ang aktuwal na pamamahagi ay nakadepende sa mga pamamaraan ng mga gumagamit sa pagboto, ngunit kami ay may paghihinala na ang karamihan sa mga gantimpala ay ipinamamahagi sa pinaka-sikat na nilalaman.
 
 Zipf’s Law[^7] is one of those empirical rules that characterize a surprising range of real-world phenomena remarkably well. It says that if we order some large collection by size or popularity, the second element in the collection will be about half the measure of the first one, the third one will be about one-third the measure of the first one, and so on. In general, the k th-ranked item will measure about 1/k of the first one.
 
