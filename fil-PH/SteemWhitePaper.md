@@ -433,7 +433,7 @@ Mula Agosto 2008 hanggang Enero 2009 ang U.S. supply ng pera na [^15] ay lumago 
 
 Sa unang 2 taon ng buhay ng Bitcoin ang network ay nanatiling may taunang inflation rate na [^17] na mahigit 100%. Sa unang 5 taon ito ay higit sa 30%, at sa unang 8 taon ito ay higit sa 10%. Sinabi sa lahat na sa total na "paggastos" ang Steem ay ginamit sa pagpondo ng nilalaman, pangangasiwa, at produksyon ng block ay umabot sa mas mababa sa 10% APR.
 
-The price of a digital commodity, like STEEM, is driven by both supply and demand. When a long-term holder decides to exit, the supply of STEEM on the market will increase and push the price down. This downward pressure is countered when a new long-term holder decides to buy up the STEEM and convert it back into SP. Additional supply and demand may be be added due to market speculators buying and selling liquid STEEM based on their predictions of the future market price.
+Ang presyo ng isang digital na kalakal, tulad ng STEEM, ay kapuwa pinatatakbo ng supply at demand. Kapag ang isang long-term holder ay nagdesisyon na lumabas, ang supply ng STEEM sa merkado ay tataas at itutulak ang presyo pababa. Ang pababang presyon ay tinututulan kapag ang isang bagong long-term holder ay nagdesisyong bilhin na ang STEEM at i-convert ito pabalik sa SP. Additional supply and demand may be be added due to market speculators buying and selling liquid STEEM based on their predictions of the future market price.
 
 # The Power of Steem
 
