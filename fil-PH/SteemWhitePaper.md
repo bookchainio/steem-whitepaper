@@ -425,9 +425,9 @@ Simula sa ika-16 na hard fork ng network noong Disyembre 2016, nagsimula ang Ste
 
 75% ng mga bagong token na nilikha ay mapupunta sa reward pool, na hinahati sa pagitan ng mga otor at at mga tagapangasiwa. 15% ng mga bagong token ay ipinagkakaloob sa mga mayhawak ng SP. Ang natitirang 10% ay ibabayad sa mga saksi upang patakbuhin ang blockchain.
 
-### Impact of Token Creation Rate
+### Epekto ng Rate ng Paglikha ng Token
 
-It is often said that a coin with an inflationary model is not sustainable, but we know from countless real-world examples that the quantity of money does not have a direct and immediate impact on its value, though it certainly plays a role.
+Madalas na sinasabi ito na ang isang barya na may isang inflationary model ay hindi napapanatili, ngunit alam natin na mula sa di mabilang na mga halimbawa sa tunay na mundo na ang dami ng pera ay walang direkta at agarang epekto sa halaga nito, bagama't tiyak na ito ay may papel.
 
 From August 2008 through January 2009 the U.S. money supply[^15] grew from $871B to $1,737B, a rate of over 100% per year and then continued to grow at about 20% per year for the next 6 years. All told the money supply in the U.S. has grown by 4.59x over less than 7 years. During that same time, the value of the dollar relative to goods and services has fallen less than 10% according to the government's price index[^16]. This real-world example demonstrates that supply is only one component of price.
 
