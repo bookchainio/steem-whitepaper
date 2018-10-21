@@ -218,7 +218,7 @@ Users are allotted a fixed amount of voting power. Voting power is multiplied by
 
 ### Pamamahagi ng Kabayaran
 
-Ang isa sa mga pangunahing layunin ng Steem para sa sistema ng gantimpala ay makagawa ng mga pinakamahusay na talakayan sa internet. Each and every year 75% of the yearly inflation is distributed to users submitting, voting on, and discussing content. At the size of Bitcoin this could be several million dollars per day being given to the top contributors.
+Ang isa sa mga pangunahing layunin ng Steem para sa sistema ng gantimpala ay makagawa ng mga pinakamahusay na talakayan sa internet. Ang bawat isa at bawat taon ay may 75% ng taunang implasyon ay ipinamamahagi sa mga nagsusumiteng tagagamit, bumoboto, at tinatalakay ang nilalaman. Sa sukat ng Bitcoin ay maaaring ilang milyong dolyar sa bawat araw na ibinibigay sa mga nangungunang taga-ambag.
 
 The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content.
 
