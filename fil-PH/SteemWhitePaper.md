@@ -457,11 +457,11 @@ Ang mental na enerhiya na may kaugnayan sa paggawa ng isang desisyon sa ekonomiy
 
 -Mga Micropayment: Isang Nabubuhay na Business Model[^20]
 
-Sa ilalim ng Steem, ang mga micropayment ay binabayaran sa prodyuser ng nilalaman, pero ang mga taong bumoboto para sa nilalaman ay hindi nagbabayad. Sa halip, ang halaga ng mga gantimpala ay binabayaran sa pamamagitan ng mga bagong token. Ang isang tao ay maaaring sumali sa sistema, bumoto upang bayaran ang isang tao, at pagkatapos ay lalabas sa sistema na may mas maraming pera kaysa nang sila ay nagsimula (ipagpapalagay na ang pagpapahalaga ng merkado sa sistema ng Steem ay nanatiling tuloy-tuloy). In other words, the micropayment solution provided by Steem provides a user-experience similar to many widely used websites that have user-moderated content.
+Sa ilalim ng Steem, ang mga micropayment ay binabayaran sa prodyuser ng nilalaman, pero ang mga taong bumoboto para sa nilalaman ay hindi nagbabayad. Sa halip, ang halaga ng mga gantimpala ay binabayaran sa pamamagitan ng mga bagong token. Ang isang tao ay maaaring sumali sa sistema, bumoto upang bayaran ang isang tao, at pagkatapos ay lalabas sa sistema na may mas maraming pera kaysa nang sila ay nagsimula (ipagpapalagay na ang pagpapahalaga ng merkado sa sistema ng Steem ay nanatiling tuloy-tuloy). Sa madaling salita, ang micropayment solusyon na ibinigay sa pamamagitan ng Steem ay nagbibigay ng isang karanasan sa user na katulad sa maraming mga ginagamit na mga website sa malawakan na may nilalaman na pinangungunahan ng user.
 
-Furthemore, Steem pays people to figure out who should be paid! This kind of thinking is revolutionary.
+At saka, ang Steem ay nagbabayad sa tao upang alamin kung sino ang dapat bayaran! Ang ganitong kaisipan ay rebolusyonaryo.
 
-## Value is in the Links
+## Ang Halaga ay nasa mga Link
 
 The Internet would lose the vast majority of its value if all links among content were removed. It is the relationship among web pages that allows Google to identify the best apple pie recipe among the 16 million results. Without the links the only information Google would have is word frequency.
 
