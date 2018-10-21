@@ -118,7 +118,7 @@ Steem levels the playing field by requiring all conversion requests to be delaye
 
 ### Minimizing Abuse of Conversions
 
-Kung ang mga tao ay malayang makapag-convert sa parehong direksyon, maaring mapakinabangan ng mga mangangalakal ang mga rate ng conversion sa blockchain sa pamamagitan ng pangangalakal ng malalaking volume na hindi binabago ang presyo. Ang mga mangangalakal na makakakita ng malalaking pag taas ng presyo ay papalitan ang kanilang SBD sa mas malaking presyo (kung hindi panganib) at papalitan muli pagkatapos ng koreksyon. Ang Steem protokol ay pinoprotektahan ang komunidad mula sa ganitong pag-aabuso sa pamamagitan ng paghintulot sa mga tao na mag palit mula SBD patungong STEEM at hindi ang kabaligtaran.
+If people could freely convert in both directions then traders could take advantage of the blockchains conversion rates by trading large volumes without changing the price. Traders who see a massive run up in price would convert to SBD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SBD to STEEM and not the other way around.
 
 Ang blockchain ang nagpasya kung paano at kailan gagawa ng SBD at kung sino ang dapat makakuha nito. Ito ay nagpapatatag sa paglikha ng SBD at tinatanggal ang mga paraan ng pang-aabuso.
 
@@ -132,15 +132,15 @@ The percentage floors used to compute STEEM creation are based on the supply inc
 
 ### Interes
 
-Ang SBD ay bumabayad sa mayhawak ng interes. Ang bilis ng interes ay itinakda ng parehong tao na nag-publish sa feed ng presyo upang maangkop sa pagbabago ng kondisyon ng merkado. Lahat ng utang ay nagdadala ng panganib sa mga tagapagpahiram. Someone who holds SBD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SBD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
+SBD pays holders interest. The interest rate is set by the same people who publish the price feed so that it can adapt to changing market conditions. All debt carries risk to the lender. Someone who holds SBD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SBD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
 
-Ang mga mayhawak ng STEEM at SP ay makakuha ng pagkilos kapag ang mga miyembro ng komunidad ay handa humawak ng SBD. Ang pagkilos na ito ay pinapalakas ang kita mula sa paglago habang nag-aambag sa paglago. Ang mga mayhawak ng STEEM ay nagdudusa mula sa pagtaas ng pagbabanto kapag bumababa ang presyo. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
+STEEM and SP holders gain leverage when members of the community are willing to hold SBD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
 
 ### Setting Price Feeds
 
-Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. Sa ekonomiks may isang alintuntunin na kilala bilang Impossible Trinity[^4] na nagsasaad na imposible na lahat ng tatlo ay magkaroon sa parehong oras:
+Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
 
-1. Isang matatag na exchange rate
+1. A stable exchange rate
 2. Free capital movement
 3. An independent monetary policy
 
@@ -188,7 +188,7 @@ Assume there is a fixed amount of money to distribute, and that those who have a
 
 The naive voting process creates a N-Person Prisoner’s Dilemma[^5] whereby each individual voter has incentive to vote for themselves at the expense of the larger community goal. If every voter defects by voting for themselves then no currency will end up distributed and the currency as a whole will fail to gain network effect. On the other hand, if only one voter defects then that voter would win undeserved profits while having minimal effect on the overall value of the currency.
 
-#### Pag-aabuso sa pagboto
+#### Voting Abuse
 
 Regardless of how much money any one individual has, there are always many other individuals with similar wealth. Even the wealthiest individual rarely has much more than the next couple wealthiest combined. Furthermore, those who have a large investment in a community also have the most to lose by attempting to game the voting system for themselves. It would be like the CEO of a company deciding to stop paying salaries so he could pocket all of the profits. Everyone would leave to work for other companies and the company would become worthless, leaving the CEO bankrupt rather than wealthy.
 
@@ -320,7 +320,7 @@ Ang kapasidad ng blockchain ay hindi kinakailangang nalilimitahan. Ito ay lubos 
 
 ### Pagkumpara sa Mga Bayarin
 
-Kung ipagpalagay natin na ang isang gumagamit na mayroong $25 na dolyares na halaga ng BTC na mga transaksyon isang beses sa bawat linggo at magbabayad ng $0.04 na sentimo na bayad sa bawat panahon kung kaya magbabayad sila ng lampas sa $2.00 na mga bayarin sa bawat taon. Ang isang gumagamit ay nangangailangang makakakita ng walong porsiyento na rate of return sa kanilanf $25 na dolyares para lang makapagbreak even kasama na ang bayad sa mga fee. Gayunpaman ang nangyayari ang mga gumagami ay magho-hold sa kanilang pera sa blockchain, kaya ang gumagamit na ito na mayroong $25 na halaga ng BTC ay makaka-ipon ng $2 sa loob ng isang taon sa pamamagitan ng pag-hango sa isang stratehiyang naglilimita ng rate sa kaysa isang stratehiyang naka-base sa bayad. Sa $175 lamang ay makakapag-transact bawat araw at makakapag-ipon ng $14 bawat taon.
+Kung ipagpalagay natin na ang isang gumagamit na mayroong $25 na dolyares na halaga ng BTC na mga transaksyon isang beses sa bawat linggo at magbabayad ng $0.04 na sentimo na bayad sa bawat panahon kung kaya magbabayad sila ng lampas sa $2.00 na mga bayarin sa bawat taon. Ang isang gumagamit ay nangangailangang makakakita ng walong porsiyento na rate of return sa kanilanf $25 na dolyares para lang makapagbreak even kasama na ang bayad sa mga fee. Gayunpaman ang nangyayari ang mga gumagamit ay magho-hold sa kanilang pera sa blockchain, kaya ang gumagamit na ito na mayroong $25 na halaga ng BTC ay makaka-ipon ng $2 sa loob ng isang taon sa pamamagitan ng pag-hango sa isang stratehiyang naglilimita ng rate kaysa sa isang stratehiyang nakabatay sa bayad. Sa $175 lamang ay makakapag-transact bawat araw at makakapag-ipon ng $14 bawat taon.
 
 ### Paglilikha ng Account
 
