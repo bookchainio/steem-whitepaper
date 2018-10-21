@@ -421,7 +421,7 @@ The overall supply picture is complicated by the effect of SBD operations, which
 
 ## Kasalukuyang Alokasyon at Supply
 
-Simula sa ika-16 na hard fork ng network noong Disyembre 2016, nagsimula ang Steem na lumikha ng mga bagong token sa santaunang inflation rate ng 9.5%. Ang inflation rate ay bumababa sa rate na 0.01% bawat 250,000 na mga blocks, o sa halos 0.5% kada taon. Ang inflation ay patulay na bababa sa ganiting bilis hanggang ang kabuuang inflation rate ay umabot sa 0.95%. This will take about 20.5 years from the time hard fork 16 went into effect.
+Simula sa ika-16 na hard fork ng network noong Disyembre 2016, nagsimula ang Steem na lumikha ng mga bagong token sa santaunang inflation rate ng 9.5%. Ang inflation rate ay bumababa sa rate na 0.01% bawat 250,000 na mga blocks, o sa halos 0.5% kada taon. Ang inflation ay patulay na bababa sa ganiting bilis hanggang ang kabuuang inflation rate ay umabot sa 0.95%. Ito ay aabutin ng 20.5 taon mula sa panahong ang hard fork 16 ay naging epektibo.
 
 75% of the new tokens that are generated go to fund the reward pool, which is split between authors and curators. 15% of the new tokens are awarded to holders of SP. The remaining 10% pays for the witnesses to power the blockchain.
 
