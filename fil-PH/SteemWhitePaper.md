@@ -104,9 +104,9 @@ Given a set of trusted and elected feed producers, the actual price used for con
 
 Kahit na lahat ng mga tagapagbuo ng feed ay matapat, posible parin para sa karamihan ng mga tagapagbuo ng feed na maapektohan ng mga kaganapan na hindi nila kontrolado. The Steem network is designed to tolerate short-term corruption of the median price feed while the community actively works to correct the issue. Ang isang halimbawa ng isang isyu na maaaring tumagal upang maayos ay ang panandaliang pagmamanipula sa merkado. Market manipulation is difficult and expensive to maintain for long periods of time. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
 
-Tinatanggal ng Steem ang mga panandaliang pagbago sa presyo sa pamamagitan ng paggamit ng panggitna na presyo sa loob ng tatlo at kalahitang araw. Ang panggitna na na-publish ay sinusuri bawat oras.
+Steem factors out short-term price fluctuations by using the median price over a period of three and a half days. The median published feed is sampled every hour on the hour.
 
-As long as the price feed corruption lasts for less than half the moving median time window it will have minimal impact on the conversion price. Sa mga kaganapan na masisira ang feed, ang mga kalahok ng network ay magkakaroon ng oportunidad na iboto na tanggalin ang mga tiwaliong tagapagbuo ng mga feed bago pa makaapekto ang sira na feed sa aktwal na presyo ng kombersyon. Marahil na mas mahalaga pa, ito ay nagbibigay oportunidad sa mga tagapagbuo ng feed na matukoy at ayusin ang mga isyu bago pa maapektuhan ng mga feed nila ang presyo.
+As long as the price feed corruption lasts for less than half the moving median time window it will have minimal impact on the conversion price. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Marahil na mas mahalaga pa, ito ay nagbibigay oportunidad sa mga tagapagbuo ng feed na matukoy at ayusin ang mga isyu bago pa maapektuhan ng mga feed nila ang presyo.
 
 Sa tatlo at kalahating araw na bintana, ang mga miyembro ng komunidad ay may higit-kumulang isa at kalahiting aray upang sagutin ang anumang mga isyu na magpakita.
 
@@ -387,7 +387,7 @@ Upang makamtan itong performance na nangunguna sa industriya, ang Steem ay nakah
 1. Panatilihin ang lahat ng bagay sa memorya.
 2. Panatilihin ang sentrong lohika sa negosyo sa isang thread.
 3. Panatilihin ang mga operasyong cryptographic (mga hash at mga pirma) na nasa labas ng sentrong lohika sa negosyo.
-4. Hatiin ang balidasyon sa mga check na naka-depende sa estado at independente sa estado.
+4. Divide validation into state-dependent and state-independent checks.
 5. Gumamit ng isang modelo sa datos na naka-bagay sa object.
 
 Sa pamamagitan ng pagsunod sa mga simpleng mga panuntunan na ito, ang Steem ay kayang makakapagproseso ng 10,000 na mga transaksyon bawat segundo na walang ni isang mahalagang pagsisikap na ilaan sa pagpapabilis.
