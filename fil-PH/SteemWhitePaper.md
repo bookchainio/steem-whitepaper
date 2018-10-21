@@ -248,9 +248,9 @@ Ang pangunahing pagsasaalang-alang ay pagtukoy kung anong testimonya ang pinapay
 
 ## Ang Pinagkasunduan sa Steem
 
-Conceptually, the consensus algorithm adopted by Steem is similar to the consensus algorithm adopted by companies throughout the world. People with a vested interest in the future value of Steem vote to select individuals responsible for including testimony in the public record. Voting is weighted proportional to each individual's vested interest.
+Sa konseptwulisasyon, ang algoritmong pinagkasunduan na pinagtibay ng Steem ay katulad ng algoritmo ng pinagkasunduan na pinagtibay ng mga kumpanya sa buong mundo. Ang mga tao na may interes sa vested sa hinaharap ng halaga sa boto ng Steem upang piliin ang mga indibidwal na may pananagutan sa pagsasama ng testimonya sa pampublikong talaan. Ang pagboto ay proposyonal na tinimbang sa bawat interes sa vested ng mga indibidwal.
 
-In the world of cryptocurrencies, the public record is commonly referred to as a *blockchain*. A *block* is a group of signed transactions.
+Sa mundo ng mga cryptocurrency, ang pampublikong talaan ay karaniwang tinutukoy bilang isang *blockchain*. Ang isang *block* ay isang pangkat ng mga naka-sign na transaksyon.
 
 With Steem, block production is done in rounds. Each round 21 witnesses are selected to create and sign blocks of transactions. Twenty (20) of these witnesses are selected by approval voting and one is timeshared by every witness that didn’t make it into the top 20 proportional to their total votes. The 21 active witnesses are shuffled every round to prevent any one witness from constantly ignoring blocks produced by the same witness placed before. Any witness who misses a block and hasn't produced in the last 24 hours will be disabled until they update their block signing key.
 
