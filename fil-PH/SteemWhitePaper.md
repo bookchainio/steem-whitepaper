@@ -463,7 +463,7 @@ At saka, ang Steem ay nagbabayad sa tao upang alamin kung sino ang dapat bayaran
 
 ## Ang Halaga ay nasa mga Link
 
-The Internet would lose the vast majority of its value if all links among content were removed. It is the relationship among web pages that allows Google to identify the best apple pie recipe among the 16 million results. Without the links the only information Google would have is word frequency.
+Sa lawak ng dami ng halaga nito ay mawawalan ang Internet kung ang lahat ng mga link sa mga nilalaman ay inalis. Ang relasyon sa mga pahina ng web ang nagbibigay-daan sa Google upang matukoy ang pinakamahusay na apple pie recipe sa gitna ng 16 milyon na mga ang resulta. Kung wala ang mga link, ang tanging impormasyon na mayroon ang Google ay ang kadalasan ng salita.
 
 Links can take many forms and have adapted over time. Every time a user votes on content in a social network they add a connection between themselves and the content. This in turn links the consumer to the producer through the content. The more connections a network has the more valuable the information becomes. It is the relative and intentional connectedness of information that gives it value.
 
