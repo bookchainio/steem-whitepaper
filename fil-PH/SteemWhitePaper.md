@@ -226,7 +226,7 @@ Ang mga batas na Zipf ay[^7] at mula sa isang obserbasyon ng mga patakaran na na
 
 ![](\img_the_new_marketplace.png)
 
-Taking popularity as a rough measure of value, then the value of each individual item is given by Zipf’s Law. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
+Ang pagiging sikat ay hindi pantay sa sukatan ng halaga, kung gayon ang halaga ng bawat indibidwal na aytem ay ibinigay sa pamamagitan ng mga batas na Zipf. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
 
 The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
 
@@ -419,9 +419,9 @@ Contribution Rewards:
 
 The overall supply picture is complicated by the effect of SBD operations, which may result in large-scale creation or destruction of STEEM through feed rate following and SBD rewards, as discussed in the SBD section. Other, smaller-scale complicating effects also exist, including unclaimed incentives (e.g. block rewards for missed blocks), and abandoned accounts.
 
-## Current Allocation & Supply
+## Kasalukuyang Alokasyon at Supply
 
-Starting with the network's 16th hard fork in December 2016, Steem began creating new tokens at a yearly inflation rate of 9.5%. The inflation rate decreases at a rate of 0.01% every 250,000 blocks, or about 0.5% per year. The inflation will continue decreasing at this pace until the overall inflation rate reaches 0.95%. This will take about 20.5 years from the time hard fork 16 went into effect.
+Simula sa ika-16 na hard fork ng network noong Disyembre 2016, nagsimula ang Steem na lumikha ng mga bagong token sa santaunang inflation rate ng 9.5%. Ang inflation rate ay bumababa sa rate na 0.01% bawat 250,000 na mga blocks, o sa halos 0.5% kada taon. The inflation will continue decreasing at this pace until the overall inflation rate reaches 0.95%. This will take about 20.5 years from the time hard fork 16 went into effect.
 
 75% of the new tokens that are generated go to fund the reward pool, which is split between authors and curators. 15% of the new tokens are awarded to holders of SP. The remaining 10% pays for the witnesses to power the blockchain.
 
