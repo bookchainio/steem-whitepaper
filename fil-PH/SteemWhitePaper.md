@@ -515,7 +515,7 @@ Ang mga lumika na nagpo-post sa mga social media outlet na nakakonekta sa Steem 
 
 # Konklusyon
 
-Steem is an experiment designed to address challenges in the cryptocurrency and social media industries by combining the best aspects from both. Steem presents earning opportunities to content creators and internet readers in ways that have not existed within the social media industry. Within Steem, individuals earn real rewards online that are directly correlated to their contributions. Those rewards may have dollar value due to the market price discovery and liquidity of Steem, and the people who hold Steem may have more exclusive earning powers than those who do not.
+Ang Steem ay isang eksperimento na dinisenyo upang sabihin ang mga hamon sa cryptocurrency at mga industriya ng social media sa pamamagitan ng pagsasama-sama ng mga pinakamahusay na aspeto mula sa dalawa. Ang Steem ay nagpapakita ng mga oportunidad sa pagkita sa mga lumilikha ng nilalaman at sa mga mambabasa sa internet sa paraan na hindi pa umiral sa loob ng industriya ng social media. Sa loob ng Steem, ang mga indibidwal ay kumikita ng mga tunay gantimpala sa online na direktang sang-ayon sa kanilang mga kontribusyon. Ang mga gantimpala ay maaaring may halaga sa dolyar sa pagkadiskubre sa presyo sa merkado at paglikido ng Steem, at ang mga tao na humahawak ng Steem ay maaaring mayroong higit pang eksklusibong kapangyarihan na kumita kaysa sa mga hindi.
 
 [^1]: Reddit’s Cryptocurrency, Forbes, Erika Morphy, October 2014 http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/\#4e07b05332b9
 
