@@ -417,7 +417,7 @@ Mga Gantimpala sa Kontribusyon:
 
 - Mga gantimpalang SBD: Ang porsiyento ng halaga ng SBD ay ginawa sa isang APR na itinakda ng mga witness at ibinayad sa mga humahawak ng SBD bilang SBD
 
-Ang kabuuang larawan ng suplay ay pinagulo ng epekto ng mga operasyon sa SBD, na maaaring makapagresulta sa malakihang pagkalikha o pagkawasak ng STEEM sa pamamagitan ng feed rate ng sinusubaybayan at mga gantimpala sa SBD, na napag-usapan na sa seksyon ng SBD. Other, smaller-scale complicating effects also exist, including unclaimed incentives (e.g. block rewards for missed blocks), and abandoned accounts.
+Ang kabuuang larawan ng suplay ay pinagulo ng epekto ng mga operasyon sa SBD, na maaaring makapagresulta sa malakihang pagkalikha o pagkawasak ng STEEM sa pamamagitan ng feed rate ng sinusubaybayan at mga gantimpala sa SBD, na napag-usapan na sa seksyon ng SBD. Sa iba, ang maliit na mga epektong komplikado ay umiiral rin, kasama na ang mga hindi natanggap na mga insentibo (hal. mga gantimpala sa block para sa mga block na nalampasan), at mga akawnt na inabandona.
 
 ## Kasalukuyang Alokasyon at Supply
 
