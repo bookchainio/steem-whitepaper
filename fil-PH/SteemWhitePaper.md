@@ -132,9 +132,9 @@ Ang palapag ng porsyento na ginagamit upang kalkulahin ang paglikha ng steem na 
 
 ### Interes
 
-Binabayaran ng SBD ang mga may hawak ng interes. The interest rate is set by the same people who publish the price feed so that it can adapt to changing market conditions. All debt carries risk to the lender. Someone who holds SBD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SBD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
+Binabayaran ng SBD ang mga may hawak ng interes. Ang rate ng interes ay itinakda ng parehong mga tao na nag-publish sa presyo ng feed upang maaari itong iangkop sa pagbabago ng mga kondisyon ng merkado. Ang lahat ng utang ay nagdudulot ng panganib sa tagapagpahiram. Ang isang tao na humahawak ng SBD nang walang pagtubos ay epektibo ang pagpapahiram sa komunidad sa halaga ng isang dolyar. Sila ay nagtitiwala na sa isang punto sa hinaharap ang isang tao ay handang bumili ng SBD mula sa kanila para sa isang dolyar o magkakaroon ng mga speculator at mamumuhunan na gustong bumili ng STEEM na i-convert nila ito.
 
-STEEM and SP holders gain leverage when members of the community are willing to hold SBD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
+Ang mga humahawak ng STEEM at SP ay makakakuha ng pagkilos kapag gusto ng mga miyembro ng komunidad na i-hold ang SBD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
 
 ### Setting Price Feeds
 
