@@ -138,7 +138,7 @@ Ang mga humahawak ng STEEM at SP ay makakakuha ng pagkilos kapag gusto ng mga mi
 
 ### Ang pagtatakda ng presyo ng mga feed
 
-Makikilala ng mga matatalinong mambabasa na ang isang may-ari ng interes na may limitadong suplay ay maaaring maipalit ng mas mataas o mas mababa kaysa sa nakatagong asset depende sa iba pang oportunidad upang kumita ng interes sa parehong asset. Isang mataas na rate ng interes na binabayaran sa isang asset na na-pegged sa dolyar ng US maraming tao ang nakikipag-tawaran sa limitadong suplay ng Steem Dollars hanggang sa hindi na ito nagkakahalaga ng $ 1. Sa ekonomiya mayroong isang prinsipyo na kilala bilang imposibleng trinidad[^4] kung saan nagsasaad na imposible na magkaroon ng lahat ng tatlo sa mga sumusunod sa parehong oras:
+Makikilala ng mga matatalinong mambabasa na ang isang may-ari ng interes na may limitadong suplay ay maaaring maipalit ng mas mataas o mas mababa kaysa sa nakatagong asset depende sa iba pang oportunidad upang kumita ng interes sa parehong asset. Isang mataas na rate ng interes na binabayaran sa isang asset na na-pegged sa dolyar ng US maraming tao ang nakikipag-tawaran sa limitadong suplay ng Steem Dollars hanggang sa hindi na ito nagkakahalaga ng $1. Sa ekonomiya mayroong isang prinsipyo na kilala bilang imposibleng trinidad[^4] kung saan nakasaad na imposible na magkaroon ng lahat ng tatlo sa mga sumusunod sa parehong oras:
 
 1. Isang matatag na presyo ng palitan
 2. Libreng pag-galaw ng kapaital
@@ -146,7 +146,7 @@ Makikilala ng mga matatalinong mambabasa na ang isang may-ari ng interes na may 
 
 Kung ang mga taga-gawa ng feed ng Steem ay naglalayong magkaroon ng isang independiyenteng patakaran sa pananalapi na nagpapahintulot na lumikha at wasakin ang Steem Dollars habang sabay na magkakaroon ng ganap na kontrol sa rate ng interes pagkatapos ay makakaranas sila ng mga problema. Ang Imposibleng trinidad ay nagsasabi na kailangan ng Steem Dollars na pigilan ang pag-galaw ng kapital, magkaroon ng isang hindi matatag na halaga sa palitan ng dolyar, o magkaroon ng limitadong kontrol sa halaga ng interes.
 
-The primary concern of Steem feed producers is to maintain a stable one-to-one conversion between SBD and the U.S. Dollar (USD). Any time SBD is consistently trading above $1.00 USD interest payments must be stopped. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SBD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
+Ang pangunahing pag-aalala ng mga tagagawa ng feed ng Steem ay upang mapanatili ang isang matatag na isa sa isa na conversion sa pagitan ng SBD at Dolyar ng U.S. (USD). Any time SBD is consistently trading above $1.00 USD interest payments must be stopped. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SBD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
 
 If the debt-to-ownership ratio is low and SBD is trading for less than $1.00, then the interest rate should be increased. This will encourage more people to hold their SBD and support the price.
 
