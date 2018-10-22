@@ -138,11 +138,11 @@ Ang mga humahawak ng STEEM at SP ay makakakuha ng pagkilos kapag gusto ng mga mi
 
 ### Ang pagtatakda ng presyo ng mga feed
 
-Makikilala ng mga matatalinong mambabasa na ang isang may-ari ng interes na may limitadong suplay ay maaaring maipalit ng mas mataas o mas mababa kaysa sa nakatagong asset depende sa iba pang oportunidad upang kumita ng interes sa parehong asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
+Makikilala ng mga matatalinong mambabasa na ang isang may-ari ng interes na may limitadong suplay ay maaaring maipalit ng mas mataas o mas mababa kaysa sa nakatagong asset depende sa iba pang oportunidad upang kumita ng interes sa parehong asset. Isang mataas na rate ng interes na binabayaran sa isang asset na na-pegged sa dolyar ng US maraming tao ang nakikipag-tawaran sa limitadong suplay ng Steem Dollars hanggang sa hindi na ito nagkakahalaga ng $ 1. Sa ekonomiya mayroong isang prinsipyo na kilala bilang imposibleng trinidad[^4] kung saan nagsasaad na imposible na magkaroon ng lahat ng tatlo sa mga sumusunod sa parehong oras:
 
-1. A stable exchange rate
-2. Free capital movement
-3. An independent monetary policy
+1. Isang matatag na presyo ng palitan
+2. Libreng pag-galaw ng kapaital
+3. Isang independiyenteng patakaran sa pananalapi
 
 If Steem feed producers aim to have an independent monetary policy allowing it to create and destroy Steem Dollars while simultaneously having full control over the interest rate then they will encounter problems. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
 
