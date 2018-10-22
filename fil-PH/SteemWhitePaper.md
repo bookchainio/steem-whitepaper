@@ -154,11 +154,11 @@ Kung ang kalakalan ng SBD ay mas mababa sa $1.00 USD at ang utang ukol sa ratio 
 
 Ipagpapalagay na ang halaga ng STEEM ay mabilis na lumalaki kaysa sa Steem na lumilikha ng bagong SBD, ang utang ukol sa ratio ng pagmamay-ari ay dapat manatili sa ilalim ng target na ratio at ang benepisyong inaalok ng interes sa lahat ng tao. Kapag ang halaga ng network ay flat o bumagsak, kung gayon ang anumang interes na inaalok sa utang ukol sa ratio ng pagmamay-ari ay mas masahol.
 
-Sa Epekto, Ang mga tagagawa ng feed ay ipinagkatiwala sa responsibilidad ng pagtatakda sa patakaran ng pera para sa layunin na mapanatili ang isang matatag na peg sa USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
+Sa Epekto, Ang mga tagagawa ng feed ay ipinagkatiwala sa responsibilidad ng pagtatakda sa patakaran ng pera para sa layunin na mapanatili ang isang matatag na peg sa USD. Ang pag-abuso sa kapangyarihang ito ay maaaring makapinsala sa halaga ng STEEM kaya ang mga humahawak ng SP ay maging matalino sa pag-buto para sa mg saksi na maaaring mabilang upang ayusin ang presyo ng feed at mga halaga ng interes ayon sa mga patakaran na nakabalangkas sa itaas.
 
-If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SBD.
+Kung ang utang ukol sa ratio ng pagmamay-ari ay labis na mapanganib at pinili ng mga kalahok sa merkado upang maiwasan ang mga kahilingan sa conversion, pagkatapos ang feed ay dapat na iniakma upang madagdagan ang halaga ng STEEM na bayad para sa nai-convert na SBD.
 
-Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SBD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions.
+Ang mga pagbabago sa patakaran sa halaga ng interes at/o anumang mga premium/mga diskwento sa halaga ng STEEM/SBD na conversion ay dapat na isang mabagal at nasusukat na tugon sa pang-matagalang lihis na pamantayan kaysa sa sumusubok na tumugon sa mga panandalian na kondisyon sa merkado.
 
 It is our belief that these rules will give market participants confidence that they are unlikely lose money by holding SBD purchased at a price of $1.00. We fully expect there to be a narrow trading range between $0.95 and $1.05 for SBD under normal market conditions.
 
