@@ -144,7 +144,7 @@ Makikilala ng mga matatalinong mambabasa na ang isang may-ari ng interes na may 
 2. Libreng pag-galaw ng kapaital
 3. Isang independiyenteng patakaran sa pananalapi
 
-If Steem feed producers aim to have an independent monetary policy allowing it to create and destroy Steem Dollars while simultaneously having full control over the interest rate then they will encounter problems. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
+Kung ang mga taga-gawa ng feed ng Steem ay naglalayong magkaroon ng isang independiyenteng patakaran sa pananalapi na nagpapahintulot na lumikha at wasakin ang Steem Dollars habang sabay na magkakaroon ng ganap na kontrol sa rate ng interes pagkatapos ay makakaranas sila ng mga problema. Ang Imposibleng trinidad ay nagsasabi na kailangan ng Steem Dollars na pigilan ang pag-galaw ng kapital, magkaroon ng isang hindi matatag na halaga sa palitan ng dolyar, o magkaroon ng limitadong kontrol sa halaga ng interes.
 
 The primary concern of Steem feed producers is to maintain a stable one-to-one conversion between SBD and the U.S. Dollar (USD). Any time SBD is consistently trading above $1.00 USD interest payments must be stopped. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SBD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
 
