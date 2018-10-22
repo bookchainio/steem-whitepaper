@@ -258,7 +258,7 @@ Ang prosesong ito ay dinisenyo upang magbigay ng pinakamahusay na pinagkakatiwaa
 
 Dahil ang mga aktibong saksi ay alam na kilala nang maaga, maaaring iiskedyul ng Steem ang mga saksi upang gumawa ng mga block tuwing ika-3 na segundo. Pinagsabay ng mga Saksi ang kanilang produksyon ng block sa pamamagitan ng protokol ng NTP. Isang pagkakaiba-iba ng algoritmo na ito ay ginagamit sa pamamagitan ng BitShares network sa loob ng mahigit sa isang taon kung saan napatunayan na maaasahan ito.
 
-# Pag-aalis ng Bayad sa Transsaksyon
+# Pag-aalis ng Bayad sa Transaksyon
 
 Ang Steem ay papunta sa pinakamahusay para gantimpalaan ang mga tao para sa kontribusyon nila sa network. Magiging negatibo ang pag-ikot at pagsingil ng mga tao tuwing tinangka nilang makipag-ugnayan sa komunidad.
 
