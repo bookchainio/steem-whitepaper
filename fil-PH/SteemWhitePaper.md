@@ -128,11 +128,11 @@ Kung ang isang token ay tiningnan na pagmamay-ari ng isang buong suplay ng mga t
 
 Ang mabilis na pagbago sa halaga ng STEEM na maaaring kapansin pansin ang pagbago ng utang ukol sa mga ratio ng pagmamay-ari. Ang blockchain ay pinipigilan ang utang ukol sa mga ratio ng pagmamay-ari mula sa pagtaas, Sa pamamagitan ng pagbabawas ng halaga ng steem na iginagawad sa pamamagitan ng SBD conversion kung ang antas ng utang ay lumampas sa 10%. Kung ang halaga ng utang na SBD ay palaging lumalampas sa kabuuang 10% ng steem sa cap ng merkado, ang blockchain ay awtomatikong babawasan ang halaga ng steem na nabuo sa pamamagitan ng mga conversion sa isang pinakamataas na 10% sa cap ng merkado. Sinisiguro nito na ang blockchain ay hindi kailanman mas mataas kaysa sa 10% ng utang ukol sa mga ratio ng pagmamay-ari.
 
-Ang porsyento ng mga floor ay ginagamit upang kalkulahin ang paglikha ng steem na batay sa mga suplay kabilang ang halaga ng steem sa lahat ng natitirang SBD at sp (Natutukoy sa pamamagitan ng kasalukuyang rate / feed).
+Ang palapag ng porsyento na ginagamit upang kalkulahin ang paglikha ng steem na batay sa mga suplay kabilang ang halaga ng steem sa lahat ng natitirang SBD at sp (Natutukoy sa pamamagitan ng kasalukuyang rate / feed).
 
 ### Interes
 
-SBD pays holders interest. The interest rate is set by the same people who publish the price feed so that it can adapt to changing market conditions. All debt carries risk to the lender. Someone who holds SBD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SBD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
+Binabayaran ng SBD ang mga may hawak ng interes. The interest rate is set by the same people who publish the price feed so that it can adapt to changing market conditions. All debt carries risk to the lender. Someone who holds SBD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SBD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
 
 STEEM and SP holders gain leverage when members of the community are willing to hold SBD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
 
