@@ -152,9 +152,9 @@ Kung ang utang ukol sa mga ratio ng pagmamay-ari ay mababa at ang kalakalan ng S
 
 Kung ang kalakalan ng SBD ay mas mababa sa $1.00 USD at ang utang ukol sa ratio ng pagmamay-ari ay mataas, pagkatapos ang mga feed ay dapat na maiakma pataas magbigay ito ng mas maraming STEEM bawat SBD. Pinapataas nito ang pangangailangan para sa SBD habang binabawasan din ang utang ukol sa ratio ng pagmamay-ari at ibabalik ang SBD sa pagkapareho sa USD.
 
-Ipagpapalagay na ang halaga ng STEEM ay mabilis na lumalaki kaysa sa Steem na lumilikha ng bagong SBD, ang utang ukol sa ratio ng pagmamay-ari ay dapat manatili sa ilalim ng target na ratio at ang benepisyong inaalok ng interes sa lahat ng tao. If the value of the network is flat or falling, then any interest offered will only make the debt-to-ownership ratio worse.
+Ipagpapalagay na ang halaga ng STEEM ay mabilis na lumalaki kaysa sa Steem na lumilikha ng bagong SBD, ang utang ukol sa ratio ng pagmamay-ari ay dapat manatili sa ilalim ng target na ratio at ang benepisyong inaalok ng interes sa lahat ng tao. Kapag ang halaga ng network ay flat o bumagsak, kung gayon ang anumang interes na inaalok sa utang ukol sa ratio ng pagmamay-ari ay mas masahol.
 
-In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
+Sa Epekto, Ang mga tagagawa ng feed ay ipinagkatiwala sa responsibilidad ng pagtatakda sa patakaran ng pera para sa layunin na mapanatili ang isang matatag na peg sa USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
 
 If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SBD.
 
