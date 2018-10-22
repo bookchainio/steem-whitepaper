@@ -150,9 +150,9 @@ Ang pangunahing pag-aalala ng mga tagagawa ng feed ng Steem ay upang mapanatili 
 
 Kung ang utang ukol sa mga ratio ng pagmamay-ari ay mababa at ang kalakalan ng SBD mas mababa sa $1.00, kaya ang halaga ng interes ay dapat na tumataas, Ito ay maghihikayat sa maraming tao na i-hold ang kanilang SBD at suportahan ang presyo.
 
-Kung ang kalakalan ng SBD ay mas mababa sa $1.00 USD at ang utang ukol sa ratio ng pagmamay-ari ay mataas, pagkatapos ang mga feed ay dapat na maiakma pataas magbigay ito ng mas maraming STEEM bawat SBD. This will increase demand for SBD while also reducing the debt-to-ownership ratio and returning SBD to parity with USD.
+Kung ang kalakalan ng SBD ay mas mababa sa $1.00 USD at ang utang ukol sa ratio ng pagmamay-ari ay mataas, pagkatapos ang mga feed ay dapat na maiakma pataas magbigay ito ng mas maraming STEEM bawat SBD. Pinapataas nito ang pangangailangan para sa SBD habang binabawasan din ang utang ukol sa ratio ng pagmamay-ari at ibabalik ang SBD sa pagkapareho sa USD.
 
-Assuming the value of STEEM is growing faster than Steem is creating new SBD, the debt-to-ownership ratio should remain under the target ratio and the interest offered benefits everyone. If the value of the network is flat or falling, then any interest offered will only make the debt-to-ownership ratio worse.
+Ipagpapalagay na ang halaga ng STEEM ay mabilis na lumalaki kaysa sa Steem na lumilikha ng bagong SBD, ang utang ukol sa ratio ng pagmamay-ari ay dapat manatili sa ilalim ng target na ratio at ang benepisyong inaalok ng interes sa lahat ng tao. If the value of the network is flat or falling, then any interest offered will only make the debt-to-ownership ratio worse.
 
 In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
 
