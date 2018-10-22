@@ -423,7 +423,7 @@ Ang kabuuang larawan ng suplay ay pinagulo ng epekto ng mga operasyon sa SBD, na
 
 Simula sa ika-16 na hard fork ng network noong Disyembre 2016, nagsimula ang Steem na lumikha ng mga bagong token sa santaunang inflation rate ng 9.5%. Ang inflation rate ay bumababa sa rate na 0.01% bawat 250,000 na mga blocks, o sa halos 0.5% kada taon. Ang inflation ay patulay na bababa sa ganiting bilis hanggang ang kabuuang inflation rate ay umabot sa 0.95%. Ito ay aabutin ng 20.5 taon mula sa panahong ang hard fork 16 ay naging epektibo.
 
-75% ng mga bagong token na nilikha ay mapupunta sa reward pool, na hinahati sa pagitan ng mga otor at at mga tagapangasiwa. 15% ng mga bagong token ay ipinagkakaloob sa mga mayhawak ng SP. Ang natitirang 10% ay ibabayad sa mga saksi upang patakbuhin ang blockchain.
+75% ng mga bagong token na nilikha ay mapupunta sa reward pool, na hinahati sa pagitan ng mga awtor at mga tagapangasiwa. 15% ng mga bagong token ay ipinagkakaloob sa mga mayhawak ng SP. Ang natitirang 10% ay ibabayad sa mga saksi upang patakbuhin ang blockchain.
 
 ### Epekto ng Rate ng Paglikha ng Token
 
