@@ -148,9 +148,9 @@ Kung ang mga taga-gawa ng feed ng Steem ay naglalayong magkaroon ng isang indepe
 
 Ang pangunahing pag-aalala ng mga tagagawa ng feed ng Steem ay upang mapanatili ang isang matatag na isa sa isa na conversion sa pagitan ng SBD at Dolyar ng U.S. (USD). Anumang oras ang SBD ay patuloy sa kalakalan sa taas na $1.00 USD na kabayaran sa interes ay dapat na tumigil. Sa isang merkado kung saan ang 0% na interes na utang ay kailangan pa rin ng isang premium, ito ay ligtas na sabihin na ang merkado ay handang pahabain ang higit na kredito kaysa sa utang na nais ng komunidad na gawin. Kung ito ay mangyayari ang isang SBD ay magkakahalaga sa higit sa $1.00 at mayroong bahagya na maaaring gawin ng komunidad nang walang sisingilin ang negatibong halaga ng mga interes.
 
-If the debt-to-ownership ratio is low and SBD is trading for less than $1.00, then the interest rate should be increased. This will encourage more people to hold their SBD and support the price.
+Kung ang utang ukol sa mga ratio ng pagmamay-ari ay mababa at ang kalakalan ng SBD mas mababa sa $1.00, kaya ang halaga ng interes ay dapat na tumataas, Ito ay maghihikayat sa maraming tao na i-hold ang kanilang SBD at suportahan ang presyo.
 
-If SBD trades for less than $1.00 USD and the debt-to-ownership ratio is high, then the feeds should be adjusted upward give more STEEM per SBD. This will increase demand for SBD while also reducing the debt-to-ownership ratio and returning SBD to parity with USD.
+Kung ang kalakalan ng SBD ay mas mababa sa $1.00 USD at ang utang ukol sa ratio ng pagmamay-ari ay mataas, pagkatapos ang mga feed ay dapat na maiakma pataas magbigay ito ng mas maraming STEEM bawat SBD. This will increase demand for SBD while also reducing the debt-to-ownership ratio and returning SBD to parity with USD.
 
 Assuming the value of STEEM is growing faster than Steem is creating new SBD, the debt-to-ownership ratio should remain under the target ratio and the interest offered benefits everyone. If the value of the network is flat or falling, then any interest offered will only make the debt-to-ownership ratio worse.
 
