@@ -270,7 +270,7 @@ Ang mga blockchain ay desentralisadong mga network kung saan ang lahat ng mga tr
 
 Ang solusyon ay pinagtibay sa pamamagitan ng karamihan sa mga blockchain sa ngayon kaya naman naniningil ng isang pinakamababang bayad sa transaksyon. Ang bayad na nagkakahalaga lamang ng ilang sentimo ay sapat na upang gumawa ng pag-atake ang network na mahal at hindi kapaki-pakinabang. Habang nilulunasan ang problema sa spam ng diskarte na ito, ay sya namang nagpapakilala sa mga bagong problema. Isipin ang paglutas ng problema ng pag-ispam sa email sa pamamagitan ng pagpapasok ng isang maliit na bayad sa bawat email; ang mga tao ay hindi na gagamit ng email.
 
-### Micropayments Don’t Work
+### Hindi Gumagana ang mga Malilit na Pagbayad
 
 The fundamental problem with charging transaction fees is that micropayments don’t work, especially for low-value user actions. When a fee is charged on every transaction, it limits the types of transactions that a decentralized network can process. Regardless of how rational the argument for the necessity of fees, users still hate the experience of being nickeled and dimed for everything that they do.
 
