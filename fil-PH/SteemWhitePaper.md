@@ -136,7 +136,7 @@ Binabayaran ng SBD ang mga may hawak ng interes. Ang rate ng interes ay itinakda
 
 Ang mga humahawak ng STEEM at SP ay makakakuha ng pagkilos kapag gusto ng mga miyembro ng komunidad na i-hold ang SBD. Ang pagkilos na ito ay palakasin sa mga natamo mula sa paglago habang nag-aambag din sa paglago. Ang mga humahawak ng STEEM ay nagdurusa mula sa mataas na dilusyon kung ang presyo ay bumaba. Ipinakita ng mga proyekto ng Cryptocurrency na ang mga nadagdag mula sa pagtaas ng base ng user na nais na magtiwala sa network na may kapital sa huli ay magdagdag ng higit na halaga sa network kaysa sa anumang dilusyon na maaaring mangyari sa panahon ng isang downturn.
 
-### Ang pagtatakda ng presyo ng mga feed
+### Ang Pagtatakda ng Presyo ng mga Feed
 
 Makikilala ng mga matatalinong mambabasa na ang isang may-ari ng interes na may limitadong suplay ay maaaring maipalit ng mas mataas o mas mababa kaysa sa nakatagong asset depende sa iba pang oportunidad upang kumita ng interes sa parehong asset. Isang mataas na rate ng interes na binabayaran sa isang asset na na-pegged sa dolyar ng US maraming tao ang nakikipag-tawaran sa limitadong suplay ng Steem Dollars hanggang sa hindi na ito nagkakahalaga ng $1. Sa ekonomiya mayroong isang prinsipyo na kilala bilang imposibleng trinidad[^4] kung saan nakasaad na imposible na magkaroon ng lahat ng tatlo sa mga sumusunod sa parehong oras:
 
@@ -228,13 +228,13 @@ Ang mga batas na Zipf ay[^7] at mula sa isang obserbasyon ng mga patakaran na na
 
 Ang pagiging sikat ay hindi pantay sa sukatan ng halaga, kung gayon ang halaga ng bawat indibidwal na aytem ay ibinigay sa pamamagitan ng mga batas na Zipf. Yan ay, kung mayroon tayong isang milyon na mga aytem, pagkatapos ang 100 pinaka-sikat ay mag-aambag ng ikatlo ng kabuuang halaga, ang natitirang 10,000 ay panibagong ikatlo, at ang natitirang 989,900 ay ang huling ikatlo. Ang halaga ng koleksyon ng mga aytem ay proporsyonal sa pag log(n).
 
-Ang epekto ng pagboto at pamamahagi ng kabayaran ay upang mag-alok ng malaking pabuya sa magandang nilalaman habang nagbigay pa rin ng mas maliliit na manlalaro para sa kanilang mahabang-pagbuntot sa kontribusyon.
+Ang epekto ng pagboto at pamamahagi ng kabayaran ay upang mag-alok ng malaking pabuya sa magandang nilalaman habang nagbibigay pa rin sa mas maliliit na manlalaro para sa kanilang mahabang-pagbuntot sa kontribusyon.
 
 Ang pang-ekonomiyang epekto ay may kahalintulad sa isang loterya kung saan ang mga tao ay nasobrahan sa pagkalkula ng kanilang pagkakataon na makakuha ng mga boto at sa gayo'y makagawa ng mas maraming trabaho kaysa sa inaasahang halaga ng kanilang gantimpala at sa gayon ay mapakinabangan ang kabuuang halaga ng trabaho na ginawa sa pagseserbisyo ng komunidad. Ang katotohanan na ang lahat ay "nanalo ng anomang bagay" ay mga naglalaro sa parehong sikolohiya na ginagamit ng mga kasino upang mapanatili ang mga tao sa pagsusugal. Sa madaling salita, ang mga maliit na gantimpala ay nakakatulong na palakasin ang ideya na posible na kumita ng mas malaking gantimpala.
 
 ### Ang mga kabayaran
 
-Kapag ang isang post ay tumanggap ng isang kabayaran, ay makukuha ang porma ng 50% SBD at 50% SP. Ang Steem Power ay binibigyan ang gumagamit upang tumaas ang pagboto at kapangyarihan ng transaksyon habang ang SBD ay nagbibigay sa gumagamit ng agarang benepisyo sa isang matatag na karensiya. Tulad ng napag-diskusyonan na namin sa haba, ang SP ay dinisenyo upang hikayatin ang humahawak sa pangmatagalang hangarin kaysa sa panandaliang pagbebenta. Hinihikayat nito ang mas maraming mga gumagamit na magkaroon interes sa vest sa pangmatagalang hangarin ng tagumpay sa plataporma.
+Kapag ang isang post ay tumanggap ng isang kabayaran, ay makukuha ang porma ng 50% SBD at 50% SP. Ang Steem Power ay nagbibigay sa gumagamit upang tumaas ang pagboto at kapangyarihan ng transaksyon habang ang SBD ay nagbibigay sa gumagamit ng agarang benepisyo sa isang matatag na karensiya. Tulad ng napag-diskusyonan na namin sa haba, ang SP ay dinisenyo upang hikayatin ang humahawak sa pangmatagalang hangarin kaysa sa panandaliang pagbebenta. Hinihikayat nito ang mas maraming mga gumagamit na magkaroon interes sa vest sa pangmatagalang hangarin ng tagumpay sa plataporma.
 
 Ang mga gumagamit ay mayroon ding opsyon na mabayaran ng 100% SP, pati na rin ang hindi pagkuha ng kabayaran sa mga post. Kapag ang isang gumagamit ay hindi kinuha ang kabayaran sa isang post, ang pera na binayaran sa kanila ay nananatili sa lawa ng gantimpala, upang ipamahagi sa iba pang mga gumagamit.
 
