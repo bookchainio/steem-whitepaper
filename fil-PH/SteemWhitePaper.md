@@ -296,9 +296,9 @@ Sa magdamag ang isang network ay kailangan ayosin ang mga bayad. Maaaring mangya
 
 Ang sentralisado na mga websayt ay pinipigilan ang pag-ispam sa pamamagitan ng paglilimita ng antas at ilang porma ng beripikasyon sa ID. Kahit na ang ilang bagay na kasing dali ng reCAPTCHA[^9] ay sapat upang limitahan ang paglikha ng mga pekeng akwant. Kung sinoman ang mga umaabuso sa kanilang akwant, ang mga sentralisadong websayt ay libre upang i-block ang akwant.
 
-In a decentralized system there is no direct way to ban users nor centralized provider able to host a reCAPTCHA and enforce rate limiting of accounts. In fact, the inability to censor users is one of the main selling points of blockchain technology.
+Sa isang desentralisadong sistema ay walang direktang paraan upang pagbawalan ang mga gumagamit kahit na sa sentralisadong tagapagbigay ng kakayahang mag-host ng reCAPTCHA at pilitin ang antas ng limitasyon ng mga akwant. Sa katunayan, ang kawalan ng kakayahan na masuri ang mga gumagamit ay isa sa mga pangunahing punto na nagbebenta sa teknolohiyang blockchain.
 
-### Full Reserve vs Fractional Reserve
+### Buong Reserba laban sa Praksyonal na Reserba
 
 Let’s view a blockchain like an Internet Service Provider (ISP) co-op which owns all of the cables in the town and has a maximum amount of bandwidth that it can provide at any time. People living in the town can buy shares in the ISP and in exchange they are entitled to utilize a portion of the available bandwidth.
 
