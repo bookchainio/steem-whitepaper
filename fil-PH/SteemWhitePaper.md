@@ -286,11 +286,11 @@ Ang mga sistema gaya ng BitShares, Nxt, Ripple, Counter Party at Stellar ay pina
 
 ### Ang mga Bayad sa isang Hadlang para Makapasok
 
-Ang anumang bayad ay mga gumagawa ng hadlang sa pagpasok para sa mga bagong gumagamit. Bago ang isang tao ay pwedeng mag-eksperimento sa Ethereum ay kinakailangan na makakuha ng ilang mga token ng ETH. Anyone wanting to build a decentralized application on Ethereum must pass on the cost to their customers. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
+Ang anumang bayad ay mga gumagawa ng hadlang sa pagpasok para sa mga bagong gumagamit. Bago ang isang tao ay pwedeng mag-eksperimento sa Ethereum ay kinakailangan na makakuha ng ilang mga token ng ETH. Sinuman na gustong bumuo ng isang desentralisadong aplikasyon sa Ethereum ay dapat na ipasa ang gastos sa kanilang mga kustomer. Ang pagbili ng isang karensiyang crypto ay hindi isang madaling gawain at madalang na may katuturan para sa mga halaga na mas mababa sa $10 dolyar. Ito ay nangangahulugan na ang mga bagong gumagamit na gustong subukan ang isang bagong desentralisadong aplikasyon ay dapat munang kumbinsido na mahati ang $10 dolyar.
 
-### Changing Fees
+### Ang Pagpapalit ng mga Bayad
 
-Over time a network must adjust fees. This can happen either due to an increase in the value of the token or due to a surge in capacity. Users like predictable fees and guaranteed service. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
+Sa magdamag ang isang network ay kailangan ayosin ang mga bayad. Maaaring mangyari ito kahit na angkop ang pagtaas ng halaga ng token o kaya ay dahil sa isang pag-taas ng kapasidad. Gusto ng mga gumagamit na may prediksyon sa mga bayad at garantisadong serbisyo. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
 
 ### Sybil Attacks
 
