@@ -290,9 +290,9 @@ Ang anumang bayad ay mga gumagawa ng hadlang sa pagpasok para sa mga bagong guma
 
 ### Ang Pagpapalit ng mga Bayad
 
-Sa magdamag ang isang network ay kailangan ayosin ang mga bayad. Maaaring mangyari ito kahit na angkop ang pagtaas ng halaga ng token o kaya ay dahil sa isang pag-taas ng kapasidad. Gusto ng mga gumagamit na may prediksyon sa mga bayad at garantisadong serbisyo. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
+Sa magdamag ang isang network ay kailangan ayosin ang mga bayad. Maaaring mangyari ito kahit na angkop ang pagtaas ng halaga ng token o kaya ay dahil sa isang pag-taas ng kapasidad. Gusto ng mga gumagamit na may prediksyon sa mga bayad at garantisadong serbisyo. Yamang ito ay posible na i-daynamiko at ayusin ang mga bayarin sa panahon ng mabigat na paggamit, ang resulta ay isang mabagal na karanasan ng gumagamit.
 
-### Sybil Attacks
+### Ang mga pag-atake ng Sybil
 
 Centralized websites prevent spam through rate limiting and some form of ID verification. Even something as simple as reCAPTCHA[^9] is sufficient to limit the creation of fake accounts. If someone abuses their account then centralized websites are free to block the account.
 
