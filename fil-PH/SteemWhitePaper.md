@@ -294,7 +294,7 @@ Sa magdamag ang isang network ay kailangan ayosin ang mga bayad. Maaaring mangya
 
 ### Ang mga pag-atake ng Sybil
 
-Centralized websites prevent spam through rate limiting and some form of ID verification. Even something as simple as reCAPTCHA[^9] is sufficient to limit the creation of fake accounts. If someone abuses their account then centralized websites are free to block the account.
+Ang sentralisado na mga websayt ay pinipigilan ang pag-ispam sa pamamagitan ng paglilimita ng antas at ilang porma ng beripikasyon sa ID. Kahit na ang ilang bagay na kasing dali ng reCAPTCHA[^9] ay sapat upang limitahan ang paglikha ng mga pekeng akwant. Kung sinoman ang mga umaabuso sa kanilang akwant, ang mga sentralisadong websayt ay libre upang i-block ang akwant.
 
 In a decentralized system there is no direct way to ban users nor centralized provider able to host a reCAPTCHA and enforce rate limiting of accounts. In fact, the inability to censor users is one of the main selling points of blockchain technology.
 
