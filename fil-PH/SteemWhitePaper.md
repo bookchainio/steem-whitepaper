@@ -280,7 +280,7 @@ Ang mga micropayment, gaya ng lahat ng mga pagbabayad, ay nangangailangan ng isa
 
 – Si Clay Shirky[^8]
 
-Sa mundo ng mga pagbabayad na pampananalapi, ang mga maliliit na bayarin ay katanggap-tanggap dahil ang halaga ng transaksyon ay napakataas na nauugnay sa singil sa bayad, at ang bumibili ay nakagawa na ng desisyon na bilhin. The world of potential blockchain applications is far greater than just financial payments and includes many necessary transactions for which fees are simply unacceptable to users.
+Sa mundo ng mga pagbabayad na pampananalapi, ang mga maliliit na bayarin ay katanggap-tanggap dahil ang halaga ng transaksyon ay napakataas na nauugnay sa singil sa bayad, at ang bumibili ay nakagawa na ng desisyon na bilhin. Ang mundo ng potensyal ng mga aplikasyon sa blockchain ay mas mataas kaysa sa mga pagbabayad sa pananalapi lamang at may mga kasama na marami ang kinakailangang transaksyon kung saan ang mga bayarin ay hindi katanggap-tanggap sa mga gumagamit.
 
 Systems like BitShares, Nxt, Ripple, Counter Party and Stellar all allow users to place limit orders on the blockchain and all of them charge users a small fee to perform this action. Later if the user wishes to cancel their order, another fee is charged. Systems like Ethereum take micropayments to a whole new level: charging per calculation. All of these systems struggle to attract new mainstream users for the same reasons that a decentralized search engine would struggle to attract users from Google if it charged a small fee for every search. It doesn’t matter how good the service is, people expect certain things to be free. This is true even if a user ends up paying more overall under a different fee structure.
 
