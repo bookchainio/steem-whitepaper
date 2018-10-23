@@ -284,7 +284,7 @@ Sa mundo ng mga pagbabayad na pampananalapi, ang mga maliliit na bayarin ay kata
 
 Ang mga sistema gaya ng BitShares, Nxt, Ripple, Counter Party at Stellar ay pinahihintulutan ang lahat ng mga gumagamit na maglagay ng mga limitasyon sa mga pag-order sa blockchain at lahat ng mga ito ay gumagamit ay sinisingil ng maliit na bayad para magawa ang aksyon na ito. Mamaya kung ang gumagamit ay mga humiling na kanselahin ang kanilang order, sisingil pa sila ng ibang bayad. Ang mga sistema gaya ng Ethereum ay kumukuha ng mga micropayment sa isang buong bagong antas: singilin sa bawat pagkalkula. Ang lahat ng mga sistemang ito ay nakikiagaw upang akitin ang mga bagong gumagamit ng mainstream para sa parehong mga dahilan na ang isang desentralisadong search engine ay nakikiagaw upang akitin ang mga gumagamit mula sa Google kung sisingilin ito ng maliit na bayad para sa bawat paghahanap. Hindi mahalaga kung gaano kaganda ang serbisyo, ang mga tao ay umaasa na ang ilan sa mga bagay ay maging libre. Ito ay totoo kahit na ang isang gumagamit ay tinapos na ang pagbabayad sa pangkalahatan sa ilalim ng ibang istraktura ng bayad.
 
-### Fees are a Barrier to Entry
+### Ang mga Bayad sa isang Hadlang para Makapasok
 
 Any fee creates a barrier to entry for new users. Before someone can experiment with Ethereum they must acquire some ETH tokens. Anyone wanting to build a decentralized application on Ethereum must pass on the cost to their customers. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
 
