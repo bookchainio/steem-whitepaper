@@ -162,7 +162,7 @@ Ang mga pagbabago sa patakaran sa halaga ng interes at/o anumang mga premium/mga
 
 Ang aming paniniwala na ang mga patakarang ito ay magbibigay ng kumpiyansa sa mga kalahok sa merkado na hindi sila mawawalan ng pera sa pamamagitan ng paghawak ng SBD na binili sa isang presyo na $1.00. Lubos naming inaasahan na mayroong isang makitid na hanay ng kalakalan sa pagitan ng $0.95 at $1.05 para sa SBD sa ilalim ng normal na kondisyon ng merkado.
 
-## Subjective Contributions
+## Pansarailing mga Kontribusyon
 
 Subjective Proof of Work presents an alternative approach to distributing a currency that improves upon fully *objective* Proof of Work systems such as mining. The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
 
