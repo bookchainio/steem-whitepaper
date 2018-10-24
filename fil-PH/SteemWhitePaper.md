@@ -511,7 +511,7 @@ Habang ang mga serbisyo ng timestamping ay maaaring buuin sa halos anumang block
 
 Sa ilalim ng karamihan ng mga modelo sa monetisasyon ng nilalaman, ang mga lumikha ng nilalaman ay may pagkilos sa pag-aanunsiyo sa isang anyo o iba pa. Kinikilala ng maraming mga lumikha kung paano maaaring bawasan ng pag-aanunsiyo ang kahalagahan ng kanilang gawa sa mga mamimili, subalit ang mga lumikha ay madalas na dapat maghangad ng mga bumabalik sa kanilang panahon ng pagmo-monetize. Ang pag-aanunsiyo ay kumakatawan sa isang dobleng-talim na tabak: Sa mga ad, ang isang lumikha ay maaaring kumita ng pera na pinakamadali. Kapag walang mga ad, ang monetisasyon ay mahirap ngunit ang mga nilalaman ay mas mayaman.
 
-Ang mga lumika na nagpo-post sa mga social media outlet na nakakonekta sa Steem ay maaaring mag-monetize lamang sa pamamagitan ng pagkakaroon ng kanilang gawa na kinilala (o "nagustuhan") ng komunidad ng Steem. Ang mga payout batay sa blockchain ay ganap na digital at walang mamamakyaw. Kaya nga ang monetisasyon sa pamamagitan ng mga gantimpala ng nilalaman batay sa blockchain ay dapat na mas mabilis at mas mababa ang harang sa paggamit kaysa sa monetisasyon ng mga patalastas.
+Ang mga lumikha na nagpo-post sa mga social media outlet na nakakonekta sa Steem ay maaaring mag-monetize lamang sa pamamagitan ng pagkakaroon ng kanilang gawa na kinilala (o "nagustuhan") ng komunidad ng Steem. Ang mga payout batay sa blockchain ay ganap na digital at walang mamamakyaw. Kaya nga ang monetisasyon sa pamamagitan ng mga gantimpala ng nilalaman batay sa blockchain ay dapat na mas mabilis at mas mababa ang harang sa paggamit kaysa sa monetisasyon ng mga patalastas.
 
 # Konklusyon
 
