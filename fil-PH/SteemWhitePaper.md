@@ -296,7 +296,7 @@ Sa magdamag ang isang network ay kailangan ayosin ang mga bayad. Maaaring mangya
 
 Ang sentralisado na mga websayt ay pinipigilan ang pag-ispam sa pamamagitan ng paglilimita ng antas at ilang porma ng beripikasyon sa ID. Kahit na ang ilang bagay na kasing dali ng reCAPTCHA[^9] ay sapat upang limitahan ang paglikha ng mga pekeng akwant. Kung sinoman ang mga umaabuso sa kanilang akwant, ang mga sentralisadong websayt ay libre upang i-block ang akwant.
 
-Sa isang desentralisadong sistema ay walang direktang paraan upang pagbawalan ang mga gumagamit kahit na sa sentralisadong tagapagbigay ng kakayahang mag-host ng reCAPTCHA at pilitin ang antas ng limitasyon ng mga akwant. Sa katunayan, ang kawalan ng kakayahan na masuri ang mga gumagamit ay isa sa mga pangunahing punto na nagbebenta sa teknolohiyang blockchain.
+Sa isang desentralisadong sistema ay walang direktang paraan upang pagbawalan ang mga gumagamit kahit na sa sentralisadong tagapagbigay ng kakayahang mag-host ng reCAPTCHA at pilitin ang antas ng limitasyon ng mga akawnt. Sa katunayan, ang kawalan ng kakayahan na masuri ang mga gumagamit ay isa sa mga pangunahing punto na nagbebenta sa teknolohiyang blockchain.
 
 ### Buong Reserba laban sa Praksyonal na Reserba
 
