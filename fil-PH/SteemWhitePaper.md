@@ -168,7 +168,7 @@ Ang katunayan sa pansariling Trabaho ay nagpapakita ng isang alternatibong diska
 
 Sa Bisa, ang pamantayan kung saan ang trabaho ay sinusuri na ganap na pansarili at ang kahulugan nito ay nabubuhay sa labas ng source code mismo. Ang isang komunidad ay humihiling na gantimpalaan ang mga artista, ibang mga manunula, at ibang mga komedyante. Ang iba pang mga komunidad ay maaaring pumili upang gantimpalaan ang mga nag-kawanggawa o tulungan ang sumusulong na mga agendang pampulitika.
 
-The value each currency achieves depends upon the demand for influence within a particular community and how large the market believes each community can get. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
+Ang halaga ng bawat makukuhang pera ay nakasalalay sa pangangailangan para sa impluwensya sa loob ng isang partikular na komunidad at kung gaano kalaki ang paniniwala ng merkado na maaaring makuha ng bawat komunidad. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
 
 ### Distributing Currency
 
