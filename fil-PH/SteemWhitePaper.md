@@ -164,9 +164,9 @@ Ang aming paniniwala na ang mga patakarang ito ay magbibigay ng kumpiyansa sa mg
 
 ## Pansarailing mga Kontribusyon
 
-Ang katunayan sa pansariling Trabaho ay nagpapakita ng isang alternatibong diskarte sa pamamahagi ng isang salapi na nagpapabuti sa ganap na *layunin* Katunayan ng trabaho sa sistema tulad ng pagmimina. The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
+Ang katunayan sa pansariling Trabaho ay nagpapakita ng isang alternatibong diskarte sa pamamahagi ng isang salapi na nagpapabuti sa ganap na *layunin* Katunayan ng trabaho sa sistema tulad ng pagmimina. Ang mga application ng isang pagpapatupad ng pera *pansarili* ang patunay ng trabaho ay tiyak na mas malawak kaysa sa iba *pansarili* patunay sa sistema ng trabaho dahil maaari silang magamit upang bumuo ng isang komunidad sa paligid ng anumang konsepto na may sapat na tinukoy na layunin. Kapag ang mga indibidwal ay sumali sa isang komunidad na binibili nila sa isang partikular na hanay ng mga paniniwala at maaaring bumoto upang mapalakas ang mga halaga o layunin ng komunidad.
 
-In effect, the criteria by which work is evaluated is completely subjective and its definition lives outside the source code itself. One community may wish to reward artists, another poets, and another comedians. Other communities may choose to reward charitable causes or help advance political agendas.
+Sa Bisa, ang pamantayan kung saan ang trabaho ay sinusuri na ganap na pansarili at ang kahulugan nito ay nabubuhay sa labas ng source code mismo. One community may wish to reward artists, another poets, and another comedians. Other communities may choose to reward charitable causes or help advance political agendas.
 
 The value each currency achieves depends upon the demand for influence within a particular community and how large the market believes each community can get. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
 
