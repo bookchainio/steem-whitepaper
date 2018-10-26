@@ -368,17 +368,17 @@ Sa paggamit nitong makatwirang paliwanag tayo ay makakapagpalagay na ang sistema
 
 Maipapalagay natin mula nito na ang isang blockchain ay mabuting nagagampanan sa pamamagitan ng hindi paggamit ng mga bayarin sa paggamit. Kung ang bayarin sa paggamit ay pagbabayaran sana bilang isang alternatibo sa naglilimita ng rate, kaya ito ay dapat katumbas ng pagbili ng sapat na mga timeshare at pagkakatiwala sa paghawak nito ng mataas na panahon upang makakuha ng karapatan sa paggamit nito ng isang beses.
 
-Pagpahayag sa ibang pamamaraan, ang isang bayarin sa transaksyon ay nararapat na maging katumbas sa pinakamababang balanse ng isang account na kinakailangan upang makapagtransact ng isang beses bawat linggo at nararapat na maisauli sa katapusan ng linggo. Ipagpalagay na ang pinamababang balanse ng isang account ay $1 at nagpapahintulot sa isang tao na makapagtransact ng isang beses bawat linggo. Kung ang isang tao na mayroong $1 na balanse na nagnanais na makasagawa ng limang mga transaksyon sa isang beses sila ay nangangailangan na pataasin ang kanilang balanse hanggang $5 para sa isang linggo kahit bago o pagkatapos ng kanilang mga transaksyon.
+Pagpahayag sa ibang pamamaraan, ang isang bayarin sa transaksyon ay nararapat na maging katumbas sa pinakamababang balanse ng isang akawnt na kinakailangan upang makapagtransact ng isang beses bawat linggo at nararapat na maisauli sa katapusan ng linggo. Ipagpalagay na ang pinamababang balanse ng isang account ay $1 at nagpapahintulot sa isang tao na makapagtransact ng isang beses bawat linggo. Kung ang isang tao na mayroong $1 na balanse na nagnanais na makasagawa ng limang mga transaksyon sa isang beses sila ay nangangailangan na pataasin ang kanilang balanse hanggang $5 para sa isang linggo kahit bago o pagkatapos ng kanilang mga transaksyon.
 
 Sa teorya ang merkado ay maisasagawa mula sa hinihiraman ng mga gumagamit ng mga stake na kinakailangan. Sa kasanayan, ito ay higit na epektibo para sa mga gumagamit upang simple na makapagbili at makapagtinda ng mga timeshare na kinakailangan upang maabot ang kanilang gusto na rate sa pagkagamit. Sa ibang salita, ang gastos sa pakikipagkasundo ng mga maliliit na pautang ay mas malaki kaysa sa halaga ng pagpapanatili ng isang balanse na angkop para sa iyong pinakamalaking linggohang paggamit.
 
 Ang desentralisadong paglilimita sa rate ng mga transaksyon ay nakakapagpagana sa mga bagong uri ng mga aplikasyon na desentralisado na hindi posible kapag ang bawat paggamit ng aplikasyon ay nangangailangan ng maliit na bayarin. Ang bagong modelo na ito ay nagbibigay sa mga developer ng aplikasyon ng kakayahan na makapagdesisyon kung at kailan na makapaghingi ng bayad sa kanilang mga gumagamit para sa mga transaksyon.
 
-# Performance at Scalability
+# Pagganap at Scalability
 
 Ang network ng Steem ay ginawa sa Graphene, ang kaparehang teknolohiya na nagpapagana ng BitShares. Ang Graphene ay napatunayan na sa publiko na kaya ang higit sa 1000 na mga transactions bawat segundo doon sa distributed test network. Ang Graphene ay madali lang maka-abot ng 10,000 o higit pa na mga transaksyon bawat segundo na mayroong diretsohang pagbuti sa kapasidad ng server at mga protocol sa komunikasyon.
 
-## Reddit na Scale
+## Scale ng Reddit
 
 Ang Steem ay may kakayahang makapag-pangasiwa ng mas marami pang mga gumagamit kaysa Reddit. Noong 2015 ang Reddit ay mayroong 8.7 na milyom na mga gumagamit na nakapaggawa ng karaniwang 23 na mga kumento bawat segundo[^12], na mayroong karaniwang 83 na mga kumento sa bawat taon sa bawat gumagamit. Mayroong mga 73 na milyon na mga mataas na antas na mga post, para sa karaniwang 2 bagong mga post bawat segundo. Mayroong halos 7 bilyon pataas na mga boto na nakakagawa ng karaniwang rate sa pagboboto ng 220 na mga boto bawat segundo. Lahat ay naisabi, kung ang Reddit ay nago-operate sa blockchain ito ay nangangailangan ng karaniwang 250 na mga transaksyon bawat segundo.
 
