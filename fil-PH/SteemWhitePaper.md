@@ -170,7 +170,7 @@ Sa Bisa, ang pamantayan kung saan ang trabaho ay sinusuri na ganap na pansarili 
 
 Ang halaga ng bawat makukuhang pera ay nakasalalay sa pangangailangan para sa impluwensya sa loob ng isang partikular na komunidad at kung gaano kalaki ang paniniwala ng merkado na maaaring makuha ng bawat komunidad. Hindi katulad ng priyor na mga sistema, patunay sa pansariling trabaho nagbibigay-daan sa isang komunidad upang sama-sama pondohan ang pagpapaunlad ng anumang nakikita nito na mahalaga at nagbibigay-daan ang monetization sa dating non-monetization na oras.
 
-### Distributing Currency
+### Pagbabahagi ng Pera
 
 There are two ways people can get involved with a crypto-currency community: they can *buy in*, or they can *work in*. In both cases users are adding value to the currency, however, the vast majority of people have more *free time* than they do *spare cash*. Imagine the goal of bootstrapping a currency in a poor community with no actual *cash* but plenty of *time*. If people can earn money by working for one another then they will bootstrap value through mutual exchange facilitated by a fair accounting/currency system.
 
