@@ -138,7 +138,7 @@ Ang mga holder ng STEEM at SP ay makakakuha ng pakinabang kapag ang mga miyembro
 
 ### Ang Pagtatakda ng Presyo ng mga Feed
 
-Makikilala ng mga matatalinong mambabasa na ang isang may-ari ng interes na may limitadong suplay ay maaaring maipalit ng mas mataas o mas mababa kaysa sa nakatagong asset depende sa iba pang oportunidad upang kumita ng interes sa parehong asset. Isang mataas na rate ng interes na binabayaran sa isang asset na naka-peg sa dolyar ng US maraming tao ang nakikipag-tawaran sa limitadong suplay ng Steem Dollars hanggang sa hindi na ito nagkakahalaga ng $1. Sa ekonomiya mayroong isang prinsipyo na kilala bilang imposibleng trinidad[^4] kung saan nakasaad na imposible na magkaroon ng lahat ng tatlo sa mga sumusunod sa parehong oras:
+Makikilala ng mga matatalinong mambabasa na ang isang may-ari ng interes na may limitadong suplay ay maaaring maipalit ng mas mataas o mas mababa kaysa sa nakatagong asset depende sa iba pang oportunidad upang kumita ng interes sa parehong asset. May mataas na rate ng interes na binabayaran sa isang asset na naka-peg sa dolyar ng US maraming tao ang nakikipag-tawaran sa limitadong mga suplay ng Steem Dollar hanggang sa hindi na ito nagkakahalaga ng $1. Sa ekonomiya mayroong isang prinsipyo na kilala bilang imposibleng trinidad[^4] kung saan nakasaad na imposible na magkaroon ng lahat ng tatlo sa mga sumusunod sa parehong oras:
 
 1. Isang matatag na presyo ng palitan
 2. Libreng pag-galaw ng kapaital
