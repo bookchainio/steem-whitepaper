@@ -398,7 +398,7 @@ Ang pagpapanatili sa lahat sa memorya ay lalong gagana bunga ng kamakailang intr
 
 ## Inisyal na Alokasyon & Suplay
 
-Ang network ng Steem ay nagsimula sa 0 na suplay ng salapi at inilaan ang STEEM sa pamamagitan ng proof of work sa rate ng tinatayang 40 na STEEM bawat minuto sa mga minero, na mayroong karagdagang 40 na STEEM bawat minuto na nalilikha upang mai-seed ang nilalaman at mga pool sa gantimpala ng kurasyon (para sa kabuuang 80 na STEEM bawat minuto). Pagkatapos ang network ay nagsimulang maggantimpala sa mga gumagamit na nag-kombert sa SP. Sa puntong ito, ang STEEM ay lumaki sa isang rate ng tinatayang 800 STEEM bawat minuto dahil sa mga pinagsamang epekto ng maraming Mga Gantimpala sa Kontribusyon na nakabuod sa ibaba:
+Ang network ng Steem ay nagsimula sa 0 na suplay ng salapi at inilaan ang STEEM sa pamamagitan ng proof of work sa rate ng tinatayang 40 na STEEM bawat minuto sa mga minero, na mayroong karagdagang 40 na STEEM bawat minuto na nalilikha upang mai-seed ang nilalaman at mga pool sa gantimpala ng kurasyon (para sa kabuuang 80 na STEEM bawat minuto). Pagkatapos ang network ay nagsimulang maggantimpala sa mga gumagamit na nag-kombert sa SP. Sa puntong ito, ang STEEM ay tumataas sa isang rate ng tinatayang 800 STEEM bawat minuto dahil sa mga pinagsamang epekto ng maraming Mga Gantimpala sa Kontribusyon na nakabuod sa ibaba:
 
 Mga Gantimpala sa Kontribusyon:
 
