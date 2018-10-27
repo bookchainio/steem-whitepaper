@@ -1,6 +1,6 @@
 # Steem
 
-## An incentivized, blockchain-based, public content platform.
+## Isang pampublikong platform na ang nilalaman ay insentibisado batay sa blockchain.
 
 Agosto 2017
 
@@ -56,9 +56,9 @@ Dahil ang malayang merkado ay isang subok na sistema, nakatutukso itong subukan 
 
 Ang Steem ay dinisenyo upang paganahin ang mga mabisa na micropayment para sa lahat ng mga uri ng kontribusyon sa pamamagitan ng pagbabago ng pang-ekonomikang ekwasyon. Ang mga mambabasa ay hindi na kailangang magdesisyon kung gusto o hindi nila nais na bayaran ang isang tao mula sa kanilang sariling bulsa, sa halip ay maaari silang bumoto ng pataas o pababa sa nilalaman at gagamitin ng Steem ang kanilang mga boto upang matukoy ang mga indibidwal na gantimpala. Ito ay nangangahulugan na ang mga tao ay binibigyan ng isang pamilyar at malawakang ginamit na interface at hindi na kinakaharap ang kognitibo, pinansiyal, at oportunidad na mga gastos na nauugnay sa tradisyonal na micropayment at mga platform na nagbibigay ng tip.
 
-Ang input ng pagboto mula sa mga miyembro ng komunidad ay kritikal para sa Steem upang maglaan ng tamang mga pagbabayad sa mga nag-aambag. Kaya't ang pagboto ay maaaring matingnan bilang isang mahalagang kontribusyon at karapat-dapat ng mga gantimpala sa sarili nito. Ang ilang mga platform, tulad ng Slashdot, ay gumamit ng meta-moderation[^3] bilang isang paraan upang ranggohan at gantimpalaan ang mga tapat na moderator. Steem chooses to reward those who contribute the most to the total promotion of a piece of content and rewards the voters proportional to the ultimate reward paid to the content creator.
+Ang input ng pagboto mula sa mga miyembro ng komunidad ay kritikal para sa Steem upang maglaan ng tamang mga pagbabayad sa mga nag-aambag. Kaya't ang pagboto ay maaaring matingnan bilang isang mahalagang kontribusyon at karapat-dapat ng mga gantimpala sa sarili nito. Ang ilang mga platform, tulad ng Slashdot, ay gumamit ng meta-moderation[^3] bilang isang paraan upang ranggohan at gantimpalaan ang mga tapat na moderator. Pinipili ng Steem na gantimpalaan yaong mga may pinakanaaambag sa kabuuang promosyon ng isang piraso ng nilalaman at ginagantimpalaan ang mga botante na proporsyonal sa pinaka-ultimong gantimpala na binayaran sa lumikha ng nilalaman.
 
-# Ways to Contribute
+# Mga Paraan upang Mag-ambag
 
 Binabalangkas ng bahaging ito ang mga ideya sa likod ng Steem at ang mga pabuya nito para sa mga tao na nagbigay ng mga makabuluhan at nasusukat na mga kontribusyon sa komunidad ng Steem.
 
@@ -186,9 +186,9 @@ Ang susunod na hakbang ay upang gantimpalaan ang lahat na gumagawa ng anumang ba
 
 Ipagpalagay na mayroong isang nakapirming halaga ng pera na ipapamahagi, at ang mga taong may pangmatagalang interes sa hinaharap na halaga at pag-gamit ng pera ang mga dapat magpasiya kung paano ito ilalaan. Ang bawat vesting user ay nagpapadala ng kanilang mga boto kung sino ang gumawa ng pinakamahusay na trabaho at sa pagtatapos ng araw ang magagamit na pera para sa araw na iyon ay hinati ayon sa timbang sa mga boto na ang lahat ng may kahit isa netong positibong boto ay makakakuha ng isang bagay.
 
-Ang walang muwang na proseso sa pagboto ay lumilikha ng isang Problema ng mga bilanggong N-Tao[^5] kung saan ang bawat indibidwal na botante ay may insentibo na bumoto para sa kanilang sarili sa gastos ng mas malaking layunin ng komunidad. Kung ang bawat botante ay may depekto sa pamamagitan ng pagboto para sa kanilang sarili walang pera ang mapapamahagi at ang pera bilang isang buo ay mabibigo upang makakuha ng epekto sa network. On the other hand, if only one voter defects then that voter would win undeserved profits while having minimal effect on the overall value of the currency.
+Ang walang muwang na proseso sa pagboto ay lumilikha ng isang Problema ng mga bilanggong N-Tao[^5] kung saan ang bawat indibidwal na botante ay may insentibo na bumoto para sa kanilang sarili sa gastos ng mas malaking layunin ng komunidad. Kung ang bawat botante ay may depekto sa pamamagitan ng pagboto para sa kanilang sarili walang pera ang mapapamahagi at ang pera bilang isang buo ay mabibigo upang makakuha ng epekto sa network. Sa kabilang dako, kung isa lamang ang depekto ng botante pagkatapos ang botante ay mananalo ng hindi karapat dapat na mga kita habang nagkakaroon ng kaunting epekto sa pangkalahatang halaga ng pera.
 
-#### Voting Abuse
+#### Ang Pag-abuso sa Pagboto
 
 Regardless of how much money any one individual has, there are always many other individuals with similar wealth. Even the wealthiest individual rarely has much more than the next couple wealthiest combined. Furthermore, those who have a large investment in a community also have the most to lose by attempting to game the voting system for themselves. It would be like the CEO of a company deciding to stop paying salaries so he could pocket all of the profits. Everyone would leave to work for other companies and the company would become worthless, leaving the CEO bankrupt rather than wealthy.
 
@@ -214,7 +214,7 @@ The goal of building a community currency is to get more â€œcrabs in the bucketâ
 
 Ang isang pangunahing bahagi sa pagpaliit ng pang-aabuso ay ang paglilimita sa rate ng pagboto. Maaaring magbasa lamang ang mga indibidwal na user at suriin ang napakaraming mga aytem sa trabaho bawat araw. Ang anumang pagtatangka na pagbumoto ng mas madalas kaysa dito ay isang tanda ng automation at potensyal na pang-aabuso. Sa pamamagitan ng limitasyon ng rate, Ang mga stakeholder na bumoboto nang mas madalas na may bilang ng bawat boto para sa mas mababa kaysa sa mga stakeholder na bumoboto nang hindi madalas. Ang mga pagsisikap na hatiin ang mga token sa maraming mga akawnt ay naghihiwalay din sa impluwensiya at samakatuwid ay hindi nagreresulta sa isang pagtaas ng net sa impluwensya o pag-bypass ang limitadong rate na ipinataw sa pagboto.
 
-Ang mga user ay naglalaan ng isang nakapirming halaga ng kapangyarihan sa pagboto. Ang kapangyarihan ng pagboto ay pinararami ng mga token ng vesting ng user upang matukoy kung gaano karami ang ibabahaging gantimpala sa pool ang dapat ilaan sa isang naibigay na aytem sa trabaho. Ang bawat boto na inihahagis ay gumagamit ng isang porsyento ng natitirang kapangyarihan sa pagboto. Ang mga user ay maaaring bumoto para sa higit pang mga post, ngunit ang bawat boto ay walang halaga, at mas matagal upang maabot muli ang buong kapangyarihan sa pagboto. Voting power recharges at a fixed linear rate of 20% per day.
+Ang mga user ay naglalaan ng isang nakapirming halaga ng kapangyarihan sa pagboto. Ang kapangyarihan ng pagboto ay pinararami ng mga token ng vesting ng user upang matukoy kung gaano karami ang ibabahaging gantimpala sa pool ang dapat ilaan sa isang naibigay na aytem sa trabaho. Ang bawat boto na inihahagis ay gumagamit ng isang porsyento ng natitirang kapangyarihan sa pagboto. Ang mga user ay maaaring bumoto para sa higit pang mga post, ngunit ang bawat boto ay walang halaga, at mas matagal upang maabot muli ang buong kapangyarihan sa pagboto. Ang kapangyarihan ng pagboto ay muling magkakarga sa isang nakapirming linear na rate na 20% kada araw.
 
 ### Pamamahagi ng Kabayaran
 
