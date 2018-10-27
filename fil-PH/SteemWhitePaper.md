@@ -22,7 +22,7 @@ Sama-sama, ang nilalaman na binuo ng mga user ay lumikha ng bilyun-bilyong dolya
 
 May mga ilang mahahalagang mga prinsipyo na nagamit na upang gabayan ang disenyo ng Steem. Ang pinakamahalagang prinsipyo ay lahat ng tao na nag-aambag sa isang venture ay dapat tumanggap ng pro-rata na pagmamay-ari, kabayaran o utang mula sa venture. Ang prinsipyong ito ay ang parehong prinsipyo na ginagamit sa lahat mga startup habang sila ay nagtatalaga ng mga bahagi sa pagtatatag at panahon ng mga pag-ikot ng pagpopondo.
 
-Ang ikalawang prinsipyo ay ang lahat ng mga anyo ng kapital ay pantay-pantay na mahalaga. Ito ay nangangahulugan na yaong mga nag-aambag ng kanilang kakaunting panahon at atensyon papunta sa paggawa at pagkura ng nilalaman para sa iba ay kasinghalaga ng mga yaon na nag-aambag ng kanilang kakaunting pera. Ito ay ang prinsipyong katarungan ng pawis[^2] at isang konsepto na ang dating mga cryptocurrency ay madalas na may problema sa pagbibigay sa higit sa ilang dosenang mga indibidwal.
+Ang ikalawang prinsipyo ay ang lahat ng mga anyo ng kapital ay pantay-pantay na mahalaga. Ito ay nangangahulugan na yaong mga nag-aambag ng kanilang kakaunting panahon at atensyon papunta sa paggawa at pagkura ng nilalaman para sa iba ay kasinghalaga ng mga yaon na nag-aambag ng kanilang kakaunting pera. Ito ay ang prinsipyong katarungan ng pawis[^2] at isang konsepto na ang dating mga karensiya ng crypto ay madalas na may problema sa pagbibigay sa higit sa ilang dosenang mga indibidwal.
 
 Ang pangatlong prinsipyo ay ang komunidad ang gumagawa ng mga produkto upang paglingkuran ang mga miyembro nito. Ang prinsipyong ito ay hinahalimbawa sa pamamagitan ng mga unyon ng kredito, mga ko-op sa pagkain at mga plano ng pagbabahagi ng pangkalusugan, na pinaglilingkuran ang mga miyembro ng kanilang komunidad sa halip na ipagbili ang mga produkto o serbisyo sa mga tao sa labas ng komunidad.
 
@@ -30,7 +30,7 @@ Ang komunidad ng Steem ay nagbibigay ng mga sumusunod na serbisyo sa mga miyembr
 
 1. Isang pinagmumulan ng mga nakurang balita at komentaryo.
 2. Isang paraan upang makakuha ng mataas na kalidad na mga sagot sa isinapersonal na mga tanong.
-3. Isang matatag na cryptocurrency na itinalasok sa dolyar ng U.S.
+3. Isang matatag na karensiya ng crypto na itinalasok sa dolyar ng U.S.
 4. Libreng mga pagbabayad.
 5. Mga trabaho na nagbibigay ng mga mataas na serbisyo sa iba pang mga miyembro.
 
@@ -38,7 +38,7 @@ Ang malayunin na muling pag-aayos ng mga pang-ekonomikang insentibo ng Steem ay 
 
 ## Pagkilala sa Kontribusyon
 
-Ang Steem ay dinisenyo mula sa ibaba pataas upang tugunan ang mga pangunahing hadlang sa pag-aampon at monetisasyon ng isang ekonomiya na batay sa social media. Ang aming sanaysay ay ang mga parehong pamamaraan na ginamit upang palaguin ang mga pangunahing mga plataporma ng social media ay maaaring magamit upang i-bootstrap ang isang matagumpay na karensiya ng crypto. Ang mga pang-ekonomiyang insentibo na pinagana sa pamamagitan ng karensiya ng crypto ay maaaring mapadali ang paglago ng isang bagong plataporma ng social media. Ito ay ang synergy sa pagitan ng cryptocurrency at social media na sa tingin namin ay maaaring magbigay sa Steem ng isang malakas na kalamangan sa merkado.
+Ang Steem ay dinisenyo mula sa ibaba pataas upang tugunan ang mga pangunahing hadlang sa pag-aampon at monetisasyon ng isang ekonomiya na batay sa social media. Ang aming sanaysay ay ang mga parehong pamamaraan na ginamit upang palaguin ang mga pangunahing mga plataporma ng social media ay maaaring magamit upang i-bootstrap ang isang matagumpay na karensiya ng crypto. Ang mga pang-ekonomiyang insentibo na pinagana sa pamamagitan ng karensiya ng crypto ay maaaring mapadali ang paglago ng isang bagong plataporma ng social media. Ito ay ang synergy sa pagitan ng karensiya ng crypto at social media na sa tingin namin ay maaaring magbigay sa Steem ng isang malakas na kalamangan sa merkado.
 
 Ang hamon na kinakaharap ng Steem ay ang pagkuha sa isang algoritmo para sa pagpupuntos ng mga kontribusyon ng indibidwal na itinuturing ng karamihan ng mga miyembro ng komunidad na maging isang patas na pagtatasa ng subhetibong halaga ng bawat kontribusyon. Sa isang perpektong mundo, ang mga miyembro ng komunidad ay magtutulungan upang i-rate ang kontribusyon ng bawat isa at kumuha ng isang patas na kabayaran. Sa tunay na mundo, ang mga algoritmo ay dapat na dinidisenyo sa paraan na sila ay lumalaban sa intensyonal na manipulasyon para sa kita. Ang anumang malawakang pang-aabuso sa sistema ng pagpupuntos ay maaaring maging sanhi ng pagkawala ng pananalig ng mga miyembro ng komunidad sa nakitang pagkapatas ng sistema ng ekonomiya.
 
@@ -50,7 +50,7 @@ Ang Steem ay dinisenyo sa isang medyo simple na konsepto: * Ang makabuluhang kon
 
 Ang hamon ay ang paglikha ng isang sistema na may kakayahang kilalanin kung anong mga kontribusyon ang kailangan at ang kanilang kaugnay na halaga sa isang paraan na maaaring tumimbang sa isang walang hanggang bilang ng mga tao.
 
-Isang subok na sistema para sa pagsusuri at paggagantimpala ng mga kontribusyon ay ang malayang merkado. Ang malayang merkado ay maaaring matingnan bilang isang komunidad na kung saan ang lahat ng tao ay nakikipagkalakalan sa isa't isa at mga gantimpala ay inilalaan sa pamamagitan ng kinita at ikinalugi. Ang sistema ng merkado ay ginagantimpalaan yaong mga nagbibigay ng kahalagahan sa iba at pinaparusahan yaong mga kumokonsumo ng mas maraming halaga kaysa sa kanilang ginawa. Ang malayang merkado ay sumusuporta sa maraming iba't ibang mga salapi at ang pera ay isang kalakal lamang na madaling palitan ng lahat.
+Isang subok na sistema para sa pagsusuri at paggagantimpala ng mga kontribusyon ay ang malayang merkado. Ang malayang merkado ay maaaring matingnan bilang isang komunidad na kung saan ang lahat ng tao ay nakikipagkalakalan sa isa't isa at mga gantimpala ay inilalaan sa pamamagitan ng kinita at ikinalugi. Ang sistema ng merkado ay ginagantimpalaan yaong mga nagbibigay ng kahalagahan sa iba at pinaparusahan yaong mga kumokonsumo ng mas maraming halaga kaysa sa kanilang ginawa. Ang malayang merkado ay sumusuporta sa maraming iba't ibang mga karensiya at ang pera ay isang kalakal lamang na madaling palitan ng lahat.
 
 Dahil ang malayang merkado ay isang subok na sistema, nakatutukso itong subukan na lumikha ng isang malayang-merkado na sistema kung saan ang mga kumokonsumo ng nilalaman ay nagbabayad ng direkta sa mga produsyer ng nilalaman. Gayunpaman, ang direktang pagbabayad ay di-mabisa at hindi talaga mabubuhay para sa paglikha ng nilalaman at kurasyon. Ang halaga ng karamihan sa nilalaman ay napakababa kaugnay sa kognitibo, pinansyal, at oportunidad na mga gastos na nauugnay sa pagbabayad na pinipili ng ilang mambabasa na bigyan ng tip. Ang kasaganaan ng mga malayang alternatibo ay nangangahulugan na ang pagpapatupad ng isang 'paywall' ay magdadala sa mga mambabasa sa ibang lugar. Nagkaroon ng ilang mga pagtatangka na ipatupad ang mga micropayment ng bawat artikulo mula sa mga mambabasa tungo sa mga awtor, ngunit wala namang lumaganap.
 
@@ -202,9 +202,9 @@ Ang isang lalaki ay naglalakad sa tabi ng dalampasigan at nakakita ng isang lala
 
 "Bakit hindi mo takpan ang iyong timba ng pain upang ang mga alimango ay hindi makatakas?", sinabi niya.
 
-"Hindi mo ba naiintindihan.", ang sagot ng lalaki, "Kung may isang alimango sa timba tiyak na gagapang ito palabas nang mabilis. However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
+"Hindi mo ba naiintindihan.", ang sagot ng lalaki, "Kung may isang alimango sa timba tiyak na gagapang ito palabas nang mabilis. Gayunpaman, kapag mayroong maraming mga alimango sa timba, kung ang isa ay sumubok na gumapang sa gilid, ang ibang alimango hahawakan ito at ibagsak pabalik upang maibahagi ang parehong paniniwala bilang ang natitirang bahagi ng mga ito. "
 
-So it is with people. If one tries to do something different, get better grades, improve herself, escape her environment, or dream big dreams, other people will try to drag her back down to share their fate.
+Kaya naman sa mga tao. Kung ang isa ay sumusubok na gumawa ng ibang bagay, makakuha ng mas mahusay na grado, mapabuti ang sarili, makatakas sa kanyang kapaligiran, o mangarap ng mas malalaking pangarap, ang ibang tao ay susubukang hatakin siya pabalik upang ibahagi ang kanilang paniniwala.
 
 Eliminating “abuse” is not possible and shouldn’t be the goal. Even those who are attempting to “abuse” the system are still doing work. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn’t so rampant that it undermines the incentive to do real work in support of the community and its currency.
 
