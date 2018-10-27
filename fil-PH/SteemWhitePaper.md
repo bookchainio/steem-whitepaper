@@ -1,6 +1,6 @@
 # Steem
 
-## Isang pampublikong platform na ang nilalaman ay insentibisado batay sa blockchain.
+## Isang pampublikong plataporma na ang nilalaman ay insentibisado batay sa blockchain.
 
 Agosto 2017
 
@@ -194,11 +194,11 @@ Hindi alintana kung gaano karaming pera mayroon ang isang indibidwal, palaging m
 
 Sa kabutihang-palad, ang anumang trabaho na nakakakuha ng isang malaking konsentrasyon sa mga pagboto ay nakakakuha din ng pinaka masusing pagsisiyasat (publisidad). Sa pamamagitan ng pagdaragdag ng *negatibong-pagboto* ito ay posible para sa maraming maliliit na mga stakeholder ipawalang bisa ang kapangyarihan ng pagboto ng mga grupo ng collusive o malaking depekto sa mga stakeholder. At saka, ang malaking mga stakeholder ay mas mawalan kung ang halaga ng pera ay babagsak dahil sa pang-aabuso kaysa sa makuha nila sa pamamagitan ng pagboto para sa kanilang sarili. Sa katunayan, ang matapat na malalaking mga stakeholder ay malamang na maging mas epektibo sa pamamagitan ng pag-mamalabis at paggamit ng negatibong pagboto kaysa sa pagboto sa mas maliit na mga kontribusyon.
 
-Ang pag-gamit ng *negatibong pagboto* upang panatilihin ang mga tao mula sa pag-abuso ng sistema na pinakikinabangan ang *pansariling mentalidad* na maraming mga tao ang pinaghihinalaan na ang isang indibidwal ay may pakinabang sa gastos ng lahat ng iba pa. While crab mentality normally refers to short-sighted people keeping good people down, it is also what allows good people to keep bad people down. The only “problem” with crab mentality is when people *wrongly believe* someone is profiting at everyone else's expense.
+Ang pag-gamit ng *negatibong pagboto* upang panatilihin ang mga tao mula sa pag-abuso ng sistema na pinakikinabangan ang *pansariling mentalidad* na maraming mga tao ang pinaghihinalaan na ang isang indibidwal ay may pakinabang sa gastos ng lahat ng iba pa. Bagaman ang pansariling pag-iisip ay karaniwang tumutukoy sa mga maliliit na tao na pinananatili ang mabubuting tao sa ibaba, ito rin ang nagpapahintulot sa mabubuting tao na panatilihin ang masasamang tao sa ibaba. Ang nag-iisang “problema” ang pansariling pagiisip na kung saang ang mga tao *maling paniniwala* ang isang tao ay kumikita sa gastusin ng iba.
 
-**The Story of the Crab Bucket**[^6]
+**Ang Kwento ng Bucket ng Alimango**[^6]
 
-A man was walking along the beach and saw another man fishing in the surf with a bait bucket beside him. As he drew closer, he saw that the bait bucket had no lid and had live crabs inside.
+Ang isang lalaki ay naglalakad sa tabi ng dalampasigan at nakakita ng isang lalaking mangingisda sa surf na may isang bucket ng pain sa tabi niya. Habang siya ay papalapit, nakita niya na ang bucket ng pain ay walang takip at may buhay na mga alimango sa loob.
 
 "Why don't you cover your bait bucket so the crabs won't escape?", he said.
 
