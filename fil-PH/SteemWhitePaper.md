@@ -208,7 +208,7 @@ Kaya naman sa mga tao. Kung ang isa ay sumusubok na gumawa ng ibang bagay, makak
 
 Pag-alis ng “abuso” ay hindi posible at hindi ang dapat na layunin. Kahit na sino ang mga sumubok na “umabuso” ang sistema ay mag-tatrabaho parin. Ang anumang kabayarang makuha nila para sa kanilang matagumpay na pagtatangka sa pang-aabuso o pagsalungat ay hindi bababa sa mahalagang bilang para sa layunin na pamamahagi ng pera pati na ang sistema ng paggawa ng trabaho na ginagamit sa tradisyonal na pagmimina ng Bitcoin o ng collusive mining na ginawa sa pamamagitan ng mga pool ng pagmimina. Ang lahat ng kailangan upang matiyak na ang pag-abuso ay hindi napakalaki na pinapahina nito ang insentibo na gawin ang tunay na gawain na suportahan ang komunidad at pera nito.
 
-Ang layunin ng pagtatayo ng isang komunidad ng pera ay upang makakuha ng higit pa "Alimango sa Timba". Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs sufficient power to prevent others from escaping.
+Ang layunin ng pagtatayo ng isang komunidad ng pera ay upang makakuha ng higit pa "Alimango sa Timba". Ang pagpunta sa matinding hakbang upang maalis ang lahat ng pang-aabuso tulad ng pagtatangkang ilagay ang takip sa balde upang maiwasan ang ilang mga alimango mula sa pagtakas at dumating sa ginagawa nitong mas mahirap na magdagdag ng mga bagong alimango sa balde. Ito ay sapat upang gawing madulas ang mga pader at bigyan ang iba pang mga alimango ng sapat na kapangyarihan upang mapigilan ang iba na makatakas.
 
 ### Limitadong Rate ng Pagboto
 
