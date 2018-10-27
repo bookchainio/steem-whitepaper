@@ -4,7 +4,7 @@
 
 Agosto 2017
 
-# Translator's notes
+# Mga tala ng Tagasalin
 
 Placeholder for translator's notes.
 
