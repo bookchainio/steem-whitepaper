@@ -8,9 +8,9 @@ Agosto 2017
 
 Placeholder for translator's notes.
 
-# Abstract
+# Abstrak
 
-Steem is a blockchain database that supports community building and social interaction with cryptocurrency rewards. Steem combines concepts from social media with lessons learned from building cryptocurrencies and their communities. An important key to inspiring participation in any community, currency or free market economy is a fair accounting system that consistently reflects each person's contribution. Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
+Ang Steem ay isang blockchain database na sumusuporta sa mga nagtatayo ng komunidad at pakikipag-ugnayang sosyal na may mga gantimpala ng cryptocurrency. Steem combines concepts from social media with lessons learned from building cryptocurrencies and their communities. An important key to inspiring participation in any community, currency or free market economy is a fair accounting system that consistently reflects each person's contribution. Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
 
 # Talaan ng mga Nilalaman
 
