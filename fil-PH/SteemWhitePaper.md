@@ -29,10 +29,10 @@ Ang pangatlong prinsipyo ay ang komunidad ang gumagawa ng mga produkto upang pag
 Ang komunidad ng Steem ay nagbibigay ng mga sumusunod na serbisyo sa mga miyembro nito:
 
 1. Ang pinagmumulan ng curated na mga balita at komentaryo.
-2. A means to get high quality answers to personalized questions.
-3. A stable cryptocurrency pegged to the U.S. dollar.
+2. Isang paraan upang makakuha ng mataas na kalidad na mga sagot sa isinapersonal na mga tanong.
+3. Isang matatag na cryptocurrency na itinalasok sa dolyar ng U.S.
 4. Libre na mga pagbabayad.
-5. Jobs providing above services to other members.
+5. Mga trabaho na nagbibigay ng mga mataas na serbisyo sa iba pang mga miyembro.
 
 Steem’s purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem’s incentives may result in better outcomes for most participants.
 
