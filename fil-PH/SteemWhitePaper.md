@@ -76,7 +76,7 @@ Ang steem ang pangunahing yunit ng akawnt sa Steem blockchain. Ang lahat ng iba 
 
 Ang mga startup na kumpanya ay nangangailangan ng pang-matagalang pagtitiwala ng kapital. Ang mga namuhunan ng kanilang pera sa isang startup ay umasa na maghintay ng maraming taon bago nila mabenta ang kanilang mga bahagi at matanto ang kanilang mga kita. Kapag walang pangmatagalang pagtitiwala, ang isang startup na naghahangad na palakihin ang karagdagang kapital sa pamamagitan ng pagbebenta ng mga karagdagang bahagi ay nakikipagkumpitensya sa mga umiiral na mga shareholder na papalabas na. Gusto ng mga matatalinong mamumuhunan na ang kanilang mga kontribusyon ng kapital ay palalaguhin ang kumpanya, ngunit ang paglago ay hindi mangyayari kung ang bagong kapital ay ibinibigay sa mga papalabas na.
 
-There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
+Mayroong makabuluhang halaga sa pagkakaroon ng pangmatagalang pagtitiwala dahil nagbibigay-daan ito sa mga komunidad na gumawa ng mga pangmatagalang plano. Ang pangmatagalang pagtitiwala ng mga stakeholder ay nagiging dahilan din sa kanila na bumoto para sa pangmatagalang paglago sa halip na panandaliang mga pagbomba.
 
 In the cryptocurrency space, speculators jump from cryptocurrency to cryptocurrency based mostly on which one is expected to have short-term growth. Gusto ng Steem na gumawa ng isang komunidad na karamihan sa mga nagmamayari ay mga may pang-matagalang pananaw.
 
