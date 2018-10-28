@@ -80,7 +80,7 @@ Mayroong makabuluhang halaga sa pagkakaroon ng pangmatagalang pagtitiwala dahil 
 
 Sa espasyo ng karensiya ng crypto, ang mga espekulador ay tumatalon mula sa isang karensiya ng crypto tungo sa isa pang karensiya ng crypto batay sa karamihan kung saan ang isa ay inaasahan na magkaroon ng panandaliang paglago. Gusto ng Steem na gumawa ng isang komunidad na karamihan sa mga nagmamayari ay mga may pang-matagalang pananaw.
 
-Users are able to commit their STEEM to a thirteen week vesting schedule, providing them with additional benefits within the platform. STEEM that has been committed to a thirteen week vesting schedule is called Steem Power (SP). SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
+Ang mga user ay kayang ikomit ang kanilang STEEM sa labintatlong linggong vesting iskedyul, na nagbibigay sa kanila ng karagdagang mga benepisyo sa loob ng plataporma. Ang STEEM na naikomit sa labintatlong linggong vesting iskedyul ay tinatawag na Steem Power (SP). SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
 
 When users vote on content, their influence over the distribution of the rewards pool is directly proportional to the amount of SP that they have. Ang mga gumagamit na may mas maraming SP ay may higit na impluwensya sa distribusyon ng mga gantimpala. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
 
