@@ -74,7 +74,7 @@ Ang steem ang pangunahing yunit ng akawnt sa Steem blockchain. Ang lahat ng iba 
 
 ## Steem Power (SP)
 
-Ang mga startup na kumpanya ay nangangailangan ng pang-matagalang pagtitiwala ng kapital. Ang mga namuhunan ng kanilang pera sa isang startup ay umasa na maghintay ng maraming taon bago nila mabenta ang kanilang mga bahagi at matanto ang kanilang mga kita. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
+Ang mga startup na kumpanya ay nangangailangan ng pang-matagalang pagtitiwala ng kapital. Ang mga namuhunan ng kanilang pera sa isang startup ay umasa na maghintay ng maraming taon bago nila mabenta ang kanilang mga bahagi at matanto ang kanilang mga kita. Kapag walang pangmatagalang pagtitiwala, ang isang startup na naghahangad na palakihin ang karagdagang kapital sa pamamagitan ng pagbebenta ng mga karagdagang bahagi ay nakikipagkumpitensya sa mga umiiral na mga shareholder na papalabas na. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
 
 There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
 
