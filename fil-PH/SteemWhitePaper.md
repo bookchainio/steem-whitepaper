@@ -64,7 +64,7 @@ Binabalangkas ng bahaging ito ang mga ideya sa likod ng Steem at ang mga pabuya 
 
 ## Capital Contributions
 
-Mayroong dalawang mga bagay na maaaring ialok ng isang komunidad upang akitin ang kapital: utang at pagmamay-ari. Those who buy ownership profit when the community grows but lose if the community shrinks. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
+Mayroong dalawang mga bagay na maaaring ialok ng isang komunidad upang akitin ang kapital: utang at pagmamay-ari. Yaong mga bumibili ng kita ng pagmamay-ari kapag ang komunidad ay lumalaki ngunit mawawalan kung ang komunidad ay lumiliit. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
 
 The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SBD).
 
