@@ -64,17 +64,17 @@ Binabalangkas ng bahaging ito ang mga ideya sa likod ng Steem at ang mga pabuya 
 
 ## Capital Contributions
 
-Mayroong dalawang mga bagay na maaaring ialok ng isang komunidad upang akitin ang kapital: utang at pagmamay-ari. Yaong bumili ng kita ng pagmamay-ari kapag ang komunidad ay lumalaki ngunit nawawalan kung ang komunidad ay lumiliit. Yaong bumili ng utang ay ginagarantiyahan ng isang tiyak na halaga ng interes ngunit hindi makalalahok sa anumang mga kita na natanto ng paglago ng komunidad. Ang parehong uri ng mga kontribusyon ng kapital ay mahalaga sa paglaki ng komunidad at halaga ng karensiya nito. Bukod pa rito ay may dalawang paraan ng pagmamay-ari ang maaaring gaganapin: likido at vesting. Ang vesting ng pagmamay-ari ay gumagawa ng pangmatagalang pagtitiwala at hindi maaaring ibenta sa isang napakaikling oras ng panahon.
+Mayroong dalawang mga bagay na maaaring ialok ng isang komunidad upang akitin ang kapital: utang at pagmamay-ari. Ang mga bumili ng kita ng pagmamay-ari kapag ang komunidad ay lumalaki ngunit nawawalan kung ang komunidad ay lumiliit. Ang mga bumili ng utang ay ginagarantiyahan ng isang tiyak na halaga ng interes ngunit hindi makalalahok sa anumang mga kita na natanto ng paglago ng komunidad. Ang parehong uri ng mga kontribusyon ng kapital ay mahalaga sa paglaki ng komunidad at halaga ng karensiya nito. Bukod pa rito ay may dalawang paraan ng pagmamay-ari ang maaaring gaganapin: likido at vesting. Ang vesting ng pagmamay-ari ay gumagawa ng pangmatagalang pagtitiwala at hindi maaaring ibenta sa isang napakaikling oras ng panahon.
 
-The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SBD).
+Tinatawag ng network ng Steem ang iba't ibang mga klase ng pag-aari na Steem (STEEM), Steem Power (SP), at mga Steem Dollar (SBD).
 
 ## Steem (STEEM)
 
-Ang steem ang pangunahing yunit ng akawnt sa Steem blockchain. All other tokens derive their value from the value of STEEM. STEEM is a liquid currency, and therefore can be bought or sold on exchanges, as well as transferred to other users as a form of payment.
+Ang steem ang pangunahing yunit ng akawnt sa Steem blockchain. Ang lahat ng iba pang mga token ay nakakukuha ng kanilang halaga mula sa halaga ng STEEM. Ang STEEM ay isang likidong karensiya, at samakatuwid ay mabibili o maaaring ibenta sa mga palitan, at naililipat din sa ibang mga user bilang isang paraan ng pagbabayad.
 
 ## Steem Power (SP)
 
-Start up companies require long-term capital commitment. Those who invest their money in a startup expect to wait years before they can sell their shares and realize their profits. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
+Ang mga startup na kumpanya ay nangangailangan ng pang-matagalang pagtitiwala ng kapital. Those who invest their money in a startup expect to wait years before they can sell their shares and realize their profits. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
 
 There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
 
