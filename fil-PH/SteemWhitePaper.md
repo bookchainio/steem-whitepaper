@@ -106,9 +106,9 @@ Kahit na lahat ng mga tagapagbuo ng feed ay matapat, posible parin para sa karam
 
 Kinakalkula ng Steem ang mga panandaliang pagbabagu-bago ng presyo sa pamamagitan ng paggamit ng presyo ng median sa loob ng tatlo at kalahating araw. Ang median ng feed na nailathala ay sinasampolan bawat oras sa eksaktong oras.
 
-Hangga't ang katiwalian sa price feed ay tumatagal ng mas mababa sa kalahati ng paggalaw ng median time window ay magkakaroon ito ng maliit na epekto sa presyo ng kumbersyon. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
+Hangga't ang katiwalian sa price feed ay tumatagal ng mas mababa sa kalahati ng paggalaw ng median time window ay magkakaroon ito ng maliit na epekto sa presyo ng kumbersyon. Kung mangyari na ang feed ay masira, ang mga kalahok sa network ay magkakaroon ng pagkakataon na tanggalin ang mga tiwaling na prodyuser ng feed bago pa na ang nasirang feed ay makaapekto sa aktwal na presyo ng kumbersyon. Marahil ang mas mahalaga, ito ay nagbibigay sa mga prodyuser ng feed ng isang pagkakataon upang matukoy at maitama ang mga isyu bago pa ang kanilang mga feed ay magsimulang makaapekto sa presyo.
 
-With a three and a half day window, community members have approximately one and a half days to respond to any issues that come up.
+Sa tatlo at kalahating araw na window, ang mga miyembro ng komunidad ay may halos isa at kalahating araw upang tumugon sa anumang mga isyu na lumalabas.
 
 ### Mitigating Timing Attacks
 
