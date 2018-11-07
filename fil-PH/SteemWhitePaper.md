@@ -6,7 +6,7 @@ Agosto 2017
 
 # Mga tala ng Tagasalin
 
-Placeholder for translator's notes.
+Ang placeholder para sa mga tala ng mga tagapagsalin.
 
 # Abstrak
 
@@ -110,11 +110,11 @@ Hangga't ang katiwalian sa price feed ay tumatagal ng mas mababa sa kalahati ng 
 
 Sa tatlo at kalahating araw na window, ang mga miyembro ng komunidad ay may halos isa at kalahating araw upang tumugon sa anumang mga isyu na lumalabas.
 
-### Mitigating Timing Attacks
+### Ang mga Pag-atake sa mga Oras ng Mitigating
 
 Ang mga kalahok sa merkado ay may mabilis na pag-akses sa impormasyon kaysa sa blockchain na may reakasyon sa tatlo at kalahating araw na paglipat ng median sa palitan ng presyo. Ang impormasyong ito ay pwedeng gamitin upang makinabang sa mga mangangalakal at sa gastos ng komunidad. Kung mayroong biglaang pagtaas sa halaga ng STEEM maaaring hilingin ng mga mangangalakal na palitan ang kanilang SBD sa lumang halaga, mas mababang presyo, at ibenta ang STEEM na natanggap nila sa bagong mas mataas na presyo sa kaunting panganib.
 
-Steem levels the playing field by requiring all conversion requests to be delayed for three and a half days. Nangangahulugan ito na hindi ang mga mangangalakal o ang blockchain ay may pakinabang sa kahit anong impormasyon tunglol sa presyo sa panahon na ang pagko-convert at itinigil na.
+Ang lahat ng mga kahilingan sa pagko-convert ay maaaring maantala sa tatlong araw at kalahating araw na kinakailangan sa paglalaro ng patlang sa mga antas ng Steem. Nangangahulugan ito na hindi ang mga mangangalakal o ang blockchain ay may pakinabang sa kahit anong impormasyon tunglol sa presyo sa panahon na ang pagko-convert at itinigil na.
 
 ### Pagmi-minimize sa pag-abuso sa mga pagko-convert
 
