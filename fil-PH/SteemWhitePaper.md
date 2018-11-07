@@ -118,7 +118,7 @@ Steem levels the playing field by requiring all conversion requests to be delaye
 
 ### Pagmi-minimize sa pag-abuso sa mga pagko-convert
 
-If people could freely convert in both directions then traders could take advantage of the blockchains conversion rates by trading large volumes without changing the price. Traders who see a massive run up in price would convert to SBD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SBD to STEEM and not the other way around.
+Kung ang mga tao ay malayang makapagpa-palit sa parehong direksyon, maaaring mapakinabangan ng mga mangangalakal ang mga bayad sa pagko-convert ng blockchain sa pamamagitan ng pangangalakal ng malalaking volume nang hindi binabago ang presyo. Ang mga mangangalakal na nakakakita ng isang napakalaking pang-angat sa presyo ay mag-convert sa SBD sa mataas na presyo (kapag ito ay pinaka-peligroso) at pagkatapos ay i-convert pabalik pagkatapos ng koreksyon. Pinoprotektahan ng protokol ng Steem ang komunidad mula sa ganitong uri ng pang-aabuso sa pamamagitan lamang ng pagpapahintulot sa mga tao na mag-convert mula sa SBD sa STEEM at hindi sa ibang paraan.
 
 Ang blockchain ang nagpasya kung paano at kailan gagawa ng SBD at kung sino ang dapat makakuha nito. Ito ay nagpapatatag sa paglikha ng SBD at tinatanggal ang mga paraan ng pang-aabuso.
 
