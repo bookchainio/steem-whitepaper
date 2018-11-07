@@ -112,7 +112,7 @@ Sa tatlo at kalahating araw na window, ang mga miyembro ng komunidad ay may halo
 
 ### Mitigating Timing Attacks
 
-Market participants have access to information faster than the blockchain’s three and a half day moving median conversion price can react. This information could be used to benefit of traders at the expense of the community. Kung mayroong biglaang pagtaas sa halaga ng STEEM maaaring hilingin ng mga mangangalakal na palitan ang kanilang SBD sa lumang halaga, mas mababang presyo, at ibenta ang STEEM na natanggap nila sa bagong mas mataas na presyo sa kaunting panganib.
+Ang mga kalahok sa merkado ay may mabilis na pag-akses sa impormasyon kaysa sa blockchain na may reakasyon sa tatlo at kalahating araw na paglipat ng median sa palitan ng presyo. Ang impormasyong ito ay pwedeng gamitin upang makinabang sa mga mangangalakal at sa gastos ng komunidad. Kung mayroong biglaang pagtaas sa halaga ng STEEM maaaring hilingin ng mga mangangalakal na palitan ang kanilang SBD sa lumang halaga, mas mababang presyo, at ibenta ang STEEM na natanggap nila sa bagong mas mataas na presyo sa kaunting panganib.
 
 Steem levels the playing field by requiring all conversion requests to be delayed for three and a half days. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
 
