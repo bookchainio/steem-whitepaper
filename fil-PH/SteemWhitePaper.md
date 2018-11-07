@@ -114,9 +114,9 @@ Sa tatlo at kalahating araw na window, ang mga miyembro ng komunidad ay may halo
 
 Ang mga kalahok sa merkado ay may mabilis na pag-akses sa impormasyon kaysa sa blockchain na may reakasyon sa tatlo at kalahating araw na paglipat ng median sa palitan ng presyo. Ang impormasyong ito ay pwedeng gamitin upang makinabang sa mga mangangalakal at sa gastos ng komunidad. Kung mayroong biglaang pagtaas sa halaga ng STEEM maaaring hilingin ng mga mangangalakal na palitan ang kanilang SBD sa lumang halaga, mas mababang presyo, at ibenta ang STEEM na natanggap nila sa bagong mas mataas na presyo sa kaunting panganib.
 
-Steem levels the playing field by requiring all conversion requests to be delayed for three and a half days. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
+Steem levels the playing field by requiring all conversion requests to be delayed for three and a half days. Nangangahulugan ito na hindi ang mga mangangalakal o ang blockchain ay may pakinabang sa kahit anong impormasyon tunglol sa presyo sa panahon na ang pagko-convert at itinigil na.
 
-### Minimizing Abuse of Conversions
+### Pagmi-minimize sa pag-abuso sa mga pagko-convert
 
 If people could freely convert in both directions then traders could take advantage of the blockchains conversion rates by trading large volumes without changing the price. Traders who see a massive run up in price would convert to SBD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SBD to STEEM and not the other way around.
 
