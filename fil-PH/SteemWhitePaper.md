@@ -62,7 +62,7 @@ Ang input ng pagboto mula sa mga miyembro ng komunidad ay kritikal para sa Steem
 
 Binabalangkas ng bahaging ito ang mga ideya sa likod ng Steem at ang mga pabuya nito para sa mga tao na nagbigay ng mga makabuluhan at nasusukat na mga kontribusyon sa komunidad ng Steem.
 
-## Capital Contributions
+## Ang Kapital ng mga Kontribusyon
 
 Mayroong dalawang mga bagay na maaaring ialok ng isang komunidad upang akitin ang kapital: utang at pagmamay-ari. Ang mga bumili ng kita ng pagmamay-ari kapag ang komunidad ay lumalaki ngunit nawawalan kung ang komunidad ay lumiliit. Ang mga bumili ng utang ay ginagarantiyahan ng isang tiyak na halaga ng interes ngunit hindi makalalahok sa anumang mga kita na natanto ng paglago ng komunidad. Ang parehong uri ng mga kontribusyon ng kapital ay mahalaga sa paglaki ng komunidad at halaga ng karensiya nito. Bukod pa rito ay may dalawang paraan ng pagmamay-ari ang maaaring gaganapin: likido at vesting. Ang vesting ng pagmamay-ari ay gumagawa ng pangmatagalang pagtitiwala at hindi maaaring ibenta sa isang napakaikling oras ng panahon.
 
@@ -88,7 +88,7 @@ Ang mga mayhawak ng SP ay nagbayad din ng interes sa balanse ng SP na nananatili
 
 Ang paglipat mula sa STEEM sa SP ay tinutukoy na "powering up", habang ang paglilipat mula sa SP sa STEEM ay tinutukoy na "powering down." Ang SP na na-power down ay ibinabalik sa user sa loob ng labintatlong linggo, sa pamamagitan ng 13 katumbas na lingguhang mga pagbabayad, na nagsisimula sa isang linggo matapos na pinasimulan ang power down.
 
-## Steem Dollars (SBD)
+## Ang Steem Dollars (SBD)
 
 Ang katatagan ay isang mahalagang katangian ng matagumpay ng mga pandaigdigang ekonomiya. Without stability, individuals across the world could not have low cognitive costs while engaging in commerce and savings. Dahil ang katatagan ay isang mahalagan katangian ng isang matagumpay na ekonomiya, Dinisenyo ang mga Steem Dollar bilang isang paraan na pagtanka na magdala ng katatagan sa mundo ng cryptocurrency at sa mga indibidwal na gumagamit ng Steem network.
 
