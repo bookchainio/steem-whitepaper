@@ -18,25 +18,25 @@ Steem je baza podataka na blokčejnu koja podržava stvaranje zajednice i društ
 
 # Uvod
 
-Collectively, user-generated content has created billions of dollars worth of value for the shareholders of social media companies, such as Reddit, Facebook, and Twitter. **In 2014, Reddit hypothesized that its platform would be improved if everyone who contributed to reddit.com by posting stories, adding comments or voting were rewarded with a fair share in Reddit, Inc.[^1]**. Steem aims to support social media and online communities by returning much of its value to the people who provide valuable contributions by rewarding them with cryptocurrency, and through this process create a currency that is able to reach a broad market, including people who have yet to participate in any cryptocurrency economy.
+Generalno, korisnički-generisan sadržaj je stvorio vrednost koja se meri u milijardama dolara vlasnicima akcija kompanija koje se bave društvenim mrežama, kao što su Reddit, Facebook i Twitter. **Reddit je u 2014. pretpostavio da bi njihova platforma bila unaprađena ukoliko bi svako ko doprinosi na reddit.com postavljajući svoje priče, komentare ili glasove bio nagrađen srazmernim udelom u kompaniji Reddit Inc.[^1]**. Steem teži ka tome da podrži društvenu mrežu i onlajn zajednice vraćanjem velike količine svoje vrednosti ljudima koji imaju vredne doprinose, tako što bi ih nagradio kriptovalutom i da na taj način kreira valutu koja bi dosegla široko tržište, uključujući i ljude koji tek treba da se priključe ekonomiji kriptovaluta.
 
-There are some key principles that have been used to guide the design of Steem. The most important principle is that everyone who contributes to a venture should receive pro-rata ownership, payment or debt from the venture. This principle is the same principle that is applied to all startups as they allocate shares at founding and during subsequent funding rounds.
+Postoje neki ključni principi koji su korišćeni tokom dizajniranja Steem-a. Najvažniji princip je da bi svako ko doprinosi projektu trebalo da dobije proporcionalno vlasništvo, isplatu ili kredit od projekta. Ovo je isti princip koji koriste startapovi kada izdvajaju akcije tokom osnivanja i kasnijih prikupljanja sredstava.
 
-The second principle is that all forms of capital are equally valuable. This means that those who contribute their scarce time and attention toward producing and curating content for others are just as valuable as those who contribute their scarce cash. This is the sweat equity principle[^2] and is a concept that prior cryptocurrencies have often had trouble providing to more than a few dozen individuals.
+Drugi princip je da su sve forme kapitala jednako vredne. Ovo znači da su oni koji izdvajaju svoje vreme i energiju tokom stvaranja i ocenjivanja sadržaja za ostale podjednako vredni kao i oni koji doprinose svojim novcem. Ovo je princip ''jednakosti znojenja''[^2] i to je koncept sa kojim su prethodne kriptovalute često imale problem tokom obezbeđivanja više od nekoliko desetina indiviua.
 
-The third principle is that the community produces products to serve its members. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
+Treći princip je da zajednica stvara proizvode koji služe svojim članovima. Ovaj princip se lepo vidi na primeru kreditnih unija, kooperativnih prehrambenih društava i planova za deljenje zdravlja koji radije služe članovima svoje zajednice nego što prodaju proizvod ili svoje usluge van zajednice.
 
-The Steem community provides the following services to its members:
+Steem zajednica obezbeđuje sledeće usluge svojim članovima:
 
-1. A source of curated news and commentary.
-2. A means to get high quality answers to personalized questions.
-3. A stable cryptocurrency pegged to the U.S. dollar.
-4. Free payments.
-5. Jobs providing above services to other members.
+1. Izvor odabranih vesti i komentara.
+2. Sredstvo za dobijanje visoko kvalitetnih odgovora na pitanja pojedinaca.
+3. Stabilnu kriptovalutu, vezanu za američki dolar.
+4. Plaćanja bez provizija.
+5. Poslove koji pružaju prethodno navedene usluge ostalim članovima.
 
-Steem’s purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem’s incentives may result in better outcomes for most participants.
+Svrsishodna promena fokusa ekonomskog podsticaja na Steem-u, u poređenju sa ranijim društvenim mrežama i platformama kriptovaluta, ima potencijal da stvori ravnopravnije i angažovanije rezultate za sve koji su uključeni. Ovaj papir će predstaviti postojeće ekonomske podsticaje i demonstrirati kako Steem može da utiče na ishod koji je bolji za većinu učesnika.
 
-## Recognizing Contribution
+## Prepoznavanje doprinosa
 
 Steem is designed from the ground up to address the major barriers to adoption and monetization of a social media based economy. Our thesis is that the same techniques used to grow major social media platforms can be used to bootstrap a successful cryptocurrency. Economic incentives enabled by cryptocurrency can dramatically facilitate the growth of a new social media platform. It is the synergy between cryptocurrency and social media that we believe may give Steem a powerful advantage in the market.
 
