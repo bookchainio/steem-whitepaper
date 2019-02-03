@@ -60,27 +60,27 @@ Glasanje od strane članova zajednice je važno da bi Steem mogao da precizno od
 
 # Načini na koje možete doprineti
 
-This section outlines the ideas behind Steem and its rewards for people who provide meaningful and measurable contributions to the Steem community.
+Ovaj odeljak opisuje ideje koje stoje iza Steem-a i njegovog nagrađivanja ljudi koji stvaraju smislene i merljive doprinose Steem zajednici.
 
-## Capital Contributions
+## Kapitalni doprinosi
 
-There are two items a community can offer to attract capital: debt and ownership. Those who buy ownership profit when the community grows but lose if the community shrinks. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
+Postoje dve stvari koje zajednica može da ponudi kako bi privukla kapital: dug i vlasništvo. Oni koji kupuju udeo profitiraju kada zajednica raste, ali gube profit ukoliko se zajednica smanji. Onima koji kupuju dug je zagarantovana određena količina kamate ali oni nemaju nikakav profit koji proističe iz rasta zajednice. Oba tipa kapitalnih doprinosa su važna za rast zajednice i vrednost njene valute. Postoje dva tipa vlasništva: likvidno i vesting. Vesting vlasništvo je dugoročno i ne može biti prodato određeni vremenski period.
 
-The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SBD).
+Steem mreža naziva ove različite vrste sredstava Steem-om (STEEM), Steem power-om (SP) i Steem Dolarom (SBD).
 
 ## Steem (STEEM)
 
-Steem is the fundamental unit of account on the Steem blockchain. All other tokens derive their value from the value of STEEM. STEEM is a liquid currency, and therefore can be bought or sold on exchanges, as well as transferred to other users as a form of payment.
+Steem je osnovna jedinica svakog računa na Steem blokčejnu. Svi ostali tokeni imaju vrednost koja zavisi od vrednosti STEEM-a. STEEM je likvidna valuta i samim tim može biti kupljena ili prodata na menjačnicama, kao i prebačena na račun drugim korisnicima u formi isplate.
 
 ## Steem Power (SP)
 
-Start up companies require long-term capital commitment. Those who invest their money in a startup expect to wait years before they can sell their shares and realize their profits. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
+Startap kompanijama je neophodna dugoročna kapitalna obaveza. Oni koji investiraju svoj novac u startap očekuju da prođe više godina pre nego što mogu da prodaju svoje akcije i da ostvare profit. Bez dugoročnog obavezivanja, startap koji traži dodatne investicije kroz prodaju dodatnih akcija bi se takmičio sa postojećim akcionarima koji žele da napuste projekat. Štedljivi investitori žele da njihov doprinos kapitalu podstakne rast kompanije, ali kompanija ne može da raste ukoliko se novi kapital daje onima koji žele da je napuste.
 
-There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
+Vrednost dugoročnih obaveza je ta što omogućavaju zajednicama da naprave dugoročne planove. Dugoročno obavezivanje akcionara takođe prouzrokuje da glasaju za dugoročan rast pre nego za kratkoročne skokove.
 
-In the cryptocurrency space, speculators jump from cryptocurrency to cryptocurrency based mostly on which one is expected to have short-term growth. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
+U svetu kriptovaluta, investitori često idu od kriptovalute do kriptovalute na osnovu očekivanja koja će od njih da ima brz, kratkoročan rast. Steem želi da izgradi zajednicu koju uglavnom poseduju i u potpunosti podržavaju oni koji imaju dugoročan pogled.
 
-Users are able to commit their STEEM to a thirteen week vesting schedule, providing them with additional benefits within the platform. STEEM that has been committed to a thirteen week vesting schedule is called Steem Power (SP). SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
+Korisnici su u mogućnosti da prebace svoj STEEM na trinaestonedeljni investicioni program, čime bi dobili dodatne beneficije u okviru platforme. STEEM that has been committed to a thirteen week vesting schedule is called Steem Power (SP). SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
 
 When users vote on content, their influence over the distribution of the rewards pool is directly proportional to the amount of SP that they have. Users with more SP have more influence on the distribution of rewards. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
 
