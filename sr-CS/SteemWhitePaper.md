@@ -6,7 +6,7 @@ Avgust 2017.
 
 # Napomene prevodioca
 
-Mesto za smeštanje napomena prevodioca.
+Placeholder for translator's notes.
 
 # Rezime
 
@@ -54,11 +54,11 @@ Proveren sistem za procenu i nagrađivanje doprinosa je slobodno tržište. To m
 
 Kako je slobodno tržište dokazan sistem, primamljivo je pokušati da se napravi sistem slobodnog tržišta gde konzumenti sadržaja direktno plaćaju onima koji kreiraju taj sadržaj. Međutim, direktno plaćanje nije efikasno i održivo za kreiranje i vrednovanje sadržaja. Vrednost većine sadržaja je mala u odnosu na kognitivne i finansijske troškove vezane za isplate koje mali broj čitalaca reši da napravi kako bi nagradio taj sadržaj. Zbog mnogih besplatnih alternativa, naplaćivanje sadržaja bi odvuklo čitaoce na neke druge platforme. Postojalo je nekoliko pokušaja da se implementiraju mikro isplate čitalaca autorima, po članku, ali ni jedan od njih nije zaživeo.
 
-Steem is designed to enable effective micropayments for all kinds of contribution by changing the economic equation. Readers no longer have to decide whether or not they want to pay someone from their own pocket, instead they can vote content up or down and Steem will use their votes to determine individual rewards. This means that people are given a familiar and widely used interface and no longer face the cognitive, financial, and opportunity costs associated traditional micropayment and tipping platforms.
+Steem je dizajniran da omogući efektivne mikro isplate za sve vrste doprinosa, menjanjem ekonomske jednačine. Čitaoci više ne moraju da razmišljaju da li da plate nekog autora svojim novcem, umesto toga mogu da glasaju za sadržaj i Steem će da iskoristi njihove glasove kako bi odredio pojedinačne nagrade. Ovo znači da su ljudi dobili poznat i prilično upotrebljiv interfejs i da više nisu suočeni sa kognitivnim i finansijskim troškovima koji su vezani za tradicionalne platforme sa mikro isplatama.
 
-Voting input from community members is critical for Steem to accurately allocate payments to contributors. Voting can therefore be viewed as a crucial contribution and worthy of rewards on its own. Some platforms, such as Slashdot, use meta-moderation[^3] as a way to rank and reward honest moderators. Steem chooses to reward those who contribute the most to the total promotion of a piece of content and rewards the voters proportional to the ultimate reward paid to the content creator.
+Glasanje od strane članova zajednice je važno da bi Steem mogao da precizno odredi isplate onima koji doprinose platformi. Glasanje samim tim može da se posmatra i kao doprinos koji je vredan nagrađivanja sam po sebi. Neke platforme, kao što je Slashdot, koriste meta-moderaciju[^3] kao način za rangiranje i nagrađivanje poštenih moderatora. Steem nagrađuje one koji doprinose najviše ukupnoj promociji određenog sadržaja i nagrađuje one koji su glasali, proporcionalno ukupnoj nagradi koja se isplaćuje autoru tog sadržaja.
 
-# Ways to Contribute
+# Načini na koje možete doprineti
 
 This section outlines the ideas behind Steem and its rewards for people who provide meaningful and measurable contributions to the Steem community.
 
