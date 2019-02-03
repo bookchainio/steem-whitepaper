@@ -98,7 +98,7 @@ Steem Dolari se označavaju sa SBD, što je akronim za Steem Blokčejn Dolare. S
 
 ### Minimalizovanje lažnih snabdevanja
 
-SP holders elect individuals, called witnesses, to publish price feeds. The elected witnesses are presumably trusted by those who have a vested interest in the quality of the feed. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
+Vlasnici SP biraju pojedince, koji se nazivaju vitnesi (eng. witnesses) da objave cenu snabdevanja. U te izabrane vitnese imaju poverenje pre svega oni kojima je u interesu kvalitet snabdevanja. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
 
 Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
 
