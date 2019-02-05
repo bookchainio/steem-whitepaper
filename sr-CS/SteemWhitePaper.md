@@ -128,17 +128,17 @@ Ukoliko se token posmatra kao vlasništvo udela u celokupnoj količini tokena, t
 
 Brza promena vrednosti STEEM-a može drastično da promeni odnos između kredita i vlasništva. Blokčejn sprečava da odnos između kredita i vlasništva postane preveliki, redukovanjem količine STEEM-a, koja se dobija putem konverzije SBD, ukoliko dug teži da premaši 10%. Ako količina duga ipak premaši 10% ukupnog tržišnog kapitala STEEM-a, blokčejn će automatski redukovati količinu STEEM-a koja se generiše putem konverzija na maksimalno 10% tržišnog kapitala. Ovim se osigurava da blokčejn nikada neće imati odnos kredita i vlasništva veći od 10%.
 
-The percentage floors used to compute STEEM creation are based on the supply including the STEEM value of all outstanding SBD and SP (as determined by the current rate / feed).
+Procentualne donje granice za proizvodnju STEEM-a se zasnivaju na zalihama, uključujući i vrednost svih SBD i SP, izračunatu u STEEM-ima na osnovu trenutnog kursa.
 
-### Interest
+### Kamata
 
-SBD pays holders interest. The interest rate is set by the same people who publish the price feed so that it can adapt to changing market conditions. All debt carries risk to the lender. Someone who holds SBD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SBD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
+SBD plaća kamatu onima koji ga poseduju. Kamatnu stopu određuju isti ljudi koji objavljuju cenu snabdevanja, tako da ona može da se prilagodi uslovima tržišta. Sav kredit nosi sa sobom i rizik onom koji ga pozajmljuje. Onaj ko čuva SBD bez podizanja, efektivno pozajmljuje zajednici vrednost dolara. Oni veruju da će u budućnosti, u jednom trenutku neko hteti da kupi SBD od njih za dolar ili da će postojati investitori koji će želeti da kupe STEEM, u koji su prethodno konvertovali svoj SBD.
 
-STEEM and SP holders gain leverage when members of the community are willing to hold SBD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
+Oni koji poseduju STEEM i SP stiču prednost kada članovi zajednice žele da poseduju SBD. Ova prednost pojačava dobitak od rasta i u isto vreme doprinosi rastu. Oni koji poseduju STEEM će biti pod uticajem smanjenja procentualnog udela, ukoliko cena padne. Projekti sa kripto valutama su pokazali da su dobici od povećanja baze korisnika koji imaju poverenja u mrežu sa kapitalom, dodaju više vrednosti mreži nego ijedno proređivanje koje se može desiti tokom pada.
 
-### Setting Price Feeds
+### Određivanje cene snabdevanja
 
-Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
+Pronicljivi čitaoci su možda zaključili da sredstva koja donose kamatu mogu koštati više ili manje od proizvoda na kom se zasnivaju, u zavisnosti od toga da li to sredstvo ima dodatne mogućnosti za ostvarivanje profita. Sa velikom kamatnom stopom koja se dobija na sredstva koja su fiksna u odnosu na US dolar, mnogo ljudi će da nudi Steem Dolar sve dok njegova cena više ne bude 1$. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
 
 1. A stable exchange rate
 2. Free capital movement
