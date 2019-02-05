@@ -98,11 +98,11 @@ Steem Dolari se označavaju sa SBD, što je akronim za Steem Blokčejn Dolare. S
 
 ### Minimalizovanje lažnih snabdevanja
 
-Vlasnici SP biraju pojedince, koji se nazivaju vitnesi (eng. witnesses) da objave cenu snabdevanja. U te izabrane vitnese imaju poverenje pre svega oni kojima je u interesu kvalitet snabdevanja. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
+Vlasnici SP biraju pojedince, koji se nazivaju vitnesi (eng. witnesses) da objave cenu snabdevanja. U te izabrane vitnese imaju poverenje pre svega oni kojima je u interesu kvalitet snabdevanja. Plaćanjem onih koji su izabrani, Steem kreira tržišnu konkurenciju za sticanje prava za stvaranje snabdevanja. Što su više plaćeni snabdevači, više će izgubiti objavljivanjem lažnih informacija.
 
-Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
+Uz skup izabranih snabdevača od poverenja, stvarna cena konverzije može da se dobije kao medijana snabdevanja. Na ovaj način, ukoliko bi neka grupa snabdevača stvorila nešto što odstupa od očekivanja, imala bi minimalni uticaj na medijanu, dok bi i dalje imala mogućnost da utiče na njihovu reputaciju.
 
-Even if all feed producers are honest, it is possible for the majority of feed producers to be impacted by events beyond their control. The Steem network is designed to tolerate short-term corruption of the median price feed while the community actively works to correct the issue. One example of an issue that may take some time to correct is short-term market manipulation. Market manipulation is difficult and expensive to maintain for long periods of time. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
+Čak iako su svi snabdevači pošteni, moguće je da na veliki deo njih utiču stvari koje su van njihove kontrole. Steem mreža je tako dizajnirana da toleriše kratkoročnu malverzaciju medijane cene, dok zajednica radi na tome da se problem otkloni. Jedan primer problema kojem treba više vremena da se otkloni je kratkoročna manipulacija tržištem. Manipulacija tržištem je teška i skupa za održavanje na duže staze. Još jedan primer bi bio pad centralizovane menjačnice ili malverzacija podataka koje je objavila menjačnica.
 
 Steem factors out short-term price fluctuations by using the median price over a period of three and a half days. The median published feed is sampled every hour on the hour.
 
