@@ -104,27 +104,27 @@ Uz skup izabranih snabdevača od poverenja, stvarna cena konverzije može da se 
 
 Čak iako su svi snabdevači pošteni, moguće je da na veliki deo njih utiču stvari koje su van njihove kontrole. Steem mreža je tako dizajnirana da toleriše kratkoročnu malverzaciju medijane cene, dok zajednica radi na tome da se problem otkloni. Jedan primer problema kojem treba više vremena da se otkloni je kratkoročna manipulacija tržištem. Manipulacija tržištem je teška i skupa za održavanje na duže staze. Još jedan primer bi bio pad centralizovane menjačnice ili malverzacija podataka koje je objavila menjačnica.
 
-Steem factors out short-term price fluctuations by using the median price over a period of three and a half days. The median published feed is sampled every hour on the hour.
+Steem utiče na kratkoročna menjanja cene koristeći medijanu cene tokom perioda od 84 sata. Uzorak medijane objavljenog snabdevanja se uzima na svakih sat vremena.
 
-As long as the price feed corruption lasts for less than half the moving median time window it will have minimal impact on the conversion price. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
+Sve dok izmena cene snabdevanja traje manje od polovine vremenskog okvira pokretne medijane, to će imati minimalan uticaj na cenu konverzije. U slučaju da se dese malverzacije snabdevanjem, učesnici na mreži će moći da izglasaju one koji nanose štetu pre nego što ona počne da utiče na cenu konverzije. Možda je još važnije to što snabdevači imaju mogućnost da detektuju i isprave problem pre nego što on počne da utiče na cenu.
 
-With a three and a half day window, community members have approximately one and a half days to respond to any issues that come up.
+U okviru perioda od 84 sata, članovi zajednice imaju približno jedan i po dan da reaguju na svaki problem koji nastane.
 
-### Mitigating Timing Attacks
+### Ublažavanje vremenskih napada
 
-Market participants have access to information faster than the blockchain’s three and a half day moving median conversion price can react. This information could be used to benefit of traders at the expense of the community. If there is a sudden increase in the value of STEEM traders could request conversion of their SBD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
+Učesnici na tržištu mogu da pristupe informacijama brže nego što pokretna medijana cene konverzije na blokčejnu može da odreaguje. Te informacije mogu biti iskorišćene za profitiranje trgovaca na račun zajednice. Ukoliko postoji iznenadan rast cene STEEM-a, trgovci bi mogli da iskoriste konverziju svojih SBD po staroj, nižoj ceni i zatim da prodaju STEEM-e koje su dobili po novoj, višoj ceni, uz minimalni rizik.
 
-Steem levels the playing field by requiring all conversion requests to be delayed for three and a half days. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
+Steem unapređuje takav scenario tako što odlaže sve zahteve za konverziju za tri i po dana. To znači da ni blokčejn ni trgovci nemaju prednost u smislu informacija o ceni u trenutku kada se konverzija izvrši.
 
-### Minimizing Abuse of Conversions
+### Umanjivanje zloupotrebe konverzije
 
-If people could freely convert in both directions then traders could take advantage of the blockchains conversion rates by trading large volumes without changing the price. Traders who see a massive run up in price would convert to SBD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SBD to STEEM and not the other way around.
+Ako bi ljudi mogli slobodno da konvertuju u oba smera, tada bi trgovci mogli da iskoriste prednost stope konverzije na blokčejnu menjanjem velike količine tokena, bez uticaja na promenu cene. Trgovci koji vide ogroman rast cene bi mogli da konvertuju u SBD po visokoj ceni (kada je najrizičnije) i da zatim konvertuju ponovo u staru valutu nakon korekcije cene. Steem protokol štiti zajednicu od ovakvih manipulacija dozvoljavajući isključivo konverziju iz SBD u STEEM, a ne obrnuto.
 
-The blockchain decides how and when to create SBD and who should get it. This keeps the rate of SBD creation stable and removes most avenues of abuse.
+Blokčejn odlučuje o tome kako i kada će se kreirati SBD i ko će da ga dobije. To održava stopu proizvodnje SBD stablinom i eliminiše većinu zloupotreba.
 
-### Sustainable Debt to Ownership Ratios
+### Odnosi između održivog kredita i vlasništva
 
-If a token is viewed as ownership in the whole supply of tokens, then a token-convertible-dollar can be viewed as debt. If the debt to ownership ratio gets too high the entire currency can become unstable. Debt conversions can dramatically increase the token supply, which in turn is sold on the market suppressing the price. Subsequent conversions require the issuance of even more tokens. Left unchecked the system can collapse leaving worthless ownership backing a mountain of debt. The higher the debt to ownership ratio becomes the less willing new investors are to bring capital to the table.
+Ukoliko se token posmatra kao vlasništvo udela u celokupnoj količini tokena, tada token-konvertibilni-dolar može da se posmatra kao kredit. Ako odnos između kredita i vlasništva postane preveliki, čitava valuta može da postane nestabilna. Konverzije kredita mogu drastično da povećaju zalihe tokena, koji se na kraju prodaju na tržištu po smanjenoj ceni. Naredne konverzije zahtevaju izdavanje još veće količine tokena. Tako nepouzdan sistem može da se sruši, ostavljajući bezvredno vlasništvo i gomilu duga. The higher the debt to ownership ratio becomes the less willing new investors are to bring capital to the table.
 
 A rapid change in the value of STEEM can dramatically change the debt-to-ownership ratio. The blockchain prevents the debt-to-ownership ratio from getting too high, by reducing the amount of STEEM awarded through SBD conversions if the debt level were to exceed 10%. If the amount of SBD debt ever exceeds 10% of the total STEEM market cap, the blockchain will automatically reduce the amount of STEEM generated through conversions to a maximum of 10% of the market cap. This ensures that the blockchain will never have higher than a 10% debt-to-ownership ratio.
 
