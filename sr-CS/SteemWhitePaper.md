@@ -134,7 +134,7 @@ Procentualne donje granice za proizvodnju STEEM-a se zasnivaju na zalihama, uklj
 
 SBD plaća kamatu onima koji ga poseduju. Kamatnu stopu određuju isti ljudi koji objavljuju cenu snabdevanja, tako da ona može da se prilagodi uslovima tržišta. Sav kredit nosi sa sobom i rizik onom koji ga pozajmljuje. Onaj ko čuva SBD bez podizanja, efektivno pozajmljuje zajednici vrednost dolara. Oni veruju da će u budućnosti, u jednom trenutku neko hteti da kupi SBD od njih za dolar ili da će postojati investitori koji će želeti da kupe STEEM, u koji su prethodno konvertovali svoj SBD.
 
-Oni koji poseduju STEEM i SP stiču prednost kada članovi zajednice žele da poseduju SBD. Ova prednost pojačava dobitak od rasta i u isto vreme doprinosi rastu. Oni koji poseduju STEEM će biti pod uticajem smanjenja procentualnog udela, ukoliko cena padne. Projekti sa kripto valutama su pokazali da su dobici od povećanja baze korisnika koji imaju poverenja u mrežu sa kapitalom, dodaju više vrednosti mreži nego ijedno proređivanje koje se može desiti tokom pada.
+Oni koji poseduju STEEM i SP stiču prednost kada članovi zajednice žele da poseduju SBD. Ova prednost pojačava dobitak od rasta i u isto vreme doprinosi rastu. Oni koji poseduju STEEM će biti pod uticajem smanjenja procentualnog udela, ukoliko cena padne. Projekti sa kripto valutama su pokazali da dobici od povećanja baze korisnika koji imaju poverenja u mrežu sa kapitalom, dodaju više vrednosti mreži nego ijedno proređivanje koje se može desiti tokom pada.
 
 ### Određivanje cene snabdevanja
 
