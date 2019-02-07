@@ -152,15 +152,15 @@ Ako je odnos kredita prema vlasništvu nizak i vrednost SBD-a je manja od $1.00,
 
 Ako je cena SBD manja od $1.00 USD i postoji visok odnos kredita prema vlasništvu, tada bi snabdevanje trebalo da bude korigovano da daje više STEEM-a po jednom SBD-u. To bi povećalo potražnju za SBD-om, dok bi istovremeno smanjilo odnos kredita prema vlasništvu i ponovo uspostavilo ravnotežu između SBD i USD.
 
-Pod pretpostavkom da vrednost STEEM-a raste brže nego što Steem stvara nove SBD, odnos kredita prema vlasništvu bi trebalo da ostane ispod ciljnog odnosa da bi svi imali benefite od kamate. If the value of the network is flat or falling, then any interest offered will only make the debt-to-ownership ratio worse.
+Pod pretpostavkom da vrednost STEEM-a raste brže nego što Steem stvara nove SBD, odnos kredita prema vlasništvu bi trebalo da ostane ispod ciljnog odnosa da bi svi imali benefite od kamate. Ako vrednost mreže stagnira ili opada, tada bi svaka ponuda kamate samo pogoršala odnos kredita i vlasništva.
 
-In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
+U stvari, snabdevači imaju poverenje i odgovornost za pripremanje monetarne politike zarad održavanja stabilnog odnosa sa američkim dolarom. Zloupotreba ovoga može da ošteti vrednost STEEM-a, tako da oni koji poseduju SP moraju mudro da biraju ''vitnese'' na koje mogu da računaju da prilagode cenu snabdevanja i kamatne stope prema prethodno navedenim pravilima.
 
-If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SBD.
+Ukoliko odnos kredita i vlasništva postane opasno visok i učesnici na tržištu počnu da izbegavaju zahteve za konverzijom, tada bi snabdevanje trebalo da postane prilagođeno kako bi se povećala stopa prema kojoj se STEEM plaća za konvertovanje SBD.
 
-Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SBD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions.
+Promene politike kamatne stope i/ili bilo kojih dodataka/popusta na STEEM/SBD stopu konverzije bi trebalo da budu spor i odmeren odgovor na dugoročne devijacije proseka, pre nego pokušaj da se napravi odgovor na kratkoročne uslove tržišta.
 
-It is our belief that these rules will give market participants confidence that they are unlikely lose money by holding SBD purchased at a price of $1.00. We fully expect there to be a narrow trading range between $0.95 and $1.05 for SBD under normal market conditions.
+Verujemo da će ova pravila ohrabriti učesnike na tržištu da je malo verovatno da izgube novac čuvanjem SBD-a koji je kupljen po ceni od $1.00. U potpunosti se očekuje da postoji uzak opseg trgovine između $0.95 i $1.05 za SBD prema uobičajenim uslovima na tržištu.
 
 ## Subjective Contributions
 
