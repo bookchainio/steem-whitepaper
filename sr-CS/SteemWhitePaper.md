@@ -138,21 +138,21 @@ Oni koji poseduju STEEM i SP stiču prednost kada članovi zajednice žele da po
 
 ### Određivanje cene snabdevanja
 
-Pronicljivi čitaoci su možda zaključili da sredstva koja donose kamatu mogu koštati više ili manje od proizvoda na kom se zasnivaju, u zavisnosti od toga da li to sredstvo ima dodatne mogućnosti za ostvarivanje profita. Sa velikom kamatnom stopom koja se dobija na sredstva koja su fiksna u odnosu na US dolar, mnogo ljudi će da nudi Steem Dolar sve dok njegova cena više ne bude 1$. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
+Pronicljivi čitaoci su možda zaključili da sredstva koja donose kamatu mogu koštati više ili manje od proizvoda na kom se zasnivaju, u zavisnosti od toga da li to sredstvo ima dodatne mogućnosti za ostvarivanje profita. Sa velikom kamatnom stopom koja se dobija na sredstva koja su fiksna u odnosu na US dolar, mnogo ljudi će da nudi Steem Dolar sve dok njegova cena više ne bude 1$. U ekonomiji postoji princip koji je poznatiji kao nemoguće trojstvo[^4] koji tvrdi da je nemoguće da postoje ove tri stvari istovremeno:
 
-1. A stable exchange rate
-2. Free capital movement
-3. An independent monetary policy
+1. Stabilan devizni kurs
+2. Slobodan protok kapitala
+3. Nezavisna monetarna politika
 
-If Steem feed producers aim to have an independent monetary policy allowing it to create and destroy Steem Dollars while simultaneously having full control over the interest rate then they will encounter problems. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
+Ukoliko snabdevači na Steemu žele da postignu nezavisnu monetarnu politiku koja će im dozvoliti da naprave i unište Steem Dolare, dok istovremeno imaju potpunu kontrolu nad kamatnom stopom, onda će imati probleme. Nemoguće trojstvo kaže da Steem Dolari ili moraju da ograniče protok kapitala ili imaju nestabilan devizni kurs u odnosu na dolar ili da imaju ograničenu kontrolu nad kamatnom stopom.
 
-The primary concern of Steem feed producers is to maintain a stable one-to-one conversion between SBD and the U.S. Dollar (USD). Any time SBD is consistently trading above $1.00 USD interest payments must be stopped. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SBD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
+Glavna obaveza snabdevača na Steem blokčejnu je da održe stabilan, 1:1 odnos konverzije između SBD i američkog dolara (USD). Kada god se SBD konzistentno menja za više od 1.00$ USD, kamatne isplate moraju da se zaustave. Na tržištu gde 0% kamate na dug i dalje zahteva naknadu, može se reći da tržište želi da pruži veći kredit nego što je dug koji zajednica želi da preuzme. Ako se to dogodi, SBD će biti procenjen na više od 1.00$ i zajednica može tu malo šta da učini, bez menjanja negativnih kamatnih stopa.
 
-If the debt-to-ownership ratio is low and SBD is trading for less than $1.00, then the interest rate should be increased. This will encourage more people to hold their SBD and support the price.
+Ako je odnos kredita prema vlasništvu nizak i vrednost SBD-a je manja od $1.00, tada kamatna stopa treba da se poveća. Ovo će da ohrabri više ljudi da čuvaju svoj SBD i da time održe cenu.
 
-If SBD trades for less than $1.00 USD and the debt-to-ownership ratio is high, then the feeds should be adjusted upward give more STEEM per SBD. This will increase demand for SBD while also reducing the debt-to-ownership ratio and returning SBD to parity with USD.
+Ako je cena SBD manja od $1.00 USD i postoji visok odnos kredita prema vlasništvu, tada bi snabdevanje trebalo da bude korigovano da daje više STEEM-a po jednom SBD-u. To bi povećalo potražnju za SBD-om, dok bi istovremeno smanjilo odnos kredita prema vlasništvu i ponovo uspostavilo ravnotežu između SBD i USD.
 
-Assuming the value of STEEM is growing faster than Steem is creating new SBD, the debt-to-ownership ratio should remain under the target ratio and the interest offered benefits everyone. If the value of the network is flat or falling, then any interest offered will only make the debt-to-ownership ratio worse.
+Pod pretpostavkom da vrednost STEEM-a raste brže nego što Steem stvara nove SBD, odnos kredita prema vlasništvu bi trebalo da ostane ispod ciljnog odnosa da bi svi imali benefite od kamate. If the value of the network is flat or falling, then any interest offered will only make the debt-to-ownership ratio worse.
 
 In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
 
