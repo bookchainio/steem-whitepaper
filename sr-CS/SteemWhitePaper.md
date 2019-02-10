@@ -210,9 +210,9 @@ Eliminisanje ''zloupotrebe'' nije moguće i ne bi trebalo da bude cilj. Čak i o
 
 Cilj pravljenja valute zajednice je da imamo više ''kraba u kofi''. Organizovati ekstremne mere kako bi se sprečile sve zloupotrebe je kao pokušaj da se zatvori kofa kako bi se sprečilo par kraba da pobegnu po cenu da postane daleko teže da se ubace nove krabe u kofu. Dovoljno je napraviti zidove klizavim i dati ostalim krabama dovoljno moći da spreče ostale da pobegnu.
 
-### Rate Limited Voting
+### Ograničavanje količine glasova
 
-A major part of minimizing abuse is the rate-limiting of voting. Individual users can only read and evaluate so many work items per day. Any attempt to vote more frequently than this is a sign of automation and potential abuse. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
+Glavni posao kod minimizovanja zloupotrebe je ograničavanje količine glasova. Pojedinci mogu da pročitaju i izglasaju određeni broj stvari dnevno. Svaki pokušaj da se glasa češće je znak automatizacije i potencijalne zloupotrebe. Kroz ograničenje, glas vlasnika udela koji glasaju češće će se računati manje od onih vlasnika koji ne glasaju toliko često. Kroz ograničenje, glas vlasnika udela koji glasaju češće će se računati manje od onih vlasnika koji ne glasaju toliko često.
 
 Users are allotted a fixed amount of voting power. Voting power is multiplied by a user’s vesting tokens to determine how much share in the reward pool should be allocated to a given work item. Every vote that is cast uses a percentage of remaining voting power. Users can vote for more posts, but each vote will be worth less, and it will take longer to reach full voting power again. Voting power recharges at a fixed linear rate of 20% per day.
 
