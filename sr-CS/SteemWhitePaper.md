@@ -192,23 +192,23 @@ Prost proces glasanja stvara Dilemu zatvorenika za n ljudi (eng. N-Person Prison
 
 Bez obzira na to koliko novca ima neki pojedinac, uvek postoji dosta drugih pojedinaca sa sličnom količinom novca. Čak i najbogatiji pojedinac retko kada ima više od sledeća dva najbogatija pojedinca zajedno. Pored toga, oni koji imaju najveću investiciju u zajednici takođe imaju i najviše za izgubiti, ako pokušaju da izigraju sistem glasanjem za sebe. To bi bilo kao kada bi CEO kompanije odlučio da ne plaća više zaposlene kako bi mogao da preuzme sav profit za sebe. Svi bi napustili tu kompaniju i otišli u neku drugu i ona bi postala bezvredna, a CEO bi pre bankrotirao nego što bi se obogatio.
 
-Na svu sreću, svaki posao koji dobija velike količine glasova privlači i najviše pažnje. Through the addition of *negative-voting* it is possible for many smaller stakeholders to nullify the voting power of collusive groups or defecting large stakeholders. Furthermore, large-stakeholders have more to lose if the currency falls in value due to abuse than they might gain by voting for themselves. In fact, honest large stakeholders are likely to be more effective by policing abuse and using negative voting than they would be by voting for smaller contributions.
+Na svu sreću, svaki posao koji dobija velike količine glasova privlači i najviše pažnje. Pomoću negativnog *glasanja*, moguće je da mali vlasnici udela ponište glasačku moć dogovorene grupe ili velikih vlasnika udela. Pored toga, veliki vlasnici imaju više toga da izgube ukoliko valuta propadne zbog zloupotrebe nego što bi dobili glasanjem za sebe. U stvari, pošteni vlasnici velikih udela će verovatno biti korisniji regulišući zloupotrebe i koristeći negativno glasanje, nego što bi bili glasanjem za male doprinose.
 
-The use of *negative-voting* to keep people from abusing the system leverages the *crab mentality* that many people have when it is perceived that one individual is profiting at the expense of everyone else. While crab mentality normally refers to short-sighted people keeping good people down, it is also what allows good people to keep bad people down. The only “problem” with crab mentality is when people *wrongly believe* someone is profiting at everyone else's expense.
+Upotreba *negativnog glasanja* kako bi se sprečili ljudi da zloupotrebe sistem podržava *mentalitet kraba* (eng. crab mentality) koji mnogi ljudi imaju kada primete da jedan pojedinac profitira na račun ostalih. Dok mentalitet kraba uglavnom asocira na kratkovide ljude koji sprečavaju dobre ljude da uspeju, to takođe omogućava dobrim ljudima da ograničavaju loše. Jedini problem sa tim mentalitetom je kada ljudi *pogrešno veruju* da neko profitira na račun ostalih.
 
-**The Story of the Crab Bucket**[^6]
+**Priča o kofi sa krabama**[^6]
 
-A man was walking along the beach and saw another man fishing in the surf with a bait bucket beside him. As he drew closer, he saw that the bait bucket had no lid and had live crabs inside.
+Čovek je šetao plažom i ugledao je drugog čoveka kako peca pored kofe sa mamcima. Kako se približio, video je da kofa nema poklopac i da ima žive krabe unutra.
 
-"Why don't you cover your bait bucket so the crabs won't escape?", he said.
+''Zašto ne poklopiš svoju kofu, tako da ti krabe ne bi pobegle?'', upitao je.
 
-"You don't understand.", the man replied, "If there is one crab in the bucket it would surely crawl out very quickly. However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
+''Ne razumeš.'', odgovori mu čovek, ''Da je u kofi samo jedna kraba, ona bi pobegla vrlo lako. Međutim, kada ima više kraba u kofi, ukoliko jedna pokuša da pobegne, ostale bi je zgrabile i povukle nazad, tako da i ona završi kao i sve ostale.''
 
-So it is with people. If one tries to do something different, get better grades, improve herself, escape her environment, or dream big dreams, other people will try to drag her back down to share their fate.
+Isti slučaj je i sa ljudima. Ako jedan pokuša da uradi nešto drugačije, dobije bolje ocene, unapredi sebe, pobegne iz svoje okoline ili sanja velike snove, ostali ljudi će se truditi da ga spreče u tome, tako da na kraju završi kao i oni.
 
-Eliminating “abuse” is not possible and shouldn’t be the goal. Even those who are attempting to “abuse” the system are still doing work. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn’t so rampant that it undermines the incentive to do real work in support of the community and its currency.
+Eliminisanje ''zloupotrebe'' nije moguće i ne bi trebalo da bude cilj. Čak i oni koji se trude da ''zloupotrebe'' sistem i dalje rade neki posao. Bilo koja kompenzacija koju dobiju za svoj uspešan pokušaj zloupotrebe je vredna za distribuciju valute koliko i ''make-work'' sistem koji se koristi u klasičnom Bitcoin majnovanju ili u majnovanju u dogovoru, pomoću bazena za majnovanje (eng. mining pools). Neophodno je samo da se osigura da zloupotrebe nisu toliko uobičajene da podrivaju motivaciju za pravi posao za zajednicu i njenu valutu.
 
-The goal of building a community currency is to get more “crabs in the bucket”. Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs sufficient power to prevent others from escaping.
+Cilj pravljenja valute zajednice je da imamo više ''kraba u kofi''. Organizovati ekstremne mere kako bi se sprečile sve zloupotrebe je kao pokušaj da se zatvori kofa kako bi se sprečilo par kraba da pobegnu po cenu da postane daleko teže da se ubace nove krabe u kofu. Dovoljno je napraviti zidove klizavim i dati ostalim krabama dovoljno moći da spreče ostale da pobegnu.
 
 ### Rate Limited Voting
 
