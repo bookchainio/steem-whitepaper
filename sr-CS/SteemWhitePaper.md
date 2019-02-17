@@ -236,9 +236,9 @@ Ekonomske posledice ovoga su slične lutriji gde ljudi precenjuju svoje šanse d
 
 Kada post dobije isplatu, ona se deli u formi kao 50% SBD i 50% SP. SP daje korisniku povećanu jačinu glasa i transakcije, dok SBD daje korisniku trenutni benefit u vidu stabilne valute. Kao što smo već i pisali, SP je zamišljen tako da ohrabri dugoročno čuvanje, pre nego kratkoročnu prodaju valute. Ovo podstiče više korisnika da imaju interese u dugoročnom uspehu platforme.
 
-Korisnici takođe imaju opciju da budu plaćeni 100% u SP, kao i da odbiju nagradu za post. When a user declines payout on a post, the money that would have been paid to them remains in the rewards pool, to be distributed to other users.
+Korisnici takođe imaju opciju da budu plaćeni 100% u SP, kao i da odbiju nagradu za post. Kada korisnik odbije nagradu za post, novac koji bi mu bio isplaćen ostaje u bazenu nagrada, kako bi kasnije bio distribuiran ostalim korisnicima.
 
-# Consensus Algorithm
+# Algoritam konsenzusa
 
 Consensus is the process by which a community comes to a universally recognized, unambiguous agreement on piece of information. There are many algorithms society has developed for reaching consensus about who owns what. Every government on earth is a primitive consensus algorithm whereby the population agrees to abide by a certain set of rules enshrined in a constitution. Governments establish courts, judges, and juries to interpret the subjective facts and render a final decision. Most of the time people abide by the decision even if it was wrong.
 
