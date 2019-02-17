@@ -214,15 +214,15 @@ Cilj pravljenja valute zajednice je da imamo više ''kraba u kofi''. Organizovat
 
 Glavni posao kod minimizovanja zloupotrebe je ograničavanje količine glasova. Pojedinci mogu da pročitaju i izglasaju određeni broj stvari dnevno. Svaki pokušaj da se glasa češće je znak automatizacije i potencijalne zloupotrebe. Kroz ograničenje, glas vlasnika udela koji glasaju češće će se računati manje od onih vlasnika koji ne glasaju toliko često. Kroz ograničenje, glas vlasnika udela koji glasaju češće će se računati manje od onih vlasnika koji ne glasaju toliko često.
 
-Korisnicima je dodeljena fiksna količina snage glasa. Voting power is multiplied by a user’s vesting tokens to determine how much share in the reward pool should be allocated to a given work item. Every vote that is cast uses a percentage of remaining voting power. Users can vote for more posts, but each vote will be worth less, and it will take longer to reach full voting power again. Voting power recharges at a fixed linear rate of 20% per day.
+Korisnicima je dodeljena fiksna količina snage glasa. Pri tome je snaga glasa pomnožena sa tokenima korisnika koji predstavljaju njihov udeo, kako bi se odredila količina koja će da bude izdvojena iz bazena nagrada za dati post. Svaki glas koji se dodeljuje, koristi određeni procenat preostale snage glasa. Korisnici mogu da glasaju za više postova, ali će u tom slučaju svaki glas vredeti manje i biće potrebno više vremena kako bi se regenerisala puna snaga glasa. Snaga glasa se regeneriše po fiksnoj stopi od 20% dnevno.
 
-### Payout Distribution
+### Distribucija isplate
 
-One of the primary goals of Steem’s reward system is to produce the best discussions on the internet. Each and every year 75% of the yearly inflation is distributed to users submitting, voting on, and discussing content. At the size of Bitcoin this could be several million dollars per day being given to the top contributors.
+Jedan od primarnih ciljeva Steem-ovog sistema nagrađivanja je da stvori najbolje diskusije na internetu. Svake godine, 75% godišnje inflacije je distribuirano korisnicima koji kreiraju, glasaju i diskutuju o sadržaju. To je kao kada bi Bitcoin davao dnevno nekoliko miliona dolara najboljim autorima.
 
-The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content.
+Stvarna distribucija će zavisiti od oblika glasanja korisnika, ali pretpostavljamo da će se uglavnom nagrade distribuirati ka najpopularnijim sadržajima.
 
-Zipf’s Law[^7] is one of those empirical rules that characterize a surprising range of real-world phenomena remarkably well. It says that if we order some large collection by size or popularity, the second element in the collection will be about half the measure of the first one, the third one will be about one-third the measure of the first one, and so on. In general, the k th-ranked item will measure about 1/k of the first one.
+Zifov zakon (eng. Zipf's Law)[^7] je jedno od empirijskih pravila koje karakteriše okvir fenomena stvarnog sveta iznenađujuće dobro. On kaže da ako uzmemo neki veliki skup po veličini ili popularnosti, drugi element u skupu će biti otprilike upola manje vredan od prvog, treći će imati jednu trećinu vrednosti itd. In general, the k th-ranked item will measure about 1/k of the first one.
 
 ![](\img_the_new_marketplace.png)
 
