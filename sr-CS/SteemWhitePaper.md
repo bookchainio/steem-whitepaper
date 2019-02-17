@@ -222,21 +222,21 @@ Jedan od primarnih ciljeva Steem-ovog sistema nagrađivanja je da stvori najbolj
 
 Stvarna distribucija će zavisiti od oblika glasanja korisnika, ali pretpostavljamo da će se uglavnom nagrade distribuirati ka najpopularnijim sadržajima.
 
-Zifov zakon (eng. Zipf's Law)[^7] je jedno od empirijskih pravila koje karakteriše okvir fenomena stvarnog sveta iznenađujuće dobro. On kaže da ako uzmemo neki veliki skup po veličini ili popularnosti, drugi element u skupu će biti otprilike upola manje vredan od prvog, treći će imati jednu trećinu vrednosti itd. In general, the k th-ranked item will measure about 1/k of the first one.
+Zifov zakon (eng. Zipf's Law)[^7] je jedno od empirijskih pravila koje karakteriše okvir fenomena stvarnog sveta iznenađujuće dobro. On kaže da ako uzmemo neki veliki skup po veličini ili popularnosti, drugi element u skupu će biti otprilike upola manje vredan od prvog, treći će imati jednu trećinu vrednosti itd. Uopšteno, k-ti rangirani član će imati vrednost 1/k prvog člana.
 
 ![](\img_the_new_marketplace.png)
 
-Taking popularity as a rough measure of value, then the value of each individual item is given by Zipf’s Law. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
+Ako uzmemo popularnost kao grubu meru vrednosti, tada je vrednost svakog pojedinačnog člana data Zifovim zakonom. Odnosno, ako imamo milion članova, onda će najpopularnijih 100 doneti trećinu ukupne vrednosti, sledećih 10,000 sledeću trećinu i preostalih 989,900 članova poslednju trećinu. Vrednost skupa od n članova je proporcionalna log(n).
 
-The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
+Cilj ove distribucije glasanja i nagrađivanja je da ponudi velike nagrade za dobar sadržaj i da u isto vreme nagradi slabije autore shodno njihovom doprinosu.
 
-The economic effect of this is similar to a lottery where people overestimate their probability of getting votes and thus do more work than the expected value of their reward and thereby maximize the total amount of work performed in service of the community. The fact that everyone “wins something” plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
+Ekonomske posledice ovoga su slične lutriji gde ljudi precenjuju svoje šanse da dobiju glasove i samim tim rade više nego što očekivana količina nagrade to zahteva i samim tim maksimizuju ukupnu količinu rada u službi cele zajednice. Činjenica da svi ''zarade po nešto'' je zasnovana na istoj psihologiji koju kockarnice koriste da bi ljudi nastavili da se kockaju. Drugim rečima, male nagrade pomažu da se podstakne ideja da je moguće osvojiti i veće nagrade.
 
-### Payouts
+### Isplate
 
-When a post receives a payout it takes the form of 50% SBD and 50% SP. The Steem Power give the user increased voting and transaction power while the SBD gives the user an immediate benefit in a stable currency. As we’ve already discussed at length, SP is designed to encourage long-term holding rather than short-term selling. This encourages more users to have a vested interest in the long-term success of the platform.
+Kada post dobije isplatu, ona se deli u formi kao 50% SBD i 50% SP. SP daje korisniku povećanu jačinu glasa i transakcije, dok SBD daje korisniku trenutni benefit u vidu stabilne valute. Kao što smo već i pisali, SP je zamišljen tako da ohrabri dugoročno čuvanje, pre nego kratkoročnu prodaju valute. Ovo podstiče više korisnika da imaju interese u dugoročnom uspehu platforme.
 
-Users also have the option to be paid in 100% SP, as well as decline payout on posts. When a user declines payout on a post, the money that would have been paid to them remains in the rewards pool, to be distributed to other users.
+Korisnici takođe imaju opciju da budu plaćeni 100% u SP, kao i da odbiju nagradu za post. When a user declines payout on a post, the money that would have been paid to them remains in the rewards pool, to be distributed to other users.
 
 # Consensus Algorithm
 
