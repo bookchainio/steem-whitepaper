@@ -240,17 +240,17 @@ Korisnici takođe imaju opciju da budu plaćeni 100% u SP, kao i da odbiju nagra
 
 # Algoritam konsenzusa
 
-Consensus is the process by which a community comes to a universally recognized, unambiguous agreement on piece of information. There are many algorithms society has developed for reaching consensus about who owns what. Every government on earth is a primitive consensus algorithm whereby the population agrees to abide by a certain set of rules enshrined in a constitution. Governments establish courts, judges, and juries to interpret the subjective facts and render a final decision. Most of the time people abide by the decision even if it was wrong.
+Konsenzus je proces kada zajednica dođe na nedvosmisleni, opšteprihvaćeni dogovor o nekom slučaju. Postoje mnogi algoritmi koje je društvo razvilo kako bi se postigao konsenzus oko toga ko ima pravo na šta. Svaka vlada na planeti je primitivni algoritam konsenzusa prema kom se populacija slaže da se pridržava određenog skupa pravila koji je ugrađen u ustav. Vlada formira sudove, sudije i porote da subjektivno razmotre činjenice i donesu konačnu odluku. U većini slučajeva, narod će da se pridržava odluke čak iako je ona pogrešna.
 
-The algorithms used by cryptocurrencies provide a better way to reach consensus. Cryptographically signed testimony from individuals is recorded in a public ledger that establishes the absolute global order of events. A deterministic computer algorithm can then process this ledger to derive a universally accepted conclusion. So long as the members of a community agree on the processing algorithm, the result of the algorithm is authoritative.
+Algoritmi koje koriste kriptovalute obezbeđuju bolji način da se dostigne konsenzus. Kriptografski potpisana izjava od strane pojedinca je memorisana u javnoj knjizi koja uspostavlja apsolutni, globalni sled događaja. Deterministički algoritam tada može da obradi tu knjigu kako bi došao do zaključka koji može da bude opšteprihvaćen. Sve dok se članovi zajednice slažu u pogledu algoritma, rezultat tog algoritma je autoritativan.
 
-The primary consideration is determining what testimony is allowed to enter the public record. Systems should be designed to minimize the potential for censorship. Censorship on the public ledger is similar to preventing someone from voting in an election. In both cases an individual is prevented from impacting the global consensus.
+Osnovna briga je određivanje kompetentne izjave koja bi trebalo da uđe u taj javni zapisnik. Sistemi bi trebalo da budu dizajnirani da minimizuju potencijalnu cenzuru. Cenzura u javnom zapisniku je nešto slično kao kada biste sprečili nekoga da glasa na izborima. U oba slučaja je pojedinac sprečen da utiče na globalni konsenzus.
 
-## Consensus in Steem
+## Konsenzus na Steem-u
 
-Conceptually, the consensus algorithm adopted by Steem is similar to the consensus algorithm adopted by companies throughout the world. People with a vested interest in the future value of Steem vote to select individuals responsible for including testimony in the public record. Voting is weighted proportional to each individual's vested interest.
+Konceptualno, algoritam konsenzusa koji je usvojen na Steem-u je sličan algoritmu koji je usvojen od strane ostalih kompanija širom sveta. Ljudi kojima je u interesu da imaju udela u budućoj vrednosti Steem-a glasaju da izaberu pojedince koji će biti odgovorni da unesu izjave u javni zapisnik. Glasanje je proporcionalno udelu svakog pojedinca.
 
-In the world of cryptocurrencies, the public record is commonly referred to as a *blockchain*. A *block* is a group of signed transactions.
+U svetu kriptovaluta, javni zapisnik je obično definisan kao *blokčejn*. *Blok* je grupa potpisanih transakcija.
 
 With Steem, block production is done in rounds. Each round 21 witnesses are selected to create and sign blocks of transactions. Twenty (20) of these witnesses are selected by approval voting and one is timeshared by every witness that didn’t make it into the top 20 proportional to their total votes. The 21 active witnesses are shuffled every round to prevent any one witness from constantly ignoring blocks produced by the same witness placed before. Any witness who misses a block and hasn't produced in the last 24 hours will be disabled until they update their block signing key.
 
