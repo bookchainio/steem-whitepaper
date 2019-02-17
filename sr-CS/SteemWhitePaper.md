@@ -214,7 +214,7 @@ Cilj pravljenja valute zajednice je da imamo više ''kraba u kofi''. Organizovat
 
 Glavni posao kod minimizovanja zloupotrebe je ograničavanje količine glasova. Pojedinci mogu da pročitaju i izglasaju određeni broj stvari dnevno. Svaki pokušaj da se glasa češće je znak automatizacije i potencijalne zloupotrebe. Kroz ograničenje, glas vlasnika udela koji glasaju češće će se računati manje od onih vlasnika koji ne glasaju toliko često. Kroz ograničenje, glas vlasnika udela koji glasaju češće će se računati manje od onih vlasnika koji ne glasaju toliko često.
 
-Users are allotted a fixed amount of voting power. Voting power is multiplied by a user’s vesting tokens to determine how much share in the reward pool should be allocated to a given work item. Every vote that is cast uses a percentage of remaining voting power. Users can vote for more posts, but each vote will be worth less, and it will take longer to reach full voting power again. Voting power recharges at a fixed linear rate of 20% per day.
+Korisnicima je dodeljena fiksna količina snage glasa. Voting power is multiplied by a user’s vesting tokens to determine how much share in the reward pool should be allocated to a given work item. Every vote that is cast uses a percentage of remaining voting power. Users can vote for more posts, but each vote will be worth less, and it will take longer to reach full voting power again. Voting power recharges at a fixed linear rate of 20% per day.
 
 ### Payout Distribution
 
