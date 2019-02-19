@@ -254,15 +254,15 @@ U svetu kriptovaluta, javni zapisnik je obično definisan kao *blokčejn*. *Blok
 
 Sa Steem-om, proizvodnja blokova se odvija u rundama. U svakoj rundi, 21 'vitnes' je izabran da proizvodi i potpisuje blokove transakcija. Dvadeset od ovih izabranih vitnesa je izabrano glasanjem, dok je jedno mesto podeljeno među svim vitnesima koji nisu ušli u top 20, proporcionalno njihovim glasovima. Dvadeset jedan aktivan vitnes se menja svake runde da bi sprečili nekog od njih da konstantno ignoriše blokove koji su proizvedeni od strane istog vitnesa koji je tu bio ranije. Svaki vitnes koji propusti blok i koji ne proizvede ništa u poslednjih 24 sata će biti isključen sve dok ne ažurira svoju šifru za potpisivanje bloka.
 
-Ovaj proces je zamišljen tako da obezbedi najbolju pouzdanost dok osigurava da svi imaju mogućnost da učestvuju u proizvodnji blokova bez obzira na to da li su dovoljno popularni da dobiju top mesto. People have three options to overcome censorship by the top 20 elected witnesses: patiently wait in line with everyone else not in the top 20, or purchase more SP to improve voting power. Generalno, korišćenje cenzure je dobar način da izabrani vitnesi izgube svoj posao i samim tim, malo je verovatno da će biti problema sa cenzurom na Steem-u.
+Ovaj proces je zamišljen tako da obezbedi najbolju pouzdanost dok osigurava da svi imaju mogućnost da učestvuju u proizvodnji blokova bez obzira na to da li su dovoljno popularni da dobiju top mesto. Ljudi imaju tri opcije da izbegnu cenzuru od strane 20 izabranih vitnesa: da pažljivo čekaju u redu sa svima koji nisu u top 20 ili da kupe više SP, kako bi poboljšali snagu glasa. Generalno, korišćenje cenzure je dobar način da izabrani vitnesi izgube svoj posao i samim tim, malo je verovatno da će biti problema sa cenzurom na Steem-u.
 
-Pošto se aktivni vitnesi unapred znaju, Steem može da rasporedi vitnese da proizvode blokove svake tri sekunde. Witnesses synchronize their block production via the NTP protocol. A variation of this algorithm has been in use by the BitShares network for over a year where it has been proven to be reliable.
+Pošto se aktivni vitnesi unapred znaju, Steem može da rasporedi vitnese da proizvode blokove svake tri sekunde. Vitnesi sinhronizuju svoju proizvodnju blokova sa NTP protokolom. Varijacija ovog algoritma je u upotrebi na BitShares mreži više od godinu dana, gde se pokazala kao pouzdana.
 
-# Eliminating Transaction Fees
+# Eliminacija troškova transakcije
 
-Steem goes to great lengths to reward people for contributing to the network. It would be counterproductive to turn around and charge people every time they attempt to interact with the community.
+Steem je daleko dogurao kako bi nagradio ljude za doprinos mreži, tako da bi bilo kontraproduktivno da preokrene svoju politiku i da počne da naplaćuje ljudima svaku interakciju sa zajednicom.
 
-Blockchain technology currently depends upon transaction fees to prevent spam. These fees suffer all of the known problems with microtransactions and prevent blockchains from being used for low-value transactions. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
+Blokčejn tehnologija trenutno zavisi od troškova transakcije kako bi se sprečilo spamovanje. These fees suffer all of the known problems with microtransactions and prevent blockchains from being used for low-value transactions. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
 
 ## The Problem With Fees
 
