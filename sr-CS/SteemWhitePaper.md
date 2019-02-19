@@ -280,27 +280,27 @@ Mikro isplate, kao i sve isplate, zahtevaju poređenje: *'' Da li ovoliko nekog 
 
 - Klej Širki (eng. Clay Shirky)[^8]
 
-In the world of financial payments, small fees are acceptable because the value of the transaction is extremely high relative to the fee charged, and the buyer has already made a decision to buy. The world of potential blockchain applications is far greater than just financial payments and includes many necessary transactions for which fees are simply unacceptable to users.
+U svetu finansija, mali troškovi su prihvatljivi jer je vrednost transakcija prilično visoka u odnosu na proviziju koja se naplaćuje, pa je kupcu lako da odluči da nešto kupi. Svet potencijalnih blokčejn aplikacija je daleko veći od isključivo finansijskih isplata i obuhvata mnoge neophodne transakcije čiji su troškovi neprihvatljivi korisnicima.
 
-Systems like BitShares, Nxt, Ripple, Counter Party and Stellar all allow users to place limit orders on the blockchain and all of them charge users a small fee to perform this action. Later if the user wishes to cancel their order, another fee is charged. Systems like Ethereum take micropayments to a whole new level: charging per calculation. All of these systems struggle to attract new mainstream users for the same reasons that a decentralized search engine would struggle to attract users from Google if it charged a small fee for every search. It doesn’t matter how good the service is, people expect certain things to be free. This is true even if a user ends up paying more overall under a different fee structure.
+Sistemi, kao što su BitShares, Nxt, Counter Party i Stellar dozvoljavaju korisnicima da ograniče porudžbine na blokčejnu i za to im naplaćuju malu proviziju. Kasnije, ako korisnici žele da otkažu porudžbinu, još jedna provizija im se naplaćuje. Sistemi kao što je Ethereum su to podigli na sasvim novi nivo - naplaćujući po kalkulaciji. Svi ovi sistemi se muče da privuku nove mejnstrim korisnike iz istog razloga zbog kog bi decentralizovani pretraživač imao poteškoće da privuče Google-ove korisnike, ako bi naplaćivao malu proviziju za svaku pretragu. Bez obzira na to koliko je dobra usluga, ljudi očekuju da određene stvari budu besplatne. To je tačno čak i kada korisnik na kraju plati ukupno više, ali u okviru druge strukture naplaćivanja.
 
-### Fees are a Barrier to Entry
+### Troškovi su prepreka na ulazu
 
-Any fee creates a barrier to entry for new users. Before someone can experiment with Ethereum they must acquire some ETH tokens. Anyone wanting to build a decentralized application on Ethereum must pass on the cost to their customers. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
+Bilo koji trošak stvara barijeru na samom ulazu za nove korisnike. Pre nego što neko počne da eksperimentiše sa Ethereum-om, mora prvo da nabavi neke ETH tokene. Svako ko želi da napravi decentralizovanu aplikaciju na Ethereum-u, mora da prosledi troškove svojim korisnicima. Kupovina kripto valuta nije lak zadatak i retko kada ima smisla za iznose manje od 10$. To znači da novi korisnici koji žele da isprobaju novu decentralizovanu aplikaciju moraju prvo biti ubeđeni da daju 10$.
 
-### Changing Fees
+### Menjanje troškova
 
-Over time a network must adjust fees. This can happen either due to an increase in the value of the token or due to a surge in capacity. Users like predictable fees and guaranteed service. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
+Vremenom, mreža mora da prilagodi svoje troškove. To se može dogoditi ili zbog povećanja vrednosti tokena ili zbog povećanja kapaciteta. Korisnici vole predvidive troškove i sigurnu uslugu. Iako je moguće da se troškovi dinamički prilagode tokom perioda korišćenja, rezultat je loše korisničko iskustvo.
 
-### Sybil Attacks
+### Sybil napadi
 
-Centralized websites prevent spam through rate limiting and some form of ID verification. Even something as simple as reCAPTCHA[^9] is sufficient to limit the creation of fake accounts. If someone abuses their account then centralized websites are free to block the account.
+Centralizovani veb sajtovi sprečavaju spam pomoću ograničenja i neke vrste lične verifikacije. Čak i nešto jednostavno kao što je reCAPTCHA [^9] je dovoljno da se ograniči stvaranje lažnih naloga. Ukoliko neko zloupotrebljava svoj nalog, onda centralizovani veb sajt može da ga blokira.
 
-In a decentralized system there is no direct way to ban users nor centralized provider able to host a reCAPTCHA and enforce rate limiting of accounts. In fact, the inability to censor users is one of the main selling points of blockchain technology.
+U decentralizovanom sistemu ne postoji direktan način banovanja korisnika niti centralizovani provajder može da implementira reCAPTCHA i ograniči stopu kreiranja naloga. U suštini, nemogućnost da se cenzurišu korisnici je jedan od glavnih prodajnih aduta blokčejn tehnologije.
 
-### Full Reserve vs Fractional Reserve
+### Puna rezerva u odnosu na delimičnu rezervu
 
-Let’s view a blockchain like an Internet Service Provider (ISP) co-op which owns all of the cables in the town and has a maximum amount of bandwidth that it can provide at any time. People living in the town can buy shares in the ISP and in exchange they are entitled to utilize a portion of the available bandwidth.
+Možemo da posmatramo blokčejn kao saradnika internet provajdera (eng. Internet Service Provider, ISP) koji poseduje sve kablove u gradu i ima maksimalni propusni opseg koji može da obezbedi u svakom trenutku. People living in the town can buy shares in the ISP and in exchange they are entitled to utilize a portion of the available bandwidth.
 
 The ISP has two choices, run a “full reserve” or “fractional reserve” system. Under a full reserve system each user is only allowed a fraction of the maximum bandwidth proportional to her shares. Because not everyone uses the Internet at the same time, the town’s network would be significantly underutilized.
 
