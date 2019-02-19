@@ -262,23 +262,23 @@ Pošto se aktivni vitnesi unapred znaju, Steem može da rasporedi vitnese da pro
 
 Steem je daleko dogurao kako bi nagradio ljude za doprinos mreži, tako da bi bilo kontraproduktivno da preokrene svoju politiku i da počne da naplaćuje ljudima svaku interakciju sa zajednicom.
 
-Blokčejn tehnologija trenutno zavisi od troškova transakcije kako bi se sprečilo spamovanje. These fees suffer all of the known problems with microtransactions and prevent blockchains from being used for low-value transactions. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
+Blokčejn tehnologija trenutno zavisi od troškova transakcije kako bi se sprečilo spamovanje. Ovi troškovi prouzrokuju sve probleme vezane za mikro transakcije i sprečavaju korišćenje blokčejna za transakcije malih vrednosti. Aplikacije koje su u potpunosti decentralizovane bi morale da ponude korisnicima besplatne transakcije, kako bi mogle da budu konkurentne centralizovanim alternativnim rešenjima. Ovaj papir predstavlja pristup koji Steem koristi kako bi eliminisao troškove i samim tim omogućio postojanje širokog spektra decentralizovanih aplikacija, koje bi inače bile neodržive.
 
-## The Problem With Fees
+## Problem sa troškovima
 
-Blockchains are decentralized networks where all transactions are broadcast to all peers. Every so often a block is produced that includes some or all of the pending transactions. All blockchains must find a solution to prevent malicious users from consuming all of the available network capacity with worthless transactions. These worthless transactions can prevent other valuable transactions from being processed and ultimately destroy the network.
+Blokčejnovi su decentralizovane mreže gde su sve transakcije prosleđene svim učesnicima. Uglavnom, blok koji se proizvede sadrži neke ili sve transakcije koje su na čekanju. Svi blokčejnovi moraju da pronađu rešenje kako da spreče zlonamerne korisnike da iskoriste dostupan kapacitet mreže svojim bezvrednim transakcijama. Te bezvredne transakcije mogu da spreče da se izvrše ostale vredne transakcije i time da unište mrežu.
 
-The solution adopted by most blockchains thus far is to charge a minimum transaction fee. A fee worth just a few cents is enough to make attacking the network expensive and unprofitable. While this approach solves the spam problem, it introduces new problems. Imagine solving the email spam problem by introducing a small fee on every email; people wouldn’t use email.
+Prema tome, rešenje koje je prihvaćeno na većini blokčejnova je da se naplati minimalni trošak transakcije. Provizija od samo nekoliko centi je dovoljna da napad na mrežu postane neprofitabilan i skup. Dok ovaj pristup rešava problem spamovanja, ujedno otvara i nove probleme. Zamislite da se problem spamovanja e-maila rešava naplaćivanjem male provizije - ljudi bi prestali da koriste e-mail.
 
-### Micropayments Don’t Work
+### Mikro isplate ne funkcionišu
 
-The fundamental problem with charging transaction fees is that micropayments don’t work, especially for low-value user actions. When a fee is charged on every transaction, it limits the types of transactions that a decentralized network can process. Regardless of how rational the argument for the necessity of fees, users still hate the experience of being nickeled and dimed for everything that they do.
+Osnovni problem sa naplaćivanjem troškova transakcije je da mikro isplate ne funkcionišu, naročito za radnje korisnika koje imaju nisku vrednost. Kada se provizija naplaćuje za svaku transakciju, to ograničava tipove transakcija koje decentralizovana mreža može da obradi. Bez obzira na to koliko je smislen razlog za naplaćivanje neophodnih troškova, korisnici i dalje ne vole da im se naplaćuje sve što rade.
 
-Imagine if the websites we use every day charged us a fee every time we modify our accounts by changing the password. Users expect certain things to be free. Requiring users to make a decision on whether or not an action is worth a small fee creates anxiety that causes users to leave. A transaction can’t be worth so much as to require a decision but worth so little that that decision is automatic. There is a certain amount of anxiety involved in any decision to buy, no matter how small, and it derives not from the interface used or the time required, but from the very act of deciding.
+Zamislite kada bi nam veb sajtovi koje koristimo svakodnevno naplaćivali svaki put kada izmenimo naš nalog menjanjem šifre. Korisnici očekuju da određene stvari budu besplatne. Zahtevanjem od korisnika da odlučuju na osnovu toga da li njihova akcija ima neki trošak, stvara se strah koji na kraju rezultuje time da korisnici napuste mrežu. Transakcije ne mogu da koštaju toliko mnogo da zahtevaju odlučivanje, već tako malo da ta odluka bude automatska. Postoji određena količina straha koja proizilazi iz svake odluke o kupovini, bez obzira koliko je ona mala. Nju ne stvara ni interfejs koji se koristi ni vreme koje je potrebno, već sam čin odlučivanja.
 
-Micropayments, like all payments, require a comparison: *“Is this much of X worth that much of Y?”* There is a minimum mental transaction cost created by this fact that cannot be optimized away, because the only transaction a user will be willing to approve with no thought will be one that costs them nothing, which is no transaction at all.
+Mikro isplate, kao i sve isplate, zahtevaju poređenje: *'' Da li ovoliko nekog X zaista vredi ovoliko Y?''* To je mali mentalni trošak koji ne može da se optimizuje, jer je jedina transakcija koju će korisnik da odobri bez razmišljanja ona koja ga ne košta ništa, što u suštini i nije transakcija.
 
-– Clay Shirky[^8]
+- Klej Širki (eng. Clay Shirky)[^8]
 
 In the world of financial payments, small fees are acceptable because the value of the transaction is extremely high relative to the fee charged, and the buyer has already made a decision to buy. The world of potential blockchain applications is far greater than just financial payments and includes many necessary transactions for which fees are simply unacceptable to users.
 
