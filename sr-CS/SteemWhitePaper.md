@@ -338,9 +338,9 @@ Koncept usmeravanja korisnika da održe minimalni iznos na računu potiče priro
 
 Ripple koristi minimalni iznos[^11] koji se skalira zajedno sa upotrebom resursa naloga i zahteva da svi novi nalozi budu snabdeveni sa bar ovim minimalnim iznosom. Trenutno, taj minimalni iznos je $0.15 što je više od $0.10, koliko smo procenili da bi bilo potrebno da neko slobodno vrši transakcije jednom nedeljno.
 
-A blockchain can enforce a minimum value per user through the simple process of requiring a minimum balance. Any business that wishes to bring a new customer to the blockchain can pre-fund that user’s account with the minimum balance that would allow them to transact. Requiring a relatively large fee ($1.00) to sign up new users will naturally force anyone offering free accounts to vet the quality and uniqueness of each account before registering them with the blockchain.
+Blokčejn može da nametne minimalnu vrednost po korisniku putem jednostavnog zahtevanja minimalnog iznosa na računu. Svaki biznis koji ima za cilj da dovede novog korisnika na blokčejn može da snabde nalog tog korisnika minimalnim iznosom koji će mu dozvoliti da vrši transakcije. Zahtevanje relativno velike provizije ($1.00) za registraciju novih korisnika će naterati svakoga ko nudi besplatne naloge da proveri kvalitet i jedinstvenost svakog naloga pre njihovog registrovanja na blokčejnu.
 
-Maintaining a minimum balance is effectively the same as making users pay transaction fees with the interest they could have earned on their balance. The minimum balance is simply the balance required to earn enough interest to pay a fee in a relatively short period of time.
+Održavanje minimalnog iznosa ima efekta isto kao kada biste zahtevali od korisnika da plate proviziju transakcije kamatom koju mogu da zarade na osnovu iznosa na svom računu. The minimum balance is simply the balance required to earn enough interest to pay a fee in a relatively short period of time.
 
 Fortunately, the minimum balance required can be as low as a dollar and this is something users can understand and appreciate. The opportunity cost of lost interest doesn’t incur the cognitive cost of a micro-fee and is far more acceptable to users.
 
