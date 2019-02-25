@@ -316,27 +316,27 @@ Po našoj proceni, to bi trebalo da bude dovoljno da se izmeri prosečan nedeljn
 
 ### Uticaj kapaciteta
 
-Kapacitet blokčejna nije nužno ograničen. U okviru tehnoloških mogućnosti infrastrukture interneta, dobro je povećati veličinu Bitkoin bloka do 10 MB, što će za uzvrat smanjiti minimalnu neophodnu količinu na računu sa faktorom 10. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second.
+Kapacitet blokčejna nije nužno ograničen. U okviru tehnoloških mogućnosti infrastrukture interneta, dobro je povećati veličinu Bitkoin bloka do 10 MB, što će za uzvrat smanjiti minimalnu neophodnu količinu na računu sa faktorom 10. Bitkoin trenutno podržava 3 transakcije po sekundi, dok su alternativne implementacije u mogućnosti da podrže 1000 transakcija po sekundi.
 
-### Comparison to Fees
+### Poređenje sa troškovima
 
-If we assume a user with $25 dollars worth of BTC transacts once per week and pays a $0.04 cent fee each time then they would pay over $2.00 in fees per year. A user would have to earn a 8% rate of return on their $25 dollars just to break even with paying fees. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
+Ako pretpostavimo da korisnik sa količinom BTC vrednom 25 dolara vrši transakcije jednom nedeljno i plaća proviziju od $0.04 svaki put, to znači da bi na godišnjem nivou njegovi troškovi bili preko $2.00. Korisnik bi morao da zaradi 8% kamate na svojih 25% kako bi pokrio svoje troškove. Veće su šanse da će korisnici da čuvaju svoj novac na blokčejnu, tako da bi taj korisnik sa količinom BTC u vrednosti od $25 uštedeo $2 tokom godine, usvajanjem pristupa koji ograničava stopu, pre nego pristupom koji se zasniva na troškovima. Sa samo 175$ bi mogli da vrše transakcije svakog dana i da uštede $14 godišnje.
 
-### Account Creation
+### Kreiranje naloga
 
-Steem’s account-based system with publicly known balances simplifies the implementation of the bandwidth-based rate limiting algorithm. Any account with a balance below the minimum required to transact once per week would be unable to transact. This implies that all new accounts should be funded with at least this minimum balance. It also implies that users wishing to transact in smaller amounts can, so long as they hold a larger balance and reuse the account.
+Steem sistem, zasnovan na nalozima sa javnim računom, pojednostavljuje implementaciju algoritma za ograničenje stope, koji je zasnovan na propusnom opsegu. Svaki nalog koji ima iznos na računu manji od minimalnog iznosa, koji je neophodan za transakciju jednom nedeljno, neće moći da vrši transakcije. To znači da bi svi novi nalozi morali da budu snabdeveni sa bar minimalnim iznosom. To takođe znači da korisnici mogu da vrše transakcije malih iznosa, sve dok imaju veći iznos na računu i koriste svoj nalog.
 
-It is possible for a low-balance account created during a time of low usage to become inaccessible if the network usage picks up. The funds could be recovered at any time by temporarily delegating a larger balance to the account.
+Moguće je da nalozi sa malim iznosom na računu, koji su kreirani tokom perioda slabijeg korišćenja mreže, postanu nedostupni, ako se korišćenje mreže poveća. Sredstva se mogu nadoknaditi u bilo kom trenutku, privremenim delegiranjem većeg iznosa na račun.
 
-In order to maintain a reasonable user experience with a minimum number of hung accounts, all new accounts should start out with a balance 10 times the minimum required to transact weekly. This way even if demand increases by a factor of 10 the account will remain viable.
+Sa namerom da se održi kvalitet korisničkog iskustva, sa minimalnim brojem mrtvih naloga, svi novi nalozi bi trebalo da počnu sa iznosom koji je deset puta veći od neophodnog iznosa za nedeljnu transakciju. Na ovaj način, čak i ako se potražnja poveća sa faktorom 10, nalog će ostati održiv.
 
-Any initial account balance would have to come from the user creating the account and not from token creation due to the potential for sybil attacks.
+Svaki početni iznos na računu bi trebalo da potiče od korisnika koji kreira nalog, zbog potencijalnih sybil napada.
 
-### Justifying Minimum Balances
+### Razlozi za minimalni iznos na računu
 
-The concept of forcing users to maintain a minimum balance flows naturally from the value of a user[^10]. Anyone running a business knows that every single user has significant value. Businesses spend anywhere from $30 to $200 to acquire a user. Sometimes they pay users directly, other times they pay for advertizing, and still other times entire companies are bought just for their user base. After a company acquires a user they often given them many *free services* just to keep them around long enough to monetize them through some other means.
+Koncept usmeravanja korisnika da održe minimalni iznos na računu potiče prirodno od same vrednosti korisnika[^10]. Svako ko ima svoj biznis zna da svaki korisnik ima značajnu vrednost. Različiti biznisi troše između $30 i $200 da bi stekli novog korisnika. Nekada plaćaju korisnike direktno, nekada za reklamiranje, a nekada se i cele kompanije kupuju samo zbog njihove baze korisnika. Nakon što kompanija stekne korisnika, često mu daje mnoge *besplatne usluge* samo kako bi ga zadržala dovoljno dugo da ga monetizuje na neki drugi način.
 
-Ripple uses a minimum balance[^11] that scales with account resource use and requires that new accounts get funded with at least this minimum balance. Currently this minimum balance is about $0.15 which is greater than the $0.10 we estimated would allow someone to transact freely at least once per week.
+Ripple koristi minimalni iznos[^11] koji se skalira zajedno sa upotrebom resursa naloga i zahteva da svi novi nalozi budu snabdeveni sa bar ovim minimalnim iznosom. Trenutno, taj minimalni iznos je $0.15 što je više od $0.10, koliko smo procenili da bi bilo potrebno da neko slobodno vrši transakcije jednom nedeljno.
 
 A blockchain can enforce a minimum value per user through the simple process of requiring a minimum balance. Any business that wishes to bring a new customer to the blockchain can pre-fund that user’s account with the minimum balance that would allow them to transact. Requiring a relatively large fee ($1.00) to sign up new users will naturally force anyone offering free accounts to vet the quality and uniqueness of each account before registering them with the blockchain.
 
