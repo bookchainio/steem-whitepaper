@@ -304,7 +304,7 @@ Možemo da posmatramo blokčejn kao saradnika internet provajdera (eng. Internet
 
 ISP ima dva izbora, da pokrene sistem ''pune rezerve'' ili ''delimične rezerve''. U okviru sistema pune rezerve, svaki korisnik ima dozvoljen deo maksimalnog propusnog opsega koji je proporcionalan u odnosu na njegove deonice. Pošto ne koriste svi internet u isto vreme, gradska mreža ne bi iskoristila svoje pune kapacitete.
 
-U okviru sistema delimične rezerve, korisnici mogu da iskoriste veći propusni opseg nego koliko im je propisano, dokle god svi ne koriste internet u isto vreme. Problem sa radom delimične rezerve je taj da dolazi do zagušenja kada god previše ljudi odluči da koristi mrežu u isto vreme. ISP mora da odredi prioritete propusnog opsega tokom perioda zagušenja. U najgorem slučaju, potpuno zagušena mreža bi morala da se prebaci na sistem pune rezerve. Tu dolazimo do izazova, a to je odeđivanje odgovarajućeg odnosa delimične rezerve.
+U okviru sistema delimične rezerve, korisnici mogu da iskoriste veći propusni opseg nego koliko im je propisano, dokle god svi ne koriste internet u isto vreme. Problem sa radom delimične rezerve je taj da dolazi do zagušenja kada god previše ljudi odluči da koristi mrežu u isto vreme. ISP mora da odredi prioritete propusnog opsega tokom perioda zagušenja. U najgorem slučaju, potpuno zagušena mreža bi morala da se prebaci na sistem pune rezerve. Tu dolazimo do izazova, a to je određivanje odgovarajućeg odnosa delimične rezerve.
 
 ## Propusni opseg umesto kanala za mikro isplate
 
