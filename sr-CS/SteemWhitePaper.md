@@ -300,23 +300,23 @@ U decentralizovanom sistemu ne postoji direktan način banovanja korisnika niti 
 
 ### Puna rezerva u odnosu na delimičnu rezervu
 
-Možemo da posmatramo blokčejn kao saradnika internet provajdera (eng. Internet Service Provider, ISP) koji poseduje sve kablove u gradu i ima maksimalni propusni opseg koji može da obezbedi u svakom trenutku. People living in the town can buy shares in the ISP and in exchange they are entitled to utilize a portion of the available bandwidth.
+Možemo da posmatramo blokčejn kao saradnika internet provajdera (eng. Internet Service Provider, ISP) koji poseduje sve kablove u gradu i ima maksimalni propusni opseg koji može da obezbedi u svakom trenutku. Ljudi koji žive u tom gradu mogu da kupe deonice ISP-a i time dobijaju pravo da koriste jedan deo propusnog opsega.
 
-The ISP has two choices, run a “full reserve” or “fractional reserve” system. Under a full reserve system each user is only allowed a fraction of the maximum bandwidth proportional to her shares. Because not everyone uses the Internet at the same time, the town’s network would be significantly underutilized.
+ISP ima dva izbora, da pokrene sistem ''pune rezerve'' ili ''delimične rezerve''. U okviru sistema pune rezerve, svaki korisnik ima dozvoljen deo maksimalnog propusnog opsega koji je proporcionalan u odnosu na njegove deonice. Pošto ne koriste svi internet u isto vreme, gradska mreža ne bi iskoristila svoje pune kapacitete.
 
-Under a fractional reserve system the individual users could utilize more bandwidth than they are entitled to at any given point in time so long as not everyone uses the Internet at the same time. The problem with operating a fractional reserve is that congestion occurs anytime too many people wish to use the network at the same time. The ISP needs a way to prioritize bandwidth during congested periods. In the most extreme case, a fully congested network must revert to a full reserve system. The challenge is setting the proper fractional reserve ratio.
+U okviru sistema delimične rezerve, korisnici mogu da iskoriste veći propusni opseg nego koliko im je propisano, dokle god svi ne koriste internet u isto vreme. Problem sa radom delimične rezerve je taj da dolazi do zagušenja kada god previše ljudi odluči da koristi mrežu u isto vreme. ISP mora da odredi prioritete propusnog opsega tokom perioda zagušenja. U najgorem slučaju, potpuno zagušena mreža bi morala da se prebaci na sistem pune rezerve. Tu dolazimo do izazova, a to je odeđivanje odgovarajućeg odnosa delimične rezerve.
 
-## Bandwidth Instead of Micropayment Channels
+## Propusni opseg umesto kanala za mikro isplate
 
-The solution to the problems with micropayments is in implementing *dynamic fractional reserves*. Under this model the blockchain will automatically adjust the reserve ratio for the network during times of congestion. The blockchain will set a target utilization that leaves enough headroom for short term surges in demand. Any time the surges are sustained the blockchain reduces the maximum bandwidth-per-share. When a surge is over and there is surplus capacity the blockchain can slowly increase the bandwidth-per-share.
+Rešenje za probleme sa mikro isplatama je u implementiranju *dinamičkih delimičnih rezervi*. U okviru ovog modela, blokčejn će automatski prilagoditi odnos rezerve za mrežu u toku perioda zagušenja. Blokčejn će podesiti željenu upotrebu koja ostavlja dovoljno mesta za kratkoročne promene u potražnji. Svaki put kada je potražnja neprekidna, blokčejn smanjuje maksimalni propusni opseg po deonici. Kada je talas potražnje završen i postoji višak kapaciteta, blokčejn može da polako poveća odnos propusnog opsega po deonici.
 
-Bandwidth used by an individual user should be measured over a suitably long period of time to allow that user to time-shift their usage. Users tend to login, do many things at once, then logout. This means that their bandwidth over a short period of time may appear much higher than if viewed over a longer period of time. If the time window is stretched too far then the reserve ratio will not adjust fast enough to respond to short-term surges, if the window is too short then clustering usage will have too big of an impact on normal users.
+Propusni opseg koji upotrebljava svaki korisnik bi trebalo da bude izmeren tokom dovoljno dugog perioda da dozvoli korisniku vremensku promenu njegove upotrebe. Korisnici imaju običaj da se uloguju, rade dosta stvari u isto vreme, a zatim da se izloguju. To znači da njihov propusni opseg tokom kratkog vremenskog perioda može da izgleda kao dosta viši u odnosu na ono što se posmatra na duži vremenski period. Ako je vremenski okvir produžen previše, tada se odnos rezerve neće dovoljno brzo prilagoditi kratkoročnom talasu potražnje. Ako je okvir prekratak, tada će grupno korišćenje imati preveliki uticaj na obične korisnike.
 
-In our estimate it should be sufficient to measure the average weekly bandwidth usage of users. Every time a user signs a transaction, that transaction is factored into their own individual moving average. Any time a user’s moving average exceeds the current network limit their transaction is delayed until their average falls below the limit.
+Po našoj proceni, to bi trebalo da bude dovoljno da se izmeri prosečan nedeljni propusni opseg korisnika. Svaki put kada korisnik popuni transakciju, ta transakcija je uključena u njegov sopstveni pokretni prosek. Svaki put kada korisnički pokretni prosek premašuje trenutni limit mreže, transakcija je odložena sve dok se prosek ne spusti ispod granice.
 
-### Impact of Capacity
+### Uticaj kapaciteta
 
-Blockchain capacity isn’t necessarily capped. It is well within the technological capability of internet infrastructure to increase the Bitcoin block size to 10MB which in turn will reduce the minimum required balance by a factor of 10. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second.
+Kapacitet blokčejna nije nužno ograničen. U okviru tehnoloških mogućnosti infrastrukture interneta, dobro je povećati veličinu Bitkoin bloka do 10 MB, što će za uzvrat smanjiti minimalnu neophodnu količinu na računu sa faktorom 10. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second.
 
 ### Comparison to Fees
 
