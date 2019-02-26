@@ -344,27 +344,27 @@ Održavanje minimalnog iznosa ima efekta isto kao kada biste zahtevali od korisn
 
 Na svu sreću, minimalni iznos koji je neophodan može biti nizak koliko i dolar i to je ono što korisnici razumeju i cene. Troškovi izgubljene kamate ne prouzrokuju kognitivni trošak mikro provizije i daleko su prihvatljiviji korisnicima.
 
-STEEM tokeni koji su iskorišćeni za snabdevanje novog naloga se pretvaraju u SP tog novog naloga. Deo SP sa tog naloga može da se pozajmi (da bude delegiran) od vlasnika naloga. Kada korisnik pozajmi SP, može da ga koristi za glasanje i propusni opseg kao da je to njegov SP, ali ta količina SP i dalje pripada onome ko ju je delegirao. A user may remove the delegation at any time. After a cool-down period, the SP is returned to their account.
+STEEM tokeni koji su iskorišćeni za snabdevanje novog naloga se pretvaraju u SP tog novog naloga. Deo SP sa tog naloga može da se pozajmi (da bude delegiran) od vlasnika naloga. Kada korisnik pozajmi SP, može da ga koristi za glasanje i propusni opseg kao da je to njegov SP, ali ta količina SP i dalje pripada onome ko ju je delegirao. Korisnik može da povuče delegaciju u svakom trenutku. Nakon određenog perioda, SP će da bude vraćen na originalni račun.
 
-### Effectiveness Relative to Fees
+### Efektivnost u odnosu na troškove
 
-To compare the effectiveness of rate limiting to fees we must consider how the two systems react to intentional network flooding by an attacker. Under Bitcoin an attacker with $10,000 dollars could disrupt service for an entire day by filling every single block. The same attacker would be unable to disrupt service for even a single block under the dynamic fractional reserve rate limiting approach.
+Da bismo uporedili efektivnost ograničenja stope u odnosu na troškove, moramo da razmotrimo kako se ova dva sistema ponašaju tokom talasa napada. U slučaju Bitkoina, napadač sa $10,000 bi mogao da poremeti uslugu na ceo dan, popunjavanjem svakog bloka. Isti napadač, u sistemu sa dinamičkim odnosom delimične rezerve, ne bi mogao da poremeti uslugu ni za jedan jedini blok.
 
-If we go to a more extreme case and assume the attacker holds 1% of all coins then we presume an attacker with $60 million dollars. Such an attacker could deny the Bitcoin blockchain service for 16 years unless the miners increased fees or capacity. Even if fees were raised to $15 per transaction, the attacker could still keep the network flooded for 16 days.
+Ako razmotrimo daleko ozbiljniji slučaj i pretpostavimo da napadač ima 1% svih novčića, to bi značilo da napadač ima 60 miliona dolara. Takav napadač bi mogao da sabotira uslugu na Bitkoin blokčejnu na 16 godina, osim ukoliko majneri ne bi povećali provizije ili kapacitet. Čak i ako bi provizija bila $15 po transakciji, takav napadač bi mogao da drži mrežu sabotiranu 16 dana.
 
-Under the rate limiting approach, someone who holds 1% of all coins with an intent to flood the network would achieve their goal for less than 30 seconds.
+U okviru pristupa sa ograničenjem stope, neko ko poseduje 1% novčića sa namerom da spamuje mrežu bi to uspeo za manje od 30 sekundi.
 
-### Renting vs. Buying vs. Time Sharing
+### Iznajmljivanje ili kupovina? Ili deljenje vremena?
 
-When someone owns a house they expect the right to use the house for free. If a group of people buy a house together then each can expect the right to use the house proportional to their percentage ownership in the house. A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
+Kada neko poseduje kuću, on očekuje da ima pravo da je koristi besplatno. Ako grupa ljudi kupi zajedno kuću, tada svako od njih može očekivati pravo na korišćenje proporcionalno svom procentu udela tokom kupovine. Blokčejn zasnovan na troškovima je isto kao kada biste iznajmili kuću od njihovih vlasnika, gde je ograničenje stope vrsta deljenja vremena među vlasnicima.
 
-If a house is owned by multiple people then those individuals must decide how they wish to timeshare the house. Someone who owns 50% of the house but only uses it one weekend per year might expect to be paid by the individuals who take their unused time. This is the mindset of a fee based system.
+Ako kuću poseduje više pojedinaca, tada oni moraju da se dogovore kako da je dele tokom vremena. Neko ko poseduje 50% kuće, ali je koristi samo jedan vikend tokom godine bi mogao da očekuje da bude plaćen od onih koji koriste taj višak vremena. Na ovom principu radi sistem zasnovan na troškovima.
 
-On the other hand, someone who owns 50% of the house is speculating that demand for the house will increase in the future and they will be able to sell their stake for more. Any owner who owns more of a house than they use becomes a real estate speculator. With this mindset rather than collecting rent, they collect appreciation.
+Sa druge strane, neko ko poseduje 50% kuće pretpostavlja da bi se potražnja za tom kućom mogla povećati u budućnosti i da bi mogao da proda svoj deo za mnogo više novca. Svaki vlasnik koji poseduje više od jedne kuće koju koristi, postaje na neki način analitičar nekretnina. Sa takvim razmišljanjem, oni love potencijal da dobiju veću vrednost, radije nego da skupljaju stanarinu.
 
-The value of a share is derived from how much time it can potentially grant its owner. Owning 1% of a house and getting it 1 weekend per year is the lowest value of a share. However, if half of the shareholders never use their weekend, then the value per timeshare rises to 2 weekends per year. If those inactive users instead opt to rent their unused time, then it falls back to 1 weekend per year. If those unused timeshares were sold to people who would use them then the value of a timeshare would fall by 50%. Unless the rent collected is greater than the fall in share value the timeshare owners are making an economic miscalculation.
+Vrednost udela je izvedena iz procene koliko vremena može potencijalno nagrađivati svog vlasnika. Posedovanje 1% kuće i njeno korišćenje jedan vikend godišnje je najmanja vrednost deonice. Međutim, ako polovina vlasnika nikada ne koristi svoj vikend, tada vrednost po vremenskom intervalu raste na dva vikenda godišnje. Ako ti neaktivni korisnici umesto toga odluče da iznajme svoje neiskorišćeno vreme, tada vrednost pada na 1 vikend godišnje. Ako se te neiskorišćene deonice prodaju ljudima koji će da ih koriste, tada će njihova vrednost da padne za 50%. Osim ako stanarina koja se skupi nije vrednija od pada cene deonica, tada vlasnici prave pogrešnu ekonomsku kalkulaciju.
 
-Using this rationale we can assume that a system based on fees will either be more expensive for its users or be less profitable for its collective owners. An individual small owner may profit by renting out his small time slice, but only at the expense of all other timeshare owners. In effect, the cost of the falling timeshare value is shared among all owners whereas the profits are centralized in the single owner who decided to rent his share.
+Koristeći ovaj rezon, možemo da pretpostavimo da će takav sistem biti ili dosta skup za svoje korisnike ili slabo profitabilan za svoje vlasnike. An individual small owner may profit by renting out his small time slice, but only at the expense of all other timeshare owners. In effect, the cost of the falling timeshare value is shared among all owners whereas the profits are centralized in the single owner who decided to rent his share.
 
 We can conclude from this that a blockchain is best served by not using usage fees at all. If a usage fee were to be charged as an alternative to rate limiting, then it should be the equivalent of buying enough timeshares and committing to hold them long enough to gain the right use it once.
 
