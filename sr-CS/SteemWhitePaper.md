@@ -364,23 +364,23 @@ Sa druge strane, neko ko poseduje 50% kuće pretpostavlja da bi se potražnja za
 
 Vrednost udela je izvedena iz procene koliko vremena može potencijalno nagrađivati svog vlasnika. Posedovanje 1% kuće i njeno korišćenje jedan vikend godišnje je najmanja vrednost deonice. Međutim, ako polovina vlasnika nikada ne koristi svoj vikend, tada vrednost po vremenskom intervalu raste na dva vikenda godišnje. Ako ti neaktivni korisnici umesto toga odluče da iznajme svoje neiskorišćeno vreme, tada vrednost pada na 1 vikend godišnje. Ako se te neiskorišćene deonice prodaju ljudima koji će da ih koriste, tada će njihova vrednost da padne za 50%. Osim ako stanarina koja se skupi nije vrednija od pada cene deonica, tada vlasnici prave pogrešnu ekonomsku kalkulaciju.
 
-Koristeći ovaj rezon, možemo da pretpostavimo da će takav sistem biti ili dosta skup za svoje korisnike ili slabo profitabilan za svoje vlasnike. An individual small owner may profit by renting out his small time slice, but only at the expense of all other timeshare owners. In effect, the cost of the falling timeshare value is shared among all owners whereas the profits are centralized in the single owner who decided to rent his share.
+Koristeći ovaj rezon, možemo da pretpostavimo da će takav sistem biti ili dosta skup za svoje korisnike ili slabo profitabilan za svoje vlasnike. Jedan od vlasnika može da profitira iznajmljivanjem svog termina, ali jedino na račun ostalih suvlasnika. Za posledicu imamo to da je cena opadajuće vrednosti deonice podeljena među vlasnicima, dok je profit centralizovan kod onog ko je odlučio da iznajmi svoj deo.
 
-We can conclude from this that a blockchain is best served by not using usage fees at all. If a usage fee were to be charged as an alternative to rate limiting, then it should be the equivalent of buying enough timeshares and committing to hold them long enough to gain the right use it once.
+Iz toga možemo da zaključimo da je najbolji blokčejn onaj bez korisničkih troškova. Ako bi se korisnički troškovi naplaćivali kao alternativa ograničenju stope, onda bi to trebalo da bude ekvivalentno kupovini dovoljno deonica i obavezivanju da ih čuvate dovoljno dugo da dobijete pravo da ih jednom iskoristite.
 
-Stated another way, a transaction fee should be equal to the minimum account balance necessary to transact once per week and it should be refunded at the end of the week. Assume the minimum account balance is $1 and allows someone to transact once per week. If someone with a $1 balance that wishes to perform 5 transactions at once they will have to increase their balance to $5 for a week either before or after their transactions.
+Drugim rečima, provizija transakcije bi trebalo da bude jednaka minimalnom iznosu na računu koji je neophodan da se izvrši transakcija jednom nedeljno i da se refundira na kraju nedelje. Pretpostavimo da je minimalni iznos na računu $1 i da omogućava nekome transakciju jednom nedeljno. Ako bi neko sa takvim računom od $1 poželeo da izvrši 5 transakcija odjednom, morao bi da uveća svoj iznos na računu na $5 za nedelju pre ili posle transakcija.
 
-In theory a market could form where users can borrow the stake required. In practice it is more efficient for users to simply buy and sell the timeshares necessary to meet their desired usage rate. In other words, the cost of negotiating micro-loans is greater than the cost of maintaining a balance suitable for your maximum weekly usage.
+U teoriji bi se moglo kreirati tržište odakle će korisnici moći da pozajme potreban zalog. U praksi je mnogo efikasnije za korisnike da jednostavno kupe i prodaju deonice, kako bi dostigli određenu stopu korisnosti. Drugim rečima, cena pregovaranja o mikro zajmovima je veća nego cena održavanja računa koji odgovara maksimalnom nedeljnom korišćenju.
 
-Decentralized rate limiting of transactions can enable new types of decentralized applications that were not viable when every use of the application required a micropayment. This new model gives application developers the ability to decide if and when to charge their users for transactions.
+Decentralizovano ograničavanje stope transakcija može da omogući nove tipove decentralizovanih aplikacija koje nisu bile održive kada je svako korišćenje aplikacije zahtevalo mikro uplatu. Ovaj novi model omogućava developerima aplikacija da odluče da li će i kada da naplate svojim korisnicima za transakcije.
 
-# Performance and Scalability
+# Performanse i skalabilnost
 
-The Steem network is built upon Graphene, the same technology that powers BitShares. Graphene has been publicly demonstrated sustaining over 1000 transactions per second on a distributed test network. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
+Steem mreža je zasnovana na Graphene-u, istoj tehnologiji koju ima BitShares. Graphene je javno predstavljen kao tehnologija koja podržava preko 1000 transakcija u sekundi na mreži za testiranje. Graphene može lako da skalira do 10,000 ili više transakcija po sekundi sa poboljšanjima kapaciteta servera i komunikacionih protokola.
 
-## Reddit Scale
+## Skaliranje na Reddit-u
 
-Steem is capable of handling a larger userbase than Reddit. In 2015 Reddit’s 8.7 million users generated an average of 23 comments per second[^12], with an average of 83 comments per year per user. There were 73 million top-level posts, for an average of 2 new posts per second. There were about 7 billion up votes creating an average voting rate of 220 votes per second. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
+Steem može da se nosi sa većom bazom korisnika nego Reddit. In 2015 Reddit’s 8.7 million users generated an average of 23 comments per second[^12], with an average of 83 comments per year per user. There were 73 million top-level posts, for an average of 2 new posts per second. There were about 7 billion up votes creating an average voting rate of 220 votes per second. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
 
 To achieve this industry-leading performance, Steem has borrowed lessons learned from the LMAX Exchange[^13], which is able to process 6 million transactions per second. Among these lessons are the following key points:
 
