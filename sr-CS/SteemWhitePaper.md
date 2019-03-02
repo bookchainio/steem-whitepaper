@@ -421,7 +421,7 @@ Predstava o ukupnim zalihama je komplikovana zbog efekta SBD operacija, što mo�
 
 ## Trenutna dodela i snabdevanje
 
-Počevši sa 16. forkom na mreži, u decembru 2016., Steem je započeo proizvodnju novih tokena prema godišnjoj stopi inflacije od 9.5%. The inflation rate decreases at a rate of 0.01% every 250,000 blocks, or about 0.5% per year. The inflation will continue decreasing at this pace until the overall inflation rate reaches 0.95%. This will take about 20.5 years from the time hard fork 16 went into effect.
+Počevši sa 16. forkom na mreži, u decembru 2016., Steem je započeo proizvodnju novih tokena prema godišnjoj stopi inflacije od 9.5%. Stopa inflacije se smanjuje brzinom od 0,01% na svakih 250 000 blokova, ili oko 0,5% godišnje. Inflacija će nastaviti da se smanjuje ovim tempom sve dok ukupna stopa inflacije ne dostigne 0.95%. Za to će biti potrebno oko 20.5 godina, počevši od forka 16.
 
 75% of the new tokens that are generated go to fund the reward pool, which is split between authors and curators. 15% of the new tokens are awarded to holders of SP. The remaining 10% pays for the witnesses to power the blockchain.
 
