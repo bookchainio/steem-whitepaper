@@ -423,9 +423,9 @@ Predstava o ukupnim zalihama je komplikovana zbog efekta SBD operacija, što mo�
 
 Počevši sa 16. forkom na mreži, u decembru 2016., Steem je započeo proizvodnju novih tokena prema godišnjoj stopi inflacije od 9.5%. Stopa inflacije se smanjuje brzinom od 0,01% na svakih 250 000 blokova, ili oko 0,5% godišnje. Inflacija će nastaviti da se smanjuje ovim tempom sve dok ukupna stopa inflacije ne dostigne 0.95%. Za to će biti potrebno oko 20.5 godina, počevši od forka 16.
 
-75% novih tokena koji su generisani ide u bazen za nagrade, koji finansira autore i kuratore. 15% of the new tokens are awarded to holders of SP. The remaining 10% pays for the witnesses to power the blockchain.
+75% novih tokena koji su generisani ide u bazen za nagrade, koji finansira autore i kuratore. 15% novih tokena se dodeljuje onima koji poseduju SP. Ostalih 10% se plaća vitnesima koji održavaju blokčejn.
 
-### Impact of Token Creation Rate
+### Uticaj stope proizvodnje tokena
 
 It is often said that a coin with an inflationary model is not sustainable, but we know from countless real-world examples that the quantity of money does not have a direct and immediate impact on its value, though it certainly plays a role.
 
