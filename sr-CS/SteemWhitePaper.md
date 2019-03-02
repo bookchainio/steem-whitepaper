@@ -433,11 +433,11 @@ Od avgusta 2008. pa tokom januara 2009., količina novca u SAD[^15] je porasla o
 
 U prve dve godine Bitkoinovog postojanja, mreža je pretrpela godišnju stopu inflacije[^17] od preko 100%. U prvih 5 godina je bila preko 30%, a u prvih 8 godina je bila preko 10%. Sve u svemu, ukupan ''trošak'' koji Steem ima nagrađivanjem sadržaja, kuratorstva i proizvodnje blokova je manje 10% godišnje procentne stope.
 
-Cena za digitalnu robu, kao što je STEEM, je određena i količinom zaliha i potražnjom. When a long-term holder decides to exit, the supply of STEEM on the market will increase and push the price down. This downward pressure is countered when a new long-term holder decides to buy up the STEEM and convert it back into SP. Additional supply and demand may be be added due to market speculators buying and selling liquid STEEM based on their predictions of the future market price.
+Cena za digitalnu robu, kao što je STEEM, je određena i količinom zaliha i potražnjom. Kada oni koji dugoročno čuvaju tokene odluče da izađu, zalihe STEEM-a na tržištu će se povećati i oboriti cenu. Pritisak se zaustavlja kada novi korisnici koji čuvaju tokene odluče da kupe STEEM i konvertuju ga nazad u SP. Dodatna ponuda i potražnja mogu da se jave zbog spekulacija na tržištu gde se trguje STEEM-om na osnovu procene njegove buduće vrednosti.
 
-# The Power of Steem
+# Moć Steem-a
 
-Steem recognizes that the value of all user contributions (posts and votes) is greater than the sum of the parts. A single comment is worth next to nothing, but millions of curated posts is worth many millions (or possibly even billions) of dollars. A single vote provides little curation value, but billions of votes is very effective curation. Content without curation is of limited value. Given all the content of the Internet minus the links between it, Google would struggle to produce useful search results. It is the links between information that give it significant value.
+Steem prepoznaje da je vrednost svih korisničkih doprinosa (postova i glasova) veća nego zbir pojedinačnih delova. A single comment is worth next to nothing, but millions of curated posts is worth many millions (or possibly even billions) of dollars. A single vote provides little curation value, but billions of votes is very effective curation. Content without curation is of limited value. Given all the content of the Internet minus the links between it, Google would struggle to produce useful search results. Veze između informacija su to što obezbeđuje značajnu vrednost.
 
 Because everyone benefits, everyone should pay. In other words, no individual user should be expected to pay for anything, but instead should be paid for everything they do that brings value to Steem. All we need to do is ascertain which user contributions bring a social network value and which ones don’t.
 
