@@ -427,13 +427,13 @@ Počevši sa 16. forkom na mreži, u decembru 2016., Steem je započeo proizvodn
 
 ### Uticaj stope proizvodnje tokena
 
-It is often said that a coin with an inflationary model is not sustainable, but we know from countless real-world examples that the quantity of money does not have a direct and immediate impact on its value, though it certainly plays a role.
+Često se priča da token sa sa inflatornim modelom nije održiv, ali znamo iz mnogih primera iz stvarnog sveta da količina novca nema direktan i trenutan uticaj na njegovu vrednost, iako predstavlja njen značajan faktor.
 
-From August 2008 through January 2009 the U.S. money supply[^15] grew from $871B to $1,737B, a rate of over 100% per year and then continued to grow at about 20% per year for the next 6 years. All told the money supply in the U.S. has grown by 4.59x over less than 7 years. During that same time, the value of the dollar relative to goods and services has fallen less than 10% according to the government's price index[^16]. This real-world example demonstrates that supply is only one component of price.
+Od avgusta 2008. pa tokom januara 2009., količina novca u SAD[^15] je porasla od $871B na $1,737B, stopom od 100% godišnje a zatim je nastavila da raste oko 20% godišnje sledećih 6 godina. Sve u svemu, količina novca u SAD je porasla 4.95 puta tokom manje od 7 godina. Tokom istog perioda, vrednost dolara u odnosu na dobra i usluge je pala za manje od 10%, ako je verovati vladinom indeksu cena [^16]. Ovaj primer iz stvarnog života pokazuje da je količina samo jedna komponenta koja utiče na cenu.
 
-For the first 2 years of Bitcoin’s life the network sustained an annual inflation rate[^17] of over 100%. For the first 5 years it was over 30%, and for the first 8 years it was over 10%. All told the total “spending” Steem does to fund content, curation, and block production amounts to less than 10% APR.
+U prve dve godine Bitkoinovog postojanja, mreža je pretrpela godišnju stopu inflacije[^17] od preko 100%. U prvih 5 godina je bila preko 30%, a u prvih 8 godina je bila preko 10%. Sve u svemu, ukupan ''trošak'' koji Steem ima nagrađivanjem sadržaja, kuratorstva i proizvodnje blokova je manje 10% godišnje procentne stope.
 
-The price of a digital commodity, like STEEM, is driven by both supply and demand. When a long-term holder decides to exit, the supply of STEEM on the market will increase and push the price down. This downward pressure is countered when a new long-term holder decides to buy up the STEEM and convert it back into SP. Additional supply and demand may be be added due to market speculators buying and selling liquid STEEM based on their predictions of the future market price.
+Cena za digitalnu robu, kao što je STEEM, je određena i količinom zaliha i potražnjom. When a long-term holder decides to exit, the supply of STEEM on the market will increase and push the price down. This downward pressure is countered when a new long-term holder decides to buy up the STEEM and convert it back into SP. Additional supply and demand may be be added due to market speculators buying and selling liquid STEEM based on their predictions of the future market price.
 
 # The Power of Steem
 
