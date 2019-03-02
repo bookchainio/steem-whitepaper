@@ -392,22 +392,22 @@ Kako bi se dostigle te performanse, Steem je naučio lekcije posmatrajući LMAX 
 
 Prateći ova jednostavna pravila, Steem može da obradi 10,000 transakcija u sekundi bez većeg napora za optimizacijom.
 
-Čuvanje svega u memoriji je sada sve održivije uz pomoć skoro predstavljene Optane™ tehnologije iz Intel-a [^14]. Trebalo bi da je moguće za robni hardver da može da podrži svu poslovnu logiku vezanu za Steem u jednom thread-u, sa svim postovima iz memorije radi brzog indeksiranja. Čak i Google čuva svoj indeks celog interneta u RAM memoriji. Upotreba blokčejn tehnologije čini da kopiranje baze podataka bude samo trivijalna stvar, kako bi se sprečio gubitak podataka. As Optane™ technology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
+Čuvanje svega u memoriji je sada sve održivije uz pomoć skoro predstavljene Optane™ tehnologije iz Intel-a [^14]. Trebalo bi da je moguće za robni hardver da može da podrži svu poslovnu logiku vezanu za Steem u jednom thread-u, sa svim postovima iz memorije radi brzog indeksiranja. Čak i Google čuva svoj indeks celog interneta u RAM memoriji. Upotreba blokčejn tehnologije čini da kopiranje baze podataka bude samo trivijalna stvar, kako bi se sprečio gubitak podataka. Kada Optane™ tehnologija zaživi, RAM memorija će postati još brža, što će doprineti istrajnosti. Drugim rečima, Steem je dizajniran za arhitekture budućnosti i da omogući skaliranje.
 
-# Allocation & Supply
+# Dodela i snabdevanje
 
-## Initial Allocation & Supply
+## Početna dodela i snabdevanje
 
-The Steem network started with a currency supply of 0 and allocated STEEM via proof of work at a rate of approximately 40 STEEM per minute to miners, with an additional 40 STEEM per minute being created to seed the content and curation reward pools (for a total of 80 STEEM per minute). Then the network started rewarding users who converted to SP. At this point, STEEM grew at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
+Steem mreža je započela sa nultim zalihama valute i izdvojenim STEEM-om putem proof of work-a prema stopi od približno 40 STEEM-a po minutu za majnere, sa dodatnih 40 STEEM-a koji se kreiraju zarad bazena nagrada za kuratore i autore (što je ukupno 80 STEEM-a po minutu). Zatim je mreža počela da nagrađuje korisnike koji su konvertovali svoje tokene u SP. Do ovog trenutka, STEEM je porastao prema približnoj stopi od oko 800 STEEM-a po minutu zbog ukupnog efekta od strane različitih nagrada za doprinose.
 
-Contribution Rewards:
+Nagrade za doprinose:
 
-- Curation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
-- Content Creation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
-- Block production rewards: 1 STEEM per block or 0.750% per year, whichever is greater
-- POW inclusion rewards before block 864,000: 1 STEEM per block (awarded as 21 STEEM per round)
-- POW inclusion rewards after block 864,000: 0.0476 STEEM per block (awarded as 1 STEEM per round) or 0.750% per year, whichever is greater.
-- Liquidity rewards: 1 STEEM per block (awarded as 1200 STEEM per hour) or 0.750% per year, whichever is greater
+- Nagrade za kuratore: 1 STEEM po bloku ili 3.875% godišnje, zavisno od toga šta je veće
+- Nagrade za autore sadržaja: 1 STEEM po bloku ili 3.875% godišnje, zavisno od toga šta je veće
+- Nagrade za proizvodnju blokova: 1 STEEM po bloku ili 0.75% godišnje, zavisno od toga šta je veće
+- Nagrade za uključivanje POW-a pre 864,00 bloka: 1 STEEM po bloku (nagrađeno kao 21 STEEM po rundi)
+- Nagrade za uključivanje POW-a pre 864,00 bloka: 0.0467 STEEM-a po bloku (nagrađeno kao 1 STEEM po rundi) ili 0.75% godišnje, u zavisnosti od toga šta je veće.
+- Nagrade za likvidnost: 1 STEEM po bloku ( nagrađeno kao 1200 STEEM-a po satu) ili 0.75% godišnje, u zavisnosti od toga šta je veće
 
 ### Power Rewards:
 
