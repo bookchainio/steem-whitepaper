@@ -380,19 +380,19 @@ Steem mreža je zasnovana na Graphene-u, istoj tehnologiji koju ima BitShares. G
 
 ## Skaliranje na Reddit-u
 
-Steem može da se nosi sa većom bazom korisnika nego Reddit. In 2015 Reddit’s 8.7 million users generated an average of 23 comments per second[^12], with an average of 83 comments per year per user. There were 73 million top-level posts, for an average of 2 new posts per second. There were about 7 billion up votes creating an average voting rate of 220 votes per second. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
+Steem može da se nosi sa većom bazom korisnika nego Reddit. U 2015. Reddit-ovih 8.7 miliona korisnika je ostavljalo u proseku 23 komentara po sekundi[^12], sa prosekom od 83 komentara godišnje po korisniku. Kreirano je 73 miliona vrhunskih postova, u proseku od 2 nova posta po sekundi. Kreirano je oko 7 milijardi glasova, prema prosečnoj stopi glasanja od 220 glasova po sekundi. Sve u svemu, ako bi Reddit funkcionisao na blokčejnu, bilo bi mu neophodno prosečno 250 transakcija po sekundi.
 
-To achieve this industry-leading performance, Steem has borrowed lessons learned from the LMAX Exchange[^13], which is able to process 6 million transactions per second. Among these lessons are the following key points:
+Kako bi se dostigle te performanse, Steem je naučio lekcije posmatrajući LMAX Exchange[^13], koja može da obradi 6 miliona transakcija po sekundi. Između svega naučenog se nalaze sledeće ključne tačke:
 
-1. Keep everything in memory.
-2. Keep the core business logic in a single thread.
-3. Keep cryptographic operations (hashes and signatures) out of the core business logic.
-4. Divide validation into state-dependent and state-independent checks.
-5. Use an object oriented data model.
+1. Čuvaj sve u memoriji.
+2. Drži srž poslovne logike u samo jednom thread-u.
+3. Čuvaj kriptografske operacije (heševi i signature) van srži poslovne logike.
+4. Podeli validaciju na kontrole zavisne i nezavisne od države.
+5. Koristi objektno-orijentisan model podataka.
 
-By following these simple rules, Steem is able to process 10,000 transactions per second without any significant effort devoted to optimization.
+Prateći ova jednostavna pravila, Steem može da obradi 10,000 transakcija u sekundi bez većeg napora za optimizacijom.
 
-Keeping everything in memory is increasingly viable given the recent introduction of Optane™ technology from Intel[^14]. It should be possible for commodity hardware to handle all of the business logic associated with Steem in a single thread with all posts kept in memory for rapid indexing. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optane™ technology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
+Čuvanje svega u memoriji je sada sve održivije uz pomoć skoro predstavljene Optane™ tehnologije iz Intel-a [^14]. Trebalo bi da je moguće za robni hardver da može da podrži svu poslovnu logiku vezanu za Steem u jednom thread-u, sa svim postovima iz memorije radi brzog indeksiranja. Čak i Google čuva svoj indeks celog interneta u RAM memoriji. Upotreba blokčejn tehnologije čini da kopiranje baze podataka bude samo trivijalna stvar, kako bi se sprečio gubitak podataka. As Optane™ technology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
 
 # Allocation & Supply
 
