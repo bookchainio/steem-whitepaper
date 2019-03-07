@@ -6,7 +6,7 @@ Avgust 2017.
 
 # Napomene prevodioca
 
-Placeholder for translator's notes.
+Prevod uradio @nikolanikola (https://steemit.com/@nikolanikola), mart 2019. godine.
 
 # Rezime
 
@@ -499,23 +499,23 @@ Sloboda govora je osnova svih ostalih sloboda i bilo koja povreda prava na slobo
 
 Većina kriptovaluta stvara malu vrednost za one koji ne koriste aktivno mrežu. Steem, nasuprot tome, stvara sadržaj i ohrabruje korisnike da ga dele. Taj sadržaj se indeksira od strane pretraživača i na kraju donosi vrednost do velikog broja pasivnih glasača. Ta pretraga saobraćaja stvara organski advertajzing za Steem i širi efekat mreže.
 
-## Shifting Toward Blockchain-based Attribution
+## Pomeranje ka dodeli zasnovanoj na blokčejnu
 
-The internet represents the easiest medium for distributing information in the world. With that said, it can be a frightening place for content creators who would like to own their content and have it shared with proper attribution. On current social media platforms, attribution is something that can be lost overnight - a posted video or image can be replicated and re-shared without consent or regard for the creator.
+Internet predstavlja najlakši medijum za distribuiranje informacija u svetu. Samim tim to može da bude strašno mesto za autore koji žele da poseduju svoj sadržaj i da ga dele sa odgovarajućom publikom. Na trenutnim društvenim mrežama, atribucija je nešto što može da se izgubi preko noći - postavljeni video ili slika mogu da se kopiraju i ponovo dele bez pristanka ili nagrade za samog autora.
 
-Under blockchain-based social media, a creator or author would always be able to point to a public record and timestamp showing proof of their content origination. In a circumstance where a creator would like to address those who have re-shared without permission or attribution, blockchain-based records provide public proof that the content was posted by a particular user at a particular time. In the future, blockchain-based attribution could come to be recognized by governments for its authenticity and could hold weight in court, which would give content creators greater powers to control their work.
+U okviru društvenih mreža koje su zasnovane na blokčejnu, autor je uvek u mogućnosti da ukaže na javni zapis i vremensku oznaku kao na dokaz o originalnom poreklu sadržaja. U situacijama gde autor želi da ukaže na one koji su delili njegov sadržaj bez dozvole, zapisi na blokčejnu obezbeđuju javni dokaz da je određeni sadržaj postavljen od strane određene osobe u određeno vreme. U budućnosti, atribucija zasnovana na blokčejnu može biti prepoznata od strane vlade zbog svoje autentičnosti i može imati težinu na sudu, što može dati autorima veću moć u vezi sa kontrolom svog stvaralaštva.
 
-While a timestamping service can be built on almost any blockchain, and several efforts exist to build this kind of service on the Bitcoin network, Steem has a useful advantage in this realm because content publishers are “first class citizens” -- the Steem blockchain is built from the ground up around the use case of content publication, which allows content creators to have the blockchain to validate their content at a certain point in time simply by writing their post using the same authoring tools used by other Steem users.
+Dok usluga pamćenja vremena može da se izvede na svakom blokčejnu i dok nekoliko pokušaja već postoji da se tako nešto napravi na Bitkoin mreži, Steem ima korisnu prednost u ovoj oblasti, jer su autori sadržaja ''građani prvog reda'' - Steem blokčejn je pravljen od početka sa akcentom na publikaciju sadržaja, što omogućava autorima da koriste blokčejn zarad validacije svog rada u određenom vremenskom trenutku, jednostavno objavljujući svoj post korišćenjem istih autorskih alata kao i ostali Steem korisnici.
 
-## Replacing Advertising with Blockchain-based Content Rewards
+## Zamena reklamiranja nagradama za sadržaj na blokčejnu
 
-Under most content monetization models, content creators leverage advertising in one form or another. Many creators recognize how advertising may diminish their work’s value to the consumer, yet creators very often must seek returns on their time by monetizing. Advertising represents a double-edged sword: With ads, a creator can make money most easily. Without ads, monetization is difficult but the content is richer.
+U okviru mnogih modela monetizacije sadržaja, autori koriste reklamiranje u nekoj određenoj formi. Mnogi autori shvataju da reklamiranje može umanjiti vrednost njihovog rada kod publike, ali ipak često traže neku vrstu nadoknade za svoje uloženo vreme. Reklamiranje predstavlja mač sa dve oštrice: reklamama autori mogu lako da zarade novac. Bez reklama je monetizacija teška, ali je sadržaj bogatiji.
 
-Creators posting to social media outlets that are connected to Steem may monetize merely by having their work recognized (or ”liked”) by the Steem community. Blockchain-based payouts are completely digital and have no middle-man. Therefore monetization by blockchain-based content rewards should be faster and much lower barrier to use than monetization by advertisements.
+Autori koji postavljaju na društvenim mrežama koje su povezane sa Steem-om, mogu da monetizuju svoj rad jednostavno, ako su prepoznati od strane Steem zajednice. Isplate zasnovane na blokčejnu su u potpunosti digitalne i nemaju posrednike. Samim tim, monetizacija nagrada za sadržaj na blokčejnu bi trebalo da bude brža i pristupačnija nego monetizacija pomoću reklamiranja.
 
-# Conclusion
+# Zaključak
 
-Steem is an experiment designed to address challenges in the cryptocurrency and social media industries by combining the best aspects from both. Steem presents earning opportunities to content creators and internet readers in ways that have not existed within the social media industry. Within Steem, individuals earn real rewards online that are directly correlated to their contributions. Those rewards may have dollar value due to the market price discovery and liquidity of Steem, and the people who hold Steem may have more exclusive earning powers than those who do not.
+Steem je eksperiment osmišljen tako da ukaže na izazove u svetu kriptovaluta i industrije društvenih mreža, kombinovanjem onog najboljeg iz oba sveta. Steem predstavlja mogućnost zarađivanja za autore i publiku, na načine koji do sada nisu postojali u industriji društvenih mreža. U okviru Steem-a, pojedinci mogu da dobiju prave nagrade koje su direktno povezane sa njihovim doprinosima. Te nagrade mogu da imaju dolarsku vrednost zbog tržišne cene i likvidnosti STEEM-a, a ljudi koji poseduju STEEM tokene mogu da imaju više posebnih mogućnosti da zarade.
 
 [^1]: Reddit’s Cryptocurrency, Forbes, Erika Morphy, October 2014 http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/\#4e07b05332b9
 
