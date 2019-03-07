@@ -467,25 +467,25 @@ Internet bi izgubio veliki deo svoje vrednosti ako bi sve veze između sadržaja
 
 Veze su se tokom vremena prilagodile i mogu da imaju mnoge oblike. Svaki put kada korisnik glasa za neki sadržaj na društvenoj mreži, on uspostavlja vezu između sebe i sadržaja. To kao rezultat ima povezivanje korisnika sa autorom putem samog sadržaja. Što više veza ima neka mreža, toliko vrednije postaju informacije. Upravo je relativna i namerna povezanost informacija ono što ima vrednost.
 
-Društvena mreža može da poveća vrednost koja proizilazi iz skupa sadržaja povećavanjem kvantiteta i kvaliteta veza. Kuratorstvo sadržaja je skupo i zahteva vreme, dok je skoro nemoguće da kompjuteri to obavljaju bez prisustva povezanosti. Steem rewards users who are among the first to find and identify new content.
+Društvena mreža može da poveća vrednost koja proizilazi iz skupa sadržaja povećavanjem kvantiteta i kvaliteta veza. Kuratorstvo sadržaja je skupo i zahteva vreme, dok je skoro nemoguće da kompjuteri to obavljaju bez prisustva povezanosti. Steem nagrađuje korisnike koji su među prvima koji su pronašli neki sadržaj.
 
-By incentivising curation the Steem network is able to use automated algorithms to extract the most valuable information from a massive amount of content.
+Podsticanjem kuratorstva, Steem mreža može da koristi automatske algoritme da izdvoji najvrednije informacije iz ogromne količine sadržaja.
 
-## Solving the Cryptocurrency Onboarding Problem
+## Rešavanje problema ulaska u svet kriptovaluta
 
-It isn’t easy to get into cryptocurrency[^21]. Someone who discovers Bitcoin and wants to try it out quickly learns that they will need to sign up with an exchange and fund their account with a credit card or wire transfer. What would Facebook’s adoption rate have been like if you had to fork over money and a two forms of ID?
+Nije lako ući u svet kriptovaluta [^21]. Neko ko otkrije Bitkoin i poželi da ga isproba, brzo shvata da mora da napravi nalog na menjačnici i da poveže sa svojom kreditnom karticom i doznakama. Kolika bi bila stopa prihvatanja Facebook-a ako bi postojala dva stepena identifikacije?
 
-Steem solves this problem by giving everyone a way to get paid for doing simple, but valuable, tasks. This will help to widely distribute STEEM tokens. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless.)
+Steem rešava ovaj problem, omogućavajući svima da budu plaćeni za odrađivanje jednostavnih ali vrednih zadataka. To pomaže široj distribuciji STEEM tokena. Ovo je od pomoći jer kriptovalute imaju efekat umrežavanja (npr. više korisnika čini valutu korisnijom; kao ekstreman primer, zamislite da je Satoshi zadržao 100% Bitkoina za sebe - Bitkon bi bio bezvredan).
 
-## Solving the Cryptocurrency Liquidation Problem
+## Rešavanje problema likvidnosti kriptovaluta
 
-A currency that is difficult to use or impossible to sell has little value. Someone who comes across $1.00 worth of Bitcoin will discover that it costs more than $1.00 to sell that Bitcoin. They have to create an account with an exchange, perform KYC validation, and pay fees. Small amounts of cryptocurrency are like small change that people are unwilling to bend over to pick up.
+Valuta koju je teško koristiti ili nemoguće prodati ima malu vrednost. Neko ko dođe u posed Bitkoina vrednosti od $1.00 će ubrzo shvatiti da je potrebno daleko više od $1.00 da se proda taj Bitkoin. Morao bi da napravi nalog na menjačnici, odradi KYC validaciju i plati troškove. Male količine kriptovaluta su kao mali novčići na ulici za koje ljudi ne žele da se sagnu i pokupe ih.
 
-Merchants give users a way to quickly convert their cryptocurrency into tangible goods and services. Merchants need a currency pegged to their unit of account, normally dollars. Accepting a volatile currency introduces significant accounting overhead.
+Trgovci pružaju korisnicima način da brzo konvertuju svoje kriptovalute u materijalna dobra i usluge. Trgovcima je potrebna valuta koja je povezana sa valutom na njihovom računu, obično dolarima. Prihvatanje nestabilne valute vodi do značajnih računovodstvenih troškova.
 
-Merchants will accept any currency if it increases their sales. Having a large user base with a stable currency such as SBD lowers the barrier to entry for merchants. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
+Trgovci će da prihvate svaku valutu ako ona povećava njihovu prodaju. Posedovanje velike korisničke baze sa stabilnom valutom kao što je SBD, umanjuje prepreku za trgovce na ulazu u ovaj svet kripto valuta. Prisustvo trgovaca poboljšava sistem, kreiranjem mogućnosti da korisnici napuste sistem bez problema sa korišćenjem menjačnice.
 
-Another way that people can liquidate the small amounts of cryptocurrency they receive from participating on the Steem platform is through *tipping* others. This is like leaving the small change as a tip for your waiter. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
+Još jedan način na koji ljudi mogu da povećaju likvidnost malih količina kriptovaluta, koje dobijaju na Steem platformi, je *davanje napojnica* drugima. To je slično ostavljanju sitnog kusura konobaru u vidu bakšiša. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
 
 ## Censorship
 
