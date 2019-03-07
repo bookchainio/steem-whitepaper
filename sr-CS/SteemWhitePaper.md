@@ -485,19 +485,19 @@ Trgovci pružaju korisnicima način da brzo konvertuju svoje kriptovalute u mate
 
 Trgovci će da prihvate svaku valutu ako ona povećava njihovu prodaju. Posedovanje velike korisničke baze sa stabilnom valutom kao što je SBD, umanjuje prepreku za trgovce na ulazu u ovaj svet kripto valuta. Prisustvo trgovaca poboljšava sistem, kreiranjem mogućnosti da korisnici napuste sistem bez problema sa korišćenjem menjačnice.
 
-Još jedan način na koji ljudi mogu da povećaju likvidnost malih količina kriptovaluta, koje dobijaju na Steem platformi, je *davanje napojnica* drugima. To je slično ostavljanju sitnog kusura konobaru u vidu bakšiša. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
+Još jedan način na koji ljudi mogu da povećaju likvidnost malih količina kriptovaluta, koje dobijaju na Steem platformi, je *davanje napojnica* drugima. To je slično ostavljanju sitnog kusura konobaru u vidu bakšiša. Kada dovoljno ljudi ostavi male napojnice, to prerasta u značajnu količinu. I Vi i konobar imate koristi od te napojnice.
 
-## Censorship
+## Cenzura
 
-Steem is a decentralized network that is operated by witnesses in jurisdictions around the world. All user actions are publicly recorded on the blockchain, and can be publicly verified. This means that there is no single entity that can censor content that is valued by STEEM holders.
+Steem je decentralizovana mreža koju vode vitnesi širom sveta. Sve korisničke akcije su javno zabeležene na blokčejnu i mogu biti javno potvrđene. To znači da ne postoji jedinstven entitet koji može da cenzuriše sadržaj koji ima vrednost za one koji imaju STEEM token.
 
-Individual websites such as steemit.com may censor content on their particular site, but content published on the blockchain is inherently broadcast traffic and mirrors all around the world may continue to make it available.
+Individualni sajtovi kao što je steemit.com mogu da cenzurišu sadržaj na isključivo svom sajtu, ali sadržaj koji je objavljen na blokčejnu je suštinski i dalje tu i internet saobraćaj širom sveta može i dalje da ga čini dostupnim.
 
-Freedom of speech is the foundation of all other liberties and any infringement upon freedom of speech undermines the only peaceful means of reaching consensus: discussion. Without free discussion voters cannot be fully informed, and uninformed voters are a greater threat to society than losing the right to vote. Censorship is a means of stealing votes through limiting public discourse. Steem is committed to enabling free speech and building a free society.
+Sloboda govora je osnova svih ostalih sloboda i bilo koja povreda prava na slobodu govora urušava jedini miran put dostizanja konsenzusa - diskusiju. Bez slobodne diskusije, glasači ne mogu da budu u potpunosti informisani, a neinformisani glasači su veća pretnja po društvo nego gubitak prava glasa. Cenzura je sredstvo za krađu glasova putem ograničavanja javne rasprave. Steem je obavezan da omogući slobodan govor i izgradi slobodno društvo.
 
-## Solving Organic Discovery via Search Engine Optimization
+## Rešavanje organskog otkrivanja pomoću optimizacije pretraživača
 
-Most cryptocurrencies generate little value for those who are not actively using the network. Steem, by contrast, generates content and encourages users to share it. This content gets indexed by search engines and ultimately will bring value to a large number of passive users. This search traffic creates organic advertising for the Steem network and grows the network effect.
+Većina kriptovaluta stvara malu vrednost za one koji ne koriste aktivno mrežu. Steem, nasuprot tome, stvara sadržaj i ohrabruje korisnike da ga dele. Taj sadržaj se indeksira od strane pretraživača i na kraju donosi vrednost do velikog broja pasivnih glasača. Ta pretraga saobraćaja stvara organski advertajzing za Steem i širi efekat mreže.
 
 ## Shifting Toward Blockchain-based Attribution
 
