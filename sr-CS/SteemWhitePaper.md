@@ -437,7 +437,7 @@ Cena za digitalnu robu, kao što je STEEM, je određena i količinom zaliha i po
 
 # Moć Steem-a
 
-Steem prepoznaje da je vrednost svih korisničkih doprinosa (postova i glasova) veća nego zbir pojedinačnih delova. Jedan komentar skoro da ne vredi ništa, ali milioni odabranih postova su vredni više miliona (možda čak i milijardi) dolara. Jedan glas obezbeđuje prilično malu vrednost, ali milijarde glasova su priično efektne u odabiru tekstova. Sadržaj bez kuratorstva ima ograničenu vrednost. Kada bi posedovao sav sadržaj na internetu, ali bez povezanosti između tog sadržaja, Google bi imao probleme da obezbedi uspešno pretraživanje. Veze između informacija su to što obezbeđuje značajnu vrednost.
+Steem prepoznaje da je vrednost svih korisničkih doprinosa (postova i glasova) veća nego zbir pojedinačnih delova. Jedan komentar skoro da ne vredi ništa, ali milioni odabranih postova su vredni više miliona (možda čak i milijardi) dolara. Jedan glas možda obezbeđuje malu vrednost, ali milijarde glasova su prilično efektne u odabiru tekstova. Sadržaj bez kuratorstva ima ograničenu vrednost. Kada bi posedovao sav sadržaj na internetu, ali bez povezanosti između tog sadržaja, Google bi imao probleme da obezbedi uspešno pretraživanje. Veze između informacija su to što obezbeđuje značajnu vrednost.
 
 Pošto svi profitiraju, svi bi trebalo da plate. Drugim rečima, nijedan korisnik ne bi trebalo da plati za nešto, već bi umesto toga trebalo da bude plaćen za sve što radi, a da doprinosi vrednosti Steem-a. Sve što treba da uradimo je da utvrdimo koji korisnički doprinosi donose vrednost društvenoj mreži i koji ne donose.
 
