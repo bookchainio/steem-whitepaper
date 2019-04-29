@@ -6,7 +6,7 @@ Oṣù kẹjọ 2017
 
 # Àwọn àkọsílẹ̀ ti onítumọ̀
 
-Olugbero fun awon akosile onitumo.
+Agbaàyè sílẹ̀ fún àwọn àkọsílẹ̀ ti onítumọ̀.
 
 # Akopo
 
