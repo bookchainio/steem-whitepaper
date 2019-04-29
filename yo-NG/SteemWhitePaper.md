@@ -1,10 +1,10 @@
-# Steemu
+# Steem
 
-## Ohun ajeseku, orisun blockuchain, agbaye itewogba ti ilu.
+## Ètò àròkọ gbangba pẹ̀lú ìwúrí tó dá lórí blockchain kan.
 
-Osu kejo 2017
+Oṣù kẹjọ 2017
 
-# Awon itumo onitumo
+# Àwọn àkọsílẹ̀ ti onítumọ̀
 
 Olugbero fun awon akosile onitumo.
 
