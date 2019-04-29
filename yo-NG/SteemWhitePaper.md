@@ -8,7 +8,7 @@ Oṣù kẹjọ 2017
 
 Agbaàyè sílẹ̀ fún àwọn àkọsílẹ̀ ti onítumọ̀.
 
-# Akopo
+# Kókó pàtàkì
 
 Steemu je aaye ipamo blockuchain ti o se atileyin ile-ise agbegbe ati ajosepo awon ere pelu awon nomba kyrptokorensi. Steemu sepo awon imoran lati awon alagbegbe awujo pelu awon eko ti a ko lati kryptokorensi ati awon agbegbe won. Botini pataki kan lati se ikopa ni ilowosi ni eyikeyi agbegbe, owo tabi owo-aje ti ko niyeye je eto iseduro ti o je deede ti o je afihan ipese olukuluku. Steemu je akoko kryptokorensi ti o gbiyanju lati ni pipe ati atinuriwa san awon nomba ti ko toju ti awon eni kookan ti o se awon abuda ero si awon oniwe-awujo.
 
