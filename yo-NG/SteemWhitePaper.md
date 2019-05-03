@@ -10,7 +10,7 @@ Agbaàyè sílẹ̀ fún àwọn àkọsílẹ̀ ti onítumọ̀.
 
 # Kókó pàtàkì
 
-Steem jẹ́ àpamọ́ data blockchain kan tó n ṣe àtìlẹ́yìn fún kíkọ́ àwùjọ àti ìbáṣepọ̀ pẹ̀lú àwọn ẹ̀san cryptocurrency. Steem ṣàkópọ̀ àwọn èròngbà láti ìkànnì àjọlò pẹ̀lú àwọn ẹ̀kọ́ tí wọ́n rí kọ́ lára kíkọ́ àwọn cryptocurrency àti àwọn àwùjọ wọn. Botini pataki kan lati se ikopa ni ilowosi ni eyikeyi agbegbe, owo tabi owo-aje ti ko niyeye je eto iseduro ti o je deede ti o je afihan ipese olukuluku. Steemu je akoko kryptokorensi ti o gbiyanju lati ni pipe ati atinuriwa san awon nomba ti ko toju ti awon eni kookan ti o se awon abuda ero si awon oniwe-awujo.
+Steem jẹ́ àpamọ́ data blockchain kan tó n ṣe àtìlẹ́yìn fún kíkọ́ àwùjọ àti ìbáṣepọ̀ pẹ̀lú àwọn ẹ̀san cryptocurrency. Steem ṣàkópọ̀ àwọn èròngbà láti ìkànnì àjọlò pẹ̀lú àwọn ẹ̀kọ́ tí wọ́n rí kọ́ lára kíkọ́ àwọn cryptocurrency àti àwọn àwùjọ wọn. Ohun pàtàkì kan láti mú ìgbìyànjú kíkópa nínú èyíkéyìí àwùjọ, owó tàbí ètò-ọrọ̀-ajé ni ètò ìṣirò-owó tó dára kan èyí tí yíò ṣàgbéyọ ipa ẹnì kọ̀ọ̀kan ní ọnà tó ṣe déédéé. Steemu je akoko kryptokorensi ti o gbiyanju lati ni pipe ati atinuriwa san awon nomba ti ko toju ti awon eni kookan ti o se awon abuda ero si awon oniwe-awujo.
 
 # Tabili awon Akoonu
 
