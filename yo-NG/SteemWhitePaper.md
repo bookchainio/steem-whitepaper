@@ -10,13 +10,13 @@ Agbaàyè sílẹ̀ fún àwọn àkọsílẹ̀ ti onítumọ̀.
 
 # Kókó pàtàkì
 
-Steem jẹ́ àpamọ́ data blockchain kan tó n ṣe àtìlẹ́yìn fún kíkọ́ àwùjọ àti ìbáṣepọ̀ pẹ̀lú àwọn ẹ̀san cryptocurrency. Steem ṣàkópọ̀ àwọn èròngbà láti ìkànnì àjọlò pẹ̀lú àwọn ẹ̀kọ́ tí wọ́n rí kọ́ lára kíkọ́ àwọn cryptocurrency àti àwọn àwùjọ wọn. Ohun pàtàkì kan láti mú ìgbìyànjú kíkópa nínú èyíkéyìí àwùjọ, owó tàbí ètò-ọrọ̀-ajé ni ètò ìṣirò-owó tó dára kan èyí tí yíò ṣàgbéyọ ipa ẹnì kọ̀ọ̀kan ní ọnà tó ṣe déédéé. Steemu je akoko kryptokorensi ti o gbiyanju lati ni pipe ati atinuriwa san awon nomba ti ko toju ti awon eni kookan ti o se awon abuda ero si awon oniwe-awujo.
+Steem jẹ́ àpamọ́ data blockchain kan tó n ṣe àtìlẹ́yìn fún kíkọ́ àwùjọ àti ìbáṣepọ̀ pẹ̀lú àwọn ẹ̀san cryptocurrency. Steem ṣàkópọ̀ àwọn èròngbà láti ìkànnì àjọlò pẹ̀lú àwọn ẹ̀kọ́ tí wọ́n rí kọ́ lára kíkọ́ àwọn cryptocurrency àti àwọn àwùjọ wọn. Ohun pàtàkì kan láti mú ìgbìyànjú kíkópa nínú èyíkéyìí àwùjọ, owó tàbí ètò-ọrọ̀-ajé ni ètò ìṣirò-owó tó dára kan èyí tí yíò ṣàgbéyọ ipa ẹnì kọ̀ọ̀kan ní ọnà tó ṣe déédéé. Steem jẹ́ cryptocurrency àkọ́kọ́ tó gbìyànjú láti san ẹ̀san lọ́nà tó péye àti ní gbangba fún iye àwọn èèyàn tí kò ní ààlà tó n pèsè *àwọn ipa atinuwá* sí àwùjọ rẹ̀.
 
-# Tabili awon Akoonu
+# Ìtòlẹ́sẹẹsẹ àwọn Àkóónú
 
 <!-- toc -->
 
-# Ifihan
+# Ìfihàn
 
 Lapapo, akoonu ti o ni asamulo ti seda oke aimoye ti dola iye owo fun awon onipindoje ti awon ile-ise ajosepo, bi Redditi, pelu Facebuuku, Ati Twita. Ni odun 2014, Reditti loye pe o je ilosiwaju ti o je pe ti gbogbo awon eniyan ti o ba se alabapin si reddit.com nipa fifiranse awon itan, fifi oro kun tabi awon idibo ni a san nyi pelu ipinle daradara Redditi, Inc. Steemu ni ifojusi lati se atileyin fun awon onibara awujo ati awon agbegbe ayelujara nipa gbigba opolopo iye re pada si awon eniyan ti o pese awon iranlowo pataki nipase fifun ere won pelu kryptokorensi, ati nipase ilana yii seda owo kan ti o le ni anfani lati de odo oja to gaju, pelu awon eniyan ti o ni sibesibe lati kopa ninu isowo kryptokorensi.
 
