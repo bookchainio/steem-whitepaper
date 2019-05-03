@@ -20,7 +20,7 @@ Steem jẹ́ àpamọ́ data blockchain kan tó n ṣe àtìlẹ́yìn fún kík
 
 Lápapọ̀, àròkọ tí aṣàmúlò ṣẹ̀dá ti pèsè iye tó bílíọ̀nù dọ́là fún àwọn tó ní ìpín nínú àwọn iléeṣẹ́ ìkànnì àjọlò, gẹ́gẹ́ bí Reddit, Facebook, àti Twitter. **Ní 2014, Reddit dá àbá pé ètò rẹ̀ yíò túbọ̀ dára síi tí gbogbo èèyàn tó dá sí reddit.com nípasẹ̀ kíkọ ìròyìn, ìdáásí àti ìdìbò bá gba ẹ̀san pẹ̀lú ìpín tó bá tọ́ sí wọn nínú Reddit, Inc.[^1]**. Steem n pinnu láti ṣe àtìlẹ́yìn ìkànnì àjọlò àti àwọn àwùjọ orí íntánẹ́ẹ̀tì nípasẹ̀ ìdápadà ọ̀pọ̀ nínú ìyí rẹ̀ fún àwọn èèyàn tó pèsè àwọn ipa tó wúlò nípasẹ̀ sísan ẹ̀san pẹ̀lú cryptocurrency, àti lọ́nà yìí ṣẹ̀dá owó kan èyí tó ní anfààní láti dé ọjà tó gbòòrò kan, títí kan àwọn èèyàn tí kò tíì kópa nínú èyíkéyìí ọ̀rọ̀ ajé cryptocurrency.
 
-Àwọn ìlànà pàtàkì kan wà tí a ti lò láti darí ṣíṣẹ̀dá Steem. Ilana pataki julo ni pe gbogbo eniyan ti o se alabapin si isowo kan ye ki o ogba agbara olohun ti pro-rata, sisan wo tabi lati inu gbese isowo naa. Opo yii je ilana kanna ti o lo fun gbogbo awon ibere bi won se pinpin awon ipinle ati ni awon igbiyanju isowo nigbamii.
+Àwọn ìlànà pàtàkì kan wà tí a ti lò láti darí ṣíṣẹ̀dá Steem. Ìlànà tó ṣe pàtàkì jù ní pé ó yẹ kí gbogbo èèyàn tó bá n dá sí okòwò kan gba ìpín níní, ìsanwó tàbí gbèsè tó tọ́ láti okòwò náà. Opo yii je ilana kanna ti o lo fun gbogbo awon ibere bi won se pinpin awon ipinle ati ni awon igbiyanju isowo nigbamii.
 
 Ilana keji ni wipe gbogbo awon orisi awon olu-ori je o wulo. Eyi tumo si pe awon ti o se afihan akoko pupo ati ifojusi si siso ati akoonu fun awon elomiran ni o niyelori bi awon ti o se alabapin owo ti o poju. Eyi si isiro imudaniloju igungun ati pe o je ero ti isaaju kryptokorensi ti ni wahala nigbagbogbo lati pese si die e sii ju awon eniyan bi mejilla lo.
 
