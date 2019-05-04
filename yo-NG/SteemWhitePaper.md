@@ -457,7 +457,7 @@ Agbára ìrònú tó ní ìsopọ̀ pẹ̀lú ṣíṣe ìpinnu ọrọ̀ ajé k
 
 Àwọn ìsanwó kékèké: Àwòṣe Okòwò tó ṣeéṣe kan[^20]
 
-Under Steem, micropayments are paid to content producer, but those who vote for the content do not pay. Instead, the cost of the reward is paid for via new tokens. Someone can join the system, vote to pay someone, and then exit the system with more money than they started with (assuming the market valuation of the Steem system remained constant). In other words, the micropayment solution provided by Steem provides a user-experience similar to many widely used websites that have user-moderated content.
+Lábẹ́ Steem, àwọn ìsanwó kékèké ni a san fún olùdásílẹ̀ àròkọ, ṣùgbọ́n àwọn tó dìbò fún àròkọ náà kò ní sanwó. Dípò, owó ẹ̀san náà ma jẹ́ sísan nípasẹ̀ àwọn token tuntun. Someone can join the system, vote to pay someone, and then exit the system with more money than they started with (assuming the market valuation of the Steem system remained constant). In other words, the micropayment solution provided by Steem provides a user-experience similar to many widely used websites that have user-moderated content.
 
 Furthemore, Steem pays people to figure out who should be paid! This kind of thinking is revolutionary.
 
