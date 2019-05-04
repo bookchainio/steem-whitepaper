@@ -465,7 +465,7 @@ Síwájú si, Steem n sanwó fún àwọn èèyàn láti ronú nípa ẹni tó y
 
 Íntánẹ́ẹ̀tì yíò pàdánù èyí tó pọ̀ jù lára iyì rẹ tí gbogbo àwọn ìsopọ̀ láàrín àwọn àròkọ bá gba yíyọ kúrò. Ìbáṣepọ̀ tó wà láàrín àwọn ojúewé ayélujára ló fi ààyè gba Google láti ṣàwarí àpèjúwe apple pie tó dára jù lára àwọn èsì mílíọ̀nù 16 náà. Láìsí àwọn ìsopọ̀ náà ìròyìn kan ṣoṣo tí Google yíò ní ni ìwọ́pọ̀ ọ̀rọ̀.
 
-Links can take many forms and have adapted over time. Every time a user votes on content in a social network they add a connection between themselves and the content. This in turn links the consumer to the producer through the content. The more connections a network has the more valuable the information becomes. It is the relative and intentional connectedness of information that gives it value.
+Àwọn ìsopọ̀ le wá ní oríṣiríṣi ọnà tí wọ́n sì n bá ipò mu bí àkókò tí n lọ. Gbogbo ìgbà tí aṣàmúlò kan bá dìbò lórí àròkọ ní ìkànnì àjọlò kan wọ̀n ṣàfikún ìsopọ̀ kan láàrín ara wọn àti àròkọ náà. Èyí ma wá ṣe ìsopọ̀ aṣàmúlò náà sí olùdásílẹ̀ náà nípasẹ̀ àròkọ náà. The more connections a network has the more valuable the information becomes. It is the relative and intentional connectedness of information that gives it value.
 
 A social network can maximize the value extracted from a set of content by maximizing the quantity and quality of connections. Curating content is expensive and time consuming while being near impossible for computers to perform in the absence of links. Steem rewards users who are among the first to find and identify new content.
 
