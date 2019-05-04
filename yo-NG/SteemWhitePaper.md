@@ -22,7 +22,7 @@ Lápapọ̀, àròkọ tí aṣàmúlò ṣẹ̀dá ti pèsè iye tó bílíọ�
 
 Àwọn ìlànà pàtàkì kan wà tí a ti lò láti darí ṣíṣẹ̀dá Steem. Ìlànà tó ṣe pàtàkì jù ní pé ó yẹ kí gbogbo èèyàn tó bá n dá sí okòwò kan gba ìpín níní, ìsanwó tàbí gbèsè tó tọ́ láti okòwò náà. Ìlànà yìí jẹ́ ìlànà kannáà tó jẹ́ lílò sí gbogbo àwọn okòwò tuntun bíi wọn ṣe n pín àwọn ìpín ní ìfilọ́lẹ̀ àti ní àwọn àkókò ìpèsè owó lẹ́yìn náà.
 
-Ilana keji ni wipe gbogbo awon orisi awon olu-ori je o wulo. Eyi tumo si pe awon ti o se afihan akoko pupo ati ifojusi si siso ati akoonu fun awon elomiran ni o niyelori bi awon ti o se alabapin owo ti o poju. Eyi si isiro imudaniloju igungun ati pe o je ero ti isaaju kryptokorensi ti ni wahala nigbagbogbo lati pese si die e sii ju awon eniyan bi mejilla lo.
+Ìlànà kejì ni pé gbogbo onírúurú owó ìṣòwò wúlò lọ́nà kannáà. Eyi tumo si pe awon ti o se afihan akoko pupo ati ifojusi si siso ati akoonu fun awon elomiran ni o niyelori bi awon ti o se alabapin owo ti o poju. Eyi si isiro imudaniloju igungun ati pe o je ero ti isaaju kryptokorensi ti ni wahala nigbagbogbo lati pese si die e sii ju awon eniyan bi mejilla lo.
 
 Ilana keta je wipe agbegbe n pese awon oja lati iranse fun awon egbe re. Ope yii je apeere nipase awon aladani gbese, awon igbimo ounje, ati awon ipinnu ipinpin isowo, ti o nsin si awon omo egbe ti agbegbe won ju ki o ta awon oja ise si awon eneiyan ti ita ilu.
 
