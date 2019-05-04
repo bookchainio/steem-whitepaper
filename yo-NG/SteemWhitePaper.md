@@ -461,9 +461,9 @@ Lábẹ́ Steem, àwọn ìsanwó kékèké ni a san fún olùdásílẹ̀ àrò
 
 Síwájú si, Steem n sanwó fún àwọn èèyàn láti ronú nípa ẹni tó yẹ kó gbowó! Irú ìrònú yìí jẹ́ ìyípadà pàtàkì.
 
-## Iyì wà nínú àwọn Ìsopọ̀ náà
+## Ìwúlò wà nínú àwọn Ìsopọ̀ náà
 
-Íntánẹ́ẹ̀tì yíò pàdánù èyí tó pọ̀ jù lára iyì rẹ tí gbogbo àwọn ìsopọ̀ láàrín àwọn àròkọ bá gba yíyọ kúrò. Ìbáṣepọ̀ tó wà láàrín àwọn ojúewé ayélujára ló fi ààyè gba Google láti ṣàwarí àpèjúwe apple pie tó dára jù lára àwọn èsì mílíọ̀nù 16 náà. Láìsí àwọn ìsopọ̀ náà ìròyìn kan ṣoṣo tí Google yíò ní ni ìwọ́pọ̀ ọ̀rọ̀.
+Íntánẹ́ẹ̀tì yíò pàdánù èyí tó pọ̀ jù lára ìwúlò rẹ tí gbogbo àwọn ìsopọ̀ láàrín àwọn àròkọ bá gba yíyọ kúrò. Ìbáṣepọ̀ tó wà láàrín àwọn ojúewé ayélujára ló fi ààyè gba Google láti ṣàwarí àpèjúwe apple pie tó dára jù lára àwọn èsì mílíọ̀nù 16 náà. Láìsí àwọn ìsopọ̀ náà ìròyìn kan ṣoṣo tí Google yíò ní ni ìwọ́pọ̀ ọ̀rọ̀.
 
 Àwọn ìsopọ̀ le wá ní oríṣiríṣi ọnà tí wọ́n sì n bá ipò mu bí àkókò tí n lọ. Gbogbo ìgbà tí aṣàmúlò kan bá dìbò lórí àròkọ ní ìkànnì àjọlò kan wọ̀n ṣàfikún ìsopọ̀ kan láàrín ara wọn àti àròkọ náà. Èyí ma wá ṣe ìsopọ̀ aṣàmúlò náà sí olùdásílẹ̀ náà nípasẹ̀ àròkọ náà. The more connections a network has the more valuable the information becomes. It is the relative and intentional connectedness of information that gives it value.
 
