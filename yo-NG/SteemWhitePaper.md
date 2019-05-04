@@ -497,7 +497,7 @@ Freedom of speech is the foundation of all other liberties and any infringement 
 
 ## Wíwá ojútùú sí Àwárí Aláìsanwó fún nípasẹ̀ Ìwádìí jálẹ̀ Ẹ̀rọ
 
-Ọ̀pọ̀lọpọ̀ àwọn cryptocurrency má n pèsè ìwúlò kékeré fún àwọn tó kìí fi taratara lo ìkànnì náà. Steem, ní òdìkejì, n pèsè àròkọ tí ó sì n gba àwọn aṣàmúlò níyànjú láti sọ nípa rẹ̀. Àròkọ yìí yíò gba ìtọ́kasí nípasẹ̀ àwọn ẹ̀rọ ìṣàwárí àti pé yíò mú ìwúlò wa fún ọ̀pọ̀lọpọ̀ àwọn aṣàmúlò aláìṣiṣẹ́ níkẹyìn. This search traffic creates organic advertising for the Steem network and grows the network effect.
+Ọ̀pọ̀lọpọ̀ àwọn cryptocurrency má n pèsè ìwúlò kékeré fún àwọn tó kìí fi taratara lo ìkànnì náà. Steem, ní òdìkejì, n pèsè àròkọ tí ó sì n gba àwọn aṣàmúlò níyànjú láti sọ nípa rẹ̀. Àròkọ yìí yíò gba ìtọ́kasí nípasẹ̀ àwọn ẹ̀rọ ìṣàwárí àti pé yíò mú ìwúlò wa fún ọ̀pọ̀lọpọ̀ àwọn aṣàmúlò aláìṣiṣẹ́ níkẹyìn. Ìbẹ̀wò ìṣàwárí yìí yíò ṣàgbékalẹ̀ ìpolówó aláìsanwó-fún fún ìkànnì Steem náà tí yíò sì mú ìdàgbàsókè bá ipa ìkànnì náà.
 
 ## Shifting Toward Blockchain-based Attribution
 
@@ -513,9 +513,9 @@ Under most content monetization models, content creators leverage advertising in
 
 Creators posting to social media outlets that are connected to Steem may monetize merely by having their work recognized (or ”liked”) by the Steem community. Blockchain-based payouts are completely digital and have no middle-man. Therefore monetization by blockchain-based content rewards should be faster and much lower barrier to use than monetization by advertisements.
 
-# Conclusion
+# Ìparí
 
-Steem is an experiment designed to address challenges in the cryptocurrency and social media industries by combining the best aspects from both. Steem presents earning opportunities to content creators and internet readers in ways that have not existed within the social media industry. Within Steem, individuals earn real rewards online that are directly correlated to their contributions. Those rewards may have dollar value due to the market price discovery and liquidity of Steem, and the people who hold Steem may have more exclusive earning powers than those who do not.
+Steem jẹ́ àyẹwò kan tí a ṣe láti yanjú àwọn ìṣòro tó wà nínú àwùjọ cryptocurrency àti ìkànnì àjọlò nípasẹ̀ sísopọ̀ àwọn apá tó dára jù lára méjèèjì. Steem n ṣàgbékalẹ̀ àwọn anfààní láti pa owó fún àwọn tó n kọ àròkọ àti àwọn tó n kà lórí íntánẹ́ẹ̀tì ní àwọn ọnà tí kò sí irú rẹ̀ tẹ́lẹ̀ láàrín àwùjọ ìkànnì àjọlò. Nínú Steem, àwọn èèyàn n gba ẹ̀san gidi lórí ayélujára tó ní ìbáṣepọ̀ tààrà pẹ̀lú àwọn ipa wọn. Those rewards may have dollar value due to the market price discovery and liquidity of Steem, and the people who hold Steem may have more exclusive earning powers than those who do not.
 
 [^1]: Reddit’s Cryptocurrency, Forbes, Erika Morphy, October 2014 http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/\#4e07b05332b9
 
