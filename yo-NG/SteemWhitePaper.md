@@ -24,7 +24,7 @@ Lápapọ̀, àròkọ tí aṣàmúlò ṣẹ̀dá ti pèsè iye tó bílíọ�
 
 Ìlànà kejì ni pé gbogbo onírúurú owó ìṣòwò wúlò lọ́nà kannáà. Èyí túmọ̀sí pé àwọn tó pèsè àkókò àti àfiyèsí wọn tó ṣọ̀wọ́n láti ṣàgbéjáde àti ṣàmójútó àròkọ fún àwọn mìíràn wúlò gẹ́gẹ́ bí àwọn tó pèsè owó wọn tó ṣọ̀wọ́n. Èyí ni ìlànà ìdókòwò pẹ̀lú iṣẹ́ náà[^2] àti pé ó jẹ́ èròngbà tí àwọn cryptocurrency tó ti wà ṣáájú sábà má n ní ìṣòro láti pèsè fún àwọn èèyàn tí o ju mélòó kan.
 
-Ìlànà kẹta ní pé àwùjọ náà ni yíò ma ṣètò àwọn ìpèsè fún àwọn ọmọ ẹgbẹ́ rẹ̀. Ope yii je apeere nipase awon aladani gbese, awon igbimo ounje, ati awon ipinnu ipinpin isowo, ti o nsin si awon omo egbe ti agbegbe won ju ki o ta awon oja ise si awon eneiyan ti ita ilu.
+Ìlànà kẹta ní pé àwùjọ náà ni yíò ma ṣètò àwọn ìpèsè fún àwọn ọmọ ẹgbẹ́ rẹ̀. Ìlànà yìí ni a fi àpẹẹrẹ rẹ̀ lélẹ̀ nípasẹ̀ àwọn ẹgbẹ́ ìdókòwò, ìgbìmọ̀ oúnjẹ, àti àwọn ètò ìlera pínpín, èyí tó n pèsè fún àwọn ọmọ ẹgbẹ́ tó wà nínú àwùjọ wọn dípò kí wọn ta àwọn ọjà tàbí ìpèsè fún àwọn èèyàn tó wà ní ìta àwùjọ náà.
 
 Ipinle Steemu pese awon ise wonyi si awon omo egbe re:
 
