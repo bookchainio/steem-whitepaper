@@ -29,7 +29,7 @@ Lápapọ̀, àròkọ tí aṣàmúlò ṣẹ̀dá ti pèsè iye tó bílíọ�
 Àwùjọ Steem n ṣètò àwọn ìpèsè wọ̀nyí fún àwọn ọmọ ẹgbẹ́ rẹ̀:
 
 1. Orísun ìròyìn ati ìdáásí tó ní àmójútó.
-2. Ona lati gba awon idahun to gaju si ibeere ti ara eni.
+2. Ọnà kan láti gba àwọn ojúlówó ìdáhùn sí àwọn ìbéèrè tó bá ìfẹ́ ẹni mu.
 3. Idurosinsin ijerisi ti o wa si awon dola Amerika.
 4. Awon sisanwo ofe.
 5. Ipese ise awon ise ti o loke si awon omo egbe miiran.
