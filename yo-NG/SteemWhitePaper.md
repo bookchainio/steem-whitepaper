@@ -473,9 +473,9 @@ Nípasẹ̀ ṣíṣe ìwúrí fún àmójútó ìkànnì Steem ní ààyè lát
 
 ## Wíwá ojútùú sí Ìṣòro Wíwọ inú Cryptocurrency
 
-Kò rọrùn láti wọ inú cryptocurrency[^21]. Ẹnìkan tó bá ṣẹ̀ṣẹ̀ rí Bitcoin tó sì fẹ́ gbìyànjú rẹ̀ wò ma tètè kẹ́kọ̀ọ́ pé wọ́n ní láti forúkọ sílẹ̀ pẹ̀lú ọjà pàṣípààrọ̀ kan àti sanwó sí account wọn pẹ̀lú káàdì arọ́pò owó tàbí fífi owó ránṣẹ́ lórí ayélujára. What would Facebook’s adoption rate have been like if you had to fork over money and a two forms of ID?
+Kò rọrùn láti wọ inú cryptocurrency[^21]. Ẹnìkan tó bá ṣẹ̀ṣẹ̀ rí Bitcoin tó sì fẹ́ gbìyànjú rẹ̀ wò ma tètè kẹ́kọ̀ọ́ pé wọ́n ní láti forúkọ sílẹ̀ pẹ̀lú ọjà pàṣípààrọ̀ kan àti sanwó sí account wọn pẹ̀lú káàdì arọ́pò owó tàbí fífi owó ránṣẹ́ lórí ayélujára. Báwo ni iye ìtẹ́wọ́gbà ti Facebook ì bá ṣe rí tí o bá ní láti sanwó àti ID oríṣi méjì kan?
 
-Steem solves this problem by giving everyone a way to get paid for doing simple, but valuable, tasks. This will help to widely distribute STEEM tokens. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless.)
+Steem yanjú ìṣòro yìí nípasẹ̀ fífún gbogbo èèyàn ní ọnà kan láti gbowó fún ṣíṣe àwọn iṣẹ́ tó rọrùn, ṣùgbọ́n tó wúlò. Èyí yíò ṣe ìrànlọ́wọ́ láti pín àwọn token STEEM káàkiri. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless.)
 
 ## Solving the Cryptocurrency Liquidation Problem
 
