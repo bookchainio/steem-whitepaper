@@ -497,7 +497,7 @@ Freedom of speech is the foundation of all other liberties and any infringement 
 
 ## Wíwá ojútùú sí Àwárí Aláìsanwó fún nípasẹ̀ Ìwádìí jálẹ̀ Ẹ̀rọ
 
-Most cryptocurrencies generate little value for those who are not actively using the network. Steem, by contrast, generates content and encourages users to share it. This content gets indexed by search engines and ultimately will bring value to a large number of passive users. This search traffic creates organic advertising for the Steem network and grows the network effect.
+Ọ̀pọ̀lọpọ̀ àwọn cryptocurrency má n pèsè ìwúlò kékeré fún àwọn tó kìí fi taratara lo ìkànnì náà. Steem, ní òdìkejì, n pèsè àròkọ tí ó sì n gba àwọn aṣàmúlò níyànjú láti sọ nípa rẹ̀. Àròkọ yìí yíò gba ìtọ́kasí nípasẹ̀ àwọn ẹ̀rọ ìṣàwárí àti pé yíò mú ìwúlò wa fún ọ̀pọ̀lọpọ̀ àwọn aṣàmúlò aláìṣiṣẹ́ níkẹyìn. This search traffic creates organic advertising for the Steem network and grows the network effect.
 
 ## Shifting Toward Blockchain-based Attribution
 
