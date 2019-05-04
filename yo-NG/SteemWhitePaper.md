@@ -471,9 +471,9 @@ Síwájú si, Steem n sanwó fún àwọn èèyàn láti ronú nípa ẹni tó y
 
 Nípasẹ̀ ṣíṣe ìwúrí fún àmójútó ìkànnì Steem ní ààyè láti lo àwọn ìlànà tó n ṣíṣe fúnra wọn láti gbé ìròyìn tó wúlò jù jáde lára ọ̀pọ̀lọpọ̀ àwọn àròkọ.
 
-## Solving the Cryptocurrency Onboarding Problem
+## Wíwá ojútùú sí Ìṣòro Wíwọ inú Cryptocurrency
 
-It isn’t easy to get into cryptocurrency[^21]. Someone who discovers Bitcoin and wants to try it out quickly learns that they will need to sign up with an exchange and fund their account with a credit card or wire transfer. What would Facebook’s adoption rate have been like if you had to fork over money and a two forms of ID?
+Kò rọrùn láti wọ inú cryptocurrency[^21]. Ẹnìkan tó bá ṣẹ̀ṣẹ̀ rí Bitcoin tó sì fẹ́ gbìyànjú rẹ̀ wò ma tètè kẹ́kọ̀ọ́ pé wọ́n ní láti forúkọ sílẹ̀ pẹ̀lú ọjà pàṣípààrọ̀ kan àti sanwó sí account wọn pẹ̀lú káàdì arọ́pò owó tàbí fífi owó ránṣẹ́ lórí ayélujára. What would Facebook’s adoption rate have been like if you had to fork over money and a two forms of ID?
 
 Steem solves this problem by giving everyone a way to get paid for doing simple, but valuable, tasks. This will help to widely distribute STEEM tokens. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless.)
 
