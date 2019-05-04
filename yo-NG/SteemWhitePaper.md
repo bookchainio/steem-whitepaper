@@ -26,9 +26,9 @@ Lápapọ̀, àròkọ tí aṣàmúlò ṣẹ̀dá ti pèsè iye tó bílíọ�
 
 Ìlànà kẹta ní pé àwùjọ náà ni yíò ma ṣètò àwọn ìpèsè fún àwọn ọmọ ẹgbẹ́ rẹ̀. Ìlànà yìí ni a fi àpẹẹrẹ rẹ̀ lélẹ̀ nípasẹ̀ àwọn ẹgbẹ́ ìdókòwò, ìgbìmọ̀ oúnjẹ, àti àwọn ètò ìlera pínpín, èyí tó n pèsè fún àwọn ọmọ ẹgbẹ́ tó wà nínú àwùjọ wọn dípò kí wọn ta àwọn ọjà tàbí ìpèsè fún àwọn èèyàn tó wà ní ìta àwùjọ náà.
 
-Ipinle Steemu pese awon ise wonyi si awon omo egbe re:
+Àwùjọ Steem n ṣètò àwọn ìpèsè wọ̀nyí fún àwọn ọmọ ẹgbẹ́ rẹ̀:
 
-1. Orisun ti awon iroyin ti a ti dani ati asoye.
+1. Orísun ìròyìn ati ìdáásí tó ní àmójútó.
 2. Ona lati gba awon idahun to gaju si ibeere ti ara eni.
 3. Idurosinsin ijerisi ti o wa si awon dola Amerika.
 4. Awon sisanwo ofe.
