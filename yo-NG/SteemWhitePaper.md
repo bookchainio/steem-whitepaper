@@ -30,8 +30,8 @@ Lápapọ̀, àròkọ tí aṣàmúlò ṣẹ̀dá ti pèsè iye tó bílíọ�
 
 1. Orísun ìròyìn ati ìdáásí tó ní àmójútó.
 2. Ọnà kan láti gba àwọn ojúlówó ìdáhùn sí àwọn ìbéèrè tó bá ìfẹ́ ẹni mu.
-3. Idurosinsin ijerisi ti o wa si awon dola Amerika.
-4. Awon sisanwo ofe.
+3. Cryptocurrency tó fìdí múlẹ̀ kan tí a ṣètò sí dọ́là U.S. náà.
+4. Àwọn ìsanwó ọ̀fẹ́.
 5. Ipese ise awon ise ti o loke si awon omo egbe miiran.
 
 Iseduro ti Steemu ni idileyin ti awon imudaniloju oro-aje ni o ni agbara lati se agbejade ati die sii awon esi iyasoto fun gbogbo eniyan ti o ni ipa ju awon awoju oun igberohinjade ati awon kryptokorensi awon iru ero ti o ti lo saaju awon lo. Iwe yii yoo se awari awon igbesi-aye awon isowo ti o wa tele ati ki o se afihan bi awon imudaniloju Steemu se le mu awon esi to dara julo fun opolopo awon olukopa.
