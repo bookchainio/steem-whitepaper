@@ -445,9 +445,9 @@ Collectively Reddit users vote 220 times per second and make 23 posts per second
 
 ## Kò sí àwọn Ìsanwó kékeré, àwọn Ẹbùn kò pọn dandan
 
-Àwọn ìgbìyànjú tó wà tẹ́lẹ̀ láti ṣe àsopọ̀ cryptocurrency kan sínú ètò ìkànnì àjọlò kan ti dojú kọ fífi ààyè gba àwọn aṣàmúlò láti sanwó fún ara wọn. Ọ̀pọ̀lọpọ̀ àwọn iṣẹ́ ti gbìyànjú láti sàgbékalẹ̀ fí fúnni lẹ́bùn. Àròjinlẹ̀ náà ni pé tí a bá mú fí fúnni lẹ́bùn rọrùn dáadáa nígbà náà ni àwọn èèyàn púpọ̀ máa ṣe. Other services attempt to get people to pay to promote or boost their content’s ranking. Still others attempt to build small prediction markets on how many tips an article will receive.
+Àwọn ìgbìyànjú tó wà tẹ́lẹ̀ láti ṣe àsopọ̀ cryptocurrency kan sínú ètò ìkànnì àjọlò kan ti dojú kọ fífi ààyè gba àwọn aṣàmúlò láti sanwó fún ara wọn. Ọ̀pọ̀lọpọ̀ àwọn iṣẹ́ ti gbìyànjú láti sàgbékalẹ̀ fí fúnni lẹ́bùn. Àròjinlẹ̀ náà ni pé tí a bá mú fí fúnni lẹ́bùn rọrùn dáadáa nígbà náà ni àwọn èèyàn púpọ̀ máa ṣe. Àwọn iṣẹ́ mìíràn gbìyànjú láti mú kí àwọn èèyàn sanwó láti ṣe ìgbéga tàbí àtìlẹ́yìn ipò ti àròkọ wọn. Síbẹ̀síbẹ̀ àwọn mìíràn gbìyànjú láti ṣètò àwọn ọjà àsọtẹlẹ kékèké lórí iye àwọn ẹbùn tí àròkọ kan ma gbà.
 
-All of these approaches boil down to micropayments. They differ only in who is making the payment. They all suffer from insufficient engagement of people making the micropayments. In the search for incentivised content production entrepreneurs have been so focused on who should pay that they missed the obvious reality: everyone benefits from everyone’s actions so everyone should pay or no one should pay, depending on how you look at it.
+Èyí tó wá ṣe pàtàkì jù nínú àwọn ìgbìyànjú wọ̀nyí ni àwọn ìsanwó kékèké. Ọnà tí wọn fi yàtọ̀ nìkan ni ẹni tó n sanwó náà. Gbogbo wọn n jìyà lára àìní ìlọ́wọ́sí tó pọ̀ tó ti àwọn èèyàn tó n san àwọn owó kékèké náà. In the search for incentivised content production entrepreneurs have been so focused on who should pay that they missed the obvious reality: everyone benefits from everyone’s actions so everyone should pay or no one should pay, depending on how you look at it.
 
 Steem bypasses micropayments completely because when a user upvotes a post it is the community that pays the bill. The same amount of money will be spent whether the user upvotes a post or not and the funds will not come from the voter.
 
