@@ -443,9 +443,9 @@ Because everyone benefits, everyone should pay. In other words, no individual us
 
 Collectively Reddit users vote 220 times per second and make 23 posts per second. Reddit is valued between $500 million[^18] and $4 billion[^19] which means that each and every upvote and post is worth between $0.06 and $0.50 assuming the value of Reddit is mostly within the past year’s worth of activity. One could argue that most of the value of Reddit is the near-real-time discussions that have occurred within the past week which would dramatically increase the value of new activity. People go where people are today, not where people were last year.
 
-## No Micropayments, Tips Optional
+## Kò sí àwọn Ìsanwó kékeré, àwọn Ẹbùn kò pọn dandan
 
-Existing attempts at integrating a cryptocurrency into a social media platform have focused on enabling users to pay one another. Many services have attempted to introduce tipping. The theory is that if we make tipping simple enough then more people will do it. Other services attempt to get people to pay to promote or boost their content’s ranking. Still others attempt to build small prediction markets on how many tips an article will receive.
+Àwọn ìgbìyànjú tó wà tẹ́lẹ̀ láti ṣe àsopọ̀ cryptocurrency kan sínú ètò ìkànnì àjọlò kan ti dojú kọ fífi ààyè gba àwọn aṣàmúlò láti sanwó fún ara wọn. Ọ̀pọ̀lọpọ̀ àwọn iṣẹ́ ti gbìyànjú láti sàgbékalẹ̀ fí fúnni lẹ́bùn. Àròjinlẹ̀ náà ni pé tí a bá mú fí fúnni lẹ́bùn rọrùn dáadáa nígbà náà ni àwọn èèyàn púpọ̀ máa ṣe. Other services attempt to get people to pay to promote or boost their content’s ranking. Still others attempt to build small prediction markets on how many tips an article will receive.
 
 All of these approaches boil down to micropayments. They differ only in who is making the payment. They all suffer from insufficient engagement of people making the micropayments. In the search for incentivised content production entrepreneurs have been so focused on who should pay that they missed the obvious reality: everyone benefits from everyone’s actions so everyone should pay or no one should pay, depending on how you look at it.
 
