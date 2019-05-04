@@ -467,9 +467,9 @@ Síwájú si, Steem n sanwó fún àwọn èèyàn láti ronú nípa ẹni tó y
 
 Àwọn ìsopọ̀ le wá ní oríṣiríṣi ọnà tí wọ́n sì n bá ipò mu bí àkókò tí n lọ. Gbogbo ìgbà tí aṣàmúlò kan bá dìbò lórí àròkọ ní ìkànnì àjọlò kan wọ̀n ṣàfikún ìsopọ̀ kan láàrín ara wọn àti àròkọ náà. Èyí ma wá ṣe ìsopọ̀ aṣàmúlò náà sí olùdásílẹ̀ náà nípasẹ̀ àròkọ náà. Bi àwọn ìsopọ̀ ti ìkànnì kan ní bá ṣe pọ̀ tó ní bí ìròyìn náà yíò ṣe wúlò tó. Ìṣàsopọ̀ tí a mọ̀ọ́mọ̀ ṣe láàrín àwọn ìròyìn ló n fun un ní ìwúlò.
 
-Ìkànnì àjọlò kan le ṣàfikún ìwúlò tí a lè rí lára àpapọ̀ àwọn àròkọ kan nípasẹ̀ ṣíṣe àlékún iye àti ìjójúlówó àwọn ìsopọ̀. Ṣíṣe àmójútó àròkọ máa n náni lówó àti pé ó máa n gba àkókò nígbàtí ó sì súnmọ́ aláìṣeéṣe fún àwọn kọ̀mpútà láti ṣe láìsí àwọn ìsopọ̀. Steem rewards users who are among the first to find and identify new content.
+Ìkànnì àjọlò kan le ṣàfikún ìwúlò tí a lè rí lára àpapọ̀ àwọn àròkọ kan nípasẹ̀ ṣíṣe àlékún iye àti ìjójúlówó àwọn ìsopọ̀. Ṣíṣe àmójútó àròkọ máa n náni lówó àti pé ó máa n gba àkókò nígbàtí ó sì súnmọ́ aláìṣeéṣe fún àwọn kọ̀mpútà láti ṣe láìsí àwọn ìsopọ̀. Steem má n san ẹ̀san fún àwọn aṣàmúlò tó wà lára àwọn tó kọ́kọ́ ṣàwárí àti ṣàrídájú àròkọ tuntun.
 
-By incentivising curation the Steem network is able to use automated algorithms to extract the most valuable information from a massive amount of content.
+Nípasẹ̀ ṣíṣe ìwúrí fún àmójútó ìkànnì Steem ní ààyè láti lo àwọn ìlànà tó n ṣíṣe fúnra wọn láti gbé ìròyìn tó wúlò jù jáde lára ọ̀pọ̀lọpọ̀ àwọn àròkọ.
 
 ## Solving the Cryptocurrency Onboarding Problem
 
