@@ -459,11 +459,11 @@ Agbára ìrònú tó ní ìsopọ̀ pẹ̀lú ṣíṣe ìpinnu ọrọ̀ ajé k
 
 Lábẹ́ Steem, àwọn ìsanwó kékèké ni a san fún olùdásílẹ̀ àròkọ, ṣùgbọ́n àwọn tó dìbò fún àròkọ náà kò ní sanwó. Dípò, owó ẹ̀san náà ma jẹ́ sísan nípasẹ̀ àwọn token tuntun. Ẹnìkan le darapọ̀ mọ́ ètò náà, dìbò láti sanwó fún ẹnìkan, àti jáde kúrò nínú ètò náà pẹ̀lú owó tó pọ̀ ju èyí tí wọn fi bẹ̀rẹ̀ lọ (pẹ̀lú èrò pé ìdíyelé ọjà ti ètò Steem kò yípadà). Èyí túmò sí pé, ojútùú ìsanwó kékèké náà tí a pèsè nípasẹ̀ Steem yíò pèsè ìrírí aṣàmúlò tó jọ ọ̀pọ̀lọpọ̀ àwọn ààyè ayélujára tó gbajúmọ̀ tó sì ní àròkọ tí aṣàmúlò n mójútó.
 
-Furthemore, Steem pays people to figure out who should be paid! This kind of thinking is revolutionary.
+Síwájú si, Steem n sanwó fún àwọn èèyàn láti ronú nípa ẹni tó yẹ kó gbowó! Irú ìrònú yìí jẹ́ ìyípadà pàtàkì.
 
-## Value is in the Links
+## Iyì wà nínú àwọn Ìsopọ̀ náà
 
-The Internet would lose the vast majority of its value if all links among content were removed. It is the relationship among web pages that allows Google to identify the best apple pie recipe among the 16 million results. Without the links the only information Google would have is word frequency.
+Íntánẹ́ẹ̀tì yíò pàdánù èyí tó pọ̀ jù lára iyì rẹ tí gbogbo àwọn ìsopọ̀ láàrín àwọn àròkọ bá gba yíyọ kúrò. Ìbáṣepọ̀ tó wà láàrín àwọn ojúewé ayélujára ló fi ààyè gba Google láti ṣàwarí àpèjúwe apple pie tó dára jù lára àwọn èsì mílíọ̀nù 16 náà. Láìsí àwọn ìsopọ̀ náà ìròyìn kan ṣoṣo tí Google yíò ní ni ìwọ́pọ̀ ọ̀rọ̀.
 
 Links can take many forms and have adapted over time. Every time a user votes on content in a social network they add a connection between themselves and the content. This in turn links the consumer to the producer through the content. The more connections a network has the more valuable the information becomes. It is the relative and intentional connectedness of information that gives it value.
 
