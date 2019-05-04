@@ -515,7 +515,7 @@ Creators posting to social media outlets that are connected to Steem may monetiz
 
 # Ìparí
 
-Steem jẹ́ àyẹwò kan tí a ṣe láti yanjú àwọn ìṣòro tó wà nínú àwùjọ cryptocurrency àti ìkànnì àjọlò nípasẹ̀ sísopọ̀ àwọn apá tó dára jù lára méjèèjì. Steem n ṣàgbékalẹ̀ àwọn anfààní láti pa owó fún àwọn tó n kọ àròkọ àti àwọn tó n kà lórí íntánẹ́ẹ̀tì ní àwọn ọnà tí kò sí irú rẹ̀ tẹ́lẹ̀ láàrín àwùjọ ìkànnì àjọlò. Nínú Steem, àwọn èèyàn n gba ẹ̀san gidi lórí ayélujára tó ní ìbáṣepọ̀ tààrà pẹ̀lú àwọn ipa wọn. Those rewards may have dollar value due to the market price discovery and liquidity of Steem, and the people who hold Steem may have more exclusive earning powers than those who do not.
+Steem jẹ́ àyẹwò kan tí a ṣe láti yanjú àwọn ìṣòro tó wà nínú àwùjọ cryptocurrency àti ìkànnì àjọlò nípasẹ̀ sísopọ̀ àwọn apá tó dára jù lára méjèèjì. Steem n ṣàgbékalẹ̀ àwọn anfààní láti pa owó fún àwọn tó n kọ àròkọ àti àwọn tó n kà lórí íntánẹ́ẹ̀tì ní àwọn ọnà tí kò sí irú rẹ̀ tẹ́lẹ̀ láàrín àwùjọ ìkànnì àjọlò. Nínú Steem, àwọn èèyàn n gba ẹ̀san gidi lórí ayélujára tó ní ìbáṣepọ̀ tààrà pẹ̀lú àwọn ipa wọn. Àwọn ẹ̀san yẹn le ní iye dọ́là nítorí ìṣàwárí iye owó ọjà àti níná ti Steem, àti pé àwọn èèyàn tó di Steem mu le ní àwọn àfikún ìyasọ́tọ̀ agbára láti rówó ju àwọn tí kò dìmú.
 
 [^1]: Reddit’s Cryptocurrency, Forbes, Erika Morphy, October 2014 http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/\#4e07b05332b9
 
