@@ -475,7 +475,7 @@ Nípasẹ̀ ṣíṣe ìwúrí fún àmójútó ìkànnì Steem ní ààyè lát
 
 Kò rọrùn láti wọ inú cryptocurrency[^21]. Ẹnìkan tó bá ṣẹ̀ṣẹ̀ rí Bitcoin tó sì fẹ́ gbìyànjú rẹ̀ wò ma tètè kẹ́kọ̀ọ́ pé wọ́n ní láti forúkọ sílẹ̀ pẹ̀lú ọjà pàṣípààrọ̀ kan àti sanwó sí account wọn pẹ̀lú káàdì arọ́pò owó tàbí fífi owó ránṣẹ́ lórí ayélujára. Báwo ni iye ìtẹ́wọ́gbà ti Facebook ì bá ṣe rí tí o bá ní láti sanwó àti ID oríṣi méjì kan?
 
-Steem yanjú ìṣòro yìí nípasẹ̀ fífún gbogbo èèyàn ní ọnà kan láti gbowó fún ṣíṣe àwọn iṣẹ́ tó rọrùn, ṣùgbọ́n tó wúlò. Èyí yíò ṣe ìrànlọ́wọ́ láti pín àwọn token STEEM káàkiri. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless.)
+Steem yanjú ìṣòro yìí nípasẹ̀ fífún gbogbo èèyàn ní ọnà kan láti gbowó fún ṣíṣe àwọn iṣẹ́ tó rọrùn, ṣùgbọ́n tó wúlò. Èyí yíò ṣe ìrànlọ́wọ́ láti pín àwọn token STEEM káàkiri. Èyí wúlò nítorí pé àwọn cryptocurrency ní ipa ìkànnì kan (ìyẹn ni pé àwọn aṣàmúlò tó pọ̀ yíò mu kó wúlò púpọ̀; fún àpẹẹrẹ nlá kan, wòye wípé tí Satoshi bá tọ́jú 100% ti Bitcoin fún ara rẹ̀, Bitcoin kò lè ní ìwúlò.)
 
 ## Solving the Cryptocurrency Liquidation Problem
 
@@ -495,7 +495,7 @@ Individual websites such as steemit.com may censor content on their particular s
 
 Freedom of speech is the foundation of all other liberties and any infringement upon freedom of speech undermines the only peaceful means of reaching consensus: discussion. Without free discussion voters cannot be fully informed, and uninformed voters are a greater threat to society than losing the right to vote. Censorship is a means of stealing votes through limiting public discourse. Steem is committed to enabling free speech and building a free society.
 
-## Solving Organic Discovery via Search Engine Optimization
+## Wíwá ojútùú sí Àwárí Aláìsanwó fún nípasẹ̀ Ìwádìí jálẹ̀ Ẹ̀rọ
 
 Most cryptocurrencies generate little value for those who are not actively using the network. Steem, by contrast, generates content and encourages users to share it. This content gets indexed by search engines and ultimately will bring value to a large number of passive users. This search traffic creates organic advertising for the Steem network and grows the network effect.
 
