@@ -481,9 +481,9 @@ Steem yanjú ìṣòro yìí nípasẹ̀ fífún gbogbo èèyàn ní ọnà kan 
 
 Owó kan tó nira láti lò tàbí tí kò ṣeéṣe láti tà ní ìwúlò kékeré. Ẹni tó bá rí iye Bitcoin tó jẹ́ $1.00 yíò ri pé ó ma ná ju $1.00 láti ta Bitcoin yẹn. Wọ́n ní láti ṣẹ̀dá account kan pẹ̀lú ọjà pàṣípààrọ̀ kan, ṣe ìjẹ́rìísí KYC, àti san àwọn owó. Àwọn iye cryptocurrency kékèké dàbí àwọn owó kékèké tí àwọn èèyàn kò fẹ́ bẹ̀rẹ̀ mọ́lẹ̀ láti mú.
 
-Àwọn oníṣòwò yíò fún àwọn aṣàmúlò ní ọnà kan láti tètè ṣàyípadà cryptocurrency wọn sí àwọn ojúlówó ọjà àti iṣẹ́. Àwọn oníṣòwò nílò owó kan tí a ṣètò sí ìwọ̀n owó wọn, tó sábà má n jẹ́ dọ́là. Accepting a volatile currency introduces significant accounting overhead.
+Àwọn oníṣòwò yíò fún àwọn aṣàmúlò ní ọnà kan láti tètè ṣàyípadà cryptocurrency wọn sí àwọn ojúlówó ọjà àti iṣẹ́. Àwọn oníṣòwò nílò owó kan tí a ṣètò sí ìwọ̀n owó wọn, tó sábà má n jẹ́ dọ́là. Gbígba owó tí kò ní iye pàtó kan yíò mú ìnáwó ìṣirò-owó tó pọ̀ wa.
 
-Merchants will accept any currency if it increases their sales. Having a large user base with a stable currency such as SBD lowers the barrier to entry for merchants. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
+Àwọn oníṣòwò yíò gba èyíkéyìí owó tí ó bá ma ṣe àlékún ọjà títà wọn. Níní aṣàmúlò tó pọ̀ pẹ̀lú owó tó fẹsẹ̀ múlẹ̀ bíi SMD yíò dín ìdènà ìwọlé náà kù fún àwọn oníṣòwò. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
 
 Another way that people can liquidate the small amounts of cryptocurrency they receive from participating on the Steem platform is through *tipping* others. This is like leaving the small change as a tip for your waiter. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
 
