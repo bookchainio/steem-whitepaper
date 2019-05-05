@@ -489,11 +489,11 @@ Owó kan tó nira láti lò tàbí tí kò ṣeéṣe láti tà ní ìwúlò ké
 
 ## Ìfòfinde
 
-Steem jẹ́ ìkànnì kan tí ìjọba rẹ̀ kò sí lójúkan tó n ṣiṣẹ́ nípasẹ̀ àwọn olùwàjáde ní abẹ́ àwọn àṣẹ káàkiri àgbáyé. Gbogbo àwọn iṣẹ́ aṣàmúlò ní àkọsílẹ gbangba lórí blockchain náà, tó sì ṣeé ṣèwádìí ní gbangba. This means that there is no single entity that can censor content that is valued by STEEM holders.
+Steem jẹ́ ìkànnì kan tí ìjọba rẹ̀ kò sí lójúkan tó n ṣiṣẹ́ nípasẹ̀ àwọn olùwàjáde ní abẹ́ àwọn àṣẹ káàkiri àgbáyé. Gbogbo àwọn iṣẹ́ aṣàmúlò ní àkọsílẹ gbangba lórí blockchain náà, tó sì ṣeé ṣèwádìí ní gbangba. Èyí túmọ̀sí pé kò sí àjọ kan ṣoṣo tó lè fòfin de àròkọ tó ní ìwúlò nípasẹ̀ àwọn tó n di STEEM mú.
 
-Individual websites such as steemit.com may censor content on their particular site, but content published on the blockchain is inherently broadcast traffic and mirrors all around the world may continue to make it available.
+Àwọn ààyè ayélujára kọ̀ọ̀kan gẹ́gẹ́ bí steemit.com le fòfin de àròkọ lórí ààyè ayélujára tiwọn, ṣùgbọ́n àròkọ tí a bá ṣàtẹ̀jáde sórí blockchain ti jẹ́ pínpín sórí àwọn ẹ̀ka káàkiri àti pé àwọn àfijọ káàkiri àgbáyé le tẹ̀síwájú láti mu kí ó wà lárọ̀ọ́wọ́tó.
 
-Freedom of speech is the foundation of all other liberties and any infringement upon freedom of speech undermines the only peaceful means of reaching consensus: discussion. Without free discussion voters cannot be fully informed, and uninformed voters are a greater threat to society than losing the right to vote. Censorship is a means of stealing votes through limiting public discourse. Steem is committed to enabling free speech and building a free society.
+Òmìnira ọ̀rọ̀ sísọ jẹ́ ìpìlẹ̀ gbogbo àwọn òmìnira yòókù àti pé iyànjẹ kankan lórí òmìnira ọ̀rọ̀ sísọ yóò ṣe àkóbá fún ọnà àlàáfíà kan ṣoṣo tó wà láti rí ìṣọ̀kan: ìjíròrò. Without free discussion voters cannot be fully informed, and uninformed voters are a greater threat to society than losing the right to vote. Censorship is a means of stealing votes through limiting public discourse. Steem is committed to enabling free speech and building a free society.
 
 ## Wíwá ojútùú sí Àwárí Aláìsanwó fún nípasẹ̀ Ìwádìí jálẹ̀ Ẹ̀rọ
 
