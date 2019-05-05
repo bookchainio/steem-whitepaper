@@ -479,9 +479,9 @@ Steem yanjú ìṣòro yìí nípasẹ̀ fífún gbogbo èèyàn ní ọnà kan 
 
 ## Wíwá ojútùú sí Ìṣòro Ìpalẹ̀mọ́ Cryptocurrency
 
-Owó kan tó nira láti lò tàbí tí kò ṣeéṣe láti tà ní ìwúlò kékeré. Someone who comes across $1.00 worth of Bitcoin will discover that it costs more than $1.00 to sell that Bitcoin. They have to create an account with an exchange, perform KYC validation, and pay fees. Small amounts of cryptocurrency are like small change that people are unwilling to bend over to pick up.
+Owó kan tó nira láti lò tàbí tí kò ṣeéṣe láti tà ní ìwúlò kékeré. Ẹni tó bá rí iye Bitcoin tó jẹ́ $1.00 yíò ri pé ó ma ná ju $1.00 láti ta Bitcoin yẹn. Wọ́n ní láti ṣẹ̀dá account kan pẹ̀lú ọjà pàṣípààrọ̀ kan, ṣe ìjẹ́rìísí KYC, àti san àwọn owó. Àwọn iye cryptocurrency kékèké dàbí àwọn owó kékèké tí àwọn èèyàn kò fẹ́ bẹ̀rẹ̀ mọ́lẹ̀ láti mú.
 
-Merchants give users a way to quickly convert their cryptocurrency into tangible goods and services. Merchants need a currency pegged to their unit of account, normally dollars. Accepting a volatile currency introduces significant accounting overhead.
+Àwọn oníṣòwò yíò fún àwọn aṣàmúlò ní ọnà kan láti tètè ṣàyípadà cryptocurrency wọn sí àwọn ojúlówó ọjà àti iṣẹ́. Àwọn oníṣòwò nílò owó kan tí a ṣètò sí ìwọ̀n owó wọn, tó sábà má n jẹ́ dọ́là. Accepting a volatile currency introduces significant accounting overhead.
 
 Merchants will accept any currency if it increases their sales. Having a large user base with a stable currency such as SBD lowers the barrier to entry for merchants. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
 
