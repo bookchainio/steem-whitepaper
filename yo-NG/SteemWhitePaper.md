@@ -489,7 +489,7 @@ Owó kan tó nira láti lò tàbí tí kò ṣeéṣe láti tà ní ìwúlò ké
 
 ## Ìfòfinde
 
-Steem is a decentralized network that is operated by witnesses in jurisdictions around the world. All user actions are publicly recorded on the blockchain, and can be publicly verified. This means that there is no single entity that can censor content that is valued by STEEM holders.
+Steem jẹ́ ìkànnì kan tí ìjọba rẹ̀ kò sí lójúkan tó n ṣiṣẹ́ nípasẹ̀ àwọn olùwàjáde ní abẹ́ àwọn àṣẹ káàkiri àgbáyé. Gbogbo àwọn iṣẹ́ aṣàmúlò ní àkọsílẹ gbangba lórí blockchain náà, tó sì ṣeé ṣèwádìí ní gbangba. This means that there is no single entity that can censor content that is valued by STEEM holders.
 
 Individual websites such as steemit.com may censor content on their particular site, but content published on the blockchain is inherently broadcast traffic and mirrors all around the world may continue to make it available.
 
