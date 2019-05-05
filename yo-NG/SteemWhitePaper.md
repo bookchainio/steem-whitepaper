@@ -477,9 +477,9 @@ Kò rọrùn láti wọ inú cryptocurrency[^21]. Ẹnìkan tó bá ṣẹ̀ṣ�
 
 Steem yanjú ìṣòro yìí nípasẹ̀ fífún gbogbo èèyàn ní ọnà kan láti gbowó fún ṣíṣe àwọn iṣẹ́ tó rọrùn, ṣùgbọ́n tó wúlò. Èyí yíò ṣe ìrànlọ́wọ́ láti pín àwọn token STEEM káàkiri. Èyí wúlò nítorí pé àwọn cryptocurrency ní ipa ìkànnì kan (ìyẹn ni pé àwọn aṣàmúlò tó pọ̀ yíò mu kó wúlò púpọ̀; fún àpẹẹrẹ nlá kan, wòye wípé tí Satoshi bá tọ́jú 100% ti Bitcoin fún ara rẹ̀, Bitcoin kò lè ní ìwúlò.)
 
-## Solving the Cryptocurrency Liquidation Problem
+## Wíwá ojútùú sí Ìṣòro Ìpalẹ̀mọ́ Cryptocurrency
 
-A currency that is difficult to use or impossible to sell has little value. Someone who comes across $1.00 worth of Bitcoin will discover that it costs more than $1.00 to sell that Bitcoin. They have to create an account with an exchange, perform KYC validation, and pay fees. Small amounts of cryptocurrency are like small change that people are unwilling to bend over to pick up.
+Owó kan tó nira láti lò tàbí tí kò ṣeéṣe láti tà ní ìwúlò kékeré. Someone who comes across $1.00 worth of Bitcoin will discover that it costs more than $1.00 to sell that Bitcoin. They have to create an account with an exchange, perform KYC validation, and pay fees. Small amounts of cryptocurrency are like small change that people are unwilling to bend over to pick up.
 
 Merchants give users a way to quickly convert their cryptocurrency into tangible goods and services. Merchants need a currency pegged to their unit of account, normally dollars. Accepting a volatile currency introduces significant accounting overhead.
 
