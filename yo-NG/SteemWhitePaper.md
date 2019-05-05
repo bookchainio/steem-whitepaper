@@ -483,9 +483,9 @@ Owó kan tó nira láti lò tàbí tí kò ṣeéṣe láti tà ní ìwúlò ké
 
 Àwọn oníṣòwò yíò fún àwọn aṣàmúlò ní ọnà kan láti tètè ṣàyípadà cryptocurrency wọn sí àwọn ojúlówó ọjà àti iṣẹ́. Àwọn oníṣòwò nílò owó kan tí a ṣètò sí ìwọ̀n owó wọn, tó sábà má n jẹ́ dọ́là. Gbígba owó tí kò ní iye pàtó kan yíò mú ìnáwó ìṣirò-owó tó pọ̀ wa.
 
-Àwọn oníṣòwò yíò gba èyíkéyìí owó tí ó bá ma ṣe àlékún ọjà títà wọn. Níní aṣàmúlò tó pọ̀ pẹ̀lú owó tó fẹsẹ̀ múlẹ̀ bíi SMD yíò dín ìdènà ìwọlé náà kù fún àwọn oníṣòwò. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
+Àwọn oníṣòwò yíò gba èyíkéyìí owó tí ó bá ma ṣe àlékún ọjà títà wọn. Níní aṣàmúlò tó pọ̀ pẹ̀lú owó tó fẹsẹ̀ múlẹ̀ bíi SMD yíò dín ìdènà ìwọlé náà kù fún àwọn oníṣòwò. Wíwà àwọn oníṣòwò náà yíò mú ìlọsíwájú bá ètò náà nípasẹ̀ ṣíṣẹ̀dá àbájáde kan fún àwọn aṣàmúlò láti jáde nínú ètò náà láì kojú ìṣòro ti lílo ọjà pàṣípààrọ̀ kan.
 
-Another way that people can liquidate the small amounts of cryptocurrency they receive from participating on the Steem platform is through *tipping* others. This is like leaving the small change as a tip for your waiter. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
+Ọnà mìíràn tí àwọn èèyàn le gbà ná àwọn iye cryptocurrency kékèké tí wọ́n gbà níbi ìkópa lórí ètò Steem náà jẹ́ nípasẹ̀ fífún àwọn ẹlòmíràn ní *ẹ̀bùn*. Èyí dàbí fífi owó kékeré náà kálẹ̀ gẹ́gẹ́ bí ẹbùn fún agbawó oúnjẹ rẹ. Nígbà tí àwọn èèyàn tó pọ̀ bá fi àwọn ẹbùn kékèké kalẹ̀ ó ma parapọ̀ di iye tó ní ìtumọ̀ kan. You and the waiter each gain a benefit from the tip.
 
 ## Censorship
 
