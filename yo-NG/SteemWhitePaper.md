@@ -485,9 +485,9 @@ Owó kan tó nira láti lò tàbí tí kò ṣeéṣe láti tà ní ìwúlò ké
 
 Àwọn oníṣòwò yíò gba èyíkéyìí owó tí ó bá ma ṣe àlékún ọjà títà wọn. Níní aṣàmúlò tó pọ̀ pẹ̀lú owó tó fẹsẹ̀ múlẹ̀ bíi SMD yíò dín ìdènà ìwọlé náà kù fún àwọn oníṣòwò. Wíwà àwọn oníṣòwò náà yíò mú ìlọsíwájú bá ètò náà nípasẹ̀ ṣíṣẹ̀dá àbájáde kan fún àwọn aṣàmúlò láti jáde nínú ètò náà láì kojú ìṣòro ti lílo ọjà pàṣípààrọ̀ kan.
 
-Ọnà mìíràn tí àwọn èèyàn le gbà ná àwọn iye cryptocurrency kékèké tí wọ́n gbà níbi ìkópa lórí ètò Steem náà jẹ́ nípasẹ̀ fífún àwọn ẹlòmíràn ní *ẹ̀bùn*. Èyí dàbí fífi owó kékeré náà kálẹ̀ gẹ́gẹ́ bí ẹbùn fún agbawó oúnjẹ rẹ. Nígbà tí àwọn èèyàn tó pọ̀ bá fi àwọn ẹbùn kékèké kalẹ̀ ó ma parapọ̀ di iye tó ní ìtumọ̀ kan. You and the waiter each gain a benefit from the tip.
+Ọnà mìíràn tí àwọn èèyàn le gbà ná àwọn iye cryptocurrency kékèké tí wọ́n gbà níbi ìkópa lórí ètò Steem náà jẹ́ nípasẹ̀ fífún àwọn ẹlòmíràn ní *ẹ̀bùn*. Èyí dàbí fífi owó kékeré náà kálẹ̀ gẹ́gẹ́ bí ẹbùn fún agbawó oúnjẹ rẹ. Nígbà tí àwọn èèyàn tó pọ̀ bá fi àwọn ẹbùn kékèké kalẹ̀ ó ma parapọ̀ di iye tó ní ìtumọ̀ kan. Ìwọ àti agbawó oúnjẹ náà jèrè anfààní kan lára ẹbùn náà.
 
-## Censorship
+## Ìfòfinde
 
 Steem is a decentralized network that is operated by witnesses in jurisdictions around the world. All user actions are publicly recorded on the blockchain, and can be publicly verified. This means that there is no single entity that can censor content that is valued by STEEM holders.
 
