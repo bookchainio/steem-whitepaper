@@ -118,7 +118,7 @@ Ipele Steemu ti n sise nipase o nilo gbogbo awon ibeere iyipada lati se idaduro 
 
 ### Dídín Ìlòkulò àwọn Ìyípadà kù
 
-Tí àwọn èèyàn bá lè ṣàyípadà nírọ̀rùn ní àwọn ọnà méjèèjì á jẹ́ pé àwọn oníṣòwò le lo anfààní àwọn iye ìyípadà ti blockchain náà nípasẹ̀ ṣíṣòwò ọ̀pọ̀ rẹpẹtẹ láì yí iye owó náà padà. Àwọn oníṣòwò tó bá rí àlékún nlá kan ní iye owó yíò ṣàyípadà sí SBD ní iye owó tó pọ̀ náà (nígbà tó léwu jù) àti lẹ́yìn náà da padà tí ìṣàtúnṣe náà bá parí. Isakoso Steemu naa ni aabo fun awon agbegbe lati iru iwa ibase yiinipa gbigba awon eniyan nikan lati yipada lati odo SBD si STEEMU ati pe kii se ona miiran ni ayika.
+Tí àwọn èèyàn bá lè ṣàyípadà nírọ̀rùn ní àwọn ọnà méjèèjì á jẹ́ pé àwọn oníṣòwò le lo anfààní àwọn iye ìyípadà ti blockchain náà nípasẹ̀ ṣíṣòwò ọ̀pọ̀ rẹpẹtẹ láì yí iye owó náà padà. Àwọn oníṣòwò tó bá rí àlékún nlá kan ní iye owó yíò ṣàyípadà sí SBD ní iye owó tó pọ̀ náà (nígbà tó léwu jù) àti lẹ́yìn náà da padà tí ìṣàtúnṣe náà bá parí. Ìlànà Steem yíò dáàbò bo àwùjọ náà lọ́wọ́ iru ìlòkulò yìí nípasẹ̀ fífi ààyè gba àwọn èèyàn láti ṣàyípadà SBD sí STEEM ṣùgbọ́n kò gba ìyípadà lọ́nà kejì náà.
 
 Awon blockuchain pinnu bi ati nigbati lati seda SBD ati awon ti o ye ki o gbaa nbe. Eyi ntoju osuwon ti SBD eda idurosinsin ati ki o yo awon ona to julo ti ilokulo.
 
