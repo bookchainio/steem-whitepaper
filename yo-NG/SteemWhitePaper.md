@@ -433,7 +433,7 @@ Láti Oṣù kẹjọ 2008 sí Oṣù àkọ́kọ́ 2019 ìpèsè owó U.S.[^15
 
 Fún ọdún 2 àkọ́kọ́ ti ayé Bitcoin ìkànnì náà ní iye ọ̀wọ́n kan[^17] tó ju 100% lọ́dọọdún. Fún ọdún 5 àkọ́kọ́ náà ó ju 30% lọ, àti fún ọdún 8 àkọ́kọ́ náà ó ju 10% lọ. All told the total “spending” Steem does to fund content, curation, and block production amounts to less than 10% APR.
 
-Iye owó ti ohun dígítà, gẹ́gẹ́ bí STEEM, ní ìdarí nípasẹ̀ ìpèsè rẹ̀ àti ìbéèrè fun. When a long-term holder decides to exit, the supply of STEEM on the market will increase and push the price down. This downward pressure is countered when a new long-term holder decides to buy up the STEEM and convert it back into SP. Additional supply and demand may be be added due to market speculators buying and selling liquid STEEM based on their predictions of the future market price.
+Iye owó ti ohun dígítà, gẹ́gẹ́ bí STEEM, ní ìdarí nípasẹ̀ ìpèsè rẹ̀ àti ìbéèrè fun. Nígbà tí ẹni tó n dìmú fún ìgbà pípẹ́ kan bá pinnu láti kúrò, ìpèsè STEEM lórí ọjà náà ma lékún tí yíò sì ti iye owó náà wálẹ̀. A ma borí ipa ìwálẹ̀ yìí nígbà tí ẹni tí yíò dìmú fún ìgbà pípẹ́ tuntun kan bá pinnu láti ra gbogbo STEEM náà tó sì ṣàyípadà rẹ̀ sí SP. A lè rí àfikún ìpèsè àti ìbéèrè fun nítorí àwọn olókòwò ọjà to n ṣe rírà àti títà STEEM nípa àsọtẹ́lẹ̀ wọn lórí iye owó-ọjà ọjọ́ iwájú náà.
 
 # Agbára ti Steem
 
