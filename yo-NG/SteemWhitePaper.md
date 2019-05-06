@@ -431,7 +431,7 @@ A sábà máa ń sọ pé owó kan tó ní àwòṣe tó lè fa ọ̀wọ́n kò
 
 Láti Oṣù kẹjọ 2008 sí Oṣù àkọ́kọ́ 2019 ìpèsè owó U.S.[^15] gòkè láti $871B sí $1,737B, iye kan tó ju 100% lọ́dún àti pé ó tẹ̀síwájú láti ma gòkè ní bíi 20% lọ́dún fún àwọn ọdún 6 tó tẹ̀le. Ní kúkúrú ìpèsè owó náà ní U.S. ti gòkè ní ìlọ́po 4.59 láàrín ìgbà tó kéré sí ọdún 7. Láàrín àkókò kannáà yẹn, iye dọ́là sí àwọn ọjà àti àwọn iṣẹ́ ti wálẹ̀ ju 10% gẹ́gẹ́ bí atọ́ka iye owó ti ìjọba náà[^16]. Àpẹẹrẹ ayé òótọ́ yìí fihàn pé ìpèsè jẹ́ èròjà kan ṣoṣo tí iye owó.
 
-Fún ọdún 2 àkọ́kọ́ ti ayé Bitcoin ìkànnì náà ní iye ọ̀wọ́n kan[^17] tó ju 100% lọ́dọọdún. Fún ọdún 5 àkọ́kọ́ náà ó ju 30% lọ, àti fún ọdún 8 àkọ́kọ́ náà ó ju 10% lọ. All told the total “spending” Steem does to fund content, curation, and block production amounts to less than 10% APR.
+Fún ọdún 2 àkọ́kọ́ ti ayé Bitcoin ìkànnì náà ní iye ọ̀wọ́n kan[^17] tó ju 100% lọ́dọọdún. Fún ọdún 5 àkọ́kọ́ náà ó ju 30% lọ, àti fún ọdún 8 àkọ́kọ́ náà ó ju 10% lọ. Ní kúkúrú gbogbo "níná" tí Steem n ṣe láti sanwó àròkọ, àmójútó, àti ṣíṣẹ̀dá búlọ́ọ̀kù já mọ́ nnkan tó kéré sí 10% APR.
 
 Iye owó ti ohun dígítà, gẹ́gẹ́ bí STEEM, ní ìdarí nípasẹ̀ ìpèsè rẹ̀ àti ìbéèrè fun. Nígbà tí ẹni tó n dìmú fún ìgbà pípẹ́ kan bá pinnu láti kúrò, ìpèsè STEEM lórí ọjà náà ma lékún tí yíò sì ti iye owó náà wálẹ̀. A ma borí ipa ìwálẹ̀ yìí nígbà tí ẹni tí yíò dìmú fún ìgbà pípẹ́ tuntun kan bá pinnu láti ra gbogbo STEEM náà tó sì ṣàyípadà rẹ̀ sí SP. A lè rí àfikún ìpèsè àti ìbéèrè fun nítorí àwọn olókòwò ọjà to n ṣe rírà àti títà STEEM nípa àsọtẹ́lẹ̀ wọn lórí iye owó-ọjà ọjọ́ iwájú náà.
 
