@@ -110,7 +110,7 @@ Niwon igba ti oye owo feedi awon idibaje naa wa fun kere ju idaji ferese iseduro
 
 Pelu ferese meta ati idaji, awon eniyan agbegbe ni o ni iwon kan ati idaji kan lati dahun si awon oran ti o ba jade.
 
-### Gbigbon Awon Akoko Ijako
+### Dídín àwọn Ìkọlù Àkókò kù
 
 Awon alabasepo ti isowo ni iwole si alaye ni kiakia ju iye owo iyipada ti o wa laari agbedemeji iyato ti blockuchain naa le se. Alaye yii le see lo lati ni anfan ti awon onisowo ni labikita fun agbegbe. Ti iseduro ilosoke ninu iye awon onisowo STEEMU le beere iyipada ti SBD ni atijo, owo kekere, ati lehinna ta STEEMU ti won gba owo tuntun ti o ga julo pelu ewu ti o kere ju.
 
