@@ -435,9 +435,9 @@ Fún ọdún 2 àkọ́kọ́ ti ayé Bitcoin ìkànnì náà ní iye ọ̀wọ�
 
 The price of a digital commodity, like STEEM, is driven by both supply and demand. When a long-term holder decides to exit, the supply of STEEM on the market will increase and push the price down. This downward pressure is countered when a new long-term holder decides to buy up the STEEM and convert it back into SP. Additional supply and demand may be be added due to market speculators buying and selling liquid STEEM based on their predictions of the future market price.
 
-# The Power of Steem
+# Agbára ti Steem
 
-Steem recognizes that the value of all user contributions (posts and votes) is greater than the sum of the parts. A single comment is worth next to nothing, but millions of curated posts is worth many millions (or possibly even billions) of dollars. A single vote provides little curation value, but billions of votes is very effective curation. Content without curation is of limited value. Given all the content of the Internet minus the links between it, Google would struggle to produce useful search results. It is the links between information that give it significant value.
+Steem gbà pé iye tí àwọn ìdáásí gbogbo aṣàmúlò (àwọn àròkọ àti ìdìbò) tóbi jù àpapọ̀ àwọn ìpín náà. Ìdáásí kan ṣoṣo súnmọ́ pé kò níye kankan lórí, ṣùgbọ́n mílíọ̀nù àwọn àròkọ tí a mójútó ní iye tó pọ̀ tó mílíọ̀nù (tàbí kódà bílíọ̀nù pàápàá) dọ́là. A single vote provides little curation value, but billions of votes is very effective curation. Content without curation is of limited value. Given all the content of the Internet minus the links between it, Google would struggle to produce useful search results. It is the links between information that give it significant value.
 
 Because everyone benefits, everyone should pay. In other words, no individual user should be expected to pay for anything, but instead should be paid for everything they do that brings value to Steem. All we need to do is ascertain which user contributions bring a social network value and which ones don’t.
 
