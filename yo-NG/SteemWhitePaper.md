@@ -120,7 +120,7 @@ Ipele Steemu ti n sise nipase o nilo gbogbo awon ibeere iyipada lati se idaduro 
 
 Tí àwọn èèyàn bá lè ṣàyípadà nírọ̀rùn ní àwọn ọnà méjèèjì á jẹ́ pé àwọn oníṣòwò le lo anfààní àwọn iye ìyípadà ti blockchain náà nípasẹ̀ ṣíṣòwò ọ̀pọ̀ rẹpẹtẹ láì yí iye owó náà padà. Àwọn oníṣòwò tó bá rí àlékún nlá kan ní iye owó yíò ṣàyípadà sí SBD ní iye owó tó pọ̀ náà (nígbà tó léwu jù) àti lẹ́yìn náà da padà tí ìṣàtúnṣe náà bá parí. Ìlànà Steem yíò dáàbò bo àwùjọ náà lọ́wọ́ iru ìlòkulò yìí nípasẹ̀ fífi ààyè gba àwọn èèyàn láti ṣàyípadà SBD sí STEEM ṣùgbọ́n kò gba ìyípadà lọ́nà kejì náà.
 
-Awon blockuchain pinnu bi ati nigbati lati seda SBD ati awon ti o ye ki o gbaa nbe. Eyi ntoju osuwon ti SBD eda idurosinsin ati ki o yo awon ona to julo ti ilokulo.
+Blockchain náà yíò pinnu báwo àti nígbà tó yẹ láti ṣẹ̀dá SBD àti àwọn tó yẹ kó ríi gba. Èyí yíò mú iye ṣíṣẹ̀dá SBD dúró déédéé àti pé yíò yọ ọ̀pọ̀lọpọ̀ àwọn ọnà ìlòkulò kúrò.
 
 ### Gbese Alagbero Si Awon Eto Ijerisi
 
