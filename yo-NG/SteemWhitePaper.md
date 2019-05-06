@@ -511,7 +511,7 @@ While a timestamping service can be built on almost any blockchain, and several 
 
 Lábẹ́ ọ̀pọ̀lọpọ̀ àwọn àwòṣe sísọ àròkọ dowó, àwọn olùdásílẹ̀ àròkọ má n lo ìpolówó fún anfààní ara wọn ní ọnà kan tàbí òmíràn. Ọ̀pọ̀lọpọ̀ àwọn olùdásílẹ̀ mọ bí ìpolówó ṣe lè dín ìwúlò iṣẹ́ wọn kù sí àwọn tó ma mulò náà, síbẹ̀síbẹ̀ àwọn olùdásílẹ̀ lọ́pọ̀ ìgbà gbọ́dọ̀ wá àwọn ìdápadà lórí àkókò wọn nípasẹ̀ sísọ dowó. Ìpolówó dúró fún idà olójú méjì kan: Pẹ̀lú àwọn ìpolówó, olùdásílẹ̀ kan le rí owó lọ́nà tó rọrùn jù. Láìsí àwọn ìpolówó, sísọ dowó ma nira ṣùgbọ́n àròkọ náà ma ní ìtumọ̀.
 
-Creators posting to social media outlets that are connected to Steem may monetize merely by having their work recognized (or ”liked”) by the Steem community. Blockchain-based payouts are completely digital and have no middle-man. Therefore monetization by blockchain-based content rewards should be faster and much lower barrier to use than monetization by advertisements.
+Àwọn olùdásílẹ̀ to n gbé iṣẹ́ jáde sórí àwọn ìkànnì àjọlò tí a sopọ̀ mọ́ Steem le sọ̀ ọ́ dowó nípasẹ̀ mímú kí àwùjọ Steem dá iṣẹ́ wọn mọ̀ (tàbí "fẹ́ràn" rẹ̀). Àwọn ìsanwó tó dá lórí blockchain jẹ́ dígítà pátápátá tí kò sì ní alárinà. Nítorí náà ó yẹ kí sísọ dowó nípasẹ̀ àwọn ẹ̀san tó dá lórí blockchain yára àti pé yíò ní ìdènà tó kéré púpọ̀ láti lò ju sísọ dowó nípasẹ̀ àwọn ìpolówó.
 
 # Ìparí
 
