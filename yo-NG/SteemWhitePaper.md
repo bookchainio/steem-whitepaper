@@ -431,7 +431,7 @@ A sábà máa ń sọ pé owó kan tó ní àwòṣe tó lè fa ọ̀wọ́n kò
 
 Láti Oṣù kẹjọ 2008 sí Oṣù àkọ́kọ́ 2019 ìpèsè owó U.S.[^15] gòkè láti $871B sí $1,737B, iye kan tó ju 100% lọ́dún àti pé ó tẹ̀síwájú láti ma gòkè ní bíi 20% lọ́dún fún àwọn ọdún 6 tó tẹ̀le. Ní kúkúrú ìpèsè owó náà ní U.S. ti gòkè ní ìlọ́po 4.59 láàrín ìgbà tó kéré sí ọdún 7. Láàrín àkókò kannáà yẹn, iye dọ́là sí àwọn ọjà àti àwọn iṣẹ́ ti wálẹ̀ ju 10% gẹ́gẹ́ bí atọ́ka iye owó ti ìjọba náà[^16]. Àpẹẹrẹ ayé òótọ́ yìí fihàn pé ìpèsè jẹ́ èròjà kan ṣoṣo tí iye owó.
 
-For the first 2 years of Bitcoin’s life the network sustained an annual inflation rate[^17] of over 100%. For the first 5 years it was over 30%, and for the first 8 years it was over 10%. All told the total “spending” Steem does to fund content, curation, and block production amounts to less than 10% APR.
+Fún ọdún 2 àkọ́kọ́ ti ayé Bitcoin ìkànnì náà ní iye ọ̀wọ́n kan[^17] tó ju 100% lọ́dọọdún. Fún ọdún 5 àkọ́kọ́ náà ó ju 30% lọ, àti fún ọdún 8 àkọ́kọ́ náà ó ju 10% lọ. All told the total “spending” Steem does to fund content, curation, and block production amounts to less than 10% APR.
 
 The price of a digital commodity, like STEEM, is driven by both supply and demand. When a long-term holder decides to exit, the supply of STEEM on the market will increase and push the price down. This downward pressure is countered when a new long-term holder decides to buy up the STEEM and convert it back into SP. Additional supply and demand may be be added due to market speculators buying and selling liquid STEEM based on their predictions of the future market price.
 
