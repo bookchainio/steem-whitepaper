@@ -429,7 +429,7 @@ Starting with the network's 16th hard fork in December 2016, Steem began creatin
 
 A sábà máa ń sọ pé owó kan tó ní àwòṣe tó lè fa ọ̀wọ́n kò ní anfààní, ṣùgbọ́n a mọ̀ lára àwọn àpẹẹrẹ ayé òótọ́ àìmọye wípé ìwọ̀n owó kò ní ipa tààrà tàbí ẹ̀sẹ̀kẹsẹ̀ kan lórí ìwúlò rẹ̀, bó tilẹ̀ jẹ́ pé ó ní ipa tó n kó.
 
-From August 2008 through January 2009 the U.S. money supply[^15] grew from $871B to $1,737B, a rate of over 100% per year and then continued to grow at about 20% per year for the next 6 years. All told the money supply in the U.S. has grown by 4.59x over less than 7 years. During that same time, the value of the dollar relative to goods and services has fallen less than 10% according to the government's price index[^16]. This real-world example demonstrates that supply is only one component of price.
+Láti Oṣù kẹjọ 2008 sí Oṣù àkọ́kọ́ 2019 ìpèsè owó U.S.[^15] gòkè láti $871B sí $1,737B, iye kan tó ju 100% lọ́dún àti pé ó tẹ̀síwájú láti ma gòkè ní bíi 20% lọ́dún fún àwọn ọdún 6 tó tẹ̀le. Ní kúkúrú ìpèsè owó náà ní U.S. ti gòkè ní ìlọ́po 4.59 láàrín ìgbà tó kéré sí ọdún 7. Láàrín àkókò kannáà yẹn, iye dọ́là sí àwọn ọjà àti àwọn iṣẹ́ ti wálẹ̀ ju 10% gẹ́gẹ́ bí atọ́ka iye owó ti ìjọba náà[^16]. Àpẹẹrẹ ayé òótọ́ yìí fihàn pé ìpèsè jẹ́ èròjà kan ṣoṣo tí iye owó.
 
 For the first 2 years of Bitcoin’s life the network sustained an annual inflation rate[^17] of over 100%. For the first 5 years it was over 30%, and for the first 8 years it was over 10%. All told the total “spending” Steem does to fund content, curation, and block production amounts to less than 10% APR.
 
