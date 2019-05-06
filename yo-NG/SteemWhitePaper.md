@@ -425,9 +425,9 @@ Starting with the network's 16th hard fork in December 2016, Steem began creatin
 
 75% of the new tokens that are generated go to fund the reward pool, which is split between authors and curators. 15% of the new tokens are awarded to holders of SP. The remaining 10% pays for the witnesses to power the blockchain.
 
-### Impact of Token Creation Rate
+### Ipa ti Ìwọ̀n Ṣíṣẹ̀dá Token
 
-It is often said that a coin with an inflationary model is not sustainable, but we know from countless real-world examples that the quantity of money does not have a direct and immediate impact on its value, though it certainly plays a role.
+A sábà máa ń sọ pé owó kan tó ní àwòṣe tó lè fa ọ̀wọ́n kò ní anfààní, ṣùgbọ́n a mọ̀ lára àwọn àpẹẹrẹ ayé òótọ́ àìmọye wípé ìwọ̀n owó kò ní ipa tààrà tàbí ẹ̀sẹ̀kẹsẹ̀ kan lórí ìwúlò rẹ̀, bó tilẹ̀ jẹ́ pé ó ní ipa tó n kó.
 
 From August 2008 through January 2009 the U.S. money supply[^15] grew from $871B to $1,737B, a rate of over 100% per year and then continued to grow at about 20% per year for the next 6 years. All told the money supply in the U.S. has grown by 4.59x over less than 7 years. During that same time, the value of the dollar relative to goods and services has fallen less than 10% according to the government's price index[^16]. This real-world example demonstrates that supply is only one component of price.
 
@@ -505,7 +505,7 @@ Steem jẹ́ ìkànnì kan tí ìjọba rẹ̀ kò sí lójúkan tó n ṣiṣ�
 
 Lábẹ́ ìkànnì àjọlò tó dá lórí blockchain, ẹni tó kọ àròkọ kan yóò lè ma tọ́ka sí àkọsílẹ gbangba kan àti òntẹ̀ àkókò tí yíò ṣàfihàn ẹ̀rí orísun àròkọ wọn. Ní ìṣẹ̀lẹ̀ kan níbi tí olùdásílẹ̀ kan yíò fẹ́ láti sọ̀rọ̀ pẹ̀lú àwọn tó ti ṣe àtúnpín láìsí ìyànda àti ohun ìdánimọ̀, àwọn àkọsílẹ̀ tó dá lórí blockchain ma pèsè ẹ̀rí gbangba wípé aṣàmúlò pàtó kan ló gbé àròkọ náà jáde ní àkókò pàtó kan. Ní ọjọ́ iwájú, ohun ìdánimọ̀ tó dá lórí blockchain le di nnkan tí ìjọba ma dámọ̀ fún ijẹ́tòótọ́ rẹ̀ àti tí yíò wúlò ní ilé ẹjọ́, èyí tí yíò fún olùdásílẹ̀ àròkọ ní àwọn agbára nla láti darí iṣẹ́ wọn.
 
-While a timestamping service can be built on almost any blockchain, and several efforts exist to build this kind of service on the Bitcoin network, Steem has a useful advantage in this realm because content publishers are “first class citizens” -- the Steem blockchain is built from the ground up around the use case of content publication, which allows content creators to have the blockchain to validate their content at a certain point in time simply by writing their post using the same authoring tools used by other Steem users.
+Nígbà tí ìpèsè ṣíṣe òntẹ̀ àkókò kan le gba ṣíṣẹ̀dá lórí ọ̀pọ̀ èyíkéyìí blockchain, àti àwọn onírúurú ìgbìyànjú ti wà láti ṣẹ̀dá irú ìpèsè yìí lórí ìkànnì Bitcoin, Steem ní anfààní tó wúlò kan ní agbègbè yìí nítorí pé àwọn olùtẹ̀jáde àròkọ jẹ́ "àwọn èèyàn tó níyì púpọ̀" - blockchain Steem náà gba ṣíṣẹ̀dá láti ìpìlẹ̀ yíká lílò fún ìtẹ̀jáde àròkọ, èyí tó n fi ààyè gba àwọn olùdásílẹ̀ àròkọ láti ní blockchain náà láti jẹrìí sí àròkọ wọn ní àkókò pàtó kan nípasẹ̀ kíkọ àròkọ wọn pẹ̀lú lílo àwọn irinṣẹ́ àròkọ kíkọ ti àwọn aṣàmúlò Steem mìíràn nlò.
 
 ## Ṣíṣe ìrọpò Ìpolówó pẹ̀lú àwọn Ẹ̀san Àròkọ tó dá lórí Blockchain
 
