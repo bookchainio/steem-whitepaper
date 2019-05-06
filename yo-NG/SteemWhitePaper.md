@@ -116,9 +116,9 @@ Awon alabasepo ti isowo ni iwole si alaye ni kiakia ju iye owo iyipada ti o wa l
 
 Ipele Steemu ti n sise nipase o nilo gbogbo awon ibeere iyipada lati se idaduro ojo meta ati ojo idaji. Eyi tumo si pe awon onisowo tabi blockuchain ni eyikeyi alaye anfani nipa owo ni akoko ti a ti se iyipada.
 
-### Iyato Abukuro Awon Iyipada
+### Dídín Ìlòkulò àwọn Ìyípadà kù
 
-Ti awon enoyan le se iyipada larowoto ni awon aaye mejeji awon onisowo le lo anfani awon iyipada blockuchain nipase isowo ipele mla laisi iyipada oye owo naa. Awon onisowo ti o rii ipa ti o ga julo ni owo yoo pada si SBD ni owo to gaju (nigbati o ba jewu julo) ati lehinna pada lehin igbakeji. Isakoso Steemu naa ni aabo fun awon agbegbe lati iru iwa ibase yiinipa gbigba awon eniyan nikan lati yipada lati odo SBD si STEEMU ati pe kii se ona miiran ni ayika.
+Tí àwọn èèyàn bá lè ṣàyípadà nírọ̀rùn ní àwọn ọnà méjèèjì á jẹ́ pé àwọn oníṣòwò le lo anfààní àwọn iye ìyípadà ti blockchain náà nípasẹ̀ ṣíṣòwò ọ̀pọ̀ rẹpẹtẹ láì yí iye owó náà padà. Awon onisowo ti o rii ipa ti o ga julo ni owo yoo pada si SBD ni owo to gaju (nigbati o ba jewu julo) ati lehinna pada lehin igbakeji. Isakoso Steemu naa ni aabo fun awon agbegbe lati iru iwa ibase yiinipa gbigba awon eniyan nikan lati yipada lati odo SBD si STEEMU ati pe kii se ona miiran ni ayika.
 
 Awon blockuchain pinnu bi ati nigbati lati seda SBD ati awon ti o ye ki o gbaa nbe. Eyi ntoju osuwon ti SBD eda idurosinsin ati ki o yo awon ona to julo ti ilokulo.
 
