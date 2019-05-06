@@ -441,7 +441,7 @@ Steem gbà pé iye tí àwọn ìdáásí gbogbo aṣàmúlò (àwọn àròkọ
 
 Nítorí pé gbogbo èèyàn ló n jẹ anfààní, ó yẹ kí gbogbo èèyàn sanwó. Èyí túmọ̀sí pé, kò yẹ láti retí kí aṣàmúlò kọ̀ọ̀kan sanwó fún ohunkóhun, ṣùgbọ́n ó yẹ kí wọn gbowó fún gbogbo nnkan tí wọn bá ṣe tó n mú ìwúlò bá Steem. Gbogbo ohun tí a nílò láti ṣe ní kí a ṣe àrídájú àwọn ìdáásí aṣàmúlò èyí tó mú ìwúlò ìkànnì àjọlò kan wá àti àwọn èyí tí kò mu wá.
 
-Ní àpapọ̀ àwọn aṣàmúlò Reddit má n dìbò nígbà 220 ní ìṣẹ́jú àáyá àti ṣẹ̀dá àwọn àròkọ 23 ní ìṣẹ́jú àáyá. Iyì Reddit wà láàrín $500 mílíọ̀nù[^18] àti $4 bílíọ̀nù[^19] èyí tó túmọ̀sí pé gbogbo ìbò àti àròkọ kọ̀ọ̀kan ní iyì tó wà láàrín $0.06 àti $0.50 pẹ̀lú èrò pé iyì Reddit náà jẹ́ púpọ̀ lára iye iṣẹ́ ti ọdún tó kọjá náà. One could argue that most of the value of Reddit is the near-real-time discussions that have occurred within the past week which would dramatically increase the value of new activity. People go where people are today, not where people were last year.
+Ní àpapọ̀ àwọn aṣàmúlò Reddit má n dìbò nígbà 220 ní ìṣẹ́jú àáyá àti ṣẹ̀dá àwọn àròkọ 23 ní ìṣẹ́jú àáyá. Iyì Reddit wà láàrín $500 mílíọ̀nù[^18] àti $4 bílíọ̀nù[^19] èyí tó túmọ̀sí pé gbogbo ìbò àti àròkọ kọ̀ọ̀kan ní iyì tó wà láàrín $0.06 àti $0.50 pẹ̀lú èrò pé iyì Reddit náà jẹ́ púpọ̀ lára iye iṣẹ́ ti ọdún tó kọjá náà. Ẹnìkan le jiyàn pé ọ̀pọ̀ nínú àwọn ìwúlò ti Reddit jẹ́ àwọn ìjíròrò tó súnmọ́-àkókò-gidi tó ti ṣẹlẹ̀ láàrín ọ̀sẹ̀ tó kọjá èyí tí yíò ṣe àlékún ìwúlò àwọn iṣẹ́ tuntun náà. Àwọn èèyàn ma lọ sí ibi tí àwọn èèyàn wà lónìí, kìí ṣe ibi tí àwọn èèyàn wà ní ọdún tó kọjá.
 
 ## Kò sí àwọn Ìsanwó kékeré, àwọn Ẹbùn kò pọn dandan
 
