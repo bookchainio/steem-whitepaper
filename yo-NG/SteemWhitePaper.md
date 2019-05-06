@@ -509,7 +509,7 @@ While a timestamping service can be built on almost any blockchain, and several 
 
 ## Ṣíṣe ìrọpò Ìpolówó pẹ̀lú àwọn Ẹ̀san Àròkọ tó dá lórí Blockchain
 
-Under most content monetization models, content creators leverage advertising in one form or another. Many creators recognize how advertising may diminish their work’s value to the consumer, yet creators very often must seek returns on their time by monetizing. Advertising represents a double-edged sword: With ads, a creator can make money most easily. Without ads, monetization is difficult but the content is richer.
+Lábẹ́ ọ̀pọ̀lọpọ̀ àwọn àwòṣe sísọ àròkọ dowó, àwọn olùdásílẹ̀ àròkọ má n lo ìpolówó fún anfààní ara wọn ní ọnà kan tàbí òmíràn. Ọ̀pọ̀lọpọ̀ àwọn olùdásílẹ̀ mọ bí ìpolówó ṣe lè dín ìwúlò iṣẹ́ wọn kù sí àwọn tó ma mulò náà, síbẹ̀síbẹ̀ àwọn olùdásílẹ̀ lọ́pọ̀ ìgbà gbọ́dọ̀ wá àwọn ìdápadà lórí àkókò wọn nípasẹ̀ sísọ dowó. Ìpolówó dúró fún idà olójú méjì kan: Pẹ̀lú àwọn ìpolówó, olùdásílẹ̀ kan le rí owó lọ́nà tó rọrùn jù. Láìsí àwọn ìpolówó, sísọ dowó ma nira ṣùgbọ́n àròkọ náà ma ní ìtumọ̀.
 
 Creators posting to social media outlets that are connected to Steem may monetize merely by having their work recognized (or ”liked”) by the Steem community. Blockchain-based payouts are completely digital and have no middle-man. Therefore monetization by blockchain-based content rewards should be faster and much lower barrier to use than monetization by advertisements.
 
