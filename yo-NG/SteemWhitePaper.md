@@ -112,7 +112,7 @@ Pelu ferese meta ati idaji, awon eniyan agbegbe ni o ni iwon kan ati idaji kan l
 
 ### Dídín àwọn Ìkọlù Àkókò kù
 
-Àwọn tó n kópa nínú ọjà yára ní anfààní sí ìròyìn ju bí ìpíndọ́gba iye owó ìyípadà ọlọ́jọ́ mẹ́ta àtààbọ̀ ti blockchain náà le ṣe. Ìròyìn yìí le jẹ́ lílò láti ṣe anfààní fún àwọn oníṣòwò lọ́nà tí ó ṣèpalára fún àwùjọ náà. Ti iseduro ilosoke ninu iye awon onisowo STEEMU le beere iyipada ti SBD ni atijo, owo kekere, ati lehinna ta STEEMU ti won gba owo tuntun ti o ga julo pelu ewu ti o kere ju.
+Àwọn tó n kópa nínú ọjà yára ní anfààní sí ìròyìn ju bí ìpíndọ́gba iye owó ìyípadà ọlọ́jọ́ mẹ́ta àtààbọ̀ ti blockchain náà le ṣe. Ìròyìn yìí le jẹ́ lílò láti ṣe anfààní fún àwọn oníṣòwò lọ́nà tí ó ṣèpalára fún àwùjọ náà. Tí ìwúlò STEEM bá wá sókè lójijì àwọn oníṣòwò le béèrè fún ìyípadà SBD wọn ní iye owó tàtijọ́ tó kéré náà, lẹ́yìn náà wá ta STEEM tí wọn gbà ní iye owó tuntun tó pọ̀ náà pẹ̀lú ewu kékeré.
 
 Ipele Steemu ti n sise nipase o nilo gbogbo awon ibeere iyipada lati se idaduro ojo meta ati ojo idaji. Eyi tumo si pe awon onisowo tabi blockuchain ni eyikeyi alaye anfani nipa owo ni akoko ti a ti se iyipada.
 
