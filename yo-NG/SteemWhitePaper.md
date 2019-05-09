@@ -262,9 +262,9 @@ Because the active witnesses are known in advance, Steem is able to schedule wit
 
 Steem n gbìyànjú púpọ̀ láti san ẹ̀san fún àwọn èèyàn tó n dásí ìkànnì náà. Yóò jẹ́ àkóbá nígbèyìn láti yí padà àti gbowó lọ́wọ́ àwọn èèyàn ní gbogbo ìgbà tí wọ́n bá gbìyànjú láti ní ìbáṣepọ̀ pẹ̀lú àwùjọ náà.
 
-Ìmọ̀ ẹ̀rọ blockchain n gbára lé àwọn owó ìdúnàádúrà lọ́wọ́lọ́wọ́ láti dẹ́kun ìpolówó àìbèèrèfún. These fees suffer all of the known problems with microtransactions and prevent blockchains from being used for low-value transactions. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
+Ìmọ̀ ẹ̀rọ blockchain n gbára lé àwọn owó ìdúnàádúrà lọ́wọ́lọ́wọ́ láti dẹ́kun ìpolówó àìbèèrèfún. Àwọn owó wọ̀nyí n jìyà gbogbo àwọn ìṣòro tí a mọ̀ pẹ̀lú àwọn ìsanwó kékèké àti pé ó n sèdíwọ fún àwọn blockchain láti ma jẹ́ lílò fún àwọn ìdúnàádúrà olówó-kékeré. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
 
-## The Problem With Fees
+## Ìṣòro tó wà Pẹ̀lú àwọn Owó sísan
 
 Blockchains are decentralized networks where all transactions are broadcast to all peers. Every so often a block is produced that includes some or all of the pending transactions. All blockchains must find a solution to prevent malicious users from consuming all of the available network capacity with worthless transactions. These worthless transactions can prevent other valuable transactions from being processed and ultimately destroy the network.
 
