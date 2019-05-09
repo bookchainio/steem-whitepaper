@@ -260,7 +260,7 @@ Because the active witnesses are known in advance, Steem is able to schedule wit
 
 # Fífi òpin sí àwọn Owó Ìdúnàádúrà
 
-Steem goes to great lengths to reward people for contributing to the network. It would be counterproductive to turn around and charge people every time they attempt to interact with the community.
+Steem n gbìyànjú púpọ̀ láti san ẹ̀san fún àwọn èèyàn tó n dásí ìkànnì náà. Yóò jẹ́ àkóbá nígbèyìn láti yí padà àti gbowó lọ́wọ́ àwọn èèyàn ní gbogbo ìgbà tí wọ́n bá gbìyànjú láti ní ìbáṣepọ̀ pẹ̀lú àwùjọ náà.
 
 Blockchain technology currently depends upon transaction fees to prevent spam. These fees suffer all of the known problems with microtransactions and prevent blockchains from being used for low-value transactions. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
 
