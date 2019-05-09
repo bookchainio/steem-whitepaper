@@ -258,7 +258,7 @@ This process is designed to provide the best reliability while ensuring that eve
 
 Because the active witnesses are known in advance, Steem is able to schedule witnesses to produce blocks every 3 seconds. Witnesses synchronize their block production via the NTP protocol. A variation of this algorithm has been in use by the BitShares network for over a year where it has been proven to be reliable.
 
-# Eliminating Transaction Fees
+# Fífi òpin sí àwọn Owó Ìdúnàádúrà
 
 Steem goes to great lengths to reward people for contributing to the network. It would be counterproductive to turn around and charge people every time they attempt to interact with the community.
 
