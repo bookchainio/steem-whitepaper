@@ -170,9 +170,9 @@ Ni abajade, awon abawon ti ise ti ayewo ni kikun je pataki ati awon alaye itumo 
 
 Iye owo iyorisi owo kookan da lori idaniloju fun ipa laarin agbegbe kan ati bi o tobi oja ti gbogbo pe agbegbe kookan le gba. Kii awon ilana isaaju, eri imudaniloju ti ise n jeki awon awujo kan alti sajopo ni idagbasoke ti ohunkohun ti o ri niyeloru ati ki o se iranlowo fun iseduro owo ti akoko ti kii se owo ti ati yipada kiakia tele.
 
-### Pinpin Owo
+### Pípín Owó
 
-Awon ona meji ni awon eniyan le ni ipa pelu agbegbe ilu owo-krypto: won le ra ni, tabi won le sise ni. Ni awon mejeji awon olumulo n se afikun iye si owo, sisbesibe, opolopo eniyan ni o ni akoko ofe die ju ti won se idaniloju owo. Fojuinu awon ifojusi ti owo isowo ni owo talaka ni agbegbe ti ko ni owo gangan sugbon ni opolopo igba. Ti awon eniyan ba le sagbe owo nipa sise fun ara won lehinna won yoo je iye bootstrapu nipase iyipada pasipaaro ti iseto nipase owo iseduro/owo isowo.
+Oríṣi ọnà méjì ni àwọn èèyàn lè gbà kópa nínú àwùjọ crypto-currency kan: wọ́n lè *wọlé láti ṣe okòwò*, tàbí wọ́n lè *wọlé láti ṣiṣẹ́*. Lọ́nà méjèèjì àwọn aṣàmúlò n ṣe àfikún ìwúlò sí owó náà, síbẹ̀síbẹ̀, èyí tó pọ̀ jù lọ lára àwọn èèyàn ní *àkókò tí wọn ò lò* tó pọ̀ ju bí wọ́n ṣe ní *owó tí wọn ò lò* lọ. Fojuinu awon ifojusi ti owo isowo ni owo talaka ni agbegbe ti ko ni owo gangan sugbon ni opolopo igba. Ti awon eniyan ba le sagbe owo nipa sise fun ara won lehinna won yoo je iye bootstrapu nipase iyipada pasipaaro ti iseto nipase owo iseduro/owo isowo.
 
 Pinpin owo kan si opolopo awon eniyan bi o ti see se ni ona ti a se akiyesi ni deede ni ise-sise ti o nija. Awon ise-sise ti a le ni iyewo patapata nipase ohun elo alugoridimu komputa to ni opin ni iseda ati ni gbogbo oro ti lopin awon anfani ita itagbangba. Ni oran ti iwakusa ara-Bitcoinu ti o le ja si ni iselopo ti hadiwareri patakiati ki o fa ki awon eniyan se idokowo akoko to ndagbasoke alugoridimu daradara siwaju sii. O le se iranlowo paapaa latiwa awon nomba, sugbon ko si okan ninu awon nkan wonyi n pese iye ti o niyeye si awujo tabi owo to o mu agbegbe ni agbegbe. Pataki julo, awon isowo-owo ati awon agbara oja yoo pari titi lai gbogbo eniyan sugbon awon amoye lati kopa ninu iru ifipin yi. Nigbamii, isiro isowo ti isowo je ona miiran ti ife si n nitori pe o nilo owo lati san owo-ina monamona tabi idagbasoke eroja pataki lati se ise naa.
 
