@@ -266,9 +266,9 @@ Steem n gbìyànjú púpọ̀ láti san ẹ̀san fún àwọn èèyàn tó n dá
 
 ## Ìṣòro tó wà Pẹ̀lú àwọn Owó sísan
 
-Àwọn Blockchain jẹ́ àwọn ìkànnì tí ìjọba wọn kò sí lójúkan níbi tí gbogbo àwọn ìdúnàádúrà jẹ́ pínpín sí gbogbo àwọn ẹgbẹ́. Lẹ́ẹ̀kọ̀ọ̀kan a ma mú búlọ́ọ̀kù kan jáde tí yíò ní díẹ̀ lára tàbí gbogbo àwọn ìdúnàádúrà tó wà nílẹ̀. Gbogbo àwọn blockchain gbọ́dọ̀ wá ojútùú kan láti dènà àwọn aṣàmúlò búburú níbi lílo gbogbo ìkápá ìkànnì tó wà náà pẹ̀lú àwọn ìdúnàádúrà tí kò wúlò. These worthless transactions can prevent other valuable transactions from being processed and ultimately destroy the network.
+Àwọn Blockchain jẹ́ àwọn ìkànnì tí ìjọba wọn kò sí lójúkan níbi tí gbogbo àwọn ìdúnàádúrà jẹ́ pínpín sí gbogbo àwọn ẹgbẹ́. Lẹ́ẹ̀kọ̀ọ̀kan a ma mú búlọ́ọ̀kù kan jáde tí yíò ní díẹ̀ lára tàbí gbogbo àwọn ìdúnàádúrà tó wà nílẹ̀. Gbogbo àwọn blockchain gbọ́dọ̀ wá ojútùú kan láti dènà àwọn aṣàmúlò búburú níbi lílo gbogbo ìkápá ìkànnì tó wà náà pẹ̀lú àwọn ìdúnàádúrà tí kò wúlò. Àwọn ìdúnàádúrà tí kò wúlò wọ̀nyí le sèdíwọ kí a ṣiṣẹ́ lórí àwọn ìdúnàádúrà tó wúlò mìíràn àti kó ìparun bá ìkànnì náà nígbèyìn.
 
-The solution adopted by most blockchains thus far is to charge a minimum transaction fee. A fee worth just a few cents is enough to make attacking the network expensive and unprofitable. While this approach solves the spam problem, it introduces new problems. Imagine solving the email spam problem by introducing a small fee on every email; people wouldn’t use email.
+Ojútùú tó jẹ́ lílò nípasẹ̀ ọ̀pọ̀lọpọ̀ àwọn blockchain títí di báyìí ni láti gbowó ìdúnàádúrà tó kéré jù kan. A fee worth just a few cents is enough to make attacking the network expensive and unprofitable. While this approach solves the spam problem, it introduces new problems. Imagine solving the email spam problem by introducing a small fee on every email; people wouldn’t use email.
 
 ### Micropayments Don’t Work
 
