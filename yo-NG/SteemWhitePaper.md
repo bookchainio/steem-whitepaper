@@ -286,7 +286,7 @@ Systems like BitShares, Nxt, Ripple, Counter Party and Stellar all allow users t
 
 ### Owó sísan jẹ́ Ìdènà kan fún Wíwọlé
 
-Èyíkéyìí owó sísan yíò jẹ́ ìdènà kan fún wíwọlé àwọn aṣàmúlò tuntun. Before someone can experiment with Ethereum they must acquire some ETH tokens. Anyone wanting to build a decentralized application on Ethereum must pass on the cost to their customers. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
+Èyíkéyìí owó sísan yíò jẹ́ ìdènà kan fún wíwọlé àwọn aṣàmúlò tuntun. Ṣáájú kí enìkan tó lè ṣèwádìí pẹ̀lú Ethereum wọ́n gbọ́dọ̀ ní àwọn token ETH díẹ̀. Anyone wanting to build a decentralized application on Ethereum must pass on the cost to their customers. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
 
 ### Changing Fees
 
