@@ -1,224 +1,224 @@
-# Steem
+# स्टीम
 
-## An incentivized, blockchain-based, public content platform.
+## एक प्रेरणादायक, ब्लॉकचैन आधारित, सार्वजनिक सामग्री मंच ।
 
-August 2017
+अगस्त २०१७
 
-# Translator's notes
+# अनुवादक की टिप्पणी ।
 
-Placeholder for translator's notes.
+अनुवादक की तिप्पनियूँ का स्थल ।
 
-# Abstract
+# सारांश
 
-Steem is a blockchain database that supports community building and social interaction with cryptocurrency rewards. Steem combines concepts from social media with lessons learned from building cryptocurrencies and their communities. An important key to inspiring participation in any community, currency or free market economy is a fair accounting system that consistently reflects each person's contribution. Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
+सिटीम एक आईसा बूलाकचेन डेटाबेस है जो पुरस्कार के ज़रिए समुदाय निर्माण और सामाजिक सहभागिता का समर्थन करता है । सिटीम सामाजिक मिडया को क्रिपटो करंसी और उनके समुदाय के साथ अवधारणाओं को जोड़ता है । किसी भी समुदाय मे मुद्रा या मुक्त बाजार अर्थव्यवस्था में प्रेरणादायक भागीदारी के लिए एक महत्वपूर्ण कुंजी एक निष्पक्ष लेखांकन प्रणाली है जो लगातार प्रत्येक व्यक्ति के योगदान को दर्शाता है । स्टीम पहली क्रिप्टोकरेंसी है जो अपने समुदाय के लिए *व्यक्तिपरक योगदान* करने वाले व्यक्तियों की एक असीम संख्या को सही और पारदर्शी रूप से पुरस्कृत करने का प्रयास करती है ।
 
-# Table of Contents
+# सामग्री तालिका
 
 <!-- toc -->
 
-# Introduction
+# परिचय
 
-Collectively, user-generated content has created billions of dollars worth of value for the shareholders of social media companies, such as Reddit, Facebook, and Twitter. **In 2014, Reddit hypothesized that its platform would be improved if everyone who contributed to reddit.com by posting stories, adding comments or voting were rewarded with a fair share in Reddit, Inc.[^1]**. Steem aims to support social media and online communities by returning much of its value to the people who provide valuable contributions by rewarding them with cryptocurrency, and through this process create a currency that is able to reach a broad market, including people who have yet to participate in any cryptocurrency economy.
+सामूहिक रूप से प्रयोक्ता जनित सामग्री जैसे रैडिट Facebook और Twitter ने अपने सामाजिक मीडिया कंपनियों के शेयरहोल्डर्स ने अरबों डॉलर की कीमत कि कमाई की है | **2014 में रेडिट ने यह अनुमान लगाया था अगर वह अपने उपयोगकर्ताओं को पोस्ट करने के लिए टिप्पणियां या वोट करने के लिए इनाम देंगे तो उनका मंच काफी हद तक सुधर सकता है[^1]**| स्टीम का लक्ष्य है कि वह सामाजिक मीडिया और ऑनलाइन समुदायों मैं लोगों को उनके मूल्यवान योगदान का समर्थन करने के तौर पर उनको क्रिप्टो करेंसी के नाम से नवाजना चाहते हैं इस प्रक्रिया से वह ऐसी मुद्रा बनाने में सक्षम होंगे जो बड़े बाजार मैं अपनी पहचान बना सके साथ ही साथ ऐसे लोगों तक भी पहुंचने में सक्षम हो जिन्होंने अभी तक क्रिप्टो करेंसी अर्थव्यवस्था में अपना योगदान नहीं दिया हो |
 
-There are some key principles that have been used to guide the design of Steem. The most important principle is that everyone who contributes to a venture should receive pro-rata ownership, payment or debt from the venture. This principle is the same principle that is applied to all startups as they allocate shares at founding and during subsequent funding rounds.
+वहां कुछ प्रमुख सिद्धांत है जिस को स्टीम केक बनाने में इस्तेमाल किया गया है| सबसे महत्वपूर्ण सिद्धांत यह है कि हर कोई जो इस उद्यम के लिए योगदान करता है उसको अपने योगदान के हिसाब से मालिकाना हक या भुगतान या इस उद्यम से कर्जा मिलना चाहिए | यह वैसा ही सिद्धांत है जैसा कोई कंपनी शुरू करने पर उनके शेर पर लागू किया जाता है जब वह अपने शहर बनाते और उसके बाद खर्च करते हैं|
 
-The second principle is that all forms of capital are equally valuable. This means that those who contribute their scarce time and attention toward producing and curating content for others are just as valuable as those who contribute their scarce cash. This is the sweat equity principle[^2] and is a concept that prior cryptocurrencies have often had trouble providing to more than a few dozen individuals.
+दूसरा सिद्धांत यह है कि हर प्रकार का धन सभी रूपों में सामान्य रूप से मूल्यवान है| इसका मतलब यह है कि जो लोग दूसरों के लिए अपने दुर्लभ समय और ध्यान से दूसरों के लिए उत्पाद और सामग्री उपचारातमक करते हैं वह वैसे ही मूल्यवान है जैसे कोई अपने दुर्लभ धन का योगदान करता हो इसको हम मेहनत बराबर सिद्धांत[^2] बोलते हैं और इस अवधारणा को पहली वाली सारी क्रिप्टो करेंसी 1 दर्जन से अधिक व्यक्तियों में लागू करने में अक्सर परेशानी होती थी|
 
-The third principle is that the community produces products to serve its members. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
+तीसरा सिद्धांत यह है कि समुदाय अपने सदस्यों की सेवा के लिए उत्पादों का उत्पादन करता है । इस सिद्धांत की मिसाल हम क्रेडिट यून्यन, ख़ान पान की चीज़ें और सेहत की योजनायें दे सकते हैं जो एक समुदाय के सदस्यों की सेवा के लिए बने हैं और समुदाय के बाहर इन चीज़ों और सुविधाओं को नहीं बेचते ।
 
-The Steem community provides the following services to its members:
+सटीम समुदाई अपने सदस्यों को यही ये सेवाएँ प्रदान करते हैं:
 
-1. A source of curated news and commentary.
-2. A means to get high quality answers to personalized questions.
-3. A stable cryptocurrency pegged to the U.S. dollar.
-4. Free payments.
-5. Jobs providing above services to other members.
+1. उपचारात्मक समाचार और कमेंटरी के एक स्रोत ।
+2. व्यक्तिगत प्रश्नों का उच्च और गुणवान उत्तर प्राप्त करने का साधन देता है ।
+3. एक स्थिर क्रिप्टोकरेंसी अमेरिकी डॉलर के साथ आंकी गई ।
+4. मुफ्त भुगतान ।
+5. अंय सदस्यों को उपरोक्त सेवाएं प्रदान करने वाली नौकरियां ।
 
-Steem’s purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem’s incentives may result in better outcomes for most participants.
+स्टीम अपने पहले सामाजिक मीडीया और क्रपटो कारनसी मंच के मुक़ाबले में आर्थिक प्रोत्साहन के उद्देश्यपूर्ण पुनर्निर्माण में सबके लिए निष्पक्ष नतीजे निकालने की क्षमता है। यहाँ हम मौजूदा आर्थिक सुविधाओं का विश्लेषण करेंगे और दिखाएंगे कैसे स्टीम प्रोत्साहन से काफ़ी सदस्यों का विकास हो सकता है।
 
-## Recognizing Contribution
+## योगदान की मान्यता
 
-Steem is designed from the ground up to address the major barriers to adoption and monetization of a social media based economy. Our thesis is that the same techniques used to grow major social media platforms can be used to bootstrap a successful cryptocurrency. Economic incentives enabled by cryptocurrency can dramatically facilitate the growth of a new social media platform. It is the synergy between cryptocurrency and social media that we believe may give Steem a powerful advantage in the market.
+स्टीम को मुख्य रूप से इस काम के लिए बनाया गया है कि वो सामाजिक मीडीया आधारित अर्थव्यवस्था को अपनाने और मुद्राकरण के प्रमुख बाधाओं को हटाएँ । हमारी मान्यता है कि जो तकनीके सामाजिक मीडीया मंच को बढ़ावा देने में सक्षम हैं वह क्रपटो कारनसी को सफल बना सकती है । क्रिप्टोकरेंसी द्वारा सक्षम आर्थिक प्रोत्साहन नाटकीय रूप से एक नए सामाजिक मीडिया मंच के विकास को सुगम कर सकता है । यह क्रिप्टोकरेंसी और सामाजिक मीडिया के बीच तालमेल है जिसे हम स्टीम को बाजार में एक शक्तिशाली लाभ मिल सकता हैं ।
 
-The challenge faced by Steem is deriving an algorithm for scoring individual contributions that most community members consider to be a fair assessment of the subjective value of each contribution. In a perfect world, community members would cooperate to rate each other's contribution and derive a fair compensation. In the real world, algorithms must be designed in such a manner that they are resistant to intentional manipulation for profit. Any widespread abuse of the scoring system could cause community members to lose faith in the perceived fairness of the economic system.
+स्टीम चुनौतियों का सामना कर के व्यक्तिगत योगदान कलन विधि करता है जिसको अधिक समुदाय के सदस्य अपने प्रतीक योगदान का मूल्य निष्पक्ष समझते हैं। एक आदर्श दुनिया में, समुदाय के सदस्य एक दूसरे के सहयोग से वो अपने योगदान की जाँच करके निष्पक्ष मुआवज़ा लेते हैं । असल दुनिया में कलन विधि को इस प्रकार से बनाया जाना चाहिए कि वो जान बूझ की हेर फेर से किए जाने वाले मुनाफ़े को रोक पाऐ। स्कोरिंग प्रणाली के किसी भी व्यापक दुरुपयोग समुदाय के सदस्यों को आर्थिक प्रणाली के कथित निष्पक्षता में विश्वास खो कारण सकता है ।
 
-Existing platforms operate on a one-user, one-vote principle. This creates an environment where rankings can be manipulated by sybil attacks and the service providers must pro-actively identify and block abusers. People already attempt to manipulate the Reddit, Facebook, and Twitter scoring algorithms when the only reward is web traffic or censorship.
+मौजूदा प्लेटफार्मों एक उपयोगकर्ता, एक वोट सिद्धांत पर काम करते हैं । ये एक ऐसा वातावरण बनाता है जहाँ रैंकिंग मैं सईबर हमले से हेर फेर किया जा सकता है और से सेवा प्रदाताओं इनको सक्रिय रूप से पहचानने में और इनको बूलाक करने में सक्षम हो । लोगों ने पहले से ही रेडिट, फेसबुक और ट्विटर मैं कलन विधि को हेर फेर से प्राप्त करने का प्रयास किया है जहाँ उनको ख़ाली वेब का यातायात और सेंसरशिप मिलता है ।
 
-The fundamental unit of account on the Steem platform is STEEM, a crypto currency token. Steem operates on the basis of one-STEEM, one-vote. Under this model, individuals who have contributed the most to the platform, as measured by their account balance, have the most influence over how contributions are scored. Furthermore, Steem only allows members to vote with STEEM when it is committed to a vesting schedule. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
+स्टीम मंच पर खाते की मौलिक इकाई स्टीम, एक क्रिप्टो मुद्रा टोकन है । स्टीम, एक-स्टीम, एक-वोट, के आधार पर संचालित होता है । इस मॉडल के हिसाब से, जिस व्यक्ती ने इस मंच के लिए सबसे अधिक योगदान दिया है उसका मतदान मै सबसे अधिक प्रभाव होता है, और इसका हिसाब उसके अपने खाते की शेष राशि से लगाया जाता हैं। इसके अलावा स्टीम उन्हीं सदस्यों को वोट करने देता है जिन सदस्यों ने अपनी स्टीम को अधिकारयुक्ती अनुसूची के लिए प्रतिबंध किया हो। इस मॉडल के तहत, सदस्यों को एक तरह से मतदान करने के लिए एक वित्तीय प्रोत्साहन होता है जो उनके स्टीम के दीर्घकालिक मूल्य को अधिकतम करता है ।
 
-Steem is designed around a relatively simple concept: *everyone’s meaningful contribution to the community should be recognized for the value it adds.* When people are recognized for their meaningful contributions, they continue contributing and the community grows. Any imbalance in the give and take within a community is unsustainable. Eventually the givers grow tired of supporting the takers and disengage from the community.
+सटीम का अवधारण काफ़ी आसान है: *समुदाय में हर किसी सदस्य को उसकी योगदान के हिसाब से मान्यता प्राप्त होनी चाहिए।*जब लोगों को उनके योगदान के हिसाब से मान्यता प्राप्त होती है तो वो अपना योगदान जारी रखते हैं जिसकी वजह से समुदाई बढ़ता है । एक समुदाय में किसी भी लेन देन मैं असंतुलन स्थाई है । जिस सदस्य को समर्थन देने के बदले में समर्थन नहीं मिलता है तो वो समर्थ देते देते थक जाता है और समुदाय को छोड़ देता है ।
 
-The challenge is creating a system capable of identifying what contributions are needed and their relative worth in a way that can scale to an unbounded number of people.
+चुनौती एक प्रणाली है जो योगदान की जरूरत है और एक तरीका है कि लोगों की एक असीम संख्या के लिए पैमाने पर कर सकते है उनके रिश्तेदार मूल्य की पहचान करने में सक्षम बना रही है ।
 
-A proven system for evaluating and rewarding contributions is the free market. The free market can be viewed as a single community where everyone trades with one another and rewards are allocated by profit and loss. The market system rewards those who provide value to others and punishes those who consume more value than they produce. The free market supports many different currencies and money is simply a commodity that everyone finds easy to exchange.
+मूल्यांकन और पुरस्कृत योगदान के लिए एक सिद्ध प्रणाली मुक्त बाजार है । मुक्त बाज़ार को एक ही समुदाय में देखा जा सकता है जहाँ हर को कोई एक दूसरे के साथ तिजारत करता है और ईनाम पाता है नफ़ा और नुक़सान की शक्ल में । बाजार उनको इनाम देता है जो मूल्य प्रदान करता है और उनको सज़ा देता है जो उत्पाद से ज़्यादा ख़र्च करते हैं । मुक्त बाजार में कई विभिंन मुद्राओं का समर्थन करता है और पैसे बस एक वस्तु है कि हर कोई विनिमय के लिए आसान पाता है ।
 
-Since the free market is a proven system, it is tempting to try to create a free-market system where content consumers directly pay content producers. However, direct payment is inefficient and not really viable for content creation and curation. The value of most content is so low relative to the cognitive, financial, and opportunity costs associated with making a payment that few readers choose to tip. The abundance of free alternatives means that enforcing a ‘paywall’ will drive readers elsewhere. There have been several attempts to implement per-article micropayments from readers to authors, but none have become widespread.
+क्योंकि मुक्त मारकेट एक सिद्ध प्रणाली है, हर कोई चाहता है कि वो ऐसा ही एक मुक्त मार्किट बनायी जहाँ उसकी उपयोगकर्ताओं को उनकी सामग्री हिसाब से भुगतान किया जाए । हालांकि, प्रत्यक्ष भुगतान अक्षम है और सामग्री के निर्माण और उपचारात्मक के लिए वास्तव में व्यवहार्य नहीं है । अधिक सामग्री का मूल्य इतना कम होता है संज्ञानात्मक, वित्तीय और अवसर के सापेक्ष भुगतान जहाँ बहुत कम पाठक टिप्पणी करने के लिए तैयार होते हैं । मुक्त विकल्प की बहुतायत का अर्थ है कि एक “पेवाल” से पाठक कही और चले जाएंगे। लेखकों को पाठकों से प्रति-लेख केलिए छोटी दर की राशि को लागू करने के कई प्रयास किए गए हैं, लेकिन कोई भी व्यापक नहीं हो पाया है ।
 
-Steem is designed to enable effective micropayments for all kinds of contribution by changing the economic equation. Readers no longer have to decide whether or not they want to pay someone from their own pocket, instead they can vote content up or down and Steem will use their votes to determine individual rewards. This means that people are given a familiar and widely used interface and no longer face the cognitive, financial, and opportunity costs associated traditional micropayment and tipping platforms.
+स्टीम आर्थिक समीकरण को बदलकर, योगदान के सभी प्रकार के लिए प्रभावी छोटी दर की राशि को सक्षम बनाता है । पाठकों को अब ये तय नहीं करना पड़ेगा कि वो किसी को अपनी जेब से भुगतान करें या न करें, इसके बजाय वो किसी सामग्री पर अपना वोट ऊपर या नीचे कर सकते हैं और स्टीम उनके वोटों का उपयोग करके व्यक्तिगत पुरस्कार निर्धारित करेंगे । इसका मतलब है कि लोगों को एक परिचित और व्यापक रूप से इस्तेमाल किया जाने वाला इंटरफेस दिया जाता है, जहाँ उनको किसी प्रकार की संज्ञानात्मक, वित्तीय और अवसर से जुडी लागत नहीं देनी पड़ती है, जो सब पारंपरिक छोटे-भुगतानू और टिप देने वाले मंच से जुड़े हैं ।
 
-Voting input from community members is critical for Steem to accurately allocate payments to contributors. Voting can therefore be viewed as a crucial contribution and worthy of rewards on its own. Some platforms, such as Slashdot, use meta-moderation[^3] as a way to rank and reward honest moderators. Steem chooses to reward those who contribute the most to the total promotion of a piece of content and rewards the voters proportional to the ultimate reward paid to the content creator.
+स्टीम पर योगदानकर्ताओं की भूगतान के लिए समुदाय के सदस्यों का मतदान महत्वपूर्ण है । मतदान इसलिए एक महत्वपूर्ण योगदान और अपने दम पर पुरस्कार के योग्य के रूप में देखा जा सकता है । कुछ मंच, जैसे Slashdot, meta-moderation[^3] को एक तरह से ईमानदार मध्यस्थों को स्थान और इनाम देने मे इस्तेमाल किया जाता हैं । स्टीम सामग्री में सबसे अधिक योगदान करने वाले को इनाम के लिए चुनता है और इसी तरह मतदाताओं को सामग्री निर्माताओं को वोट करने के लिए इनाम देता है ।
 
-# Ways to Contribute
+# योगदान के तरीक़े
 
-This section outlines the ideas behind Steem and its rewards for people who provide meaningful and measurable contributions to the Steem community.
+ये हिस्सा उन विचारों का खाका खींचता है जो स्टीम और वो ईनाम जो स्टीम समुदाय लोगों को उनके योगदान के लिए देती है ।
 
-## Capital Contributions
+## पूंजी योगदान
 
-There are two items a community can offer to attract capital: debt and ownership. Those who buy ownership profit when the community grows but lose if the community shrinks. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
+एक समुदाय पूंजी को आकर्षित करने के लिए दो मुद्दों का प्रयोग करती है: कर्ज़ और प्रभुत्व । वो जो प्रभुत्व लाभ ख़रीदते हैं जब समुदाय बढ़ता है मगर खो देते हैं जब समुदाय की संख्या सुकड़ जाती है । जो लोग क़र्ज़ ख़रीदते हैं उनको ब्याज की एक राशि दी जाती है मगर उनको समुदाय के किसी भी लाभ में भाग नहीं मिलता है । ये दोनो योगदान समुदाय और मूल्य के विकास के लिए महत्वपूर्ण है । इसके अलावा यहाँ दो तरीक़े ये स्वामित्व हो सकते हैं: नक़दी और मूलधन। मूलधन स्वामित्व एक दीर्घकालिक प्रतिबद्धता बनाता है और समय की एक नियूनतम अवधि के लिए नहीं बेचा जा सकता है ।
 
-The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SBD).
+स्टीम नेटवर्क इन विभिंन परिसंपत्ति वर्गों स्टीम, स्टीम पावर (एस॰पी॰), और स्टीम डॉलर (एस॰बी॰डी॰) कहते हैं ।
 
-## Steem (STEEM)
+## स्टीम
 
-Steem is the fundamental unit of account on the Steem blockchain. All other tokens derive their value from the value of STEEM. STEEM is a liquid currency, and therefore can be bought or sold on exchanges, as well as transferred to other users as a form of payment.
+स्टीम एक प्रमुख हिस्सा है स्टीम बुलाकचैन का । बाक़ी सभी टोकन स्टीम के मूल्य से उनका मूल्य प्राप्त करते है । स्टीम एक तरल मूली है इसलिए इसको किसी भी इक्स्चेंज मैं ख़रीदा या बेचा जा सकता है इसके अलावा किस्सी भी भुक्तान कैलिए अंतरण कर सकते हैं।
 
-## Steem Power (SP)
+## स्टीम पावर (एस॰पी॰)
 
-Start up companies require long-term capital commitment. Those who invest their money in a startup expect to wait years before they can sell their shares and realize their profits. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
+एक कमपनी को शुरू करने के लिए पूंजी को दीर्घकालिक के लिए प्रतिबंध करना मैहत्रीपूर्ण है । शुरुआत में पैसे निवेश करने वालों को कई साल इंतज़ार करना पड़ता है जिसके बाद वह अपने शेयर बेच कर मुनाफ़ा कमा सकते हैं। दीर्घकालीन प्रतिबद्धता के बिना, एक नई कंमपनी अतिरिक्त शेर की बिक्री के माध्यम से अतिरिक्त धन प्राप्त करने के बजाय अपने मौजूदा शेरधारकों के साथ मुक़ाबले में होंगे जो बाहर निकलने वाले होते हैं। सहज-बुद्धि वाले निवेशक अपनी पूंजी के योगदान से कमपनी और अपना विकास करना चाहते हैं, लेकिन अगर नई कमायी हुई पूंजी बाहर निकलने वाले व्यक्तियों को दी जाए तो उससे विकास में बाधा आती है ।
 
-There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
+दीर्घकालिक प्रतिबद्धता रखना बहुत ही महत्वपूर्ण है क्योंकि इससे समुदाय दीर्घकालीन योजनाएं बनाने में सक्षम होती है । दीर्घकालिक प्रतिबद्धता से हितधारक भी कमपनी के दीर्घकालिक विकास के हित में होते हैं बजाय आपने अल्पकालिक फ़ायदे के।
 
-In the cryptocurrency space, speculators jump from cryptocurrency to cryptocurrency based mostly on which one is expected to have short-term growth. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
+क्रिप्टोकरेंसी के स्थान पर, सट्टेबाज़ ज्यादातर ऐक क्रिप्टोकरेंसी से दूसरे क्रिपटोकरेंसी बदलते रहते हैं, क्योंकि असपर अल्पकालिक वृद्धि की संभावना होती है । स्टीम एक ऐसी समुदाई बनाना चाहता है जिसके अधिकारी मूल्य रूप से दीर्घकालिक परिप्रेक्ष्य के साथ है ।
 
-Users are able to commit their STEEM to a thirteen week vesting schedule, providing them with additional benefits within the platform. STEEM that has been committed to a thirteen week vesting schedule is called Steem Power (SP). SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
+उपयोगकर्ता अपनी स्टीम को तेरा हफ़्तों के निहित अनुसूची में प्रतिबंध करता है जिससे उनको इस मंच पर अतिरिक्त लाभ भी मिलता है । वो स्टीम जिसको तेरा हफ़्तों के मिहित अनुसूची में प्रतिबंधित किया जाता है उसको स्टीम पावर (एस॰पी॰) कहते हैं । स्टीम पावर खाता अस्तातंतरणीय और ग़ैर-विभाजय है, मगर ख़ुद ही निकल सकता है जब हम निकालने की याचिका करते हैं । इसका मतलब यह है कि हम स्टीम पावर का क्रिप्टोकरेंसी एक्सचेंजों पर आसानी से कारोबार नहीं कर सकते ।
 
-When users vote on content, their influence over the distribution of the rewards pool is directly proportional to the amount of SP that they have. Users with more SP have more influence on the distribution of rewards. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
+जब उपयोगकर्ता सामग्री पर वोट करते हैं, पुरस्कार पुल पे उनके वोट का प्रभाव उनके स्टीम पावर पर निर्भर करता है । जतना उपयोगकर्ताकाऔं को स्टीम पावर होगा उतना पुरस्कार के वितरण पर उनका प्रभाव होगा। इसका मतलब स्टीम पावर ऐसा टोकन है जो इसके धारकों को स्टीम मैं अनंय शक्तियाँ अनुदान करता है ।
 
-SP holders are also paid interest on the balance of SP that remains vested. 15% of the yearly inflation is paid to SP holders as interest. The amount of the interest that they receive is directly proportional to the amount of SP they hold relative to the total amount of vested SP across all users.
+जो स्टीम पावर निहित रहता है उस पर धारकों को ब्याज दिया जाता है । वार्षिक मुद्रास्फीति का 15% स्टीम पावर धारकों के ब्याज के रूप मैं भुगतान किया जाता है । ब्याज की राशि उपयोगकर्ता के निहित स्टीम पावर के सापेक्ष सभी उपयोगकर्ताओं के निहित स्टीम पावर पर निर्भर करता है ।
 
-Transferring from STEEM to SP is referred to as “powering up”, while transferring from SP to STEEM is referred to as “powering down.” SP that is powered down is returned to the user over a period of thirteen weeks, via 13 equal weekly payments, starting one week after the power down is initiated.
+स्टीम को स्टीम पावर में बदलने को पावरिंग उप और स्टीम पावर को स्टीम मैं बदलने को पावरिंग डाउन कहते हैं।
 
-## Steem Dollars (SBD)
+## स्टीम डॉलर (एस॰बी॰डी॰)
 
-Stability is an important feature of successful global economies. Without stability, individuals across the world could not have low cognitive costs while engaging in commerce and savings. Because stability is an important feature of successful economies, Steem Dollars were designed as an attempt to bring stability to the world of cryptocurrency and to the individuals who use the Steem network.
+वैश्विक अर्थव्यवस्थाओं की सफलता के लिए सतर्कता बहुत ही महत्वपूर्ण है । बिना स्थिरता के, व्यापार और बचत के मामलों में व्यक्तियों को कम संज्ञानात्मक लागत महीं लगती है। क्योंकि सफल अर्थव्यवस्थाओं के लिए स्थिरता बहुत ही महत्वपूर्ण है, इसलिए क्रपटोकरेंसी की दुनिया में और स्टीम नेटवर्क का उपयोग करने वाले व्यक्तियों के लिए सतर बनाने के कारण से स्टीम डालर बनाया गया था।
 
-Steem Dollars are created by a mechanism similar to convertible notes, which are often used to fund startups. In the startup world, convertible notes are short-term debt instruments that can be converted to ownership at a rate determined in the future, typically during a future funding round. A blockchain based token can be viewed as ownership in the community whereas a convertible note can be viewed as a debt denominated in any other commodity or currency. The terms of the convertible note allow the holder to convert to the backing token with a minimum notice at the fair market price of the token. Creating token-convertible-dollars enables blockchains to grow their network effect while maximizing the return for token holders.
+स्टीम डालर को परिवर्तनीय नोटों की तरह ही बनाया जाता है जिनको हम अक्सर उद्घाटन निधि के लिए इस्तेमाल करते हैं । उद्घाटन करने की दुनिया में, परिवर्तनीय नोट अल्पकालिक ऋण उपकरण है जो भविष्य में निर्धारित दर पर स्वामित्व में परिवर्तित किया जा सकता है । एक ब्लॉकचैन आधारित टोकन समुदाय में स्वामित्व के रूप में देखा जा सकता है जबकि एक परिवर्तनीय नोट किसी अंय वस्तु या मुद्रा में एक ऋण के रूप में देखा जा सकता है । परिवर्तनीय नोट की शर्तें धारक को टोकन के उचित बाजार मूल्य पर एक नयूनतम सूचना के साथ समर्थन टोकन में परिवर्तित करने के लिए अनुमति देते हैं । टोकन-परिवर्तन-डालर बनानी से बुलाकचैन का नेटवर्क प्रभाव बड़ जाता है और साथ ही टोकन धारकों के लिए अधिकतम वापसी ते करता हैं।
 
-Steem Dollars are referred to with the symbol SBD, an acronym for Steem Blockchain Dollars. Creating SBD requires a combination of a reliable price feed, and rules to prevent abuse. Providing a reliable price feed involves three factors: minimizing the impact of an incorrect feed, maximizing the cost of producing an incorrect feed, and minimizing the importance of timing.
+स्टीम डालर को एस॰बी॰डी॰ भी कहा जाता है जइसका परिवर्तन शब्द स्टीम बुलाकचैन डालर हैं। एस॰बी॰डी॰ को बनाने के लिए एक विश्वसनीय मूल्य और नियम चाहिए ता ताकि इसके दुरूपयोग को रोका जा सके । विश्वसनीय मूल्य प्रदान करने के लिए तीन चीज़ें चाहिए: एक ग़लत एक ग़लत फ़ीड के प्रभाव को कम करना, एक ग़लत एक ग़लत सीट की उत्पाद की लागत अधिकतम करना, और समय के महत्व को कम करना ।
 
-### Minimizing Fraudulent Feeds
+### कपटपूर्ण फ़ीड्स को नयूनतम करना
 
-SP holders elect individuals, called witnesses, to publish price feeds. The elected witnesses are presumably trusted by those who have a vested interest in the quality of the feed. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
+स्टीम डोलर धारक, व्यक्तियों का चुनाव करते हैं, जिनको हम गवाह कहते हैं, जो मूल्य फ़ीड को प्रकाशित करते हैं । चीनी हुए गवाहों पर वो लोग भरोसा करते हैं जिनको फ़ीड की गुणवत्ता मैं निहित स्वार्थ होता हैं। चुने हुए गवाहों को भुगतान कर की स्टीम बाज़ार में सही फ़ीड के उत्पाद के लिए ऐक क़िस्म का मुक़ाबला करती है । जितनी ज़्यादा रक़म फ़ीड की उत्पादकों को दिया जाता है उतना उनको ग़लत जानकारी प्रकाशित कर के रक़म खोने का डर होता है ।
 
-Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
+भरोसेमंद और चुने हुए फ़ीड उत्पादकों को देखते हुए, रूपांतरण के लिए इस्तेमाल वास्तविक मूल्य फ़ीड को औसत के रूप में प्राप्त किया जा सकता है । इस तरह चुने हुई गवाहों मैं से कुछ गवाहों के ग़लत फ़ीड देने से मध्य मुद्रा पर बहुत कम असर पड़ता है, मगर गवाहों के ग़लत फ़ीड देने से उन की शोहरत पर असर पड़ता हैं।
 
-Even if all feed producers are honest, it is possible for the majority of feed producers to be impacted by events beyond their control. The Steem network is designed to tolerate short-term corruption of the median price feed while the community actively works to correct the issue. One example of an issue that may take some time to correct is short-term market manipulation. Market manipulation is difficult and expensive to maintain for long periods of time. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
+अगर तमाम फीड बनाने वाले उपकर्ता ईमानदार भी हो फिर भी फ़ीड बनाने वाले ऐसे चीजूँ से मु मुतासिर हो सकते हैं जो उन के वश में नहीं होते हैं। स्टीम नेटवर्क में औसत मूल्य फ़ीड के अल्पकालिक भ्रष्टाचार को सहने की शक्ती है मगर समुदाय सक्रिय रूप से इस बीच मूढ़े को सही करने में लग जानी चाहिए। उलपकालिक बाज़ार हेरफेर एक उदाहरण जहाँ एक मुद्दा कुछ समय सही होने के लिए लगाता है। बाजार में हेरफेर करना मुश्किल है और लंबे समय की अवधि के लिए बनाए रखने के लिए महंगा है । एक अंय उदाहरण के रूप में केंद्रीकृत परिवर्तन केंद्र की विफलता या परिवर्तन केंद्र द्वारा प्रकाशित आंकड़ों में भ्रष्टाचार होंगा ।
 
-Steem factors out short-term price fluctuations by using the median price over a period of three and a half days. The median published feed is sampled every hour on the hour.
+स्टीम अल्पकालिक मूल्य के उतार चढ़ाव को साढ़े तीन दिन की अवधि में औसत मूल्य के माध्यम से बाहर कर देता है । यह औसत मूल्य हर घंटे में नया प्रकाशित किया जाता है ।
 
-As long as the price feed corruption lasts for less than half the moving median time window it will have minimal impact on the conversion price. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
+जब तक फ़ीड के मूल्य का हेर फेर औसत मूल्य फ़ीड के आधे से भी कम मूल्य तक रहेगा, उस समय तक रूपांतरण मूल्य पर न्यूनतम प्रभाव पड़ेगा । अगर किसी घटना में फ़ीड भ्रष्ट हो जाती है तो नेटवर्क प्रतिभागियों को भ्रष्ट फ़ीड उत्पादकों को निकालने का अवसर दिया जाएगा इससे पहले रूपांतरण मूल्य पर भ्रष्ट फ़ीड का प्रभाव पड़ेगा । शायद अधिक महत्वपूर्ण बात ये है कि ये फ़ीड उत्पादनकें के लिए मुद्दे का पता लगाने और सही करने का अवसर प्रदान करती है इससे पहले कि उनकी फ़ीड के मूल्य पर प्रभाव पढ़ना शुरू हो ।
 
-With a three and a half day window, community members have approximately one and a half days to respond to any issues that come up.
+साढ़े तीन दिन की अवधि में समुदाय के सदस्यों के पास किसी भी मुद्दे का जवाब देने के लिए लगभग डेढ़ दिन होता है ।
 
-### Mitigating Timing Attacks
+### समय के हमलों को कम करना
 
-Market participants have access to information faster than the blockchain’s three and a half day moving median conversion price can react. This information could be used to benefit of traders at the expense of the community. If there is a sudden increase in the value of STEEM traders could request conversion of their SBD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
+बाज़ार सहभागीयों को ब्लाकचैन के तीन दिन की औसत रूपांतरण मूल्य से ज़्यादा तेज़ी से जानकारी मिलती है और इस तरह तेज़ी से प्रतिक्रिया कर सकते हैं। व्यापारियों को फ़ायदा पहुँचाने के लिए इस जानकारी का इस्तेमाल किया जा सकता है। स्टीम के मूल्य में अचानक वृद्धि होने पर स्टीम के व्यापारी इसको स्टीम डोलर्स में रूपांतरण का अनुरोध कर सकते हैं और फिर इसी स्टीम को न्यूनतम जोखिम के साथ एक नए अच्छे मूल्य पर बेच सकते हैं।
 
-Steem levels the playing field by requiring all conversion requests to be delayed for three and a half days. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
+इस खेल के मैदान को बराबर करने के लिए स्टीम सभी रुपान्तरण अनुरोधों की आवश्यकता द्वारा को साढ़े तीन दिन कर्ता है। इसका मतलब ये है कि न तो व्यापारियों और न ही ब्लाकचैन को रूपांतरण क़ीमत के बारे में कोई जानकारी लाभ मलता है।
 
-### Minimizing Abuse of Conversions
+### रूपांतरणों का दुरुपयोग कम करना
 
-If people could freely convert in both directions then traders could take advantage of the blockchains conversion rates by trading large volumes without changing the price. Traders who see a massive run up in price would convert to SBD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SBD to STEEM and not the other way around.
+अगर लोग स्वतंत्र रूप से दोनों दिशाओं में रूपांतरण कर सकते हैं तो व्यापारी इसका लाभ लेकर ब्लाकचैन रुपान्तरण दरों का लाभ लेकर बड़ी मात्रा में व्यापार कर सकता है और वो भी किसी मूल्य बदली के। व्यापारी बड़े पैमाने पर स्टीम के मूल्य में बढ़ोतरी देख कर इसे स्टीम डालर्स में परिवर्तन कर सकता है और जब मूल्य का सुधार हो जाए तो दोबारा इसे स्टीम में परिवर्तन कर सकता हैं। स्टीम अनुशासन केवल लोगन को स्टीम डॉलर से स्टीम परिवर्तन करने की अनुमति देता है और इसके विपरीत करने की अनुमति नहीं देता, और इस तरह के और इस तरह के दुरुपयोग से समुदाय की रक्षा करता है।
 
-The blockchain decides how and when to create SBD and who should get it. This keeps the rate of SBD creation stable and removes most avenues of abuse.
+ब्लाकचैन ये निर्णय करता है कि कैसे और कब स्टीम डॉलर टोकन बनाए जाए और किसे ये टोलन मिलने चाहिए। इस तरीके से स्टीम डॉलर के उत्पाद दर को सिथर रखता है और दुरुपयोग के रास्ते ख़त्म करता है।
 
-### Sustainable Debt to Ownership Ratios
+### स्वामित्व अनुपात के लिए स्थाई ऋण
 
-If a token is viewed as ownership in the whole supply of tokens, then a token-convertible-dollar can be viewed as debt. If the debt to ownership ratio gets too high the entire currency can become unstable. Debt conversions can dramatically increase the token supply, which in turn is sold on the market suppressing the price. Subsequent conversions require the issuance of even more tokens. Left unchecked the system can collapse leaving worthless ownership backing a mountain of debt. The higher the debt to ownership ratio becomes the less willing new investors are to bring capital to the table.
+अगर टोकन को बाक़ी सभी टोकन आपूर्ति में स्वा स्वामित्व के रूप में देखा जाएगा तो एक टोकन-परिवर्तनीय-डॉलर को ऋण के रूप में देखा जा सकता है। अगर स्वामित्व के मुक़ाबले में अनुपात बहुत अधिक हो जाता है तो पूरी मुद्रा अस्थिर हो सकती है। ऋण रूपांतरण नाटकीय रूप से टोकन की आपूर्ति करता है जो कि बाज़ार में बेचा जा सकता है और क़ीमत को बढ़ा सकता है। अनुवर्ती रूपांतरण केलिए अधिक टोकन जारी करने की आवश्यकता है। अगर प्रणाली का जायज़ा नहीं लिया गया तो ये स्वामित्व को बेकार बनाकर कर्ज़ का एक पहाड़ बना सकती है। स्वामित्व के मुक़ाबले में क़र्ज़ जितना ज़्यादा होता है उतने ही कम नई निवेशक अपनी जमा पूंजी यहाँ लगाने के लिए तैयार होते हैं।
 
-A rapid change in the value of STEEM can dramatically change the debt-to-ownership ratio. The blockchain prevents the debt-to-ownership ratio from getting too high, by reducing the amount of STEEM awarded through SBD conversions if the debt level were to exceed 10%. If the amount of SBD debt ever exceeds 10% of the total STEEM market cap, the blockchain will automatically reduce the amount of STEEM generated through conversions to a maximum of 10% of the market cap. This ensures that the blockchain will never have higher than a 10% debt-to-ownership ratio.
+स्टीम की क़ीमत में तेज़ी से तब्दीली नाटकीय तौर पर कर्ज़ और स्वामित्व की अनुपात को बदल सकता है। स्टीम ब्लाकचैन क़र्ज़ और स्वामित्व अनुपात को बहुत अधिक होने से रोकने के लिए एक यंत्र का इस्तेमाल करता है जिसके अंतर्गत अगर कर्ज़ की अवधि 10 फ़ीसद से अधिक हो जाती है तो स्टीम की पुरस्कार मिंकदार को स्टीम डॉलर्ज़ में तब्दील करके कम किया जाता है। यदि स्टीम डॉलर की राशि कभी भी स्टीम बाज़ार में 10 फ़ीसद से अधिक होता है तो ब्लाकचैन स्वचालित रूप से रूपांतरण के माध्यम से उत्पांन स्टीम की मात्रा बाज़ार में ऐक अधिकतम 10 फ़ीसद करके कम कर्ता हैं। ये प्रणाली सुनिश्चित करती है कि ब्लाकचैन में ऋण और स्वामित्व अनुपात कभी भी 10 फ़ीसद से अधिक नहीं होगा।
 
-The percentage floors used to compute STEEM creation are based on the supply including the STEEM value of all outstanding SBD and SP (as determined by the current rate / feed).
+स्टीम निर्माण की गणना करने के लिए प्रयुक्त प्रतिशत सभी बक़ाया स्टीम डॉलर और स्टीम पावर के मूल्य सहित स्टीम आपूर्ति पर आधारित कर्ता हैं।
 
-### Interest
+### ब्याज
 
-SBD pays holders interest. The interest rate is set by the same people who publish the price feed so that it can adapt to changing market conditions. All debt carries risk to the lender. Someone who holds SBD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SBD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
+स्टीम डॉलर अपनी धारकों को ब्याज देता है। ब्याज दर उन्ही लोगों द्वारा निर्धारित की जाती है जो मूल्य फ़ीड को प्रकाशित करते हैं ताकि ये बाज़ार की स्थितियों को बदलने के लिए अनुकूल हो सके। सभी ऋण ऋणदाता के लिए जोखिम वाहन करती है। कोई भी व्यक्ति जो स्टीम डॉलर को निकालने के बजाय होल्ड रखता है वो इस प्रकार से समुदाय को एक डॉलर का क़र्ज़ा देता हैं। ऐसे वेकती भरोसा करते हैं कि भविष्य में कोई स्टीम डॉलर को एक डॉलर की क़ीमत में ख़रीदेगा या फिर अगर वो वेकती स्टीम को भविष्य में स्टीम में परिवर्तित करेगा तो कुछ निवेशकों और सट्टेबाज़ इस को ख़रीदने कै लिए तेयार होंगे।
 
-STEEM and SP holders gain leverage when members of the community are willing to hold SBD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
+स्टीम और स्टीम पावर के धारक लाभ उठाते हैं जब समुदाय की सदस्य स्टीम डॉलर को होल्ड करते हैं। यह उत्तोलन विकास से लाभ को प्रवर्धित करते हुए भी विकास में योगदान दे रहा है । स्टीम धारकों भी पीड़ित होते हैं अगर स्टीम की क़ीमत गिर जाती है। क्रिपटोकरेंसी परियोजनाओं ने दिखाया है कि जो उपयोगकर्ता अपनी पूंजी के साथ नेटवर्क पर भरोसा करने को तैयार है वो इस नेटवर्क में काफ़ी मूल्य जोड़ते हैं ।
 
-### Setting Price Feeds
+### मूल्य फ़ीड्स ते करना।
 
-Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
+चतुर पाठक यह पहचान लेंगे कि सीमित आपूर्ति वाली ब्याज की परिसंपत्ति दूसरी परिसंपत्ति के मुक़ाबले में कम या ज़्यादा व्यापार कर सकती है और ये अन्य अवसरों की क़ीमत पर निर्भर करता है। ज़्यादा ब्याज के दर जो अमरीकी डॉलर से ही बुक्तान किया जायगा, बहुत से लोग स्टीम डॉलर की सीमित आपूर्ति पर बोली लगाएंगे जब तक स्टीम डॉलर की क़ीमत $१ होजाएगी। अर्थव्यवस्था में एक आसूल है जिससे नामुमकिन ट्रिनिटी[^4] से जाना जाता है जो कहता है के नीचे दिए गई तीनों चीज़ें एक साथ होना असंभव है:
 
-1. A stable exchange rate
-2. Free capital movement
-3. An independent monetary policy
+1. एक स्थिर विनिमय दर
+2. मुफ़्त पूंजी का बहाव
+3. एक स्वतंत्र मौद्रिक नीति
 
-If Steem feed producers aim to have an independent monetary policy allowing it to create and destroy Steem Dollars while simultaneously having full control over the interest rate then they will encounter problems. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
+अगर स्टीम फ़ीड को बनाने वाले स्टीम डोलार को बनाने और ख़त्म करने की अनुमति के ज़रिए एक स्वतंत्र मौद्रिक हासिल करना चाहते है क्यूँकि ब्याज दर पर नियंत्रण करना चाहते हैं ताकि वो समस्याओं का सामना कर सके। असंभव ट्रिनिटी का कहना है कि स्टीम डॉलर को या तो पूंजी की गतिविधि को सीमित करना ज़रूरी है, या डॉलर के साथ एक अस्थिर विनिमय दर रखना है, या ब्याज दर पर सीमित नियंत्रण रखना है।
 
-The primary concern of Steem feed producers is to maintain a stable one-to-one conversion between SBD and the U.S. Dollar (USD). Any time SBD is consistently trading above $1.00 USD interest payments must be stopped. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SBD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
+स्टीम फ़ीड उत्पादकों की प्राथमिक चिंता एस॰बी॰डी॰ और अमेरीकी डॉलर के बीच एक स्थिर ऐक-से-ऐक रूपांतरण बनाए रखना है। किसी भी समय स्टीम डॉलर का अगर लगातार एक अमेरीकी डॉलर से अधिक मूल्य पर व्यापार किया जा रहा हो तो ब्याज की भुगतान को बंद कर दिया जाना चाहिए। एक बाज़ार में जहाँ ऋण पर 0 फ़ीसद ब्याज भी इस मूल्यों को एक डॉलर से नीचे ला सके तो ये कहना सही है कि बाज़ार समुदाय को इसकी ज़रूरत से ज़्यादा ऋण देने को तैयार करना होगा। अगर ऐसा होता तो स्टीम डॉलर का मूल्य मार्केट में एक डॉलर से ज़्यादा रहे रहेगा और यहाँ समुदाई नकारात्मक ब्याज दर को चार्ज किये बिना कर सकते हैं।
 
-If the debt-to-ownership ratio is low and SBD is trading for less than $1.00, then the interest rate should be increased. This will encourage more people to hold their SBD and support the price.
+यदि ऋण-स्वामित्व अनुपात कम है और स्टीम डॉलर एक डॉलर से कम मैं व्यापार करता है तो ब्याज दर में बदलाव की जानी चाहिए इससे अधिक लोगों को अपनी स्टीम डॉलर को होल्ड और क़ीमत का समर्थन करने के लिए प्रोत्साहन मिलेगा।
 
-If SBD trades for less than $1.00 USD and the debt-to-ownership ratio is high, then the feeds should be adjusted upward give more STEEM per SBD. This will increase demand for SBD while also reducing the debt-to-ownership ratio and returning SBD to parity with USD.
+यदि एस॰बी॰डी॰ एक अमेरिकी डॉलर से कम मूल्य पर बिकता हो और ऋण और स्वामित्व का अनुपात ज़्यादा हो तो फ़ीड्ज़ को ऊपर करने की अवशकता होती है ताकि एक स्टीम डॉलर पर ज़्यादा स्टीम मिल सके। इसे स्टीम डॉलर की माँग बढ़ेगी जबकि ऋण-स्वामित्व अनुपात को कम करेगा और स्टीम डॉलर को दोबारा अमेरिकी डॉलर से जोड़ देगा।
 
-Assuming the value of STEEM is growing faster than Steem is creating new SBD, the debt-to-ownership ratio should remain under the target ratio and the interest offered benefits everyone. If the value of the network is flat or falling, then any interest offered will only make the debt-to-ownership ratio worse.
+यह फ़र्ज़ करते हैं कि स्टीम का मूल्य इससे बड़ा है जितना नए स्टीम डॉलर बनाने में स्टीम ख़र्च होता है तो ऋण-स्वामित्व अनुपात लक्ष्य अनुपात के तहत रहना चाहिए और ब्याज सभीको को laabh देना चाहिए। यदि नेटवर्क के मूल्य सिथर या गिर रहा है तो इस्स सूरत में किसी भी ब्याज की पेशकश केवल ऋण-स्वामित्व अनुपात को बदतर करेगा।
 
-In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
+प्रभाव में, फ़ीड निर्माताओं को अमरीकी डालर के लिए एक स्थिर खूंटी को बनाए रखने के उद्देश्य के लिए मौद्रिक नीति की स्थापना की जिंमेदारी के साथ सौंपा जाता है। इस शक्ति का दूरुपयोग करने से स्टीम को नुक़सान पहुँचता है और स्टीम पोवर धारकों को उन गवाहों के लिए मतदान करना बुद्धिमानी हैं जो ऊपर उल्लिखित नियमों के अनुसार मूल्य फ़ीड और ब्याज दरों को सामायोजित करने वलूँ मई गिना जाता हैं।
 
-If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SBD.
+यदि ऋण-स्वामित्व अनुपात बहुत ज़्यादा बढ़ जाता है और बाज़ार सहभागियों इस रूपांतरण अनुरोध से बचना चाहते हैं तो फ़ीड मूल्य को इस तरह बदलना ज़रूरी है जिससे स्टीम डॉलर को ख़रीदने के लिए ज़्यादा स्टीम की आवश्यकता पड़े।
 
-Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SBD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions.
+ब्याज दर और स्टीम/स्टीम डॉलर के रूपांतरण के मूल्य में कमि या ज़्यादती में बाज़ार रूपांतरणो की लम्बी अवधि अवसत सुस्त होनी चहए बजाए कम अवधि वाले बाज़ार से।
 
-It is our belief that these rules will give market participants confidence that they are unlikely lose money by holding SBD purchased at a price of $1.00. We fully expect there to be a narrow trading range between $0.95 and $1.05 for SBD under normal market conditions.
+ये हमारा विश्वास है कि इन नियमों से बाज़ार सहभागियों को विश्वास हो जाएगा कि वो ऐक डॉलर की क़ीमत पर ख़रीदे स्टीम डॉलर को धारण करके पैसे नहीं खो देंगे। हम सामान्य बाज़ार की स्थिति में पूरी तरह से तंग व्यापार रेंज यानी ०. ९५$ और १. ०५$ के बीच मैं रखने की उमीद रखते हैं।
 
-## Subjective Contributions
+## व्यक्तिपरक योगदान
 
-Subjective Proof of Work presents an alternative approach to distributing a currency that improves upon fully *objective* Proof of Work systems such as mining. The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
+व्यक्तिपरक काम का सबूत ऐक मुद्रा के वितरण के लिए ऐक विकल्प देता है जो *उद्देश्य* काम के सबूत कैलिये ऐक वैकल्पिक दृष्टिकोण प्रस्तुत करता है। मुद्रा के आवेदन को लागू करने के लिए *व्यक्तिपरक* काम का सुबूत *उद्देश्य* काम के सबूत से अधिक व्यापक है क्योंकि यह किसी भी समुदाय को पर्याप्त रूप से परिभाषित उद्देश्य से निर्माण करसकता हैं। जब बोहत व्यक्तिय एक समुदाय में शामिल होते हैं वे विश्वाससों की एक विशेष सेट ख़रीदने में शामिल होने और समुदाई के मूल्यों उद्देश्य को मज़बूत बनाने के लिए वोट कर सकते हैं।
 
-In effect, the criteria by which work is evaluated is completely subjective and its definition lives outside the source code itself. One community may wish to reward artists, another poets, and another comedians. Other communities may choose to reward charitable causes or help advance political agendas.
+प्रभाव में जिस बुनियाद पर काम को परखा जाता है अपने आप में सोर्स कोड से बाहर और व्यक्तिपरक रहता हैं। एक समुदाय कलाकारों को, कवि को और मजाहिया लोगन को इनाम दे सकती हैं। अन्य समुदाय को धर्मार्थ कारणों को ईनाम या आग्रिम राजनीतिक मामलों में इनाम कैलिये चुन सकते हैं।
 
-The value each currency achieves depends upon the demand for influence within a particular community and how large the market believes each community can get. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
+एक मुद्रा जो मूली हासिल करती है इसका प्रत्येक एक ख़ास समुदाय के अंदर इसकी माँग पर और इस बात पर होता है कि बाज़ार का किस्सी भी समुदाय पर यक़ीन हो कि वह क्या हासिल कर सकती है। पहले की प्रणालियों के विपरीत व्यक्तिपरक पर काम का सबूत एक समुदाय को सामूहिक तौर पर तरकी को बढ़ावा देने के क़ाबिल बनाता है और इनकी इस समय को मौद्रिकरण सक्षम बनाता है जो इससे पहले इस क़ाबिल था।
 
-### Distributing Currency
+### मुद्रा वितरण
 
-There are two ways people can get involved with a crypto-currency community: they can *buy in*, or they can *work in*. In both cases users are adding value to the currency, however, the vast majority of people have more *free time* than they do *spare cash*. Imagine the goal of bootstrapping a currency in a poor community with no actual *cash* but plenty of *time*. If people can earn money by working for one another then they will bootstrap value through mutual exchange facilitated by a fair accounting/currency system.
+यहाँ दो तरीक़ों से लोग एक क्रिपटो कारनसी समुदाय में शामिल हो सकते हैं: ऐक *ख़रीद* सकते है या तो *काम* कर सकते हैं। दोनों मामलों में उपयोगकर्ता मुद्रा के लिए मूल्य जोड़ते हैं, मगर अक्सर लोगों के पास ज़्यादा *ख़ाली समय* होता है बजाय *ज़्यादा पैसे* के। एक ग़रीब समुदाई जिसके पास कोई *नक़द रुपये* न हो बल्कि बहुत *समय* हो, ऐसे समुदाय में मुद्रा को बढ़ाने के लक्ष्य की कल्पना करो। अगर लोग एक दूसरे की काम करके पैसे कमा सकते हैं तो उचित अकाउंटिंग/मुद्रा की तरफ़ से आसानी होगी जहाँ वो आपसी रूपांतरण के ज़रिए मुद्रा के मूल्य को बढ़ा सकते हैं।
 
-Distributing a currency to as many people as possible in a manner that is generally perceived as fair is a challenging task. The tasks that can be entirely evaluated by an objective computer algorithm are limited in nature and generally speaking have limited positive external benefits. In the case of Bitcoin-style mining, it can result in the production of specialized hardware and cause people to invest time developing more efficient algorithms. It may even help find prime numbers, but none of these things provide meaningful value to society or the currency holding community at large. More importantly, economies of scale and market forces will end up excluding everyone but experts from participating in this kind of distribution. Ultimately, computation-based mining is just another way of *buying in* because it requires money to pay the electric bill or the development of hardware necessary to do the work.
+मुद्रा की ज़्यादा से ज़्यादा लोगों में वितरण इस अंदाज़ से कि जिसे आम तौर पर निष्पक्ष समझा जाता हूँ और जो एक चुनौतीपूर्ण काम है। वो काम जिनका उद्देश्य एदाद और शुमार के ज़रिये मुकम्मल जायज़ा लिया जा सकता है वह प्राकृतिक तौर पर सिमित होते हैं और आम तौर पर ये कहा जा सकता है कि इनमें बहुतसे सिमित साकारात्मक बाहरी लाभ हैं। बिटकॉइन शैली माइनिंग की सूरत में इसका नतीजा विशेष दाती चीज़ों के उत्पादन मैं निकल सकता है और लोगों से ज़्यादा कुशल एदाद व षमार बनवाने के लिए समय निवेश करने का कारण बन सकता है। ये आभाज्य अंको की तलाश करने में मदद करता है लेकिन इनमें से कोई भी चीज़ समाज के लिए या इस मुद्रा को बड़ी पेमाने में होल्ड करने वाली समुदाय के लिए सार्थक मूल्य नहीं देता है। इससे भी महत्वपूर्ण बात ये है कि बड़े पैमाने पर अर्थव्यवस्था और बाज़ार के तमाम व्यक्तियों को मुद्रा के वितरण में हिस्सा लेने से रोकती है और ख़ाली विशेषज्ञों को अनुमति होती है। आख़िर कम्प्यूटर की बुनियाद पर माइनिंग मुद्रा को ख़रीदने का एक और रास्ता है क्योंकि इस में बिजली की बिल देने के लिए मूल्य की ज़रूरत होती है या फिर मुद्रा की उन्नती और उत्पाधन कैलिये धातु पर रक़म ख़र्च होती हैं।
 
-In order to give everyone an equal opportunity to get involved and earn the currency people must be given an opportunity to work. The challenge is how to judge the relative quality and quantity of work that individuals provide and to do so in a way that efficiently allocates rewards to millions of users. This requires the introduction of a scalable voting process. In particular it requires that authority to allocate funds must be as distributed and decentralized as possible.
+आदेश में सभी को एक समान अवसर देने के लिए लोगों को मुद्रा म कमाने का और काम करने का बराबर अवसर मिलना चाहिए। चुनौती ये है कि दूसरे व्यक्ति के मुक़ाबले में किस तरह काम की मात्रा और गुणवत्ता का फ़ैसला किया जाए और ऐसे तरीक़े से किया जाए जिसके ज़रिए लाखों व्यक्ति में पुरस्कार दिए जा सकें। इस कसिलिए एक मापनिया मतदान प्रक्रिया की आवश्यकता है। विशेष रूप से ये प्राधिकरण को इनाम आवंटत करने कैलिये ज़्यादा से ज़्यादा वितरण और विकेंद्रिकृत की आवश्यकता रखना चाहिये।
 
-The first step in rewarding millions of users is to commit to distributing a fixed amount of currency regardless of how much work is actually done or how users vote. This changes the question from being *“Should we pay?”* to *“Whom should we pay?”* and signals to the market that money is being distributed and is being auctioned off to whoever “bids” the most *work*. This is similar to Bitcoin committing to award 50 BTC to whoever finds the most difficult hashes. Like Bitcoin, all work must be done prior-to payout and nothing should be paid speculatively on the promise to do work in the future.
+पहला कदम लाखों उपयोगकर्त्ताओं को इनाम देने की ओर बचनबद्ध हैं बाटने के लिए एक तय रकम मुद्रा को बिना परवाह किये की कितना काम वास्तव में हुवा या कैसे उपयोगकर्ताएँ वोट करते हैं| यह प्रश्न बदल देता है होने से*"क्या हमें भुगतान करना चाहिए?"* को *"हमें किसे भुगतान करना चाहिए?"* और इशारा बाजार को की पैसा बाँटा जा रहा है और नीलामी बंद हो रहा है जो भी "बोली लगाते हैं" अत्यधिक *प्रभावी*| यह बिटकॉइन के जैसा ही बचनबद्ध है ५० बीटीसी इनाम में देने के लिए जो कोई ढूंढता है सर्वाधिक कठीन गड़बड़ियों को| बिटकॉइन के जैसा, भुगतान से पहले काम अवश्य हो जाना चाहिए और अनुमान के आधार पर कुछ नहीं भुगतान होना चाहिए भविष्य में काम पूरा करने के वादे पर|
 
-The next step is to reward everyone who does anything even remotely positive with *something*. This is accomplished by ranking all work done and distributing proportionally to its value. The more competitive the market becomes, the more difficult (higher quality or quantity) it becomes to earn the same payout.
+अगला कदम उन सभी को पुरस्कृत करना है जो किसी भी *चीज़* के साथ दूरस्थ रूप से कुछ सकारात्मक करते हैं। यह सभी कार्यों को श्रेणी और उसके मूल्य के अनुपात में आनुपातिक रूप से वितरित करके पूरा किया जाता है। बाजार जितना अधिक प्रतिस्पर्धी हो जाता है, उतना ही कठिन (उच्च गुणवत्ता या मात्रा) हो जाता है भुगतान अर्जित करना।
 
-### Voting on Distribution of Currency
+### मुद्रा के वितरण पर मतदान
 
-Assume there is a fixed amount of money to distribute, and that those who have a long-term vested interest in the future value and utility of the currency are the ones who must decide how to allocate it. Every vesting user casts their votes on who did the best work and at the end of the day the available money for that day is divided proportional to the votes such that everyone with even one net positive vote gets something.
+मान लें कि वितरित करने के लिए एक निश्चित राशि है, और भविष्य में मूल्य और उपयोगिता में दीर्घकालिक निहित रुचि रखने वाले लोग हैं जिन्हें यह तय करना होगा कि इसे कैसे आवंटित किया जाए। प्रत्येक निहित उपयोगकर्ता अपने वोटों का दावा करता है कि किसने सबसे अच्छा काम किया और दिन के अंत में उस दिन के लिए उपलब्ध धन को वोटों के अनुपात में विभाजित किया जाता है, जिससे कि हर किसी को एक भी सकारात्मक वोट मिलने पर कुछ न कुछ मिलता है।
 
-The naive voting process creates a N-Person Prisoner’s Dilemma[^5] whereby each individual voter has incentive to vote for themselves at the expense of the larger community goal. If every voter defects by voting for themselves then no currency will end up distributed and the currency as a whole will fail to gain network effect. On the other hand, if only one voter defects then that voter would win undeserved profits while having minimal effect on the overall value of the currency.
+निष्पक्ष मतदान प्रक्रिया एन-पर्सन प्रिज़नर्स डिलेमा[^5] की दुविधा बनाता है जिससे प्रत्येक व्यक्तिगत मतदाता को बड़े समुदाय के लक्ष्य की कीमत पर खुद को वोट देने के लिए प्रोत्साहन मिलता है। यदि प्रत्येक मतदाता स्वयं के लिए मतदान करके दोष डालता है तो कोई मुद्रा वितरित नहीं होगी और मुद्रा नेटवर्क प्रभाव प्राप्त करने में पूरी तरह से विफल रहेगी। दूसरी तरफ, यदि केवल एक मतदाता इस प्रकार का दोष देता है तो मुद्रा के कुल मूल्य पर न्यूनतम प्रभाव होगा, जिससे मतदाता अवांछनीय मुनाफा ले सकेंगे।
 
-#### Voting Abuse
+#### मतदान का दुरुपयोग
 
-Regardless of how much money any one individual has, there are always many other individuals with similar wealth. Even the wealthiest individual rarely has much more than the next couple wealthiest combined. Furthermore, those who have a large investment in a community also have the most to lose by attempting to game the voting system for themselves. It would be like the CEO of a company deciding to stop paying salaries so he could pocket all of the profits. Everyone would leave to work for other companies and the company would become worthless, leaving the CEO bankrupt rather than wealthy.
+भले ही किसी एक व्यक्ति के पास कितना ही पैसा क्यो न हो, वैसे ही समान धन वाले कई अन्य व्यक्ति भी होते हैं। यहां तक कि सबसे धनी व्यक्ति शायद ही कभी अगले सबसे धनी व्यक्तियों के संयुक्त से अधिक हो। इसके अलावा, किसी समुदाय के जिन लोगो के पास बड़ा निवेश होता है, के पास सबसे अधिक खोने के लिए होता है अगर वे मतदान प्रणाली के साथ खिलवाड़ करते है। यह एक कंपनी के सीईओ की तरह होगा जो वेतन का भुगतान करना बंद करने का फैसला करे ताकि वह सभी मुनाफे को जेब में रख सके। हर कोई अन्य कंपनियों के लिए काम करना छोड़ देगा और कंपनी बेकार हो जाएगी, सीईओ को अमीर होने के बजाय दिवालिया होने के लिए छोड़कर।
 
-Fortunately, any work that is getting a large concentration of votes is also gaining the most scrutiny (publicity). Through the addition of *negative-voting* it is possible for many smaller stakeholders to nullify the voting power of collusive groups or defecting large stakeholders. Furthermore, large-stakeholders have more to lose if the currency falls in value due to abuse than they might gain by voting for themselves. In fact, honest large stakeholders are likely to be more effective by policing abuse and using negative voting than they would be by voting for smaller contributions.
+सौभाग्य से, वोटों की एक बड़ी सांद्रता प्राप्त करने वाला कोई भी काम सबसे अधिक जांच (प्रचार) प्राप्त कर रहा है। *नकारात्मक-मतदान* के अलावा, कई छोटे हितधारकों के लिए यह संभव है कि वे कपटपूर्ण समूहों की मतदान शक्ति को खत्म कर दें या बड़े हितधारकों को दोष पहुंचाए। इसके अलावा, खुद को मत देकर मिलने वाले लाभ की तुलना में बड़े हितधारकों को दुरुपयोग की वजह से मुद्रा के मूल्य में गिरावट होने पर ज़्यादा नुक्सान हो सकता है वास्तव में, दुरुपयोग और नकारात्मक मत के लिए निति होने से ईमानदार बड़े हितधारक ज़्यादा प्रभावी हो सकते है जितना की वे छोटे योगदान के लिए मतदान करके होते।
 
-The use of *negative-voting* to keep people from abusing the system leverages the *crab mentality* that many people have when it is perceived that one individual is profiting at the expense of everyone else. While crab mentality normally refers to short-sighted people keeping good people down, it is also what allows good people to keep bad people down. The only “problem” with crab mentality is when people *wrongly believe* someone is profiting at everyone else's expense.
+लोगों को सिस्टम का दुरुपयोग करने से रोकने के लिए *नकारात्मक-मतदान* का उपयोग *केकड़ा मानसिकता* को उजागर करता है, जो कई लोगों में होती है जब उन्हेंलगता है कि एक व्यक्ति हर किसी के खर्च पर लाभ उठा रहा है। जबकि केकड़ा मानसिकता आमतौर पर अच्छे लोगों को नीचे करने और अल्प-दृष्टि वाले लोगों को संदर्भित करती है, यह अच्छे लोगों को अनुमति देती है कि वे बुरे लोगों को निचे रख सकें। केकड़ा मानसिकता के साथ एकमात्र "समस्या" तब होती है जब लोग *गलत तरीके से विश्वास करते हैं* कि कोई व्यक्ति हर किसी के खर्च पर लाभ उठा रहा है।
 
-**The Story of the Crab Bucket**[^6]
+**केकड़ा बाल्टी की कहानी**[^6]
 
-A man was walking along the beach and saw another man fishing in the surf with a bait bucket beside him. As he drew closer, he saw that the bait bucket had no lid and had live crabs inside.
+एक व्यक्ति समुद्र के किनारे चल रहा था और उसने देखा कि एक दूसरा व्यक्ति सर्फ में मछली पकड़ रहा था जिसके बगल में एक चारे की बाल्टी पड़ी हुई थी। जैसे वो आगे बढ़ता गया, उसने देखा की चारे की बाल्टी पर कोई ढक्कन लगा हुआ नहीं था और उसमे सजीव केकड़े थे।
 
-"Why don't you cover your bait bucket so the crabs won't escape?", he said.
+"आप अपनी चारे की बाल्टी को क्यों नहीं ढकते, ताकि केकड़े बाहर न जायें?", उसने कहा।
 
-"You don't understand.", the man replied, "If there is one crab in the bucket it would surely crawl out very quickly. However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
+"आप समझ नहीं रहे हो।", आदमी ने जवाब दिया, "अगर बाल्टी में एक केकड़ा होगा तो यह निश्चित रूप से बहुत जल्दी बाहर आ जायेगा। हालांकि, जब बाल्टी में कई केकड़े होते हैं, तब यदि कोई केकड़ा बाहर निकलने की कोशिश करता है, तो दूसरे उसे पकड़ लेते हैं और वापस खींचते हैं ताकि वह भी उसी भाग्य को बाकी केकडो के भांति साझा कर सके। "
 
-So it is with people. If one tries to do something different, get better grades, improve herself, escape her environment, or dream big dreams, other people will try to drag her back down to share their fate.
+तो यह लोगों के साथ है। अगर कोई कुछ अलग करने की कोशिश करता है, बेहतर ग्रेड प्राप्त करें, खुद को सुधारें, अपने हालात से निकले, या बड़े सपनों को पूरा करते हैं, तो अन्य लोग अपने भाग्य को साझा करने के लिए उसे वापस खींचने की कोशिश करेंगे।
 
-Eliminating “abuse” is not possible and shouldn’t be the goal. Even those who are attempting to “abuse” the system are still doing work. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn’t so rampant that it undermines the incentive to do real work in support of the community and its currency.
+"दुर्व्यवहार" को खत्म करना संभव नहीं है और यह लक्ष्य नहीं होना चाहिए। यहां तक कि जो लोग सिस्टम का दुरुपयोग करने का प्रयास कर रहे हैं वे अभी भी काम कर रहे हैं। उनके दुर्व्यवहार या मिलीभगत के सफल प्रयास से मिलने वाला मुआवज़ा मुद्रा वितरित करने के उद्देश्य के लिए कम से कम मूल्यवान है जैसा की पारंपरिक बिटकॉइन माइनिंग या माइनिंग पूल के माध्यम से किए गए कपटपूर्ण खनन द्वारा नियोजित मेक-वर्क सिस्टम के रूप में होता है। यह सुनिश्चित करना आवश्यक है कि दुर्व्यवहार इतना प्रचलित न हो जाए कि इससे समुदाय और उसके मुद्रा के समर्थन में वास्तविक कार्य करने के लिए प्रोत्साहन कम हो जाए।
 
-The goal of building a community currency is to get more “crabs in the bucket”. Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs sufficient power to prevent others from escaping.
+एक समुदाय की मुद्रा के निर्माण का लक्ष्य होना चाहिए कि "बाल्टी में केकड़े" और भी लाये जाए। सभी दुर्व्यवहारों को खत्म करने के लिए चरम उपायों का उपयोग करने का मतलब होगा कि कुछ केकड़ों को बाहर निकलने से रोकने के लिए बाल्टी का ढक्कन बंद कर दिया जाए जबकि इसकी भरपाई नए केकडो को बाल्टी में लाने पर आने वाली कठिनाई से चुकानी पड़ती है। अन्य केकड़ों को भागने से रोकने के लिए दीवारों को फिसलन भरा बनाना और अन्य केकड़ों को पर्याप्त शक्ति प्रदान करना ही पर्याप्त है।
 
-### Rate Limited Voting
+### सीमित वोटिंग दर
 
-A major part of minimizing abuse is the rate-limiting of voting. Individual users can only read and evaluate so many work items per day. Any attempt to vote more frequently than this is a sign of automation and potential abuse. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
+दुर्व्यवहार को कम करने का एक प्रमुख हिस्सा वोटिंग की दर-सीमित करना है। व्यक्तिगत उपयोगकर्ता प्रतिदिन कुछ ही कार्यों और वस्तुओं को पढ़ और मूल्यांकन कर सकते हैं। इससे अधिक बार मतदान करने का कोई भी प्रयास स्वचालन और संभावित दुर्व्यवहार का संकेत है। सीमित सीमा निर्धारण के माध्यम से, जो हितधारकों को अधिक बार मतदान करते हैं, उनमें प्रत्येक वोट की गिनती उन हितधारकों से कम है जो कम बार वोट देते हैं। कई खातों के बीच टोकन को विभाजित करने के प्रयास से प्रभाव का भी विभाजन होता हैं और इसलिए नतीजों में शुद्ध वृद्धि नहीं होती है और न ही वोटिंग पर लगाई गई दर सीमा को बाधित किया जा सकता है।
 
-Users are allotted a fixed amount of voting power. Voting power is multiplied by a user’s vesting tokens to determine how much share in the reward pool should be allocated to a given work item. Every vote that is cast uses a percentage of remaining voting power. Users can vote for more posts, but each vote will be worth less, and it will take longer to reach full voting power again. Voting power recharges at a fixed linear rate of 20% per day.
+उपयोगकर्ताओं को मतदान शक्ति की निश्चित राशि आवंटित की जाती है। किसी दिए गए कार्य आइटम को रिवॉर्ड पूल में कितना हिस्सा आवंटित किया जाना चाहिए यह निर्धारित करने के लिए वोटिंग पावर को उपयोगकर्ताओं के वेस्टिंग टोकनों द्वारा गुणा किया जाता है। प्रत्येक वोट जो कि कास्ट किया जाता है, शेष मतदान शक्ति का प्रतिशत उपयोग करता है। उपयोगकर्ता अधिक पोस्ट पर मतदान कर सकता है, लेकिन प्रत्येक वोट कम मूल्यवान होता जाता है, और फिर पूर्ण मतदान शक्ति तक पहुंचने में अधिक समय लगता है। वोटिंग पावर प्रति दिन 20% की निश्चित रैखिक दर पर रिचार्ज होता है।
 
-### Payout Distribution
+### भुगतान वितरण
 
-One of the primary goals of Steem’s reward system is to produce the best discussions on the internet. Each and every year 75% of the yearly inflation is distributed to users submitting, voting on, and discussing content. At the size of Bitcoin this could be several million dollars per day being given to the top contributors.
+स्टीम के रिवॉर्ड सिस्टम के प्राथमिक लक्ष्यों में से एक इंटरनेट पर सर्वोत्तम चर्चाओं का उत्पादन करना है। दर प्रत्येक वर्ष 75% वार्षिक मुद्रास्फीति उपयोगकर्ताओं द्वारा पोस्ट प्रस्तुत करने, मतदान करने और चर्चा करने के लिए वितरित की जाती है। बिटकॉइन के सामान होने पर यह शीर्ष योगदानकर्ताओं को प्रति दिन कई मिलियन डॉलर दिए जाने जैसा होगा।
 
 The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content.
 

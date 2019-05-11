@@ -1,242 +1,242 @@
 # Steem
 
-## 一個獎勵，區塊鏈 (blockchain) 為主，公共內容平臺。 
+## An incentivized, blockchain-based, public content platform.
 
-2017年8月
+August 2017
 
-# 翻譯筆記
+# Translator's notes
 
-譯者備註的預留位置。
+Placeholder for translator's notes.
 
-# 摘要 
+# Abstract
 
-Steem 是一個通過提供加密貨幣獎勵支持社區建設和社會互動的區塊鏈資料庫。 Steem 將社交媒體的概念與建造加密貨幣及其社區的經驗相結合。 鼓勵參與任何人參與社區、貨幣或自由市場經濟的關鍵因素是提供一個始終反映每個人貢獻的公平計算體系。 Steem 是第一個準確試圖和透明地獎勵為其社區做出*主觀貢獻*的無數個人的加密貨幣。
+Steem is a blockchain database that supports community building and social interaction with cryptocurrency rewards. Steem combines concepts from social media with lessons learned from building cryptocurrencies and their communities. An important key to inspiring participation in any community, currency or free market economy is a fair accounting system that consistently reflects each person's contribution. Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
 
-# 目錄
+# Table of Contents
 
 <!-- toc -->
 
-# 簡介
+# Introduction
 
-總體而言，用戶生成的內容為社交媒體公司的股東創造了價值數十億美元價值，例如 Reddit，Facebook和Twitter。 **在2014年，Reddit 假設：如果每一個以寫日誌，評論或點贊這種形式向 reddit.com 做出貢獻的個人獎勵一份 Reddit 公司的公平股份，那麼其平台將會得到改進。[^1]**. Steem 的目的是支持社會媒體和在線上社區通過返回許多價值的人提供有價值的貢獻，以回報他們的加密貨幣，並且通過這個過程創造一種貨幣，是能够達成一個廣泛的市場，包括那些沒有參加任何加密貨幣經濟人。 
+Collectively, user-generated content has created billions of dollars worth of value for the shareholders of social media companies, such as Reddit, Facebook, and Twitter. **In 2014, Reddit hypothesized that its platform would be improved if everyone who contributed to reddit.com by posting stories, adding comments or voting were rewarded with a fair share in Reddit, Inc.[^1]**. Steem aims to support social media and online communities by returning much of its value to the people who provide valuable contributions by rewarding them with cryptocurrency, and through this process create a currency that is able to reach a broad market, including people who have yet to participate in any cryptocurrency economy.
 
-有一些關鍵原則, 已被用來指導設計的 Steem。 最重要的原則是 每一個人作出貢獻的企業應該得到分配的擁有權, 支付或債務的風險。 這一原則是適用于所有初創公司的原則, 因為它們在創建和隨後的融資回合中分配股份。
+There are some key principles that have been used to guide the design of Steem. The most important principle is that everyone who contributes to a venture should receive pro-rata ownership, payment or debt from the venture. This principle is the same principle that is applied to all startups as they allocate shares at founding and during subsequent funding rounds.
 
-第二個原則是所有形式的資本都同樣有價值。 這意味著那些貢獻了他的時間與精力以為他人生產和策劃內容服務的人應該與那些貢獻金錢的人具有同樣的價值。 這就是人力資產原則[^2]同時也是之前的加密貨幣所同樣擁有，經常有麻煩提供給超過幾個人。
+The second principle is that all forms of capital are equally valuable. This means that those who contribute their scarce time and attention toward producing and curating content for others are just as valuable as those who contribute their scarce cash. This is the sweat equity principle[^2] and is a concept that prior cryptocurrencies have often had trouble providing to more than a few dozen individuals.
 
-第三個原則是 社區生產產品來服務其成員。 這一原則以信用合作社、食品合作社和健康分享計畫為例，它們為社區成員服務, 而不是向社區以外的人銷售產品或服務。
+The third principle is that the community produces products to serve its members. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
 
-Steem 社區向其成員提供以下服務:
+The Steem community provides the following services to its members:
 
-1. 一個優質新聞和時事評論的來源。
-2. 為個人化問題獲得高品質答案的一種方法。
-3. 一個與​​美元掛鉤的穩定加密貨幣
-4. 免費付款。
-5. 向其他成員提供上述服務的作業。
+1. A source of curated news and commentary.
+2. A means to get high quality answers to personalized questions.
+3. A stable cryptocurrency pegged to the U.S. dollar.
+4. Free payments.
+5. Jobs providing above services to other members.
 
-Steem 對經濟激勵的有目的的調整, 有可能為所有參與的人帶來更公平和更具包容性的結果, 而不是社會媒體和 加密貨幣 平臺。 本文將探討現有的經濟激勵措施, 並說明Steem的激勵措施如何能為大多數參與者帶來更好的結果。
+Steem’s purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem’s incentives may result in better outcomes for most participants.
 
-## 確認貢獻
+## Recognizing Contribution
 
-Steem 是一個徹底解決社交媒體經濟的應用與其貨幣化問題而設計的解決方案。 我們的論文是, 使用相同的技術來發展主要的社交媒體平臺可以用來引導一個成功的加密貨幣. 加密货币所啟用的經濟刺激措施可以極大地促進新的社會媒體平臺的發展。 加密货币 和社會媒體之間的協同作用, 我們相信可能給 Steem 一個強大的優勢在市場上。
+Steem is designed from the ground up to address the major barriers to adoption and monetization of a social media based economy. Our thesis is that the same techniques used to grow major social media platforms can be used to bootstrap a successful cryptocurrency. Economic incentives enabled by cryptocurrency can dramatically facilitate the growth of a new social media platform. It is the synergy between cryptocurrency and social media that we believe may give Steem a powerful advantage in the market.
 
-Steem 面臨的挑戰是得出一個演算法, 用於評分個人貢獻, 大多數社區成員認為是公平評估每項貢獻的主觀價值。 在一個完美的世界裡，社區成員將相互合作，對其他成員的貢獻進行評分並獲得公平的補償。 在現實世界中, 演算法必須以這樣的方式設計, 這樣他們就能抗拒有意操縱利潤。 任何對評分制度的濫用都會導致社區成員對經濟體系的公平性失去信心。
+The challenge faced by Steem is deriving an algorithm for scoring individual contributions that most community members consider to be a fair assessment of the subjective value of each contribution. In a perfect world, community members would cooperate to rate each other's contribution and derive a fair compensation. In the real world, algorithms must be designed in such a manner that they are resistant to intentional manipulation for profit. Any widespread abuse of the scoring system could cause community members to lose faith in the perceived fairness of the economic system.
 
-現有平臺以單使用者、一票原則運行。 這就創造了一個環境, 在那裡排名可以由 Sybil 攻擊操縱, 服務提供者必須積極地識別和阻止虐待人。 已經有人試圖操縱Reddit，Facebook，和 Twitter 評分算灋時的回報是網站流量或審查。
+Existing platforms operate on a one-user, one-vote principle. This creates an environment where rankings can be manipulated by sybil attacks and the service providers must pro-actively identify and block abusers. People already attempt to manipulate the Reddit, Facebook, and Twitter scoring algorithms when the only reward is web traffic or censorship.
 
-Steem 平臺上的基本帳戶單位是 STEEM, 一個加密貨幣權杖。 Steem 以一 Steem 一票的方式運作。 在這種模式下，對平臺貢獻最大的個人，以他們的帳戶餘額衡量，對捐款的得分影響最大。 此外，Steem 只允許成員投票 STEEM 時它是致力於一個歸屬時間表。 在這種模式下，成員們會被激勵而用把 STEEM 幣長期價值最大化的方式來投票。
+The fundamental unit of account on the Steem platform is STEEM, a crypto currency token. Steem operates on the basis of one-STEEM, one-vote. Under this model, individuals who have contributed the most to the platform, as measured by their account balance, have the most influence over how contributions are scored. Furthermore, Steem only allows members to vote with STEEM when it is committed to a vesting schedule. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
 
-Steem 是圍繞一個相對簡單的概念的設計: *每個人對社區的有意義的貢獻所增加的價值都應該被認可. *當人們認可他們的有意義的貢獻時，他們繼續貢獻並促進社區增長。 在社區內給予和採取的任何不平衡是不可持續的。 給予者最終會厭倦支持接受者並脫離社區.
+Steem is designed around a relatively simple concept: *everyone’s meaningful contribution to the community should be recognized for the value it adds.* When people are recognized for their meaningful contributions, they continue contributing and the community grows. Any imbalance in the give and take within a community is unsustainable. Eventually the givers grow tired of supporting the takers and disengage from the community.
 
-面臨的挑戰是建立一個系統，需要能夠確定哪些貢獻的，並且它們的相對價值可以擴展到無限多的人。
+The challenge is creating a system capable of identifying what contributions are needed and their relative worth in a way that can scale to an unbounded number of people.
 
-一個被證明的評估和獎勵貢獻的系統是自由市場。 自由市場可以被看作是一個單一的社區，每個人都相互交易，報酬由利潤和損失來分配。 市場體系獎勵那些為他人提供價值的人，懲罰那些比他們消費更多價值的人。 自由市場支持許多不同的貨幣，而貨幣只是一種每個人都易於交換的商品。
+A proven system for evaluating and rewarding contributions is the free market. The free market can be viewed as a single community where everyone trades with one another and rewards are allocated by profit and loss. The market system rewards those who provide value to others and punishes those who consume more value than they produce. The free market supports many different currencies and money is simply a commodity that everyone finds easy to exchange.
 
-由於自由市場是一個經過驗證的系統，所以很容易嘗試建立一個自由市場體系，內容消費者直接向內容生產者付費。 然而，直接支付是低效的和不可行創建內容和管理。 大多數內容的價值與認知、財務和機會成本有關，而很少有讀者願意給小費。 自由選擇的豐富意味著實施 付費牆” 將帶動讀者的地方。 有過幾個讀者給作者的每篇文章小額支付嘗試，但沒有一個被普及。
+Since the free market is a proven system, it is tempting to try to create a free-market system where content consumers directly pay content producers. However, direct payment is inefficient and not really viable for content creation and curation. The value of most content is so low relative to the cognitive, financial, and opportunity costs associated with making a payment that few readers choose to tip. The abundance of free alternatives means that enforcing a ‘paywall’ will drive readers elsewhere. There have been several attempts to implement per-article micropayments from readers to authors, but none have become widespread.
 
-Steem 旨在通過改變經濟方程式來實現對各種貢獻的有效小額支付。 讀者不再需要決定是否要從自己的口袋中支付某人, 而是他們可以投票內容向上或向下, Steem 將使用他們的選票來決定個人獎勵。 这意味着，人们被给予了一个熟悉的和广泛使用的接口，不再面对认知、金融及相关传统小额支付和倾斜平台的机会成本。
+Steem is designed to enable effective micropayments for all kinds of contribution by changing the economic equation. Readers no longer have to decide whether or not they want to pay someone from their own pocket, instead they can vote content up or down and Steem will use their votes to determine individual rewards. This means that people are given a familiar and widely used interface and no longer face the cognitive, financial, and opportunity costs associated traditional micropayment and tipping platforms.
 
-社区成员的投票对 Steem 准确地分配捐款是至关重要的。 因此, 投票可以看作是一項重要貢獻, 值得自己獎勵。 某些平台，比如Slashdot，使用 meta-moderation [^3]作為排序和獎勵誠實的評判者的方法。 Steem 選擇獎勵那些對某項內容的宣傳貢獻最大的成員，並且對投票者的獎勵與內容創造者的最終報酬成正比。
+Voting input from community members is critical for Steem to accurately allocate payments to contributors. Voting can therefore be viewed as a crucial contribution and worthy of rewards on its own. Some platforms, such as Slashdot, use meta-moderation[^3] as a way to rank and reward honest moderators. Steem chooses to reward those who contribute the most to the total promotion of a piece of content and rewards the voters proportional to the ultimate reward paid to the content creator.
 
-# 如何貢獻
+# Ways to Contribute
 
-本節概述了STEEM背後的想法及其對為STEEM社區提供有意義和可衡量的貢獻的人的獎勵..
+This section outlines the ideas behind Steem and its rewards for people who provide meaningful and measurable contributions to the Steem community.
 
-## 資本的貢獻
+## Capital Contributions
 
-社區可以提供兩項吸引資本的項目：債務和所有權。 當社區萎縮時，當社區增長而失去時，購買所有權的人獲利。 購買債務的人獲得一定的利息，但不能參與社會增長所實現的任何利潤。 這兩種類型的資本捐助對社會的增長和貨幣的價值都是有價值的。 此外，還有兩種方法可以持有所有權：流動和股權。 股權是一個長期的承諾，不能在最短的時間內出售。
+There are two items a community can offer to attract capital: debt and ownership. Those who buy ownership profit when the community grows but lose if the community shrinks. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
 
-Steem 網絡把這些不同的資產類別稱為 Steem（STEEM), Steem 能量（SP), 和Steem美元（SBD）
+The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SBD).
 
 ## Steem (STEEM)
 
-Steem 是賬戶在Steem區塊鏈的基礎單位. 所有其他代幣都從STEEM的價值派生出來。 STEEM 是一種流動性貨幣，因此可以在交易所買賣，也可作為支付方式轉給其他用戶。
+Steem is the fundamental unit of account on the Steem blockchain. All other tokens derive their value from the value of STEEM. STEEM is a liquid currency, and therefore can be bought or sold on exchanges, as well as transferred to other users as a form of payment.
 
 ## Steem Power (SP)
 
-啟動公司需要長期資本承諾。 那些在初創公司投資的人預期要等好幾年才能賣出股票，實現利潤。 如果沒有長期的承諾，一家試圖通過出售額外股票籌集更多資本的創業公司將與現有股東競爭。 精明的投資者希望自己的資本貢獻能使公司成長, 但如果新資本被給予那些希望退出的人, 經濟增長就不可能實現。
+Start up companies require long-term capital commitment. Those who invest their money in a startup expect to wait years before they can sell their shares and realize their profits. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
 
-有長期承諾的重要價值，因為它使社區能够製定長期計畫。 利益相關者的長期承諾也促使他們投票支持長期增長，而不是短期投資。
+There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
 
-在加密貨幣的領域中，投機者從一種加密貨幣到另外一種加密貨幣的跳轉主要基於哪一種會有預計的短期增長。 Steem 希望建立一個由長期觀點所擁有並完全控制的社區。
+In the cryptocurrency space, speculators jump from cryptocurrency to cryptocurrency based mostly on which one is expected to have short-term growth. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
 
-使用者可以將他們的 STEEM 提交到十三周的歸屬計畫, 為他們提供在平臺內的額外好處。 STEEM 已承諾十三周的歸屬計畫稱為Steem電源 (SP)。 SP 餘額是非轉讓的, 除非通過自動重複的轉換請求, 否則不可整除。 這意味著SP不能輕易地在加密貨幣交易所交易。
+Users are able to commit their STEEM to a thirteen week vesting schedule, providing them with additional benefits within the platform. STEEM that has been committed to a thirteen week vesting schedule is called Steem Power (SP). SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
 
-當用戶對內容進行投票時，他們對獎勵池分配的影響與他們擁有的SP數量成正比。 有更多 SP 的使用者對獎勵的分配有更多的影響。 這意味著 SP 是一個訪問權杖, 它授予其持有者在Steem平臺內的專有許可權。
+When users vote on content, their influence over the distribution of the rewards pool is directly proportional to the amount of SP that they have. Users with more SP have more influence on the distribution of rewards. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
 
-SP持有人還得到歸屬SP餘額的利息。 5％的年通貨膨脹被用於支付利息給SP所有者。 它們所收到的利息的金額與它們相對於所有使用者的已歸屬 SP 的總金額所持的 SP 數量成正比。
+SP holders are also paid interest on the balance of SP that remains vested. 15% of the yearly inflation is paid to SP holders as interest. The amount of the interest that they receive is directly proportional to the amount of SP they hold relative to the total amount of vested SP across all users.
 
-把STEEM轉移到SP被稱為“增加能量”，而從SP轉移到STEEM被稱為“降低能量”。能量降低的SP將在十三週的時間每週等量地被返還給用戶。返還從降低能量啟動的一周以後開始。
+Transferring from STEEM to SP is referred to as “powering up”, while transferring from SP to STEEM is referred to as “powering down.” SP that is powered down is returned to the user over a period of thirteen weeks, via 13 equal weekly payments, starting one week after the power down is initiated.
 
 ## Steem Dollars (SBD)
 
-穩定是成功的全球經濟的一個重要特徵。 如果沒有穩定，世界各地的個人在從事商業和儲蓄時就不會有低的認知成本。 因為穩定是成功的經濟體的一個重要特徵，設計了Steem 美元企圖對加密貨幣的世界，誰使用 Steem 網絡個人帶來穩定。
+Stability is an important feature of successful global economies. Without stability, individuals across the world could not have low cognitive costs while engaging in commerce and savings. Because stability is an important feature of successful economies, Steem Dollars were designed as an attempt to bring stability to the world of cryptocurrency and to the individuals who use the Steem network.
 
-Steem 美元是由類似于可轉換債券的機制創建的, 通常用於為初創企業提供資金。 在創業市場，可轉換債券是短期債務工具，可以以未來確定的利率轉換為所有權，通常是在未來的融資週期中。 基於區塊鏈的代幣可以被視為社區中的所有權，而可轉換債券可以被視為以任何其他商品或貨幣計價的債務。 可轉換票據的條款允許持有者以令牌的公平市場價格作為最小通知轉換為支持令牌。 創建代幣可轉換美元使區塊鏈能夠在最大化代幣持有者回報的同時增加他們的網絡效果。
+Steem Dollars are created by a mechanism similar to convertible notes, which are often used to fund startups. In the startup world, convertible notes are short-term debt instruments that can be converted to ownership at a rate determined in the future, typically during a future funding round. A blockchain based token can be viewed as ownership in the community whereas a convertible note can be viewed as a debt denominated in any other commodity or currency. The terms of the convertible note allow the holder to convert to the backing token with a minimum notice at the fair market price of the token. Creating token-convertible-dollars enables blockchains to grow their network effect while maximizing the return for token holders.
 
-Steem 美元是指與符號 SBD, 一個縮寫為 Steem Blockchain 美元。 創建SBD需要結合可靠的飼料價格、和規則，防止濫用。 提供可靠的價格飼料包括三個因素：最大限度地减少不正確的飼料的影響，最大限度地產生錯誤飼料的成本，並儘量減少時間的重要性。
+Steem Dollars are referred to with the symbol SBD, an acronym for Steem Blockchain Dollars. Creating SBD requires a combination of a reliable price feed, and rules to prevent abuse. Providing a reliable price feed involves three factors: minimizing the impact of an incorrect feed, maximizing the cost of producing an incorrect feed, and minimizing the importance of timing.
 
-### 最小化欺詐性餵價
+### Minimizing Fraudulent Feeds
 
-SP持有人選舉的個人，作為見證人，公佈餵價。 可以認為，餵價質量的既得利益者，信任被選出的見證人。 通過支付那些被選出來的人, Steem 創造市場競爭來賺取生產飼料的權利。 餵價創造者獲得的報酬越多，他們發布虛假信息的損失就越多。
+SP holders elect individuals, called witnesses, to publish price feeds. The elected witnesses are presumably trusted by those who have a vested interest in the quality of the feed. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
 
-給定一組受信任和當選的飼料生產商，轉換的實際價格可以作為飼料的中位數。 這樣，如果少數個體飼料生產商產生離群值，它們對實際中值的影響最小，但仍有能力影響它們的聲譽。
+Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
 
-即使所有飼料生產商都是誠實的，大多數飼料生產商也有可能受到超出其控制範圍的事件的影響。 Steem 網路旨在容忍中位價格提要的短期腐敗, 而社區則積極努力糾正這一問題。 可能需要一段時間糾正的一個例子是短期市場操縱。 市場操縱是困難和昂貴的維持長期的時間。 另一個例子是集中交換失敗或交易所發佈的資料損壞。
+Even if all feed producers are honest, it is possible for the majority of feed producers to be impacted by events beyond their control. The Steem network is designed to tolerate short-term corruption of the median price feed while the community actively works to correct the issue. One example of an issue that may take some time to correct is short-term market manipulation. Market manipulation is difficult and expensive to maintain for long periods of time. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
 
-Steem 通過使用三天以上的中位價格來影響短期價格波動。中位公佈的提要每小時採樣一次。
+Steem factors out short-term price fluctuations by using the median price over a period of three and a half days. The median published feed is sampled every hour on the hour.
 
-只要價格腐敗的持續時間不到移動中值時間窗的一半，它將對轉換價格的影響最小。 如果飼料確實變質了，網絡參與者將有機會在腐敗飼料影響實際轉換價格之前將腐敗飼料生產商投出去。 也許更重要的是, 它給飼料生產者一個機會, 以發現和糾正問題之前, 他們的飼料開始影響價格。
+As long as the price feed corruption lasts for less than half the moving median time window it will have minimal impact on the conversion price. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
 
-有一個三天半的視窗，社區成員有大約一天半的時間來回答任何出現的問題。
+With a three and a half day window, community members have approximately one and a half days to respond to any issues that come up.
 
-### 緩解定時攻擊
+### Mitigating Timing Attacks
 
-市場參與者獲取資訊的速度比 blockchain 的三天半的移動中值轉換價格的反應。 這些資訊可以用來造福於交易者，而損害了整個社會。 如果 STEEM 交易商的價值突然增加, 可以要求他們的 SBD 在舊的, 較低的價格, 然後出售的 STEEM, 他們得到了一個新的更高的價格與最低的風險。
+Market participants have access to information faster than the blockchain’s three and a half day moving median conversion price can react. This information could be used to benefit of traders at the expense of the community. If there is a sudden increase in the value of STEEM traders could request conversion of their SBD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
 
-Steem 通過要求所有轉換請求延遲三天來對遊戲場進行級別調整。 這意味著，無論是商人還是blockchain有任何資訊優勢對於當時轉換價格執行。
+Steem levels the playing field by requiring all conversion requests to be delayed for three and a half days. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
 
-### 最小化轉換的濫用
+### Minimizing Abuse of Conversions
 
-如果人們可以自由轉換的兩個方向然後交易者可以利用的blockchains轉換率交易量大價格沒有變化。 那些看到價格大幅上漲的交易員會以高價 (最危險的時候) 轉換為 SBD, 然後在調整後轉換回來。 Steem 協定只允許 從 SBD 轉換為 STEEM, 而不是以另一種方式來保護社區免遭這種虐待。
+If people could freely convert in both directions then traders could take advantage of the blockchains conversion rates by trading large volumes without changing the price. Traders who see a massive run up in price would convert to SBD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SBD to STEEM and not the other way around.
 
-Blockchain 决定如何以及何時創建SBD和誰應該得到它。這使SBD創造穩定率和消除濫用的途徑。
+The blockchain decides how and when to create SBD and who should get it. This keeps the rate of SBD creation stable and removes most avenues of abuse.
 
-### 可持續債務到擁有權比率
+### Sustainable Debt to Ownership Ratios
 
-如果一個代幣被視為整個代幣供應的所有權，那麼代幣可兌換美元就可以被視為債務。 如果債務與所有權比率過高，整個貨幣就會變得不穩定。 債務轉換可以極大地新增代幣供應，而這反過來又在市場上抑制價格。 隨後的轉換需要發行更多的代幣。 如果不受控制，系統會崩潰並留下堆積如山的債務所背書的毫無價值的所有權。 債務與所有權比率越高，新的投資者就越不願意投資。
+If a token is viewed as ownership in the whole supply of tokens, then a token-convertible-dollar can be viewed as debt. If the debt to ownership ratio gets too high the entire currency can become unstable. Debt conversions can dramatically increase the token supply, which in turn is sold on the market suppressing the price. Subsequent conversions require the issuance of even more tokens. Left unchecked the system can collapse leaving worthless ownership backing a mountain of debt. The higher the debt to ownership ratio becomes the less willing new investors are to bring capital to the table.
 
-STEEM 價值的快速變化可以顯著改變債務與擁有權的比率。 Blockchain 防止債務與擁有權的比率過高, 通過通過 SBD 轉換來減少 STEEM 的金額, 如果債務水準超過10%。 如果 SBD 債務的數額超過了總 STEEM 市場上限的 10%, blockchain 將自動減少通過轉換而產生的 STEEM 數量, 達到最大市值上限的10%。 這確保了blockchain將永遠不會有高於10%的債務股權比率。
+A rapid change in the value of STEEM can dramatically change the debt-to-ownership ratio. The blockchain prevents the debt-to-ownership ratio from getting too high, by reducing the amount of STEEM awarded through SBD conversions if the debt level were to exceed 10%. If the amount of SBD debt ever exceeds 10% of the total STEEM market cap, the blockchain will automatically reduce the amount of STEEM generated through conversions to a maximum of 10% of the market cap. This ensures that the blockchain will never have higher than a 10% debt-to-ownership ratio.
 
-用於計算 STEEM 創建的百分比層基於供應, 包括所有未完成的 SBD 和 SP 的 STEEM 值 (由當前速率/提要確定)。
+The percentage floors used to compute STEEM creation are based on the supply including the STEEM value of all outstanding SBD and SP (as determined by the current rate / feed).
 
-### 利息
+### Interest
 
-SBD 支付持有人利息。 利率由發布價格飼料的同一個人設定，以便它能夠適應不斷變化的市場條件。 所有債務都會給貸款人帶來風險。 有人認為不可取的是SBD社區有效貸款一美元的價值。 他們相信在未來的某一時刻會有人願意從他們的美元或將有投機者和投資者願意購買Steem轉換為購買SBD。
+SBD pays holders interest. The interest rate is set by the same people who publish the price feed so that it can adapt to changing market conditions. All debt carries risk to the lender. Someone who holds SBD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SBD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
 
-當社會成員願意持有 SBD 時, STEEM 和 SP 持有者將獲得杠杆作用。 這種杠杆作用放大了增長帶來的收益, 同時也促進了增長。 如果價格下跌, STEEM 持有者也會受到稀釋的加劇。 加密貨幣項目顯示增加願意以資產信任網絡的用戶群比在經濟低迷時期稀釋給網絡增加更多的價值。
+STEEM and SP holders gain leverage when members of the community are willing to hold SBD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
 
-### 设置喂价
+### Setting Price Feeds
 
-精明的讀者會認識到，有限的有息資產可能比其他資產更高或更低，這取決於其他機會獲得同一資產的利息。 以高利率資產盯住美元的美國許多人會抬高美元的Steem供應有限，直到他們不再是價值1美元支付。 在經濟學中有一個原理，稱為不可能的三位一體[^4]。它指出不可能同時擁有以下所有三的內容：
+Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
 
-1. 穩定的匯率
-2. 自由資本運動
-3. 一個獨立的貨幣政策
+1. A stable exchange rate
+2. Free capital movement
+3. An independent monetary policy
 
-如果 Steem 的飼料生產目的有獨立的貨幣政策，允許它的創造與毀滅的同時，在Steem的美元利率的完全控制，然後他們會遇到問題。 不可能的三位一體說，Steem 的美元需要限制資本流動，與美元的匯率不穩定，或在利率限制控制。
+If Steem feed producers aim to have an independent monetary policy allowing it to create and destroy Steem Dollars while simultaneously having full control over the interest rate then they will encounter problems. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
 
-Steem 飼料生產商的主要關注是保持 SBD 和美元之間的一對一轉換。 任何時間 SBD 持續交易超過1.00 美元的利息支付必須停止。 在一個市場上，0% 的債務利息仍然要求溢價，可以肯定地說，市場願意擴大比社區願意承擔的債務更多的信貸。 如果發生這種情況，SBD將價值超過1美元，很少有社區可以不用充電的負利率。
+The primary concern of Steem feed producers is to maintain a stable one-to-one conversion between SBD and the U.S. Dollar (USD). Any time SBD is consistently trading above $1.00 USD interest payments must be stopped. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SBD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
 
-如果債務股權比率低，SBD是低於1美元的交易，那麼利率應新增。這將鼓勵更多的人保持他們的SBD和支持價格。
+If the debt-to-ownership ratio is low and SBD is trading for less than $1.00, then the interest rate should be increased. This will encourage more people to hold their SBD and support the price.
 
-如果 SBD 交易的金額少於1.00 美元, 而債務與擁有權的比率很高, 那麼該飼料應該調整向上給出更多的 STEEM 每 SBD。 這將新增需求的SBD同時减少債務股權比例和返回的SBD平價美元。
+If SBD trades for less than $1.00 USD and the debt-to-ownership ratio is high, then the feeds should be adjusted upward give more STEEM per SBD. This will increase demand for SBD while also reducing the debt-to-ownership ratio and returning SBD to parity with USD.
 
-假設 STEEM 的價值增長快於Steem 正在創造新的 SBD, 債務與擁有權的比率應保持在目標比率之下, 所提供的利益惠及每一個人。 如果網絡的價值是平的或下降的，那麼任何利息只會使債務與所有權比率惡化。
+Assuming the value of STEEM is growing faster than Steem is creating new SBD, the debt-to-ownership ratio should remain under the target ratio and the interest offered benefits everyone. If the value of the network is flat or falling, then any interest offered will only make the debt-to-ownership ratio worse.
 
-實際上，飼料生產商有責任製定貨幣政策，以維持與美元的穩定掛鉤。 濫用這一權力會損害 STEEM 的價值, 因此 SP 持有人明智地投票給可以指望根據上述規則調整價格飼料和利率的證人。
+In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
 
-如果債務股權比率越高，市場參與者選擇避免轉換請求，然後飼料應調整新增的速率在Steem轉換為SBD支付。
+If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SBD.
 
-利率政策的變動和/或STEEM / SBD轉換匯率的任何溢價/折扣應該是對長期平均偏差的一個緩慢的和有分寸的反應而不是試圖對短期市場狀況作出反應。
+Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SBD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions.
 
-我們相信, 這些規則將使市場參與者相信, 持有 SBD 以1.00 元的價格購買, 他們不太可能賠錢。 我們期待有一個狹窄的交易範圍在 0.95美元和1.05美元的SBD在正常的市場條件下。
+It is our belief that these rules will give market participants confidence that they are unlikely lose money by holding SBD purchased at a price of $1.00. We fully expect there to be a narrow trading range between $0.95 and $1.05 for SBD under normal market conditions.
 
-## 主觀貢獻
+## Subjective Contributions
 
-主觀工作量證明提供了另一種方法以分配貨幣並改進了像挖礦這樣的*客觀*工作量證明系統。 實施*主觀*工作量證明的貨幣的應用比任何*客觀*工作量證明的系統都要寬廣的得多，因為前者可以應用於圍繞任何具有充分足夠定義宗旨的概念構建一個社區。 當個人加入一個社區時，他們會購買一套特定的信仰，並且可以投票來加强社區的價值或目標。
+Subjective Proof of Work presents an alternative approach to distributing a currency that improves upon fully *objective* Proof of Work systems such as mining. The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
 
-實際上，評估工作的標準是完全主觀的，其定義不在原始程式碼本身。 一個社區可能希望獎勵藝術家，另一位詩人和另一位喜劇演員。 其他社區可能選擇獎勵慈善事業或幫助推進政治議程
+In effect, the criteria by which work is evaluated is completely subjective and its definition lives outside the source code itself. One community may wish to reward artists, another poets, and another comedians. Other communities may choose to reward charitable causes or help advance political agendas.
 
-每一種貨幣的價值取決於特定社會對需求的影響，以及市場對每個社區的信任程度。 每一種貨幣的價值取決於特定社會對需求的影響，以及市場對每個社區的信任程度。
+The value each currency achieves depends upon the demand for influence within a particular community and how large the market believes each community can get. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
 
-### 分發幣種
+### Distributing Currency
 
-有兩種方法可以讓人們參與到加密貨幣社區中：他們可以*購買*也可以*做工*。 在這兩種情况下，用戶都在向貨幣增添價值。但絕大多數人*空閒時間*多於*閒置資金*。 設想在一個沒有實際*現金*但有大量*時間*的貧窮社區中引導貨幣的目標。 如果人們可以通過互相工作來賺錢，那麼他們將通過公平的會計/貨幣系統促進相互交換來引導價值。
+There are two ways people can get involved with a crypto-currency community: they can *buy in*, or they can *work in*. In both cases users are adding value to the currency, however, the vast majority of people have more *free time* than they do *spare cash*. Imagine the goal of bootstrapping a currency in a poor community with no actual *cash* but plenty of *time*. If people can earn money by working for one another then they will bootstrap value through mutual exchange facilitated by a fair accounting/currency system.
 
-將貨幣分配給盡可能多的人，這種管道通常被認為是公平的，這是一項具有挑戰性的任務。 可由客觀的電腦算灋完全評估的任務在本質上是有限的，並且一般來說具有有限的正面外延效益。 比特幣式的開採產生了專門硬體的生產，讓人們投入時間開發更有效的算灋。 它甚至可以説明找到質數, 但這些都沒有為社會或貨幣持有的社會提供有意義的價值。 更重要的是，規模經濟和市場力量最終將排除所有人，但專家不會參與這種分配。 最終，計算採礦只是另一種*購買管道*，因為它需要資金支付電費或硬體開發費用來完成這項工作。
+Distributing a currency to as many people as possible in a manner that is generally perceived as fair is a challenging task. The tasks that can be entirely evaluated by an objective computer algorithm are limited in nature and generally speaking have limited positive external benefits. In the case of Bitcoin-style mining, it can result in the production of specialized hardware and cause people to invest time developing more efficient algorithms. It may even help find prime numbers, but none of these things provide meaningful value to society or the currency holding community at large. More importantly, economies of scale and market forces will end up excluding everyone but experts from participating in this kind of distribution. Ultimately, computation-based mining is just another way of *buying in* because it requires money to pay the electric bill or the development of hardware necessary to do the work.
 
-為了給每個人平等的參與和掙錢的機會，人們必須得到工作的機會。 挑戰在於如何判斷個人提供的工作的相對質量和數量，以及如何有效地分配給數百萬用戶的獎勵。 這需要引入可伸縮的投票過程。 特別是，它要求分配資金的權力必須盡可能分散和分散。
+In order to give everyone an equal opportunity to get involved and earn the currency people must be given an opportunity to work. The challenge is how to judge the relative quality and quantity of work that individuals provide and to do so in a way that efficiently allocates rewards to millions of users. This requires the introduction of a scalable voting process. In particular it requires that authority to allocate funds must be as distributed and decentralized as possible.
 
-獎勵數百萬用戶的第一步是承諾分配一定數量的貨幣，而不管實際完成了多少工作或用戶如何投票。 這會將問題從*“我們是否該付錢?“*變成*”我們該付給誰錢?“*，從而向市場發出訊號表明資金正在被分發，並被拍賣給任何”出價“最多的*工作*。 這是類似於比特幣的承諾獎50 BTC找到最困難的雜湊值。 就像比特幣，所有工作必須做到支付不應支付的投機在未來要做的工作的承諾。
+The first step in rewarding millions of users is to commit to distributing a fixed amount of currency regardless of how much work is actually done or how users vote. This changes the question from being *“Should we pay?”* to *“Whom should we pay?”* and signals to the market that money is being distributed and is being auctioned off to whoever “bids” the most *work*. This is similar to Bitcoin committing to award 50 BTC to whoever finds the most difficult hashes. Like Bitcoin, all work must be done prior-to payout and nothing should be paid speculatively on the promise to do work in the future.
 
-下一步是獎勵那些對*某事*做了任何正面事情的人。 這是通過對所有完成的工作排序和按比例分配的結果來完成的。 市場競爭越激烈，獲得同樣的報酬就越困難（質量或數量越高）。
+The next step is to reward everyone who does anything even remotely positive with *something*. This is accomplished by ranking all work done and distributing proportionally to its value. The more competitive the market becomes, the more difficult (higher quality or quantity) it becomes to earn the same payout.
 
-### 關於貨幣分配的表決
+### Voting on Distribution of Currency
 
-假設有一個固定數額的貨幣來分配，那些對貨幣的未來價值和效用有長期既得利益的人必須决定如何分配貨幣。 每一個執政者都會投票决定誰做了最好的工作，在一天結束的時候，當天的可用資金與選票成比例，每個人即使有一個淨正投票，也能得到一些東西。
+Assume there is a fixed amount of money to distribute, and that those who have a long-term vested interest in the future value and utility of the currency are the ones who must decide how to allocate it. Every vesting user casts their votes on who did the best work and at the end of the day the available money for that day is divided proportional to the votes such that everyone with even one net positive vote gets something.
 
-簡單的投票過程造成了一個N人囚犯困境[^5]，即每個選民有動機投票為自己的犧牲更大的社區目標。 如果每一個選民的缺點是投票給自己，那麼沒有貨幣將最終分配，整個貨幣將無法獲得網絡效應。 另一方面，如果只有一個選民的缺陷，那麼選民將贏得不正當的利潤，同時對貨幣的整體價值影響甚微。
+The naive voting process creates a N-Person Prisoner’s Dilemma[^5] whereby each individual voter has incentive to vote for themselves at the expense of the larger community goal. If every voter defects by voting for themselves then no currency will end up distributed and the currency as a whole will fail to gain network effect. On the other hand, if only one voter defects then that voter would win undeserved profits while having minimal effect on the overall value of the currency.
 
-#### 投票濫用
+#### Voting Abuse
 
-不管一個人有多少錢，總有許多其他人擁有同樣的財富。 不管一個人有多少錢，總有許多其他人擁有同樣的財富。 此外，那些對社區有大量投資的人，也有可能因為試圖為自己的投票系統而輸掉比賽。 這就像一家公司的 CEO 執行官決定停止支付薪水，以便他可以將所有的利潤分得一杯羹。 每個人都會離開去為其他公司工作，公司將變得毫無價值，讓CEO破產而不是富有。
+Regardless of how much money any one individual has, there are always many other individuals with similar wealth. Even the wealthiest individual rarely has much more than the next couple wealthiest combined. Furthermore, those who have a large investment in a community also have the most to lose by attempting to game the voting system for themselves. It would be like the CEO of a company deciding to stop paying salaries so he could pocket all of the profits. Everyone would leave to work for other companies and the company would become worthless, leaving the CEO bankrupt rather than wealthy.
 
-幸運的是，任何獲得大量選票的工作也得到了最嚴格的審查（文宣）。 通過添加*負投票*，許多較小的利益相關者可能會抵消利益集團或者背叛的較大的利益相關者的投票能量。 此外，如果貨幣因濫用而貶值，那麼大的利益相關者的損失會超過通過給自己投票獲得的收益。 事實上，誠實的大型利益相關者很可能通過濫用權力和使用消極投票比通過投票支持較小的捐款更有效。
+Fortunately, any work that is getting a large concentration of votes is also gaining the most scrutiny (publicity). Through the addition of *negative-voting* it is possible for many smaller stakeholders to nullify the voting power of collusive groups or defecting large stakeholders. Furthermore, large-stakeholders have more to lose if the currency falls in value due to abuse than they might gain by voting for themselves. In fact, honest large stakeholders are likely to be more effective by policing abuse and using negative voting than they would be by voting for smaller contributions.
 
-使用*負投票*來制約很多人具有的一個人的利益是以犧牲他人為代價的*螃蟹心態*來濫用系統。 螃蟹心態通常是指短視的人讓好人吃虧，同樣它也使好人讓壞人吃虧。 唯一的 "問題" 蟹的心態是當人們 * 錯誤地相信*有人獲利的其他人的費用。
+The use of *negative-voting* to keep people from abusing the system leverages the *crab mentality* that many people have when it is perceived that one individual is profiting at the expense of everyone else. While crab mentality normally refers to short-sighted people keeping good people down, it is also what allows good people to keep bad people down. The only “problem” with crab mentality is when people *wrongly believe* someone is profiting at everyone else's expense.
 
-**蟹桶的故事**[^6]
+**The Story of the Crab Bucket**[^6]
 
-一個人在海灘上散步，看見另一個人在海浪中釣魚，旁邊有個魚餌桶。當他走近時，發現餌桶沒有蓋子，裡面有活螃蟹。
+A man was walking along the beach and saw another man fishing in the surf with a bait bucket beside him. As he drew closer, he saw that the bait bucket had no lid and had live crabs inside.
 
-“你為什麼不把魚餌蓋上，這樣螃蟹就逃不掉了？”他說。
+"Why don't you cover your bait bucket so the crabs won't escape?", he said.
 
-“你不明白，”男人回答說，“如果水桶裏有一隻螃蟹，它肯定會很快地爬出來。”。 然而，當有許多螃蟹在桶裏，如果一個人試圖爬到一邊，其他人抓住它，並把它拉下來，這樣它將和其他人一樣命運。
+"You don't understand.", the man replied, "If there is one crab in the bucket it would surely crawl out very quickly. However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
 
-人們也這樣。 如果一個人試圖做一些不同的事情，取得更好的成績，改善自己，逃離她的環境，或夢想遠大的夢想，其他人會試圖把她拉下來分享他們的命運。
+So it is with people. If one tries to do something different, get better grades, improve herself, escape her environment, or dream big dreams, other people will try to drag her back down to share their fate.
 
-消除 "濫用" 是不可能的, 也不應該是目標。 即使那些試圖“濫用”系統的人仍然在工作。 任何補償他們得到他們的成功嘗試的濫用或合謀是至少作為分配的貨幣作為使工作系統採用傳統的比特幣挖礦或合謀挖掘通過挖掘池的目的價值。 所有這些都是必要的，以確保濫用不會如此猖獗，它破壞了支持社會和貨幣的實際工作的動機。
+Eliminating “abuse” is not possible and shouldn’t be the goal. Even those who are attempting to “abuse” the system are still doing work. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn’t so rampant that it undermines the incentive to do real work in support of the community and its currency.
 
-建立社區貨幣的目的是為了得到更多的“螃蟹”。 採取極端的措施來消除所有的虐待，就像試圖把桶蓋上蓋子以防止幾只螃蟹逃跑一樣，而代價是新增新螃蟹的難度。 這足以使牆壁光滑，並給予其他螃蟹足够的權力，以防止其他人逃脫。
+The goal of building a community currency is to get more “crabs in the bucket”. Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs sufficient power to prevent others from escaping.
 
-### 投票率有限
+### Rate Limited Voting
 
-限制濫用的主要部分是投票率的限制。 個人用戶每天只能閱讀和評估這麼多的工作項。 任何比這更頻繁投票的企圖都是自動化和潜在濫用的標誌。 通過利率限制，投票頻率更高的利益相關者每一次投票都比不經常投票的利益相關者少。 試圖在多個賬戶之間劃分代幣也會分散影響力，因此不會導致影響的淨增加，也不會繞過對投票的限制。
+A major part of minimizing abuse is the rate-limiting of voting. Individual users can only read and evaluate so many work items per day. Any attempt to vote more frequently than this is a sign of automation and potential abuse. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
 
-用戶分配一定數量的表決權。 投票權乘以用戶的歸屬權杖，以確定分配給某個給定工作項的獎勵池所占的份額。 每一次投投都使用剩餘投票權的百分比。 用戶可以投票選舉更多的職位，但每次投票的價值都會更低，而且要再次獲得完全的投票權還需要更長的時間。 投票權，可以在一個固定的線性每天20%的速度。
+Users are allotted a fixed amount of voting power. Voting power is multiplied by a user’s vesting tokens to determine how much share in the reward pool should be allocated to a given work item. Every vote that is cast uses a percentage of remaining voting power. Users can vote for more posts, but each vote will be worth less, and it will take longer to reach full voting power again. Voting power recharges at a fixed linear rate of 20% per day.
 
-### 股利分配
+### Payout Distribution
 
-Steem獎勵系統的主要目標之一是在互聯網上進行最佳討論。 每年75%的年度通貨膨脹分配給提交、投票和討論內容的用戶。 在比特幣的大小，這可能是數百萬美元，每天給予最高貢獻者。
+One of the primary goals of Steem’s reward system is to produce the best discussions on the internet. Each and every year 75% of the yearly inflation is distributed to users submitting, voting on, and discussing content. At the size of Bitcoin this could be several million dollars per day being given to the top contributors.
 
-實際的分配將取決於使用者的投票模式, 但我們懷疑, 絕大多數的獎勵將被分發到最流行的內容。
+The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content.
 
-齊夫定律[^7]是這些經驗法則中的一種。它能顯著地刻畫出一個令人驚訝的真實世界現象的範圍。 它說，如果我們訂購一些大的按大小或知名度，收集的第二個元素將是大約一半的第一個措施，第三個將是大約三分之一的措施，第一個，等等。 一般來說, k 次排名的專案將衡量約 1/k 的第一個。
+Zipf’s Law[^7] is one of those empirical rules that characterize a surprising range of real-world phenomena remarkably well. It says that if we order some large collection by size or popularity, the second element in the collection will be about half the measure of the first one, the third one will be about one-third the measure of the first one, and so on. In general, the k th-ranked item will measure about 1/k of the first one.
 
 ![](\img_the_new_marketplace.png)
 
-以知名度作為一個粗略的測量值，然後每一項的值是由齊普夫定律了。 也就是說，如果我們有一百萬個項目，那麼最受歡迎的100將貢獻總價值的第三，接下來的10,000，另外第三，剩下的989,900，最後第三。 n項集合的值與log(n) 成比例。
+Taking popularity as a rough measure of value, then the value of each individual item is given by Zipf’s Law. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
 
-這一投票和支付分配的效果是給好內容提供高報酬，同時因為長尾分佈仍然可以獎勵較小用戶。
+The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
 
-這種經濟效應類似於彩票，人們高估了他們贏得彩排的可能性，因而比預期的報酬更努力工作，從而使為社區服務的工作總量最大化。 每個人都“贏了”的事實和賭場用來賭博的心理是相同的。 換言之，小獎勵有助於鞏固這樣一種觀點，即有可能獲得更大的回報。
+The economic effect of this is similar to a lottery where people overestimate their probability of getting votes and thus do more work than the expected value of their reward and thereby maximize the total amount of work performed in service of the community. The fact that everyone “wins something” plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
 
-### 賞金
+### Payouts
 
-當一個帖子收到付款時, 它以 50% SBD 和 50% SP 的形式。 Steem能量給用戶更多的投票和交易權利，而SBD給用戶一個穩定貨幣的即時收益。 正如我們已經詳細討論過的，SP的目的是鼓勵長期持有，而不是短期銷售。 這鼓勵更多的用戶對平臺的長期成功有既得利益。
+When a post receives a payout it takes the form of 50% SBD and 50% SP. The Steem Power give the user increased voting and transaction power while the SBD gives the user an immediate benefit in a stable currency. As we’ve already discussed at length, SP is designed to encourage long-term holding rather than short-term selling. This encourages more users to have a vested interest in the long-term success of the platform.
 
-用戶還可以選擇在100% SP支付，以及下降支付的職位。 當用戶拒絕支付一個職位時，將支付給他們的錢仍然存在於獎勵池中，分配給其他用戶。
+Users also have the option to be paid in 100% SP, as well as decline payout on posts. When a user declines payout on a post, the money that would have been paid to them remains in the rewards pool, to be distributed to other users.
 
 # Consensus Algorithm
 

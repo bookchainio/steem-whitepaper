@@ -1,38 +1,38 @@
-# Steemu
+# Steem
 
-## Ohun ajeseku, orisun blockuchain, agbaye itewogba ti ilu.
+## Ètò àròkọ gbangba pẹ̀lú ìwúrí tó dá lórí blockchain kan.
 
-Osu kejo 2017
+Oṣù kẹjọ 2017
 
-# Awon itumo onitumo
+# Àwọn àkọsílẹ̀ ti onítumọ̀
 
-Olugbero fun awon akosile onitumo.
+Agbaàyè sílẹ̀ fún àwọn àkọsílẹ̀ ti onítumọ̀.
 
-# Akopo
+# Kókó pàtàkì
 
-Steemu je aaye ipamo blockuchain ti o se atileyin ile-ise agbegbe ati ajosepo awon ere pelu awon nomba kyrptokorensi. Steemu sepo awon imoran lati awon alagbegbe awujo pelu awon eko ti a ko lati kryptokorensi ati awon agbegbe won. Botini pataki kan lati se ikopa ni ilowosi ni eyikeyi agbegbe, owo tabi owo-aje ti ko niyeye je eto iseduro ti o je deede ti o je afihan ipese olukuluku. Steemu je akoko kryptokorensi ti o gbiyanju lati ni pipe ati atinuriwa san awon nomba ti ko toju ti awon eni kookan ti o se awon abuda ero si awon oniwe-awujo.
+Steem jẹ́ àpamọ́ data blockchain kan tó n ṣe àtìlẹ́yìn fún kíkọ́ àwùjọ àti ìbáṣepọ̀ pẹ̀lú àwọn ẹ̀san cryptocurrency. Steem ṣàkópọ̀ àwọn èròngbà láti ìkànnì àjọlò pẹ̀lú àwọn ẹ̀kọ́ tí wọ́n rí kọ́ lára kíkọ́ àwọn cryptocurrency àti àwọn àwùjọ wọn. Ohun pàtàkì kan láti mú ìgbìyànjú kíkópa nínú èyíkéyìí àwùjọ, owó tàbí ètò-ọrọ̀-ajé ni ètò ìṣirò-owó tó dára kan èyí tí yíò ṣàgbéyọ ipa ẹnì kọ̀ọ̀kan ní ọnà tó ṣe déédéé. Steem jẹ́ cryptocurrency àkọ́kọ́ tó gbìyànjú láti san ẹ̀san lọ́nà tó péye àti ní gbangba fún iye àwọn èèyàn tí kò ní ààlà tó n pèsè *àwọn ipa atinuwá* sí àwùjọ rẹ̀.
 
-# Tabili awon Akoonu
+# Ìtòlẹ́sẹẹsẹ àwọn Àkóónú
 
 <!-- toc -->
 
-# Ifihan
+# Ìfihàn
 
-Lapapo, akoonu ti o ni asamulo ti seda oke aimoye ti dola iye owo fun awon onipindoje ti awon ile-ise ajosepo, bi Redditi, pelu Facebuuku, Ati Twita. Ni odun 2014, Reditti loye pe o je ilosiwaju ti o je pe ti gbogbo awon eniyan ti o ba se alabapin si reddit.com nipa fifiranse awon itan, fifi oro kun tabi awon idibo ni a san nyi pelu ipinle daradara Redditi, Inc. Steemu ni ifojusi lati se atileyin fun awon onibara awujo ati awon agbegbe ayelujara nipa gbigba opolopo iye re pada si awon eniyan ti o pese awon iranlowo pataki nipase fifun ere won pelu kryptokorensi, ati nipase ilana yii seda owo kan ti o le ni anfani lati de odo oja to gaju, pelu awon eniyan ti o ni sibesibe lati kopa ninu isowo kryptokorensi.
+Lápapọ̀, àròkọ tí aṣàmúlò ṣẹ̀dá ti pèsè iye tó bílíọ̀nù dọ́là fún àwọn tó ní ìpín nínú àwọn iléeṣẹ́ ìkànnì àjọlò, gẹ́gẹ́ bí Reddit, Facebook, àti Twitter. **Ní 2014, Reddit dá àbá pé ètò rẹ̀ yíò túbọ̀ dára síi tí gbogbo èèyàn tó dá sí reddit.com nípasẹ̀ kíkọ ìròyìn, ìdáásí àti ìdìbò bá gba ẹ̀san pẹ̀lú ìpín tó bá tọ́ sí wọn nínú Reddit, Inc.[^1]**. Steem n pinnu láti ṣe àtìlẹ́yìn ìkànnì àjọlò àti àwọn àwùjọ orí íntánẹ́ẹ̀tì nípasẹ̀ ìdápadà ọ̀pọ̀ nínú ìyí rẹ̀ fún àwọn èèyàn tó pèsè àwọn ipa tó wúlò nípasẹ̀ sísan ẹ̀san pẹ̀lú cryptocurrency, àti lọ́nà yìí ṣẹ̀dá owó kan èyí tó ní anfààní láti dé ọjà tó gbòòrò kan, títí kan àwọn èèyàn tí kò tíì kópa nínú èyíkéyìí ọ̀rọ̀ ajé cryptocurrency.
 
-Awon ilana pataki kan wa ti a ti lo lati se itosona awon apere ti Steemu. Ilana pataki julo ni pe gbogbo eniyan ti o se alabapin si isowo kan ye ki o ogba agbara olohun ti pro-rata, sisan wo tabi lati inu gbese isowo naa. Opo yii je ilana kanna ti o lo fun gbogbo awon ibere bi won se pinpin awon ipinle ati ni awon igbiyanju isowo nigbamii.
+Àwọn ìlànà pàtàkì kan wà tí a ti lò láti darí ṣíṣẹ̀dá Steem. Ìlànà tó ṣe pàtàkì jù ní pé ó yẹ kí gbogbo èèyàn tó bá n dá sí okòwò kan gba ìpín níní, ìsanwó tàbí gbèsè tó tọ́ láti okòwò náà. Ìlànà yìí jẹ́ ìlànà kannáà tó jẹ́ lílò sí gbogbo àwọn okòwò tuntun bíi wọn ṣe n pín àwọn ìpín ní ìfilọ́lẹ̀ àti ní àwọn àkókò ìpèsè owó lẹ́yìn náà.
 
-Ilana keji ni wipe gbogbo awon orisi awon olu-ori je o wulo. Eyi tumo si pe awon ti o se afihan akoko pupo ati ifojusi si siso ati akoonu fun awon elomiran ni o niyelori bi awon ti o se alabapin owo ti o poju. Eyi si isiro imudaniloju igungun ati pe o je ero ti isaaju kryptokorensi ti ni wahala nigbagbogbo lati pese si die e sii ju awon eniyan bi mejilla lo.
+Ìlànà kejì ni pé gbogbo onírúurú owó ìṣòwò wúlò lọ́nà kannáà. Èyí túmọ̀sí pé àwọn tó pèsè àkókò àti àfiyèsí wọn tó ṣọ̀wọ́n láti ṣàgbéjáde àti ṣàmójútó àròkọ fún àwọn mìíràn wúlò gẹ́gẹ́ bí àwọn tó pèsè owó wọn tó ṣọ̀wọ́n. Èyí ni ìlànà ìdókòwò pẹ̀lú iṣẹ́ náà[^2] àti pé ó jẹ́ èròngbà tí àwọn cryptocurrency tó ti wà ṣáájú sábà má n ní ìṣòro láti pèsè fún àwọn èèyàn tí o ju mélòó kan.
 
-Ilana keta je wipe agbegbe n pese awon oja lati iranse fun awon egbe re. Ope yii je apeere nipase awon aladani gbese, awon igbimo ounje, ati awon ipinnu ipinpin isowo, ti o nsin si awon omo egbe ti agbegbe won ju ki o ta awon oja ise si awon eneiyan ti ita ilu.
+Ìlànà kẹta ní pé àwùjọ náà ni yíò ma ṣètò àwọn ìpèsè fún àwọn ọmọ ẹgbẹ́ rẹ̀. Ìlànà yìí ni a fi àpẹẹrẹ rẹ̀ lélẹ̀ nípasẹ̀ àwọn ẹgbẹ́ ìdókòwò, ìgbìmọ̀ oúnjẹ, àti àwọn ètò ìlera pínpín, èyí tó n pèsè fún àwọn ọmọ ẹgbẹ́ tó wà nínú àwùjọ wọn dípò kí wọn ta àwọn ọjà tàbí ìpèsè fún àwọn èèyàn tó wà ní ìta àwùjọ náà.
 
-Ipinle Steemu pese awon ise wonyi si awon omo egbe re:
+Àwùjọ Steem n ṣètò àwọn ìpèsè wọ̀nyí fún àwọn ọmọ ẹgbẹ́ rẹ̀:
 
-1. Orisun ti awon iroyin ti a ti dani ati asoye.
-2. Ona lati gba awon idahun to gaju si ibeere ti ara eni.
-3. Idurosinsin ijerisi ti o wa si awon dola Amerika.
-4. Awon sisanwo ofe.
-5. Ipese ise awon ise ti o loke si awon omo egbe miiran.
+1. Orísun ìròyìn ati ìdáásí tó ní àmójútó.
+2. Ọnà kan láti gba àwọn ojúlówó ìdáhùn sí àwọn ìbéèrè tó bá ìfẹ́ ẹni mu.
+3. Cryptocurrency tó fìdí múlẹ̀ kan tí a ṣètò sí dọ́là U.S. náà.
+4. Àwọn ìsanwó ọ̀fẹ́.
+5. Àwọn iṣẹ́ tó n ṣètò àwọn ìpèsè tó wà lókè yìí fún àwọn ọmọ ẹgbẹ́ mìíràn.
 
 Iseduro ti Steemu ni idileyin ti awon imudaniloju oro-aje ni o ni agbara lati se agbejade ati die sii awon esi iyasoto fun gbogbo eniyan ti o ni ipa ju awon awoju oun igberohinjade ati awon kryptokorensi awon iru ero ti o ti lo saaju awon lo. Iwe yii yoo se awari awon igbesi-aye awon isowo ti o wa tele ati ki o se afihan bi awon imudaniloju Steemu se le mu awon esi to dara julo fun opolopo awon olukopa.
 
@@ -110,17 +110,17 @@ Niwon igba ti oye owo feedi awon idibaje naa wa fun kere ju idaji ferese iseduro
 
 Pelu ferese meta ati idaji, awon eniyan agbegbe ni o ni iwon kan ati idaji kan lati dahun si awon oran ti o ba jade.
 
-### Gbigbon Awon Akoko Ijako
+### Dídín àwọn Ìkọlù Àkókò kù
 
-Awon alabasepo ti isowo ni iwole si alaye ni kiakia ju iye owo iyipada ti o wa laari agbedemeji iyato ti blockuchain naa le se. Alaye yii le see lo lati ni anfan ti awon onisowo ni labikita fun agbegbe. Ti iseduro ilosoke ninu iye awon onisowo STEEMU le beere iyipada ti SBD ni atijo, owo kekere, ati lehinna ta STEEMU ti won gba owo tuntun ti o ga julo pelu ewu ti o kere ju.
+Àwọn tó n kópa nínú ọjà yára ní anfààní sí ìròyìn ju bí ìpíndọ́gba iye owó ìyípadà ọlọ́jọ́ mẹ́ta àtààbọ̀ ti blockchain náà le ṣe. Ìròyìn yìí le jẹ́ lílò láti ṣe anfààní fún àwọn oníṣòwò lọ́nà tí ó ṣèpalára fún àwùjọ náà. Tí ìwúlò STEEM bá wá sókè lójijì àwọn oníṣòwò le béèrè fún ìyípadà SBD wọn ní iye owó tàtijọ́ tó kéré náà, lẹ́yìn náà wá ta STEEM tí wọn gbà ní iye owó tuntun tó pọ̀ náà pẹ̀lú ewu kékeré.
 
-Ipele Steemu ti n sise nipase o nilo gbogbo awon ibeere iyipada lati se idaduro ojo meta ati ojo idaji. Eyi tumo si pe awon onisowo tabi blockuchain ni eyikeyi alaye anfani nipa owo ni akoko ti a ti se iyipada.
+Steem ṣe déédéé láàrín méjèèjì nípasẹ̀ pé gbogbo àwọn ìbéèrè ìyípadà nílò ìdádúró fún ọjọ́ mẹ́ta àtààbọ̀. Èyí túmò sí pé kò sí nínú àwọn oníṣòwò tàbí blockchain náà tó ní ànfààní ìròyìn kankan nípa iye owó náà ni àkókò tí ìyípadà náà bá gba ṣíṣe.
 
-### Iyato Abukuro Awon Iyipada
+### Dídín Ìlòkulò àwọn Ìyípadà kù
 
-Ti awon enoyan le se iyipada larowoto ni awon aaye mejeji awon onisowo le lo anfani awon iyipada blockuchain nipase isowo ipele mla laisi iyipada oye owo naa. Awon onisowo ti o rii ipa ti o ga julo ni owo yoo pada si SBD ni owo to gaju (nigbati o ba jewu julo) ati lehinna pada lehin igbakeji. Isakoso Steemu naa ni aabo fun awon agbegbe lati iru iwa ibase yiinipa gbigba awon eniyan nikan lati yipada lati odo SBD si STEEMU ati pe kii se ona miiran ni ayika.
+Tí àwọn èèyàn bá lè ṣàyípadà nírọ̀rùn ní àwọn ọnà méjèèjì á jẹ́ pé àwọn oníṣòwò le lo anfààní àwọn iye ìyípadà ti blockchain náà nípasẹ̀ ṣíṣòwò ọ̀pọ̀ rẹpẹtẹ láì yí iye owó náà padà. Àwọn oníṣòwò tó bá rí àlékún nlá kan ní iye owó yíò ṣàyípadà sí SBD ní iye owó tó pọ̀ náà (nígbà tó léwu jù) àti lẹ́yìn náà da padà tí ìṣàtúnṣe náà bá parí. Ìlànà Steem yíò dáàbò bo àwùjọ náà lọ́wọ́ iru ìlòkulò yìí nípasẹ̀ fífi ààyè gba àwọn èèyàn láti ṣàyípadà SBD sí STEEM ṣùgbọ́n kò gba ìyípadà lọ́nà kejì náà.
 
-Awon blockuchain pinnu bi ati nigbati lati seda SBD ati awon ti o ye ki o gbaa nbe. Eyi ntoju osuwon ti SBD eda idurosinsin ati ki o yo awon ona to julo ti ilokulo.
+Blockchain náà yíò pinnu báwo àti nígbà tó yẹ láti ṣẹ̀dá SBD àti àwọn tó yẹ kó ríi gba. Èyí yíò mú iye ṣíṣẹ̀dá SBD dúró déédéé àti pé yíò yọ ọ̀pọ̀lọpọ̀ àwọn ọnà ìlòkulò kúrò.
 
 ### Gbese Alagbero Si Awon Eto Ijerisi
 
@@ -170,9 +170,9 @@ Ni abajade, awon abawon ti ise ti ayewo ni kikun je pataki ati awon alaye itumo 
 
 Iye owo iyorisi owo kookan da lori idaniloju fun ipa laarin agbegbe kan ati bi o tobi oja ti gbogbo pe agbegbe kookan le gba. Kii awon ilana isaaju, eri imudaniloju ti ise n jeki awon awujo kan alti sajopo ni idagbasoke ti ohunkohun ti o ri niyeloru ati ki o se iranlowo fun iseduro owo ti akoko ti kii se owo ti ati yipada kiakia tele.
 
-### Pinpin Owo
+### Pípín Owó
 
-Awon ona meji ni awon eniyan le ni ipa pelu agbegbe ilu owo-krypto: won le ra ni, tabi won le sise ni. Ni awon mejeji awon olumulo n se afikun iye si owo, sisbesibe, opolopo eniyan ni o ni akoko ofe die ju ti won se idaniloju owo. Fojuinu awon ifojusi ti owo isowo ni owo talaka ni agbegbe ti ko ni owo gangan sugbon ni opolopo igba. Ti awon eniyan ba le sagbe owo nipa sise fun ara won lehinna won yoo je iye bootstrapu nipase iyipada pasipaaro ti iseto nipase owo iseduro/owo isowo.
+Oríṣi ọnà méjì ni àwọn èèyàn lè gbà kópa nínú àwùjọ crypto-currency kan: wọ́n lè *wọlé láti ṣe okòwò*, tàbí wọ́n lè *wọlé láti ṣiṣẹ́*. Lọ́nà méjèèjì àwọn aṣàmúlò n ṣe àfikún ìwúlò sí owó náà, síbẹ̀síbẹ̀, èyí tó pọ̀ jù lọ lára àwọn èèyàn ní *àkókò tí wọn ò lò* tó pọ̀ ju bí wọ́n ṣe ní *owó tí wọn ò lò* lọ. Wòye sí àfojúsùn ṣíṣe ìfilọ́lẹ̀ owó kan nínú àwùjọ tálákà kan tí kò ní *owó* gidi ṣùgbọ́n tó ní *àkókò* tó pọ̀. Ti awon eniyan ba le sagbe owo nipa sise fun ara won lehinna won yoo je iye bootstrapu nipase iyipada pasipaaro ti iseto nipase owo iseduro/owo isowo.
 
 Pinpin owo kan si opolopo awon eniyan bi o ti see se ni ona ti a se akiyesi ni deede ni ise-sise ti o nija. Awon ise-sise ti a le ni iyewo patapata nipase ohun elo alugoridimu komputa to ni opin ni iseda ati ni gbogbo oro ti lopin awon anfani ita itagbangba. Ni oran ti iwakusa ara-Bitcoinu ti o le ja si ni iselopo ti hadiwareri patakiati ki o fa ki awon eniyan se idokowo akoko to ndagbasoke alugoridimu daradara siwaju sii. O le se iranlowo paapaa latiwa awon nomba, sugbon ko si okan ninu awon nkan wonyi n pese iye ti o niyeye si awujo tabi owo to o mu agbegbe ni agbegbe. Pataki julo, awon isowo-owo ati awon agbara oja yoo pari titi lai gbogbo eniyan sugbon awon amoye lati kopa ninu iru ifipin yi. Nigbamii, isiro isowo ti isowo je ona miiran ti ife si n nitori pe o nilo owo lati san owo-ina monamona tabi idagbasoke eroja pataki lati se ise naa.
 
@@ -214,29 +214,29 @@ Awon ipinnu lati ko isowo owo ni lati gbe die "Awon akan ninu garawa". Lilo si a
 
 Apa pataki kan ti dinku je isiro-idiwon idibo. Awon olumulo kookan le nikan ka ati o se ayewo awon ise pupo ni ojo kan. Eyikeyi igbiyanju alti dibo die sii nigbagbogbo ju eyi je ami ti adasise ati ilokulo. Nipase osuwon ididwon ti o niise ti o dibo die sii nigbagbogbo ni awon idibo kookan fun kere ju awon alafarakan ti o se idibo nigbagbogbo. Awon igbiyanju lati pin awon owo ami laarin awon akoole pupo tun pin ipa ati nitorina ko ni idasi ilosoke ibiti o ni ipa tabi se idiwo iye tosuwon ti a fi pase lori idibo.
 
-Awon onibara ni a fun ni iye ti o wa titi ti agbara idibo. Voting power is multiplied by a user’s vesting tokens to determine how much share in the reward pool should be allocated to a given work item. Every vote that is cast uses a percentage of remaining voting power. Users can vote for more posts, but each vote will be worth less, and it will take longer to reach full voting power again. Voting power recharges at a fixed linear rate of 20% per day.
+Awon onibara ni a fun ni iye ti o wa titi ti agbara idibo. Agbara idibo po sii nipase awon asise eda atoko awon olumulo lati mo iye ti o ni ipin ninu poolu ere ye ki o soto si ise ti a fi fun. Gbogbo idibo ti o je simenti nlo ida ogorun ti agbara idibo ti o ku. Awon olumulo le dibo fun awon die sii ipo won sugbon iyoola lookan yoo je to kere, ati ki o yoo gun die lati gba agbara kikun idibo leekansi. Agbara idibo n gbe pada ni iwon ila ti o wa titi ti ogun ogorun fun ojo kan.
 
-### Payout Distribution
+### Isanwo Pinpin
 
-One of the primary goals of Steem’s reward system is to produce the best discussions on the internet. Each and every year 75% of the yearly inflation is distributed to users submitting, voting on, and discussing content. At the size of Bitcoin this could be several million dollars per day being given to the top contributors.
+Okan ninu awon afojusun akoko ti ona ere Steemu je lati gbe awon ijiroro to dara julo lori ayelujara. Ni odun kookan aadota marun ogorun ti afikun owo-odun ti pin si awon olumulo to fi sile, idibo lori, ati jiroro akoonu. Ni iwon Bitcoinu y le je opolopo awon dola fun ojo kan fun awon oluranlowo oke.
 
-The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content.
+Imuposi gangan yoo dale lori awon idibo ti awon asoju, sugbon a fura pe opolopo awon ere yoo pin si akoonu ti o gbajumo julo.
 
-Zipf’s Law[^7] is one of those empirical rules that characterize a surprising range of real-world phenomena remarkably well. It says that if we order some large collection by size or popularity, the second element in the collection will be about half the measure of the first one, the third one will be about one-third the measure of the first one, and so on. In general, the k th-ranked item will measure about 1/k of the first one.
+Ofin Zipf je okan ninu ofin imudaniloju ti o se afihan opolopo awon iyalenu ti gidi-aye ti o se kedere daradara. O so pe ti a ba pase fun titobi nla nipase iwon tabi gbaye-gbale, iwon keji ni gbigba ni yio je iwon idaji ti akoko, eni keta yoo je nipa iwon-eeta-eekeji ti iwon akoko ati be be lo. Ni iwon gbogbo awon ohun-akore-k ti o wa ni ipo ti yoo ni iwon nipa okan/ leta k = ti akoko okan.
 
 ![](\img_the_new_marketplace.png)
 
-Taking popularity as a rough measure of value, then the value of each individual item is given by Zipf’s Law. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
+Ti o gba iyasoto gege bi iye owo, lehinna iye ti eni kookan ni a fun nipase ofin zipf. Iyeni ni, ti a ba ni awon ohun kan millionu kan, lehinna julo ti o gbajumo julo ogorun kan yoo see alabapin keta kan ti apapo iye, mewa egberun miiran keta, ati awon ti o ku 989,900 ni ikehin keta. Iwon ti gbigba awon ohun elo n je ti o ye lati safihan (n).
 
 The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
 
 The economic effect of this is similar to a lottery where people overestimate their probability of getting votes and thus do more work than the expected value of their reward and thereby maximize the total amount of work performed in service of the community. The fact that everyone “wins something” plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
 
-### Payouts
+### Àwọn ìsanwó
 
-When a post receives a payout it takes the form of 50% SBD and 50% SP. The Steem Power give the user increased voting and transaction power while the SBD gives the user an immediate benefit in a stable currency. As we’ve already discussed at length, SP is designed to encourage long-term holding rather than short-term selling. This encourages more users to have a vested interest in the long-term success of the platform.
+Nígbà tí àròkọ kan bá gba ìsanwó kan yíò wà ní ipò 50% SBD àti 50% SP. Steem Power náà ma fún aṣàmúlò náà ní àlékún agbára ìdìbò àti ìdúnàádúrà nígbàtí SBD yíò fún aṣàmúlò kan ní ànfààní ẹ̀sẹ̀kẹsẹ̀ sí owó tó fẹsẹ̀ múlẹ̀ kan. Gẹ́gẹ́ bí a ti ṣe ẹ̀kúnrẹ́rẹ́ àlàyé, a ṣẹ̀dá SP láti gba iyànjú dídìmú onígbà pípẹ́ dípò títà onígbà díẹ̀. Èyí yíò gba awon aṣàmúlò níyànjú láti ní okòwò kan nínú àṣeyọrí onígbà pípẹ́ ti ètò náà.
 
-Users also have the option to be paid in 100% SP, as well as decline payout on posts. When a user declines payout on a post, the money that would have been paid to them remains in the rewards pool, to be distributed to other users.
+Àwọn aṣàmúlò tún ní àṣàyàn láti gba ìsanwó ní 100% SP, àti kọ ìsanwó lórí àwọn àròkọ. Nígbà tí aṣàmúlò kan bá kọ ìsanwó lórí àròkọ kan, owó tó yẹ kó jẹ́ sísan fún wọn yíò ṣẹ́kù nínú ìpèsè àwọn ẹ̀san náà, láti jẹ́ pínpín fún àwọn aṣàmúlò mìíràn.
 
 # Consensus Algorithm
 
@@ -258,15 +258,15 @@ This process is designed to provide the best reliability while ensuring that eve
 
 Because the active witnesses are known in advance, Steem is able to schedule witnesses to produce blocks every 3 seconds. Witnesses synchronize their block production via the NTP protocol. A variation of this algorithm has been in use by the BitShares network for over a year where it has been proven to be reliable.
 
-# Eliminating Transaction Fees
+# Fífi òpin sí àwọn Owó Ìdúnàádúrà
 
-Steem goes to great lengths to reward people for contributing to the network. It would be counterproductive to turn around and charge people every time they attempt to interact with the community.
+Steem n gbìyànjú púpọ̀ láti san ẹ̀san fún àwọn èèyàn tó n dásí ìkànnì náà. Yóò jẹ́ àkóbá nígbèyìn láti yí padà àti gbowó lọ́wọ́ àwọn èèyàn ní gbogbo ìgbà tí wọ́n bá gbìyànjú láti ní ìbáṣepọ̀ pẹ̀lú àwùjọ náà.
 
-Blockchain technology currently depends upon transaction fees to prevent spam. These fees suffer all of the known problems with microtransactions and prevent blockchains from being used for low-value transactions. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
+Ìmọ̀ ẹ̀rọ blockchain n gbára lé àwọn owó ìdúnàádúrà lọ́wọ́lọ́wọ́ láti dẹ́kun ìpolówó àìbèèrèfún. Àwọn owó wọ̀nyí n jìyà gbogbo àwọn ìṣòro tí a mọ̀ pẹ̀lú àwọn ìsanwó kékèké àti pé ó n sèdíwọ fún àwọn blockchain láti ma jẹ́ lílò fún àwọn ìdúnàádúrà olówó-kékeré. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
 
-## The Problem With Fees
+## Ìṣòro tó wà Pẹ̀lú àwọn Owó sísan
 
-Blockchains are decentralized networks where all transactions are broadcast to all peers. Every so often a block is produced that includes some or all of the pending transactions. All blockchains must find a solution to prevent malicious users from consuming all of the available network capacity with worthless transactions. These worthless transactions can prevent other valuable transactions from being processed and ultimately destroy the network.
+Àwọn Blockchain jẹ́ àwọn ìkànnì tí ìjọba wọn kò sí lójúkan níbi tí gbogbo àwọn ìdúnàádúrà jẹ́ pínpín sí gbogbo àwọn ẹgbẹ́. Lẹ́ẹ̀kọ̀ọ̀kan a ma mú búlọ́ọ̀kù kan jáde tí yíò ní díẹ̀ lára tàbí gbogbo àwọn ìdúnàádúrà tó wà nílẹ̀. Gbogbo àwọn blockchain gbọ́dọ̀ wá ojútùú kan láti dènà àwọn aṣàmúlò búburú níbi lílo gbogbo ìkápá ìkànnì tó wà náà pẹ̀lú àwọn ìdúnàádúrà tí kò wúlò. These worthless transactions can prevent other valuable transactions from being processed and ultimately destroy the network.
 
 The solution adopted by most blockchains thus far is to charge a minimum transaction fee. A fee worth just a few cents is enough to make attacking the network expensive and unprofitable. While this approach solves the spam problem, it introduces new problems. Imagine solving the email spam problem by introducing a small fee on every email; people wouldn’t use email.
 
@@ -284,13 +284,13 @@ In the world of financial payments, small fees are acceptable because the value 
 
 Systems like BitShares, Nxt, Ripple, Counter Party and Stellar all allow users to place limit orders on the blockchain and all of them charge users a small fee to perform this action. Later if the user wishes to cancel their order, another fee is charged. Systems like Ethereum take micropayments to a whole new level: charging per calculation. All of these systems struggle to attract new mainstream users for the same reasons that a decentralized search engine would struggle to attract users from Google if it charged a small fee for every search. It doesn’t matter how good the service is, people expect certain things to be free. This is true even if a user ends up paying more overall under a different fee structure.
 
-### Fees are a Barrier to Entry
+### Owó sísan jẹ́ Ìdènà kan fún Wíwọlé
 
-Any fee creates a barrier to entry for new users. Before someone can experiment with Ethereum they must acquire some ETH tokens. Anyone wanting to build a decentralized application on Ethereum must pass on the cost to their customers. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
+Èyíkéyìí owó sísan yíò jẹ́ ìdènà kan fún wíwọlé àwọn aṣàmúlò tuntun. Ṣáájú kí enìkan tó lè ṣèwádìí pẹ̀lú Ethereum wọ́n gbọ́dọ̀ ní àwọn token ETH díẹ̀. Anyone wanting to build a decentralized application on Ethereum must pass on the cost to their customers. Ríra owó crypto kan kìí ṣe iṣẹ́ tó rọrùn kan àti pé kìí sábà bọ́gbọ́n mu fún àwọn iye tó kéré ju $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
 
-### Changing Fees
+### Yíyí padà àwọn Owó sísan
 
-Over time a network must adjust fees. This can happen either due to an increase in the value of the token or due to a surge in capacity. Users like predictable fees and guaranteed service. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
+Bí àkókò ṣe ń lọ ìkànnì kan gbọ́dọ̀ ṣàtúnṣe àwọn owó sísan. Èyí le ṣẹlẹ̀ bóyá nítorí àlékún kan ní ìwúlò token náà tàbí nítorí ìlọsókè kan nínú ìkápá. Àwọn aṣàmúlò fẹ́ràn àwọn owó sísan tó ní àsọtẹ́lẹ̀ àti iṣẹ́ tó ní ìdánilójú. Bí ó tilẹ̀ jẹ́ pé ó ṣeé ṣe láti ṣàtúnṣe àwọn owó sísan lọ́nà tó nṣiṣẹ́ lásìkò tí lílò bá pọ̀ gan, àbájáde rẹ̀ ni ìrírí aṣàmúlò tí kò dára kan.
 
 ### Sybil Attacks
 
@@ -419,103 +419,103 @@ Contribution Rewards:
 
 The overall supply picture is complicated by the effect of SBD operations, which may result in large-scale creation or destruction of STEEM through feed rate following and SBD rewards, as discussed in the SBD section. Other, smaller-scale complicating effects also exist, including unclaimed incentives (e.g. block rewards for missed blocks), and abandoned accounts.
 
-## Current Allocation & Supply
+## Ìpín & Ìpèsè Lọ́wọ́lọ́wọ́
 
-Starting with the network's 16th hard fork in December 2016, Steem began creating new tokens at a yearly inflation rate of 9.5%. The inflation rate decreases at a rate of 0.01% every 250,000 blocks, or about 0.5% per year. The inflation will continue decreasing at this pace until the overall inflation rate reaches 0.95%. This will take about 20.5 years from the time hard fork 16 went into effect.
+Bẹ̀rẹ̀ látorí hard fork kẹrìndínlógún ti ìkànnì náà ní Oṣù kejìlá 2016, Steem bẹ̀rẹ̀ sí ní ṣẹ̀dá àwọn token tuntun ní iye ọ̀wọ́n kan tó jẹ́ 9.5% lọ́dọọdún. Iye ọ̀wọ́n náà yíò dínkù ní ìwọ̀n 0.01% ní gbogbo búlọ́ọ̀kù 250,000, tàbí 0.5% lọ́dọọdún. The inflation will continue decreasing at this pace until the overall inflation rate reaches 0.95%. This will take about 20.5 years from the time hard fork 16 went into effect.
 
 75% of the new tokens that are generated go to fund the reward pool, which is split between authors and curators. 15% of the new tokens are awarded to holders of SP. The remaining 10% pays for the witnesses to power the blockchain.
 
-### Impact of Token Creation Rate
+### Ipa ti Ìwọ̀n Ṣíṣẹ̀dá Token
 
-It is often said that a coin with an inflationary model is not sustainable, but we know from countless real-world examples that the quantity of money does not have a direct and immediate impact on its value, though it certainly plays a role.
+A sábà máa ń sọ pé owó kan tó ní àwòṣe tó lè fa ọ̀wọ́n kò ní anfààní, ṣùgbọ́n a mọ̀ lára àwọn àpẹẹrẹ ayé òótọ́ àìmọye wípé ìwọ̀n owó kò ní ipa tààrà tàbí ẹ̀sẹ̀kẹsẹ̀ kan lórí ìwúlò rẹ̀, bó tilẹ̀ jẹ́ pé ó ní ipa tó n kó.
 
-From August 2008 through January 2009 the U.S. money supply[^15] grew from $871B to $1,737B, a rate of over 100% per year and then continued to grow at about 20% per year for the next 6 years. All told the money supply in the U.S. has grown by 4.59x over less than 7 years. During that same time, the value of the dollar relative to goods and services has fallen less than 10% according to the government's price index[^16]. This real-world example demonstrates that supply is only one component of price.
+Láti Oṣù kẹjọ 2008 sí Oṣù àkọ́kọ́ 2019 ìpèsè owó U.S.[^15] gòkè láti $871B sí $1,737B, iye kan tó ju 100% lọ́dún àti pé ó tẹ̀síwájú láti ma gòkè ní bíi 20% lọ́dún fún àwọn ọdún 6 tó tẹ̀le. Ní kúkúrú ìpèsè owó náà ní U.S. ti gòkè ní ìlọ́po 4.59 láàrín ìgbà tó kéré sí ọdún 7. Láàrín àkókò kannáà yẹn, iye dọ́là sí àwọn ọjà àti àwọn iṣẹ́ ti wálẹ̀ ju 10% gẹ́gẹ́ bí atọ́ka iye owó ti ìjọba náà[^16]. Àpẹẹrẹ ayé òótọ́ yìí fihàn pé ìpèsè jẹ́ èròjà kan ṣoṣo tí iye owó.
 
-For the first 2 years of Bitcoin’s life the network sustained an annual inflation rate[^17] of over 100%. For the first 5 years it was over 30%, and for the first 8 years it was over 10%. All told the total “spending” Steem does to fund content, curation, and block production amounts to less than 10% APR.
+Fún ọdún 2 àkọ́kọ́ ti ayé Bitcoin ìkànnì náà ní iye ọ̀wọ́n kan[^17] tó ju 100% lọ́dọọdún. Fún ọdún 5 àkọ́kọ́ náà ó ju 30% lọ, àti fún ọdún 8 àkọ́kọ́ náà ó ju 10% lọ. Ní kúkúrú gbogbo "níná" tí Steem n ṣe láti sanwó àròkọ, àmójútó, àti ṣíṣẹ̀dá búlọ́ọ̀kù já mọ́ nnkan tó kéré sí 10% APR.
 
-The price of a digital commodity, like STEEM, is driven by both supply and demand. When a long-term holder decides to exit, the supply of STEEM on the market will increase and push the price down. This downward pressure is countered when a new long-term holder decides to buy up the STEEM and convert it back into SP. Additional supply and demand may be be added due to market speculators buying and selling liquid STEEM based on their predictions of the future market price.
+Iye owó ti ohun dígítà, gẹ́gẹ́ bí STEEM, ní ìdarí nípasẹ̀ ìpèsè rẹ̀ àti ìbéèrè fun. Nígbà tí ẹni tó n dìmú fún ìgbà pípẹ́ kan bá pinnu láti kúrò, ìpèsè STEEM lórí ọjà náà ma lékún tí yíò sì ti iye owó náà wálẹ̀. A ma borí ipa ìwálẹ̀ yìí nígbà tí ẹni tí yíò dìmú fún ìgbà pípẹ́ tuntun kan bá pinnu láti ra gbogbo STEEM náà tó sì ṣàyípadà rẹ̀ sí SP. A lè rí àfikún ìpèsè àti ìbéèrè fun nítorí àwọn olókòwò ọjà to n ṣe rírà àti títà STEEM nípa àsọtẹ́lẹ̀ wọn lórí iye owó-ọjà ọjọ́ iwájú náà.
 
-# The Power of Steem
+# Agbára ti Steem
 
-Steem recognizes that the value of all user contributions (posts and votes) is greater than the sum of the parts. A single comment is worth next to nothing, but millions of curated posts is worth many millions (or possibly even billions) of dollars. A single vote provides little curation value, but billions of votes is very effective curation. Content without curation is of limited value. Given all the content of the Internet minus the links between it, Google would struggle to produce useful search results. It is the links between information that give it significant value.
+Steem gbà pé iye tí àwọn ìdáásí gbogbo aṣàmúlò (àwọn àròkọ àti ìdìbò) tóbi jù àpapọ̀ àwọn ìpín náà. Ìdáásí kan ṣoṣo súnmọ́ pé kò níye kankan lórí, ṣùgbọ́n mílíọ̀nù àwọn àròkọ tí a mójútó ní iye tó pọ̀ tó mílíọ̀nù (tàbí kódà bílíọ̀nù pàápàá) dọ́là. Ìbò kan ṣoṣo yíò pèsè àmójútó kékeré, ṣùgbọ́n bílíọ̀nù àwọn ìbò jẹ́ àmójútó tó ṣe anfààní púpọ̀. Àròkọ láìsí àmójútó ní ìwúlò kékeré. Pẹ̀lú ìpèsè gbogbo àkóónú orí íntánẹ́ẹ̀tì láìsí àwọn ìsopọ̀ to wà láàrin rẹ̀, Google ma gbìyànjú púpọ̀ láti gbé àwọn èsì àwárí tó wúlò jáde. Àwọn ìsopọ̀ tó wà láàrín ìròyìn ló má n fún ní ìwúlò tó ṣe pàtàkì.
 
-Because everyone benefits, everyone should pay. In other words, no individual user should be expected to pay for anything, but instead should be paid for everything they do that brings value to Steem. All we need to do is ascertain which user contributions bring a social network value and which ones don’t.
+Nítorí pé gbogbo èèyàn ló n jẹ anfààní, ó yẹ kí gbogbo èèyàn sanwó. Èyí túmọ̀sí pé, kò yẹ láti retí kí aṣàmúlò kọ̀ọ̀kan sanwó fún ohunkóhun, ṣùgbọ́n ó yẹ kí wọn gbowó fún gbogbo nnkan tí wọn bá ṣe tó n mú ìwúlò bá Steem. Gbogbo ohun tí a nílò láti ṣe ní kí a ṣe àrídájú àwọn ìdáásí aṣàmúlò èyí tó mú ìwúlò ìkànnì àjọlò kan wá àti àwọn èyí tí kò mu wá.
 
-Collectively Reddit users vote 220 times per second and make 23 posts per second. Reddit is valued between $500 million[^18] and $4 billion[^19] which means that each and every upvote and post is worth between $0.06 and $0.50 assuming the value of Reddit is mostly within the past year’s worth of activity. One could argue that most of the value of Reddit is the near-real-time discussions that have occurred within the past week which would dramatically increase the value of new activity. People go where people are today, not where people were last year.
+Ní àpapọ̀ àwọn aṣàmúlò Reddit má n dìbò nígbà 220 ní ìṣẹ́jú àáyá àti ṣẹ̀dá àwọn àròkọ 23 ní ìṣẹ́jú àáyá. Iyì Reddit wà láàrín $500 mílíọ̀nù[^18] àti $4 bílíọ̀nù[^19] èyí tó túmọ̀sí pé gbogbo ìbò àti àròkọ kọ̀ọ̀kan ní iyì tó wà láàrín $0.06 àti $0.50 pẹ̀lú èrò pé iyì Reddit náà jẹ́ púpọ̀ lára iye iṣẹ́ ti ọdún tó kọjá náà. Ẹnìkan le jiyàn pé ọ̀pọ̀ nínú àwọn ìwúlò ti Reddit jẹ́ àwọn ìjíròrò tó súnmọ́-àkókò-gidi tó ti ṣẹlẹ̀ láàrín ọ̀sẹ̀ tó kọjá èyí tí yíò ṣe àlékún ìwúlò àwọn iṣẹ́ tuntun náà. Àwọn èèyàn ma lọ sí ibi tí àwọn èèyàn wà lónìí, kìí ṣe ibi tí àwọn èèyàn wà ní ọdún tó kọjá.
 
-## No Micropayments, Tips Optional
+## Kò sí àwọn Ìsanwó kékeré, àwọn Ẹbùn kò pọn dandan
 
-Existing attempts at integrating a cryptocurrency into a social media platform have focused on enabling users to pay one another. Many services have attempted to introduce tipping. The theory is that if we make tipping simple enough then more people will do it. Other services attempt to get people to pay to promote or boost their content’s ranking. Still others attempt to build small prediction markets on how many tips an article will receive.
+Àwọn ìgbìyànjú tó wà tẹ́lẹ̀ láti ṣe àsopọ̀ cryptocurrency kan sínú ètò ìkànnì àjọlò kan ti dojú kọ fífi ààyè gba àwọn aṣàmúlò láti sanwó fún ara wọn. Ọ̀pọ̀lọpọ̀ àwọn iṣẹ́ ti gbìyànjú láti sàgbékalẹ̀ fí fúnni lẹ́bùn. Àròjinlẹ̀ náà ni pé tí a bá mú fí fúnni lẹ́bùn rọrùn dáadáa nígbà náà ni àwọn èèyàn púpọ̀ máa ṣe. Àwọn iṣẹ́ mìíràn gbìyànjú láti mú kí àwọn èèyàn sanwó láti ṣe ìgbéga tàbí àtìlẹ́yìn ipò ti àròkọ wọn. Síbẹ̀síbẹ̀ àwọn mìíràn gbìyànjú láti ṣètò àwọn ọjà àsọtẹlẹ kékèké lórí iye àwọn ẹbùn tí àròkọ kan ma gbà.
 
-All of these approaches boil down to micropayments. They differ only in who is making the payment. They all suffer from insufficient engagement of people making the micropayments. In the search for incentivised content production entrepreneurs have been so focused on who should pay that they missed the obvious reality: everyone benefits from everyone’s actions so everyone should pay or no one should pay, depending on how you look at it.
+Èyí tó wá ṣe pàtàkì jù nínú àwọn ìgbìyànjú wọ̀nyí ni àwọn ìsanwó kékèké. Ọnà tí wọn fi yàtọ̀ nìkan ni ẹni tó n sanwó náà. Gbogbo wọn n jìyà lára àìní ìlọ́wọ́sí tó pọ̀ tó ti àwọn èèyàn tó n san àwọn owó kékèké náà. Nínú ìṣàwárí fún ìgbéjáde àròkọ pẹ̀lú ìwúrí àwọn oníṣòwò ti ronú púpọ̀ lórí ẹni tó yẹ kó sanwó títí wọn fi pàdánù òótọ́ tó fojú hàn: gbogbo èèyàn ló n jẹ anfààní lára àwọn iṣẹ́ tí gbogbo èèyàn nítorí náà ó yẹ kí gbogbo èèyàn sanwó tàbí kí ẹnikẹ́ni má sanwó, ó dá lórí bí o bá ṣe wòó.
 
-Steem bypasses micropayments completely because when a user upvotes a post it is the community that pays the bill. The same amount of money will be spent whether the user upvotes a post or not and the funds will not come from the voter.
+Steem paá àwọn ìsanwó kékèké tì pátápátá nítorí pé tí aṣàmúlò kan bá dìbò fún àròkọ kan àwùjọ ló ma sanwó náà. Iye owó kannáà ni yíò jẹ́ níná bóyá aṣàmúlò náà dìbò fún àròkọ kan tàbí kò dìbò àti pé àwọn owó náà kò ní wá láti ọ̀dọ̀ olùdìbò náà.
 
-The mental energy associated with making an economic decision becomes a barrier to participation for most people.
+Agbára ìrònú tó ní ìsopọ̀ pẹ̀lú ṣíṣe ìpinnu ọrọ̀ ajé kan yíò di ìdènà kan fún ìkópa ọ̀pọ̀lọpọ̀ àwọn èèyàn.
 
-*We already face a multitude of choices everyday with regards to what to access online in this digital era of the information explosion, and every additional decision that we must make simply adds on to the uncertainty and anxiety we face. Micropayment supporters believe that a simplified implementation can minimize the intrusiveness of micropayments and improve user experience, but their argument only creates double standards for the decision making process \[2\]. A transaction cannot simultaneously be worth enough to warrant a decision and worth so little that the decision is automatic. **The only transactions that users can approve without thought are ones that cost them nothing**, thus any micro-transaction of positive value will incur mental costs through its requiring a decision. Furthermore, mental transaction costs actually rise below a certain threshold value, a phenomenon that places micropayments at an even greater disadvantage. For instance, it is easy to think that a copy of today's newspapers costs $1, but readers face much more difficulty and anxiety in deciding on the value of each article or word. Such a dilemma will only be replicated and exacerbated if all online content were to be broken down into their components and individually valued within a micropayment system.*
+*A ti kojú ọ̀pọ̀lọpọ̀ àwọn àṣàyàn lójoojúmó nípa nnkan tí a lè ní anfààní sí lórí ayélujára ní àkókò digital ti àpọ̀jù ìròyìn yìí, àti pé àfikún ìpinnu kọ̀ọ̀kan tí a gbọ́dọ̀ ṣe wulẹ̀ ń fi kún àìdánilójú àti ìdààmú tí a n kojú. Àwọn tó faramọ́ ìsanwó kékèké gbagbo pé ìmúlò tó rọrùn kan le dín ìdààmú tó wà fún àwọn ìsanwó kékèké kù àti mú ìrírí asàmúlò tó dára wá, ṣùgbọ́n àlàyé wọn n pèsè ìlànà méjì fún ètò ìpinnu ṣíṣe náà. Ìdúnàádúrà kan kò lè ní ìyí tó pọ̀ tó láti béèrè fún ìpinnu kan àti ní ìyí tó kéré púpọ̀ tí ìpinnu náà yíò fi ṣẹlẹ̀ fúnra rẹ̀ nígbà kannáà. **Àwọn ìdúnàádúrà kan ṣoṣo tí àwọn aṣàmúlò le fọwọ́sí láì ronú ni àwọn tí kò ná wọn ní nnkan kan**, á jẹ́ pé èyíkéyìí ìsanwó kékèké tó ní iye rere yíò fa lílo ọpọlọ nípasẹ̀ bí o ṣe nílò ìpinnu kan. Síwájú si, àwọn ìnáwó ìdúnàádúrà ọpọlọ pàápàá má n gòkè lábẹ́ iye ààlà pàtó kan, ìṣẹ̀lẹ̀ kan tó n gbé àwọn ìsanwó kékèké sí ìṣòro tó pọ̀ kan. Fún àpẹẹrẹ, ó rọrùn láti rò wípé iye owó tí ẹ̀dà ìwé ìròyìn tòní kan jẹ́ $1, ṣùgbọ́n àwọn òǹkàwé má n kojú ìnira púpọ̀ àti àníyàn láti pinnu lórí iye owó àròkọ tàbí ọ̀rọ̀ kọ̀ọ̀kan. Irú ìṣòro yẹn yíò ma gba ìfijọ àti pọ̀ síi tí gbogbo àròkọ orí ayélujára bá níláti gba ìpínsíwẹ́wẹ́ sí àwọn èròjà wọn àti gba ìdiwọ̀n ní kọ̀ọ̀kan láàrín ètò ìsanwó kékèké kan.*
 
--Micropayments: A Viable Business Model[^20]
+Àwọn ìsanwó kékèké: Àwòṣe Okòwò tó ṣeéṣe kan[^20]
 
-Under Steem, micropayments are paid to content producer, but those who vote for the content do not pay. Instead, the cost of the reward is paid for via new tokens. Someone can join the system, vote to pay someone, and then exit the system with more money than they started with (assuming the market valuation of the Steem system remained constant). In other words, the micropayment solution provided by Steem provides a user-experience similar to many widely used websites that have user-moderated content.
+Lábẹ́ Steem, àwọn ìsanwó kékèké ni a san fún olùdásílẹ̀ àròkọ, ṣùgbọ́n àwọn tó dìbò fún àròkọ náà kò ní sanwó. Dípò, owó ẹ̀san náà ma jẹ́ sísan nípasẹ̀ àwọn token tuntun. Ẹnìkan le darapọ̀ mọ́ ètò náà, dìbò láti sanwó fún ẹnìkan, àti jáde kúrò nínú ètò náà pẹ̀lú owó tó pọ̀ ju èyí tí wọn fi bẹ̀rẹ̀ lọ (pẹ̀lú èrò pé ìdíyelé ọjà ti ètò Steem kò yípadà). Èyí túmò sí pé, ojútùú ìsanwó kékèké náà tí a pèsè nípasẹ̀ Steem yíò pèsè ìrírí aṣàmúlò tó jọ ọ̀pọ̀lọpọ̀ àwọn ààyè ayélujára tó gbajúmọ̀ tó sì ní àròkọ tí aṣàmúlò n mójútó.
 
-Furthemore, Steem pays people to figure out who should be paid! This kind of thinking is revolutionary.
+Síwájú si, Steem n sanwó fún àwọn èèyàn láti ronú nípa ẹni tó yẹ kó gbowó! Irú ìrònú yìí jẹ́ ìyípadà pàtàkì.
 
-## Value is in the Links
+## Ìwúlò wà nínú àwọn Ìsopọ̀ náà
 
-The Internet would lose the vast majority of its value if all links among content were removed. It is the relationship among web pages that allows Google to identify the best apple pie recipe among the 16 million results. Without the links the only information Google would have is word frequency.
+Íntánẹ́ẹ̀tì yíò pàdánù èyí tó pọ̀ jù lára ìwúlò rẹ tí gbogbo àwọn ìsopọ̀ láàrín àwọn àròkọ bá gba yíyọ kúrò. Ìbáṣepọ̀ tó wà láàrín àwọn ojúewé ayélujára ló fi ààyè gba Google láti ṣàwarí àpèjúwe apple pie tó dára jù lára àwọn èsì mílíọ̀nù 16 náà. Láìsí àwọn ìsopọ̀ náà ìròyìn kan ṣoṣo tí Google yíò ní ni ìwọ́pọ̀ ọ̀rọ̀.
 
-Links can take many forms and have adapted over time. Every time a user votes on content in a social network they add a connection between themselves and the content. This in turn links the consumer to the producer through the content. The more connections a network has the more valuable the information becomes. It is the relative and intentional connectedness of information that gives it value.
+Àwọn ìsopọ̀ le wá ní oríṣiríṣi ọnà tí wọ́n sì n bá ipò mu bí àkókò tí n lọ. Gbogbo ìgbà tí aṣàmúlò kan bá dìbò lórí àròkọ ní ìkànnì àjọlò kan wọ̀n ṣàfikún ìsopọ̀ kan láàrín ara wọn àti àròkọ náà. Èyí ma wá ṣe ìsopọ̀ aṣàmúlò náà sí olùdásílẹ̀ náà nípasẹ̀ àròkọ náà. Bi àwọn ìsopọ̀ ti ìkànnì kan ní bá ṣe pọ̀ tó ní bí ìròyìn náà yíò ṣe wúlò tó. Ìṣàsopọ̀ tí a mọ̀ọ́mọ̀ ṣe láàrín àwọn ìròyìn ló n fun un ní ìwúlò.
 
-A social network can maximize the value extracted from a set of content by maximizing the quantity and quality of connections. Curating content is expensive and time consuming while being near impossible for computers to perform in the absence of links. Steem rewards users who are among the first to find and identify new content.
+Ìkànnì àjọlò kan le ṣàfikún ìwúlò tí a lè rí lára àpapọ̀ àwọn àròkọ kan nípasẹ̀ ṣíṣe àlékún iye àti ìjójúlówó àwọn ìsopọ̀. Ṣíṣe àmójútó àròkọ máa n náni lówó àti pé ó máa n gba àkókò nígbàtí ó sì súnmọ́ aláìṣeéṣe fún àwọn kọ̀mpútà láti ṣe láìsí àwọn ìsopọ̀. Steem má n san ẹ̀san fún àwọn aṣàmúlò tó wà lára àwọn tó kọ́kọ́ ṣàwárí àti ṣàrídájú àròkọ tuntun.
 
-By incentivising curation the Steem network is able to use automated algorithms to extract the most valuable information from a massive amount of content.
+Nípasẹ̀ ṣíṣe ìwúrí fún àmójútó ìkànnì Steem ní ààyè láti lo àwọn ìlànà tó n ṣíṣe fúnra wọn láti gbé ìròyìn tó wúlò jù jáde lára ọ̀pọ̀lọpọ̀ àwọn àròkọ.
 
-## Solving the Cryptocurrency Onboarding Problem
+## Wíwá ojútùú sí Ìṣòro Wíwọ inú Cryptocurrency
 
-It isn’t easy to get into cryptocurrency[^21]. Someone who discovers Bitcoin and wants to try it out quickly learns that they will need to sign up with an exchange and fund their account with a credit card or wire transfer. What would Facebook’s adoption rate have been like if you had to fork over money and a two forms of ID?
+Kò rọrùn láti wọ inú cryptocurrency[^21]. Ẹnìkan tó bá ṣẹ̀ṣẹ̀ rí Bitcoin tó sì fẹ́ gbìyànjú rẹ̀ wò ma tètè kẹ́kọ̀ọ́ pé wọ́n ní láti forúkọ sílẹ̀ pẹ̀lú ọjà pàṣípààrọ̀ kan àti sanwó sí account wọn pẹ̀lú káàdì arọ́pò owó tàbí fífi owó ránṣẹ́ lórí ayélujára. Báwo ni iye ìtẹ́wọ́gbà ti Facebook ì bá ṣe rí tí o bá ní láti sanwó àti ID oríṣi méjì kan?
 
-Steem solves this problem by giving everyone a way to get paid for doing simple, but valuable, tasks. This will help to widely distribute STEEM tokens. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless.)
+Steem yanjú ìṣòro yìí nípasẹ̀ fífún gbogbo èèyàn ní ọnà kan láti gbowó fún ṣíṣe àwọn iṣẹ́ tó rọrùn, ṣùgbọ́n tó wúlò. Èyí yíò ṣe ìrànlọ́wọ́ láti pín àwọn token STEEM káàkiri. Èyí wúlò nítorí pé àwọn cryptocurrency ní ipa ìkànnì kan (ìyẹn ni pé àwọn aṣàmúlò tó pọ̀ yíò mu kó wúlò púpọ̀; fún àpẹẹrẹ nlá kan, wòye wípé tí Satoshi bá tọ́jú 100% ti Bitcoin fún ara rẹ̀, Bitcoin kò lè ní ìwúlò.)
 
-## Solving the Cryptocurrency Liquidation Problem
+## Wíwá ojútùú sí Ìṣòro Ìpalẹ̀mọ́ Cryptocurrency
 
-A currency that is difficult to use or impossible to sell has little value. Someone who comes across $1.00 worth of Bitcoin will discover that it costs more than $1.00 to sell that Bitcoin. They have to create an account with an exchange, perform KYC validation, and pay fees. Small amounts of cryptocurrency are like small change that people are unwilling to bend over to pick up.
+Owó kan tó nira láti lò tàbí tí kò ṣeéṣe láti tà ní ìwúlò kékeré. Ẹni tó bá rí iye Bitcoin tó jẹ́ $1.00 yíò ri pé ó ma ná ju $1.00 láti ta Bitcoin yẹn. Wọ́n ní láti ṣẹ̀dá account kan pẹ̀lú ọjà pàṣípààrọ̀ kan, ṣe ìjẹ́rìísí KYC, àti san àwọn owó. Àwọn iye cryptocurrency kékèké dàbí àwọn owó kékèké tí àwọn èèyàn kò fẹ́ bẹ̀rẹ̀ mọ́lẹ̀ láti mú.
 
-Merchants give users a way to quickly convert their cryptocurrency into tangible goods and services. Merchants need a currency pegged to their unit of account, normally dollars. Accepting a volatile currency introduces significant accounting overhead.
+Àwọn oníṣòwò yíò fún àwọn aṣàmúlò ní ọnà kan láti tètè ṣàyípadà cryptocurrency wọn sí àwọn ojúlówó ọjà àti iṣẹ́. Àwọn oníṣòwò nílò owó kan tí a ṣètò sí ìwọ̀n owó wọn, tó sábà má n jẹ́ dọ́là. Gbígba owó tí kò ní iye pàtó kan yíò mú ìnáwó ìṣirò-owó tó pọ̀ wa.
 
-Merchants will accept any currency if it increases their sales. Having a large user base with a stable currency such as SBD lowers the barrier to entry for merchants. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
+Àwọn oníṣòwò yíò gba èyíkéyìí owó tí ó bá ma ṣe àlékún ọjà títà wọn. Níní aṣàmúlò tó pọ̀ pẹ̀lú owó tó fẹsẹ̀ múlẹ̀ bíi SBD yíò dín ìdènà ìwọlé náà kù fún àwọn oníṣòwò. Wíwà àwọn oníṣòwò náà yíò mú ìlọsíwájú bá ètò náà nípasẹ̀ ṣíṣẹ̀dá àbájáde kan fún àwọn aṣàmúlò láti jáde nínú ètò náà láì kojú ìṣòro ti lílo ọjà pàṣípààrọ̀ kan.
 
-Another way that people can liquidate the small amounts of cryptocurrency they receive from participating on the Steem platform is through *tipping* others. This is like leaving the small change as a tip for your waiter. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
+Ọnà mìíràn tí àwọn èèyàn le gbà ná àwọn iye cryptocurrency kékèké tí wọ́n gbà níbi ìkópa lórí ètò Steem náà jẹ́ nípasẹ̀ fífún àwọn ẹlòmíràn ní *ẹ̀bùn*. Èyí dàbí fífi owó kékeré náà kálẹ̀ gẹ́gẹ́ bí ẹbùn fún agbawó oúnjẹ rẹ. Nígbà tí àwọn èèyàn tó pọ̀ bá fi àwọn ẹbùn kékèké kalẹ̀ ó ma parapọ̀ di iye tó ní ìtumọ̀ kan. Ìwọ àti agbawó oúnjẹ náà jèrè anfààní kan lára ẹbùn náà.
 
-## Censorship
+## Ìfòfinde
 
-Steem is a decentralized network that is operated by witnesses in jurisdictions around the world. All user actions are publicly recorded on the blockchain, and can be publicly verified. This means that there is no single entity that can censor content that is valued by STEEM holders.
+Steem jẹ́ ìkànnì kan tí ìjọba rẹ̀ kò sí lójúkan tó n ṣiṣẹ́ nípasẹ̀ àwọn olùwàjáde ní abẹ́ àwọn àṣẹ káàkiri àgbáyé. Gbogbo àwọn iṣẹ́ aṣàmúlò ní àkọsílẹ gbangba lórí blockchain náà, tó sì ṣeé ṣèwádìí ní gbangba. Èyí túmọ̀sí pé kò sí àjọ kan ṣoṣo tó lè fòfin de àròkọ tó ní ìwúlò nípasẹ̀ àwọn tó n di STEEM mú.
 
-Individual websites such as steemit.com may censor content on their particular site, but content published on the blockchain is inherently broadcast traffic and mirrors all around the world may continue to make it available.
+Àwọn ààyè ayélujára kọ̀ọ̀kan gẹ́gẹ́ bí steemit.com le fòfin de àròkọ lórí ààyè ayélujára tiwọn, ṣùgbọ́n àròkọ tí a bá ṣàtẹ̀jáde sórí blockchain ti jẹ́ pínpín sórí àwọn ẹ̀ka káàkiri àti pé àwọn àfijọ káàkiri àgbáyé le tẹ̀síwájú láti mu kí ó wà lárọ̀ọ́wọ́tó.
 
-Freedom of speech is the foundation of all other liberties and any infringement upon freedom of speech undermines the only peaceful means of reaching consensus: discussion. Without free discussion voters cannot be fully informed, and uninformed voters are a greater threat to society than losing the right to vote. Censorship is a means of stealing votes through limiting public discourse. Steem is committed to enabling free speech and building a free society.
+Òmìnira ọ̀rọ̀ sísọ jẹ́ ìpìlẹ̀ gbogbo àwọn òmìnira yòókù àti pé iyànjẹ kankan lórí òmìnira ọ̀rọ̀ sísọ yóò ṣe àkóbá fún ọnà àlàáfíà kan ṣoṣo tó wà láti rí ìṣọ̀kan: ìjíròrò. Láìsí òmìnira ìjíròrò àwọn olùdìbò kò lè ní òye kíkún, àti pé àwọn olùdìbò tí kò ní òye kíkún jẹ́ ewu nlá sí àwùjọ ju pípàdánù ẹ̀tọ́ láti dìbò náà. Ìfòfinde jẹ́ ọnà kan láti jí àwọn ìbò nípasẹ̀ fífi ààlà sí ìjíròrò gbangba. Steem ní àdéhùn láti fi ààyè gba òmìnira ọ̀rọ̀ sísọ àti kíkọ́ àwùjọ tó ní òmìnira kan.
 
-## Solving Organic Discovery via Search Engine Optimization
+## Wíwá ojútùú sí Àwárí Aláìsanwó fún nípasẹ̀ Ìwádìí jálẹ̀ Ẹ̀rọ
 
-Most cryptocurrencies generate little value for those who are not actively using the network. Steem, by contrast, generates content and encourages users to share it. This content gets indexed by search engines and ultimately will bring value to a large number of passive users. This search traffic creates organic advertising for the Steem network and grows the network effect.
+Ọ̀pọ̀lọpọ̀ àwọn cryptocurrency má n pèsè ìwúlò kékeré fún àwọn tó kìí fi taratara lo ìkànnì náà. Steem, ní òdìkejì, n pèsè àròkọ tí ó sì n gba àwọn aṣàmúlò níyànjú láti sọ nípa rẹ̀. Àròkọ yìí yíò gba ìtọ́kasí nípasẹ̀ àwọn ẹ̀rọ ìṣàwárí àti pé yíò mú ìwúlò wa fún ọ̀pọ̀lọpọ̀ àwọn aṣàmúlò aláìṣiṣẹ́ níkẹyìn. Ìbẹ̀wò ìṣàwárí yìí yíò ṣàgbékalẹ̀ ìpolówó aláìsanwó-fún fún ìkànnì Steem náà tí yíò sì mú ìdàgbàsókè bá ipa ìkànnì náà.
 
-## Shifting Toward Blockchain-based Attribution
+## Yíyí padà sí Ohun ìdánimọ̀ tó dá lórí Blockchain
 
-The internet represents the easiest medium for distributing information in the world. With that said, it can be a frightening place for content creators who would like to own their content and have it shared with proper attribution. On current social media platforms, attribution is something that can be lost overnight - a posted video or image can be replicated and re-shared without consent or regard for the creator.
+Íntánẹ́ẹ̀tì dúró fún ọnà tó rọrùn jù fún pínpín ìròyìn káàkiri àgbáyé. Pẹ̀lú èyí tí a sọ yìí, ó lè jẹ́ ààyè ìbẹrù kan fún àwọn olùdásílẹ̀ àròkọ tí yíò fẹ́ràn láti ni àròkọ wọn àti jẹ́ kó gba pínpín pẹ̀lú ohun ìdánimọ̀ tó yẹ. Lórí àwọn ètò ìkànnì àjọlò lọ́wọ́lọ́wọ́, ohun ìdánimọ̀ jẹ́ nnkan kan tó lè ṣàdédé sọnù - fídíò tàbí àwòrán kan tí a gbé jáde le gba ìfijọ rẹpẹtẹ àti àtúnpín láìsí ìyànda tàbí ìbọ̀wọ̀ fún olùdásílẹ̀ náà.
 
-Under blockchain-based social media, a creator or author would always be able to point to a public record and timestamp showing proof of their content origination. In a circumstance where a creator would like to address those who have re-shared without permission or attribution, blockchain-based records provide public proof that the content was posted by a particular user at a particular time. In the future, blockchain-based attribution could come to be recognized by governments for its authenticity and could hold weight in court, which would give content creators greater powers to control their work.
+Lábẹ́ ìkànnì àjọlò tó dá lórí blockchain, ẹni tó kọ àròkọ kan yóò lè ma tọ́ka sí àkọsílẹ gbangba kan àti òntẹ̀ àkókò tí yíò ṣàfihàn ẹ̀rí orísun àròkọ wọn. Ní ìṣẹ̀lẹ̀ kan níbi tí olùdásílẹ̀ kan yíò fẹ́ láti sọ̀rọ̀ pẹ̀lú àwọn tó ti ṣe àtúnpín láìsí ìyànda àti ohun ìdánimọ̀, àwọn àkọsílẹ̀ tó dá lórí blockchain ma pèsè ẹ̀rí gbangba wípé aṣàmúlò pàtó kan ló gbé àròkọ náà jáde ní àkókò pàtó kan. Ní ọjọ́ iwájú, ohun ìdánimọ̀ tó dá lórí blockchain le di nnkan tí ìjọba ma dámọ̀ fún ijẹ́tòótọ́ rẹ̀ àti tí yíò wúlò ní ilé ẹjọ́, èyí tí yíò fún olùdásílẹ̀ àròkọ ní àwọn agbára nla láti darí iṣẹ́ wọn.
 
-While a timestamping service can be built on almost any blockchain, and several efforts exist to build this kind of service on the Bitcoin network, Steem has a useful advantage in this realm because content publishers are “first class citizens” -- the Steem blockchain is built from the ground up around the use case of content publication, which allows content creators to have the blockchain to validate their content at a certain point in time simply by writing their post using the same authoring tools used by other Steem users.
+Nígbà tí ìpèsè ṣíṣe òntẹ̀ àkókò kan le gba ṣíṣẹ̀dá lórí ọ̀pọ̀ èyíkéyìí blockchain, àti àwọn onírúurú ìgbìyànjú ti wà láti ṣẹ̀dá irú ìpèsè yìí lórí ìkànnì Bitcoin, Steem ní anfààní tó wúlò kan ní agbègbè yìí nítorí pé àwọn olùtẹ̀jáde àròkọ jẹ́ "àwọn èèyàn tó níyì púpọ̀" - blockchain Steem náà gba ṣíṣẹ̀dá láti ìpìlẹ̀ yíká lílò fún ìtẹ̀jáde àròkọ, èyí tó n fi ààyè gba àwọn olùdásílẹ̀ àròkọ láti ní blockchain náà láti jẹrìí sí àròkọ wọn ní àkókò pàtó kan nípasẹ̀ kíkọ àròkọ wọn pẹ̀lú lílo àwọn irinṣẹ́ àròkọ kíkọ ti àwọn aṣàmúlò Steem mìíràn nlò.
 
-## Replacing Advertising with Blockchain-based Content Rewards
+## Ṣíṣe ìrọpò Ìpolówó pẹ̀lú àwọn Ẹ̀san Àròkọ tó dá lórí Blockchain
 
-Under most content monetization models, content creators leverage advertising in one form or another. Many creators recognize how advertising may diminish their work’s value to the consumer, yet creators very often must seek returns on their time by monetizing. Advertising represents a double-edged sword: With ads, a creator can make money most easily. Without ads, monetization is difficult but the content is richer.
+Lábẹ́ ọ̀pọ̀lọpọ̀ àwọn àwòṣe sísọ àròkọ dowó, àwọn olùdásílẹ̀ àròkọ má n lo ìpolówó fún anfààní ara wọn ní ọnà kan tàbí òmíràn. Ọ̀pọ̀lọpọ̀ àwọn olùdásílẹ̀ mọ bí ìpolówó ṣe lè dín ìwúlò iṣẹ́ wọn kù sí àwọn tó ma mulò náà, síbẹ̀síbẹ̀ àwọn olùdásílẹ̀ lọ́pọ̀ ìgbà gbọ́dọ̀ wá àwọn ìdápadà lórí àkókò wọn nípasẹ̀ sísọ dowó. Ìpolówó dúró fún idà olójú méjì kan: Pẹ̀lú àwọn ìpolówó, olùdásílẹ̀ kan le rí owó lọ́nà tó rọrùn jù. Láìsí àwọn ìpolówó, sísọ dowó ma nira ṣùgbọ́n àròkọ náà ma ní ìtumọ̀.
 
-Creators posting to social media outlets that are connected to Steem may monetize merely by having their work recognized (or ”liked”) by the Steem community. Blockchain-based payouts are completely digital and have no middle-man. Therefore monetization by blockchain-based content rewards should be faster and much lower barrier to use than monetization by advertisements.
+Àwọn olùdásílẹ̀ to n gbé iṣẹ́ jáde sórí àwọn ìkànnì àjọlò tí a sopọ̀ mọ́ Steem le sọ̀ ọ́ dowó nípasẹ̀ mímú kí àwùjọ Steem dá iṣẹ́ wọn mọ̀ (tàbí "fẹ́ràn" rẹ̀). Àwọn ìsanwó tó dá lórí blockchain jẹ́ dígítà pátápátá tí kò sì ní alárinà. Nítorí náà ó yẹ kí sísọ dowó nípasẹ̀ àwọn ẹ̀san tó dá lórí blockchain yára àti pé yíò ní ìdènà tó kéré púpọ̀ láti lò ju sísọ dowó nípasẹ̀ àwọn ìpolówó.
 
-# Conclusion
+# Ìparí
 
-Steem is an experiment designed to address challenges in the cryptocurrency and social media industries by combining the best aspects from both. Steem presents earning opportunities to content creators and internet readers in ways that have not existed within the social media industry. Within Steem, individuals earn real rewards online that are directly correlated to their contributions. Those rewards may have dollar value due to the market price discovery and liquidity of Steem, and the people who hold Steem may have more exclusive earning powers than those who do not.
+Steem jẹ́ àyẹwò kan tí a ṣe láti yanjú àwọn ìṣòro tó wà nínú àwùjọ cryptocurrency àti ìkànnì àjọlò nípasẹ̀ sísopọ̀ àwọn apá tó dára jù lára méjèèjì. Steem n ṣàgbékalẹ̀ àwọn anfààní láti pa owó fún àwọn tó n kọ àròkọ àti àwọn tó n kà lórí íntánẹ́ẹ̀tì ní àwọn ọnà tí kò sí irú rẹ̀ tẹ́lẹ̀ láàrín àwùjọ ìkànnì àjọlò. Nínú Steem, àwọn èèyàn n gba ẹ̀san gidi lórí ayélujára tó ní ìbáṣepọ̀ tààrà pẹ̀lú àwọn ipa wọn. Àwọn ẹ̀san yẹn le ní iye dọ́là nítorí ìṣàwárí iye owó ọjà àti níná ti Steem, àti pé àwọn èèyàn tó di Steem mu le ní àwọn àfikún ìyasọ́tọ̀ agbára láti rówó ju àwọn tí kò dìmú.
 
 [^1]: Reddit’s Cryptocurrency, Forbes, Erika Morphy, October 2014 http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/\#4e07b05332b9
 

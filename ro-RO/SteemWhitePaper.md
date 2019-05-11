@@ -52,11 +52,11 @@ Provocarea constă în crearea unui sistem capabil să identifice de ce contribu
 
 Un sistem dovedit pentru evlauarea și răsplătirea contribuțiilor este o piață liberă. O piată liberă poate fi văzută ca o comunitate singulară unde toată lumea face schimb, iar recompensele sunt alocate în funție de profit și pierderi. Sistemul de piață care îi răsplătește pe cei care aduc valoare celorlalți și în pedepsește pe cei care consumă mai mult decât produc. Piața liberă sprijină mai multe tipuri de monede și bani, fiind o comoditate simplă pe care toată lumea o poate schimba.
 
-Deoarece piața liberă este un sistem dovedit, este tentantă încercarea creeări unui sistem de tip piață liberă, unde consumatorii de conținut plătesc producătorii conținutului. Însă, plata directă este ineficientă și nu foarte viabilă pentru crearea și susținerea conținutului. Cea mai mare parte a conținutului are o valoare scăzută raportată la procesele cognitive, financiare și posibilitățile asociate, astfel puțini citiori aleg să o facă. Abundența unor alternative gratuite care impune un ‘perete de plată‘ va duce la pierderea cititorilor. Au existat mai multe încercări de a implementa plata per-articol din partea cititorilor către autor, dar nici una nu a devenit larg răspândită.
+Deoarece piața liberă este un sistem dovedit, este tentantă încercarea creeări unui sistem de tip piață liberă, unde consumatorii de conținut plătesc producătorii conținutului. Însă, plata directă este ineficientă și nu foarte viabilă pentru crearea și susținerea conținutului. Cea mai mare parte a conținutului are o valoare scăzută raportată la procesele cognitive, financiare și posibilitățile asociate, astfel puțini citiori aleg să o facă. Abundența unor alternative gratuite care impun un ‘perete de plată‘ va duce la pierderea cititorilor. Au existat mai multe încercări de a implementa plata per-articol din partea cititorilor către autor, dar nici una nu a devenit larg răspândită.
 
 Steem este proiectat să permită plăți mici eficiente pentru toate tipurile de contribuții prin schimbarea ecuației economice. Citiorii nu mai trebuie să se decidă dacă doresc sau nu să plătească din propriul buzunar, în schimb ei pot vota într-un mod pozitiv sau negativ, conținutul, iar Steem va folosi voturile lor pentru a determina recompensele individuale. Asta înseamnă că oamenilor li se dă o interfață familiară și răspândită, și nu mai trebuie să suporte costurile cognitive, financiare și de oportunitate asociate cu micro-plățile și plaformele în care poți recompensa autorii.
 
-Voturile din partea membrilor comunității au o mare importanță pentru Steem pentru a aloca exact plățile către contribuitori. Votarea poate fi văzută ca o contribuție esențială și demnă de recompensat. Unele platforme, cum ar fi Slashdot, folosesc meta-moderația [^3] ca o metodă de a clasa și recompensa cinstit moderatorii. Steem alege să îi răsplătească pe cei care contribuie cel mai mult la promovarea totală a unui părți de conținut și îi răsplătește pe cei vare votează, proporțional cu ultima recompensă plătită a autorului conținutului.
+Voturile din partea membrilor comunității au o mare importanță pentru Steem pentru a aloca exact plățile către contribuitori. Votarea poate fi văzută ca o contribuție esențială și demnă de recompensat. Unele platforme, cum ar fi Slashdot, folosesc meta-moderația [^3] ca o metodă de a clasa și recompensa cinstit, moderatorii. Steem alege să îi răsplătească pe cei care contribuie cel mai mult la promovarea totală a unui părți de conținut și îi răsplătește pe cei vare votează, proporțional cu ultima recompensă plătită a autorului conținutului.
 
 # Moduri în care poți contribui
 
@@ -64,7 +64,7 @@ Acestă secțiune descrie ideile din spatele Steem și recompesnele pentru oamen
 
 ## Contribuții Capitale
 
-Există două elemente pe care o comunitate le poate oferi pentru a atrage capital: datoria și dreptul de proprietate. Cei care cumpără drepturi de proprietate câștigă atunci cînd crește comunitatea dar pierd atunci când aceasta scade. Cei care cumpără datoria le este garantată o anumită sumă de interes dar nu pot participa în profitul generat de creșterea comunității. Ambele tipuri de contribuții de capital sunt valoroase pentru creșterea comunității și valoarea monedei sale. Adițional, există două tipuri de feluri în care proprietatea poate avea loc: lichid, în modezi și prin vesting sau intrarea în drepturi. Proprietatea de intrare în drepturi (vesting) face un angajament pe termen lung și nu poate fi vândută pentru o periodă minimă de timp.
+Există două elemente pe care o comunitate le poate oferi pentru a atrage capital: datoria și dreptul de proprietate. Cei care cumpără drepturi de proprietate câștigă atunci când crește comunitatea dar pierd atunci când aceasta scade. Cei care cumpără datoria le este garantată o anumită sumă de interes dar nu pot participa în profitul generat de creșterea comunității. Ambele tipuri de contribuții de capital sunt valoroase pentru creșterea comunității și pentru valoarea monedei sale. Adițional, există două tipuri de feluri în care proprietatea poate avea loc: lichid, în monezi și prin vesting sau intrarea în drepturi. Proprietatea de intrare în drepturi (vesting) face un angajament pe termen lung și nu poate fi vândută pentru o periodă minimă de timp.
 
 Rețeaua Steem solicită aceste diferite clase Steem (STEEM), Steem Power (SP), și Dolari Steem (SBD).
 
@@ -96,7 +96,7 @@ Dolarii Steem sunt creați printr-un mecanism similare cu notele convertibile, c
 
 Dolarii Steem sunt referiți cu simbolul SBD, un acronim la Dolarii Steem Blockchain. Crearea SBD necesită o combinație de un preț fiabil și reguli care să prevină abuzul. Oferirea unui flux fiabil al prețului implică trei factori: minimizarea impactului unui flux al prețului incorect, maximizarea costurilor producerii unui flux incorect și minimizarea importanței sincronizării.
 
-### Minimizarea Taxelor Frauduloase
+### Minimizarea Fluxurilor Frauduloase
 
 Titularii SP aleg indivizi numiți martori, pentru publicarea fluxurilor prețului. Se presupune, că martorii aleși sunt considerați de încredere de către cei care au un anumit interes investit în calitatea fluxului prețului. Prin plătirea celor care sunt aleși, Steem crează o piață competitivă pentru căștigarea dreptului de a produce un flux de preț. Cu cât sunt mai mult plătiți, cei care produc fluxul de preț, cu atât au mai mult de pierdut dacă publică informații false.
 
@@ -128,7 +128,7 @@ Blockchain decide când și cum să creeze SBD și cine să îl primească. Acea
 
 O schimbare rapidă în valoarea STEEM poate schimba dramatic raportul dintre datorie și proprietate. Blockchain-ul previne raportul dintre datorie și proprietate să devină prea mare, prin reducerea cantității de STEEM acordat prin conversiile de SBD, dacă nivelul datoriei a fost depășit cu 10%. Dacă cantitatea de SBD depășește vreodată 10% din totalul de STEEM de pe piață, blockchain-ul o să reducă automat cantitatea de STEEM generat prin conversii la un maxim din valoarea de pe piață. Aceasta asigură că blockchain-ul nu o să aibe un raport de datorie-proprietate mai mare decât 10%.
 
-Procentajul utilizat să calculeze crearea STEEM este bazat pe stoc, inlusiv valoarea STEEM a tuturor SBD și SP (determinat de cursul actual / flux).
+Procentajul utilizat pentru calcularea creării STEEM este bazat pe stoc, inlusiv valoarea STEEM a tuturor SBD și SP (determinat de cursul actual / flux).
 
 ### Interes
 
@@ -138,7 +138,7 @@ Deținătorii STEEM și SP obțin avantaje atunci când membrii comunității su
 
 ### Setarea Fluxurilor Prețului
 
-Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. În economie există un principiu cunoscut ca Trinitatea Imposibilă[^4] care susține că este imposibil să ai următoarele trei lucruri în același timp:
+Persoanele experimentate în aceste privințe, vor recunoaște că o dobândă pentru o ofertă limitată ar putea să se vândă fie mai sus sau mai jos decât valoare bunului, în funcție de oportunitățiile de a câștiga dobândă la aceași bun. Cu o rată a dobânzii raportată la dolarul american, mulți oameni o să liciteze în sus pentru stocul de Dolari Streem, până când acesta nu o să mai valoreze 1$. În economie există un principiu cunoscut ca Trinitatea Imposibilă[^4] care susține că este imposibil să ai următoarele trei lucruri în același timp:
 
 1. O rată de schimb stabilă
 2. Libera circulație a capitalui
@@ -146,47 +146,47 @@ Astute readers will recognize that an interest bearing asset of limited supply m
 
 Dacă producătorii de Flux de Steem țintesc să aibe o politică monetară independentă, permițându-le să creeze și să distrugă Dolari Steem, în timp ce au control simultan asupra ratei dobânzii. întâmpinând apoi probleme. Trinitatea Imposibilă spune cu Dolarii Steem fie trebuie să își restricționeze mișcarea capitalului, să aibe o rată de schimb instabilă cu dolarul, sau să aibe control limitat asupra ratei dobânzii.
 
-Principala preocupare a producătorilor de flux Steem eate să mențină o conversie unu-la-unu între SBD și Dolarul American (USD). În orice moment în care SBD este constant tranzacționat peste $1.00 USD, dobânziile trebuie oprite. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SBD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
+Principala preocupare a producătorilor de flux Steem eate să mențină o conversie unu-la-unu între SBD și Dolarul American (USD). În orice moment în care SBD este constant tranzacționat peste $1.00 USD, dobânziile trebuie oprite. Pe o piață unde 0% din dobânda pe datorie încă cere o primă, este sigur să spunem că piața este dispusă să se extindă mai mult credit decât datoria pe care este dispusă să o suporte comunitatea. Dacă acest lucru se întâmplă, SBD o să valoreze mai multe de un 1$ și comunitate nu prea poate face nimic fără a percepe dobândă negativă.
 
-If the debt-to-ownership ratio is low and SBD is trading for less than $1.00, then the interest rate should be increased. This will encourage more people to hold their SBD and support the price.
+Dacă raportul datoriei către proprietate este scăzut și SBD este schimbat pentru mai puțin de 1$, atunci dobânda ar trebui să crească. Acest lucru o să încurajeze mai mule persoane să țină SBD, sprijinând astfel prețul.
 
-If SBD trades for less than $1.00 USD and the debt-to-ownership ratio is high, then the feeds should be adjusted upward give more STEEM per SBD. This will increase demand for SBD while also reducing the debt-to-ownership ratio and returning SBD to parity with USD.
+Dacă SBD este schimbat pentru mai puțin de 1$ și raportul datoriei către proprietate este mare, atunci fluxurile ar trebui ajustate în sus, astfel putându-se cumpăra mai mulți STEEM per SBD. Acest lucru o să ducă la creșterea cererii pentru SBD, reducând astfel raportul dobânzii către proprietate și returnând SBD la paritatea cu USD.
 
-Assuming the value of STEEM is growing faster than Steem is creating new SBD, the debt-to-ownership ratio should remain under the target ratio and the interest offered benefits everyone. If the value of the network is flat or falling, then any interest offered will only make the debt-to-ownership ratio worse.
+Presupunând că valoarea STEEM crește mai repede decât creează Steem noi SBD, raportul datoriei către proprietate ar trebui să rămână sub raportul țintă iar de dobândă, vor beneficia cu toții. Dacă valoarea rețelei este neschimbată sau scade, atunci orice dobândă oferită o să înrăutățească raportul datoriei către proprietate.
 
-In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
+Astfel, producătorii de flux sunt însărcinați cu responsabilitatea de a stabili politica monetară cu scopul de a menține o paritate stabilă cu USD. Abuzul puterii poate afecta negativ valoarea STEEM, astfel deținătorii înțelepți de SP, vor vota martori care vor ajusta fluxul prețului și al dobânzii, după regulile de mai sus.
 
-If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SBD.
+Dacă raportul datoriei către proprietate devine periculos de mare, iar participanții pieței aleg să evite conversia, atunci fluxul are trebui ajustat pentru a crește rata de schimbare a STEEM-ului plătit pentru conversia SBD.
 
-Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SBD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions.
+Schimbările politicii ratei dobânzii și/sau primele/reducerile pe rata cursului de schimb STEEM/SBD, ar trebui să fie un răspuns lent, măsurat pe abateri pe termen lung și nu pe încercări de a schimba condițiile pe termen scurt ale pieței.
 
-It is our belief that these rules will give market participants confidence that they are unlikely lose money by holding SBD purchased at a price of $1.00. We fully expect there to be a narrow trading range between $0.95 and $1.05 for SBD under normal market conditions.
+Avem convingerea că aceste reguli o să le dea participanțiilor pieței încrederea că este puțin probabil să piardă bani prin cumpărarea SBD cu valoare de 1$. În condiții normale de piață, ne așteptăm să fie un interval îngust de comercializare între 0.95$ și 1.05$.
 
 ## Contribuții Subiective
 
-Dovada subiectivă de lucru prezintă o abordare alternativă pentru distribuirea unei monede care aduce îmbunătățiri *obiective* pentru Sistem de Dovadă de lucru, cum ar fi minarea. The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
+Dovada subiectivă de lucru prezintă o abordare alternativă pentru distribuirea unei monede care aduce îmbunătățiri *obiective* pentru Sistem de Dovadă de lucru, cum ar fi minarea. Aplicațiile unei valute care implementează o dovadă de muncă *subiectivă*, sunt mult mai largi decât orice dovadă de muncă *obiectivă*, deoarce pot fi aplicate pentru construirea unei comunități în jurul unui concept care are scopuri definite. Atunci când indivizii se alătură unei comunități, ei adoptă un anumit set de convingeri și pot vota pentru consolidarea valorilor și scopurilor comunității.
 
-In effect, the criteria by which work is evaluated is completely subjective and its definition lives outside the source code itself. One community may wish to reward artists, another poets, and another comedians. Other communities may choose to reward charitable causes or help advance political agendas.
+Astfel, criteriile după care este evaluată munca, sunt complet subiective și definiția trăiește în afara sursei codului în sine. O comunitate poate alege să răspătească artiștii, alta poeții, iar alta comedianii. Alte comunități pot alege să răsplătească cauze caritabile sau să ajute agende politice.
 
-The value each currency achieves depends upon the demand for influence within a particular community and how large the market believes each community can get. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
+Valoarea atinsă a fiecărei monede depinde de cererea de influență dintr-o comunitate anume și cât de mare consideră piață că o să ajungă acea comunitate. Spre deosebire de sistemele anterioare, dovada de muncă subiectivă, permite comunității să finanțeze colectiv creșterea valorilor și monetizarea timpului care anterior nu era monetizat.
 
 ### Distribuirea monedei
 
-Există două modalități în care oamenii se pot implica în comunitatea monedelor criptice: pot *cumpăra*, sau pot *munci în ea*. În ambele cazuri, utilizatorii aduc valoare monedei, însă, marea majoritatea a oamenilor au mai mult *timp liber* decât au *bani de cheltuit*. Imaginează-ți scopul de a aduce o monedă într-o comunitate săracă, fără *bani* dar foarte mult *timp*. If people can earn money by working for one another then they will bootstrap value through mutual exchange facilitated by a fair accounting/currency system.
+Există două modalități în care oamenii se pot implica în comunitatea monedelor criptice: pot *cumpăra*, sau pot *munci în ea*. În ambele cazuri, utilizatorii aduc valoare monedei, însă, marea majoritatea a oamenilor au mai mult *timp liber* decât au *bani de cheltuit*. Imaginează-ți scopul de a aduce o monedă într-o comunitate săracă, fără *bani* dar foarte mult *timp*. Dacă oamenii pot câștiga bani lucrând unul pentru altul, atunci ei se vor folosi de propriile resurse pentru a genera valoare prin scbimbul reciproc, facilitat de un sistem corect de contabilitate/valută.
 
-Distribuirea unei monezi către cât mai mulți oameni într-o manieră percepută general ca și corectă, este o sarcină dificilă. Sarcinile care pot fi evaluate în totalitate de către un algoritm obiectiv rulat pe calculator, sunt în natură limitate și au în general beneficii limitate externe pozitive. În cazul mineritului în stil Bitcoin, poate duce la producerea hardware specializate și poate determina oamenii să investească timp în dezvoltarea unor algortimi mai eficienți. It may even help find prime numbers, but none of these things provide meaningful value to society or the currency holding community at large. More importantly, economies of scale and market forces will end up excluding everyone but experts from participating in this kind of distribution. Ultimately, computation-based mining is just another way of *buying in* because it requires money to pay the electric bill or the development of hardware necessary to do the work.
+Distribuirea unei monezi către cât mai mulți oameni într-o manieră percepută general ca și corectă, este o sarcină dificilă. Sarcinile care pot fi evaluate în totalitate de către un algoritm obiectiv rulat pe calculator, sunt în natură limitate și au în general beneficii limitate externe pozitive. În cazul mineritului în stil Bitcoin, poate duce la producerea hardware specializate și poate determina oamenii să investească timp în dezvoltarea unor algortimi mai eficienți. Poate ajuta chiar la găsirea de numere prime, dar nici unul dintre aceste lucruri nu aduce valoare semnificativă societății sau valutei deținută de comunitate. Mai important este faptul că economiile de scară și forțele de piață, o să ajungă să excludă toate persoanele, mai puțin experții, de la participarea în acest tip de distribuție. În cele din urmă, minarea pe bază de calcul este un alt mod de a *cumpăra* deoarce necesită bani pentru plătirea facturii curectului electric sau pentru hardware-ul necesar.
 
-In order to give everyone an equal opportunity to get involved and earn the currency people must be given an opportunity to work. The challenge is how to judge the relative quality and quantity of work that individuals provide and to do so in a way that efficiently allocates rewards to millions of users. This requires the introduction of a scalable voting process. In particular it requires that authority to allocate funds must be as distributed and decentralized as possible.
+Pentru a putea da tuturor o șansă egală să se implică și să câștige monede, oamenilor trebui să li se dea oportunitatea de a muncii. Provocarea vine din determinarea cantității și calității relative a munci pe care o depun indivizii și a felului efectiv de alocare, astfel încât să fie răsplătiți milioane de utilizatori. Acest lucru necesită introducerea unui proces de votare măsurabil. În mod particular, este nevoie ca autoritatea care să aloce fonduri, să o facă într-un mod cât mai distribuit și descentralizat posibil.
 
-The first step in rewarding millions of users is to commit to distributing a fixed amount of currency regardless of how much work is actually done or how users vote. This changes the question from being *“Should we pay?”* to *“Whom should we pay?”* and signals to the market that money is being distributed and is being auctioned off to whoever “bids” the most *work*. This is similar to Bitcoin committing to award 50 BTC to whoever finds the most difficult hashes. Like Bitcoin, all work must be done prior-to payout and nothing should be paid speculatively on the promise to do work in the future.
+Primul pas în recompensarea a milioane de utilizatori este stabilirea unei sume fixe de distribuție din valuta respectivă, indiferent de cât de multă muncă este efectuată sau de cum votează utilizatorii. Acest lucru duce la schimbarea întrebării *“Ar trebui să plătim?* în *“Pe cine ar trebui să plătim?“* și semnalează pieței că banii sunt distribuiți către cel care “oferă“ cea mai multă *muncă*. Acest lucru este similar cu Bitcoin, care acordă 50 BTC către oricine care găsește cele mai dificile hash-uri. Precum în cazul Bitcoin, toată munca este făcută înainte de plată și nimic nu ar trebui plătit speculativ, doar pe promisiunea de a muncii.
 
-The next step is to reward everyone who does anything even remotely positive with *something*. This is accomplished by ranking all work done and distributing proportionally to its value. The more competitive the market becomes, the more difficult (higher quality or quantity) it becomes to earn the same payout.
+Următorul pas este recompensarea tuturor celor care contribuie într-un pozitiv cu *ceva*. Acest lucru este realizat prin clasamentul muncii depuse și distribuirea proporțională a valorii. Cu cât piața devine mai competitivă, cu atât este mai dificil (cantitate sau calitate mai ridicate) să câștigi aceleași recompense.
 
-### Voting on Distribution of Currency
+### Votarea pentru Distribuția Monedei
 
-Assume there is a fixed amount of money to distribute, and that those who have a long-term vested interest in the future value and utility of the currency are the ones who must decide how to allocate it. Every vesting user casts their votes on who did the best work and at the end of the day the available money for that day is divided proportional to the votes such that everyone with even one net positive vote gets something.
+Să presupune că există o sumă fixă de bani pentru a fi distribuită, iar cei care au făcut o investiție pe termen lung în viitorul și utilitatea acelei monede, sunt cei care decid cum să fie alocată. Fiecare utilizator cu propietate de intare în drepturi (vesting), își distribuie voturile către cine și-a făcut treaba cel mai bine, iar la finalul zilei, banii disponibili din acea zi sunt proporțional împărțiți către voturi astfel fiecare persoană care a votat pozitiv, o să primească ceva.
 
-The naive voting process creates a N-Person Prisoner’s Dilemma[^5] whereby each individual voter has incentive to vote for themselves at the expense of the larger community goal. If every voter defects by voting for themselves then no currency will end up distributed and the currency as a whole will fail to gain network effect. On the other hand, if only one voter defects then that voter would win undeserved profits while having minimal effect on the overall value of the currency.
+Acest proces de votare naivă, creează o dilemă prizonier de N-persoană [^5] unde fiecare votant se poate vota pe sine, în detrimentul scopului comunității. Dacă fiecare persoană se votează pe sine, atunci monedele nu vor fi distribuite și întreaga valută, va eșua în a câștiga efectul de rețea. Pe de altă parte, dacă o singură persoană se votează pe sine, atunci acea persoană o aibe profit nemeritat, având însă un efect minim asupra valorii valutei.
 
 #### Abuzarea Votului
 
@@ -206,11 +206,11 @@ Folosirea *votului-negativ* care să oprească oamenii să abuzeze sistemul prin
 
 Așa este și cu oamenii. Dacă unul încearcă să facă ceva diferit, să ia note mai bune, să se îmbunătățească, să plece din mediu, sau să aibe vise mari, ceilalți oameni o să îl tragă înapoi pentru a împărtăși aceași soartă.
 
-Eliminarea "abuzului" nu este posibilă și nu acesta ar trebui să fie țelul. Chiar și cei care încearcă să "abuzeze" sistemul trebuie să muncească. Orice compensație pe care o au în urma încercărilor abuzive reușite, este cel puțin la fel de valoroasă ca scopul distribuției monedei ca și sistem angajat de Bitcoin prin minarea prin bazinele de minare. Tot ceea ce este necesar este să se asigure că abuzul nu este atât de agresiv încât să subminează stimularea unei muncii reale în sprijinul comunității și a monedei sale.
+Eliminarea "abuzului" nu este posibilă și nu acesta ar trebui să fie țelul. Chiar și cei care încearcă să "abuzeze" sistemul trebuie să muncească. Orice compensație pe care o au în urma încercărilor abuzive reușite, este cel puțin la fel de valoroasă ca scopul distribuției monedei ca și sistem angajat de Bitcoin prin minarea cu ajutorul bazinele de minare. Tot ceea ce este necesar este să se asigure că abuzul nu este atât de agresiv încât să subminează stimularea unei muncii reale în sprijinul comunității și a monedei sale.
 
 Scopul construirii unei comunități în jurul unei monede este să “atragă mai mulți crabi în găleată“. Luarea de măsuri extreme care să elimine tot abuzul este ca și cum ai pune un capac pe găleată pentru a împiedica câțiva crabi să fugă, și vine în detrimentul adăugării unor noi crabi în găleată. Este suficient să facem pereții mai alunecoși pentru a le da celorlalți crabi mai multă putere pentru a îi împiedica pe cei care vor să scape.
 
-### Rate Limited Voting
+### Rată Limitată de Vot
 
 O mare parte din minimizarea abuzului este limitarea ratei de votare. Utilizatorii pot citi și evalua un anumit număr de elemente pe zi. Orice încercare de a vota mai frecvent este un semn al unei automatizări și al unui potențial abuz. Prin limitarea ratei de votare, votul deținătoriilor de interese care votează mai des, valorează mai puțin decât votul celor cărora votează mai rar. Încercările de a împărți tokeni între conturi multiple, duc și la împărțirea influenței și, prin urmare, nu duc la creșterea influenței și nici a ratei limită impuse prin vot.
 
@@ -226,7 +226,7 @@ Legea Zipf[^7] este una dintre regulile empirice care caracterizează o rată su
 
 ![](\img_the_new_marketplace.png)
 
-Luând popularitatea ca o măsură aproximativă de valoare, atunci valoarea fiecărui element individual este dat de legea Zipf. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. Valoarea colecției cu n elemente este proporțională cu log(n).
+Luând popularitatea ca o măsură aproximativă de valoare, atunci valoarea fiecărui element individual este dat de legea Zipf. Astfel, dacă avem un milion de elemente, atunci cele mai 100 populare o să contribuie la o treime din valoarea totală, următoarele 10,000 la încă o treime, iar cele 989,900 rămase, la ultima treime. Valoarea colecției cu n elemente este proporțională cu log(n).
 
 Impactul acestei distribuții a votării și câștigurilor este oferirea compensațiilor contribuțiilor cu conținut bun, în timp ce se sunt recompensați și utilizatorii mai mici.
 
@@ -254,15 +254,15 @@ La nivel conceptual, algoritmul de consens este adoptat de Steem într-o manier�
 
 Cu Steem, producția de block-uri este făcută în runde. În fiecare rundă, 21 de martori sunt selactați pentru a crea și semna block-urile tranzacțiilor. Douăzeci (20) dintre acești martori sunt selectați prin votarea și ultimul vot este împărțit de tot ceilalți martori care nu a ajuns în clasamentul 20, proporțional cu numărul total de voturi. Cei 21 de martori activi sunt schimbați în fiecare rundă, pentru a preveni un martor de la igonorarea constantă a acelorași blocuri. Fiecare martor care ratează un bloc și nu a produs în ultimele 24 de ore, o să fie dezactivat până când își vor actualiza cheia semnatoare pentru block-uri.
 
-Acest proces este conceput să ofere fiabiliatea cea mai bună, asigurând faptul că oricine are potențialul de a participa în producerea block-urilor, indiferent dacă sunt populari sau nu pentru a fi votați în fruntea clasamentului. Oameni au trei opțiuni pentru a depăți cenzura celor 20 de martori alesi: că aștepte împreună cu toți ceilalți care nu sunt în clasamentul primilor 20, să achiziționeze mai mult SP sau să își îmbunătățească puterea de votare. Generally speaking, applying censorship is a good way for elected witnesses to lose their job and therefore, it is unlikely to be a real problem on the Steem network.
+Acest proces este conceput să ofere fiabiliatea cea mai bună, asigurând faptul că oricine are potențialul de a participa în producerea block-urilor, indiferent dacă sunt populari sau nu pentru a fi votați în fruntea clasamentului. Oameni au trei opțiuni pentru a depăți cenzura celor 20 de martori alesi: că aștepte împreună cu toți ceilalți care nu sunt în clasamentul primilor 20, să achiziționeze mai mult SP sau să își îmbunătățească puterea de votare. În general, aplicarea cenzurii este este o modalitate prin care martorii aleși, pot să își piardă locul, prin urmare, este puțin probabil să fie o problemă reală în rețeaua Steem.
 
 Deoarece martorii activi sunt cunoscuți în avans, Steem poate să programeze martorii să producă block-uri la fiecare 3 secunde. Martorii își sincronizează producția de blocuri prin protocolul NTP. O variație a acestui algoritm a fost folosită de rețeaua BitShares de mai bine de un an și a fost dovedită de încredre.
 
-# Eliminarea taxelor tranzacțiilor
+# Eliminarea costurilor tranzacțiilor
 
-Steem goes to great lengths to reward people for contributing to the network. It would be counterproductive to turn around and charge people every time they attempt to interact with the community.
+Steem se străduiește să răsplătească oamenii care contribuie la construirea rețelei. Ar fi contraintuitiv ca oamenii să plătească pentru fiecare interacțiune în comunitate.
 
-Blockchain technology currently depends upon transaction fees to prevent spam. These fees suffer all of the known problems with microtransactions and prevent blockchains from being used for low-value transactions. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. Aleastă lucrare subliniază abordarea folosită de Steem pentru a elimina necesitatea taxelor, astfel o nouă gamă de aplicații descentralizate, ce nu puteau fi inițiate anterior, vor putea fi aplicate.
+În prezent, pentru a preveni spam-ul, tehnologia blockchain, se bazează pe comisioane de tranzacționare. Aceste comisioane devin o problemă pentru microtranzacții și previn blockchain-ul în a fi folosit pentru tranzacțiile care implică sume mici. Dacă vor să concureze cu aplicațiile centralizate, aplicațiile cu adevărat descentralizate, trebuie să ofere utilizatorilor tranzacții fără comisioane. Aleastă lucrare subliniază abordarea folosită de Steem pentru a elimina necesitatea taxelor, astfel o nouă gamă de aplicații descentralizate, ce nu puteau fi inițiate anterior, vor putea fi aplicate.
 
 ## Problema Taxelor
 
@@ -274,7 +274,7 @@ Soluția adoptată de majoritatea blockchain-urile, este de a percepe o taxă mi
 
 Problema fundamentală cu perceperea acestor taxe tranzacționale este faptul că microplățiile nu funcționează, mai ales în cazurile unde este vorba de acțiuniile utilizatorului. Atunci când se percepe o taxă pentru fiecare tranzacție, limitează tipurile de tranzacții pe care le poate procesa o rețea descentralizată. Indiferent de cât de rațional este argumentul pentru necesitatea acestor taxe, utilizatorii urăsc să plătească taxe pentru orice fel de activitatea, fie ea oricât de mică.
 
-Imaginați-vă că site-urile pe care le folosesc zilnic, ar percepe o taxă de fiecare dată când ne modificăm contul sau când ne schimbăm parola. Utilizatorii se așteaptă ca unele lucruri să fie gratuite. Requiring users to make a decision on whether or not an action is worth a small fee creates anxiety that causes users to leave. A transaction can’t be worth so much as to require a decision but worth so little that that decision is automatic. În fiecare decizie de cumpărare, există o anumită anxietate, oricât de mică ar fi taxă. Această anxietate provine din însăși procesul de decizie, și nu din interfața utilizată sau timpul necesar luării acestei decizii.
+Imaginați-vă că site-urile pe care le folosesc zilnic, ar percepe o taxă de fiecare dată când ne modificăm contul sau când ne schimbăm parola. Utilizatorii se așteaptă ca unele lucruri să fie gratuite. Solicitarea utilizatorilor să ia o decizie dacă o acțiune valorează sau nu, un comision mic, va crea anxietate în rândul acestor, ducând la părăsirea platformei. O tranzacție nu poate valora așa de mult încât să necesite o decizie, atfel, aceasta poate fi automată. În fiecare decizie de cumpărare, există o anumită anxietate, oricât de mică ar fi taxă. Această anxietate provine din însăși procesul de decizie, și nu din interfața utilizată sau timpul necesar luării acestei decizii.
 
 Microplățiile, ca toate celelalte plăți, necesită o comparație: *“Este atât de mult X valoros ca atât de mult Y?“* Există o acțiune mentală creată în acest fel care nu poate fi optimizată, deoarece singura tranzacție pe care un utilizator o va lua imediat este o tranzacție care nu costă nimic, și anume nici o tranzacție.
 
@@ -282,240 +282,240 @@ Microplățiile, ca toate celelalte plăți, necesită o comparație: *“Este a
 
 În lumea plăților financiare, taxele mici sunt acceptabile deoarece valoarea tranzacției este mult mai mare decât taxa percepută, iar cumpărătorul a luat deja deciza de cumpărare. Lumea potențialelor aplicații blockchain este mult mai largă decât plățiile, și include foarte multe tranzacții necesare ale căror taxe nu sunt acceptate de utilizatori.
 
-Sisteme ca BitShares, Nxt, Ripple, Counter Party și Stellar le oferă utilizatorilor să plaseze comenzi pe blockchain și toate percep o taxă mică pentru a efectua aceste acțiuni. Mai târziu, în cazul în care utilizatorul dorește anularea comenzii, o nouă taxă este percepută. Systems like Ethereum take micropayments to a whole new level: charging per calculation. Toate aceste sistem au probleme în a atrage utlizatorii noi, din aceleași motive cu care s-ar confrunta un motor de căutare descentralizat care ar percepe taxe pentru fiecare căutare, și ar încerca să atragă utilizatorii Google. Nu contează cât de bun este serviciul, oamenii se așteaptă ca anumite lucruri să fie gratuite. Acest lucru rămâne adevărat chiar și atunci când un utilizator ajunge să plătească mai mult, într-o cadrul unei structuri de taxare diferit.
+Sisteme ca BitShares, Nxt, Ripple, Counter Party și Stellar le oferă utilizatorilor să plaseze comenzi pe blockchain și toate percep o taxă mică pentru a efectua aceste acțiuni. Mai târziu, în cazul în care utilizatorul dorește anularea comenzii, o nouă taxă este percepută. Sisteme ca Ethereum duc microplățile la un alt nivel: taxare pe calcul. Toate aceste sistem au probleme în a atrage utlizatorii noi, din aceleași motive cu care s-ar confrunta un motor de căutare descentralizat care ar percepe taxe pentru fiecare căutare, și ar încerca să atragă utilizatorii Google. Nu contează cât de bun este serviciul, oamenii se așteaptă ca anumite lucruri să fie gratuite. Acest lucru rămâne adevărat chiar și atunci când un utilizator ajunge să plătească mai mult, într-o cadrul unei structuri de taxare diferit.
 
-### Fees are a Barrier to Entry
+### Comisionele sunt o Barieră de Acces
 
-Any fee creates a barrier to entry for new users. Before someone can experiment with Ethereum they must acquire some ETH tokens. Anyone wanting to build a decentralized application on Ethereum must pass on the cost to their customers. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
+Orice comision crează o barieră de acces pentru utilizatorii noi. Înainte de a putea experimenta cu Ethereum, trebui să cumpărăm ETH tokeni. Orice care vrea să construiescă o aplicație descentralizată bazată pe Ethereum, trebuie să informeze clienții despre consturile ei. Cumpărarea unei cripto valute nu este o sarcină ușoară și rareori are sens să cumperi sume mai mici de 10$. Acest lucru înseamnă că utilizatorii noi care vor să încerce o aplicație descentralizată, trebui să fie convinși să investească 10 dolari.
 
-### Changing Fees
+### Comisioane schimbătoare
 
-Over time a network must adjust fees. This can happen either due to an increase in the value of the token or due to a surge in capacity. Users like predictable fees and guaranteed service. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
+În timp, o rețea își poate ajusta comisioanele. Acest lucru se poate întâmpla fie din cauza creșterii valorii token-ului, fie din datorită creșterii capacității. Utilizatorii apreciază comisioanele previzibile și serviciile garantate. Este posibilă ajustarea dinamică a comisioanelor în urma folosirii intense a platformei, însă utilizatorii nu vor fi mulțumiți.
 
-### Sybil Attacks
+### Atacuri Sybil
 
-Centralized websites prevent spam through rate limiting and some form of ID verification. Even something as simple as reCAPTCHA[^9] is sufficient to limit the creation of fake accounts. If someone abuses their account then centralized websites are free to block the account.
+Website-urile centralizate previn spam-ul prin rata de limitare și o formă de verificare a ID-ului. Chiar și ceva atât de simplu precum reCAPTCHA[^9] este suficient să limiteze crearea conturilor false. Dacă cineva își abuzează contul, atunci website-urile centralizate sunt libere să li-l blocheze.
 
-In a decentralized system there is no direct way to ban users nor centralized provider able to host a reCAPTCHA and enforce rate limiting of accounts. In fact, the inability to censor users is one of the main selling points of blockchain technology.
+Într-un sistem descentralizat nu există o modalitatea directă de a interzice utilizatorii sau existența unui furnzior centralizat capabil de a găzdui reCAPTCHA și a limita rata de creare a conturilor. De fapt, incapacitatea de a cenzura utilizatorii este unul dintre punctele forte de tehnologiei blockchain.
 
-### Full Reserve vs Fractional Reserve
+### Stoc Total vs Stoc Fracționar
 
-Let’s view a blockchain like an Internet Service Provider (ISP) co-op which owns all of the cables in the town and has a maximum amount of bandwidth that it can provide at any time. People living in the town can buy shares in the ISP and in exchange they are entitled to utilize a portion of the available bandwidth.
+Să privim blockchain-ul ca un furnizor de internet (ISP), care deține toate cablurile din oraș și are lățimea maximă de bandă, pe care o poate oferi constant. Oamenii care locuiesc în oraș, pot cumpăra acțiuni în ISP, având în schimb, dreptul de a utiliza o parte din lățimea benzii disponibilă.
 
-The ISP has two choices, run a “full reserve” or “fractional reserve” system. Under a full reserve system each user is only allowed a fraction of the maximum bandwidth proportional to her shares. Because not everyone uses the Internet at the same time, the town’s network would be significantly underutilized.
+ISP are 2 opțiuni, să ruleze un sistem “stoc total” sau “stoc fracționar”. În cadrul unui sistem cu stoc total, fiecărui utilizator îi este permisă o fracțiune din lățimea maximă a benzii, proporțională cu acțiuniile. Deoarece nu toată lumea folosește internetul în același timp, rețeaua orașului ar fi semnificativ neutilizată.
 
-Under a fractional reserve system the individual users could utilize more bandwidth than they are entitled to at any given point in time so long as not everyone uses the Internet at the same time. The problem with operating a fractional reserve is that congestion occurs anytime too many people wish to use the network at the same time. The ISP needs a way to prioritize bandwidth during congested periods. In the most extreme case, a fully congested network must revert to a full reserve system. The challenge is setting the proper fractional reserve ratio.
+În cadrul unui sistem cu stoc fracționar, fiecare utilizator poate utiliza mai mult din lățimea benzii la care are dreptul, atât timp cât nu toată lumea folosește internetul în același timp. Problema unui stoc fracționar, apare atunci când multe persoane doresc să folosească rețeaua în același timp. ISP are nevoie de o modalitate de a prioritiza lățimea de bandă, în perioadele aglomerate. În cazuri extreme, o rețea complet saturată, trebuie să revină la un sistem cu stoc total. Provocarea este dată de setarea potrivită a unui raport pentru stocul fracționar.
 
-## Bandwidth Instead of Micropayment Channels
+## Lățime de bandă în loc de Microplăți
 
-The solution to the problems with micropayments is in implementing *dynamic fractional reserves*. Under this model the blockchain will automatically adjust the reserve ratio for the network during times of congestion. The blockchain will set a target utilization that leaves enough headroom for short term surges in demand. Any time the surges are sustained the blockchain reduces the maximum bandwidth-per-share. When a surge is over and there is surplus capacity the blockchain can slowly increase the bandwidth-per-share.
+Soluția la problemele cu microplățile este implementarea *stocului dinamic fracționar*. Sub acest model, blockchain-ul o să ajusteze automat raportul stocului rețelei, în perioadele aglomerate. Blockchain-ul o să seteze o țintă de utilizare, care lasă suficient spațiu pentru schimbările de termen scurt. De fiecare dată când apar creșteri, blockchain-ul reduce lățimea de bandă a fiecărui utilizator. Când creșterea de utilizatori a încetat și există un surplus a capacității, blockchain-ului poate crește treptat lățimea de bandă a fiecărui utilizator.
 
-Bandwidth used by an individual user should be measured over a suitably long period of time to allow that user to time-shift their usage. Users tend to login, do many things at once, then logout. This means that their bandwidth over a short period of time may appear much higher than if viewed over a longer period of time. If the time window is stretched too far then the reserve ratio will not adjust fast enough to respond to short-term surges, if the window is too short then clustering usage will have too big of an impact on normal users.
+Lățimea de bandă folosită de un utilizator, ar trebui măsurată pe o perioadă corespunzătoare care îi permite utilizatorului să își schimbe timpul de utilizare. Utilizatorii tind să se autentifice, să face multe lucruri, și apoi să se deconecteze. Acest lucru duce la utilizarea intensă a lățimii benzii pe o perioadă scurtă, comparativ cu intensitatea scăzută a consumării benzii pe o perioadă mai îndelungată. Dacă fereastra de utilizare este folosită intens, nu este suficient timp pentru a se reface raportul stocului pentru a răspunde la creșterile de scurtă durată. Dacă fereastra este prea mică, atunci folosirea intensă, într-o perioadă scurtă, va avea un impact asupra utilizatorilor.
 
-In our estimate it should be sufficient to measure the average weekly bandwidth usage of users. Every time a user signs a transaction, that transaction is factored into their own individual moving average. Any time a user’s moving average exceeds the current network limit their transaction is delayed until their average falls below the limit.
+După estimările noastre, ar fi suficientă măsurarea folosirii săptămânale medii, a lățimii de bandă a utilizatorilor. De fiecare dată când un utilizator face o tranzacție, acea tranzacție este distribuită în media lor individuală. De fiecare dată când un utilizator depășește media, rețeaua îi limitează tranzacția și este întârziată până ce media lor ajunge din nou sub limită.
 
-### Impact of Capacity
+### Impactul Capacității
 
-Blockchain capacity isn’t necessarily capped. It is well within the technological capability of internet infrastructure to increase the Bitcoin block size to 10MB which in turn will reduce the minimum required balance by a factor of 10. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second.
+Capacitatea blockchain-ului nu este neapărat limitată. Este bine în cadrul capacității tehnologice a infrastructurii internetului, să se mărească dimensiunea block-urilor Bitcoin la 10MB, car va reduce soldul minim necesar cu un factor de 10. În timp ce Bitcoin poate efectua 3 tranzacții pe secundă, implementări alternative sunt capabile să facă peste 1000 de tranzacții pe secundă.
 
-### Comparison to Fees
+### Comparațiile între comisioane
 
-If we assume a user with $25 dollars worth of BTC transacts once per week and pays a $0.04 cent fee each time then they would pay over $2.00 in fees per year. A user would have to earn a 8% rate of return on their $25 dollars just to break even with paying fees. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
+Dacă presupunem că un utilizator cu Bitcoin în valoare de 25$, tranzacționează o dată pe săptămână și plătește un comision de 0.04$ de fiecare dată, el ar plăti peste 2$ numai pe comisioane, pe an. Utilizatorul ar trebui să câștige 8% din cei 25$ dolari, doar pentru a ajunge la 0 cu comisioanele. Se prea poate ca utilizatorii să își țintă banii pe blockchain, astfel utilizatorul cu BTC în valoare de 25$, ar putea salva 2$ pe parcursul unui an, prin adoptarea unui limitări a benzii și nu printr-o abordare bazată pe comisioane. Cu 175$, ei ar putea să tranzacționeze în fiecare zi și să economisească 14$ pe an.
 
-### Account Creation
+### Creare Cont
 
-Steem’s account-based system with publicly known balances simplifies the implementation of the bandwidth-based rate limiting algorithm. Any account with a balance below the minimum required to transact once per week would be unable to transact. This implies that all new accounts should be funded with at least this minimum balance. It also implies that users wishing to transact in smaller amounts can, so long as they hold a larger balance and reuse the account.
+Sistemul de conturi al Steem-ului, cu solduri public cunoscute, simplicifă implementarea algortimului limitării lățimii benzii. Orice cont cu soldul mai mic decât minimul necesar pentru a efectua o tranzacție o dată pe săptămână, nu o să poată efectua tranzacții. Acest lucru implică faptul că toate conturile noi ar trebui finanțate cu măcar cel puțin soldul minim. Acest lucru implică faptul că utilizatorii care doresc să tranzacționeze sume mici, pot face asta, atâta timp cât dețin un sold mai mare și refolosesc contul.
 
-It is possible for a low-balance account created during a time of low usage to become inaccessible if the network usage picks up. The funds could be recovered at any time by temporarily delegating a larger balance to the account.
+Este posibil pentru conturile cu solduri mici, create în perioade de utilizare scăzută, să devine inaccesibile în momentul în care crește folosirea rețelei. Prin delegarea temporară a unui sold mai mare contului, fondurile pot fi recuperate în orice moment.
 
-In order to maintain a reasonable user experience with a minimum number of hung accounts, all new accounts should start out with a balance 10 times the minimum required to transact weekly. This way even if demand increases by a factor of 10 the account will remain viable.
+Pentru a menține o experiență rezonabilă pentru utilizator, toate conturile noi ar trebui să înceapă cu un sold de 10 ori mai mare decât minimul necesar pentru tranzacțiile săptămânale. În acest fel, chiar dacă cererea crește de 10 ori, contul va rămâne viabil.
 
-Any initial account balance would have to come from the user creating the account and not from token creation due to the potential for sybil attacks.
+Orice sold inițial al contului, ar trebui să vină din creare contului de către utilizator și nu din crearea token-ilor datorită atacurilor sybil potențiale.
 
-### Justifying Minimum Balances
+### Justificarea Soldurilor Minime
 
-The concept of forcing users to maintain a minimum balance flows naturally from the value of a user[^10]. Anyone running a business knows that every single user has significant value. Businesses spend anywhere from $30 to $200 to acquire a user. Sometimes they pay users directly, other times they pay for advertizing, and still other times entire companies are bought just for their user base. After a company acquires a user they often given them many *free services* just to keep them around long enough to monetize them through some other means.
+Conceptul de forțare al utilizatorilor de a menține un sold minim, vine natural din valoarea utilizatorului[^10]. Oricine care are o afacere, știe că fiecare utilizator are o valoare semnificativă. Afacerile cheltuie între 30$ și 200$, pentru a atrage utilizatori. Câteodată, plătesc direct utilizatorii, alteori plătesc pentru publicitate și uneori plătesc întregi campanii pentru a atrage utilizatori. După ce o companie atrage un utilizator, acesta primește multe *servicii gratuite* doar pentru a fi reținut suficient timp pentru a le valorifica prin alte mijloace.
 
-Ripple uses a minimum balance[^11] that scales with account resource use and requires that new accounts get funded with at least this minimum balance. Currently this minimum balance is about $0.15 which is greater than the $0.10 we estimated would allow someone to transact freely at least once per week.
+Ripple folosește un sold minim [^11] care scalează utilizarea resurelor contului și necesită faptul ca noile conturi să fie finanțate cu cel puțin soldul minim. În prezent, acest sold minim este de aproximativ $0.15, fiind mai mare decât suma pe care am estimat-o $0.10, pentru a tranzacționa liber, cel puțin o dată pe săptămână.
 
-A blockchain can enforce a minimum value per user through the simple process of requiring a minimum balance. Any business that wishes to bring a new customer to the blockchain can pre-fund that user’s account with the minimum balance that would allow them to transact. Requiring a relatively large fee ($1.00) to sign up new users will naturally force anyone offering free accounts to vet the quality and uniqueness of each account before registering them with the blockchain.
+Un blockchain poate aplica o valoare minimă per utilizator printr-un proces simplu care ar necesita un sold minim. Orice afacere care dorește să atragă noi clienți în blockchain, poate prefinanța contul utilizatorului cu soldul minim care permite tranzacționarea. Cererea unui comision relativ mare (1$) noilor utilizatori, îi va forța pe cei care oferă conturi gratuite să verifice identitatea noilor utilizatori, înainte de a se înregistra pe blockchain.
 
-Maintaining a minimum balance is effectively the same as making users pay transaction fees with the interest they could have earned on their balance. The minimum balance is simply the balance required to earn enough interest to pay a fee in a relatively short period of time.
+Menținerea unui sold minim este efectiv la fel ca a face utilizatorii să plătească comisione pentru tranzacții cu dobânda pe care ar fi câștigat-o din soldul lor. Soldul minim este soldul necesar pentru a câștiga suficientă dobândă pentru a plătii un comision într-o perioadă relativ scurtă de timp.
 
-Fortunately, the minimum balance required can be as low as a dollar and this is something users can understand and appreciate. The opportunity cost of lost interest doesn’t incur the cognitive cost of a micro-fee and is far more acceptable to users.
+Din fericire, soldul minim necesar poate începe de la un dolar, acest lucru fiind înțeles și apreciat de către utilizatori. Costul de oportunitate al dobânzii pierdute nu suportă costul cognitiv al unei micro-comision și este mult mai acceptabil pentru utilizatori.
 
-The STEEM used to pre-fund an account is Powered Up in the new account (i.e., converted to Steem Power). A portion of the SP used to fund a new account may be delegated from the creator of the account. When a user is delegated SP, they may use the SP for voting and bandwidth purposes as if it were their own, but the ownership of the SP remains with the user who delegated it. A user may remove the delegation at any time. After a cool-down period, the SP is returned to their account.
+STEEM-ul folosit pentru a pre-finanța un cont este Powered Up în contul nou (ex. convertit în Steem Power). O parte din SP folosit să finanțeze contul nou, poate fi delegat de către persoana care a creat contul. Atunci când unui utilizator îi este delegată SP, acesta poate folosi lățimea benzii și SP pentru votare, ca și cum ar fi a lui, însă dreptul de proprietate rămâne a celui căruia i-a delegat SP. Un utilizator poate opri delegarea în orice moment. După o perioadă de așteptare, SP-ul este returnat contului lor.
 
-### Effectiveness Relative to Fees
+### Eficacitatea Relativă a Comisioanelor
 
-To compare the effectiveness of rate limiting to fees we must consider how the two systems react to intentional network flooding by an attacker. Under Bitcoin an attacker with $10,000 dollars could disrupt service for an entire day by filling every single block. The same attacker would be unable to disrupt service for even a single block under the dynamic fractional reserve rate limiting approach.
+Pentru a compara eficacitatea ratei de limitare cu comisioanele, trebuie să luăm în considerare cum reacționează sistemele la încărcarea intenționată a rețelei de către un atacator. În ceea ce privește Bitcoin, un atacator cu 10 000$ dolari ar putea perturba serviciile pentru o zi întragă, prin ocuparea unui block întreg. În condițiile unui stoc fracționar dinamic cu o abordare limitată a ratei, același atacator nu ar putea să perturbe serviciile pentru un singur block.
 
-If we go to a more extreme case and assume the attacker holds 1% of all coins then we presume an attacker with $60 million dollars. Such an attacker could deny the Bitcoin blockchain service for 16 years unless the miners increased fees or capacity. Even if fees were raised to $15 per transaction, the attacker could still keep the network flooded for 16 days.
+Dacă ne gândim la cazuri extreme și presupunem că atacatorul deține 1% din toate monedele, atunci acesta ar avea peste 60$ milioane de dolari. Un astfel de atacator ar putea avea un impact negativ asupra blockchain-ul Bitcoin pentru 16 ani, dacă minerii nu ar crește comisioanele sau capacitatea. Chiar dacă comisioanele ar crește la 15$ pe tranzacție, atacatorul tot ar putea să țintă rețeaua încărcată pentru 16 zile.
 
-Under the rate limiting approach, someone who holds 1% of all coins with an intent to flood the network would achieve their goal for less than 30 seconds.
+Prin abordarea limitării ratei, cineva care deține 1% din toate mondele și care ar intenționa să inunde rețeaua, ar putea face acest lucru în mai puțin de 30 de secunde.
 
-### Renting vs. Buying vs. Time Sharing
+### Închiriere vs. Cumpărare vs. Distribuirea Timpului
 
-When someone owns a house they expect the right to use the house for free. If a group of people buy a house together then each can expect the right to use the house proportional to their percentage ownership in the house. A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
+Atunci când cineva deține o casă, se așteaptă să aibe dreptul să folosească casa după bunul plac. Dacă un grup de oameni cumpără o casă împreună, atunci fiecare se așteaptă să o folosească proporțional cu procentul din casa care le aparține. Un blockchain cu comisioane este ca închirierea unei case, unde limitarea ratei este ca distribuirea timpului între proprietari.
 
-If a house is owned by multiple people then those individuals must decide how they wish to timeshare the house. Someone who owns 50% of the house but only uses it one weekend per year might expect to be paid by the individuals who take their unused time. This is the mindset of a fee based system.
+Dacă casa este deținută de mai multe persoane, atunci ei vor trebui să decidă cum să distribuie timpul în care stau în casă. Cineva care deține 50% din casă, dar o folosește doar un weekend pe an, se așteaptă să fie plătit de ceilalți membri care locuiesc acolo. Acesta este metalitatea unui sistem bazat pe comisioane.
 
-On the other hand, someone who owns 50% of the house is speculating that demand for the house will increase in the future and they will be able to sell their stake for more. Any owner who owns more of a house than they use becomes a real estate speculator. With this mindset rather than collecting rent, they collect appreciation.
+Pe de altă parte, cineva care deține 50% din casă speculează că cererea pentru casă o să crească în viitor și o să-și poată vinde partea sa, pentru mai mult. Orice proprietar al unei casei, care deține mai mult decât folosește, devine speculant imobiliar. Cu această mentalitate, mai degrabă strâng apreciere, în loc de chirie.
 
-The value of a share is derived from how much time it can potentially grant its owner. Owning 1% of a house and getting it 1 weekend per year is the lowest value of a share. However, if half of the shareholders never use their weekend, then the value per timeshare rises to 2 weekends per year. If those inactive users instead opt to rent their unused time, then it falls back to 1 weekend per year. If those unused timeshares were sold to people who would use them then the value of a timeshare would fall by 50%. Unless the rent collected is greater than the fall in share value the timeshare owners are making an economic miscalculation.
+Valoarea unei părți este dată de cât de mult timp are acces proprietarul la partea sa. Cea mai mică valoare a unei părți este deținerea a 1% din casă și locuirea în casă un weekend pe an. Însă, dacă jumătate din acționari nu folosesc niciodată weekend-ul, atunci valoarea acțiunii se ridică la 2 weekend-uri pe an. Dacă utilizatorii inactiv aleg să își închirieze timpul nefolosit, atunci valoarea scade la 1 weekend pe an. Dacă acțiunile nefolosite ar fi vândute unor oameni care le-ar folosi, atunci valoarea lor o să scadă cu 50%. În cazul în care chiria este mai mare decât scăderea valorii pentru timpul închiriat, atunci proprietarii o să facă un calcul economic greșit.
 
-Using this rationale we can assume that a system based on fees will either be more expensive for its users or be less profitable for its collective owners. An individual small owner may profit by renting out his small time slice, but only at the expense of all other timeshare owners. In effect, the cost of the falling timeshare value is shared among all owners whereas the profits are centralized in the single owner who decided to rent his share.
+Folosind acest raționament, putem presupune că un sistem bazat pe comisioane, o să fie mai scump pentru utilizatori sau mai puțin profitabil pentru proprietarii colectivi. Un proprietar poate profita din închirierea timpului, dar doar pe seama celorlalți proprietari. Costul valorii care se încadrează în folosința pe durată limitată este distribuită tuturor proprietarilor, în schimb, profiturile sunt centralizate singurului proprietar care și-a închiriat partea.
 
-We can conclude from this that a blockchain is best served by not using usage fees at all. If a usage fee were to be charged as an alternative to rate limiting, then it should be the equivalent of buying enough timeshares and committing to hold them long enough to gain the right use it once.
+Putem concluziona că un blockchain este servit cel mai bine prin nefolosirea comisioanelor de utilizare. Dacă o taxă de utilizare ar fi percepută ca o alternativa la limitarea ratei, ar trebui să fie echivalentul a cumărărării a suficiente acțiuni și păstrarea lor, suficient timp pentru a obține dreptul de a le folosi o dată.
 
-Stated another way, a transaction fee should be equal to the minimum account balance necessary to transact once per week and it should be refunded at the end of the week. Assume the minimum account balance is $1 and allows someone to transact once per week. If someone with a $1 balance that wishes to perform 5 transactions at once they will have to increase their balance to $5 for a week either before or after their transactions.
+Un comision de tranzacție ar trebui să fie egal cu soldul minim necesar pentru a tranzacționa o dată pe săptămână și ar trebui rambursat la finalul săptămâni. Să presupunem să soldul minim este 1$ și permite tranzacționare o dată pe săptămână. Dacă cineva cu soldul de 1$ dorește să facă 5 tranzacții, trebuie să își crească soldul la 5$ pe săptămână, fie înainte sau după tranzacții.
 
-In theory a market could form where users can borrow the stake required. In practice it is more efficient for users to simply buy and sell the timeshares necessary to meet their desired usage rate. In other words, the cost of negotiating micro-loans is greater than the cost of maintaining a balance suitable for your maximum weekly usage.
+În teorie, o piață se poate forma acolo unde utilizatorii își pot împrumuta acțiunile. În practică este mai eficient pentru utilizatori să cumpere și să vândă singuri acțiuni pentru a atinge rata de utilizare dorită. Cu alte cuvinte, costul negocierilor micro-creditelor este mai mare decât costul menținerii unui sold adecvat pentru utilizarea maximă săptămânală.
 
-Decentralized rate limiting of transactions can enable new types of decentralized applications that were not viable when every use of the application required a micropayment. This new model gives application developers the ability to decide if and when to charge their users for transactions.
+Limitarea ratei tranzacțiilor descentralizate, pot activa noi tipuri de aplicații descentralizate care nu sunt viabile atunci când orice folosire a aplicației necesită micoplăți. Acest model nou oferă programatorilor de aplicații, posibilitatea de a decide dacă și când să perceapă comisioane pentru tranzacții.
 
-# Performance and Scalability
+# Performanța și Scalabilitatea
 
-The Steem network is built upon Graphene, the same technology that powers BitShares. Graphene has been publicly demonstrated sustaining over 1000 transactions per second on a distributed test network. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
+Rețeaua Steem este construită pe Graphene, aceași tehnologie pe care este construit BitShares. Graphene a fost demonstrat public că poate susține peste 1000 tranzacții pe secundă, pe o rețea test distribuită. Graphene poate scala cu ușurință peste 10000 de tranzacții pe secundă, cu îmbunătățiri a capacității server-ului și protocoale de comunicare.
 
-## Reddit Scale
+## Scară Reddit
 
-Steem is capable of handling a larger userbase than Reddit. In 2015 Reddit’s 8.7 million users generated an average of 23 comments per second[^12], with an average of 83 comments per year per user. There were 73 million top-level posts, for an average of 2 new posts per second. There were about 7 billion up votes creating an average voting rate of 220 votes per second. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
+Steem este capabil să susțină și să manipuleze o bază de date mai mare decât Reddit. În 2015, 8.7 milioane de utilizatori Reddit au generat în medie, 23 de comentarii pe secundă[^12], cu o medie de 83 de comentarii pe an, per utilizator. Au fost 73 de milioane de postări de top, cu o medie de 2 postări noi, pe secundă. Au fost, aproximativ, 7 miliarde de voturi pozitive, cu o rată de votare de 220 voturi, pe secundă. Astfel, dacă Reddit ar opera pe blockchain, ar avea nevoie, în medie, de 250 de tranzacții pe secundă.
 
-To achieve this industry-leading performance, Steem has borrowed lessons learned from the LMAX Exchange[^13], which is able to process 6 million transactions per second. Among these lessons are the following key points:
+Pentru a atinge această performanță de vârf, Steem trebuie să împrumute lecții învățate de la LMAX Exchange[^13], care pot procesa 6 milioane de tranzacții pe secundă. Printre aceste lecții avem următoarele puncte cheie:
 
-1. Keep everything in memory.
-2. Keep the core business logic in a single thread.
-3. Keep cryptographic operations (hashes and signatures) out of the core business logic.
-4. Divide validation into state-dependent and state-independent checks.
-5. Use an object oriented data model.
+1. Păstrează totul în memorie.
+2. Păstrează logica de bază a afacerii într-un singur fir.
+3. Păstrează operațiuni criptografice (hash-uri și semnături) afară din logica de bază a afacerii.
+4. Împarte validarea în verificări de tip stat-dependente și stat-independente.
+5. Folosește un model de date orientat către obiect.
 
-By following these simple rules, Steem is able to process 10,000 transactions per second without any significant effort devoted to optimization.
+Prin urmarea acestor reguli simple, Steem este capabil să proceseze 10 000 de tranzacții pe secundă, fără a face un efort prea mare în ceea ce privește optimizarea.
 
-Keeping everything in memory is increasingly viable given the recent introduction of Optane™ technology from Intel[^14]. It should be possible for commodity hardware to handle all of the business logic associated with Steem in a single thread with all posts kept in memory for rapid indexing. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optane™ technology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
+Datorită introducerii tehnologiei Optane™ de la Intell[^14], păstrarea totului în memorie devine din ce în ce mai viabilă. Ar putea fi posibil pentru un hardware obișnuit să suporte toată logică asociată cu Steem, într-un singur fir cu toate postările păstrate în memorie pentru indexare rapidă. Chiar și Google păstrează indexul întregului internet în RAM. Pentru a preveni pierderea datelor, utilizarea tehnologiei blockchain face ușoară replicarea bazei de date a multor mașinii. Așa cum tehnologia Optane™ preia controlul, RAM o să devină și mai rapidă, în timp ce câștigă persistență. Cu alte cuvinte, Steem este proiectat pentru arhitectura viitorului și conceput pentru a scala.
 
-# Allocation & Supply
+# Alocare & Stoc
 
-## Initial Allocation & Supply
+## Alocare inițială & Stoc
 
-The Steem network started with a currency supply of 0 and allocated STEEM via proof of work at a rate of approximately 40 STEEM per minute to miners, with an additional 40 STEEM per minute being created to seed the content and curation reward pools (for a total of 80 STEEM per minute). Then the network started rewarding users who converted to SP. At this point, STEEM grew at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
+Rețeaua Steem a început cu un stoc 0 și a alocat STEEM pentru dovada de muncă, cu o rată de aproximativ 40 STEEM pe minut, minerilor iar 40 STEEM pe minut, fiind creați pentru a fi distribuiți pentru conținut și pentru cei care susțin conținutul prin vot (curation) (80 STEEM pe minut). Apoi rețeaua a început să răsplătească utilizatorii care au convertit în SP. În acest moment, STEEM a crescut cu aproximativ 800 STEEM pe minut, datorită combinării diferitelor Recompense ale Contribuțiilor, rezumate mai jos:
 
-Contribution Rewards:
+Recompense Contribuție:
 
-- Curation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
-- Content Creation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
-- Block production rewards: 1 STEEM per block or 0.750% per year, whichever is greater
-- POW inclusion rewards before block 864,000: 1 STEEM per block (awarded as 21 STEEM per round)
-- POW inclusion rewards after block 864,000: 0.0476 STEEM per block (awarded as 1 STEEM per round) or 0.750% per year, whichever is greater.
-- Liquidity rewards: 1 STEEM per block (awarded as 1200 STEEM per hour) or 0.750% per year, whichever is greater
+- Recompense curation: 1 STEEM per block sau 3.875% pe an, oricare este mai mare
+- Recompense pentru Crearea Conținutului: 1 STEEM per block sau 3.875% pe an, oricare este mai mare
+- Recompense pentru Producția block-urilor: 1 STEEM per block sau 0.750% pe an, oricare este mai mare
+- Condiții de includere a POW înainte de blocul 864,000: 1 STEEM per block (acordat ca 21 STEEM pe fiecare rundă)
+- Condiții de includere a POW după blocul 864,000: 0.0476 STEEM per bloc (acordat ca 1 STEEM pe rundă) sau 0.750% pe an, oricare este mai mare.
+- Recompense lichiditate: 1 STEEM per block (acordate ca 1200 STEEM pe oră) sau 0.750% pe an, oricare este mai mare
 
-### Power Rewards:
+### Recompense Putere:
 
-- Steem Power rewards: For each STEEM created by the above rewards, 9 STEEM are divided among all Steem Power holders.
+- Recompese Putere Steem: Pentru fiecare STEEM creat prin recompensele de mai sus, 9 STEEM sunt împărțiți printre deținătorii de Putere Steem.
 
-### SBD operations:
+### Operațiuni SBD:
 
-- SBD rewards: A percentage of SBD value is created at an APR set by the witnesses and paid to SBD holders as SBD
+- Recompense SBD: Un procentaj din valoarea SBD este creat la o dobândă anuală APR, setat de către martori și plătit către deținătorii de SBD
 
-The overall supply picture is complicated by the effect of SBD operations, which may result in large-scale creation or destruction of STEEM through feed rate following and SBD rewards, as discussed in the SBD section. Other, smaller-scale complicating effects also exist, including unclaimed incentives (e.g. block rewards for missed blocks), and abandoned accounts.
+Stocul general este complicat de către efectul operațiunilor SBD, care ar putea duce la crearea sau distrugerea la scară mare de STEEM prin flux și recompense SBD, cum a fost discutat în secțiunea SBD. Există și alte efecte complicate la scară mai mică, inclusiv stimulente nerevendicate (de exemplu, recompense bloc pentru blocuri ratate) și conturi abandonate.
 
-## Current Allocation & Supply
+## Alocare inițială & Stoc
 
-Starting with the network's 16th hard fork in December 2016, Steem began creating new tokens at a yearly inflation rate of 9.5%. The inflation rate decreases at a rate of 0.01% every 250,000 blocks, or about 0.5% per year. The inflation will continue decreasing at this pace until the overall inflation rate reaches 0.95%. This will take about 20.5 years from the time hard fork 16 went into effect.
+Începând cu al 16-lea hard fork al rețelei din Decembrie 2016, Steem a început crearea de tokeni noi cu o inflație anuală de 9.5%. Rata inflației scade cu o rată de 0.01% la fiecare 250 000 de block-uri, sau aproximativ 0.5% pe an. Inflația o să continue să scadă în acest ritm, până când rata inflației generale ajunge la 0.95%. O să dureze aproximativ 20.5 ani, începând cu al 16-lea hard fork.
 
-75% of the new tokens that are generated go to fund the reward pool, which is split between authors and curators. 15% of the new tokens are awarded to holders of SP. The remaining 10% pays for the witnesses to power the blockchain.
+75% din tokeni noi creați, merg către bazinul de recompense, care este împărțit între autori și cei care susțin conținutul prin vot (curators). 15% din tokeni noi sunt distribuiți către deținătorii de SP. 10% sunt plătiți martorilor pentru a menține blockchain-ul.
 
-### Impact of Token Creation Rate
+### Impactul Ratei de Creare a Token-ilor
 
-It is often said that a coin with an inflationary model is not sustainable, but we know from countless real-world examples that the quantity of money does not have a direct and immediate impact on its value, though it certainly plays a role.
+Se spune adesea că o monedă cu un model de inflație nu este sustenabilă. Însă, avem în lumea-reală nenumărate exemple unde cantitatea banilor nu are un impact direct și imediat asupra valorii, deși joacă un anumit rol.
 
-From August 2008 through January 2009 the U.S. money supply[^15] grew from $871B to $1,737B, a rate of over 100% per year and then continued to grow at about 20% per year for the next 6 years. All told the money supply in the U.S. has grown by 4.59x over less than 7 years. During that same time, the value of the dollar relative to goods and services has fallen less than 10% according to the government's price index[^16]. This real-world example demonstrates that supply is only one component of price.
+Din August 2008 până în Ianuarie 2009, stocul monetar american [^15] a crescut de la $871 miliarde la $1,737 miliarde, având o rată de 100% pe an și a continuat să crească cu aproximativ 20% pe an, în următorii 6 ani. Per total, stocul monetar din Statele Unite a crescut de 4.59 ori în mai puțin de 7 ani. În aceași perioadă, valoarea dolarului raportată la bunuri și servicii a scăzut cu 10%, după indexul prețurilor de la guvern [^16]. Acest exemplu din lumea reală, demonsetrază faptul că stocul este doar una dintre componentele prețului.
 
-For the first 2 years of Bitcoin’s life the network sustained an annual inflation rate[^17] of over 100%. For the first 5 years it was over 30%, and for the first 8 years it was over 10%. All told the total “spending” Steem does to fund content, curation, and block production amounts to less than 10% APR.
+Pentru primii 2 ani din viața Bitcoin, rețeaua a a avut o inflație anuală de [^17] de peste 100%. Pentru primii 5 ani a fost peste 30%, iar pentru primii 8 ani a fost peste 10%. Per total, Steem-ul “cheltuit” se duce către finanțarea conținutului, către cei care susțin conținutul prin vot și către producția block-urilor, fiind mai puțin de 10% din APR.
 
-The price of a digital commodity, like STEEM, is driven by both supply and demand. When a long-term holder decides to exit, the supply of STEEM on the market will increase and push the price down. This downward pressure is countered when a new long-term holder decides to buy up the STEEM and convert it back into SP. Additional supply and demand may be be added due to market speculators buying and selling liquid STEEM based on their predictions of the future market price.
+Prețul unui produs digital, precum STEEM, este bazat atât pe cerere cât și pe ofertă. Atunci când un deținător pe termen lung dorește să iasă, stocul de STEEM de pe piață o să crească, iar prețul o să scadă. Această presiune o să fie balansată aunci când un nou deținător pe termen lung se va decide să cumpere STEEM și să îl convertescă în putere steem SP. Se poate adăuga o cerere și o ofertă suplimentară datorită faptului că există pe piață, speculatori care vor cumpăra și vinde STEEM pe baza previziunilor privind prețul de piață viitor.
 
-# The Power of Steem
+# Puterea Steem-ului
 
-Steem recognizes that the value of all user contributions (posts and votes) is greater than the sum of the parts. A single comment is worth next to nothing, but millions of curated posts is worth many millions (or possibly even billions) of dollars. A single vote provides little curation value, but billions of votes is very effective curation. Content without curation is of limited value. Given all the content of the Internet minus the links between it, Google would struggle to produce useful search results. It is the links between information that give it significant value.
+Steem recunoaște faptul că valoarea tuturor contribuțiilor utilizatorilor (postări și voturi) este mai mare decât suma părților. Un singur comentariu valorează aproape nimic, dar milioane de posturi votate, valorează foarte multe milioane (sau chiar miliarde) de dolari. Un singur vot oferă o valoare mică celor care susțin conținutul prin vot, însă miliarde de voturi sunt foarte valoroase. Conținutul fără votare are o valoare limitată. Având în vedere tot conținutul internetului mai puțin legăturile dintre acestea, motorului de căutare Google i-ar fi foarte greu să găsescă rezultate folositoare. Valoarea este dată de legăturile dintre informații.
 
-Because everyone benefits, everyone should pay. In other words, no individual user should be expected to pay for anything, but instead should be paid for everything they do that brings value to Steem. All we need to do is ascertain which user contributions bring a social network value and which ones don’t.
+Deoarece toată lumea beneficiează, toată lumea ar trebui să plătească. Cu alte cuvinte, nici un utilizator individual nu ar trebui să plătească pentru nimic, însă, ar trebui să fie plătiți atunci când aduc valoare platformei Steem. Tot ceea ce trebuie să facem, este să decidem ce contribuții aduc valoare rețelei de socializare și care nu aduc valoare.
 
-Collectively Reddit users vote 220 times per second and make 23 posts per second. Reddit is valued between $500 million[^18] and $4 billion[^19] which means that each and every upvote and post is worth between $0.06 and $0.50 assuming the value of Reddit is mostly within the past year’s worth of activity. One could argue that most of the value of Reddit is the near-real-time discussions that have occurred within the past week which would dramatically increase the value of new activity. People go where people are today, not where people were last year.
+În mod colectiv, utilizatorii Reddit, votează de 220 ori pe secundă, cu aproximativ 23 de postări pe secundă. Valoarea platformei Reddit este între 500$ milioane [^18] și 4$ miliarde [^19], astfel, dacă presupunem că valoarea platformei vine din activitatea din ultimul an, fiecare vot pozitiv și postare, valorează între 0.06$ și 0.50$. S-ar putea argumenta că cea mai marte parte din valoare Reddit este dată dată de discuțiile care au apărut în ultima săptămână și care ar crește drastic valoare noii activității. Oamenii merg acolo unde merg alții, în prezent și nu unde erau anul trecut.
 
-## No Micropayments, Tips Optional
+## Fără Microplăți, Bacșișuri Opțional
 
-Existing attempts at integrating a cryptocurrency into a social media platform have focused on enabling users to pay one another. Many services have attempted to introduce tipping. The theory is that if we make tipping simple enough then more people will do it. Other services attempt to get people to pay to promote or boost their content’s ranking. Still others attempt to build small prediction markets on how many tips an article will receive.
+Au existat tentative de a integra o cripto monedă într-o rețea media de socializare, unde utilizatorii să se plătească între ei. Mai multe servicii au încercat să introducă bacșișurile. În teorie, dacă am face oferirea de bacșișurilor ușoară, atunci mai mulți oameni ar face asta. Alte servicii au încercat să facă utilizatorii să promoveze conținutul lor. Însă unuii încearcă să construiască o piață cu predicții referitoare la cât o să primească un articol.
 
-All of these approaches boil down to micropayments. They differ only in who is making the payment. They all suffer from insufficient engagement of people making the micropayments. In the search for incentivised content production entrepreneurs have been so focused on who should pay that they missed the obvious reality: everyone benefits from everyone’s actions so everyone should pay or no one should pay, depending on how you look at it.
+Toate aceste abordări se reduc la microplăți. Diferă doar cel care face plata. Toate aceste servicii suferă de angajamentul insuficient al oamenilor care efectuează microplățile. În căutarea unei producții de conținut stimulant, întreprinzătorii s-au orientat atât de mult asupra a cât ar trebui cineva să plătească, și nu au luat în vedere ceea ce era evident: toată lumea beneficiază de acțiunile tuturor, astfel încât toată lumea ar trebui să plătească sau nimeni să nu plătească, în funcție de cum ne uităm la această problemă.
 
-Steem bypasses micropayments completely because when a user upvotes a post it is the community that pays the bill. The same amount of money will be spent whether the user upvotes a post or not and the funds will not come from the voter.
+Steem ocolește microplățile deoacere atunci când un utilizator votează o postare, comunitatea este cea care plătește factura. Aceași sumă de bani o să fie cheltuită atunci când un utilizator votează sau nu o postare, și fondurile nu o să vină de la cel care votează.
 
-The mental energy associated with making an economic decision becomes a barrier to participation for most people.
+Energia mentală consumată asociată luării unei decizii economice, devine un impediment pentru majoritatea oamenilor.
 
-*We already face a multitude of choices everyday with regards to what to access online in this digital era of the information explosion, and every additional decision that we must make simply adds on to the uncertainty and anxiety we face. Micropayment supporters believe that a simplified implementation can minimize the intrusiveness of micropayments and improve user experience, but their argument only creates double standards for the decision making process \[2\]. A transaction cannot simultaneously be worth enough to warrant a decision and worth so little that the decision is automatic. **The only transactions that users can approve without thought are ones that cost them nothing**, thus any micro-transaction of positive value will incur mental costs through its requiring a decision. Furthermore, mental transaction costs actually rise below a certain threshold value, a phenomenon that places micropayments at an even greater disadvantage. For instance, it is easy to think that a copy of today's newspapers costs $1, but readers face much more difficulty and anxiety in deciding on the value of each article or word. Such a dilemma will only be replicated and exacerbated if all online content were to be broken down into their components and individually valued within a micropayment system.*
+*Deja ne confruntăm cu o multitudine de decizii zilnic, în ceea ce privește accesul online în era digitală a exploziei informației și fiecare decizie suplimentară pe care trebuie să o luăm, ne aduce o nouă anxietate. Susținătorii microplăților cred ca o implementare simplă, poate minimiza intruziunea microplăților și îmbunătății experiența utilizatorilor, însă argumentul lor creează doar standarde pentru procesul de luare a deciziilor \[2\]. O tranzacție nu poate în același timp să valoreze suficient să garanteze o decizie, și atât de puțin încât decizia să fie automată. **Singurele tranzacții pe care utilizatorii le pot aproba imediat, sunt cele care nu costă nimic**, astfel orice micro-tranzacție cu o valoare pozitivă, o să necesite un cost mental în luarea unei decizii. Mai mult, costul tranzacțiilor mentale crește peste valoarea de prag, fenomen care le aduce microplățile încă un dezavantaj. De exemplu, este ușor să ne gândim că un ziar costă 1$, însă cititorilor o să li se pară mult mai dificil să decidă cât valorează un articol sau un cuvânt. O astfel de dilemă o să fie replicată doar dacă tot conținutul online o să fie împărțit și evaluat individual printr-un sistem de microplăți.*
 
--Micropayments: A Viable Business Model[^20]
+-Microplăți: Un Model Viabil de Afaceri[^20]
 
-Under Steem, micropayments are paid to content producer, but those who vote for the content do not pay. Instead, the cost of the reward is paid for via new tokens. Someone can join the system, vote to pay someone, and then exit the system with more money than they started with (assuming the market valuation of the Steem system remained constant). In other words, the micropayment solution provided by Steem provides a user-experience similar to many widely used websites that have user-moderated content.
+Pe platforma Steem, microplăți sunt plătite producătorului de conținut, însă cei care votează conținutul, nu plătesc. Însă, costul recompensei este plătit prin tokeni noi. Cineva se poate alătura sistemului, votează să plătească pe cineva și apoi iese din sistem cu mai mulți bani decât a început (presupunând că evaluarea de piață a sistemului Steem a rămas constantă). Cu alte cuvinte, soluția microplăților oferită de Steem le dă utilizatorilor o experiență similară folosită de multe site-uri care au conținut moderat de utilizator.
 
-Furthemore, Steem pays people to figure out who should be paid! This kind of thinking is revolutionary.
+Mai mult, Steem plătește oamenii care își dau seama cine ar trebui plătit! Acest tip de gândire este revoluționar.
 
-## Value is in the Links
+## Valoare este în Legături
 
-The Internet would lose the vast majority of its value if all links among content were removed. It is the relationship among web pages that allows Google to identify the best apple pie recipe among the 16 million results. Without the links the only information Google would have is word frequency.
+Internetul și-ar pierde mult din valoare, dacă toate legăturile conținutului ar fi înlăturate. Relația dintre paginile web, îi permite motorului de căutare Google să identifice printre cele 16 milioane de rezultate, cea mai bună rețetă de plăcintă cu mere. Fără legături, singura informație pe care ar avea-o Google, ar fi fecvența cuvintelor.
 
-Links can take many forms and have adapted over time. Every time a user votes on content in a social network they add a connection between themselves and the content. This in turn links the consumer to the producer through the content. The more connections a network has the more valuable the information becomes. It is the relative and intentional connectedness of information that gives it value.
+Legăturile pot avea multe forme, iar în timp, s-au adaptat. De fiecare dată când utilizator votează conținut într-o rețea de socializare, ei fac o conexiune între ei și conținutul respectiv. Astfel, prin intermediul conținutului, se face o legătură între consumator și producător. Cu cât o rețea are mai multe conexiuni, cu atât devine mai valoroasă informația. Conexiunea relativă și intenționată a informației, este ceea ce îi dă valoarea.
 
-A social network can maximize the value extracted from a set of content by maximizing the quantity and quality of connections. Curating content is expensive and time consuming while being near impossible for computers to perform in the absence of links. Steem rewards users who are among the first to find and identify new content.
+O rețea de socializare își poate maximiza valoarea extrasă dintr-un conținut, prin maximizarea cantității și calității conexiunilor. Votarea conținutului este scumpă și consumatoare de timp, fiind aproape imposibil de efectuat de către calculatoare, în absența legăturilor. Steem răsplătește utilizatorii care descoperă printre primii conținut nou.
 
-By incentivising curation the Steem network is able to use automated algorithms to extract the most valuable information from a massive amount of content.
+Stimulând votarea, rețeaua Steem este capabilă să folosească algoritmi automați pentru a extrage cea mai valoroasă informație dintr-o cantitate masivă de conținut.
 
-## Solving the Cryptocurrency Onboarding Problem
+## Rezolvarea Problemelor legate de Cripto Valute
 
-It isn’t easy to get into cryptocurrency[^21]. Someone who discovers Bitcoin and wants to try it out quickly learns that they will need to sign up with an exchange and fund their account with a credit card or wire transfer. What would Facebook’s adoption rate have been like if you had to fork over money and a two forms of ID?
+Nu este ușor să intri în lumea cripto monedelor [^21]. Cineva care descoperă Bitcoin și vrea să încerce repede să cumpere, va vedea că va avea nevoie să se înregistreze pe site-ul unui schimb valutar și să își trimită bani pe contul respectiv. Cum ar fi fost rata de înregistrare pe Facebook dacă trebuia să trimiteți bani și să aveți două tipuri de acte de identitate?
 
-Steem solves this problem by giving everyone a way to get paid for doing simple, but valuable, tasks. This will help to widely distribute STEEM tokens. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless.)
+Steem rezolvă această problemă, dându-le tuturor o modalitate de a fi plătiți pentru sarcini simple, dar valoroase. Acest lucru va face posibilă distribuirea token-ilor Steem. Acest lucru este folositor deoarece cripto valutele au un efect de rețea (ex. cu cât mai mulți utilizatori, cu atât sunt mai valoroase; un exemplu extrem, gândiți-vă că Satoshi ar fi păstrat 100% Bitcoin pentru el, acesta ar fi lipsit de valoare.)
 
-## Solving the Cryptocurrency Liquidation Problem
+## Rezolvarea Problemei de Lichidare a Cripto Valutelor
 
-A currency that is difficult to use or impossible to sell has little value. Someone who comes across $1.00 worth of Bitcoin will discover that it costs more than $1.00 to sell that Bitcoin. They have to create an account with an exchange, perform KYC validation, and pay fees. Small amounts of cryptocurrency are like small change that people are unwilling to bend over to pick up.
+O monedă care este greu sau imposibil de vândut, are o valoare mică. Cineva care are Bitcoin în valoare de $1.00, va descoperi că este mai scump să vinzi acel Bitcoin. Trebuie să își creeze un cont pe un schimb valutar, să efectueze validare KYC și să plătească comisioane. Sume mici de cripto monede sunt ca mărunțișul după care nu se apleacă oamenii.
 
-Merchants give users a way to quickly convert their cryptocurrency into tangible goods and services. Merchants need a currency pegged to their unit of account, normally dollars. Accepting a volatile currency introduces significant accounting overhead.
+Comercianții oferă utilizatorilor o modalitate de a converti rapid cripto mondele în bunuri și servicii tangibile. Comercianții au nevoie de o monedă raportată de obicei la dolari. Acceptarea unei monede volatile introduce cheltuilei contabile semnificative.
 
-Merchants will accept any currency if it increases their sales. Having a large user base with a stable currency such as SBD lowers the barrier to entry for merchants. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
+Comercianții o să accepte orice monedă dacă va duce la creșterea vânzărilor lor. Având mulți utilizatori cu o monedă stabilă ca SBD, scade barierele de intrare pentru comercianți. Prezența comercianțiilor îmbunătățește sistemul creând o rampă pentru utilizatori de a ieși din sistem, fără a folosi un schimb valutar.
 
-Another way that people can liquidate the small amounts of cryptocurrency they receive from participating on the Steem platform is through *tipping* others. This is like leaving the small change as a tip for your waiter. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
+O altă modalitate prin care oamenii pot să își retragă sume mici din cripto monede, pe care le primes prin intermediul platformei Steem, este prin oferirea de*bacșișuri* celorlalți. Este ca lăsarea unui bacșiș ospătarului. Atunci când suficiente persoane lasă bacșis, acesta se adună într-o sumă semnificativă. Atât tu cât și ospătarul, beneficiați de pe urma bacșișului.
 
-## Censorship
+## Cenzura
 
-Steem is a decentralized network that is operated by witnesses in jurisdictions around the world. All user actions are publicly recorded on the blockchain, and can be publicly verified. This means that there is no single entity that can censor content that is valued by STEEM holders.
+Steem este o rețea descentralizată, care este operată de martori din toată lumea. Toate acțiunile utilizatorilor sunt înregistrate public pe blockchain, și tot pot fi verificate public. Acest lucru însemnă că nu există nici o singură entitate care poate cenzura conținutul prețuit de către deținători de STEEM.
 
-Individual websites such as steemit.com may censor content on their particular site, but content published on the blockchain is inherently broadcast traffic and mirrors all around the world may continue to make it available.
+Website-uri individuale, precum steemit.com pot cenzura conținutul în mod particular, dar conținutul publicat pe blockchain este, în mod inerent, difuzat și reflectat, pe site-urile care continuă să îl facă disponibil.
 
-Freedom of speech is the foundation of all other liberties and any infringement upon freedom of speech undermines the only peaceful means of reaching consensus: discussion. Without free discussion voters cannot be fully informed, and uninformed voters are a greater threat to society than losing the right to vote. Censorship is a means of stealing votes through limiting public discourse. Steem is committed to enabling free speech and building a free society.
+Libertatea de exprimare este fundația tuturor libertățiilor și orice încălcare a libertății de exprimare, subminează singurele mijloace pașnice de a ajunge la un consens: discuția. Fără discuții libere, cei care voteză nu pot fi informați pe deplin, iar persoanele care votează și nu sunt informate, reprezintă un pericol mai mare pentru societate decât ar reprezenta dacă și-ar pierde drepturile de votare. Cenzura este o metoda de a fura voturi prin limitarea discursului public. Steem dorește să permită libertatea de exprimare și construirea unei societăți libere.
 
-## Solving Organic Discovery via Search Engine Optimization
+## Rezolvarea Descoperirii Organice prin Optimizarea Motorului de Căutare
 
-Most cryptocurrencies generate little value for those who are not actively using the network. Steem, by contrast, generates content and encourages users to share it. This content gets indexed by search engines and ultimately will bring value to a large number of passive users. This search traffic creates organic advertising for the Steem network and grows the network effect.
+Majoritatea cripto mondelor generează o valoare scazuta pentru cei care nu folosesc activ rețeaua. În contrast, Steem generează conținut și încurajează utilizatorii să îl distribuie. Acest conținut este indexat de către motoarele de căutare și o să aducă valore unui număr masiv de utilizatori pasivi. Acest trafic de căutare creează publicitate organică pentru rețeaua Steem și duce la creșterea ei.
 
-## Shifting Toward Blockchain-based Attribution
+## Trecerea către Atribuirea bazată pe Blockchain
 
-The internet represents the easiest medium for distributing information in the world. With that said, it can be a frightening place for content creators who would like to own their content and have it shared with proper attribution. On current social media platforms, attribution is something that can be lost overnight - a posted video or image can be replicated and re-shared without consent or regard for the creator.
+Internetul reprezintă mediul cel mai ușor de distribuire a informației în lume. Acestea fiind spuse, poate fi un loc înfricoșător pentru creatorii de conținut, care ar dori drepturi de proprietate asupra conținutului și o modalitate corespunzătoare de atribuire. Pe platformele media de socializare actuale, atribuirea este ceva ce poate fi pierdut peste noapte - un video sau o imagine pot fi replicate și distribuite fără consimțământul autorului.
 
-Under blockchain-based social media, a creator or author would always be able to point to a public record and timestamp showing proof of their content origination. In a circumstance where a creator would like to address those who have re-shared without permission or attribution, blockchain-based records provide public proof that the content was posted by a particular user at a particular time. In the future, blockchain-based attribution could come to be recognized by governments for its authenticity and could hold weight in court, which would give content creators greater powers to control their work.
+Pe o rețea bazată pe blockchain, un autor o să poată întotdeauna să arate către o înregistrare publică care face dovada originii conținutului. Într-o situație unde un autor ar vrea să se adreseze celor care au redistribuit fără permisie, înregistrările publice de pe blockchain demonstrează de către cine și unde a fost publicat conținutul. În viitor, atribuirile bazate pe blockchain ar putea fi recunoscute de către guvern pentru autenticitatea lor și ar putea fi valoroase în justiție, acest lucru oferindu-le putere și control asupra muncii lor, autorilor conținutului.
 
-While a timestamping service can be built on almost any blockchain, and several efforts exist to build this kind of service on the Bitcoin network, Steem has a useful advantage in this realm because content publishers are “first class citizens” -- the Steem blockchain is built from the ground up around the use case of content publication, which allows content creators to have the blockchain to validate their content at a certain point in time simply by writing their post using the same authoring tools used by other Steem users.
+În timp ce un serviciu de ținere a evidenței (timestamp) poate fi construit pe orice blockchain, existând eforturi care încearcă să construiască acest serviciu pe rețeaua Bitcoin, Steem are un avantaj deoarce cei care publică conținut sunt “cetățeni de primă clasă“ -- blockchain-ul Steem este construit în jurul publicării conținutului, care le permite autorilor să valideze conținutul prin blockchain, prin folosirea de instrumente la fel ca ceilalți utilizatori Steem.
 
-## Replacing Advertising with Blockchain-based Content Rewards
+## Înlocuirea Publicității cu Recompense ale Conținutului bazat pe Blockchain
 
-Under most content monetization models, content creators leverage advertising in one form or another. Many creators recognize how advertising may diminish their work’s value to the consumer, yet creators very often must seek returns on their time by monetizing. Advertising represents a double-edged sword: With ads, a creator can make money most easily. Without ads, monetization is difficult but the content is richer.
+În cele mai multe modele de monetizare a conținutului, creatorii de conținut folosesc într-o formă sau alta, publicitatea. Mulți autori realizează că reclamele le pot scădea valoarea pentru consumatori, însă aceștia caută să își valorifice timpul în bani. Publicitatea reprezintă o sabie cu două tăișuri: Prin reclame, autorul poate face cel mai ușor bani. Fără reclame, monetizarea este dificilă, însă conținutul este mai bogat.
 
-Creators posting to social media outlets that are connected to Steem may monetize merely by having their work recognized (or ”liked”) by the Steem community. Blockchain-based payouts are completely digital and have no middle-man. Therefore monetization by blockchain-based content rewards should be faster and much lower barrier to use than monetization by advertisements.
+Autorii care postează pe rețele media de socializare care sunt conectate cu Steem, își pot monetiza munca prin votarea acesteia de către comunitatea Steem. Plățile bazate pe Blockchain sunt complet digitale și nu au intermediar. Prin urmare, monetizarea prin recompensele bazate pe blockchain ar trebui să fie mai rapidă iar barierele mai ușor de trecut, decât în cazul monetizării prin publcitate.
 
-# Conclusion
+# Concluzii
 
-Steem is an experiment designed to address challenges in the cryptocurrency and social media industries by combining the best aspects from both. Steem presents earning opportunities to content creators and internet readers in ways that have not existed within the social media industry. Within Steem, individuals earn real rewards online that are directly correlated to their contributions. Those rewards may have dollar value due to the market price discovery and liquidity of Steem, and the people who hold Steem may have more exclusive earning powers than those who do not.
+Steem este un experiment conceput pentru a aborda provăcări din lumea cripro valutei și a rețelelor de socializare media, prin combinarea celor mai bune aspecte ale acestora. Steem oferă oportunități de câștig pentru cei care crează conținut și pentru utilizatorii internetului, în moduri în care nu au existat înainte, în industria rețelelor media de socializare. În cadrul platformei Steem, indivizii sunt direct recompensați online, în funție de contribuțiile lor. Acele recompense ar putea avea valoarea raportată la dolari, datorită prețului pieței și lichidității Steem, iar persoanele care dețin Steem ar putea avea câștiguri exclusive de putere, mai mult decât cei care nu au.
 
 [^1]: Reddit’s Cryptocurrency, Forbes, Erika Morphy, October 2014 http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/\#4e07b05332b9
 
