@@ -394,9 +394,9 @@ By following these simple rules, Steem is able to process 10,000 transactions pe
 
 Keeping everything in memory is increasingly viable given the recent introduction of Optane™ technology from Intel[^14]. It should be possible for commodity hardware to handle all of the business logic associated with Steem in a single thread with all posts kept in memory for rapid indexing. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optane™ technology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
 
-# Allocation & Supply
+# Ìpín & Ìpèsè
 
-## Initial Allocation & Supply
+## Ìpín & Ìpèsè Àkọ́kọ́
 
 The Steem network started with a currency supply of 0 and allocated STEEM via proof of work at a rate of approximately 40 STEEM per minute to miners, with an additional 40 STEEM per minute being created to seed the content and curation reward pools (for a total of 80 STEEM per minute). Then the network started rewarding users who converted to SP. At this point, STEEM grew at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
 
@@ -423,7 +423,7 @@ The overall supply picture is complicated by the effect of SBD operations, which
 
 Bẹ̀rẹ̀ látorí hard fork kẹrìndínlógún ti ìkànnì náà ní Oṣù kejìlá 2016, Steem bẹ̀rẹ̀ sí ní ṣẹ̀dá àwọn token tuntun ní iye ọ̀wọ́n kan tó jẹ́ 9.5% lọ́dọọdún. Iye ọ̀wọ́n náà yíò dínkù ní ìwọ̀n 0.01% ní gbogbo búlọ́ọ̀kù 250,000, tàbí 0.5% lọ́dọọdún. Ọ̀wọ́n náà yíò máa dínkù síi ní ìyára yìí títí àpapọ̀ iye ọ̀wọ́n náà yíò fi dé 0.95%. Èyí yíò gba bíi ọdún 20.5 lẹ́yìn àkókò tí hard fork 16 bẹ̀rẹ̀ iṣẹ́.
 
-75% nínú àwọn token tuntun tí a ṣẹ̀dá náà ma lọ sínú ìpèsè ẹ̀san náà, èyí tó ma jẹ́ pínpín láàrín àwọn olùdásílẹ̀ àti àwọn alábòjútó. 15% of the new tokens are awarded to holders of SP. The remaining 10% pays for the witnesses to power the blockchain.
+75% nínú àwọn token tuntun tí a ṣẹ̀dá náà ma lọ sínú ìpèsè ẹ̀san náà, èyí tó ma jẹ́ pínpín láàrín àwọn olùdásílẹ̀ àti àwọn alábòjútó. 15% nínú àwọn token tuntun náà ni a fún àwọn tó n di SP mú. 10% yòókù yíò sanwó fún àwọn ẹlẹ́rìí náà láti fún blockchain náà lágbára.
 
 ### Ipa ti Ìwọ̀n Ṣíṣẹ̀dá Token
 
