@@ -290,7 +290,7 @@ Systems like BitShares, Nxt, Ripple, Counter Party and Stellar all allow users t
 
 ### Yíyí padà àwọn Owó sísan
 
-Bí àkókò ṣe ń lọ ìkànnì kan gbọ́dọ̀ ṣàtúnṣe àwọn owó sísan. Èyí le ṣẹlẹ̀ bóyá nítorí àlékún kan ní ìwúlò token náà tàbí nítorí ìlọsókè kan nínú ìkápá. Àwọn aṣàmúlò fẹ́ràn àwọn owó sísan tó ní àsọtẹ́lẹ̀ àti iṣẹ́ tó ní ìdánilójú. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
+Bí àkókò ṣe ń lọ ìkànnì kan gbọ́dọ̀ ṣàtúnṣe àwọn owó sísan. Èyí le ṣẹlẹ̀ bóyá nítorí àlékún kan ní ìwúlò token náà tàbí nítorí ìlọsókè kan nínú ìkápá. Àwọn aṣàmúlò fẹ́ràn àwọn owó sísan tó ní àsọtẹ́lẹ̀ àti iṣẹ́ tó ní ìdánilójú. Bí ó tilẹ̀ jẹ́ pé ó ṣeé ṣe láti ṣàtúnṣe àwọn owó sísan lọ́nà tó nṣiṣẹ́ lásìkò tí lílò bá pọ̀ gan, àbájáde rẹ̀ ni ìrírí aṣàmúlò tí kò dára kan.
 
 ### Sybil Attacks
 
