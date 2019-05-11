@@ -421,7 +421,7 @@ The overall supply picture is complicated by the effect of SBD operations, which
 
 ## Ìpín & Ìpèsè Lọ́wọ́lọ́wọ́
 
-Bẹ̀rẹ̀ látorí hard fork kẹrìndínlógún ti ìkànnì náà ní Oṣù kejìlá 2016, Steem bẹ̀rẹ̀ sí ní ṣẹ̀dá àwọn token tuntun ní iye ọ̀wọ́n kan tó jẹ́ 9.5% lọ́dọọdún. Iye ọ̀wọ́n náà yíò dínkù ní ìwọ̀n 0.01% ní gbogbo búlọ́ọ̀kù 250,000, tàbí 0.5% lọ́dọọdún. The inflation will continue decreasing at this pace until the overall inflation rate reaches 0.95%. This will take about 20.5 years from the time hard fork 16 went into effect.
+Bẹ̀rẹ̀ látorí hard fork kẹrìndínlógún ti ìkànnì náà ní Oṣù kejìlá 2016, Steem bẹ̀rẹ̀ sí ní ṣẹ̀dá àwọn token tuntun ní iye ọ̀wọ́n kan tó jẹ́ 9.5% lọ́dọọdún. Iye ọ̀wọ́n náà yíò dínkù ní ìwọ̀n 0.01% ní gbogbo búlọ́ọ̀kù 250,000, tàbí 0.5% lọ́dọọdún. Ọ̀wọ́n náà yíò máa dínkù síi ní ìyára yìí títí àpapọ̀ iye ọ̀wọ́n náà yíò fi dé 0.95%. This will take about 20.5 years from the time hard fork 16 went into effect.
 
 75% of the new tokens that are generated go to fund the reward pool, which is split between authors and curators. 15% of the new tokens are awarded to holders of SP. The remaining 10% pays for the witnesses to power the blockchain.
 
