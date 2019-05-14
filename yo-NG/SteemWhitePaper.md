@@ -238,7 +238,7 @@ Nígbà tí àròkọ kan bá gba ìsanwó kan yíò wà ní ipò 50% SBD àti 5
 
 Àwọn aṣàmúlò tún ní àṣàyàn láti gba ìsanwó ní 100% SP, àti kọ ìsanwó lórí àwọn àròkọ. Nígbà tí aṣàmúlò kan bá kọ ìsanwó lórí àròkọ kan, owó tó yẹ kó jẹ́ sísan fún wọn yíò ṣẹ́kù nínú ìpèsè àwọn ẹ̀san náà, láti jẹ́ pínpín fún àwọn aṣàmúlò mìíràn.
 
-# Consensus Algorithm
+# Ìlànà Ìsọ̀kan
 
 Consensus is the process by which a community comes to a universally recognized, unambiguous agreement on piece of information. There are many algorithms society has developed for reaching consensus about who owns what. Every government on earth is a primitive consensus algorithm whereby the population agrees to abide by a certain set of rules enshrined in a constitution. Governments establish courts, judges, and juries to interpret the subjective facts and render a final decision. Most of the time people abide by the decision even if it was wrong.
 
