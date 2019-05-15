@@ -184,7 +184,7 @@ Igbese ti o tele ni lati san fun gbogbo awon aniyan ti o se ohunkohun paapaa lat
 
 ### Ìdìbò lórí Pínpín Owó
 
-Se akiyesi pe iye owo ti o wa titi lati safihan, ati pe awon ti o ni eto ti o ni igba pipe ni iye iwaju ati ise-sise ti owo naa ni awon tio gbodo pinnu bi a se le sokoto re. Olukuluku olumulo ti o nfun o fi idi won si awon ti o se ise ti o dara ju ati ni opin ojo ti owo ti o wa fun ojo naa pin ni iwon si awon idibo gegebi gbogbo awon eniyan ti o ni ani okan ninu idibo ti o wa ni ipile ti n ni nkankan.
+Gbà pé iye owó pàtó kan ló wà láti pín, àti pé àwọn tó ní òkòwò onígbà pípẹ́ kan nínú ìwúlò àti lílo ọjọ́ iwájú ti owó náà jẹ́ àwọn tó gbọ́dọ̀ pinnu bí owó náà yíò ṣe jẹ́ pínpín. Olukuluku olumulo ti o nfun o fi idi won si awon ti o se ise ti o dara ju ati ni opin ojo ti owo ti o wa fun ojo naa pin ni iwon si awon idibo gegebi gbogbo awon eniyan ti o ni ani okan ninu idibo ti o wa ni ipile ti n ni nkankan.
 
 Ilana oludibo ti o rorun ni o seda iwon Awon elewon ti N-Eniyan ti o je pe olukuluku oluluku kookna ni ipa lati dibo fun ara won laibikita fun ipinnu agbalagba nla. Ti gbogbo awon abawon idibo nipa idibo fun ara won lehinna ko ni si owo ni ipari fun pinpin ati pe owo gegebi ti gbogbo yoo kuna lati ni ipa si netiwoki. Ni apa keji, ti o ba je pe awon idibaje asoju kan nikan ni o je pe oludibo yoo gba awon ere ti ko ye fun lakoko ti o ni ipa kekere lori iye owo ti owo naa.
 
