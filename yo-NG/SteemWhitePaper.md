@@ -182,7 +182,7 @@ Láti lè fún gbogbo èèyàn ní ànfààní dídọ́gba kan láti kópa àti
 
 Igbese ti o tele ni lati san fun gbogbo awon aniyan ti o se ohunkohun paapaa latona jijin pelu ohun kan. Eyi ni aseyori nipase ogo gbogbo ise ti o se ati pin pin-an si iye re. Awon die ifigagbaga awon oja di awon nira sii (didara to gaju tabi opoiye) o di lati jojuto isan jade kaana.
 
-### Idbo lori Pinpin Owo
+### Ìdìbò lórí Pínpín Owó
 
 Se akiyesi pe iye owo ti o wa titi lati safihan, ati pe awon ti o ni eto ti o ni igba pipe ni iye iwaju ati ise-sise ti owo naa ni awon tio gbodo pinnu bi a se le sokoto re. Olukuluku olumulo ti o nfun o fi idi won si awon ti o se ise ti o dara ju ati ni opin ojo ti owo ti o wa fun ojo naa pin ni iwon si awon idibo gegebi gbogbo awon eniyan ti o ni ani okan ninu idibo ti o wa ni ipile ti n ni nkankan.
 
