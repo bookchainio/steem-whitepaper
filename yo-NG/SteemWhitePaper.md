@@ -280,7 +280,7 @@ Micropayments, like all payments, require a comparison: *“Is this much of X wo
 
 – Clay Shirky[^8]
 
-In the world of financial payments, small fees are acceptable because the value of the transaction is extremely high relative to the fee charged, and the buyer has already made a decision to buy. The world of potential blockchain applications is far greater than just financial payments and includes many necessary transactions for which fees are simply unacceptable to users.
+Nínú ayé àwọn ìsanwó pẹ̀lú owó, ìtẹ́wọ́gbà wà fún àwọn owó sísan kékèké nítorí pé iye ìdúnàádúrà náà pọ̀ gan-an ju owó tí wọ́n béèrè fún, àti pé oníbàárà náà ti pinnu láti ra. Ayé àwọn ètò blockchain tóbi ju àwọn ìsanwó pẹ̀lú owó nìkan àti pé ó ní ọ̀pọ̀lọpọ̀ àwọn ìdúnàádúrà tó pọn dandan èyí tí owó sísan kò wulẹ̀ ní ìtẹ́wọ́gbà sí àwọn aṣàmúlò.
 
 Systems like BitShares, Nxt, Ripple, Counter Party and Stellar all allow users to place limit orders on the blockchain and all of them charge users a small fee to perform this action. Later if the user wishes to cancel their order, another fee is charged. Systems like Ethereum take micropayments to a whole new level: charging per calculation. All of these systems struggle to attract new mainstream users for the same reasons that a decentralized search engine would struggle to attract users from Google if it charged a small fee for every search. It doesn’t matter how good the service is, people expect certain things to be free. This is true even if a user ends up paying more overall under a different fee structure.
 
