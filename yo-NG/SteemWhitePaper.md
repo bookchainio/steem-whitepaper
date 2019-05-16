@@ -276,7 +276,7 @@ The fundamental problem with charging transaction fees is that micropayments don
 
 Imagine if the websites we use every day charged us a fee every time we modify our accounts by changing the password. Users expect certain things to be free. Requiring users to make a decision on whether or not an action is worth a small fee creates anxiety that causes users to leave. A transaction can’t be worth so much as to require a decision but worth so little that that decision is automatic. There is a certain amount of anxiety involved in any decision to buy, no matter how small, and it derives not from the interface used or the time required, but from the very act of deciding.
 
-Micropayments, like all payments, require a comparison: *“Is this much of X worth that much of Y?”* There is a minimum mental transaction cost created by this fact that cannot be optimized away, because the only transaction a user will be willing to approve with no thought will be one that costs them nothing, which is no transaction at all.
+Àwọn ìsanwó kékèké, bíi gbogbo àwọn ìsanwó, nílò ìfiwéra kan: *"Ṣé iye X yìí níye lórí tó iye Y yẹn?"* Iye ìdúnàádúrà ọpọlọ tó kéré jù kan wà tí a ṣẹ̀dá nípasẹ̀ òtítọ́ yìí tí kò ṣeé fojú fò kọjá, nítorí ìdúnàádúrà kan ṣoṣo tí aṣàmúlò kan ma nífẹẹ láti fọwọ́sí láì ronú yíò jẹ́ èyí tí kò ná wọn ní nnkan kan, tó jẹ́ kò sí ìdúnàádúrà kankan rárá.
 
 – Clay Shirky[^8]
 
