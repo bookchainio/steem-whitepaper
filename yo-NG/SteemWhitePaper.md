@@ -184,11 +184,11 @@ Igbese ti o tele ni lati san fun gbogbo awon aniyan ti o se ohunkohun paapaa lat
 
 ### Ìdìbò lórí Pínpín Owó
 
-Gbà pé iye owó pàtó kan ló wà láti pín, àti pé àwọn tó ní òkòwò onígbà pípẹ́ kan nínú ìwúlò àti lílo ọjọ́ iwájú ti owó náà jẹ́ àwọn tó gbọ́dọ̀ pinnu bí owó náà yíò ṣe jẹ́ pínpín. Olukuluku olumulo ti o nfun o fi idi won si awon ti o se ise ti o dara ju ati ni opin ojo ti owo ti o wa fun ojo naa pin ni iwon si awon idibo gegebi gbogbo awon eniyan ti o ni ani okan ninu idibo ti o wa ni ipile ti n ni nkankan.
+Gbà pé iye owó pàtó kan ló wà láti pín, àti pé àwọn tó ní òkòwò onígbà pípẹ́ kan nínú ìwúlò àti lílo ọjọ́ iwájú ti owó náà jẹ́ àwọn tó gbọ́dọ̀ pinnu bí owó náà yíò ṣe jẹ́ pínpín. Gbogbo aṣàmúlò tó bá n dókòwò yíò di ìbò wọn fún ẹni tó bá ṣiṣẹ́ tó dára jù àti ní òpin ọjọ́ náà owó tó wà nílẹ̀ fún ọjọ́ náà ma gba pínpín ní ìpíndọ́gba sí àwọn ìbò náà débi pé gbogbo èèyàn tó bá ní ìbò rere kódà tó bá jẹ́ ẹyọkan yíò gba nnkan kan.
 
 Ilana oludibo ti o rorun ni o seda iwon Awon elewon ti N-Eniyan ti o je pe olukuluku oluluku kookna ni ipa lati dibo fun ara won laibikita fun ipinnu agbalagba nla. Ti gbogbo awon abawon idibo nipa idibo fun ara won lehinna ko ni si owo ni ipari fun pinpin ati pe owo gegebi ti gbogbo yoo kuna lati ni ipa si netiwoki. Ni apa keji, ti o ba je pe awon idibaje asoju kan nikan ni o je pe oludibo yoo gba awon ere ti ko ye fun lakoko ti o ni ipa kekere lori iye owo ti owo naa.
 
-#### Idibo Ilokulo
+#### Ìlòkulò Ìdìbò
 
 Laibikita iye owo ti olukuluku kan ti nii, opolopo awon eniyan miiran ni o ni awon iru oro kanna. Paapa eni-oro oloro ti ko ni irora ni opolopo die sii ju idajo julo ti o poju lopolopo. Pelupelu, awon ti o ni ikoko-owo nla ni agbegbe kan ni o ni awon to julo lati padanu nipa sise pinnu lati se ere eto idibo fun ara won. Yoo dabi Oludari Alakoso ti ile-ise kan ti pinnu lati da awon owo sisan pada ki o le ni apo gbogbo awon ere. Gbogbo eniyan yoo lo kuro ni ise fun awon ile-ise miiran ati ile-ise naa yoo di asan, nlo kuro ni Oludari Alakoso ju awon oloro lo.
 
